@@ -1,0 +1,123 @@
+.disclaimer-banner{
+	box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+	background-size:100% 100%;
+     background-image: linear-gradient(to right, rgba(40, 185, 229, 0.8), #33539d); 
+     background-repeat: no-repeat;
+     // margin-left: 15px;
+     // margin-right: 15px;
+     // border-radius: 10px;
+     padding: 6%;
+}
+.disclaimer{
+     background-color: #d7d4d4;
+     padding-bottom: 10px;
+     // padding-top: 20px;
+}
+// .disclaimer-page-header{
+//      padding-top: 3%;
+// }
+.home-img{
+     width:50%
+}
+.arrow-img{
+     width:30%
+}
+.disclaimer-page-breadcrumb{
+     display: flex;
+     justify-content: center;
+}
+.disclaimer-page-breadcrumb a{
+     display: inline-block;
+     padding: 0;
+     margin:0;
+     text-decoration: none;
+}
+.disclaimer-page-breadcrumb a.service-link .white-text-2{
+     margin-bottom: 0px;
+     font-size: 16px;
+     padding-top: 5%;
+}
+.disclaimer-page-breadcrumb a.home{
+     width:2%
+}
+.disclaimer-page-breadcrumb a.arrow{
+     width:2%
+}
+.disclaimer-page-breadcrumb a.service-link{
+     // width:15%;
+}
+.row-without-gutter{
+     --bs-gutter-x: 0 !important;
+     --bs-gutter-y: 0 !important;
+}
+.navbar-toggle {
+     background-color: #efefef;
+     border: 2px #767676 outset;
+     position: relative;
+     float: right;
+     padding: 9px 10px;
+     margin-right: 15px;
+     margin-top: 8px;
+     margin-bottom: 8px;
+     background-color: transparent;
+     background-image: none;
+     border: 1px solid transparent;
+     border-radius: 4px;
+ }
+ .navbar {
+     position: relative;
+     min-height: 60px;
+     margin-bottom: 20px;
+     border: 1px solid transparent;
+ }
+ .navbar-brand {
+     padding-top: 0.3125rem;
+     padding-bottom: 0.3125rem;
+     margin-right: 1rem;
+     font-size: 1.25rem;
+     text-decoration: none;
+     white-space: nowrap;
+ }
+ .below-banner{
+     margin-bottom:10px;
+     border-radius: 10px;
+     padding: 1%;
+ }
+ @media only screen and (max-width:767px){
+     .disclaimer-banner{
+          height:auto;
+          padding-bottom: 5%;
+          margin:0px 1%;
+          padding:1%;
+     }
+     .disclaimer-page-breadcrumb{
+          margin-left:0px;
+     }
+     .disclaimer-page-breadcrumb a.home, .disclaimer-page-breadcrumb a.arrow {
+          width: 10%;
+      }
+      .disclaimer-page-breadcrumb a {
+          float: none;
+      }
+ }
+ @media only screen and (max-width:1024px) and (min-width:768px){
+     .disclaimer-banner{
+          margin-left: 8px !important;
+          margin-right: 8px !important;
+     }
+     .disclaimer-page-breadcrumb{
+          margin-left:0px;
+     }
+     .disclaimer-page-breadcrumb a.home, .disclaimer-page-breadcrumb a.arrow {
+          width: 10%;
+      }
+      .disclaimer-page-breadcrumb a {
+          float: none;
+      }
+      .home-img{
+           width:35% !important
+      }
+      .arrow-img{
+           width:20% !important
+      }
+ }

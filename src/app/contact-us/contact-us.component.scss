@@ -1,0 +1,160 @@
+.contact-form{
+	border-radius: 3px;
+    box-shadow: 0px 0px 0px 9px rgb(255 255 255 / 79%);
+    background-color: rgb(255 255 255 / 79%);
+    width: 70%;
+    margin-top: -12%;
+}
+.reach-form{
+	border-radius: 3px;
+	box-shadow: 0px 0px 0px 9px rgb(255 255 255 / 79%);
+	background-color: rgb(255 255 255 / 79%);
+	width: 70%;
+	float:right;
+    margin-top: -12%;
+}
+.contact-banner{
+	font-family: "Poppins", sans-serif;
+	padding-top: 8%;
+}
+.custom-inp {
+     width: 100%;
+     height: 35px;
+     padding-left: 5px;
+     color: #fff;
+     border: 1px #fff solid;
+     background: transparent;
+ }
+ .contact-form .custom-inp, .contact-form .custom-inp-txt {
+     background-color: #fff;
+     border: none;
+     border-radius: 5px;
+     color: #000;
+ }
+ .form-group {
+     margin-bottom: 15px;
+ }
+ .contact-header{
+	height:580px ;
+	padding-top: 50px 5% 50px 5%;
+	/*padding-right: 5%;
+	padding-bottom: 50px;
+	padding-left: 5%;*/
+	box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 34%);
+	background-size:100%;
+	-webkit-background-size:100;
+  	background-image: linear-gradient(to right, rgba(25,25,22,0.8), rgba(25,25,22,0.5)),url('../../assets//img/BG.jpg');
+	 /* linear-gradient(to right, rgba(25,25,22,0.8), rgba(25,25,22,0.5)),url(img/logo2.png) no-repeat;  */
+
+  background-repeat: no-repeat,
+      no-repeat;
+  background-position: bottom right,
+      left,
+      right;
+}
+.contact-form .form-header h3{
+     font-size:24px;
+}
+#input {
+     margin-top: 5px;
+     padding: 5px;
+ }
+ .reach-form .custom-inp, .reach-form .custom-inp-txt {
+     background-color: #fff;
+ }
+ .left-icon {
+     margin-right: 20px;
+     float: left;
+     margin-top: 5px;
+ }
+ .fa-phone{
+     transform: rotate(90deg);
+ }
+ #textarea {
+     padding: 2% 2% 30% 2%;
+     resize: none;
+    //  height: 12vh;
+ }
+ .add-div {
+     grid-template-columns: auto;
+     display: grid;
+     grid-gap: 10px;
+ }
+ .custom-mt {
+     margin-top: 90px;
+ }
+ .card {
+	transition: 0.3s;
+   }
+   
+   
+.phone-icon i{
+	font-size:27px;
+	padding:5px;
+}
+.contact-card{
+	border-radius: 5px;
+	border-color: #000;
+    margin-bottom: 20px;
+}
+.contact-card hr{
+	
+	border-color: #000;
+}
+.contact-card-container{
+	flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+.contact-card-height{
+    height: 228px;
+}
+.map{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0);
+	border-radius: 10px;
+}
+.border-right-white{
+	border-right:  solid 1px #fff ;
+}
+.address-text{
+     font-size:14px;
+}
+.name-text{font-size: 18px;}
+contact-card hr {
+     border-color: #000;
+     margin:20px;
+ }
+ .reach{
+     background-color: #80808038;
+}
+.reach-out-header{
+     font-size: 36px;
+    line-height: 1.1;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.footer-custom-div {
+     flex: 0 0 20%;
+     max-width: 29%;
+ }
+
+ @media only screen and (max-width:766px){
+    .mb-5 {
+        margin-bottom: 0rem!important;
+    }
+ }
+
+.blog-header{
+    margin-top: -30%;
+    padding-top: 5%;
+    margin-left: 480px;
+}
+
+// input.ng-invalid{
+//     border-left: 5px solid red;
+
+// }
+.error{
+    margin-left: 5px;
+    color: red;
+    font-size: 12px;
+}

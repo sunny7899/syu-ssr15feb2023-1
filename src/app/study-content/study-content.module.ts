@@ -1,0 +1,26 @@
+import { NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';
+
+import { StudyContentRoutingModule } from './study-content-routing.module';
+import { StudyContentComponent } from './study-content.component';
+import { HeaderInnerModule } from '../header-inner/header-inner.module';
+import { FooterModule } from '../footer/footer.module';
+import { CarouselModule  } from 'ngx-owl-carousel-o';
+import { AccordionModule } from 'primeng/accordion';
+// import { NgxGalleryModule } from 'ngx-gallery';
+import { ChatModule } from '../chat/chat.module';
+
+@NgModule({
+  declarations: [StudyContentComponent],
+  imports: [
+    CommonModule,
+    StudyContentRoutingModule,
+    HeaderInnerModule,
+    FooterModule,
+    CarouselModule,
+    AccordionModule,
+    ChatModule
+    // NgxGalleryModule
+  ]
+})
+export class StudyContentModule { }

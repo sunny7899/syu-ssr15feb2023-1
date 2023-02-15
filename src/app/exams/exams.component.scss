@@ -1,0 +1,212 @@
+.pill-div-exam {
+    background-color: #1f3778;
+    /* border: 2px solid lightblue; */
+    color: #fff;
+    padding: 5px 14px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 22px;
+    font-size: 9px;
+    font-weight: 900;
+}
+
+.list-text {
+    background: url('../../assets/img/Course_Icons/Explore_By_Category/Bullet-pt.png') no-repeat left;
+    padding: 3px;
+    list-style: none;
+    margin: 0px;
+    background-size: 7%;
+    padding-left: 12%;
+    margin-left: 5%;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: -15px;
+}
+
+.scroll {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 218px;
+}
+
+.orange-text {
+    color: orangered;
+    font-size: 20px;
+    border-right: 1px solid #fff;
+    padding: 0px;
+    margin-top: 10px;
+    line-height: 30px;
+    font-weight: 900;
+}
+
+.exam-title {
+    font-size: 18px;
+    padding: 5px;
+    margin-top: 8px;
+    color: #fff;
+    text-align: left;
+}
+
+.timeline {
+    height: 15vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: block;
+    width: 40%;
+}
+
+.timeline::-webkit-scrollbar {
+    width: 4px;
+    background-color: #fff;
+}
+
+.timeline::-webkit-scrollbar-thumb {
+    background: orangered;
+    border-radius: 5px;
+    width: 5px;
+}
+
+.ornage-btn {
+    background-color: #ff7500;
+    color: #fff !important;
+    border-radius: 20px;
+    padding: 3px 15px;
+    margin-top: 14px;
+}
+
+form.exam-page-form {
+    width: 50%
+}
+
+form.exam-page-form input[type=text] {
+    padding: 5px;
+    font-size: 17px;
+    border: 1px solid transparent;
+    float: left;
+    width: 92%;
+    background: #f1f1f1;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+form.exam-page-form button {
+    float: left;
+    width: 8%;
+    padding: 5px;
+    background: #1c4dc3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid transparent;
+    border-left: none;
+    cursor: pointer;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.fa-phone-square {
+    transform: rotate(90deg);
+}
+
+.pill-div-exam {
+    background-color: #1f3778;
+    /* border: 2px solid lightblue; */
+    color: #fff;
+    padding: 5px 14px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 22px;
+    font-size: 8px;
+    font-weight: 900;
+    white-space: nowrap;
+}
+
+.flex-div {
+    display: flex;
+    justify-content: flex-end
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.icon-clr {
+    filter: brightness(0) invert(1);
+}
+
+.img-bottom {
+    margin-bottom: 15px;
+}
+
+.h2-margin {
+    margin-bottom: 8px;
+}
+
+.img-margin {
+    margin-bottom: 8px;
+}
+
+@media only screen and (max-width:991px) and (min-width:767px) {
+    .card {
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .pill-div-exam {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        // height: 23px;
+    }
+    .flex-div {
+        display: flex;
+        justify-content: flex-end;
+        // align-items: center;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .pill-div-exam {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 23px;
+    }
+    .flex-div {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width:1199px) and (min-width:992px) {
+    .pill-div-exam {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        // height: 23px;
+        padding: 0px 4px;
+        height: 27px;
+    }
+    .flex-div {
+        display: flex;
+        justify-content: flex-end;
+        // align-items: center;
+    }
+}
+
+@media only screen and (min-width:992px) {
+    .contact-card {
+        margin: 0 -15px;
+    }
+}

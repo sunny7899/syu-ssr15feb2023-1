@@ -1,0 +1,587 @@
+<section class="blog-content">
+  <div class="blog-content-banner">
+    <div class="col-lg-12">
+      <div class="blog-content-page-header text-center">
+        <h1 class="white-text-2" >{{h1Title | titlecase}}</h1>
+      </div>
+    </div>
+    <div class="col-lg-12">
+      <div class="blog-content-page-breadcrumb text-center">
+        <a href="" routerLink="/home" class="home">
+          <img
+            src="../../assets/img/services_page/Our_Services/Home.png"
+            alt=""
+            class="home-img"
+          />
+        </a>
+        <a href="" class="arrow">
+          <img
+            src="../../assets/img/services_page/Our_Services/Arrow.png"
+            alt=""
+            class="arrow-img"
+          />
+        </a>
+        <a href="" routerLink="/blog" class="service-link">
+          <h5 class="white-text-2 blog-title">Blog</h5>
+        </a>
+        <a href="" class="arrow">
+          <img
+            src="../../assets/img/services_page/Our_Services/Arrow.png"
+            alt=""
+            class="arrow-img"
+          />
+        </a>
+        <a href="" routerLink="" class="service-link">
+          <h5 class="white-text-2">{{newsData.title | titlecase}}</h5>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-12">
+    <div class="blog-content-div">
+      <div class="row row-without-gutter">
+        <div class="col-lg-8 col-12">
+          <div class="blog-img">
+            <div class="row">
+              <img
+                src={{newsData.blogimg}}
+                alt=""
+              />
+            </div>
+          </div>
+          <div class="blog-details">
+            <div class="row row-without-gutter">
+              <div class="col-lg-3 col-8 col-sm-6">
+                <div class="flex-holder blog-info">
+                  <img
+                    src="../../assets/img/Blog_Content_Icons/7.Bhavesh/Posted-by.png"
+                    alt=""
+                    width="20"
+                  />
+                  <p class="mb-0">Bhavesh Nimodiya</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-4 col-sm-6" style="cursor: pointer;" (click)="routerParentPage(newsData.Categories)">
+                <div class="flex-holder blog-info"  id="medical">
+                  <img
+                    src="../../assets/img/Blog_Content_Icons/8.Medical/Medical.png"
+                    alt=""
+                    width="20"
+                  />
+                  <p class="mb-0">{{newsData.Categories.replaceAll('-', ' ')| titlecase}}</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-8 col-sm-6">
+                <div class="flex-holder blog-info">
+                  <img
+                    src="../../assets/img/Blog_Content_Icons/9.Min_Read/Timer.png"
+                    alt=""
+                    width="20"
+                  />
+                  <p class="mb-0">6 Minute Read</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-4 col-sm-6" id="medical">
+                <div class="flex-holder">
+                  <img
+                    src="../../assets/img/Blog_Content_Icons/10.Share/Share.png"
+                    alt=""
+                    width="20"
+                  />
+                  <p class="mb-0"  (click)="showBasicDialog()">Share</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="blog-text">
+            <div class="row row-without-gutter">
+              <div class="content">
+                <div
+                  class="row row-without-gutter relative-row"
+                  *ngFor="let item of newsData.data"
+                >
+                  <!-- {{item.title}} -->
+                  <div *ngIf="item.type == 'text'">
+                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <div
+                      class="tab-text"
+                      [ngClass]="{ limitTextHeight: isReadMore }"
+                    >
+                      <p [innerHTML]="item.data"></p>
+                    </div>
+
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                    <div
+                      class="row text-center p-relative"
+                      *ngIf="item.seeMoreBtn"
+                    >
+                      <button
+                        type="button"
+                        (click)="showText()"
+                        class="read-more-btn btn"
+                      >
+                        {{ isReadMore ? "See More" : "See Less" }}
+                      </button>
+                    </div>-->
+                  </div>
+
+                  <div
+                    class="row row-without-gutter"
+                    *ngIf="item.type === 'faq-list'"
+                  >
+                    <p-accordion
+                      [multiple]="false"
+                      id="faq-collapse"
+                      expandIcon="pi pi-plus"
+                      collapseIcon="pi pi-minus"
+                    >
+                      <div class="col-lg-12 text-center">
+                        <h2 class="light-blue-text">{{ item.title }}</h2>
+                      </div>
+                      <p *ngFor="let qna of item.data">
+                        <p-accordionTab
+                          header="{{ qna.ques }}"
+                          [selected]="false"
+                          class="accordionTab"
+                        >
+                          <p>{{ qna.ans }}</p>
+                        </p-accordionTab>
+                      </p>
+                    </p-accordion>
+                  </div>
+                  <div id="quick" #quick></div>
+
+                  <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2  class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <table
+                      class="table text-center table-hover table-responsive w-100 d-md-table"
+                      id="quick-table"
+                    >
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let TableItems of item.col" [innerHTML]="Tableitem[TableItems]">
+                            <!-- {{ Tableitem[TableItems] }} -->
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div
+                    class="container-fluid"
+                    *ngIf="item.type == 'nested-table'"
+                  >
+                    <h2  class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <table
+                      cellspacing="0"
+                      cellpadding="0"
+                      class="table text-center table-hover table-responsive w-100 d-md-table"
+                    >
+                      <tr>
+                        <th rowspan="2">State</th>
+                        <th colspan="2">Fit under Section 12(B)?</th>
+                        <th rowspan="2">Total Universities</th>
+                      </tr>
+                      <tr>
+                        <th>Yes</th>
+                        <th>No</th>
+                      </tr>
+                      <tr *ngFor="let tdata of item.Data">
+                        <td>{{ tdata.state }}</td>
+                        <td>{{ tdata.yes }}</td>
+                        <td>{{ tdata.no }}</td>
+                        <td>{{ tdata.total }}</td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2  class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
+                      </div>
+                    </div>
+                    <table
+                      class="table text-center table-hover table-responsive w-100 d-md-table"
+                      id="quick-table" 
+                    >
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            <p [innerHTML]="Tableitems"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2  class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <ul class="cust-padding">
+                      <li *ngFor="let Listitem of item.data"><p [innerHTML]="Listitem"></p></li>
+                    </ul>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2  class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+
+                    <ol style="margin-bottom: 0px" type="1">
+                      <li *ngFor="let numbetList of item.data">
+                        <a>
+                          <p [innerHTML]="numbetList"></p>
+                        </a>
+                      </li>
+                    </ol>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2  class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+
+                    <ol
+                      style="margin-bottom: 0px"
+                      type="1"
+                      *ngFor="let numbetList of item.data"
+                    >
+                    <a>
+                      <p [innerHTML]="numbetList"></p>
+                    </a>
+                    </ol>
+                  </div>
+                  <div *ngIf="item.type == 'img'">
+                    <img
+                      [src]="item.data"
+                      alt=""
+                      class="review-img custome-img"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-12 sectionMobHide">
+          <!-- <div class="row row-without-gutter">
+            <div class="search">
+              <form class="blog-form" action="">
+                <input
+                  type="text"
+                  placeholder="Search Keyword"
+                  name="email"
+                  class="blog-search-text-box"
+                />
+                <button type="submit" class="blog-search-btn">
+                  <img
+                    src="../../assets/img/Blog_Content_Icons/3.Search/Search.png"
+                    width="20"
+                  />
+                </button>
+              </form>
+            </div>
+          </div> -->
+          <div class="row row-without-gutter">
+            <div class="card latest-post-card mt-2">
+              <div class="card-header">
+                <h4>Latest Post</h4>
+              </div>
+              <div class="card-body">
+                <div class="row cust-spacing" *ngFor="let item of latestBlog" >
+                  <div class="col-lg-6 col-sm-6 service-card-text" [routerLink]="['/news/'+item.url]">
+                    <img
+                      src={{item.blogimg}}
+                      alt=""
+                      class="latest-blog-img"
+                    />
+                  </div>
+                  <div class="col-lg-6 col-sm-6 service-card-text" [routerLink]="['/news/'+item.url]">
+                    <h5 class="latest-blog-title">
+                      {{item.title}}
+                    </h5>
+                    <div class="flex-holder">
+                      <img
+                        src="../../assets/img/Blog_Content_Icons/4.Latest Post/Timer.png"
+                        alt=""
+                        width="20"
+                      />
+                      <p class="mb-0">5 Minute Read</p>
+                    </div>
+                  </div>
+                </div>
+<!-- 
+                <div class="row cust-spacing">
+                  <div class="col-lg-6 col-sm-6">
+                    <img
+                      src="../../assets/img/Blog_Main_Icons/l.png"
+                      alt=""
+                      class="latest-blog-img"
+                    />
+                  </div>
+                  <div class="col-lg-6 col-sm-6">
+                    <h5 class="latest-blog-title">
+                      CLAT 2022 Provisional Merit List I Will Be Released
+                      Tomorrow
+                    </h5>
+                    <div class="flex-holder">
+                      <img
+                        src="../../assets/img/Blog_Content_Icons/4.Latest Post/Timer.png"
+                        alt=""
+                        width="20"
+                      />
+                      <p class="mb-0">7 Minute Read</p>
+                    </div>
+                  </div>
+                </div> -->
+
+                <!-- <div class="row cust-spacing">
+                  <div class="col-lg-6 col-sm-6">
+                    <img
+                      src="../../assets/img/Blog_Main_Icons/j.png"
+                      alt=""
+                      class="latest-blog-img"
+                    />
+                  </div>
+                  <div class="col-lg-6 col-sm-6">
+                    <h5 class="latest-blog-title">
+                      HPBOSE 10th Result 2022 Released: 87.5% Students Passed,
+                    </h5>
+                    <div class="flex-holder">
+                      <img
+                        src="../../assets/img/Blog_Content_Icons/4.Latest Post/Timer.png"
+                        alt=""
+                        width="20"
+                      />
+                      <p class="mb-0">5 Minute Read</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="row cust-spacing">
+                  <div class="col-lg-6 col-sm-6">
+                    <img
+                      src="../../assets/img/Blog_Main_Icons/l.png"
+                      alt=""
+                      class="latest-blog-img"
+                    />
+                  </div>
+                  <div class="col-lg-6 col-sm-6">
+                    <h5 class="latest-blog-title">
+                      CLAT 2022 Provisional Merit List I Will Be Released
+                      Tomorrow
+                    </h5>
+                    <div class="flex-holder">
+                      <img
+                        src="../../assets/img/Blog_Content_Icons/4.Latest Post/Timer.png"
+                        alt=""
+                        width="20"
+                      />
+                      <p class="mb-0">7 Minute Read</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="row cust-spacing">
+                  <div class="col-lg-6 col-sm-6">
+                    <img
+                      src="../../assets/img/Blog_Main_Icons/j.png"
+                      alt=""
+                      class="latest-blog-img"
+                    />
+                  </div>
+                  <div class="col-lg-6 col-sm-6">
+                    <h5 class="latest-blog-title">
+                      HPBOSE 10th Result 2022 Released: 87.5% Students Passed,
+                    </h5>
+                    <div class="flex-holder">
+                      <img
+                        src="../../assets/img/Blog_Content_Icons/4.Latest Post/Timer.png"
+                        alt=""
+                        width="20"
+                      />
+                      <p class="mb-0">5 Minute Read</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="row cust-spacing">
+                  <div class="col-lg-6 col-sm-6">
+                    <img
+                      src="../../assets/img/Blog_Main_Icons/l.png"
+                      alt=""
+                      class="latest-blog-img"
+                    />
+                  </div>
+                  <div class="col-lg-6 col-sm-6">
+                    <h5 class="latest-blog-title">
+                      CLAT 2022 Provisional Merit List I Will Be Released
+                      Tomorrow
+                    </h5>
+                    <div class="flex-holder">
+                      <img
+                        src="../../assets/img/Blog_Content_Icons/4.Latest Post/Timer.png"
+                        alt=""
+                        width="20"
+                      />
+                      <p class="mb-0">7 Minute Read</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="row cust-spacing">
+                  <div class="col-lg-6 col-sm-6">
+                    <img
+                      src="../../assets/img/Blog_Main_Icons/j.png"
+                      alt=""
+                      class="latest-blog-img"
+                    />
+                  </div>
+                  <div class="col-lg-6 col-sm-6">
+                    <h5 class="latest-blog-title">
+                      HPBOSE 10th Result 2022 Released: 87.5% Students Passed,
+                    </h5>
+                    <div class="flex-holder">
+                      <img
+                        src="../../assets/img/Blog_Content_Icons/4.Latest Post/Timer.png"
+                        alt=""
+                        width="20"
+                      />
+                      <p class="mb-0">5 Minute Read</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="row cust-spacing">
+                  <div class="col-lg-6 col-sm-6">
+                    <img
+                      src="../../assets/img/Blog_Main_Icons/l.png"
+                      alt=""
+                      class="latest-blog-img"
+                    />
+                  </div>
+                  <div class="col-lg-6 col-sm-6">
+                    <h5 class="latest-blog-title">
+                      CLAT 2022 Provisional Merit List I Will Be Released
+                      Tomorrow
+                    </h5>
+                    <div class="flex-holder">
+                      <img
+                        src="../../assets/img/Blog_Content_Icons/4.Latest Post/Timer.png"
+                        alt=""
+                        width="20"
+                      />
+                      <p class="mb-0">7 Minute Read</p>
+                    </div>
+                  </div>
+                </div> -->
+              </div>
+            </div>
+          </div>
+          <div class="row row-without-gutter">
+            <div class="card category-card mt-4">
+              <div class="card-header">
+                <h4>Categories</h4>
+              </div>
+              <div class="card-body">
+                <div
+                  class="row border-bottom mb-2 pb-2"
+                  *ngFor="let cat of data"
+                >
+                  <div class="col-lg-6 service-card-text" [routerLink]="['/news/category/' + cat[0].Categories ]">
+                    <div class="flex-holder">
+                      <img
+                        src="../../assets/img/Blog_Content_Icons/5.Category/Dropdown.png"
+                        alt=""
+                        width="10"
+                      />
+                      <p>{{ cat[0].Categories.replaceAll('-', ' ') | titlecase  }}</p>
+                    </div>
+                  </div>
+                  <div class="col-lg-6 text-right">
+                    <h6 class="mb-0">{{ cat.length }}</h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row row-without-gutter">
+            <div class="card follow-us-card mt-4">
+              <div class="card-header">
+                <h4>Follow Us</h4>
+              </div>
+              <div class="card-body">
+                <div class="row">
+                  <div class="col-lg-2 col-2 border-right text-center">
+                    <a href="https://www.instagram.com/selectyouruniversity/" target="_blank"><img
+                      class="social-img"
+                      src="../../assets/img/Blog_Content_Icons/6.Follow Us/Instagram.png"
+                      alt=""
+                      width="40"
+                    /></a>
+                  </div>
+                  <div class="col-lg-2 col-2 border-right text-center">
+                    <a href="https://youtube.com/c/SelectYourUniversity" target="_blank"><img
+                      class="social-img"
+                      src="../../assets/img/Blog_Content_Icons/6.Follow Us/You-Tube.png"
+                      alt=""
+                      width="40"
+                    /></a>
+                  </div>
+                  <div class="col-lg-2 col-2 border-right text-center">
+                    <a href="https://api.whatsapp.com/send?phone=+919555120101%20&text=I%20want%20to%20apply%20for%20the%20current%20intake%20of%20UG/PG%20courses%20in%20India%20or%20Abroad" target="_blank"><img
+                      class="social-img"
+                      src="../../assets/img/Blog_Content_Icons/6.Follow Us/Whatsapp.png"
+                      alt=""
+                      width="40"
+                    /></a>
+                  </div>
+                  <div class="col-lg-2 col-2 border-right text-center">
+                    <a href="https://www.facebook.com/SelectyouruniversityIndia/" target="_blank"><img
+                      class="social-img"
+                      src="../../assets/img/Blog_Content_Icons/6.Follow Us/Facebook.png"
+                      alt=""
+                      width="40"
+                    /></a>
+                  </div>
+                  <div class="col-lg-2 col-2 border-right text-center">
+                    <a href="https://in.pinterest.com/selectyouruniversity/" target="_blank"><img
+                      class="social-img"
+                      src="../../assets/img/Blog_Content_Icons/6.Follow Us/Pinterest.png"
+                      alt=""
+                      width="40"
+                    /></a>
+                  </div>
+                  <div class="col-lg-2 col-2 text-center">
+                    <a href="https://t.me/selectyouruniversity1" target="_blank"><img
+                      class="social-img"
+                      src="../../assets/img/Blog_Content_Icons/6.Follow Us/Telegram.png"
+                      alt=""
+                      width="40"
+                    /></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<app-chat></app-chat>
+<app-footer></app-footer>

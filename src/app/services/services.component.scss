@@ -1,0 +1,235 @@
+.services-banner{
+     height:30vh ;
+	box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+	background-size:100% 100%;
+     // background-image:  url('../../assets/img/services_page/Our_Services/headerImage.png') ; 
+     background-repeat: no-repeat;
+     box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+	background-size:100% 100%;
+     background-image: linear-gradient(to right, rgba(40, 185, 229, 0.8), #33539d); 
+     background-repeat: no-repeat;
+}
+.services{
+     background-color: #d7d4d4;
+     padding-bottom: 10px;
+     // padding-top: 20px;
+}
+.service-page-header{
+     padding-top: 5%;
+}
+.home-img{
+     width:50%
+}
+.arrow-img{
+     width:20%
+}
+.service-page-breadcrumb{
+     display: flex;
+     justify-content: center;
+}
+.service-page-breadcrumb a.service-link{
+     padding-left:5px;
+}
+.service-page-breadcrumb a{
+     display: inline-block;
+     padding: 0;
+     
+     margin:0;
+     text-decoration: none;
+}
+.service-page-breadcrumb a.home{
+     width:2%;
+     padding-top:0px;
+}
+.service-page-breadcrumb a.arrow{
+     width:2%;
+     padding-top:1px;
+}
+.service-page-breadcrumb a.service-link{
+     // width:15%;
+}
+.service-page-breadcrumb a.service-link .white-text-2{
+     margin-bottom: 0px;
+     font-size: 16px;
+     padding-top: 5%;
+}
+.free-counselling{
+     height:40vh ;
+	box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+	background-size:100% 100%;
+     background-image:  url('../../assets/img/services_page/Images/Free-Counselling.png') ; 
+     background-repeat: no-repeat;
+     margin-top:10px;
+     margin-left: 15px;
+     margin-right: 15px;
+}
+.row-without-gutter{
+     --bs-gutter-x: 0 !important;
+     --bs-gutter-y: 0 !important;
+}
+.free-counselling-text,
+.admission-process-text,
+.documentation-text,
+.visa-text,
+.loan-text{
+     padding-top: 8%;
+     padding:3%;
+}
+.admission-process{
+     height:40vh ;
+	/*box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%); */
+	background-size:100% 100%;
+     background-image:  url('../../assets/img/services_page/Images/Addmission-Process.png') ; 
+     background-repeat: no-repeat;
+     margin-top:5px;
+     margin-left: 10px;
+     // margin-right: 15px;
+}
+.documentation{
+     height:40vh ;
+	box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+	background-size:100% 100%;
+     background-image:  url('../../assets/img/services_page/Images/Documentation-Assistance.png') ; 
+     background-repeat: no-repeat;
+     margin:0px 18px 0px 18px;
+}
+.visa{
+     height:40vh ;
+	box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+	background-size:100% 100%;
+     background-image:  url('../../assets/img/services_page/Images/Student-Visa-Guidence.png') ; 
+     background-repeat: no-repeat;
+     margin-top:5px;
+     margin-left: 10px;
+}
+.loan{
+     height:40vh ;
+	box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+	background-size:100% 100%;
+     background-image:  url('../../assets/img/services_page/Images/Education-Loan.png') ; 
+     background-repeat: no-repeat;
+     margin:0px 18px 0px 18px;
+}
+.enquiry-div{
+     background-image: linear-gradient(to right, rgba(40, 185, 229, 0.8), #33539d);
+    padding: 20px;
+    margin-top:5px;
+     margin-left: 10px;
+    box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+}
+.btn-orange{
+     background-color: #ff8d00;
+     color: #fff;
+     padding: 5px 30px;
+     margin-top: 8%;
+}
+.orange-text-2{
+     color:#ff8d00;
+     font-size: 46px;
+}
+.get-opp{
+     font-size: 38px;
+}
+.navbar-toggle {
+     background-color: #efefef;
+     border: 2px #767676 outset;
+     position: relative;
+     float: right;
+     padding: 9px 10px;
+     margin-right: 15px;
+     margin-top: 8px;
+     margin-bottom: 8px;
+     background-color: transparent;
+     background-image: none;
+     border: 1px solid transparent;
+     border-radius: 4px;
+ }
+ .navbar {
+     position: relative;
+     min-height: 60px;
+     margin-bottom: 20px;
+     border: 1px solid transparent;
+ }
+ .navbar-brand {
+     padding-top: 0.3125rem;
+     padding-bottom: 0.3125rem;
+     margin-right: 1rem;
+     font-size: 1.25rem;
+     text-decoration: none;
+     white-space: nowrap;
+ }
+@media only screen and (max-width:767px) {
+     .free-counselling,
+     .admission-process,
+     .documentation,
+     .visa,
+     .loan{
+          height:auto !important;
+          padding:3%;
+          margin-right:15px;
+          background-size: auto 100%;
+     }
+     .free-counselling-text,
+     .admission-process-text,
+     .documentation-text,
+     .visa-text,
+     .loan-text{
+          width:100%;
+     }
+     .enquiry-div{
+          margin-right:15px;
+     }
+     .orange-text-2{
+          font-size: 38px;
+     }
+     .get-opp{
+          font-size: 32px;
+     }
+     .navbar-brand img {
+          width: 40% !important;
+      }
+      .service-page-breadcrumb {
+          margin-left:0px;
+      }
+      .service-page-breadcrumb a.home,
+      .service-page-breadcrumb a.arrow{
+          width:8%;
+          margin-top: 0px;
+      }
+      .service-page-breadcrumb a{
+          float:none
+      }
+      .service-page-breadcrumb a.service-link {
+          width: 30%;
+      }
+      .services-banner{
+           height:auto;
+           padding-bottom: 5%;
+      }
+      .arrow-img{
+          width: 18%;
+          margin-top: 0px;
+     }
+     .home-img{
+          width:50%;
+     }
+}
+@media only screen and (max-width:1024px) and (min-width:768px) {
+     .service-page-breadcrumb {
+          margin-left:0px;
+      }
+      .service-page-breadcrumb a.home,
+      .service-page-breadcrumb a.arrow{
+          width: 8%;
+      }
+      .service-page-breadcrumb a{
+          float:none
+      }
+      .service-page-breadcrumb a.service-link {
+          width: 18%;
+      }
+      .services-banner{
+           height:auto;
+           padding-bottom: 5%;
+      }
+}

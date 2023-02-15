@@ -1,0 +1,988 @@
+<section class="course-content">
+    <div class="course-content-banner">
+        <div class="row">
+            <div class="col-lg-12" *ngIf="isActive('info')">
+                <div class="course-content-page-header text-center">
+                    <h1 class="white-text-2" [innerHtml]="h1Title"></h1>
+                </div>
+            </div>
+            <div  class="col-lg-12" *ngIf="isActive('top-colleges')">
+              <div *ngFor="let item of collegeData.topcolleges" class="course-content-page-header text-center" id="titles">
+                <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
+                <h1 *ngIf="item.type == 'meta-title'"  class="white-text-2" id="title">
+                  {{ item.title }}
+                </h1>
+          
+              </div>
+            </div>
+            <div  class="col-lg-12" *ngIf="isActive('syllabus')">
+              <div *ngFor="let item of collegeData.syllabus" class="course-content-page-header text-center" id="titles">
+                <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
+                <h1 *ngIf="item.type == 'meta-title'"  class="white-text-2" id="title">
+                  {{ item.title }}
+                </h1>
+          
+              </div>
+            </div>
+            <div  class="col-lg-12" *ngIf="isActive('career-options')">
+              <div *ngFor="let item of collegeData.careeroptions" class="course-content-page-header text-center" id="titles">
+                <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
+                <h1 *ngIf="item.type == 'meta-title'"  class="white-text-2" id="title">
+                  {{ item.title }}
+                </h1>
+          
+              </div>
+            </div>
+            <div  class="col-lg-12" *ngIf="isActive('faq')">
+              <div *ngFor="let item of collegeData.faq" class="course-content-page-header text-center" id="titles">
+                <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
+                <h1 *ngIf="item.type == 'meta-title'"  class="white-text-2" id="title">
+                  {{ item.title }}
+                </h1>
+          
+              </div>
+            </div>
+            <div class="col-lg-12">
+                <div class="flex-hold">
+                    <img src="../../assets/img/Course_Content_Icons/2.MBA_Project_Management/Duration.png" alt="" width="30" />
+                    <h5 class="orange-text mb-0">Duration:{{" "+ collegeData.Duration}}</h5>
+                </div>
+            </div>
+            <div class="col-lg-12">
+                <div class="flex-hold">
+                    <button class="btn btn-orange-nav white-text-2 btn-lg">
+          Apply Now
+          <img
+            alt=""
+            src="../../assets/img/Course_Content_Icons/2.MBA_Project_Management/Apply-Now.png"
+            width="30"
+          />
+        </button>
+                    <button class="btn white-text-2 btn-white-nav">
+          Check Eligibility<img
+            alt=""
+            src="../../assets/img/Course_Content_Icons/2.MBA_Project_Management/Check-Eligibility.png"
+            width="30"
+          />
+        </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12">
+        <div class="course-content-div">
+            <div class="row row-without-gutter">
+                <nav class="navbar navbar-expand-lg navbar-light full-width-tabs" #stickyNav [class.stickyNav]="stickyNav">
+                    <div class="collapse navbar-collapse bg-white" id="navbar">
+                        <ul class="nav nav-tabs nav-tabs-ul">
+                            <li class="nav-item">
+                                <a class="active" [ngClass]="{ 'nav-link': true, active: isActive('info') }" (click)="makeActive('info')">Info</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  [ngClass]="{ 'nav-link': true, active: isActive('top-colleges') }"
+                  (click)="makeActive('top-colleges')"
+                  >Top Colleges</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  [ngClass]="{
+                    'nav-link': true,
+                    active: isActive('syllabus')
+                  }"
+                  (click)="makeActive('syllabus')"
+                  >Syllabus</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  [ngClass]="{ 'nav-link': true, active: isActive('career-options') }"
+                  (click)="makeActive('career-options')"
+                  >Career Options</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  [ngClass]="{ 'nav-link': true, active: isActive('faq') }"
+                  (click)="makeActive('faq')"
+                  >FAQ</a
+                >
+              </li> 
+            </ul>
+          </div>
+        </nav>
+
+        <div class="col-lg-9 col-12">
+          <div id="college-content-tab">
+            <div class="tabcontent">
+              <div *ngIf="isActive('info')">
+                <div
+                  class="row row-without-gutter relative-row"
+                  *ngFor="let item of collegeData.info"
+                >
+                  <!-- {{item.title}} -->
+                  <div class="col-12" *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div
+                      class="tab-text"
+                      [ngClass]="{ limitTextHeight: isReadMore }"
+                    >
+                      <p [innerHTML]="item.data"></p>
+                    </div>
+
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                    <div
+                      class="row text-center p-relative"
+                      *ngIf="item.seeMoreBtn"
+                    >
+                      <button
+                        type="button"
+                        (click)="showText()"
+                        class="read-more-btn btn"
+                      >
+                        {{ isReadMore ? "See More" : "See Less" }}
+                      </button>
+                    </div>-->
+                  </div>
+
+                  <div
+                    class="row row-without-gutter"
+                    *ngIf="item.type === 'faq-list'"
+                  >
+                    <p-accordion
+                      [multiple]="false"
+                      id="faq-collapse"
+                      expandIcon="pi pi-plus"
+                      collapseIcon="pi pi-minus"
+                    >
+                      <div class="col-lg-12 text-center">
+                        <h2 class="light-blue-text">{{ item.title }}</h2>
+                      </div>
+                      <p *ngFor="let qna of item.data">
+                        <p-accordionTab
+                          header="{{ qna.ques }}"
+                          [selected]="false"
+                          class="accordionTab"
+                        >
+                          <p>{{ qna.ans }}</p>
+                          <ul class="cust-padding">
+                            <li *ngFor="let checklists of qna.checklist" checklist >{{ checklists }}</li>
+                          </ul>
+                        </p-accordionTab>
+                      </p>
+                    </p-accordion>
+                  </div>
+                  <div id="quick" #quick></div>
+                  <div  class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table
+                      class="table text-center table-hover table-responsive w-100 d-md-table"
+                      id="quick-table"
+                    >
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let TableItems of item.col">
+                            <p [innerHTML]="Tableitem[TableItems]"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2  class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
+                      </div>
+                    </div>
+                    <table
+                      class="table text-center table-hover table-responsive w-100 d-md-table"
+                      id="quick-table" 
+                    >
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            <p [innerHTML]="Tableitems"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
+                      <li *ngFor="let Listitem of item.data"><p [innerHTML]="Listitem"></p></li>
+                    </ul>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1">
+                      <li *ngFor="let numbetList of item.data">
+                        <p [innerHTML]="numbetList"></p>
+                      </li>
+                    </ol>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol
+                      style="margin-bottom: 0px"
+                      type="1"
+                      *ngFor="let numbetList of item.data"
+                    >
+                    <p [innerHTML]="numbetList"></p>
+                    </ol>
+                  </div>
+                  <div *ngIf="item.type == 'img'">
+                    <img
+                      [src]="item.data"
+                      alt=""
+                      class="review-img custome-img"
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <div *ngIf="isActive('top-colleges')">
+                <div
+                  class="row row-without-gutter relative-row"
+                  *ngFor="let item of collegeData?.topcolleges"
+                >
+                  <div class="col-12" *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div
+                      class="tab-text"
+                      [ngClass]="{ limitTextHeight: isReadMore }"
+                    >
+                      <p [innerHTML]="item.data"></p>
+                    </div>
+
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                    <div
+                      class="row text-center p-relative"
+                      *ngIf="item.seeMoreBtn"
+                    >
+                      <button
+                        type="button"
+                        (click)="showText()"
+                        class="read-more-btn btn"
+                      >
+                        {{ isReadMore ? "See More" : "See Less" }}
+                      </button>
+                    </div>-->
+                  </div>
+
+                  <div
+                    class="row row-without-gutter"
+                    *ngIf="item.type === 'faq-list'"
+                  >
+                    <p-accordion
+                      [multiple]="false"
+                      id="faq-collapse"
+                      expandIcon="pi pi-plus"
+                      collapseIcon="pi pi-minus"
+                    >
+                      <div class="col-lg-12 text-center">
+                        <h2 class="light-blue-text">{{ item.title }}</h2>
+                      </div>
+                      <p *ngFor="let qna of item.data">
+                        <p-accordionTab
+                          header="{{ qna.ques }}"
+                          [selected]="false"
+                          class="accordionTab"
+                        >
+                          <p>{{ qna.ans }}</p>
+                        </p-accordionTab>
+                      </p>
+                    </p-accordion>
+                  </div>
+                  <div id="quick" #quick></div>
+                  <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table
+                      class="table text-center table-hover table-responsive w-100 d-md-table"
+                      id="quick-table"
+                    >
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let TableItems of item.col">
+                            <p [innerHTML]="Tableitem[TableItems]"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2  class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
+                      </div>
+                    </div>
+                    <table
+                      class="table text-center table-hover table-responsive w-100 d-md-table"
+                      id="quick-table" 
+                    >
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            <p [innerHTML]="Tableitems"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
+                      <li *ngFor="let Listitem of item.data"><p [innerHTML]="Listitem"></p></li>
+                    </ul>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1">
+                      <li *ngFor="let numbetList of item.data">
+                        <p [innerHTML]="numbetList"></p>
+                      </li>
+                    </ol>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol
+                      style="margin-bottom: 0px"
+                      type="1"
+                      *ngFor="let numbetList of item.data"
+                    >
+                      <a>{{ numbetList }}</a>
+                                </ol>
+                    </div>
+                    <div class="col-12" *ngIf="item.type == 'img'">
+                        <img [src]="item.data" alt="" class="review-img custome-img" />
+                    </div>
+                    <div id="quick" #quick></div>
+                    <div *ngIf="item.type == 'api-table'">
+                        <table *ngFor="let data of CoursesFees; let i = index" class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                            <h2 [innerHTML]="CoursesFees[i][0]?.cCourse" style="display: flex"></h2>
+                            <tr>
+                                <th>Course Name</th>
+                                <th>Duration</th>
+                                <th>Annual Fees</th>
+                                <th>Program Type</th>
+                                <th>Seat Intake</th>
+                                <th>Action</th>
+                            </tr>
+                            <tr *ngFor="let item of data">
+                                <td>{{ item.cSpecialzation }}</td>
+                                <td>{{ item.cDuration }}</td>
+                                <td>{{ item.cFees }}</td>
+                                <td>{{ item.cCourse }}</td>
+                                <td>{{ item.cProgrammeType }}</td>
+                                <td>
+                                    <button class="btn btn-orange white-text-2 btn-lg">
+                            Apply Now
+                          </button>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+            </div>
+        </div>
+
+        <div *ngIf="isActive('syllabus')">
+            <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.syllabus">
+                <!-- {{item.title}} -->
+
+                <div id="quick" #quick></div>
+
+                <div *ngIf="item.type == 'api-table' && item.useOf == 'Event'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                        <thead>
+                            <tr>
+                                <th *ngFor="let TableItems of item.col">
+                                    {{ TableItems }}
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let Tableitem of eventaddmission">
+                                <td *ngFor="let TableItems of item.col">
+                                    {{ Tableitem[TableItems] }}
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div *ngIf="item.type == 'api-table' && item.useOf == 'Course'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                        <thead>
+                            <tr>
+                                <th *ngFor="let TableItems of item.col">
+                                    {{ TableItems }}
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let Tableitem of courseaddmission">
+                                <td *ngFor="let TableItems of item.col">
+                                    {{ Tableitem[TableItems] }}
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="col-12" *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                        <p [innerHTML]="item.data"></p>
+                    </div>
+
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                    <div
+                      class="row text-center p-relative"
+                      *ngIf="item.seeMoreBtn"
+                    >
+                      <button
+                        type="button"
+                        (click)="showText()"
+                        class="read-more-btn btn"
+                      >
+                        {{ isReadMore ? "See More" : "See Less" }}
+                      </button>
+                    </div>-->
+                </div>
+
+                <div class="row row-without-gutter" *ngIf="item.type === 'faq-list'">
+                    <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus" collapseIcon="pi pi-minus">
+                        <div class="col-lg-12 text-center">
+                            <h2 class="light-blue-text">{{ item.title }}</h2>
+                        </div>
+                        <p *ngFor="let qna of item.data">
+                            <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
+                                <p>{{ qna.ans }}</p>
+                            </p-accordionTab>
+                        </p>
+                    </p-accordion>
+                </div>
+                <div id="quick" #quick></div>
+                <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                        <thead>
+                            <tr>
+                                <th *ngFor="let TableItems of item.col">
+                                    {{ TableItems }}
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let Tableitem of item.row">
+                                <td *ngFor="let TableItems of item.col">
+                                    <p [innerHTML]="Tableitem[TableItems]"></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2  class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
+                      </div>
+                    </div>
+                    <table
+                      class="table text-center table-hover table-responsive w-100 d-md-table"
+                      id="quick-table" 
+                    >
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            <p [innerHTML]="Tableitems"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                </div>
+
+                <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
+                        <li *ngFor="let Listitem of item.data">
+                            <p [innerHTML]="Listitem"></p>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1">
+                        <li *ngFor="let numbetList of item.data">
+                            <p [innerHTML]="numbetList"></p>
+                        </li>
+                    </ol>
+                </div>
+
+                <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
+                        <a>{{ numbetList }}</a>
+                    </ol>
+                </div>
+                <div class="col-12" *ngIf="item.type == 'img'">
+                    <img [src]="item.data" alt="" class="review-img custome-img" />
+                </div>
+            </div>
+        </div>
+
+        <div *ngIf="isActive('career-options')">
+            <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.careeroptions">
+                <!-- {{item.title}} -->
+                <div class="col-12" *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                        <p [innerHTML]="item.data"></p>
+                    </div>
+
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                    <div
+                      class="row text-center p-relative"
+                      *ngIf="item.seeMoreBtn"
+                    >
+                      <button
+                        type="button"
+                        (click)="showText()"
+                        class="read-more-btn btn"
+                      >
+                        {{ isReadMore ? "See More" : "See Less" }}
+                      </button>
+                    </div>-->
+                </div>
+
+                <div class="row row-without-gutter" *ngIf="item.type === 'faq-list'">
+                    <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus" collapseIcon="pi pi-minus">
+                        <div class="col-lg-12 text-center">
+                            <h2 class="light-blue-text">{{ item.title }}</h2>
+                        </div>
+                        <p *ngFor="let qna of item.data">
+                            <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
+                                <p>{{ qna.ans }}</p>
+                            </p-accordionTab>
+                        </p>
+                    </p-accordion>
+                </div>
+                <div id="quick" #quick></div>
+                <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                        <thead>
+                            <tr>
+                                <th *ngFor="let TableItems of item.col">
+                                    {{ TableItems }}
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let Tableitem of item.row">
+                                <td *ngFor="let TableItems of item.col">
+                                    <p [innerHTML]="Tableitem[TableItems]"></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-12" *ngIf="item.type == 'table-title'">
+                  <h2  class="size" [innerHTML]="item.title"></h2>
+                  <p [innerHTML]="item.info"></p>
+                  <p [innerHTML]="item.textBelowInfo"></p>
+                  <div class="row" *ngIf="item.colTitle">
+                    <div class="col-lg-12">
+                      <div class="text-center light-bg-blue">
+                        <h6 class="white-text py-2 mb-0">
+                          {{ item.colTitle }}
+                        </h6>
+                      </div>
+                    </div>
+                  </div>
+                  <table
+                    class="table text-center table-hover table-responsive w-100 d-md-table"
+                    id="quick-table" 
+                  >
+                    <thead>
+                      <tr>
+                        <th *ngFor="let TableItems of item.col">
+                          {{ TableItems }}
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr *ngFor="let Tableitem of item.row">
+                        <td *ngFor="let Tableitems of Tableitem">
+                          <p [innerHTML]="Tableitems"></p>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <p [innerHTML]="item.heading"></p>
+                </div>
+
+
+                <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
+                        <li *ngFor="let Listitem of item.data">
+                            <p [innerHTML]="Listitem"></p>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1">
+                        <li *ngFor="let numbetList of item.data">
+                            <p [innerHTML]="numbetList"></p>
+                        </li>
+                    </ol>
+                </div>
+
+                <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
+                        <a>{{ numbetList }}</a>
+                    </ol>
+                </div>
+                <div *ngIf="item.type == 'img'">
+                    <img [src]="item.data" alt="" class="review-img custome-img" />
+                </div>
+            </div>
+        </div>
+
+
+        <div *ngIf="isActive('faq')">
+            <div id="faq" class="row row-without-gutter relative-row" *ngFor="let item of collegeData.faq">
+                <!-- {{item.type}} -->
+                <div *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                        <p [innerHTML]="item.data"></p>
+                    </div>
+
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                    <div
+                      class="row text-center p-relative"
+                      *ngIf="item.seeMoreBtn"
+                    >
+                      <button
+                        type="button"
+                        (click)="showText()"
+                        class="read-more-btn btn"
+                      >
+                        {{ isReadMore ? "See More" : "See Less" }}
+                      </button>
+                    </div>-->
+                </div>
+                <div class="row row-without-gutter" *ngIf="item.type === 'question-list'">
+                    <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus" collapseIcon="pi pi-minus">
+                        <div class="col-lg-12 text-center">
+                            <h2 class="light-blue-text">{{ item.title }}</h2>
+                        </div>
+                        <p *ngFor="let qna of item.data">
+                            <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
+                                <p>{{ qna.ans }}</p>
+                            </p-accordionTab>
+                        </p>
+                    </p-accordion>
+                </div>
+                <div id="quick" #quick></div>
+                <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                        <thead>
+                            <tr>
+                                <th *ngFor="let TableItems of item.col">
+                                    {{ TableItems }}
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr *ngFor="let Tableitem of item.row">
+                                <td *ngFor="let TableItems of item.col">
+                                    <p [innerHTML]="Tableitem[TableItems]"></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
+                      </div>
+                    </div>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            {{ Tableitems }}
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                </div>
+
+                <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
+                        <li *ngFor="let Listitem of item.data">
+                            <p [innerHTML]="Listitem"></p>
+                        </li>
+                    </ul>
+                    <p [innerHTML]="item.heading"></p>
+                </div>
+
+                <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1">
+                        <li *ngFor="let numbetList of item.data">
+                            <p [innerHTML]="numbetList"></p>
+                        </li>
+                    </ol>
+                    <p [innerHTML]="item.heading"></p>
+                </div>
+
+                <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
+                        <a><p [innerHTML]="numbetList"></p></a>
+                    </ol>
+                    <p [innerHTML]="item.heading"></p>
+                </div>
+                <div class="col-12" *ngIf="item.type == 'img'">
+                    <img [src]="item.data" alt="" class="review-img custome-img" />
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-3 col-12">
+        <!-- comment line is use to make this section sticky -->
+        <!-- <div class="row row-without-gutter "  #stickyDiv  [class.stickyDiv] = "stickyDiv"> -->
+        <div id="talk" class="row row-without-gutter" #stickyDiv [class.stickyDiv]="stickyDiv">
+            <div class="card talk-to-expert text-center">
+                <div class="card-body">
+                    <img src="../../assets/img/Course_Content_Icons/4.Talk to expert/talk-to-expert.png" alt="" width="30" />
+                    <h6>Are you Interested in this Course</h6>
+                    <a href="tel:180030700033"><button class="btn btn-orange white-text-2 btn-lg">
+                  Talk to Expert
+                </button></a>
+                </div>
+            </div>
+        </div>
+
+        <!-- <div class="row row-without-gutter">
+            <div class="card other-courses">
+                <div class="card-header text-center">
+                    <h5>{{studuentAlsoVisit?studuentAlsoVisit[0]['Right Side Subject']:""}}</h5>
+                </div>
+                <div class="card-body" *ngFor="let visit of studuentAlsoVisit">
+                    <div class="row border-bottom mb-2 pb-2 cursor-pointer" [routerLink]="['/'+visit['Url redirection']]">
+                        <div class="flex-holder4">
+                            <div class="col-lg-2 img-div col-sm-2 col-2">
+                                <img [src]="visit.logo" alt="" />
+                            </div>
+                            <div class="col-lg-10">
+                                <p class="mb-0">{{visit.heading}}</p>
+                                <p class="mb-0">{{visit.Description}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <!-- <div class="row row-without-gutter">
+            <div class="card other-courses">
+                <div class="card-header text-center">
+                    <h5>Students also Visited1</h5>
+                </div>
+                <div class="card-body" *ngFor="let visit of studuentAlsoVisit">
+                    <div class="row border-bottom mb-2 pb-2">
+                        <div class="flex-holder4">
+                            <div class="col-lg-2 img-div col-sm-2 col-2">
+                                <img [src]="visit.logo" alt="" />
+                            </div>
+                            <div class="col-lg-10">
+                                <p class="mb-0">Alliance University</p>
+                                <p class="mb-0">Bangalore</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <!-- <div class="row row-without-gutter">
+            <div class="card other-courses">
+                <div class="card-header text-center">
+                    <h5>Students also Visited2</h5>
+                </div>
+                <div class="card-body" *ngFor="let visit of studuentAlsoVisit">
+                    <div class="row border-bottom mb-2 pb-2">
+                        <div class="flex-holder4">
+                            <div class="col-lg-2 img-div col-sm-2 col-2">
+                                <img [src]="visit.logo" alt="" />
+                            </div>
+                            <div class="col-lg-10">
+                                <p class="mb-0">Alliance University</p>
+                                <p class="mb-0">Bangalore</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+    </div>
+    </div>
+    </div>
+    </div>
+</section>
+<app-chat></app-chat>
+<app-footer></app-footer>
