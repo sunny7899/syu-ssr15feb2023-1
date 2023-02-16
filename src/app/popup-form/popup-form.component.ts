@@ -99,11 +99,12 @@ export class PopupFormComponent implements OnInit {
     data['cWebsite']='http://demo.mentebit.com/#/'
     data['cCoutryCode']="Na"
     console.log('rom1', this.RegistrationFrom1.value)
-    this.http.get( "https://www.selectyouruniversity.com/api/response.php?", this.RegistrationFrom1.value)
+    const {cCity, cCourse, cCandidateName, cEmail, cMobile, qeducation} = this.RegistrationFrom1.value;
+    this.http.get( `https://www.selectyouruniversity.com/api/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&qeducation=${qeducation}`)
     .subscribe((res) => {
       console.log('res', res)
     this.nsrNo= res
-      
+
     })
     console.log('form 1', this.RegistrationFrom1.value )
     console.log('form 2', this.RegistrationFrom2.value )
@@ -111,21 +112,21 @@ export class PopupFormComponent implements OnInit {
   }
   public submitForm2() {
     const data = {
-      "nsrNo":this.nsrNo.nSrNo,    
+      "nsrNo":this.nsrNo.nSrNo,
       "fldtext1":"Graduation Institute",
       "fldValue1":this.RegistrationFrom2.value.qgraduation,
-      "fldtext2":'Graduation Course', 
+      "fldtext2":'Graduation Course',
       "fldValue2":this.RegistrationFrom2.value.qcourse,
       "fldtext3":"Graduation Percentage",
       "fldValue3":this.RegistrationFrom2.value.qgradper,
       "fldtext4":"Work Experience",
       "fldValue4":this.RegistrationFrom2.value.qexperience,
-      "fldtext5":"Extra Tests",   
+      "fldtext5":"Extra Tests",
       "fldValue5":this.RegistrationFrom2.value.qextraExam,
-      "fldtext6":"GATE Score", 
+      "fldtext6":"GATE Score",
       "fldValue6":this.RegistrationFrom2.value.qgate,
-      "fldtext7":"GRE Score", 
-      "fldValue7":this.RegistrationFrom2.value.qgre,    
+      "fldtext7":"GRE Score",
+      "fldValue7":this.RegistrationFrom2.value.qgre,
       }
     this.http.post( "http://18.189.207.215:8080/databaselisteducationmaster", data)
     .subscribe((res) => {
@@ -141,27 +142,27 @@ export class PopupFormComponent implements OnInit {
   public submitForm3() {
     console.log('FROM3', this.RegistrationFrom3);
     const data = {
-      "nsrNo":this.nsrNo.nSrNo,               
-      "fldtext1":"Tenth Board",      
-      "fldValue1":this.RegistrationFrom3.value.qtenthBoard,            
-      "fldtext2":"Tenth Year",       
-      "fldValue2":this.RegistrationFrom3.value.qtenthPassing,            
-      "fldtext3":"Tenth Percentage", 
-      "fldValue3":this.RegistrationFrom3.value.qtenthPercentage,              
-      "fldtext4":"Tenth Institute",  
-      "fldValue4":this.RegistrationFrom3.value.qschool,           
-      "fldtext5":"NA",               
-      "fldValue5":"NA",              
-      "fldtext6":"NA",               
-      "fldValue6":"NA",              
-      "fldtext7":"NA",               
-      "fldValue7":"NA"               
-      
+      "nsrNo":this.nsrNo.nSrNo,
+      "fldtext1":"Tenth Board",
+      "fldValue1":this.RegistrationFrom3.value.qtenthBoard,
+      "fldtext2":"Tenth Year",
+      "fldValue2":this.RegistrationFrom3.value.qtenthPassing,
+      "fldtext3":"Tenth Percentage",
+      "fldValue3":this.RegistrationFrom3.value.qtenthPercentage,
+      "fldtext4":"Tenth Institute",
+      "fldValue4":this.RegistrationFrom3.value.qschool,
+      "fldtext5":"NA",
+      "fldValue5":"NA",
+      "fldtext6":"NA",
+      "fldValue6":"NA",
+      "fldtext7":"NA",
+      "fldValue7":"NA"
+
       }
         this.http.post( "http://18.189.207.215:8080/databaselisteducationmaster", data)
     .subscribe((res) => {
       console.log('res', res)
-      
+
     })
     console.log("submitted")
     if (this.RegistrationFrom2.valid) {
@@ -174,26 +175,26 @@ export class PopupFormComponent implements OnInit {
   public submitFrom4(){
     console.log('FROM4', this.RegistrationFrom4);
    const data= {
-      "nsrNo":this.nsrNo.nSrNo,                       
-      "fldtext1":"Twelth Board",         
-      "fldValue1":this.RegistrationFrom4.value.fldValue1,                
-      "fldtext2":"Twelth Year",          
-      "fldValue2":this.RegistrationFrom4.value.fldValue2,                
-      "fldtext3":"Twelth Percentage",    
-      "fldValue3":this.RegistrationFrom4.value.fldValue3,                  
-      "fldtext4":"Twelth Institute",     
-      "fldValue4":this.RegistrationFrom4.value.fldValue4,               
+      "nsrNo":this.nsrNo.nSrNo,
+      "fldtext1":"Twelth Board",
+      "fldValue1":this.RegistrationFrom4.value.fldValue1,
+      "fldtext2":"Twelth Year",
+      "fldValue2":this.RegistrationFrom4.value.fldValue2,
+      "fldtext3":"Twelth Percentage",
+      "fldValue3":this.RegistrationFrom4.value.fldValue3,
+      "fldtext4":"Twelth Institute",
+      "fldValue4":this.RegistrationFrom4.value.fldValue4,
       "fldtext5":"Twelth Specialization",
-      "fldValue5":this.RegistrationFrom4.value.fldValue5,         
-      "fldtext6":"NA",                   
-      "fldValue6":"NA",                  
-      "fldtext7":"NA",                   
-      "fldValue7":"NA"                   
+      "fldValue5":this.RegistrationFrom4.value.fldValue5,
+      "fldtext6":"NA",
+      "fldValue6":"NA",
+      "fldtext7":"NA",
+      "fldValue7":"NA"
       }
       this.http.post( "http://18.189.207.215:8080/databaselisteducationmaster", data)
       .subscribe((res) => {
         console.log('res', res)
-        
+
       })
     this.hide()
   }
