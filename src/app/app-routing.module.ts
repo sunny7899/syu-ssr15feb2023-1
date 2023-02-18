@@ -158,12 +158,16 @@ const routes: Routes = [
     loadChildren:()=> import( './university-filter/university-filter.module').then(x=>x.UniversityFilterModule)
   },
   {
+    path: 'india/:link',
+    loadChildren:()=> import( './university-filter/university-filter.module').then(x=>x.UniversityFilterModule)
+  },
+  {
     path: 'university',
     loadChildren:()=> import( './university-con/university-con.module').then(x=>x.UniversityConModule)
   },
   {
     path: '**',
-    pathMatch: 'full', 
+    pathMatch: 'full',
     component:ErrorPComponent
   },
 ];
