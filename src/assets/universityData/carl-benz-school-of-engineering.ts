@@ -104,7 +104,7 @@ export const carlbenzschoolofengineering= {
         },
         {
             "type":"table",
-            "title":"Carl Benz School of Engineering - Ranking 2022",
+            "title":"Carl Benz School of Engineering - Ranking 2023",
             "info":"According to the UniRank, check out the table below to know 2021 rankings:",
             "col":[
                 "Country Rank",
@@ -134,9 +134,6 @@ export const carlbenzschoolofengineering= {
             "Particular",	
             "Approx Range in USD",	
             "Approx Range in RS"
-            		
-            		
-            
             ],
             "row":[
                 { 
@@ -149,14 +146,10 @@ export const carlbenzschoolofengineering= {
                     "Approx Range in USD":"94 USD",	
                     "Approx Range in RS":"Rs 6,580"
                     },
-            ]
+            ],
+            "heading":"<p><b>Note: </b>1 USD = 70 Rs (approx)</p>"
        },
-       {
-        "type":"text",
-        "title":"",
-        "data":"1 USD = 70 Rs (approx)"
-       },
-
+       
        { 
         type:"meta",
         meta: [
@@ -172,8 +165,386 @@ export const carlbenzschoolofengineering= {
         link: [
             { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering" }
     ]}
-
-
-
     ],
-}
+    "coursesandfees": [
+
+        {
+            "type": "table",
+            "title": "Carl Benz School of Engineering - Fee Structure 2023",
+            "info": "Check out the below table to know the fee structure of the Engineering course:",
+            "col": [
+                "Course",
+                "Total Amount"
+            ],
+            "row": [
+                {
+                    "Course": "<b>Engineering</b>",
+                    "Total Amount": "15 Lacs"
+                },
+                
+            ],
+        },
+        {
+            "type": 'list-bollet',
+            "title": 'Carl Benz School of Engineering - Course Duration',
+            "info": "This university has designed 3 years of full-time engineering course:",
+            "data": [
+              "This university offers 3 years of full-time engineering courses to the students. Enrolling in this course promises quality education and a successful future ahead.",
+              "Well-trained and qualified professors are assigned to educate engineering courses. Students are rightly assisted throughout the course."
+            ],
+        },
+        {
+            "type": 'list-bollet',
+            "title": 'Programs offered at CBS',
+            "info": "This university offers exclusive engineering programs, have a look below:",
+            "data": [
+              "Bachelor of Science (B.Sc) Mechanical Engineering",
+              "Bachelor of Science (B.Sc) Mechanical Engineering - Energy Engineering",
+              "Bachelor of Science (B.Sc) Mechanical Engineering - Automotive Engineering"
+            ],
+        },
+        
+        {
+          type:"meta",
+          meta: [
+              { name: "title", content: "Carl Benz School of Engineering, Germany - courses & Fees" },
+              { name: "description", content: "know about Germany, Carl Benz School of Engineering, Eligibility, Required documents, courses Duration. Check available courses and fees" },
+          ],
+      },
+      {
+          type:"meta-title",
+          title: "Carl Benz School of Engineering, Germany - courses & Fees"},
+      {
+          type:"meta-links",
+          link: [
+              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/courses-and-fees" }
+      ]}
+        ],
+        "admission":[
+
+            {
+                "type": "list-bollet",
+                "title": "Eligibility Criteria",
+                "info": "To enroll in the engineering courses at this university, read below to know the basic criteria:",
+                "data": [
+                    "The candidate must be at least 21 years of age on or before 31st December of the following year.",
+                    "Must have IELTS, SAT, TOEFL scores to prove English proficiency.",
+                    "Must have relevant work experience.",
+                    "Must have official university transcript.",
+                    "Must carry a relevant visa",
+                    "Must carry a passport"
+                ]
+            },
+            {
+                "type": "step-list",
+                "title": "Admission Process",
+                "info":"To enroll at this university, check the points below to know step by step admission process:",
+                "data": [
+                "<b>Step 1: </b>Apply online via the KIT Application Portal.",
+                "<b>Step 2: </b>Get yourself registered for the particular program of your choice. After sending the application you will receive an answer for the same few days after the application deadline. You will receive an admission letter from the KIT.",
+                "<b>Step 3: </b>With the help of the admission letter register for the program on the Registration Portal.",
+                "<b>Step 4: </b>Contact the admission team in case of queries regarding the application process or enrollment. The team will be happy to assist you anytime."
+              ]
+              },
+              {
+                "type": "list-bollet",
+                "title": "Documents Required",
+                "info": "To apply for a particular course, have a look at the checklist below to know the documents required:",
+                "data": [
+                    "Academic transcripts",
+                    "Grade certificates",
+                    "Work experience proof",
+                    "Practical experience (eg: internship) proof",
+                    "Extra-curricular activities, qualifications proof",
+                    "Curriculum Vitae",
+                    "Letter of motivation",
+                    "SAT, TOEFL or IELTS results",
+                    "Birth certificate",
+                    "Valid Passport",
+                    "Passing certificate",
+                    "COVID-19 reports",
+                    "HSC marksheet",
+                    "SSC marksheet",
+                    "Passport size photos",
+                    "Identity proof"
+                ],
+            },
+            {
+                "type": "table",
+                "title": "Important Dates - Intake 2023",
+                "info": "Check out the table below to know the important dates during the admission process:",
+                "col": [
+                    "Events",
+                    "Dates"
+                ],
+                "row": [
+                    {
+                        "Events": "<b>Application Start Date</b>",
+                        "Dates": "December"
+                    },
+                    {
+                        "Events": "<b>Invitation Letter</b>",
+                        "Dates": "Within 2 weeks"
+                    },
+                    {
+                        "Events": "<b>Admission Start Date</b>",
+                        "Dates": "Yet to be declared"
+                    },
+                    {
+                        "Events": "<b>Last Date of Admission</b>",
+                        "Dates": "Yet to be declared"
+                    },
+                    
+                ],
+            },
+            
+          
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Carl Benz School of Engineering, Germany - Admission 2023" },
+                { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process. Click Here TO REGISTER" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Carl Benz School of Engineering, Germany - Admission 2023"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/admission" }
+        ]}
+        ],
+        "review":[
+          
+          {
+              type: "meta",
+              meta: [
+                  { name: "title", content: "Carl Benz School of Engineering, Germany - Reviews" },
+                  { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+              ],
+          },
+          {
+              type: "meta-title",
+              title: "Carl Benz School of Engineering, Germany - Reviews"
+          },
+          {
+              type: "meta-links",
+              link: [
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/reviews" }
+              ]
+          }
+      ],
+        "placement":[
+
+            {
+                "type": "list-bollet",
+                "title": "",
+                "info": "",
+                "data": [
+                    "Graduates might return to India and seek work after completing their various degrees.",
+                    "Internships and jobs in and around Germany are encouraged for students at the Carl Benz School of Engineering."
+                ],
+            },
+          
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Carl Benz School of Engineering, Germany - Placement" },
+            { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Carl Benz School of Engineering, Germany - Placement"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/placement" }
+    ]}
+        ],
+        "gallery":[
+         
+    
+    
+          {
+              type: "meta",
+              meta: [
+                  { name: "title", content: "Carl Benz School of Engineering, Germany - Gallery"},
+                  { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+              ],
+          },
+          {
+              type: "meta-title",
+              title: "Carl Benz School of Engineering, Germany - Gallery"
+          },
+          {
+              type: "meta-links",
+              link: [
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/gallery" }
+              ]
+          }
+      ],
+        "scholarship": [
+          
+            {
+                "type": "list-bollet",
+                "title": "Scholarships",
+                "info": "The scholarships that are provided at the Carl Benz School of Engineering are as follows:",
+                "data": [
+                    "DAAD Scholarship Database",
+                    "BaWü Stipendium"
+                ],
+            },
+
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Carl Benz School of Engineering, Germany - Scholarship" },
+                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Carl Benz School of Engineering, Germany - Scholarship"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/scholarship" }
+        ]}
+        ],
+        "faculty": [
+          
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Carl Benz School of Engineering, Germany - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Carl Benz School of Engineering, Germany - Faculty"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/faculty" }
+        ]}
+        ],
+        "news":[
+         
+    
+          {
+              type: "meta",
+              meta: [
+                  { name: "title", content: "Carl Benz School of Engineering, Germany - News & Articles" },
+                  { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+              ],
+          },
+          {
+              type: "meta-title",
+              title: "Carl Benz School of Engineering, Germany - News & Articles"
+          },
+          {
+              type: "meta-links",
+              link: [
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/news-and-articles" }
+              ]
+          }
+      ],
+        "hostel": [
+
+            {
+                "type": "list-bollet",
+                "title": "Hostel & Accommodation",
+                "info": "The university provides on-campus housing to the students for secure stay:",
+                "data": [
+                    "The On-housing campus provided by the university is guaranteed for all enrolled students who need it.",
+                    "These accommodations are well furnished and have modern amenities. It has spacious well-maintained living spaces with cleaning services and washing facilities offered.",
+                    "On-campus housing avails single and double rooms that can be shared or used for an independent stay.",
+                    "These housings have a comfortable setup that includes an en-suite bathroom, modern kitchen, working and dining area.",
+                    "Food facility is also made available by the campus at a reasonable price.",
+                    "The food and accommodations provided by the university are low-cost."
+                ],
+            },
+
+            {
+                "type": "table-title",
+                "title": "",
+                "info": "",
+                "col": [ ],
+                "row": [
+                    ["Accommodation","Mess","Kitchen","Dining Hall"]
+                ],
+            },
+          
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Carl Benz School of Engineering, Germany - Hostel" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Carl Benz School of Engineering, Germany - Hostel"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/hostel" }
+        ]}
+        ],
+        "faq": [
+
+            {
+                "type": "question-list",
+                "title": "Carl Benz School of Engineering - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                      "ques": "Q. What are the language requirements to enroll at this university?",
+                      "ans": "All the programs offered at this university are in the English language so it is mandatory to be proficient with the English language skills for active participation in the classroom."
+                    },
+                    { 
+                       "ques": "Q. What type of students fits in at Carl Benz university?",
+                      "ans": "Students with a strong interest in learning and understanding machines are most welcome at this university."
+                    },
+                    {
+                        "ques": "Q. What are the basic admission requirements to enroll in an Engineering program?",
+                        "ans": "Secondary school leaving certificate, good knowledge of maths, physics and chemistry, English language proficiency proof and good SAT scores are the basic requirements."
+                    },
+                    {
+                        "ques": "Q. Can the students apply online to get admission at Carl Benz University?",
+                        "ans": "Yes, the online application portal is active and students can apply using that portal."
+                    },
+                    { 
+                        "ques": "Q. Is this an ideal place to pursue an Engineering course?",
+                      "ans": "Yes, Carl Benz School of Engineering is a prominent institute in Germany that is recognized worldwide for its high-quality educational course and teaching."
+                    },
+                    { 
+                        "ques": "Q. Are accommodation facilities available at this University?",
+                      "ans": "Yes, secure on-campus housing is made available for the students by this university."
+                    }
+                ]
+            },
+         
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Carl Benz School of Engineering, Germany - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Carl Benz School of Engineering, Germany - FAQ"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/carl-benz-school-of-engineering/faq" }
+        ]}
+      ],
+    
+      }
+
+
