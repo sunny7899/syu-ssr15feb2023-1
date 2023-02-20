@@ -72,7 +72,8 @@ export class CollegeConComponent implements OnInit {
     data['cWebsite']='http://demo.mentebit.com/#/'
     data['cCoutryCode']="Na"
     console.log('rom1', this.RegistrationFrom1.value)
-    this.http.post( "https://18.189.207.215:8080/register", this.RegistrationFrom1.value)
+    const {cCity, cCourse, cCandidateName, cEmail, cMobile, qeducation,cLinkName} = this.RegistrationFrom1.value;
+    this.http.get( `https://www.selectyouruniversity.com/api/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&qeducation=${qeducation}&cLinkName=${this.currentUrl}&section=insertdetails`)
     .subscribe((res) => {
       console.log('res', res)
     this.nsrNo= res

@@ -348,7 +348,7 @@ export const ukrainianstatechemicaltechnologyuniversity
             ]
           },
           {
-            "type": "text",
+            "type": "step-list",
             "title": "Admission Process",
             "info":"The following are the steps of admission to Ukrainian Chemical Technology University:",
             "data": [

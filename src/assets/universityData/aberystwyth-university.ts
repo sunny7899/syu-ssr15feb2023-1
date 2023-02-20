@@ -21,23 +21,23 @@ export const aberystwythuniversity = {
         {
             "type": "table-title",
             "title": "Aberystwyth University - Quick Highlight",
-            "info": "The students must know some important points about Aberystwyth University before taking admission:",
+            "info": "<b>The students must know some important points about Aberystwyth University before taking admission:</b>",
             "row": [
-                ["Institute Type", "Public"],
-                ["Mode of Programme", "Full time, online and distance learning"],
-                ["Number of campuses", "3 campuses"],
-                ["Academic Programmes", "Undergraduate & Postgraduate"],
-                ["Entrance Examination", "English language exams"],
-                ["Course Duration", "BSc: 1-4 years<br>MSc: 1-2 years"],
-                ["Ranking", "World - 734<br>Country - 63"],
-                ["Teaching Language", "English and Welsh medium"],
-                ["Affiliations", "University of Wales, AMBA, ACU, Universities UK, HiPACT, SEDA, HEA"]
+                ["<b>Institute Type</b>", "Public"],
+                ["<b>Mode of Programme</b>", "Full time, online and distance learning"],
+                ["<b>Number of campuses</b>", "3 campuses"],
+                ["<b>Academic Programmes</b>", "Undergraduate & Postgraduate"],
+                ["<b>Entrance Examination</b>", "English language exams"],
+                ["<b>Course Duration</b>", "BSc: 1-4 years<br>MSc: 1-2 years"],
+                ["<b>Ranking</b>", "World - 734<br>Country - 63"],
+                ["<b>Teaching Language</b>", "English and Welsh medium"],
+                ["<b>Affiliations</b>", "University of Wales, AMBA, ACU, Universities UK, HiPACT, SEDA, HEA"]
             ]
         },
         {
             type: 'list-bollet',
             title: 'Why Study at Aberystwyth University?',
-            info: 'Let’s get to know why Indian students urge to study at Aberystwyth University:',
+            info: '<b>Let’s get to know why Indian students urge to study at Aberystwyth University:</b>',
             data: [
                 "Aberystwyth University is providing the opportunity for a lifetime to study, volunteer or work in different countries.",
                 "The students also explore different cultures and get experiences that help to build a career.",
@@ -56,7 +56,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Facilities',
-            info: 'Aberystwyth University provides hassle-free education experience with modern facilities:',
+            info: '<b>Aberystwyth University provides hassle-free education experience with modern facilities:</b>',
             data: [
                 "Aberystwyth Arts Centre",
                 "Hospitality Services Cafés and Restaurants",
@@ -70,14 +70,14 @@ export const aberystwythuniversity = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: 'The students will get all education in the Welsh and English language during graduation and post-graduation education:',
-            data: "<p>For students dreaming of pursuing their career in the Uk, Aberystwyth University is the right option as it offers a whole education in the Welsh and English language.</p>"
+            info: '<b>The students will get all education in the Welsh and English language during graduation and post-graduation education:</b>',
+            data: "<p><b>The students will get all education in the Welsh and English language during graduation and post-graduation education:</b></p><p>For students dreaming of pursuing their career in the Uk, Aberystwyth University is the right option as it offers a whole education in the Welsh and English language.</p>"
         },
 
         {
             "type": "table",
             "title": "Aberystwyth University - Ranking 2022",
-            "info": "Aberystwyth University is an ideal choice for higher education, Checkout the rankings:",
+            "info": "<b>Aberystwyth University is an ideal choice for higher education, Checkout the rankings:</b>",
             "col": [
                 "Country",
                 "World",
@@ -93,7 +93,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Affiliations',
-            info: 'Aberystwyth University is affiliated by many known organisations across the globe:',
+            info: '<b>Aberystwyth University is affiliated by many known organisations across the globe:</b>',
             data: [
                 "University of Wales",
                 "AMBA",
@@ -107,7 +107,7 @@ export const aberystwythuniversity = {
         {
             "type": "table",
             "title": "Living Cost of Aberystwyth, Wales",
-            "info": "The candidates willing to study in Uk must go through the monthly living cost of Aberystwyth:",
+            "info": "<b>The candidates willing to study in Uk must go through the monthly living cost of Aberystwyth:</b>",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -115,33 +115,28 @@ export const aberystwythuniversity = {
             ],
             "row": [
                 {
-                    "Particulars": "Food",
+                    "Particulars": "<b>Food</b>",
                     "Approx range in USD": "499 USD",
                     "Approx range in Rs": "34,986 Rs"
                 },
                 {
-                    "Particulars": "Transportation",
+                    "Particulars": "<b>Transportation</b>",
                     "Approx range in USD": "62 USD",
                     "Approx range in Rs": "4,368 Rs"
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b style="color: red;"><u>Note:</u></b> 1 USD = 70 Rs</p>',
+            ],
+            "heading": "<p><b><u>Note:</u></b> 1 USD = 70 Rs</p>"
         },
         {
             type: 'meta',
             meta: [
-                { name: "title", content: "Aberystwyth University, UK - Ranking & Accomodation" },
-                { name: "description", content: "Established in 1872, Aberystwyth University is a public university in the UK. It has 3 campuses and offers MSc and BSc in UK. Click here for more information." },
+                { name: "title", content: "Aberystwyth University, UK - Courses & Fees 2023" },
+                { name: "description", content: "Established in 1872, Aberystwyth University is a public university in the UK. Check Courses & Fees in detail here." },
             ],
         },
         {
             type: 'meta-title',
-            title: "Aberystwyth University, UK - Ranking & Accomodation"
+            title: "Aberystwyth University, UK - Courses & Fees 2023"
         },
         {
             type: 'meta-links',
@@ -157,15 +152,10 @@ export const aberystwythuniversity = {
     ],
     "coursesandfees": [
         {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>1. Undergraduate Programs</b></p>',
-        },
-        {
             "type": "table",
-            "title": "Tuition Fees (Undergraduate Programs)            ",
-            "info": "Aberystwyth University will provide affordable fees for International Students (including applicants from the EU):            ",
+            "title": "Tuition Fees (Undergraduate Programs)",
+            "info": "<b>1. Undergraduate Programs</b>",
+            "textBelowInfo": "<b>Aberystwyth University will provide affordable fees for International Students (including applicants from the EU):</b>",
             "col": [
                 "Type",
                 "Amount (£)"
@@ -173,12 +163,12 @@ export const aberystwythuniversity = {
             ],
             "row": [
                 {
-                    "Type": "Full-Time Arts / Social Sciences",
+                    "Type": "<b>Full-Time Arts / Social Sciences</b>",
                     "Amount (£)": "14,000"
 
                 },
                 {
-                    "Type": "Full-Time Science",
+                    "Type": "<b>Full-Time Science</b>",
                     "Amount (£)": "16,000"
 
                 }
@@ -208,29 +198,134 @@ export const aberystwythuniversity = {
 
                 },
                 {
-                    "Program": "Adventure Tourism Management",
+                    "Program": "Agriculture",
                     "Course duration": "3 years",
                     "Exam": "English proficiency exams"
-
                 },
                 {
-                    "Program": "Adventure Tourism Management",
+                    "Program": "Agriculture (with integrated year in industry)",
+                    "Course duration": "4 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Agriculture with Animal Science",
                     "Course duration": "3 years",
                     "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Agriculture with Animal Science (with integrated year in industry)",
+                    "Course duration": "4 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "-",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Agriculture with Business Management",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Agriculture with Business Management (with integrated year in industry)",
+                    "Course duration": "4 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Animal Behaviour",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Animal Behaviour (with integrated year in industry)",
+                    "Course duration": "4 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Animal Science",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Animal Science (with integrated year in industry)",
+                    "Course duration": "4 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Applied Mathematics / Pure Mathematics",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Astrophysics",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Artificial Intelligence and Robotics",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Agriculture",
+                    "Course duration": "1 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Artificial Intelligence and Robotics (with integrated year in industry)",
+                    "Course duration": "4 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Tourism Management",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Business Finance",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Engineering Physics",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Robotics and Embedded Systems Engineering",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Digital Marketing",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Marketing",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Art History",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
+                {
+                    "Program": "Creative Arts",
+                    "Course duration": "3 years",
+                    "Exam": "English proficiency exams"
+                },
 
-                }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Note:</b> To find more undergraduate programmes</p>',
+
+            ],
+            "heading": "<p><b>Note:</b> To find more undergraduate programmes - <a>click here</a></p>"
         },
         {
             "type": "table",
             "title": "Aberystwyth University - Important Dates 2022 (Undergraduate Programs)",
-            "info": "Go through the important dates to enroll in undergraduate programmes:",
+            "info": "<b>Go through the important dates to enroll in undergraduate programmes:</b>",
             "col": [
                 "Events",
                 "Dates"
@@ -239,32 +334,27 @@ export const aberystwythuniversity = {
             ],
             "row": [
                 {
-                    "Events": "Application Deadline                    ",
+                    "Events": "<b>Application Deadline</b>",
                     "Dates": "late June or beginning of July"
 
                 },
                 {
-                    "Events": "Invitation Letter",
+                    "Events": "<b>Invitation Letter</b>",
                     "Dates": "3-4 weeks"
 
                 },
                 {
-                    "Events": "Course Start Date",
+                    "Events": "<b>Course Start Date</b>",
                     "Dates": "NA"
 
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>2. Masters Programs</b></p>',
+            ],
         },
         {
             "type": "table",
             "title": "Fee Structure 2022 (Masters Programs)",
-            "info": "Aberystwyth University will provide affordable fees for International Students (including applicants from the EU):            ",
+            "info": "<b>2. Masters Programs</b>",
+            "textBelowInfo": "<b>Aberystwyth University will provide affordable fees for International Students (including applicants from the EU):</b>",
             "col": [
                 "Type of Course",
                 "Full-Time",
@@ -274,31 +364,31 @@ export const aberystwythuniversity = {
             ],
             "row": [
                 {
-                    "Type of Course": "Arts and Social Science Courses",
+                    "Type of Course": "<b>Arts and Social Science Courses</b>",
                     "Full-Time": "£ 14,700",
                     "Part-Time": "£ 7,350"
 
                 },
                 {
-                    "Type of Course": "Master of Business Administration (MBA)",
+                    "Type of Course": "<b>Master of Business Administration (MBA)</b>",
                     "Full-Time": "£ 16,000",
                     "Part-Time": "£ 8,000"
 
                 },
                 {
-                    "Type of Course": "Science Courses",
+                    "Type of Course": "<b>Science Courses</b>",
                     "Full-Time": "£ 15,850",
                     "Part-Time": "£ 7,925"
 
                 },
                 {
-                    "Type of Course": "PGCE (Teacher Training) Course",
+                    "Type of Course": "<b>PGCE (Teacher Training) Course</b>",
                     "Full-Time": "£ 14,000",
                     "Part-Time": "NA"
 
                 },
                 {
-                    "Type of Course": "Executive MBA",
+                    "Type of Course": "<b>Executive MBA</b>",
                     "Full-Time": "£ 18,800",
                     "Part-Time": "£ 9,400"
 
@@ -308,7 +398,7 @@ export const aberystwythuniversity = {
         {
             "type": "table-title",
             "title": "Departments",
-            "info": "Check out the wide spectrum of departments offered at Aberystwyth University:",
+            "info": "<b>Check out the wide spectrum of departments offered at Aberystwyth University:</b>",
             "row": [
                 ["Art", "Biological, Environmental & Rural Sciences (IBERS)", "Business"],
                 ["Computer Science", "Education", "English & Creative Writing"],
@@ -320,18 +410,18 @@ export const aberystwythuniversity = {
             ]
         },
         {
-            type: 'meta',
+            type: "meta",
             meta: [
-                { name: "title", content: "Aberystwyth University, UK - Courses & Fees 2023" },
+                { name: "title", content: "Aberystwyth University, UK - courses & Fees 2023" },
                 { name: "description", content: "Aberystwyth University is a public university in the UK. They have 3 campuses and offers MSc and BSc in UK. Click here for detailed courses and fees." },
             ],
         },
         {
-            type: 'meta-title',
-            title: "Aberystwyth University, UK - Courses & Fees 2023"
+            type: "meta-title",
+            title: "Aberystwyth University, UK - courses & Fees 2023"
         },
         {
-            type: 'meta-links',
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/courses-and-fees" }
             ]
@@ -341,7 +431,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria (Undergraduate Programs)',
-            info: 'Eligibility criteria must be fulfilled by the applicants wishing to study in the UK at Aberystwyth University:',
+            info: '<b>Eligibility criteria must be fulfilled by the applicants wishing to study in the UK at Aberystwyth University:</b>',
             data: [
                 "The candidates should have higher secondary education",
                 "The applicants must have a valid passport",
@@ -359,47 +449,23 @@ export const aberystwythuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process (Undergraduate Programs)',
-            info: 'To admit to undergraduate programs the candidates must follow admission procedure:',
+            info: '<b>To admit to undergraduate programs the candidates must follow admission procedure:</b>',
             data: [
                 "<b>Step 1:</b> Apply on the website of Aberystwyth University.",
-
                 "<b>Step 2:</b> Fill the application form with personal details.",
-
                 "<b>Step 3:</b> The candidates must upload electronic copies of their passport, personal statement, academic reference and qualifications.",
-
                 "<b>Step 4:</b> The application form requires a reference from a teacher, adviser or a professional who knows you academically or professionally.",
-
                 "<b>Step 5:</b> The admission committee will review all documents and application forms.",
-
                 "<b>Step 6:</b> The institute will provide an offer letter to the selected students.",
-
-                "<b>Step 7:</b> The students must pay the tuition fee of the course for admission to the Uk."
-            ]
-        },
-        {
-            type: 'list-bollet',
-            title: '',
-            info: '',
-            data: [
-                "For students applying to just one university or college, the fee will be £13.00.",
-                "For students applying for multiple courses (up to 5), the fee is £24.00.",
-                "All late applications (after June 30th) are subjected to a £24.00 fee."
-            ]
-        },
-        {
-            type: 'step-list',
-            title: '',
-            info: '',
-            data: [
+                "<b>Step 7:</b> The students must pay the tuition fee of the course for admission to the Uk.<br>For students applying to just one university or college, the fee will be £13.00.<br>For students applying for multiple courses (up to 5), the fee is £24.00.<br>All late applications (after June 30th) are subjected to a £24.00 fee.",
                 "<b>Step 8:</b> The students must apply for a visa procedure to get a valid passport.",
-
                 "<b>Step 9:</b> Now fly to Uk to pursue Undergraduate education."
             ]
         },
         {
             type: 'list-bollet',
             title: 'Documents Required (Undergraduate Programs)',
-            info: 'Before taking admission to Aberystwyth University, don’t forget to carry all these related documents:',
+            info: '<b>Before taking admission to Aberystwyth University, don’t forget to carry all these related documents:</b>',
             data: [
                 "Application form",
                 "Passport copy",
@@ -420,7 +486,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria (Masters Programs)',
-            info: 'The students must check the eligibility criteria to study the master’s program at Aberystwyth University:',
+            info: '<b>The students must check the eligibility criteria to study the master’s program at Aberystwyth University:</b>',
             data: [
                 "The students must have English language proficiency for masters admission.",
                 "The students should have a valid passport copy for doing their masters courses in the UK.",
@@ -431,27 +497,21 @@ export const aberystwythuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process (Masters Programs)',
-            info: 'Check out the admission steps to enroll in masters programs at Aberystwyth University:',
+            info: '<b>Check out the admission steps to enroll in masters programs at Aberystwyth University:</b>',
             data: [
                 "<b>Step 1:</b> Fill the online application form",
-
                 "<b>Step 2:</b> Submit the documents",
-
                 "<b>Step 3:</b> Documents reviewed by the admission committee",
-
                 "<b>Step 4:</b> Get the offer letter",
-
                 "<b>Step 5:</b> Pay the tuition fee",
-
                 "<b>Step 6:</b> Apply for visa process",
-
                 "<b>Step 7:</b> Get valid passport"
             ]
         },
         {
             type: 'list-bollet',
             title: 'Documents Required (Masters Programs)',
-            info: 'Every candidate must submit the essential documents for Masters admission at this place:',
+            info: '<b>Every candidate must submit the essential documents for Masters admission at this place:</b>',
             data: [
                 "Application form",
                 "Higher secondary certificates",
@@ -478,7 +538,7 @@ export const aberystwythuniversity = {
         {
             "type": "table",
             "title": "Aberystwyth University - Important Dates 2022 (Masters Programs)",
-            "info": "Here are the main dates to keep in mind for masters courses enrollment in Uk at Aberystwyth University:",
+            "info": "<b>Here are the main dates to keep in mind for masters courses enrollment in Uk at Aberystwyth University:</b>",
             "col": [
                 "Events",
                 "Dates",
@@ -488,31 +548,31 @@ export const aberystwythuniversity = {
             ],
             "row": [
                 {
-                    "Events": "Applications",
+                    "Events": "<b>Applications</b>",
                     "Dates": "Between December and February",
 
 
                 },
                 {
-                    "Events": "Applications acceptance",
+                    "Events": "<b>Applications acceptance</b>",
                     "Dates": "Throughout the year",
 
 
                 },
                 {
-                    "Events": "Invitation Letter",
+                    "Events": "<b>Invitation Letter</b>",
                     "Dates": "3-4 weeks",
 
 
                 },
                 {
-                    "Events": "Application Deadline",
+                    "Events": "<b>Application Deadline</b>",
                     "Dates": "End of February",
 
 
                 },
                 {
-                    "Events": "Course Start Date",
+                    "Events": "<b>Course Start Date</b>",
                     "Dates": "End of September",
 
 
@@ -520,134 +580,117 @@ export const aberystwythuniversity = {
             ]
         },
         {
-            type: 'meta',
+            type: "meta",
             meta: [
-                { name: "title", content: "Aberystwyth University, UK - Admission Process " },
+                { name: "title", content: "Aberystwyth University, UK - Admission Process" },
                 { name: "description", content: "Aberystwyth University Established is in 1872 in the UK, they have 3 campuses and offers MSc and BSc in UK. Check here for detailed admission 2023" },
             ],
         },
         {
-            type: 'meta-title',
-            title: "Aberystwyth University, UK - Admission Process "
+            type: "meta-title",
+            title: "Aberystwyth University, UK - Admission Process"
         },
         {
-            type: 'meta-links',
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/admission" }
             ]
         }
 
     ],
+    "review": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Aberystwyth University, UK - Reviews" },
+                { name: "description", content: "Aberystwyth University is a public university in the UK. offers MSc and BSc in UK. Click here for more reviews." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Aberystwyth University, UK - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Aberystwyth University, UK  - Placement Details" },
+                { name: "description", content: "Aberystwyth University was founded in 1872 and was the first university in Wales. Click here for detailed placement." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Aberystwyth University, UK  - Placement Details"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Aberystwyth University, UK - Gallery" },
+                { name: "description", content: "Aberystwyth University is a public university in the UK. they have 3 campuses and offers MSc and BSc in UK. Check here for gallery" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Aberystwyth University, UK - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/gallery" }
+            ]
+        }
+    ],
     "scholarship": [
         {
-            type: 'text',
+            type: 'number-list',
             title: 'Scholarship',
-            info: '',
-            data: '<p>The institute provides scholarships, bursaries and departmental awards that are separate from any other loans or grants and are, in essence, free money. No need to be repaid and by combining selected packages, it’s possible to receive £40,000. These extra sources of income fund education.</p>',
+            info: '<b>The institute provides scholarships, bursaries and departmental awards that are separate from any other loans or grants and are, in essence, free money. No need to be repaid and by combining selected packages, it’s possible to receive £40,000. These extra sources of income fund education.</b>',
+            data: [
+                "<b>Entrance Scholarships and Merit Awards</b><br>£2,000 annually and a chance to get an unconditional offer and this is open to undergraduate candidates.",
+                "<b>Academic Excellence Scholarships</b><br>£2,000 annually and a chance to get an unconditional offer and this is open to undergraduate candidates.",
+                "<b>International Accommodation Award for international students</b><br>Free accommodation provided for the course",
+                "<b>Care Leavers, Young Carers and Estranged Students</b><br>£1,500 per year plus many additional benefits (Only UK)",
+                "<b>Welsh Medium Study Scholarships</b><br>£400 every year for Welsh-medium education in a wide range of subjects",
+                "<b>Coleg Cymraeg Cenedlaethol Scholarships</b><br>£1,500 to £3,000 for Welsh-medium of education (externally funded)",
+                "<b>Departmental Awards</b><br>£500 every year for Computer Science, Maths and Physics subjects.",
+                "<b>Emily Price Scholarship</b><br>£500 for 1 year which is open to female candidates for Maths or Physics programmes.",
+                "<b>Margaret Evelyn “Lynne” Williams Bursary</b><br>£500 for 1 year which is open to students who are applying for studying a course in Welsh-medium",
+                "<b>Veterinary Science (BVSc)</b><br>Many awards for the BVSc Veterinary Science course (YD105)",
+                "<b>Sports Scholarships</b><br>£1,000 per year for sporting excellence, open to applicants for any course (the UK only)",
+                "<b>Aberystwyth Town FC Scholarship</b><br>£4,000 every year plus additional benefits for the candidates with experience playing in the equivalent of the Welsh premier league",
+                "<b>Music Scholarships</b><br>£650 every year for musical excellence which is open to all candidates for any program.",
+                "<b>OSA Grant (Cardiff Branch)</b><br>£1,500 for 1 year for all students who are living in CF and NP postcode areas.",
+                "<b>Stuart Rendel Exhibitions</b><br>£1,000 every year for up to 4 years for residents of Montgomeryshire (externally funded)"
+            ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Entrance Scholarships and Merit Awards</b></p><p>£2,000 annually and a chance to get an unconditional offer and this is open to undergraduate candidates.</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Academic Excellence Scholarships</b></p><p>£2,000 annually and a chance to get an unconditional offer and this is open to undergraduate candidates.</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>International Accommodation Award for international students</b></p><p>Free accommodation provided for the course</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Care Leavers, Young Carers and Estranged Students</b></p><p>£1,500 per year plus many additional benefits (Only UK)</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Welsh Medium Study Scholarships</b></p><p>£400 every year for Welsh-medium education in a wide range of subjects</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Coleg Cymraeg Cenedlaethol Scholarships</b></p><p>£1,500 to £3,000 for Welsh-medium of education (externally funded)</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Departmental Awards</b></p><p>£500 every year for Computer Science, Maths and Physics subjects.</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Emily Price Scholarship</b></p><p>£500 for 1 year which is open to female candidates for Maths or Physics programmes.</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Margaret Evelyn “Lynne” Williams Bursary</b></p><p>£500 for 1 year which is open to students who are applying for studying a course in Welsh-medium</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Veterinary Science (BVSc)</b></p><p>Many awards for the BVSc Veterinary Science course (YD105)</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Sports Scholarships</b></p><p>£1,000 per year for sporting excellence, open to applicants for any course (the UK only)</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Aberystwyth Town FC Scholarship</b></p><p>£4,000 every year plus additional benefits for the candidates with experience playing in the equivalent of the Welsh premier league</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Music Scholarships</b></p><p>£650 every year for musical excellence which is open to all candidates for any program.</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>OSA Grant (Cardiff Branch)</b></p><p>£1,500 for 1 year for all students who are living in CF and NP postcode areas.</p>',
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Stuart Rendel Exhibitions</b></p><p>£1,000 every year for up to 4 years for residents of Montgomeryshire (externally funded)</p>',
-        },
-        {
-            type: 'meta',
+            type: "meta",
             meta: [
                 { name: "title", content: "Aberystwyth University, UK - Scholarships & Bursaries" },
                 { name: "description", content: "Aberystwyth University is one of the top public universities in UK. It has 3 campuses and offers MSc and BSc in UK. Click here for scholarships" },
             ],
         },
         {
-            type: 'meta-title',
+            type: "meta-title",
             title: "Aberystwyth University, UK - Scholarships & Bursaries"
         },
         {
-            type: 'meta-links',
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/scholarship" }
             ]
@@ -656,7 +699,7 @@ export const aberystwythuniversity = {
     "faculty": [
         {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -699,23 +742,42 @@ export const aberystwythuniversity = {
             ]
         },
         {
-            type: 'meta',
+            type: "meta",
             meta: [
                 { name: "title", content: "Aberystwyth University, UK - Faculties & Departments" },
                 { name: "description", content: "Established in 1872, Aberystwyth University is a public university in the UK. offers MSc and BSc in UK. Click here for detailed faculty" },
             ],
         },
         {
-            type: 'meta-title',
+            type: "meta-title",
             title: "Aberystwyth University, UK - Faculties & Departments"
         },
         {
-            type: 'meta-links',
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/faculty" }
             ]
         }
 
+    ],
+    "news": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Aberystwyth University, UK - News & Articles" },
+                { name: "description", content: "Aberystwyth University is a public university they have 3 campuses and. Check here for News and articles" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Aberystwyth University, UK - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/news-and-articles" }
+            ]
+        }
     ],
     "hostel": [
         {
@@ -750,18 +812,18 @@ export const aberystwythuniversity = {
             ]
         },
         {
-            type: 'meta',
+            type: "meta",
             meta: [
                 { name: "title", content: "Aberystwyth University, UK - Hostel & Accommodation" },
                 { name: "description", content: "Aberystwyth University is the university in the UK. It has 3 campuses. Click here for hostel" },
             ],
         },
         {
-            type: 'meta-title',
+            type: "meta-title",
             title: "Aberystwyth University, UK - Hostel & Accommodation"
         },
         {
-            type: 'meta-links',
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/hostel" }
             ]
@@ -769,96 +831,54 @@ export const aberystwythuniversity = {
 
     ],
     "faq":
-[
-  {
-    "type": "question-list",
-    "title": "Aberystwyth University - Important FAQs",
-    "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
-    "data": [
-      {
-        "ques": "Q. Are there accommodation facilities available for students at Aberystwyth University?",
-        "ans": "The students will enjoy accommodation facilities at the convenient zone at Aberystwyth University."
-      },
-      {
-        "ques": "Q. Can the students work during education at Aberystwyth University?",
-        "ans": "Yes, the candidates can work in a variety of part-time jobs, they can work in the students' union and there are many job opportunities in the town also - working in pubs, restaurants and retail outlets."
-      },
-      {
-        "ques": "Q. Is Aberystwyth University providing work placements to the students?",
-        "ans": "Yes, Aberystwyth University has career services that will assist the students to explore various options for securing good work placements."
-      },
-      {
-        "ques": "Q. How many years of masters courses are provided at Aberystwyth University?",
-        "ans": "The students must complete 1-2 years of master programs at Aberystwyth University."
-      },
-      {
-        "ques": "Q. How many years of undergraduate programmes offered at Aberystwyth University?",
-        "ans": "Aberystwyth University offers 1-4 years of undergraduate programmes for the students."
-      },
-      {
-        "ques": "Q. Do the students need to appear on an English Language ability test?",
-        "ans": "Yes, the candidates must clear the English proficiency exams admission."
-      }
-    ],
-},
-{
-    type: 'meta',
-    meta: [
-        { name: "title", content: "Aberystwyth University, UK - Important FAQs" },
-        { name: "description", content: "Aberystwyth University was Established in 1872 in the UK. they have 3 campuses and offers MSc and BSc in UK. Check here for FAQ" },
-    ],
-},
-{
-    type: 'meta-title',
-    title: "Aberystwyth University, UK - Important FAQs"
-},
-{
-    type: 'meta-links',
-    link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/faq" }
-    ]
-}
-],
-    "gallery": [
-        {
-            type: 'meta',
-            meta: [
-                { name: "title", content: "Aberystwyth University, UK - Gallery" },
-                { name: "description", content: "Aberystwyth University is a public university in the UK. they have 3 campuses and offers MSc and BSc in UK. Check here for gallery" },
-            ],
-        },
-        {
-            type: 'meta-title',
-            title: "Aberystwyth University, UK - Gallery"
-        },
-        {
-            type: 'meta-links',
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/gallery" }
-            ]
-        }
-    ],
-    "news": [
-        {
-            type: 'meta',
-            meta: [
-                { name: "title", content: "Aberystwyth University, UK - News & Articles" },
-                { name: "description", content: "Aberystwyth University is a public university they have 3 campuses and. Check here for News and articles" },
-            ],
-        },
-        {
-            type: 'meta-title',
-            title: "Aberystwyth University, UK - News & Articles"
-        },
-        {
-            type: 'meta-links',
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/news-and-articles" }
-            ]
-        }
-    ]
-
-
-
-
+        [
+            {
+                "type": "question-list",
+                "title": "Aberystwyth University - Important FAQs",
+                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "data": [
+                    {
+                        "ques": "Q. Are there accommodation facilities available for students at Aberystwyth University?",
+                        "ans": "The students will enjoy accommodation facilities at the convenient zone at Aberystwyth University."
+                    },
+                    {
+                        "ques": "Q. Can the students work during education at Aberystwyth University?",
+                        "ans": "Yes, the candidates can work in a variety of part-time jobs, they can work in the students' union and there are many job opportunities in the town also - working in pubs, restaurants and retail outlets."
+                    },
+                    {
+                        "ques": "Q. Is Aberystwyth University providing work placements to the students?",
+                        "ans": "Yes, Aberystwyth University has career services that will assist the students to explore various options for securing good work placements."
+                    },
+                    {
+                        "ques": "Q. How many years of masters courses are provided at Aberystwyth University?",
+                        "ans": "The students must complete 1-2 years of master programs at Aberystwyth University."
+                    },
+                    {
+                        "ques": "Q. How many years of undergraduate programmes offered at Aberystwyth University?",
+                        "ans": "Aberystwyth University offers 1-4 years of undergraduate programmes for the students."
+                    },
+                    {
+                        "ques": "Q. Do the students need to appear on an English Language ability test?",
+                        "ans": "Yes, the candidates must clear the English proficiency exams admission."
+                    }
+                ],
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Aberystwyth University, UK - Important FAQs" },
+                    { name: "description", content: "Aberystwyth University was Established in 1872 in the UK. they have 3 campuses and offers MSc and BSc in UK. Check here for FAQ" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Aberystwyth University, UK - Important FAQs"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university/faq" }
+                ]
+            }
+        ],
 }

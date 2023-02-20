@@ -14,22 +14,21 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "text",
             "title": "",
-            "data": '<p>In 1841, <strong>Bogomolets National Medical University</strong> was established in the city of Kyiv, Ukraine. It is the one of foremost university to study MBBS in Ukraine.</p><p> The medical faculty of university reorganized in 1920, The first lecture of Bogomolets National Medical University was started on <strong>9th September, 1941</strong>. After the physiologist <strong>Alexander A Bogomolets</strong>, the Bogomolets was named as O.O. Bogomolets National Medical University.</p><p> The course of study in Medical Faculty is 5 years and in some other faculty is 4 year. The university itself is the broadband destination for students from all over the world.</p><p>The Bogomolets university is one of the <strong>best medical university</strong> among the top ranked universities in the world.The Institutes not only provides a center of excellence in Medical field also it is the best for the center of learning. The University also provides the art of research facilities and equipment to students.</p>'
+            "data": '<p>In 1841, <strong>Bogomolets National Medical University</strong> was established in the city of Kyiv, Ukraine. It is the one of foremost university to study MBBS in Ukraine.</p> <p>The medical faculty of university reorganized in 1920, The first lecture of Bogomolets National Medical University was started on <strong>9th September, 1941</strong>. After the physiologist <strong>Alexander A Bogomolets</strong>, the Bogomolets was named as O.O. Bogomolets National Medical University.</p> <p>The course of study in Medical Faculty is 5 years and in some other faculty is 4 year. The university itself is the broadband destination for students from all over the world.</p> <p>The Bogomolets university is one of the <strong>best medical university</strong> among the top ranked universities in the world.The Institutes not only provides a center of excellence in Medical field also it is the best for the center of learning. The University also provides the art of research facilities and equipment to students.</p>'
         },
         {
             "type": "table-title",
             "title": "Bogomolets National Medical University - Quick Glance",
-            "info": "",
             "col": [],
             "row": [
-                ["Intake for MBBS Course", "Twice in a year:February and September"],
-                ["Basic Eligibility", "10+2 passed with an aggregate of 50% in PCB"],
-                ["NEET Entrance Test", "Yes, it is compulsory"],
-                ["Annual Tuition Fees", "4700 USD (approx)"],
-                ["Course Duration", "6 years including internship"],
-                ["Medium", "English & European"],
-                ["Universities Recognition", "NMC, WHO and UΝЕЅСО accredited"],
-                ["Ranking of University", "Ukraine Ranking - 51 World Ranking - 5428"]
+                ["<b>Intake for MBBS Course</b>", "Twice in a year:February and September"],
+                ["<b>Basic Eligibility</b>", "10+2 passed with an aggregate of 50% in PCB"],
+                ["<b>NEET Entrance Test</b>", "Yes, it is compulsory"],
+                ["<b>Annual Tuition Fees</b>", "4700 USD (approx)"],
+                ["<b>Course Duration</b>", "6 years including internship"],
+                ["<b>Medium</b>", "English & European"],
+                ["<b>Universities Recognition</b>", "NMC, WHO and UΝЕЅСО accredited"],
+                ["<b>Ranking of University</b>", "Ukraine Ranking - 51<br> World Ranking - 5428"]
             ]
         },
         {
@@ -37,15 +36,15 @@ export const bogomoletsnationalmedicaluniversity = {
             "title": "Benefits of Studying MBBS in Bogomolets Medical University",
             "info": "",
             "data": [
-                "Bogomolets National Medical University provides low-cost medical education to students.",
-                "The institute is a part of Bologna Process (Bologna Process is a series of agreement with European Universities to establish a high-quality standard in the field of Medical Education).",
-                "The degree offered by the Bogomolets Medical University is authorized by International bodies and Organizations like NMC, WHO & many more.",
-                "No donation fees & no hidden cost as studying MBBS in Ukraine is always affordable to every Medical Aspirant.",
-                "Globally acclaimed staff and working professionals are always there to share their knowledge and experience with the students.",
+                "Bogomolets National Medical University provides <b>low-cost medical education</b> to students.",
+                "The institute is a part of <b>Bologna Process</b> (Bologna Process is a series of agreement with European Universities to establish a high-quality standard in the field of Medical Education).",
+                "The degree offered by the Bogomolets Medical University is authorized by International bodies and Organizations like <b>NMC, WHO & many more.</b>",
+                "<b>No donation fees</b> & no hidden cost as studying MBBS in Ukraine is always affordable to every Medical Aspirant.",
+                "<b>Globally acclaimed staff</b> and working professionals are always there to share their knowledge and experience with the students.",
                 "Guest lectures, seminars, and the research activities are organized prominently.",
-                "About 10,000 students studying medicine in Ukraine. Bogomolets University is the foremost platform for those students.",
-                "Bilateral student agreements with the reputed countries such as Sweden, Finland making ease of study in Ukraine for Students.",
-                "Emphasis on ongoing training programs and practical methodology."
+                "About <b>10,000 students</b> studying medicine in Ukraine. Bogomolets University is the foremost platform for those students.",
+                "<b>Bilateral student agreements</b> with the reputed countries such as Sweden, Finland making ease of study in Ukraine for Students.",
+                "Emphasis on ongoing training programs and <b>practical methodology.</b>"
             ]
         },
         {
@@ -58,12 +57,12 @@ export const bogomoletsnationalmedicaluniversity = {
             "type": "text",
             "title": "Ranking & Rating of Bogomolets Medical University",
             "data": '<p>Bogomolets University awarded as <strong>3 stars as per QS standard system</strong> among the top Medical universities in Ukraine. Collectively, it is the best option for Medical aspirants perceiving MBBS in Ukraine.</p>',
-            //"img": "",
+            "img": "",
         },
         {
             "type": "text",
             "title": "",
-            "data": '<p>QS Rating for Bogomolets National Medical University (3 Star)</p>'
+            "data": '<p>QS Rating for Excellence 2016 (Bogomolets Medical University)</p>'
         },
         {
             "type": "list-bollet",
@@ -294,7 +293,7 @@ export const bogomoletsnationalmedicaluniversity = {
             "info": "6th Year",
             "col": [
                 "Semester-XI",
-                "Semester-VI"
+                "Semester-XII"
             ],
             "row": [
                 {
@@ -326,7 +325,7 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Bogomolets National Medical University - FMGE Performance 2021",
-            "info": "The details about FMGE performance for Bogomolets National Medical University of year 2021 with passing percent is as follows:",
+            "info": "<b>The details about FMGE performance for Bogomolets National Medical University of year 2021 with passing percent is as follows:</b>",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -335,7 +334,7 @@ export const bogomoletsnationalmedicaluniversity = {
             ],
             "row": [
                 {
-                    "Name of University": "Bogomolets National Medical University",
+                    "Name of University": "<b>Bogomolets National Medical University</b>",
                     "Appeared": "135",
                     "Total Pass": "52",
                     "Pass %": "38.52%"
@@ -350,7 +349,7 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Documents Required: For Visa ProcessMedical schools consist of 4 faculties",
+            "info": "<b>Documents Required: For Visa ProcessMedical schools consist of 4 faculties</b>",
             "data": [
                 "Invitation Letter confirmed by the Embassy of Ukraine.",
                 "Passport with a valid expiration date",
@@ -359,18 +358,13 @@ export const bogomoletsnationalmedicaluniversity = {
                 "Medical Certificate absence of viral hepatitis or HIV Infection",
                 "Official Health Certificate legalized by Ministry of Foreign Affairs and Ukrainian Embassy of the respective country",
                 "Application form with passport size photographs"
-
-            ]
-        },
-        {
-            "type": "text",
-            "title": "",
-            "data": '<p><strong  style="color: red;"><u>Note:</u></strong>The documents and statement of marks from secondary and higher secondary boards are accepted for consideration only after confirmation by the Embassy of Ukraine in the country of residence.</p>'
+            ],
+            heading: '<p><strong  style="color: red;"><u>Note:</u></strong> The documents and statement of marks from secondary and higher secondary boards are accepted for consideration only after confirmation by the Embassy of Ukraine in the country of residence.</p>'
         },
         {
             "type": "table",
             "title": "Bogomolets National Medical University - Ranking 2022",
-            "info": "According to 4icu.org, following is the country and world ranking for Bogomolets National Medical University:",
+            "info": "<b>According to 4icu.org, following is the country and world ranking for Bogomolets National Medical University:</b>",
             "col": [
                 "Country",
                 "World"
@@ -385,31 +379,18 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "text",
             "title": "Faculties Offered in Bogomolets National Medical University",
-            "data": "<p>Bogomolets National Medical University is the center of attraction for students who studying Medicine in Ukraine. They can engage with diverse study culture with affordable medical education. Due to the highly flexible programs and effective course pattern efficiency of future health care professionals is increasing in Bogomolets Medical University.</p><p><b>Medical schools consist of 4 faculties</b></p>            "
+            "data": "<p>Bogomolets National Medical University is the center of attraction for students who studying Medicine in Ukraine. They can engage with diverse study culture with affordable medical education. Due to the highly flexible programs and effective course pattern efficiency of future health care professionals is increasing in Bogomolets Medical University.</p>"
         },
         {
-            "type": "text",
+            "type": "list-bollet",
             "title": "",
-            "img": "",
-            "data": "<p class=text-center>General Medicine</p>"
-        },
-        {
-            "type": "text",
-            "title": "",
-            "img": "",
-            "data": "<p class=text-center>Pediatrics</p>"
-        },
-        {
-            "type": "text",
-            "title": "",
-            "img": "",
-            "data": "<p class=text-center>Preventive care</p>"
-        },
-        {
-            "type": "text",
-            "title": "",
-            "img": "",
-            "data": "<p class=text-center>Surgery</p>"
+            "info": "<b>Medical schools consist of 4 faculties</b>",
+            "data": [
+                "General Medicine",
+                "Pediatrics",
+                "Preventive care",
+                "Surgery"
+            ]
         },
         {
             "type": "text",
@@ -428,20 +409,20 @@ export const bogomoletsnationalmedicaluniversity = {
             "title": "",
             "info": "Fee structure varies as per faculties as per Medium of Languages.",
             "col": [
-                "faculty",
+                "Faculty",
                 "Cost"
             ],
             "row": [
                 {
-                    "faculty": "Faculty of General Medicine in English",
+                    "Faculty": "<b>Faculty of General Medicine in English</b>",
                     "Cost": "4300 USD per annum"
                 },
                 {
-                    "faculty": "Faculty of Dentistry in English",
+                    "Faculty": "<b>Faculty of Dentistry in English</b>",
                     "Cost": "4500 USD per annum"
                 },
                 {
-                    "faculty": "Preparatory Faculty",
+                    "Faculty": "<b>Preparatory Faculty</b>",
                     "Cost": "2500 USD per annum"
                 }
             ]
@@ -454,7 +435,7 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "text",
             "title": "",
-            "data": "<h3><u><strong>Living Expenditure</strong></u></h3><p>It should be noted that the expense sum indicated below are estimated values only and should not be considered as absolute values of currency rates and inflation.The below expenditure is on monthly basis</p>"
+            "data": "<p><u><strong>Living Expenditure</strong></u></p> <p>It should be noted that the expense sum indicated below are estimated values only and should not be considered as absolute values of currency rates and inflation.The below expenditure is on monthly basis</p>"
         },
         {
             "type": "table",
@@ -467,22 +448,22 @@ export const bogomoletsnationalmedicaluniversity = {
             ],
             "row": [
                 {
-                    "Parameters": "Transportation",
+                    "Parameters": "<b>Transportation</b>",
                     "Student Living in Room": "$ 50",
                     "Student Living in Apartment": "$ 70"
                 },
                 {
-                    "Parameters": "Food",
+                    "Parameters": "<b>Food</b>",
                     "Student Living in Room": "$ 150-200",
                     "Student Living in Apartment": "$ 150-200"
                 },
                 {
-                    "Parameters": "Rent",
+                    "Parameters": "<b>Rent</b>",
                     "Student Living in Room": "-",
                     "Student Living in Apartment": "Varies by the owner"
                 },
                 {
-                    "Parameters": "Miscellaneous",
+                    "Parameters": "<b>Miscellaneous</b>",
                     "Student Living in Room": "$ 100",
                     "Student Living in Apartment": "$ 100-150"
                 }
@@ -504,7 +485,6 @@ export const bogomoletsnationalmedicaluniversity = {
                 "To retain the old age European saga, the city is spoken with bistros, cafes and pubs which even though are modern to the care yet retain the eliteness of its past and of the city.",
                 "The city is touched with greenery by its numerous public parks and orchards that provide a safe environment for students.",
                 "For the adventure seekers, this city has no shortage of nightlife activities for the young hearts to pursue."
-
             ]
         },
         {
@@ -515,7 +495,6 @@ export const bogomoletsnationalmedicaluniversity = {
                 "Students in NMU are not taught in a Classroom setting with a large number of students as seen in most countries and academic programs.",
                 "So, the students are divided into a number of groups with individual lecturers for each subject for more detail attention towards each and everyone in the group.",
                 "The number of students in each group varies from 10-12 members and each of them is assessed separately in order to maximize their potential."
-
             ]
         },
         {
@@ -535,216 +514,364 @@ export const bogomoletsnationalmedicaluniversity = {
                 "Boryspil is one of the largest international airport located about 30 km southeast of Kyiv in the town of Boryspil.",
                 "Kyiv has the largest Industrial sectors including light and food Industry, Pharmaceuticals, Engineering, metallurgy, aircraft building.",
                 "The Kyiv is a city rich in aquaculture, traditions, architecture and art of excellence."
-
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Bogomolets National Medical University - Fees, Ranking, Hostel" },
                 { name: "description", content: "Bogomolets National Medical University - 100% guaranteed admission for Indian students with low fees. It is a top-ranked government medical university in Ukraine." },
             ],
         },
         {
-            type:"meta-title",
-            title: "Bogomolets National Medical University - Fees, Ranking, Hostel"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Bogomolets National Medical University - Fees, Ranking, Hostel"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university" }
-        ]}
-
-
-
+            ]
+        }
     ],
     "coursesandfees": [
-        
         {
-          type:"meta",
-          meta: [
-              { name: "title", content: "Bogomolets National Medical University  - courses & Fees" },
-              { name: "description", content: "know about Bogomolets National Medical University, Eligibility, Required documents, courses Duration. Check available courses and fees" },
-          ],
-      },
-      {
-          type:"meta-title",
-          title: "Bogomolets National Medical University  - courses & Fees"},
-      {
-          type:"meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/courses-and-fees" }
-      ]}
-        ],
-        "admission":[
-          
-          {
-            type:"meta",
+            "type": "table",
+            "title": "Bogomolets National Medical University - Fee Structure 2022 (Tuition+Hostel)",
+            "info": "",
+            "col": [
+                "Particular",
+                "Year  1",
+                "Year  2",
+                "Year  3",
+                "Year  4",
+                "Year  5",
+                "Year  6"
+            ],
+            "row": [
+                {
+                    "Particular": "<b>Tuition Fee</b>",
+                    "Year  1": "$ 3500",
+                    "Year  2": "$ 4700",
+                    "Year  3": "$ 4700",
+                    "Year  4": "$ 4700",
+                    "Year  5": "$ 4700",
+                    "Year  6": "$ 4700"
+                },
+                {
+                    "Particular": "<b>Hostel Fee</b>",
+                    "Year  1": "$ 1000",
+                    "Year  2": "Optional",
+                    "Year  3": "Optional",
+                    "Year  4": "Optional",
+                    "Year  5": "Optional",
+                    "Year  6": "Optional"
+                },
+                {
+                    "Particular": "<b>Total Fees in USD</b>",
+                    "Year  1": "$ 4500",
+                    "Year  2": "$ 4700",
+                    "Year  3": "$ 4700",
+                    "Year  4": "$ 4700",
+                    "Year  5": "$ 4700",
+                    "Year  6": "$ 4700"
+                },
+                {
+                    "Particular": "<b>Total Fees in Rs</b>",
+                    "Year  1": "Rs. 3,19,500",
+                    "Year  2": "Rs. 3,33,700",
+                    "Year  3": "Rs. 3,33,700",
+                    "Year  4": "Rs. 3,33,700",
+                    "Year  5": "Rs. 3,33,700",
+                    "Year  6": "Rs. 3,33,700"
+                }
+            ],
+            heading: '<p><b style="color: red;"><u>Note:</u></b> $1 = Rs.71 (It may vary)</p> <p>India One Time Charges: Rs 1 Lac + GST (Visa & Flight Excluded)</p> <p>Extra charges of Insurance in Ukraine.</p> <p>Extra servicing and processing charges in Ukraine.</p> <p>All the fees to the university have to be paid in US $ only.</p> <p>All the above-mentioned living expenses are subject to the students lifestyle and university.</p> <p>Tuition & Hostel fees may increase every year.</p> <p>No hidden charges.</p>'
+        },
+        {
+            type: "meta",
             meta: [
-                { name: "title", content: "Bogomolets National Medical University  - Admission 2023" },
+                { name: "title", content: "Bogomolets National Medical University  - courses & Fees" },
+                { name: "description", content: "know about Bogomolets National Medical University, Eligibility, Required documents, courses Duration. Check available courses and fees" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - courses & Fees"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/courses-and-fees" }
+            ]
+        }
+    ],
+    "admission": [
+        {
+            "type": "text",
+            "title": "Admissions Process for Indian Students in Bogomolets National Medical University",
+            "data": "<p>Bogomolets National Medical University is a highly ranked University in the city of Ukraine. For taking admission in Bogomolets National Medical University, We, At “Select Your University” guides you for an admission assistance through our online portal.</p>"
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "<b>Admission Process of Bogomolets National Medical University Consists of:</b>",
+            "data": [
+                "Filling the Application Form",
+                "Application for Admission letter",
+                "Addition of Documents",
+                "Review the Documents",
+                "Wait for the Counseling Process",
+                "Get an Invitation letter from the University",
+                "Apply for Student Visa and travel Visa",
+                "Visit the University",
+                "As per University norms, pay the respective admission fees",
+                "Complete the admission formalities with 6-year bond for study of Medicine in Ukraine",
+                "Adverse your Medical Career in Bogomolets National Medical University"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Documents Required",
+            "info": "",
+            "data": [
+                "Scanned copy of passport",
+                "Scanned copy of Birth Certificate",
+                "Scanned copy of 10th Marksheet",
+                "Scanned copy of 12th Marksheet",
+                "School Leaving Certificate",
+                "Police Verification Certificate",
+                "Medical Certificate",
+                "NEET Score Card"
+            ],
+            heading: '<p><b style="color: red;"><u>Note:</u></b> The documents mentioned in clause may vary from person to person and consulted to respective admission department.</p> <p>The acceptance of documents should not be finalized until it is revised and checked by the Admission Committee.</p>',
+        },
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria: For an MBBS Course",
+            "info": "",
+            "data": [
+                "Minimum 50% of aggregate marks in Physics, Chemistry and Biology (10+2).",
+                "Students should clear the NEET exam with qualifying marks.",
+                "Students should have to mail a scanned copy of documents to the Institute.",
+                "Age of the students should be 17 years to 25 years old before 31st December of the year of the admission process."
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Bogomolets National Medical University  - Admission 2023 " },
                 { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Bogomolets National Medical University  - Admission 2023"},
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - Admission 2023 "
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/admission" }
-        ]}
-        ],
-        "review":[
-          
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Bogomolets National Medical University  - Reviews" },
-                  { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Bogomolets National Medical University  - Reviews"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/reviews" }
-              ]
-          }
-      ],
-        "placement":[
-          
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Bogomolets National Medical University  - Placement" },
-            { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "Bogomolets National Medical University  - Placement"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/placement" }
-    ]}
-        ],
-        "gallery":[
-         
-    
-    
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Bogomolets National Medical University  - Gallery"},
-                  { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Bogomolets National Medical University  - Gallery"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/gallery" }
-              ]
-          }
-      ],
-        "scholarship": [
-          
-          {
-            type:"meta",
+            ]
+        }
+    ],
+    "review": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Bogomolets National Medical University  - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Bogomolets National Medical University  - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Bogomolets National Medical University  - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Bogomolets National Medical University  - Scholarship" },
                 { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Bogomolets National Medical University  - Scholarship"},
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - Scholarship"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/scholarship" }
-        ]}
-        ],
-        "faculty": [
-          
-          {
-            type:"meta",
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Bogomolets National Medical University  - Faculty" },
                 { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Bogomolets National Medical University  - Faculty"},
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - Faculty"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/faculty" }
-        ]}
-        ],
-        "news":[
-         
-    
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Bogomolets National Medical University  - News & Articles" },
-                  { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Bogomolets National Medical University  - News & Articles"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/news-and-articles" }
-              ]
-          }
-      ],
-        "hostel": [
-          
-          {
-            type:"meta",
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Bogomolets National Medical University  - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            "type": "list-bollet",
+            "title": "Hostel & Accommodation for Medical Students",
+            "info": "",
+            "data": [
+                "There are 8 hostels are available in the academic building of Bogomolets National Medical University.",
+                "The facilities like internet, reading rooms, cafe, canteen, footwear workshop, laundry shops are available nearby only. They are at 10-15 minutes from the hostel campus.",
+                "The students can choose either live in the university hostel or rent an apartment in the",
+                "The cost of living in hostel or in apartment may differ accordingly.",
+                "Well furnished rooms with central heating rooms, beds, tables, chair etc. are provided to students."
+            ]
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Bogomolets National Medical University  - Hostel" },
-                { name: "description", content: "Accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Bogomolets National Medical University  - Hostel"},
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - Hostel"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/hostel" }
-        ]}
-        ],
-        "faq": [
-         
-          {
-            type:"meta",
+            ]
+        }
+    ],
+    "faq": [
+        {
+            "type": "question-list",
+            "title": "Bogomolets National University - Important FAQs",
+            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "data": [
+                {
+                    "ques": "Q. What is the accommodation charges for Bogomolets NMU?",
+                    "ans": "Prices may vary as per the types of rooms (single, double & triple). The price may be between Rs.8000 -10,000 per month."
+                },
+                {
+                    "ques": "Q. How to take admission at Bogomolets Medical University?",
+                    "ans": "The applicant needs to send a scanned copy of the documents by email. After primary verification from the university, the applicant will get an invitation letter from the university."
+                },
+                {
+                    "ques": "Q. Can I work during the course of study?",
+                    "ans": "Yes, you can. But, we advise you to concentrate more on your studies. Since the MBBS is a vast syllabus, therefore, you have to be more particular for your studies."
+                },
+                {
+                    "ques": "Q. What is the period of the application review process at Bogomolets NMU?",
+                    "ans": "Generally, it takes 2-3 working days for document verification."
+                },
+                {
+                    "ques": "Q. Can I get direct admission in Bogomolets NMU without NEET exam?",
+                    "ans": "No, you have to clear the NEET exam first."
+                },
+                {
+                    "ques": "Q. Is there are any scholarships available for international students?",
+                    "ans": "Yes, scholarships will be provided as per the norms of international students."
+                },
+                {
+                    "ques": "Q. How can apply for the visa?",
+                    "ans": "You need to apply for a student visa. But, before that, you need to have an official invitation letter of the institute."
+                },
+            ]
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Bogomolets National Medical University  - FAQ" },
-                { name: "description", content: "The college is present among top university present in the country. Click here to see FAQs" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Bogomolets National Medical University  - FAQ"},
+            type: "meta-title",
+            title: "Bogomolets National Medical University  - FAQ"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/faq" }
-        ]}
-      ],
-    
-      }
+            ]
+        }
+    ]
+}

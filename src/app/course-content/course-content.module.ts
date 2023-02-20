@@ -10,6 +10,7 @@ import { AccordionModule } from 'primeng/accordion';
 import { NgbCollapseModule } from '@ng-bootstrap/ng-bootstrap';
 import { NgxGalleryModule } from '@kolkov/ngx-gallery';
 import { ChatModule } from '../chat/chat.module';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [CourseContentComponent],
@@ -22,7 +23,8 @@ import { ChatModule } from '../chat/chat.module';
     AccordionModule,
     NgbCollapseModule,
     NgxGalleryModule,
-    ChatModule
+    ChatModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class CourseContentModule { }

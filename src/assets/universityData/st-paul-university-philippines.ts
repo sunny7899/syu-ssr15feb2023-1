@@ -254,7 +254,7 @@ export const stpauluniversityphilippines = {
             ]
         },
         {
-            "type": "text",
+            "type": "list-bollet",
             "title": "Note:",
             "data": ["1$ = Rs.70",
                 "One time expenses (Registration charges), food charges, etc. can be extra up to Rs.70,000/- (or more approximately).",
@@ -685,7 +685,7 @@ export const stpauluniversityphilippines = {
     "hostel": [
 
         {
-            "type": "text",
+            "type": "list-bollet",
             "title": "Hostel & Accommodation",
             "info": "The St.Paul University Philippines provides the best accommodation facilities for the convenience of students and they are:",
             "data": [

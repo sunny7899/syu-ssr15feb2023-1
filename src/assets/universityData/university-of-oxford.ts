@@ -1,20 +1,20 @@
-export const universityofoxford= {
+export const universityofoxford = {
     "Title": "University of Oxford, England",
     "shortTitle": "University of Oxford",
     "location": "England",
     "type": "Public",
     "rating": "",
     "shareLink": "",
-    "url":"university-of-oxford",
-        "info": [
-            {
-                type: 'title',
-                title: 'University of Oxford, England'
-            },
+    "url": "university-of-oxford",
+    "info": [
         {
-          "type": "text",
-          "title": "",
-          "data": "<p>MBA at the <b>University of Oxford</b> has acquired a global reputation for its teaching, research contributions to society.</p><p> With decades of its rich history and tradition in the field of education, it offers a forward and innovative thinking approach to the management students and professionals. The university has listed in the top position as per the <b>Times Higher Education World University Ranking.</b></p><p>Around more than <b>10,000 students graduated</b> from the university.</p><p> The university has an excellent academic community with world-leading academics tackling employment across all over the world. </p><p>Admission to MBA courses at the University of Oxford is very competitive. Eligibility requirements vary as per the programs. Academic departments are nurturing the student’s ability, enthusiasm and commitments to pursue high-level education at the university. </p>"
+            type: 'title',
+            title: 'University of Oxford, England'
+        },
+        {
+            "type": "text",
+            "title": "",
+            "data": "<p>MBA at the <b>University of Oxford</b> has acquired a global reputation for its teaching, research contributions to society.</p> <p>With decades of its rich history and tradition in the field of education, it offers a forward and innovative thinking approach to the management students and professionals. The university has listed in the top position as per the <b>Times Higher Education World University Ranking.</b></p> <p>Around more than <b>10,000 students graduated</b> from the university.</p> <p>The university has an excellent academic community with world-leading academics tackling employment across all over the world.</p> <p>Admission to MBA courses at the University of Oxford is very competitive. Eligibility requirements vary as per the programs. Academic departments are nurturing the student’s ability, enthusiasm and commitments to pursue high-level education at the university.</p>"
         },
         {
             type: 'list-bollet',
@@ -31,20 +31,20 @@ export const universityofoxford= {
         {
             "type": "table-title",
             "title": "University of Oxford - Quick Overview",
-            "info": "Following are the quick highlights of studying MBA in the University of Oxford:",
+            "info": "<b>Following are the quick highlights of studying MBA in the University of Oxford:</b>",
             "row": [
-                     ["Degree Awarded","MBA"],
-                     ["Course Duration","1 Years"],
-                     ["Program Intake","September"],
-                     ["Types of MBA Program","Full-time/Part-time"],
-                     ["Annual Tuition Fees","Rs.58 lakhs"],
-                     ["Job Positions Offered","Analyst, Supervisor, Manager, Specialist, HR"]
-                    ]
+                ["<b>Degree Awarded</b>", "MBA"],
+                ["<b>Course Duration</b>", "1 Years"],
+                ["<b>Program Intake</b>", "September"],
+                ["<b>Types of MBA Program</b>", "Full-time/Part-time"],
+                ["<b>Annual Tuition Fees</b>", "Rs.58 lakhs"],
+                ["<b>Job Positions Offered</b>", "Analyst, Supervisor, Manager, Specialist, HR"]
+            ]
         },
-          {
+        {
             type: 'list-bollet',
             title: 'Why Study MBA at University of Oxford?',
-            info: 'Following are the top benefits for studying MBA at the University of Oxford:',
+            info: '<b>Following are the top benefits for studying MBA at the University of Oxford:</b>',
             data: [
                 "1:1 meeting with the career counselors.",
                 "10+ career fairs each year with more than 600+ exhibitors.",
@@ -53,27 +53,25 @@ export const universityofoxford= {
                 "Internship opportunities in renowned firms."
             ]
         },
-
         {
             "type": "table",
             "title": "University of Oxford - Ranking 2022",
-            "info": "Below is the country & world ranking of the University of Oxford as per the uniRank standard ranking system:",
+            "info": "<b>Below is the country & world ranking of the University of Oxford as per the uniRank standard ranking system:</b>",
             "col": [
                 "Country",
                 "World",
             ],
             "row": [
                 {
-                  "Country": "1",
-                  "World": "15",
-                },
-
+                    "Country": "1",
+                    "World": "15",
+                }
             ]
         },
         {
             type: 'list-bollet',
             title: 'Students Life',
-            info: "Many of the international students at the university will get plenty of growth opportunities with a modern and productive teaching environment at the university:<br>The university offers,",
+            info: "<b>Many of the international students at the university will get plenty of growth opportunities with a modern and productive teaching environment at the university:</b> <br>The university offers,",
             data: [
                 "Excellent life in the city of Oxford",
                 "Options for accommodation",
@@ -83,61 +81,417 @@ export const universityofoxford= {
             ]
         },
         {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England" },
+                { name: "description", content: "The University of Oxford is the number one university for MBA in the UK. It offers the best MBA education in the UK." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford" }
+            ]
+        }
+    ],
+    "coursesandfees": [
+        {
             "type": "table",
-            "title": "Living Expenses in Milan",
-            "info": "The cost of living in Milan is quite affordable and one should have an estimate of the expenditures before taking admission to Bocconi University:",
-            "col":[
-                        "Particulars",
-                        "Approx range in USD",
-                        "Approx range in RS"
-                 ],
+            "title": "University of Oxford - Fee Structure 2022",
+            "info": "<b>Following is the fee structure of MBA course at University of Oxford:</b>",
+            "col": [
+                "Particulars",
+                "Fees in Rupees",
+                "Fees in USD"
+            ],
             "row": [
                 {
-                    "Particulars": "Accommodation (other than a hostel)",
-                    "Approx range in USD": "947 - 1420 USD",
-                    "Approx range in RS": "70,078 - 1,05,080"
+                    "Particulars": "Course Fees (approx)",
+                    "Fees in Rupees": "Rs. 54,95,000",
+                    "Fees in USD": "$ 78,500"
                 },
                 {
-                    "Particulars": "Food",
-                    "Approx range in USD": "118 USD",
-                    "Approx range in RS": "8,732"
+                    "Particulars": "Hostel Fees (approx)",
+                    "Fees in Rupees": "Rs. 60,000",
+                    "Fees in USD": "$ 857"
                 },
                 {
-                    "Particulars": "Transport",
-                    "Approx range in USD": "219 USD",
-                    "Approx range in RS": "16,206"
-                },
-
+                    "Particulars": "Total Fees",
+                    "Fees in Rupees": "Rs. 55,55,000",
+                    "Fees in USD": "$ 79,357"
+                }
+            ],
+            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$= Rs.70</p>'
+        },
+        {
+            "type": 'list-bollet',
+            "title": 'Courses Offered at University of Oxford',
+            "info": '<b>Following are the courses offered at the University of Oxford:</b>',
+            "data": [
+                "Postgraduate",
+                "Business Administration",
+                "Master of Studies",
+                "Master of Science"
             ]
         },
         {
-          type: 'text',
-          title: '',
-          info: '',
-          data: '<p><b style="color: red;"><u>Note:</u></b> 1 USD = 74 Rs for approx calculations.</p>',
-      },
-      { 
-        type:"meta",
-        meta: [
-            { name: "title", content: "University of Oxford, England" },
-            { name: "description", content: "The University of Oxford is the number one university for MBA in the UK. It offers the best MBA education in the UK." },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "University of Oxford, England"},
-    { 
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford" }
-    ]}
-
-
+            "type": 'list-bollet',
+            "title": 'University of Oxford - MBA Duration',
+            "info": '<b>An MBA in University of Oxford lasts for a period of 1 year:</b>',
+            "data": [
+                "The University of Oxford offers a full-time business management program that comprises 1 year leading to the degree of Master of Business Administration.",
+                "One of the notable features of the University of Oxford MBA program is that it provides the opportunity to learn business exposure by contributing to broad-based education."
+            ]
+        },
+        {
+            "type": 'list-bollet',
+            "title": 'Specializations Offered at University of Oxford',
+            "info": '<b>Below are the specializations offered for studying MBA at University of Oxford:</b>',
+            "data": [
+                "Finance",
+                "Economics",
+                "Law",
+                "Management",
+                "Marketing"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - courses & Fees" },
+                { name: "description", content: "University of Oxford offers competitive fees for its courses in all the fields . Check available courses and fees" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - courses & Fees"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/courses-and-fees" }
+            ]
+        }
     ],
-    "gallery": {},
-    "scholarship": {},
-    "faculty": {},
-    "News & Articles": {},
-    "hostel": {},
-
+    "admission": [
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria",
+            "info": "<b>Following are the admission prerequisites for applying MBA in University of Oxford:</b>",
+            "data": [
+                "Applicants must have a bachelor degree in respective discipline from the recognized university.",
+                "For working professionals, a work experience certificate is required.",
+                "Applicants must clear GMAT/GRE entrance exams while applying for the course.",
+                "Language proficiency tests like TOEFL/IELTS must be required for enrolling in the course."
+            ]
+        },
+        {
+            type: 'step-list',
+            title: 'Admission Process',
+            info: '<b>Below are the admission guidelines required for applying MBA in the University of Oxford:</b>',
+            data: [
+                "Step 1: Visit the website. Apply on the link",
+                "Step 2: Create a new graduate applicant account.",
+                "Step 3: Follow the www.graduate.ox.ac.uk/apply online for accessing the graduate applicant account.",
+                "Step 4: Fill the application form with valid details. Check the form compatibility with a web browser, chrome, firefox or the browser on which you are submitting the form.",
+                "Step 5: Select the application type."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Application type should be",
+            "info": "<b>1 Standard</b>",
+            "data": [
+                "Select the standard application type if your application meets the type of category. Application fees: £75"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "<b>2 Standard Application (pre-paid)</b>",
+            "data": [
+                "Select the application if you already paid the fees. Such applications are permitted to apply for CDT/DTP courses."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "<b>Readmission</b>",
+            "data": [
+                "You can use the current authorization code and apply to the next level of admission of the course.",
+                "On the entry requirements section, an applicant can view the status of application whether the eligible or not.",
+                "Eligible candidates will get a call for the interview process. Interviews would be conducted on Skype, telephone or the face to face."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Documents Required",
+            "info": "<b>Refer the below document checklists for applying MBA at University of Oxford:</b>",
+            "data": [
+                "Bachelor’s degree and transcripts",
+                "GMAT/GRE",
+                "Updated CV with a professional experience",
+                "IELTS/TOEFL (English proficiency certificate)",
+                "Academic references (Copy of 10th, 12th & bachelor’s mark sheet)",
+                "Online application form",
+                "Birth certificate",
+                "Medical certificate "
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "English Language Requirements",
+            "info": "",
+            "data": [
+                "Studying MBA at the University of Oxford required to have a high level of proficiency in English. For acquiring the seat for the MBA program at the university, you should have adequate test scores in the English language tests like IELTS or TOEFL.",
+                "You can apply for the waiver on the test scores if you have undertaken a bachelor’s degree from the recognized institution where the courses are taught entirely in the English language.",
+                "If you will meet the above eligibility criteria then you can apply for the waiver request in the application form.",
+                "The university also offers an online Pre-Sessional English course for non-native English students. "
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - Admission 2023 " },
+                { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process. Click Here TO REGISTER" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - Admission 2023 "
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/admission" }
+            ]
+        }
+    ],
+    "review": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            "type": "list-bollet",
+            "title": "Placements of University of Oxford",
+            "info": "<b>Following are the placements records of University of Oxford you can go through it for a detailed look-</b>",
+            "data": [
+                "Oxford placements rate of 81.3% for 2017-18 batch recorded an all time high considering the fact that 2015 placement rate of 55%.",
+                "With more than 90% of global college students bagging a placement after graduating from Oxford University, packages for 2020 intake have multiplied through 3%.",
+                "The 2017-18 Oxford University placements stats had been recorded 15 months after graduating.",
+                "Out of the full 4,818 respondents of GoS, total number of undergraduate college students had been 2,351 while postgraduate respondents had been 2,467.",
+                "Around 2,244 respondents were women while the rest 2,574 had been male college students."
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "list-bollet",
+            "title": "Scholarships Offered at University of Oxford",
+            "info": "<b>Funding is sponsored by the University of Oxford to the management professionals:</b>",
+            "data": [
+                "The scholarship is completely based on merit-basis.",
+                "There is a range of options available for the students for availing the scholarships. Scholarships are awarded through external funding and loans."
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - Scholarship" },
+                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/scholarship" }
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            "type": "table",
+            "title": "Faculty",
+            "info": "",
+            "col": [
+                "Name",
+                "Position"
+            ],
+            "row": [
+                {
+                    "Name": "Agni Orfanoudaki ",
+                    "Position": "Associate Professor"
+                },
+                {
+                    "Name": "Ahmed Husain",
+                    "Position": "Entrepreneurship Expert"
+                },
+                {
+                    "Name": "Ai Ching Goh ",
+                    "Position": "Entrepreneurship Expert"
+                },
+                {
+                    "Name": "Akshay Mangla",
+                    "Position": "Associate Professor in International Business"
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - Faculty"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/faculty" }
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - Hostel" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/hostel" }
+            ]
+        }
+    ],
+    "faq": [
+        {
+            "type": "question-list",
+            "title": "University of Oxford - Important FAQs",
+            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "data": [
+                {
+                    "ques": "Q. How many seats allotted to the MBA course at the University of Oxford?",
+                    "ans": "Around 120 seats are allotted to an MBA course at the University of Oxford for international students."
+                },
+                {
+                    "ques": "Q. Are the internships available at the institute?",
+                    "ans": "Internship programs are offered to the candidates as per the choice of program."
+                },
+                {
+                    "ques": "Q. What is the duration of an MBA program at the University of Oxford?",
+                    "ans": "The duration of MBA programs at the University of Oxford lasts for a period of 1 year."
+                },
+                {
+                    "ques": "Q. Are there any hostel facilities available for the students?",
+                    "ans": "Yes, hostels are provided for boys and girls with the AC and Non-AC rooms."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Oxford, England - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Oxford, England - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-oxford/faq" }
+            ]
+        }
+    ]
 }

@@ -101,22 +101,105 @@ export const fmgeexam = {
             "data": "<p>If you need to reach to MCI/NMC then you can search the address with Medical Council of India/National Medical Commission address which is situated in New Delhi.</p><p> <strong>MCI/NMC Address (Delhi)</strong> <br>Pocket- 14 , Sector – 8, Dwarka Phase -1 <br>New Delhi – 110077, INDIA</p><p> <strong>New Toll-free Number</strong> : 1800111154 ( from 9.30AM to 6.00 PM )</p><p> <strong>Phone No’s</strong> : +91-11-25367033, 25367035, 25367036, 25367037</p><p> <strong>Fax – General</strong> : +91-11-25367024, 25367028</p><p> <strong>Email</strong> : secy-mci@nic.in</p><p> <strong>Website: </strong> <a href=https://www.nmc.org.in/ target=_blank>https://www.nmc.org.in/</a> </p><p> <strong> Note:</strong></p><p>The MCI/NMC related latest news is a must to follow for the people who are seeking registration with MCI/NMC Screening Test/FMGE Exam. There are lots of news and events which comes under this section.</p><p>The announcements regarding the examinations and other details are provided in MCI/NMC latest news section of the website.</p>"
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "FMGE/MCI/NMC Screening Test - Exam Pattern, Eligibility, Fees, Important Dates 2021" },
-              { name: "description", content: "FMGE/MCI/NMC exam is a licensure examination given by students who completed MBBS in abroad. Find out more about the exam pattern, syllabus, fees, and eligibility criteria." },
+                { name: "title", content: "FMGE/MCI/NMC Screening Test - Exam Pattern, Eligibility, Fees, Important Dates 2021" },
+                { name: "description", content: "FMGE/MCI/NMC exam is a licensure examination given by students who completed MBBS in abroad. Find out more about the exam pattern, syllabus, fees, and eligibility criteria." },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "FMGE/MCI/NMC Screening Test - Exam Pattern, Eligibility, Fees, Important Dates 2021"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "FMGE/MCI/NMC Screening Test - Exam Pattern, Eligibility, Fees, Important Dates 2021"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/fmge-exam" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/fmge-exam" }
+            ]
+        }
 
     ],
-    
-    
+    "examdate": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "FMGE/NEXT Exam 2023 - Exam Date" },
+                { name: "description", content: "Stay updated with the latest FMGE exam dates and schedule. Prepare for your medical licensing exam with confidence. Register now and secure your seat!" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "FMGE/NEXT Exam 2023 - Exam Date"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/fmge-exam/exam-date" }
+            ]
+        }
+
+    ],
+    "syllabus":[
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "FMGE/NEXT Exam 2023 - Syllabus" },
+                { name: "description", content: "Get familiar with the FMGE exam syllabus and know what to expect on the medical licensing exam. Stay ahead in your preparation and pass with flying colors." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "FMGE/NEXT Exam 2023 - Syllabus"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/fmge-exam/syllabus" }
+            ]
+        }
+
+    ],
+    "cutoff":[
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "FMGE/NEXT Exam 2023 - Cut Off" },
+                { name: "description", content: "Stay informed about the FMGE exam cut off marks and know what score you need to pass the medical licensing exam." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "FMGE/NEXT Exam 2023 - Cut Off"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/fmge-exam/cut-off" }
+            ]
+        }
+
+
+    ],
+    "faq":[
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "FMGE/NEXT Exam 2023 - FAQ" },
+                { name: "description", content: "Find answers to your FMGE Exam related questions. Clear all your doubts and understand the exam process better." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "FMGE/NEXT Exam 2023 - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/fmge-exam/faq" }
+            ]
+        }
+
+    ]
+
+
 }

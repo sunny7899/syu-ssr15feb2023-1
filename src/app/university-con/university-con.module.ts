@@ -14,10 +14,13 @@ import { NavModule } from '../nav/nav.module';
 import { DialogModule } from 'primeng/dialog';
 import { UniversityConComponent } from './university-con.component';
 import { ChatModule } from '../chat/chat.module';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [UniversityConComponent],
   imports: [
+    FormsModule,
+    ReactiveFormsModule,
     CommonModule,
     ChatModule,
     UniversityConRoutingModule,
