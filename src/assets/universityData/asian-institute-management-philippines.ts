@@ -80,47 +80,14 @@ export const asianinstitutemanagementphilippines = {
                     },
                 ]
             },
-
             {
-                    type: 'text',
-                    title: 'Facilities',
-                    info:'This University renders basic to high-tech facilities to the enrolled students for better experience:                    ',
-                    img: 'https://www.selectyouruniversity.com/images/philippines-universities/classroom.png',
-                    data: '<p class =text-center>Classroom</p>'
-                },
-
-
-                {
-                        type: 'text',
-                        title: '',
-                        img: 'https://www.selectyouruniversity.com/images/philippines-universities/internet.png',
-                        data: '<p class =text-center>Internet</p>'
-                    },
-                    {
-                        type: 'text',
-                        title: '',
-                        img: 'https://www.selectyouruniversity.com/images/philippines-universities/security.png',
-                        data: '<p class =text-center>Security</p>'
-                    },
-                    {
-                        type: 'text',
-                        title: '',
-                        img: 'https://www.selectyouruniversity.com/images/philippines-universities/library.png',
-                        data: '<p class =text-center>Library</p>'
-                    },
-                    {
-                        type: 'text',
-                        title: '',
-                        img: 'https://www.selectyouruniversity.com/images/philippines/canteen.png',
-                        data: '<p class =text-center>Canteen</p>'
-                    },
-                    {
-                        type: 'text',
-                        title: '',
-                        img: 'https://www.selectyouruniversity.com/images/philippines-universities/accommodation.png',
-                        data: '<p class =text-center>Accommodation</p>'
-                    },
-
+                type: 'table-title',
+                title: 'Facilities',
+                info: 'This University renders basic to high-tech facilities to the enrolled students for better experience:',
+                row: [
+                    ["Security","Internet","Classroom","Library","Canteen","Accommodation"]
+                ]
+            },
 
                     {
                         "type": "list-bollet",
@@ -175,6 +142,32 @@ export const asianinstitutemanagementphilippines = {
 
                 ],
                 "coursesandfees": [
+
+                    {
+                        "type": "table",
+                        "title": "Asian Institute Management - MBA Fee Structure 2023",
+                        "info": "To learn about the fee structure of this university have a look at the table below:",
+                        "col": [
+                            "Course",
+                            "Total Amount (Including Reservation fee)"
+                        ],
+                        "row": [
+                            {
+                                "Course": "<b>MBA</b>",
+                                "Total Amount (Including Reservation fee)": "Around (USD 30,500)"
+                            },
+                            
+                        ]
+                    },
+                    {
+                        "type": "list-bollet",
+                        "title": "Asian Institute Management - MBA Duration",
+                        "info": "",
+                        "data": [
+                           "The university has designed 12 months of full-time MBA programs.",
+                           "The MBA programs are instructed in the English language throughout. It helps students in better understanding of the course and avoids language barrier issues.",
+                        ]
+                    },
         
                     {
                       type:"meta",
@@ -193,6 +186,75 @@ export const asianinstitutemanagementphilippines = {
                   ]}
                     ],
                     "admission":[
+
+                        {
+                            "type": "list-bollet",
+                            "title": "Eligibility Criteria",
+                            "info": "To get enrolled in the programs offered by Asian Institute Management, know the basic criteria:",
+                            "data": [
+                               "The applicants must hold a bachelor’s degree or equivalent qualification in any discipline.",
+                               "Applicants should have at least 2 years of relevant work experience Proficiency in oral and written test (IELTS score: Band 6 is recommended)",
+                               "Must carry a valid visa",
+                               "Must carry a valid passport"
+                            ]
+                        },
+                        {
+                            "type": "step-list",
+                            "title": "Admission Process",
+                            "info":"If you are willing to get enrolled in the MBA program, check the details below to know the admission process:",
+                            "data": [
+                            "<b>Step 1: </b>Apply for an online application. After the online application gets processed it will be thoroughly accessed.",
+                            "<b>Step 2: </b>Once the online application is approved, the preliminary screening will be conducted. During this screening IELTS, TOEFL scores will be examined.",
+                            "<b>Step 3: </b>Interview process. After the screening process, an interview session will be conducted. Candidates preselected for admission will be invited for an interview round.",
+                            "<b>Step 4: </b>After the interview round, selected candidates will be offered to join the respective program."
+                          ]
+                          },
+                          {
+                            "type": "list-bollet",
+                            "title": "Documents Required",
+                            "info": "To get admission at this university refer the checklist of the documents:",
+                            "data": [
+                               "Updated CV",
+                               "Professional Letter of Recommendation along with the application essay",
+                               "SSC marksheet",
+                               "HSC marksheet",
+                               "Secondary school leaving certificate",
+                               "Photocopy/Scanned copy of TOR of last degree completed",
+                               "GMAT / GRE / AIMAT (CAT, XAT for Indian Applicants) score",
+                               "Birth certificate",
+                               "Valid Passport",
+                               "Passing certificate",
+                               "COVID-19 reports",
+                               "Passport size"
+                            ]
+                        },
+                        {
+                            "type":"table",
+                            "title":"Important Dates: Intake 2023",
+                            "info":"If you wish to enroll in the MBA program at this university, check the table below to know the key dates during the admission process:",
+                            "col": [
+                                "Events",
+                                "Dates"
+                            ],
+                            "row":[
+                                {
+                                    "Events":"<b>Application Start Date</b>",
+                                    "Dates":"April"
+                                },
+                                {
+                                    "Events":"<b>Invitation Letter</b>",
+                                    "Dates":"Within 2 weeks"
+                                },
+                                {
+                                    "Events":"<b>Admission Start Date</b>",
+                                    "Dates":"Yet to be declared"
+                                },
+                                {
+                                    "Events":"<b>Last Date of Admission Form</b>",
+                                    "Dates":"Yet to be declared"
+                                }
+                            ]
+                        },
                       
                       {
                         type:"meta",
@@ -231,6 +293,16 @@ export const asianinstitutemanagementphilippines = {
                       }
                   ],
                     "placement":[
+
+                        {
+                            "type": "list-bollet",
+                            "title": "",
+                            "info": "",
+                            "data": [
+                               "Graduates might return to India and seek work after completing their various degrees.",
+                               "Internships and jobs in and around the Philippines are encouraged for students at the Asian Institute Management."
+                            ]
+                        },
                       
                   {
                     type:"meta",
@@ -289,6 +361,44 @@ export const asianinstitutemanagementphilippines = {
                     ]}
                     ],
                     "faculty": [
+
+                        {
+                            "type":"table",
+                            "title":"Important Dates: Intake 2023",
+                            "info":"The candidates must stay updated with the important admission dates of Kyiv School of Economics:",
+                            "col": [
+                                "Name",
+                                "Designation",
+                                "Department"
+                            ],
+                            "row":[
+                                {
+                                    "Name":"<b>Christian M. Alis, PhD</b>",
+                                    "Designation":"Assistant Professor",
+                                    "Department":"Data Scientist"
+                                },
+                                {
+                                    "Name":"<b>Erika Fille T. Legara, PhD</b>",
+                                    "Designation":"Assistant Professor",
+                                    "Department":"Data Scientist"
+                                },
+                                {
+                                    "Name":"<b>Christopher P. Monterola, PhD</b>",
+                                    "Designation":"Professor",
+                                    "Department":"Data Scientist"
+                                },
+                                {
+                                    "Name":"<b>Jamil Paolo S. Francisco, PhD</b>",
+                                    "Designation":"Assistant Professor",
+                                    "Department":"Data Scientist"
+                                },
+                                {
+                                    "Name":"<b>Wilfred S. Manuela Jr., PhD</b>",
+                                    "Designation":"Assistant Professor",
+                                    "Department":"Data Scientist"
+                                },
+                            ]
+                        },
                       
                       {
                         type:"meta",
@@ -328,6 +438,22 @@ export const asianinstitutemanagementphilippines = {
                       }
                   ],
                     "hostel": [
+
+                        {
+                            "type": "list-bollet",
+                            "title": "Hostel and Accomodation",
+                            "info": "",
+                            "data": [
+                               "The university has made provisions for the students' stay by providing them with spacious apartments and hotels nearby.",
+                               "These apartments can be rented on a sharing basis or to stay independently.",
+                               "These accommodations are available at a fair price.",
+                               "Cleaning and washing facilities are provided with the stay.",
+                               "Accommodations arranged for girls and boys are different.",
+                               "They stay differently.",
+                               "Along with the accommodation meals and breakfast, facilities are also made available for the students.",
+                               "These accommodations are provided on a long-term or short-term basis as per the requirements."
+                            ]
+                        },
                       
                       {
                         type:"meta",
@@ -347,6 +473,31 @@ export const asianinstitutemanagementphilippines = {
                     ],
                     "faq": [
                      
+
+                        {
+                            "type": "question-list",
+                            "title": "Asian Institute Management - Important FAQs",
+                            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                            "data": [
+                                {
+                                  "ques": "Q. The application process will only be conducted online or at the University’s premises too?",
+                                  "ans": "The university has arranged online application forms for the interested candidates."
+                                },
+                                { "ques": "Q. Post application process, interviews will be conducted at the University’s campus or online?",
+                                  "ans": "At the moment, interviews will be conducted online after the evaluation of the submitted initial requirements."
+                                },
+                                {
+                                    "ques": "Q. Is the Online version of Gmat or GRE scores accepted by the University?",
+                                    "ans": "Yes, the official score of either of the exams is accepted. For MBA or EMBA GMAT or GRE scores are mandatory."
+                                },
+                                {
+                                    "ques": "Q. Is this university an ideal option to pursue MBA or EMBA degree at?",
+                                    "ans": "Yes, since this university has long years of experience in teaching and believes in excellence."
+                                }
+                            ]
+                        },
+
+
                       {
                         type:"meta",
                         meta: [

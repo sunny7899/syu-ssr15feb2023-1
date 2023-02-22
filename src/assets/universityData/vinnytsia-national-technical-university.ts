@@ -137,13 +137,10 @@ export const vinnytsianationaltechnicaluniversity= {
                 "Activity":"Monthly rent for a 1 bedroom apartment",	
                 "Cost":"Cost between Rs.13530 - Rs.17900"
                 },
-            ]
+            ],
+            "heading":"<p><b>Note: </b>Note: 1$ = Rs. 70</p>"
         },
-        {
-            "type":"text",
-            "title":"",
-            "data":"Note: 1$ = Rs. 70"               
-        },
+        
         {
             "type":"list-bollet",
             "title":"About Vinnytsia City",
@@ -174,6 +171,342 @@ export const vinnytsianationaltechnicaluniversity= {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university" }
         ]}
     ],
-}
+    "coursesandfees": [
+
+        {
+            "type": "table-title",
+            "title": "Courses Offered at Vinnytsia National Technical University",
+            "info": "Vinnytsia National Technical University (VNTU) has different institutes and faculties. VNTU consists of 7 educational and scientific faculties and 1 educational and scientific institute:",
+            "col": [ ],
+            "row": [
+                ["Power Engineering","Information Technology","Management"],
+                ["Infocommunications","Mechanical Engineering","Computer Systems & Automation"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "Course Duration at Vinnytsia National Technical University",
+            "info": "The duration for studying different courses at Vinnytsia National Technical University is mentioned below:",
+            "col": [ ],
+            "row": [
+                ["For Bachelor's training","5 years"],
+                ["For Master's training","1 year and 2 months after 4 years of training and defence of Bachelor's Work."],
+                ["Duration for Specialist's training","1 year after Bachelor's training"]
+            ],
+        },
+        
+        {
+          type:"meta",
+          meta: [
+              { name: "title", content: "Vinnytsia National Technical University, Ukraine - courses & Fees" },
+              { name: "description", content: "Vinnytsia National Technical University offers a low tuition fee for technical courses in Ukraine. Click here for courses and fees" },
+          ],
+      },
+      {
+          type:"meta-title",
+          title: "Vinnytsia National Technical University, Ukraine - courses & Fees"},
+      {
+          type:"meta-links",
+          link: [
+              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/courses-and-fees" }
+      ]}
+        ],
+        "admission":[
+
+            {
+                "type": "list-bollet",
+                "title": "Eligibility Criteria",
+                "info": "Candidates who want to secure admission at Vinnytsia National Technical University must fit in the following eligibility criteria:",
+                "data": [
+                    "To study different engineering programs and other courses applicants should have completed 10+2 of their education.",
+                    "They must have knowledge of English language.",
+                    "Students must have studied Physics, Chemistry, Mathematics at 10+2 of their education.",
+                    "It is compulsory for applicants to have a Certificate of complete secondary education available.",
+                    "If the entrants who want to secure admission at Vinnytsia national technical University are from Ukraine they will need to pass a complex test on mathematics and physics.",
+                    "Foreign students who want to secure admission at Vinnytsia national technical University study in accordance with the contract system of training.",
+                    "Ukrainian students must have a good command of Ukrainian language.",
+                    "Foreign students who wish to study at this university should know either Ukrainian or Russian Language. There is also a preparatory department with the term of study up to 9 months to master these languages."
+                ]
+            },
+            {
+                "type": "step-list",
+                "title": "Admission Process",
+                "info":"Below given is the admission process which students need to follow to take admission at Vinnytsia National Technical University:",
+                "data": [
+                "<b>Step 1: </b>Submit application - Fill and submit an application form.",
+                "<b>Step 2: </b>Submit the necessary documents mentioned here.",
+                "<b>Step 3: </b>Students must appear and clear the entrance examination held by the university.",
+                "<b>Step 4: </b>Students or applicants must pass interviews with the relevant commission. (if required).",
+                "<b>Step 5: </b>Students then should pay the required amount of tuition fees to the university."
+              ]
+              },
+              {
+                "type": "list-bollet",
+                "title": "Documents Required",
+                "info": "Students must carry the below-mentioned documents with them at the time of admission to Vinnytsia National Technical University:",
+                "data": [
+                    "The Enrollment application form",
+                    "An Original invitation letter (translated into the Ukrainian language approved by the Embassy of Ukraine in the respective country)",
+                    "High school Certificate (Original and Attested copy)",
+                    "Birth Certificate",
+                    "Health Certificate",
+                    "12 photographs (3x4 cm)",
+                    "HIV test certificate",
+                    "International Passport",
+                    "Letters of Recommendation",
+                    "Covid-19 report",
+                    "Approved Visa Copy",
+                    "Non-Criminal Certificate",
+                    "Copy of Blood Group Certificate"
+                ],
+            },
+            {
+                "type": "table",
+                "title": "Important Dates - Intake 2023",
+                "info": "Check out the Important dates regarding admission at Vinnytsia National Technical University:",
+                "col": [
+                    "Events",
+                    "Dates"
+                ],
+                "row": [
+                    {
+                        "Events": "<b>Application Start Date</b>",
+                        "Dates": "May/June"
+                    },
+                    {
+                        "Events": "<b>Entrance Exams for Bachelor’s Degree</b>",
+                        "Dates": "August"
+                    },
+                    {
+                        "Events": "<b>Courses Commences From</b>",
+                        "Dates": "-"
+                    },
+                ],
+            },
+            
+          
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Vinnytsia National Technical University, Ukraine - Admission 2023 " },
+                { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process at Vinnytsia National Technical University. Click Here TO REGISTER" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Vinnytsia National Technical University, Ukraine - Admission 2023 "},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/admission" }
+        ]}
+        ],
+        "review":[
+          
+          {
+              type: "meta",
+              meta: [
+                  { name: "title", content: "Vinnytsia National Technical University, Ukraine - Reviews" },
+                  { name: "description", content: "Vinnytsia National Technical University offers a low tuition fee for technical courses in Ukraine. Find out reviews details" },
+              ],
+          },
+          {
+              type: "meta-title",
+              title: "Vinnytsia National Technical University, Ukraine - Reviews"
+          },
+          {
+              type: "meta-links",
+              link: [
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/reviews" }
+              ]
+          }
+      ],
+        "placement":[
+
+          
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Vinnytsia National Technical University, Ukraine - Placement" },
+            { name: "description", content: "Vinnytsia National Technical University offers a low tuition fee for technical courses. click on placement" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Vinnytsia National Technical University, Ukraine - Placement"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/placement" }
+    ]}
+        ],
+        "gallery":[
+         
+    
+    
+          {
+              type: "meta",
+              meta: [
+                  { name: "title", content: "Vinnytsia National Technical University, Ukraine - Gallery"},
+                  { name: "description", content: "Vinnytsia National Technical University offers a low tuition fee for technical courses in Ukraine. Click here for gallery  informaton." },
+              ],
+          },
+          {
+              type: "meta-title",
+              title: "Vinnytsia National Technical University, Ukraine - Gallery"
+          },
+          {
+              type: "meta-links",
+              link: [
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/gallery" }
+              ]
+          }
+      ],
+        "scholarship": [
+          
+           
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Vinnytsia National Technical University, Ukraine - Scholarship" },
+                { name: "description", content: "Vinnytsia National Technical University offers a low tuition fee for technical courses in Ukraine. Click here for courses and fees" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Vinnytsia National Technical University, Ukraine - Scholarship"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/scholarship" }
+        ]}
+        ],
+        "faculty": [
+          
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Vinnytsia National Technical University, Ukraine - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Vinnytsia National Technical University, Ukraine - Faculty"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/faculty" }
+        ]}
+        ],
+        "news":[
+         
+    
+          {
+              type: "meta",
+              meta: [
+                  { name: "title", content: "Vinnytsia National Technical University, Ukraine - News & Articles" },
+                  { name: "description", content: "Vinnytsia National Technical University offers a low tuition fee for technical courses. click for more news and articles details " },
+              ],
+          },
+          {
+              type: "meta-title",
+              title: "Vinnytsia National Technical University, Ukraine - News & Articles"
+          },
+          {
+              type: "meta-links",
+              link: [
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/news-and-articles" }
+              ]
+          }
+      ],
+        "hostel": [
+
+            {
+                "type": "list-bollet",
+                "title": "Hostel & Accommodation",
+                "info": "Following are the hostel facilities at Vinnytsia National Technical University:",
+                "data": [
+                    "The university provides a total of 6 dormitories for students.",
+                    "The total area of ​​student dormitories is 41,129.0 square meter, and the capacity according to the standards is 2,500 seats.",
+                    "Due to the presence of 6 dormitories, the provision of students with dormitories reaches 100%.",
+                    "These dormitories are located just next to educational and laboratory buildings which reduces the unnecessary wastage of time of students during classes.",
+                    "There is a modern dining room of 530 seats, in the center of the campus, which is a two-storey building with a complete technological cycle of storage and processing of food raw materials, and thus this provides complete nutrition for students and staff of the university."
+                ],
+            },
+
+            
+          
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Vinnytsia National Technical University, Ukraine - Hostel" },
+                { name: "description", content: "Vinnytsia National Technical University offers a low tuition fee for technical courses in Ukraine. Click here for hostel details" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Vinnytsia National Technical University, Ukraine - Hostel"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/hostel" }
+        ]}
+        ],
+        "faq": [
+
+            {
+                "type": "question-list",
+                "title": "Vinnytsia National Technical University - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+                "data": [
+                    {
+                      "ques": "Q. Is there any dining facility at the university?",
+                      "ans": "Yes, in the center of the campus there is a modern dining room with 530 seats. It is a two-storey building which has a complete technological cycle of storage and processing of food raw materials, and thus it provides complete nutrition for students and staff of the university."
+                    },
+                    { 
+                       "ques": "Q. How is the infrastructure of the university?",
+                      "ans": "The university has 8 educational and laboratory buildings with a total area of ​​121,917 sq.m., of which the area of ​​educational and laboratory premises is 72,119.7 sq.m."
+                    },
+                    {
+                        "ques": "Q. How many students are currently studying at the university?",
+                        "ans": "Today, the university has about 5,000 full-time and part-time students studying different courses."
+                    },
+                    {
+                        "ques": "Q. How is the library of the university?",
+                        "ans": "The library was founded in 1960 and today there are 4 season tickets, 8 reading rooms for 555 seats and the library fund has 840 thousand documents and books."
+                    },
+                    { 
+                        "ques": "Q. Is there a distance learning facility at the university?",
+                      "ans": "Yes, the Vinnytsia national technical university provides distance learning facilities for students."
+                    },
+                    { 
+                        "ques": "Q. Does the university provide a postgraduate and doctoral studies facility?",
+                      "ans": "Yes, the university provides facilities of postgraduate studies in 21 specialties and doctoral studies in 9 specialties."
+                    }
+                ]
+            },
+         
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Vinnytsia National Technical University, Ukraine - FAQ" },
+                { name: "description", content: "Vinnytsia National Technical University .Finds out FAQ" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Vinnytsia National Technical University, Ukraine - FAQ"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnytsia-national-technical-university/faq" }
+        ]}
+      ],
+    
+      }
+
+
+
 
         
