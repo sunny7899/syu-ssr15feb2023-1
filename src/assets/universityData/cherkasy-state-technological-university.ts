@@ -59,54 +59,15 @@ export const cherkasystatetechnologicaluniversity= {
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '',
-            img:"Computer-Room.png",
-            data:"<p class=text-center>Computer Room</p>"
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            img:"Library.png",
-            data:"<p class=text-center>Library</p>"
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            img:"Internet.png",
-            data:"<p class=text-center>Internet</p>"
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            img:"Hostel.png",
-            data:"<p class=text-center>Hostel</p>"
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            img:"Canteen.png",
-            data:"<p class=text-center>Canteen</p>"
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            img:"Classrooms.png",
-            data:"<p class=text-center>Classrooms</p>"
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            img:"Auditorium.png",
-            data:"<p class=text-center>Auditorium</p>"
-        },
+        "type": "table-title",
+        "title": "",
+        "info": "",
+        "row": [
+                 ["Computer Room","Library","Internet","Auditorium"]
+                 ,["Hostel","Canteen","Classrooms","-"]
+                ]
+    },
+       
         {
             type: 'text',
             title: 'Medium of Teaching',
@@ -163,7 +124,7 @@ export const cherkasystatetechnologicaluniversity= {
         {
           type: 'text',
           title: 'About City',
-          img: 'cherkasy-city.jpg',
+         // img: 'cherkasy-city.jpg',
           info:'Now lets know about the Cherkasy:',
           data: [
             "Cherkasy is a city in central Ukraine.",
@@ -201,18 +162,399 @@ export const cherkasystatetechnologicaluniversity= {
         type:"meta-links",
         link: [
             { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university" }
-    ]}
-
-
-
-
-        
-        
+    ]}  
     ],
-    "gallery": {},
-    "scholarship": {},
-    "faculty": {},
-    "News & Articles": {},
-    "hostel": {},
+    "coursesandfees": [
+
+        
+        {
+            "type": "table",
+            "title": "Cherkasy State Technological University: Fee Structure 2023",
+            "info": "Cherkasy State Technological University offers quite an affordable fee structure to the students:",
+            "col": [
+                "Particular",
+                "Amount per Annum"
+            ],
+            "row": [
+                {
+                    "Particular": "<b>Fee in Ukrainian hryvnia</b>",
+                    "Amount per Annum": "6,000.00 - 8,200.00"
+                },
+                {
+                    "Particular": "<b>210.00 - 288.00 USD</b>",
+                    "Amount per Annum": "6,000.00 - 8,200.00"
+                },
+                {
+                    "Particular": "<b>14,700 - 20,160 R</b>",
+                    "Amount per Annum": "6,000.00 - 8,200.00"
+                },
+            ],
+            "heading":"<p><b>Note: </b>1$ = 70 Rs</p>"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Cherkasy State Technological University: Course Duration",
+            "info": "Engineering course comprises of 4 years at Cherkasy State Technological University:",
+            "data": [
+                "The institute offers 4 years of Engineering program at Cherkasy State Technological University.",
+                "The students will learn theoretical as well as practical aspects of knowledge."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Courses offered at Cherkasy State Technological University",
+            "info": "Cherkasy State Technological University is offering various faculties to the students coming to study here:",
+            "data": [
+                "Civil Engineering",
+                "Computer Technologies of Mechanical Engineering and Design",
+                "Electronic Technologies and Robotics",
+                "Food Technologies and Services",
+                "Economics and Engineering",
+                "Information Technologies and Systems",
+                "Humanities",
+                "work with foreign students",
+                "Educational and research centre for work with foreign students"
+            ]
+        },
+        
+    {
+      type:"meta",
+      meta: [
+          { name: "title", content: "Cherkasy State Technological University - courses & Fees" },
+          { name: "description", content: "know about Cherkasy State Technological University, Eligibility, Required documents, courses Duration. Check available courses and fees" },
+      ],
+  },
+  {
+      type:"meta-title",
+      title: "Cherkasy State Technological University - courses & Fees"},
+  {
+      type:"meta-links",
+      link: [
+          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/courses-and-fees" }
+  ]}
+    ],
+    "admission":[
+
+       
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria",
+            "info": "The candidates should fit into the basic admission criteria to enroll in the Cherkasy State Technological University:",
+            "data": [
+                "The candidates must complete 11th & 12th standard to study at Cherkasy State Technological University.",
+                "The students should pass the bachelor’s to enroll in Cherkasy State Technological University.",
+                "International candidates should have a valid passport."
+            ],
+        },
+        
+        {
+          "type": "step-list",
+          "title": "Admission Process",
+          "info":"The candidates should follow the admission steps precisely for Engineering enrollment in Cherkasy State Technological University:",
+          "data": [
+          "<b>Step 1: </b>The applicants should fill the application form available on the official website of Cherkasy State Technological University.",
+          "<b>Step 2: </b>The students must submit the necessary documents with the form and submit it quickly.",
+          "<b>Step 3: </b>The Cherkasy State Technological University will invite the students to attend the interview.",
+          "<b>Step 4: </b>The selected students should pay for the first year tuition fee. International students should apply for the visa process to get a valid passport."
+        ]
+        },
+        {
+          "type": "list-bollet",
+          "title": "Document Required",
+          "info": "The student should provide copies of the following documents mentioned below on e-mail address or through courier service to the university:",
+          "data": [
+              "Submit the International passport main pages for course enrollment at Cherkasy State Technological University.",
+              "The candidates must submit an application form filled and signed (both sides) after applying at Cherkasy State Technological University.",
+              "The candidates must submit the educational documents (at least secondary school certificate, and others if any)",
+              "The students should have the passing certificate at the time of admission.",
+              "The candidates must submit the school leaving certificates for admission at Cherkasy State Technological University.",
+              "Every student must carry a migration certificate for admission to Cherkasy State Technological University.",
+              "Submit the fee receipt for admission at Cherkasy State Technological University.",
+              "The students must submit the birth certificate in Cherkasy State Technological University.",
+              "The foreign students must submit a valid passport photocopy.",
+              "Submit recent passport size to admit to Cherkasy State Technological University.",
+              "Submit the original Engineering certificate from a doctor.",
+              "The students must submit their COVID-19 reports to enroll at Cherkasy State Technological University.",
+              "To study at Cherkasy State Technological University, the International candidates should submit a valid visa."
+          ]
+      },
+      {
+        "type": "table",
+        "title": "Academic Calendar: Intake Dates 2023",
+        "info": "The student should know the important dates for admission at Cherkasy State Technological University:",
+        "col": [
+            "Events",
+            "Dates"
+        ],
+        "row": [
+            {
+                "Events": "<b>Application Start Date</b>",
+                "Dates": "Yet to be Declared"
+            },
+            {
+                "Events": "<b>Invitation Letter</b>",
+                "Dates": "Yet to be Declared"
+            },
+            {
+                "Events": "<b>Admission Start Date</b>",
+                "Dates": "Yet to be Declared"
+            },
+            {
+                "Events": "<b>Last Date of Admission</b>",
+                "Dates": "Yet to be Declared"
+            }
+        ],
+    },
+        
+      
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Cherkasy State Technological University - Admission 2023" },
+            { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process. Click Here TO REGISTER" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Cherkasy State Technological University - Admission 2023"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/admission" }
+    ]}
+    ],
+    "review":[
+      
+      {
+          type: "meta",
+          meta: [
+              { name: "title", content: "Cherkasy State Technological University - Reviews" },
+              { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+          ],
+      },
+      {
+          type: "meta-title",
+          title: "Cherkasy State Technological University - Reviews"
+      },
+      {
+          type: "meta-links",
+          link: [
+              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/reviews" }
+          ]
+      }
+  ],
+    "placement":[
+
+      
+  {
+    type:"meta",
+    meta: [
+        { name: "title", content: "Cherkasy State Technological University - Placement" },
+        { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+    ],
+},
+{
+    type:"meta-title",
+    title: "Cherkasy State Technological University - Placement"},
+{
+    type:"meta-links",
+    link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/placement" }
+]}
+    ],
+    "gallery":[
+     
+
+      {
+          type: "meta",
+          meta: [
+              { name: "title", content: "Cherkasy State Technological University - Gallery"},
+              { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+          ],
+      },
+      {
+          type: "meta-title",
+          title: "Cherkasy State Technological University - Gallery"
+      },
+      {
+          type: "meta-links",
+          link: [
+              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/gallery" }
+          ]
+      }
+  ],
+    "scholarship": [
+      
+        
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Cherkasy State Technological University - Scholarship" },
+            { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Cherkasy State Technological University - Scholarship"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/scholarship" }
+    ]}
+    ],
+    "faculty": [
+
+        
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Cherkasy State Technological University - Faculty" },
+            { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Cherkasy State Technological University - Faculty"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/faculty" }
+    ]}
+    ],
+    "news":[
+     
+
+      {
+          type: "meta",
+          meta: [
+              { name: "title", content: "Cherkasy State Technological University - News & Articles" },
+              { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+          ],
+      },
+      {
+          type: "meta-title",
+          title: "Cherkasy State Technological University - News & Articles"
+      },
+      {
+          type: "meta-links",
+          link: [
+              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/news-and-articles" }
+          ]
+      }
+  ],
+    "hostel": [
+
+        {
+            "type": "list-bollet",
+            "title": "Hostel & Accommodation",
+            "info": "The Cherkasy State Technological University provides convenient dormitories to the International students:",
+            "data": [
+                "Cherkasy State Technological University provides housing facilities for foreign and local students.",
+                "The hostel premises is located near the institute campus.",
+                "It has a very good infrastructure.",
+                "The quality and size of the hostel rooms may differ.",
+                "2 to 4 people can live on a shared basis in hostel rooms.",
+                "The hostel rooms have a shared bathroom and are divided into several rooms.",
+                "The hostel will provide you with fully furnished rooms with all the necessary furniture.",
+                "The hostel also has common kitchens, gymnasium, laundries and storeroom.",
+                "To purchase food and other things nearby several supermarkets and shopping centres are available.",
+                "The students have access to the nearby bus stop or the metro station to anywhere in the city.",
+                "The student’s entry in the hostel premises requires a student pass which will be issued by the student during arrival at the hostel.",
+                "The visiting guests can stay in the hostel from 8:00 to 23:00.",
+                "The hostel offers separate space for boys and girls.",
+                "It has a regular water supply and electricity round the clock.",
+                "The hostel has a mess to offer healthy and fresh food to the students.",
+                "The hostel is under high security for 24 hours.",
+                "All basic amenities are provided including beddings, cupboard, table and fan etc.",
+                "A hostel premise has common washing machines.",
+                "The hostel has a 24*7 Internet connection for research during education."
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "info": "",
+            "col": [ ],
+            "row": [
+                ["Internet","Washroom","Beds","Washing Machine"],
+                ["Security","Hostel","Canteen","Gym"]
+            ]
+        },
+        
+        
+      
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Cherkasy State Technological University - Hostel" },
+            { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Cherkasy State Technological University - Hostel"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/hostel" }
+    ]}
+    ],
+    "faq": [
+
+        {
+            "type": "question-list",
+            "title": "Cherkasy State Technological University: Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                  "ques": "Q. What are the other expenses during Engineering education at Cherkasy State Technological University?",
+                  "ans": "Apart from the Engineering course fee, the students also have other expenses including hostel, transportation, meal, canteen, clothes and books etc"
+                },
+                { 
+                   "ques": "Q. Is the Cherkasy State Technological University officially recognised?",
+                  "ans": "Cherkasy State Technological University has the official recognition from many organisations."
+                },
+                {
+                    "ques": "Q. Is Cherkasy State Technological University providing internet at hostel promises?",
+                    "ans": "The Cherkasy State Technological University provides 24 hours of high-speed Internet connectivity."
+                },
+                {
+                    "ques": "Q. Are Indian students allowed to take admission without clearing any university entrance examination?",
+                    "ans": "Yes, the students don't need to appear for university entrance to enroll in Cherkasy State Technological University"
+                },
+                {
+                  "ques": "Q. Is there any scholarship provided to students by Cherkasy State Technological University?",
+                  "ans": "No, Cherkasy State Technological University doesn’t offer any scholarship to the students."
+              },
+              {
+                "ques": "Q. What is the course duration for studying Engineering at Cherkasy State Technological University?",
+                "ans": "Cherkasy State Technological University offers 4 years of Engineering course to the students"
+            }
+            ]
+        },
+     
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Cherkasy State Technological University - FAQs" },
+            { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Cherkasy State Technological University - FAQs"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cherkasy-state-technological-university/faq" }
+    ]}
+  ],
+
+  }
+
+
+
+
     
-}
+
+

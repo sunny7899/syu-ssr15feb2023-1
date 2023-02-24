@@ -53,7 +53,7 @@ export const kremenchukstatetechnicaluniversity= {
         
         {   
             "type": "table",
-            "title": "Kremenchuk State Technical University - Ranking",
+            "title": "Kremenchuk State Technical University - Ranking ",
             "info": "The country & world rank of the university mentioned below is given by UniRank Website:",
             "col": [
                 "Country",
@@ -124,17 +124,10 @@ export const kremenchukstatetechnicaluniversity= {
                     "Approx Expense (In USD)": "40.76USD - 67.93USD",
                     "Approx Expense (In Indian Rupees)": "Rs 2853 - Rs 4,755"
                 }
-            ]
+            ],
+            "heading":"<p><b>Note:</b> 1$ = 70 Rs. (for calculation purpose)</p>"
         },
-        
-        {
-          type: 'text',
-          title: '',
-          info: '',
-          data: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>',
-      },
-        
-
+       
 
       { 
         type:"meta",
@@ -156,10 +149,436 @@ export const kremenchukstatetechnicaluniversity= {
         
         
     ],
-    "gallery": {},
-    "scholarship": {},
-    "faculty": {},
-    "News & Articles": {},
-    "hostel": {},
+    "coursesandfees": [
+
+        
+        {
+            "type": "table",
+            "title": "Kremenchuk State Technical University - Fee Structure 2023",
+            "info": "Kremenchuk State Technical University offers various courses, and the fees of the terms are different:",
+            "col": [
+                "Courses",
+                "Annual Fees (In USD)",
+                "Annual Fees (In Indian Rupees)"
+            ],
+            "row": [
+                {
+                    "Courses": "<b>Power Engineering,<br>Electrical Engineering<br>Electromechanics</b>",
+                    "Annual Fees (In USD)": "216 USD",
+                    "Annual Fees (In Indian Rupees)":"Rs 15,120"
+                },
+                {
+                    "Courses": "<b>Automation and Computer-Integrated Technology</b>",
+                    "Annual Fees (In USD)": "247 USD",
+                    "Annual Fees (In Indian Rupees)":"Rs 17,290"
+                },
+                {
+                    "Courses": "<b>Applied Mechanics</b>",
+                    "Annual Fees (In USD)": "216 USD",
+                    "Annual Fees (In Indian Rupees)":"Rs 15,120"
+                },
+                {
+                    "Courses": "<b>Industrial Engineering</b>",
+                    "Annual Fees (In USD)": "216 USD",
+                    "Annual Fees (In Indian Rupees)":"Rs 15,120"
+                },
+                {
+                    "Courses": "<b>Computer Science</b>",
+                    "Annual Fees (In USD)": "283 USD",
+                    "Annual Fees (In Indian Rupees)":"Rs 19,810"
+                },
+                {
+                    "Courses": "<b>Computer Engineering</b>",
+                    "Annual Fees (In USD)": "283 USD",
+                    "Annual Fees (In Indian Rupees)":"Rs 19,810"
+                },
+                {
+                    "Courses": "<b>Electronics Engineering</b>",
+                    "Annual Fees (In USD)": "247 USD",
+                    "Annual Fees (In Indian Rupees)":"Rs 17,290"
+                },
+                
+            ],
+            "heading":"<p><b>Note: </b>1USD = 70 INR (For Approx Calculation Purpose)</p>"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Kremenchuk State Technical University - Course Duration",
+            "info": "There are two modes of study, part-time and full time. The course duration of both the modes are as follow:",
+            "data": [
+                "The course duration of the Engineering program of any stream is 3 years and 10 months. It is a full-time course.",
+                "Course Duration for Part-Time Course of the Engineering program of any stream is 4 years and 10 months."
+            ]
+        },
+        {
+            "type": "table",
+            "title": "Faculties of Kremenchuk State Technical University",
+            "info": "There are various Institutes and Colleges which offer different study programs to students from all corners of the world",
+            "textBelowInfo":"1. Electromechanics, Energy-saving, and Automatic Control Systems Institute",
+            "col": [
+                "Subject of Study",
+                "Speciality"
+            ],
+            "row": [
+                {
+                    "Subject of Study": "Electrical engineering",
+                    "Speciality": "Electrical energetics, electrical engineering and electromechanics"
+                },
+                {
+                    "Subject of Study": "Automation and instrumentation",
+                    "Speciality": "Automation and computer-integrated technologies"
+                }
+            ],
+        },
+        {
+            "type": "table",
+            "title": "",
+            "info": "2. Faculty of Economics and Management",
+            "col": [
+                "Subject of Study",
+                "Speciality"
+            ],
+            "row": [
+                {
+                    "Subject of Study": "Social and behavioral Management and administration",
+                    "Speciality": "Finance, banking, and insurance"
+                },
+                {
+                    "Subject of Study": "Management and administration",
+                    "Speciality": "Management of foreign economic activity"
+                },
+                {
+                    "Subject of Study": "Management",
+                    "Speciality": "Marketing"
+                },
+                {
+                    "Subject of Study": "Services",
+                    "Speciality": "Tourism"
+                }
+            ],
+        },
+        {
+            "type": "table",
+            "title": "",
+            "info": "3 Electronics and Computer Engineering",
+            "col": [
+                "Subject of Study",
+                "Speciality"
+            ],
+            "row": [
+                {
+                    "Subject of Study": "Education",
+                    "Speciality": "Secondary education (Computer science)"
+                },
+                {
+                    "Subject of Study": "Information technologies",
+                    "Speciality": "Computer science and information technologies"
+                },
+                {
+                    "Subject of Study": "Information technologies",
+                    "Speciality": "Computer engineering"
+                },
+                {
+                    "Subject of Study": "Automation and instrumentation",
+                    "Speciality": "Automation and computer-integrated technologies"
+                }
+            ],
+        },
+        
     
-}
+    {
+      type:"meta",
+      meta: [
+          { name: "title", content: "Kremenchuk State Technical University, Ukraine - courses & Fees" },
+          { name: "description", content: "Kremenchuk State Technical University was established in 1920 ; Tuition Fee with Hostel. Check available courses and fees" },
+      ],
+  },
+  {
+      type:"meta-title",
+      title: "Kremenchuk State Technical University, Ukraine - courses & Fees"},
+  {
+      type:"meta-links",
+      link: [
+          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/courses-and-fees" }
+  ]}
+    ],
+    "admission":[
+
+       
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria",
+            "info": "List of the things mentioned below required for admission to Kremenchuk State Technical University:",
+            "data": [
+                "Students will have to give the Professional Test and English Proficiency Test to seal admission in the desired program.",
+                "The students must have all the documents mentioned above and submitted at the stipulated time.",
+                "Students must be of 17- 25 years of age for access to Kremenchuk State Technical University's Bachelors' program."
+            ],
+        },
+        
+        {
+          "type": "step-list",
+          "title": "Admission Process",
+          "info":"Here are the steps of admission for the Engineering program to Kremenchuk State Technical University:",
+          "data": [
+          "<b>Step 1: </b>Get the Application form for the desired program from the official Website of Kremenchuk State Technical University.",
+          "<b>Step 2: </b>Take the Professional Test given by the university for eligibility to the Engineering program available at the university's official Website.",
+          "<b>Step 3: </b>Scan and submit all the necessary documents mentioned to secure admission.",
+          "<b>Step 4: </b>Apply for the student visa at the Ukraine embassy after payment of fees and getting an Acceptance/Invitation letter from Kremenchuk State Technical University.",
+          "<b>Step 5: </b>Applicants have to clear the Professional Test and English Proficiency Test to get admission in the desired course.",
+          "<b>Step 6: </b>The entrance test is conducted a few days after the application process ends. University entrance tests can be given on any of the dates mentioned, according to the convenience of students."
+        ]
+        },
+        {
+          "type": "list-bollet",
+          "title": "Documents Required",
+          "info": "Applicants have to submit the scanned documents to the Kremenchuk State Technical University as part of the admission process:",
+          "data": [
+              "Application form",
+              "Original Passport",
+              "Previous educational qualification",
+              "Consent to collecting and processing personal information"
+          ]
+      },
+      {
+        "type": "list-bollet",
+        "title": "",
+        "info": "Personal Information of the applicant:",
+        "data": [
+            "Name of the student",
+            "Date of birth",
+            "The number and the date of issuance of international passport",
+            "Nationality",
+            "Country",
+            "Gender",
+            "Documents of previous qualifying exams"
+        ]
+    },
+      
+      
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Kremenchuk State Technical University, Ukraine - Admission 2023 " },
+            { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Kremenchuk State Technical University, Ukraine - Admission 2023 "},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/admission" }
+    ]}
+    ],
+    "review":[
+      
+      {
+          type: "meta",
+          meta: [
+              { name: "title", content: "Kremenchuk State Technical University, Ukraine - Reviews" },
+              { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+          ],
+      },
+      {
+          type: "meta-title",
+          title: "Kremenchuk State Technical University, Ukraine - Reviews"
+      },
+      {
+          type: "meta-links",
+          link: [
+              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/reviews" }
+          ]
+      }
+  ],
+    "placement":[
+
+      
+  {
+    type:"meta",
+    meta: [
+        { name: "title", content: "Kremenchuk State Technical University, Ukraine - Placement" },
+        { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
+    ],
+},
+{
+    type:"meta-title",
+    title: "Kremenchuk State Technical University, Ukraine - Placement"},
+{
+    type:"meta-links",
+    link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/placement" }
+]}
+    ],
+    "gallery":[
+     
+
+      {
+          type: "meta",
+          meta: [
+              { name: "title", content: "Kremenchuk State Technical University, Ukraine - Gallery"},
+              { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+          ],
+      },
+      {
+          type: "meta-title",
+          title: "Kremenchuk State Technical University, Ukraine - Gallery"
+      },
+      {
+          type: "meta-links",
+          link: [
+              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/gallery" }
+          ]
+      }
+  ],
+    "scholarship": [
+      
+        
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Kremenchuk State Technical University, Ukraine - Scholarship" },
+            { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Kremenchuk State Technical University, Ukraine - Scholarship"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/scholarship" }
+    ]}
+    ],
+    "faculty": [
+
+        
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Kremenchuk State Technical University, Ukraine - Facultyy" },
+            { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Kremenchuk State Technical University, Ukraine - Facultyy"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/faculty" }
+    ]}
+    ],
+    "news":[
+     
+
+      {
+          type: "meta",
+          meta: [
+              { name: "title", content: "Kremenchuk State Technical University, Ukraine - News & Articles" },
+              { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+          ],
+      },
+      {
+          type: "meta-title",
+          title: "Kremenchuk State Technical University, Ukraine - News & Articles"
+      },
+      {
+          type: "meta-links",
+          link: [
+              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/news-and-articles" }
+          ]
+      }
+  ],
+    "hostel": [
+
+        {
+            "type": "list-bollet",
+            "title": "Hostel Facility",
+            "info": "The university campus consists of hostels for international students and is available at nominal charges:",
+            "data": [
+                "The cost of living at Kremenchuk State Technical University hostel is approx 18 USD (Per Month).",
+                "Three hostels on the university campus with five floors in each one.",
+                "Separate washrooms and kitchen facilities on each floor of every hostel.",
+                "There are eight kitchens in the first hostel and four kitchens in the second and third hostel.",
+                "There is one laundry room in every hostel.",
+                "24*7 Security at each hostel.",
+                "Different heads for each dormitory."
+            ],
+        },
+        
+        
+      
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Kremenchuk State Technical University, Ukraine - Hostel" },
+            { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Kremenchuk State Technical University, Ukraine - Hostel"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/hostel" }
+    ]}
+    ],
+    "faq": [
+
+        {
+            "type": "question-list",
+            "title": "Kremenchuk State Technical University - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                  "ques": "Q. What is course duration at Kremenchuk State Technical University?",
+                  "ans": "The course duration at Kremenchuk State Technical University is 3 Years 10 Months."
+                },
+                { 
+                   "ques": "Q. How much do the International students have to pay for staying at University hostel?",
+                  "ans": "The university charges approx 18 USD per month for accommodation."
+                },
+                {
+                    "ques": "Q. Does Kremenchuk State Technical University provide distance learning courses?",
+                    "ans": "Yes, Kremenchuk State Technical University provides distance learning courses."
+                },
+                {
+                    "ques": "Q. Is there any entrance exam to take admission to Kremenchuk State Technical University?",
+                    "ans": "Students willing to take admission to Kremenchuk State Technical University have to take the English Proficiency test."
+                },
+                {
+                  "ques": "Q. Is it necessary for international students to submit the documents in Ukranian language?",
+                  "ans": "No, International students can submit the documents in English language."
+              }
+            ]
+        },
+     
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Kremenchuk State Technical University, Ukraine - FAQs" },
+            { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Kremenchuk State Technical University, Ukraine - FAQs"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kremenchuk-state-technical-university/faq" }
+    ]}
+  ],
+
+  }
+
+
+
+
+    
+
+
+
