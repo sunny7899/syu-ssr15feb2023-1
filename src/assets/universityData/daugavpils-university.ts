@@ -19,7 +19,7 @@ export const daugavpilsuniversity= {
         },
 
         {
-            "type": "table",
+            "type": "table-title",
             "title": "Daugavpils University - Quick Overview",
             "info": "<b>The quick highlights of the Daugavpils University for international applicants are shown in the below table:</b>",
             "col": [
@@ -170,7 +170,7 @@ export const daugavpilsuniversity= {
 
     
                 {
-                    "type": "table",
+                    "type": "table-title",
                     "title": "Courses offered at Daugavpils University",
                     "info": "The list of courses offered at the Daugavpils University:",
                     "textBelowInfo":"<h3>1. Bachelor Degree</h3>",
@@ -184,7 +184,7 @@ export const daugavpilsuniversity= {
                   
                 },
                 {
-                    "type": "table",
+                    "type": "table-title",
                     "title": "",
                     "info": "<h3>2. Master Degree</h3>",
                     "col": [],
