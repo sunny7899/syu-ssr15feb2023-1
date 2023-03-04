@@ -16,7 +16,7 @@ const routes: Routes = [
     // ]
   },
   {
-    path: ':link1/:link2',
+    path: ':link1/:link2/.',
     component:UniversityFilterComponent,
   },
   // {

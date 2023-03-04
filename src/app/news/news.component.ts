@@ -126,10 +126,10 @@ export class NewsComponent implements OnInit {
   }
 
   get(item:any){
-    this.router.navigate(['news/category/' + item[0].Categories], { state: item });
+    this.router.navigate(['news/category/' + item[0].Categories + '/.'], { state: item });
   }
   routeAllBlog(){
-    this.router.navigate(['news/category/all-news']);
+    this.router.navigate(['news/category/all-news/.']);
   }
 
   public signUp = false;

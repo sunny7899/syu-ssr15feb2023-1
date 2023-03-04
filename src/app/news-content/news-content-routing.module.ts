@@ -85,55 +85,55 @@ const routes: Routes = [
     component:NewsContentComponent
   },*/
   {
-    path: 'neet-ug-exam-result-declared',
+    path: 'neet-ug-exam-result-declared/.',
     component:NewsContentComponent
   },
   {
-    path: 'neet-ug-exam-answer-key',
+    path: 'neet-ug-exam-answer-key/.',
     component:NewsContentComponent
   },
   {
-    path: 'neet-pg-result-declared',
+    path: 'neet-pg-result-declared/.',
     component:NewsContentComponent
   },
   {
-    path: 'supreme-court-refuses-to-postpone-neet-pg',
+    path: 'supreme-court-refuses-to-postpone-neet-pg/.',
     component:NewsContentComponent
   },
   {
-    path: 'centre-removes-upper-age-limit-for-neet-ug-eligibility',
+    path: 'centre-removes-upper-age-limit-for-neet-ug-eligibility/.',
     component:NewsContentComponent
   },
   {
-    path: 'ets-announces-new-english-language-test-toefl-essentials',
+    path: 'ets-announces-new-english-language-test-toefl-essentials/.',
     component:NewsContentComponent
   },
   {
-    path: 'neet-pg-exam-postponed',
+    path: 'neet-pg-exam-postponed/.',
     component:NewsContentComponent
   },
   {
-    path: 'jee-main-exam-postponed',
+    path: 'jee-main-exam-postponed/.',
     component:NewsContentComponent
   },
   {
-    path: 'aiims-postpones-ini-cet-pg-entrance-exam',
+    path: 'aiims-postpones-ini-cet-pg-entrance-exam/.',
     component:NewsContentComponent
   },
   {
-    path: 'mbbs-in-philippines-is-accepted-in-india-after-the-announcement-from-ched',
+    path: 'mbbs-in-philippines-is-accepted-in-india-after-the-announcement-from-ched/.',
     component:NewsContentComponent
   },
   {
-    path: 'sc-directs-nmc-to-frame-scheme-for-ukraine-returned-medical-students',
+    path: 'sc-directs-nmc-to-frame-scheme-for-ukraine-returned-medical-students/.',
     component:NewsContentComponent
   },
   {
-    path: 'cbsc-releases-evaluation-criteria-for-new-academic-session',
+    path: 'cbsc-releases-evaluation-criteria-for-new-academic-session/.',
     component:NewsContentComponent
   },
   {
-    path: 'karnataka-education-minister-refuses-to-cancel-10th-board-exams',
+    path: 'karnataka-education-minister-refuses-to-cancel-10th-board-exams/.',
     component:NewsContentComponent
   },
 ];

@@ -1,14 +1,21 @@
-import { DOCUMENT, ViewportScroller } from '@angular/common';
-import { Component, OnInit, ViewChild, Inject, ElementRef, HostListener, TemplateRef } from '@angular/core';
-import { NgxGalleryOptions, NgxGalleryImage, NgxGalleryAnimation,NgxGalleryLayout } from '@kolkov/ngx-gallery';
-import { DomSanitizer, Meta, Title } from '@angular/platform-browser';
-import { Router } from '@angular/router';
+import { Component, OnInit, Renderer2, Inject, TemplateRef } from '@angular/core';
+import { DOCUMENT } from '@angular/common'
+import { NgxGalleryOptions } from '@kolkov/ngx-gallery';
+import { NgxGalleryImage } from '@kolkov/ngx-gallery';
+import { NgxGalleryAnimation } from '@kolkov/ngx-gallery';
 import { GalleryItem, ImageItem } from 'ng-gallery';
-import { ApiService } from '../api.service';
+import { ViewportScroller } from '@angular/common';
+import { AfterViewInit, ViewChild, ElementRef, HostListener } from '@angular/core';
+import { Router } from '@angular/router';
 import *as universityContent from './data'
-import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { Meta, Title } from '@angular/platform-browser';
+import { ApiService } from '../api.service';
+import { DomSanitizer, SafeResourceUrl, SafeUrl } from '@angular/platform-browser'
+import { DialogModule } from 'primeng/dialog';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
+import { FormBuilder, FormGroup, Validators,FormControl } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
+
 
 @Component({
   selector: 'app-university-con',
@@ -16,6 +23,12 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./university-con.component.scss']
 })
 export class UniversityConComponent implements OnInit {
+  isShowDivIf = true;  
+    
+  toggleDisplayDivIf() {  
+    this.isShowDivIf = !this.isShowDivIf;
+  }  
+  
 
   modalRef: BsModalRef;
   form1 = true;
@@ -27,8 +40,9 @@ export class UniversityConComponent implements OnInit {
   RegistrationFrom3: FormGroup;
   RegistrationFrom4: FormGroup;
   nsrNo:any
-
   
+
+ 
   hide() {
     this.bsModalRef.hide();
   }
@@ -58,9 +72,8 @@ export class UniversityConComponent implements OnInit {
     data['cWebsite']='http://demo.mentebit.com/#/'
     data['cCoutryCode']="Na"
     console.log('rom1', this.RegistrationFrom1.value)
-    const {cCity, cCourse, cCandidateName, cEmail, cMobile, qeducation} = this.RegistrationFrom1.value;
+    const {cCity, cCourse, cCandidateName, cEmail, cMobile, qeducation,cLinkName} = this.RegistrationFrom1.value;
     this.http.get( `https://www.selectyouruniversity.com/api/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&qeducation=${qeducation}&cLinkName=${this.currentUrl}&section=insertdetails`)
-    //this.http.get( "https://www.selectyouruniversity.com/api/response.php?", this.RegistrationFrom1.value)
     .subscribe((res) => {
       console.log('res', res)
     this.nsrNo= res
@@ -88,7 +101,7 @@ export class UniversityConComponent implements OnInit {
       "fldtext7":"GRE Score", 
       "fldValue7":this.RegistrationFrom2.value.qgre,    
       }
-    this.http.post( "http://18.189.207.215:8080/databaselisteducationmaster", data)
+    this.http.post( "https://18.189.207.215:8080/databaselisteducationmaster", data)
     .subscribe((res) => {
       console.log('res', res)
     })
@@ -119,7 +132,7 @@ export class UniversityConComponent implements OnInit {
       "fldValue7":"NA"               
       
       }
-        this.http.post( "http://18.189.207.215:8080/databaselisteducationmaster", data)
+        this.http.post( "https://18.189.207.215:8080/databaselisteducationmaster", data)
     .subscribe((res) => {
       console.log('res', res)
       
@@ -151,7 +164,7 @@ export class UniversityConComponent implements OnInit {
       "fldtext7":"NA",                   
       "fldValue7":"NA"                   
       }
-      this.http.post( "http://18.189.207.215:8080/databaselisteducationmaster", data)
+      this.http.post( "https://18.189.207.215:8080/databaselisteducationmaster", data)
       .subscribe((res) => {
         console.log('res', res)
         
@@ -174,8 +187,9 @@ export class UniversityConComponent implements OnInit {
   universityContents:any = universityContent
   @ViewChild('stickyNav', { static: true }) navTabs: ElementRef;
   @ViewChild('stickyDiv', { static: true }) talkExpertDiv: ElementRef;
-  isReadMore:any = true
-  isShade:any = true
+  
+  isReadMore: any = true
+  isShade: any = true
   galleryOptions: NgxGalleryOptions[];
   galleryImages: NgxGalleryImage[];
   sticky: boolean = false;
@@ -185,44 +199,50 @@ export class UniversityConComponent implements OnInit {
   elementPosition: any;
   elementPosition1: any
   displayBasic: boolean;
-  posturl:any
+  posturl: any
   universityData: any
   currentUrl: any
   h1Title:any
-  url: any;
+  getUrl: any;
+  url: any
   posts:any;
-  studuentAlsoVisit:any
 
-  CoursesFees:any=[]
-  eventaddmission:any=[]
-  courseaddmission:any=[]
-  placement:any=[]
-  news:any=[]
-  gallery:any
-  galleryType:any
+  // variable for Cources and fees
+  CoursesFees: any = []
+  eventaddmission: any = []
+  courseaddmission: any = []
+  placement: any = []
+  news: any = []
+  gallery: any
+  galleryType: any
   private link: HTMLLinkElement;
-   
-  isActive(tabName:any) {
+  studuentAlsoVisit:any
+  // highlightColData= collegeContent.MIT.info.Highlights-Table.col
+
+  
+
+
+  isActive(tabName: any) {
     return this.activeTab === tabName;
   }
 
-  photoURL(url:any) {
-    return  this.sanitizer.bypassSecurityTrustResourceUrl(url + "&output=embed");
+  photoURL(url: any) {
+    return this.sanitizer.bypassSecurityTrustResourceUrl(url + "&output=embed");
   }
 
-  makeActive(tab:any) {
-    console.log('tab',tab )
+  makeActive(tab: any) {
+    console.log('tab', tab)
     console.log('this.url', this.url)
-    if (this.url.length > 2) {
+    if (this.url.length > 1) {
       if (tab === 'info') {
-        this.router.navigate(['university/' + this.url[2]])
-      }else if (tab === 'qna'){
-        this.router.navigate(['university/' + this.url[2] + '/' + 'faq'])
+        this.router.navigate(['university/' + this.url[2] + '/.'])
+      } else if (tab === 'qna') {
+        this.router.navigate(['university/' + this.url[2] + '/' + 'faq/.'])
       } else {
-        this.router.navigate(['university/' + this.url[2] + '/' + tab])
+        this.router.navigate(['university/' + this.url[2] + '/' + tab + '/.'])
       }
     } else {
-      this.router.navigate(['university/' + this.currentUrl])
+      this.router.navigate(['university/' + this.currentUrl+"/."])
     }
     this.activeTab = tab;
     window.scroll({
@@ -231,28 +251,27 @@ export class UniversityConComponent implements OnInit {
       behavior: 'smooth'
     });
   }
-  makeActiveTab(tab:any) {
-    console.log('tab: ', tab);
+  makeActiveTab(tab: any) {
     this.activeTab = tab;
   }
 
-// sub Tab 
-isActiveSubTab(tabName:any) {
-  return this.activSubTab === tabName;
-}
+  // sub Tab 
+  isActiveSubTab(tabName: any) {
+    return this.activSubTab === tabName;
+  }
 
-makeActiveSubTab(tab:any) {
-  this.activSubTab = tab;
-  window.scroll({
-    top: 425,
-    left: 0,
-    behavior: 'smooth'
-  });
-}
-makeActiveTabSub(tab:any) {
-  this.activSubTab = tab;
-}
-// sub Tab End
+  makeActiveSubTab(tab: any) {
+    this.activSubTab = tab;
+    window.scroll({
+      top: 425,
+      left: 0,
+      behavior: 'smooth'
+    });
+  }
+  makeActiveTabSub(tab: any) {
+    this.activSubTab = tab;
+  }
+  // sub Tab End
 
 
 
@@ -275,31 +294,36 @@ makeActiveTabSub(tab:any) {
     public modalService: BsModalService,
     private fb: FormBuilder,
     private http: HttpClient,
-    @Inject(DOCUMENT) private dom:any
+    
+    @Inject(DOCUMENT) private dom: any
+
   ) {
     let link: HTMLLinkElement = this.dom.createElement('link');
     this.dom.head.appendChild(link);
-    let urls = this.router.url.split('/')
-    let data = this.universityContents[urls[2].replace(/-/g, "")][urls[2].replace(/-/g, "")]
+    let urls = this.router.url.split('/');
+    let data = this.universityContents[urls[2].replace(/-/g, "")]
     console.log('data: ', data);
+    console.log('urls: ', urls);
+    data = data[urls[2].replace(/-/g, "")]
+    //data = data['info'];
     let metas:any
     let links:any
-    let titles:any
-    if(urls.length > 3){
-      let tabData =data[urls[3].replace(/-/g, "")]
+    let titles:any;
+    if(urls.length > 4){
+      let tabData = data[urls[3].replace(/-/g, "")];
       if(tabData){
-      tabData.forEach((inf:any) => {
-        if(inf.type ==='meta'){
-          metas=inf.meta
-        }
-        if(inf.type ==='meta-title'){
-          titles= inf.title
-        }
-        if(inf.type === 'meta-links'){
-          links= inf.link
-        }
-    });
-  }
+        tabData.forEach((inf:any) => {
+          if(inf.type ==='meta'){
+            metas=inf.meta
+          }
+          if(inf.type ==='meta-title'){
+            titles= inf.title
+          }
+          if(inf.type === 'meta-links'){
+            links= inf.link
+          }
+      });
+      }
     }else {
       data.info.forEach((inf:any) => {
           if(inf.type ==='meta'){
@@ -316,168 +340,20 @@ makeActiveTabSub(tab:any) {
     console.log('titles: ', titles);
     console.log('links: ', links);
     console.log('metas: ', metas);
-
-  this.title.setTitle(titles)
+    
+  this.title.setTitle(titles);
   if(links){
-  links.forEach((lik:any) => {
-    link.setAttribute(lik.rel, lik.href);
-  });
-}
-if(metas){
+    links.forEach((lik:any) => {
+      link.setAttribute(lik.rel, lik.href);
+    });
+  }
+  if(metas){
     metas.forEach((met: any) => {
       this.meta.addTag(met);
     });
   }
-   }
-
-
-  public onClick(elementId: string): void {
-    this.viewportScroller.scrollToAnchor(elementId);
   }
 
-  images2: GalleryItem[];
-  scrollToElement($element:any): void {
-    // console.log($element);
-    $element.scrollIntoView({ behavior: "smooth" });
-  }
-
-  createLinkForCanonicalURL() {
-    if (this.link === undefined) {
-      this.universityData.info.forEach((info:any) => {
-        if (info.type === 'link') {
-          info.data.forEach((lin:any) => {
-            this.link = this.dom.createElement('link');
-            this.link.setAttribute('rel', lin.rel,);
-            this.dom.head.appendChild(this.link);
-            this.link.setAttribute('href', lin.href);
-
-          });
-        }
-      });
-    }
-  }
-
-  getNews(url:any){
-    this.api.get(`syudynamicnews/${url}`).subscribe((res: any) => {
-      console.log('res: ', res);
-      if (res.isError) {
-        console.log("Something Went wrong ")
-      } else {
-        this.news = res.data
-        console.log('this.news: ', this.news);
-        }
-      })
-  }
-
-  getGallery(url:any){
-    this.api.get(`syudynamicimage/${url}`).subscribe((res: any) => {
-      console.log('res: ', res);
-      if (res.isError) {
-        console.log("Something Went wrong ")
-      } else {
-        let courceName=[]
-        courceName = res.data.map(function(obj:any){
-          return obj.cCategory
-        })
-        courceName = [...new Set(courceName)];
-        let data:any={
-          image:[],
-          video:[]
-        }
-        res.data.forEach((obj:any) => {
-          if(obj.cContentType==='Image'){
-            data.image.push(obj)
-          }else {
-            data.video.push(obj)
-          }
-        })
-        
-        console.log('data: ', data);
-
-        console.log('courceName: ', courceName);
-        courceName.forEach((cname, id) => {
-
-             data.image.forEach((obj:any) => {
-                  if(cname === obj.cCategory){
-                    data.image.push(obj)
-                  }
-                });
-              });
-              this.galleryType = courceName
-         data.video.forEach((vd:any) => {
-            let url = vd.cImageUrl
-            // let spliturl = Array.from(url)
-            console.log('test',  url.split("/"));
-         });     
-              this.gallery = data
-              console.log('data: ', data);
-        console.log('this.placement: ', this.gallery);
-        }
-      })
-  }
-
-  getplaceMent(url:any){
-    this.api.get(`collegeplacementmaster/${url}`).subscribe((res: any) => {
-      console.log('res: ', res);
-      if (res.isError) {
-        console.log("Something Went wrong ")
-      } else {
-        this.placement.push(res.data[0])
-        console.log('this.placement: ', this.placement);
-        }
-      })
-  }
-
-  getaddmission(url:any){
-    this.api.get(`syudadmissionmaster/${url}`).subscribe((res: any) => {
-      console.log('res: ', res);
-      if (res.isError) {
-        console.log("Something Went wrong ")
-      } else {
-        res.data.forEach((evn:any) => {
-            this.eventaddmission.push({Events:evn.cEvents,'Important Dates':evn.cImportantDates})
-            this.courseaddmission.push({Course:'Test', 'Exam Accepted':evn.cExamAccepted})
-          });
-          console.log('this.eventaddmission: ', this.eventaddmission);
-          console.log('this.courseaddmission: ', this.courseaddmission);
-        }
-      })
-  }
-
-  getCoursesFees(url:any) {
-    this.api.get(`collegemaster/${url}`).subscribe((res: any) => {
-      console.log('res: ', res);
-      if (res.isError) {
-        console.log("Something Went wrong ")
-      } else {
-        let courceName=[]
-        courceName = res.data.map(function(obj:any){
-          return obj.cCourse
-        })
-        courceName = [...new Set(courceName)];
-        console.log('courceName: ', courceName);
-        courceName.forEach((cname, id) => {
-          let data:any=[]
-              res.data.forEach((obj:any, i:any) => {
-                  if(cname === obj.cCourse){
-                    data.push(obj)
-                  }
-                  if(i === res.data.length -1 ){
-                    this.CoursesFees[id]=data
-                  }
-            });
-        });
-        console.log('this.CoursesFees: ', this.CoursesFees);
-        }
-      })
-  }
-
-  getStudentVisit(){
-    this.api.getAll('collegemaster/subject1').subscribe((res:any)=>{
-      this.studuentAlsoVisit=res.data
-
-    })
-  }
   ngOnInit() {
     this.RegistrationFrom1 = this.fb.group({
       cCandidateName: ["", Validators.required],
@@ -493,8 +369,8 @@ if(metas){
       qgradper: ["", Validators.required],
       qextraExam:["",Validators.required],
       qexperience: ["", Validators.required],
-      // qgate: ["", Validators.required],
-      // qgre: ["", Validators.required],
+      qgate: ["", Validators.required],
+      qgre: ["", Validators.required],
     });
     this.RegistrationFrom3 = this.fb.group({
       qtenthBoard: ["", Validators.required],
@@ -514,74 +390,6 @@ if(metas){
       fldValue4: ["", Validators.required],
       fldValue5: ["", Validators.required],
     });
-    
-    this.getStudentVisit()
-    this.currentUrl = this.router.url.split('/').pop()
-    console.log('this.currentUrl: ', this.currentUrl);
-    this.url = this.router.url.split('/')
-    if (this.url.length > 3) {
-      if (this.url[this.url.length -1] === 'courses-and-fees') {
-          this.getCoursesFees(this.url[2])
-      }
-      if(this.url[this.url.length -1] === 'admission'){
-        this.getaddmission(this.url[2])
-        }
-      if(this.url[this.url.length -1] === 'placement')  {
-        this.getplaceMent(this.url[2])
-      }
-      if(this.url[this.url.length -1] === 'gallery'){
-        this.getGallery(this.url[2])
-        this.makeActiveTabSub('images')
-      }
-      if(this.url[this.url.length -1] ==='news'){
-        this.getNews(this.url[this.url.length -1])
-      }
-    }
-    this.api.getAll(`section=colunimaininfo&coluni=${this.url[2]}`)
-    .subscribe((response:any) => {
-      this.posts = response.data[0];
-      console.log('posts', this.posts)
-    });
-    console.log('this.universityContents: ', this.universityContents);
-    console.log('this.url: ', this.url);
-    this.universityData = this.universityContents [this.url[2].replace(/-/g, "")][this.url[2].replace(/-/g, "")]
-
-
-
-
-    this.createLinkForCanonicalURL()
-    if (this.url[1]==="university" && this.url.length > 3 ||this.url.length > 4 ) {
-      this.makeActiveTab(this.url[this.url.length -1]);
-    } else {
-      this.makeActiveTab('info');
-    }
-    console.log('this.universityData: ', this.universityData);
-    if (this.url.length > 3) {
-      console.log('this.universityData[this.url[this.url.length -1]]: ', this.universityData[this.url[this.url.length -1]]);
-      this.universityData[this.url[this.url.length -1].replace(/-/g, "")].forEach((un)=>{
-        if(un.type ==='title'){
-          this.h1Title= un.title
-        }
-      })
-    }else {
-      this.universityData.info.forEach((un)=>{
-        if(un.type ==='title'){
-          this.h1Title= un.title
-        }
-      })
-    }
-    console.log('this.h1Title: ', this.h1Title);
-    //END adding meta tag by url
-
-
-    // this.posturl = this.router['location']._platformLocation.location.origin + this.router.url
-    // this.posturl="https://crunchify.com/list-of-all-social-sharing-urls-for-handy-reference-social-media-sharing-buttons-without-javascript/"
-    // this.makeActiveTab('info');
-    this.images2 = [
-      new ImageItem({ src: '../../assets/img/BG.jpg', thumb: '../../assets/img/BG.jpg' }),
-      new ImageItem({ src: '../../assets/img/BG.jpg', thumb: '../../assets/img/BG.jpg' }),
-      // ... more items
-    ];
     this.galleryOptions = [
       {
         width: '100%',
@@ -646,7 +454,55 @@ if(metas){
       },
 
     ];
+    //this.currentUrl = this.router.url.split('/').pop()
+    this.getUrl = this.router.url.split('/'); 
+    this.currentUrl = this.getUrl[this.getUrl .length-2];
+    this.currentUrl = this.currentUrl;
+    //console.log('this.currentUrl: ', this.currentUrl);
+    //this.url = this.router.url.split('/');
+    //this.url = this.getUrl[this.getUrl .length-2];
+    this.url = this.router.url.split('/');
+    if (this.url.length > 4) {
+      if (this.url[3] === 'courses-and-fees') { 
+        this.getCoursesFees(this.url[2])
+      }
+      if (this.url[3] === 'admission') {
+        this.getaddmission(this.url[2])
+      }
+      if (this.url[3] === 'placement') {
+        this.getplaceMent(this.url[2])
+      }
+      if (this.url[3] === 'gallery') {
+        this.getGallery(this.url[2])
+        this.makeActiveTabSub('images')
+      }
+      if (this.url[3] === 'news') {
+        this.getNews(this.url[2])
+      }
+    } 
+    this.api.getAll(`section=colunimaininfo&coluni=${this.url[2]}`)
+    .subscribe((response:any) => {
+      this.posts = response.data[0];
+      console.log('posts', response)
+    });
 
+    console.log('this.universityContents: ', this.universityContents);
+    console.log('this.url[2].replace(/-/g, ""): ', this.url[2].replace(/-/g, ""));
+    const data = this.universityContents[this.url[2].replace(/-/g, "")]
+    console.log("data=======", data);
+    this.universityData = data[this.url[2].replace(/-/g, "")];
+    this.createLinkForCanonicalURL()
+    if (this.url.length > 4) {
+      this.makeActiveTab(this.url[3]);
+    } else {
+      this.makeActiveTab('info');
+    }
+    this.images2 = [
+      new ImageItem({ src: '../../assets/img/BG.jpg', thumb: '../../assets/img/BG.jpg' }),
+      new ImageItem({ src: '../../assets/img/BG.jpg', thumb: '../../assets/img/BG.jpg' }),
+      // ... more items
+    ];
+    this.getStudentVisit()
   }
 
   openModalWithClass(template: TemplateRef<any>) {  
@@ -655,6 +511,153 @@ if(metas){
       Object.assign({}, { class: 'gray modal-lg' })  
     );  
   }  
+
+  getStudentVisit(){
+    this.api.getAll('collegemaster/subject1').subscribe((res:any)=>{
+      this.studuentAlsoVisit=res.data
+
+    })
+  }
+
+  public onClick(elementId: string): void {
+    this.viewportScroller.scrollToAnchor(elementId);
+  }
+
+  images2: GalleryItem[];
+  scrollToElement($element: any): void {
+    // console.log($element);
+    $element.scrollIntoView({ behavior: "smooth" });
+  }
+
+  createLinkForCanonicalURL() { 
+    if (this.link === undefined) {
+      this.universityData.info.forEach((info: any) => { 
+        if (info.type === 'link') { alert("here");
+          info.data.forEach((lin: any) => {
+            this.link = this.dom.createElement('link');
+            this.link.setAttribute('rel', lin.rel,);
+            this.dom.head.appendChild(this.link);
+            this.link.setAttribute('href', lin.href);
+          });
+        }
+      });
+    }
+  }
+
+  getNews(url: any) {
+    this.api.get(`syudynamicnews/${url}`).subscribe((res: any) => {
+      console.log('res: ', res);
+      if (res.isError) {
+        console.log("Something Went wrong ")
+      } else {
+        this.news = res.data
+        console.log('this.news: ', this.news);
+      }
+    })
+  }
+
+  getGallery(url: any) {
+    this.api.get(`syudynamicimage/${url}`).subscribe((res: any) => {
+      console.log('res: ', res);
+      if (res.isError) {
+        console.log("Something Went wrong ")
+      } else {
+        let courceName = []
+        courceName = res.object.map(function (obj: any) {
+          return obj.cCategory
+        })
+        courceName = [...new Set(courceName)];
+        let data: any = {
+          image: [],
+          video: []
+        }
+        res.object.forEach((obj: any, i: any) => {
+          if (obj.cContentType === 'Image') {
+            data.image.push(obj)
+          } else {
+            data.video.push(obj)
+          }
+        })
+
+        console.log('data: ', data);
+
+        console.log('courceName: ', courceName);
+        courceName.forEach((cname, id) => {
+
+          data.image.forEach((obj: any) => {
+            if (cname === obj.cCategory) {
+              data.image.push(obj)
+            }
+          });
+        });
+        this.galleryType = courceName
+        data.video.forEach((vd: any) => {
+          let url = vd.cImageUrl
+          // let spliturl = Array.from(url)
+          console.log('test', url.split("/"));
+        });
+        this.gallery = data
+        console.log('data: ', data);
+        console.log('this.placement: ', this.gallery);
+      }
+    })
+  }
+
+  getplaceMent(url: any) {
+    this.api.get(`collegeplacementmaster/${url}`).subscribe((res: any) => {
+      console.log('res: ', res);
+      if (res.isError) {
+        console.log("Something Went wrong ")
+      } else {
+        this.placement.push(res.object[0])
+        console.log('this.placement: ', this.placement);
+      }
+    })
+  }
+
+  getaddmission(url: any) {
+    this.api.get(`syudadmissionmaster/${url}`).subscribe((res: any) => {
+      console.log('res: ', res);
+      if (res.isError) {
+        console.log("Something Went wrong ")
+      } else {
+        res.object.forEach((evn: any) => {
+          this.eventaddmission.push({ Events: evn.cEvents, 'Important Dates': evn.cImportantDates })
+          this.courseaddmission.push({ Course: 'Test', 'Exam Accepted': evn.cExamAccepted })
+        });
+        console.log('this.eventaddmission: ', this.eventaddmission);
+        console.log('this.courseaddmission: ', this.courseaddmission);
+      }
+    })
+  }
+
+  getCoursesFees(url: any) {
+    this.api.get(`collegemaster/${url}`).subscribe((res: any) => {
+      console.log('res: ', res);
+      if (res.isError) {
+        console.log("Something Went wrong ")
+      } else {
+        let courceName = []
+        courceName = res.object.map(function (obj: any) {
+          return obj.cCourse
+        })
+        courceName = [...new Set(courceName)];
+        console.log('courceName: ', courceName);
+        courceName.forEach((cname, id) => {
+          let data: any = []
+          res.object.forEach((obj: any, i: any) => {
+            if (cname === obj.cCourse) {
+              data.push(obj)
+            }
+            if (i === res.object.length - 1) {
+              this.CoursesFees[id] = data
+            }
+          });
+        });
+        console.log('this.CoursesFees: ', this.CoursesFees);
+      }
+    })
+  }
 
   galleriaImages: [
     {
@@ -691,6 +694,7 @@ if(metas){
     }
   ];
   ngAfterViewInit() {
+    console.log('this.talkExpertDiv: ', this.talkExpertDiv);
     this.elementPosition = this.navTabs.nativeElement.offsetTop;
     this.elementPosition1 = this.talkExpertDiv.nativeElement.offsetTop;
   }
@@ -712,5 +716,5 @@ if(metas){
       this.stickyDiv = false;
     }
   }
-
 }
+

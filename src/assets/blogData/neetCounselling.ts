@@ -5,7 +5,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'neet-counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/uttarakhand-neet-ug-counselling.jpg',
-    url:'uttarakhand-neet-ug-counselling',
+    url:'uttarakhand-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -625,7 +625,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/haryana-neet-ug-counselling.jpg',
-    url:'haryana-neet-ug-counselling',
+    url:'haryana-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -1236,7 +1236,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/chhattisgarh-neet-ug-counselling.jpg',
-    url:'chhattisgarh-neet-ug-counselling',
+    url:'chhattisgarh-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -1823,7 +1823,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/andhra-pradesh-neet-ug-counselling.jpg',
-    url:'andhra-pradesh-neet-ug-counselling',
+    url:'andhra-pradesh-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -2554,7 +2554,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/chhattisgarh-neet-ug-counselling.jpg',
-    url:'chhattisgarh-neet-ug-counselling',
+    url:'chhattisgarh-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -3141,7 +3141,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/punjab-neet-ug-counselling.jpg',
-    url:'punjab-neet-ug-counselling',
+    url:'punjab-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -3869,7 +3869,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/tamil-nadu-neet-ug-counselling.jpg',
-    url:'tamil-nadu-neet-ug-counselling',
+    url:'tamil-nadu-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -4620,7 +4620,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/west-bengal-neet-ug-counselling.jpg',
-    url:'west-bengal-neet-ug-counselling',
+    url:'west-bengal-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -5441,7 +5441,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/karnataka-neet-ug-counselling.jpg',
-    url:'karnataka-neet-ug-counselling',
+    url:'karnataka-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -6349,7 +6349,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/kerala-neet-ug-counselling.jpg',
-    url:'kerala-neet-ug-counselling',
+    url:'kerala-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -7171,7 +7171,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/gujarat-neet-ug-counselling.jpg',
-    url:'gujarat-neet-ug-counselling',
+    url:'gujarat-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -7954,7 +7954,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/uttar-pradesh-neet-ug-counselling.jpg',
-    url:'uttar-pradesh-neet-ug-counselling',
+    url:'uttar-pradesh-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -8894,7 +8894,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/delhi-neet-ug-counselling.jpg',
-    url:'delhi-neet-ug-counselling',
+    url:'delhi-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -9693,7 +9693,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/bihar-neet-ug-counselling.jpg',
-    url:'bihar-neet-ug-counselling',
+    url:'bihar-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -10436,7 +10436,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/rajasthan-neet-ug-counselling.jpg',
-    url:'rajasthan-neet-ug-counselling',
+    url:'rajasthan-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -11394,7 +11394,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/madhya-pradesh-neet-ug-counselling.jpg',
-    url:'madhya-pradesh-neet-ug-counselling',
+    url:'madhya-pradesh-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -12241,7 +12241,7 @@ export default[
     postedBy:"Bhavesh Nimodiya",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/maharashtra-neet-ug-counselling.jpg',
-    url:'maharashtra-neet-ug-counselling',
+    url:'maharashtra-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -13360,7 +13360,7 @@ export default[
     postedBy:"Saurabh Kale",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/telangana-neet-ug-counselling.jpg',
-    url:'telangana-neet-ug-counselling',
+    url:'telangana-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',
@@ -13771,7 +13771,7 @@ export default[
     postedBy:"Vivek Wagh",
     Categories:'NEET Counselling',
     blogimg:'../../assets/blog-news-images/Blog-images/all-india-quota-neet-ug-counselling.jpg',
-    url:'all-india-quota-neet-ug-counselling',
+    url:'all-india-quota-neet-ug-counselling/.',
     data: [
         // {
         //     type:'text',

@@ -4,7 +4,7 @@ export default[ {
     postedBy:"Smita Medhekar",
     Categories:'exam',
     blogimg:'../../assets/blog-news-images/Blog-images/minimum-marks-required-in-neet-for-mbbs-in-government-college.jpg',
-    url:'minimum-marks-required-in-neet-for-mbbs-in-government-college',
+    url:'minimum-marks-required-in-neet-for-mbbs-in-government-college/.',
     data: [
         {
             type: 'title',
@@ -278,7 +278,7 @@ export default[ {
     postedBy:"Vivek Wagh",
     Categories:'Exam',
     blogimg:'../../assets/blog-news-images/Blog-images/neet-exam-update.jpg',
-    url:'neet-exam-update',
+    url:'neet-exam-update/.',
     data: [
         {
             type: 'title',
@@ -426,7 +426,7 @@ export default[ {
     postedBy:"Prithu Sarkar",
     Categories:'Exam',
     blogimg:'../../assets/blog-news-images/Blog-images/krok-exam-guide.jpg',
-    url:'krok-exam-guide',
+    url:'krok-exam-guide/.',
     data: [
         {
             type: 'title',
@@ -676,7 +676,7 @@ export default[ {
     postedBy:"Bhavesh Nimodiya",
     Categories:'Exam',
     blogimg:'../../assets/blog-news-images/Blog-images/neet-pg-exam-registration.jpg',
-    url:'neet-pg-exam-registration',
+    url:'neet-pg-exam-registration/.',
     data: [
         {
             type: 'title',
@@ -808,7 +808,7 @@ export default[ {
     postedBy:"Saurabh Kale",
     Categories:'Exam',
     blogimg:'../../assets/blog-news-images/Blog-images/myths-about-neet-medical-course.jpg',
-    url:'myths-about-neet-medical-course',
+    url:'myths-about-neet-medical-course/.',
     data: [
         {
             type: 'title',
@@ -1113,7 +1113,7 @@ export default[ {
     postedBy:"Vivek Wagh",
     Categories:'Exam',
     blogimg:'../../assets/blog-news-images/Blog-images/neet-ug-exam-postponed.jpg',
-    url:'neet-ug-exam-postponed',
+    url:'neet-ug-exam-postponed/.',
     data: [
         {
             type: 'title',
@@ -1293,7 +1293,7 @@ export default[ {
     postedBy:"Saurabh Kale",
     Categories:'Exam',
     blogimg:'../../assets/blog-news-images/Blog-images/important-tips-for-neet-aspirants.jpg',
-    url:'important-tips-for-neet-aspirants',
+    url:'important-tips-for-neet-aspirants/.',
     data: [
         {
             type: 'title',
@@ -1716,7 +1716,7 @@ export default[ {
     postedBy:"Smita Medhekar",
     Categories:'Exam',
     blogimg:'../../assets/blog-news-images/Blog-images/medical-entrance-exams.jpg',
-    url:'medical-entrance-exams',
+    url:'medical-entrance-exams/.',
     data: [
         {
             type: 'title',

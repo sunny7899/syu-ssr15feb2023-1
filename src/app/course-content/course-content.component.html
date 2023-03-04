@@ -1,11 +1,15 @@
 <section class="course-content">
   <div class="course-content-banner">
     <div class="row">
-      <div class="col-lg-12" *ngIf="isActive('info')">
+      <!-- <div class="col-lg-12" *ngIf="isActive('info')">
         <div class="course-content-page-header text-center">
           <h1 class="white-text-2" [innerHtml]="h1Title"></h1>
         </div>
-      </div>
+      </div> -->
+      <div  class="col-lg-12" *ngIf="isActive('info')">
+        <h1 class="course-content-page-header text-center">
+          <h1 class="white-text-2" >{{ collegeData.Title }}</h1>
+        </h1></div>
       <div class="col-lg-12" *ngIf="isActive('top-colleges')">
         <div *ngFor="let item of collegeData.topcolleges" class="course-content-page-header text-center" id="titles">
           <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->

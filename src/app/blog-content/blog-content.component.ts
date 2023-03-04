@@ -18,6 +18,7 @@ export class BlogContentComponent implements OnInit {
   currentUrl: any
   customeCat:any
   url: any
+  getUrl: any
   allBlog:any=[]
   latestBlog:any
   h1Title:any
@@ -30,12 +31,15 @@ export class BlogContentComponent implements OnInit {
     ) { }
   
   ngOnInit() {
-    this.currentUrl = this.router.url.split('/').pop()
-    this.data.forEach((bdata:any) => {
-      bdata.forEach((blog:any) => {
+    //this.currentUrl = this.router.url.split('/').pop();
+    this.getUrl = this.router.url.split('/'); 
+    this.currentUrl = this.getUrl[this.getUrl .length-2];
+    this.currentUrl = this.currentUrl+"/.";
+    this.data.forEach((bdata:any) => { 
+      bdata.forEach((blog:any) => { 
         console.log('blog: ', blog);
           if(blog.url === this.currentUrl){
-              this.blogsData =blog
+              this.blogsData =blog;
             }
           });
           
@@ -58,7 +62,7 @@ export class BlogContentComponent implements OnInit {
           let metas: any
           let links: any
           let titles: any
-      
+
           this.blogsData.data.forEach((inf: any) => {
               if (inf.type === 'meta') {
                 metas = inf.meta

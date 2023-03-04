@@ -260,7 +260,7 @@ export class UniversityFilterComponent implements OnInit {
       }
     }
 
-    this.updateUrl(url);
+    this.updateUrl(url.toLowerCase()+'/.');
   }
 
   updateQueryParam(url, param, onk, key) {

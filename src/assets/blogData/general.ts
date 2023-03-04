@@ -4,7 +4,7 @@ export default[{
     postedBy:"James Paul",
     Categories:'general',
     blogimg:'../../assets/blog-news-images/Blog-images/mci-reduced-mbbs-course-duration.jpg',
-    url:'mci-reduced-mbbs-course-duration',
+    url:'mci-reduced-mbbs-course-duration/.',
     data: [
         {
             type: 'title',
@@ -73,7 +73,7 @@ export default[{
     postedBy:"Saurabh Kale",
     Categories:'General',
     blogimg:'../../assets/blog-news-images/Blog-images/impact-of-corona-virus-on-mbbs-abroad.jpg',
-    url:'impact-of-corona-virus-on-mbbs-abroad',
+    url:'impact-of-corona-virus-on-mbbs-abroad/.',
     data: [
         {
             type: 'title',
@@ -493,7 +493,7 @@ export default[{
     postedBy:"Smita Medhekar",
     Categories:'General',
     blogimg:'../../assets/blog-news-images/Blog-images/stress-management-during-preparation-for-competitive-exams.jpg',
-    url:'stress-management-during-preparation-for-competitive-exams',
+    url:'stress-management-during-preparation-for-competitive-exams/.',
     data: [
         {
             type: 'title',
@@ -671,7 +671,7 @@ export default[{
     postedBy:"Saurabh Kale ",
     Categories:'General',
     blogimg:'../../assets/blog-news-images/Blog-images/top-educational-influencers-in-india.jpg',
-    url:'top-educational-influencers-in-india',
+    url:'top-educational-influencers-in-india/.',
     data: [
         {
             type: 'title',
@@ -1058,7 +1058,7 @@ export default[{
     postedBy:"Smita Medhekar",
     Categories:'General',
     blogimg:'../../assets/blog-news-images/Blog-images/total-mbbs-seats-in-india.jpg',
-    url:'total-mbbs-seats-in-india',
+    url:'total-mbbs-seats-in-india/.',
     data: [
         {
             type: 'title',
@@ -1279,7 +1279,7 @@ export default[{
     postedBy:"Alisha Patil",
     Categories:'General',
     blogimg:'../../assets/blog-news-images/Blog-images/what-is-deemed-university.jpg',
-    url:'what-is-deemed-university',
+    url:'what-is-deemed-university/.',
     data: [
         {
             type: 'title',
@@ -1716,7 +1716,7 @@ export default[{
     postedBy:"Alisha Patil",
     Categories:'General',
     blogimg:'../../assets/blog-news-images/Blog-images/what-is-paascu.jpg',
-    url:'what-is-paascu',
+    url:'what-is-paascu/.',
     data: [
         {
             type: 'title',
@@ -1986,7 +1986,7 @@ export default[{
         postedBy: "Saurabh Kale",
         Categories: 'career',
         blogimg: '../../assets/blog-news-images/Blog-images/indian-mbbs-aspirants-to-migrate-from-china-due-to-corona-virus.jpg',
-        url: 'indian-mbbs-aspirants-to-migrate-from-china-due-to-corona-virus',
+        url: 'indian-mbbs-aspirants-to-migrate-from-china-due-to-corona-virus/.',
         data: [
             {
                 type: 'title',

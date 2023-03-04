@@ -33,18451 +33,18451 @@ const routes: Routes = [
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/faculty',
+    path: 'siberian-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/news',
+    path: 'siberian-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/hostel',
+    path: 'siberian-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/faq',
+    path: 'siberian-state-medical-university/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology',
+    path: 'saint-petersburg-state-institute-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/courses-and-fees',
+    path: 'saint-petersburg-state-institute-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/admission',
+    path: 'saint-petersburg-state-institute-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/review',
+    path: 'saint-petersburg-state-institute-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/placement',
+    path: 'saint-petersburg-state-institute-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/gallery',
+    path: 'saint-petersburg-state-institute-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/scholarship',
+    path: 'saint-petersburg-state-institute-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/faculty',
+    path: 'saint-petersburg-state-institute-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/news',
+    path: 'saint-petersburg-state-institute-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/hostel',
+    path: 'saint-petersburg-state-institute-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/faq',
+    path: 'saint-petersburg-state-institute-of-technology/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine',
+    path: 'national-metallurgical-academy-of-ukraine/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/courses-and-fees',
+    path: 'national-metallurgical-academy-of-ukraine/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/admission',
+    path: 'national-metallurgical-academy-of-ukraine/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/review',
+    path: 'national-metallurgical-academy-of-ukraine/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/placement',
+    path: 'national-metallurgical-academy-of-ukraine/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/gallery',
+    path: 'national-metallurgical-academy-of-ukraine/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/scholarship',
+    path: 'national-metallurgical-academy-of-ukraine/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/faculty',
+    path: 'national-metallurgical-academy-of-ukraine/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/news',
+    path: 'national-metallurgical-academy-of-ukraine/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/hostel',
+    path: 'national-metallurgical-academy-of-ukraine/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/faq',
+    path: 'national-metallurgical-academy-of-ukraine/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university',
+    path: 'perm-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/courses-and-fees',
+    path: 'perm-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/admission',
+    path: 'perm-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/review',
+    path: 'perm-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/placement',
+    path: 'perm-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/gallery',
+    path: 'perm-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/scholarship',
+    path: 'perm-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/faculty',
+    path: 'perm-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/news',
+    path: 'perm-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/hostel',
+    path: 'perm-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-medical-university/faq',
+    path: 'perm-state-medical-university/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina',
+    path: 'university-of-regina/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/courses-and-fees',
+    path: 'university-of-regina/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/admission',
+    path: 'university-of-regina/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/review',
+    path: 'university-of-regina/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/placement',
+    path: 'university-of-regina/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/gallery',
+    path: 'university-of-regina/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/scholarship',
+    path: 'university-of-regina/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/faculty',
+    path: 'university-of-regina/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/news',
+    path: 'university-of-regina/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/hostel',
+    path: 'university-of-regina/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-regina/faq',
+    path: 'university-of-regina/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy',
+    path: 'south-kazakhstan-medical-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/courses-and-fees',
+    path: 'south-kazakhstan-medical-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/admission',
+    path: 'south-kazakhstan-medical-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/review',
+    path: 'south-kazakhstan-medical-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/placement',
+    path: 'south-kazakhstan-medical-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/gallery',
+    path: 'south-kazakhstan-medical-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/scholarship',
+    path: 'south-kazakhstan-medical-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/faculty',
+    path: 'south-kazakhstan-medical-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/news',
+    path: 'south-kazakhstan-medical-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/hostel',
+    path: 'south-kazakhstan-medical-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'south-kazakhstan-medical-academy/faq',
+    path: 'south-kazakhstan-medical-academy/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university',
+    path: 'kursk-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/courses-and-fees',
+    path: 'kursk-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/admission',
+    path: 'kursk-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/review',
+    path: 'kursk-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/placement',
+    path: 'kursk-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/gallery',
+    path: 'kursk-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/scholarship',
+    path: 'kursk-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/faculty',
+    path: 'kursk-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/news',
+    path: 'kursk-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/hostel',
+    path: 'kursk-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kursk-state-medical-university/faq',
+    path: 'kursk-state-medical-university/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts',
+    path: 'university-for-the-creative-arts/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/courses-and-fees',
+    path: 'university-for-the-creative-arts/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/admission',
+    path: 'university-for-the-creative-arts/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/review',
+    path: 'university-for-the-creative-arts/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/placement',
+    path: 'university-for-the-creative-arts/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/gallery',
+    path: 'university-for-the-creative-arts/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/scholarship',
+    path: 'university-for-the-creative-arts/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/faculty',
+    path: 'university-for-the-creative-arts/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/news',
+    path: 'university-for-the-creative-arts/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/hostel',
+    path: 'university-for-the-creative-arts/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-for-the-creative-arts/faq',
+    path: 'university-for-the-creative-arts/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university',
+    path: 'altai-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/courses-and-fees',
+    path: 'altai-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/admission',
+    path: 'altai-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/review',
+    path: 'altai-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/placement',
+    path: 'altai-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/gallery',
+    path: 'altai-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/scholarship',
+    path: 'altai-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/faculty',
+    path: 'altai-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/news',
+    path: 'altai-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/hostel',
+    path: 'altai-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'altai-state-medical-university/faq',
+    path: 'altai-state-medical-university/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi',
+    path: 'bau-international-university-batumi/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/courses-and-fees',
+    path: 'bau-international-university-batumi/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/admission',
+    path: 'bau-international-university-batumi/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/review',
+    path: 'bau-international-university-batumi/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/placement',
+    path: 'bau-international-university-batumi/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/gallery',
+    path: 'bau-international-university-batumi/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/scholarship',
+    path: 'bau-international-university-batumi/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/faculty',
+    path: 'bau-international-university-batumi/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/news',
+    path: 'bau-international-university-batumi/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/hostel',
+    path: 'bau-international-university-batumi/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bau-international-university-batumi/faq',
+    path: 'bau-international-university-batumi/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university',
+    path: 'jalalabad-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/courses-and-fees',
+    path: 'jalalabad-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/admission',
+    path: 'jalalabad-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/review',
+    path: 'jalalabad-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/placement',
+    path: 'jalalabad-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/gallery',
+    path: 'jalalabad-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/scholarship',
+    path: 'jalalabad-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/faculty',
+    path: 'jalalabad-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/news',
+    path: 'jalalabad-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/hostel',
+    path: 'jalalabad-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-state-university/faq',
+    path: 'jalalabad-state-university/faq/.',
     component: UniversityConComponent
   },
   
   {
-    path: 'international-higher-school-of-medicine',
+    path: 'international-higher-school-of-medicine/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/courses-and-fees',
+    path: 'international-higher-school-of-medicine/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/admission',
+    path: 'international-higher-school-of-medicine/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/review',
+    path: 'international-higher-school-of-medicine/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/placement',
+    path: 'international-higher-school-of-medicine/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/gallery',
+    path: 'international-higher-school-of-medicine/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/scholarship',
+    path: 'international-higher-school-of-medicine/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/faculty',
+    path: 'international-higher-school-of-medicine/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/news',
+    path: 'international-higher-school-of-medicine/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/hostel',
+    path: 'international-higher-school-of-medicine/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-higher-school-of-medicine/faq',
+    path: 'international-higher-school-of-medicine/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy',
+    path: 'ivanovo-state-medical-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/courses-and-fees',
+    path: 'ivanovo-state-medical-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/admission',
+    path: 'ivanovo-state-medical-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/review',
+    path: 'ivanovo-state-medical-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/placement',
+    path: 'ivanovo-state-medical-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/gallery',
+    path: 'ivanovo-state-medical-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/scholarship',
+    path: 'ivanovo-state-medical-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/faculty',
+    path: 'ivanovo-state-medical-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/news',
+    path: 'ivanovo-state-medical-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/hostel',
+    path: 'ivanovo-state-medical-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/faq',
+    path: 'ivanovo-state-medical-academy/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university',
+    path: 'privolzhsky-research-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/courses-and-fees',
+    path: 'privolzhsky-research-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/admission',
+    path: 'privolzhsky-research-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/review',
+    path: 'privolzhsky-research-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/placement',
+    path: 'privolzhsky-research-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/gallery',
+    path: 'privolzhsky-research-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/scholarship',
+    path: 'privolzhsky-research-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/faculty',
+    path: 'privolzhsky-research-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/news',
+    path: 'privolzhsky-research-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/hostel',
+    path: 'privolzhsky-research-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/faq',
+    path: 'privolzhsky-research-medical-university/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university',
+    path: 'tula-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/courses-and-fees',
+    path: 'tula-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/admission',
+    path: 'tula-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/review',
+    path: 'tula-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/placement',
+    path: 'tula-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/gallery',
+    path: 'tula-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/scholarship',
+    path: 'tula-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/faculty',
+    path: 'tula-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/news',
+    path: 'tula-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/hostel',
+    path: 'tula-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tula-state-university/faq',
+    path: 'tula-state-university/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college',
+    path: 'ad-din-womens-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/courses-and-fees',
+    path: 'ad-din-womens-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/admission',
+    path: 'ad-din-womens-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/review',
+    path: 'ad-din-womens-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/placement',
+    path: 'ad-din-womens-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/gallery',
+    path: 'ad-din-womens-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/scholarship',
+    path: 'ad-din-womens-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/faculty',
+    path: 'ad-din-womens-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/news',
+    path: 'ad-din-womens-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/hostel',
+    path: 'ad-din-womens-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/faq',
+    path: 'ad-din-womens-medical-college/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college',
+    path: 'anwer-khan-modern-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/courses-and-fees',
+    path: 'anwer-khan-modern-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/admission',
+    path: 'anwer-khan-modern-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/review',
+    path: 'anwer-khan-modern-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/placement',
+    path: 'anwer-khan-modern-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/gallery',
+    path: 'anwer-khan-modern-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/scholarship',
+    path: 'anwer-khan-modern-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/faculty',
+    path: 'anwer-khan-modern-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/news',
+    path: 'anwer-khan-modern-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/hostel',
+    path: 'anwer-khan-modern-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/faq',
+    path: 'anwer-khan-modern-medical-college/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college',
+    path: 'dhaka-central-international-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/courses-and-fees',
+    path: 'dhaka-central-international-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/admission',
+    path: 'dhaka-central-international-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/review',
+    path: 'dhaka-central-international-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/placement',
+    path: 'dhaka-central-international-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/gallery',
+    path: 'dhaka-central-international-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/scholarship',
+    path: 'dhaka-central-international-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/faculty',
+    path: 'dhaka-central-international-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/news',
+    path: 'dhaka-central-international-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/hostel',
+    path: 'dhaka-central-international-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/faq',
+    path: 'dhaka-central-international-medical-college/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college',
+    path: 'dhaka-community-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/courses-and-fees',
+    path: 'dhaka-community-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/admission',
+    path: 'dhaka-community-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/review',
+    path: 'dhaka-community-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/placement',
+    path: 'dhaka-community-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/gallery',
+    path: 'dhaka-community-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/scholarship',
+    path: 'dhaka-community-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/faculty',
+    path: 'dhaka-community-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/news',
+    path: 'dhaka-community-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/hostel',
+    path: 'dhaka-community-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-community-medical-college/faq',
+    path: 'dhaka-community-medical-college/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college',
+    path: 'dr-sirajul-islam-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/courses-and-fees',
+    path: 'dr-sirajul-islam-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/admission',
+    path: 'dr-sirajul-islam-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/review',
+    path: 'dr-sirajul-islam-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/placement',
+    path: 'dr-sirajul-islam-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/gallery',
+    path: 'dr-sirajul-islam-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/scholarship',
+    path: 'dr-sirajul-islam-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/faculty',
+    path: 'dr-sirajul-islam-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/news',
+    path: 'dr-sirajul-islam-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/hostel',
+    path: 'dr-sirajul-islam-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/faq',
+    path: 'dr-sirajul-islam-medical-college/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital',
+    path: 'enam-medical-college-and-hospital/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/courses-and-fees',
+    path: 'enam-medical-college-and-hospital/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/admission',
+    path: 'enam-medical-college-and-hospital/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/review',
+    path: 'enam-medical-college-and-hospital/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/placement',
+    path: 'enam-medical-college-and-hospital/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/gallery',
+    path: 'enam-medical-college-and-hospital/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/scholarship',
+    path: 'enam-medical-college-and-hospital/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/faculty',
+    path: 'enam-medical-college-and-hospital/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/news',
+    path: 'enam-medical-college-and-hospital/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/hostel',
+    path: 'enam-medical-college-and-hospital/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/faq',
+    path: 'enam-medical-college-and-hospital/faq/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/courses-and-fees',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/admission',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/review',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/placement',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/gallery',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/scholarship',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/faculty',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/news',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/hostel',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/faq',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'avicenna-international-medical-university',
+    path: 'avicenna-international-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/courses-and-fees',
+    path: 'avicenna-international-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/admission',
+    path: 'avicenna-international-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/review',
+    path: 'avicenna-international-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/placement',
+    path: 'avicenna-international-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/gallery',
+    path: 'avicenna-international-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/scholarship',
+    path: 'avicenna-international-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/faculty',
+    path: 'avicenna-international-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/news',
+    path: 'avicenna-international-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/hostel',
+    path: 'avicenna-international-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'avicenna-international-medical-university/faq',
+    path: 'avicenna-international-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'b-p-koirala-institute-of-health-sciences',
+    path: 'b-p-koirala-institute-of-health-sciences/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/courses-and-fees',
+    path: 'b-p-koirala-institute-of-health-sciences/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/admission',
+    path: 'b-p-koirala-institute-of-health-sciences/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/review',
+    path: 'b-p-koirala-institute-of-health-sciences/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/placement',
+    path: 'b-p-koirala-institute-of-health-sciences/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/gallery',
+    path: 'b-p-koirala-institute-of-health-sciences/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/scholarship',
+    path: 'b-p-koirala-institute-of-health-sciences/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/faculty',
+    path: 'b-p-koirala-institute-of-health-sciences/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/news',
+    path: 'b-p-koirala-institute-of-health-sciences/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/hostel',
+    path: 'b-p-koirala-institute-of-health-sciences/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/faq',
+    path: 'b-p-koirala-institute-of-health-sciences/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'berlin-school-of-business-and-innovation',
+    path: 'berlin-school-of-business-and-innovation/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/courses-and-fees',
+    path: 'berlin-school-of-business-and-innovation/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/admission',
+    path: 'berlin-school-of-business-and-innovation/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/review',
+    path: 'berlin-school-of-business-and-innovation/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/placement',
+    path: 'berlin-school-of-business-and-innovation/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/gallery',
+    path: 'berlin-school-of-business-and-innovation/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/scholarship',
+    path: 'berlin-school-of-business-and-innovation/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/faculty',
+    path: 'berlin-school-of-business-and-innovation/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/news',
+    path: 'berlin-school-of-business-and-innovation/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/hostel',
+    path: 'berlin-school-of-business-and-innovation/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/faq',
+    path: 'berlin-school-of-business-and-innovation/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'birat-medical-college',
+    path: 'birat-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/courses-and-fees',
+    path: 'birat-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/admission',
+    path: 'birat-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/review',
+    path: 'birat-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/placement',
+    path: 'birat-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/gallery',
+    path: 'birat-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/scholarship',
+    path: 'birat-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/faculty',
+    path: 'birat-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/news',
+    path: 'birat-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/hostel',
+    path: 'birat-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'birat-medical-college/faq',
+    path: 'birat-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'devdaha-medical-college-and-research-institute',
+    path: 'devdaha-medical-college-and-research-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/courses-and-fees',
+    path: 'devdaha-medical-college-and-research-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/admission',
+    path: 'devdaha-medical-college-and-research-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/review',
+    path: 'devdaha-medical-college-and-research-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/placement',
+    path: 'devdaha-medical-college-and-research-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/gallery',
+    path: 'devdaha-medical-college-and-research-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/scholarship',
+    path: 'devdaha-medical-college-and-research-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/faculty',
+    path: 'devdaha-medical-college-and-research-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/news',
+    path: 'devdaha-medical-college-and-research-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/hostel',
+    path: 'devdaha-medical-college-and-research-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/faq',
+    path: 'devdaha-medical-college-and-research-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/courses-and-fees',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/admission',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/review',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/placement',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/gallery',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/scholarship',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/faculty',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/news',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/hostel',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-university-of-oil-and-gas/faq',
+    path: 'ivano-frankivsk-national-university-of-oil-and-gas/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'jahurul-islam-medical-college',
+    path: 'jahurul-islam-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/courses-and-fees',
+    path: 'jahurul-islam-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/admission',
+    path: 'jahurul-islam-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/review',
+    path: 'jahurul-islam-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/placement',
+    path: 'jahurul-islam-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/gallery',
+    path: 'jahurul-islam-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/scholarship',
+    path: 'jahurul-islam-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/faculty',
+    path: 'jahurul-islam-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/news',
+    path: 'jahurul-islam-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/hostel',
+    path: 'jahurul-islam-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'jahurul-islam-medical-college/faq',
+    path: 'jahurul-islam-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'khwaja-yunus-ali-medical-college',
+    path: 'khwaja-yunus-ali-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/courses-and-fees',
+    path: 'khwaja-yunus-ali-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/admission',
+    path: 'khwaja-yunus-ali-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/review',
+    path: 'khwaja-yunus-ali-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/placement',
+    path: 'khwaja-yunus-ali-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/gallery',
+    path: 'khwaja-yunus-ali-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/scholarship',
+    path: 'khwaja-yunus-ali-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/faculty',
+    path: 'khwaja-yunus-ali-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/news',
+    path: 'khwaja-yunus-ali-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/hostel',
+    path: 'khwaja-yunus-ali-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-college/faq',
+    path: 'khwaja-yunus-ali-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kumudini-womens-medical-college',
+    path: 'kumudini-womens-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/courses-and-fees',
+    path: 'kumudini-womens-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/admission',
+    path: 'kumudini-womens-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/review',
+    path: 'kumudini-womens-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/placement',
+    path: 'kumudini-womens-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/gallery',
+    path: 'kumudini-womens-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/scholarship',
+    path: 'kumudini-womens-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/faculty',
+    path: 'kumudini-womens-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/news',
+    path: 'kumudini-womens-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/hostel',
+    path: 'kumudini-womens-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kumudini-womens-medical-college/faq',
+    path: 'kumudini-womens-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'mainamoti-medical-university',
+    path: 'mainamoti-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/courses-and-fees',
+    path: 'mainamoti-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/admission',
+    path: 'mainamoti-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/review',
+    path: 'mainamoti-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/placement',
+    path: 'mainamoti-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/gallery',
+    path: 'mainamoti-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/scholarship',
+    path: 'mainamoti-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/faculty',
+    path: 'mainamoti-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/news',
+    path: 'mainamoti-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/hostel',
+    path: 'mainamoti-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-university/faq',
+    path: 'mainamoti-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'monno-medical-college-and-hospital',
+    path: 'monno-medical-college-and-hospital/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/courses-and-fees',
+    path: 'monno-medical-college-and-hospital/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/admission',
+    path: 'monno-medical-college-and-hospital/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/review',
+    path: 'monno-medical-college-and-hospital/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/placement',
+    path: 'monno-medical-college-and-hospital/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/gallery',
+    path: 'monno-medical-college-and-hospital/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/scholarship',
+    path: 'monno-medical-college-and-hospital/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/faculty',
+    path: 'monno-medical-college-and-hospital/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/news',
+    path: 'monno-medical-college-and-hospital/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/hostel',
+    path: 'monno-medical-college-and-hospital/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'monno-medical-college-and-hospital/faq',
+    path: 'monno-medical-college-and-hospital/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'president-abdul-hamid-medical-college',
+    path: 'president-abdul-hamid-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/courses-and-fees',
+    path: 'president-abdul-hamid-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/admission',
+    path: 'president-abdul-hamid-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/review',
+    path: 'president-abdul-hamid-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/placement',
+    path: 'president-abdul-hamid-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/gallery',
+    path: 'president-abdul-hamid-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/scholarship',
+    path: 'president-abdul-hamid-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/faculty',
+    path: 'president-abdul-hamid-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/news',
+    path: 'president-abdul-hamid-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/hostel',
+    path: 'president-abdul-hamid-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'president-abdul-hamid-medical-college/faq',
+    path: 'president-abdul-hamid-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'prime-medical-college',
+    path: 'prime-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/courses-and-fees',
+    path: 'prime-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/admission',
+    path: 'prime-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/review',
+    path: 'prime-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/placement',
+    path: 'prime-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/gallery',
+    path: 'prime-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/scholarship',
+    path: 'prime-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/faculty',
+    path: 'prime-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/news',
+    path: 'prime-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/hostel',
+    path: 'prime-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'prime-medical-college/faq',
+    path: 'prime-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tianjin-medical-university',
+    path: 'tianjin-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/courses-and-fees',
+    path: 'tianjin-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/admission',
+    path: 'tianjin-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/review',
+    path: 'tianjin-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/placement',
+    path: 'tianjin-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/gallery',
+    path: 'tianjin-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/scholarship',
+    path: 'tianjin-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/faculty',
+    path: 'tianjin-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/news',
+    path: 'tianjin-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/hostel',
+    path: 'tianjin-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tianjin-medical-university/faq',
+    path: 'tianjin-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'national-aviation-university',
+    path: 'national-aviation-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/courses-and-fees',
+    path: 'national-aviation-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/admission',
+    path: 'national-aviation-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/review',
+    path: 'national-aviation-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/placement',
+    path: 'national-aviation-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/gallery',
+    path: 'national-aviation-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/scholarship',
+    path: 'national-aviation-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/faculty',
+    path: 'national-aviation-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/news',
+    path: 'national-aviation-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/hostel',
+    path: 'national-aviation-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aviation-university/faq',
+    path: 'national-aviation-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-bonn',
+    path: 'university-of-bonn/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/courses-and-fees',
+    path: 'university-of-bonn/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/admission',
+    path: 'university-of-bonn/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/review',
+    path: 'university-of-bonn/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/placement',
+    path: 'university-of-bonn/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/gallery',
+    path: 'university-of-bonn/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/scholarship',
+    path: 'university-of-bonn/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/faculty',
+    path: 'university-of-bonn/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/news',
+    path: 'university-of-bonn/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/hostel',
+    path: 'university-of-bonn/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bonn/faq',
+    path: 'university-of-bonn/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'jalalabad-ragib-rabeya-medical-college',
+    path: 'jalalabad-ragib-rabeya-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/courses-and-fees',
+    path: 'jalalabad-ragib-rabeya-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/admission',
+    path: 'jalalabad-ragib-rabeya-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/review',
+    path: 'jalalabad-ragib-rabeya-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/placement',
+    path: 'jalalabad-ragib-rabeya-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/gallery',
+    path: 'jalalabad-ragib-rabeya-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/scholarship',
+    path: 'jalalabad-ragib-rabeya-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/faculty',
+    path: 'jalalabad-ragib-rabeya-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/news',
+    path: 'jalalabad-ragib-rabeya-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/hostel',
+    path: 'jalalabad-ragib-rabeya-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'jalalabad-ragib-rabeya-medical-college/faq',
+    path: 'jalalabad-ragib-rabeya-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'rangpur-community-medical-college',
+    path: 'rangpur-community-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/courses-and-fees',
+    path: 'rangpur-community-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/admission',
+    path: 'rangpur-community-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/review',
+    path: 'rangpur-community-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/placement',
+    path: 'rangpur-community-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/gallery',
+    path: 'rangpur-community-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/scholarship',
+    path: 'rangpur-community-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/faculty',
+    path: 'rangpur-community-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/news',
+    path: 'rangpur-community-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/hostel',
+    path: 'rangpur-community-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'rangpur-community-medical-college/faq',
+    path: 'rangpur-community-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'shahabuddin-medical-college',
+    path: 'shahabuddin-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/courses-and-fees',
+    path: 'shahabuddin-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/admission',
+    path: 'shahabuddin-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/review',
+    path: 'shahabuddin-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/placement',
+    path: 'shahabuddin-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/gallery',
+    path: 'shahabuddin-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/scholarship',
+    path: 'shahabuddin-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/faculty',
+    path: 'shahabuddin-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/news',
+    path: 'shahabuddin-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/hostel',
+    path: 'shahabuddin-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahabuddin-medical-college/faq',
+    path: 'shahabuddin-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-chittagong',
+    path: 'university-of-chittagong/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/courses-and-fees',
+    path: 'university-of-chittagong/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/admission',
+    path: 'university-of-chittagong/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/review',
+    path: 'university-of-chittagong/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/placement',
+    path: 'university-of-chittagong/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/gallery',
+    path: 'university-of-chittagong/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/scholarship',
+    path: 'university-of-chittagong/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/faculty',
+    path: 'university-of-chittagong/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/news',
+    path: 'university-of-chittagong/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/hostel',
+    path: 'university-of-chittagong/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-chittagong/faq',
+    path: 'university-of-chittagong/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'mainamoti-medical-college',
+    path: 'mainamoti-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/courses-and-fees',
+    path: 'mainamoti-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/admission',
+    path: 'mainamoti-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/review',
+    path: 'mainamoti-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/placement',
+    path: 'mainamoti-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/gallery',
+    path: 'mainamoti-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/scholarship',
+    path: 'mainamoti-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/faculty',
+    path: 'mainamoti-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/news',
+    path: 'mainamoti-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/hostel',
+    path: 'mainamoti-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'mainamoti-medical-college/faq',
+    path: 'mainamoti-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-exeter',
+    path: 'university-of-exeter/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/courses-and-fees',
+    path: 'university-of-exeter/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/admission',
+    path: 'university-of-exeter/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/review',
+    path: 'university-of-exeter/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/placement',
+    path: 'university-of-exeter/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/gallery',
+    path: 'university-of-exeter/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/scholarship',
+    path: 'university-of-exeter/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/faculty',
+    path: 'university-of-exeter/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/news',
+    path: 'university-of-exeter/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/hostel',
+    path: 'university-of-exeter/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-exeter/faq',
+    path: 'university-of-exeter/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-strathclyde',
+    path: 'university-of-strathclyde/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/courses-and-fees',
+    path: 'university-of-strathclyde/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/admission',
+    path: 'university-of-strathclyde/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/review',
+    path: 'university-of-strathclyde/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/placement',
+    path: 'university-of-strathclyde/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/gallery',
+    path: 'university-of-strathclyde/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/scholarship',
+    path: 'university-of-strathclyde/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/faculty',
+    path: 'university-of-strathclyde/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/news',
+    path: 'university-of-strathclyde/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/hostel',
+    path: 'university-of-strathclyde/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-strathclyde/faq',
+    path: 'university-of-strathclyde/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'vellore-institute-of-technology-vit-vellore',
+    path: 'vellore-institute-of-technology-vit-vellore/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/courses-and-fees',
+    path: 'vellore-institute-of-technology-vit-vellore/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/admission',
+    path: 'vellore-institute-of-technology-vit-vellore/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/review',
+    path: 'vellore-institute-of-technology-vit-vellore/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/placement',
+    path: 'vellore-institute-of-technology-vit-vellore/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/gallery',
+    path: 'vellore-institute-of-technology-vit-vellore/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/scholarship',
+    path: 'vellore-institute-of-technology-vit-vellore/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/faculty',
+    path: 'vellore-institute-of-technology-vit-vellore/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/news',
+    path: 'vellore-institute-of-technology-vit-vellore/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/hostel',
+    path: 'vellore-institute-of-technology-vit-vellore/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'vellore-institute-of-technology-vit-vellore/faq',
+    path: 'vellore-institute-of-technology-vit-vellore/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'national-aerospace-university',
+    path: 'national-aerospace-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/courses-and-fees',
+    path: 'national-aerospace-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/admission',
+    path: 'national-aerospace-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/review',
+    path: 'national-aerospace-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/placement',
+    path: 'national-aerospace-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/gallery',
+    path: 'national-aerospace-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/scholarship',
+    path: 'national-aerospace-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/faculty',
+    path: 'national-aerospace-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/news',
+    path: 'national-aerospace-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/hostel',
+    path: 'national-aerospace-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-aerospace-university/faq',
+    path: 'national-aerospace-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'uzhhorod-national-medical-university',
+    path: 'uzhhorod-national-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/courses-and-fees',
+    path: 'uzhhorod-national-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/admission',
+    path: 'uzhhorod-national-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/review',
+    path: 'uzhhorod-national-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/placement',
+    path: 'uzhhorod-national-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/gallery',
+    path: 'uzhhorod-national-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/scholarship',
+    path: 'uzhhorod-national-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/faculty',
+    path: 'uzhhorod-national-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/news',
+    path: 'uzhhorod-national-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/hostel',
+    path: 'uzhhorod-national-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'uzhhorod-national-medical-university/faq',
+    path: 'uzhhorod-national-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'bogomolets-national-medical-university',
+    path: 'bogomolets-national-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/courses-and-fees',
+    path: 'bogomolets-national-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/admission',
+    path: 'bogomolets-national-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/review',
+    path: 'bogomolets-national-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/placement',
+    path: 'bogomolets-national-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/gallery',
+    path: 'bogomolets-national-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/scholarship',
+    path: 'bogomolets-national-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/faculty',
+    path: 'bogomolets-national-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/news',
+    path: 'bogomolets-national-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/hostel',
+    path: 'bogomolets-national-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bogomolets-national-medical-university/faq',
+    path: 'bogomolets-national-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-college-london',
+    path: 'university-college-london/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/courses-and-fees',
+    path: 'university-college-london/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/admission',
+    path: 'university-college-london/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/review',
+    path: 'university-college-london/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/placement',
+    path: 'university-college-london/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/gallery',
+    path: 'university-college-london/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/scholarship',
+    path: 'university-college-london/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/faculty',
+    path: 'university-college-london/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/news',
+    path: 'university-college-london/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/hostel',
+    path: 'university-college-london/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-college-london/faq',
+    path: 'university-college-london/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ternopil-national-technical-university',
+    path: 'ternopil-national-technical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/courses-and-fees',
+    path: 'ternopil-national-technical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/admission',
+    path: 'ternopil-national-technical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/review',
+    path: 'ternopil-national-technical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/placement',
+    path: 'ternopil-national-technical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/gallery',
+    path: 'ternopil-national-technical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/scholarship',
+    path: 'ternopil-national-technical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/faculty',
+    path: 'ternopil-national-technical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/news',
+    path: 'ternopil-national-technical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/hostel',
+    path: 'ternopil-national-technical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-technical-university/faq',
+    path: 'ternopil-national-technical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'keele-university',
+    path: 'keele-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/courses-and-fees',
+    path: 'keele-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/admission',
+    path: 'keele-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/review',
+    path: 'keele-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/placement',
+    path: 'keele-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/gallery',
+    path: 'keele-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/scholarship',
+    path: 'keele-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/faculty',
+    path: 'keele-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/news',
+    path: 'keele-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/hostel',
+    path: 'keele-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'keele-university/faq',
+    path: 'keele-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'iu-international-university-of-applied-sciences',
+    path: 'iu-international-university-of-applied-sciences/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/courses-and-fees',
+    path: 'iu-international-university-of-applied-sciences/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/admission',
+    path: 'iu-international-university-of-applied-sciences/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/review',
+    path: 'iu-international-university-of-applied-sciences/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/placement',
+    path: 'iu-international-university-of-applied-sciences/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/gallery',
+    path: 'iu-international-university-of-applied-sciences/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/scholarship',
+    path: 'iu-international-university-of-applied-sciences/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/faculty',
+    path: 'iu-international-university-of-applied-sciences/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/news',
+    path: 'iu-international-university-of-applied-sciences/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/hostel',
+    path: 'iu-international-university-of-applied-sciences/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'iu-international-university-of-applied-sciences/faq',
+    path: 'iu-international-university-of-applied-sciences/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'agh-university-of-science-and-technology',
+    path: 'agh-university-of-science-and-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/courses-and-fees',
+    path: 'agh-university-of-science-and-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/admission',
+    path: 'agh-university-of-science-and-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/review',
+    path: 'agh-university-of-science-and-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/placement',
+    path: 'agh-university-of-science-and-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/gallery',
+    path: 'agh-university-of-science-and-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/scholarship',
+    path: 'agh-university-of-science-and-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/faculty',
+    path: 'agh-university-of-science-and-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/news',
+    path: 'agh-university-of-science-and-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/hostel',
+    path: 'agh-university-of-science-and-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'agh-university-of-science-and-technology/faq',
+    path: 'agh-university-of-science-and-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kyiv-school-of-economics',
+    path: 'kyiv-school-of-economics/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/courses-and-fees',
+    path: 'kyiv-school-of-economics/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/admission',
+    path: 'kyiv-school-of-economics/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/review',
+    path: 'kyiv-school-of-economics/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/placement',
+    path: 'kyiv-school-of-economics/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/gallery',
+    path: 'kyiv-school-of-economics/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/scholarship',
+    path: 'kyiv-school-of-economics/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/faculty',
+    path: 'kyiv-school-of-economics/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/news',
+    path: 'kyiv-school-of-economics/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/hostel',
+    path: 'kyiv-school-of-economics/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-school-of-economics/faq',
+    path: 'kyiv-school-of-economics/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'wroclaw-medical-university',
+    path: 'wroclaw-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/courses-and-fees',
+    path: 'wroclaw-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/admission',
+    path: 'wroclaw-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/review',
+    path: 'wroclaw-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/placement',
+    path: 'wroclaw-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/gallery',
+    path: 'wroclaw-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/scholarship',
+    path: 'wroclaw-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/faculty',
+    path: 'wroclaw-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/news',
+    path: 'wroclaw-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/hostel',
+    path: 'wroclaw-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-medical-university/faq',
+    path: 'wroclaw-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'mit-world-peace-university',
+    path: 'mit-world-peace-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/courses-and-fees',
+    path: 'mit-world-peace-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/admission',
+    path: 'mit-world-peace-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/review',
+    path: 'mit-world-peace-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/placement',
+    path: 'mit-world-peace-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/gallery',
+    path: 'mit-world-peace-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/scholarship',
+    path: 'mit-world-peace-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/faculty',
+    path: 'mit-world-peace-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/news',
+    path: 'mit-world-peace-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/hostel',
+    path: 'mit-world-peace-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'mit-world-peace-university/faq',
+    path: 'mit-world-peace-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'gisma-business-school',
+    path: 'gisma-business-school/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/courses-and-fees',
+    path: 'gisma-business-school/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/admission',
+    path: 'gisma-business-school/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/review',
+    path: 'gisma-business-school/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/placement',
+    path: 'gisma-business-school/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/gallery',
+    path: 'gisma-business-school/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/scholarship',
+    path: 'gisma-business-school/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/faculty',
+    path: 'gisma-business-school/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/news',
+    path: 'gisma-business-school/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/hostel',
+    path: 'gisma-business-school/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'gisma-business-school/faq',
+    path: 'gisma-business-school/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'wenzhou-medical-university',
+    path: 'wenzhou-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/courses-and-fees',
+    path: 'wenzhou-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/admission',
+    path: 'wenzhou-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/review',
+    path: 'wenzhou-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/placement',
+    path: 'wenzhou-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/gallery',
+    path: 'wenzhou-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/scholarship',
+    path: 'wenzhou-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/faculty',
+    path: 'wenzhou-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/news',
+    path: 'wenzhou-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/hostel',
+    path: 'wenzhou-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'wenzhou-medical-university/faq',
+    path: 'wenzhou-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'glasgow-caledonian-university',
+    path: 'glasgow-caledonian-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/courses-and-fees',
+    path: 'glasgow-caledonian-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/admission',
+    path: 'glasgow-caledonian-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/review',
+    path: 'glasgow-caledonian-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/placement',
+    path: 'glasgow-caledonian-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/gallery',
+    path: 'glasgow-caledonian-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/scholarship',
+    path: 'glasgow-caledonian-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/faculty',
+    path: 'glasgow-caledonian-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/news',
+    path: 'glasgow-caledonian-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/hostel',
+    path: 'glasgow-caledonian-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'glasgow-caledonian-university/faq',
+    path: 'glasgow-caledonian-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tbilisi-medical-university-hippocrates',
+    path: 'tbilisi-medical-university-hippocrates/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/courses-and-fees',
+    path: 'tbilisi-medical-university-hippocrates/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/admission',
+    path: 'tbilisi-medical-university-hippocrates/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/review',
+    path: 'tbilisi-medical-university-hippocrates/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/placement',
+    path: 'tbilisi-medical-university-hippocrates/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/gallery',
+    path: 'tbilisi-medical-university-hippocrates/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/scholarship',
+    path: 'tbilisi-medical-university-hippocrates/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/faculty',
+    path: 'tbilisi-medical-university-hippocrates/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/news',
+    path: 'tbilisi-medical-university-hippocrates/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/hostel',
+    path: 'tbilisi-medical-university-hippocrates/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-medical-university-hippocrates/faq',
+    path: 'tbilisi-medical-university-hippocrates/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'bashkir-state-medical-university',
+    path: 'bashkir-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/courses-and-fees',
+    path: 'bashkir-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/admission',
+    path: 'bashkir-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/review',
+    path: 'bashkir-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/placement',
+    path: 'bashkir-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/gallery',
+    path: 'bashkir-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/scholarship',
+    path: 'bashkir-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/faculty',
+    path: 'bashkir-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/news',
+    path: 'bashkir-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/hostel',
+    path: 'bashkir-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bashkir-state-medical-university/faq',
+    path: 'bashkir-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'cracow-university-of-technology',
+    path: 'cracow-university-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/courses-and-fees',
+    path: 'cracow-university-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/admission',
+    path: 'cracow-university-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/review',
+    path: 'cracow-university-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/placement',
+    path: 'cracow-university-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/gallery',
+    path: 'cracow-university-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/scholarship',
+    path: 'cracow-university-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/faculty',
+    path: 'cracow-university-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/news',
+    path: 'cracow-university-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/hostel',
+    path: 'cracow-university-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'cracow-university-of-technology/faq',
+    path: 'cracow-university-of-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'far-eastern-federal-university',
+    path: 'far-eastern-federal-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/courses-and-fees',
+    path: 'far-eastern-federal-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/admission',
+    path: 'far-eastern-federal-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/review',
+    path: 'far-eastern-federal-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/placement',
+    path: 'far-eastern-federal-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/gallery',
+    path: 'far-eastern-federal-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/scholarship',
+    path: 'far-eastern-federal-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/faculty',
+    path: 'far-eastern-federal-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/news',
+    path: 'far-eastern-federal-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/hostel',
+    path: 'far-eastern-federal-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'far-eastern-federal-university/faq',
+    path: 'far-eastern-federal-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'flame-university-pune',
+    path: 'flame-university-pune/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/courses-and-fees',
+    path: 'flame-university-pune/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/admission',
+    path: 'flame-university-pune/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/review',
+    path: 'flame-university-pune/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/placement',
+    path: 'flame-university-pune/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/gallery',
+    path: 'flame-university-pune/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/scholarship',
+    path: 'flame-university-pune/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/faculty',
+    path: 'flame-university-pune/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/news',
+    path: 'flame-university-pune/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/hostel',
+    path: 'flame-university-pune/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'flame-university-pune/faq',
+    path: 'flame-university-pune/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'gdansk-medical-university',
+    path: 'gdansk-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/courses-and-fees',
+    path: 'gdansk-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/admission',
+    path: 'gdansk-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/review',
+    path: 'gdansk-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/placement',
+    path: 'gdansk-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/gallery',
+    path: 'gdansk-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/scholarship',
+    path: 'gdansk-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/faculty',
+    path: 'gdansk-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/news',
+    path: 'gdansk-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/hostel',
+    path: 'gdansk-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-medical-university/faq',
+    path: 'gdansk-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'gomel-state-medical-university',
+    path: 'gomel-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/courses-and-fees',
+    path: 'gomel-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/admission',
+    path: 'gomel-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/review',
+    path: 'gomel-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/placement',
+    path: 'gomel-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/gallery',
+    path: 'gomel-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/scholarship',
+    path: 'gomel-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/faculty',
+    path: 'gomel-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/news',
+    path: 'gomel-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/hostel',
+    path: 'gomel-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'gomel-state-medical-university/faq',
+    path: 'gomel-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'guangxi-medical-university',
+    path: 'guangxi-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/courses-and-fees',
+    path: 'guangxi-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/admission',
+    path: 'guangxi-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/review',
+    path: 'guangxi-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/placement',
+    path: 'guangxi-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/gallery',
+    path: 'guangxi-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/scholarship',
+    path: 'guangxi-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/faculty',
+    path: 'guangxi-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/news',
+    path: 'guangxi-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/hostel',
+    path: 'guangxi-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'guangxi-medical-university/faq',
+    path: 'guangxi-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'humboldt-university-of-berlin',
+    path: 'humboldt-university-of-berlin/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/courses-and-fees',
+    path: 'humboldt-university-of-berlin/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/admission',
+    path: 'humboldt-university-of-berlin/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/review',
+    path: 'humboldt-university-of-berlin/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/placement',
+    path: 'humboldt-university-of-berlin/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/gallery',
+    path: 'humboldt-university-of-berlin/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/scholarship',
+    path: 'humboldt-university-of-berlin/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/faculty',
+    path: 'humboldt-university-of-berlin/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/news',
+    path: 'humboldt-university-of-berlin/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/hostel',
+    path: 'humboldt-university-of-berlin/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'humboldt-university-of-berlin/faq',
+    path: 'humboldt-university-of-berlin/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kalmyk-state-university',
+    path: 'kalmyk-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/courses-and-fees',
+    path: 'kalmyk-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/admission',
+    path: 'kalmyk-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/review',
+    path: 'kalmyk-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/placement',
+    path: 'kalmyk-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/gallery',
+    path: 'kalmyk-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/scholarship',
+    path: 'kalmyk-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/faculty',
+    path: 'kalmyk-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/news',
+    path: 'kalmyk-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/hostel',
+    path: 'kalmyk-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kalmyk-state-university/faq',
+    path: 'kalmyk-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kharkiv-national-university-of-arts',
+    path: 'kharkiv-national-university-of-arts/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/courses-and-fees',
+    path: 'kharkiv-national-university-of-arts/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/admission',
+    path: 'kharkiv-national-university-of-arts/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/review',
+    path: 'kharkiv-national-university-of-arts/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/placement',
+    path: 'kharkiv-national-university-of-arts/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/gallery',
+    path: 'kharkiv-national-university-of-arts/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/scholarship',
+    path: 'kharkiv-national-university-of-arts/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/faculty',
+    path: 'kharkiv-national-university-of-arts/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/news',
+    path: 'kharkiv-national-university-of-arts/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/hostel',
+    path: 'kharkiv-national-university-of-arts/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-arts/faq',
+    path: 'kharkiv-national-university-of-arts/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kuban-state-medical-university',
+    path: 'kuban-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/courses-and-fees',
+    path: 'kuban-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/admission',
+    path: 'kuban-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/review',
+    path: 'kuban-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/placement',
+    path: 'kuban-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/gallery',
+    path: 'kuban-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/scholarship',
+    path: 'kuban-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/faculty',
+    path: 'kuban-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/news',
+    path: 'kuban-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/hostel',
+    path: 'kuban-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kuban-state-medical-university/faq',
+    path: 'kuban-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lazarski-university',
+    path: 'lazarski-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/courses-and-fees',
+    path: 'lazarski-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/admission',
+    path: 'lazarski-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/review',
+    path: 'lazarski-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/placement',
+    path: 'lazarski-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/gallery',
+    path: 'lazarski-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/scholarship',
+    path: 'lazarski-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/faculty',
+    path: 'lazarski-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/news',
+    path: 'lazarski-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/hostel',
+    path: 'lazarski-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lazarski-university/faq',
+    path: 'lazarski-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'medical-university-of-pleven',
+    path: 'medical-university-of-pleven/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/courses-and-fees',
+    path: 'medical-university-of-pleven/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/admission',
+    path: 'medical-university-of-pleven/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/review',
+    path: 'medical-university-of-pleven/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/placement',
+    path: 'medical-university-of-pleven/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/gallery',
+    path: 'medical-university-of-pleven/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/scholarship',
+    path: 'medical-university-of-pleven/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/faculty',
+    path: 'medical-university-of-pleven/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/news',
+    path: 'medical-university-of-pleven/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/hostel',
+    path: 'medical-university-of-pleven/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-pleven/faq',
+    path: 'medical-university-of-pleven/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'omsk-state-medical-university',
+    path: 'omsk-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/courses-and-fees',
+    path: 'omsk-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/admission',
+    path: 'omsk-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/review',
+    path: 'omsk-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/placement',
+    path: 'omsk-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/gallery',
+    path: 'omsk-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/scholarship',
+    path: 'omsk-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/faculty',
+    path: 'omsk-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/news',
+    path: 'omsk-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/hostel',
+    path: 'omsk-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'omsk-state-medical-university/faq',
+    path: 'omsk-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'osh-state-university',
+    path: 'osh-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/courses-and-fees',
+    path: 'osh-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/admission',
+    path: 'osh-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/review',
+    path: 'osh-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/placement',
+    path: 'osh-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/gallery',
+    path: 'osh-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/scholarship',
+    path: 'osh-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/faculty',
+    path: 'osh-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/news',
+    path: 'osh-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/hostel',
+    path: 'osh-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'osh-state-university/faq',
+    path: 'osh-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'patan-academy-of-health-sciences',
+    path: 'patan-academy-of-health-sciences/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/courses-and-fees',
+    path: 'patan-academy-of-health-sciences/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/admission',
+    path: 'patan-academy-of-health-sciences/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/review',
+    path: 'patan-academy-of-health-sciences/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/placement',
+    path: 'patan-academy-of-health-sciences/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/gallery',
+    path: 'patan-academy-of-health-sciences/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/scholarship',
+    path: 'patan-academy-of-health-sciences/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/faculty',
+    path: 'patan-academy-of-health-sciences/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/news',
+    path: 'patan-academy-of-health-sciences/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/hostel',
+    path: 'patan-academy-of-health-sciences/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'patan-academy-of-health-sciences/faq',
+    path: 'patan-academy-of-health-sciences/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'russian-national-research-medical-university',
+    path: 'russian-national-research-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/courses-and-fees',
+    path: 'russian-national-research-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/admission',
+    path: 'russian-national-research-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/review',
+    path: 'russian-national-research-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/placement',
+    path: 'russian-national-research-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/gallery',
+    path: 'russian-national-research-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/scholarship',
+    path: 'russian-national-research-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/faculty',
+    path: 'russian-national-research-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/news',
+    path: 'russian-national-research-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/hostel',
+    path: 'russian-national-research-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-national-research-medical-university/faq',
+    path: 'russian-national-research-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'silesian-university-of-technology',
+    path: 'silesian-university-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/courses-and-fees',
+    path: 'silesian-university-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/admission',
+    path: 'silesian-university-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/review',
+    path: 'silesian-university-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/placement',
+    path: 'silesian-university-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/gallery',
+    path: 'silesian-university-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/scholarship',
+    path: 'silesian-university-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/faculty',
+    path: 'silesian-university-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/news',
+    path: 'silesian-university-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/hostel',
+    path: 'silesian-university-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'silesian-university-of-technology/faq',
+    path: 'silesian-university-of-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'sofia-medical-university',
+    path: 'sofia-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/courses-and-fees',
+    path: 'sofia-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/admission',
+    path: 'sofia-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/review',
+    path: 'sofia-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/placement',
+    path: 'sofia-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/gallery',
+    path: 'sofia-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/scholarship',
+    path: 'sofia-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/faculty',
+    path: 'sofia-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/news',
+    path: 'sofia-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/hostel',
+    path: 'sofia-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'sofia-medical-university/faq',
+    path: 'sofia-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'southern-medical-university',
+    path: 'southern-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/courses-and-fees',
+    path: 'southern-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/admission',
+    path: 'southern-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/review',
+    path: 'southern-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/placement',
+    path: 'southern-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/gallery',
+    path: 'southern-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/scholarship',
+    path: 'southern-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/faculty',
+    path: 'southern-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/news',
+    path: 'southern-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/hostel',
+    path: 'southern-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'southern-medical-university/faq',
+    path: 'southern-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tyumen-state-medical-university',
+    path: 'tyumen-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/courses-and-fees',
+    path: 'tyumen-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/admission',
+    path: 'tyumen-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/review',
+    path: 'tyumen-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/placement',
+    path: 'tyumen-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/gallery',
+    path: 'tyumen-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/scholarship',
+    path: 'tyumen-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/faculty',
+    path: 'tyumen-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/news',
+    path: 'tyumen-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/hostel',
+    path: 'tyumen-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tyumen-state-medical-university/faq',
+    path: 'tyumen-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-debrecen',
+    path: 'university-of-debrecen/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/courses-and-fees',
+    path: 'university-of-debrecen/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/admission',
+    path: 'university-of-debrecen/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/review',
+    path: 'university-of-debrecen/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/placement',
+    path: 'university-of-debrecen/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/gallery',
+    path: 'university-of-debrecen/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/scholarship',
+    path: 'university-of-debrecen/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/faculty',
+    path: 'university-of-debrecen/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/news',
+    path: 'university-of-debrecen/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/hostel',
+    path: 'university-of-debrecen/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-debrecen/faq',
+    path: 'university-of-debrecen/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-dhaka',
+    path: 'university-of-dhaka/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/courses-and-fees',
+    path: 'university-of-dhaka/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/admission',
+    path: 'university-of-dhaka/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/review',
+    path: 'university-of-dhaka/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/placement',
+    path: 'university-of-dhaka/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/gallery',
+    path: 'university-of-dhaka/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/scholarship',
+    path: 'university-of-dhaka/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/faculty',
+    path: 'university-of-dhaka/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/news',
+    path: 'university-of-dhaka/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/hostel',
+    path: 'university-of-dhaka/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-dhaka/faq',
+    path: 'university-of-dhaka/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-stuttgart',
+    path: 'university-of-stuttgart/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/courses-and-fees',
+    path: 'university-of-stuttgart/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/admission',
+    path: 'university-of-stuttgart/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/review',
+    path: 'university-of-stuttgart/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/placement',
+    path: 'university-of-stuttgart/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/gallery',
+    path: 'university-of-stuttgart/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/scholarship',
+    path: 'university-of-stuttgart/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/faculty',
+    path: 'university-of-stuttgart/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/news',
+    path: 'university-of-stuttgart/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/hostel',
+    path: 'university-of-stuttgart/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-stuttgart/faq',
+    path: 'university-of-stuttgart/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-warwick',
+    path: 'university-of-warwick/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/courses-and-fees',
+    path: 'university-of-warwick/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/admission',
+    path: 'university-of-warwick/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/review',
+    path: 'university-of-warwick/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/placement',
+    path: 'university-of-warwick/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/gallery',
+    path: 'university-of-warwick/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/scholarship',
+    path: 'university-of-warwick/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/faculty',
+    path: 'university-of-warwick/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/news',
+    path: 'university-of-warwick/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/hostel',
+    path: 'university-of-warwick/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warwick/faq',
+    path: 'university-of-warwick/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ural-state-medical-university',
+    path: 'ural-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/courses-and-fees',
+    path: 'ural-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/admission',
+    path: 'ural-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/review',
+    path: 'ural-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/placement',
+    path: 'ural-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/gallery',
+    path: 'ural-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/scholarship',
+    path: 'ural-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/faculty',
+    path: 'ural-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/news',
+    path: 'ural-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/hostel',
+    path: 'ural-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ural-state-medical-university/faq',
+    path: 'ural-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/courses-and-fees',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/admission',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/review',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/placement',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/gallery',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/scholarship',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/faculty',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/news',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/hostel',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'west-kazakhstan-marat-ospanov-state-medical-university/faq',
+    path: 'west-kazakhstan-marat-ospanov-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'xian-jiaotong-university',
+    path: 'xian-jiaotong-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/courses-and-fees',
+    path: 'xian-jiaotong-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/admission',
+    path: 'xian-jiaotong-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/review',
+    path: 'xian-jiaotong-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/placement',
+    path: 'xian-jiaotong-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/gallery',
+    path: 'xian-jiaotong-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/scholarship',
+    path: 'xian-jiaotong-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/faculty',
+    path: 'xian-jiaotong-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/news',
+    path: 'xian-jiaotong-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/hostel',
+    path: 'xian-jiaotong-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'xian-jiaotong-university/faq',
+    path: 'xian-jiaotong-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'yerevan-haybusak-university',
+    path: 'yerevan-haybusak-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/courses-and-fees',
+    path: 'yerevan-haybusak-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/admission',
+    path: 'yerevan-haybusak-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/review',
+    path: 'yerevan-haybusak-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/placement',
+    path: 'yerevan-haybusak-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/gallery',
+    path: 'yerevan-haybusak-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/scholarship',
+    path: 'yerevan-haybusak-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/faculty',
+    path: 'yerevan-haybusak-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/news',
+    path: 'yerevan-haybusak-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/hostel',
+    path: 'yerevan-haybusak-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-haybusak-university/faq',
+    path: 'yerevan-haybusak-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'budapest-metropolitan-university',
+    path: 'budapest-metropolitan-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/courses-and-fees',
+    path: 'budapest-metropolitan-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/admission',
+    path: 'budapest-metropolitan-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/review',
+    path: 'budapest-metropolitan-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/placement',
+    path: 'budapest-metropolitan-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/gallery',
+    path: 'budapest-metropolitan-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/scholarship',
+    path: 'budapest-metropolitan-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/faculty',
+    path: 'budapest-metropolitan-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/news',
+    path: 'budapest-metropolitan-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/hostel',
+    path: 'budapest-metropolitan-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-metropolitan-university/faq',
+    path: 'budapest-metropolitan-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'bukhara-state-medical-institute',
+    path: 'bukhara-state-medical-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/courses-and-fees',
+    path: 'bukhara-state-medical-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/admission',
+    path: 'bukhara-state-medical-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/review',
+    path: 'bukhara-state-medical-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/placement',
+    path: 'bukhara-state-medical-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/gallery',
+    path: 'bukhara-state-medical-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/scholarship',
+    path: 'bukhara-state-medical-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/faculty',
+    path: 'bukhara-state-medical-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/news',
+    path: 'bukhara-state-medical-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/hostel',
+    path: 'bukhara-state-medical-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukhara-state-medical-institute/faq',
+    path: 'bukhara-state-medical-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'carleton-university',
+    path: 'carleton-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/courses-and-fees',
+    path: 'carleton-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/admission',
+    path: 'carleton-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/review',
+    path: 'carleton-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/placement',
+    path: 'carleton-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/gallery',
+    path: 'carleton-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/scholarship',
+    path: 'carleton-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/faculty',
+    path: 'carleton-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/news',
+    path: 'carleton-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/hostel',
+    path: 'carleton-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'carleton-university/faq',
+    path: 'carleton-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'caucasus-international-university',
+    path: 'caucasus-international-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/courses-and-fees',
+    path: 'caucasus-international-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/admission',
+    path: 'caucasus-international-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/review',
+    path: 'caucasus-international-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/placement',
+    path: 'caucasus-international-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/gallery',
+    path: 'caucasus-international-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/scholarship',
+    path: 'caucasus-international-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/faculty',
+    path: 'caucasus-international-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/news',
+    path: 'caucasus-international-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/hostel',
+    path: 'caucasus-international-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'caucasus-international-university/faq',
+    path: 'caucasus-international-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university',
+    path: 'ivane-javakhishvili-tbilisi-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/courses-and-fees',
+    path: 'ivane-javakhishvili-tbilisi-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/admission',
+    path: 'ivane-javakhishvili-tbilisi-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/review',
+    path: 'ivane-javakhishvili-tbilisi-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/placement',
+    path: 'ivane-javakhishvili-tbilisi-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/gallery',
+    path: 'ivane-javakhishvili-tbilisi-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/scholarship',
+    path: 'ivane-javakhishvili-tbilisi-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/faculty',
+    path: 'ivane-javakhishvili-tbilisi-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/news',
+    path: 'ivane-javakhishvili-tbilisi-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/hostel',
+    path: 'ivane-javakhishvili-tbilisi-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivane-javakhishvili-tbilisi-state-university/faq',
+    path: 'ivane-javakhishvili-tbilisi-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'johannes-gutenberg-university-mainz',
+    path: 'johannes-gutenberg-university-mainz/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/courses-and-fees',
+    path: 'johannes-gutenberg-university-mainz/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/admission',
+    path: 'johannes-gutenberg-university-mainz/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/review',
+    path: 'johannes-gutenberg-university-mainz/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/placement',
+    path: 'johannes-gutenberg-university-mainz/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/gallery',
+    path: 'johannes-gutenberg-university-mainz/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/scholarship',
+    path: 'johannes-gutenberg-university-mainz/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/faculty',
+    path: 'johannes-gutenberg-university-mainz/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/news',
+    path: 'johannes-gutenberg-university-mainz/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/hostel',
+    path: 'johannes-gutenberg-university-mainz/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'johannes-gutenberg-university-mainz/faq',
+    path: 'johannes-gutenberg-university-mainz/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'klaipeda-university',
+    path: 'klaipeda-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/courses-and-fees',
+    path: 'klaipeda-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/admission',
+    path: 'klaipeda-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/review',
+    path: 'klaipeda-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/placement',
+    path: 'klaipeda-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/gallery',
+    path: 'klaipeda-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/scholarship',
+    path: 'klaipeda-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/faculty',
+    path: 'klaipeda-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/news',
+    path: 'klaipeda-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/hostel',
+    path: 'klaipeda-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'klaipeda-university/faq',
+    path: 'klaipeda-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lviv-national-academy-of-arts',
+    path: 'lviv-national-academy-of-arts/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/courses-and-fees',
+    path: 'lviv-national-academy-of-arts/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/admission',
+    path: 'lviv-national-academy-of-arts/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/review',
+    path: 'lviv-national-academy-of-arts/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/placement',
+    path: 'lviv-national-academy-of-arts/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/gallery',
+    path: 'lviv-national-academy-of-arts/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/scholarship',
+    path: 'lviv-national-academy-of-arts/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/faculty',
+    path: 'lviv-national-academy-of-arts/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/news',
+    path: 'lviv-national-academy-of-arts/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/hostel',
+    path: 'lviv-national-academy-of-arts/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-national-academy-of-arts/faq',
+    path: 'lviv-national-academy-of-arts/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'odessa-national-medical-university',
+    path: 'odessa-national-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/courses-and-fees',
+    path: 'odessa-national-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/admission',
+    path: 'odessa-national-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/review',
+    path: 'odessa-national-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/placement',
+    path: 'odessa-national-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/gallery',
+    path: 'odessa-national-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/scholarship',
+    path: 'odessa-national-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/faculty',
+    path: 'odessa-national-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/news',
+    path: 'odessa-national-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/hostel',
+    path: 'odessa-national-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'odessa-national-medical-university/faq',
+    path: 'odessa-national-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ryazan-state-medical-university',
+    path: 'ryazan-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/courses-and-fees',
+    path: 'ryazan-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/admission',
+    path: 'ryazan-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/review',
+    path: 'ryazan-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/placement',
+    path: 'ryazan-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/gallery',
+    path: 'ryazan-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/scholarship',
+    path: 'ryazan-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/faculty',
+    path: 'ryazan-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/news',
+    path: 'ryazan-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/hostel',
+    path: 'ryazan-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryazan-state-medical-university/faq',
+    path: 'ryazan-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tbilisi-open-teaching-university',
+    path: 'tbilisi-open-teaching-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/courses-and-fees',
+    path: 'tbilisi-open-teaching-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/admission',
+    path: 'tbilisi-open-teaching-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/review',
+    path: 'tbilisi-open-teaching-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/placement',
+    path: 'tbilisi-open-teaching-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/gallery',
+    path: 'tbilisi-open-teaching-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/scholarship',
+    path: 'tbilisi-open-teaching-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/faculty',
+    path: 'tbilisi-open-teaching-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/news',
+    path: 'tbilisi-open-teaching-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/hostel',
+    path: 'tbilisi-open-teaching-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-open-teaching-university/faq',
+    path: 'tbilisi-open-teaching-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-cologne',
+    path: 'university-of-cologne/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/courses-and-fees',
+    path: 'university-of-cologne/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/admission',
+    path: 'university-of-cologne/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/review',
+    path: 'university-of-cologne/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/placement',
+    path: 'university-of-cologne/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/gallery',
+    path: 'university-of-cologne/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/scholarship',
+    path: 'university-of-cologne/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/faculty',
+    path: 'university-of-cologne/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/news',
+    path: 'university-of-cologne/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/hostel',
+    path: 'university-of-cologne/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cologne/faq',
+    path: 'university-of-cologne/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-windsor',
+    path: 'university-of-windsor/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/courses-and-fees',
+    path: 'university-of-windsor/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/admission',
+    path: 'university-of-windsor/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/review',
+    path: 'university-of-windsor/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/placement',
+    path: 'university-of-windsor/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/gallery',
+    path: 'university-of-windsor/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/scholarship',
+    path: 'university-of-windsor/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/faculty',
+    path: 'university-of-windsor/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/news',
+    path: 'university-of-windsor/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/hostel',
+    path: 'university-of-windsor/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-windsor/faq',
+    path: 'university-of-windsor/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'yerevan-state-medical-university',
+    path: 'yerevan-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/courses-and-fees',
+    path: 'yerevan-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/admission',
+    path: 'yerevan-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/review',
+    path: 'yerevan-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/placement',
+    path: 'yerevan-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/gallery',
+    path: 'yerevan-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/scholarship',
+    path: 'yerevan-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/faculty',
+    path: 'yerevan-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/news',
+    path: 'yerevan-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/hostel',
+    path: 'yerevan-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'yerevan-state-medical-university/faq',
+    path: 'yerevan-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'zaporizhzhia-state-engineering-academy',
+    path: 'zaporizhzhia-state-engineering-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/courses-and-fees',
+    path: 'zaporizhzhia-state-engineering-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/admission',
+    path: 'zaporizhzhia-state-engineering-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/review',
+    path: 'zaporizhzhia-state-engineering-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/placement',
+    path: 'zaporizhzhia-state-engineering-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/gallery',
+    path: 'zaporizhzhia-state-engineering-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/scholarship',
+    path: 'zaporizhzhia-state-engineering-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/faculty',
+    path: 'zaporizhzhia-state-engineering-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/news',
+    path: 'zaporizhzhia-state-engineering-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/hostel',
+    path: 'zaporizhzhia-state-engineering-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporizhzhia-state-engineering-academy/faq',
+    path: 'zaporizhzhia-state-engineering-academy/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'zhejiang-medical-university',
+    path: 'zhejiang-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/courses-and-fees',
+    path: 'zhejiang-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/admission',
+    path: 'zhejiang-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/review',
+    path: 'zhejiang-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/placement',
+    path: 'zhejiang-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/gallery',
+    path: 'zhejiang-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/scholarship',
+    path: 'zhejiang-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/faculty',
+    path: 'zhejiang-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/news',
+    path: 'zhejiang-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/hostel',
+    path: 'zhejiang-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'zhejiang-medical-university/faq',
+    path: 'zhejiang-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'astana-medical-university',
+    path: 'astana-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/courses-and-fees',
+    path: 'astana-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/admission',
+    path: 'astana-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/review',
+    path: 'astana-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/placement',
+    path: 'astana-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/gallery',
+    path: 'astana-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/scholarship',
+    path: 'astana-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/faculty',
+    path: 'astana-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/news',
+    path: 'astana-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/hostel',
+    path: 'astana-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'astana-medical-university/faq',
+    path: 'astana-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'astrakhan-state-medical-university',
+    path: 'astrakhan-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/courses-and-fees',
+    path: 'astrakhan-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/admission',
+    path: 'astrakhan-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/review',
+    path: 'astrakhan-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/placement',
+    path: 'astrakhan-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/gallery',
+    path: 'astrakhan-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/scholarship',
+    path: 'astrakhan-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/faculty',
+    path: 'astrakhan-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/news',
+    path: 'astrakhan-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/hostel',
+    path: 'astrakhan-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'astrakhan-state-medical-university/faq',
+    path: 'astrakhan-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'bangladesh-university-of-professionals',
+    path: 'bangladesh-university-of-professionals/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/courses-and-fees',
+    path: 'bangladesh-university-of-professionals/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/admission',
+    path: 'bangladesh-university-of-professionals/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/review',
+    path: 'bangladesh-university-of-professionals/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/placement',
+    path: 'bangladesh-university-of-professionals/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/gallery',
+    path: 'bangladesh-university-of-professionals/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/scholarship',
+    path: 'bangladesh-university-of-professionals/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/faculty',
+    path: 'bangladesh-university-of-professionals/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/news',
+    path: 'bangladesh-university-of-professionals/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/hostel',
+    path: 'bangladesh-university-of-professionals/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bangladesh-university-of-professionals/faq',
+    path: 'bangladesh-university-of-professionals/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'david-tvildiani-medical-university',
+    path: 'david-tvildiani-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/courses-and-fees',
+    path: 'david-tvildiani-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/admission',
+    path: 'david-tvildiani-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/review',
+    path: 'david-tvildiani-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/placement',
+    path: 'david-tvildiani-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/gallery',
+    path: 'david-tvildiani-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/scholarship',
+    path: 'david-tvildiani-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/faculty',
+    path: 'david-tvildiani-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/news',
+    path: 'david-tvildiani-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/hostel',
+    path: 'david-tvildiani-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-tvildiani-medical-university/faq',
+    path: 'david-tvildiani-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'fudan-university',
+    path: 'fudan-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/courses-and-fees',
+    path: 'fudan-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/admission',
+    path: 'fudan-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/review',
+    path: 'fudan-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/placement',
+    path: 'fudan-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/gallery',
+    path: 'fudan-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/scholarship',
+    path: 'fudan-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/faculty',
+    path: 'fudan-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/news',
+    path: 'fudan-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/hostel',
+    path: 'fudan-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'fudan-university/faq',
+    path: 'fudan-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'irkutsk-state-medical-university',
+    path: 'irkutsk-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/courses-and-fees',
+    path: 'irkutsk-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/admission',
+    path: 'irkutsk-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/review',
+    path: 'irkutsk-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/placement',
+    path: 'irkutsk-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/gallery',
+    path: 'irkutsk-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/scholarship',
+    path: 'irkutsk-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/faculty',
+    path: 'irkutsk-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/news',
+    path: 'irkutsk-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/hostel',
+    path: 'irkutsk-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-state-medical-university/faq',
+    path: 'irkutsk-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'jagiellonian-university-medical-college',
+    path: 'jagiellonian-university-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/courses-and-fees',
+    path: 'jagiellonian-university-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/admission',
+    path: 'jagiellonian-university-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/review',
+    path: 'jagiellonian-university-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/placement',
+    path: 'jagiellonian-university-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/gallery',
+    path: 'jagiellonian-university-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/scholarship',
+    path: 'jagiellonian-university-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/faculty',
+    path: 'jagiellonian-university-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/news',
+    path: 'jagiellonian-university-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/hostel',
+    path: 'jagiellonian-university-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'jagiellonian-university-medical-college/faq',
+    path: 'jagiellonian-university-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kazakh-russian-medical-university',
+    path: 'kazakh-russian-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/courses-and-fees',
+    path: 'kazakh-russian-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/admission',
+    path: 'kazakh-russian-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/review',
+    path: 'kazakh-russian-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/placement',
+    path: 'kazakh-russian-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/gallery',
+    path: 'kazakh-russian-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/scholarship',
+    path: 'kazakh-russian-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/faculty',
+    path: 'kazakh-russian-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/news',
+    path: 'kazakh-russian-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/hostel',
+    path: 'kazakh-russian-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-russian-medical-university/faq',
+    path: 'kazakh-russian-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kremenchuk-state-technical-university',
+    path: 'kremenchuk-state-technical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/courses-and-fees',
+    path: 'kremenchuk-state-technical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/admission',
+    path: 'kremenchuk-state-technical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/review',
+    path: 'kremenchuk-state-technical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/placement',
+    path: 'kremenchuk-state-technical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/gallery',
+    path: 'kremenchuk-state-technical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/scholarship',
+    path: 'kremenchuk-state-technical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/faculty',
+    path: 'kremenchuk-state-technical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/news',
+    path: 'kremenchuk-state-technical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/hostel',
+    path: 'kremenchuk-state-technical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kremenchuk-state-technical-university/faq',
+    path: 'kremenchuk-state-technical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lugansk-state-medical-university',
+    path: 'lugansk-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/courses-and-fees',
+    path: 'lugansk-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/admission',
+    path: 'lugansk-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/review',
+    path: 'lugansk-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/placement',
+    path: 'lugansk-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/gallery',
+    path: 'lugansk-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/scholarship',
+    path: 'lugansk-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/faculty',
+    path: 'lugansk-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/news',
+    path: 'lugansk-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/hostel',
+    path: 'lugansk-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lugansk-state-medical-university/faq',
+    path: 'lugansk-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'moscow-state-university-of-civil-engineering',
+    path: 'moscow-state-university-of-civil-engineering/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/courses-and-fees',
+    path: 'moscow-state-university-of-civil-engineering/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/admission',
+    path: 'moscow-state-university-of-civil-engineering/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/review',
+    path: 'moscow-state-university-of-civil-engineering/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/placement',
+    path: 'moscow-state-university-of-civil-engineering/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/gallery',
+    path: 'moscow-state-university-of-civil-engineering/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/scholarship',
+    path: 'moscow-state-university-of-civil-engineering/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/faculty',
+    path: 'moscow-state-university-of-civil-engineering/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/news',
+    path: 'moscow-state-university-of-civil-engineering/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/hostel',
+    path: 'moscow-state-university-of-civil-engineering/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-civil-engineering/faq',
+    path: 'moscow-state-university-of-civil-engineering/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'national-university-of-science-and-technology-misis',
+    path: 'national-university-of-science-and-technology-misis/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/courses-and-fees',
+    path: 'national-university-of-science-and-technology-misis/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/admission',
+    path: 'national-university-of-science-and-technology-misis/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/review',
+    path: 'national-university-of-science-and-technology-misis/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/placement',
+    path: 'national-university-of-science-and-technology-misis/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/gallery',
+    path: 'national-university-of-science-and-technology-misis/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/scholarship',
+    path: 'national-university-of-science-and-technology-misis/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/faculty',
+    path: 'national-university-of-science-and-technology-misis/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/news',
+    path: 'national-university-of-science-and-technology-misis/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/hostel',
+    path: 'national-university-of-science-and-technology-misis/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'national-university-of-science-and-technology-misis/faq',
+    path: 'national-university-of-science-and-technology-misis/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'north-caucasus-federal-university',
+    path: 'north-caucasus-federal-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/courses-and-fees',
+    path: 'north-caucasus-federal-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/admission',
+    path: 'north-caucasus-federal-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/review',
+    path: 'north-caucasus-federal-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/placement',
+    path: 'north-caucasus-federal-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/gallery',
+    path: 'north-caucasus-federal-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/scholarship',
+    path: 'north-caucasus-federal-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/faculty',
+    path: 'north-caucasus-federal-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/news',
+    path: 'north-caucasus-federal-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/hostel',
+    path: 'north-caucasus-federal-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-caucasus-federal-university/faq',
+    path: 'north-caucasus-federal-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/courses-and-fees',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/admission',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/review',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/placement',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/gallery',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/scholarship',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/faculty',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/news',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/hostel',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'pavlov-first-saint-petersburg-state-medical-university/faq',
+    path: 'pavlov-first-saint-petersburg-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'poznan-university-of-medical-science',
+    path: 'poznan-university-of-medical-science/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/courses-and-fees',
+    path: 'poznan-university-of-medical-science/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/admission',
+    path: 'poznan-university-of-medical-science/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/review',
+    path: 'poznan-university-of-medical-science/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/placement',
+    path: 'poznan-university-of-medical-science/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/gallery',
+    path: 'poznan-university-of-medical-science/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/scholarship',
+    path: 'poznan-university-of-medical-science/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/faculty',
+    path: 'poznan-university-of-medical-science/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/news',
+    path: 'poznan-university-of-medical-science/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/hostel',
+    path: 'poznan-university-of-medical-science/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/faq',
+    path: 'poznan-university-of-medical-science/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'poznan-university-of-technology',
+    path: 'poznan-university-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/courses-and-fees',
+    path: 'poznan-university-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/admission',
+    path: 'poznan-university-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/review',
+    path: 'poznan-university-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/placement',
+    path: 'poznan-university-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/gallery',
+    path: 'poznan-university-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/scholarship',
+    path: 'poznan-university-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/faculty',
+    path: 'poznan-university-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/news',
+    path: 'poznan-university-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/hostel',
+    path: 'poznan-university-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-technology/faq',
+    path: 'poznan-university-of-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'akaki-tsereteli-state-university',
+    path: 'akaki-tsereteli-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/courses-and-fees',
+    path: 'akaki-tsereteli-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/admission',
+    path: 'akaki-tsereteli-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/review',
+    path: 'akaki-tsereteli-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/placement',
+    path: 'akaki-tsereteli-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/gallery',
+    path: 'akaki-tsereteli-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/scholarship',
+    path: 'akaki-tsereteli-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/faculty',
+    path: 'akaki-tsereteli-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/news',
+    path: 'akaki-tsereteli-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/hostel',
+    path: 'akaki-tsereteli-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'akaki-tsereteli-state-university/faq',
+    path: 'akaki-tsereteli-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ilia-state-university',
+    path: 'ilia-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/courses-and-fees',
+    path: 'ilia-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/admission',
+    path: 'ilia-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/review',
+    path: 'ilia-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/placement',
+    path: 'ilia-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/gallery',
+    path: 'ilia-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/scholarship',
+    path: 'ilia-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/faculty',
+    path: 'ilia-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/news',
+    path: 'ilia-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/hostel',
+    path: 'ilia-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ilia-state-university/faq',
+    path: 'ilia-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'sumy-state-university',
+    path: 'sumy-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/courses-and-fees',
+    path: 'sumy-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/admission',
+    path: 'sumy-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/review',
+    path: 'sumy-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/placement',
+    path: 'sumy-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/gallery',
+    path: 'sumy-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/scholarship',
+    path: 'sumy-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/faculty',
+    path: 'sumy-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/news',
+    path: 'sumy-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/hostel',
+    path: 'sumy-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'sumy-state-university/faq',
+    path: 'sumy-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'technische-hochschule-ingolstadt',
+    path: 'technische-hochschule-ingolstadt/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/courses-and-fees',
+    path: 'technische-hochschule-ingolstadt/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/admission',
+    path: 'technische-hochschule-ingolstadt/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/review',
+    path: 'technische-hochschule-ingolstadt/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/placement',
+    path: 'technische-hochschule-ingolstadt/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/gallery',
+    path: 'technische-hochschule-ingolstadt/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/scholarship',
+    path: 'technische-hochschule-ingolstadt/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/faculty',
+    path: 'technische-hochschule-ingolstadt/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/news',
+    path: 'technische-hochschule-ingolstadt/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/hostel',
+    path: 'technische-hochschule-ingolstadt/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'technische-hochschule-ingolstadt/faq',
+    path: 'technische-hochschule-ingolstadt/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tver-state-medical-university',
+    path: 'tver-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/courses-and-fees',
+    path: 'tver-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/admission',
+    path: 'tver-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/review',
+    path: 'tver-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/placement',
+    path: 'tver-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/gallery',
+    path: 'tver-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/scholarship',
+    path: 'tver-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/faculty',
+    path: 'tver-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/news',
+    path: 'tver-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/hostel',
+    path: 'tver-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tver-state-medical-university/faq',
+    path: 'tver-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ufa-state-aviation-technical-university',
+    path: 'ufa-state-aviation-technical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/courses-and-fees',
+    path: 'ufa-state-aviation-technical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/admission',
+    path: 'ufa-state-aviation-technical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/review',
+    path: 'ufa-state-aviation-technical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/placement',
+    path: 'ufa-state-aviation-technical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/gallery',
+    path: 'ufa-state-aviation-technical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/scholarship',
+    path: 'ufa-state-aviation-technical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/faculty',
+    path: 'ufa-state-aviation-technical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/news',
+    path: 'ufa-state-aviation-technical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/hostel',
+    path: 'ufa-state-aviation-technical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ufa-state-aviation-technical-university/faq',
+    path: 'ufa-state-aviation-technical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ulyanovsk-state-university',
+    path: 'ulyanovsk-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/courses-and-fees',
+    path: 'ulyanovsk-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/admission',
+    path: 'ulyanovsk-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/review',
+    path: 'ulyanovsk-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/placement',
+    path: 'ulyanovsk-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/gallery',
+    path: 'ulyanovsk-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/scholarship',
+    path: 'ulyanovsk-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/faculty',
+    path: 'ulyanovsk-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/news',
+    path: 'ulyanovsk-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/hostel',
+    path: 'ulyanovsk-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ulyanovsk-state-university/faq',
+    path: 'ulyanovsk-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-economics-in-katowice',
+    path: 'university-of-economics-in-katowice/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/courses-and-fees',
+    path: 'university-of-economics-in-katowice/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/admission',
+    path: 'university-of-economics-in-katowice/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/review',
+    path: 'university-of-economics-in-katowice/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/placement',
+    path: 'university-of-economics-in-katowice/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/gallery',
+    path: 'university-of-economics-in-katowice/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/scholarship',
+    path: 'university-of-economics-in-katowice/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/faculty',
+    path: 'university-of-economics-in-katowice/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/news',
+    path: 'university-of-economics-in-katowice/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/hostel',
+    path: 'university-of-economics-in-katowice/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-economics-in-katowice/faq',
+    path: 'university-of-economics-in-katowice/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-gloucestershire',
+    path: 'university-of-gloucestershire/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/courses-and-fees',
+    path: 'university-of-gloucestershire/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/admission',
+    path: 'university-of-gloucestershire/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/review',
+    path: 'university-of-gloucestershire/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/placement',
+    path: 'university-of-gloucestershire/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/gallery',
+    path: 'university-of-gloucestershire/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/scholarship',
+    path: 'university-of-gloucestershire/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/faculty',
+    path: 'university-of-gloucestershire/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/news',
+    path: 'university-of-gloucestershire/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/hostel',
+    path: 'university-of-gloucestershire/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-gloucestershire/faq',
+    path: 'university-of-gloucestershire/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'vinnitsa-national-medical-university',
+    path: 'vinnitsa-national-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/courses-and-fees',
+    path: 'vinnitsa-national-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/admission',
+    path: 'vinnitsa-national-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/review',
+    path: 'vinnitsa-national-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/placement',
+    path: 'vinnitsa-national-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/gallery',
+    path: 'vinnitsa-national-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/scholarship',
+    path: 'vinnitsa-national-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/faculty',
+    path: 'vinnitsa-national-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/news',
+    path: 'vinnitsa-national-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/hostel',
+    path: 'vinnitsa-national-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnitsa-national-medical-university/faq',
+    path: 'vinnitsa-national-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'warsaw-school-of-economics-sgh',
+    path: 'warsaw-school-of-economics-sgh/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/courses-and-fees',
+    path: 'warsaw-school-of-economics-sgh/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/admission',
+    path: 'warsaw-school-of-economics-sgh/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/review',
+    path: 'warsaw-school-of-economics-sgh/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/placement',
+    path: 'warsaw-school-of-economics-sgh/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/gallery',
+    path: 'warsaw-school-of-economics-sgh/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/scholarship',
+    path: 'warsaw-school-of-economics-sgh/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/faculty',
+    path: 'warsaw-school-of-economics-sgh/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/news',
+    path: 'warsaw-school-of-economics-sgh/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/hostel',
+    path: 'warsaw-school-of-economics-sgh/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-school-of-economics-sgh/faq',
+    path: 'warsaw-school-of-economics-sgh/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'york-st-john-university',
+    path: 'york-st-john-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/courses-and-fees',
+    path: 'york-st-john-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/admission',
+    path: 'york-st-john-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/review',
+    path: 'york-st-john-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/placement',
+    path: 'york-st-john-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/gallery',
+    path: 'york-st-john-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/scholarship',
+    path: 'york-st-john-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/faculty',
+    path: 'york-st-john-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/news',
+    path: 'york-st-john-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/hostel',
+    path: 'york-st-john-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'york-st-john-university/faq',
+    path: 'york-st-john-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'qiqihar-medical-university',
+    path: 'qiqihar-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/courses-and-fees',
+    path: 'qiqihar-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/admission',
+    path: 'qiqihar-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/review',
+    path: 'qiqihar-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/placement',
+    path: 'qiqihar-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/gallery',
+    path: 'qiqihar-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/scholarship',
+    path: 'qiqihar-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/faculty',
+    path: 'qiqihar-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/news',
+    path: 'qiqihar-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/hostel',
+    path: 'qiqihar-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'qiqihar-medical-university/faq',
+    path: 'qiqihar-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'medical-university-of-verna',
+    path: 'medical-university-of-verna/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/courses-and-fees',
+    path: 'medical-university-of-verna/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/admission',
+    path: 'medical-university-of-verna/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/review',
+    path: 'medical-university-of-verna/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/placement',
+    path: 'medical-university-of-verna/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/gallery',
+    path: 'medical-university-of-verna/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/scholarship',
+    path: 'medical-university-of-verna/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/faculty',
+    path: 'medical-university-of-verna/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/news',
+    path: 'medical-university-of-verna/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/hostel',
+    path: 'medical-university-of-verna/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-verna/faq',
+    path: 'medical-university-of-verna/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-bologna',
+    path: 'university-of-bologna/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/courses-and-fees',
+    path: 'university-of-bologna/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/admission',
+    path: 'university-of-bologna/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/review',
+    path: 'university-of-bologna/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/placement',
+    path: 'university-of-bologna/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/gallery',
+    path: 'university-of-bologna/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/scholarship',
+    path: 'university-of-bologna/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/faculty',
+    path: 'university-of-bologna/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/news',
+    path: 'university-of-bologna/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/hostel',
+    path: 'university-of-bologna/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bologna/faq',
+    path: 'university-of-bologna/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'immanuel-kant-baltic-federal-university',
+    path: 'immanuel-kant-baltic-federal-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/courses-and-fees',
+    path: 'immanuel-kant-baltic-federal-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/admission',
+    path: 'immanuel-kant-baltic-federal-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/review',
+    path: 'immanuel-kant-baltic-federal-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/placement',
+    path: 'immanuel-kant-baltic-federal-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/gallery',
+    path: 'immanuel-kant-baltic-federal-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/scholarship',
+    path: 'immanuel-kant-baltic-federal-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/faculty',
+    path: 'immanuel-kant-baltic-federal-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/news',
+    path: 'immanuel-kant-baltic-federal-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/hostel',
+    path: 'immanuel-kant-baltic-federal-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'immanuel-kant-baltic-federal-university/faq',
+    path: 'immanuel-kant-baltic-federal-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'peoples-friendship-university-of-russia',
+    path: 'peoples-friendship-university-of-russia/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/courses-and-fees',
+    path: 'peoples-friendship-university-of-russia/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/admission',
+    path: 'peoples-friendship-university-of-russia/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/review',
+    path: 'peoples-friendship-university-of-russia/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/placement',
+    path: 'peoples-friendship-university-of-russia/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/gallery',
+    path: 'peoples-friendship-university-of-russia/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/scholarship',
+    path: 'peoples-friendship-university-of-russia/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/faculty',
+    path: 'peoples-friendship-university-of-russia/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/news',
+    path: 'peoples-friendship-university-of-russia/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/hostel',
+    path: 'peoples-friendship-university-of-russia/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'peoples-friendship-university-of-russia/faq',
+    path: 'peoples-friendship-university-of-russia/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'belarusian-state-medical-university',
+    path: 'belarusian-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/courses-and-fees',
+    path: 'belarusian-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/admission',
+    path: 'belarusian-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/review',
+    path: 'belarusian-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/placement',
+    path: 'belarusian-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/gallery',
+    path: 'belarusian-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/scholarship',
+    path: 'belarusian-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/faculty',
+    path: 'belarusian-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/news',
+    path: 'belarusian-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/hostel',
+    path: 'belarusian-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'belarusian-state-medical-university/faq',
+    path: 'belarusian-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'zaporozhye-state-medical-university',
+    path: 'zaporozhye-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/courses-and-fees',
+    path: 'zaporozhye-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/admission',
+    path: 'zaporozhye-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/review',
+    path: 'zaporozhye-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/placement',
+    path: 'zaporozhye-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/gallery',
+    path: 'zaporozhye-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/scholarship',
+    path: 'zaporozhye-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/faculty',
+    path: 'zaporozhye-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/news',
+    path: 'zaporozhye-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/hostel',
+    path: 'zaporozhye-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'zaporozhye-state-medical-university/faq',
+    path: 'zaporozhye-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'batumi-shota-rustaveli-state-university',
+    path: 'batumi-shota-rustaveli-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/courses-and-fees',
+    path: 'batumi-shota-rustaveli-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/admission',
+    path: 'batumi-shota-rustaveli-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/review',
+    path: 'batumi-shota-rustaveli-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/placement',
+    path: 'batumi-shota-rustaveli-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/gallery',
+    path: 'batumi-shota-rustaveli-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/scholarship',
+    path: 'batumi-shota-rustaveli-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/faculty',
+    path: 'batumi-shota-rustaveli-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/news',
+    path: 'batumi-shota-rustaveli-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/hostel',
+    path: 'batumi-shota-rustaveli-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'batumi-shota-rustaveli-state-university/faq',
+    path: 'batumi-shota-rustaveli-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lancaster-university',
+    path: 'lancaster-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/courses-and-fees',
+    path: 'lancaster-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/admission',
+    path: 'lancaster-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/review',
+    path: 'lancaster-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/placement',
+    path: 'lancaster-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/gallery',
+    path: 'lancaster-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/scholarship',
+    path: 'lancaster-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/faculty',
+    path: 'lancaster-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/news',
+    path: 'lancaster-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/hostel',
+    path: 'lancaster-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lancaster-university/faq',
+    path: 'lancaster-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'baltic-international-academy',
+    path: 'baltic-international-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/courses-and-fees',
+    path: 'baltic-international-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/admission',
+    path: 'baltic-international-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/review',
+    path: 'baltic-international-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/placement',
+    path: 'baltic-international-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/gallery',
+    path: 'baltic-international-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/scholarship',
+    path: 'baltic-international-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/faculty',
+    path: 'baltic-international-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/news',
+    path: 'baltic-international-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/hostel',
+    path: 'baltic-international-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'baltic-international-academy/faq',
+    path: 'baltic-international-academy/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'canterbury-christ-church-university',
+    path: 'canterbury-christ-church-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/courses-and-fees',
+    path: 'canterbury-christ-church-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/admission',
+    path: 'canterbury-christ-church-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/review',
+    path: 'canterbury-christ-church-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/placement',
+    path: 'canterbury-christ-church-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/gallery',
+    path: 'canterbury-christ-church-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/scholarship',
+    path: 'canterbury-christ-church-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/faculty',
+    path: 'canterbury-christ-church-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/news',
+    path: 'canterbury-christ-church-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/hostel',
+    path: 'canterbury-christ-church-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'canterbury-christ-church-university/faq',
+    path: 'canterbury-christ-church-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'corvinus-university-of-budapest',
+    path: 'corvinus-university-of-budapest/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/courses-and-fees',
+    path: 'corvinus-university-of-budapest/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/admission',
+    path: 'corvinus-university-of-budapest/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/review',
+    path: 'corvinus-university-of-budapest/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/placement',
+    path: 'corvinus-university-of-budapest/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/gallery',
+    path: 'corvinus-university-of-budapest/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/scholarship',
+    path: 'corvinus-university-of-budapest/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/faculty',
+    path: 'corvinus-university-of-budapest/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/news',
+    path: 'corvinus-university-of-budapest/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/hostel',
+    path: 'corvinus-university-of-budapest/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'corvinus-university-of-budapest/faq',
+    path: 'corvinus-university-of-budapest/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'daugavpils-university',
+    path: 'daugavpils-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/courses-and-fees',
+    path: 'daugavpils-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/admission',
+    path: 'daugavpils-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/review',
+    path: 'daugavpils-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/placement',
+    path: 'daugavpils-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/gallery',
+    path: 'daugavpils-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/scholarship',
+    path: 'daugavpils-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/faculty',
+    path: 'daugavpils-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/news',
+    path: 'daugavpils-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/hostel',
+    path: 'daugavpils-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'daugavpils-university/faq',
+    path: 'daugavpils-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'dnipropetrovsk-state-medical-academy',
+    path: 'dnipropetrovsk-state-medical-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/courses-and-fees',
+    path: 'dnipropetrovsk-state-medical-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/admission',
+    path: 'dnipropetrovsk-state-medical-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/review',
+    path: 'dnipropetrovsk-state-medical-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/placement',
+    path: 'dnipropetrovsk-state-medical-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/gallery',
+    path: 'dnipropetrovsk-state-medical-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/scholarship',
+    path: 'dnipropetrovsk-state-medical-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/faculty',
+    path: 'dnipropetrovsk-state-medical-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/news',
+    path: 'dnipropetrovsk-state-medical-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/hostel',
+    path: 'dnipropetrovsk-state-medical-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'dnipropetrovsk-state-medical-academy/faq',
+    path: 'dnipropetrovsk-state-medical-academy/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'donetsk-national-medical-university',
+    path: 'donetsk-national-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/courses-and-fees',
+    path: 'donetsk-national-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/admission',
+    path: 'donetsk-national-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/review',
+    path: 'donetsk-national-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/placement',
+    path: 'donetsk-national-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/gallery',
+    path: 'donetsk-national-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/scholarship',
+    path: 'donetsk-national-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/faculty',
+    path: 'donetsk-national-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/news',
+    path: 'donetsk-national-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/hostel',
+    path: 'donetsk-national-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'donetsk-national-medical-university/faq',
+    path: 'donetsk-national-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'frankfurt-school-of-finance-and-management',
+    path: 'frankfurt-school-of-finance-and-management/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/courses-and-fees',
+    path: 'frankfurt-school-of-finance-and-management/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/admission',
+    path: 'frankfurt-school-of-finance-and-management/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/review',
+    path: 'frankfurt-school-of-finance-and-management/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/placement',
+    path: 'frankfurt-school-of-finance-and-management/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/gallery',
+    path: 'frankfurt-school-of-finance-and-management/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/scholarship',
+    path: 'frankfurt-school-of-finance-and-management/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/faculty',
+    path: 'frankfurt-school-of-finance-and-management/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/news',
+    path: 'frankfurt-school-of-finance-and-management/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/hostel',
+    path: 'frankfurt-school-of-finance-and-management/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'frankfurt-school-of-finance-and-management/faq',
+    path: 'frankfurt-school-of-finance-and-management/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kyiv-polytechnic-institute',
+    path: 'kyiv-polytechnic-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/courses-and-fees',
+    path: 'kyiv-polytechnic-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/admission',
+    path: 'kyiv-polytechnic-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/review',
+    path: 'kyiv-polytechnic-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/placement',
+    path: 'kyiv-polytechnic-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/gallery',
+    path: 'kyiv-polytechnic-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/scholarship',
+    path: 'kyiv-polytechnic-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/faculty',
+    path: 'kyiv-polytechnic-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/news',
+    path: 'kyiv-polytechnic-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/hostel',
+    path: 'kyiv-polytechnic-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-polytechnic-institute/faq',
+    path: 'kyiv-polytechnic-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kyrgyz-national-university',
+    path: 'kyrgyz-national-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/courses-and-fees',
+    path: 'kyrgyz-national-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/admission',
+    path: 'kyrgyz-national-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/review',
+    path: 'kyrgyz-national-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/placement',
+    path: 'kyrgyz-national-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/gallery',
+    path: 'kyrgyz-national-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/scholarship',
+    path: 'kyrgyz-national-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/faculty',
+    path: 'kyrgyz-national-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/news',
+    path: 'kyrgyz-national-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/hostel',
+    path: 'kyrgyz-national-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-national-university/faq',
+    path: 'kyrgyz-national-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'northern-state-medical-university',
+    path: 'northern-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/courses-and-fees',
+    path: 'northern-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/admission',
+    path: 'northern-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/review',
+    path: 'northern-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/placement',
+    path: 'northern-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/gallery',
+    path: 'northern-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/scholarship',
+    path: 'northern-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/faculty',
+    path: 'northern-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/news',
+    path: 'northern-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/hostel',
+    path: 'northern-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'northern-state-medical-university/faq',
+    path: 'northern-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ogarev-mordovia-state-university',
+    path: 'ogarev-mordovia-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/courses-and-fees',
+    path: 'ogarev-mordovia-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/admission',
+    path: 'ogarev-mordovia-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/review',
+    path: 'ogarev-mordovia-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/placement',
+    path: 'ogarev-mordovia-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/gallery',
+    path: 'ogarev-mordovia-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/scholarship',
+    path: 'ogarev-mordovia-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/faculty',
+    path: 'ogarev-mordovia-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/news',
+    path: 'ogarev-mordovia-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/hostel',
+    path: 'ogarev-mordovia-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ogarev-mordovia-state-university/faq',
+    path: 'ogarev-mordovia-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'peter-great-st-petersburg-polytechnic-university',
+    path: 'peter-great-st-petersburg-polytechnic-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/courses-and-fees',
+    path: 'peter-great-st-petersburg-polytechnic-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/admission',
+    path: 'peter-great-st-petersburg-polytechnic-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/review',
+    path: 'peter-great-st-petersburg-polytechnic-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/placement',
+    path: 'peter-great-st-petersburg-polytechnic-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/gallery',
+    path: 'peter-great-st-petersburg-polytechnic-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/scholarship',
+    path: 'peter-great-st-petersburg-polytechnic-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/faculty',
+    path: 'peter-great-st-petersburg-polytechnic-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/news',
+    path: 'peter-great-st-petersburg-polytechnic-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/hostel',
+    path: 'peter-great-st-petersburg-polytechnic-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'peter-great-st-petersburg-polytechnic-university/faq',
+    path: 'peter-great-st-petersburg-polytechnic-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'plovdiv-medical-university',
+    path: 'plovdiv-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/courses-and-fees',
+    path: 'plovdiv-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/admission',
+    path: 'plovdiv-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/review',
+    path: 'plovdiv-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/placement',
+    path: 'plovdiv-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/gallery',
+    path: 'plovdiv-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/scholarship',
+    path: 'plovdiv-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/faculty',
+    path: 'plovdiv-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/news',
+    path: 'plovdiv-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/hostel',
+    path: 'plovdiv-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'plovdiv-medical-university/faq',
+    path: 'plovdiv-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'pskov-state-polytechnic-institute',
+    path: 'pskov-state-polytechnic-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/courses-and-fees',
+    path: 'pskov-state-polytechnic-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/admission',
+    path: 'pskov-state-polytechnic-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/review',
+    path: 'pskov-state-polytechnic-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/placement',
+    path: 'pskov-state-polytechnic-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/gallery',
+    path: 'pskov-state-polytechnic-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/scholarship',
+    path: 'pskov-state-polytechnic-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/faculty',
+    path: 'pskov-state-polytechnic-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/news',
+    path: 'pskov-state-polytechnic-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/hostel',
+    path: 'pskov-state-polytechnic-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-polytechnic-institute/faq',
+    path: 'pskov-state-polytechnic-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'pskov-state-university',
+    path: 'pskov-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/courses-and-fees',
+    path: 'pskov-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/admission',
+    path: 'pskov-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/review',
+    path: 'pskov-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/placement',
+    path: 'pskov-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/gallery',
+    path: 'pskov-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/scholarship',
+    path: 'pskov-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/faculty',
+    path: 'pskov-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/news',
+    path: 'pskov-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/hostel',
+    path: 'pskov-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'pskov-state-university/faq',
+    path: 'pskov-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'smolensk-state-medical-university',
+    path: 'smolensk-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/courses-and-fees',
+    path: 'smolensk-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/admission',
+    path: 'smolensk-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/review',
+    path: 'smolensk-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/placement',
+    path: 'smolensk-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/gallery',
+    path: 'smolensk-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/scholarship',
+    path: 'smolensk-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/faculty',
+    path: 'smolensk-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/news',
+    path: 'smolensk-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/hostel',
+    path: 'smolensk-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'smolensk-state-medical-university/faq',
+    path: 'smolensk-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tallinn-university-of-technology',
+    path: 'tallinn-university-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/courses-and-fees',
+    path: 'tallinn-university-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/admission',
+    path: 'tallinn-university-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/review',
+    path: 'tallinn-university-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/placement',
+    path: 'tallinn-university-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/gallery',
+    path: 'tallinn-university-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/scholarship',
+    path: 'tallinn-university-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/faculty',
+    path: 'tallinn-university-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/news',
+    path: 'tallinn-university-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/hostel',
+    path: 'tallinn-university-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-university-of-technology/faq',
+    path: 'tallinn-university-of-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tbilisi-public-university-metekhi',
+    path: 'tbilisi-public-university-metekhi/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/courses-and-fees',
+    path: 'tbilisi-public-university-metekhi/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/admission',
+    path: 'tbilisi-public-university-metekhi/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/review',
+    path: 'tbilisi-public-university-metekhi/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/placement',
+    path: 'tbilisi-public-university-metekhi/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/gallery',
+    path: 'tbilisi-public-university-metekhi/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/scholarship',
+    path: 'tbilisi-public-university-metekhi/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/faculty',
+    path: 'tbilisi-public-university-metekhi/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/news',
+    path: 'tbilisi-public-university-metekhi/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/hostel',
+    path: 'tbilisi-public-university-metekhi/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-public-university-metekhi/faq',
+    path: 'tbilisi-public-university-metekhi/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tribhuvan-university',
+    path: 'tribhuvan-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/courses-and-fees',
+    path: 'tribhuvan-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/admission',
+    path: 'tribhuvan-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/review',
+    path: 'tribhuvan-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/placement',
+    path: 'tribhuvan-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/gallery',
+    path: 'tribhuvan-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/scholarship',
+    path: 'tribhuvan-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/faculty',
+    path: 'tribhuvan-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/news',
+    path: 'tribhuvan-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/hostel',
+    path: 'tribhuvan-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tribhuvan-university/faq',
+    path: 'tribhuvan-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-canada-west',
+    path: 'university-canada-west/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/courses-and-fees',
+    path: 'university-canada-west/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/admission',
+    path: 'university-canada-west/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/review',
+    path: 'university-canada-west/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/placement',
+    path: 'university-canada-west/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/gallery',
+    path: 'university-canada-west/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/scholarship',
+    path: 'university-canada-west/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/faculty',
+    path: 'university-canada-west/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/news',
+    path: 'university-canada-west/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/hostel',
+    path: 'university-canada-west/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-canada-west/faq',
+    path: 'university-canada-west/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-alberta',
+    path: 'university-of-alberta/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/courses-and-fees',
+    path: 'university-of-alberta/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/admission',
+    path: 'university-of-alberta/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/review',
+    path: 'university-of-alberta/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/placement',
+    path: 'university-of-alberta/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/gallery',
+    path: 'university-of-alberta/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/scholarship',
+    path: 'university-of-alberta/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/faculty',
+    path: 'university-of-alberta/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/news',
+    path: 'university-of-alberta/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/hostel',
+    path: 'university-of-alberta/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-alberta/faq',
+    path: 'university-of-alberta/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-wolverhampton',
+    path: 'university-of-wolverhampton/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/courses-and-fees',
+    path: 'university-of-wolverhampton/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/admission',
+    path: 'university-of-wolverhampton/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/review',
+    path: 'university-of-wolverhampton/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/placement',
+    path: 'university-of-wolverhampton/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/gallery',
+    path: 'university-of-wolverhampton/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/scholarship',
+    path: 'university-of-wolverhampton/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/faculty',
+    path: 'university-of-wolverhampton/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/news',
+    path: 'university-of-wolverhampton/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/hostel',
+    path: 'university-of-wolverhampton/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-wolverhampton/faq',
+    path: 'university-of-wolverhampton/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'xinjiang-university',
+    path: 'xinjiang-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/courses-and-fees',
+    path: 'xinjiang-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/admission',
+    path: 'xinjiang-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/review',
+    path: 'xinjiang-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/placement',
+    path: 'xinjiang-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/gallery',
+    path: 'xinjiang-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/scholarship',
+    path: 'xinjiang-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/faculty',
+    path: 'xinjiang-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/news',
+    path: 'xinjiang-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/hostel',
+    path: 'xinjiang-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'xinjiang-university/faq',
+    path: 'xinjiang-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'yangzhou-university',
+    path: 'yangzhou-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/courses-and-fees',
+    path: 'yangzhou-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/admission',
+    path: 'yangzhou-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/review',
+    path: 'yangzhou-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/placement',
+    path: 'yangzhou-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/gallery',
+    path: 'yangzhou-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/scholarship',
+    path: 'yangzhou-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/faculty',
+    path: 'yangzhou-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/news',
+    path: 'yangzhou-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/hostel',
+    path: 'yangzhou-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'yangzhou-university/faq',
+    path: 'yangzhou-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'aberystwyth-university',
+    path: 'aberystwyth-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/courses-and-fees',
+    path: 'aberystwyth-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/admission',
+    path: 'aberystwyth-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/review',
+    path: 'aberystwyth-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/placement',
+    path: 'aberystwyth-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/gallery',
+    path: 'aberystwyth-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/scholarship',
+    path: 'aberystwyth-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/faculty',
+    path: 'aberystwyth-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/news',
+    path: 'aberystwyth-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/hostel',
+    path: 'aberystwyth-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'aberystwyth-university/faq',
+    path: 'aberystwyth-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'belgorod-state-university',
+    path: 'belgorod-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/courses-and-fees',
+    path: 'belgorod-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/admission',
+    path: 'belgorod-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/review',
+    path: 'belgorod-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/placement',
+    path: 'belgorod-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/gallery',
+    path: 'belgorod-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/scholarship',
+    path: 'belgorod-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/faculty',
+    path: 'belgorod-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/news',
+    path: 'belgorod-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/hostel',
+    path: 'belgorod-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'belgorod-state-university/faq',
+    path: 'belgorod-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'bukovinian-state-medical-university',
+    path: 'bukovinian-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/courses-and-fees',
+    path: 'bukovinian-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/admission',
+    path: 'bukovinian-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/review',
+    path: 'bukovinian-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/placement',
+    path: 'bukovinian-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/gallery',
+    path: 'bukovinian-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/scholarship',
+    path: 'bukovinian-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/faculty',
+    path: 'bukovinian-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/news',
+    path: 'bukovinian-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/hostel',
+    path: 'bukovinian-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bukovinian-state-medical-university/faq',
+    path: 'bukovinian-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'capital-medical-university',
+    path: 'capital-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/courses-and-fees',
+    path: 'capital-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/admission',
+    path: 'capital-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/review',
+    path: 'capital-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/placement',
+    path: 'capital-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/gallery',
+    path: 'capital-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/scholarship',
+    path: 'capital-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/faculty',
+    path: 'capital-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/news',
+    path: 'capital-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/hostel',
+    path: 'capital-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'capital-medical-university/faq',
+    path: 'capital-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'cherkasy-state-technological-university',
+    path: 'cherkasy-state-technological-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/courses-and-fees',
+    path: 'cherkasy-state-technological-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/admission',
+    path: 'cherkasy-state-technological-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/review',
+    path: 'cherkasy-state-technological-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/placement',
+    path: 'cherkasy-state-technological-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/gallery',
+    path: 'cherkasy-state-technological-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/scholarship',
+    path: 'cherkasy-state-technological-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/faculty',
+    path: 'cherkasy-state-technological-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/news',
+    path: 'cherkasy-state-technological-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/hostel',
+    path: 'cherkasy-state-technological-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'cherkasy-state-technological-university/faq',
+    path: 'cherkasy-state-technological-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'crimean-federal-university',
+    path: 'crimean-federal-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/courses-and-fees',
+    path: 'crimean-federal-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/admission',
+    path: 'crimean-federal-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/review',
+    path: 'crimean-federal-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/placement',
+    path: 'crimean-federal-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/gallery',
+    path: 'crimean-federal-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/scholarship',
+    path: 'crimean-federal-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/faculty',
+    path: 'crimean-federal-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/news',
+    path: 'crimean-federal-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/hostel',
+    path: 'crimean-federal-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'crimean-federal-university/faq',
+    path: 'crimean-federal-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'danylo-halytsky-lviv-state-medical-university',
+    path: 'danylo-halytsky-lviv-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/courses-and-fees',
+    path: 'danylo-halytsky-lviv-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/admission',
+    path: 'danylo-halytsky-lviv-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/review',
+    path: 'danylo-halytsky-lviv-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/placement',
+    path: 'danylo-halytsky-lviv-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/gallery',
+    path: 'danylo-halytsky-lviv-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/scholarship',
+    path: 'danylo-halytsky-lviv-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/faculty',
+    path: 'danylo-halytsky-lviv-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/news',
+    path: 'danylo-halytsky-lviv-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/hostel',
+    path: 'danylo-halytsky-lviv-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'danylo-halytsky-lviv-state-medical-university/faq',
+    path: 'danylo-halytsky-lviv-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'durham-university',
+    path: 'durham-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/courses-and-fees',
+    path: 'durham-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/admission',
+    path: 'durham-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/review',
+    path: 'durham-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/placement',
+    path: 'durham-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/gallery',
+    path: 'durham-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/scholarship',
+    path: 'durham-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/faculty',
+    path: 'durham-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/news',
+    path: 'durham-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/hostel',
+    path: 'durham-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'durham-university/faq',
+    path: 'durham-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'gdansk-university-of-technology',
+    path: 'gdansk-university-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/courses-and-fees',
+    path: 'gdansk-university-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/admission',
+    path: 'gdansk-university-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/review',
+    path: 'gdansk-university-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/placement',
+    path: 'gdansk-university-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/gallery',
+    path: 'gdansk-university-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/scholarship',
+    path: 'gdansk-university-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/faculty',
+    path: 'gdansk-university-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/news',
+    path: 'gdansk-university-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/hostel',
+    path: 'gdansk-university-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'gdansk-university-of-technology/faq',
+    path: 'gdansk-university-of-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'georgian-national-university-seu',
+    path: 'georgian-national-university-seu/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/courses-and-fees',
+    path: 'georgian-national-university-seu/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/admission',
+    path: 'georgian-national-university-seu/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/review',
+    path: 'georgian-national-university-seu/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/placement',
+    path: 'georgian-national-university-seu/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/gallery',
+    path: 'georgian-national-university-seu/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/scholarship',
+    path: 'georgian-national-university-seu/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/faculty',
+    path: 'georgian-national-university-seu/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/news',
+    path: 'georgian-national-university-seu/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/hostel',
+    path: 'georgian-national-university-seu/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-national-university-seu/faq',
+    path: 'georgian-national-university-seu/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'jilin-university',
+    path: 'jilin-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/courses-and-fees',
+    path: 'jilin-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/admission',
+    path: 'jilin-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/review',
+    path: 'jilin-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/placement',
+    path: 'jilin-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/gallery',
+    path: 'jilin-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/scholarship',
+    path: 'jilin-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/faculty',
+    path: 'jilin-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/news',
+    path: 'jilin-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/hostel',
+    path: 'jilin-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'jilin-university/faq',
+    path: 'jilin-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'jinan-university',
+    path: 'jinan-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/courses-and-fees',
+    path: 'jinan-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/admission',
+    path: 'jinan-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/review',
+    path: 'jinan-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/placement',
+    path: 'jinan-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/gallery',
+    path: 'jinan-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/scholarship',
+    path: 'jinan-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/faculty',
+    path: 'jinan-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/news',
+    path: 'jinan-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/hostel',
+    path: 'jinan-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'jinan-university/faq',
+    path: 'jinan-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kabardino-balkarian-state-university',
+    path: 'kabardino-balkarian-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/courses-and-fees',
+    path: 'kabardino-balkarian-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/admission',
+    path: 'kabardino-balkarian-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/review',
+    path: 'kabardino-balkarian-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/placement',
+    path: 'kabardino-balkarian-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/gallery',
+    path: 'kabardino-balkarian-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/scholarship',
+    path: 'kabardino-balkarian-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/faculty',
+    path: 'kabardino-balkarian-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/news',
+    path: 'kabardino-balkarian-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/hostel',
+    path: 'kabardino-balkarian-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kabardino-balkarian-state-university/faq',
+    path: 'kabardino-balkarian-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kyiv-medical-university-of-uafm-kiev',
+    path: 'kyiv-medical-university-of-uafm-kiev/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/courses-and-fees',
+    path: 'kyiv-medical-university-of-uafm-kiev/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/admission',
+    path: 'kyiv-medical-university-of-uafm-kiev/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/review',
+    path: 'kyiv-medical-university-of-uafm-kiev/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/placement',
+    path: 'kyiv-medical-university-of-uafm-kiev/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/gallery',
+    path: 'kyiv-medical-university-of-uafm-kiev/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/scholarship',
+    path: 'kyiv-medical-university-of-uafm-kiev/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/faculty',
+    path: 'kyiv-medical-university-of-uafm-kiev/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/news',
+    path: 'kyiv-medical-university-of-uafm-kiev/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/hostel',
+    path: 'kyiv-medical-university-of-uafm-kiev/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-medical-university-of-uafm-kiev/faq',
+    path: 'kyiv-medical-university-of-uafm-kiev/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'london-metropolitan-university',
+    path: 'london-metropolitan-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/courses-and-fees',
+    path: 'london-metropolitan-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/admission',
+    path: 'london-metropolitan-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/review',
+    path: 'london-metropolitan-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/placement',
+    path: 'london-metropolitan-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/gallery',
+    path: 'london-metropolitan-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/scholarship',
+    path: 'london-metropolitan-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/faculty',
+    path: 'london-metropolitan-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/news',
+    path: 'london-metropolitan-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/hostel',
+    path: 'london-metropolitan-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'london-metropolitan-university/faq',
+    path: 'london-metropolitan-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'medical-university-of-lublin',
+    path: 'medical-university-of-lublin/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/courses-and-fees',
+    path: 'medical-university-of-lublin/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/admission',
+    path: 'medical-university-of-lublin/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/review',
+    path: 'medical-university-of-lublin/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/placement',
+    path: 'medical-university-of-lublin/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/gallery',
+    path: 'medical-university-of-lublin/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/scholarship',
+    path: 'medical-university-of-lublin/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/faculty',
+    path: 'medical-university-of-lublin/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/news',
+    path: 'medical-university-of-lublin/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/hostel',
+    path: 'medical-university-of-lublin/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lublin/faq',
+    path: 'medical-university-of-lublin/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'medical-university-of-silesia',
+    path: 'medical-university-of-silesia/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/courses-and-fees',
+    path: 'medical-university-of-silesia/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/admission',
+    path: 'medical-university-of-silesia/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/review',
+    path: 'medical-university-of-silesia/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/placement',
+    path: 'medical-university-of-silesia/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/gallery',
+    path: 'medical-university-of-silesia/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/scholarship',
+    path: 'medical-university-of-silesia/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/faculty',
+    path: 'medical-university-of-silesia/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/news',
+    path: 'medical-university-of-silesia/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/hostel',
+    path: 'medical-university-of-silesia/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-silesia/faq',
+    path: 'medical-university-of-silesia/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'medical-university-of-warsaw',
+    path: 'medical-university-of-warsaw/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/courses-and-fees',
+    path: 'medical-university-of-warsaw/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/admission',
+    path: 'medical-university-of-warsaw/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/review',
+    path: 'medical-university-of-warsaw/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/placement',
+    path: 'medical-university-of-warsaw/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/gallery',
+    path: 'medical-university-of-warsaw/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/scholarship',
+    path: 'medical-university-of-warsaw/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/faculty',
+    path: 'medical-university-of-warsaw/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/news',
+    path: 'medical-university-of-warsaw/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/hostel',
+    path: 'medical-university-of-warsaw/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-warsaw/faq',
+    path: 'medical-university-of-warsaw/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'moscow-university-touro',
+    path: 'moscow-university-touro/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/courses-and-fees',
+    path: 'moscow-university-touro/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/admission',
+    path: 'moscow-university-touro/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/review',
+    path: 'moscow-university-touro/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/placement',
+    path: 'moscow-university-touro/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/gallery',
+    path: 'moscow-university-touro/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/scholarship',
+    path: 'moscow-university-touro/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/faculty',
+    path: 'moscow-university-touro/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/news',
+    path: 'moscow-university-touro/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/hostel',
+    path: 'moscow-university-touro/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-university-touro/faq',
+    path: 'moscow-university-touro/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'nicolaus-copernicus-university',
+    path: 'nicolaus-copernicus-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/courses-and-fees',
+    path: 'nicolaus-copernicus-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/admission',
+    path: 'nicolaus-copernicus-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/review',
+    path: 'nicolaus-copernicus-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/placement',
+    path: 'nicolaus-copernicus-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/gallery',
+    path: 'nicolaus-copernicus-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/scholarship',
+    path: 'nicolaus-copernicus-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/faculty',
+    path: 'nicolaus-copernicus-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/news',
+    path: 'nicolaus-copernicus-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/hostel',
+    path: 'nicolaus-copernicus-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'nicolaus-copernicus-university/faq',
+    path: 'nicolaus-copernicus-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'nizhny-novgorod-state-technical-university',
+    path: 'nizhny-novgorod-state-technical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/courses-and-fees',
+    path: 'nizhny-novgorod-state-technical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/admission',
+    path: 'nizhny-novgorod-state-technical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/review',
+    path: 'nizhny-novgorod-state-technical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/placement',
+    path: 'nizhny-novgorod-state-technical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/gallery',
+    path: 'nizhny-novgorod-state-technical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/scholarship',
+    path: 'nizhny-novgorod-state-technical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/faculty',
+    path: 'nizhny-novgorod-state-technical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/news',
+    path: 'nizhny-novgorod-state-technical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/hostel',
+    path: 'nizhny-novgorod-state-technical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'nizhny-novgorod-state-technical-university/faq',
+    path: 'nizhny-novgorod-state-technical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'north-kazakhstan-state-university',
+    path: 'north-kazakhstan-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/courses-and-fees',
+    path: 'north-kazakhstan-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/admission',
+    path: 'north-kazakhstan-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/review',
+    path: 'north-kazakhstan-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/placement',
+    path: 'north-kazakhstan-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/gallery',
+    path: 'north-kazakhstan-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/scholarship',
+    path: 'north-kazakhstan-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/faculty',
+    path: 'north-kazakhstan-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/news',
+    path: 'north-kazakhstan-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/hostel',
+    path: 'north-kazakhstan-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-kazakhstan-state-university/faq',
+    path: 'north-kazakhstan-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'orel-state-university',
+    path: 'orel-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/courses-and-fees',
+    path: 'orel-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/admission',
+    path: 'orel-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/review',
+    path: 'orel-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/placement',
+    path: 'orel-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/gallery',
+    path: 'orel-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/scholarship',
+    path: 'orel-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/faculty',
+    path: 'orel-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/news',
+    path: 'orel-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/hostel',
+    path: 'orel-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'orel-state-university/faq',
+    path: 'orel-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'orenburg-state-medical-university',
+    path: 'orenburg-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/courses-and-fees',
+    path: 'orenburg-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/admission',
+    path: 'orenburg-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/review',
+    path: 'orenburg-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/placement',
+    path: 'orenburg-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/gallery',
+    path: 'orenburg-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/scholarship',
+    path: 'orenburg-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/faculty',
+    path: 'orenburg-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/news',
+    path: 'orenburg-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/hostel',
+    path: 'orenburg-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'orenburg-state-medical-university/faq',
+    path: 'orenburg-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'poznan-university-of-medical-science',
+    path: 'poznan-university-of-medical-science/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/courses-and-fees',
+    path: 'poznan-university-of-medical-science/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/admission',
+    path: 'poznan-university-of-medical-science/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/review',
+    path: 'poznan-university-of-medical-science/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/placement',
+    path: 'poznan-university-of-medical-science/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/gallery',
+    path: 'poznan-university-of-medical-science/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/scholarship',
+    path: 'poznan-university-of-medical-science/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/faculty',
+    path: 'poznan-university-of-medical-science/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/news',
+    path: 'poznan-university-of-medical-science/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/hostel',
+    path: 'poznan-university-of-medical-science/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'poznan-university-of-medical-science/faq',
+    path: 'poznan-university-of-medical-science/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'reutlingen-university',
+    path: 'reutlingen-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/courses-and-fees',
+    path: 'reutlingen-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/admission',
+    path: 'reutlingen-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/review',
+    path: 'reutlingen-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/placement',
+    path: 'reutlingen-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/gallery',
+    path: 'reutlingen-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/scholarship',
+    path: 'reutlingen-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/faculty',
+    path: 'reutlingen-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/news',
+    path: 'reutlingen-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/hostel',
+    path: 'reutlingen-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'reutlingen-university/faq',
+    path: 'reutlingen-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'riseba-university-of-business-arts-and-technology',
+    path: 'riseba-university-of-business-arts-and-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/courses-and-fees',
+    path: 'riseba-university-of-business-arts-and-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/admission',
+    path: 'riseba-university-of-business-arts-and-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/review',
+    path: 'riseba-university-of-business-arts-and-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/placement',
+    path: 'riseba-university-of-business-arts-and-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/gallery',
+    path: 'riseba-university-of-business-arts-and-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/scholarship',
+    path: 'riseba-university-of-business-arts-and-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/faculty',
+    path: 'riseba-university-of-business-arts-and-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/news',
+    path: 'riseba-university-of-business-arts-and-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/hostel',
+    path: 'riseba-university-of-business-arts-and-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'riseba-university-of-business-arts-and-technology/faq',
+    path: 'riseba-university-of-business-arts-and-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ryerson-university',
+    path: 'ryerson-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/courses-and-fees',
+    path: 'ryerson-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/admission',
+    path: 'ryerson-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/review',
+    path: 'ryerson-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/placement',
+    path: 'ryerson-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/gallery',
+    path: 'ryerson-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/scholarship',
+    path: 'ryerson-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/faculty',
+    path: 'ryerson-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/news',
+    path: 'ryerson-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/hostel',
+    path: 'ryerson-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ryerson-university/faq',
+    path: 'ryerson-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'simon-fraser-university',
+    path: 'simon-fraser-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/courses-and-fees',
+    path: 'simon-fraser-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/admission',
+    path: 'simon-fraser-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/review',
+    path: 'simon-fraser-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/placement',
+    path: 'simon-fraser-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/gallery',
+    path: 'simon-fraser-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/scholarship',
+    path: 'simon-fraser-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/faculty',
+    path: 'simon-fraser-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/news',
+    path: 'simon-fraser-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/hostel',
+    path: 'simon-fraser-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'simon-fraser-university/faq',
+    path: 'simon-fraser-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'st-tereza-medical-university',
+    path: 'st-tereza-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/courses-and-fees',
+    path: 'st-tereza-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/admission',
+    path: 'st-tereza-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/review',
+    path: 'st-tereza-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/placement',
+    path: 'st-tereza-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/gallery',
+    path: 'st-tereza-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/scholarship',
+    path: 'st-tereza-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/faculty',
+    path: 'st-tereza-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/news',
+    path: 'st-tereza-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/hostel',
+    path: 'st-tereza-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-tereza-medical-university/faq',
+    path: 'st-tereza-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-bradford',
+    path: 'university-of-bradford/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/courses-and-fees',
+    path: 'university-of-bradford/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/admission',
+    path: 'university-of-bradford/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/review',
+    path: 'university-of-bradford/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/placement',
+    path: 'university-of-bradford/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/gallery',
+    path: 'university-of-bradford/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/scholarship',
+    path: 'university-of-bradford/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/faculty',
+    path: 'university-of-bradford/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/news',
+    path: 'university-of-bradford/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/hostel',
+    path: 'university-of-bradford/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bradford/faq',
+    path: 'university-of-bradford/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-bristol',
+    path: 'university-of-bristol/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/courses-and-fees',
+    path: 'university-of-bristol/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/admission',
+    path: 'university-of-bristol/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/review',
+    path: 'university-of-bristol/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/placement',
+    path: 'university-of-bristol/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/gallery',
+    path: 'university-of-bristol/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/scholarship',
+    path: 'university-of-bristol/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/faculty',
+    path: 'university-of-bristol/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/news',
+    path: 'university-of-bristol/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/hostel',
+    path: 'university-of-bristol/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bristol/faq',
+    path: 'university-of-bristol/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-latvia',
+    path: 'university-of-latvia/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/courses-and-fees',
+    path: 'university-of-latvia/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/admission',
+    path: 'university-of-latvia/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/review',
+    path: 'university-of-latvia/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/placement',
+    path: 'university-of-latvia/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/gallery',
+    path: 'university-of-latvia/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/scholarship',
+    path: 'university-of-latvia/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/faculty',
+    path: 'university-of-latvia/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/news',
+    path: 'university-of-latvia/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/hostel',
+    path: 'university-of-latvia/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-latvia/faq',
+    path: 'university-of-latvia/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-ottawa',
+    path: 'university-of-ottawa/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/courses-and-fees',
+    path: 'university-of-ottawa/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/admission',
+    path: 'university-of-ottawa/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/review',
+    path: 'university-of-ottawa/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/placement',
+    path: 'university-of-ottawa/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/gallery',
+    path: 'university-of-ottawa/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/scholarship',
+    path: 'university-of-ottawa/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/faculty',
+    path: 'university-of-ottawa/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/news',
+    path: 'university-of-ottawa/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/hostel',
+    path: 'university-of-ottawa/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ottawa/faq',
+    path: 'university-of-ottawa/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-perpetual-help-system-dalta',
+    path: 'university-of-perpetual-help-system-dalta/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/courses-and-fees',
+    path: 'university-of-perpetual-help-system-dalta/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/admission',
+    path: 'university-of-perpetual-help-system-dalta/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/review',
+    path: 'university-of-perpetual-help-system-dalta/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/placement',
+    path: 'university-of-perpetual-help-system-dalta/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/gallery',
+    path: 'university-of-perpetual-help-system-dalta/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/scholarship',
+    path: 'university-of-perpetual-help-system-dalta/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/faculty',
+    path: 'university-of-perpetual-help-system-dalta/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/news',
+    path: 'university-of-perpetual-help-system-dalta/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/hostel',
+    path: 'university-of-perpetual-help-system-dalta/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-perpetual-help-system-dalta/faq',
+    path: 'university-of-perpetual-help-system-dalta/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-saskatchewan',
+    path: 'university-of-saskatchewan/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/courses-and-fees',
+    path: 'university-of-saskatchewan/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/admission',
+    path: 'university-of-saskatchewan/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/review',
+    path: 'university-of-saskatchewan/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/placement',
+    path: 'university-of-saskatchewan/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/gallery',
+    path: 'university-of-saskatchewan/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/scholarship',
+    path: 'university-of-saskatchewan/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/faculty',
+    path: 'university-of-saskatchewan/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/news',
+    path: 'university-of-saskatchewan/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/hostel',
+    path: 'university-of-saskatchewan/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-saskatchewan/faq',
+    path: 'university-of-saskatchewan/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-st-andrews',
+    path: 'university-of-st-andrews/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/courses-and-fees',
+    path: 'university-of-st-andrews/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/admission',
+    path: 'university-of-st-andrews/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/review',
+    path: 'university-of-st-andrews/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/placement',
+    path: 'university-of-st-andrews/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/gallery',
+    path: 'university-of-st-andrews/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/scholarship',
+    path: 'university-of-st-andrews/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/faculty',
+    path: 'university-of-st-andrews/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/news',
+    path: 'university-of-st-andrews/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/hostel',
+    path: 'university-of-st-andrews/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-st-andrews/faq',
+    path: 'university-of-st-andrews/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-warmia-and-mazury',
+    path: 'university-of-warmia-and-mazury/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/courses-and-fees',
+    path: 'university-of-warmia-and-mazury/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/admission',
+    path: 'university-of-warmia-and-mazury/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/review',
+    path: 'university-of-warmia-and-mazury/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/placement',
+    path: 'university-of-warmia-and-mazury/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/gallery',
+    path: 'university-of-warmia-and-mazury/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/scholarship',
+    path: 'university-of-warmia-and-mazury/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/faculty',
+    path: 'university-of-warmia-and-mazury/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/news',
+    path: 'university-of-warmia-and-mazury/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/hostel',
+    path: 'university-of-warmia-and-mazury/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-warmia-and-mazury/faq',
+    path: 'university-of-warmia-and-mazury/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'vitebsk-state-medical-university',
+    path: 'vitebsk-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/courses-and-fees',
+    path: 'vitebsk-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/admission',
+    path: 'vitebsk-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/review',
+    path: 'vitebsk-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/placement',
+    path: 'vitebsk-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/gallery',
+    path: 'vitebsk-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/scholarship',
+    path: 'vitebsk-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/faculty',
+    path: 'vitebsk-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/news',
+    path: 'vitebsk-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/hostel',
+    path: 'vitebsk-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'vitebsk-state-medical-university/faq',
+    path: 'vitebsk-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'v-n-karazin-kharkiv-national-university',
+    path: 'v-n-karazin-kharkiv-national-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/courses-and-fees',
+    path: 'v-n-karazin-kharkiv-national-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/admission',
+    path: 'v-n-karazin-kharkiv-national-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/review',
+    path: 'v-n-karazin-kharkiv-national-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/placement',
+    path: 'v-n-karazin-kharkiv-national-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/gallery',
+    path: 'v-n-karazin-kharkiv-national-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/scholarship',
+    path: 'v-n-karazin-kharkiv-national-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/faculty',
+    path: 'v-n-karazin-kharkiv-national-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/news',
+    path: 'v-n-karazin-kharkiv-national-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/hostel',
+    path: 'v-n-karazin-kharkiv-national-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'v-n-karazin-kharkiv-national-university/faq',
+    path: 'v-n-karazin-kharkiv-national-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'volgograd-state-medical-university',
+    path: 'volgograd-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/courses-and-fees',
+    path: 'volgograd-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/admission',
+    path: 'volgograd-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/review',
+    path: 'volgograd-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/placement',
+    path: 'volgograd-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/gallery',
+    path: 'volgograd-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/scholarship',
+    path: 'volgograd-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/faculty',
+    path: 'volgograd-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/news',
+    path: 'volgograd-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/hostel',
+    path: 'volgograd-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'volgograd-state-medical-university/faq',
+    path: 'volgograd-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'warsaw-university-of-technology',
+    path: 'warsaw-university-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/courses-and-fees',
+    path: 'warsaw-university-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/admission',
+    path: 'warsaw-university-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/review',
+    path: 'warsaw-university-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/placement',
+    path: 'warsaw-university-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/gallery',
+    path: 'warsaw-university-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/scholarship',
+    path: 'warsaw-university-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/faculty',
+    path: 'warsaw-university-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/news',
+    path: 'warsaw-university-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/hostel',
+    path: 'warsaw-university-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology/faq',
+    path: 'warsaw-university-of-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'yaroslavl-state-medical-university',
+    path: 'yaroslavl-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/courses-and-fees',
+    path: 'yaroslavl-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/admission',
+    path: 'yaroslavl-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/review',
+    path: 'yaroslavl-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/placement',
+    path: 'yaroslavl-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/gallery',
+    path: 'yaroslavl-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/scholarship',
+    path: 'yaroslavl-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/faculty',
+    path: 'yaroslavl-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/news',
+    path: 'yaroslavl-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/hostel',
+    path: 'yaroslavl-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'yaroslavl-state-medical-university/faq',
+    path: 'yaroslavl-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'al-farabi-kazakh-national-university',
+    path: 'al-farabi-kazakh-national-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/courses-and-fees',
+    path: 'al-farabi-kazakh-national-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/admission',
+    path: 'al-farabi-kazakh-national-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/review',
+    path: 'al-farabi-kazakh-national-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/placement',
+    path: 'al-farabi-kazakh-national-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/gallery',
+    path: 'al-farabi-kazakh-national-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/scholarship',
+    path: 'al-farabi-kazakh-national-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/faculty',
+    path: 'al-farabi-kazakh-national-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/news',
+    path: 'al-farabi-kazakh-national-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/hostel',
+    path: 'al-farabi-kazakh-national-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'al-farabi-kazakh-national-university/faq',
+    path: 'al-farabi-kazakh-national-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ama-school-of-medicine',
+    path: 'ama-school-of-medicine/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/courses-and-fees',
+    path: 'ama-school-of-medicine/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/admission',
+    path: 'ama-school-of-medicine/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/review',
+    path: 'ama-school-of-medicine/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/placement',
+    path: 'ama-school-of-medicine/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/gallery',
+    path: 'ama-school-of-medicine/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/scholarship',
+    path: 'ama-school-of-medicine/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/faculty',
+    path: 'ama-school-of-medicine/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/news',
+    path: 'ama-school-of-medicine/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/hostel',
+    path: 'ama-school-of-medicine/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ama-school-of-medicine/faq',
+    path: 'ama-school-of-medicine/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'andijan-state-medical-institute',
+    path: 'andijan-state-medical-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/courses-and-fees',
+    path: 'andijan-state-medical-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/admission',
+    path: 'andijan-state-medical-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/review',
+    path: 'andijan-state-medical-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/placement',
+    path: 'andijan-state-medical-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/gallery',
+    path: 'andijan-state-medical-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/scholarship',
+    path: 'andijan-state-medical-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/faculty',
+    path: 'andijan-state-medical-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/news',
+    path: 'andijan-state-medical-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/hostel',
+    path: 'andijan-state-medical-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'andijan-state-medical-institute/faq',
+    path: 'andijan-state-medical-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'angeles-university-foundation',
+    path: 'angeles-university-foundation/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/courses-and-fees',
+    path: 'angeles-university-foundation/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/admission',
+    path: 'angeles-university-foundation/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/review',
+    path: 'angeles-university-foundation/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/placement',
+    path: 'angeles-university-foundation/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/gallery',
+    path: 'angeles-university-foundation/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/scholarship',
+    path: 'angeles-university-foundation/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/faculty',
+    path: 'angeles-university-foundation/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/news',
+    path: 'angeles-university-foundation/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/hostel',
+    path: 'angeles-university-foundation/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'angeles-university-foundation/faq',
+    path: 'angeles-university-foundation/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'bath-spa-university',
+    path: 'bath-spa-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/courses-and-fees',
+    path: 'bath-spa-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/admission',
+    path: 'bath-spa-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/review',
+    path: 'bath-spa-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/placement',
+    path: 'bath-spa-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/gallery',
+    path: 'bath-spa-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/scholarship',
+    path: 'bath-spa-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/faculty',
+    path: 'bath-spa-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/news',
+    path: 'bath-spa-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/hostel',
+    path: 'bath-spa-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bath-spa-university/faq',
+    path: 'bath-spa-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'carl-benz-school-of-engineering',
+    path: 'carl-benz-school-of-engineering/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/courses-and-fees',
+    path: 'carl-benz-school-of-engineering/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/admission',
+    path: 'carl-benz-school-of-engineering/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/review',
+    path: 'carl-benz-school-of-engineering/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/placement',
+    path: 'carl-benz-school-of-engineering/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/gallery',
+    path: 'carl-benz-school-of-engineering/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/scholarship',
+    path: 'carl-benz-school-of-engineering/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/faculty',
+    path: 'carl-benz-school-of-engineering/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/news',
+    path: 'carl-benz-school-of-engineering/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/hostel',
+    path: 'carl-benz-school-of-engineering/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'carl-benz-school-of-engineering/faq',
+    path: 'carl-benz-school-of-engineering/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'central-philippine-university',
+    path: 'central-philippine-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/courses-and-fees',
+    path: 'central-philippine-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/admission',
+    path: 'central-philippine-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/review',
+    path: 'central-philippine-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/placement',
+    path: 'central-philippine-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/gallery',
+    path: 'central-philippine-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/scholarship',
+    path: 'central-philippine-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/faculty',
+    path: 'central-philippine-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/news',
+    path: 'central-philippine-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/hostel',
+    path: 'central-philippine-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'central-philippine-university/faq',
+    path: 'central-philippine-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'chongqing-medical-university',
+    path: 'chongqing-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/courses-and-fees',
+    path: 'chongqing-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/admission',
+    path: 'chongqing-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/review',
+    path: 'chongqing-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/placement',
+    path: 'chongqing-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/gallery',
+    path: 'chongqing-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/scholarship',
+    path: 'chongqing-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/faculty',
+    path: 'chongqing-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/news',
+    path: 'chongqing-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/hostel',
+    path: 'chongqing-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'chongqing-medical-university/faq',
+    path: 'chongqing-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'christ-university-bangalore',
+    path: 'christ-university-bangalore/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/courses-and-fees',
+    path: 'christ-university-bangalore/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/admission',
+    path: 'christ-university-bangalore/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/review',
+    path: 'christ-university-bangalore/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/placement',
+    path: 'christ-university-bangalore/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/gallery',
+    path: 'christ-university-bangalore/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/scholarship',
+    path: 'christ-university-bangalore/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/faculty',
+    path: 'christ-university-bangalore/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/news',
+    path: 'christ-university-bangalore/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/hostel',
+    path: 'christ-university-bangalore/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'christ-university-bangalore/faq',
+    path: 'christ-university-bangalore/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'city-university-of-london',
+    path: 'city-university-of-london/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/courses-and-fees',
+    path: 'city-university-of-london/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/admission',
+    path: 'city-university-of-london/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/review',
+    path: 'city-university-of-london/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/placement',
+    path: 'city-university-of-london/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/gallery',
+    path: 'city-university-of-london/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/scholarship',
+    path: 'city-university-of-london/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/faculty',
+    path: 'city-university-of-london/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/news',
+    path: 'city-university-of-london/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/hostel',
+    path: 'city-university-of-london/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'city-university-of-london/faq',
+    path: 'city-university-of-london/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'dalian-medical-university',
+    path: 'dalian-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/courses-and-fees',
+    path: 'dalian-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/admission',
+    path: 'dalian-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/review',
+    path: 'dalian-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/placement',
+    path: 'dalian-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/gallery',
+    path: 'dalian-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/scholarship',
+    path: 'dalian-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/faculty',
+    path: 'dalian-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/news',
+    path: 'dalian-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/hostel',
+    path: 'dalian-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalian-medical-university/faq',
+    path: 'dalian-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'david-agmashenebeli-university-of-georgia',
+    path: 'david-agmashenebeli-university-of-georgia/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/courses-and-fees',
+    path: 'david-agmashenebeli-university-of-georgia/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/admission',
+    path: 'david-agmashenebeli-university-of-georgia/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/review',
+    path: 'david-agmashenebeli-university-of-georgia/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/placement',
+    path: 'david-agmashenebeli-university-of-georgia/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/gallery',
+    path: 'david-agmashenebeli-university-of-georgia/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/scholarship',
+    path: 'david-agmashenebeli-university-of-georgia/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/faculty',
+    path: 'david-agmashenebeli-university-of-georgia/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/news',
+    path: 'david-agmashenebeli-university-of-georgia/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/hostel',
+    path: 'david-agmashenebeli-university-of-georgia/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'david-agmashenebeli-university-of-georgia/faq',
+    path: 'david-agmashenebeli-university-of-georgia/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'donbass-state-engineering-academy',
+    path: 'donbass-state-engineering-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/courses-and-fees',
+    path: 'donbass-state-engineering-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/admission',
+    path: 'donbass-state-engineering-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/review',
+    path: 'donbass-state-engineering-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/placement',
+    path: 'donbass-state-engineering-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/gallery',
+    path: 'donbass-state-engineering-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/scholarship',
+    path: 'donbass-state-engineering-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/faculty',
+    path: 'donbass-state-engineering-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/news',
+    path: 'donbass-state-engineering-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/hostel',
+    path: 'donbass-state-engineering-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'donbass-state-engineering-academy/faq',
+    path: 'donbass-state-engineering-academy/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'esslingen-university-of-applied-sciences',
+    path: 'esslingen-university-of-applied-sciences/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/courses-and-fees',
+    path: 'esslingen-university-of-applied-sciences/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/admission',
+    path: 'esslingen-university-of-applied-sciences/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/review',
+    path: 'esslingen-university-of-applied-sciences/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/placement',
+    path: 'esslingen-university-of-applied-sciences/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/gallery',
+    path: 'esslingen-university-of-applied-sciences/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/scholarship',
+    path: 'esslingen-university-of-applied-sciences/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/faculty',
+    path: 'esslingen-university-of-applied-sciences/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/news',
+    path: 'esslingen-university-of-applied-sciences/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/hostel',
+    path: 'esslingen-university-of-applied-sciences/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'esslingen-university-of-applied-sciences/faq',
+    path: 'esslingen-university-of-applied-sciences/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'first-moscow-state-medical-university',
+    path: 'first-moscow-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/courses-and-fees',
+    path: 'first-moscow-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/admission',
+    path: 'first-moscow-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/review',
+    path: 'first-moscow-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/placement',
+    path: 'first-moscow-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/gallery',
+    path: 'first-moscow-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/scholarship',
+    path: 'first-moscow-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/faculty',
+    path: 'first-moscow-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/news',
+    path: 'first-moscow-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/hostel',
+    path: 'first-moscow-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'first-moscow-state-medical-university/faq',
+    path: 'first-moscow-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'grodno-state-medical-university',
+    path: 'grodno-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/courses-and-fees',
+    path: 'grodno-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/admission',
+    path: 'grodno-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/review',
+    path: 'grodno-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/placement',
+    path: 'grodno-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/gallery',
+    path: 'grodno-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/scholarship',
+    path: 'grodno-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/faculty',
+    path: 'grodno-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/news',
+    path: 'grodno-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/hostel',
+    path: 'grodno-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'grodno-state-medical-university/faq',
+    path: 'grodno-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'international-school-of-management-dortmund',
+    path: 'international-school-of-management-dortmund/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/courses-and-fees',
+    path: 'international-school-of-management-dortmund/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/admission',
+    path: 'international-school-of-management-dortmund/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/review',
+    path: 'international-school-of-management-dortmund/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/placement',
+    path: 'international-school-of-management-dortmund/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/gallery',
+    path: 'international-school-of-management-dortmund/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/scholarship',
+    path: 'international-school-of-management-dortmund/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/faculty',
+    path: 'international-school-of-management-dortmund/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/news',
+    path: 'international-school-of-management-dortmund/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/hostel',
+    path: 'international-school-of-management-dortmund/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/faq',
+    path: 'international-school-of-management-dortmund/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/courses-and-fees',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/admission',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/review',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/placement',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/gallery',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/scholarship',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/faculty',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/news',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/hostel',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'guru-gobind-singh-indraprastha-university-delhi/faq',
+    path: 'guru-gobind-singh-indraprastha-university-delhi/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'international-school-of-management-dortmund',
+    path: 'international-school-of-management-dortmund/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/courses-and-fees',
+    path: 'international-school-of-management-dortmund/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/admission',
+    path: 'international-school-of-management-dortmund/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/review',
+    path: 'international-school-of-management-dortmund/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/placement',
+    path: 'international-school-of-management-dortmund/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/gallery',
+    path: 'international-school-of-management-dortmund/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/scholarship',
+    path: 'international-school-of-management-dortmund/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/faculty',
+    path: 'international-school-of-management-dortmund/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/news',
+    path: 'international-school-of-management-dortmund/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/hostel',
+    path: 'international-school-of-management-dortmund/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'international-school-of-management-dortmund/faq',
+    path: 'international-school-of-management-dortmund/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'rwth-aachen-university',
+    path: 'rwth-aachen-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/courses-and-fees',
+    path: 'rwth-aachen-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/admission',
+    path: 'rwth-aachen-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/review',
+    path: 'rwth-aachen-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/placement',
+    path: 'rwth-aachen-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/gallery',
+    path: 'rwth-aachen-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/scholarship',
+    path: 'rwth-aachen-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/faculty',
+    path: 'rwth-aachen-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/news',
+    path: 'rwth-aachen-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/hostel',
+    path: 'rwth-aachen-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'rwth-aachen-university/faq',
+    path: 'rwth-aachen-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'irkutsk-national-research-technical-university',
+    path: 'irkutsk-national-research-technical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/courses-and-fees',
+    path: 'irkutsk-national-research-technical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/admission',
+    path: 'irkutsk-national-research-technical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/review',
+    path: 'irkutsk-national-research-technical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/placement',
+    path: 'irkutsk-national-research-technical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/gallery',
+    path: 'irkutsk-national-research-technical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/scholarship',
+    path: 'irkutsk-national-research-technical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/faculty',
+    path: 'irkutsk-national-research-technical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/news',
+    path: 'irkutsk-national-research-technical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/hostel',
+    path: 'irkutsk-national-research-technical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'irkutsk-national-research-technical-university/faq',
+    path: 'irkutsk-national-research-technical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'jamia-millia-islamia-delhi',
+    path: 'jamia-millia-islamia-delhi/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/courses-and-fees',
+    path: 'jamia-millia-islamia-delhi/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/admission',
+    path: 'jamia-millia-islamia-delhi/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/review',
+    path: 'jamia-millia-islamia-delhi/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/placement',
+    path: 'jamia-millia-islamia-delhi/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/gallery',
+    path: 'jamia-millia-islamia-delhi/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/scholarship',
+    path: 'jamia-millia-islamia-delhi/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/faculty',
+    path: 'jamia-millia-islamia-delhi/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/news',
+    path: 'jamia-millia-islamia-delhi/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/hostel',
+    path: 'jamia-millia-islamia-delhi/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'jamia-millia-islamia-delhi/faq',
+    path: 'jamia-millia-islamia-delhi/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'karaganda-state-medical-university',
+    path: 'karaganda-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/courses-and-fees',
+    path: 'karaganda-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/admission',
+    path: 'karaganda-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/review',
+    path: 'karaganda-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/placement',
+    path: 'karaganda-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/gallery',
+    path: 'karaganda-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/scholarship',
+    path: 'karaganda-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/faculty',
+    path: 'karaganda-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/news',
+    path: 'karaganda-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/hostel',
+    path: 'karaganda-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'karaganda-state-medical-university/faq',
+    path: 'karaganda-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kazan-federal-university',
+    path: 'kazan-federal-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/courses-and-fees',
+    path: 'kazan-federal-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/admission',
+    path: 'kazan-federal-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/review',
+    path: 'kazan-federal-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/placement',
+    path: 'kazan-federal-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/gallery',
+    path: 'kazan-federal-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/scholarship',
+    path: 'kazan-federal-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/faculty',
+    path: 'kazan-federal-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/news',
+    path: 'kazan-federal-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/hostel',
+    path: 'kazan-federal-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-federal-university/faq',
+    path: 'kazan-federal-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kazan-state-medical-university',
+    path: 'kazan-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/courses-and-fees',
+    path: 'kazan-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/admission',
+    path: 'kazan-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/review',
+    path: 'kazan-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/placement',
+    path: 'kazan-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/gallery',
+    path: 'kazan-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/scholarship',
+    path: 'kazan-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/faculty',
+    path: 'kazan-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/news',
+    path: 'kazan-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/hostel',
+    path: 'kazan-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazan-state-medical-university/faq',
+    path: 'kazan-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'north-eastern-federal-university',
+    path: 'north-eastern-federal-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/courses-and-fees',
+    path: 'north-eastern-federal-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/admission',
+    path: 'north-eastern-federal-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/review',
+    path: 'north-eastern-federal-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/placement',
+    path: 'north-eastern-federal-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/gallery',
+    path: 'north-eastern-federal-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/scholarship',
+    path: 'north-eastern-federal-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/faculty',
+    path: 'north-eastern-federal-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/news',
+    path: 'north-eastern-federal-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/hostel',
+    path: 'north-eastern-federal-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-eastern-federal-university/faq',
+    path: 'north-eastern-federal-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kharkiv-national-medical-university',
+    path: 'kharkiv-national-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/courses-and-fees',
+    path: 'kharkiv-national-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/admission',
+    path: 'kharkiv-national-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/review',
+    path: 'kharkiv-national-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/placement',
+    path: 'kharkiv-national-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/gallery',
+    path: 'kharkiv-national-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/scholarship',
+    path: 'kharkiv-national-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/faculty',
+    path: 'kharkiv-national-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/news',
+    path: 'kharkiv-national-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/hostel',
+    path: 'kharkiv-national-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-medical-university/faq',
+    path: 'kharkiv-national-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kharkiv-state-academy-of-culture',
+    path: 'kharkiv-state-academy-of-culture/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/courses-and-fees',
+    path: 'kharkiv-state-academy-of-culture/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/admission',
+    path: 'kharkiv-state-academy-of-culture/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/review',
+    path: 'kharkiv-state-academy-of-culture/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/placement',
+    path: 'kharkiv-state-academy-of-culture/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/gallery',
+    path: 'kharkiv-state-academy-of-culture/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/scholarship',
+    path: 'kharkiv-state-academy-of-culture/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/faculty',
+    path: 'kharkiv-state-academy-of-culture/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/news',
+    path: 'kharkiv-state-academy-of-culture/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/hostel',
+    path: 'kharkiv-state-academy-of-culture/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-state-academy-of-culture/faq',
+    path: 'kharkiv-state-academy-of-culture/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kherson-national-technical-university',
+    path: 'kherson-national-technical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/courses-and-fees',
+    path: 'kherson-national-technical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/admission',
+    path: 'kherson-national-technical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/review',
+    path: 'kherson-national-technical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/placement',
+    path: 'kherson-national-technical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/gallery',
+    path: 'kherson-national-technical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/scholarship',
+    path: 'kherson-national-technical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/faculty',
+    path: 'kherson-national-technical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/news',
+    path: 'kherson-national-technical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/hostel',
+    path: 'kherson-national-technical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kherson-national-technical-university/faq',
+    path: 'kherson-national-technical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kings-college-london',
+    path: 'kings-college-london/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/courses-and-fees',
+    path: 'kings-college-london/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/admission',
+    path: 'kings-college-london/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/review',
+    path: 'kings-college-london/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/placement',
+    path: 'kings-college-london/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/gallery',
+    path: 'kings-college-london/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/scholarship',
+    path: 'kings-college-london/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/faculty',
+    path: 'kings-college-london/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/news',
+    path: 'kings-college-london/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/hostel',
+    path: 'kings-college-london/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kings-college-london/faq',
+    path: 'kings-college-london/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kokshetau-state-university',
+    path: 'kokshetau-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/courses-and-fees',
+    path: 'kokshetau-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/admission',
+    path: 'kokshetau-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/review',
+    path: 'kokshetau-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/placement',
+    path: 'kokshetau-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/gallery',
+    path: 'kokshetau-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/scholarship',
+    path: 'kokshetau-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/faculty',
+    path: 'kokshetau-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/news',
+    path: 'kokshetau-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/hostel',
+    path: 'kokshetau-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kokshetau-state-university/faq',
+    path: 'kokshetau-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kyiv-national-university-of-culture-and-arts',
+    path: 'kyiv-national-university-of-culture-and-arts/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/courses-and-fees',
+    path: 'kyiv-national-university-of-culture-and-arts/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/admission',
+    path: 'kyiv-national-university-of-culture-and-arts/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/review',
+    path: 'kyiv-national-university-of-culture-and-arts/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/placement',
+    path: 'kyiv-national-university-of-culture-and-arts/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/gallery',
+    path: 'kyiv-national-university-of-culture-and-arts/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/scholarship',
+    path: 'kyiv-national-university-of-culture-and-arts/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/faculty',
+    path: 'kyiv-national-university-of-culture-and-arts/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/news',
+    path: 'kyiv-national-university-of-culture-and-arts/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/hostel',
+    path: 'kyiv-national-university-of-culture-and-arts/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyiv-national-university-of-culture-and-arts/faq',
+    path: 'kyiv-national-university-of-culture-and-arts/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'leeds-beckett-university',
+    path: 'leeds-beckett-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/courses-and-fees',
+    path: 'leeds-beckett-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/admission',
+    path: 'leeds-beckett-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/review',
+    path: 'leeds-beckett-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/placement',
+    path: 'leeds-beckett-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/gallery',
+    path: 'leeds-beckett-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/scholarship',
+    path: 'leeds-beckett-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/faculty',
+    path: 'leeds-beckett-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/news',
+    path: 'leeds-beckett-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/hostel',
+    path: 'leeds-beckett-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'leeds-beckett-university/faq',
+    path: 'leeds-beckett-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'medical-university-of-lodz',
+    path: 'medical-university-of-lodz/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/courses-and-fees',
+    path: 'medical-university-of-lodz/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/admission',
+    path: 'medical-university-of-lodz/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/review',
+    path: 'medical-university-of-lodz/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/placement',
+    path: 'medical-university-of-lodz/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/gallery',
+    path: 'medical-university-of-lodz/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/scholarship',
+    path: 'medical-university-of-lodz/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/faculty',
+    path: 'medical-university-of-lodz/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/news',
+    path: 'medical-university-of-lodz/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/hostel',
+    path: 'medical-university-of-lodz/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-lodz/faq',
+    path: 'medical-university-of-lodz/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university',
+    path: 'mkhitar-gosh-armenian-russian-international-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/courses-and-fees',
+    path: 'mkhitar-gosh-armenian-russian-international-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/admission',
+    path: 'mkhitar-gosh-armenian-russian-international-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/review',
+    path: 'mkhitar-gosh-armenian-russian-international-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/placement',
+    path: 'mkhitar-gosh-armenian-russian-international-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/gallery',
+    path: 'mkhitar-gosh-armenian-russian-international-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/scholarship',
+    path: 'mkhitar-gosh-armenian-russian-international-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/faculty',
+    path: 'mkhitar-gosh-armenian-russian-international-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/news',
+    path: 'mkhitar-gosh-armenian-russian-international-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/hostel',
+    path: 'mkhitar-gosh-armenian-russian-international-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'mkhitar-gosh-armenian-russian-international-university/faq',
+    path: 'mkhitar-gosh-armenian-russian-international-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'moscow-institute-of-physics-and-technology',
+    path: 'moscow-institute-of-physics-and-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/courses-and-fees',
+    path: 'moscow-institute-of-physics-and-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/admission',
+    path: 'moscow-institute-of-physics-and-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/review',
+    path: 'moscow-institute-of-physics-and-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/placement',
+    path: 'moscow-institute-of-physics-and-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/gallery',
+    path: 'moscow-institute-of-physics-and-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/scholarship',
+    path: 'moscow-institute-of-physics-and-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/faculty',
+    path: 'moscow-institute-of-physics-and-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/news',
+    path: 'moscow-institute-of-physics-and-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/hostel',
+    path: 'moscow-institute-of-physics-and-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-institute-of-physics-and-technology/faq',
+    path: 'moscow-institute-of-physics-and-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'moscow-power-engineering-institute',
+    path: 'moscow-power-engineering-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/courses-and-fees',
+    path: 'moscow-power-engineering-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/admission',
+    path: 'moscow-power-engineering-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/review',
+    path: 'moscow-power-engineering-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/placement',
+    path: 'moscow-power-engineering-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/gallery',
+    path: 'moscow-power-engineering-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/scholarship',
+    path: 'moscow-power-engineering-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/faculty',
+    path: 'moscow-power-engineering-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/news',
+    path: 'moscow-power-engineering-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/hostel',
+    path: 'moscow-power-engineering-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-power-engineering-institute/faq',
+    path: 'moscow-power-engineering-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/courses-and-fees',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/admission',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/review',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/placement',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/gallery',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/scholarship',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/faculty',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/news',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/hostel',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/faq',
+    path: 'narsee-monjee-institute-of-management-studies-nmims-mumbai/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'north-ossetian-state-medical-academy',
+    path: 'north-ossetian-state-medical-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/courses-and-fees',
+    path: 'north-ossetian-state-medical-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/admission',
+    path: 'north-ossetian-state-medical-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/review',
+    path: 'north-ossetian-state-medical-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/placement',
+    path: 'north-ossetian-state-medical-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/gallery',
+    path: 'north-ossetian-state-medical-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/scholarship',
+    path: 'north-ossetian-state-medical-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/faculty',
+    path: 'north-ossetian-state-medical-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/news',
+    path: 'north-ossetian-state-medical-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/hostel',
+    path: 'north-ossetian-state-medical-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'north-ossetian-state-medical-academy/faq',
+    path: 'north-ossetian-state-medical-academy/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'novosibirsk-state-university',
+    path: 'novosibirsk-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/courses-and-fees',
+    path: 'novosibirsk-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/admission',
+    path: 'novosibirsk-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/review',
+    path: 'novosibirsk-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/placement',
+    path: 'novosibirsk-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/gallery',
+    path: 'novosibirsk-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/scholarship',
+    path: 'novosibirsk-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/faculty',
+    path: 'novosibirsk-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/news',
+    path: 'novosibirsk-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/hostel',
+    path: 'novosibirsk-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/faq',
+    path: 'novosibirsk-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'novosibirsk-state-technical-university',
+    path: 'novosibirsk-state-technical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/courses-and-fees',
+    path: 'novosibirsk-state-technical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/admission',
+    path: 'novosibirsk-state-technical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/review',
+    path: 'novosibirsk-state-technical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/placement',
+    path: 'novosibirsk-state-technical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/gallery',
+    path: 'novosibirsk-state-technical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/scholarship',
+    path: 'novosibirsk-state-technical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/faculty',
+    path: 'novosibirsk-state-technical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/news',
+    path: 'novosibirsk-state-technical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/hostel',
+    path: 'novosibirsk-state-technical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-technical-university/faq',
+    path: 'novosibirsk-state-technical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'perm-state-agro-technological-university',
+    path: 'perm-state-agro-technological-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/courses-and-fees',
+    path: 'perm-state-agro-technological-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/admission',
+    path: 'perm-state-agro-technological-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/review',
+    path: 'perm-state-agro-technological-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/placement',
+    path: 'perm-state-agro-technological-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/gallery',
+    path: 'perm-state-agro-technological-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/scholarship',
+    path: 'perm-state-agro-technological-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/faculty',
+    path: 'perm-state-agro-technological-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/news',
+    path: 'perm-state-agro-technological-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/hostel',
+    path: 'perm-state-agro-technological-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'perm-state-agro-technological-university/faq',
+    path: 'perm-state-agro-technological-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'petre-shotadze-tbilisi-medical-academy',
+    path: 'petre-shotadze-tbilisi-medical-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/courses-and-fees',
+    path: 'petre-shotadze-tbilisi-medical-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/admission',
+    path: 'petre-shotadze-tbilisi-medical-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/review',
+    path: 'petre-shotadze-tbilisi-medical-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/placement',
+    path: 'petre-shotadze-tbilisi-medical-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/gallery',
+    path: 'petre-shotadze-tbilisi-medical-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/scholarship',
+    path: 'petre-shotadze-tbilisi-medical-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/faculty',
+    path: 'petre-shotadze-tbilisi-medical-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/news',
+    path: 'petre-shotadze-tbilisi-medical-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/hostel',
+    path: 'petre-shotadze-tbilisi-medical-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'petre-shotadze-tbilisi-medical-academy/faq',
+    path: 'petre-shotadze-tbilisi-medical-academy/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'petro-mohyla-black-sea-national-university',
+    path: 'petro-mohyla-black-sea-national-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/courses-and-fees',
+    path: 'petro-mohyla-black-sea-national-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/admission',
+    path: 'petro-mohyla-black-sea-national-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/review',
+    path: 'petro-mohyla-black-sea-national-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/placement',
+    path: 'petro-mohyla-black-sea-national-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/gallery',
+    path: 'petro-mohyla-black-sea-national-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/scholarship',
+    path: 'petro-mohyla-black-sea-national-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/faculty',
+    path: 'petro-mohyla-black-sea-national-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/news',
+    path: 'petro-mohyla-black-sea-national-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/hostel',
+    path: 'petro-mohyla-black-sea-national-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'petro-mohyla-black-sea-national-university/faq',
+    path: 'petro-mohyla-black-sea-national-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'poltava-state-medical-and-dental-university',
+    path: 'poltava-state-medical-and-dental-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/courses-and-fees',
+    path: 'poltava-state-medical-and-dental-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/admission',
+    path: 'poltava-state-medical-and-dental-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/review',
+    path: 'poltava-state-medical-and-dental-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/placement',
+    path: 'poltava-state-medical-and-dental-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/gallery',
+    path: 'poltava-state-medical-and-dental-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/scholarship',
+    path: 'poltava-state-medical-and-dental-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/faculty',
+    path: 'poltava-state-medical-and-dental-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/news',
+    path: 'poltava-state-medical-and-dental-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/hostel',
+    path: 'poltava-state-medical-and-dental-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'poltava-state-medical-and-dental-university/faq',
+    path: 'poltava-state-medical-and-dental-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'queens-university',
+    path: 'queens-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/courses-and-fees',
+    path: 'queens-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/admission',
+    path: 'queens-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/review',
+    path: 'queens-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/placement',
+    path: 'queens-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/gallery',
+    path: 'queens-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/scholarship',
+    path: 'queens-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/faculty',
+    path: 'queens-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/news',
+    path: 'queens-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/hostel',
+    path: 'queens-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'queens-university/faq',
+    path: 'queens-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'samara-state-aerospace-university',
+    path: 'samara-state-aerospace-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/courses-and-fees',
+    path: 'samara-state-aerospace-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/admission',
+    path: 'samara-state-aerospace-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/review',
+    path: 'samara-state-aerospace-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/placement',
+    path: 'samara-state-aerospace-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/gallery',
+    path: 'samara-state-aerospace-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/scholarship',
+    path: 'samara-state-aerospace-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/faculty',
+    path: 'samara-state-aerospace-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/news',
+    path: 'samara-state-aerospace-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/hostel',
+    path: 'samara-state-aerospace-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-aerospace-university/faq',
+    path: 'samara-state-aerospace-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'samara-state-medical-university',
+    path: 'samara-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/courses-and-fees',
+    path: 'samara-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/admission',
+    path: 'samara-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/review',
+    path: 'samara-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/placement',
+    path: 'samara-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/gallery',
+    path: 'samara-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/scholarship',
+    path: 'samara-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/faculty',
+    path: 'samara-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/news',
+    path: 'samara-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/hostel',
+    path: 'samara-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'samara-state-medical-university/faq',
+    path: 'samara-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'shandong-university',
+    path: 'shandong-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/courses-and-fees',
+    path: 'shandong-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/admission',
+    path: 'shandong-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/review',
+    path: 'shandong-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/placement',
+    path: 'shandong-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/gallery',
+    path: 'shandong-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/scholarship',
+    path: 'shandong-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/faculty',
+    path: 'shandong-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/news',
+    path: 'shandong-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/hostel',
+    path: 'shandong-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'shandong-university/faq',
+    path: 'shandong-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'sichuan-university',
+    path: 'sichuan-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/courses-and-fees',
+    path: 'sichuan-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/admission',
+    path: 'sichuan-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/review',
+    path: 'sichuan-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/placement',
+    path: 'sichuan-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/gallery',
+    path: 'sichuan-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/scholarship',
+    path: 'sichuan-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/faculty',
+    path: 'sichuan-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/news',
+    path: 'sichuan-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/hostel',
+    path: 'sichuan-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'sichuan-university/faq',
+    path: 'sichuan-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'st-petersburg-state-pediatric-medical-university',
+    path: 'st-petersburg-state-pediatric-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/courses-and-fees',
+    path: 'st-petersburg-state-pediatric-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/admission',
+    path: 'st-petersburg-state-pediatric-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/review',
+    path: 'st-petersburg-state-pediatric-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/placement',
+    path: 'st-petersburg-state-pediatric-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/gallery',
+    path: 'st-petersburg-state-pediatric-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/scholarship',
+    path: 'st-petersburg-state-pediatric-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/faculty',
+    path: 'st-petersburg-state-pediatric-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/news',
+    path: 'st-petersburg-state-pediatric-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/hostel',
+    path: 'st-petersburg-state-pediatric-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-petersburg-state-pediatric-medical-university/faq',
+    path: 'st-petersburg-state-pediatric-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'st-paul-university-philippines',
+    path: 'st-paul-university-philippines/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/courses-and-fees',
+    path: 'st-paul-university-philippines/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/admission',
+    path: 'st-paul-university-philippines/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/review',
+    path: 'st-paul-university-philippines/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/placement',
+    path: 'st-paul-university-philippines/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/gallery',
+    path: 'st-paul-university-philippines/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/scholarship',
+    path: 'st-paul-university-philippines/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/faculty',
+    path: 'st-paul-university-philippines/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/news',
+    path: 'st-paul-university-philippines/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/hostel',
+    path: 'st-paul-university-philippines/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'st-paul-university-philippines/faq',
+    path: 'st-paul-university-philippines/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'symbiosis-international-university-siu-pune',
+    path: 'symbiosis-international-university-siu-pune/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/courses-and-fees',
+    path: 'symbiosis-international-university-siu-pune/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/admission',
+    path: 'symbiosis-international-university-siu-pune/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/review',
+    path: 'symbiosis-international-university-siu-pune/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/placement',
+    path: 'symbiosis-international-university-siu-pune/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/gallery',
+    path: 'symbiosis-international-university-siu-pune/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/scholarship',
+    path: 'symbiosis-international-university-siu-pune/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/faculty',
+    path: 'symbiosis-international-university-siu-pune/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/news',
+    path: 'symbiosis-international-university-siu-pune/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/hostel',
+    path: 'symbiosis-international-university-siu-pune/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'symbiosis-international-university-siu-pune/faq',
+    path: 'symbiosis-international-university-siu-pune/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'eotvos-lorand-university',
+    path: 'eotvos-lorand-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/courses-and-fees',
+    path: 'eotvos-lorand-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/admission',
+    path: 'eotvos-lorand-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/review',
+    path: 'eotvos-lorand-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/placement',
+    path: 'eotvos-lorand-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/gallery',
+    path: 'eotvos-lorand-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/scholarship',
+    path: 'eotvos-lorand-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/faculty',
+    path: 'eotvos-lorand-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/news',
+    path: 'eotvos-lorand-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/hostel',
+    path: 'eotvos-lorand-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'eotvos-lorand-university/faq',
+    path: 'eotvos-lorand-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'heidelberg-university',
+    path: 'heidelberg-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/courses-and-fees',
+    path: 'heidelberg-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/admission',
+    path: 'heidelberg-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/review',
+    path: 'heidelberg-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/placement',
+    path: 'heidelberg-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/gallery',
+    path: 'heidelberg-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/scholarship',
+    path: 'heidelberg-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/faculty',
+    path: 'heidelberg-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/news',
+    path: 'heidelberg-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/hostel',
+    path: 'heidelberg-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'heidelberg-university/faq',
+    path: 'heidelberg-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'heriot-watt-university',
+    path: 'heriot-watt-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/courses-and-fees',
+    path: 'heriot-watt-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/admission',
+    path: 'heriot-watt-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/review',
+    path: 'heriot-watt-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/placement',
+    path: 'heriot-watt-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/gallery',
+    path: 'heriot-watt-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/scholarship',
+    path: 'heriot-watt-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/faculty',
+    path: 'heriot-watt-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/news',
+    path: 'heriot-watt-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/hostel',
+    path: 'heriot-watt-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'heriot-watt-university/faq',
+    path: 'heriot-watt-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'loughborough-university',
+    path: 'loughborough-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/courses-and-fees',
+    path: 'loughborough-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/admission',
+    path: 'loughborough-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/review',
+    path: 'loughborough-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/placement',
+    path: 'loughborough-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/gallery',
+    path: 'loughborough-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/scholarship',
+    path: 'loughborough-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/faculty',
+    path: 'loughborough-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/news',
+    path: 'loughborough-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/hostel',
+    path: 'loughborough-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'loughborough-university/faq',
+    path: 'loughborough-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'polonia-university',
+    path: 'polonia-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/courses-and-fees',
+    path: 'polonia-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/admission',
+    path: 'polonia-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/review',
+    path: 'polonia-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/placement',
+    path: 'polonia-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/gallery',
+    path: 'polonia-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/scholarship',
+    path: 'polonia-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/faculty',
+    path: 'polonia-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/news',
+    path: 'polonia-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/hostel',
+    path: 'polonia-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'polonia-university/faq',
+    path: 'polonia-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-suffolk',
+    path: 'university-of-suffolk/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/courses-and-fees',
+    path: 'university-of-suffolk/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/admission',
+    path: 'university-of-suffolk/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/review',
+    path: 'university-of-suffolk/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/placement',
+    path: 'university-of-suffolk/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/gallery',
+    path: 'university-of-suffolk/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/scholarship',
+    path: 'university-of-suffolk/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/faculty',
+    path: 'university-of-suffolk/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/news',
+    path: 'university-of-suffolk/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/hostel',
+    path: 'university-of-suffolk/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/faq',
+    path: 'university-of-suffolk/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tambov-state-university',
+    path: 'tambov-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/courses-and-fees',
+    path: 'tambov-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/admission',
+    path: 'tambov-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/review',
+    path: 'tambov-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/placement',
+    path: 'tambov-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/gallery',
+    path: 'tambov-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/scholarship',
+    path: 'tambov-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/faculty',
+    path: 'tambov-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/news',
+    path: 'tambov-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/hostel',
+    path: 'tambov-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tambov-state-university/faq',
+    path: 'tambov-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-suffolk',
+    path: 'university-of-suffolk/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/courses-and-fees',
+    path: 'university-of-suffolk/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/admission',
+    path: 'university-of-suffolk/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/review',
+    path: 'university-of-suffolk/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/placement',
+    path: 'university-of-suffolk/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/gallery',
+    path: 'university-of-suffolk/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/scholarship',
+    path: 'university-of-suffolk/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/faculty',
+    path: 'university-of-suffolk/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/news',
+    path: 'university-of-suffolk/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/hostel',
+    path: 'university-of-suffolk/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-suffolk/faq',
+    path: 'university-of-suffolk/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-trento',
+    path: 'university-of-trento/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/courses-and-fees',
+    path: 'university-of-trento/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/admission',
+    path: 'university-of-trento/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/review',
+    path: 'university-of-trento/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/placement',
+    path: 'university-of-trento/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/gallery',
+    path: 'university-of-trento/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/scholarship',
+    path: 'university-of-trento/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/faculty',
+    path: 'university-of-trento/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/news',
+    path: 'university-of-trento/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/hostel',
+    path: 'university-of-trento/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-trento/faq',
+    path: 'university-of-trento/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-edinburgh',
+    path: 'university-of-edinburgh/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/courses-and-fees',
+    path: 'university-of-edinburgh/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/admission',
+    path: 'university-of-edinburgh/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/review',
+    path: 'university-of-edinburgh/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/placement',
+    path: 'university-of-edinburgh/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/gallery',
+    path: 'university-of-edinburgh/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/scholarship',
+    path: 'university-of-edinburgh/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/faculty',
+    path: 'university-of-edinburgh/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/news',
+    path: 'university-of-edinburgh/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/hostel',
+    path: 'university-of-edinburgh/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-edinburgh/faq',
+    path: 'university-of-edinburgh/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'transport-and-telecommunication-institute',
+    path: 'transport-and-telecommunication-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/courses-and-fees',
+    path: 'transport-and-telecommunication-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/admission',
+    path: 'transport-and-telecommunication-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/review',
+    path: 'transport-and-telecommunication-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/placement',
+    path: 'transport-and-telecommunication-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/gallery',
+    path: 'transport-and-telecommunication-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/scholarship',
+    path: 'transport-and-telecommunication-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/faculty',
+    path: 'transport-and-telecommunication-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/news',
+    path: 'transport-and-telecommunication-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/hostel',
+    path: 'transport-and-telecommunication-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'transport-and-telecommunication-institute/faq',
+    path: 'transport-and-telecommunication-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-manchester',
+    path: 'university-of-manchester/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/courses-and-fees',
+    path: 'university-of-manchester/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/admission',
+    path: 'university-of-manchester/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/review',
+    path: 'university-of-manchester/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/placement',
+    path: 'university-of-manchester/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/gallery',
+    path: 'university-of-manchester/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/scholarship',
+    path: 'university-of-manchester/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/faculty',
+    path: 'university-of-manchester/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/news',
+    path: 'university-of-manchester/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/hostel',
+    path: 'university-of-manchester/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-manchester/faq',
+    path: 'university-of-manchester/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-northern-philippines',
+    path: 'university-of-northern-philippines/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/courses-and-fees',
+    path: 'university-of-northern-philippines/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/admission',
+    path: 'university-of-northern-philippines/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/review',
+    path: 'university-of-northern-philippines/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/placement',
+    path: 'university-of-northern-philippines/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/gallery',
+    path: 'university-of-northern-philippines/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/scholarship',
+    path: 'university-of-northern-philippines/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/faculty',
+    path: 'university-of-northern-philippines/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/news',
+    path: 'university-of-northern-philippines/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/hostel',
+    path: 'university-of-northern-philippines/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-northern-philippines/faq',
+    path: 'university-of-northern-philippines/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-pavia',
+    path: 'university-of-pavia/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/courses-and-fees',
+    path: 'university-of-pavia/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/admission',
+    path: 'university-of-pavia/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/review',
+    path: 'university-of-pavia/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/placement',
+    path: 'university-of-pavia/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/gallery',
+    path: 'university-of-pavia/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/scholarship',
+    path: 'university-of-pavia/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/faculty',
+    path: 'university-of-pavia/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/news',
+    path: 'university-of-pavia/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/hostel',
+    path: 'university-of-pavia/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pavia/faq',
+    path: 'university-of-pavia/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-rajshahi',
+    path: 'university-of-rajshahi/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/courses-and-fees',
+    path: 'university-of-rajshahi/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/admission',
+    path: 'university-of-rajshahi/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/review',
+    path: 'university-of-rajshahi/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/placement',
+    path: 'university-of-rajshahi/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/gallery',
+    path: 'university-of-rajshahi/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/scholarship',
+    path: 'university-of-rajshahi/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/faculty',
+    path: 'university-of-rajshahi/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/news',
+    path: 'university-of-rajshahi/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/hostel',
+    path: 'university-of-rajshahi/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-rajshahi/faq',
+    path: 'university-of-rajshahi/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-south-wales',
+    path: 'university-of-south-wales/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/courses-and-fees',
+    path: 'university-of-south-wales/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/admission',
+    path: 'university-of-south-wales/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/review',
+    path: 'university-of-south-wales/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/placement',
+    path: 'university-of-south-wales/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/gallery',
+    path: 'university-of-south-wales/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/scholarship',
+    path: 'university-of-south-wales/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/faculty',
+    path: 'university-of-south-wales/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/news',
+    path: 'university-of-south-wales/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/hostel',
+    path: 'university-of-south-wales/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-south-wales/faq',
+    path: 'university-of-south-wales/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-traditional-medicine',
+    path: 'university-of-traditional-medicine/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/courses-and-fees',
+    path: 'university-of-traditional-medicine/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/admission',
+    path: 'university-of-traditional-medicine/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/review',
+    path: 'university-of-traditional-medicine/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/placement',
+    path: 'university-of-traditional-medicine/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/gallery',
+    path: 'university-of-traditional-medicine/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/scholarship',
+    path: 'university-of-traditional-medicine/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/faculty',
+    path: 'university-of-traditional-medicine/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/news',
+    path: 'university-of-traditional-medicine/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/hostel',
+    path: 'university-of-traditional-medicine/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-traditional-medicine/faq',
+    path: 'university-of-traditional-medicine/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/courses-and-fees',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/admission',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/review',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/placement',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/gallery',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/scholarship',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/faculty',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/news',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/hostel',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'vilniaus-kolegija-university-of-applied-sciences/faq',
+    path: 'vilniaus-kolegija-university-of-applied-sciences/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'warsaw-university-of-technology-business-school',
+    path: 'warsaw-university-of-technology-business-school/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/courses-and-fees',
+    path: 'warsaw-university-of-technology-business-school/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/admission',
+    path: 'warsaw-university-of-technology-business-school/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/review',
+    path: 'warsaw-university-of-technology-business-school/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/placement',
+    path: 'warsaw-university-of-technology-business-school/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/gallery',
+    path: 'warsaw-university-of-technology-business-school/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/scholarship',
+    path: 'warsaw-university-of-technology-business-school/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/faculty',
+    path: 'warsaw-university-of-technology-business-school/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/news',
+    path: 'warsaw-university-of-technology-business-school/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/hostel',
+    path: 'warsaw-university-of-technology-business-school/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'warsaw-university-of-technology-business-school/faq',
+    path: 'warsaw-university-of-technology-business-school/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'wuhan-university',
+    path: 'wuhan-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/courses-and-fees',
+    path: 'wuhan-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/admission',
+    path: 'wuhan-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/review',
+    path: 'wuhan-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/placement',
+    path: 'wuhan-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/gallery',
+    path: 'wuhan-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/scholarship',
+    path: 'wuhan-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/faculty',
+    path: 'wuhan-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/news',
+    path: 'wuhan-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/hostel',
+    path: 'wuhan-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'wuhan-university/faq',
+    path: 'wuhan-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'armenian-medical-institute',
+    path: 'armenian-medical-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/courses-and-fees',
+    path: 'armenian-medical-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/admission',
+    path: 'armenian-medical-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/review',
+    path: 'armenian-medical-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/placement',
+    path: 'armenian-medical-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/gallery',
+    path: 'armenian-medical-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/scholarship',
+    path: 'armenian-medical-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/faculty',
+    path: 'armenian-medical-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/news',
+    path: 'armenian-medical-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/hostel',
+    path: 'armenian-medical-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'armenian-medical-institute/faq',
+    path: 'armenian-medical-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'collegium-da-vinci',
+    path: 'collegium-da-vinci/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/courses-and-fees',
+    path: 'collegium-da-vinci/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/admission',
+    path: 'collegium-da-vinci/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/review',
+    path: 'collegium-da-vinci/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/placement',
+    path: 'collegium-da-vinci/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/gallery',
+    path: 'collegium-da-vinci/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/scholarship',
+    path: 'collegium-da-vinci/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/faculty',
+    path: 'collegium-da-vinci/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/news',
+    path: 'collegium-da-vinci/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/hostel',
+    path: 'collegium-da-vinci/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'collegium-da-vinci/faq',
+    path: 'collegium-da-vinci/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'georgian-american-university',
+    path: 'georgian-american-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/courses-and-fees',
+    path: 'georgian-american-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/admission',
+    path: 'georgian-american-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/review',
+    path: 'georgian-american-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/placement',
+    path: 'georgian-american-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/gallery',
+    path: 'georgian-american-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/scholarship',
+    path: 'georgian-american-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/faculty',
+    path: 'georgian-american-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/news',
+    path: 'georgian-american-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/hostel',
+    path: 'georgian-american-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'georgian-american-university/faq',
+    path: 'georgian-american-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kazakh-national-medical-university',
+    path: 'kazakh-national-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/courses-and-fees',
+    path: 'kazakh-national-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/admission',
+    path: 'kazakh-national-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/review',
+    path: 'kazakh-national-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/placement',
+    path: 'kazakh-national-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/gallery',
+    path: 'kazakh-national-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/scholarship',
+    path: 'kazakh-national-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/faculty',
+    path: 'kazakh-national-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/news',
+    path: 'kazakh-national-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/hostel',
+    path: 'kazakh-national-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-national-medical-university/faq',
+    path: 'kazakh-national-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kharkiv-international-medical-university',
+    path: 'kharkiv-international-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/courses-and-fees',
+    path: 'kharkiv-international-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/admission',
+    path: 'kharkiv-international-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/review',
+    path: 'kharkiv-international-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/placement',
+    path: 'kharkiv-international-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/gallery',
+    path: 'kharkiv-international-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/scholarship',
+    path: 'kharkiv-international-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/faculty',
+    path: 'kharkiv-international-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/news',
+    path: 'kharkiv-international-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/hostel',
+    path: 'kharkiv-international-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-international-medical-university/faq',
+    path: 'kharkiv-international-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ningxia-university',
+    path: 'ningxia-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/courses-and-fees',
+    path: 'ningxia-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/admission',
+    path: 'ningxia-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/review',
+    path: 'ningxia-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/placement',
+    path: 'ningxia-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/gallery',
+    path: 'ningxia-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/scholarship',
+    path: 'ningxia-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/faculty',
+    path: 'ningxia-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/news',
+    path: 'ningxia-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/hostel',
+    path: 'ningxia-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ningxia-university/faq',
+    path: 'ningxia-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'royal-college-of-art',
+    path: 'royal-college-of-art/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/courses-and-fees',
+    path: 'royal-college-of-art/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/admission',
+    path: 'royal-college-of-art/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/review',
+    path: 'royal-college-of-art/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/placement',
+    path: 'royal-college-of-art/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/gallery',
+    path: 'royal-college-of-art/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/scholarship',
+    path: 'royal-college-of-art/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/faculty',
+    path: 'royal-college-of-art/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/news',
+    path: 'royal-college-of-art/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/hostel',
+    path: 'royal-college-of-art/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'royal-college-of-art/faq',
+    path: 'royal-college-of-art/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tomsk-polytechnic-university',
+    path: 'tomsk-polytechnic-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/courses-and-fees',
+    path: 'tomsk-polytechnic-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/admission',
+    path: 'tomsk-polytechnic-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/review',
+    path: 'tomsk-polytechnic-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/placement',
+    path: 'tomsk-polytechnic-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/gallery',
+    path: 'tomsk-polytechnic-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/scholarship',
+    path: 'tomsk-polytechnic-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/faculty',
+    path: 'tomsk-polytechnic-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/news',
+    path: 'tomsk-polytechnic-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/hostel',
+    path: 'tomsk-polytechnic-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tomsk-polytechnic-university/faq',
+    path: 'tomsk-polytechnic-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ukrainian-state-chemical-technology-university',
+    path: 'ukrainian-state-chemical-technology-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/courses-and-fees',
+    path: 'ukrainian-state-chemical-technology-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/admission',
+    path: 'ukrainian-state-chemical-technology-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/review',
+    path: 'ukrainian-state-chemical-technology-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/placement',
+    path: 'ukrainian-state-chemical-technology-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/gallery',
+    path: 'ukrainian-state-chemical-technology-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/scholarship',
+    path: 'ukrainian-state-chemical-technology-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/faculty',
+    path: 'ukrainian-state-chemical-technology-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/news',
+    path: 'ukrainian-state-chemical-technology-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/hostel',
+    path: 'ukrainian-state-chemical-technology-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ukrainian-state-chemical-technology-university/faq',
+    path: 'ukrainian-state-chemical-technology-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-sussex',
+    path: 'university-of-sussex/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/courses-and-fees',
+    path: 'university-of-sussex/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/admission',
+    path: 'university-of-sussex/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/review',
+    path: 'university-of-sussex/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/placement',
+    path: 'university-of-sussex/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/gallery',
+    path: 'university-of-sussex/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/scholarship',
+    path: 'university-of-sussex/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/faculty',
+    path: 'university-of-sussex/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/news',
+    path: 'university-of-sussex/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/hostel',
+    path: 'university-of-sussex/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-sussex/faq',
+    path: 'university-of-sussex/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'bauman-moscow-state-technical-university',
+    path: 'bauman-moscow-state-technical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/courses-and-fees',
+    path: 'bauman-moscow-state-technical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/admission',
+    path: 'bauman-moscow-state-technical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/review',
+    path: 'bauman-moscow-state-technical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/placement',
+    path: 'bauman-moscow-state-technical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/gallery',
+    path: 'bauman-moscow-state-technical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/scholarship',
+    path: 'bauman-moscow-state-technical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/faculty',
+    path: 'bauman-moscow-state-technical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/news',
+    path: 'bauman-moscow-state-technical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/hostel',
+    path: 'bauman-moscow-state-technical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bauman-moscow-state-technical-university/faq',
+    path: 'bauman-moscow-state-technical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'chuvash-state-university',
+    path: 'chuvash-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/courses-and-fees',
+    path: 'chuvash-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/admission',
+    path: 'chuvash-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/review',
+    path: 'chuvash-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/placement',
+    path: 'chuvash-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/gallery',
+    path: 'chuvash-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/scholarship',
+    path: 'chuvash-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/faculty',
+    path: 'chuvash-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/news',
+    path: 'chuvash-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/hostel',
+    path: 'chuvash-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'chuvash-state-university/faq',
+    path: 'chuvash-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'itmo-university',
+    path: 'itmo-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/courses-and-fees',
+    path: 'itmo-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/admission',
+    path: 'itmo-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/review',
+    path: 'itmo-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/placement',
+    path: 'itmo-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/gallery',
+    path: 'itmo-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/scholarship',
+    path: 'itmo-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/faculty',
+    path: 'itmo-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/news',
+    path: 'itmo-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/hostel',
+    path: 'itmo-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'itmo-university/faq',
+    path: 'itmo-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kazakh-medical-university-of-continuing-education',
+    path: 'kazakh-medical-university-of-continuing-education/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/courses-and-fees',
+    path: 'kazakh-medical-university-of-continuing-education/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/admission',
+    path: 'kazakh-medical-university-of-continuing-education/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/review',
+    path: 'kazakh-medical-university-of-continuing-education/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/placement',
+    path: 'kazakh-medical-university-of-continuing-education/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/gallery',
+    path: 'kazakh-medical-university-of-continuing-education/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/scholarship',
+    path: 'kazakh-medical-university-of-continuing-education/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/faculty',
+    path: 'kazakh-medical-university-of-continuing-education/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/news',
+    path: 'kazakh-medical-university-of-continuing-education/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/hostel',
+    path: 'kazakh-medical-university-of-continuing-education/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kazakh-medical-university-of-continuing-education/faq',
+    path: 'kazakh-medical-university-of-continuing-education/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kharkiv-national-university-of-radio-electronics',
+    path: 'kharkiv-national-university-of-radio-electronics/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/courses-and-fees',
+    path: 'kharkiv-national-university-of-radio-electronics/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/admission',
+    path: 'kharkiv-national-university-of-radio-electronics/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/review',
+    path: 'kharkiv-national-university-of-radio-electronics/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/placement',
+    path: 'kharkiv-national-university-of-radio-electronics/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/gallery',
+    path: 'kharkiv-national-university-of-radio-electronics/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/scholarship',
+    path: 'kharkiv-national-university-of-radio-electronics/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/faculty',
+    path: 'kharkiv-national-university-of-radio-electronics/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/news',
+    path: 'kharkiv-national-university-of-radio-electronics/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/hostel',
+    path: 'kharkiv-national-university-of-radio-electronics/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kharkiv-national-university-of-radio-electronics/faq',
+    path: 'kharkiv-national-university-of-radio-electronics/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kingston-university-london',
+    path: 'kingston-university-london/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/courses-and-fees',
+    path: 'kingston-university-london/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/admission',
+    path: 'kingston-university-london/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/review',
+    path: 'kingston-university-london/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/placement',
+    path: 'kingston-university-london/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/gallery',
+    path: 'kingston-university-london/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/scholarship',
+    path: 'kingston-university-london/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/faculty',
+    path: 'kingston-university-london/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/news',
+    path: 'kingston-university-london/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/hostel',
+    path: 'kingston-university-london/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kingston-university-london/faq',
+    path: 'kingston-university-london/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lodz-university-of-technology',
+    path: 'lodz-university-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/courses-and-fees',
+    path: 'lodz-university-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/admission',
+    path: 'lodz-university-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/review',
+    path: 'lodz-university-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/placement',
+    path: 'lodz-university-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/gallery',
+    path: 'lodz-university-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/scholarship',
+    path: 'lodz-university-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/faculty',
+    path: 'lodz-university-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/news',
+    path: 'lodz-university-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/hostel',
+    path: 'lodz-university-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lodz-university-of-technology/faq',
+    path: 'lodz-university-of-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lomonosov-moscow-state-university-business-school',
+    path: 'lomonosov-moscow-state-university-business-school/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/courses-and-fees',
+    path: 'lomonosov-moscow-state-university-business-school/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/admission',
+    path: 'lomonosov-moscow-state-university-business-school/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/review',
+    path: 'lomonosov-moscow-state-university-business-school/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/placement',
+    path: 'lomonosov-moscow-state-university-business-school/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/gallery',
+    path: 'lomonosov-moscow-state-university-business-school/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/scholarship',
+    path: 'lomonosov-moscow-state-university-business-school/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/faculty',
+    path: 'lomonosov-moscow-state-university-business-school/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/news',
+    path: 'lomonosov-moscow-state-university-business-school/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/hostel',
+    path: 'lomonosov-moscow-state-university-business-school/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university-business-school/faq',
+    path: 'lomonosov-moscow-state-university-business-school/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lomonosov-moscow-state-university',
+    path: 'lomonosov-moscow-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/courses-and-fees',
+    path: 'lomonosov-moscow-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/admission',
+    path: 'lomonosov-moscow-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/review',
+    path: 'lomonosov-moscow-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/placement',
+    path: 'lomonosov-moscow-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/gallery',
+    path: 'lomonosov-moscow-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/scholarship',
+    path: 'lomonosov-moscow-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/faculty',
+    path: 'lomonosov-moscow-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/news',
+    path: 'lomonosov-moscow-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/hostel',
+    path: 'lomonosov-moscow-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lomonosov-moscow-state-university/faq',
+    path: 'lomonosov-moscow-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'middlesex-university-london',
+    path: 'middlesex-university-london/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/courses-and-fees',
+    path: 'middlesex-university-london/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/admission',
+    path: 'middlesex-university-london/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/review',
+    path: 'middlesex-university-london/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/placement',
+    path: 'middlesex-university-london/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/gallery',
+    path: 'middlesex-university-london/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/scholarship',
+    path: 'middlesex-university-london/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/faculty',
+    path: 'middlesex-university-london/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/news',
+    path: 'middlesex-university-london/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/hostel',
+    path: 'middlesex-university-london/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'middlesex-university-london/faq',
+    path: 'middlesex-university-london/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'new-vision-university',
+    path: 'new-vision-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/courses-and-fees',
+    path: 'new-vision-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/admission',
+    path: 'new-vision-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/review',
+    path: 'new-vision-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/placement',
+    path: 'new-vision-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/gallery',
+    path: 'new-vision-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/scholarship',
+    path: 'new-vision-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/faculty',
+    path: 'new-vision-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/news',
+    path: 'new-vision-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/hostel',
+    path: 'new-vision-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'new-vision-university/faq',
+    path: 'new-vision-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'shahjalal-university-of-science-and-technology',
+    path: 'shahjalal-university-of-science-and-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/courses-and-fees',
+    path: 'shahjalal-university-of-science-and-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/admission',
+    path: 'shahjalal-university-of-science-and-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/review',
+    path: 'shahjalal-university-of-science-and-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/placement',
+    path: 'shahjalal-university-of-science-and-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/gallery',
+    path: 'shahjalal-university-of-science-and-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/scholarship',
+    path: 'shahjalal-university-of-science-and-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/faculty',
+    path: 'shahjalal-university-of-science-and-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/news',
+    path: 'shahjalal-university-of-science-and-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/hostel',
+    path: 'shahjalal-university-of-science-and-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'shahjalal-university-of-science-and-technology/faq',
+    path: 'shahjalal-university-of-science-and-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'shivaji-university-kolhapur',
+    path: 'shivaji-university-kolhapur/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/courses-and-fees',
+    path: 'shivaji-university-kolhapur/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/admission',
+    path: 'shivaji-university-kolhapur/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/review',
+    path: 'shivaji-university-kolhapur/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/placement',
+    path: 'shivaji-university-kolhapur/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/gallery',
+    path: 'shivaji-university-kolhapur/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/scholarship',
+    path: 'shivaji-university-kolhapur/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/faculty',
+    path: 'shivaji-university-kolhapur/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/news',
+    path: 'shivaji-university-kolhapur/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/hostel',
+    path: 'shivaji-university-kolhapur/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'shivaji-university-kolhapur/faq',
+    path: 'shivaji-university-kolhapur/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'southwestern-university-phinma',
+    path: 'southwestern-university-phinma/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/courses-and-fees',
+    path: 'southwestern-university-phinma/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/admission',
+    path: 'southwestern-university-phinma/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/review',
+    path: 'southwestern-university-phinma/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/placement',
+    path: 'southwestern-university-phinma/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/gallery',
+    path: 'southwestern-university-phinma/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/scholarship',
+    path: 'southwestern-university-phinma/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/faculty',
+    path: 'southwestern-university-phinma/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/news',
+    path: 'southwestern-university-phinma/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/hostel',
+    path: 'southwestern-university-phinma/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'southwestern-university-phinma/faq',
+    path: 'southwestern-university-phinma/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-bedfordshire',
+    path: 'university-of-bedfordshire/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/courses-and-fees',
+    path: 'university-of-bedfordshire/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/admission',
+    path: 'university-of-bedfordshire/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/review',
+    path: 'university-of-bedfordshire/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/placement',
+    path: 'university-of-bedfordshire/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/gallery',
+    path: 'university-of-bedfordshire/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/scholarship',
+    path: 'university-of-bedfordshire/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/faculty',
+    path: 'university-of-bedfordshire/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/news',
+    path: 'university-of-bedfordshire/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/hostel',
+    path: 'university-of-bedfordshire/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-bedfordshire/faq',
+    path: 'university-of-bedfordshire/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-cambridge',
+    path: 'university-of-cambridge/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/courses-and-fees',
+    path: 'university-of-cambridge/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/admission',
+    path: 'university-of-cambridge/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/review',
+    path: 'university-of-cambridge/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/placement',
+    path: 'university-of-cambridge/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/gallery',
+    path: 'university-of-cambridge/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/scholarship',
+    path: 'university-of-cambridge/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/faculty',
+    path: 'university-of-cambridge/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/news',
+    path: 'university-of-cambridge/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/hostel',
+    path: 'university-of-cambridge/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-cambridge/faq',
+    path: 'university-of-cambridge/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-mannheim',
+    path: 'university-of-mannheim/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/courses-and-fees',
+    path: 'university-of-mannheim/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/admission',
+    path: 'university-of-mannheim/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/review',
+    path: 'university-of-mannheim/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/placement',
+    path: 'university-of-mannheim/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/gallery',
+    path: 'university-of-mannheim/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/scholarship',
+    path: 'university-of-mannheim/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/faculty',
+    path: 'university-of-mannheim/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/news',
+    path: 'university-of-mannheim/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/hostel',
+    path: 'university-of-mannheim/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-mannheim/faq',
+    path: 'university-of-mannheim/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-miskolc',
+    path: 'university-of-miskolc/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/courses-and-fees',
+    path: 'university-of-miskolc/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/admission',
+    path: 'university-of-miskolc/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/review',
+    path: 'university-of-miskolc/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/placement',
+    path: 'university-of-miskolc/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/gallery',
+    path: 'university-of-miskolc/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/scholarship',
+    path: 'university-of-miskolc/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/faculty',
+    path: 'university-of-miskolc/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/news',
+    path: 'university-of-miskolc/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/hostel',
+    path: 'university-of-miskolc/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-miskolc/faq',
+    path: 'university-of-miskolc/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'vistula-university',
+    path: 'vistula-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/courses-and-fees',
+    path: 'vistula-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/admission',
+    path: 'vistula-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/review',
+    path: 'vistula-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/placement',
+    path: 'vistula-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/gallery',
+    path: 'vistula-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/scholarship',
+    path: 'vistula-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/faculty',
+    path: 'vistula-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/news',
+    path: 'vistula-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/hostel',
+    path: 'vistula-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'vistula-university/faq',
+    path: 'vistula-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'bpp-university',
+    path: 'bpp-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/courses-and-fees',
+    path: 'bpp-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/admission',
+    path: 'bpp-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/review',
+    path: 'bpp-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/placement',
+    path: 'bpp-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/gallery',
+    path: 'bpp-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/scholarship',
+    path: 'bpp-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/faculty',
+    path: 'bpp-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/news',
+    path: 'bpp-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/hostel',
+    path: 'bpp-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bpp-university/faq',
+    path: 'bpp-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'cardiff-metropolitan-university',
+    path: 'cardiff-metropolitan-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/courses-and-fees',
+    path: 'cardiff-metropolitan-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/admission',
+    path: 'cardiff-metropolitan-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/review',
+    path: 'cardiff-metropolitan-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/placement',
+    path: 'cardiff-metropolitan-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/gallery',
+    path: 'cardiff-metropolitan-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/scholarship',
+    path: 'cardiff-metropolitan-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/faculty',
+    path: 'cardiff-metropolitan-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/news',
+    path: 'cardiff-metropolitan-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/hostel',
+    path: 'cardiff-metropolitan-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'cardiff-metropolitan-university/faq',
+    path: 'cardiff-metropolitan-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'cebu-institute-of-medicine',
+    path: 'cebu-institute-of-medicine/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/courses-and-fees',
+    path: 'cebu-institute-of-medicine/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/admission',
+    path: 'cebu-institute-of-medicine/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/review',
+    path: 'cebu-institute-of-medicine/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/placement',
+    path: 'cebu-institute-of-medicine/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/gallery',
+    path: 'cebu-institute-of-medicine/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/scholarship',
+    path: 'cebu-institute-of-medicine/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/faculty',
+    path: 'cebu-institute-of-medicine/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/news',
+    path: 'cebu-institute-of-medicine/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/hostel',
+    path: 'cebu-institute-of-medicine/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'cebu-institute-of-medicine/faq',
+    path: 'cebu-institute-of-medicine/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'estonian-academy-of-arts',
+    path: 'estonian-academy-of-arts/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/courses-and-fees',
+    path: 'estonian-academy-of-arts/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/admission',
+    path: 'estonian-academy-of-arts/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/review',
+    path: 'estonian-academy-of-arts/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/placement',
+    path: 'estonian-academy-of-arts/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/gallery',
+    path: 'estonian-academy-of-arts/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/scholarship',
+    path: 'estonian-academy-of-arts/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/faculty',
+    path: 'estonian-academy-of-arts/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/news',
+    path: 'estonian-academy-of-arts/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/hostel',
+    path: 'estonian-academy-of-arts/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'estonian-academy-of-arts/faq',
+    path: 'estonian-academy-of-arts/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'geomedi-state-university',
+    path: 'geomedi-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/courses-and-fees',
+    path: 'geomedi-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/admission',
+    path: 'geomedi-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/review',
+    path: 'geomedi-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/placement',
+    path: 'geomedi-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/gallery',
+    path: 'geomedi-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/scholarship',
+    path: 'geomedi-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/faculty',
+    path: 'geomedi-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/news',
+    path: 'geomedi-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/hostel',
+    path: 'geomedi-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'geomedi-state-university/faq',
+    path: 'geomedi-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kemerovo-state-medical-university',
+    path: 'kemerovo-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/courses-and-fees',
+    path: 'kemerovo-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/admission',
+    path: 'kemerovo-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/review',
+    path: 'kemerovo-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/placement',
+    path: 'kemerovo-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/gallery',
+    path: 'kemerovo-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/scholarship',
+    path: 'kemerovo-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/faculty',
+    path: 'kemerovo-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/news',
+    path: 'kemerovo-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/hostel',
+    path: 'kemerovo-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kemerovo-state-medical-university/faq',
+    path: 'kemerovo-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'kyrgyz-russian-slavic-university',
+    path: 'kyrgyz-russian-slavic-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/courses-and-fees',
+    path: 'kyrgyz-russian-slavic-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/admission',
+    path: 'kyrgyz-russian-slavic-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/review',
+    path: 'kyrgyz-russian-slavic-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/placement',
+    path: 'kyrgyz-russian-slavic-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/gallery',
+    path: 'kyrgyz-russian-slavic-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/scholarship',
+    path: 'kyrgyz-russian-slavic-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/faculty',
+    path: 'kyrgyz-russian-slavic-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/news',
+    path: 'kyrgyz-russian-slavic-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/hostel',
+    path: 'kyrgyz-russian-slavic-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'kyrgyz-russian-slavic-university/faq',
+    path: 'kyrgyz-russian-slavic-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'moscow-aviation-institute',
+    path: 'moscow-aviation-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/courses-and-fees',
+    path: 'moscow-aviation-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/admission',
+    path: 'moscow-aviation-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/review',
+    path: 'moscow-aviation-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/placement',
+    path: 'moscow-aviation-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/gallery',
+    path: 'moscow-aviation-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/scholarship',
+    path: 'moscow-aviation-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/faculty',
+    path: 'moscow-aviation-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/news',
+    path: 'moscow-aviation-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/hostel',
+    path: 'moscow-aviation-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-aviation-institute/faq',
+    path: 'moscow-aviation-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'semey-state-medical-university',
+    path: 'semey-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/courses-and-fees',
+    path: 'semey-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/admission',
+    path: 'semey-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/review',
+    path: 'semey-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/placement',
+    path: 'semey-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/gallery',
+    path: 'semey-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/scholarship',
+    path: 'semey-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/faculty',
+    path: 'semey-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/news',
+    path: 'semey-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/hostel',
+    path: 'semey-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'semey-state-medical-university/faq',
+    path: 'semey-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'stavropol-state-medical-university',
+    path: 'stavropol-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/courses-and-fees',
+    path: 'stavropol-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/admission',
+    path: 'stavropol-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/review',
+    path: 'stavropol-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/placement',
+    path: 'stavropol-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/gallery',
+    path: 'stavropol-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/scholarship',
+    path: 'stavropol-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/faculty',
+    path: 'stavropol-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/news',
+    path: 'stavropol-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/hostel',
+    path: 'stavropol-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'stavropol-state-medical-university/faq',
+    path: 'stavropol-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'szent-istvan-university',
+    path: 'szent-istvan-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/courses-and-fees',
+    path: 'szent-istvan-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/admission',
+    path: 'szent-istvan-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/review',
+    path: 'szent-istvan-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/placement',
+    path: 'szent-istvan-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/gallery',
+    path: 'szent-istvan-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/scholarship',
+    path: 'szent-istvan-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/faculty',
+    path: 'szent-istvan-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/news',
+    path: 'szent-istvan-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/hostel',
+    path: 'szent-istvan-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'szent-istvan-university/faq',
+    path: 'szent-istvan-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'taras-shevchenko-national-university-of-kyiv',
+    path: 'taras-shevchenko-national-university-of-kyiv/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/courses-and-fees',
+    path: 'taras-shevchenko-national-university-of-kyiv/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/admission',
+    path: 'taras-shevchenko-national-university-of-kyiv/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/review',
+    path: 'taras-shevchenko-national-university-of-kyiv/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/placement',
+    path: 'taras-shevchenko-national-university-of-kyiv/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/gallery',
+    path: 'taras-shevchenko-national-university-of-kyiv/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/scholarship',
+    path: 'taras-shevchenko-national-university-of-kyiv/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/faculty',
+    path: 'taras-shevchenko-national-university-of-kyiv/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/news',
+    path: 'taras-shevchenko-national-university-of-kyiv/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/hostel',
+    path: 'taras-shevchenko-national-university-of-kyiv/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'taras-shevchenko-national-university-of-kyiv/faq',
+    path: 'taras-shevchenko-national-university-of-kyiv/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tashkent-medical-academy',
+    path: 'tashkent-medical-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/courses-and-fees',
+    path: 'tashkent-medical-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/admission',
+    path: 'tashkent-medical-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/review',
+    path: 'tashkent-medical-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/placement',
+    path: 'tashkent-medical-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/gallery',
+    path: 'tashkent-medical-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/scholarship',
+    path: 'tashkent-medical-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/faculty',
+    path: 'tashkent-medical-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/news',
+    path: 'tashkent-medical-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/hostel',
+    path: 'tashkent-medical-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-medical-academy/faq',
+    path: 'tashkent-medical-academy/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-georgia-tbilisi',
+    path: 'university-of-georgia-tbilisi/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/courses-and-fees',
+    path: 'university-of-georgia-tbilisi/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/admission',
+    path: 'university-of-georgia-tbilisi/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/review',
+    path: 'university-of-georgia-tbilisi/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/placement',
+    path: 'university-of-georgia-tbilisi/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/gallery',
+    path: 'university-of-georgia-tbilisi/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/scholarship',
+    path: 'university-of-georgia-tbilisi/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/faculty',
+    path: 'university-of-georgia-tbilisi/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/news',
+    path: 'university-of-georgia-tbilisi/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/hostel',
+    path: 'university-of-georgia-tbilisi/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-georgia-tbilisi/faq',
+    path: 'university-of-georgia-tbilisi/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-pisa',
+    path: 'university-of-pisa/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/courses-and-fees',
+    path: 'university-of-pisa/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/admission',
+    path: 'university-of-pisa/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/review',
+    path: 'university-of-pisa/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/placement',
+    path: 'university-of-pisa/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/gallery',
+    path: 'university-of-pisa/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/scholarship',
+    path: 'university-of-pisa/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/faculty',
+    path: 'university-of-pisa/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/news',
+    path: 'university-of-pisa/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/hostel',
+    path: 'university-of-pisa/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-pisa/faq',
+    path: 'university-of-pisa/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'bocconi-university',
+    path: 'bocconi-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/courses-and-fees',
+    path: 'bocconi-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/admission',
+    path: 'bocconi-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/review',
+    path: 'bocconi-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/placement',
+    path: 'bocconi-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/gallery',
+    path: 'bocconi-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/scholarship',
+    path: 'bocconi-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/faculty',
+    path: 'bocconi-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/news',
+    path: 'bocconi-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/hostel',
+    path: 'bocconi-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'bocconi-university/faq',
+    path: 'bocconi-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'brunel-university-london',
+    path: 'brunel-university-london/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/courses-and-fees',
+    path: 'brunel-university-london/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/admission',
+    path: 'brunel-university-london/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/review',
+    path: 'brunel-university-london/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/placement',
+    path: 'brunel-university-london/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/gallery',
+    path: 'brunel-university-london/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/scholarship',
+    path: 'brunel-university-london/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/faculty',
+    path: 'brunel-university-london/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/news',
+    path: 'brunel-university-london/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/hostel',
+    path: 'brunel-university-london/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'brunel-university-london/faq',
+    path: 'brunel-university-london/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'budapest-university-of-technology-and-economics',
+    path: 'budapest-university-of-technology-and-economics/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/courses-and-fees',
+    path: 'budapest-university-of-technology-and-economics/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/admission',
+    path: 'budapest-university-of-technology-and-economics/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/review',
+    path: 'budapest-university-of-technology-and-economics/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/placement',
+    path: 'budapest-university-of-technology-and-economics/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/gallery',
+    path: 'budapest-university-of-technology-and-economics/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/scholarship',
+    path: 'budapest-university-of-technology-and-economics/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/faculty',
+    path: 'budapest-university-of-technology-and-economics/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/news',
+    path: 'budapest-university-of-technology-and-economics/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/hostel',
+    path: 'budapest-university-of-technology-and-economics/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/faq',
+    path: 'budapest-university-of-technology-and-economics/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'camosun-college',
+    path: 'camosun-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/courses-and-fees',
+    path: 'camosun-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/admission',
+    path: 'camosun-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/review',
+    path: 'camosun-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/placement',
+    path: 'camosun-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/gallery',
+    path: 'camosun-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/scholarship',
+    path: 'camosun-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/faculty',
+    path: 'camosun-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/news',
+    path: 'camosun-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/hostel',
+    path: 'camosun-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'camosun-college/faq',
+    path: 'camosun-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'dhaka-national-medical-college',
+    path: 'dhaka-national-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/courses-and-fees',
+    path: 'dhaka-national-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/admission',
+    path: 'dhaka-national-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/review',
+    path: 'dhaka-national-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/placement',
+    path: 'dhaka-national-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/gallery',
+    path: 'dhaka-national-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/scholarship',
+    path: 'dhaka-national-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/faculty',
+    path: 'dhaka-national-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/news',
+    path: 'dhaka-national-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/hostel',
+    path: 'dhaka-national-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'dhaka-national-medical-college/faq',
+    path: 'dhaka-national-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'chechen-state-university',
+    path: 'chechen-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/courses-and-fees',
+    path: 'chechen-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/admission',
+    path: 'chechen-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/review',
+    path: 'chechen-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/placement',
+    path: 'chechen-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/gallery',
+    path: 'chechen-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/scholarship',
+    path: 'chechen-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/faculty',
+    path: 'chechen-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/news',
+    path: 'chechen-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/hostel',
+    path: 'chechen-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'chechen-state-university/faq',
+    path: 'chechen-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'dagestan-state-medical-university',
+    path: 'dagestan-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/courses-and-fees',
+    path: 'dagestan-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/admission',
+    path: 'dagestan-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/review',
+    path: 'dagestan-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/placement',
+    path: 'dagestan-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/gallery',
+    path: 'dagestan-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/scholarship',
+    path: 'dagestan-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/faculty',
+    path: 'dagestan-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/news',
+    path: 'dagestan-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/hostel',
+    path: 'dagestan-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'dagestan-state-medical-university/faq',
+    path: 'dagestan-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'dalhousie-university',
+    path: 'dalhousie-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/courses-and-fees',
+    path: 'dalhousie-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/admission',
+    path: 'dalhousie-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/review',
+    path: 'dalhousie-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/placement',
+    path: 'dalhousie-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/gallery',
+    path: 'dalhousie-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/scholarship',
+    path: 'dalhousie-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/faculty',
+    path: 'dalhousie-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/news',
+    path: 'dalhousie-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/hostel',
+    path: 'dalhousie-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'dalhousie-university/faq',
+    path: 'dalhousie-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/courses-and-fees',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/admission',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/review',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/placement',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/gallery',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/scholarship',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/faculty',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/news',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/hostel',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/faq',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'eu-business-school-munich',
+    path: 'eu-business-school-munich/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/courses-and-fees',
+    path: 'eu-business-school-munich/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/admission',
+    path: 'eu-business-school-munich/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/review',
+    path: 'eu-business-school-munich/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/placement',
+    path: 'eu-business-school-munich/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/gallery',
+    path: 'eu-business-school-munich/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/scholarship',
+    path: 'eu-business-school-munich/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/faculty',
+    path: 'eu-business-school-munich/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/news',
+    path: 'eu-business-school-munich/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/hostel',
+    path: 'eu-business-school-munich/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'eu-business-school-munich/faq',
+    path: 'eu-business-school-munich/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'european-university-georgia',
+    path: 'european-university-georgia/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/courses-and-fees',
+    path: 'european-university-georgia/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/admission',
+    path: 'european-university-georgia/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/review',
+    path: 'european-university-georgia/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/placement',
+    path: 'european-university-georgia/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/gallery',
+    path: 'european-university-georgia/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/scholarship',
+    path: 'european-university-georgia/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/faculty',
+    path: 'european-university-georgia/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/news',
+    path: 'european-university-georgia/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/hostel',
+    path: 'european-university-georgia/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'european-university-georgia/faq',
+    path: 'european-university-georgia/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'fanshawe-college',
+    path: 'fanshawe-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/courses-and-fees',
+    path: 'fanshawe-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/admission',
+    path: 'fanshawe-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/review',
+    path: 'fanshawe-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/placement',
+    path: 'fanshawe-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/gallery',
+    path: 'fanshawe-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/scholarship',
+    path: 'fanshawe-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/faculty',
+    path: 'fanshawe-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/news',
+    path: 'fanshawe-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/hostel',
+    path: 'fanshawe-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'fanshawe-college/faq',
+    path: 'fanshawe-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/courses-and-fees',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/admission',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/review',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/placement',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/gallery',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/scholarship',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faculty',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/news',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/hostel',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faq',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'uib-international-medical-school',
+    path: 'uib-international-medical-school/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/courses-and-fees',
+    path: 'uib-international-medical-school/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/admission',
+    path: 'uib-international-medical-school/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/review',
+    path: 'uib-international-medical-school/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/placement',
+    path: 'uib-international-medical-school/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/gallery',
+    path: 'uib-international-medical-school/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/scholarship',
+    path: 'uib-international-medical-school/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/faculty',
+    path: 'uib-international-medical-school/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/news',
+    path: 'uib-international-medical-school/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/hostel',
+    path: 'uib-international-medical-school/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'uib-international-medical-school/faq',
+    path: 'uib-international-medical-school/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'jiangsu-university',
+    path: 'jiangsu-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/courses-and-fees',
+    path: 'jiangsu-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/admission',
+    path: 'jiangsu-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/review',
+    path: 'jiangsu-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/placement',
+    path: 'jiangsu-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/gallery',
+    path: 'jiangsu-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/scholarship',
+    path: 'jiangsu-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/faculty',
+    path: 'jiangsu-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/news',
+    path: 'jiangsu-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/hostel',
+    path: 'jiangsu-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'jiangsu-university/faq',
+    path: 'jiangsu-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'karlsruhe-institute-of-technology',
+    path: 'karlsruhe-institute-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/courses-and-fees',
+    path: 'karlsruhe-institute-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/admission',
+    path: 'karlsruhe-institute-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/review',
+    path: 'karlsruhe-institute-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/placement',
+    path: 'karlsruhe-institute-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/gallery',
+    path: 'karlsruhe-institute-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/scholarship',
+    path: 'karlsruhe-institute-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/faculty',
+    path: 'karlsruhe-institute-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/news',
+    path: 'karlsruhe-institute-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/hostel',
+    path: 'karlsruhe-institute-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'karlsruhe-institute-of-technology/faq',
+    path: 'karlsruhe-institute-of-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lambton-college',
+    path: 'lambton-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/courses-and-fees',
+    path: 'lambton-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/admission',
+    path: 'lambton-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/review',
+    path: 'lambton-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/placement',
+    path: 'lambton-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/gallery',
+    path: 'lambton-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/scholarship',
+    path: 'lambton-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/faculty',
+    path: 'lambton-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/news',
+    path: 'lambton-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/hostel',
+    path: 'lambton-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lambton-college/faq',
+    path: 'lambton-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/courses-and-fees',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/admission',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/review',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/placement',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/gallery',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/scholarship',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/faculty',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/news',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/hostel',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-business-school-of-ukrainian-catholic-university/faq',
+    path: 'lviv-business-school-of-ukrainian-catholic-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lviv-polytechnic-national-university',
+    path: 'lviv-polytechnic-national-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/courses-and-fees',
+    path: 'lviv-polytechnic-national-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/admission',
+    path: 'lviv-polytechnic-national-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/review',
+    path: 'lviv-polytechnic-national-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/placement',
+    path: 'lviv-polytechnic-national-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/gallery',
+    path: 'lviv-polytechnic-national-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/scholarship',
+    path: 'lviv-polytechnic-national-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/faculty',
+    path: 'lviv-polytechnic-national-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/news',
+    path: 'lviv-polytechnic-national-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/hostel',
+    path: 'lviv-polytechnic-national-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/faq',
+    path: 'lviv-polytechnic-national-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'mari-state-university',
+    path: 'mari-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/courses-and-fees',
+    path: 'mari-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/admission',
+    path: 'mari-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/review',
+    path: 'mari-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/placement',
+    path: 'mari-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/gallery',
+    path: 'mari-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/scholarship',
+    path: 'mari-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/faculty',
+    path: 'mari-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/news',
+    path: 'mari-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/hostel',
+    path: 'mari-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'mari-state-university/faq',
+    path: 'mari-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'mcmaster-university',
+    path: 'mcmaster-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/courses-and-fees',
+    path: 'mcmaster-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/admission',
+    path: 'mcmaster-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/review',
+    path: 'mcmaster-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/placement',
+    path: 'mcmaster-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/gallery',
+    path: 'mcmaster-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/scholarship',
+    path: 'mcmaster-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/faculty',
+    path: 'mcmaster-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/news',
+    path: 'mcmaster-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/hostel',
+    path: 'mcmaster-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'mcmaster-university/faq',
+    path: 'mcmaster-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'medical-university-of-bialystok',
+    path: 'medical-university-of-bialystok/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/courses-and-fees',
+    path: 'medical-university-of-bialystok/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/admission',
+    path: 'medical-university-of-bialystok/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/review',
+    path: 'medical-university-of-bialystok/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/placement',
+    path: 'medical-university-of-bialystok/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/gallery',
+    path: 'medical-university-of-bialystok/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/scholarship',
+    path: 'medical-university-of-bialystok/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/faculty',
+    path: 'medical-university-of-bialystok/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/news',
+    path: 'medical-university-of-bialystok/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/hostel',
+    path: 'medical-university-of-bialystok/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'medical-university-of-bialystok/faq',
+    path: 'medical-university-of-bialystok/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies',
+    path: 'moscow-state-university-of-fine-chemical-technologies/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/courses-and-fees',
+    path: 'moscow-state-university-of-fine-chemical-technologies/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/admission',
+    path: 'moscow-state-university-of-fine-chemical-technologies/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/review',
+    path: 'moscow-state-university-of-fine-chemical-technologies/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/placement',
+    path: 'moscow-state-university-of-fine-chemical-technologies/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/gallery',
+    path: 'moscow-state-university-of-fine-chemical-technologies/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/scholarship',
+    path: 'moscow-state-university-of-fine-chemical-technologies/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/faculty',
+    path: 'moscow-state-university-of-fine-chemical-technologies/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/news',
+    path: 'moscow-state-university-of-fine-chemical-technologies/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/hostel',
+    path: 'moscow-state-university-of-fine-chemical-technologies/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'moscow-state-university-of-fine-chemical-technologies/faq',
+    path: 'moscow-state-university-of-fine-chemical-technologies/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'munich-business-school',
+    path: 'munich-business-school/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/courses-and-fees',
+    path: 'munich-business-school/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/admission',
+    path: 'munich-business-school/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/review',
+    path: 'munich-business-school/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/placement',
+    path: 'munich-business-school/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/gallery',
+    path: 'munich-business-school/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/scholarship',
+    path: 'munich-business-school/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/faculty',
+    path: 'munich-business-school/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/news',
+    path: 'munich-business-school/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/hostel',
+    path: 'munich-business-school/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'munich-business-school/faq',
+    path: 'munich-business-school/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'novosibirsk-state-university',
+    path: 'novosibirsk-state-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/courses-and-fees',
+    path: 'novosibirsk-state-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/admission',
+    path: 'novosibirsk-state-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/review',
+    path: 'novosibirsk-state-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/placement',
+    path: 'novosibirsk-state-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/gallery',
+    path: 'novosibirsk-state-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/scholarship',
+    path: 'novosibirsk-state-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/faculty',
+    path: 'novosibirsk-state-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/news',
+    path: 'novosibirsk-state-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/hostel',
+    path: 'novosibirsk-state-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'novosibirsk-state-university/faq',
+    path: 'novosibirsk-state-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'pacific-state-medical-university',
+    path: 'pacific-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/courses-and-fees',
+    path: 'pacific-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/admission',
+    path: 'pacific-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/review',
+    path: 'pacific-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/placement',
+    path: 'pacific-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/gallery',
+    path: 'pacific-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/scholarship',
+    path: 'pacific-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/faculty',
+    path: 'pacific-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/news',
+    path: 'pacific-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/hostel',
+    path: 'pacific-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'pacific-state-medical-university/faq',
+    path: 'pacific-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'penza-state-medical-university',
+    path: 'penza-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/courses-and-fees',
+    path: 'penza-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/admission',
+    path: 'penza-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/review',
+    path: 'penza-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/placement',
+    path: 'penza-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/gallery',
+    path: 'penza-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/scholarship',
+    path: 'penza-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/faculty',
+    path: 'penza-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/news',
+    path: 'penza-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/hostel',
+    path: 'penza-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'penza-state-medical-university/faq',
+    path: 'penza-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/courses-and-fees',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/admission',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/review',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/placement',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/gallery',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/scholarship',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/faculty',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/news',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/hostel',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'russian-presidential-academy-of-national-economy-and-public-administration/faq',
+    path: 'russian-presidential-academy-of-national-economy-and-public-administration/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'saratov-state-medical-university',
+    path: 'saratov-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/courses-and-fees',
+    path: 'saratov-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/admission',
+    path: 'saratov-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/review',
+    path: 'saratov-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/placement',
+    path: 'saratov-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/gallery',
+    path: 'saratov-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/scholarship',
+    path: 'saratov-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/faculty',
+    path: 'saratov-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/news',
+    path: 'saratov-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/hostel',
+    path: 'saratov-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'saratov-state-medical-university/faq',
+    path: 'saratov-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'sheridan-college',
+    path: 'sheridan-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/courses-and-fees',
+    path: 'sheridan-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/admission',
+    path: 'sheridan-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/review',
+    path: 'sheridan-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/placement',
+    path: 'sheridan-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/gallery',
+    path: 'sheridan-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/scholarship',
+    path: 'sheridan-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/faculty',
+    path: 'sheridan-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/news',
+    path: 'sheridan-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/hostel',
+    path: 'sheridan-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'sheridan-college/faq',
+    path: 'sheridan-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tairunnessa-memorial-medical-college',
+    path: 'tairunnessa-memorial-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/courses-and-fees',
+    path: 'tairunnessa-memorial-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/admission',
+    path: 'tairunnessa-memorial-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/review',
+    path: 'tairunnessa-memorial-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/placement',
+    path: 'tairunnessa-memorial-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/gallery',
+    path: 'tairunnessa-memorial-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/scholarship',
+    path: 'tairunnessa-memorial-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/faculty',
+    path: 'tairunnessa-memorial-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/news',
+    path: 'tairunnessa-memorial-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/hostel',
+    path: 'tairunnessa-memorial-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tairunnessa-memorial-medical-college/faq',
+    path: 'tairunnessa-memorial-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tallinn-health-care-college',
+    path: 'tallinn-health-care-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/courses-and-fees',
+    path: 'tallinn-health-care-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/admission',
+    path: 'tallinn-health-care-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/review',
+    path: 'tallinn-health-care-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/placement',
+    path: 'tallinn-health-care-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/gallery',
+    path: 'tallinn-health-care-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/scholarship',
+    path: 'tallinn-health-care-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/faculty',
+    path: 'tallinn-health-care-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/news',
+    path: 'tallinn-health-care-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/hostel',
+    path: 'tallinn-health-care-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tallinn-health-care-college/faq',
+    path: 'tallinn-health-care-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tbilisi-state-medical-university',
+    path: 'tbilisi-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/courses-and-fees',
+    path: 'tbilisi-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/admission',
+    path: 'tbilisi-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/review',
+    path: 'tbilisi-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/placement',
+    path: 'tbilisi-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/gallery',
+    path: 'tbilisi-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/scholarship',
+    path: 'tbilisi-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/faculty',
+    path: 'tbilisi-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/news',
+    path: 'tbilisi-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/hostel',
+    path: 'tbilisi-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tbilisi-state-medical-university/faq',
+    path: 'tbilisi-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ternopil-national-medical-university',
+    path: 'ternopil-national-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/courses-and-fees',
+    path: 'ternopil-national-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/admission',
+    path: 'ternopil-national-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/review',
+    path: 'ternopil-national-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/placement',
+    path: 'ternopil-national-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/gallery',
+    path: 'ternopil-national-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/scholarship',
+    path: 'ternopil-national-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/faculty',
+    path: 'ternopil-national-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/news',
+    path: 'ternopil-national-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/hostel',
+    path: 'ternopil-national-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ternopil-national-medical-university/faq',
+    path: 'ternopil-national-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'the-university-of-law',
+    path: 'the-university-of-law/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/courses-and-fees',
+    path: 'the-university-of-law/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/admission',
+    path: 'the-university-of-law/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/review',
+    path: 'the-university-of-law/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/placement',
+    path: 'the-university-of-law/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/gallery',
+    path: 'the-university-of-law/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/scholarship',
+    path: 'the-university-of-law/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/faculty',
+    path: 'the-university-of-law/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/news',
+    path: 'the-university-of-law/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/hostel',
+    path: 'the-university-of-law/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'the-university-of-law/faq',
+    path: 'the-university-of-law/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'trakia-university',
+    path: 'trakia-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/courses-and-fees',
+    path: 'trakia-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/admission',
+    path: 'trakia-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/review',
+    path: 'trakia-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/placement',
+    path: 'trakia-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/gallery',
+    path: 'trakia-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/scholarship',
+    path: 'trakia-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/faculty',
+    path: 'trakia-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/news',
+    path: 'trakia-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/hostel',
+    path: 'trakia-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'trakia-university/faq',
+    path: 'trakia-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-lincoln',
+    path: 'university-of-lincoln/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/courses-and-fees',
+    path: 'university-of-lincoln/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/admission',
+    path: 'university-of-lincoln/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/review',
+    path: 'university-of-lincoln/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/placement',
+    path: 'university-of-lincoln/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/gallery',
+    path: 'university-of-lincoln/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/scholarship',
+    path: 'university-of-lincoln/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/faculty',
+    path: 'university-of-lincoln/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/news',
+    path: 'university-of-lincoln/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/hostel',
+    path: 'university-of-lincoln/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-lincoln/faq',
+    path: 'university-of-lincoln/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-oxford',
+    path: 'university-of-oxford/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/courses-and-fees',
+    path: 'university-of-oxford/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/admission',
+    path: 'university-of-oxford/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/review',
+    path: 'university-of-oxford/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/placement',
+    path: 'university-of-oxford/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/gallery',
+    path: 'university-of-oxford/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/scholarship',
+    path: 'university-of-oxford/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/faculty',
+    path: 'university-of-oxford/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/news',
+    path: 'university-of-oxford/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/hostel',
+    path: 'university-of-oxford/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-oxford/faq',
+    path: 'university-of-oxford/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-surrey',
+    path: 'university-of-surrey/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/courses-and-fees',
+    path: 'university-of-surrey/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/admission',
+    path: 'university-of-surrey/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/review',
+    path: 'university-of-surrey/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/placement',
+    path: 'university-of-surrey/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/gallery',
+    path: 'university-of-surrey/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/scholarship',
+    path: 'university-of-surrey/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/faculty',
+    path: 'university-of-surrey/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/news',
+    path: 'university-of-surrey/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/hostel',
+    path: 'university-of-surrey/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-surrey/faq',
+    path: 'university-of-surrey/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'university-of-ulm',
+    path: 'university-of-ulm/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/courses-and-fees',
+    path: 'university-of-ulm/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/admission',
+    path: 'university-of-ulm/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/review',
+    path: 'university-of-ulm/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/placement',
+    path: 'university-of-ulm/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/gallery',
+    path: 'university-of-ulm/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/scholarship',
+    path: 'university-of-ulm/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/faculty',
+    path: 'university-of-ulm/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/news',
+    path: 'university-of-ulm/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/hostel',
+    path: 'university-of-ulm/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'university-of-ulm/faq',
+    path: 'university-of-ulm/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'us-bangla-medical-college',
+    path: 'us-bangla-medical-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/courses-and-fees',
+    path: 'us-bangla-medical-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/admission',
+    path: 'us-bangla-medical-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/review',
+    path: 'us-bangla-medical-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/placement',
+    path: 'us-bangla-medical-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/gallery',
+    path: 'us-bangla-medical-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/scholarship',
+    path: 'us-bangla-medical-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/faculty',
+    path: 'us-bangla-medical-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/news',
+    path: 'us-bangla-medical-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/hostel',
+    path: 'us-bangla-medical-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'us-bangla-medical-college/faq',
+    path: 'us-bangla-medical-college/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'voronezh-state-medical-university',
+    path: 'voronezh-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/courses-and-fees',
+    path: 'voronezh-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/admission',
+    path: 'voronezh-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/review',
+    path: 'voronezh-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/placement',
+    path: 'voronezh-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/gallery',
+    path: 'voronezh-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/scholarship',
+    path: 'voronezh-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/faculty',
+    path: 'voronezh-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/news',
+    path: 'voronezh-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/hostel',
+    path: 'voronezh-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'voronezh-state-medical-university/faq',
+    path: 'voronezh-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'wroclaw-university-of-technology',
+    path: 'wroclaw-university-of-technology/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/courses-and-fees',
+    path: 'wroclaw-university-of-technology/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/admission',
+    path: 'wroclaw-university-of-technology/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/review',
+    path: 'wroclaw-university-of-technology/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/placement',
+    path: 'wroclaw-university-of-technology/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/gallery',
+    path: 'wroclaw-university-of-technology/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/scholarship',
+    path: 'wroclaw-university-of-technology/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/faculty',
+    path: 'wroclaw-university-of-technology/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/news',
+    path: 'wroclaw-university-of-technology/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/hostel',
+    path: 'wroclaw-university-of-technology/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'wroclaw-university-of-technology/faq',
+    path: 'wroclaw-university-of-technology/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'rostov-state-medical-university',
+    path: 'rostov-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/courses-and-fees',
+    path: 'rostov-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/admission',
+    path: 'rostov-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/review',
+    path: 'rostov-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/placement',
+    path: 'rostov-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/gallery',
+    path: 'rostov-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/scholarship',
+    path: 'rostov-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/faculty',
+    path: 'rostov-state-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/news',
+    path: 'rostov-state-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/hostel',
+    path: 'rostov-state-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'rostov-state-medical-university/faq',
+    path: 'rostov-state-medical-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'izhevsk-state-medical-academy',
+    path: 'izhevsk-state-medical-academy/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/courses-and-fees',
+    path: 'izhevsk-state-medical-academy/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/admission',
+    path: 'izhevsk-state-medical-academy/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/review',
+    path: 'izhevsk-state-medical-academy/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/placement',
+    path: 'izhevsk-state-medical-academy/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/gallery',
+    path: 'izhevsk-state-medical-academy/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/scholarship',
+    path: 'izhevsk-state-medical-academy/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/faculty',
+    path: 'izhevsk-state-medical-academy/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/news',
+    path: 'izhevsk-state-medical-academy/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/hostel',
+    path: 'izhevsk-state-medical-academy/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'izhevsk-state-medical-academy/faq',
+    path: 'izhevsk-state-medical-academy/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ivano-frankivsk-national-medical-university',
+    path: 'ivano-frankivsk-national-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/courses-and-fees',
+    path: 'ivano-frankivsk-national-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/admission',
+    path: 'ivano-frankivsk-national-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/review',
+    path: 'ivano-frankivsk-national-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/placement',
+    path: 'ivano-frankivsk-national-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/gallery',
+    path: 'ivano-frankivsk-national-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/scholarship',
+    path: 'ivano-frankivsk-national-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/faculty',
+    path: 'ivano-frankivsk-national-medical-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/news',
+    path: 'ivano-frankivsk-national-medical-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/hostel',
+    path: 'ivano-frankivsk-national-medical-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ivano-frankivsk-national-medical-university/faq',
-    component: UniversityConComponent
-  },
-  
-
-  {
-    path: 'amec-bicol-christian-college-of-medicine',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'amec-bicol-christian-college-of-medicine/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'east-european-university',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'east-european-university/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'rome-business-school',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'rome-business-school/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'university-of-padua',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-padua/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'university-of-salford',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-salford/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'asian-institute-management-philippines',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-institute-management-philippines/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'asian-medical-institute',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'asian-medical-institute/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'belfast-metropolitan-college',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'belfast-metropolitan-college/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'brokenshire-college-school-of-medicine',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'brokenshire-college-school-of-medicine/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'davao-medical-school-foundation',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'davao-medical-school-foundation/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'emilio-aguinaldo-college-manila',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'emilio-aguinaldo-college-manila/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'henley-business-school',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'henley-business-school/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'kathmandu-medical-college',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kathmandu-medical-college/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kharkiv-state-academy-of-design-and-arts/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'liceo-college-of-medicine',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liceo-college-of-medicine/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'liverpool-hope-university',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'liverpool-hope-university/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'london-school-of-economics-and-political-science-london',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'london-school-of-economics-and-political-science-london/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'manipal-college-of-medical-sciences',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manipal-college-of-medical-sciences/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'moscow-school-of-management-skolkovo',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'moscow-school-of-management-skolkovo/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'new-college-durham',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'new-college-durham/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'ramon-v-del-rosario-college-of-business',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'ramon-v-del-rosario-college-of-business/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'uv-gullas-college-of-medicine',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'uv-gullas-college-of-medicine/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'washington-sycip-graduate-school-of-business',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'washington-sycip-graduate-school-of-business/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'bharati-vidyapeeth-deemed-university-pune/faq',
+    path: 'ivano-frankivsk-national-medical-university/faq/.',
     component: UniversityConComponent
   },
   
 
   {
-    path: 'parkview-medical-college',
+    path: 'amec-bicol-christian-college-of-medicine/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/courses-and-fees',
+    path: 'amec-bicol-christian-college-of-medicine/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/admission',
+    path: 'amec-bicol-christian-college-of-medicine/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/review',
+    path: 'amec-bicol-christian-college-of-medicine/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/placement',
+    path: 'amec-bicol-christian-college-of-medicine/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/gallery',
+    path: 'amec-bicol-christian-college-of-medicine/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/scholarship',
+    path: 'amec-bicol-christian-college-of-medicine/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/faculty',
+    path: 'amec-bicol-christian-college-of-medicine/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/news',
+    path: 'amec-bicol-christian-college-of-medicine/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/hostel',
+    path: 'amec-bicol-christian-college-of-medicine/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'parkview-medical-college/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'kyrgyz-state-medical-academy',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'kyrgyz-state-medical-academy/faq',
+    path: 'amec-bicol-christian-college-of-medicine/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'lyceum-northwestern-university',
+    path: 'east-european-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/courses-and-fees',
+    path: 'east-european-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/admission',
+    path: 'east-european-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/review',
+    path: 'east-european-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/placement',
+    path: 'east-european-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/gallery',
+    path: 'east-european-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/scholarship',
+    path: 'east-european-university/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/faculty',
+    path: 'east-european-university/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/news',
+    path: 'east-european-university/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/hostel',
+    path: 'east-european-university/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'lyceum-northwestern-university/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'manila-central-university',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'manila-central-university/faq',
+    path: 'east-european-university/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'nanjing-medical-university',
+    path: 'rome-business-school/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/courses-and-fees',
+    path: 'rome-business-school/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/admission',
+    path: 'rome-business-school/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/review',
+    path: 'rome-business-school/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/placement',
+    path: 'rome-business-school/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/gallery',
+    path: 'rome-business-school/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/scholarship',
+    path: 'rome-business-school/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/faculty',
+    path: 'rome-business-school/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/news',
+    path: 'rome-business-school/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/hostel',
+    path: 'rome-business-school/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'nanjing-medical-university/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'our-lady-of-fatima-university',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'our-lady-of-fatima-university/faq',
+    path: 'rome-business-school/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'samarkand-state-medical-institute',
+    path: 'university-of-padua/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/courses-and-fees',
+    path: 'university-of-padua/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/admission',
+    path: 'university-of-padua/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/review',
+    path: 'university-of-padua/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/placement',
+    path: 'university-of-padua/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/gallery',
+    path: 'university-of-padua/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/scholarship',
+    path: 'university-of-padua/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/faculty',
+    path: 'university-of-padua/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/news',
+    path: 'university-of-padua/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/hostel',
+    path: 'university-of-padua/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'samarkand-state-medical-institute/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'south-ural-state-university',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'south-ural-state-university/faq',
+    path: 'university-of-padua/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'tashkent-state-dental-institute',
+    path: 'university-of-salford/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/courses-and-fees',
+    path: 'university-of-salford/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/admission',
+    path: 'university-of-salford/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/review',
+    path: 'university-of-salford/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/placement',
+    path: 'university-of-salford/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/gallery',
+    path: 'university-of-salford/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/scholarship',
+    path: 'university-of-salford/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/faculty',
+    path: 'university-of-salford/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/news',
+    path: 'university-of-salford/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/hostel',
+    path: 'university-of-salford/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'tashkent-state-dental-institute/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'university-of-santo-tomas',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'university-of-santo-tomas/faq',
+    path: 'university-of-salford/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'vinnytsia-national-technical-university',
+    path: 'asian-institute-management-philippines/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/courses-and-fees',
+    path: 'asian-institute-management-philippines/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/admission',
+    path: 'asian-institute-management-philippines/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/review',
+    path: 'asian-institute-management-philippines/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/placement',
+    path: 'asian-institute-management-philippines/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/gallery',
+    path: 'asian-institute-management-philippines/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/scholarship',
+    path: 'asian-institute-management-philippines/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/faculty',
+    path: 'asian-institute-management-philippines/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/news',
+    path: 'asian-institute-management-philippines/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/hostel',
+    path: 'asian-institute-management-philippines/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'vinnytsia-national-technical-university/faq',
-    component: UniversityConComponent
-  },
-
-  {
-    path: 'grigol-robakidze-university',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/courses-and-fees',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/admission',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/review',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/placement',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/gallery',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/scholarship',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/faculty',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/news',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/hostel',
-    component: UniversityConComponent
-  },
-  {
-    path: 'grigol-robakidze-university/faq',
+    path: 'asian-institute-management-philippines/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'ism-university-of-management-and-economics',
+    path: 'asian-medical-institute/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/courses-and-fees',
+    path: 'asian-medical-institute/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/admission',
+    path: 'asian-medical-institute/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/review',
+    path: 'asian-medical-institute/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/placement',
+    path: 'asian-medical-institute/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/gallery',
+    path: 'asian-medical-institute/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/scholarship',
+    path: 'asian-medical-institute/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/faculty',
+    path: 'asian-medical-institute/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/news',
+    path: 'asian-medical-institute/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/hostel',
+    path: 'asian-medical-institute/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'ism-university-of-management-and-economics/faq',
+    path: 'asian-medical-institute/faq/.',
     component: UniversityConComponent
   },
 
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi',
+    path: 'belfast-metropolitan-college/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/courses-and-fees',
+    path: 'belfast-metropolitan-college/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/admission',
+    path: 'belfast-metropolitan-college/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/review',
+    path: 'belfast-metropolitan-college/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/placement',
+    path: 'belfast-metropolitan-college/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/gallery',
+    path: 'belfast-metropolitan-college/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/scholarship',
+    path: 'belfast-metropolitan-college/scholarship/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/faculty',
+    path: 'belfast-metropolitan-college/faculty/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/news',
+    path: 'belfast-metropolitan-college/news/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/hostel',
+    path: 'belfast-metropolitan-college/hostel/.',
     component: UniversityConComponent
   },
   {
-    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/faq',
+    path: 'belfast-metropolitan-college/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'brokenshire-college-school-of-medicine/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'brokenshire-college-school-of-medicine/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'davao-medical-school-foundation/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'davao-medical-school-foundation/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'emilio-aguinaldo-college-manila/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'emilio-aguinaldo-college-manila/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'henley-business-school/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'henley-business-school/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'kathmandu-medical-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kathmandu-medical-college/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kharkiv-state-academy-of-design-and-arts/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'liceo-college-of-medicine/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liceo-college-of-medicine/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'liverpool-hope-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'liverpool-hope-university/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'london-school-of-economics-and-political-science-london/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'london-school-of-economics-and-political-science-london/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'manipal-college-of-medical-sciences/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manipal-college-of-medical-sciences/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'moscow-school-of-management-skolkovo/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'moscow-school-of-management-skolkovo/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'new-college-durham/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'new-college-durham/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'ramon-v-del-rosario-college-of-business/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramon-v-del-rosario-college-of-business/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'uv-gullas-college-of-medicine/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'uv-gullas-college-of-medicine/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'washington-sycip-graduate-school-of-business/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-sycip-graduate-school-of-business/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bharati-vidyapeeth-deemed-university-pune/faq/.',
+    component: UniversityConComponent
+  },
+  
+
+  {
+    path: 'parkview-medical-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'parkview-medical-college/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'kyrgyz-state-medical-academy/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kyrgyz-state-medical-academy/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'lyceum-northwestern-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lyceum-northwestern-university/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'manila-central-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'manila-central-university/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'nanjing-medical-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nanjing-medical-university/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'our-lady-of-fatima-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'our-lady-of-fatima-university/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'samarkand-state-medical-institute/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'samarkand-state-medical-institute/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'south-ural-state-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'south-ural-state-university/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'tashkent-state-dental-institute/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'tashkent-state-dental-institute/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'university-of-santo-tomas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-santo-tomas/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'vinnytsia-national-technical-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vinnytsia-national-technical-university/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'grigol-robakidze-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grigol-robakidze-university/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'ism-university-of-management-and-economics/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ism-university-of-management-and-economics/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/faq/.',
     component: UniversityConComponent
   },
 ];

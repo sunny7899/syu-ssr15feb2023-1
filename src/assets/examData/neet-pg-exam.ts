@@ -5,7 +5,7 @@ export const neetpgexam = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "url": "neet-pg-exam",
+    "url": "neet-pg-exam/.",
     "info": [
         {
             type: 'title',

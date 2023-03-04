@@ -4,7 +4,7 @@ export default[{
     postedBy:"",
     Categories:'general',
     blogimg:'../../assets/blog-news-images/News-images/mbbs-in-philippines-is-accepted-in-india-after-the-announcement-from-ched.jpg',
-    url:'mbbs-in-philippines-is-accepted-in-india-after-the-announcement-from-ched',
+    url:'mbbs-in-philippines-is-accepted-in-india-after-the-announcement-from-ched/.',
     data: [
         {
             type: 'title',
@@ -93,7 +93,7 @@ export default[{
     postedBy:"",
     Categories:'general',
     blogimg:'../../assets/blog-news-images/News-images/sc-directs-nmc-to-frame-scheme-for-ukraine-returned-medical-students.jpg',
-    url:'sc-directs-nmc-to-frame-scheme-for-ukraine-returned-medical-students',
+    url:'sc-directs-nmc-to-frame-scheme-for-ukraine-returned-medical-students/.',
     data: [
         {
             type: 'title',
@@ -164,7 +164,7 @@ export default[{
     postedBy:"",
     Categories:'general',
     blogimg:'../../assets/blog-news-images/News-images/cbsc-releases-evaluation-criteria-for-new-academic-session.jpg',
-    url:'cbsc-releases-evaluation-criteria-for-new-academic-session',
+    url:'cbsc-releases-evaluation-criteria-for-new-academic-session/.',
     data: [
         {
             type: 'title',
@@ -216,7 +216,7 @@ export default[{
     postedBy:"",
     Categories:'general',
     blogimg:'../../assets/blog-news-images/News-images/karnataka-education-minister-refuses-to-cancel-10th-board-exams.jpg',
-    url:'karnataka-education-minister-refuses-to-cancel-10th-board-exams',
+    url:'karnataka-education-minister-refuses-to-cancel-10th-board-exams/.',
     data: [
         {
             type: 'title',

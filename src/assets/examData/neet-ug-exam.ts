@@ -5,7 +5,7 @@ export const neetugexam = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "url": "neet-ug-exam",
+    "url": "neet-ug-exam/.",
     "info": [
         {
             type: 'title',

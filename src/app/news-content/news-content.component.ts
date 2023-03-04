@@ -18,6 +18,7 @@ export class NewsContentComponent implements OnInit {
   newsData: any
   currentUrl: any
   url: any
+  getUrl : any
   allBlog: any = []
   latestBlog: any = []
   displayBasic: any
@@ -36,7 +37,10 @@ export class NewsContentComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.currentUrl = this.router.url.split('/').pop()
+    //this.currentUrl = this.router.url.split('/').pop()
+    this.getUrl = this.router.url.split('/'); 
+    this.currentUrl = this.getUrl[this.getUrl .length-2];
+    this.currentUrl = this.currentUrl+"/.";
     console.log(' this.data: ',  this.data);
     this.data.forEach((ndata: any) => {
       ndata.forEach((news: any) => {

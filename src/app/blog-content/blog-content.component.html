@@ -7,7 +7,7 @@
     </div>
     <div class="col-lg-12">
       <div class="blog-content-page-breadcrumb text-center">
-        <a href="" routerLink="/home" class="home">
+        <a href="" routerLink="" class="home">
           <img
             src="../../assets/img/services_page/Our_Services/Home.png"
             alt=""
@@ -21,7 +21,7 @@
             class="arrow-img"
           />
         </a>
-        <a href="" routerLink="/blog" class="service-link">
+        <a href="" routerLink="/blog/." class="service-link">
           <h5 class="white-text-2 blog-title">Blog</h5>
         </a>
         <a href="" class="arrow">
@@ -502,7 +502,7 @@
                   class="row border-bottom mb-2 pb-2"
                   *ngFor="let cat of data"
                 >
-                  <div class="col-lg-6 service-card-text" [routerLink]="['/blog/category/' + cat[0].Categories ]">
+                  <div class="col-lg-6 service-card-text" [routerLink]="['/blog/category/.' + cat[0].Categories ]">
                     <div class="flex-holder">
                       <img
                         src="../../assets/img/Blog_Content_Icons/5.Category/Dropdown.png"

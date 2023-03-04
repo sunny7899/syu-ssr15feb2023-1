@@ -9,1403 +9,1403 @@ const routes: Routes = [
     component: CourseContentComponent
   },
   {
-    path: 'MIT',
+    path: 'MIT/.',
     component: CourseContentComponent
   },
   {
-    path: 'MIT/info',
+    path: 'MIT/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'MIT/top-colleges',
+    path: 'MIT/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'MIT/syllabus',
+    path: 'MIT/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'MIT/career-options',
+    path: 'MIT/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'MIT/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-austria',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-austria/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-austria/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-austria/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-austria/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-austria/faq',
+    path: 'MIT/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'engineering-in-germany',
+    path: 'mbbs-in-austria/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-germany/info',
+    path: 'mbbs-in-austria/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-germany/top-colleges',
+    path: 'mbbs-in-austria/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-germany/syllabus',
+    path: 'mbbs-in-austria/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-germany/career-options',
+    path: 'mbbs-in-austria/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-germany/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-bulgaria',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bulgaria/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bulgaria/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bulgaria/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bulgaria/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bulgaria/faq',
+    path: 'mbbs-in-austria/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'engineering-in-russia',
+    path: 'engineering-in-germany/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-russia/info',
+    path: 'engineering-in-germany/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-russia/top-colleges',
+    path: 'engineering-in-germany/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-russia/syllabus',
+    path: 'engineering-in-germany/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-russia/career-options',
+    path: 'engineering-in-germany/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-russia/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-czech-republic',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-czech-republic/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-czech-republic/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-czech-republic/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-czech-republic/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-czech-republic/faq',
+    path: 'engineering-in-germany/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-germany',
+    path: 'mbbs-in-bulgaria/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-germany/info',
+    path: 'mbbs-in-bulgaria/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-germany/top-colleges',
+    path: 'mbbs-in-bulgaria/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-germany/syllabus',
+    path: 'mbbs-in-bulgaria/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-germany/career-options',
+    path: 'mbbs-in-bulgaria/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-germany/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mba-in-australia',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-australia/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-australia/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-australia/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-australia/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-australia/faq',
+    path: 'mbbs-in-bulgaria/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mba-in-new-zealand',
+    path: 'engineering-in-russia/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-new-zealand/info',
+    path: 'engineering-in-russia/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-new-zealand/top-colleges',
+    path: 'engineering-in-russia/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-new-zealand/syllabus',
+    path: 'engineering-in-russia/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-new-zealand/career-options',
+    path: 'engineering-in-russia/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-new-zealand/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'bachelor-of-computer-application-bca',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-computer-application-bca/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-computer-application-bca/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-computer-application-bca/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-computer-application-bca/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-computer-application-bca/faq',
+    path: 'engineering-in-russia/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mba-in-canada',
+    path: 'mbbs-in-czech-republic/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-canada/info',
+    path: 'mbbs-in-czech-republic/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-canada/top-colleges',
+    path: 'mbbs-in-czech-republic/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-canada/syllabus',
+    path: 'mbbs-in-czech-republic/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-canada/career-options',
+    path: 'mbbs-in-czech-republic/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-canada/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mba-in-ireland',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-ireland/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-ireland/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-ireland/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-ireland/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-ireland/faq',
+    path: 'mbbs-in-czech-republic/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mba-in-russia',
+    path: 'mbbs-in-germany/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-russia/info',
+    path: 'mbbs-in-germany/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-russia/top-colleges',
+    path: 'mbbs-in-germany/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-russia/syllabus',
+    path: 'mbbs-in-germany/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-russia/career-options',
+    path: 'mbbs-in-germany/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-russia/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-armenia',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-armenia/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-armenia/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-armenia/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-armenia/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-armenia/faq',
+    path: 'mbbs-in-germany/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-australia',
+    path: 'mba-in-australia/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-australia/info',
+    path: 'mba-in-australia/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-australia/top-colleges',
+    path: 'mba-in-australia/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-australia/syllabus',
+    path: 'mba-in-australia/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-australia/career-options',
+    path: 'mba-in-australia/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-australia/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-belarus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-belarus/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-belarus/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-belarus/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-belarus/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-belarus/faq',
+    path: 'mba-in-australia/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-europe',
+    path: 'mba-in-new-zealand/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-europe/info',
+    path: 'mba-in-new-zealand/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-europe/top-colleges',
+    path: 'mba-in-new-zealand/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-europe/syllabus',
+    path: 'mba-in-new-zealand/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-europe/career-options',
+    path: 'mba-in-new-zealand/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-europe/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-france',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-france/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-france/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-france/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-france/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-france/faq',
+    path: 'mba-in-new-zealand/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-georgia',
+    path: 'bachelor-of-computer-application-bca/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-georgia/info',
+    path: 'bachelor-of-computer-application-bca/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-georgia/top-colleges',
+    path: 'bachelor-of-computer-application-bca/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-georgia/syllabus',
+    path: 'bachelor-of-computer-application-bca/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-georgia/career-options',
+    path: 'bachelor-of-computer-application-bca/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-georgia/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-italy',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-italy/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-italy/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-italy/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-italy/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-italy/faq',
+    path: 'bachelor-of-computer-application-bca/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-lithuania',
+    path: 'mba-in-canada/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-lithuania/info',
+    path: 'mba-in-canada/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-lithuania/top-colleges',
+    path: 'mba-in-canada/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-lithuania/syllabus',
+    path: 'mba-in-canada/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-lithuania/career-options',
+    path: 'mba-in-canada/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-lithuania/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-malaysia',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-malaysia/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-malaysia/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-malaysia/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-malaysia/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-malaysia/faq',
+    path: 'mba-in-canada/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-nepal',
+    path: 'mba-in-ireland/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-nepal/info',
+    path: 'mba-in-ireland/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-nepal/top-colleges',
+    path: 'mba-in-ireland/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-nepal/syllabus',
+    path: 'mba-in-ireland/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-nepal/career-options',
+    path: 'mba-in-ireland/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-nepal/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-philippines',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-philippines/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-philippines/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-philippines/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-philippines/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-philippines/faq',
+    path: 'mba-in-ireland/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-romania',
+    path: 'mba-in-russia/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-romania/info',
+    path: 'mba-in-russia/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-romania/top-colleges',
+    path: 'mba-in-russia/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-romania/syllabus',
+    path: 'mba-in-russia/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-romania/career-options',
+    path: 'mba-in-russia/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-romania/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-russia',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-russia/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-russia/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-russia/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-russia/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-russia/faq',
+    path: 'mba-in-russia/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-kyrgyzstan',
+    path: 'mbbs-in-armenia/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kyrgyzstan/info',
+    path: 'mbbs-in-armenia/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kyrgyzstan/top-colleges',
+    path: 'mbbs-in-armenia/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kyrgyzstan/syllabus',
+    path: 'mbbs-in-armenia/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kyrgyzstan/career-options',
+    path: 'mbbs-in-armenia/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kyrgyzstan/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-usa',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-usa/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-usa/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-usa/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-usa/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-usa/faq',
+    path: 'mbbs-in-armenia/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'master-of-business-administration-mba',
+    path: 'mbbs-in-australia/.',
     component: CourseContentComponent
   },
   {
-    path: 'master-of-business-administration-mba/info',
+    path: 'mbbs-in-australia/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'master-of-business-administration-mba/top-colleges',
+    path: 'mbbs-in-australia/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'master-of-business-administration-mba/syllabus',
+    path: 'mbbs-in-australia/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'master-of-business-administration-mba/career-options',
+    path: 'mbbs-in-australia/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'master-of-business-administration-mba/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mba-in-malta',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-malta/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-malta/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-malta/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-malta/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-malta/faq',
+    path: 'mbbs-in-australia/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mba-in-uk',
+    path: 'mbbs-in-belarus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-uk/info',
+    path: 'mbbs-in-belarus/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-uk/top-colleges',
+    path: 'mbbs-in-belarus/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-uk/syllabus',
+    path: 'mbbs-in-belarus/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-uk/career-options',
+    path: 'mbbs-in-belarus/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-uk/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'master-of-computer-application-mca',
-    component: CourseContentComponent
-  },
-  {
-    path: 'master-of-computer-application-mca/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'master-of-computer-application-mca/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'master-of-computer-application-mca/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'master-of-computer-application-mca/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'master-of-computer-application-mca/faq',
+    path: 'mbbs-in-belarus/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-kazakhstan',
+    path: 'mbbs-in-europe/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kazakhstan/info',
+    path: 'mbbs-in-europe/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kazakhstan/top-colleges',
+    path: 'mbbs-in-europe/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kazakhstan/syllabus',
+    path: 'mbbs-in-europe/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kazakhstan/career-options',
+    path: 'mbbs-in-europe/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-kazakhstan/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-uzbekistan',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uzbekistan/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uzbekistan/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uzbekistan/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uzbekistan/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uzbekistan/faq',
+    path: 'mbbs-in-europe/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'aviation-in-ukraine',
+    path: 'mbbs-in-france/.',
     component: CourseContentComponent
   },
   {
-    path: 'aviation-in-ukraine/info',
+    path: 'mbbs-in-france/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'aviation-in-ukraine/top-colleges',
+    path: 'mbbs-in-france/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'aviation-in-ukraine/syllabus',
+    path: 'mbbs-in-france/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'aviation-in-ukraine/career-options',
+    path: 'mbbs-in-france/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'aviation-in-ukraine/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'bachelor-of-business-administration-bba',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-business-administration-bba/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-business-administration-bba/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-business-administration-bba/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-business-administration-bba/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-business-administration-bba/faq',
+    path: 'mbbs-in-france/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'engineering-in-ireland',
+    path: 'mbbs-in-georgia/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-ireland/info',
+    path: 'mbbs-in-georgia/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-ireland/top-colleges',
+    path: 'mbbs-in-georgia/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-ireland/syllabus',
+    path: 'mbbs-in-georgia/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-ireland/career-options',
+    path: 'mbbs-in-georgia/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-ireland/faq',
+    path: 'mbbs-in-georgia/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-italy/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-italy/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-italy/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-italy/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-italy/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-italy/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-lithuania/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-lithuania/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-lithuania/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-lithuania/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-lithuania/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-lithuania/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-malaysia/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malaysia/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malaysia/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malaysia/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malaysia/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malaysia/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-nepal/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-nepal/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-nepal/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-nepal/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-nepal/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-nepal/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-philippines/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-philippines/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-philippines/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-philippines/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-philippines/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-philippines/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-romania/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-romania/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-romania/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-romania/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-romania/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-romania/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-russia/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-russia/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-russia/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-russia/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-russia/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-russia/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-kyrgyzstan/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kyrgyzstan/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kyrgyzstan/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kyrgyzstan/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kyrgyzstan/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kyrgyzstan/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-usa/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-usa/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-usa/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-usa/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-usa/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-usa/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'master-of-business-administration-mba/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-business-administration-mba/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-business-administration-mba/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-business-administration-mba/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-business-administration-mba/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-business-administration-mba/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mba-in-malta/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-malta/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-malta/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-malta/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-malta/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-malta/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mba-in-uk/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-uk/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-uk/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-uk/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-uk/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-uk/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'master-of-computer-application-mca/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-computer-application-mca/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-computer-application-mca/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-computer-application-mca/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-computer-application-mca/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-computer-application-mca/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-kazakhstan/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kazakhstan/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kazakhstan/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kazakhstan/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kazakhstan/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-kazakhstan/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-uzbekistan/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uzbekistan/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uzbekistan/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uzbekistan/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uzbekistan/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uzbekistan/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'aviation-in-ukraine/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'aviation-in-ukraine/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'aviation-in-ukraine/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'aviation-in-ukraine/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'aviation-in-ukraine/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'aviation-in-ukraine/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'bachelor-of-business-administration-bba/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-business-administration-bba/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-business-administration-bba/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-business-administration-bba/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-business-administration-bba/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-business-administration-bba/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'engineering-in-ireland/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'engineering-in-ireland/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'engineering-in-ireland/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'engineering-in-ireland/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'engineering-in-ireland/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'engineering-in-ireland/faq/.',
     component: CourseContentComponent
   },
 
   
   {
-    path: 'engineering-in-poland',
+    path: 'engineering-in-poland/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-poland/info',
+    path: 'engineering-in-poland/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-poland/top-colleges',
+    path: 'engineering-in-poland/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-poland/syllabus',
+    path: 'engineering-in-poland/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-poland/career-options',
+    path: 'engineering-in-poland/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'engineering-in-poland/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'engineering-in-ukraine',
-    component: CourseContentComponent
-  },
-  {
-    path: 'engineering-in-ukraine/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'engineering-in-ukraine/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'engineering-in-ukraine/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'engineering-in-ukraine/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'engineering-in-ukraine/faq',
+    path: 'engineering-in-poland/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mba-in-germany',
+    path: 'engineering-in-ukraine/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-germany/info',
+    path: 'engineering-in-ukraine/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-germany/top-colleges',
+    path: 'engineering-in-ukraine/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-germany/syllabus',
+    path: 'engineering-in-ukraine/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-germany/career-options',
+    path: 'engineering-in-ukraine/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-germany/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mba-in-poland',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-poland/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-poland/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-poland/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-poland/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mba-in-poland/faq',
+    path: 'engineering-in-ukraine/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-abroad',
+    path: 'mba-in-germany/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-abroad/info',
+    path: 'mba-in-germany/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-abroad/top-colleges',
+    path: 'mba-in-germany/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-abroad/syllabus',
+    path: 'mba-in-germany/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-abroad/career-options',
+    path: 'mba-in-germany/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-abroad/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-bangladesh',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bangladesh/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bangladesh/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bangladesh/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bangladesh/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-bangladesh/faq',
+    path: 'mba-in-germany/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-canada',
+    path: 'mba-in-poland/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-canada/info',
+    path: 'mba-in-poland/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-canada/top-colleges',
+    path: 'mba-in-poland/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-canada/syllabus',
+    path: 'mba-in-poland/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-canada/career-options',
+    path: 'mba-in-poland/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-canada/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-china',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-china/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-china/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-china/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-china/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-china/faq',
+    path: 'mba-in-poland/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-hungary',
+    path: 'mbbs-abroad/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-hungary/info',
+    path: 'mbbs-abroad/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-hungary/top-colleges',
+    path: 'mbbs-abroad/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-hungary/syllabus',
+    path: 'mbbs-abroad/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-hungary/career-options',
+    path: 'mbbs-abroad/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-hungary/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs/faq',
+    path: 'mbbs-abroad/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-ireland',
+    path: 'mbbs-in-bangladesh/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ireland/info',
+    path: 'mbbs-in-bangladesh/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ireland/top-colleges',
+    path: 'mbbs-in-bangladesh/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ireland/syllabus',
+    path: 'mbbs-in-bangladesh/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ireland/career-options',
+    path: 'mbbs-in-bangladesh/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ireland/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-latvia',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-latvia/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-latvia/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-latvia/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-latvia/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-latvia/faq',
+    path: 'mbbs-in-bangladesh/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-malta',
+    path: 'mbbs-in-canada/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-malta/info',
+    path: 'mbbs-in-canada/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-malta/top-colleges',
+    path: 'mbbs-in-canada/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-malta/syllabus',
+    path: 'mbbs-in-canada/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-malta/career-options',
+    path: 'mbbs-in-canada/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-malta/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-new-zealand',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-new-zealand/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-new-zealand/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-new-zealand/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-new-zealand/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-new-zealand/faq',
+    path: 'mbbs-in-canada/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-poland',
+    path: 'mbbs-in-china/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-poland/info',
+    path: 'mbbs-in-china/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-poland/top-colleges',
+    path: 'mbbs-in-china/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-poland/syllabus',
+    path: 'mbbs-in-china/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-poland/career-options',
+    path: 'mbbs-in-china/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-poland/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'mbbs-in-uk',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uk/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uk/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uk/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uk/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'mbbs-in-uk/faq',
+    path: 'mbbs-in-china/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mbbs-in-ukraine',
+    path: 'mbbs-in-hungary/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ukraine/info',
+    path: 'mbbs-in-hungary/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ukraine/top-colleges',
+    path: 'mbbs-in-hungary/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ukraine/syllabus',
+    path: 'mbbs-in-hungary/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ukraine/career-options',
+    path: 'mbbs-in-hungary/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mbbs-in-ukraine/faq',
-    component: CourseContentComponent
-  },
-
-  {
-    path: 'bachelor-of-technology-btech',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-technology-btech/info',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-technology-btech/top-colleges',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-technology-btech/syllabus',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-technology-btech/career-options',
-    component: CourseContentComponent
-  },
-  {
-    path: 'bachelor-of-technology-btech/faq',
+    path: 'mbbs-in-hungary/faq/.',
     component: CourseContentComponent
   },
 
   {
-    path: 'mba-in-ukraine',
+    path: 'mbbs/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-ukraine/info',
+    path: 'mbbs/info/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-ukraine/top-colleges',
+    path: 'mbbs/top-colleges/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-ukraine/syllabus',
+    path: 'mbbs/syllabus/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-ukraine/career-options',
+    path: 'mbbs/career-options/.',
     component: CourseContentComponent
   },
   {
-    path: 'mba-in-ukraine/faq',
+    path: 'mbbs/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-ireland/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ireland/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ireland/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ireland/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ireland/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ireland/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-latvia/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-latvia/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-latvia/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-latvia/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-latvia/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-latvia/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-malta/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malta/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malta/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malta/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malta/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-malta/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-new-zealand/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-new-zealand/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-new-zealand/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-new-zealand/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-new-zealand/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-new-zealand/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-poland/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-poland/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-poland/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-poland/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-poland/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-poland/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-uk/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uk/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uk/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uk/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uk/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-uk/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mbbs-in-ukraine/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ukraine/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ukraine/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ukraine/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ukraine/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mbbs-in-ukraine/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'bachelor-of-technology-btech/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-technology-btech/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-technology-btech/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-technology-btech/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-technology-btech/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'bachelor-of-technology-btech/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mba-in-ukraine/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-ukraine/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-ukraine/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-ukraine/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-ukraine/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-in-ukraine/faq/.',
     component: CourseContentComponent
   },
 

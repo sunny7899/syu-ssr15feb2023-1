@@ -6,7 +6,7 @@ export const nldalmiainstituteofmanagementstudiesandresearchmumbai = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "url":"nl-dalmia-institute-of-management-studies-and-research-mumbai",
+    "url":"nl-dalmia-institute-of-management-studies-and-research-mumbai/.",
         "info": [
           {
               "type": "title",

@@ -5,7 +5,7 @@ export const internationalfoundationofmedicineifom = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "url": "international-foundation-of-medicine-ifom",
+    "url": "international-foundation-of-medicine-ifom/.",
     "info": [
         {
             type: 'title',

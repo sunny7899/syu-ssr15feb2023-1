@@ -2,26 +2,26 @@
 
   <div class="container-fluid navigation">
     <ul class="nav1">
-      <li><a routerLink="/home" href="/home" (click)="getclass('home')" routerLinkActive="active">Home</a></li>
-      <li><a routerLink="/course" href="/course" (click)="getclass('topcourses')" routerLinkActive="active">Top
+      <li><a routerLink="/home/." href="/home/." (click)="getclass('home')" routerLinkActive="active">Home</a></li>
+      <li><a routerLink="/course/." href="/course/." (click)="getclass('topcourses')" routerLinkActive="active">Top
           Courses</a></li>
-      <li><a routerLink="/university" href="/university">Top Universities</a></li>
-      <li><a routerLink="/college" href="/college">Top Colleges</a></li>
-      <li><a routerLink="/exams" (click)="getclass('exam')" routerLinkActive="active">Exams</a></li>
+      <li><a routerLink="/university/." href="/university/.">Top Universities</a></li>
+      <li><a routerLink="/college/." href="/college/.">Top Colleges</a></li>
+      <li><a routerLink="/exams/." (click)="getclass('exam')" routerLinkActive="active">Exams</a></li>
       <!--li><a routerLink="/about-us" href="/about-us" (click)="getclass('aboutus')"  routerLinkActive="active" >About Us</a></li>
 		<li><a routerLink="/services" href="services" (click)="getclass('services')"  routerLinkActive="active" >Services</a></li-->
-      <li><a routerLink="/news" href="/news" (click)="getclass('news')" routerLinkActive="active">News</a></li>
-      <li><a routerLink="/blog" href="/blog" (click)="getclass('blogs')" routerLinkActive="active">Blogs</a></li>
+      <li><a routerLink="/news/." href="/news/." (click)="getclass('news')" routerLinkActive="active">News</a></li>
+      <li><a routerLink="/blog/." href="/blog/." (click)="getclass('blogs')" routerLinkActive="active">Blogs</a></li>
       <li class="gallery"><a routerLinkActive="active">Gallery <i class=" fa fa-angle-down"></i></a>
         <ul class="gallery-ul">
-          <li> <a routerLink="/image-gallery" (click)="getclass('imagegallery')" routerLinkActive="active"> Image
+          <li> <a routerLink="/image-gallery/." (click)="getclass('imagegallery')" routerLinkActive="active"> Image
               Gallery</a></li>
-          <li> <a routerLink="/video-gallery" (click)="getclass('videogallery')" routerLinkActive="active"> Video
+          <li> <a routerLink="/video-gallery/." (click)="getclass('videogallery')" routerLinkActive="active"> Video
             Gallery</a></li>
         </ul>
 
       </li>
-      <li><a routerLink="/faq" (click)="getclass('faq')" routerLinkActive="active">FAQ</a></li>
+      <li><a routerLink="/faq/." (click)="getclass('faq')" routerLinkActive="active">FAQ</a></li>
 
       <!--li><a routerLink="/contactus" (click)="getclass('contactus')" routerLinkActive="active">Contact Us</a></li-->
 
@@ -138,7 +138,7 @@
 
                    <div *ngIf="showdiv5==true" class=" col-lg-3 col-sm- 12 tar target active1" id="div5">
                     <ul class="mega-links UL1">
-                      <li><a href="/course/bachelor-of-technology-btech" id="menuboxli1" class="second" target="1">B. Tech</a></li>
+                      <li><a href="/course/bachelor-of-technology-btech/." id="menuboxli1" class="second" target="1">B. Tech</a></li>
                       <!--<li><a href="#" id="menuboxli1" class="second" target="2">M. Tech</a></li>
                       <li><a href="#" id="menuboxli1" class="second" target="3">BE</a></li>
                       <li><a href="#" id="menuboxli1" class="second" target="4">ME</a></li>-->
@@ -147,41 +147,41 @@
 
                    <div *ngIf="showdiv6==true" class=" col-lg-3 col-sm- 12 tar target active1" id="div6"> 
                     <ul class="mega-links UL1">
-                      <li><a routerLink="course/engineering-in-poland" id="menuboxli1" class="second" target="1">Engineering in Poland</a></li>
-                      <li><a routerLink="course/engineering-in-ukraine" id="menuboxli1" class="second" target="2">Engineering in Ukraine</a></li>
-                      <li><a routerLink="course/engineering-in-russia" id="menuboxli1" class="second" target="3">Engineering in Russia </a></li>
-                      <li><a routerLink="course/engineering-in-ireland" id="menuboxli1" class="second" target="5">Engineering in Ireland</a></li>
-                      <li><a routerLink="course/engineering-in-germany" id="menuboxli1" class="second" target="6">Engineering in Germany</a></li>
+                      <li><a routerLink="course/engineering-in-poland/." id="menuboxli1" class="second" target="1">Engineering in Poland</a></li>
+                      <li><a routerLink="course/engineering-in-ukraine/." id="menuboxli1" class="second" target="2">Engineering in Ukraine</a></li>
+                      <li><a routerLink="course/engineering-in-russia/." id="menuboxli1" class="second" target="3">Engineering in Russia </a></li>
+                      <li><a routerLink="course/engineering-in-ireland/." id="menuboxli1" class="second" target="5">Engineering in Ireland</a></li>
+                      <li><a routerLink="course/engineering-in-germany/." id="menuboxli1" class="second" target="6">Engineering in Germany</a></li>
                     </ul>
                   </div>
 
                   <div *ngIf="showdiv7==true" class=" col-lg-6 col-sm- 12 tar target active1" id="div7">
                     <ul class="mega-links UL1">
-                      <li><a routerLink="/college/pune-institute-of-computer-technology-pict-pune" id="menuboxli1" class="second" target="1">Pune Institute of Computer Technology</a></li>
-                      <li><a routerLink="/college/mit-college-of-engineering-pune" id="menuboxli1" class="second" target="2">MIT College of Engineering</a></li>
-                      <li><a routerLink="/college/vishwakarma-institute-of-technology-vit-pune" id="menuboxli1" class="second" target="3">Vishwakarma Institute of Technology</a></li>
-                      <li><a routerLink="/college/dr-dy-patil-institute-of-technology-dypit-pimpri-pune" id="menuboxli1" class="second" target="4">Dr. D. Y Patil Institute of Technology</a></li>
-                      <li><a routerLink="/college/sinhgad-college-of-engineering-scoe-vadgaon-pune" id="menuboxli1" class="second" target="5">Sinhgad College of Engineering</a></li>
-                      <li><a routerLink="/college/bharati-vidyapeeth-college-of-engineering-bvcoe-pune" id="menuboxli1" class="second" target="6">Bharati Vidyapeeth College of Engineering, Pune</a></li>
-                      <li><a routerLink="/college/symbiosis-institute-of-technology-sit-pune" id="menuboxli1" class="second" target="7">Symbiosis Institute of Technology</a></li>
+                      <li><a routerLink="/college/pune-institute-of-computer-technology-pict-pune/." id="menuboxli1" class="second" target="1">Pune Institute of Computer Technology</a></li>
+                      <li><a routerLink="/college/mit-college-of-engineering-pune/." id="menuboxli1" class="second" target="2">MIT College of Engineering</a></li>
+                      <li><a routerLink="/college/vishwakarma-institute-of-technology-vit-pune/." id="menuboxli1" class="second" target="3">Vishwakarma Institute of Technology</a></li>
+                      <li><a routerLink="/college/dr-dy-patil-institute-of-technology-dypit-pimpri-pune/." id="menuboxli1" class="second" target="4">Dr. D. Y Patil Institute of Technology</a></li>
+                      <li><a routerLink="/college/sinhgad-college-of-engineering-scoe-vadgaon-pune/." id="menuboxli1" class="second" target="5">Sinhgad College of Engineering</a></li>
+                      <li><a routerLink="/college/bharati-vidyapeeth-college-of-engineering-bvcoe-pune/." id="menuboxli1" class="second" target="6">Bharati Vidyapeeth College of Engineering, Pune</a></li>
+                      <li><a routerLink="/college/symbiosis-institute-of-technology-sit-pune/." id="menuboxli1" class="second" target="7">Symbiosis Institute of Technology</a></li>
                     </ul>
                   </div>
 
                   <div *ngIf="showdiv8==true" class=" col-lg-6 col-sm- 12 tar target active1" id="div8">
                     <ul class="mega-links UL1">
-                      <li><a routerLink="/college/walchand-institute-of-technology-solapur" id="menuboxli1" class="second" target="1">Walchand Institute of Technology</a></li>
+                      <li><a routerLink="/college/walchand-institute-of-technology-solapur/." id="menuboxli1" class="second" target="1">Walchand Institute of Technology</a></li>
                     </ul>
                   </div>
 
                   <div *ngIf="showdiv9==true" class=" col-lg-6 col-sm- 12 tar target active1" id="div9">
                     <ul class="mega-links UL1">
-                      <li><a routerLink="/college/scms-school-of-engineering-and-technology-kerala" id="menuboxli1" class="second" target="1">SCMS School of Engineering</a></li>
+                      <li><a routerLink="/college/scms-school-of-engineering-and-technology-kerala/." id="menuboxli1" class="second" target="1">SCMS School of Engineering</a></li>
                     </ul>
                   </div>
 
                   <div *ngIf="showdiv10==true" class=" col-lg-6 col-sm- 12 tar target active1" id="div10">
                     <ul class="mega-links UL1">
-                      <li><a routerLink="/college/birla-institute-of-technology-and-science-bits-pilani" id="menuboxli1" class="second" target="1">Birla Institute of Technology</a></li>
+                      <li><a routerLink="/college/birla-institute-of-technology-and-science-bits-pilani/." id="menuboxli1" class="second" target="1">Birla Institute of Technology</a></li>
                     </ul>
                   </div>
 
@@ -362,15 +362,15 @@
                   <div *ngIf="showdiv1==true" class=" col-lg-3 col-sm- 12 tar target active1" id="div1">
                     <!-- <header>TOP COLLEGE BY COURSE</header> -->
                     <ul class="mega-links UL1">
-                      <li><a routerLink="course/mbbs-in-ukraine">MBBS in Ukraine</a></li>
-                      <li><a routerLink="course/mbbs-in-belarus">MBBS in Belarus</a></li>
-                      <li><a routerLink="course/mbbs-in-usa">MBBS in USA</a></li>
-                      <li><a routerLink="course/mbbs-in-uk">MBBS in UK</a></li>
-                      <li><a routerLink="course/mbbs-in-china">MBBS in China</a></li>
-                      <li><a routerLink="course/mbbs-in-new-zealand">MBBS in New Zealand</a></li>
-                      <li><a routerLink="course/mbbs-in-australia">MBBS in Australia</a></li>
-                      <li><a routerLink="course/mbbs-in-bulgaria">MBBS in Bulgaria</a></li>
-                      <li><a routerLink="course/mbbs-in-romania">MBBS in Romania</a></li>
+                      <li><a routerLink="course/mbbs-in-ukraine/.">MBBS in Ukraine</a></li>
+                      <li><a routerLink="course/mbbs-in-belarus/.">MBBS in Belarus</a></li>
+                      <li><a routerLink="course/mbbs-in-usa/.">MBBS in USA</a></li>
+                      <li><a routerLink="course/mbbs-in-uk/.">MBBS in UK</a></li>
+                      <li><a routerLink="course/mbbs-in-china/.">MBBS in China</a></li>
+                      <li><a routerLink="course/mbbs-in-new-zealand/.">MBBS in New Zealand</a></li>
+                      <li><a routerLink="course/mbbs-in-australia/.">MBBS in Australia</a></li>
+                      <li><a routerLink="course/mbbs-in-bulgaria/.">MBBS in Bulgaria</a></li>
+                      <li><a routerLink="course/mbbs-in-romania/.">MBBS in Romania</a></li>
                     </ul>
                   </div>
 
@@ -919,7 +919,7 @@
                   <div *ngIf="showdiv7==true" class=" col-lg-7 col-sm- 12 tar target" id="div2">
                     <ul class="mega-links">
                       <li><a routerLink="course/master-of-business-administration-mba">MBA in India</a></li>
-                      <li><a href="/college/nl-dalmia-institute-of-management-studies-and-research-mumbai">NL Dalmia Institute of Management Studies and Research</a></li>
+                      <li><a href="/college/nl-dalmia-institute-of-management-studies-and-research-mumbai/.">NL Dalmia Institute of Management Studies and Research</a></li>
                       <li><a href="/college/kj-somaiya-institute-of-management-mumbai">K.J. Somaiya Institute of Management Studies and Research</a></li>
                       <li><a href="/college/guru-nanak-institute-of-management-studies-gnims-mumbai">Guru Nanak Institute of Management Studies</a></li>
                       <li><a href="/university/narsee-monjee-institute-of-management-studies-nmims-mumbai">Narsee Monjee Institute of Management Studies</a></li>

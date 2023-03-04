@@ -5,7 +5,7 @@ export default [
     postedBy: "Alisha Patil",
     Categories:'career',
     blogimg:'../../assets/blog-news-images/Blog-images/professional-courses-after-graduation.jpg',
-    url:'professional-courses-after-graduation',
+    url:'professional-courses-after-graduation/.',
     data: [
         // {
         //     type:'text',
@@ -119,7 +119,7 @@ export default [
     postedBy:"Smita Medhekar",
     Categories:'Career',
     blogimg:'../../assets/blog-news-images/Blog-images/medical-courses-after-12th-without-neet-exam.jpg',
-    url:'medical-courses-after-12th-without-neet-exam',
+    url:'medical-courses-after-12th-without-neet-exam/.',
     data: [
         {
             type: 'title',
@@ -297,7 +297,7 @@ export default [
     postedBy:"Vivek Wagh",
     Categories:'Career',
     blogimg:'../../assets/blog-news-images/Blog-images/mba-full-form.jpg',
-    url:'mba-full-form',
+    url:'mba-full-form/.',
     data: [
         {
             type: 'title',
@@ -550,7 +550,7 @@ export default [
     postedBy:"Smita Medhekar",
     Categories:'Career',
     blogimg:'../../assets/blog-news-images/Blog-images/mbbs-full-form.jpg',
-    url:'mbbs-full-form',
+    url:'mbbs-full-form/.',
     data: [
         {
             type: 'title',
@@ -754,7 +754,7 @@ export default [
     postedBy:"Saurabh Kale  ",
     Categories:'Career',
     blogimg:'../../assets/blog-news-images/Blog-images/mbbs-in-india-vs-mbbs-in-abroad.jpg',
-    url:'mbbs-in-india-vs-mbbs-in-abroad',
+    url:'mbbs-in-india-vs-mbbs-in-abroad/.',
     data: [
         {
             type: 'title',
@@ -1167,7 +1167,7 @@ export default [
     postedBy:"Smita Medhekar",
     Categories:'Career',
     blogimg:'../../assets/blog-news-images/Blog-images/alternative-courses-outside-medical-and-engineering.jpg',
-    url:'alternative-courses-outside-medical-and-engineering',
+    url:'alternative-courses-outside-medical-and-engineering/.',
     data: [
         {
             type: 'title',
@@ -1439,7 +1439,7 @@ export default [
     postedBy:"Moses Pradeep",
     Categories:'Career',
     blogimg:'../../assets/blog-news-images/Blog-images/top-highest-engineering-paying-jobs-in-india.jpg',
-    url:'top-highest-engineering-paying-jobs-in-india',
+    url:'top-highest-engineering-paying-jobs-in-india/.',
     data: [
         {
             type: 'title',

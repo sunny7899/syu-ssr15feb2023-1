@@ -32,7 +32,7 @@
               <div class="col-lg-12">
                   <div class="row row-without-gutter">
                       <div class="col-lg-6 col-sm-6">
-                          <div class="parent-div service-card-text" [routerLink]="[allBlog[0].url]">
+                          <div class="parent-div service-card-text" [routerLink]="['/news/'+allBlog[0].url]">
                               <div class="img-div"></div>
                               <div class="blog-img-text ">
                                   <h6 class="white-text-2 font">
@@ -47,7 +47,7 @@
                           <div class="row row-without-gutter">
                               <div class="col-lg-12">
                                   <div class="service-div" *ngFor="let image of latestBlog; let i = index">
-                                      <div class="row row-without-gutter mb-2 service-card-text" [routerLink]="[image.url]">
+                                      <div class="row row-without-gutter mb-2 service-card-text" [routerLink]="['/news/'+image.url]">
                                           <div class="col-lg-5 col-sm-5">
                                               <div class="holder">
                                                 <div (click)="makeActive(image.url)">

@@ -5,7 +5,7 @@ export const fmgeexam = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "url": "fmge-exam",
+    "url": "fmge-exam/.",
     "info": [
         {
             type: 'title',
@@ -139,7 +139,18 @@ export const fmgeexam = {
         }
 
     ],
-    "syllabus":[
+    "syllabus": [
+        {
+            "type": "list-bollet",
+            "title": "Syllabus and Exam Preparation",
+            "data": [
+                "In India, MCI/NMC Screening Test or FMGE Test is depended on 19 subjects which is covered in the MBBS program.",
+                "If the Indian students get ready for MCI/NMC screening Test/FMGE Exam while considering MBBS abroad, they can easily crack the entrance test for MD / MS in India. Applicants should clear this exam subsequent to returning back to India.",
+                "Sometimes, there are students who are not ready to pass this exam in the wake of returning back. However, this is all because that the students are not guided properly or not provided with the MCI/NMC screening Test coaching while they study abroad.",
+                "Nations like Russia, Ukraine, China & Georgia gives FMGE exam training to every one of its students to study MBBS abroad, when guided appropriately. Accordingly, it has 100% assurance of passing all the students!"
+
+            ]
+        },
         {
             type: "meta",
             meta: [
@@ -159,7 +170,7 @@ export const fmgeexam = {
         }
 
     ],
-    "cutoff":[
+    "cutoff": [
         {
             type: "meta",
             meta: [
@@ -180,7 +191,7 @@ export const fmgeexam = {
 
 
     ],
-    "faq":[
+    "faq": [
         {
             type: "meta",
             meta: [
