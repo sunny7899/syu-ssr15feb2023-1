@@ -14,13 +14,13 @@ export const donetsknationalmedicaluniversity = {
 
         {
             type: 'text',
-            title: '',
+            title: 'Donetsk National Medical University',
             // img: 'https://www.selectyouruniversity.com/images/ukraine-universities/donetsk-national-medical-university.jpg',
-            data: '<p>The Donetsk National Medical University (DNMU) is considered as the best medical university of Ukraine. Since 2001, its rank 1st among other Ukrainian medical universities stated by the rating of Ministry of Health & Ministry of Education of Ukraine.</p><p>Donetsk National Medical University “DNMU” is the first medical university of Ukraine which was recognized by World Health Organization (WHO) and from Directory of I-Med Schools. Donetsk National Medical University (Mariupol Campus) is registered with the world Medical Universities list.</p><p>Donetsk National Medical University “DNMU” was the first medical university in Ukraine and in eastern Europe who started the faculties of Medicine and Dentistry in English language for foreign students in 1991 after independence of Ukraine.</p>'
+            data: '<p>The Donetsk National Medical University (DNMU) is considered as the best medical university of Ukraine. Since 2001, its rank 1st among other Ukrainian medical universities stated by the rating of Ministry of Health & Ministry of Education of Ukraine.</p><br><p>Donetsk National Medical University “DNMU” is the first medical university of Ukraine which was recognized by World Health Organization (WHO) and from Directory of I-Med Schools. Donetsk National Medical University (Mariupol Campus) is registered with the world Medical Universities list.</p><br><p>Donetsk National Medical University “DNMU” was the first medical university in Ukraine and in eastern Europe who started the faculties of Medicine and Dentistry in English language for foreign students in 1991 after independence of Ukraine.</p>'
         },
 
         {
-            "type": "table-title",
+            "type": "table",
             "title": "Donetsk National Medical University - At a Glance",
             "info": "",
             "col": [
