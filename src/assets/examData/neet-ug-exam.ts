@@ -5,7 +5,7 @@ export const neetugexam = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "url": "neet-ug-exam",
+    "url": "neet-ug-exam/.",
     "info": [
         {
             type: 'title',
@@ -646,7 +646,7 @@ export const neetugexam = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam/syllabus" }
       ]}
       ],
-      "Reviews":[
+      "cutoff":[
         
         {
             "type": "table",

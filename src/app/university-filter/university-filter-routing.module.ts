@@ -1,4 +1,3 @@
-
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { UniversityFilterComponent } from './university-filter.component';
@@ -17,7 +16,7 @@ const routes: Routes = [
     // ]
   },
   {
-    path: ':link1/:link2',
+    path: ':link1/:link2/.',
     component:UniversityFilterComponent,
   },
   // {

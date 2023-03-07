@@ -5,7 +5,7 @@ export default [
        postedBy:"Bhavesh Nimodiya",
        Categories:'study-abroad',
        blogimg:'../../assets/blog-news-images/Blog-images/university-transfer-from-ukraine-to-poland.jpg',
-       url:'university-transfer-from-ukraine-to-poland',
+       url:'university-transfer-from-ukraine-to-poland/.',
        data: [
            // {
            //     type:'text',
@@ -189,7 +189,7 @@ export default [
     postedBy:"Bhavesh Nimodiya",
     Categories:'Study Abroad ',
     blogimg:'../../assets/blog-news-images/Blog-images/university-transfer-from-ukraine-to-russia.jpg',
-    url:'university-transfer-from-ukraine-to-russia',
+    url:'university-transfer-from-ukraine-to-russia/.',
     data: [
         // {
         //     type:'text',
@@ -404,7 +404,7 @@ export default [
     postedBy: "Saurabh Kale",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/why-choose-nepal-for-mbbs-studies.jpg',
-    url: 'why-choose-nepal-for-mbbs-studies',
+    url: 'why-choose-nepal-for-mbbs-studies/.',
     data:[
         {
             type: 'title',
@@ -865,7 +865,7 @@ export default [
     postedBy:"Bhavesh Nimodiya",
     Categories:'Study Abroad ',
     blogimg:'../../assets/blog-news-images/Blog-images/university-transfer-from-ukraine-to-georgia.jpg',
-    url:'university-transfer-from-ukraine-to-georgia',
+    url:'university-transfer-from-ukraine-to-georgia/.',
     data: [
         {
             type: 'title',
@@ -1035,7 +1035,7 @@ export default [
     postedBy:"Bhavesh Nimodiya",
     Categories:'Study Abroad ',
     blogimg:'../../assets/blog-news-images/Blog-images/university-transfer-from-ukraine-to-hungary.jpg',
-    url:'university-transfer-from-ukraine-to-hungary',
+    url:'university-transfer-from-ukraine-to-hungary/.',
     data: [
         {
             type: 'title',
@@ -1186,7 +1186,7 @@ export default [
     postedBy:"Smita Medhekar",
     Categories:'Study Abroad ',
     blogimg:'../../assets/blog-news-images/Blog-images/top-reasons-to-study-mbbs-in-philippines.jpg',
-    url:'top-reasons-to-study-mbbs-in-philippines',
+    url:'top-reasons-to-study-mbbs-in-philippines/.',
     data: [
         {
             type: 'title',
@@ -1335,7 +1335,7 @@ export default [
     postedBy:"Vivek Wagh",
     Categories:'Study Abroad ',
     blogimg:'../../assets/blog-news-images/Blog-images/entry-requirements-to-study-in-uk.jpg',
-    url:'entry-requirements-to-study-in-uk',
+    url:'entry-requirements-to-study-in-uk/.',
     data:[
         {
             type: 'title',
@@ -1646,7 +1646,7 @@ export default [
     postedBy:" Smita Medhekar",
     Categories:'Study Abroad ',
     blogimg:'../../assets/blog-news-images/Blog-images/top-reasons-to-study-mbbs-in-europe.jpg',
-    url:'top-reasons-to-study-mbbs-in-europe',
+    url:'top-reasons-to-study-mbbs-in-europe/.',
     data:[
         {
             type: 'title',
@@ -1865,7 +1865,7 @@ export default [
     postedBy: "Saurabh Kale",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/why-choose-belarus-for-mbbs-studies.jpg',
-    url: 'why-choose-belarus-for-mbbs-studies',
+    url: 'why-choose-belarus-for-mbbs-studies/.',
     data: [
         {
             type: 'title',
@@ -2188,7 +2188,7 @@ export default [
     postedBy: "Saurabh Kale",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/why-choose-bangladesh-for-mbbs-studies.jpg',
-    url: 'why-choose-bangladesh-for-mbbs-studies',
+    url: 'why-choose-bangladesh-for-mbbs-studies/.',
     data:[
         {
             type: 'title',
@@ -2528,7 +2528,7 @@ export default [
     postedBy: "Saurabh Kale",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/why-choose-nepal-for-mbbs-studies.jpg',
-    url: 'why-choose-nepal-for-mbbs-studies',
+    url: 'why-choose-nepal-for-mbbs-studies/.',
     data:[
         {
             type: 'title',
@@ -3011,7 +3011,7 @@ export default [
     postedBy: "Saurabh Kale",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/why-choose-kazakhstan-for-mbbs-studies.jpg',
-    url: 'why-choose-kazakhstan-for-mbbs-studies',
+    url: 'why-choose-kazakhstan-for-mbbs-studies/.',
     data:[
         {
             type: 'title',
@@ -3466,7 +3466,7 @@ export default [
     postedBy: "Saurabh Kale",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/why-choose-poland-for-mbbs-studies.jpg',
-    url: 'why-choose-poland-for-mbbs-studies',
+    url: 'why-choose-poland-for-mbbs-studies/.',
     data:[
         {
             type: 'title',
@@ -4194,7 +4194,7 @@ export default [
     postedBy: "Akash Yendhe",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/why-choose-georgia-for-mbbs-studies.jpg',
-    url: 'why-choose-georgia-for-mbbs-studies',
+    url: 'why-choose-georgia-for-mbbs-studies/.',
     data:[
         {
             type: 'title',
@@ -4503,7 +4503,7 @@ export default [
     postedBy: "Priyanka G Pujari",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/why-choose-russia-to-study-mbbs.jpg',
-    url: 'why-choose-russia-to-study-mbbs',
+    url: 'why-choose-russia-to-study-mbbs/.',
     data:[
         {
             type: 'title',
@@ -4732,7 +4732,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/top-countries-to-study-abroad.jpg',
-    url: 'top-countries-to-study-abroad',
+    url: 'top-countries-to-study-abroad/.',
     data:[
         {
             type: 'title',
@@ -5465,7 +5465,7 @@ export default [
     postedBy: "Vivek Wagh",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/new-nmc-regulations-to-study-mbbs-abroad.jpg',
-    url: 'new-nmc-regulations-to-study-mbbs-abroad',
+    url: 'new-nmc-regulations-to-study-mbbs-abroad/.',
     data:[
         {
             type: 'title',
@@ -5633,7 +5633,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/top-benefits-of-studying-mbbs-abroad-for-indian-students.jpg',
-    url: 'top-benefits-of-studying-mbbs-abroad-for-indian-students',
+    url: 'top-benefits-of-studying-mbbs-abroad-for-indian-students/.',
     data:[
         {
             
@@ -5867,7 +5867,7 @@ export default [
     postedBy: "Saurabh Kale",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/packing-list-for-study-abroad.jpg',
-    url: 'packing-list-for-study-abroad',
+    url: 'packing-list-for-study-abroad/.',
     data:[
         {
             type: 'title',
@@ -6159,7 +6159,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/is-studying-mbbs-in-ukraine-a-good-decision.jpg',
-    url: 'is-studying-mbbs-in-ukraine-a-good-decision',
+    url: 'is-studying-mbbs-in-ukraine-a-good-decision/.',
     data:[
         {
             type: 'title',
@@ -6357,7 +6357,7 @@ export default [
     postedBy: "Saurabh Kale",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/success-ratio-of-visa-in-ukraine.jpg',
-    url: 'success-ratio-of-visa-in-ukraine',
+    url: 'success-ratio-of-visa-in-ukraine/.',
     data:[
         {
             type: 'title',
@@ -6594,7 +6594,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/the-scope-of-studying-mbbs-in-bangladesh-for-indian-students.jpg',
-    url: 'the-scope-of-studying-mbbs-in-bangladesh-for-indian-students',
+    url: 'the-scope-of-studying-mbbs-in-bangladesh-for-indian-students/.',
     data:[
         {
             type: 'title',
@@ -6716,7 +6716,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/scope-of-studying-mbbs-in-kyrgyzstan.jpg',
-    url: 'scope-of-studying-mbbs-in-kyrgyzstan',
+    url: 'scope-of-studying-mbbs-in-kyrgyzstan/.',
     data:[
         {
             type: 'title',
@@ -6897,7 +6897,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/scope-of-studying-mbbs-in-georgia.jpg',
-    url: 'scope-of-studying-mbbs-in-georgia',
+    url: 'scope-of-studying-mbbs-in-georgia/.',
     data:[
         {
             type: 'title',
@@ -7067,7 +7067,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/scope-of-studying-mbbs-in-poland.jpg',
-    url: 'scope-of-studying-mbbs-in-poland',
+    url: 'scope-of-studying-mbbs-in-poland/.',
     data:[
         {
             type: 'title',
@@ -7226,7 +7226,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/ukraine-is-the-best-place-to-study-mbbs.jpg',
-    url: 'ukraine-is-the-best-place-to-study-mbbs',
+    url: 'ukraine-is-the-best-place-to-study-mbbs/.',
     data:[
         {
             type: 'title',
@@ -7348,7 +7348,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/benefits-of-studying-mbbs-in-course-russia.jpg',
-    url: 'benefits-of-studying-mbbs-in-course-russia',
+    url: 'benefits-of-studying-mbbs-in-course-russia/.',
     data:[
         {
             type: 'title',
@@ -7554,7 +7554,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/scope-of-mbbs-abroad.jpg',
-    url: 'scope-of-mbbs-abroad',
+    url: 'scope-of-mbbs-abroad/.',
     data:[
         {
             type: 'title',
@@ -7771,7 +7771,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/mbbs-in-ukraine-at-reasonable-price-for-indian-students.jpg',
-    url: 'mbbs-in-ukraine-at-reasonable-price-for-indian-students',
+    url: 'mbbs-in-ukraine-at-reasonable-price-for-indian-students/.',
     data:[
         {
             type: 'title',
@@ -8109,7 +8109,7 @@ export default [
     postedBy: "Prithu Sarkar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/top-countries-to-study-mba-course.jpg',
-    url: 'top-countries-to-study-mba-course',
+    url: 'top-countries-to-study-mba-course/.',
     data:[
         {
             type: 'title',
@@ -8412,7 +8412,7 @@ export default [
     postedBy: "Prithu Sarkar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/top-countries-that-produce-engineers.jpg',
-    url: 'top-countries-that-produce-engineers',
+    url: 'top-countries-that-produce-engineers/.',
     data:[
         {
             type: 'title',
@@ -8574,7 +8574,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/top-10-countries-to-study-mbbs-for-indian-students.jpg',
-    url: 'top-10-countries-to-study-mbbs-for-indian-students',
+    url: 'top-10-countries-to-study-mbbs-for-indian-students/.',
     data:[
         {
             type: 'title',
@@ -8841,7 +8841,7 @@ export default [
     postedBy: "Saurabh Kale",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/indians-can-save-money-by-studying-mbbs-abroad.jpg',
-    url: 'indians-can-save-money-by-studying-mbbs-abroad',
+    url: 'indians-can-save-money-by-studying-mbbs-abroad/.',
     data:[
         {
             type: 'title',
@@ -9153,7 +9153,7 @@ export default [
     postedBy: "Smita Medhekar",
     Categories: 'Study Abroad ',
     blogimg: '../../assets/blog-news-images/Blog-images/top-courses-to-study-abroad.jpg',
-    url: 'top-courses-to-study-abroad',
+    url: 'top-courses-to-study-abroad/.',
     data:[
         {
             type: 'title',

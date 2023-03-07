@@ -5,5046 +5,5046 @@ import { CollegeConComponent } from './college-con.component';
 
 const routes: Routes = [
   {
-    path: 'MIT',
+    path: 'MIT/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/courses-and-fees',
+    path: 'MIT/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/admission',
+    path: 'MIT/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/review',
+    path: 'MIT/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/placement',
+    path: 'MIT/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/gallery',
+    path: 'MIT/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/scholarship',
+    path: 'MIT/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/faculty',
+    path: 'MIT/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/news',
+    path: 'MIT/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/hostel',
+    path: 'MIT/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'MIT/faq',
+    path: 'MIT/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore',
+    path: 'acharya-institute-of-technology-ait-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/courses-and-fees',
+    path: 'acharya-institute-of-technology-ait-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/admission',
+    path: 'acharya-institute-of-technology-ait-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/review',
+    path: 'acharya-institute-of-technology-ait-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/placement',
+    path: 'acharya-institute-of-technology-ait-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/gallery',
+    path: 'acharya-institute-of-technology-ait-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/scholarship',
+    path: 'acharya-institute-of-technology-ait-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/faculty',
+    path: 'acharya-institute-of-technology-ait-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/news',
+    path: 'acharya-institute-of-technology-ait-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/hostel',
+    path: 'acharya-institute-of-technology-ait-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'acharya-institute-of-technology-ait-bangalore/faq',
+    path: 'acharya-institute-of-technology-ait-bangalore/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'ifmr-graduate-school-of-business-chennai',
+    path: 'ifmr-graduate-school-of-business-chennai/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/courses-and-fees',
+    path: 'ifmr-graduate-school-of-business-chennai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/admission',
+    path: 'ifmr-graduate-school-of-business-chennai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/review',
+    path: 'ifmr-graduate-school-of-business-chennai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/placement',
+    path: 'ifmr-graduate-school-of-business-chennai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/gallery',
+    path: 'ifmr-graduate-school-of-business-chennai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/scholarship',
+    path: 'ifmr-graduate-school-of-business-chennai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/faculty',
+    path: 'ifmr-graduate-school-of-business-chennai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/news',
+    path: 'ifmr-graduate-school-of-business-chennai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/hostel',
+    path: 'ifmr-graduate-school-of-business-chennai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'ifmr-graduate-school-of-business-chennai/faq',
+    path: 'ifmr-graduate-school-of-business-chennai/faq/.',
     component: CollegeConComponent
   },
 
   
 
   {
-    path: 'armed-forces-medical-college-afmc-pune',
+    path: 'armed-forces-medical-college-afmc-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/courses-and-fees',
+    path: 'armed-forces-medical-college-afmc-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/admission',
+    path: 'armed-forces-medical-college-afmc-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/review',
+    path: 'armed-forces-medical-college-afmc-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/placement',
+    path: 'armed-forces-medical-college-afmc-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/gallery',
+    path: 'armed-forces-medical-college-afmc-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/scholarship',
+    path: 'armed-forces-medical-college-afmc-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/faculty',
+    path: 'armed-forces-medical-college-afmc-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/news',
+    path: 'armed-forces-medical-college-afmc-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/hostel',
+    path: 'armed-forces-medical-college-afmc-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'armed-forces-medical-college-afmc-pune/faq',
+    path: 'armed-forces-medical-college-afmc-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'amity-global-business-school-agbs-pune',
+    path: 'amity-global-business-school-agbs-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/courses-and-fees',
+    path: 'amity-global-business-school-agbs-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/admission',
+    path: 'amity-global-business-school-agbs-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/review',
+    path: 'amity-global-business-school-agbs-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/placement',
+    path: 'amity-global-business-school-agbs-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/gallery',
+    path: 'amity-global-business-school-agbs-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/scholarship',
+    path: 'amity-global-business-school-agbs-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/faculty',
+    path: 'amity-global-business-school-agbs-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/news',
+    path: 'amity-global-business-school-agbs-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/hostel',
+    path: 'amity-global-business-school-agbs-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-global-business-school-agbs-pune/faq',
+    path: 'amity-global-business-school-agbs-pune/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/courses-and-fees',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/admission',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/review',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/placement',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/gallery',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/scholarship',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/faculty',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/news',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/hostel',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'amity-institute-of-information-technology-aiit-mumbai/faq',
+    path: 'amity-institute-of-information-technology-aiit-mumbai/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university',
+    path: 'siberian-state-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/courses-and-fees',
+    path: 'siberian-state-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/admission',
+    path: 'siberian-state-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/review',
+    path: 'siberian-state-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/placement',
+    path: 'siberian-state-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/gallery',
+    path: 'siberian-state-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/scholarship',
+    path: 'siberian-state-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/faculty',
+    path: 'siberian-state-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/news',
+    path: 'siberian-state-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/hostel',
+    path: 'siberian-state-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'siberian-state-medical-university/faq',
+    path: 'siberian-state-medical-university/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology',
+    path: 'saint-petersburg-state-institute-of-technology/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/courses-and-fees',
+    path: 'saint-petersburg-state-institute-of-technology/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/admission',
+    path: 'saint-petersburg-state-institute-of-technology/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/review',
+    path: 'saint-petersburg-state-institute-of-technology/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/placement',
+    path: 'saint-petersburg-state-institute-of-technology/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/gallery',
+    path: 'saint-petersburg-state-institute-of-technology/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/scholarship',
+    path: 'saint-petersburg-state-institute-of-technology/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/faculty',
+    path: 'saint-petersburg-state-institute-of-technology/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/news',
+    path: 'saint-petersburg-state-institute-of-technology/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/hostel',
+    path: 'saint-petersburg-state-institute-of-technology/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'saint-petersburg-state-institute-of-technology/faq',
+    path: 'saint-petersburg-state-institute-of-technology/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine',
+    path: 'national-metallurgical-academy-of-ukraine/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/courses-and-fees',
+    path: 'national-metallurgical-academy-of-ukraine/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/admission',
+    path: 'national-metallurgical-academy-of-ukraine/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/review',
+    path: 'national-metallurgical-academy-of-ukraine/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/placement',
+    path: 'national-metallurgical-academy-of-ukraine/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/gallery',
+    path: 'national-metallurgical-academy-of-ukraine/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/scholarship',
+    path: 'national-metallurgical-academy-of-ukraine/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/faculty',
+    path: 'national-metallurgical-academy-of-ukraine/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/news',
+    path: 'national-metallurgical-academy-of-ukraine/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/hostel',
+    path: 'national-metallurgical-academy-of-ukraine/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'national-metallurgical-academy-of-ukraine/faq',
+    path: 'national-metallurgical-academy-of-ukraine/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university',
+    path: 'perm-state-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/courses-and-fees',
+    path: 'perm-state-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/admission',
+    path: 'perm-state-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/review',
+    path: 'perm-state-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/placement',
+    path: 'perm-state-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/gallery',
+    path: 'perm-state-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/scholarship',
+    path: 'perm-state-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/faculty',
+    path: 'perm-state-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/news',
+    path: 'perm-state-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/hostel',
+    path: 'perm-state-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'perm-state-medical-university/faq',
+    path: 'perm-state-medical-university/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina',
+    path: 'university-of-regina/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/courses-and-fees',
+    path: 'university-of-regina/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/admission',
+    path: 'university-of-regina/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/review',
+    path: 'university-of-regina/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/placement',
+    path: 'university-of-regina/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/gallery',
+    path: 'university-of-regina/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/scholarship',
+    path: 'university-of-regina/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/faculty',
+    path: 'university-of-regina/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/news',
+    path: 'university-of-regina/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/hostel',
+    path: 'university-of-regina/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-regina/faq',
+    path: 'university-of-regina/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy',
+    path: 'south-kazakhstan-state-medical-academy/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/courses-and-fees',
+    path: 'south-kazakhstan-state-medical-academy/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/admission',
+    path: 'south-kazakhstan-state-medical-academy/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/review',
+    path: 'south-kazakhstan-state-medical-academy/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/placement',
+    path: 'south-kazakhstan-state-medical-academy/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/gallery',
+    path: 'south-kazakhstan-state-medical-academy/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/scholarship',
+    path: 'south-kazakhstan-state-medical-academy/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/faculty',
+    path: 'south-kazakhstan-state-medical-academy/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/news',
+    path: 'south-kazakhstan-state-medical-academy/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/hostel',
+    path: 'south-kazakhstan-state-medical-academy/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'south-kazakhstan-state-medical-academy/faq',
+    path: 'south-kazakhstan-state-medical-academy/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university',
+    path: 'kursk-state-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/courses-and-fees',
+    path: 'kursk-state-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/admission',
+    path: 'kursk-state-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/review',
+    path: 'kursk-state-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/placement',
+    path: 'kursk-state-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/gallery',
+    path: 'kursk-state-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/scholarship',
+    path: 'kursk-state-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/faculty',
+    path: 'kursk-state-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/news',
+    path: 'kursk-state-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/hostel',
+    path: 'kursk-state-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'kursk-state-medical-university/faq',
+    path: 'kursk-state-medical-university/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts',
+    path: 'university-for-the-creative-arts/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/courses-and-fees',
+    path: 'university-for-the-creative-arts/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/admission',
+    path: 'university-for-the-creative-arts/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/review',
+    path: 'university-for-the-creative-arts/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/placement',
+    path: 'university-for-the-creative-arts/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/gallery',
+    path: 'university-for-the-creative-arts/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/scholarship',
+    path: 'university-for-the-creative-arts/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/faculty',
+    path: 'university-for-the-creative-arts/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/news',
+    path: 'university-for-the-creative-arts/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/hostel',
+    path: 'university-for-the-creative-arts/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-for-the-creative-arts/faq',
+    path: 'university-for-the-creative-arts/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university',
+    path: 'altai-state-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/courses-and-fees',
+    path: 'altai-state-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/admission',
+    path: 'altai-state-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/review',
+    path: 'altai-state-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/placement',
+    path: 'altai-state-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/gallery',
+    path: 'altai-state-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/scholarship',
+    path: 'altai-state-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/faculty',
+    path: 'altai-state-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/news',
+    path: 'altai-state-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/hostel',
+    path: 'altai-state-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'altai-state-medical-university/faq',
+    path: 'altai-state-medical-university/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi',
+    path: 'bau-international-university-batumi/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/courses-and-fees',
+    path: 'bau-international-university-batumi/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/admission',
+    path: 'bau-international-university-batumi/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/review',
+    path: 'bau-international-university-batumi/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/placement',
+    path: 'bau-international-university-batumi/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/gallery',
+    path: 'bau-international-university-batumi/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/scholarship',
+    path: 'bau-international-university-batumi/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/faculty',
+    path: 'bau-international-university-batumi/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/news',
+    path: 'bau-international-university-batumi/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/hostel',
+    path: 'bau-international-university-batumi/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bau-international-university-batumi/faq',
+    path: 'bau-international-university-batumi/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university',
+    path: 'jalalabad-state-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/courses-and-fees',
+    path: 'jalalabad-state-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/admission',
+    path: 'jalalabad-state-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/review',
+    path: 'jalalabad-state-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/placement',
+    path: 'jalalabad-state-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/gallery',
+    path: 'jalalabad-state-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/scholarship',
+    path: 'jalalabad-state-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/faculty',
+    path: 'jalalabad-state-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/news',
+    path: 'jalalabad-state-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/hostel',
+    path: 'jalalabad-state-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'jalalabad-state-university/faq',
+    path: 'jalalabad-state-university/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine',
+    path: 'international-school-of-medicine/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/courses-and-fees',
+    path: 'international-school-of-medicine/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/admission',
+    path: 'international-school-of-medicine/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/review',
+    path: 'international-school-of-medicine/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/placement',
+    path: 'international-school-of-medicine/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/gallery',
+    path: 'international-school-of-medicine/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/scholarship',
+    path: 'international-school-of-medicine/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/faculty',
+    path: 'international-school-of-medicine/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/news',
+    path: 'international-school-of-medicine/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/hostel',
+    path: 'international-school-of-medicine/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'international-school-of-medicine/faq',
+    path: 'international-school-of-medicine/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy',
+    path: 'ivanovo-state-medical-academy/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/courses-and-fees',
+    path: 'ivanovo-state-medical-academy/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/admission',
+    path: 'ivanovo-state-medical-academy/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/review',
+    path: 'ivanovo-state-medical-academy/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/placement',
+    path: 'ivanovo-state-medical-academy/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/gallery',
+    path: 'ivanovo-state-medical-academy/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/scholarship',
+    path: 'ivanovo-state-medical-academy/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/faculty',
+    path: 'ivanovo-state-medical-academy/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/news',
+    path: 'ivanovo-state-medical-academy/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/hostel',
+    path: 'ivanovo-state-medical-academy/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'ivanovo-state-medical-academy/faq',
+    path: 'ivanovo-state-medical-academy/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university',
+    path: 'privolzhsky-research-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/courses-and-fees',
+    path: 'privolzhsky-research-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/admission',
+    path: 'privolzhsky-research-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/review',
+    path: 'privolzhsky-research-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/placement',
+    path: 'privolzhsky-research-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/gallery',
+    path: 'privolzhsky-research-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/scholarship',
+    path: 'privolzhsky-research-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/faculty',
+    path: 'privolzhsky-research-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/news',
+    path: 'privolzhsky-research-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/hostel',
+    path: 'privolzhsky-research-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'privolzhsky-research-medical-university/faq',
+    path: 'privolzhsky-research-medical-university/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university',
+    path: 'tula-state-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/courses-and-fees',
+    path: 'tula-state-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/admission',
+    path: 'tula-state-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/review',
+    path: 'tula-state-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/placement',
+    path: 'tula-state-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/gallery',
+    path: 'tula-state-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/scholarship',
+    path: 'tula-state-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/faculty',
+    path: 'tula-state-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/news',
+    path: 'tula-state-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/hostel',
+    path: 'tula-state-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/faq',
+    path: 'tula-state-university/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college',
+    path: 'ad-din-womens-medical-college/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/courses-and-fees',
+    path: 'ad-din-womens-medical-college/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/admission',
+    path: 'ad-din-womens-medical-college/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/review',
+    path: 'ad-din-womens-medical-college/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/placement',
+    path: 'ad-din-womens-medical-college/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/gallery',
+    path: 'ad-din-womens-medical-college/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/scholarship',
+    path: 'ad-din-womens-medical-college/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/faculty',
+    path: 'ad-din-womens-medical-college/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/news',
+    path: 'ad-din-womens-medical-college/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/hostel',
+    path: 'ad-din-womens-medical-college/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'ad-din-womens-medical-college/faq',
+    path: 'ad-din-womens-medical-college/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college',
+    path: 'anwer-khan-modern-medical-college/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/courses-and-fees',
+    path: 'anwer-khan-modern-medical-college/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/admission',
+    path: 'anwer-khan-modern-medical-college/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/review',
+    path: 'anwer-khan-modern-medical-college/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/placement',
+    path: 'anwer-khan-modern-medical-college/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/gallery',
+    path: 'anwer-khan-modern-medical-college/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/scholarship',
+    path: 'anwer-khan-modern-medical-college/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/faculty',
+    path: 'anwer-khan-modern-medical-college/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/news',
+    path: 'anwer-khan-modern-medical-college/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/hostel',
+    path: 'anwer-khan-modern-medical-college/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'anwer-khan-modern-medical-college/faq',
+    path: 'anwer-khan-modern-medical-college/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college',
+    path: 'dhaka-central-international-medical-college/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/courses-and-fees',
+    path: 'dhaka-central-international-medical-college/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/admission',
+    path: 'dhaka-central-international-medical-college/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/review',
+    path: 'dhaka-central-international-medical-college/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/placement',
+    path: 'dhaka-central-international-medical-college/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/gallery',
+    path: 'dhaka-central-international-medical-college/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/scholarship',
+    path: 'dhaka-central-international-medical-college/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/faculty',
+    path: 'dhaka-central-international-medical-college/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/news',
+    path: 'dhaka-central-international-medical-college/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/hostel',
+    path: 'dhaka-central-international-medical-college/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-college/faq',
+    path: 'dhaka-central-international-medical-college/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college',
+    path: 'dhaka-community-medical-college/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/courses-and-fees',
+    path: 'dhaka-community-medical-college/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/admission',
+    path: 'dhaka-community-medical-college/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/review',
+    path: 'dhaka-community-medical-college/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/placement',
+    path: 'dhaka-community-medical-college/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/gallery',
+    path: 'dhaka-community-medical-college/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/scholarship',
+    path: 'dhaka-community-medical-college/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/faculty',
+    path: 'dhaka-community-medical-college/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/news',
+    path: 'dhaka-community-medical-college/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/hostel',
+    path: 'dhaka-community-medical-college/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-community-medical-college/faq',
+    path: 'dhaka-community-medical-college/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college',
+    path: 'dr-sirajul-islam-medical-college/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/courses-and-fees',
+    path: 'dr-sirajul-islam-medical-college/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/admission',
+    path: 'dr-sirajul-islam-medical-college/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/review',
+    path: 'dr-sirajul-islam-medical-college/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/placement',
+    path: 'dr-sirajul-islam-medical-college/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/gallery',
+    path: 'dr-sirajul-islam-medical-college/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/scholarship',
+    path: 'dr-sirajul-islam-medical-college/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/faculty',
+    path: 'dr-sirajul-islam-medical-college/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/news',
+    path: 'dr-sirajul-islam-medical-college/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/hostel',
+    path: 'dr-sirajul-islam-medical-college/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-sirajul-islam-medical-college/faq',
+    path: 'dr-sirajul-islam-medical-college/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital',
+    path: 'enam-medical-college-and-hospital/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/courses-and-fees',
+    path: 'enam-medical-college-and-hospital/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/admission',
+    path: 'enam-medical-college-and-hospital/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/review',
+    path: 'enam-medical-college-and-hospital/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/placement',
+    path: 'enam-medical-college-and-hospital/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/gallery',
+    path: 'enam-medical-college-and-hospital/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/scholarship',
+    path: 'enam-medical-college-and-hospital/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/faculty',
+    path: 'enam-medical-college-and-hospital/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/news',
+    path: 'enam-medical-college-and-hospital/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/hostel',
+    path: 'enam-medical-college-and-hospital/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/faq',
+    path: 'enam-medical-college-and-hospital/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/courses-and-fees',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/admission',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/review',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/placement',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/gallery',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/scholarship',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/faculty',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/news',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/hostel',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/faq',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital',
+    path: 'enam-medical-college-and-hospital/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/courses-and-fees',
+    path: 'enam-medical-college-and-hospital/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/admission',
+    path: 'enam-medical-college-and-hospital/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/review',
+    path: 'enam-medical-college-and-hospital/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/placement',
+    path: 'enam-medical-college-and-hospital/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/gallery',
+    path: 'enam-medical-college-and-hospital/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/scholarship',
+    path: 'enam-medical-college-and-hospital/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/faculty',
+    path: 'enam-medical-college-and-hospital/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/news',
+    path: 'enam-medical-college-and-hospital/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/hostel',
+    path: 'enam-medical-college-and-hospital/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-college-and-hospital/faq',
+    path: 'enam-medical-college-and-hospital/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/courses-and-fees',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/admission',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/review',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/placement',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/gallery',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/scholarship',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/faculty',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/news',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/hostel',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'gonoshasthaya-samaj-vittik-medical-college/faq',
+    path: 'gonoshasthaya-samaj-vittik-medical-college/faq/.',
     component: CollegeConComponent
   },
   
   {
-    path: 'sdm-institute-for-management-development-mysore',
+    path: 'sdm-institute-for-management-development-mysore/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/courses-and-fees',
+    path: 'sdm-institute-for-management-development-mysore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/admission',
+    path: 'sdm-institute-for-management-development-mysore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/review',
+    path: 'sdm-institute-for-management-development-mysore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/placement',
+    path: 'sdm-institute-for-management-development-mysore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/gallery',
+    path: 'sdm-institute-for-management-development-mysore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/scholarship',
+    path: 'sdm-institute-for-management-development-mysore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/faculty',
+    path: 'sdm-institute-for-management-development-mysore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/news',
+    path: 'sdm-institute-for-management-development-mysore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/hostel',
+    path: 'sdm-institute-for-management-development-mysore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'sdm-institute-for-management-development-mysore/faq',
+    path: 'sdm-institute-for-management-development-mysore/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai',
+    path: 'athena-school-of-management-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/courses-and-fees',
+    path: 'athena-school-of-management-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/admission',
+    path: 'athena-school-of-management-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/review',
+    path: 'athena-school-of-management-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/placement',
+    path: 'athena-school-of-management-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/gallery',
+    path: 'athena-school-of-management-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/scholarship',
+    path: 'athena-school-of-management-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/faculty',
+    path: 'athena-school-of-management-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/news',
+    path: 'athena-school-of-management-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/hostel',
+    path: 'athena-school-of-management-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'athena-school-of-management-mumbai/faq',
+    path: 'athena-school-of-management-mumbai/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university',
+    path: 'awadhesh-pratap-singh-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/courses-and-fees',
+    path: 'awadhesh-pratap-singh-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/admission',
+    path: 'awadhesh-pratap-singh-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/review',
+    path: 'awadhesh-pratap-singh-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/placement',
+    path: 'awadhesh-pratap-singh-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/gallery',
+    path: 'awadhesh-pratap-singh-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/scholarship',
+    path: 'awadhesh-pratap-singh-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/faculty',
+    path: 'awadhesh-pratap-singh-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/news',
+    path: 'awadhesh-pratap-singh-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/hostel',
+    path: 'awadhesh-pratap-singh-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'awadhesh-pratap-singh-university/faq',
+    path: 'awadhesh-pratap-singh-university/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune',
+    path: 'balaji-institute-of-modern-management-bimm-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/courses-and-fees',
+    path: 'balaji-institute-of-modern-management-bimm-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/admission',
+    path: 'balaji-institute-of-modern-management-bimm-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/review',
+    path: 'balaji-institute-of-modern-management-bimm-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/placement',
+    path: 'balaji-institute-of-modern-management-bimm-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/gallery',
+    path: 'balaji-institute-of-modern-management-bimm-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/scholarship',
+    path: 'balaji-institute-of-modern-management-bimm-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/faculty',
+    path: 'balaji-institute-of-modern-management-bimm-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/news',
+    path: 'balaji-institute-of-modern-management-bimm-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/hostel',
+    path: 'balaji-institute-of-modern-management-bimm-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'balaji-institute-of-modern-management-bimm-pune/faq',
+    path: 'balaji-institute-of-modern-management-bimm-pune/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation',
+    path: 'berlin-school-of-business-and-innovation/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/courses-and-fees',
+    path: 'berlin-school-of-business-and-innovation/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/admission',
+    path: 'berlin-school-of-business-and-innovation/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/review',
+    path: 'berlin-school-of-business-and-innovation/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/placement',
+    path: 'berlin-school-of-business-and-innovation/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/gallery',
+    path: 'berlin-school-of-business-and-innovation/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/scholarship',
+    path: 'berlin-school-of-business-and-innovation/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/faculty',
+    path: 'berlin-school-of-business-and-innovation/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/news',
+    path: 'berlin-school-of-business-and-innovation/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/hostel',
+    path: 'berlin-school-of-business-and-innovation/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'berlin-school-of-business-and-innovation/faq',
+    path: 'berlin-school-of-business-and-innovation/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/courses-and-fees',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/admission',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/review',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/placement',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/gallery',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/scholarship',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/faculty',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/news',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/hostel',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/faq',
+    path: 'bharati-vidyapeeth-college-of-engineering-bvcoe-pune/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university',
+    path: 'bharati-vidyapeeth-deemed-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/courses-and-fees',
+    path: 'bharati-vidyapeeth-deemed-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/admission',
+    path: 'bharati-vidyapeeth-deemed-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/review',
+    path: 'bharati-vidyapeeth-deemed-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/placement',
+    path: 'bharati-vidyapeeth-deemed-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/gallery',
+    path: 'bharati-vidyapeeth-deemed-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/scholarship',
+    path: 'bharati-vidyapeeth-deemed-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/faculty',
+    path: 'bharati-vidyapeeth-deemed-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/news',
+    path: 'bharati-vidyapeeth-deemed-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/hostel',
+    path: 'bharati-vidyapeeth-deemed-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university/faq',
+    path: 'bharati-vidyapeeth-deemed-university/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/courses-and-fees',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/admission',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/review',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/placement',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/gallery',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/scholarship',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/faculty',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/news',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/hostel',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/faq',
+    path: 'bharati-vidyapeeth-dental-college-hospital-navi-mumbai/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/courses-and-fees',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/admission',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/review',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/placement',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/gallery',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/scholarship',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/faculty',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/news',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/hostel',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-pune/faq',
+    path: 'bharati-vidyapeeth-dental-college-hospital-pune/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/courses-and-fees',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/admission',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/review',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/placement',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/gallery',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/scholarship',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/faculty',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/news',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/hostel',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/faq',
+    path: 'bharati-vidyapeeth-dental-college-hospital-sangli/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/courses-and-fees',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/admission',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/review',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/placement',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/gallery',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/scholarship',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faculty',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/news',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/hostel',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faq',
+    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/courses-and-fees',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/admission',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/review',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/placement',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/gallery',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/scholarship',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/faculty',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/news',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/hostel',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/faq',
+    path: 'bharati-vidyapeeth-medical-college-hospital-sangli/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune',
+    path: 'bharati-vidyapeeth-medical-college-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/courses-and-fees',
+    path: 'bharati-vidyapeeth-medical-college-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/admission',
+    path: 'bharati-vidyapeeth-medical-college-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/review',
+    path: 'bharati-vidyapeeth-medical-college-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/placement',
+    path: 'bharati-vidyapeeth-medical-college-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/gallery',
+    path: 'bharati-vidyapeeth-medical-college-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/scholarship',
+    path: 'bharati-vidyapeeth-medical-college-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/faculty',
+    path: 'bharati-vidyapeeth-medical-college-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/news',
+    path: 'bharati-vidyapeeth-medical-college-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/hostel',
+    path: 'bharati-vidyapeeth-medical-college-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-medical-college-pune/faq',
+    path: 'bharati-vidyapeeth-medical-college-pune/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/courses-and-fees',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/admission',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/review',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/placement',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/gallery',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/scholarship',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/faculty',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/news',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/hostel',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'birla-institute-of-technology-and-science-bits-pilani/faq',
+    path: 'birla-institute-of-technology-and-science-bits-pilani/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/courses-and-fees',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/admission',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/review',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/placement',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/gallery',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/scholarship',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/faculty',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/news',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/hostel',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/faq',
+    path: 'brihan-maharashtra-college-of-commerce-bmcc-pune/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore',
+    path: 'bms-college-of-engineering-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/courses-and-fees',
+    path: 'bms-college-of-engineering-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/admission',
+    path: 'bms-college-of-engineering-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/review',
+    path: 'bms-college-of-engineering-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/placement',
+    path: 'bms-college-of-engineering-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/gallery',
+    path: 'bms-college-of-engineering-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/scholarship',
+    path: 'bms-college-of-engineering-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/faculty',
+    path: 'bms-college-of-engineering-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/news',
+    path: 'bms-college-of-engineering-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/hostel',
+    path: 'bms-college-of-engineering-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bms-college-of-engineering-bangalore/faq',
+    path: 'bms-college-of-engineering-bangalore/faq/.',
     component: CollegeConComponent
   },
   
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore',
+    path: 'cambridge-institute-of-technology-cit-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/courses-and-fees',
+    path: 'cambridge-institute-of-technology-cit-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/admission',
+    path: 'cambridge-institute-of-technology-cit-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/review',
+    path: 'cambridge-institute-of-technology-cit-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/placement',
+    path: 'cambridge-institute-of-technology-cit-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/gallery',
+    path: 'cambridge-institute-of-technology-cit-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/scholarship',
+    path: 'cambridge-institute-of-technology-cit-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/faculty',
+    path: 'cambridge-institute-of-technology-cit-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/news',
+    path: 'cambridge-institute-of-technology-cit-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/hostel',
+    path: 'cambridge-institute-of-technology-cit-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'cambridge-institute-of-technology-cit-bangalore/faq',
+    path: 'cambridge-institute-of-technology-cit-bangalore/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college',
+    path: 'camosun-college/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/courses-and-fees',
+    path: 'camosun-college/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/admission',
+    path: 'camosun-college/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/review',
+    path: 'camosun-college/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/placement',
+    path: 'camosun-college/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/gallery',
+    path: 'camosun-college/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/scholarship',
+    path: 'camosun-college/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/faculty',
+    path: 'camosun-college/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/news',
+    path: 'camosun-college/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/hostel',
+    path: 'camosun-college/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'camosun-college/faq',
+    path: 'camosun-college/faq/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/courses-and-fees',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/admission',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/review',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/placement',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/gallery',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/scholarship',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/faculty',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/news',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/hostel',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/faq',
+    path: 'dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/courses-and-fees',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/admission',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/review',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/placement',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/gallery',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/scholarship',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/faculty',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/news',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/hostel',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/faq',
+    path: 'dr-dy-patil-institute-of-technology-dypit-pimpri-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/courses-and-fees',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/admission',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/review',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/placement',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/gallery',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/scholarship',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/faculty',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/news',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/hostel',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/faq',
+    path: 'dr-dy-patil-medical-college-hospital-navi-mumbai/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'dr-dy-patil-medical-college-kolhapur',
+    path: 'dr-dy-patil-medical-college-kolhapur/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/courses-and-fees',
+    path: 'dr-dy-patil-medical-college-kolhapur/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/admission',
+    path: 'dr-dy-patil-medical-college-kolhapur/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/review',
+    path: 'dr-dy-patil-medical-college-kolhapur/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/placement',
+    path: 'dr-dy-patil-medical-college-kolhapur/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/gallery',
+    path: 'dr-dy-patil-medical-college-kolhapur/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/scholarship',
+    path: 'dr-dy-patil-medical-college-kolhapur/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/faculty',
+    path: 'dr-dy-patil-medical-college-kolhapur/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/news',
+    path: 'dr-dy-patil-medical-college-kolhapur/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/hostel',
+    path: 'dr-dy-patil-medical-college-kolhapur/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-kolhapur/faq',
+    path: 'dr-dy-patil-medical-college-kolhapur/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'dr-dy-patil-medical-college-pune',
+    path: 'dr-dy-patil-medical-college-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/courses-and-fees',
+    path: 'dr-dy-patil-medical-college-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/admission',
+    path: 'dr-dy-patil-medical-college-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/review',
+    path: 'dr-dy-patil-medical-college-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/placement',
+    path: 'dr-dy-patil-medical-college-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/gallery',
+    path: 'dr-dy-patil-medical-college-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/scholarship',
+    path: 'dr-dy-patil-medical-college-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/faculty',
+    path: 'dr-dy-patil-medical-college-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/news',
+    path: 'dr-dy-patil-medical-college-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/hostel',
+    path: 'dr-dy-patil-medical-college-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dr-dy-patil-medical-college-pune/faq',
+    path: 'dr-dy-patil-medical-college-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/courses-and-fees',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/admission',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/review',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/placement',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/gallery',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/scholarship',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/faculty',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/news',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/hostel',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/faq',
+    path: 'dy-patil-university-school-of-management-dypusm-navi-mumbai/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'dy-patil-arts-commerce-science-college-pune',
+    path: 'dy-patil-arts-commerce-science-college-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/courses-and-fees',
+    path: 'dy-patil-arts-commerce-science-college-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/admission',
+    path: 'dy-patil-arts-commerce-science-college-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/review',
+    path: 'dy-patil-arts-commerce-science-college-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/placement',
+    path: 'dy-patil-arts-commerce-science-college-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/gallery',
+    path: 'dy-patil-arts-commerce-science-college-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/scholarship',
+    path: 'dy-patil-arts-commerce-science-college-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/faculty',
+    path: 'dy-patil-arts-commerce-science-college-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/news',
+    path: 'dy-patil-arts-commerce-science-college-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/hostel',
+    path: 'dy-patil-arts-commerce-science-college-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dy-patil-arts-commerce-science-college-pune/faq',
+    path: 'dy-patil-arts-commerce-science-college-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'eu-business-school-munich',
+    path: 'eu-business-school-munich/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/courses-and-fees',
+    path: 'eu-business-school-munich/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/admission',
+    path: 'eu-business-school-munich/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/review',
+    path: 'eu-business-school-munich/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/placement',
+    path: 'eu-business-school-munich/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/gallery',
+    path: 'eu-business-school-munich/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/scholarship',
+    path: 'eu-business-school-munich/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/faculty',
+    path: 'eu-business-school-munich/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/news',
+    path: 'eu-business-school-munich/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/hostel',
+    path: 'eu-business-school-munich/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'eu-business-school-munich/faq',
+    path: 'eu-business-school-munich/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/courses-and-fees',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/admission',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/review',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/placement',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/gallery',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/scholarship',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/faculty',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/news',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/hostel',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/faq',
+    path: 'guru-nanak-institute-of-management-studies-gnims-mumbai/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'jaipuria-institute-of-management',
+    path: 'jaipuria-institute-of-management/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/courses-and-fees',
+    path: 'jaipuria-institute-of-management/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/admission',
+    path: 'jaipuria-institute-of-management/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/review',
+    path: 'jaipuria-institute-of-management/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/placement',
+    path: 'jaipuria-institute-of-management/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/gallery',
+    path: 'jaipuria-institute-of-management/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/scholarship',
+    path: 'jaipuria-institute-of-management/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/faculty',
+    path: 'jaipuria-institute-of-management/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/news',
+    path: 'jaipuria-institute-of-management/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/hostel',
+    path: 'jaipuria-institute-of-management/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'jaipuria-institute-of-management/faq',
+    path: 'jaipuria-institute-of-management/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'lviv-polytechnic-national-university',
+    path: 'lviv-polytechnic-national-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/courses-and-fees',
+    path: 'lviv-polytechnic-national-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/admission',
+    path: 'lviv-polytechnic-national-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/review',
+    path: 'lviv-polytechnic-national-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/placement',
+    path: 'lviv-polytechnic-national-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/gallery',
+    path: 'lviv-polytechnic-national-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/scholarship',
+    path: 'lviv-polytechnic-national-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/faculty',
+    path: 'lviv-polytechnic-national-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/news',
+    path: 'lviv-polytechnic-national-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/hostel',
+    path: 'lviv-polytechnic-national-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'lviv-polytechnic-national-university/faq',
+    path: 'lviv-polytechnic-national-university/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'sagar-institute-of-research-and-technology',
+    path: 'sagar-institute-of-research-and-technology/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/courses-and-fees',
+    path: 'sagar-institute-of-research-and-technology/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/admission',
+    path: 'sagar-institute-of-research-and-technology/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/review',
+    path: 'sagar-institute-of-research-and-technology/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/placement',
+    path: 'sagar-institute-of-research-and-technology/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/gallery',
+    path: 'sagar-institute-of-research-and-technology/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/scholarship',
+    path: 'sagar-institute-of-research-and-technology/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/faculty',
+    path: 'sagar-institute-of-research-and-technology/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/news',
+    path: 'sagar-institute-of-research-and-technology/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/hostel',
+    path: 'sagar-institute-of-research-and-technology/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'sagar-institute-of-research-and-technology/faq',
+    path: 'sagar-institute-of-research-and-technology/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'st-josephs-institute-of-management-bangalore',
+    path: 'st-josephs-institute-of-management-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/courses-and-fees',
+    path: 'st-josephs-institute-of-management-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/admission',
+    path: 'st-josephs-institute-of-management-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/review',
+    path: 'st-josephs-institute-of-management-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/placement',
+    path: 'st-josephs-institute-of-management-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/gallery',
+    path: 'st-josephs-institute-of-management-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/scholarship',
+    path: 'st-josephs-institute-of-management-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/faculty',
+    path: 'st-josephs-institute-of-management-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/news',
+    path: 'st-josephs-institute-of-management-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/hostel',
+    path: 'st-josephs-institute-of-management-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'st-josephs-institute-of-management-bangalore/faq',
+    path: 'st-josephs-institute-of-management-bangalore/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'walchand-institute-of-technology-solapur',
+    path: 'walchand-institute-of-technology-solapur/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/courses-and-fees',
+    path: 'walchand-institute-of-technology-solapur/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/admission',
+    path: 'walchand-institute-of-technology-solapur/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/review',
+    path: 'walchand-institute-of-technology-solapur/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/placement',
+    path: 'walchand-institute-of-technology-solapur/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/gallery',
+    path: 'walchand-institute-of-technology-solapur/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/scholarship',
+    path: 'walchand-institute-of-technology-solapur/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/faculty',
+    path: 'walchand-institute-of-technology-solapur/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/news',
+    path: 'walchand-institute-of-technology-solapur/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/hostel',
+    path: 'walchand-institute-of-technology-solapur/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'walchand-institute-of-technology-solapur/faq',
+    path: 'walchand-institute-of-technology-solapur/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'budapest-university-of-technology-and-economics',
+    path: 'budapest-university-of-technology-and-economics/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/courses-and-fees',
+    path: 'budapest-university-of-technology-and-economics/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/admission',
+    path: 'budapest-university-of-technology-and-economics/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/review',
+    path: 'budapest-university-of-technology-and-economics/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/placement',
+    path: 'budapest-university-of-technology-and-economics/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/gallery',
+    path: 'budapest-university-of-technology-and-economics/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/scholarship',
+    path: 'budapest-university-of-technology-and-economics/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/faculty',
+    path: 'budapest-university-of-technology-and-economics/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/news',
+    path: 'budapest-university-of-technology-and-economics/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/hostel',
+    path: 'budapest-university-of-technology-and-economics/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'budapest-university-of-technology-and-economics/faq',
+    path: 'budapest-university-of-technology-and-economics/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune',
+    path: 'bharati-vidyapeeth-deemed-university-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/courses-and-fees',
+    path: 'bharati-vidyapeeth-deemed-university-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/admission',
+    path: 'bharati-vidyapeeth-deemed-university-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/review',
+    path: 'bharati-vidyapeeth-deemed-university-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/placement',
+    path: 'bharati-vidyapeeth-deemed-university-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/gallery',
+    path: 'bharati-vidyapeeth-deemed-university-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/scholarship',
+    path: 'bharati-vidyapeeth-deemed-university-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/faculty',
+    path: 'bharati-vidyapeeth-deemed-university-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/news',
+    path: 'bharati-vidyapeeth-deemed-university-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/hostel',
+    path: 'bharati-vidyapeeth-deemed-university-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'bharati-vidyapeeth-deemed-university-pune/faq',
+    path: 'bharati-vidyapeeth-deemed-university-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'institute-of-management-studies-ims-ghaziabad',
+    path: 'institute-of-management-studies-ims-ghaziabad/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/courses-and-fees',
+    path: 'institute-of-management-studies-ims-ghaziabad/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/admission',
+    path: 'institute-of-management-studies-ims-ghaziabad/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/review',
+    path: 'institute-of-management-studies-ims-ghaziabad/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/placement',
+    path: 'institute-of-management-studies-ims-ghaziabad/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/gallery',
+    path: 'institute-of-management-studies-ims-ghaziabad/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/scholarship',
+    path: 'institute-of-management-studies-ims-ghaziabad/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/faculty',
+    path: 'institute-of-management-studies-ims-ghaziabad/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/news',
+    path: 'institute-of-management-studies-ims-ghaziabad/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/hostel',
+    path: 'institute-of-management-studies-ims-ghaziabad/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-studies-ims-ghaziabad/faq',
+    path: 'institute-of-management-studies-ims-ghaziabad/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/courses-and-fees',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/admission',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/review',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/placement',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/gallery',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/scholarship',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/faculty',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/news',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/hostel',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/faq',
+    path: 'indraprastha-institute-of-technology-and-management-iitm-new-delhi/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/courses-and-fees',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/admission',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/review',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/placement',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/gallery',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/scholarship',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/faculty',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/news',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/hostel',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/faq',
+    path: 'kirloskar-institute-of-advanced-management-studies-kiams-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'avicenna-international-medical-university',
+    path: 'avicenna-international-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/courses-and-fees',
+    path: 'avicenna-international-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/admission',
+    path: 'avicenna-international-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/review',
+    path: 'avicenna-international-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/placement',
+    path: 'avicenna-international-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/gallery',
+    path: 'avicenna-international-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/scholarship',
+    path: 'avicenna-international-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/faculty',
+    path: 'avicenna-international-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/news',
+    path: 'avicenna-international-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/hostel',
+    path: 'avicenna-international-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'avicenna-international-medical-university/faq',
+    path: 'avicenna-international-medical-university/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'b-p-koirala-institute-of-health-sciences',
+    path: 'b-p-koirala-institute-of-health-sciences/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/courses-and-fees',
+    path: 'b-p-koirala-institute-of-health-sciences/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/admission',
+    path: 'b-p-koirala-institute-of-health-sciences/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/review',
+    path: 'b-p-koirala-institute-of-health-sciences/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/placement',
+    path: 'b-p-koirala-institute-of-health-sciences/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/gallery',
+    path: 'b-p-koirala-institute-of-health-sciences/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/scholarship',
+    path: 'b-p-koirala-institute-of-health-sciences/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/faculty',
+    path: 'b-p-koirala-institute-of-health-sciences/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/news',
+    path: 'b-p-koirala-institute-of-health-sciences/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/hostel',
+    path: 'b-p-koirala-institute-of-health-sciences/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'b-p-koirala-institute-of-health-sciences/faq',
+    path: 'b-p-koirala-institute-of-health-sciences/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'birat-medical-college',
+    path: 'birat-medical-college/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/courses-and-fees',
+    path: 'birat-medical-college/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/admission',
+    path: 'birat-medical-college/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/review',
+    path: 'birat-medical-college/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/placement',
+    path: 'birat-medical-college/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/gallery',
+    path: 'birat-medical-college/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/scholarship',
+    path: 'birat-medical-college/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/faculty',
+    path: 'birat-medical-college/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/news',
+    path: 'birat-medical-college/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/hostel',
+    path: 'birat-medical-college/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'birat-medical-college/faq',
+    path: 'birat-medical-college/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'devdaha-medical-college-and-research-institute',
+    path: 'devdaha-medical-college-and-research-institute/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/courses-and-fees',
+    path: 'devdaha-medical-college-and-research-institute/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/admission',
+    path: 'devdaha-medical-college-and-research-institute/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/review',
+    path: 'devdaha-medical-college-and-research-institute/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/placement',
+    path: 'devdaha-medical-college-and-research-institute/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/gallery',
+    path: 'devdaha-medical-college-and-research-institute/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/scholarship',
+    path: 'devdaha-medical-college-and-research-institute/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/faculty',
+    path: 'devdaha-medical-college-and-research-institute/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/news',
+    path: 'devdaha-medical-college-and-research-institute/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/hostel',
+    path: 'devdaha-medical-college-and-research-institute/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'devdaha-medical-college-and-research-institute/faq',
+    path: 'devdaha-medical-college-and-research-institute/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'dhaka-central-international-medical-university',
+    path: 'dhaka-central-international-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/courses-and-fees',
+    path: 'dhaka-central-international-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/admission',
+    path: 'dhaka-central-international-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/review',
+    path: 'dhaka-central-international-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/placement',
+    path: 'dhaka-central-international-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/gallery',
+    path: 'dhaka-central-international-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/scholarship',
+    path: 'dhaka-central-international-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/faculty',
+    path: 'dhaka-central-international-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/news',
+    path: 'dhaka-central-international-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/hostel',
+    path: 'dhaka-central-international-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'dhaka-central-international-medical-university/faq',
+    path: 'dhaka-central-international-medical-university/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'enam-medical-university-and-hospital',
+    path: 'enam-medical-university-and-hospital/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/courses-and-fees',
+    path: 'enam-medical-university-and-hospital/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/admission',
+    path: 'enam-medical-university-and-hospital/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/review',
+    path: 'enam-medical-university-and-hospital/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/placement',
+    path: 'enam-medical-university-and-hospital/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/gallery',
+    path: 'enam-medical-university-and-hospital/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/scholarship',
+    path: 'enam-medical-university-and-hospital/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/faculty',
+    path: 'enam-medical-university-and-hospital/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/news',
+    path: 'enam-medical-university-and-hospital/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/hostel',
+    path: 'enam-medical-university-and-hospital/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'enam-medical-university-and-hospital/faq',
+    path: 'enam-medical-university-and-hospital/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'jahurul-islam-medical-university',
+    path: 'jahurul-islam-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/courses-and-fees',
+    path: 'jahurul-islam-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/admission',
+    path: 'jahurul-islam-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/review',
+    path: 'jahurul-islam-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/placement',
+    path: 'jahurul-islam-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/gallery',
+    path: 'jahurul-islam-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/scholarship',
+    path: 'jahurul-islam-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/faculty',
+    path: 'jahurul-islam-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/news',
+    path: 'jahurul-islam-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/hostel',
+    path: 'jahurul-islam-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'jahurul-islam-medical-university/faq',
+    path: 'jahurul-islam-medical-university/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'khwaja-yunus-ali-medical-university',
+    path: 'khwaja-yunus-ali-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/courses-and-fees',
+    path: 'khwaja-yunus-ali-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/admission',
+    path: 'khwaja-yunus-ali-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/review',
+    path: 'khwaja-yunus-ali-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/placement',
+    path: 'khwaja-yunus-ali-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/gallery',
+    path: 'khwaja-yunus-ali-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/scholarship',
+    path: 'khwaja-yunus-ali-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/faculty',
+    path: 'khwaja-yunus-ali-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/news',
+    path: 'khwaja-yunus-ali-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/hostel',
+    path: 'khwaja-yunus-ali-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'khwaja-yunus-ali-medical-university/faq',
+    path: 'khwaja-yunus-ali-medical-university/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'monno-medical-university-and-hospital',
+    path: 'monno-medical-university-and-hospital/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/courses-and-fees',
+    path: 'monno-medical-university-and-hospital/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/admission',
+    path: 'monno-medical-university-and-hospital/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/review',
+    path: 'monno-medical-university-and-hospital/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/placement',
+    path: 'monno-medical-university-and-hospital/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/gallery',
+    path: 'monno-medical-university-and-hospital/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/scholarship',
+    path: 'monno-medical-university-and-hospital/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/faculty',
+    path: 'monno-medical-university-and-hospital/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/news',
+    path: 'monno-medical-university-and-hospital/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/hostel',
+    path: 'monno-medical-university-and-hospital/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'monno-medical-university-and-hospital/faq',
+    path: 'monno-medical-university-and-hospital/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'parkview-medical-university',
+    path: 'parkview-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/courses-and-fees',
+    path: 'parkview-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/admission',
+    path: 'parkview-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/review',
+    path: 'parkview-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/placement',
+    path: 'parkview-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/gallery',
+    path: 'parkview-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/scholarship',
+    path: 'parkview-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/faculty',
+    path: 'parkview-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/news',
+    path: 'parkview-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/hostel',
+    path: 'parkview-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'parkview-medical-university/faq',
+    path: 'parkview-medical-university/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'rangpur-community-medical-university',
+    path: 'rangpur-community-medical-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/courses-and-fees',
+    path: 'rangpur-community-medical-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/admission',
+    path: 'rangpur-community-medical-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/review',
+    path: 'rangpur-community-medical-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/placement',
+    path: 'rangpur-community-medical-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/gallery',
+    path: 'rangpur-community-medical-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/scholarship',
+    path: 'rangpur-community-medical-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/faculty',
+    path: 'rangpur-community-medical-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/news',
+    path: 'rangpur-community-medical-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/hostel',
+    path: 'rangpur-community-medical-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'rangpur-community-medical-university/faq',
+    path: 'rangpur-community-medical-university/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'tula-state-university',
+    path: 'tula-state-university/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/courses-and-fees',
+    path: 'tula-state-university/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/admission',
+    path: 'tula-state-university/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/review',
+    path: 'tula-state-university/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/placement',
+    path: 'tula-state-university/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/gallery',
+    path: 'tula-state-university/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/scholarship',
+    path: 'tula-state-university/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/faculty',
+    path: 'tula-state-university/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/news',
+    path: 'tula-state-university/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/hostel',
+    path: 'tula-state-university/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'tula-state-university/faq',
+    path: 'tula-state-university/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'university-of-exeter',
+    path: 'university-of-exeter/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/courses-and-fees',
+    path: 'university-of-exeter/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/admission',
+    path: 'university-of-exeter/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/review',
+    path: 'university-of-exeter/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/placement',
+    path: 'university-of-exeter/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/gallery',
+    path: 'university-of-exeter/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/scholarship',
+    path: 'university-of-exeter/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/faculty',
+    path: 'university-of-exeter/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/news',
+    path: 'university-of-exeter/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/hostel',
+    path: 'university-of-exeter/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-exeter/faq',
+    path: 'university-of-exeter/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'university-of-strathclyde',
+    path: 'university-of-strathclyde/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/courses-and-fees',
+    path: 'university-of-strathclyde/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/admission',
+    path: 'university-of-strathclyde/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/review',
+    path: 'university-of-strathclyde/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/placement',
+    path: 'university-of-strathclyde/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/gallery',
+    path: 'university-of-strathclyde/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/scholarship',
+    path: 'university-of-strathclyde/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/faculty',
+    path: 'university-of-strathclyde/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/news',
+    path: 'university-of-strathclyde/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/hostel',
+    path: 'university-of-strathclyde/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'university-of-strathclyde/faq',
+    path: 'university-of-strathclyde/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'vellore-institute-of-technology',
+    path: 'vellore-institute-of-technology/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/courses-and-fees',
+    path: 'vellore-institute-of-technology/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/admission',
+    path: 'vellore-institute-of-technology/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/review',
+    path: 'vellore-institute-of-technology/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/placement',
+    path: 'vellore-institute-of-technology/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/gallery',
+    path: 'vellore-institute-of-technology/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/scholarship',
+    path: 'vellore-institute-of-technology/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/faculty',
+    path: 'vellore-institute-of-technology/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/news',
+    path: 'vellore-institute-of-technology/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/hostel',
+    path: 'vellore-institute-of-technology/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'vellore-institute-of-technology/faq',
+    path: 'vellore-institute-of-technology/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/courses-and-fees',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/admission',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/review',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/placement',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/gallery',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/scholarship',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/faculty',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/news',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/hostel',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/faq',
+    path: 'kj-somaiya-medical-college-research-centre-kjsmc-mumbai/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/courses-and-fees',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/admission',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/review',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/placement',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/gallery',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/scholarship',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/faculty',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/news',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/hostel',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/faq',
+    path: 'indian-institute-of-medical-science-and-research-iimsr-jalna/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'jspm-narhe',
+    path: 'jspm-narhe/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/courses-and-fees',
+    path: 'jspm-narhe/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/admission',
+    path: 'jspm-narhe/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/review',
+    path: 'jspm-narhe/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/placement',
+    path: 'jspm-narhe/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/gallery',
+    path: 'jspm-narhe/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/scholarship',
+    path: 'jspm-narhe/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/faculty',
+    path: 'jspm-narhe/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/news',
+    path: 'jspm-narhe/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/hostel',
+    path: 'jspm-narhe/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'jspm-narhe/faq',
+    path: 'jspm-narhe/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/courses-and-fees',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/admission',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/review',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/placement',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/gallery',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/scholarship',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/faculty',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/news',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/hostel',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/faq',
+    path: 'sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/courses-and-fees',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/admission',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/review',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/placement',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/gallery',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/scholarship',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/faculty',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/news',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/hostel',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/faq',
+    path: 'sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/courses-and-fees',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/admission',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/review',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/placement',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/gallery',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/scholarship',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/faculty',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/news',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/hostel',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/faq',
+    path: 'sinhgad-college-of-engineering-scoe-vadgaon-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/courses-and-fees',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/admission',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/review',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/placement',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/gallery',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/scholarship',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/faculty',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/news',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/hostel',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/faq',
+    path: 'shailesh-j-mehta-school-of-management-iit-bombay-mumbai/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'scms-school-of-engineering-and-technology-kerala',
+    path: 'scms-school-of-engineering-and-technology-kerala/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/courses-and-fees',
+    path: 'scms-school-of-engineering-and-technology-kerala/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/admission',
+    path: 'scms-school-of-engineering-and-technology-kerala/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/review',
+    path: 'scms-school-of-engineering-and-technology-kerala/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/placement',
+    path: 'scms-school-of-engineering-and-technology-kerala/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/gallery',
+    path: 'scms-school-of-engineering-and-technology-kerala/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/scholarship',
+    path: 'scms-school-of-engineering-and-technology-kerala/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/faculty',
+    path: 'scms-school-of-engineering-and-technology-kerala/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/news',
+    path: 'scms-school-of-engineering-and-technology-kerala/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/hostel',
+    path: 'scms-school-of-engineering-and-technology-kerala/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'scms-school-of-engineering-and-technology-kerala/faq',
+    path: 'scms-school-of-engineering-and-technology-kerala/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/courses-and-fees',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/admission',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/review',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/placement',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/gallery',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/scholarship',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/faculty',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/news',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/hostel',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'ramaiah-institute-of-technology-rit-bangalore/faq',
+    path: 'ramaiah-institute-of-technology-rit-bangalore/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'pune-institute-of-computer-technology-pict-pune',
+    path: 'pune-institute-of-computer-technology-pict-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/courses-and-fees',
+    path: 'pune-institute-of-computer-technology-pict-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/admission',
+    path: 'pune-institute-of-computer-technology-pict-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/review',
+    path: 'pune-institute-of-computer-technology-pict-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/placement',
+    path: 'pune-institute-of-computer-technology-pict-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/gallery',
+    path: 'pune-institute-of-computer-technology-pict-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/scholarship',
+    path: 'pune-institute-of-computer-technology-pict-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/faculty',
+    path: 'pune-institute-of-computer-technology-pict-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/news',
+    path: 'pune-institute-of-computer-technology-pict-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/hostel',
+    path: 'pune-institute-of-computer-technology-pict-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'pune-institute-of-computer-technology-pict-pune/faq',
+    path: 'pune-institute-of-computer-technology-pict-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'presidency-college-bangalore',
+    path: 'presidency-college-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/courses-and-fees',
+    path: 'presidency-college-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/admission',
+    path: 'presidency-college-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/review',
+    path: 'presidency-college-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/placement',
+    path: 'presidency-college-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/gallery',
+    path: 'presidency-college-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/scholarship',
+    path: 'presidency-college-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/faculty',
+    path: 'presidency-college-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/news',
+    path: 'presidency-college-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/hostel',
+    path: 'presidency-college-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'presidency-college-bangalore/faq',
+    path: 'presidency-college-bangalore/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'the-oxford-college-of-science-bangalore',
+    path: 'the-oxford-college-of-science-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/courses-and-fees',
+    path: 'the-oxford-college-of-science-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/admission',
+    path: 'the-oxford-college-of-science-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/review',
+    path: 'the-oxford-college-of-science-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/placement',
+    path: 'the-oxford-college-of-science-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/gallery',
+    path: 'the-oxford-college-of-science-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/scholarship',
+    path: 'the-oxford-college-of-science-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/faculty',
+    path: 'the-oxford-college-of-science-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/news',
+    path: 'the-oxford-college-of-science-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/hostel',
+    path: 'the-oxford-college-of-science-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'the-oxford-college-of-science-bangalore/faq',
+    path: 'the-oxford-college-of-science-bangalore/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/courses-and-fees',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/admission',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/review',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/placement',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/gallery',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/scholarship',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/faculty',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/news',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/hostel',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/faq',
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune',
+    path: 'modern-college-of-arts-science-and-commerce-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/courses-and-fees',
+    path: 'modern-college-of-arts-science-and-commerce-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/admission',
+    path: 'modern-college-of-arts-science-and-commerce-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/review',
+    path: 'modern-college-of-arts-science-and-commerce-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/placement',
+    path: 'modern-college-of-arts-science-and-commerce-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/gallery',
+    path: 'modern-college-of-arts-science-and-commerce-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/scholarship',
+    path: 'modern-college-of-arts-science-and-commerce-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/faculty',
+    path: 'modern-college-of-arts-science-and-commerce-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/news',
+    path: 'modern-college-of-arts-science-and-commerce-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/hostel',
+    path: 'modern-college-of-arts-science-and-commerce-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'modern-college-of-arts-science-and-commerce-pune/faq',
+    path: 'modern-college-of-arts-science-and-commerce-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'mit-school-of-management-pune',
+    path: 'mit-school-of-management-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/courses-and-fees',
+    path: 'mit-school-of-management-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/admission',
+    path: 'mit-school-of-management-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/review',
+    path: 'mit-school-of-management-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/placement',
+    path: 'mit-school-of-management-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/gallery',
+    path: 'mit-school-of-management-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/scholarship',
+    path: 'mit-school-of-management-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/faculty',
+    path: 'mit-school-of-management-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/news',
+    path: 'mit-school-of-management-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/hostel',
+    path: 'mit-school-of-management-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-school-of-management-pune/faq',
+    path: 'mit-school-of-management-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'met-institute-of-computer-science-mumbai',
+    path: 'met-institute-of-computer-science-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/courses-and-fees',
+    path: 'met-institute-of-computer-science-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/admission',
+    path: 'met-institute-of-computer-science-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/review',
+    path: 'met-institute-of-computer-science-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/placement',
+    path: 'met-institute-of-computer-science-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/gallery',
+    path: 'met-institute-of-computer-science-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/scholarship',
+    path: 'met-institute-of-computer-science-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/faculty',
+    path: 'met-institute-of-computer-science-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/news',
+    path: 'met-institute-of-computer-science-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/hostel',
+    path: 'met-institute-of-computer-science-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'met-institute-of-computer-science-mumbai/faq',
+    path: 'met-institute-of-computer-science-mumbai/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/courses-and-fees',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/admission',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/review',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/placement',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/gallery',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/scholarship',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/faculty',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/news',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/hostel',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/faq',
+    path: 'lal-bahadur-shastri-institute-of-management-lbsim-new-delhi/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/courses-and-fees',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/admission',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/review',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/placement',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/gallery',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/scholarship',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/faculty',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/news',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/hostel',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'krishna-institute-of-medical-sciences-kims-karad/faq',
+    path: 'krishna-institute-of-medical-sciences-kims-karad/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'kj-somaiya-institute-of-management-mumbai',
+    path: 'kj-somaiya-institute-of-management-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/courses-and-fees',
+    path: 'kj-somaiya-institute-of-management-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/admission',
+    path: 'kj-somaiya-institute-of-management-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/review',
+    path: 'kj-somaiya-institute-of-management-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/placement',
+    path: 'kj-somaiya-institute-of-management-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/gallery',
+    path: 'kj-somaiya-institute-of-management-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/scholarship',
+    path: 'kj-somaiya-institute-of-management-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/faculty',
+    path: 'kj-somaiya-institute-of-management-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/news',
+    path: 'kj-somaiya-institute-of-management-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/hostel',
+    path: 'kj-somaiya-institute-of-management-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'kj-somaiya-institute-of-management-mumbai/faq',
+    path: 'kj-somaiya-institute-of-management-mumbai/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'mit-college-of-engineering-pune',
+    path: 'mit-college-of-engineering-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/courses-and-fees',
+    path: 'mit-college-of-engineering-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/admission',
+    path: 'mit-college-of-engineering-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/review',
+    path: 'mit-college-of-engineering-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/placement',
+    path: 'mit-college-of-engineering-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/gallery',
+    path: 'mit-college-of-engineering-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/scholarship',
+    path: 'mit-college-of-engineering-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/faculty',
+    path: 'mit-college-of-engineering-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/news',
+    path: 'mit-college-of-engineering-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/hostel',
+    path: 'mit-college-of-engineering-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'mit-college-of-engineering-pune/faq',
+    path: 'mit-college-of-engineering-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'mvj-college-of-engineering-bangalore',
+    path: 'mvj-college-of-engineering-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/courses-and-fees',
+    path: 'mvj-college-of-engineering-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/admission',
+    path: 'mvj-college-of-engineering-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/review',
+    path: 'mvj-college-of-engineering-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/placement',
+    path: 'mvj-college-of-engineering-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/gallery',
+    path: 'mvj-college-of-engineering-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/scholarship',
+    path: 'mvj-college-of-engineering-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/faculty',
+    path: 'mvj-college-of-engineering-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/news',
+    path: 'mvj-college-of-engineering-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/hostel',
+    path: 'mvj-college-of-engineering-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'mvj-college-of-engineering-bangalore/faq',
+    path: 'mvj-college-of-engineering-bangalore/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'kristu-jayanti-college-kjc-bangalore',
+    path: 'kristu-jayanti-college-kjc-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/courses-and-fees',
+    path: 'kristu-jayanti-college-kjc-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/admission',
+    path: 'kristu-jayanti-college-kjc-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/review',
+    path: 'kristu-jayanti-college-kjc-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/placement',
+    path: 'kristu-jayanti-college-kjc-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/gallery',
+    path: 'kristu-jayanti-college-kjc-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/scholarship',
+    path: 'kristu-jayanti-college-kjc-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/faculty',
+    path: 'kristu-jayanti-college-kjc-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/news',
+    path: 'kristu-jayanti-college-kjc-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/hostel',
+    path: 'kristu-jayanti-college-kjc-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'kristu-jayanti-college-kjc-bangalore/faq',
+    path: 'kristu-jayanti-college-kjc-bangalore/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/courses-and-fees',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/admission',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/review',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/placement',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/gallery',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/scholarship',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/faculty',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/news',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/hostel',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'ganga-institute-of-technology-and-management-jhajjar/faq',
+    path: 'ganga-institute-of-technology-and-management-jhajjar/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'mes-garware-college-of-commerce-pune',
+    path: 'mes-garware-college-of-commerce-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/courses-and-fees',
+    path: 'mes-garware-college-of-commerce-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/admission',
+    path: 'mes-garware-college-of-commerce-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/review',
+    path: 'mes-garware-college-of-commerce-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/placement',
+    path: 'mes-garware-college-of-commerce-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/gallery',
+    path: 'mes-garware-college-of-commerce-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/scholarship',
+    path: 'mes-garware-college-of-commerce-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/faculty',
+    path: 'mes-garware-college-of-commerce-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/news',
+    path: 'mes-garware-college-of-commerce-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/hostel',
+    path: 'mes-garware-college-of-commerce-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'mes-garware-college-of-commerce-pune/faq',
+    path: 'mes-garware-college-of-commerce-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/courses-and-fees',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/admission',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/review',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/placement',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/gallery',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/scholarship',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/faculty',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/news',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/hostel',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/faq',
+    path: 'suryadatta-institute-of-business-management-and-technology-sibmt-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/courses-and-fees',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/admission',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/review',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/placement',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/gallery',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/scholarship',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/faculty',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/news',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/hostel',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/faq',
+    path: 'symbiosis-institute-of-computer-studies-and-research-sicsr-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'symbiosis-institute-of-technology-sit-pune',
+    path: 'symbiosis-institute-of-technology-sit-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/courses-and-fees',
+    path: 'symbiosis-institute-of-technology-sit-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/admission',
+    path: 'symbiosis-institute-of-technology-sit-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/review',
+    path: 'symbiosis-institute-of-technology-sit-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/placement',
+    path: 'symbiosis-institute-of-technology-sit-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/gallery',
+    path: 'symbiosis-institute-of-technology-sit-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/scholarship',
+    path: 'symbiosis-institute-of-technology-sit-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/faculty',
+    path: 'symbiosis-institute-of-technology-sit-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/news',
+    path: 'symbiosis-institute-of-technology-sit-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/hostel',
+    path: 'symbiosis-institute-of-technology-sit-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-technology-sit-pune/faq',
+    path: 'symbiosis-institute-of-technology-sit-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/courses-and-fees',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/admission',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/review',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/placement',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/gallery',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/scholarship',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/faculty',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/news',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/hostel',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'symbiosis-institute-of-business-management-sibm-pune/faq',
+    path: 'symbiosis-institute-of-business-management-sibm-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'terna-medical-college-navi-mumbai',
+    path: 'terna-medical-college-navi-mumbai/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/courses-and-fees',
+    path: 'terna-medical-college-navi-mumbai/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/admission',
+    path: 'terna-medical-college-navi-mumbai/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/review',
+    path: 'terna-medical-college-navi-mumbai/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/placement',
+    path: 'terna-medical-college-navi-mumbai/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/gallery',
+    path: 'terna-medical-college-navi-mumbai/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/scholarship',
+    path: 'terna-medical-college-navi-mumbai/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/faculty',
+    path: 'terna-medical-college-navi-mumbai/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/news',
+    path: 'terna-medical-college-navi-mumbai/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/hostel',
+    path: 'terna-medical-college-navi-mumbai/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'terna-medical-college-navi-mumbai/faq',
+    path: 'terna-medical-college-navi-mumbai/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune',
+    path: 'vishwakarma-institute-of-technology-vit-pune/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/courses-and-fees',
+    path: 'vishwakarma-institute-of-technology-vit-pune/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/admission',
+    path: 'vishwakarma-institute-of-technology-vit-pune/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/review',
+    path: 'vishwakarma-institute-of-technology-vit-pune/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/placement',
+    path: 'vishwakarma-institute-of-technology-vit-pune/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/gallery',
+    path: 'vishwakarma-institute-of-technology-vit-pune/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/scholarship',
+    path: 'vishwakarma-institute-of-technology-vit-pune/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/faculty',
+    path: 'vishwakarma-institute-of-technology-vit-pune/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/news',
+    path: 'vishwakarma-institute-of-technology-vit-pune/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/hostel',
+    path: 'vishwakarma-institute-of-technology-vit-pune/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'vishwakarma-institute-of-technology-vit-pune/faq',
+    path: 'vishwakarma-institute-of-technology-vit-pune/faq/.',
     component: CollegeConComponent
   },
 
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/courses-and-fees',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/admission',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/review',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/placement',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/gallery',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/scholarship',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/faculty',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/news',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/hostel',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/faq',
+    path: 'xavier-institute-of-management-and-entrepreneurship-bangalore/faq/.',
     component: CollegeConComponent
   },
   

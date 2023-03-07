@@ -166,13 +166,10 @@ export const khersonnationaltechnicaluniversity= {
                     "Expenses in USD": "161.38$ - 374.51 $",
                     "Expenses in INR": "Rs 11,300 - Rs 26,180"
                 },
-            ]
+            ],
+            "heading":"<p><b>Note: </b>1$ = Rs. 70</p>"
         },
-        {
-          "type": "text",
-          "title": "",
-          "data":"Note: 1$ = Rs. 70"
-        },
+        
 
         { 
             type:"meta",
@@ -190,4 +187,483 @@ export const khersonnationaltechnicaluniversity= {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university" }
         ]}
     ],
-}
+    "coursesandfees": [
+
+        {
+            "type": "table",
+            "title": "Kherson National Technical University - Fee Structure",
+            "info": "Find below the details of the fee structure of both Bachelors' and Masters' Degree courses:",
+            "col": [
+                "Program",
+                "Annual Tuition Fee (In USD)",
+                "Annual Tuition Fee (In INR)"
+            ],
+            "row": [
+                {
+                    "Program": "<b>Bachelor Degree</b>",
+                    "Annual Tuition Fee (In USD)": "1500 USD",
+                    "Annual Tuition Fee (In INR)":"Rs 110279.85"
+                },
+                {
+                    "Program": "<b>Masters Degree</b>",
+                    "Annual Tuition Fee (In USD)": "1500 USD",
+                    "Annual Tuition Fee (In INR)":"Rs 110279.85"
+                },
+                {
+                    "Program": "<b>Part Time (In English)</b>",
+                    "Annual Tuition Fee (In USD)": "1500 USD",
+                    "Annual Tuition Fee (In INR)":"Rs 110279.85"
+                },
+                {
+                    "Program": "<b>Preparatory Department</b>",
+                    "Annual Tuition Fee (In USD)": "1000 USD",
+                    "Annual Tuition Fee (In INR)":"Rs 73519.90"
+                },
+            ],
+            "heading":"<p><b>Note: </b>1 USD = 70 Rs.</p>"
+        },
+
+        {
+            "type": "table-title",
+            "title": "Courses offered at Kherson State Technical University",
+            "info": "Kherson National Technical University offers various courses for Bachelors' and Masters' to thousands of students:",
+            "col": [ ],
+            "row": [
+                ["Information Technology","Economics"],
+            ],
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "Information technology and design",
+                "Economics, business intelligence, and entrepreneurship",
+                "Integrated Technologies",
+                "International Economic Relations, Management, and Business Institute",
+                "Engineering and transport Institute"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Specialties of Kherson National Technical University",
+            "info": "At Kherson National Technical University, students get a chance to study in various specialties:",
+            "textBelowInfo":"<h3>1 Integrated Technologies</h3>",
+            "data": [
+                "Speciality in Entrepreneurship, Trade, and Exchange Activities",
+                "Chemical Technology and Engineering",
+                "Food Technology",
+                "Light Industry Technologies"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "<h3>2 Information Technology and Design</h3>",
+            "data": [
+                "Designing",
+                "Software Engineering",
+                "Computer Engineering",
+                "Computer Science",
+                "Information Systems and Technologies"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "<h3>3 Engineering and Transport</h3>",
+            "data": [
+                "Speciality in Applied Mechanics",
+                "Industrial Engineering",
+                "Electric power, Electrical Engineering, and Electromechanics",
+                "Automation and Computer-Integrated Technologies",
+                "Road Transport",
+                "Transport Technologies"
+            ]
+        },
+        
+        {
+          type:"meta",
+          meta: [
+              { name: "title", content: "Kherson National Technical University, Ukraine - courses & Fees" },
+              { name: "description", content: "Kherson National Technical University runs its operations in Engineering, Economics, Design & other fields ; Tuition Fee with Hostel. Check available courses and fees" },
+          ],
+      },
+      {
+          type:"meta-title",
+          title: "Kherson National Technical University, Ukraine - courses & Fees"},
+      {
+          type:"meta-links",
+          link: [
+              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/courses-and-fees" }
+      ]}
+        ],
+        "admission":[
+
+            {
+                "type": "list-bollet",
+                "title": "Eligibility Criteria",
+                "info": "Given below is the eligibility details of the Bachelor and Masters Degree course at Kherson State Technical University:",
+                "data": [
+                    "Students have to clear the professional test and Interview to secure admission.",
+                    "Details of the Professional Test are available on the University's website.",
+                    "Applicants have to submit the documents of Higher secondary or any other certificates along with the application form. (For Bachelor's Degree Course)",
+                    "Written Consent for access to personal data.",
+                    "Those who want to take admission in Master's Degree Course have to submit the documents and certificates of Bachelors' degree and clear the entrance exam.",
+                    "International students have to submit",
+                    "Passport",
+                    "Education Certificate (or diploma)"
+                ]
+            },
+            {
+                "type": "step-list",
+                "title": "Admission Process",
+                "info":"To take admission to Kherson National Technical University, students have to follow a specific procedure, which is given below:",
+                "data": [
+                "<b>Step 1: </b>Online application form available at the official website, fill and submit on time.",
+                "<b>Step 2: </b>Students willing to pursue higher education have to take the entrance exam, i.e., the Professional Test.",
+                "<b>Step 3: </b>Details of the professional test are available at the University's official website.",
+                "<b>Step 4: </b>The admission commission will issue an invitation letter/ confirmation letter to the students after selection.",
+                "<b>Step 5: </b>Students have to submit copies of the original documents to the University.",
+                "<b>Step 6: </b>Pay the fees after receiving the confirmation mail and take the receipt.",
+                "<b>Step 7: </b>Apply for the visa at the nearest Ukraine Embassy along with confirmation mail.",
+                "<b>Step 8: </b>Inform the University after the visa approval.",
+                "<b>Step 9: </b>Students can start the course in September."
+              ]
+              },
+              {
+                "type": "list-bollet",
+                "title": "Documents Required",
+                "info": "Students willing to pursue higher education from Kherson National Technical University should collect these documents for admission:",
+                "data": [
+                    "Passport",
+                    "Education Certificate",
+                    "Academic documents and certificates",
+                    "A valid insurance policy",
+                    "4 photos (size 30x40mm)",
+                    "Invitation to study",
+                    "Covid-19 report"
+                ],
+                "heading":"<p><b>Note: </b>Copies must be in the English Language with a notarial certification.The University enrolls foreign citizens according to the entrance examination results (the interview) and based on the concluded contract.Copies of documents are accepted only when it matches the original.</p>"
+            },
+            {
+                "type": "list-bollet",
+                "title": "Documents Required for Visa Application",
+                "info": "After receiving the confirmation letter from the Kherson National Technical University, students can apply for the visa with the following documents:",
+                "data": [
+                    "Passport/ Travel Documents",
+                    "Visa Application Form",
+                    "2 passport size photographs",
+                    "Medical Insurance",
+                    "Bank Details for proof of financial stability",
+                    "Visa Fee Receipt",
+                    "University Invitation Letter",
+                    "Sponsored letter from parents confirming that they will bear all the expenses of student’s studies and cost of living in Ukraine."
+                ],
+            },
+            {
+                "type": "table",
+                "title": "Academic Calendar - Intake 2023",
+                "info": "Students must marks the important dates for admission and document submission:",
+                "col": [
+                    "Events",
+                    "Dates"
+                ],
+                "row": [
+                    {
+                        "Events": "<b>Application Process Begins</b>",
+                        "Dates": "April"
+                    },
+                    {
+                        "Events": "<b>Completion of Application Process and Document Submission</b>",
+                        "Dates": "October"
+                    },
+                    {
+                        "Events": "<b>Entrance Exam</b>",
+                        "Dates": "July- October"
+                    },
+                    {
+                        "Events": "<b>Enrollment of Students</b>",
+                        "Dates": "Before November"
+                    }
+                ],
+            },
+            
+          
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Kherson National Technical University, Ukraine - Admission 2023" },
+                { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Kherson National Technical University, Ukraine - Admission 2023"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/admission" }
+        ]}
+        ],
+        "review":[
+          
+          {
+              type: "meta",
+              meta: [
+                  { name: "title", content: "Kherson National Technical University, Ukraine - Reviews" },
+                  { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+              ],
+          },
+          {
+              type: "meta-title",
+              title: "Kherson National Technical University, Ukraine - Reviews"
+          },
+          {
+              type: "meta-links",
+              link: [
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/reviews" }
+              ]
+          }
+      ],
+        "placement":[
+
+          
+      {
+        type:"meta",
+        meta: [
+            { name: "title", content: "Kherson National Technical University, Ukraine - Placement" },
+            { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
+        ],
+    },
+    {
+        type:"meta-title",
+        title: "Kherson National Technical University, Ukraine - Placement"},
+    {
+        type:"meta-links",
+        link: [
+            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/placement" }
+    ]}
+        ],
+        "gallery":[
+         
+    
+    
+          {
+              type: "meta",
+              meta: [
+                  { name: "title", content: "Kherson National Technical University, Ukraine - Gallery"},
+                  { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+              ],
+          },
+          {
+              type: "meta-title",
+              title: "Kherson National Technical University, Ukraine - Gallery"
+          },
+          {
+              type: "meta-links",
+              link: [
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/gallery" }
+              ]
+          }
+      ],
+        "scholarship": [
+          
+            {
+                "type": "list-bollet",
+                "title": "Scholarship",
+                "info": "Kherson National Technical University provides scholarships to students to encourage them and to help them grow:",
+                "data": [
+                    "The scholarship is given to only 45% of students enrolled in a full-time study program.",
+                    "Students can avail themselves of the scholarship based on marks in the entrance exam and marks in the academic and chosen specialty.",
+                    "The number of academic scholarships for students is determined based on the amount established by the Cabinet of Ministers of Ukraine."
+                ],
+            },
+           
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Kherson National Technical University, Ukraine - Scholarship" },
+                { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Kherson National Technical University, Ukraine - Scholarship"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/scholarship" }
+        ]}
+        ],
+        "faculty": [
+          
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Kherson National Technical University, Ukraine - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Kherson National Technical University, Ukraine - Faculty"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/faculty" }
+        ]}
+        ],
+        "news":[
+         
+    
+          {
+              type: "meta",
+              meta: [
+                  { name: "title", content: "Kherson National Technical University, Ukraine - News & Articles" },
+                  { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+              ],
+          },
+          {
+              type: "meta-title",
+              title: "Kherson National Technical University, Ukraine - News & Articles"
+          },
+          {
+              type: "meta-links",
+              link: [
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/news-and-articles" }
+              ]
+          }
+      ],
+        "hostel": [
+
+            {
+                "type": "list-bollet",
+                "title": "Hostel & Accommodation",
+                "info": "Kherson National Technical University provides hostel facility to their students coming from different states and countries:",
+                "data": [
+                    "There are 3 dormitories on the balance of KhNTU.",
+                    "Total number of places in them is 1,203.",
+                    "Three student hostels are situated in the park area.",
+                    "The hostels have rooms for two students or three students.",
+                    "Rooms are fully equipped for living and studying."
+                ],
+            },
+            {
+                "type": "table",
+                "title": "",
+                "info": "",
+                "col": [
+                    "Accommodation in UAH",
+                    "Accomodation in USD",
+                    "Accomodation in INR"
+                ],
+                "row": [
+                    {
+                        "Accommodation in UAH": "<b>500 UAH Per Month</b>",
+                        "Accomodation in USD": "20 USD Per Month",
+                        "Accomodation in INR":"Rs 1470.40 Per Month"
+                    }
+                ]
+            },
+            {
+                "type": "table-title",
+                "title": "",
+                "info": "Facilities at Dormitories:",
+                "col": [ ],
+                "row": [
+                    ["Kitchens","Showers","Laundry"],
+                    ["Gyms","Internet","Canteen"]
+                ],
+            },
+            {
+                "type": "list-bollet",
+                "title": "List of documents required for admission in hostel",
+                "info": "In order to obtain a permit to settle in dormitories, the students will have to provide documents:",
+                "data": [
+                    "Referral from the dean's office, signed by the dean.",
+                    "A copy of the extract from the unified state register of registration of residence.",
+                    "Receipt of payment of the dormitory bill for six months.",
+                    "Certificate of vaccination",
+                    "3 Photographs",
+                    "1 Folder for documents",
+                    "2 files",
+                    "5 A4 size papers",
+                    "Certificate of Dermatologist"
+                ],
+            },
+            
+          
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Kherson National Technical University, Ukraine - Hostel" },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Kherson National Technical University, Ukraine - Hostel"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/hostel" }
+        ]}
+        ],
+        "faq": [
+
+            {
+                "type": "question-list",
+                "title": "Kherson National Technical University - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+                "data": [
+                    {
+                      "ques": "Q. Is the When did the admission process for Kherson National Technical University start?",
+                      "ans": "The Admission process at Kherson National Technical University starts in April."
+                    },
+                    { 
+                       "ques": "Q. Does Kherson National Technical University provide scholarships to International Students?",
+                      "ans": "Yes, the university provides scholarships to students based on their academic performance and entrance exam scores."
+                    },
+                    {
+                        "ques": "Q. What is the medium of education at Kherson National Technical University?",
+                        "ans": "The course language is English, Russian, and Ukrainian."
+                    },
+                    {
+                        "ques": "Q. Whether medical insurance is necessary to take admission to Kherson National Technical University?",
+                        "ans": "The students have to submit the health insurance and other documents at the admission time."
+                    },
+                    { 
+                        "ques": "Q. What is the average cost of living for students studying at Kherson National Technical University?",
+                      "ans": "The average cost of living in Kherson Oblast is 161$- 375$ per month."
+                    },
+                    { 
+                        "ques": "Q. Is there any entrance exam like IELTS/TOEFL to take admission to Kherson National Technical University?",
+                      "ans": "The students have to take the English Proficiency test and Interview to be admitted to Kherson National Technical University. The details of the entrance exam are available on the official website of the university."
+                    }
+                ]
+            },
+         
+          {
+            type:"meta",
+            meta: [
+                { name: "title", content: "Kherson National Technical University, Ukraine - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type:"meta-title",
+            title: "Kherson National Technical University, Ukraine - FAQ"},
+        {
+            type:"meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kherson-national-technical-university/faq" }
+        ]}
+      ],
+    
+      }
+
+
+
+
+        

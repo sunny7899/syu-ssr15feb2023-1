@@ -14,7 +14,7 @@ const routes: Routes = [
     loadChildren:()=> import('./home/home.module').then(x=> x.HomeModule)
   },
   {
-    path: 'blog',
+    path: 'blog/.',
     loadChildren:()=> import('./blog/blog.module').then(x=>x.BlogModule)
   },
   {
@@ -26,7 +26,7 @@ const routes: Routes = [
     loadChildren:()=> import( './all-blogs/all-blogs.module').then(x=>x.AllBlogsModule)
   },
   {
-    path: 'news',
+    path: 'news/.',
     loadChildren:()=> import( './news/news.module').then(x=>x.NewsModule)
   },
   {
@@ -38,11 +38,11 @@ const routes: Routes = [
     loadChildren:()=> import( './all-news/all-news.module').then(x=>x.AllNewsModule)
   },
   {
-    path: 'about-us',
+    path: 'about-us/.',
     loadChildren:()=> import( './about-us/about-us.module').then(x=>x.AboutUsModule)
   },
   {
-    path: 'exams',
+    path: 'exams/.',
     loadChildren:()=> import( './exams/exams.module').then(x=>x.ExamsModule)
   },
   {
@@ -50,23 +50,23 @@ const routes: Routes = [
     loadChildren:()=> import( './exam-content/exam-content.module').then(x=>x.ExamContentModule)
   },
   {
-    path: 'contact-us',
+    path: 'contact-us/.',
     loadChildren:()=> import( './contact-us/contact-us.module').then(x=>x.ContactUsModule)
   },
   {
-    path: 'neet-rank-predictor',
+    path: 'neet-rank-predictor/.',
     loadChildren:()=> import( './neet-rank-predictor/neet-rank-predictor.module').then(x=>x.NeetRankPredictorModule)
   },
   {
-    path: 'filter',
+    path: 'filter/.',
     loadChildren:()=> import( './filter/filter.module').then(x=>x.FilterModule)
   },
   {
-    path: 'services',
+    path: 'services/.',
     loadChildren:()=> import( './services/services.module').then(x=>x.ServicesModule)
   },
   {
-    path: 'course',
+    path: 'course/.',
     loadChildren:()=> import( './course/course.module').then(x=>x.CourseModule)
   },
   {
@@ -74,59 +74,59 @@ const routes: Routes = [
     loadChildren:()=> import( './course-content/course-content.module').then(x=>x.CourseContentModule)
   },
   {
-    path: 'disclaimer',
+    path: 'disclaimer/.',
     loadChildren:()=> import( './disclaimer/disclaimer.module').then(x=>x.DisclaimerModule)
   },
   {
-    path: 'faq',
+    path: 'faq/.',
     loadChildren:()=> import( './faq/faq.module').then(x=>x.FaqModule)
   },
   {
-    path: 'study-abroad',
+    path: 'study-abroad/.',
     loadChildren:()=> import( './study-abroad/study-abroad.module').then(x=>x.StudyAbroadModule)
   },
   {
-    path: 'study-in-australia',
+    path: 'study-in-australia/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },
   {
-    path: 'study-in-usa',
+    path: 'study-in-usa/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },  {
-    path: 'study-in-poland',
+    path: 'study-in-poland/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },  {
-    path: 'study-in-belarus',
+    path: 'study-in-belarus/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },  {
-    path: 'study-in-russia',
+    path: 'study-in-russia/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },
   {
-    path: 'study-in-china',
+    path: 'study-in-china/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },
   {
-    path: 'study-in-ukraine',
+    path: 'study-in-ukraine/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },  {
-    path: 'study-in-ireland',
+    path: 'study-in-ireland/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },  {
-    path: 'study-in-uk',
+    path: 'study-in-uk/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },  {
-    path: 'study-in-canada',
+    path: 'study-in-canada/.',
     loadChildren:()=> import( './study-content/study-content.module').then(x=>x.StudyContentModule)
   },
 
 
   {
-    path: 'abroad-course',
+    path: 'abroad-course/.',
     loadChildren:()=> import( './abroad-course/abroad-course.module').then(x=>x.AbroadCourseModule)
   },
   {
-    path: 'college',
+    path: 'college/.',
     loadChildren:()=> import( './college-filter/college-filter.module').then(x=>x.CollegeFilterModule)
   },
   {
@@ -142,23 +142,23 @@ const routes: Routes = [
   //   loadChildren:()=> import( './exam-filter/exam-filter.module').then(x=>x.ExamFilterModule)
   // },
   {
-    path: 'image-gallery',
+    path: 'image-gallery/.',
     loadChildren:()=> import( './img-gallery/img-gallery.module').then(x=>x.ImgGalleryModule)
   },
   {
-    path: 'video-gallery',
+    path: 'video-gallery/.',
     loadChildren:()=> import( './video-gallery/video-gallery.module').then(x=>x.VideoGalleryModule)
   },
   {
-    path: 'privacy',
+    path: 'privacy/.',
     loadChildren:()=> import( './privacy/privacy.module').then(x=>x.PrivacyModule)
   },
   {
-    path: 'india',
+    path: 'india/.',
     loadChildren:()=> import( './university-filter/university-filter.module').then(x=>x.UniversityFilterModule)
   },
   {
-    path: 'india/:link',
+    path: 'india/:link/.',
     loadChildren:()=> import( './university-filter/university-filter.module').then(x=>x.UniversityFilterModule)
   },
   {
@@ -174,6 +174,7 @@ const routes: Routes = [
 
 @NgModule({
   imports: [RouterModule.forRoot(routes, {
+    useHash: false,
     initialNavigation: 'enabledBlocking'
 })],
   exports: [RouterModule]

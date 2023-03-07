@@ -5,35 +5,35 @@ import { AllBlogsComponent } from './all-blogs.component';
 
 const routes: Routes = [
   {
-    path:'study-abroad',
+    path:'study-abroad/.',
     component:AllBlogsComponent
   },
   {
-    path:'career',
+    path:'career/.',
     component:AllBlogsComponent
   },
   {
-    path:'exam',
+    path:'exam/.',
     component:AllBlogsComponent
   },
   {
-    path:'general',
+    path:'general/.',
     component:AllBlogsComponent
   },
   {
-    path:'how-to-guide',
+    path:'how-to-guide/.',
     component:AllBlogsComponent
   },
   {
-    path:'neet-counselling',
+    path:'neet-counselling/.',
     component:AllBlogsComponent
   },
   {
-    path:'top-colleges-and-universities',
+    path:'top-colleges-and-universities/.',
     component:AllBlogsComponent
   },
   {
-    path:'all-blogs',
+    path:'all-blogs/.',
     component:AllBlogsComponent
   }
 

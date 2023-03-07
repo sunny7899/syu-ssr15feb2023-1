@@ -5,7 +5,7 @@ export default[
         postedBy:"",
         Categories:'exam',
         blogimg:"../../assets/blog-news-images/News-images/neet-ug-exam-result-declared.jpg",
-        url:"neet-ug-exam-result-declared",
+        url:"neet-ug-exam-result-declared/.",
         data: [
             {
                 type: 'title',
@@ -326,7 +326,7 @@ export default[
         postedBy:"",
         Categories:'Exam',
         blogimg:'../../assets/img/neet-ug-exam-answer-key.jpg',
-        url:'neet-ug-exam-answer-key',
+        url:'neet-ug-exam-answer-key/.',
         data: [
             {
                 type: 'title',
@@ -434,7 +434,7 @@ export default[
                 {
                 type:"meta-links",
                 link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/news/neet-ug-exam-answer-key" }
+                  { rel: "canonical", href: "https://www.selectyouruniversity.com/news/neet-ug-exam-answer-key/." }
                 ]}
         ],
        
@@ -445,7 +445,7 @@ export default[
         postedBy:"",
         Categories:'Exam',
         blogimg:'../../assets/blog-news-images/News-images/neet-pg-result-declared.jpg',
-        url:'neet-pg-result-declared',
+        url:'neet-pg-result-declared/.',
         data: [
             {
                 type: 'title',
@@ -587,7 +587,7 @@ export default[
         postedBy:"",
         Categories:'Exam',
         blogimg:'../../assets/blog-news-images/News-images/supreme-court-refuses-to-postpone-neet-pg.jpg',
-        url:'supreme-court-refuses-to-postpone-neet-pg',
+        url:'supreme-court-refuses-to-postpone-neet-pg/.',
         data: [
             {
                 type: 'title',
@@ -656,7 +656,7 @@ export default[
         postedBy:"",
         Categories:'Exam',
         blogimg:'../../assets/blog-news-images/News-images/centre-removes-upper-age-limit-for-neet-ug-eligibility.jpg',
-        url:'centre-removes-upper-age-limit-for-neet-ug-eligibility',
+        url:'centre-removes-upper-age-limit-for-neet-ug-eligibility/.',
         data: [
             {
                 type: 'title',
@@ -701,7 +701,7 @@ export default[
         postedBy:"",
         Categories:'Exam',
         blogimg:'../../assets/blog-news-images/News-images/ets-announces-new-english-language-test-toefl-essentials.jpg',
-        url:'ets-announces-new-english-language-test-toefl-essentials',
+        url:'ets-announces-new-english-language-test-toefl-essentials/.',
         data: [
             {
                 type: 'title',
@@ -738,7 +738,7 @@ export default[
         postedBy:"",
         Categories:'Exam',
         blogimg:'../../assets/blog-news-images/News-images/neet-pg-exam-postponed.jpg',
-        url:'neet-pg-exam-postponed',
+        url:'neet-pg-exam-postponed/.',
         data: [
             {
                 type: 'title',
@@ -775,7 +775,7 @@ export default[
         postedBy:"",
         Categories:'Exam',
         blogimg:'../../assets/blog-news-images/News-images/jee-main-exam-postponed.jpg',
-        url:'jee-main-exam-postponed',
+        url:'jee-main-exam-postponed/.',
         data: [
             {
                 type: 'title',
@@ -812,7 +812,7 @@ export default[
         postedBy:"",
         Categories:'Exam',
         blogimg:'../../assets/blog-news-images/News-images/aiims-postpones-ini-cet-pg-entrance-exam.jpg',
-        url:'aiims-postpones-ini-cet-pg-entrance-exam',
+        url:'aiims-postpones-ini-cet-pg-entrance-exam/.',
         data: [
             {
                 type: 'title',

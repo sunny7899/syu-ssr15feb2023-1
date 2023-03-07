@@ -4,7 +4,7 @@ export default [{
     postedBy: "Bhavesh Nimodiya",
     Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-uzbekistan.jpg',
-    url: 'top-medical-universities-in-uzbekistan',
+    url: 'top-medical-universities-in-uzbekistan/.',
     data: [
         {
             type: 'title',
@@ -198,7 +198,7 @@ export default [{
     postedBy: "Bhavesh Nimodiya",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/best-medical-universities-in-russia.jpg',
-    url: 'best-medical-universities-in-russia',
+    url: 'best-medical-universities-in-russia/.',
     data: [
         {
             type: 'title',
@@ -1566,7 +1566,7 @@ export default [{
     postedBy: "Smita Medhekar",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-mbbs-colleges-in-maharashtra.jpg',
-    url: 'top-mbbs-colleges-in-maharashtra',
+    url: 'top-mbbs-colleges-in-maharashtra/.',
     data: [
         {
             type: 'title',
@@ -2077,7 +2077,7 @@ export default [{
     postedBy: "Alisha patil",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-colleges-in-madhya-pradesh.jpg',
-    url: 'top-medical-colleges-in-madhya-pradesh',
+    url: 'top-medical-colleges-in-madhya-pradesh/.',
     data: [
         {
             type: 'title',
@@ -2602,7 +2602,7 @@ export default [{
     postedBy: "Alisha patil",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-state-universities-in-india.jpg',
-    url: 'list-of-state-universities-in-india',
+    url: 'list-of-state-universities-in-india/.',
     data: [
         {
             type: 'title',
@@ -5262,7 +5262,7 @@ export default [{
     postedBy: "Alisha patil",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-private-universities-in-india.jpg',
-    url: 'list-of-private-universities-in-india',
+    url: 'list-of-private-universities-in-india/.',
     data: [
         {
             type: 'title',
@@ -5888,7 +5888,7 @@ export default [{
     postedBy: "Alisha patil",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/autonomous-higher-education-institutes-in-india.jpg',
-    url: 'autonomous-higher-education-institutes-in-india',
+    url: 'autonomous-higher-education-institutes-in-india/.',
     data: [
         {
             type: 'title',
@@ -6220,7 +6220,7 @@ export default [{
     postedBy: "Alisha patil",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-deemed-universities-in-india.jpg',
-    url: 'list-of-deemed-universities-in-india',
+    url: 'list-of-deemed-universities-in-india/.',
     data: [
         {
             type: 'title',
@@ -6508,7 +6508,7 @@ export default [{
     postedBy: "Alisha patil",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-central-universities-in-india.jpg',
-    url: 'list-of-central-universities-in-india',
+    url: 'list-of-central-universities-in-india/.',
     data: [
         {
             type: 'title',
@@ -6718,7 +6718,7 @@ export default [{
     postedBy: "Alisha patil",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/types-of-universities-in-india.jpg',
-    url: 'types-of-universities-in-india',
+    url: 'types-of-universities-in-india/.',
     data: [
         {
             type: 'title',
@@ -6909,7 +6909,7 @@ export default [{
     postedBy: "Vivek Wagh",
     Categories: 'Top Colleges Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-law-colleges-in-mumbai.jpg',
-    url: 'top-law-colleges-in-mumbai',
+    url: 'top-law-colleges-in-mumbai/.',
     data: [
         {
             type: 'title',
@@ -7357,7 +7357,7 @@ export default [{
     postedBy: "Akash Yendhe",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/best-bba-colleges.jpg',
-    url: "best-bba-colleges",
+    url: "best-bba-colleges/.",
     data: [
         {
             type: 'text',
@@ -7607,7 +7607,7 @@ export default [{
     postedBy: "Akash Yendhe",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-mci-recognized-medical-universities.jpg',
-    url: "list-of-top-mci-approved-universities-for-mbbs-in-belarus",
+    url: "list-of-top-mci-approved-universities-for-mbbs-in-belarus/.",
     data: [
         {
             type: 'text',
@@ -7797,7 +7797,7 @@ export default [{
     postedBy: "Akash Yendhe",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-mci-recognized-medical-universities.jpg',
-    url: "list-of-top-mci-recognized-medical-universities",
+    url: "list-of-top-mci-recognized-medical-universities/.",
     data: [
         {
             type: 'text',
@@ -8926,7 +8926,7 @@ export default [{
     postedBy: "Smita Medhekar",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/low-cost-medical-universities-in-poland.jpg',
-    url: "low-cost-medical-universities-in-poland",
+    url: "low-cost-medical-universities-in-poland/.",
     data: [
         {
             type: 'text',
@@ -10132,7 +10132,7 @@ export default [{
     postedBy: "Akash Yendhe",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-india.jpg',
-    url: "top-engineering-universities-in-india",
+    url: "top-engineering-universities-in-india/.",
     data: [
         {
             type: 'text',
@@ -10579,7 +10579,7 @@ export default [{
     postedBy: "Saurabh Kale",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-poland.jpg',
-    url: "top-engineering-universities-in-poland",
+    url: "top-engineering-universities-in-poland/.",
     data: [
         {
             type: 'text',
@@ -11275,7 +11275,7 @@ export default [{
     postedBy: "Saurabh Kale",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-russia.jpg',
-    url: "top-engineering-universities-in-russia",
+    url: "top-engineering-universities-in-russia/.",
     data: [
         {
             type: 'text',
@@ -12112,7 +12112,7 @@ export default [{
     postedBy: "Smita Medhekar",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-mba-colleges-in-pune.jpg',
-    url: "top-mba-colleges-in-pune",
+    url: "top-mba-colleges-in-pune/.",
     data: [
         {
             type: 'text',
@@ -12756,7 +12756,7 @@ export default [{
     postedBy: "Akash Yendhe",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-mca-universities-in-india.jpg',
-    url: "top-mca-universities-in-india",
+    url: "top-mca-universities-in-india/.",
     data: [
         {
             type: 'text',
@@ -13509,7 +13509,7 @@ export default [{
     postedBy: "Sapna Rangare",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-colleges-in-the-world.jpg',
-    url: "top-medical-colleges-in-the-world",
+    url: "top-medical-colleges-in-the-world/.",
     data: [
         {
             type: 'text',
@@ -13708,7 +13708,7 @@ export default [{
     postedBy: "Akash Yendhe",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-china.jpg',
-    url: "top-medical-universities-in-china",
+    url: "top-medical-universities-in-china/.",
     data: [
         {
             type: 'text',
@@ -14374,7 +14374,7 @@ export default [{
     postedBy: "Saurabh Kale",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-kazakhstan.jpg',
-    url: "top-medical-universities-in-kazakhstan",
+    url: "top-medical-universities-in-kazakhstan/.",
     data: [
         {
             type: 'text',
@@ -14719,7 +14719,7 @@ export default [{
     postedBy: "Akash Yendhe",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-kyrgyzstan.jpg',
-    url: "top-medical-universities-in-kyrgyzstan",
+    url: "top-medical-universities-in-kyrgyzstan/.",
     data: [
         {
             type: 'text',
@@ -14938,7 +14938,7 @@ export default [{
     postedBy: "Saurabh Kale",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-philippines.jpg',
-    url: "top-medical-universities-in-philippines",
+    url: "top-medical-universities-in-philippines/.",
     data: [
         {
             type: 'text',
@@ -15378,7 +15378,7 @@ export default [{
     postedBy: "Smita Medhekar",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-ukraine.jpg',
-    url: "top-medical-universities-in-ukraine",
+    url: "top-medical-universities-in-ukraine/.",
     data: [
         {
             type: 'text',
@@ -16342,7 +16342,7 @@ export default [{
     postedBy: "Smita Medhekar",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-private-and-government-mba-universities-in-india.jpg',
-    url: 'top-private-and-government-mba-universities-in-india',
+    url: 'top-private-and-government-mba-universities-in-india/.',
     data: [
         {
             type: 'text',
@@ -16680,7 +16680,7 @@ export default [{
     postedBy: "Smita Medhekar",
     Categories: 'career',
     blogimg: '../../assets/blog-news-images/Blog-images/top-universities-for-mbbs-in-nepal.jpg',
-    url: 'top-universities-for-mbbs-in-nepal',
+    url: 'top-universities-for-mbbs-in-nepal/.',
     data: [
         {
             type: 'title',
@@ -17005,7 +17005,7 @@ export default [{
     postedBy: "Saurabh Kale",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/ukraine-top-engineering-universities.jpg',
-    url: "ukraine-top-engineering-universities",
+    url: "ukraine-top-engineering-universities/.",
     data: [
         {
             type: 'text',
@@ -17778,7 +17778,7 @@ export default [{
     postedBy: "Smita Medhekar",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/world-ranking-of-medical-colleges-abroad.jpg',
-    url: "world-ranking-of-medical-colleges-abroad",
+    url: "world-ranking-of-medical-colleges-abroad/.",
     data: [
         {
             type: 'text',
@@ -18867,7 +18867,7 @@ export default [{
     postedBy: "Smita Medhekar",
     Categories: 'Top Colleges & Universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-10-medical-universities-in-bangladesh.jpg',
-    url: 'list-of-top-10-medical-universities-in-bangladesh',
+    url: 'list-of-top-10-medical-universities-in-bangladesh/.',
     data: [
         {
             type: 'text',

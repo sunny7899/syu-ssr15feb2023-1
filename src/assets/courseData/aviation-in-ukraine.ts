@@ -6,7 +6,7 @@ export const aviationinukraine = {
     "rating": "",
     "shareLink": "",
     "Duration": '4Years',
-    "url": 'aviation-in-ukraine',
+    "url": 'aviation-in-ukraine/.',
     "info": [
         {
             type: 'title',

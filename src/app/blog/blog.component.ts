@@ -131,11 +131,11 @@ export class BlogComponent implements OnInit {
       });
     }
 
-    this.router.navigate(['blog/category/' + item[0].Categories], { state: item });
+    this.router.navigate(['blog/category/' + item[0].Categories + '/.'], { state: item });
   }
 
   routeAllBlog() {
-    this.router.navigate(['blog/category/all-blogs']);
+    this.router.navigate(['blog/category/all-blogs/.']);
   }
 
   public signUp = false;

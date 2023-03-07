@@ -5,7 +5,7 @@ export default[
     postedBy:"Shivani Gite",
     Categories:'how-to-guide',
     blogimg:'../../assets/blog-news-images/Blog-images/how-ects-credits-work.jpg',
-    url:'how-ects-credits-work',
+    url:'how-ects-credits-work/.',
     data: [
         {
             type: 'title',
@@ -158,7 +158,7 @@ export default[
     postedBy:"Smita Medhekar",
     Categories:'Exam',
     blogimg:'../../assets/blog-news-images/Blog-images/how-to-prepare-for-jipmer-exam.jpg',
-    url:'how-to-prepare-for-jipmer-exam',
+    url:'how-to-prepare-for-jipmer-exam/.',
     data: [
         {
             type: 'text',
@@ -330,7 +330,7 @@ export default[
     postedBy:"Smita Medhekar",
     Categories:'How to Guide',
     blogimg:'../../assets/blog-news-images/Blog-images/how-to-crack-aiims-mbbs-exam.jpg',
-    url:'how-to-crack-aiims-mbbs-exam',
+    url:'how-to-crack-aiims-mbbs-exam/.',
     data: [
         {
             type: 'title',
@@ -748,7 +748,7 @@ export default[
     postedBy:"Saurabh Kale",
     Categories:'How to Guide',
     blogimg:'../../assets/blog-news-images/Blog-images/covid-19-impacts-on-indian-education-system.jpg',
-    url:'covid-19-impacts-on-indian-education-system',
+    url:'covid-19-impacts-on-indian-education-system/.',
     data: [
         {
             type: 'title',
@@ -958,7 +958,7 @@ export default[
     postedBy:"Smita Medhekar",
     Categories:'How to Guide',
     blogimg:'../../assets/blog-news-images/Blog-images/engineering-students-can-earn-money-while-studying.jpg',
-    url:'engineering-students-can-earn-money-while-studying',
+    url:'engineering-students-can-earn-money-while-studying/.',
     data: [
         {
             type: 'title',
@@ -1099,7 +1099,7 @@ export default[
     postedBy:"Smita Medhekar",
     Categories:'How to Guide',
     blogimg:'../../assets/blog-news-images/Blog-images/country-and-university-for-mbbs-abroad.jpg',
-    url:'country-and-university-for-mbbs-abroad',
+    url:'country-and-university-for-mbbs-abroad/.',
     data: [
         {
             type: 'title',
@@ -1368,7 +1368,7 @@ export default[
     postedBy:"Smita Medhekar",
     Categories:'How to Guide',
     blogimg:'../../assets/blog-news-images/Blog-images/how-to-get-admission-in-foreign-medical-colleges.jpg',
-    url:'how-to-get-admission-in-foreign-medical-colleges',
+    url:'how-to-get-admission-in-foreign-medical-colleges/.',
     data: [
         {
             type: 'title',
@@ -1629,7 +1629,7 @@ export default[
     postedBy:"Smita Medhekar",
     Categories:'How to Guide',
     blogimg:'../../assets/blog-news-images/Blog-images/preparation-for-neet-exam.jpg',
-    url:'preparation-for-neet-exam',
+    url:'preparation-for-neet-exam/.',
     data: [
         {
             type: 'title',
@@ -1915,7 +1915,7 @@ export default[
     postedBy:"Saurabh Kale",
     Categories:'How to Guide',
     blogimg:'../../assets/blog-news-images/Blog-images/how-to-select-the-best-overseas-education-consultant.jpg',
-    url:'how-to-select-the-best-overseas-education-consultant',
+    url:'how-to-select-the-best-overseas-education-consultant/.',
     data: [
         {
             type: 'title',

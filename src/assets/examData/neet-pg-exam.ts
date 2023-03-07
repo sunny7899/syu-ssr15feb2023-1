@@ -5,7 +5,7 @@ export const neetpgexam = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "url": "neet-pg-exam",
+    "url": "neet-pg-exam/.",
     "info": [
         {
             type: 'title',
@@ -391,7 +391,7 @@ export const neetpgexam = {
             ]}
 
     ],
-    "exam-date":[
+    "examdate":[
         
         {
             "type": "table",
@@ -499,7 +499,7 @@ export const neetpgexam = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam/syllabus" }
       ]}
       ],
-      "cut-off":[
+      "cutoff":[
         
         {
             "type": "table",

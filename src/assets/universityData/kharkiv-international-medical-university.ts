@@ -103,7 +103,7 @@ export const kharkivinternationalmedicaluniversity
            
             
             {
-                "type":"text",
+                "type":"list-bollet",
                 "title":"Medium of Teaching",
                 "info":"For foreign students and for their worldwide recognized education system, Kharkiv International Medical University offers an MBBS course in the English language:",
                 "data":[
@@ -111,7 +111,7 @@ export const kharkivinternationalmedicaluniversity
                 ]
             },
             {
-                "type":"text",
+                "type":"list-bollet",
                 "title":"Accreditation & Recognitions of KhIMU",
                 "info":"Kharkiv International Medical University is recognized by the world’s leading organizations and medical councils:",
                 "data":[
@@ -345,7 +345,7 @@ export const kharkivinternationalmedicaluniversity
                 ]
             },
             {
-              "type": "text",
+              "type": "step-list",
               "title": "Admission Procedure",
               "info":"For hassle free admission and for support at every step of admission, students can contact us, ‘Select Your University’. We are the official partners of Kharkiv International Medical University:",
               "data": [

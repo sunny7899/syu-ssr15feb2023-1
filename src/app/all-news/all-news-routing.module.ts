@@ -5,7 +5,7 @@ import { AllNewsComponent } from './all-news.component';
 
 const routes: Routes = [
   {
-    path:'exam',
+    path:'exam/.',
     component:AllNewsComponent
   },
   /*{
@@ -17,7 +17,7 @@ const routes: Routes = [
   //   component:AllNewsComponent
   // },
   {
-    path:'general',
+    path:'general/.',
     component:AllNewsComponent
   },
   /*{
@@ -33,7 +33,7 @@ const routes: Routes = [
     component:AllNewsComponent
   },*/
   {
-    path:'all-news',
+    path:'all-news/.',
     component:AllNewsComponent
   }
 ];

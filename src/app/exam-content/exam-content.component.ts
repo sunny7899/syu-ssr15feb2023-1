@@ -31,8 +31,10 @@ export class ExamContentComponent implements OnInit {
   posturl
   collegeData: any
   currentUrl: any
+  getUrl: any
   url: any
   studuentAlsoVisit: any
+  posts:any;
 
   CoursesFees = []
   eventaddmission = []
@@ -44,6 +46,8 @@ export class ExamContentComponent implements OnInit {
   h1Title: any
 
   private link: HTMLLinkElement;
+  createLinkForCanonicalURL: any;
+  examData: any;
 
   isActive(tabName) {
     return this.activeTab === tabName;
@@ -57,16 +61,16 @@ export class ExamContentComponent implements OnInit {
 
     console.log('tab', tab)
     console.log('this.url', this.url)
-    if (this.url.length > 2) {
+    if (this.url.length > 1) {
       if (tab === 'info') {
-        this.router.navigate(['exams/' + this.url[2]])
+        this.router.navigate(['exams/' + this.url[2]+'/.'])
       } else if (tab === 'qna') {
-        this.router.navigate(['exams/' + this.url[2] + '/' + 'faq'])
+        this.router.navigate(['exams/' + this.url[2] + '/' + 'faq/.'])
       } else {
-        this.router.navigate(['exams/' + this.url[2] + '/' + tab])
+        this.router.navigate(['exams/' + this.url[2] + '/' + tab+'/.'])
       }
     } else {
-      this.router.navigate(['exams/' + this.currentUrl])
+      this.router.navigate(['exams/' + this.currentUrl+'/.'])
     }
     this.activeTab = tab;
     window.scroll({
@@ -115,48 +119,49 @@ export class ExamContentComponent implements OnInit {
     private sanitizer: DomSanitizer,
     @Inject(DOCUMENT) private dom
   ) {
-
     let link: HTMLLinkElement = this.dom.createElement('link');
     this.dom.head.appendChild(link);
-    let urls = this.router.url.split('/')
-    console.log('urls: ', urls);
-    let data = collegeContent[urls[2].replace(/-/g, "")][urls[2].replace(/-/g, "")]
+    let urls = this.router.url.split('/');
+    let data = this.collegeContents[urls[2].replace(/-/g, "")]
     console.log('data: ', data);
-    let metas: any
-    let links: any
-    let titles: any
-    if (urls.length > 3) {
-      let tabData = data[urls[3].replace(/-/g, "")]
-      if (tabData) {
-        tabData.forEach((inf: any) => {
-          if (inf.type === 'meta') {
-            metas = inf.meta
+    console.log('urls: ', urls);
+    data = data[urls[2].replace(/-/g, "")]
+    //data = data['info'];
+    let metas:any
+    let links:any
+    let titles:any;
+    if(urls.length > 4){
+      let tabData = data[urls[3].replace(/-/g, "")];
+      if(tabData){
+        tabData.forEach((inf:any) => {
+          if(inf.type ==='meta'){
+            metas=inf.meta
           }
-          if (inf.type === 'meta-title') {
-            titles = inf.title
+          if(inf.type ==='meta-title'){
+            titles= inf.title
           }
-          if (inf.type === 'meta-links') {
-            links = inf.link
+          if(inf.type === 'meta-links'){
+            links= inf.link
           }
-        });
+      });
       }
-    } else {
-      data.info.forEach((inf: any) => {
-        if (inf.type === 'meta') {
-          metas = inf.meta
-        }
-        if (inf.type === 'meta-title') {
-          titles = inf.title
-        }
-        if (inf.type === 'meta-links') {
-          links = inf.link
-        }
+    }else {
+      data.info.forEach((inf:any) => {
+          if(inf.type ==='meta'){
+            metas=inf.meta
+          }
+          if(inf.type ==='meta-title'){
+            titles= inf.title
+          }
+          if(inf.type === 'meta-links'){
+            links= inf.link
+          }
       });
     }
     console.log('titles: ', titles);
     console.log('links: ', links);
     console.log('metas: ', metas);
-
+    
     this.title.setTitle(titles)
     if (links) {
       links.forEach((lik: any) => {
@@ -304,10 +309,15 @@ export class ExamContentComponent implements OnInit {
   }
   ngOnInit() {
     this.getStudentVisit()
-    this.currentUrl = this.router.url.split('/').pop()
-    console.log('this.currentUrl: ', this.currentUrl);
-    this.url = this.router.url.split('/')
-    if (this.url.length > 3) {
+    //this.currentUrl = this.router.url.split('/').pop()
+    this.getUrl = this.router.url.split('/'); 
+    this.currentUrl = this.getUrl[this.getUrl .length-2];
+    this.currentUrl = this.currentUrl;
+    //console.log('this.currentUrl: ', this.currentUrl);
+    //this.url = this.router.url.split('/');
+    //this.url = this.getUrl[this.getUrl .length-2];
+    this.url = this.router.url.split('/');
+    if (this.url.length > 4) {
       if (this.url[3] === 'courses-and-fees') {
         this.getCoursesFees(this.url[2])
       }
@@ -329,7 +339,8 @@ export class ExamContentComponent implements OnInit {
     const data = collegeContent[this.url[2].replace(/-/g, "")]
     console.log('data: ', data);
     this.collegeData = data[this.url[2].replace(/-/g, "")]
-    if (this.url.length > 3) {
+    
+    if (this.url.length > 4) {
       this.makeActiveTab(this.url[3]);
     } else {
       this.makeActiveTab('info');

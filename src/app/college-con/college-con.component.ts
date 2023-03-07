@@ -72,7 +72,8 @@ export class CollegeConComponent implements OnInit {
     data['cWebsite']='http://demo.mentebit.com/#/'
     data['cCoutryCode']="Na"
     console.log('rom1', this.RegistrationFrom1.value)
-    this.http.post( "https://18.189.207.215:8080/register", this.RegistrationFrom1.value)
+    const {cCity, cCourse, cCandidateName, cEmail, cMobile, qeducation,cLinkName} = this.RegistrationFrom1.value;
+    this.http.get( `https://www.selectyouruniversity.com/api/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&qeducation=${qeducation}&cLinkName=${this.currentUrl}&section=insertdetails`)
     .subscribe((res) => {
       console.log('res', res)
     this.nsrNo= res
@@ -201,6 +202,7 @@ export class CollegeConComponent implements OnInit {
   posturl: any
   collegeData: any
   currentUrl: any
+  getUrl: any;
   url: any
   posts:any;
 
@@ -230,16 +232,16 @@ export class CollegeConComponent implements OnInit {
   makeActive(tab: any) {
     console.log('tab', tab)
     console.log('this.url', this.url)
-    if (this.url.length > 2) {
+    if (this.url.length > 1) {
       if (tab === 'info') {
-        this.router.navigate(['college/' + this.url[2]])
+        this.router.navigate(['college/' + this.url[2] + '/.'])
       } else if (tab === 'qna') {
-        this.router.navigate(['college/' + this.url[2] + '/' + 'faq'])
+        this.router.navigate(['college/' + this.url[2] + '/' + 'faq/.'])
       } else {
-        this.router.navigate(['college/' + this.url[2] + '/' + tab])
+        this.router.navigate(['college/' + this.url[2] + '/' + tab + '/.'])
       }
     } else {
-      this.router.navigate(['college/' + this.currentUrl])
+      this.router.navigate(['college/' + this.currentUrl+"/."])
     }
     this.activeTab = tab;
     window.scroll({
@@ -297,17 +299,17 @@ export class CollegeConComponent implements OnInit {
   ) {
     let link: HTMLLinkElement = this.dom.createElement('link');
     this.dom.head.appendChild(link);
-    let urls = this.router.url.split('/')
+    let urls = this.router.url.split('/');
     let data = this.collegeContents[urls[2].replace(/-/g, "")]
     console.log('data: ', data);
     console.log('urls: ', urls);
     data = data[urls[2].replace(/-/g, "")]
-    console.log('data: ', data);
+    //data = data['info'];
     let metas:any
     let links:any
-    let titles:any
-    if(urls.length > 3){
-      let tabData =data[urls[3].replace(/-/g, "")]
+    let titles:any;
+    if(urls.length > 4){
+      let tabData = data[urls[3].replace(/-/g, "")];
       if(tabData){
         tabData.forEach((inf:any) => {
           if(inf.type ==='meta'){
@@ -451,11 +453,16 @@ export class CollegeConComponent implements OnInit {
       },
 
     ];
-    this.currentUrl = this.router.url.split('/').pop()
-    console.log('this.currentUrl: ', this.currentUrl);
-    this.url = this.router.url.split('/')
-    if (this.url.length > 3) {
-      if (this.url[3] === 'courses-and-fees') {
+    //this.currentUrl = this.router.url.split('/').pop()
+    this.getUrl = this.router.url.split('/'); 
+    this.currentUrl = this.getUrl[this.getUrl .length-2];
+    this.currentUrl = this.currentUrl;
+    //console.log('this.currentUrl: ', this.currentUrl);
+    //this.url = this.router.url.split('/');
+    //this.url = this.getUrl[this.getUrl .length-2];
+    this.url = this.router.url.split('/');
+    if (this.url.length > 4) {
+      if (this.url[3] === 'courses-and-fees') { 
         this.getCoursesFees(this.url[2])
       }
       if (this.url[3] === 'admission') {
@@ -471,7 +478,7 @@ export class CollegeConComponent implements OnInit {
       if (this.url[3] === 'news') {
         this.getNews(this.url[2])
       }
-    }
+    } 
     this.api.getAll(`section=colunimaininfo&coluni=${this.url[2]}`)
     .subscribe((response:any) => {
       this.posts = response.data[0];
@@ -481,9 +488,10 @@ export class CollegeConComponent implements OnInit {
     console.log('this.collegeContents: ', this.collegeContents);
     console.log('this.url[2].replace(/-/g, ""): ', this.url[2].replace(/-/g, ""));
     const data = this.collegeContents[this.url[2].replace(/-/g, "")]
-    this.collegeData = data[this.url[2].replace(/-/g, "")]
+    console.log("data=======", data);
+    this.collegeData = data[this.url[2].replace(/-/g, "")];
     this.createLinkForCanonicalURL()
-    if (this.url.length > 3) {
+    if (this.url.length > 4) {
       this.makeActiveTab(this.url[3]);
     } else {
       this.makeActiveTab('info');
@@ -520,16 +528,15 @@ export class CollegeConComponent implements OnInit {
     $element.scrollIntoView({ behavior: "smooth" });
   }
 
-  createLinkForCanonicalURL() {
+  createLinkForCanonicalURL() { 
     if (this.link === undefined) {
-      this.collegeData.info.forEach((info: any) => {
-        if (info.type === 'link') {
+      this.collegeData.info.forEach((info: any) => { 
+        if (info.type === 'link') { alert("here");
           info.data.forEach((lin: any) => {
             this.link = this.dom.createElement('link');
             this.link.setAttribute('rel', lin.rel,);
             this.dom.head.appendChild(this.link);
             this.link.setAttribute('href', lin.href);
-
           });
         }
       });
