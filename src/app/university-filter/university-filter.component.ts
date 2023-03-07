@@ -172,8 +172,8 @@ export class UniversityFilterComponent implements OnInit {
       // console.log(color);// OUTPUT red
     });
 
-    const currentPath = this._location.path();
-    const data = currentPath && currentPath.split('/');
+    // const currentPath = this._location.path();
+    // const data = currentPath && currentPath.split('/');
     // const finalUrl = this.router.getCurrentNavigation()?.finalUrl;
     // const PRIMARY_OUTLET = "primary";
     // const g: UrlSegmentGroup = finalUrl.root.children[PRIMARY_OUTLET];
@@ -181,9 +181,9 @@ export class UniversityFilterComponent implements OnInit {
     // console.log(g.children[PRIMARY_OUTLET]); // returns 2 segments 'user' and 'victor'
     // console.log(g.children['support']); // return 1 segment 'help'
     // console.log(currentPath,  finalUrl);
-    if (data.length >=3 && data[1] == 'india') {
-      this.getAllData(data[2]);
-    }
+    // if (data.length >=3 && data[1] == 'india') {
+    //   this.getAllData(data[2]);
+    // }
 
   }
 
@@ -241,7 +241,8 @@ export class UniversityFilterComponent implements OnInit {
     for (let key in this.selectedData) {
       console.log(key, this.selectedData[key]);
       if ((key == 'stream' || key == 'state') && this.selectedData[key]) {
-        url += ('/' + this.selectedData[key]).trim();
+        const temp = this.selectedData[key].replace(' ', '-') + '-colleges';
+        url += ('/' + temp).trim();
         this.getAllData(this.selectedData[key]);
       } else if (key == 'City' && this.selectedData[key]) {
         url += this.updateQueryParam(url, 'city_id=', this.selectedData, key);
@@ -321,7 +322,12 @@ export class UniversityFilterComponent implements OnInit {
     const currentPath = this._location.path();
     const data = currentPath && currentPath.split('/');
     if (data.length >=3 && data[1] == 'india') {
-      this.selectDataFromLink(this.streamList, data[2], 'cStream');
+      const updateVal = data[2].replace('-', ' ');
+      const streamData = this.streamList.find(el => updateVal.includes(el.cStream));
+      if (streamData) {
+        this.getAllData(streamData.cStream);
+        this.selectDataFromLink(this.streamList, streamData.cStream, 'cStream');
+      }
     }
   }
   getData() {
