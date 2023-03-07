@@ -323,7 +323,7 @@ export class UniversityFilterComponent implements OnInit {
     const data = currentPath && currentPath.split('/');
     if (data.length >=3 && data[1] == 'india') {
       const updateVal = data[2].replace('-', ' ');
-      const streamData = this.streamList.find(el => updateVal.includes(el.cStream));
+      const streamData = this.streamList.find(el => updateVal.includes(el.cStream.toLowerCase()));
       if (streamData) {
         this.getAllData(streamData.cStream);
         this.selectDataFromLink(this.streamList, streamData.cStream, 'cStream');
