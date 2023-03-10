@@ -1603,7 +1603,7 @@
               </div>
 
               <div *ngIf="isActive('placement')">
-                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.Placement">
+                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.placement">
                   <div *ngIf="item.type == 'api-table'">
                     <h2 [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
