@@ -1,9 +1,10 @@
 .course-content-banner {
-    height: 45vh;
+    height: 40vh;
     box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
     background-size: 100% 100%;
     background-image: url('../../assets/img/Course_Content_Icons/2.MBA_Project_Management/course_content_banner.png');
     background-repeat: no-repeat;
+    margin-bottom: 10px;
 }
 
 .course-content {
@@ -14,7 +15,6 @@
 }
 
 #talk {
-
     margin-top: 3%;
 }
 
@@ -26,7 +26,6 @@
 #titles {
     padding-top: 5px;
 }
-
 
 .course-content-page-header {
     padding-top: 8vh;
@@ -51,7 +50,8 @@
     border-radius: 20px;
     padding: 5px 16px;
     margin-top: 20px;
-    margin-right: 20px;
+    display: flex;
+    font-size: 14px;
 }
 
 .btn-white-nav {
@@ -61,7 +61,9 @@
     border-radius: 20px;
     padding: 4px 24px;
     margin-top: 21px;
-    margin-right: 9px;
+    display: flex;
+    font-size: 14px;
+    margin-left: 15px;
 }
 
 .btn-orange-nav img,
@@ -69,21 +71,12 @@
     padding-left: 10px;
 }
 
-.talk-to-expert {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    // margin-left: 15px;
-    margin-right: 15px;
-    border-radius: 10px;
-    padding: 1%;
-}
-
 .course-content-div {
     // margin-top:10px;
     margin-bottom: 10px;
     // margin-left: 15px;
     border-radius: 10px;
-    padding: 15px;
+    //padding: 15px;
 }
 
 .table-of-content {
@@ -148,86 +141,68 @@
     .sectionMobHide {
         display: none;
     }
-
     .cust-padding {
         padding: 20px;
     }
-
     #faq {
         width: 90%;
         margin-left: 5%;
     }
-
     .college-content {
         background-color: #d7d4d4;
         padding-bottom: 10px;
         padding-top: 3.8%;
     }
-
     .width-500 {
         width: 500px !important;
     }
-
     #number {
         margin-left: 1%;
     }
-
     .overflow-x-auto {
         overflow-x: auto;
     }
-
     #course-content-tab[_ngcontent-mja-c1] {
         margin-right: 0px;
         padding-left: 0px;
         padding-right: 0px;
     }
-
-    .course-content-div {
-        margin-right: 5px;
-        margin-left: 5px;
-    }
-
+    // .course-content-div {
+    //     margin-right: 5px;
+    //     margin-left: 5px;
+    // }
     .flex-holder {
         display: block;
         text-align: center;
     }
-
     .banner-jee-img img {
         width: 20%;
         margin-bottom: 20px;
     }
-
     .exam-content-banner {
         height: 50vh;
     }
-
     .exam-content-div {
         margin-right: 5px;
         margin-left: 5px;
     }
-
     #exam-content-tab {
         margin-right: 0px;
     }
-
     .read-more-btn {
         width: 40%;
     }
-
     #course-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px;
     }
-
     .table-of-content {
         margin-left: 0px;
         margin-right: 0px;
         padding: 3% 8%;
     }
-
     .talk-to-expert .card-body img {
         width: 50%
     }
-
     #course-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px
     }
@@ -238,16 +213,13 @@
         height: auto;
         padding-bottom: 5%;
     }
-
     .talk-to-expert .card-body img {
         width: 30% !important;
     }
-
     .table-of-content {
         margin-left: 0px;
         margin-right: 0px;
     }
-
     #course-content-tab {
         padding: 0px !important
     }
@@ -537,15 +509,15 @@
 
 .talk-to-expert {
     margin-bottom: 10px;
-    margin-left: 15px;
-    margin-right: 15px;
+    //margin-left: 15px;
+    //margin-right: 15px;
     border-radius: 10px;
     padding: 1%;
     margin-top: 10px;
 }
 
 .college-content-div {
-    //margin-top: 10px;
+    margin-top: 10px;
     // margin-left: 15px;
     // margin-right: 15px; 
     border-radius: 10px;
@@ -648,53 +620,47 @@
     width: 14% !important;
 }
 
+.nav-tabs-ul {
+    text-align: left;
+}
+
 @media only screen and (max-width:767px) {
     .nav-tabs-ul {
         display: block;
     }
-
     .stickyDiv {
         position: relative !important;
         z-index: 1 !important;
         top: 0 !important;
     }
-
     .stickyNav {
         top: 8.4% !important;
     }
-
     .tabcontent {
         margin-right: 0px !important;
     }
-
     .custom-padding-row {
         --bs-gutter-x: 0 !important;
         --bs-gutter-y: 0 !important;
     }
-
     .custom-padding-right {
         padding-right: 0px !important
     }
-
     .custom-padding-left {
         padding-left: 0px !important;
     }
-
     .btns,
     .add-info {
         margin-top: 3%;
     }
-
     .flex-holder2 {
         margin-bottom: 0px !important;
     }
-
     .flex-holder3 {
         margin: 2% 0%;
         // padding-left: 3%
         padding: 0 15px;
     }
-
     // .dl-btn,
     // .btn-blue {
     //     display: inline;
@@ -704,21 +670,18 @@
     .flex-holder3 img.review-img {
         height: 60%;
     }
-
     // .dl-btn {
     //     margin: 0% 3%;
     // }
     .other-courses .card-header h5 {
         margin-bottom: 0px;
     }
-
     .flex-holder3 p {
         margin-right: 0%;
         font-size: 11px;
         margin-bottom: 0px;
         line-height: normal;
     }
-
     // .info-div {
     //     margin-left: 3%;
     // }
@@ -726,116 +689,92 @@
         width: 5%;
         height: 60%;
     }
-
     .flex-holder {
         display: block;
         text-align: center;
     }
-
     .banner-jee-img img {
         width: 20%;
         margin-bottom: 20px;
     }
-
     .exam-content-banner {
         height: 50vh;
     }
-
     .exam-content-div {
         margin-right: 5px;
         margin-left: 5px;
     }
-
     #exam-content-tab {
         margin-right: 0px;
     }
-
     .read-more-btn {
         width: 40%;
     }
-
     #college-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px;
     }
-
     .talk-to-expert .card-body img {
         width: 50% !important
     }
-
     #college-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px
     }
-
     .flex-holder3 .img-div img {
         width: 100%
     }
-
     .college-content-banner {
         margin-right: 0px;
         margin-left: 0px;
         padding-bottom: 20px;
     }
-
     .img img {
         width: 100%;
     }
-
     .btn-blue img,
     .dl-btn img {
         // width: 25%;
         padding: 8px;
     }
-
     .dl-btn {
         font-size: 10px;
         padding: 0px 20px;
         margin-left: 15px;
     }
-
     .btn-blue {
         font-size: 10px;
         padding: 0px 20px;
     }
-
     .custom-spacing {
         margin-left: 0% !important;
         padding-right: 1rem !important;
         padding-left: 1rem !important;
     }
-
     .iit-header,
     .iit-subheader {
         text-align: left !important;
         margin-left: 5%
     }
-
     .college-content-div {
         margin-right: 0px;
         margin-left: 0px;
         padding: 0;
     }
-
     .custom-spacing {
         width: 100% !important
     }
-
     .table {
         width: 100%
     }
-
     .iit-subheader {
         font-size: 18px !important;
         margin-bottom: 0px;
     }
-
     .cust-padding {
         padding: 5%;
     }
-
     .tab-text p {
         font-size: 14px;
     }
-
     .flex-holder1 p {
         margin-bottom: 5px;
     }
@@ -880,93 +819,72 @@
         z-index: 1 !important;
         top: 0 !important;
     }
-
     .tabcontent {
         margin-right: 0px !important;
     }
-
     .custom-padding-right {
         padding-right: 12px !important
     }
-
     .custom-padding-left {
         padding-left: 12px !important;
     }
-
     .iit-header,
     .iit-subheader {
         text-align: left;
         margin-left: 5%
     }
-
     .iit-subheader {
         font-size: 20px;
     }
-
     .cust-padding {
         padding: 3%;
     }
-
     .img img {
         width: 80%
     }
-
     .flex-holder1 img {
         height: 75%;
     }
-
     .flex-holder1 {
         margin-top: 2%;
     }
-
     .btn-blue img,
     .dl-btn img {
         padding: 3px;
     }
-
     .btn-blue {
         padding: 0px 30px
     }
-
     .flex-holder3 {
         padding-left: 8%
     }
-
     .flex-holder3 img.rating-img {
         height: 50%;
     }
-
     .dl-btn {
         padding: 0px 0px;
     }
-
     .dl-btn span {
         padding: 5px;
     }
-
     .info-div {
         margin-left: 12%;
         margin-top: 0px !important;
     }
-
     .flex-holder3 .img-div img {
         width: 70%
     }
-
     .college-content-div {
         margin-left: 0px !important;
         margin-right: 0px;
     }
-
     .college-content-banner {
         margin-left: 0px
     }
-
     #college-content-tab {
         margin-right: 0px;
         padding: 0px
     }
-
     .flex-holder4 img {
         width: 60%;
     }
@@ -1071,7 +989,6 @@
     .btn-orange {
         padding: 5px 10px !important;
     }
-
     .other-courses .card-header {
         padding: 5px;
     }
@@ -1111,7 +1028,6 @@
     height: auto;
     width: 100%;
 }
-
 
 .full-width-tabs {
     padding-top: 4px;
@@ -1219,6 +1135,7 @@
     padding-top: 2px;
 }
 
+
 /* start=> */
 
 nav ul li {
@@ -1259,6 +1176,7 @@ nav ul li {
     padding-bottom: 10px;
 }
 
+
 /* .faq-page-header{
       padding-top: 5%;
  } */
@@ -1297,6 +1215,7 @@ nav ul li {
     font-size: 16px;
     padding-top: 15%;
 }
+
 
 /* .faq-page-breadcrumb a.service-link{
  width:15%; 
@@ -1353,11 +1272,9 @@ nav ul li {
     .faq-page-breadcrumb {
         margin-left: 0% !important;
     }
-
     .faq-page-breadcrumb a {
         float: none
     }
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 10%;
@@ -1369,24 +1286,31 @@ nav ul li {
         padding-top: 30px !important;
         font-size: 22px !important;
     }
-
     .need-assi-img {
         width: 70%;
         display: block;
         margin: 0px auto
     }
-
     .faq-page-breadcrumb a {
         float: none;
     }
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 8%;
     }
-
     .faq-page-breadcrumb {
         margin-left: 0px !important
+    }
+}
+
+@media only screen and (min-width:992px) {
+    .btn-orange-nav {
+        margin-right: 20px;
+        display: block;
+    }
+    .btn-white-nav {
+        margin: 0 9px 0 0;
+        display: block;
     }
 }
 
@@ -1509,6 +1433,7 @@ nav ul li {
     display: block !important;
 }
 
+
 /* <=end */
 
 .container-box {
@@ -1575,7 +1500,6 @@ svg {
     .faq-page-breadcrumb a.home[_ngcontent-kol-c2] {
         width: 3%;
     }
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 4%;
@@ -1583,7 +1507,6 @@ svg {
 }
 
 @media only screen and (min-width:450px) and (max-width:600px) {
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 6%;
@@ -1600,29 +1523,23 @@ svg {
         width: 100%;
         margin-left: 0;
     }
-
     .talk-to-expert {
         margin: 0 0 15px;
     }
-
     .other-courses {
         margin: 0 0 15px;
     }
-
     .college-name {
         justify-content: center;
         align-items: center;
     }
-
     .info-div {
         flex-direction: column;
     }
-
     .add-info {
         justify-content: center;
         white-space: nowrap;
     }
-
     #college-content-tab {
         margin-right: -15px;
     }
@@ -1630,6 +1547,7 @@ svg {
 
 
 /*popup form css*/
+
 .form {
     background-color: #d7d4d4;
     padding-bottom: 10px;
@@ -2104,11 +2022,9 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-
     .modal-header {
         flex-direction: column;
     }
-
     .modal-title {
         padding-left: 40px;
     }
@@ -2118,7 +2034,6 @@ input.form-control:focus {
     .submit {
         font-size: 10px;
     }
-
     .form {
         width: 93%;
         margin-left: 4%;
@@ -2269,7 +2184,6 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-
     .form {
         width: 95%;
         margin-left: 3%;
@@ -2614,15 +2528,12 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-
     .modal-header {
         flex-direction: column;
     }
-
     .modal-title {
         padding-left: 40px;
     }
-
     .container {
         display: -webkit-box;
         display: -moz-box;
@@ -2641,11 +2552,9 @@ input.form-control:focus {
         -webkit-align-items: flex-start;
         align-items: flex-start;
     }
-
     .container #hide {
         display: none;
     }
-
     .container .col-lg-8 {
         -webkit-box-ordinal-group: 1;
         -moz-box-ordinal-group: 1;
@@ -2653,20 +2562,15 @@ input.form-control:focus {
         -webkit-order: 1;
         order: 1;
     }
-
     #phone {
         margin-bottom: 15px;
     }
-
-
     .modal-title {
         display: none;
     }
-
     .sub-title {
         font-size: 10px;
     }
-
 }
 
 @media all and (min-width: 700px) and (max-width: 992px) {

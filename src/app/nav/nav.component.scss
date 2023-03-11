@@ -21,7 +21,8 @@ body {
     float: left;
     transition: all 1.0s ease;
 }
-#navLogin a{
+
+#navLogin a {
     cursor: default;
 }
 
@@ -185,7 +186,7 @@ nav {
 }
 
 nav.home {
-    background: #003c88c9 !important;
+    background: transparent !important;
 }
 
 .nofixed nav .wrapper {
