@@ -349,10 +349,10 @@ export const mbbsinaustria = {
             "col": [
             ],
             "row": [
-                ["3 Sem", "Science & Medicine (SSM 1)", "Disease: Origins & Symptoms", "Diseases: Manifestation & Perception, General Pharmacotherapy", "Medical Interview A",""],
-                ["", "Basic Medical Skills", "Problem Based Learning (PBL)", "Optional Subjects", "-",""],
-                ["4 Sem", "Endocrinology, and Metabolism", "Cardiovascular System and Blood", "Respiratory System", "Physical Examination Techniques",""],
-                ["", "Clerkship Preparation", "Organ Morphology 1", "Case Based Learning(CBL)", "Optional Subjects",""],
+                ["3 Sem", "Science & Medicine (SSM 1)", "Disease: Origins & Symptoms", "Diseases: Manifestation & Perception, General Pharmacotherapy", "Medical Interview A","-"],
+                ["", "Basic Medical Skills", "Problem Based Learning (PBL)", "Optional Subjects", "-","-"],
+                ["4 Sem", "Endocrinology, and Metabolism", "Cardiovascular System and Blood", "Respiratory System", "Physical Examination Techniques","-"],
+                ["", "Clerkship Preparation", "Organ Morphology 1", "Case Based Learning(CBL)", "Optional Subjects","-"],
                 ["5 Sem", "Nutrition & Digestion", "The kidneys & Homeostasis", "Sexuality, Reproduction, Pregnancy, & Birth", "Infants, Childhood, Adolescence", "Case Based Systel (CBS)"],
                 ["", "Organ Morphology II", "Specific Examination Techniques I", "Resuscitation Techniques I", "Clerkship", "Optional Subjects"],
                 ["6 Sem", "Medical Research Methods - SSM2", "The Skin & Sensory Organ", "The Brain & Nervous System", "Neurological Status", "Medical Interview B"],

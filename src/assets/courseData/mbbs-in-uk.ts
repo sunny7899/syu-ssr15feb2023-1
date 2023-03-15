@@ -183,7 +183,7 @@ export const mbbsinuk = {
             "type": "text",
             "title": "About UK",
             "img": "",
-            "info": "<p>The UK is located in northwestern Europe. It is commonly known as Britain or the United Kingdom since it comprises the island of Great Britain which contains Wales, England and Scotland. London is the capital of the UK which is the leading financial and commercial hub across the world.</p><p>UK has made significant contributions to the development of the world’s economy, especially in technology and industry. It is the most prominent cultural center including literature, theatre, film, television across all parts of the country.</p><p>Uk has a unitary parliamentary democracy and constitutional monarchy. The major cities in the UK include Manchester, Glasgow, Leeds and Liverpool. The UK is a member of the North Atlantic Treaty Organization (NATO) and the member of the European Union.</p><p>The climate of UK derives from atmospheric circulation patterns. The temperature from north to south run at 4-degree Celsius in January isotherm. The mean annual temperature ranges from 8-degree Celsius to 11-degree Celsius in southwestern England.</p>"
+            "data": "<p>The UK is located in northwestern Europe. It is commonly known as Britain or the United Kingdom since it comprises the island of Great Britain which contains Wales, England and Scotland. London is the capital of the UK which is the leading financial and commercial hub across the world.</p><p>UK has made significant contributions to the development of the world’s economy, especially in technology and industry. It is the most prominent cultural center including literature, theatre, film, television across all parts of the country.</p><p>Uk has a unitary parliamentary democracy and constitutional monarchy. The major cities in the UK include Manchester, Glasgow, Leeds and Liverpool. The UK is a member of the North Atlantic Treaty Organization (NATO) and the member of the European Union.</p><p>The climate of UK derives from atmospheric circulation patterns. The temperature from north to south run at 4-degree Celsius in January isotherm. The mean annual temperature ranges from 8-degree Celsius to 11-degree Celsius in southwestern England.</p>"
         },
         {
             type: "meta",
@@ -320,7 +320,7 @@ export const mbbsinuk = {
             "title": "MBBS Course Structure: For Studying Medicine in UK",
             "col": [
                 "Preclinical",
-                "Clinical",
+                " Clinical",
 
             ],
             "row": [
@@ -440,7 +440,7 @@ export const mbbsinuk = {
         {
             "type": "text",
             "title": "MBBS Doctor Salary in UK",
-            "info": "<p>The BBC News, published on October 15, 2018, the basic salary for junior doctors in the UK starts from $ 28,331 and increases up to $34,484. For training to specialized doctors, the salary ranges from $ 36,949 to $ 57,886.</p><p>According to <strong>NHS Employers Organization</strong>, the average total salary of a doctor is <strong>$ 45,560.</strong></p>"
+            "data": "<p>The BBC News, published on October 15, 2018, the basic salary for junior doctors in the UK starts from $ 28,331 and increases up to $34,484. For training to specialized doctors, the salary ranges from $ 36,949 to $ 57,886.</p><p>According to <strong>NHS Employers Organization</strong>, the average total salary of a doctor is <strong>$ 45,560.</strong></p>"
         },
         {
             type: "meta",

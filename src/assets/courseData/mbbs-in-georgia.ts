@@ -152,7 +152,7 @@ export const mbbsingeorgia= {
             "info":"These are 2 of the top options for doing your MBBS degree. Let’s see the comparison:",
             "col":[
                         "Particulars",
-                        "Nation",
+                        "Georgia",
                         "Ukraine"
                  ],
             "row": [
@@ -487,108 +487,108 @@ export const mbbsingeorgia= {
                 "row": [
                   {
                     "Name of the Universities":"<b>University of Georgia</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,26,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 1,77,500"
+                    "Tuition Fees/Year":"Rs. 4,26,000",
+                    "Hostel Fees/Year":"Rs. 1,77,500"
                   },
                   {
                     "Name of the Universities":"<b>Batumi Shota Rustaveli State University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,20,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 2,10,000"
+                    "Tuition Fees/Year":"Rs. 4,20,000",
+                    "Hostel Fees/Year":"Rs. 2,10,000"
                   },
                   {
                     "Name of the Universities":"<b>New Vision University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,90,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 2,00,000"
+                    "Tuition Fees/Year":"Rs. 4,90,000",
+                    "Hostel Fees/Year":"Rs. 2,00,000"
                   },
                   {
                     "Name of the Universities":"<b>Akaki Tsereteli State University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,30,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
+                    "Tuition Fees/Year":"Rs. 4,30,000",
+                    "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
                     "Name of the Universities":"<b>Georgian National University SEU</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 1,05,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 70,000"
+                    "Tuition Fees/Year":"Rs. 1,05,000",
+                    "Hostel Fees/Year":"Rs. 70,000"
                   },
                   {
                     "Name of the Universities":"<b>Tbilisi State Medical University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 5,94,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
+                    "Tuition Fees/Year":"Rs. 5,94,000",
+                    "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
                     "Name of the Universities":"<b>Ilia State University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,76,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 2,13,000"
+                    "Tuition Fees/Year":"Rs. 3,76,000",
+                    "Hostel Fees/Year":"Rs. 2,13,000"
                   },
                   {
                     "Name of the Universities":"<b>Georgian American University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,19,200",
-                    "Hostel Fee (For 1 Year)":"Rs. 70,000"
+                    "Tuition Fees/Year":"Rs. 3,19,200",
+                    "Hostel Fees/Year":"Rs. 70,000"
                   },
                   {
                     "Name of the Universities":"<b>David Tvildiani Medical University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 7,34,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
+                    "Tuition Fees/Year":"Rs. 7,34,000",
+                    "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
                     "Name of the Universities":"<b>European University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,50,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 70,000"
+                    "Tuition Fees/Year":"Rs. 3,50,000",
+                    "Hostel Fees/Year":"Rs. 70,000"
                   },
                   {
                     "Name of the Universities":"<b>Ivane Javakhishvili Tbilisi State University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 2,80,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
+                    "Tuition Fees/Year":"Rs. 2,80,000",
+                    "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
                     "Name of the Universities":"<b>LLC Caucasus International University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,94,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
+                    "Tuition Fees/Year":"Rs. 3,94,000",
+                    "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
                     "Name of the Universities":"<b>Geomedi Medical University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 2,40,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
+                    "Tuition Fees/Year":"Rs. 2,40,000",
+                    "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
                     "Name of the Universities":"<b>East European University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,50,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 1,75,000"
+                    "Tuition Fees/Year":"Rs. 3,50,000",
+                    "Hostel Fees/Year":"Rs. 1,75,000"
                   },
                   {
                     "Name of the Universities":"<b>David Agmashenebeli University of Georgia</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 2,87,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 35,000"
+                    "Tuition Fees/Year":"Rs. 2,87,000",
+                    "Hostel Fees/Year":"Rs. 35,000"
                   },
                   {
                     "Name of the Universities":"<b>BAU International University, Batumi</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,55,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 35,000"
+                    "Tuition Fees/Year":"Rs. 4,55,000",
+                    "Hostel Fees/Year":"Rs. 35,000"
                   },
                   {
                     "Name of the Universities":"<b>Grigol Robakidze University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,15,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 2,10,000"
+                    "Tuition Fees/Year":"Rs. 3,15,000",
+                    "Hostel Fees/Year":"Rs. 2,10,000"
                   },
                   {
                     "Name of the Universities":"<b>Tbilisi Open Teaching University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,15,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 1,75,000"
+                    "Tuition Fees/Year":"Rs. 3,15,000",
+                    "Hostel Fees/Year":"Rs. 1,75,000"
                   },
                   {
                     "Name of the Universities":"<b>Tbilisi Medical University ‘Hippocrates’</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 5,00,833",
-                    "Hostel Fee (For 1 Year)":"Rs. 1,75,000"
+                    "Tuition Fees/Year":"Rs. 5,00,833",
+                    "Hostel Fees/Year":"Rs. 1,75,000"
                   },
                   {
                     "Name of the Universities":"<b>Petre Shotadze Tbilisi Medical Academy</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,20,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 35,000"
+                    "Tuition Fees/Year":"Rs. 4,20,000",
+                    "Hostel Fees/Year":"Rs. 35,000"
                   },
                   {
                     "Name of the Universities":"<b>Tbilisi Public University 'Metekhi'</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,55,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 84,000"
+                    "Tuition Fees/Year":"Rs. 4,55,000",
+                    "Hostel Fees/Year":"Rs. 84,000"
                   }
                 ],
                 "heading":"<p><b>Disclaimer:</b> Tuition fees of the medical universities mentioned in the table are subject to fluctuation. Contact Select Your University for more details regarding tuition fees, hostel cost, and conversion of USD to INR.</p>"

@@ -180,11 +180,11 @@ export const mbbsincanada= {
                 "Stages",
                 "Semesters",
                 "Subjects",
-                ""
+                "-"
             ],
             "row": [
-              ["<b>Pre-Clinical</b>", "1-2", "Anatomy, Biochemistry, Physiology",""],
-              ["<b>Para-Clinical</b>", "3 - 5", "Community Medicine, Pathology, Forensic Medicine, Microbiology, Pharmacology, Clinical Postings in Wards, OPD",""],
+              ["<b>Pre-Clinical</b>", "1-2", "Anatomy, Biochemistry, Physiology","-"],
+              ["<b>Para-Clinical</b>", "3 - 5", "Community Medicine, Pathology, Forensic Medicine, Microbiology, Pharmacology, Clinical Postings in Wards, OPD","-"],
               ["<b>Clinical</b>", "6 - 9", "Community Medicine, Medicine and Allied Subjects (Dermatology, Psychiatry), Gynecology, Obstetrics, and Pediatrics","Surgery and Allied subjects (Anesthesiology, Ophthalmology, ENT, Orthopedics), Clinical Postings"]
             ]
           },

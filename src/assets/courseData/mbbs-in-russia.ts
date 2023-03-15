@@ -111,19 +111,19 @@ export const mbbsinrussia= {
         "type": "text",
         "title": "",
         "info":"Full-time English Course",
-        "data": "<h3>Full-time English Course</h3><p>There is a full-time English course where 6.8 years of MBBS course is taught in the English language.</p>"
+        "data": "<p>Full-time English Course</p><p>There is a full-time English course where 6.8 years of MBBS course is taught in the English language.</p>"
       },
       {
         "type": "text",
         "title": "",
         "info":"Bilingual Course",
-        "data": "<h3>Bilingual Course</h3><p>The bilingual course consists of an extra one year of Russian language coaching. Here the half course is taught in the Russian language and the remaining course is taught in English medium language.</p>"
+        "data": "<p>Bilingual Course</p><p>The bilingual course consists of an extra one year of Russian language coaching. Here the half course is taught in the Russian language and the remaining course is taught in English medium language.</p>"
       },
       {
         "type": "text",
         "title": "",
         "info":"Full-time Russian Language Course",
-        "data": "<h3>Full-time Russian Language Course</h3><p>The full-time Russian language course is taught in the Russian language for a 6.8 years course duration. It needs an extra one year for Russian language coaching.</p>"
+        "data": "<p>Full-time Russian Language Course</p><p>The full-time Russian language course is taught in the Russian language for a 6.8 years course duration. It needs an extra one year for Russian language coaching.</p>"
       },
       {
         "type": "table",

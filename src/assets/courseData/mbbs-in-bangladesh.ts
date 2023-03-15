@@ -391,22 +391,22 @@ export const mbbsinbangladesh = {
                     "University Name": "Gono Bishwabiddyalay (Gono University)",
                     "Country Ranking": "83",
                     "World Ranking": "11080"
-                },
-                {
-                    "type": "list-bollet",
-                    "title": "After Completing MBBS from Bangladesh",
-                    "info": "<b>About the career opportunities for students after doing graduation in Bangladesh:</b>",
-                    "img": '',
-                    "data": [
-                        "Do PG in India/abroad",
-                        "Practice as a surgeon in the hospital",
-                        "Practice in any Government hospital",
-                        "Practice as a private surgeon",
-                        "Give lectures in medical colleges in India and hospitals as a professor",
-                        "Join government health organizations for planning health issues of the country",
-                        "Various government jobs as health officers"
-                    ]
-                },
+                }
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "After Completing MBBS from Bangladesh",
+            "info": "<b>About the career opportunities for students after doing graduation in Bangladesh:</b>",
+            "img": '',
+            "data": [
+                "Do PG in India/abroad",
+                "Practice as a surgeon in the hospital",
+                "Practice in any Government hospital",
+                "Practice as a private surgeon",
+                "Give lectures in medical colleges in India and hospitals as a professor",
+                "Join government health organizations for planning health issues of the country",
+                "Various government jobs as health officers"
             ]
         },
         {

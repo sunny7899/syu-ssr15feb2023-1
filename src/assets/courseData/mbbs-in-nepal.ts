@@ -404,7 +404,7 @@ export const mbbsinnepal= {
         "row": [
             ["Biostatistics", "Sociology","Community Health Laboratory"],
             ["Epidemiology", "Communication skills","Environmental Health"],
-            ["Demography", "Community Health Diagnosis",,"Family Health"],
+            ["Demography", "Community Health Diagnosis","Family Health"],
             ["Information Technology", "Nutrition, Health Education","-"]
         ]
     },
@@ -417,7 +417,7 @@ export const mbbsinnepal= {
         "row": [
             ["Anatomy", "Microbiology of functions and structures in Musculoskeletal system & Neurosensory","history taking and general physical examination"],
             ["Physiology", "Respiratory","Reproductive"],
-            ["Pharmacology", "Cardiovascular",,"Endocrine"],
+            ["Pharmacology", "Cardiovascular","Endocrine"],
             ["Pathology", "Gastro-intestinal","Renal and Electrolyte Systems"],
             ["Biochemistry", "Hepatobiliary System","Communication Skills"]
         ]
@@ -431,7 +431,7 @@ export const mbbsinnepal= {
         "row": [
             ["Internal Medicine", "Orthopaedics","Anaesthesiology"],
             ["Gynaecology", "Dentistry","Community Medicine"],
-            ["Obstetrics", "Psychiatry",,"Information Technology"],
+            ["Obstetrics", "Psychiatry","Information Technology"],
             ["Eye", "Radiology","Ethics and Research"],
             ["Surgery", "ENT","Accident and Emergency Medicine"],
             ["Paediatrics", "Dermatology","-"]

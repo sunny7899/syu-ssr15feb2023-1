@@ -281,7 +281,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>2. All India Institute of Medical Sciences (AIIMS), New Delhi</h4>",
+            "info": "<p>2. All India Institute of Medical Sciences (AIIMS), New Delhi</p>",
             "col": [
               "Ranking",
               "Course",
@@ -302,7 +302,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>3. Armed Forces Medical College (AFMC), Pune</h4>",
+            "info": "<p>3. Armed Forces Medical College (AFMC), Pune</p>",
             "col": [
               "Ranking",
               "Course",
@@ -323,7 +323,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>4. Maulana Azad Medical College (MAMC), Delhi</h4>",
+            "info": "<p>4. Maulana Azad Medical College (MAMC), Delhi</p>",
             "col": [
               "Ranking",
               "Course",
@@ -344,7 +344,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>5. Dr. D. Y.Patil Medical College, Pune</h4>",
+            "info": "<p>5. Dr. D. Y.Patil Medical College, Pune</p>",
             "col": [
               "Particulars",
               "1st Year",
@@ -391,7 +391,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>6. Jawaharlal Institute of Medical Education, Pondicherry</h4>",
+            "info": "<p>6. Jawaharlal Institute of Medical Education, Pondicherry</p>",
             "col": [
               "Ranking",
               "Course",
@@ -413,7 +413,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>7. Lady Hardinge Medical College (LHMC)</h4>",
+            "info": "<p>7. Lady Hardinge Medical College (LHMC)</p>",
             "col": [
               "Ranking",
               "Course",
@@ -434,7 +434,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>8. Madras Medical College, Chennai</h4>",
+            "info": "<p>8. Madras Medical College, Chennai</p>",
             "col": [
               "Ranking",
               "Course",
@@ -455,7 +455,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>9. Kasturba Medical College, Mangalore</h4>",
+            "info": "<p>9. Kasturba Medical College, Mangalore</p>",
             "col": [
               "Ranking",
               "Course",
@@ -476,7 +476,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>10. Byramjee Jeejeebhoy Government Medical College, Pune</h4>",
+            "info": "<p>10. Byramjee Jeejeebhoy Government Medical College, Pune</p>",
             "col": [
               "Ranking",
               "Course",
@@ -497,7 +497,7 @@ export const mbbs= {
         {
             "type": "table",
             "title": "",
-            "info": "<h4>11. Osmania Medical College (OMC), Hyderabad</h4>",
+            "info": "<p>11. Osmania Medical College (OMC), Hyderabad</p>",
             "col": [
               "Ranking",
               "Course",
@@ -594,7 +594,7 @@ export const mbbs= {
           "info": "",
           "col": [
             "States",
-            "Number of colleges",
+            "Providing MBBS course",
             "Private Colleges",
             "Government Colleges"
           ],

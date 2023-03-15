@@ -247,7 +247,7 @@ export const mbbsinireland = {
             ]
         },
         {
-            "type": "table-title",
+            "type": "table",
             "title": "",
             "info": "Fee Structure of Trinity College, Dublin :",
             "col": [

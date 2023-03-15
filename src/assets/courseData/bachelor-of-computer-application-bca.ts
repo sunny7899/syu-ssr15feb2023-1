@@ -376,11 +376,11 @@ export const bachelorofcomputerapplicationbca= {
             "info":"",
             "row": [
                 ["HDFC Bank","$20","Bank of Baroda"],
-                ["Syntel","Cognizant"],
-                ["Infosys","L&T Infotech"],
-                ["Sapient","Tata Consultancy Services"],
-                ["Amazon","HP"],
-                ["Reliance","Eaton"]
+                ["Syntel","Cognizant","-"],
+                ["Infosys","L&T Infotech","-"],
+                ["Sapient","Tata Consultancy Services","-"],
+                ["Amazon","HP","-"],
+                ["Reliance","Eaton","-"]
             ]
         },
         {

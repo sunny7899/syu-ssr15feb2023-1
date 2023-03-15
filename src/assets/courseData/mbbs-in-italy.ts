@@ -316,7 +316,7 @@ export const mbbsinitaly = {
                     "Syllabus": "Microbiology, Pharmacology, Pathology, Path Physiology"
                 },
                 {
-                    "Year": "",
+                    "Year": "-",
                     "Syllabus": "Clinical Subjects and Clinical Posting"
                 },
                 {

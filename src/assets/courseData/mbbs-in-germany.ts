@@ -236,7 +236,7 @@ export const mbbsingermany = {
         {
             "type": "text",
             "title": "MBBS Course Duration in Germany",
-            "info": "<p>The total course duration to complete the MBBS / MD in Germany with the best medical universities or schools in Germany is 7.5 Years (including internship with stipends)</p>",
+            "data": "<p>The total course duration to complete the MBBS / MD in Germany with the best medical universities or schools in Germany is 7.5 Years (including internship with stipends)</p>",
 
         },
         {
@@ -269,7 +269,7 @@ export const mbbsingermany = {
             ]
         }
     ],
-    "careeroption": [
+    "careeroptions": [
         {
             type: "meta",
             meta: [
