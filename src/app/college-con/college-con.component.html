@@ -1,7 +1,7 @@
 <!--  -->
 <!-- <app-nav></app-nav> -->
 
-<section class="college-content">
+<section class="college-content" id="college-html">
   <div class="col-lg-12">
     <div class="college-content-div">
       <div class="college-content-banner">
@@ -11,22 +11,22 @@
               <div class="col-2 img text-lg-right">
                 <img src="../../assets/img/College_Icons/2.IIT_Delhi/IIT-Logo.png" alt="" />
               </div>
-    
-              
+
+
                 <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
                 <div  class="col-10" *ngIf="isActive('info')">
                 <h1 class="iit-subheader cust-font-size">
                   {{ collegeData.Title }}
                 </h1></div>
-          
-               
+
+
               <div  class="col-10" *ngIf="isActive('courses-and-fees')">
               <div *ngFor="let item of collegeData.coursesandfees" class="col-10">
                 <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             <div  class="col-10" *ngIf="isActive('admission')">
@@ -35,7 +35,7 @@
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             <div  class="col-10" *ngIf="isActive('review')">
@@ -44,7 +44,7 @@
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             <div  class="col-10" *ngIf="isActive('placement')">
@@ -53,7 +53,7 @@
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             <div  class="col-10" *ngIf="isActive('gallery')">
@@ -62,7 +62,7 @@
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             <div  class="col-10" *ngIf="isActive('scholarship')">
@@ -71,7 +71,7 @@
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             <div  class="col-10" *ngIf="isActive('faculty')">
@@ -80,7 +80,7 @@
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             <div  class="col-10" *ngIf="isActive('news')">
@@ -89,7 +89,7 @@
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             <div  class="col-10" *ngIf="isActive('hostel')">
@@ -98,7 +98,7 @@
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             <div  class="col-10" *ngIf="isActive('faq')">
@@ -107,7 +107,7 @@
                 <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
                   {{ item.title }}
                 </h1>
-          
+
               </div>
             </div>
             </div>
@@ -132,7 +132,7 @@
                 <button class="btn btn-blue white-text-2"(click)="openModalWithClass(template)">
                   Apply Now<img alt="" src="../../assets/img/College_Icons/2.IIT_Delhi/apply.png" />
                 </button>
-                <button class="btn dl-btn ml-3">
+                <button class="btn dl-btn ml-3" (click)="generateReport()">
                   Download Brochure<img alt="" src="../../assets/img/College_Icons/2.IIT_Delhi/download.png" />
                 </button>
               </div>
@@ -218,7 +218,7 @@
                         </div>
                       </div>
                     </div>
-              
+
                     <!-- Right Card Form 1-->
                     <div class="col-lg-8 col-md-8" *ngIf="form1 === true">
                       <div class="card form-card">
@@ -373,7 +373,7 @@
                         </form>
                       </div>
                     </div>
-              
+
                     <!-- Right Card Form 2-->
                     <div class="col-lg-8 col-md-8" *ngIf="form2 === true">
                       <div class="card form-card">
@@ -503,7 +503,7 @@
                               <div class="form-check-inline">
                                   <input type="radio" id="css" name="fav_language" value="No"formControlName='qextraExam'>
                                   <label for="css">No</label><br>
-                 
+
                               </div>
                               <div class="form-check-inline">
                                   <input type="radio" id="javascript" name="fav_language" value="Booked"formControlName='qextraExam'>
@@ -843,9 +843,9 @@
                   </div>
                 </div>
               </section>
-              
+
             </ng-template>
-            
+
             <div class="row row-without-gutter add-info">
               <div class="flex-holder3">
                 <img src="../../assets/img/College_Icons/2.IIT_Delhi/rating2.png" alt="" class="rating-img" />
@@ -894,7 +894,7 @@
               </div>
             </div>
 
-          </div> 
+          </div>
           <div class="col-lg-7 col-12 col-sm-12" id="slider-div">
             <ngx-gallery [options]="galleryOptions" [images]="galleryImages" class="ngx-gallery"></ngx-gallery>
             <!-- <p-galleria [value]="galleriaImages">
@@ -906,13 +906,13 @@
                              <div class="item blog-inner-div" *ngFor="let image of images;let i= index">
                                   <img class="slide-image" src="{{image.image}}" >
                              </div>
-                            
+
                            </owl-carousel> -->
             <!-- <gallery [items]="images2" thumbPosition="left"></gallery> -->
           </div>
         </div>
       </div>
-      
+
       <div class="row">
         <!-- <p-tabView [(activeIndex)]="activeIndex2" [scrollable]="true">
                         <p-tabPanel *ngFor="let tab of scrollableTabs" [header]="tab.title">
@@ -990,7 +990,7 @@
                       <p [innerHTML]="item.data"></p>
                     </div>
 
-                    <!-- <div class="shade" 
+                    <!-- <div class="shade"
                     *ngIf="isShade && item.seeMoreBtn"></div> -->
                     <div class="row text-center p-relative">
                       <!-- <button
@@ -1866,7 +1866,7 @@
                         <div class="tabcontent">
                           <div class="row row-without-gutter relative-row">
                             <div class="container gallery">
-                              
+
                             </div>
                           </div>
                         </div>
