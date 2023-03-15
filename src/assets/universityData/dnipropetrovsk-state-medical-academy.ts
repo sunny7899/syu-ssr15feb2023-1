@@ -225,7 +225,7 @@ export const dnipropetrovskstatemedicalacademy= {
         ],
         "admission":[
     
-           
+            
             {
                 "type": "list-bollet",
                 "title": "Admission Procedure of Dnipropetrovsk State Medical Academy",
@@ -344,6 +344,7 @@ export const dnipropetrovskstatemedicalacademy= {
       ],
         "placement":[
     
+            
       {
         type:"meta",
         meta: [
@@ -362,7 +363,16 @@ export const dnipropetrovskstatemedicalacademy= {
         ],
         "gallery":[
          
-    
+            {
+                "images":[
+            {
+                "type": "image",
+                "title": "Demo",
+                "img": "src=demo.jpg",
+                "data": "<img src=demo.jpg alt=demo />"
+            },
+        ],
+        },
           {
               type: "meta",
               meta: [

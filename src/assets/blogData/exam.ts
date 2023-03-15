@@ -216,7 +216,7 @@ export default[ {
             data:'<p>Students have got plenty of time to study for the NEET 2021 exam. It is advised for the students to plan and act on proper time management as well as study pattern.</p><p>Here are some mock tests as well as previous years question papers for the practice and study purpose of the students. <a href=https://admission.aglasem.com/neet-question-papers/#NEET_Previous_Year_Question_Papers target=_blank>Click here</a> to get a look at the NEET exam previous years’ question papers. You can download them with answers as well.</p><p>Apart from the question papers and mock tests students need to study the Physics, Chemistry and Biology syllabus for the NEET exam.</p><p>Please check <a href=https://files.aglasem.com/2445 target=_blank>this site</a> for the syllabus of the NEET exam. You can download the pdf format of the syllabus for the NEET-2021 exam.</p>'
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'NEET-UG Exam 2021: Important Dates',
             "info": "Following are the Neet 2021 dates which are importants & candidates must be aware of these which are tabulated below:",
             "col":[
@@ -273,7 +273,7 @@ export default[ {
     ]
 },*/
 {
-    title: "NEET Exam 2021 Date Update (12th September)",
+    title: "NEET Exam 2023 Date Update (7th September)",
     date: '12-07-2021',
     postedBy:"Vivek Wagh",
     Categories:'Exam',
@@ -282,135 +282,941 @@ export default[ {
     data: [
         {
             type: 'title',
-            title: 'NEET Exam 2021 Date Update (12th September)'
+            title: 'NEET Exam 2023 Date Update (7th September)'
         },
         {
             type: 'text',
             title: '',
             info: '',
-            data: '<p>The new exam date of the <a href=https://www.selectyouruniversity.com/neet-exam.php target=_blank>National Eligibility cum Entrance Test (NEET)</a> for the academic year 2021 is now announced by the Ministry of Human Resource Development (MHRD) and National Testing Agency (NTA).</p><p>Students have been waiting for the final date of the NEET exam 2021, since the COVID-19 pandemic had caused it to be postponed. The NEET exam was scheduled in the first week of August previously.</p><p>As per the notification of the <b>National Testing Agency</b> which was released on 1st August 2021 the exam was postponed. And now with this new date of exam students can plan their study patterns Although this is just a tentative date. If the situation of COVID-19 gets under control till the date, then <b>NEET exam will be conducted on 12th September 2021.</b></p><p>The Ministry of Human Resource Development and National Testing Agency holds all rights to change the exam date again if necessary. With this much information students still get plenty of time to prepare for the exam.</p><p>It has been cleared that the only exam date is updated and the syllabus as well as the exam pattern are the same as mentioned in the previous notifications.</p>'
+            data: '<p>The National Eligibility cum Entrance Test (NEET) is a highly competitive medical entrance exam conducted by the National Testing Agency (NTA) for students aspiring to pursue undergraduate medical courses in India. The NEET exam is conducted once a year in offline mode and is the only entrance exam for admission to MBBS, BDS, and AYUSH courses in India.</p><p>In this blog, we will provide all the necessary information regarding the NEET exam 2023, including important dates, eligibility criteria, syllabus, fees, previous year exam papers and cut-off lists, and other important information for Indian students.</p>'
         },
         {
             "type": "list-bollet",
-            "title": "The NEET Exam Pattern",
-            "info": " ",
+            "title": "Important Dates for NEET 2023",
+            "info": "The official notification for NEET 2023 is yet to be released. However, based on the previous year's trends, we can expect the NEET 2023 exam to be conducted in the month of May 2023.",
+            "textBelowInfo":"The online application process is expected to start in the month of December 2022. <br><b>Following are the tentative dates for the NEET 2023 exam:</b>",
             "data": [
-                "The exam pattern of the NEET-2021 exam is the same as previous.",
-                "The exam would be of a 3 hours time period.",
-                "According to NTA regulations, the NEET exam would be of pen paper format.",
-                "There were 3 subjects for the exam, Physics, Chemistry, and Biology.",
-                "There would be 45 questions of Physics for 180 marks.",
-                "Another 45 questions of Chemistry for 180 marks, and 90 questions for Biology for 360 marks."
+                "NEET 2023 Notification: December 2022",
+                "NEET 2023 Online Application Process: December 2022 - January 2023",
+                "NEET 2023 Admit Card Release: April 2023",
+                "NEET 2023 Exam Date: May 2023",
+                "NEET 2023 Result Declaration: June 2023"
             ]
         },
-        { 
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p>The total exam would be of 720 marks. There would be multiple choice type of questions and options. Each right answer would get 4 marks whereas each wrong answer would result in deduction of 1 mark.</p>'
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria for NEET 2023",
+            "info": "Before applying for the NEET 2023 exam, candidates must ensure that they meet the eligibility criteria. The eligibility criteria for NEET 2023 are as follows:",
+            "data": [
+                "<b>Age Limit:</b> Candidates must be at least 17 years of age as on 31st December 2023. The upper age limit for NEET 2023 is 25 years (for general category candidates) and 30 years (for SC/ST/OBC category candidates).",
+                "<b>Educational Qualification:</b> Candidates must have passed Class 12th with Physics, Chemistry, Biology/Biotechnology, and English as mandatory subjects. The minimum qualifying percentage for general category candidates is 50% and for SC/ST/OBC category candidates is 40%. Candidates appearing for Class 12th in 2023 are also eligible to apply for NEET 2023.",
+                "<b>Nationality:</b> Candidates must be Indian citizens, Non-Resident Indians (NRIs), Overseas Citizen of India (OCIs), Persons with Indian Origin (PIOs), or foreign nationals.",
+            ]
         },
         {
-            "type": 'table',
-            "title": '',
-            "info": "Distribution of marks and questions as follows",
-            "col":[
-                        "Subjects",
-                        "Marks",
-                        "No. of Questions"
-            ],
+            "type": "table-title",
+            "title": "Syllabus for NEET 2023",
+            "info": "The NEET exam comprises of three sections - Physics, Chemistry, and Biology. The syllabus for NEET 2023 is based on the Class 11th and 12th NCERT curriculum.<br>Following is the subject-wise syllabus for NEET 2023:",
+            "textBelowInfo":"<b>Physics:</b>",
             "row": [
-                {
-                    "Subjects": "Physics",
-                    "Marks": "180",
-                    "No. of Questions": "45",
-                },
-                {
-                    "Subjects": "Chemistry",
-                    "Marks": "180",
-                    "No. of Questions": "45",
-                },
-                {
-                    "Subjects": "Biology",
-                    "Marks": "360",
-                    "No. of Questions": "90",
-                },
-                {
-                    "Subjects": "Total",
-                    "Marks": "720",
-                    "No. of Questions": "180",
-                },
-                
+                ["Physical World and Measurement", "Kinematics", "Laws of Motion", "Work, Energy, and Power"],
+                ["Motion of System of Particles and Rigid Body"," Gravitation"," Properties of Bulk Matter", "Thermodynamics" ],
+                ["Behavior of Perfect Gas and Kinetic Theory","Oscillations and Waves","Electrostatics","Current Electricity"],
+                ["Magnetic Effects of Current and Magnetism","Electromagnetic Induction and Alternating Currents","Electromagnetic Waves","Optics"],
+                ["Dual Nature of Matter and Radiation","Atoms and Nuclei","Electronic Devices","-"]
             ]
         },
-        { 
-            type: 'text',
-            title: 'Neet Exam: Preparation',
-            info: '',
-            data:'<p>Students have got plenty of time to study for the NEET 2021 exam. It is advised for the students to plan and act on proper time management as well as study pattern.</p><p>Here are some mock tests as well as previous years question papers for the practice and study purpose of the students. <a href=https://admission.aglasem.com/neet-question-papers/#NEET_Previous_Year_Question_Papers target=_blank>Click here</a> to get a look at the NEET exam previous years’ question papers. You can download them with answers as well.</p><p>Apart from the question papers and mock tests students need to study the Physics, Chemistry and Biology syllabus for the NEET exam.</p><p>Please check <a href=https://files.aglasem.com/2445 target=_blank>this site</a> for the syllabus of the NEET exam. You can download the pdf format of the syllabus for the NEET-2021 exam.</p>'
+        {
+            "type": "table-title",
+            "title": "",
+            "info": "<b>Chemistry:</b>",
+            "row": [
+                ["Some Basic Concepts of Chemistry","Structure of Atom","Classification of Elements and Periodicity in Properties","Chemical Bonding and Molecular Structure"],
+                ["States of Matter: Gases and Liquids","Thermodynamics","Equilibrium","Redox Reactions" ],
+                ["Hydrogen","Chemical Kinetics","Surface Chemistry", "General Principles and Processes of Isolation of Elements"],
+                ["p-Block Elements","d- and f- Block Elements","Coordination Compounds","Haloalkanes and Haloarenes"],
+                ["Alcohols, Phenols, and Ethers","Aldehydes, Ketones and Carboxylic Acids","Organic Compounds containing Nitrogen","Biomolecules"],
+                ["Polymers","Chemistry in Everyday Life","-","-"]
+            ]
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "info": "<b>Biology:</b>",
+            "row": [
+                ["Diversity in Living World","Structural Organization in Animals and Plants","Cell Structure and Function","Plant Physiology"],
+                ["Human Physiology","Reproduction","Genetics and Evolution","Biology and Human Welfare"],
+                ["Biotechnology and Its Applications","Ecology and Environment","-","-"]
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Fees to Apply for NEET Exam 2023",
+            "info": "The application fee for NEET 2023 is expected to be similar to the previous year's fee structure.<br>Following are the expected fees for NEET 2023:",
+            "data": [
+                "General ₹ 1700/-",
+                "General-EWS/ OBC-NCL* ₹ 1600/-",
+                "SC/ST/PwBD/Third Gender ₹ 1000/-",
+            ],
+            "heading":"Candidates can pay the application fee through online mode via credit card, debit card, or net banking"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Important Dates to Apply for NEET Exam 2023",
+            "info": "Following are the expected important dates for the NEET 2023 application process:",
+            "data": [
+                "Online Submission of Application Form - 06 March to 06 April 2023 (up to 09:00 PM)",
+                "Last date of successful transaction of fee- 06 April 2023 (up to 11:50 PM) ",
+                "Application form correction window:To be intimated later on the website",
+                "Admit card release date: To be intimated later on the website",
+            ],
+        },
+        {
+            "type": "list-bollet",
+            "title": "Previous Year Exam Paper Links",
+            "info": "Solving previous years' NEET exam papers is one of the most effective ways to prepare for the exam. It helps students understand the exam pattern, and difficulty level of questions, and also identify their strengths and weaknesses. The following are the links to the NEET previous year's exam papers:",
+            "data": [
+                "NEET 2022 Question Paper and Answer Key: <a href=https://ntaneet.nic.in/ntaneet/welcome.aspx target=_blank>https://ntaneet.nic.in/ntaneet/welcome.aspx</a>",
+                "NEET 2021 Question Paper and Answer Key: <a href=https://ntaneet.nic.in/ntaneet/welcome.aspx target=_blank>https://ntaneet.nic.in/ntaneet/welcome.aspx</a>",
+                "NEET 2020 Question Paper and Answer Key: <a href=https://ntaneet.nic.in/ntaneet/welcome.aspx target=_blank>https://ntaneet.nic.in/ntaneet/welcome.aspx</a>"
+            ],
+        },
+        {
+            "type": "list-bollet",
+            "title": "Previous Year Cut-Off List for NEET 2023",
+            "info": "The NEET cut-off marks are the minimum qualifying marks required for candidates to be eligible for admission to medical colleges. The following are the cut-off lists for NEET 2023 for different categories:",
+            "data": [
+                "General category: 720-147",
+                "OBC/SC/ST category: 146-113",
+            ],
+        },
+        {
+            "type": "list-bollet",
+            "title": "More Important Information about NEET Exam 2023 for Indian Students",
+            "info": "",
+            "data": [
+                "The NEET exam is conducted in offline mode and consists of 180 multiple-choice questions. The total duration of the exam is 3 hours.",
+                "The exam is conducted in 11 languages, including English, Hindi, Tamil, Telugu, Bengali, Gujarati, Marathi, Urdu, Kannada, Oriya, and Assamese.",
+                "The NEET exam is highly competitive, and candidates must score high marks to secure a seat in the top medical colleges of India.",
+                "Candidates can apply for the NEET exam only through online mode, and there is no provision for offline applications.",
+                "The NEET exam is the only entrance exam for admission to medical courses in India, and candidates must clear the exam to be eligible for admission.",
+                "Candidates must carry a valid photo ID proof along with the NEET admit card to the exam center.",
+                "The NEET exam has negative markings, and for each incorrect answer, one mark is deducted from the total score.",
+            ],
+        },
+        {
+            "type": "list-bollet",
+            "title": "NEET UG Counselling 2023",
+            "info": "The vital step right after the exam is your UG Counselling, as there are some of the eligibility criterias for the counselling not everyone who sat in the exam can participate in the process. Eligibility Criteria is as follow -",
+            "data": [
+                "General - 50% score in NEET UG (130-150)",
+                "SC/ST/OBC- 40% score in NEET UG (105-120)",
+            ],
+            "heading":"Now if you fit in the eligibility Criteria then you are good to proceed further. Counselling is provided for courses like MBBS, BDS, Nursing, Ayurveda, Unani, Veterinary, Homeopathy, Naturopathy, Yogic Science, Siddha.<p>If you wish to be part of any of these courses then your only path is through counselling.</p>",
+        },
+        {
+            "type": "number-list",
+            "title": "",
+            "info": "Registration process for all the state’s will be same which is as follows - ",
+            "data": [
+                "The applicant should visit the legitimate website of the particular state.",
+                "After that click on the new registration.",
+                "A brand new tab will get open up, click on the sign up and sign up with your mobile number or email ID.",
+                "An OTP will arrive on the Mobile Number or email ID, use that to complete your pre registration process and create a student's account.",
+                "Now login as a student, type in your roll number and select your preferences.",
+                "Submit your choices and pay the required fees.",
+            ],
+            "heading":"Every state has there different counselling methods here some of them -",
         },
         {
             "type": 'table',
-            "title": 'NEET-UG Exam 2021: Important Dates',
-            "info": "Following are the Neet 2021 dates which are importants & candidates must be aware of these which are tabulated below:",
+            "title": 'Bihar NEET UG Counselling 2023',
+            "info": "",
             "col":[
-                        "NEET Events",
-                        "Exam Date"
+                        "Particulars",
+                        "Details"
                     ],
             "row": [
                 {
-                    "NEET Events": "Application form Release (including uploading of photograph & signature)",
-                    "Exam Date": "13th July 2021",
+                    "Particulars": "Authority",
+                    "Details": "Bihar Combined Entrance Competitive Examination Board, BCECEB",
                 },
                 {
-                    "NEET Events": "Application submission last date",
-                    "Exam Date": "July 2021",
+                    "Particulars": "Mode",
+                    "Details": "Online",
                 },
                 {
-                    "NEET Events": "Last date to pay the fee",
-                    "Exam Date": "July 2021",
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
                 },
                 {
-                    "NEET Events": "Correction Window",
-                    "Exam Date": "August 2021",
+                    "Particulars": "Seat matrix",
+                    "Details": "2565 MBBS and 243 BDS seats",
                 },
                 {
-                    "NEET Events": "Admit card available",
-                    "Exam Date": "August 2021",
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of Bihar MBBS merit list 2023 and preferences selected",
                 },  
                 {
-                    "NEET Events": "NEET 2021 Exam Date & Time",
-                    "Exam Date": "12th September 2021",
+                    "Particulars": "Dates",
+                    "Details": "To be announced",
                 },
                 {
-                    "NEET Events": "NEET Answer key release",
-                    "Exam Date": "September 2021",
+                    "Particulars": "Fees",
+                    "Details": "Rs. 1200/- (One Thousand Two Hundred) only for Unreserved/ BC / EBC candidates and Rs. 600/- (Six Hundred) only for SC / ST / DQ candidates.",
                 },
                 {
-                    "NEET Events": "Announcement of NEET result",
-                    "Exam Date": "October 2021",
+                    "Particulars": "Announcement of NEET result",
+                    "Details": "October 2021",
                 },
                 {
-                    "NEET Events": "NEET Counselling begins",
-                    "Exam Date": "October 2021",
+                    "Particulars": "NEET Counselling begins",
+                    "Details": "October 2021",
                 },
             ]
         },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "Bihar MBBS/BDS Seat Reservation",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Scheduled Caste (SC)",
+                    "Seat Reservation": "16%",
+                },
+                {
+                    "Category": "Scheduled Tribe (ST)",
+                    "Seat Reservation": "1%",
+                },
+                {
+                    "Category": "Extremely Backward Class (EBC)",
+                    "Seat Reservation": "18%",
+                },
+                {
+                    "Category": "Backward Class (BC)",
+                    "Seat Reservation": "12%",
+                },
+                {
+                    "Category": "Reserved Category Girls (RCG)",
+                    "Seat Reservation": "3%",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Goa NEET UG Counselling 2023',
+            "info": "",
+            "col":[
+                        "Particulars",
+                        "Details"
+                    ],
+            "row": [
+                {
+                    "Particulars": "Authority",
+                    "Details": "The Directorate of Technical Education (DTE)",
+                },
+                {
+                    "Particulars": "Mode",
+                    "Details": "Online",
+                },
+                {
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
+                },
+                {
+                    "Particulars": "Seat matrix",
+                    "Details": "180 MBBS and 50 BDS seats",
+                },
+                {
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of Goa MBBS merit list 2023 and preferences selected",
+                },  
+                {
+                    "Particulars": "Dates",
+                    "Details": "To be announced",
+                },
+                {
+                    "Particulars": "Fees",
+                    "Details": "Rs. 1500/- (One Thousand Two Hundred)",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Scheduled Caste (SC)",
+                    "Seat Reservation": "2%",
+                },
+                {
+                    "Category": "Scheduled Tribe (ST)",
+                    "Seat Reservation": "12%",
+                },
+                {
+                    "Category": "Other Backward Class (OBC)",
+                    "Seat Reservation": "27%",
+                },
+                {
+                    "Category": "Physically Handicapped ( PH )",
+                    "Seat Reservation": "3%",
+                },
+                {
+                    "Category": "Freedom fighters (RCG)",
+                    "Seat Reservation": "1%",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Himachal Pradesh NEET UG Counselling 2023',
+            "info": "",
+            "col":[
+                        "Particulars",
+                        "Details"
+                    ],
+            "row": [
+                {
+                    "Particulars": "Authority",
+                    "Details": "Himachal Pradesh University ( HPU )",
+                },
+                {
+                    "Particulars": "Mode",
+                    "Details": "Online",
+                },
+                {
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
+                },
+                {
+                    "Particulars": "Seat matrix",
+                    "Details": "770 MBBS and 191 BDS seats",
+                },
+                {
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of HP MBBS merit list 2023 and preferences selected",
+                },  
+                {
+                    "Particulars": "Dates",
+                    "Details": "September 2023",
+                },
+                {
+                    "Particulars": "Fees",
+                    "Details": "For General/NRI & Other Categories:-Rs. 1800.<br>For SC/ST Categories:- Rs. 900.<br>IRDP/BP Rs. 900.",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Backward Area",    
+                    "Seat Reservation": "3%",
+                },
+                {
+                    "Category": "Children of J&K Migrants",
+                    "Seat Reservation": "1%",
+                },
+                {
+                    "Category": "Children of Tibetan Refugees",
+                    "Seat Reservation": "1%",
+                },
+                {
+                    "Category": "Children –son/daughter of Defence Personnel",
+                    "Seat Reservation": "1%",
+                },
+                {
+                    "Category": "Children-son/daughter of Ex-Servicemen",
+                    "Seat Reservation": "1%",
+                },
+                {
+                    "Category": "ESI Quota (only in Sh. Lal Bahadur Shastri Govt. Medical College)",
+                    "Seat Reservation": "35%",
+                },
+                {
+                    "Category": "Other Backward Class",
+                    "Seat Reservation": "4%",
+                },
+                {
+                    "Category": "Physically Handicapped",
+                    "Seat Reservation": "3%",
+                },
+                {
+                    "Category": "Scheduled Caste",
+                    "Seat Reservation": "13%",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Kerala NEET UG Counselling 2023',
+            "info": "",
+            "col":[
+                        "Particulars",
+                        "Details"
+                    ],
+            "row": [
+                {
+                    "Particulars": "Authority",
+                    "Details": "Commissioner of Entrance Examinations (CEE)",
+                },
+                {
+                    "Particulars": "Mode",
+                    "Details": "Online",
+                },
+                {
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
+                },
+                {
+                    "Particulars": "Seat matrix",
+                    "Details": "3182 MBBS and 2077 BDS",
+                },
+                {
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of Goa MBBS merit list 2023 and preferences selected",
+                },  
+                {
+                    "Particulars": "Dates",
+                    "Details": "To be announced",
+                },
+                {
+                    "Particulars": "Fees",
+                    "Details": "General - Rs. 500/-<br>SC - Rs. 200/-<br>SC - Rs. 200/-",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Ezhava (EZ)",
+                    "Seat Reservation": "9%",
+                },
+                {
+                    "Category": "Scheduled Tribes (ST)",
+                    "Seat Reservation": "2%",
+                },
+                {
+                    "Category": "Kudumbi (KU)",
+                    "Seat Reservation": "1%",
+                },
+                {
+                    "Category": "Dheevara and related communities (DV)",
+                    "Seat Reservation": "2%",
+                },
+                {
+                    "Category": "Latin Catholic and Anglo Indian (LA)",
+                    "Seat Reservation": "3%",
+                },
+                {
+                    "Category": "Muslim (MU)",
+                    "Seat Reservation": "8%",
+                },
+                {
+                    "Category": "Other Backward Hindu (BH)",
+                    "Seat Reservation": "3%",
+                },
+                {
+                    "Category": "Scheduled Castes (SC)",
+                    "Seat Reservation": "8%",
+                },
+                {
+                    "Category": "Other Backward Christian (BX)",
+                    "Seat Reservation": "1%",
+                },
+                {
+                    "Category": "State Merit (SM)",
+                    "Seat Reservation": "60%",
+                },
+                {
+                    "Category": "Viswakarma and related communities (VK)",
+                    "Seat Reservation": "2%",
+                },
+                {
+                    "Category": "Kusavan and related communities (KN)",
+                    "Seat Reservation": "1%",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Punjab NEET UG Counselling 2023',
+            "info": "",
+            "col":[
+                        "Particulars",
+                        "Details"
+                    ],
+            "row": [
+                {
+                    "Particulars": "Authority",
+                    "Details": "Government of Punjab",
+                },
+                {
+                    "Particulars": "Mode",
+                    "Details": "Online",
+                },
+                {
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
+                },
+                {
+                    "Particulars": "Seat matrix",
+                    "Details": "1750 MBBS and 1260 BDS",
+                },
+                {
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of Punjab MBBS merit list 2023 and preferences selected",
+                },  
+                {
+                    "Particulars": "Dates",
+                    "Details": "July 2023",
+                },
+                {
+                    "Particulars": "Fees",
+                    "Details": "General - Rs. 5000/-  + Rs. 900/-<br>Reserved - Rs. 2500/-  + Rs. 450/-",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Scheduled Caste (SC)",
+                    "Seat Reservation": "25%",
+                },
+                {
+                    "Category": "Backward Classes",
+                    "Seat Reservation": "10%",
+                },
+                {
+                    "Category": "Backward Area/ Border Area",
+                    "Seat Reservation": "2%",
+                },
+                {
+                    "Category": "Persons with disability",
+                    "Seat Reservation": "5%",
+                },
+                {
+                    "Category": "Sports Persons",
+                    "Seat Reservation": "1%",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Rajasthan NEET UG Counselling 2023',
+            "info": "",
+            "col":[
+                        "Particulars",
+                        "Details"
+                    ],
+            "row": [
+                {
+                    "Particulars": "Authority",
+                    "Details": "Medical Education Government of Rajasthan",
+                },
+                {
+                    "Particulars": "Mode",
+                    "Details": "Online",
+                },
+                {
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
+                },
+                {
+                    "Particulars": "Seat matrix",
+                    "Details": "4030 MBBS and 1560 BDS",
+                },
+                {
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of Rajasthan MBBS merit list 2023 and preferences selected",
+                },  
+                {
+                    "Particulars": "Dates",
+                    "Details": "Oct 2023",
+                },
+                {
+                    "Particulars": "Fees",
+                    "Details": "General - Rs. 2000/- <br>Reserved - Rs. 1200/- ",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Scheduled Caste (SC)",
+                    "Seat Reservation": "16%",
+                },
+                {
+                    "Category": "Schedule Tribe",
+                    "Seat Reservation": "12%",
+                },
+                {
+                    "Category": "OBC-NCL",
+                    "Seat Reservation": "21%",
+                },
+                {
+                    "Category": "Son/Daughter of Defence Personnel",
+                    "Seat Reservation": "1%",
+                },
+                {
+                    "Category": "Physically Disabled",
+                    "Seat Reservation": "5%",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Tamil Nadu NEET UG Counselling 2023',
+            "info": "",
+            "col":[
+                        "Particulars",
+                        "Details"
+                    ],
+            "row": [
+                {
+                    "Particulars": "Authority",
+                    "Details": "Directorate of Medical Education (DME)",
+                },
+                {
+                    "Particulars": "Mode",
+                    "Details": "Online",
+                },
+                {
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
+                },
+                {
+                    "Particulars": "Seat matrix",
+                    "Details": "10775 MBBS and 2870 BDS",
+                },
+                {
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of Rajasthan MBBS merit list 2023 and preferences selected",
+                },  
+                {
+                    "Particulars": "Dates",
+                    "Details": "Oct 2023",
+                },
+                {
+                    "Particulars": "Fees",
+                    "Details": "Rs. 500/-",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Scheduled Caste (SC)",
+                    "Seat Reservation": "18%",
+                },
+                {
+                    "Category": "Schedule Tribe",
+                    "Seat Reservation": "1%",
+                },
+                {
+                    "Category": "Most Backward Class",
+                    "Seat Reservation": "20%",
+                },
+                {
+                    "Category": "Backward Class",
+                    "Seat Reservation": "30%",
+                },
+                {
+                    "Category": "Open Competition",
+                    "Seat Reservation": "31%",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Tripura NEET UG Counselling 2023',
+            "info": "",
+            "col":[
+                        "Particulars",
+                        "Details"
+                    ],
+            "row": [
+                {
+                    "Particulars": "Authority",
+                    "Details": "Directorate of Medical Education, Health & Family Welfare Government of Tripura",
+                },
+                {
+                    "Particulars": "Mode",
+                    "Details": "Online",
+                },
+                {
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
+                },
+                {
+                    "Particulars": "Seat matrix",
+                    "Details": "200 MBBS",
+                },
+                {
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of Tripura MBBS merit list 2023 and preferences selected",
+                },  
+                {
+                    "Particulars": "Dates",
+                    "Details": "Oct 2023",
+                },
+                {
+                    "Particulars": "Fees",
+                    "Details": "Unreserved/ OBC - Rs. 1800/-  <br>Unreserved Candidates - Rs. 1800/- <br>General EWS - Rs. 1500/- <br>OBC NCL All India Applicants - Rs. 1500/- <br> ST/ SC/ Transgender/ PWD Candidates - Rs. 1000/- ",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Scheduled Caste (SC)",
+                    "Seat Reservation": "15%",
+                },
+                {
+                    "Category": "Schedule Tribe",
+                    "Seat Reservation": "7%",
+                },
+                {
+                    "Category": "Unreserved",
+                    "Seat Reservation": "50%",
+                },
+                {
+                    "Category": "Other Backward Class",
+                    "Seat Reservation": "27%",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Uttarakhand NEET UG Counselling 2023',
+            "info": "",
+            "col":[
+                        "Particulars",
+                        "Details"
+                    ],
+            "row": [
+                {
+                    "Particulars": "Authority",
+                    "Details": "HNB Uttarakhand Medical Education University",
+                },
+                {
+                    "Particulars": "Mode",
+                    "Details": "Online",
+                },
+                {
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
+                },
+                {
+                    "Particulars": "Seat matrix",
+                    "Details": "1000 MBBS and 200 BDS",
+                },
+                {
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of Uttarakhand MBBS merit list 2023 and preferences selected",
+                },  
+                {
+                    "Particulars": "Dates",
+                    "Details": "Oct 2023",
+                },
+                {
+                    "Particulars": "Fees",
+                    "Details": "General - Rs. 2000/- <br> SC - Rs. 1000/-",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Schedule Tribe",
+                    "Seat Reservation": "4%",
+                },
+                {
+                    "Category": "Scheduled Caste (SC)",
+                    "Seat Reservation": "19%",
+                },
+                {
+                    "Category": "Other Backward Classes (OBC)",
+                    "Seat Reservation": "14%",
+                },
+                {
+                    "Category": "Economically Weaker Sections (EWS)",
+                    "Seat Reservation": "10%",
+                },
+                {
+                    "Category": "Women candidates",
+                    "Seat Reservation": "30%",
+                },
+                {
+                    "Category": "Defence Personal Ward (DPW)",
+                    "Seat Reservation": "5%",
+                },
+                {
+                    "Category": "Dependents of freedom fighters (FF)",
+                    "Seat Reservation": "2%",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'West Bengal NEET UG Counselling 2023',
+            "info": "",
+            "col":[
+                        "Particulars",
+                        "Details"
+                    ],
+            "row": [
+                {
+                    "Particulars": "Authority",
+                    "Details": "Government of West Bengal Department of Health & Family Welfare West Bengal",
+                },
+                {
+                    "Particulars": "Mode",
+                    "Details": "Online",
+                },
+                {
+                    "Particulars": "Number of Rounds",
+                    "Details": "Two (Additional mop-up round, for vacant seats)",
+                },
+                {
+                    "Particulars": "Seat matrix",
+                    "Details": "4000 MBBS and 500 BDS",
+                },
+                {
+                    "Particulars": "Seat allotment procedure",
+                    "Details": "On the basis of West Bengal MBBS merit list 2023 and preferences selected",
+                },  
+                {
+                    "Particulars": "Dates",
+                    "Details": "Oct 2023",
+                },
+                {
+                    "Particulars": "Fees",
+                    "Details": "General - Rs. 2000/- <br> SC - Rs. 1500/-",
+                }
+            ]
+        },
+        {
+            "type": 'table',
+            "title": 'Reservation Criteria',
+            "info": "",
+            "col":[
+                        "Category",
+                        "Seat Reservation"
+                    ],
+            "row": [
+                {
+                    "Category": "Schedule Caste (SC)",
+                    "Seat Reservation": "2%",
+                },
+                {
+                    "Category": "Scheduled Tribe (ST)",
+                    "Seat Reservation": "6%",
+                },
+                {
+                    "Category": "PC/PH Category",
+                    "Seat Reservation": "3%",
+                },
+                {
+                    "Category": "OBC-A",
+                    "Seat Reservation": "10%",
+                },
+                {
+                    "Category": "OBC-B",
+                    "Seat Reservation": "7%",
+                }
+            ],
+            "heading":"<p>In summary, candidates must start their NEET exam preparation well in advance and follow a systematic study plan to ensure success in the exam. They must focus on understanding the concepts and practicing as many questions as possible to gain confidence and improve their speed and accuracy. With dedication, hard work, and proper guidance, candidates can crack the NEET exam and fulfill their dream of becoming a medical professional in India.</p>"
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Apart from the above-mentioned details, here are some more important points that candidates must keep in mind while preparing for the NEET 2023 exam:",
+            "data": [
+                "There is no age limit for candidates appearing for the NEET exam, as per the Supreme Court of India's ruling.",
+                "The NEET exam is conducted in 11 languages, including English, Hindi, Tamil, Telugu, Bengali, etc. Candidates can choose the language they are comfortable with during the application process.",
+                "The NEET exam is conducted in offline mode (pen and paper-based) and comprises 180 multiple-choice questions (MCQs).",
+                "The total duration of the NEET exam is 3 hours, and there is no provision for a break during the exam.",
+                "There is negative marking in the NEET exam, and 1 mark is deducted for every incorrect answer. However, there is no negative marking for unanswered questions.",
+                "Candidates must carry their NEET 2023 admit card, valid photo ID proof, and passport-sized photographs to the exam center on the day of the exam. Any candidate failing to do so will not be allowed to appear for the exam.",
+                "The NEET exam results are usually declared within a month of the exam date, and candidates can check their results on the official NEET website.",
+                "In conclusion, the NEET exam is a highly competitive and challenging exam for Indian students who aspire to pursue a career in the medical field. However, with proper preparation, dedication, and hard work, candidates can crack the exam and secure admission to top medical colleges in India. Candidates must ensure that they meet the eligibility criteria, understand the syllabus and exam pattern, and solve previous year's exam papers to boost their preparation. They must also keep in mind the important dates for the application process, exam date, and result declaration date to stay updated. With the right strategy and guidance, candidates can achieve their dream of becoming a medical professional in India.",
+            ],
+        },
         { 
             type: 'text',
-            title: 'NEET Exam: Admit Card',
+            title: 'Conclusion',
             info: '',
-            data: "<p>There is no notification regarding the admit card of the NEET 2021 exam yet. Although there is a chance of students getting their admit cards between mid August 2021 to August end. This is because the previous schedule shows that the admit card of the NEET candidates was to release 37 days before the exam date.</p><p>So the students are advised to start working on their strategies and plans and preparing for the NEET exam 2021. </p><p>Let’s hope that the Covid-19 crisis should get under control soon and there would be no postponement of NEET exam again. Yet keep checking the official sites for the further updates.</p><br><p><b>Good luck students!</b></p>"
+            data:"<p>In conclusion, the NEET exam is a crucial exam for Indian students who aspire to become medical professionals. It is the only entrance exam for admission to medical courses in India, and candidates must prepare well to score high marks in the exam. The eligibility criteria for the NEET exam are clear, and candidates must ensure that they meet all the requirements before applying. The syllabus for the NEET exam includes topics from Physics, Chemistry, and Biology, and candidates must study all the topics thoroughly to ace the exam.</p><p>The application fee for NEET 2023 is expected to be similar to the previous year's fee structure, and candidates can pay the fee through online mode via credit card, debit card, or net banking. Candidates must keep in mind the important dates for the NEET 2023 application process and apply within the specified time.</p><p>Solving previous year's NEET exam papers is an effective way to prepare for the exam, and candidates must make use of the previous year exam paper links provided above.</p><p>The NEET cut-off marks are the minimum qualifying marks required for candidates to be eligible for admission to medical colleges, and candidates must aim to score above the cut-off marks to secure a seat in the top medical colleges of India.</p>"
         },
+        
         {
             type:"meta",
             meta: [
-              { name: "title", content: "NEET Exam 2021 Date Update (12th September)" },
+              { name: "title", content: "NEET Exam 2023 Date Update (7th September)" },
               { name: "description", content: "Check out the new updated date of the NEET exam 2021 by the National Testing Agency. The National Eligibility Cum Entrance Test (NEET) will be held in September." },
             ],
             },
             {
             type:"meta-title",
-            title: "NEET Exam 2021 Date Update (12th September)"},
+            title: "NEET Exam 2023 Date Update (7th September)"},
             {
             type:"meta-links",
             link: [
@@ -1794,7 +2600,7 @@ export default[ {
         
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'NEET Exam Pattern',
             "info": "",
             "col":[
@@ -1804,7 +2610,7 @@ export default[ {
             "row": [
                 {
                     "Particulars": "Mode of Exam",
-                    "Details ": "Offline mode",
+                    "Details": "Offline mode",
                 },
                 {
                     " Particulars": "Medium of Exam",
@@ -1859,7 +2665,7 @@ export default[ {
             ]
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'AIIMS Exam Pattern',
             "info": "",
             "col":[
@@ -1869,7 +2675,7 @@ export default[ {
             "row": [
                 {
                     "Particulars": "Mode of Exam",
-                    "Details ": "Offline mode",
+                    "Details": "Offline mode",
                 },
                 {
                     " Particulars": "Medium of Exam",
@@ -1922,7 +2728,7 @@ export default[ {
             ]
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'JIPMER Exam Pattern',
             "info": "",
             "col":[
@@ -1933,7 +2739,7 @@ export default[ {
             "row": [
                 {
                     "Particulars": "Mode of Exam",
-                    "Details ": "Online mode",
+                    "Details": "Online mode",
                 },
                 {
                     " Particulars": "Medium of Exam",
@@ -1993,7 +2799,7 @@ export default[ {
             ]
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'NEET PG Exam Pattern',
             "info": "",
             "col":[ 
@@ -2003,7 +2809,7 @@ export default[ {
             "row": [
                 {
                     "Particulars": "Mode of Exam",
-                    "Details ": "Online mode",
+                    "Details": "Online mode",
                 },
                 {
                     " Particulars": "Medium of Exam",
@@ -2055,7 +2861,7 @@ export default[ {
             ]
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'NEET MDS Exam Pattern',
             "info": "",
             "col":[
@@ -2066,7 +2872,7 @@ export default[ {
             "row": [
                 {
                     "Particulars": "Mode of Exam",
-                    "Details ": "Online mode",
+                    "Details": "Online mode",
                 },
                 {
                     " Particulars": "Medium of Exam",
@@ -2119,7 +2925,7 @@ export default[ {
             ]
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'AIIMS PG Exam Pattern',
             "info": "",
             "col":[
@@ -2129,7 +2935,7 @@ export default[ {
             "row": [
                 {
                     "Particulars": "Mode of Exam",
-                    "Details ": "Online mode",
+                    "Details": "Online mode",
                 },
                 {
                     " Particulars": "Medium of Exam",
@@ -2185,7 +2991,7 @@ export default[ {
             ]
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'JIPMER PG Exam Pattern',
             "info": "",
             "col":[
@@ -2195,7 +3001,7 @@ export default[ {
             "row": [
                 {
                     "Particulars": "Mode of Exam",
-                    "Details ": "Online mode",
+                    "Details": "Online mode",
                 },
                 {
                     " Particulars": "Medium of Exam",
@@ -2245,7 +3051,7 @@ export default[ {
             ]
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'PGIMER PG Exam Pattern',
             "info": "",
              "col":[
@@ -2255,7 +3061,7 @@ export default[ {
             "row": [
                 {
                     "Particulars": "Mode of Exam",
-                    "Details ": "Offline mode",
+                    "Details": "Offline mode",
                 },
                 {
                     " Particulars": "Medium of Exam",
@@ -2301,7 +3107,7 @@ export default[ {
             ]
         },
         {
-            "type": 'tablet',
+            "type": 'table',
             "title": 'FMGE Exam Pattern',
             "info": "",
             "col":[
@@ -2312,7 +3118,7 @@ export default[ {
             "row": [
                 {
                     "Particulars": "Mode of Exam",
-                    "Details ": "Online mode",
+                    "Details": "Online mode",
                 },
                 {
                     " Particulars": "Medium of Exam",
