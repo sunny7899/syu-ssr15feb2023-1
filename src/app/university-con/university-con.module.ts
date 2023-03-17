@@ -13,6 +13,7 @@ import { NgbCollapseModule } from '@ng-bootstrap/ng-bootstrap';
 import { NavModule } from '../nav/nav.module';
 import { DialogModule } from 'primeng/dialog';
 import { UniversityConComponent } from './university-con.component';
+import { HttpClientModule } from '@angular/common/http';
 import { ChatModule } from '../chat/chat.module';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import {Location} from '@angular/common';  
@@ -36,6 +37,7 @@ import {Location} from '@angular/common';
     // GalleriaModule,
     NavModule,
     DialogModule,
+    HttpClientModule
   ]
 })
 export class UniversityConModule { }

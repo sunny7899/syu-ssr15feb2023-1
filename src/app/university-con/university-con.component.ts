@@ -15,6 +15,8 @@ import { DialogModule } from 'primeng/dialog';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { FormBuilder, FormGroup, Validators,FormControl } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
+import html2canvas from 'html2canvas';
+import { jsPDF } from 'jspdf';
 
 
 @Component({
@@ -698,6 +700,8 @@ export class UniversityConComponent implements OnInit {
     this.elementPosition = this.navTabs.nativeElement.offsetTop;
     this.elementPosition1 = this.talkExpertDiv.nativeElement.offsetTop;
   }
+
+
   @HostListener('window:scroll')
   handleScroll() {
     const windowScroll = window.pageYOffset;
@@ -715,6 +719,39 @@ export class UniversityConComponent implements OnInit {
     if (windowScroll <= this.elementPosition1) {
       this.stickyDiv = false;
     }
+  }
+
+  generateReport() {
+    html2canvas(document.getElementById('college-html')).then((canvasObj) => {
+      let image = new Image();
+      image.src = canvasObj.toDataURL();
+      const imgData = canvasObj.toDataURL();
+      this.convertHTMLtoPdf(canvasObj, imgData);
+    });
+  }
+
+  convertHTMLtoPdf(canvas, img) {
+    let $actw, $acth, $maxw, $maxh, $count, position;
+    let $w = ($actw = canvas.width);
+    let $h = ($acth = canvas.height);
+    const pdf = new jsPDF('p', 'mm', 'a4');
+    const width = ($maxw = pdf.internal.pageSize.width);
+    const height = ($maxh = pdf.internal.pageSize.height);
+    if (!$maxw) $maxw = width;
+    if (!$maxh) $maxh = height;
+    if ($w > $maxw) {
+      $w = $maxw;
+      $h = Math.round(($acth / $actw) * $maxw);
+    }
+    pdf.addImage(img, 'JPEG', 0, 0, $w, $h);
+    $count = Math.ceil($h) / Math.ceil($maxh);
+    $count = Math.ceil($count);
+    for (let i = 1; i <= $count; i++) {
+      position = -$maxh * i;
+      pdf.addPage();
+      pdf.addImage(img, 'JPEG', 0, position, $w, $h);
+    }
+    pdf.save('brochure.pdf');
   }
 }
 
