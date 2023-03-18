@@ -13,103 +13,104 @@
               </div>
 
 
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <div  class="col-10" *ngIf="isActive('info')">
+              <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+              <div class="col-10" *ngIf="isActive('info')">
                 <h1 class="iit-subheader cust-font-size">
                   {{ collegeData.Title }}
-                </h1></div>
-
-
-              <div  class="col-10" *ngIf="isActive('courses-and-fees')">
-              <div *ngFor="let item of collegeData.coursesandfees" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
                 </h1>
-
               </div>
-            </div>
-            <div  class="col-10" *ngIf="isActive('admission')">
-              <div *ngFor="let item of collegeData.admission" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
-                </h1>
 
-              </div>
-            </div>
-            <div  class="col-10" *ngIf="isActive('review')">
-              <div *ngFor="let item of collegeData.review" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
-                </h1>
 
-              </div>
-            </div>
-            <div  class="col-10" *ngIf="isActive('placement')">
-              <div *ngFor="let item of collegeData.placement" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
-                </h1>
+              <div class="col-10" *ngIf="isActive('courses-and-fees')">
+                <div *ngFor="let item of collegeData.coursesandfees" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
 
+                </div>
               </div>
-            </div>
-            <div  class="col-10" *ngIf="isActive('gallery')">
-              <div *ngFor="let item of collegeData.gallery" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
-                </h1>
+              <div class="col-10" *ngIf="isActive('admission')">
+                <div *ngFor="let item of collegeData.admission" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
 
+                </div>
               </div>
-            </div>
-            <div  class="col-10" *ngIf="isActive('scholarship')">
-              <div *ngFor="let item of collegeData.scholarship" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
-                </h1>
+              <div class="col-10" *ngIf="isActive('review')">
+                <div *ngFor="let item of collegeData.review" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
 
+                </div>
               </div>
-            </div>
-            <div  class="col-10" *ngIf="isActive('faculty')">
-              <div *ngFor="let item of collegeData.faculty" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
-                </h1>
+              <div class="col-10" *ngIf="isActive('placement')">
+                <div *ngFor="let item of collegeData.placement" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
 
+                </div>
               </div>
-            </div>
-            <div  class="col-10" *ngIf="isActive('news')">
-              <div *ngFor="let item of collegeData.news" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
-                </h1>
+              <div class="col-10" *ngIf="isActive('gallery')">
+                <div *ngFor="let item of collegeData.gallery" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
 
+                </div>
               </div>
-            </div>
-            <div  class="col-10" *ngIf="isActive('hostel')">
-              <div *ngFor="let item of collegeData.hostel" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
-                </h1>
+              <div class="col-10" *ngIf="isActive('scholarship')">
+                <div *ngFor="let item of collegeData.scholarship" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
 
+                </div>
               </div>
-            </div>
-            <div  class="col-10" *ngIf="isActive('faq')">
-              <div *ngFor="let item of collegeData.faq" class="col-10">
-                <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
-                <h1   *ngIf="item.type == 'meta-title'"  class="iit-subheader cust-font-size">
-                  {{ item.title }}
-                </h1>
+              <div class="col-10" *ngIf="isActive('faculty')">
+                <div *ngFor="let item of collegeData.faculty" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
 
+                </div>
               </div>
-            </div>
+              <div class="col-10" *ngIf="isActive('news')">
+                <div *ngFor="let item of collegeData.news" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
+
+                </div>
+              </div>
+              <div class="col-10" *ngIf="isActive('hostel')">
+                <div *ngFor="let item of collegeData.hostel" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
+
+                </div>
+              </div>
+              <div class="col-10" *ngIf="isActive('faq')">
+                <div *ngFor="let item of collegeData.faq" class="col-10">
+                  <!-- <h2 class="iit-header">{{collegeData.shortTitle}}</h2> -->
+                  <h1 *ngIf="item.type == 'meta-title'" class="iit-subheader cust-font-size">
+                    {{ item.title }}
+                  </h1>
+
+                </div>
+              </div>
             </div>
             <div class="row row-without-gutter info-div">
               <div class="col-sm-10 offset-sm-2 col-12 d-flex d-sm-block">
@@ -129,7 +130,7 @@
             </div>
             <div class="row row-without-gutter btns text-center">
               <div class="flex-holder2">
-                <button class="btn btn-blue white-text-2"(click)="openModalWithClass(template)">
+                <button class="btn btn-blue white-text-2" (click)="openModalWithClass(template)">
                   Apply Now<img alt="" src="../../assets/img/College_Icons/2.IIT_Delhi/apply.png" />
                 </button>
                 <button class="btn dl-btn ml-3" (click)="generateReport()">
@@ -140,21 +141,12 @@
 
             <ng-template #template>
               <section class="form">
-                <button
-                  type="button"
-                  class="close pull-right"
-                  aria-label="Close"
-                  (click)="modalRef.hide()"
-                >
+                <button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()">
                   <span aria-hidden="true">&times;</span>
                 </button>
                 <div class="modal-header">
-                  <img
-                    src="../../assets/img/new_logo_color.png"
-                    width="220px"
-                    height="auto"
-                    class="syuLogo college-page-logo"
-                  />
+                  <img src="../../assets/img/new_logo_color.png" width="220px" height="auto"
+                    class="syuLogo college-page-logo" />
                   <h4 class="modal-title text-center">A Place Where Your Career Matters</h4>
                 </div>
                 <div class="container">
@@ -179,19 +171,13 @@
                         <div class="row">
                           <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="card shortlist-card text-center">
-                              <img
-                                src="../../assets/img/Application-Deadlines.png"
-                                class="center img-size"
-                              />
+                              <img src="../../assets/img/Application-Deadlines.png" class="center img-size" />
                               <div class="shortlist-txt">Application Deadlines</div>
                             </div>
                           </div>
                           <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="card shortlist-card">
-                              <img
-                                src="../../assets/img/Brochure Details.png"
-                                class="center img-size"
-                              />
+                              <img src="../../assets/img/Brochure Details.png" class="center img-size" />
                               <div class="shortlist-txt text-center">Brochure Details</div>
                             </div>
                           </div>
@@ -199,19 +185,13 @@
                         <div class="row form-div">
                           <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="card shortlist-card">
-                              <img
-                                src="../../assets/img/Councelling.png"
-                                class="center img-size"
-                              />
+                              <img src="../../assets/img/Councelling.png" class="center img-size" />
                               <div class="shortlist-txt text-center">Councelling</div>
                             </div>
                           </div>
                           <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="card shortlist-card">
-                              <img
-                                src="../../assets/img/Check-detalied-fees.png"
-                                class="center img-size"
-                              />
+                              <img src="../../assets/img/Check-detalied-fees.png" class="center img-size" />
                               <div class="shortlist-txt text-center">Check Detalied Fees</div>
                             </div>
                           </div>
@@ -237,15 +217,11 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-user"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="Full Name*"
-                                    id="name"
-                                    formControlName="cCandidateName"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="Full Name*" id="name" formControlName="cCandidateName" />
                                 </div>
-                                <div *ngIf="m['cCandidateName'].touched && m['cCandidateName'].invalid" class="validation">
+                                <div *ngIf="m['cCandidateName'].touched && m['cCandidateName'].invalid"
+                                  class="validation">
                                   <div *ngIf="m['cCandidateName'].errors['required']">Please Enter Full Name</div>
                                 </div>
                               </div>
@@ -254,13 +230,8 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-envelope"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="Email Address*"
-                                    id="email"
-                                    formControlName="cEmail"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="Email Address*" id="email" formControlName="cEmail" />
                                 </div>
                                 <div *ngIf="m['cEmail'].touched && m['cEmail'].invalid" class="validation">
                                   <div *ngIf="m['cEmail'].errors['required']">Please enter email address</div>
@@ -276,13 +247,8 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-phone flip"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="number"
-                                    placeholder="Mobile Number*"
-                                    id="number"
-                                    formControlName="cMobile"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="number"
+                                    placeholder="Mobile Number*" id="number" formControlName="cMobile" />
                                 </div>
                                 <div *ngIf="m['cMobile'].touched && m['cMobile'].invalid" class="validation">
                                   <div *ngIf="m['cMobile'].errors['required']">Please enter mobile number</div>
@@ -294,13 +260,8 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-map-marker"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="City You Live In*"
-                                    id="city"
-                                    formControlName="cCity"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="City You Live In*" id="city" formControlName="cCity" />
                                 </div>
                                 <div *ngIf="m['cCity'].touched && m['cCity'].invalid" class="validation">
                                   <div *ngIf="m['cCity'].errors['required']">Please enter city</div>
@@ -315,13 +276,8 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-graduation-cap"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="Course Interested In*"
-                                    id="course"
-                                    formControlName="cCourse"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="Course Interested In*" id="course" formControlName="cCourse" />
                                 </div>
                                 <div *ngIf="m['cCourse'].touched && m['cCourse'].invalid" class="validation">
                                   <div *ngIf="m['cCourse'].errors['required']">Please enter Course</div>
@@ -332,13 +288,9 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-graduation-cap"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="Select Highest Education*"
-                                    id="education"
-                                    formControlName="qeducation"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="Select Highest Education*" id="education"
+                                    formControlName="qeducation" />
                                 </div>
                                 <div *ngIf="m['qeducation'].touched && m['qeducation'].invalid" class="validation">
                                   <div *ngIf="m['qeducation'].errors['required']">Please enter Education</div>
@@ -347,8 +299,7 @@
                               <div class="terms">
                                 <p>
                                   By submitting this form, you accept and agree to our<span
-                                    style="color: cornflowerblue"
-                                  >
+                                    style="color: cornflowerblue">
                                     Terms of use
                                   </span>
                                 </p>
@@ -358,12 +309,8 @@
                                   Already Registered? Click Here To Login.
                                 </div>
                                 <div class="col-lg-2 col-md-2 col-sm-2">
-                                  <button
-                                    type="button"
-                                    class="btn submit"
-                                    [disabled]="!RegistrationFrom1.valid"
-                                    (click)="submitForm1()"
-                                  >
+                                  <button type="button" class="btn submit" [disabled]="!RegistrationFrom1.valid"
+                                    (click)="submitForm1()">
                                     SUBMIT
                                   </button>
                                 </div>
@@ -394,22 +341,15 @@
                                   <!-- <div class="input-group-text bg-transparent icon"> -->
                                   <!-- <i class="fa fa-user"></i> -->
                                   <!-- </div> -->
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input1"
-                                    type="text"
-                                    placeholder="Select Graduation College/Institue*"
-                                    id="graduation"
-                                    formControlName="qgraduation"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                    placeholder="Select Graduation College/Institue*" id="graduation"
+                                    formControlName="qgraduation" />
                                 </div>
-                                <div
-                                  class="validation"
-                                  *ngIf="
+                                <div class="validation" *ngIf="
                                     RegistrationFrom2.get('qgraduation').invalid &&
                                     (RegistrationFrom2.get('qgraduation').dirty ||
                                       RegistrationFrom2.get('qgraduation').touched)
-                                  "
-                                >
+                                  ">
                                   Enter graduation.
                                 </div>
                               </div>
@@ -418,22 +358,14 @@
                                   <!-- <div class="input-group-text bg-transparent icon"> -->
                                   <!-- <i class="fa fa-envelope"></i> -->
                                   <!-- </div> -->
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input1"
-                                    type="text"
-                                    placeholder="Which Course Did You Do?*"
-                                    id="course"
-                                    formControlName="qcourse"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                    placeholder="Which Course Did You Do?*" id="course" formControlName="qcourse" />
                                 </div>
-                                <div
-                                  class="validation"
-                                  *ngIf="
+                                <div class="validation" *ngIf="
                                     RegistrationFrom2.get('qcourse').invalid &&
                                     (RegistrationFrom2.get('qcourse').dirty ||
                                       RegistrationFrom2.get('qcourse').touched)
-                                  "
-                                >
+                                  ">
                                   Enter course.
                                 </div>
                               </div>
@@ -446,22 +378,14 @@
                                   <!-- <div class="input-group-text bg-transparent icon"> -->
                                   <!-- <i class="fa fa-phone flip"></i> -->
                                   <!-- </div> -->
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input1"
-                                    type="number"
-                                    placeholder="Graduation Percentage* "
-                                    id="gradper"
-                                    formControlName="qgradper"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input1" type="number"
+                                    placeholder="Graduation Percentage* " id="gradper" formControlName="qgradper" />
                                 </div>
-                                <div
-                                  class="validation"
-                                  *ngIf="
+                                <div class="validation" *ngIf="
                                     RegistrationFrom2.get('qgradper').invalid &&
                                     (RegistrationFrom2.get('qgradper').dirty ||
                                       RegistrationFrom2.get('qgradper').touched)
-                                  "
-                                >
+                                  ">
                                   Enter gradper.
                                 </div>
                               </div>
@@ -470,22 +394,15 @@
                                   <!-- <div class="input-group-text bg-transparent icon"> -->
                                   <!-- <i class="fa fa-map-marker"></i> -->
                                   <!-- </div> -->
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input1"
-                                    type="text"
-                                    placeholder="Work Experience (in years)*"
-                                    id="experience"
-                                    formControlName="qexperience"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                    placeholder="Work Experience (in years)*" id="experience"
+                                    formControlName="qexperience" />
                                 </div>
-                                <div
-                                  class="validation"
-                                  *ngIf="
+                                <div class="validation" *ngIf="
                                     RegistrationFrom2.get('qexperience').invalid &&
                                     (RegistrationFrom2.get('qexperience').dirty ||
                                       RegistrationFrom2.get('qexperience').touched)
-                                  "
-                                >
+                                  ">
                                   Enter experience.
                                 </div>
                               </div>
@@ -497,16 +414,19 @@
                                 Have you appeared or scheduled for any Entrance Exam?
                               </p>
                               <div class="form-check-inline">
-                                  <input type="radio" id="html" name="fav_language" value="Yes" formControlName='qextraExam'>
+                                  <input type="radio" id="html" name="fav_language" value="Yes"
+                                  formControlName='qextraExam'>
                                   <label for="html">Yes</label><br>
                               </div>
                               <div class="form-check-inline">
-                                  <input type="radio" id="css" name="fav_language" value="No"formControlName='qextraExam'>
+                                  <input type="radio" id="css" name="fav_language" value="No"
+                                  formControlName='qextraExam'>
                                   <label for="css">No</label><br>
 
                               </div>
                               <div class="form-check-inline">
-                                  <input type="radio" id="javascript" name="fav_language" value="Booked"formControlName='qextraExam'>
+                                  <input type="radio" id="javascript" name="fav_language" value="Booked"
+                                  formControlName='qextraExam'>
                                   <label for="javascript">Booked</label>
                               </div>
                             </div>
@@ -517,13 +437,8 @@
                               <div class="col-lg-2"></div>
                               <div class="col-lg-4" id="phone">
                                 <div class="input-group">
-                                  <input
-                                    class="form-control py-2 border-right-0 border score-input"
-                                    type="text"
-                                    placeholder="GATE(Optional)"
-                                    id="name"
-                                    formControlName="qgate"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border score-input" type="text"
+                                    placeholder="GATE(Optional)" id="name" formControlName="qgate" />
                                 </div>
                                 <!-- <div
                                   class="validation"
@@ -538,13 +453,8 @@
                               </div>
                               <div class="col-lg-4">
                                 <div class="input-group">
-                                  <input
-                                    class="form-control py-2 border-right-0 border score-input"
-                                    type="text"
-                                    placeholder="GRE(Optional)"
-                                    id="name"
-                                    formControlName="qgre"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border score-input" type="text"
+                                    placeholder="GRE(Optional)" id="name" formControlName="qgre" />
                                 </div>
                                 <!-- <div
                                   class="validation"
@@ -567,12 +477,8 @@
                               </div>
                               <div class="col-lg-6"></div>
                               <div class="col-lg-3">
-                                <button
-                                  class="btn submit"
-                                  type="button"
-                                  [disabled]="!RegistrationFrom2.valid"
-                                  (click)="submitForm2()"
-                                >
+                                <button class="btn submit" type="button" [disabled]="!RegistrationFrom2.valid"
+                                  (click)="submitForm2()">
                                   SUBMIT
                                 </button>
                               </div>
@@ -598,41 +504,26 @@
                           <div class="form-div">
                             <div class="row">
                               <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                <input
-                                  class="form-control py-2 border-right-0 border form-input1"
-                                  type="text"
-                                  placeholder="Select 10th Board*"
-                                  id="tenthBoard"
-                                  formControlName="qtenthBoard"
-                                />
+                                <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                  placeholder="Select 10th Board*" id="tenthBoard" formControlName="qtenthBoard" />
                               </div>
-                              <div
-                                class="validation"
-                                *ngIf="
+                              <div class="validation" *ngIf="
                                   RegistrationFrom3.get('qtenthBoard').invalid &&
                                   (RegistrationFrom3.get('qtenthBoard').dirty ||
                                     RegistrationFrom3.get('qtenthBoard').touched)
-                                "
-                              >
+                                ">
                                 Enter 10th Board.
                               </div>
                               <div class="col-lg-6 col-md-6 col-sm-6">
-                                <input
-                                  class="form-control py-2 border-right-0 border form-input1"
-                                  type="text"
-                                  placeholder="Select 10th Passing Year*"
-                                  id="tenthPassing"
-                                  formControlName="qtenthPassing"
-                                />
+                                <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                  placeholder="Select 10th Passing Year*" id="tenthPassing"
+                                  formControlName="qtenthPassing" />
                               </div>
-                              <div
-                                class="validation"
-                                *ngIf="
+                              <div class="validation" *ngIf="
                                   RegistrationFrom3.get('qtenthPassing').invalid &&
                                   (RegistrationFrom3.get('qtenthPassing').dirty ||
                                     RegistrationFrom3.get('qtenthPassing').touched)
-                                "
-                              >
+                                ">
                                 Enter 10th Passing.
                               </div>
                             </div>
@@ -640,41 +531,26 @@
                           <div class="form-div">
                             <div class="row">
                               <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                <input
-                                  class="form-control py-2 border-right-0 border form-input1"
-                                  type="number"
-                                  placeholder="10th Percentage*"
-                                  id="tenthPercentage"
-                                  formControlName="qtenthPercentage"
-                                />
+                                <input class="form-control py-2 border-right-0 border form-input1" type="number"
+                                  placeholder="10th Percentage*" id="tenthPercentage"
+                                  formControlName="qtenthPercentage" />
                               </div>
-                              <div
-                                class="validation"
-                                *ngIf="
+                              <div class="validation" *ngIf="
                                   RegistrationFrom3.get('qtenthPercentage').invalid &&
                                   (RegistrationFrom3.get('qtenthPercentage').dirty ||
                                     RegistrationFrom3.get('qtenthPercentage').touched)
-                                "
-                              >
+                                ">
                                 Enter 10th Percentage.
                               </div>
                               <div class="col-lg-6 col-md-6 col-sm-6">
-                                <input
-                                  class="form-control py-2 border-right-0 border form-input1"
-                                  type="text"
-                                  placeholder="10th School Name*"
-                                  id="school"
-                                  formControlName="qschool"
-                                />
+                                <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                  placeholder="10th School Name*" id="school" formControlName="qschool" />
                               </div>
-                              <div
-                                class="validation"
-                                *ngIf="
+                              <div class="validation" *ngIf="
                                   RegistrationFrom3.get('qschool').invalid &&
                                   (RegistrationFrom3.get('qschool').dirty ||
                                     RegistrationFrom3.get('qschool').touched)
-                                "
-                              >
+                                ">
                                 Enter 10th School.
                               </div>
                             </div>
@@ -687,11 +563,7 @@
                             </div>
                             <div class="col-lg-6"></div>
                             <div class="col-lg-3">
-                              <button
-                                class="btn submit"
-                                type="button"
-                                (click)="submitForm3()"
-                              >
+                              <button class="btn submit" type="button" (click)="submitForm3()">
                                 SUBMIT
                               </button>
                             </div>
@@ -715,41 +587,26 @@
                           <div class="form-div">
                             <div class="row">
                               <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                <input
-                                  class="form-control py-2 border-right-0 border form-input1"
-                                  type="text"
-                                  placeholder="Select 12th Board* "
-                                  id="twelvethBoard"
-                                  formControlName="fldValue1"
-                                />
+                                <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                  placeholder="Select 12th Board* " id="twelvethBoard" formControlName="fldValue1" />
                               </div>
-                              <div
-                                class="validation"
-                                *ngIf="
+                              <div class="validation" *ngIf="
                                   RegistrationFrom4.get('fldValue1').invalid &&
                                   (RegistrationFrom4.get('fldValue1').dirty ||
                                     RegistrationFrom4.get('fldValue1').touched)
-                                "
-                              >
+                                ">
                                 Enter Twelveth Board.
                               </div>
                               <div class="col-lg-6 col-md-6 col-sm-6">
-                                <input
-                                  class="form-control py-2 border-right-0 border form-input1"
-                                  type="text"
-                                  placeholder="Select 12th Passing Year*"
-                                  id="twelvethPassing"
-                                  formControlName="fldValue2"
-                                />
+                                <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                  placeholder="Select 12th Passing Year*" id="twelvethPassing"
+                                  formControlName="fldValue2" />
                               </div>
-                              <div
-                                class="validation"
-                                *ngIf="
+                              <div class="validation" *ngIf="
                                   RegistrationFrom4.get('fldValue2').invalid &&
                                   (RegistrationFrom4.get('fldValue2').dirty ||
                                     RegistrationFrom4.get('fldValue2').touched)
-                                "
-                              >
+                                ">
                                 Enter Twelveth Passing.
                               </div>
                             </div>
@@ -757,41 +614,25 @@
                           <div class="form-div">
                             <div class="row">
                               <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                <input
-                                  class="form-control py-2 border-right-0 border form-input1"
-                                  type="number"
-                                  placeholder="12th percentage*"
-                                  id="twelvethPer"
-                                  formControlName="fldValue3"
-                                />
+                                <input class="form-control py-2 border-right-0 border form-input1" type="number"
+                                  placeholder="12th percentage*" id="twelvethPer" formControlName="fldValue3" />
                               </div>
-                              <div
-                                class="validation"
-                                *ngIf="
+                              <div class="validation" *ngIf="
                                   RegistrationFrom4.get('fldValue3').invalid &&
                                   (RegistrationFrom4.get('fldValue3').dirty ||
                                     RegistrationFrom4.get('fldValue3').touched)
-                                "
-                              >
+                                ">
                                 Enter Twelveth Percentage.
                               </div>
                               <div class="col-lg-6 col-md-6 col-sm-6">
-                                <input
-                                  class="form-control py-2 border-right-0 border form-input1"
-                                  type="text"
-                                  placeholder="12th School Name*"
-                                  id="twelvethSchool"
-                                  formControlName="fldValue4"
-                                />
+                                <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                  placeholder="12th School Name*" id="twelvethSchool" formControlName="fldValue4" />
                               </div>
-                              <div
-                                class="validation"
-                                *ngIf="
+                              <div class="validation" *ngIf="
                                   RegistrationFrom4.get('fldValue4').invalid &&
                                   (RegistrationFrom4.get('fldValue4').dirty ||
                                     RegistrationFrom4.get('fldValue4').touched)
-                                "
-                              >
+                                ">
                                 Enter Twelveth School.
                               </div>
                             </div>
@@ -799,23 +640,15 @@
                           <div class="form-div">
                             <div class="row">
                               <div class="col-lg-6 col-md-6 col-sm-6">
-                                <input
-                                  class="form-control py-2 border-right-0 border form-input1"
-                                  type="text"
-                                  placeholder="Select 12th Specialization*"
-                                  id="name"
-                                  id="twelvethSpec"
-                                  formControlName="fldValue5"
-                                />
+                                <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                                  placeholder="Select 12th Specialization*" id="name" id="twelvethSpec"
+                                  formControlName="fldValue5" />
                               </div>
-                              <div
-                                class="validation"
-                                *ngIf="
+                              <div class="validation" *ngIf="
                                   RegistrationFrom4.get('fldValue5').invalid &&
                                   (RegistrationFrom4.get('fldValue5').dirty ||
                                     RegistrationFrom4.get('fldValue5').touched)
-                                "
-                              >
+                                ">
                                 Enter Twelveth Specialization.
                               </div>
                             </div>
@@ -828,11 +661,7 @@
                             </div>
                             <div class="col-lg-6"></div>
                             <div class="col-lg-3">
-                              <button
-                                class="btn submit"
-                                type="button"
-                                (click)="submitFrom4()"
-                              >
+                              <button class="btn submit" type="button" (click)="submitFrom4()">
                                 SUBMIT
                               </button>
                             </div>
@@ -982,7 +811,7 @@
           <div id="college-content-tab">
             <div class="tabcontent">
               <div *ngIf="isActive('info')">
-                <div class="row row-without-gutter relative-row"  *ngFor="let item of collegeData.info">
+                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.info">
                   <!-- {{item.title}} -->
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
@@ -1118,7 +947,7 @@
               </div>
 
               <div *ngIf="isActive('courses-and-fees')">
-                <div class="row row-without-gutter relative-row"  *ngFor="let item of collegeData?.coursesandfees">
+                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData?.coursesandfees">
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
@@ -1749,7 +1578,7 @@
                     <p [innerHTML]="item.heading"></p>
                   </div>
 
-                  <div class="col-12"id="number" *ngIf="item.type == 'number-list'">
+                  <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
@@ -1782,7 +1611,7 @@
               </div>
 
               <div *ngIf="isActive('gallery')">
-                <div style="display: flex"  class="row row-without-gutter relative-row test">
+                <div style="display: grid" class="row row-without-gutter relative-row test">
                   <nav class="navbar navbar-light full-width-tabs" #stickyNav [class.stickyNav]="stickyNav">
                     <div class="collapse navbar-collapse bg-white" id="navbar">
                       <ul class="nav nav-tabs nav-tabs-ul" style="display: block">
@@ -1809,7 +1638,7 @@
                                             allowfullscreen></iframe>
                     </div>
                   </div> -->
-                    <div *ngFor="let itemtype of galleryType">
+                    <!-- <div *ngFor="let itemtype of galleryType">
 
                       <div class="collapse navbar-collapse bg-white" id="navbar">
                         <h2>{{itemtype}}</h2>
@@ -1824,6 +1653,16 @@
                         </ng-container>
 
                       </div>
+                    </div> -->
+
+                    <div class="container-box" *ngFor="let itemtype of collegeData.gallery">
+                      <ng-container *ngFor="let item of itemtype.image">
+                        <div *ngIf="item.type=='image'">
+                          <div>
+                            <img src={{item.data}} />
+                          </div>
+                        </div>
+                      </ng-container>
                     </div>
 
                   </div>
@@ -1839,7 +1678,7 @@
                                             allowfullscreen></iframe>
                     </div>
                   </div> -->
-                    <div *ngFor="let itemtype of galleryType">
+                    <!-- <div *ngFor="let itemtype of galleryType">
 
                       <div class="collapse navbar-collapse bg-white" id="navbar">
                         <h2>{{itemtype}}</h2>
@@ -1857,6 +1696,21 @@
                         </ng-container>
 
                       </div>
+                    </div> -->
+
+                    <div class="container-box" *ngFor="let itemtype of collegeData.gallery">
+                      <ng-container *ngFor="let item of itemtype.video">
+                        <div *ngIf="item.type=='video'">
+                          <div>
+                  
+                            <video width="100%" height="160" controls="controls"
+                            >
+
+                            <source src={{item.data}} type="video/mp4">
+                            </video>
+                          </div>
+                        </div>
+                      </ng-container>
                     </div>
 
                   </div>
@@ -1877,7 +1731,7 @@
               </div>
 
               <div *ngIf="isActive('scholarship')">
-                <div class="row row-without-gutter relative-row"  *ngFor="let item of collegeData.Scholarship">
+                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.Scholarship">
                   <!-- {{item.title}} -->
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
@@ -2019,7 +1873,7 @@
               </div>
 
               <div *ngIf="isActive('faculty')">
-                <div class="row row-without-gutter relative-row"  *ngFor="let item of collegeData.Faculty">
+                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.Faculty">
                   <!-- {{item.title}} -->
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
@@ -2321,10 +2175,10 @@
                 </div>
               </div>
 
-              <div  *ngIf="isActive('faq')">
+              <div *ngIf="isActive('faq')">
                 <div id="faq" class="row row-without-gutter relative-row" *ngFor="let item of collegeData.faq">
                   <!-- {{item.type}} -->
-                  <div  *ngIf="item.type == 'text'">
+                  <div *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
                       <p [innerHTML]="item.data"></p>
@@ -2358,7 +2212,7 @@
                     </p-accordion>
                   </div>
                   <div id="quick" #quick></div>
-                  <div  *ngIf="item.type == 'table'">
+                  <div *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
@@ -2381,7 +2235,7 @@
                     <p [innerHTML]="item.heading"></p>
                   </div>
 
-                  <div  *ngIf="item.type == 'table-title'">
+                  <div *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
@@ -2413,7 +2267,7 @@
                     <p [innerHTML]="item.heading"></p>
                   </div>
 
-                  <div  *ngIf="item.type == 'list-bollet'">
+                  <div *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
@@ -2440,7 +2294,7 @@
                     <p [innerHTML]="item.heading"></p>
                   </div>
 
-                  <div  *ngIf="item.type == 'step-list'">
+                  <div *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
@@ -2452,7 +2306,7 @@
                     </ol>
                     <p [innerHTML]="item.heading"></p>
                   </div>
-                  <div  *ngIf="item.type == 'img'">
+                  <div *ngIf="item.type == 'img'">
                     <img [src]="item.data" alt="" class="review-img custome-img" />
                   </div>
                 </div>
@@ -2471,9 +2325,9 @@
                       width="30" />
                     <h6>Are you Interested in this Course</h6>
                     <a href="tel:180030700033">
-                    <button class="btn btn-orange white-text-2 btn-lg">
-                      Talk to Expert
-                    </button></a>
+                      <button class="btn btn-orange white-text-2 btn-lg">
+                        Talk to Expert
+                      </button></a>
                   </div>
                 </div>
               </div>

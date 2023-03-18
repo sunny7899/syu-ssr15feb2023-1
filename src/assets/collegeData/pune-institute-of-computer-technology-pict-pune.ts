@@ -589,6 +589,52 @@ export const puneinstituteofcomputertechnologypictpune = {
     ],
     "gallery": [
         {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/BG.jpg",
+                    "alt": "Image 1"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/BG.jpg",
+                    "alt": "Image 1"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/BG.jpg",
+                    "alt": "Image 1"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/BG.jpg",
+                    "alt": "Image 1"
+                },
+            ],
+            "video": [
+                {
+                    "type": "video",
+                    "data": "../../assets/img/AMA School of Medicine Campus Tour _ Top Medical University in Philippines.mp4",
+                    "alt": "Image 1"
+                },
+                {
+                    "type": "video",
+                    "data": "../../assets/img/AMA School of Medicine Campus Tour _ Top Medical University in Philippines.mp4",
+                    "alt": "Image 1"
+                },
+                {
+                    "type": "video",
+                    "data": "../../assets/img/AMA School of Medicine Campus Tour _ Top Medical University in Philippines.mp4",
+                    "alt": "Image 1"
+                },
+                {
+                    "type": "video",
+                    "data": "../../assets/img/AMA School of Medicine Campus Tour _ Top Medical University in Philippines.mp4",
+                    "alt": "Image 1"
+                },
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pune Institute of Computer Technology (PICT) - Gallery" },

@@ -374,6 +374,52 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
   ],
   "gallery": [
     {
+      "image": [
+          {
+              "type": "image",
+              "data": "../../assets/img/BG.jpg",
+              "alt": "Image 1"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/BG.jpg",
+              "alt": "Image 1"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/BG.jpg",
+              "alt": "Image 1"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/BG.jpg",
+              "alt": "Image 1"
+          },
+      ],
+      "video": [
+          {
+              "type": "video",
+              "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+              "alt": "Image 1"
+          },
+          {
+              "type": "video",
+              "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+              "alt": "Image 1"
+          },
+          {
+              "type": "video",
+              "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+              "alt": "Image 1"
+          },
+          {
+              "type": "video",
+              "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+              "alt": "Image 1"
+          },
+      ]
+  },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "AIIMS New Delhi - Gallery" },
