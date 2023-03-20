@@ -870,6 +870,7 @@
                         </tr>
                       </tbody>
                     </table>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
@@ -901,6 +902,7 @@
                         </tr>
                       </tbody>
                     </table>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
@@ -1332,6 +1334,7 @@
                         </tr>
                       </tbody>
                     </table>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
