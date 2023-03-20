@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 
 // const baseUrl = 'http://18.189.207.215:8080/';
-const baseUrl = 'https://www.selectyouruniversity.com/api/response.php?';
+const baseUrl = 'http://rohitnehra-001-site1.htempurl.com/response.php';
 
 
 @Injectable({
