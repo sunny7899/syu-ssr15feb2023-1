@@ -542,7 +542,7 @@ export class CollegeConComponent implements OnInit {
     ];
     this.getStudentVisit();
   }
-
+  
   openModalWithClass(template: TemplateRef<any>) {
     this.modalRef = this.modalService.show(
       template,
