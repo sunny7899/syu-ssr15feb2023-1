@@ -813,7 +813,7 @@
                 <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.info">
                   <!-- {{item.title}} -->
                   <div class="col-12" *ngIf="item.type == 'text'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
                       <p [innerHTML]="item.data"></p>
                     </div>
@@ -851,7 +851,7 @@
                   </div>
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
@@ -874,7 +874,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
-                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
@@ -906,7 +906,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
@@ -918,7 +918,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
@@ -931,7 +931,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
@@ -948,7 +948,7 @@
               <div *ngIf="isActive('top-colleges')">
                 <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData?.topcolleges">
                   <div class="col-12" *ngIf="item.type == 'text'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
                       <p [innerHTML]="item.data"></p>
                     </div>
@@ -983,7 +983,7 @@
                   </div>
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.info"></p>
                     <h3 [innerHTML]="item.h3name"></h3>
@@ -1007,7 +1007,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
-                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                      <h3 class="size" [innerHTML]="item.h3name"></h3>
                     <p [innerHTML]="item.textBelowInfo"></p>
@@ -1040,7 +1040,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
@@ -1052,7 +1052,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
@@ -1065,7 +1065,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
@@ -1113,7 +1113,7 @@
                   <div id="quick" #quick></div>
 
                   <div *ngIf="item.type == 'api-table' && item.useOf == 'Event'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
@@ -1134,7 +1134,7 @@
                   </div>
 
                   <div *ngIf="item.type == 'api-table' && item.useOf == 'Course'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
@@ -1155,7 +1155,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'text'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
                       <p [innerHTML]="item.data"></p>
                     </div>
@@ -1190,7 +1190,7 @@
                   </div>
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
@@ -1213,7 +1213,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
-                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
@@ -1245,7 +1245,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
@@ -1257,7 +1257,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
@@ -1270,7 +1270,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
@@ -1288,7 +1288,7 @@
                 <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.careeroptions">
                   <!-- {{item.title}} -->
                   <div class="col-12" *ngIf="item.type == 'text'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
                       <p [innerHTML]="item.data"></p>
                     </div>
@@ -1323,7 +1323,7 @@
                   </div>
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
@@ -1345,7 +1345,7 @@
                     <p [innerHTML]="item.heading"></p>
                   </div>
                   <div class="col-12" *ngIf="item.type == 'table-title'">
-                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
@@ -1378,7 +1378,7 @@
 
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
@@ -1390,7 +1390,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
@@ -1403,7 +1403,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
@@ -1422,7 +1422,7 @@
                 <div id="faq" class="row row-without-gutter relative-row" *ngFor="let item of collegeData.faq">
                   <!-- {{item.type}} -->
                   <div *ngIf="item.type == 'text'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
                       <p [innerHTML]="item.data"></p>
                     </div>
@@ -1456,7 +1456,7 @@
                   </div>
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
@@ -1478,7 +1478,7 @@
                     <p [innerHTML]="item.heading"></p>
                   </div>
                   <div class="col-12" *ngIf="item.type == 'table-title'">
-                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
@@ -1510,7 +1510,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
@@ -1522,7 +1522,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
@@ -1535,7 +1535,7 @@
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
-                    <h2 [innerHTML]="item.title"></h2>
+                    <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
