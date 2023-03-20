@@ -5,6 +5,7 @@ export const mbbsabroad = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '5 to 6 years (Including internship)',
     "url":"mbbs-abroad",
     "info": [
         {

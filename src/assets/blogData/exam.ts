@@ -273,7 +273,7 @@ export default[ {
     ]
 },*/
 {
-    title: "NEET Exam 2023 Date Update (7th September)",
+    title: "NEET Exam 2023 Date Update (7th May)",
     date: '12-07-2021',
     postedBy:"Vivek Wagh",
     Categories:'Exam',
@@ -282,7 +282,7 @@ export default[ {
     data: [
         {
             type: 'title',
-            title: 'NEET Exam 2023 Date Update (7th September)'
+            title: 'NEET Exam 2023 Date Update (7th May)'
         },
         {
             type: 'text',
@@ -1210,13 +1210,13 @@ export default[ {
         {
             type:"meta",
             meta: [
-              { name: "title", content: "NEET Exam 2023 Date Update (7th September)" },
-              { name: "description", content: "Check out the new updated date of the NEET exam 2021 by the National Testing Agency. The National Eligibility Cum Entrance Test (NEET) will be held in September." },
+              { name: "title", content: "NEET Exam 2023 Date Update (7th May)" },
+              { name: "description", content: "Check out the new updated date of the NEET exam 2023 by the National Testing Agency. The National Eligibility Cum Entrance Test (NEET) will be held in May." },
             ],
             },
             {
             type:"meta-title",
-            title: "NEET Exam 2023 Date Update (7th September)"},
+            title: "NEET Exam 2023 Date Update (7th May)"},
             {
             type:"meta-links",
             link: [

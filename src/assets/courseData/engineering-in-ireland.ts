@@ -5,6 +5,7 @@ export const engineeringinireland= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '2 - 4 Years',
     "url":"engineering-in-ireland",
     "info": [
         {

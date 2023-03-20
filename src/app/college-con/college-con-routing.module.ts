@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { CollegeConComponent } from './college-con.component';
 
 
+
 const routes: Routes = [
   {
     path: 'MIT/.',

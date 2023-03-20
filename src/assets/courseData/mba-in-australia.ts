@@ -5,12 +5,12 @@ export const mbainaustralia = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '1 or 2 Years',
     "url": "mba-in-australia",
     "info": [
         {
             type: 'title',
-            title: 'Mba in australia'
-        },
+            title: 'MBA in australia' },
         {
             "type": "text",
             "title": "",

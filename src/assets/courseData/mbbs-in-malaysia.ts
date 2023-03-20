@@ -5,6 +5,7 @@ export const mbbsinmalaysia = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 - 6 Years",
     "url": "mbbs-in-malaysia",
     "info": [
         {

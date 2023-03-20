@@ -5,6 +5,7 @@ export const mbbsincanada= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 Years",
     "url":"mbbs-in-canada",
     "info": [
         {

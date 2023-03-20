@@ -5,6 +5,7 @@ export const mbbs= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5.5 + 1 Year Internship",
     "url":"mbbs",
     "info": [
         {

@@ -870,6 +870,7 @@
                         </tr>
                       </tbody>
                     </table>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
@@ -912,6 +913,7 @@
                         <p [innerHTML]="Listitem"></p>
                       </li>
                     </ul>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
@@ -924,6 +926,7 @@
                         <p [innerHTML]="numbetList"></p>
                       </li>
                     </ol>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
@@ -981,7 +984,8 @@
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
-                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <p [innerHTML]="item.info"></p>
+                    <h3 [innerHTML]="item.h3name"></h3>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
                         <tr>
@@ -1004,6 +1008,7 @@
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
+                     <h3 class="size" [innerHTML]="item.h3name"></h3>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -1042,6 +1047,7 @@
                         <p [innerHTML]="Listitem"></p>
                       </li>
                     </ul>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
@@ -1054,6 +1060,7 @@
                         <p [innerHTML]="numbetList"></p>
                       </li>
                     </ol>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
@@ -1245,6 +1252,7 @@
                         <p [innerHTML]="Listitem"></p>
                       </li>
                     </ul>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
@@ -1257,6 +1265,7 @@
                         <p [innerHTML]="numbetList"></p>
                       </li>
                     </ol>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
@@ -1375,6 +1384,7 @@
                         <p [innerHTML]="Listitem"></p>
                       </li>
                     </ul>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
@@ -1387,6 +1397,7 @@
                         <p [innerHTML]="numbetList"></p>
                       </li>
                     </ol>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">

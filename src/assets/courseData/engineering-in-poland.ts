@@ -5,6 +5,7 @@ export const engineeringinpoland = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '4 Years',
     "url": "engineering-in-poland",
     "info": [
         {

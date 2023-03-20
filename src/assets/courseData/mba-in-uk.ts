@@ -5,6 +5,7 @@ export const mbainuk = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
+    "Duration": '1 to 2 Years',
     "url": "mba-in-uk",
     "info": [
         {

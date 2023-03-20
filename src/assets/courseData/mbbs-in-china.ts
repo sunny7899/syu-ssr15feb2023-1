@@ -5,6 +5,7 @@ export const mbbsinchina = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"6 Years with internship",
     "url": "mbbs-in-china",
     "info": [
         {

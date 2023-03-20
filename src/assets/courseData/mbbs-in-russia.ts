@@ -5,6 +5,7 @@ export const mbbsinrussia= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"7 Years (Including Internship)",
     "url":"mbbs-in-russia",
         "info": [
             {

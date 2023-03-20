@@ -5,6 +5,7 @@ export const mbbsinczechrepublic = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"6 Years",
     "url": "mbbs-in-czech-republic",
     "info": [
         {

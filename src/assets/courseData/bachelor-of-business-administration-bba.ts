@@ -6,6 +6,7 @@ export const bachelorofbusinessadministrationbba = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '3 Years',
     url: "bachelor-of-business-administration-bba",
     info: [
         {

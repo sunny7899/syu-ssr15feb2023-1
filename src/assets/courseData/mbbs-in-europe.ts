@@ -5,6 +5,7 @@ export const mbbsineurope = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"6 Years",
     "url": "mbbs-in-europe",
     "info": [
         {

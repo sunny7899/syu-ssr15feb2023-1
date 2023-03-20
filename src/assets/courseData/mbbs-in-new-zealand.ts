@@ -5,6 +5,7 @@ export const mbbsinnewzealand = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"6 Years",
     "url": "mbbs-in-new-zealand",
     "info": [
         {
