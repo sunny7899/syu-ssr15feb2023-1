@@ -5,6 +5,7 @@ export const masterofbusinessadministrationmba = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
+    "Duration": '1 or 2 Years',
     "url": "master-of-business-administration-mba",
     "info": [
         {

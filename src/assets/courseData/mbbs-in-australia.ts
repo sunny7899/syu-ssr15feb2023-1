@@ -5,6 +5,7 @@ export const mbbsinaustralia = {
   "type": "",
   "rating": "",
   "shareLink": "",
+  "Duration": '6 Years (including internship)',
   "url": "mbbs-in-australia",
   "info": [
     {

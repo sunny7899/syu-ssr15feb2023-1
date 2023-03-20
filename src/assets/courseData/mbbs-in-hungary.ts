@@ -5,6 +5,7 @@ export const mbbsinhungary= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"6 Years with internship",
     "url":"mbbs-in-hungary",
     "info": [
         {

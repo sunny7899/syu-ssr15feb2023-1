@@ -5,6 +5,7 @@ export const mbbsinlatvia = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 Years",
     "url": "mbbs-in-latvia",
     "info": [
         {

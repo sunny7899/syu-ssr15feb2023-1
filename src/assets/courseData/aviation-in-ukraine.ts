@@ -5,7 +5,7 @@ export const aviationinukraine = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "Duration": '4Years',
+    "Duration": '1 to 4 Years',
     "url": 'aviation-in-ukraine/.',
     "info": [
         {

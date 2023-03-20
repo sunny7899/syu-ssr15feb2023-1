@@ -5,6 +5,7 @@ export const mbaingermany = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '1 or 2 Years',
     "url": "mba-in-germany",
     "info": [
         {

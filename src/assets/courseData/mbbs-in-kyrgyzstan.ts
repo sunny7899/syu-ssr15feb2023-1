@@ -5,6 +5,7 @@ export const mbbsinkyrgyzstan = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
+    "Duration":"6 Years (including internship)",
     "url": "mbbs-in-kyrgyzstan",
     "info": [
         {

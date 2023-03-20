@@ -5,6 +5,7 @@ export const engineeringingermany = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '2 - 4 Years',
     "url": "engineering-in-germany",
     "info": [
         {

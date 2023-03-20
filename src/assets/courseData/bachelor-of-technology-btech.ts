@@ -1,10 +1,11 @@
 export const bacheloroftechnologybtech = {
     "Title": "Engineering in India (B.tech)",
-    "shortTitle": " Engineering in India (B.tech)",
+    "shortTitle": "Engineering in India (B.tech)",
     "location": " ",
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '4 Years',
     "url": "bachelor-of-technology-btech",
     "info": [
         {

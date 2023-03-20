@@ -5,6 +5,7 @@ export const masterofcomputerapplicationmca = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
+    "Duration": '3 Years',
     "url": "master-of-computer-application-mca",
     "info": [
         {

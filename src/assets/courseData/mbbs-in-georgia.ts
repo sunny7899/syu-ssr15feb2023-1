@@ -5,6 +5,7 @@ export const mbbsingeorgia= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 + 1 Year Internship",
     "url":"mbbs-in-georgia",
         "info": [
             {
@@ -26,12 +27,13 @@ export const mbbsingeorgia= {
                      ["Basic Eligibility Criteria","50% in PCB for General at 10+2 Science<br>40% for SC/ ST or reserve categories"],
                      ["NEET Exam","Required, it is compulsory with qualifying marks"],
                      ["Course Duration","5 + 1 year Internship"],
-                     ["NMC Approved Medical Universities","40,00,000 INR"],
+                     ["NMC Approved Medical Universities","25"],
                      ["IELTS and TOEFL","Yes, Required"],
                      ["Minimum Tuition Fee","Rs.2.52 Lacs/Year"],
                      ["Maximum Tuition Fee","Rs.5 Lacs/Year"],
                      ["Medium of Teaching","English Language"],
                      ["Top Medical Universities","Batumi Shota Rustaveli State University,<br>Ivane Javakhishvili Tbilisi State University"],
+                     ["Medium of Education","English Language"],
                      ["Living Expenses in Georgia","Rs.12-15 Thousand / Month"],
                      ["Recognition of Universities","NMC, WHO, WFME & many more"]
                     ]
@@ -48,6 +50,7 @@ export const mbbsingeorgia= {
                 "The universities in Georgia are well equipped with great technology and infrastructure.",
                 "All the medical universities in Georgia provide very good accommodation facilities to the students and they also make Indian food easily available for the students.",
                 "MBBS admission in Georgia is actually a very affordable option for Indian students as there are many universities which offer low cost MBBS in Georgia.",
+                "Georgia is an absolutely safe country. Students can easily travel in public transport like buses, trains etc. without any problems.",
                 "Outstanding international faculties.",
                 "Approximately, 50% discount on transportation for international students."
             ]
@@ -71,7 +74,7 @@ export const mbbsingeorgia= {
             data: [
                 "<b><u>Step 1</u>:</b>  Along with the required documents, students are required to fill the online application form.",
                 "<b><u>Step 2</u>:</b>  As soon as university receives the application form, it issues an offer letter. Students can deposit the fees in the bank account of the university.",
-                "<b><u>Step 3</u>:</b>  he Ministry of Education and Science of Georgia issues an accreditation letter to the students after 30 days, upon which a ministry order is received by the university and it issues an invitation letter to the students.",
+                "<b><u>Step 3</u>:</b>  The Ministry of Education and Science of Georgia issues an accreditation letter to the students after 30 days, upon which a ministry order is received by the university and it issues an invitation letter to the students.",
                 "<b><u>Step 4</u>:</b>  Once the above procedure is complete, it takes 30 days for visa approval.",
                 "<b><u>Step 5</u>:</b>  The process of departure gets finished, once the fees get cleared."
             ]
@@ -128,7 +131,7 @@ export const mbbsingeorgia= {
                 "Dates": "October"
             }
         ],
-        "heading":"<p><b><u>Note:</u></b> Above mentioned information is only for the reference. Information may vary as per the universities of Georgia.</p>"
+        "heading":"<p><b>Note:</b> Above mentioned information is only for the reference. Information may vary as per the universities of Georgia.</p>"
     },
     
     {
@@ -144,7 +147,7 @@ export const mbbsingeorgia= {
         type: 'text',
         title: 'MBBS in Georgia - Is it Safe for Indian Students?',
         info: '',
-        data: "<p>Studying MBBS in Georgia is much safer than any other country. According to <strong>Global Peace Index</strong>, Georgia stands on <strong>85th position</strong>, while India holds 141st rank and USA stands on 103rd position according to it.</p>"
+        data: "<p>Studying MBBS in Georgia is much safer than any other country. According to <strong>Global Peace Index</strong>, Georgia stands on <strong>85th position</strong>, while India holds 141th rank and USA stands on 103rd position according to it.</p>"
     },
           {
             "type": "table",
@@ -243,7 +246,7 @@ export const mbbsingeorgia= {
         "row": [
                  ["Religion","Christianity"],
                  ["Currency","Georgian Lari (GEL)"],
-                 ["Exchange Rate (as of December 2021)","1GEL= 25 INR approx"],
+                 ["Exchange Rate (as of December 2021)","1GEL= 31 INR approx"],
                  ["Population","38 lakh"],
                  ["Language","Georgian"],
                  ["Climate","Winter minimum temp. 1-degree Celcius<br>Summer maximum temp. 33 degrees Celcius"],
@@ -477,7 +480,7 @@ export const mbbsingeorgia= {
         "topcolleges":[
             {
                 "type": "table",
-                "title": "Total Cost of MBBS in Georgia 2022",
+                "title": "Total Cost of MBBS in Georgia 2023",
                 "info": "Over 2000 Indian students take admission to MBBS in Georgia every year. The low fee structure is one of the main reasons behind it. Take a look at the low fee structured medical universities of Georgia:",
                 "col": [
                   "Name of the Universities",
@@ -486,107 +489,107 @@ export const mbbsingeorgia= {
                 ],
                 "row": [
                   {
-                    "Name of the Universities":"<b>University of Georgia</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/university-of-georgia-tbilisi/ target=_blank><b>University of Georgia</b></a>",
                     "Tuition Fees/Year":"Rs. 4,26,000",
                     "Hostel Fees/Year":"Rs. 1,77,500"
                   },
                   {
-                    "Name of the Universities":"<b>Batumi Shota Rustaveli State University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/batumi-shota-rustaveli-state-university/ target=_blank><b>Batumi Shota Rustaveli State University</b></a>",
                     "Tuition Fees/Year":"Rs. 4,20,000",
                     "Hostel Fees/Year":"Rs. 2,10,000"
                   },
                   {
-                    "Name of the Universities":"<b>New Vision University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/new-vision-university/ target=_blank><b>New Vision University</b></a>",
                     "Tuition Fees/Year":"Rs. 4,90,000",
                     "Hostel Fees/Year":"Rs. 2,00,000"
                   },
                   {
-                    "Name of the Universities":"<b>Akaki Tsereteli State University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/akaki-tsereteli-state-university/ target=_blank><b>Akaki Tsereteli State University</b></a>",
                     "Tuition Fees/Year":"Rs. 4,30,000",
                     "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
-                    "Name of the Universities":"<b>Georgian National University SEU</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/georgian-national-university-seu/ target=_blank><b>Georgian National University SEU</b></a>",
                     "Tuition Fees/Year":"Rs. 1,05,000",
                     "Hostel Fees/Year":"Rs. 70,000"
                   },
                   {
-                    "Name of the Universities":"<b>Tbilisi State Medical University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/tbilisi-state-medical-university/ target=_blank><b>Tbilisi State Medical University</b></a>",
                     "Tuition Fees/Year":"Rs. 5,94,000",
                     "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
-                    "Name of the Universities":"<b>Ilia State University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/ilia-state-university/ target=_blank><b>Ilia State University</b></a>",
                     "Tuition Fees/Year":"Rs. 3,76,000",
                     "Hostel Fees/Year":"Rs. 2,13,000"
                   },
                   {
-                    "Name of the Universities":"<b>Georgian American University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/georgian-american-university/ target=_blank><b>Georgian American University</b></a>",
                     "Tuition Fees/Year":"Rs. 3,19,200",
                     "Hostel Fees/Year":"Rs. 70,000"
                   },
                   {
-                    "Name of the Universities":"<b>David Tvildiani Medical University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/david-tvildiani-medical-university/ target=_blank><b>David Tvildiani Medical University</b></a>",
                     "Tuition Fees/Year":"Rs. 7,34,000",
                     "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
-                    "Name of the Universities":"<b>European University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/european-university-georgia/ target=_blank><b>European University</b></a>",
                     "Tuition Fees/Year":"Rs. 3,50,000",
                     "Hostel Fees/Year":"Rs. 70,000"
                   },
                   {
-                    "Name of the Universities":"<b>Ivane Javakhishvili Tbilisi State University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/ivane-javakhishvili-tbilisi-state-university/ target=_blank><b>Ivane Javakhishvili Tbilisi State University</b></a>",
                     "Tuition Fees/Year":"Rs. 2,80,000",
                     "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
-                    "Name of the Universities":"<b>LLC Caucasus International University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/caucasus-international-university/ target=_blank><b>LLC Caucasus International University</b></a>",
                     "Tuition Fees/Year":"Rs. 3,94,000",
                     "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
-                    "Name of the Universities":"<b>Geomedi Medical University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/geomedi-state-university/ target=_blank><b>Geomedi Medical University</b></a>",
                     "Tuition Fees/Year":"Rs. 2,40,000",
                     "Hostel Fees/Year":"Rs. 40,000"
                   },
                   {
-                    "Name of the Universities":"<b>East European University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/east-european-university/ target=_blank><b>East European University</b></a>",
                     "Tuition Fees/Year":"Rs. 3,50,000",
                     "Hostel Fees/Year":"Rs. 1,75,000"
                   },
                   {
-                    "Name of the Universities":"<b>David Agmashenebeli University of Georgia</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/david-agmashenebeli-university-of-georgia/ target=_blank><b>David Agmashenebeli University of Georgia</b></a>",
                     "Tuition Fees/Year":"Rs. 2,87,000",
                     "Hostel Fees/Year":"Rs. 35,000"
                   },
                   {
-                    "Name of the Universities":"<b>BAU International University, Batumi</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/bau-international-university-batumi/ target=_blank><b>BAU International University, Batumi</b></a>",
                     "Tuition Fees/Year":"Rs. 4,55,000",
                     "Hostel Fees/Year":"Rs. 35,000"
                   },
                   {
-                    "Name of the Universities":"<b>Grigol Robakidze University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/grigol-robakidze-university/ target=_blank><b>Grigol Robakidze University</b></a>",
                     "Tuition Fees/Year":"Rs. 3,15,000",
                     "Hostel Fees/Year":"Rs. 2,10,000"
                   },
                   {
-                    "Name of the Universities":"<b>Tbilisi Open Teaching University</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/tbilisi-open-teaching-university/ target=_blank><b>Tbilisi Open Teaching University</b></a>",
                     "Tuition Fees/Year":"Rs. 3,15,000",
                     "Hostel Fees/Year":"Rs. 1,75,000"
                   },
                   {
-                    "Name of the Universities":"<b>Tbilisi Medical University ‘Hippocrates’</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/tbilisi-medical-university-hippocrates// target=_blank><b>Tbilisi Medical University ‘Hippocrates’</b></a>",
                     "Tuition Fees/Year":"Rs. 5,00,833",
                     "Hostel Fees/Year":"Rs. 1,75,000"
                   },
                   {
-                    "Name of the Universities":"<b>Petre Shotadze Tbilisi Medical Academy</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/petre-shotadze-tbilisi-medical-academy/ target=_blank><b>Petre Shotadze Tbilisi Medical Academy</b></a>",
                     "Tuition Fees/Year":"Rs. 4,20,000",
                     "Hostel Fees/Year":"Rs. 35,000"
                   },
                   {
-                    "Name of the Universities":"<b>Tbilisi Public University 'Metekhi'</b>",
+                    "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/tbilisi-public-university-metekhi/ target=_blank><b>Tbilisi Public University 'Metekhi'</b></a>",
                     "Tuition Fees/Year":"Rs. 4,55,000",
                     "Hostel Fees/Year":"Rs. 84,000"
                   }
@@ -596,168 +599,169 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "Top Medical Universities in Georgia (NMC Recognized)",
-                "info": "<p>Take a look at the highlights of the top-ranked NMC approved medical universities of Georgia. More than 5000 Indian students are already studying their MBBS courses here:</p><h4>1. MBBS at University of Georgia, Georgia</h4>",
+                "info": "<p>Take a look at the highlights of the top-ranked NMC approved medical universities of Georgia. More than 5000 Indian students are already studying their MBBS courses here:</p>",
+                "h3name":"<h3>1. MBBS at University of Georgia, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "50% in PCB"],
                     ["<b>Medium</b>", "English and Georgian"],
-                    ["<b>Ranking</b>", "Country Rank - 4<br>World Rank - 4630"],
+                    ["<b>Ranking</b>", "Country Rank - 3<br>World Rank - 4083"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>2. MBBS at Batumi Shota Rustaveli State University, Georgia</h4>",
+                "info": "<h3>2. MBBS at Batumi Shota Rustaveli State University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Batumi"],
                     ["<b>Eligibility</b>", "English"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 6<br>World Rank - 6728"],
+                    ["<b>Ranking</b>", "Country Rank - 11<br>World Rank - 7448"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>3. MBBS at New Vision University, Georgia</h4>",
+                "info": "<h3>3. MBBS at New Vision University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 24<br>World Rank - 9700"],
+                    ["<b>Ranking</b>", "Country Rank - 24<br>World Rank - 9748"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>4. MBBS at Akaki Tsereteli State University, Georgia</h4>",
+                "info": "<h3>4. MBBS at Akaki Tsereteli State University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 11<br>World Rank - 7734"],
+                    ["<b>Ranking</b>", "Country Rank - 9<br>World Rank - 6791"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>5. MBBS at Ilia State University, Georgia</h4>",
+                "info": "<h3>5. MBBS at Ilia State University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 2<br>World Rank - 3424"],
+                    ["<b>Ranking</b>", "Country Rank - 2<br>World Rank - 3139"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>6. MBBS at University of Georgia, Georgia</h4>",
+                "info": "<h3>6. MBBS at University of Georgia, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 32<br>World Rank - 10378"],
+                    ["<b>Ranking</b>", "Country Rank - 13<br>World Rank - 8911"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>7. MBBS at European University, Georgia</h4>",
+                "info": "<h3>7. MBBS at European University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 26<br>World Rank - 10170"],
+                    ["<b>Ranking</b>", "Country Rank - 26<br>World Rank - 9958"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>8. MBBS at Ivane Javakhishvili Tbilisi State University, Georgia</h4>",
+                "info": "<h3>8. MBBS at Ivane Javakhishvili Tbilisi State University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 1<br>World Rank - 3128"],
+                    ["<b>Ranking</b>", "Country Rank - 1<br>World Rank - 1984"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>9. MBBS at Caucasus International University, Georgia</h4>",
+                "info": "<h3>9. MBBS at Caucasus International University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 20<br>World Rank - 9394"],
+                    ["<b>Ranking</b>", "Country Rank - 22<br>World Rank - 9623"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>10. MBBS at Tbilisi State Medical University, Georgia</h4>",
+                "info": "<h3>10. MBBS at Tbilisi State Medical University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 9<br>World Rank - 7562"],
+                    ["<b>Ranking</b>", "Country Rank - 8<br>World Rank - 6621"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>11. MBBS at Geomedi Medical University, Georgia</h4>",
+                "info": "<h3>11. MBBS at Geomedi Medical University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 29<br>World Rank - 10310"],
+                    ["<b>Ranking</b>", "Country Rank - 11<br>World Rank - 11551"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h4>12. MBBS at East European University, Georgia</h4>",
+                "info": "<h3>12. MBBS at East European University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
                     ["<b>Location</b>", "Tbilisi"],
                     ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
                     ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 39<br>World Rank - 10792"],
+                    ["<b>Ranking</b>", "Country Rank - 31<br>World Rank - 10695"],
                     ["<b>Deadline</b>", "October"]
                 ],
             },
@@ -831,7 +835,7 @@ export const mbbsingeorgia= {
                 },
                 {
                     "ques": "Q. When does the MBBS course Start in Georgia?",
-                    "ans": "The Georgian medical universities offer the intake for the MBBS course in October. The admission process starts in August-Septembe"
+                    "ans": "The Georgian medical universities offer the intake for the MBBS course in October. The admission process starts in August-September."
                 },
                 {
                     "ques": "Q. Is an MBBS degree from the Georgia valid in India?",

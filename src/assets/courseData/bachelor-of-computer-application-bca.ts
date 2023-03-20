@@ -5,6 +5,7 @@ export const bachelorofcomputerapplicationbca= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '3 Years',
     "url":"bachelor-of-computer-application-bca",
         "info": [
 

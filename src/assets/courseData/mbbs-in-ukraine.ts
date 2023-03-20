@@ -5,6 +5,7 @@ export const mbbsinukraine = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5+1 Year Internship",
     "url": "mbbs-in-ukraine",
     "info": [
         {

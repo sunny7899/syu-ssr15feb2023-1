@@ -5,6 +5,7 @@ export const mbbsinusa = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
+    "Duration":"4.5 + 1 Year Internship",
     "url": "mbbs-in-usa",
     "info": [
         {

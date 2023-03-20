@@ -5,6 +5,7 @@ export const mbbsinuzbekistan= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"6 Years (Including Internship)",
     "url":"mbbs-in-uzbekistan",
         "info": [
             {

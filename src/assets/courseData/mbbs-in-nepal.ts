@@ -5,6 +5,7 @@ export const mbbsinnepal= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5.5 Years (including 1 year of Internship)",
     "url":"mbbs-in-nepal",
         "info": [
             {

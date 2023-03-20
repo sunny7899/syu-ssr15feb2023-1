@@ -4,6 +4,7 @@ export const mbainmalta = {
     "location": " ",
     "type": "bb",
     "rating": "vv",
+    "Duration": '2 to 2.5 Years',
     "shareLink": "www.google.com",
     "url": "mba-in-malta",
     "info": [
