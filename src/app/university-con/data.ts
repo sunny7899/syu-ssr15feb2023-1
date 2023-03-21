@@ -1,5 +1,6 @@
 //import * as amityglobalbusinessschool from '../../assets/universityData/amity-global-business-school'
 //import * as amityinstituteofinformationtechnologymumbai from '../../assets/universityData/amity-institute-of-information-technology'
+import * as alteuniversitygeorgia from '../../assets/universityData/alte-university-georgia'
 import * as siberianstatemedicaluniversity from '../../assets/universityData/siberian-state-medical-university'
 import * as saintpetersburgstateinstituteoftechnology from '../../assets/universityData/saint-petersburg-state-institute-of-technology'
 import * as nationalmetallurgicalacademyofukraine from '../../assets/universityData/national-metallurgical-academy-of-ukraine'
@@ -410,6 +411,7 @@ export {
     
     //amityglobalbusinessschool,
     //amityinstituteofinformationtechnologymumbai,
+    alteuniversitygeorgia,
     universityoftrento,
     ismuniversityofmanagementandeconomics,
     allindiainstituteofmedicalsciencesaiimsnewdelhi,
