@@ -303,6 +303,10 @@ export const puneinstituteofcomputertechnologypictpune = {
         }
     ],
     "coursesandfees": [
+        {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT), Pune"
+        },
 
         {
             "type": "table",

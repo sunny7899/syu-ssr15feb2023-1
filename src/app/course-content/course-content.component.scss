@@ -1,3 +1,4 @@
+
 .course-content-banner {
     height: 45vh;
     box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
@@ -24,8 +25,12 @@
 }
 
 #titles {
-    padding-top: 5px;
+    padding-top: 1vh;
 }
+
+// #title{
+//     padding-top: 10vh;
+// }
 
 
 .course-content-page-header {
@@ -52,6 +57,12 @@
     padding: 5px 16px;
     margin-top: 20px;
     margin-right: 20px;
+    margin-left: 20px;
+    font-size: 100%;
+}
+#duration{
+    margin-left: 20px;
+    margin-right: 17px;
 }
 
 .btn-white-nav {
@@ -72,7 +83,7 @@
 .talk-to-expert {
     margin-top: 10px;
     margin-bottom: 10px;
-    // margin-left: 15px;
+    margin-left: 15px;
     margin-right: 15px;
     border-radius: 10px;
     padding: 1%;
@@ -83,7 +94,8 @@
     margin-bottom: 10px;
     // margin-left: 15px;
     border-radius: 10px;
-    padding: 15px;
+    padding: 0px;
+    padding-bottom: 0px;
 }
 
 .table-of-content {
@@ -129,7 +141,7 @@
 }
 
 .talk-to-expert .card-body img {
-    width: 60% !important
+    width: 40%
 }
 
 .other-courses .card-body p {
@@ -544,13 +556,15 @@
     margin-top: 10px;
 }
 
-.college-content-div {
+.course-content-div {
     //margin-top: 10px;
     // margin-left: 15px;
     // margin-right: 15px; 
     border-radius: 10px;
-    padding: 1%;
+    padding:0%;
     padding-bottom: 0px;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 #college-content-tab {
@@ -809,7 +823,7 @@
         margin-left: 5%
     }
 
-    .college-content-div {
+    .course-content-div {
         margin-right: 0px;
         margin-left: 0px;
         padding: 0;
@@ -953,7 +967,7 @@
         width: 70%
     }
 
-    .college-content-div {
+    .course-content-div {
         margin-left: 0px !important;
         margin-right: 0px;
     }
@@ -1297,7 +1311,6 @@ nav ul li {
     font-size: 16px;
     padding-top: 15%;
 }
-
 /* .faq-page-breadcrumb a.service-link{
  width:15%; 
 }  */
@@ -1362,6 +1375,25 @@ nav ul li {
     .faq-page-breadcrumb a.arrow {
         width: 10%;
     }
+
+    #titles{
+        padding-top: 4px;
+    }
+    #title{
+        font-size: 220%;
+    }
+
+    .course-content-div{
+        margin-right: 0;
+        margin-left: 0;
+        padding-top: 10px;
+    }
+}
+
+@media only screen and (max-width:350px){
+     #talk{
+        width: 110%;
+     }
 }
 
 @media only screen and (max-width:1024px) and (min-width:768px) {
@@ -1411,7 +1443,7 @@ nav ul li {
     z-index: 11;
     height: auto;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .stickyDiv {
