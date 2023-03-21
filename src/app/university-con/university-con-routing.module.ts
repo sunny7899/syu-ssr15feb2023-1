@@ -93,31 +93,31 @@ const routes: Routes = [
     component: UniversityConComponent
   },
   {
-    path: 'alte-university-georgia',
+    path: 'alte-university-georgia/.',
     component: UniversityConComponent
   },
   {
-    path: 'alte-university-georgia/courses-and-fees',
+    path: 'alte-university-georgia/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'alte-university-georgia/admission',
+    path: 'alte-university-georgia/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'alte-university-georgia/review',
+    path: 'alte-university-georgia/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'alte-university-georgia/placement',
+    path: 'alte-university-georgia/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'alte-university-georgia/gallery',
+    path: 'alte-university-georgia/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'alte-university-georgia/scholarship',
+    path: 'alte-university-georgia/scholarship/.',
     component: UniversityConComponent
   },
   {

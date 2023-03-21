@@ -673,8 +673,8 @@
                                 <div class="text-center">
                                     <img src="{{ image.blogimg }}" class="pt-3 mx-auto d-block" />
                                     <div class="img-text">
-                                        <h6 [innerHtml]="image.title"></h6>
-                                        <p class="light-blue-text">Explore More</p>
+                                        <a [routerLink]="['/blog/'+image.url]"><h6 [innerHtml]="image.title"></h6>
+                                        <p class="light-blue-text">Explore More</p></a>
                                     </div>
                                 </div>
                             </div>
