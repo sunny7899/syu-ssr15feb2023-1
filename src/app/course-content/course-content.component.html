@@ -815,6 +815,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                      <p [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -952,6 +953,7 @@
                 <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData?.topcolleges">
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                    <p [innerHTML]="item.info"></p>
                     <h3 [innerHTML]="item.subtitle"></h3>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
                       <p [innerHTML]="item.data"></p>
@@ -1164,6 +1166,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                      <p [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -1300,6 +1303,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                      <p [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -1437,6 +1441,7 @@
                   <div *ngIf="item.type == 'text'">
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                      <p [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 

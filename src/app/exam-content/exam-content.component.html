@@ -135,6 +135,7 @@
                     class="tab-text"
                     [ngClass]="{ limitTextHeight: isReadMore }"
                   >
+                  <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.data"></p>
                   </div>
 
@@ -295,6 +296,7 @@
                     class="tab-text"
                     [ngClass]="{ limitTextHeight: isReadMore }"
                   >
+                  <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.data"></p>
                   </div>
 
@@ -522,6 +524,7 @@
               <div class="col-12" *ngIf="item.type == 'text'">
                   <h2 [innerHTML]="item.title"></h2>
                   <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                    <p [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                   </div>
 
@@ -655,6 +658,7 @@
               <div class="col-12" *ngIf="item.type == 'text'">
                   <h2 [innerHTML]="item.title"></h2>
                   <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                    <p [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                   </div>
 
@@ -788,6 +792,7 @@
               <div *ngIf="item.type == 'text'">
                   <h2 [innerHTML]="item.title"></h2>
                   <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                    <p [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                   </div>
 

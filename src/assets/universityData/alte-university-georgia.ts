@@ -65,7 +65,7 @@ export const alteuniversitygeorgia = {
             "title": "Alte University International Medical School Ranking 2023",
             "info": "<b>Before applying for this university you should check ranking -</b>",
             "col": [
-                "World	",
+                "World",
                 "Country",
             ],
 
@@ -580,32 +580,32 @@ export const alteuniversitygeorgia = {
             "image": [
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-av-room.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-av-room.jpg",
                     "alt": "Image 1"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-auditorium.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-auditorium.jpg",
                     "alt": "Image 1"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-waiting-room.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-waiting-room.jpg",
                     "alt": "Image 1"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-function.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-function.jpg",
                     "alt": "Image 1"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-conference.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-conference.jpg",
                     "alt": "Image 1"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university.jpg",
                     "alt": "Image 1"
                 },
             ],
@@ -744,7 +744,7 @@ export const alteuniversitygeorgia = {
             type: "meta",
             meta: [
                 { name: "title", content: "Alte University, Georgia - News" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+                { name: "description", content: "Get all the alerts and notifications about studying abroad and getting your MBBS degree from Georgia's one of the top universities Alte University. Click here." },
             ],
         },
         {

@@ -107,6 +107,7 @@
                       class="tab-text"
                       [ngClass]="{ limitTextHeight: isReadMore }"
                     >
+                    <p [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
