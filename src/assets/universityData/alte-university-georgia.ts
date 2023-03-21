@@ -38,7 +38,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Why Choose Alte State Medical University?",
-            "info": "<b>Interested candidates can quickly go through positives of the University</b>",
+            "info": "<b>Interested candidates can quickly go through positives of the University:</b>",
             "img": '',
             "data": [
                 "High-quality academic facilities, a library, and other amenities are available at the university.",
@@ -63,7 +63,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "table",
             "title": "Alte University International Medical School Ranking 2023",
-            "info": "<b>Before applying for this university you should check ranking -</b>",
+            "info": "<b>Before applying for this university you should check ranking:</b>",
             "col": [
                 "World",
                 "Country",
@@ -71,8 +71,8 @@ export const alteuniversitygeorgia = {
 
             "row": [
                 {
-                    "World": "2",
-                    "Country": "260",
+                    "World": "260",
+                    "Country": "2",
                 },
 
             ]
@@ -138,7 +138,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Facilities at Alte University",
-            "info": "<b>Following mentioned are the some of the notable facilities provided by the university -</b>",
+            "info": "<b>Following mentioned are the some of the notable facilities provided by the university:</b>",
             "img": '',
             "data": [
                 "Sports facilities",
@@ -216,7 +216,7 @@ export const alteuniversitygeorgia = {
             
             "type": "table",
             "title": "Syllabus at Alte University School of Medicine",
-            "info": "The following is the full course schedule for the MBBS program at Alte State Medical University:",
+            "info": "<b>The following is the full course schedule for the MBBS program at Alte State Medical University:</b>",
             "col": [
                 "1st Year",
                 "2nd Year",
@@ -381,7 +381,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Duration of MBBS Course at Alte University",
-            "info": "<b>The Alte University School of Medicine's MBBS curriculum lasts six years. Have look on the detailed curriculum of the course -</b>",
+            "info": "<b>The Alte University School of Medicine's MBBS curriculum lasts six years. Have look on the detailed curriculum of the course:</b>",
             "data": [
                 "The MBBS curriculum at the Alte University lasts 5 years plus 1 year for Indian students.",
                 "Also, it outlines the clinical rotation and internship required to work as a doctor anywhere in the world, including Georgia. Students will study every theory and do laboratory experiments over the period of five years. The entire MBBS program's length complies with all current NMC rules.",
@@ -501,23 +501,16 @@ export const alteuniversitygeorgia = {
             title: 'Alte University, Georgia - Reviews'
         },
         {
-            "type": "text",
-            "title": "",
-            "info": "<b>Neha Patel</b>",
-            "data": "<p>I'm really enjoying my time at Alte University. The professors are knowledgeable and supportive, and the campus has a great community feel to it. I've learned a lot and made some great friends along the way</p>"
+            "type": "list-bollet",
+            "title": "Reviews on Alte University",
+            "info": "<b>Here are some of the reviews by students studying at University at the moment:</b>",
+            "data": [
+                "<b>Neha Patel</b><p>I'm really enjoying my time at Alte University. The professors are knowledgeable and supportive, and the campus has a great community feel to it. I've learned a lot and made some great friends along the way</p>",
+                "<b>Arun kumar</b><p>Alte University has exceeded my expectations. The curriculum is challenging, but the professors are always there to help and provide guidance. The campus is beautiful and there are plenty of resources available to help students succeed.</p>",
+                "<b>Sneha Sharma</b><p>I highly recommend Alte University to anyone looking for a quality education. The professors are passionate about their subjects and it shows in their teaching. The campus is modern and well-maintained, and the staff is friendly and helpful. I've had a great experience here so far!</p>"
+            ]
         },
-        {
-            "type": "text",
-            "title": "",
-            "info": "<b>Arun kumar</b>",
-            "data": "<p>Alte University has exceeded my expectations. The curriculum is challenging, but the professors are always there to help and provide guidance. The campus is beautiful and there are plenty of resources available to help students succeed.</p>"
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "<b>Sneha Sharma</b>",
-            "data": "<p>I highly recommend Alte University to anyone looking for a quality education. The professors are passionate about their subjects and it shows in their teaching. The campus is modern and well-maintained, and the staff is friendly and helpful. I've had a great experience here so far!</p>"
-        },
+        
         {
             type: "meta",
             meta: [
@@ -658,7 +651,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Scholarship Provided at Alte University",
-            "info": "University provides some scholarships for the students on some conditions:",
+            "info": "<b>University provides some scholarships for the students on some conditions:</b>",
             "data": [
                 "students with exceptional academic records",
                 "Entrants from underprivileged backgrounds who perform well on national exams; University Scholars",
@@ -691,7 +684,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "table",
             "title": "Faculties at Alte University International Medical School",
-            "info": "Below is the list of faculties at Alte University :",
+            "info": "<b>Below is the list of faculties at Alte University:</b>",
             "col": [
               "Name",
               "Designation"
