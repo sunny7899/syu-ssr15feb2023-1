@@ -854,6 +854,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
                         <tr>
@@ -877,6 +878,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
                         <div class="text-center light-bg-blue">
@@ -909,6 +911,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
                         <p [innerHTML]="Listitem"></p>
@@ -921,7 +924,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1">
                       <li *ngFor="let numbetList of item.data">
                         <p [innerHTML]="numbetList"></p>
@@ -934,7 +937,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                       <p [innerHTML]="numbetList"></p>
                     </ol>
@@ -949,6 +952,7 @@
                 <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData?.topcolleges">
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
                       <p [innerHTML]="item.data"></p>
                     </div>
@@ -986,7 +990,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.info"></p>
-                    <h3 [innerHTML]="item.h3name"></h3>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
                         <tr>
@@ -1009,8 +1013,9 @@
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
-                     <h3 class="size" [innerHTML]="item.h3name"></h3>
+                     
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
                         <div class="text-center light-bg-blue">
@@ -1043,6 +1048,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
                         <p [innerHTML]="Listitem"></p>
@@ -1055,7 +1061,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1">
                       <li *ngFor="let numbetList of item.data">
                         <p [innerHTML]="numbetList"></p>
@@ -1068,7 +1074,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                       <a>{{ numbetList }}</a>
                     </ol>
@@ -1136,6 +1142,7 @@
                   <div *ngIf="item.type == 'api-table' && item.useOf == 'Course'">
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
                         <tr>
@@ -1193,6 +1200,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
                         <tr>
@@ -1216,6 +1224,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
                         <div class="text-center light-bg-blue">
@@ -1248,6 +1257,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
                         <p [innerHTML]="Listitem"></p>
@@ -1260,7 +1270,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1">
                       <li *ngFor="let numbetList of item.data">
                         <p [innerHTML]="numbetList"></p>
@@ -1273,7 +1283,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                       <a>{{ numbetList }}</a>
                     </ol>
@@ -1326,6 +1336,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
                         <tr>
@@ -1348,6 +1359,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
                         <div class="text-center light-bg-blue">
@@ -1381,6 +1393,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
                         <p [innerHTML]="Listitem"></p>
@@ -1393,7 +1406,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1">
                       <li *ngFor="let numbetList of item.data">
                         <p [innerHTML]="numbetList"></p>
@@ -1406,7 +1419,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                       <a>{{ numbetList }}</a>
                     </ol>
@@ -1459,6 +1472,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
                         <tr>
@@ -1481,6 +1495,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
                         <div class="text-center light-bg-blue">
@@ -1513,6 +1528,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
                         <p [innerHTML]="Listitem"></p>
@@ -1525,7 +1541,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1">
                       <li *ngFor="let numbetList of item.data">
                         <p [innerHTML]="numbetList"></p>
@@ -1538,7 +1554,7 @@
                     <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                     <p [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
-
+                    <h3 [innerHTML]="item.subtitle"></h3>
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                       <a>
                         <p [innerHTML]="numbetList"></p>

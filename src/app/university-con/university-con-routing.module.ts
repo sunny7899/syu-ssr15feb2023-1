@@ -93,6 +93,50 @@ const routes: Routes = [
     component: UniversityConComponent
   },
   {
+    path: 'alte-university-georgia',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/courses-and-fees',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/admission',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/review',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/placement',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/gallery',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/scholarship',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/faq/.',
+    component: UniversityConComponent
+  },
+  {
     path: 'national-metallurgical-academy-of-ukraine/.',
     component: UniversityConComponent
   },

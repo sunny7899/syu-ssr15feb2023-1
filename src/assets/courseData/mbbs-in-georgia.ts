@@ -600,7 +600,7 @@ export const mbbsingeorgia= {
                 "type": "table-title",
                 "title": "Top Medical Universities in Georgia (NMC Recognized)",
                 "info": "<p>Take a look at the highlights of the top-ranked NMC approved medical universities of Georgia. More than 5000 Indian students are already studying their MBBS courses here:</p>",
-                "h3name":"<h3>1. MBBS at University of Georgia, Georgia</h3>",
+                "subtitle":"<h3>1. MBBS at University of Georgia, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -614,7 +614,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>2. MBBS at Batumi Shota Rustaveli State University, Georgia</h3>",
+                "subtitle": "<h3>2. MBBS at Batumi Shota Rustaveli State University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -628,7 +628,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>3. MBBS at New Vision University, Georgia</h3>",
+                "subtitle": "<h3>3. MBBS at New Vision University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -642,7 +642,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>4. MBBS at Akaki Tsereteli State University, Georgia</h3>",
+                "subtitle": "<h3>4. MBBS at Akaki Tsereteli State University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -656,7 +656,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>5. MBBS at Ilia State University, Georgia</h3>",
+                "subtitle": "<h3>5. MBBS at Ilia State University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -670,7 +670,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>6. MBBS at University of Georgia, Georgia</h3>",
+                "subtitle": "<h3>6. MBBS at University of Georgia, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -684,7 +684,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>7. MBBS at European University, Georgia</h3>",
+                "subtitle": "<h3>7. MBBS at European University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -698,7 +698,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>8. MBBS at Ivane Javakhishvili Tbilisi State University, Georgia</h3>",
+                "subtitle": "<h3>8. MBBS at Ivane Javakhishvili Tbilisi State University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -712,7 +712,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>9. MBBS at Caucasus International University, Georgia</h3>",
+                "subtitle": "<h3>9. MBBS at Caucasus International University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -726,7 +726,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>10. MBBS at Tbilisi State Medical University, Georgia</h3>",
+                "subtitle": "<h3>10. MBBS at Tbilisi State Medical University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -740,7 +740,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>11. MBBS at Geomedi Medical University, Georgia</h3>",
+                "subtitle": "<h3>11. MBBS at Geomedi Medical University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -754,7 +754,7 @@ export const mbbsingeorgia= {
             {
                 "type": "table-title",
                 "title": "",
-                "info": "<h3>12. MBBS at East European University, Georgia</h3>",
+                "subtitle": "<h3>12. MBBS at East European University, Georgia</h3>",
                 "col": [
                 ],
                 "row": [
@@ -891,10 +891,5 @@ export const mbbsingeorgia= {
               { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia/faq" }
             ]}
     ],
-    "Gallery": {},
-    "Scholarship": {},
-    "Faculty": {},
-    "News & Articles": {},
-    "Hostel": {},
-
+    
 }
