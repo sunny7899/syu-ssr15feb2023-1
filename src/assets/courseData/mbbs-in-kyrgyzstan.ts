@@ -168,37 +168,37 @@ export const mbbsinkyrgyzstan = {
             ],
             "row": [
                 {
-                    "Name of the University": "Kyrgyz Russian Slavic University",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kyrgyz-russian-slavic-university/ target=_blank><b>Kyrgyz Russian Slavic University</b></a>",
                     "Tuition Fees/Year": "2900 USD",
                     "Hostel Fees/Year": "600 USD"
                 },
                 {
-                    "Name of the University": "Asian Medical Institute",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/asian-medical-institute/ target=_blank><b>Asian Medical Institute</b></a>",
                     "Tuition Fees/Year": "3620 USD",
                     "Hostel Fees/Year": "500 USD"
                 },
                 {
-                    "Name of the University": "International School of Medicine",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/international-higher-school-of-medicine/ target=_blank><b>International School of Medicine</b></a>",
                     "Tuition Fees/Year": "4500 USD",
                     "Hostel Fees/Year": "650 USD"
                 },
                 {
-                    "Name of the University": "Jalal-Abad State Medical University",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/jalalabad-state-university/ target=_blank><b>Jalal-Abad State Medical University</b></a>",
                     "Tuition Fees/Year": "2950 USD",
                     "Hostel Fees/Year": "600 USD"
                 },
                 {
-                    "Name of the University": "Kyrgyz State Medical Academy",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kyrgyz-state-medical-academy/ target=_blank><b>Kyrgyz State Medical Academy</b></a>",
                     "Tuition Fees/Year": "4500 USD",
                     "Hostel Fees/Year": "600 USD"
                 },
                 {
-                    "Name of the University": "Osh State Medical University",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/osh-state-university/ target=_blank><b>Osh State Medical University</b></a>",
                     "Tuition Fees/Year": "3200 USD",
                     "Hostel Fees/Year": "400 USD"
                 },
                 {
-                    "Name of the University": "Kyrgyz National University",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kyrgyz-national-university/ target=_blank><b>Kyrgyz National University</b></a>",
                     "Tuition Fees/Year": "3200 USD",
                     "Hostel Fees/Year": "300 USD"
                 }
@@ -309,7 +309,7 @@ export const mbbsinkyrgyzstan = {
             title: '',
             info: '',
             //img: '',
-            data: '<p style="margin-top:5px"><b style="color: red; "><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/top-medical-universities-in-kyrgyzstan.php" target="_blank">List of Top 6 NMC Recognized Medical Universities in Kyrgyzstan</a></p> '
+            data: '<p style="margin-top:5px"><b style="color: red; "><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/top-medical-universities-in-kyrgyzstan/" target="_blank">List of Top 6 NMC Recognized Medical Universities in Kyrgyzstan</a></p> '
         },
         {
             type: "meta",

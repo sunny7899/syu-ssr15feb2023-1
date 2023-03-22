@@ -372,62 +372,62 @@ export const mbbsinkazakhstan= {
                 ],
                 "row": [
                   {
-                    "Name of the University":"<b>Kazakh National Medical University</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/kazakh-national-medical-university/ target=_blank><b>Kazakh National Medical University</b></a>",
                     "Tuition Fees (For 1 Year)":"4500 USD",
                     "Hostel Fee (For 1 Year)":"650 USD"
                   },
                   {
-                    "Name of the University":"<b>Astana Medical University</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/astana-medical-university/ target=_blank><b>Astana Medical University</b></a>",
                     "Tuition Fees (For 1 Year)":"3200 USD",
                     "Hostel Fee (For 1 Year)":"700 USD"
                   },
                   {
-                    "Name of the University":"<b>UIB International Medical School</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/uib-international-medical-school/ target=_blank><b>UIB International Medical School</b></a>",
                     "Tuition Fees (For 1 Year)":"3500 USD",
                     "Hostel Fee (For 1 Year)":"700 USD"
                   },
                   {
-                    "Name of the University":"<b>South Kazakhstan Medical Academy</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/ target=_blank><b>South Kazakhstan Medical Academy</b></a>",
                     "Tuition Fees (For 1 Year)":"4250 USD",
                     "Hostel Fee (For 1 Year)":"700 USD"
                   },
                   {
-                    "Name of the University":"<b>Karaganda State Medical University</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/karaganda-state-medical-university/ target=_blank><b>Karaganda State Medical University</b></a>",
                     "Tuition Fees (For 1 Year)":"3700 USD",
                     "Hostel Fee (For 1 Year)":"600 USD"
                   },
                   {
-                    "Name of the University":"<b>Kazakh Medical University of Continuing Education</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/kazakh-medical-university-of-continuing-education/ target=_blank><b>Kazakh Medical University of Continuing Education</b></a>",
                     "Tuition Fees (For 1 Year)":"3500 USD",
                     "Hostel Fee (For 1 Year)":"700 USD"
                   },
                   {
-                    "Name of the University":"<b>Kazakh Russian Medical University</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/kazakh-russian-medical-university/ target=_blank><b>Kazakh Russian Medical University</b></a>",
                     "Tuition Fees (For 1 Year)":"4000 USD",
                     "Hostel Fee (For 1 Year)":"700 USD"
                   },
                   {
-                    "Name of the University":"<b>Kokshetau State University</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/kokshetau-state-university/ target=_blank><b>Kokshetau State University</b></a>",
                     "Tuition Fees (For 1 Year)":"3500 USD",
                     "Hostel Fee (For 1 Year)":"500 USD"
                   },
                   {
-                    "Name of the University":"<b>North Kazakhstan State University</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/north-kazakhstan-state-university/ target=_blank><b>North Kazakhstan State University</b></a>",
                     "Tuition Fees (For 1 Year)":"3500 USD",
                     "Hostel Fee (For 1 Year)":"500 USD"
                   },
                   {
-                    "Name of the University":"<b>Semey State Medical University</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/semey-state-medical-university/ target=_blank><b>Semey State Medical University</b></a>",
                     "Tuition Fees (For 1 Year)":"3200 USD",
                     "Hostel Fee (For 1 Year)":"600 USD"
                   },
                   {
-                    "Name of the University":"<b>West Kazakhstan Marat Ospanov State Medical University</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/west-kazakhstan-marat-ospanov-state-medical-university/ target=_blank><b>West Kazakhstan Marat Ospanov State Medical University</b></a>",
                     "Tuition Fees (For 1 Year)":"3500 USD",
                     "Hostel Fee (For 1 Year)":"500 USD"
                   },
                   {
-                    "Name of the University":"<b>Al-Farabi Kazakh National University</b>",
+                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/al-farabi-kazakh-national-university/ target=_blank><b>Al-Farabi Kazakh National University</b></a>",
                     "Tuition Fees (For 1 Year)":"4200 USD",
                     "Hostel Fee (For 1 Year)":"700 USD"
                   }

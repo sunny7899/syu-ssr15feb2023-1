@@ -18524,6 +18524,51 @@ const routes: Routes = [
     path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/faq/.',
     component: UniversityConComponent
   },
+
+  {
+    path: 'caspian-international-school-of-medicine/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/faq/.',
+    component: UniversityConComponent
+  },
 ];
 
 @NgModule({

@@ -18,6 +18,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { ChatModule } from '../chat/chat.module';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import {Location} from '@angular/common';  
+import { CarouselModule } from 'ngx-owl-carousel-o';
 
 
 @NgModule({
@@ -38,7 +39,8 @@ import {Location} from '@angular/common';
     // GalleriaModule,
     NavModule,
     DialogModule,
-    HttpClientModule
+    HttpClientModule,
+    CarouselModule
 
   ],
   providers: [GalleryModule],

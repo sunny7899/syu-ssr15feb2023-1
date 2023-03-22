@@ -207,67 +207,67 @@ export const mbbsinphilippines = {
             ],
             "row": [
               {
-                "Name of the Universities":"<b>Brokenshire College School of Medicine</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/brokenshire-college-school-of-medicine/ target=_blank><b>Brokenshire College School of Medicine</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 5,00,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 9,65,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 14,65,000"
               },
               {
-                "Name of the Universities":"<b>UV Gullas College of Medicine</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/uv-gullas-college-of-medicine/ target=_blank><b>UV Gullas College of Medicine</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 6,65,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 11,20,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 17,85,000"
               },
               {
-                "Name of the Universities":"<b>University of Perpetual Help</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/university-of-perpetual-help-system-dalta/ target=_blank><b>University of Perpetual Help</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 6,75,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 16,15,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 23,25,000"
               },
               {
-                "Name of the Universities":"<b>University of Santo Tomas</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/university-of-santo-tomas/ target=_blank><b>University of Santo Tomas</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 4,20,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 10,50,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 14,70,000"
               },
               {
-                "Name of the Universities":"<b>Emilio Aguinaldo College, Manila</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/emilio-aguinaldo-college-manila/ target=_blank><b>Emilio Aguinaldo College, Manila</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 5,60,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 15,12,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 20,72,000"
               },
               {
-                "Name of the Universities":"<b>AMA School of Medicine</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/ama-school-of-medicine/ target=_blank><b>AMA School of Medicine</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 7,00,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 10,50,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 17,50,000"
               },
               {
-                "Name of the Universities":"<b>University of Northern Philippines</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/university-of-northern-philippines/ target=_blank><b>University of Northern Philippines</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 3,50,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 7,28,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 10,78,000"
               },
               {
-                "Name of the Universities":"<b>Our Lady Of Fatima University</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/our-lady-of-fatima-university/ target=_blank><b>Our Lady Of Fatima University</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 8,40,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 17,92,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 26,32,000"
               },
               {
-                "Name of the Universities":"<b>Davao Medical School Foundation</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/davao-medical-school-foundation/ target=_blank><b>Davao Medical School Foundation</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 7,00,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 14,28,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 21,28,000"
               },
               {
-                "Name of the Universities":"<b>St. Paul University Philippines</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/st-paul-university-philippines/ target=_blank><b>St. Paul University Philippines</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 5,59,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 12,60,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 18,19,000"
               },
               {
-                "Name of the Universities":"<b>AMEC Bicol Christian College of Medicine</b>",
+                "Name of the Universities":"<a href=https://www.selectyouruniversity.com/university/amec-bicol-christian-college-of-medicine/ target=_blank><b>AMEC Bicol Christian College of Medicine</b></a>",
                 "Tuition Fee (for 2 Years BS Course)":"Rs. 3,00,000",
                 "Tuition Fee (for 4 Years MD Course)":"Rs. 9,60,000",
                 "Total of 5.5/6 Years Course Cost":"Rs. 12,60,000"

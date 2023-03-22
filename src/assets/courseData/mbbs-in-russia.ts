@@ -449,137 +449,137 @@ export const mbbsinrussia= {
             ],
             "row": [
               {
-                "Name of the universities":"<b>Samara State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/ target=_blank><b>Samara State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 5,80,000",
                 "Hostel Fees / Year":"Rs. 79,750"
               },
               {
-                "Name of the universities":"<b>Kazan Federal University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/kazan-federal-university/ target=_blank><b>Kazan Federal University</b></a>",
                 "Tuition Fees / Year":"Rs. 6,78,600",
                 "Hostel Fees / Year":"Rs. 8,700"
               },
               {
-                "Name of the universities":"<b>Bashkir State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/bashkir-state-medical-university/ target=_blank><b>Bashkir State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 2,45,000",
                 "Hostel Fees / Year":"Rs. 70,000"
               },
               {
-                "Name of the universities":"<b>Crimean Federal Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/crimean-federal-university/ target=_blank><b>Crimean Federal Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 2,59,000",
                 "Hostel Fees / Year":"Rs. 77,000"
               },
               {
-                "Name of the universities":"<b>Ryazan State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/ryazan-state-medical-university/ target=_blank><b>Ryazan State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,15,000",
                 "Hostel Fees / Year":"Rs. 35,000"
               },
               {
-                "Name of the universities":"<b>Perm State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/perm-state-medical-university/ target=_blank><b>Perm State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,15,000",
                 "Hostel Fees / Year":"Rs. 70,000"
               },
               {
-                "Name of the universities":"<b>Orel State University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/orel-state-university/ target=_blank><b>Orel State University</b></a>",
                 "Tuition Fees / Year":"Rs. 2,69,800",
                 "Hostel Fees / Year":"Rs. 21,300"
               },
               {
-                "Name of the universities":"<b>Smolensk State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/smolensk-state-medical-university/ target=_blank><b>Smolensk State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,85,000",
                 "Hostel Fees / Year":"Rs. 40,000"
               },
               {
-                "Name of the universities":"<b>Saint Petersburg State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/st-petersburg-state-pediatric-medical-university/ target=_blank><b>Saint Petersburg State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,85,000",
                 "Hostel Fees / Year":"Rs. 1,12,000"
               },
               {
-                "Name of the universities":"<b>Orenburg State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/orenburg-state-medical-university/ target=_blank><b>Orenburg State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 4,20,000",
                 "Hostel Fees / Year":"Rs. 84,000"
               },
               {
-                "Name of the universities":"<b>Kazan State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/kazan-state-medical-university/ target=_blank><b>Kazan State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 4,37,500",
                 "Hostel Fees / Year":"Rs. 84,000"
               },
               {
-                "Name of the universities":"<b>Tver State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/tver-state-medical-university/ target=_blank><b>Tver State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 4,48,000",
                 "Hostel Fees / Year":"Rs. 24,500"
               },
               {
-                "Name of the universities":"<b>Kursk State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/kursk-state-medical-university/ target=_blank><b>Kursk State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 4,58,500",
                 "Hostel Fees / Year":"Rs. 77,000"
               },
               {
-                "Name of the universities":"<b>Peoples Friendship University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/ target=_blank><b>Peoples Friendship University</b></a>",
                 "Tuition Fees / Year":"Rs. 4,90,000D",
                 "Hostel Fees / Year":"Rs. 84,000"
               },
               {
-                "Name of the universities":"<b>First Moscow State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/first-moscow-state-medical-university/ target=_blank><b>First Moscow State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 7,00,000",
                 "Hostel Fees / Year":"Rs. 1,26,000"
               },
               {
-                "Name of the universities":"<b>Kuban State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/kuban-state-medical-university/ target=_blank><b>Kuban State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,15,000",
                 "Hostel Fees / Year":"Rs. 25,100"
               },
               {
-                "Name of the universities":"<b>Lomonosov Moscow State University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/lomonosov-moscow-state-university/ target=_blank><b>Lomonosov Moscow State University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,67,250",
                 "Hostel Fees / Year":"Rs, 92,000"
               },
               {
-                "Name of the universities":"<b>Altai State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/altai-state-medical-university/ target=_blank><b>Altai State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,01,000",
                 "Hostel Fees / Year":"Rs. 21,000"
               },
               {
-                "Name of the universities":"<b>Kemerovo State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/kemerovo-state-medical-university/ target=_blank><b>Kemerovo State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,01,000",
                 "Hostel Fees / Year":"Rs. 22,000"
               },
               {
-                "Name of the universities":"<b>Chechen State University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/chechen-state-university/ target=_blank><b>Chechen State University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,50,000",
                 "Hostel Fees / Year":"Rs. 56,000"
               },
               {
-                "Name of the universities":"<b>Chuvash State University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/chuvash-state-university/ target=_blank><b>Chuvash State University</b></a>",
                 "Tuition Fees / Year":"Rs. 1,85,000",
                 "Hostel Fees / Year":"Rs. 45,000"
               },
               {
-                "Name of the universities":"<b>Tyumen State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/tyumen-state-medical-university/ target=_blank><b>Tyumen State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 2,52,000",
                 "Hostel Fees / Year":"Rs. 21,000"
               },
               {
-                "Name of the universities":"<b>Tula State University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/tula-state-university/ target=_blank><b>Tula State University</b></a>",
                 "Tuition Fees / Year":"Rs. 2,24,000",
                 "Hostel Fees / Year":"Rs. 21,000"
               },
               {
-                "Name of the universities":"<b>Mari State University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/mari-state-university/ target=_blank><b>Mari State University</b></a>",
                 "Tuition Fees / Year":"Rs. 3,15,000",
                 "Hostel Fees / Year":"Rs. 21,000"
               },
               {
-                "Name of the universities":"<b>Volgograd State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/volgograd-state-medical-university/ target=_blank><b>Volgograd State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 4,13,000",
                 "Hostel Fees / Year":"Rs. 35,000"
               },
               {
-                "Name of the universities":"<b>Dagestan State Medical University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/dagestan-state-medical-university/ target=_blank><b>Dagestan State Medical University</b></a>",
                 "Tuition Fees / Year":"Rs. 2,80,000",
                 "Hostel Fees / Year":"Rs. 28,000"
               },
               {
-                "Name of the universities":"<b>Tambov State University</b>",
+                "Name of the universities":"<a href=https://www.selectyouruniversity.com/university/tambov-state-university/ target=_blank><b>Tambov State University</b></a>",
                 "Tuition Fees / Year":"Rs. 2,94,000",
                 "Hostel Fees / Year":"Rs. 42,000"
               }

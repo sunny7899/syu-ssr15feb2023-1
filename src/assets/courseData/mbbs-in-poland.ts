@@ -339,52 +339,52 @@ export const mbbsinpoland= {
             ],
             "row": [
               {
-                "Name of the University":"<b>Warsaw Medical Academy</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/medical-university-of-warsaw/ target=_blank><b>Warsaw Medical Academy</b></a>",
                 "Tuition Fees/Year":"13100 USD",
                 "Hostel Fees/Year":"3000 USD"
               },
               {
-                "Name of the University":"<b>University of Warmia and Mazury</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/university-of-warmia-and-mazury/ target=_blank><b>University of Warmia and Mazury</b></a>",
                 "Tuition Fees/Year":"12800 USD",
                 "Hostel Fees/Year":"3000 USD"
               },
               {
-                "Name of the University":"<b>Medical University of Gdansk</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/gdansk-medical-university/ target=_blank><b>Medical University of Gdansk</b></a>",
                 "Tuition Fees/Year":"11600 USD",
                 "Hostel Fees/Year":"3000 USD"
               },
               {
-                "Name of the University":"<b>Poznan Medical University</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/poznan-university-of-medical-science/ target=_blank><b>Poznan Medical University</b></a>",
                 "Tuition Fees/Year":"11700 USD",
                 "Hostel Fees/Year":"2500 USD"
               },
               {
-                "Name of the University":"<b>Jagiellonian University Medical College</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/jagiellonian-university-medical-college/ target=_blank><b>Jagiellonian University Medical College</b></a>",
                 "Tuition Fees/Year":"16000 USD",
                 "Hostel Fees/Year":"2600 USD"
               },
               {
-                "Name of the University":"<b>Medical University of Lodz</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/medical-university-of-lodz/ target=_blank><b>Medical University of Lodz</b></a>",
                 "Tuition Fees/Year":"12800 USD",
                 "Hostel Fees/Year":"3500 USD"
               },
               {
-                "Name of the University":"<b>Medical University of Lublin</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/medical-university-of-lublin/ target=_blank><b>Medical University of Lublin</b></a>",
                 "Tuition Fees/Year":"12800 USD",
                 "Hostel Fees/Year":"2000 USD"
               },
               {
-                "Name of the University":"<b>University of Silesia</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/medical-university-of-silesia/ target=_blank><b>University of Silesia</b></a>",
                 "Tuition Fees/Year":"7200 USD",
                 "Hostel Fees/Year":"2700 USD"
               },
               {
-                "Name of the University":"<b>University of Wroclaw</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/wroclaw-medical-university/ target=_blank><b>University of Wroclaw</b></a>",
                 "Tuition Fees/Year":"12800 USD",
                 "Hostel Fees/Year":"2000 USD"
               },
               {
-                "Name of the University":"<b>Nicolaus Copernicus University</b>",
+                "Name of the University":"<a href=https://www.selectyouruniversity.com/university/nicolaus-copernicus-university/ target=_blank><b>Nicolaus Copernicus University</b></a>",
                 "Tuition Fees/Year":"12800 USD",
                 "Hostel Fees/Year":"2000 USD"
               }

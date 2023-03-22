@@ -738,7 +738,18 @@
 
                            </owl-carousel> -->
             <!-- <gallery [items]="images2" thumbPosition="left"></gallery> -->
-          </div>
+            
+                <!-- <div *ngFor="let itemtype of collegeData.gallery">
+                  <ng-container *ngFor="let item of itemtype.image">
+                    <div *ngIf="item.type=='image'">
+                      <div>
+                        <img src={{item.data}} />
+                      </div>
+                    </div>
+                  </ng-container>
+                </div> -->
+              </div>
+          
         </div>
       </div>
 
@@ -1707,11 +1718,10 @@
                       <ng-container *ngFor="let item of itemtype.video">
                         <div *ngIf="item.type=='video'">
                           <div>
-                  
-                            <video width="100%" height="160" controls="controls"
-                            >
 
-                            <source src={{item.data}} type="video/mp4">
+                            <video width="100%" height="160" controls="controls">
+
+                              <source src={{item.data}} type="video/mp4">
                             </video>
                           </div>
                         </div>
@@ -2207,7 +2217,8 @@
                       </button>
                     </div>-->
                   </div>
-                  <div class="row row-without-gutter" *ngIf="item.type === 'question-list'" itemscope itemtype='https://schema.org/Question'>
+                  <div class="row row-without-gutter" *ngIf="item.type === 'question-list'" itemscope
+                    itemtype='https://schema.org/Question'>
                     <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus"
                       collapseIcon="pi pi-minus">
                       <div class="col-lg-12 text-center">
@@ -2215,7 +2226,9 @@
                       </div>
                       <p *ngFor="let qna of item.data" itemscope itemtype='https://schema.org/Question'>
                         <p-accordionTab itemprop='text' header="{{ qna.ques }}" [selected]="false" class="accordionTab">
-                          <div itemscope itemtype='https://schema.org/Answer'><p itemprop='text'>{{ qna.ans }}</p></div>
+                          <div itemscope itemtype='https://schema.org/Answer'>
+                            <p itemprop='text'>{{ qna.ans }}</p>
+                          </div>
                         </p-accordionTab>
                       </p>
                     </p-accordion>
@@ -2333,10 +2346,10 @@
                     <img src="../../assets/img/Course_Content_Icons/4.Talk to expert/talk-to-expert.png" alt=""
                       width="30" />
                     <h6>Are you Interested?</h6>
-                    
-                      <button class="btn btn-orange white-text-2 btn-lg" (click)="openModalWithClass(template)">
-                        Talk to Expert
-                      </button>
+
+                    <button class="btn btn-orange white-text-2 btn-lg" (click)="openModalWithClass(template)">
+                      Talk to Expert
+                    </button>
                   </div>
                 </div>
               </div>
