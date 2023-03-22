@@ -427,7 +427,7 @@ export const aviationinukraine = {
             ],
             "row": [
                 {
-                    "Name of the University": "<b>National Aviation University</b>",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/national-aviation-university/ target=_blank><b><b>National Aviation University</b></a>",
                     "World Rank": "2672",
                     "Country Rank": "10",
                 },
