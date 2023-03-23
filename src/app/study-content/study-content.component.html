@@ -105,7 +105,7 @@
         
          <div class="content" *ngIf="item.type == 'list-bollet'">
            <h2 class="light-blue-text" [innerHTML]="item.title"></h2>
-           <p [innerHTML]="item.info"></p>
+           <p style="font-weight:bold;" [innerHTML]="item.info"></p>
            <p [innerHTML]="item.textBelowInfo"></p>
            <ul class="cust-padding">
              <li *ngFor="let Listitem of item.data" [innerHtml]="Listitem" ></li>
@@ -116,7 +116,7 @@
         
          <div class="content" *ngIf="item.type == 'number-list'">
            <h2 class="light-blue-text" [innerHTML]="item.title"></h2>
-           <p [innerHTML]="item.info"></p>
+           <p style="font-weight:bold;" [innerHTML]="item.info"></p>
    
            <ol style="margin-bottom: 0px" type="1">
              <li *ngFor="let numbetList of item.data">
@@ -144,7 +144,7 @@
        >
          <div class="row row-without-gutter text-center" id="itemT">
            <h3  class="light-blue-text" [innerHTML]="item.title"></h3>
-           <p [innerHtml]="item.info"></p>
+           <p style="font-weight:bold;" [innerHTML]="item.info"></p>
          </div>
          <div class="row row-without-gutter">
            <div class="col-lg-4 blue-border" *ngFor="let sm of item.data">
@@ -208,7 +208,7 @@
              class="text-center light-blue-text my-3"
              [innerHtml]="item.title"
            ></h4>
-           <p [innerHtml]="item.info"></p>
+           <p style="font-weight:bold;" [innerHTML]="item.info"></p>
          </div>
          <div class="row row-without-gutter">
            <div class="col-lg-3 col-sm-6" *ngFor="let bg of item.data">

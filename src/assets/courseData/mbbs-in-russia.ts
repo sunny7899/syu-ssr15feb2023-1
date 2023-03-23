@@ -20,7 +20,7 @@ export const mbbsinrussia= {
 
         {
             "type": "table-title",
-            "title": "MBBS in Russia 2022: Key Highlights",
+            "title": "MBBS in Russia 2023: Key Highlights",
             "info": "The following table would help the students with the quick overview of the MBBS course in Russia:",
             "row": [
                      ["Academic Year Starts","September-October (Every Year)"],
@@ -103,32 +103,19 @@ export const mbbsinrussia= {
         ]
     },
     {
-        "type": "text",
-        "title": "The Medium of Teaching While Studying MBBS in Russia",
-        "info":"Russian universities follow three different types of the medium of teaching:",
-        "data": "<p><b>Russian universities follow three different types of the medium of teaching:</b></p>"
-      },
-    {
-        "type": "text",
-        "title": "",
-        "info":"Full-time English Course",
-        "data": "<p>Full-time English Course</p><p>There is a full-time English course where 6.8 years of MBBS course is taught in the English language.</p>"
-      },
-      {
-        "type": "text",
-        "title": "",
-        "info":"Bilingual Course",
-        "data": "<p>Bilingual Course</p><p>The bilingual course consists of an extra one year of Russian language coaching. Here the half course is taught in the Russian language and the remaining course is taught in English medium language.</p>"
-      },
-      {
-        "type": "text",
-        "title": "",
-        "info":"Full-time Russian Language Course",
-        "data": "<p>Full-time Russian Language Course</p><p>The full-time Russian language course is taught in the Russian language for a 6.8 years course duration. It needs an extra one year for Russian language coaching.</p>"
-      },
+      type: 'number-list',
+      title: 'The Medium of Teaching While Studying MBBS in Russia',
+      info: 'Russian universities follow three different types of the medium of teaching:',
+      data: [
+          "<b>Full-time English Course</b><p>There is a full-time English course where 6.8 years of MBBS course is taught in the English language.</p>",
+          "<b>Bilingual Course</b><p>The bilingual course consists of an extra one year of Russian language coaching. Here the half course is taught in the Russian language and the remaining course is taught in English medium language.</p>",
+          "<b>Full-time Russian Language Course</b><p>The full-time Russian language course is taught in the Russian language for a 6.8 years course duration. It needs an extra one year for Russian language coaching.</p>"
+      ]
+  },
+    
       {
         "type": "table",
-        title: 'MBBS in Russia - Admission Date & Deadlines for 2022',
+        title: 'MBBS in Russia - Admission Date & Deadlines for 2023',
         info: 'To get admission on the given timeline, students need to follow the intake table given below:',
         "col":[
                     "Events",
@@ -320,14 +307,10 @@ export const mbbsinrussia= {
             "In India, the students are provided with the facilities of education loans to help them to study abroad. The loan process and amount of loan is dependant on many factors.",
             "The NEET score of the student, university fee, university’s invitation letter, these are some of the main documents that are required.",
             "The education loan also depends on the student’s parents’ income, wealth, and property."
-        ]
+        ],
+        "heading":"<p><b><u>Note:</u></b> At ‘Select Your University’ our counselors will help you with every possible way of getting the education loan for MBBS abroad.</p>"
     },
-    {
-        type: 'text',
-        title: '',
-        info: '',
-        data: '<p><b style="color: red;"><u>Note:</u></b> At ‘Select Your University’ our counselors will help you with every possible way of getting the education loan for MBBS abroad.</p>',
-    },
+    
     {
         type: 'text',
         title: 'Vacations During MBBS in Russia',
@@ -341,14 +324,10 @@ export const mbbsinrussia= {
         data: [
             "The first vacation is summer vacation that is for 2 months, July and August. The next semester will start on September 1st.",
             "The second vacation is a winter vacation that lasts for around a month. From 15th January to the first week of February."
-        ]
+        ],
+        "heading":"<p><b><u>Note:</u></b> Students can plan their vacation or visit the home in these two periods of time of the year.</p>"
     },
-    {
-        type: 'text',
-        title: '',
-        info: '',
-        data: '<p><b style="color: red;"><u>Note:</u></b> Students can plan their vacation or visit the home in these two periods of time of the year.</p>',
-    },
+   
           {
             "type": "table",
             title: 'Cost of Living',
@@ -384,15 +363,10 @@ export const mbbsinrussia= {
                     "Approx Range in USD": "70 - 75",
                     "Approx Range in RS": "5000 - 5300"
                 }
-            ]
+            ],
+            "heading":"<p><b><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>"
         },
 
-        {
-          type: 'text',
-          title: '',
-          info: '',
-          data: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>',
-      },
       {
         type: 'list-bollet',
         title: 'About Russia',
@@ -589,7 +563,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "Top Medical Universities in Russia (NMC Approved)",
-            "info": "<h4>1. Lomonosov Moscow State University</h4>",
+            "subtitle": "<h3>1. Lomonosov Moscow State University</h3>",
             "row": [
                      ["<b>Location</b>","Moscow"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -601,7 +575,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>2. Crimean Federal University</h4>",
+            "subtitle": "<h3>2. Crimean Federal University</h3>",
             "row": [
                      ["<b>Location</b>","Simferopol"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -613,7 +587,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>3. Perm State Medical University</h4>",
+            "subtitle": "<h3>3. Perm State Medical University</h3>",
             "row": [
                      ["<b>Location</b>","Perm"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -625,7 +599,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>4. First Moscow State Medical University</h4>",
+            "subtitle": "<h3>4. First Moscow State Medical University</h3>",
             "row": [
                      ["<b>Location</b>","Moscow"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -637,7 +611,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>5. Kazan Federal University</h4>",
+            "subtitle": "<h3>5. Kazan Federal University</h3>",
             "row": [
                      ["<b>Location</b>","Kazan"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -649,7 +623,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>6. Bashkir State Medical University</h4>",
+            "subtitle": "<h3>6. Bashkir State Medical University</h3>",
             "row": [
                      ["<b>Location</b>","Ufa"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -661,7 +635,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>7. Kursk State Medical University</h4>",
+            "subtitle": "<h3>7. Kursk State Medical University</h3>",
             "row": [
                      ["<b>Location</b>","Kursk"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -673,7 +647,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>8. Stavropol State Medical University</h4>",
+            "subtitle": "<h3>8. Stavropol State Medical University</h3>",
             "row": [
                      ["<b>Location</b>","Stavropol"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -685,7 +659,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>9. Altai State Medical University</h4>",
+            "subtitle": "<h3>9. Altai State Medical University</h3>",
             "row": [
                      ["<b>Location</b>","Barnaul"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -697,7 +671,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>10. Smolensk State Medical University</h4>",
+            "subtitle": "<h3>10. Smolensk State Medical University</h3>",
             "row": [
                      ["<b>Location</b>","Smolensk"],
                      ["<b>Eligibility</b>","50% in Physics, Chemistry and Biology Aggregate, NEET Qualification"],
@@ -709,7 +683,7 @@ export const mbbsinrussia= {
         {
             "type": "table-title",
             "title": "",
-            "info": "<h4>11. Orenburg State Medical University</h4>",
+            "subtitle": "<h3>11. Orenburg State Medical University</h3>",
             "row": [
                      ["<b>Location</b>","Orenburg"],
                      ["<b>Eligibility</b>","minimum 50% in Physics, Chemistry and Biology Aggregate NEET and IELTS/TOFEL"],

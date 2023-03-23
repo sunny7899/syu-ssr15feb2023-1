@@ -2735,17 +2735,17 @@ input.form-control:focus {
 }
 
 
-#college-content-tab h3 {
-    margin-top: 20px;
-    margin-bottom: 10px;
+ h3 {
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
     font-size: 18px !important;
-    line-height: 1.3;
+    line-height: 1.3 !important;
     color: rgb(54, 54, 54);
-    font-weight: 700;
+    font-weight: 700 !important;
 }
 
 @media only screen and (min-width:450px) and (max-width:600px) {
-    #college-content-tab h3 {
+     h3 {
         margin-top: 20px;
         margin-bottom: 10px;
         font-size: 18px !important;
