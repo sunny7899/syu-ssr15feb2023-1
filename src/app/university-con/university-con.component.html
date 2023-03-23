@@ -908,6 +908,17 @@
                               
                              </owl-carousel> -->
             <!-- <gallery [items]="images2" thumbPosition="left"></gallery> -->
+            <!-- <div *ngFor="let itemtype of universityData.gallery" id="slider">
+              <figure>
+              <ng-container *ngFor="let item of itemtype.image">
+                <div *ngIf="item.type=='image'">
+                  <div>
+                    <img src={{item.data}} />
+                  </div>
+                </div>
+              </ng-container>
+            </figure>
+            </div> -->
           </div>
         </div>
       </div>

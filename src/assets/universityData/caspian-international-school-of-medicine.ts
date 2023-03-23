@@ -32,7 +32,7 @@ export const caspianinternationalschoolofmedicine = {
                 ["<b>Accepted Exam</b>", "NEET UG"],
                 ["<b>Recognition and accreditations</b>", "NMC and WHO"],
                 ["<b>Medium Teaching</b>", "English"],
-                ["<b>University Ranking</b>", "World - 8313 Country - 41"]
+                ["<b>University Ranking</b>", "World - 8313<br>Country - 41"]
 
 
             ]
@@ -104,10 +104,13 @@ export const caspianinternationalschoolofmedicine = {
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: 'Students Life at Caspian International School of Medicine',
             // img: 'https://www.selectyouruniversity.com/images/canada-universities/carleton-university.jpg',
-            data: "<p>The university was founded with the goal of defining the ideal model of a competitive and innovation-focused school in order to provide students from around the world with highly competent medical education.</p><p>The university's organizational framework is robust enough to deliver current scientific studies on pressing issues in public health that are applied to real-world health care in a market for medical services.</p>"
+            data: [
+                "<p>The university was founded with the goal of defining the ideal model of a competitive and innovation-focused school in order to provide students from around the world with highly competent medical education.</p>",
+                "<p>The university's organizational framework is robust enough to deliver current scientific studies on pressing issues in public health that are applied to real-world health care in a market for medical services.</p>"
+            ]
         },
         {
             "type": "table",
@@ -255,10 +258,14 @@ export const caspianinternationalschoolofmedicine = {
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: 'Duration of MBBS at Caspian International School of Medicine',
             info: "<b>The Caspian University International School of Medicine's MBBS curriculum lasts six years. Have look on the detailed curriculum of the course:</b>",
-            data: "<p>For Indian students, the MBBS program at the Caspian International School of Medicine lasts 5 years plus 1 year (for an internship in Kazakhstan).</p><p>It also covers the internship and clinical rotation that are necessary to work as a doctor anywhere in the world, including Kazakhstan.</p><p>During the course of five years, students will learn every theory and do lab experiments. The length of the entire MBBS program fits fully with the most recent NMC regulations, which mandate that Indian students complete a 4.5-year program (54 months) plus a one-year internship.</p>"
+            data: [
+                "For Indian students, the MBBS program at the Caspian International School of Medicine lasts 5 years plus 1 year (for an internship in Kazakhstan).",
+                "It also covers the internship and clinical rotation that are necessary to work as a doctor anywhere in the world, including Kazakhstan.",
+                "During the course of five years, students will learn every theory and do lab experiments. The length of the entire MBBS program fits fully with the most recent NMC regulations, which mandate that Indian students complete a 4.5-year program (54 months) plus a one-year internship."
+            ]
         },
 
 
@@ -287,20 +294,20 @@ export const caspianinternationalschoolofmedicine = {
             title: 'Caspian International School of Medicine - Admission Process'
         },
         {
-            "type": "list-bollet",
+            "type": "step-list",
             "title": "How to Apply at Caspian International School of Medicine?",
             "info": "<b>The procedure for Indian students to apply for MBBS admission to Caspian International School of Medicine is as follows:</b>",
             "data": [
-                "Students upload scans of their 10th and 12th grade credentials as well as their NEET score (2023/2022/2021).",
-                "Based on the provided documentation, Caspian International School of Medicine issues an admission letter.",
-                "Students provide photocopies of a current passport in order for the university to issue an invitation letter.",
-                "Caspian International School of Medicine issues invitation letter for study visa & student's admittance to Kazakhstan.",
-                "Students deliver original grade reports, a passport, and a few other documents to the embassy for a visa.",
-                "We help students with currency exchange so they can pay their tuition in cash or online from India.",
-                "In order to ensure that they travel together, we help students book their tickets and organize their departure in groups.",
-                "The students are greeted by our representative at the airport and given a briefing on their flight from Delhi to Kazakhstan.",
-                "The students are met by our employees at Baku's airport and driven to their dormitory.",
-                "Our representative in Kazakhstan completes the necessary paperwork for a medical exam, a visa extension, etc."
+                "<b>Step 1:</b> Students upload scans of their 10th and 12th grade credentials as well as their NEET score (2023/2022/2021).",
+                "<b>Step 2:</b> Based on the provided documentation, Caspian International School of Medicine issues an admission letter.",
+                "<b>Step 3:</b> Students provide photocopies of a current passport in order for the university to issue an invitation letter.",
+                "<b>Step 4:</b> Caspian International School of Medicine issues invitation letter for study visa & student's admittance to Kazakhstan.",
+                "<b>Step 5:</b> Students deliver original grade reports, a passport, and a few other documents to the embassy for a visa.",
+                "<b>Step 6:</b> We help students with currency exchange so they can pay their tuition in cash or online from India.",
+                "<b>Step 7:</b> In order to ensure that they travel together, we help students book their tickets and organize their departure in groups.",
+                "<b>Step 8:</b> The students are greeted by our representative at the airport and given a briefing on their flight from Delhi to Kazakhstan.",
+                "<b>Step 9:</b> The students are met by our employees at Baku's airport and driven to their dormitory.",
+                "<b>Step 10:</b> Our representative in Kazakhstan completes the necessary paperwork for a medical exam, a visa extension, etc."
 
             ]
         },
@@ -413,15 +420,31 @@ export const caspianinternationalschoolofmedicine = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'Caspian International School of Medicine - Placements'
+        },
+        {
+            "type": "list-bollet",
+            "title": "Caspian International School of Medicine placements",
+            "info": "<b>The division of student performance at the university promotes employment and internships, and all students are encouraged to take part. The important details of placement at Caspian International School of Medicine are as follows:</b>",
+            "data": [
+                "Since Caspian is dedicated to giving its students the best opportunities, it provides platforms for student placements and internships.",
+                "The institution provides student exchange programs that are established up on campus for its students to study.",
+                "Students receive the exposure they sorely need by working as interns in a respected hospital."
+
+
+            ]
+        },
+        {
             type: "meta",
             meta: [
-                { name: "title", content: "Caspian International School of Medicine - Placement" },
-                { name: "description", content: "Caspian International School of Medicine offers a range of scholarships to help you achieve your goals in healthcare. Apply now!" },
+                { name: "title", content: "Caspian International School of Medicine - Placements" },
+                { name: "description", content: "Looking for a reputable medical school? Consider Caspian International School of Medicine! Our placement program sets you up for success in your career. Apply now." },
             ],
         },
         {
             type: "meta-title",
-            title: "Caspian International School of Medicine - Placement"
+            title: "Caspian International School of Medicine - Placements"
         },
         {
             type: "meta-links",
@@ -548,7 +571,7 @@ export const caspianinternationalschoolofmedicine = {
         },
         {
             "type": "table",
-            "title": "Faculties",
+            "title": "Caspian International School of Medicine - Faculties",
             "info": "<b>Below is the list of faculties at Caspian University International School of Medicine :</b>",
             "col": [
                 "Name",

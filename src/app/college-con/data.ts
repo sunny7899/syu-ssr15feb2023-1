@@ -14,7 +14,7 @@ import * as bharatividyapeethcollegeofengineeringbvcoepune from '../../assets/co
 import * as bharatividyapeethdentalcollegehospitalnavimumbai from '../../assets/collegeData/bharati-vidyapeeth-dental-college-hospital-navi-mumbai'
 import * as bharatividyapeethdentalcollegehospitalpune from '../../assets/collegeData/bharati-vidyapeeth-dental-college-hospital-pune'
 import * as bharatividyapeethdentalcollegehospitalsangli from '../../assets/collegeData/bharati-vidyapeeth-dental-college-hospital-sangli'
-//import * as bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment from '../../assets/collegeData/bharati-vidyapeeth-institute-of-management-entrepreneurship-development'
+import * as bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment from '../../assets/collegeData/bharati-vidyapeeth-institute-of-management-entrepreneurship-development'
 import * as bharatividyapeethmedicalcollegehospitalsangli from '../../assets/collegeData/bharati-vidyapeeth-medical-college-hospital-sangli'
 import * as bharatividyapeethmedicalcollegepune from '../../assets/collegeData/bharati-vidyapeeth-medical-college-pune'
 import * as birlainstituteoftechnologyandsciencebitspilani from '../../assets/collegeData/birla-institute-of-technology-and-science-bits-pilani'
@@ -28,7 +28,7 @@ import * as drdypatilmedicalcollegehospitalnavimumbai from '../../assets/college
 import * as drdypatilmedicalcollegekolhapur from '../../assets/collegeData/dr-dy-patil-medical-college-kolhapur'
 import * as drdypatilmedicalcollegepune from '../../assets/collegeData/dr-dy-patil-medical-college-pune'
 import * as dypatiluniversityschoolofmanagementdypusmnavimumbai from '../../assets/collegeData/dy-patil-university-school-of-management-dypusm-navi-mumbai'
-import * as dypatilartscommercesciencecollegepune from '../../assets/collegeData/dy-patil-arts-commerce-science-college-pune'
+
 //import * as eubusinessschoolmunich from '../../assets/collegeData/eu-business-school-munich'
 //import * as europeanuniversitygeorgia from '../../assets/collegeData/european-university-georgia'
 //import * as fanshawecollege from '../../assets/collegeData/fanshawe-college'
@@ -52,7 +52,7 @@ import * as indraprasthainstituteoftechnologyandmanagementiitmnewdelhi from "../
 // import * as internationalmedicalschool from "../../assets/collegeData/international-medical-school"
 import * as kirloskarinstituteofadvancedmanagementstudieskiamspune from "../../assets/collegeData/kirloskar-institute-of-advanced-management-studies-kiams-pune"
 import * as kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai from '../../assets/collegeData/kj-somaiya-medical-college-research-centre-kjsmc-mumbai'
-import * as instituteofmanagementandentrepreneurshipdevelopmentimedpune from '../../assets/collegeData/institute-of-management-and-entrepreneurship-development-imed-pune'
+import * as instituteofmanagementandentrepreneurshipdevelopmentimedpune from '../../assets/collegeData/bharati-vidyapeeth-institute-of-management-entrepreneurship-development'
 import * as jspmnarhe from '../../assets/collegeData/jspm-narhe'
 import * as sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune from '../../assets/collegeData/sinhgad-institute-of-management-and-computer-application-simca-narhe-pune'
 import * as sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune from '../../assets/collegeData/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune'
@@ -86,8 +86,9 @@ import * as drdypatilinstituteofmanagementandresearchdypimrpimpripune from '../.
 import * as ifmrgraduateschoolofbusinesschennai from '../../assets/collegeData/ifmr-graduate-school-of-business-chennai'
 export { 
     MIT, 
-    dypatilartscommercesciencecollegepune,
+    
     acharyainstituteoftechnologyaitbangalore,
+    bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment,
     indraprasthainstituteoftechnologyandmanagementiitmnewdelhi,
     ifmrgraduateschoolofbusinesschennai,
     drdypatilinstituteofmanagementandresearchdypimrpimpripune,
