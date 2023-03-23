@@ -20,7 +20,7 @@ export const mbbsinphilippines = {
 
         {
             "type": "table-title",
-            "title": "MBBS in Philippines - Quick Highlights 2022",
+            "title": "MBBS in Philippines - Quick Highlights 2023",
             "info": "",
             "row": [
                 ["Intake for MBBS Course", "October"],
@@ -162,7 +162,7 @@ export const mbbsinphilippines = {
         },
 
         {
-            type: 'text',
+            type: 'list-bollet',
             title: 'About Philippines',
             //img: 'about-philippines.jpg',
             info: '',

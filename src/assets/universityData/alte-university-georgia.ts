@@ -179,10 +179,10 @@ export const alteuniversitygeorgia = {
             "title": "Alte University School of Medicine Fee Structure 2023",
             "info": "<b>For Indian students, the MBBS tuition fees at Alte University costs around INR 4.13 Lacs. The following provides the Alte University's complete MBBS fee schedule for the 2023 session:</b>",
             "col": [
-                "Year",
+                "Particular",
                 "1st Year",
                 "2nd Year",
-                "3rd Yea",
+                "3rd Year",
                 "4th Year",
                 "5th Year",
                 "6th Year"
@@ -190,19 +190,19 @@ export const alteuniversitygeorgia = {
             ],
             "row": [
                 {
-                    "Year": "<b>Tuition Fee</b>",
+                    "Particular": "<b>Tuition Fee in USD</b>",
                     "1st Year": "5000$",
                     "2nd Year": "5000$",
-                    "3rd Yea": "5000$",
+                    "3rd Year": "5000$",
                     "4th Year": "5000$",
                     "5th Year": "5000$",
                     "6th Year": "5000$"
                 },
                 {
-                    "Year": "<b>Hostel Fee</b>",
+                    "Particular": "<b>Tuition Fee in INR</b>",
                     "1st Year": "INR 4.13 Lacs",
                     "2nd Year": "INR 4.13 Lacs",
-                    "3rd Yea": "INR 4.13 Lacs",
+                    "3rd Year": "INR 4.13 Lacs",
                     "4th Year": "INR 4.13 Lacs",
                     "5th Year": "INR 4.13 Lacs",
                     "6th Year": "INR 4.13 Lacs"
