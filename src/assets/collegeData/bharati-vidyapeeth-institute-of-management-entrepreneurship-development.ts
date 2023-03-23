@@ -1,13 +1,13 @@
 // import { title } from "process";
 
-export const instituteofmanagementandentrepreneurshipdevelopmentimedpune = {
+export const bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment = {
     "Title": "INSTITUTE OF MANAGEMENT & ENTREPRENEURSHIP DEVELOPMENT",
     "shortTitle": "Institute of Management & Entrepreneurship Development",
     "location": " India",
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
-    "url": "institute-of-management-and-entrepreneurship-development-imed-pune",
+    "url": "bharati-vidyapeeth-institute-of-management-entrepreneurship-development",
     "info": [
         {
             "type": "title",

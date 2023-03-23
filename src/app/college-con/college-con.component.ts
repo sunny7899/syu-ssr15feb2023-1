@@ -101,7 +101,7 @@ export class CollegeConComponent implements OnInit {
     } = this.RegistrationFrom1.value;
     this.http
       .get(
-        `http://rohitnehra-001-site1.htempurl.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&qeducation=${qeducation}&cLinkName=${this.currentUrl}&section=insertdetails`
+        `https://bizcallcrmforms.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&qeducation=${qeducation}&cLinkName=${this.currentUrl}&section=insertdetails`
       )
       .subscribe((res) => {
         console.log('res', res);

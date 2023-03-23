@@ -739,7 +739,8 @@
                            </owl-carousel> -->
             <!-- <gallery [items]="images2" thumbPosition="left"></gallery> -->
             
-                <!-- <div *ngFor="let itemtype of collegeData.gallery">
+                <!-- <div *ngFor="let itemtype of collegeData.gallery" id="slider">
+                  <figure>
                   <ng-container *ngFor="let item of itemtype.image">
                     <div *ngIf="item.type=='image'">
                       <div>
@@ -747,6 +748,7 @@
                       </div>
                     </div>
                   </ng-container>
+                </figure>
                 </div> -->
               </div>
           
@@ -2217,16 +2219,15 @@
                       </button>
                     </div>-->
                   </div>
-                  <div class="row row-without-gutter" *ngIf="item.type === 'question-list'" itemscope
-                    itemtype='https://schema.org/Question'>
+                  <div class="row row-without-gutter" *ngIf="item.type === 'question-list'">
                     <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus"
                       collapseIcon="pi pi-minus">
                       <div class="col-lg-12 text-center">
                         <h2 class="light-blue-text">{{ item.title }}</h2>
                       </div>
-                      <p *ngFor="let qna of item.data" itemscope itemtype='https://schema.org/Question'>
+                      <p *ngFor="let qna of item.data">
                         <p-accordionTab itemprop='text' header="{{ qna.ques }}" [selected]="false" class="accordionTab">
-                          <div itemscope itemtype='https://schema.org/Answer'>
+                          <div>
                             <p itemprop='text'>{{ qna.ans }}</p>
                           </div>
                         </p-accordionTab>
