@@ -18,8 +18,8 @@ export const angelesuniversityfoundation = {
         },
         {
             "type": "table-title",
-            "title": "Angeles University Foundation: Quick Highlights 2022",
-            "info": "<b>If you are looking to study MBBS in Philippines, then have a quick overview on some important points of AMA School of Medicine:</b>",
+            "title": "Angeles University Foundation: Quick Highlights 2023",
+            "info": "If you are looking to study MBBS in Philippines, then have a quick overview on some important points of AMA School of Medicine:",
             "col": [
             ],
             "row": [
@@ -35,7 +35,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Angeles University Foundation?",
-            "info": "<b>Following are the advantages of studying MBBS at Angeles University Foundation:</b>",
+            "info": "Following are the advantages of studying MBBS at Angeles University Foundation:",
             "data": [
                 "Angeles University Foundation is NMC approved and the degree from this university accepted across the globe.",
                 "It offers a low fee structure which is affordable for doing MBBS in Philippines medical university.",
@@ -50,7 +50,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Following are the accreditation and recognition of Is Angeles University Foundation AUF accredited?:</b>",
+            "info": "Following are the accreditation and recognition of Is Angeles University Foundation AUF accredited?:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)"
@@ -58,8 +58,8 @@ export const angelesuniversityfoundation = {
         },
         {
             "type": "table",
-            "title": "Angeles University Foundation (AUF) - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Angeles University Foundation:</b>",
+            "title": "Angeles University Foundation (AUF) - Ranking 2023",
+            "info": "According to 4icu.org, following is the country and world ranking for Angeles University Foundation:",
             "col": [
                 "Country",
                 "World"
@@ -74,7 +74,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "table",
             "title": "Cost of Living in Angeles",
-            "info": "<b>Following are the living cost of the Philippines.</b><p>The table below shows the average and approx cost of living in the Philippines for a month but it may vary according to Individual’s living</p>",
+            "info": "Following are the living cost of the Philippines.<p>The table below shows the average and approx cost of living in the Philippines for a month but it may vary according to Individual’s living</p>",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -136,8 +136,8 @@ export const angelesuniversityfoundation = {
     "coursesandfees": [
         {
             "type": "table",
-            "title": "Angeles University Foundation - MBBS Fee Structure 2022",
-            "info": "<b>Angeles University Foundation fee structure is much affordable to all students coming from across the world:</b>",
+            "title": "Angeles University Foundation - MBBS Fee Structure 2023",
+            "info": "Angeles University Foundation fee structure is much affordable to all students coming from across the world:",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -165,13 +165,14 @@ export const angelesuniversityfoundation = {
         {
             "type": "text",
             "title": "Angeles University Foundation - MBBS Duration",
-            "data": "<b>MBBS course duration is of 6 years:</b><p>Angeles University Foundation is providing all International and local students of the Philippines with 6 years. The duration of a Medical degree in the Philippines is 6 years which includes 5 years of MBBS course and 1 year of internship.</p>",
+            "info":"MBBS course duration is of 6 years:",
+            "data": "<p>Angeles University Foundation is providing all International and local students of the Philippines with 6 years. The duration of a Medical degree in the Philippines is 6 years which includes 5 years of MBBS course and 1 year of internship.</p>",
         },
 
         {
             "type": "table",
             "title": "Angeles University Foundation - MBBS Syllabus",
-            "info": "<b>Syllabus of Pre-Medical and MD Program at Angeles University Foundation:</b>",
+            "info": "Syllabus of Pre-Medical and MD Program at Angeles University Foundation:",
             "colTitle": "Syllabus For Pre-medical",
             "col": [
                 "First Term",
@@ -338,7 +339,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to the Philippines for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to the Philippines for MBBS:",
             "data": [
                 "Applicant should apply after completing 12th with Biology.",
                 "General Category requires a minimum aggregate of 50% in PCB.",
@@ -349,7 +350,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following are the steps to take admission for MBBS in Philippines</b>",
+            "info": "Following are the steps to take admission for MBBS in Philippines",
             "data": [
                 "<b>Step 1:</b> The Student Should Submit The Application To The Chairman Of The Committee With The Above Documents To The Secretary.",
                 "<b>Step 2:</b> An Orientation Program Is Conducted For The Applicants And Their Parents/Guardian.",
@@ -361,7 +362,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Students need to have the following documents for the admission process:</b>",
+            "info": "Students need to have the following documents for the admission process:",
             "data": [
                 "Academic documents of 11th and 12th",
                 "Birth certificate",
@@ -376,8 +377,8 @@ export const angelesuniversityfoundation = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should consider the following important dates to follow the timetable of admission dates:</b>",
+            "title": "Important Dates - Intake 2023",
+            "info": "Students should consider the following important dates to follow the timetable of admission dates:",
             "col": [
                 "Events",
                 "Dates"
@@ -473,6 +474,20 @@ export const angelesuniversityfoundation = {
         }
     ],
     "scholarship": [
+
+
+        {
+            "type": "list-bollet",
+            "title": "Scholarship",
+            "info": "",
+            "data": [
+                "Education Future International Scholarship - USA & Non - USA 2022",
+                "HEST 2023 - Higher Education Scholarship Test For Indian Students",
+                "Race To Zero Youth Fellowship",
+                "British Council Scholarships For Women In STEM, 2022",
+                "ADB-Japan Scholarship Program For Developing Countries In Asia And Pacific 2022"
+            ]
+        },
         {
             type: "meta",
             meta: [
@@ -533,7 +548,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "list-bollet",
             "title": "Hostel & Food",
-            "info": "<b>Angeles University Foundation offers fully furnished and comfortable accommodation facilities:</b>",
+            "info": "Angeles University Foundation offers fully furnished and comfortable accommodation facilities:",
             "data": [
                 "Complete power back-up",
                 "Free bus service between hostel and campus",
@@ -589,7 +604,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "question-list",
             "title": "Angeles University Foundation - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q.Is it a catholic university?",

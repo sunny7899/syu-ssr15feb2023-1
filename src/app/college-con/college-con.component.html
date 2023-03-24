@@ -862,7 +862,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text">
-                      <p [innerHTML]="item.info"></p>
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -898,7 +898,7 @@
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div [ngClass]="item.col != undefined && item.col.length > 3 ? 'overflow-x-auto': ' '">
                       <table [ngClass]="item.col != undefined && item.col.length > 3 ? 'width-500': 'width-auto'"
@@ -923,7 +923,7 @@
                   </div>
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -955,7 +955,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
@@ -966,7 +966,7 @@
 
                   <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -979,7 +979,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
@@ -998,7 +998,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                      <p [innerHTML]="item.info"></p>
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -1033,7 +1033,7 @@
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table">
                       <thead>
@@ -1056,7 +1056,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -1088,7 +1088,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
@@ -1100,7 +1100,7 @@
 
                   <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -1115,7 +1115,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
@@ -1163,7 +1163,7 @@
 
                   <div *ngIf="item.type == 'api-table' && item.useOf == 'Event'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table3">
                       <thead>
                         <tr>
@@ -1186,7 +1186,7 @@
 
                   <div *ngIf="item.type == 'api-table' && item.useOf == 'Course'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table4">
                       <thead>
                         <tr>
@@ -1209,7 +1209,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                      <p [innerHTML]="item.info"></p>
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -1244,7 +1244,7 @@
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table5">
                       <thead>
@@ -1267,7 +1267,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -1299,7 +1299,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
@@ -1311,7 +1311,7 @@
 
                   <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -1326,7 +1326,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
@@ -1349,7 +1349,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                      <p [innerHTML]="item.info"></p>
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -1384,7 +1384,7 @@
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table6">
                       <thead>
@@ -1407,7 +1407,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -1439,7 +1439,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">{{ Listitem }}<p [innerHTML]="Listitem"></p>
@@ -1450,7 +1450,7 @@
 
                   <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -1465,7 +1465,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
@@ -1485,7 +1485,7 @@
                 <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.placement">
                   <div *ngIf="item.type == 'api-table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table7">
                       <thead>
                         <tr>
@@ -1529,7 +1529,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                      <p [innerHTML]="item.info"></p>
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -1564,7 +1564,7 @@
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table8">
                       <thead>
@@ -1587,7 +1587,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -1619,7 +1619,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
@@ -1631,7 +1631,7 @@
 
                   <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -1646,7 +1646,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
@@ -1786,7 +1786,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                      <p [innerHTML]="item.info"></p>
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -1821,7 +1821,7 @@
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div [ngClass]="item.col != undefined && item.col.length > 3 ? 'overflow-x-auto': ' '">
                       <table [ngClass]="item.col != undefined && item.col.length > 3 ? 'width-500': 'width-auto'"
@@ -1847,7 +1847,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -1880,7 +1880,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
@@ -1892,7 +1892,7 @@
 
                   <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -1907,7 +1907,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
@@ -1929,7 +1929,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                      <p [innerHTML]="item.info"></p>
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -1964,7 +1964,7 @@
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table9">
                       <thead>
@@ -1986,7 +1986,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -2017,7 +2017,7 @@
                   </div>
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
@@ -2029,7 +2029,7 @@
 
                   <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -2044,7 +2044,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
@@ -2094,7 +2094,7 @@
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                      <p [innerHTML]="item.info"></p>
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -2129,7 +2129,7 @@
                   <div id="quick" #quick></div>
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table10">
                       <thead>
@@ -2153,7 +2153,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -2185,7 +2185,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
@@ -2197,7 +2197,7 @@
 
                   <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -2212,7 +2212,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
@@ -2234,7 +2234,7 @@
                   <div *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
                     <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                      <p [innerHTML]="item.info"></p>
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -2270,7 +2270,7 @@
                   <div id="quick" #quick></div>
                   <div *ngIf="item.type == 'table'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table class="table text-center table-hover  w-100 d-md-table" id="quick-table11">
                       <thead>
@@ -2293,7 +2293,7 @@
 
                   <div *ngIf="item.type == 'table-title'">
                     <h2 class="size" [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -2325,7 +2325,7 @@
 
                   <div *ngIf="item.type == 'list-bollet'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
@@ -2337,7 +2337,7 @@
 
                   <div class="col-12" id="number" *ngIf="item.type == 'number-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -2352,7 +2352,7 @@
 
                   <div *ngIf="item.type == 'step-list'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <p [innerHTML]="item.info"></p>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">

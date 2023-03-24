@@ -119,7 +119,7 @@ export const mbbsinphilippines = {
         },
         {
             "type": "table",
-            title: 'MBBS in Philippines - Intake for 2022',
+            title: 'MBBS in Philippines - Intake for 2023',
             info: '',
             "col": [
                 "Events",
