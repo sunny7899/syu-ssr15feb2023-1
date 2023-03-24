@@ -7,7 +7,6 @@ export const suryadattainstituteofbusinessmanagementandtechnologysibmtpune = {
     "shareLink": "",
     "url": "suryadatta-institute-of-business-management-and-technology-sibmt-pune",
     "info": [
-
         {
             "type": "title",
             "title": "Suryadatta Institute of Business Management & Technology, Pune"
@@ -131,7 +130,69 @@ export const suryadattainstituteofbusinessmanagementandtechnologysibmtpune = {
             ]
         }
     ],
+    "coursesandfees": [
+        {
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - courses & Fees"
+        },
+        {
+            type: 'text',
+            title: 'Courses Offered at SIBMT',
+            img: '',
+            data: '<p>Suryadatta Institute of Business Management & Technology (SIBMT) offers Savitribai Phule Pune University affiliated, AICTE Approved, & Govt. of Maharashtra Recognized Two years Full-Time MBA course. It also offers a PGDM course with dual specializations available for students’ benefits.</p>'
+        },
+        {
+            type: 'text',
+            title: '1 MBA',
+            data: '<p><b>Duration</b> : 2 Years Full time</p>'
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Key Specializations Available:",
+            "data": [
+                "Marketing Management",
+                "Finance Management",
+                "Technology Management",
+                "Technology Management",
+                "Operations Management",
+                "Banking & Insurance Management",
+                "Entrepreneurship Management",
+                "Service Management",
+                "Retail Management",
+                "Defence Management",
+
+            ]
+        },
+        {
+            type: 'text',
+            title: '2 PGDM',
+            data: '<p><b>Duration</b> : 2 Years Full time</p>'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - courses & Fees" },
+                { name: "description", content: "Suryadatta Education Foundation (AICTE Approved) offers competitive fees for its courses, with a focus on providing high-quality education. Check available courses and fees" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - courses & Fees"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/suryadatta-institute-of-business-management-and-technology-sibmt-pune/courses-and-fees" }
+            ]
+        }
+    ],
     "admission": [
+        {
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Admission 2023 "
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For Studying MBA at SIBMT",
@@ -231,100 +292,34 @@ export const suryadattainstituteofbusinessmanagementandtechnologysibmtpune = {
             ]
         }
     ],
-    "coursesandfees": [
+    "review": [
         {
-            type: 'text',
-            title: 'Courses Offered at SIBMT',
-            img: '',
-            data: '<p>Suryadatta Institute of Business Management & Technology (SIBMT) offers Savitribai Phule Pune University affiliated, AICTE Approved, & Govt. of Maharashtra Recognized Two years Full-Time MBA course. It also offers a PGDM course with dual specializations available for students’ benefits.</p>'
-        },
-        {
-            type: 'text',
-            title: '1 MBA',
-            data: '<p><b>Duration</b> : 2 Years Full time</p>'
-        },
-
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Key Specializations Available:",
-            "data": [
-                "Marketing Management",
-                "Finance Management",
-                "Technology Management",
-                "Technology Management",
-                "Operations Management",
-                "Banking & Insurance Management",
-                "Entrepreneurship Management",
-                "Service Management",
-                "Retail Management",
-                "Defence Management",
-
-            ]
-        },
-        {
-            type: 'text',
-            title: '2 PGDM',
-            data: '<p><b>Duration</b> : 2 Years Full time</p>'
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Reviews"
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - courses & Fees" },
-                { name: "description", content: "Suryadatta Education Foundation (AICTE Approved) offers competitive fees for its courses, with a focus on providing high-quality education. Check available courses and fees" },
+                { name: "title", content: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
             type: "meta-title",
-            title: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - courses & Fees"
+            title: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Reviews"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/suryadatta-institute-of-business-management-and-technology-sibmt-pune/courses-and-fees" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/suryadatta-institute-of-business-management-and-technology-sibmt-pune/reviews" }
             ]
         }
     ],
-    "Gallery": [
+    "placement": [
         {
-            type: 'text',
-            title: 'Gallery',
-            img: 'https://www.selectyouruniversity.com/images/courses/mba/suryadatta-institute-of-business-management-and-technology/cafeteria-of-ntsuryadatta-institute-of-business-management-and-technology.jpg',
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Placement"
         },
-        {
-            type: 'text',
-            title: '',
-            img: 'https://www.selectyouruniversity.com/images/courses/mba/suryadatta-institute-of-business-management-and-technology/classroom-of-suryadatta-institute-of-business-management-and-technology.jpg',
-        },
-        {
-            type: 'text',
-            title: '',
-            img: 'https://www.selectyouruniversity.com/images/courses/mba/suryadatta-institute-of-business-management-and-technology/conference-hall-suryadatta-institute-of-business-management-and-technology.jpg',
-        },
-        {
-            type: 'text',
-            title: '',
-            img: 'https://www.selectyouruniversity.com/images/courses/mba/suryadatta-institute-of-business-management-and-technology/gymnasium-of-suryadatta-institute-of-business-management-and-technology.jpg',
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Gallery" },
-                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Gallery"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/suryadatta-institute-of-business-management-and-technology-sibmt-pune/gallery" }
-            ]
-        }
-    ],
-    "Placement": [
         {
             "type": "list-bollet",
             "title": "Placements at SIBMT",
@@ -375,9 +370,92 @@ export const suryadattainstituteofbusinessmanagementandtechnologysibmtpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/suryadatta-institute-of-business-management-and-technology-sibmt-pune/placement" }
             ]
         }
-
     ],
-    "Faculty": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Gallery"
+        },
+        {
+            type: 'text',
+            title: 'Gallery',
+            img: 'https://www.selectyouruniversity.com/images/courses/mba/suryadatta-institute-of-business-management-and-technology/cafeteria-of-ntsuryadatta-institute-of-business-management-and-technology.jpg',
+        },
+        {
+            type: 'text',
+            title: '',
+            img: 'https://www.selectyouruniversity.com/images/courses/mba/suryadatta-institute-of-business-management-and-technology/classroom-of-suryadatta-institute-of-business-management-and-technology.jpg',
+        },
+        {
+            type: 'text',
+            title: '',
+            img: 'https://www.selectyouruniversity.com/images/courses/mba/suryadatta-institute-of-business-management-and-technology/conference-hall-suryadatta-institute-of-business-management-and-technology.jpg',
+        },
+        {
+            type: 'text',
+            title: '',
+            img: 'https://www.selectyouruniversity.com/images/courses/mba/suryadatta-institute-of-business-management-and-technology/gymnasium-of-suryadatta-institute-of-business-management-and-technology.jpg',
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/suryadatta-institute-of-business-management-and-technology-sibmt-pune/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Scholarship"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Scholarships - ",
+            "info": "These are the following scholarships offered by the University -",
+            "data": [
+                "Scholarship & Free ship for SC, ST, SBC, OBC",
+                "EBC for Open (Income below Rs. 1,00,000/-)",
+                "Primary Teacher Concession",
+                "Secondary Teacher Concession",
+                "Merit Scholarship",
+                "Prime minister Scholarship",
+                "Bhosale Trust Scholarships"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Scholarship" },
+                { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/suryadatta-institute-of-business-management-and-technology-sibmt-pune/scholarship" }
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -453,59 +531,11 @@ export const suryadattainstituteofbusinessmanagementandtechnologysibmtpune = {
             ]
         }
     ],
-    "Scholarship": [
+    "news": [
         {
-            "type": "list-bollet",
-            "title": "Scholarships - ",
-            "info": "<b>These are the following scholarships offered by the University -</b>",
-            "data": [
-                "Scholarship & Free ship for SC, ST, SBC, OBC",
-                "EBC for Open (Income below Rs. 1,00,000/-)",
-                "Primary Teacher Concession",
-                "Secondary Teacher Concession",
-                "Merit Scholarship",
-                "Prime minister Scholarship",
-                "Bhosale Trust Scholarships"
-            ]
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - News & Articles"
         },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Scholarship" },
-                { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Scholarship"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/suryadatta-institute-of-business-management-and-technology-sibmt-pune/scholarship" }
-            ]
-        }
-    ],
-    "reviews": [
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Reviews" },
-                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Reviews"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/suryadatta-institute-of-business-management-and-technology-sibmt-pune/reviews" }
-            ]
-        }
-    ],
-    "News": [
         {
             type: "meta",
             meta: [
@@ -524,7 +554,11 @@ export const suryadattainstituteofbusinessmanagementandtechnologysibmtpune = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -544,6 +578,10 @@ export const suryadattainstituteofbusinessmanagementandtechnologysibmtpune = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Suryadatta Institute of Business Management & Technology (SIBMT), Pune - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

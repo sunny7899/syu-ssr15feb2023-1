@@ -24,7 +24,7 @@ export const cambridgeinstituteoftechnologycitbangalore = {
                 "To become a premier institute providing a global education.",
                 "To impart quality education and support research development programs.",
                 "To adapt excellent teaching-learning pedagogy and produce competent professionals, entrepreneurs.",
-                " To nurture the students for achieving the career goals."
+                "To nurture the students for achieving the career goals."
             ]
         },
         {
@@ -50,9 +50,9 @@ export const cambridgeinstituteoftechnologycitbangalore = {
             "info": "Placement process at CIT takes place in four stages:",
             "data": [
                 "Career Guidance",
-                " Executing placements",
+                "Executing placements",
                 "Preplacement activities",
-                " Postplacement reviews"
+                "Postplacement reviews"
             ]
         },
         {
@@ -89,10 +89,12 @@ export const cambridgeinstituteoftechnologycitbangalore = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/cambridge-institute-of-technology-cit-bangalore" }
             ]
         }
-
-
     ],
     "coursesandfees": [
+        {
+            type: "title",
+            title: "Cambridge Institute of Technology - courses & Fees"
+        },
         {
             "type": "table",
             "title": "Cambridge Institute of Technology, Bangalore - MCA Course Fee Structure 2022",
@@ -109,13 +111,8 @@ export const cambridgeinstituteoftechnologycitbangalore = {
                     "Particulars": "Fee in Indian Rupees",
                     "Course Fee": "Rs.54,390"
                 }
-
-            ]
-        },
-        {
-            "type": "text",
-            "title": "",
-            "data": '<p><strong style="color: red;"><u>Note: </u></strong>1$ = Rs.70</p>'
+            ],
+            heading: '<p><strong style="color: red;"><u>Note: </u></strong>1$ = Rs.70</p>'
         },
         {
             "type": "table",
@@ -125,10 +122,7 @@ export const cambridgeinstituteoftechnologycitbangalore = {
                 "Duration",
                 "Intake"
             ],
-            "row": [
-
-
-            ]
+            "row": []
         },
         {
             type: "meta",
@@ -149,6 +143,10 @@ export const cambridgeinstituteoftechnologycitbangalore = {
         }
     ],
     "admission": [
+        {
+            type: "title",
+            title: "Cambridge Institute of Technology - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -177,7 +175,7 @@ export const cambridgeinstituteoftechnologycitbangalore = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>To apply for MCA at CIT, a candidate needs to clear one of the following examinations:</b>",
+            "info": "To apply for MCA at CIT, a candidate needs to clear one of the following examinations:",
             "data": [
                 "Post Graduate Common Entrance Test",
                 "Graduate Aptitude Test in Engineering",
@@ -219,40 +217,34 @@ export const cambridgeinstituteoftechnologycitbangalore = {
         }
 
     ],
-    "Gallery": {},
-    "Hostel": [
+    "review": [
         {
-            "type": "list-bollet",
-            "title": "Hostel and Accommodation",
-            "info": "",
-            "data": [
-                "Accommodation",
-                "Dining Hall",
-                "Mess",
-                "Hostel",
-                "Water Supply",
-                "Library"
-            ]
+            type: "title",
+            title: "Cambridge Institute of Technology - Reviews"
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Cambridge Institute of Technology - Hostel " },
-                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+                { name: "title", content: "Cambridge Institute of Technology - Reviews " },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
             type: "meta-title",
-            title: "Cambridge Institute of Technology - Hostel "
+            title: "Cambridge Institute of Technology - Reviews "
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/cambridge-institute-of-technology-cit-bangalore/hostel" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/cambridge-institute-of-technology-cit-bangalore/reviews" }
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            type: "title",
+            title: "Cambridge Institute of Technology - Placement"
+        },
         {
             "type": "text",
             "title": "Placements at Cambridge Institute of Technology",
@@ -299,11 +291,38 @@ export const cambridgeinstituteoftechnologycitbangalore = {
             ]
         }
     ],
-    "Scholarship": [
+    "gallery": [
+        {
+            type: "title",
+            title: "Cambridge Institute of Technology - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Cambridge Institute of Technology - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Cambridge Institute of Technology - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/cambridge-institute-of-technology-cit-bangalore/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: "title",
+            title: "Cambridge Institute of Technology - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following are the scholarships offered by the Cambridge Institute of Technology  -            </b>",
+            "info": "Following are the scholarships offered by the Cambridge Institute of Technology  - ",
             "data": [
                 "Government Scholarship",
                 "Rajiv Gandhi National Fellowship for SC/ST Candidate"
@@ -328,7 +347,11 @@ export const cambridgeinstituteoftechnologycitbangalore = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            type: "title",
+            title: "Cambridge Institute of Technology - Faculty"
+        },
         {
             "type": "table",
             "title": "Cambridge Institute of Technology, Bangalore - MCA Course Fee Structure 2022",
@@ -374,16 +397,83 @@ export const cambridgeinstituteoftechnologycitbangalore = {
             ]
         }
     ],
-    "News": {},
-    "faq":
-    [
+    "news": [
+        {
+            type: "title",
+            title: "Cambridge Institute of Technology - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Cambridge Institute of Technology - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Cambridge Institute of Technology - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/cambridge-institute-of-technology-cit-bangalore/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: "title",
+            title: "Cambridge Institute of Technology - Hostel"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Hostel and Accommodation",
+            "info": "",
+            "data": [
+                "Accommodation",
+                "Dining Hall",
+                "Mess",
+                "Hostel",
+                "Water Supply",
+                "Library"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Cambridge Institute of Technology - Hostel " },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Cambridge Institute of Technology - Hostel "
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/cambridge-institute-of-technology-cit-bangalore/hostel" }
+            ]
+        }
+    ],
+    "faq": [
+        {
+            type: "title",
+            title: "Cambridge Institute of Technology - FAQ"
+        },
         {
             "type": "question-list",
             "title": "FAQs",
             "info": "",
             "data": [
-                { "ques": "Q. Is the infrastructure of Cambridge Institute of Technology good ?", "ans": "The campus of Cambridge Institute of Technology is spread over 20 acres with 500+ coaching experts. The campus consists of sports, a library, a hostel, transport, and lots more facilities." },
-                { "ques": "Q. What is the overall fee of the Cambridge Institute of Technology BE course?", "ans": " The total charge of the Cambridge Institute of Technology BE course is INR 8 lakh.                " },
+                {
+                    "ques": "Q. Is the infrastructure of Cambridge Institute of Technology good ?",
+                    "ans": "The campus of Cambridge Institute of Technology is spread over 20 acres with 500+ coaching experts. The campus consists of sports, a library, a hostel, transport, and lots more facilities."
+                },
+                {
+                    "ques": "Q. What is the overall fee of the Cambridge Institute of Technology BE course?",
+                    "ans": " The total charge of the Cambridge Institute of Technology BE course is INR 8 lakh."
+                },
                 {
                     "ques": "Q. Is Cambridge Institute of Technology recognized?",
                     "ans": "Yes, the Cambridge Institute of Technology is recognized through the UGC and AICTE. Also, they are affiliated with Visvesvaraya Technological University (VTU)."
@@ -399,21 +489,21 @@ export const cambridgeinstituteoftechnologycitbangalore = {
             ]
         },
         {
-          type: "meta",
-          meta: [
-            { name: "title", content: "Cambridge Institute of Technology - FAQ" },
-            { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-          ],
+            type: "meta",
+            meta: [
+                { name: "title", content: "Cambridge Institute of Technology - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
         },
         {
-          type: "meta-title",
-          title: "Cambridge Institute of Technology - FAQ"
+            type: "meta-title",
+            title: "Cambridge Institute of Technology - FAQ"
         },
         {
-          type: "meta-links",
-          link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/college/cambridge-institute-of-technology-cit-bangalore/faq" }
-          ]
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/cambridge-institute-of-technology-cit-bangalore/faq" }
+            ]
         }
     ]
 

@@ -1,4 +1,3 @@
-
 export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
     "Title": "Indraprastha Institute of Technology & Management",
     "shortTitle": "Indraprastha Institute of Technology & Management",
@@ -12,7 +11,6 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
             "type": "title",
             "title": "Indraprastha Institute of Technology & Management"
         },
-
         {
             type: 'text',
             title: 'About Indraprastha Institute of Technology & Management, Delhi',
@@ -78,7 +76,6 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
                 "Laboratory",
             ]
         },
-        
         {
             type: "meta",
             meta: [
@@ -96,11 +93,12 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/indraprastha-institute-of-technology-and-management-iitm-new-delhi" }
             ]
         }
-
-
-
     ],
     "coursesandfees": [
+        {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - courses & Fees"
+        },
         {
             "type": "table",
             "title": "Indraprastha Institute of Technology & Management - Fee Structure 2022",
@@ -127,7 +125,7 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
                     "Annual Fee (Per year)": "Rs.1,10,600",
                 },
             ],
-            "heading": "<p><b>Note: </b>1$ = Rs.70</p>"
+            heading: "<p><b>Note: </b>1$ = Rs.70</p>"
         },
         {
             "type": "table",
@@ -289,6 +287,10 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria at IITM",
             "info": "",
@@ -327,7 +329,11 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -346,16 +352,20 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - Placement"
+        },
         {
             "type": "text",
             "title": "Placements at IITM",
-            "info": "<p>Placements coordinators at IITM conducts pre interviews to analyze students performance and encourage the students to stand on recruiters expectations. The process includes career counseling, interview skill classes, personality development sessions etc.</p>",
+            "data": "<p>Placements coordinators at IITM conducts pre interviews to analyze students performance and encourage the students to stand on recruiters expectations. The process includes career counseling, interview skill classes, personality development sessions etc.</p>",
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Top Recruiters at IITM:</b>",
+            "info": "Top Recruiters at IITM:",
             "col": [
                 "Semester V",
                 "Semester VI",
@@ -385,7 +395,11 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -404,11 +418,15 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following are the scholarships offered by the Indraprastha Institute of Technology & Management -</b>",
+            "info": "Following are the scholarships offered by the Indraprastha Institute of Technology & Management -",
             "data": [
                 "Chairman’s Merit Scholarship",
                 "Income Linked fee Waiver",
@@ -432,7 +450,11 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -478,7 +500,11 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -497,7 +523,11 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -517,6 +547,10 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Indraprastha Institute of Technology & Management (IITM), Delhi - FAQ"
+        },
         {
             "type": "question-list",
             "title": "FAQs",
@@ -562,8 +596,4 @@ export const indraprasthainstituteoftechnologyandmanagementiitmnewdelhi = {
             ]
         }
     ]
-
-
-
-
 }

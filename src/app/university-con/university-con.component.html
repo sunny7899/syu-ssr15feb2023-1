@@ -139,21 +139,12 @@
 
             <ng-template #template>
               <section class="form">
-                <button
-                  type="button"
-                  class="close pull-right"
-                  aria-label="Close"
-                  (click)="modalRef.hide()"
-                >
+                <button type="button" class="close pull-right" aria-label="Close" (click)="modalRef.hide()">
                   <span aria-hidden="true">&times;</span>
                 </button>
                 <div class="modal-header">
-                  <img
-                    src="../../assets/img/new_logo_color.png"
-                    width="220px"
-                    height="auto"
-                    class="syuLogo college-page-logo"
-                  />
+                  <img src="../../assets/img/new_logo_color.png" width="220px" height="auto"
+                    class="syuLogo college-page-logo" />
                   <h4 class="modal-title text-center">A Place Where Your Career Matters</h4>
                 </div>
                 <div class="container">
@@ -178,19 +169,13 @@
                         <div class="row">
                           <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="card shortlist-card text-center">
-                              <img
-                                src="../../assets/img/Application-Deadlines.png"
-                                class="center img-size"
-                              />
+                              <img src="../../assets/img/Application-Deadlines.png" class="center img-size" />
                               <div class="shortlist-txt">Application Deadlines</div>
                             </div>
                           </div>
                           <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="card shortlist-card">
-                              <img
-                                src="../../assets/img/Brochure Details.png"
-                                class="center img-size"
-                              />
+                              <img src="../../assets/img/Brochure Details.png" class="center img-size" />
                               <div class="shortlist-txt text-center">Brochure Details</div>
                             </div>
                           </div>
@@ -198,26 +183,20 @@
                         <div class="row form-div">
                           <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="card shortlist-card">
-                              <img
-                                src="../../assets/img/Councelling.png"
-                                class="center img-size"
-                              />
+                              <img src="../../assets/img/Councelling.png" class="center img-size" />
                               <div class="shortlist-txt text-center">Councelling</div>
                             </div>
                           </div>
                           <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="card shortlist-card">
-                              <img
-                                src="../../assets/img/Check-detalied-fees.png"
-                                class="center img-size"
-                              />
+                              <img src="../../assets/img/Check-detalied-fees.png" class="center img-size" />
                               <div class="shortlist-txt text-center">Check Detalied Fees</div>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
-              
+
                     <!-- Right Card Form 1-->
                     <div class="col-lg-8 col-md-8" *ngIf="form1 === true">
                       <div class="card form-card">
@@ -236,15 +215,11 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-user"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="Full Name*"
-                                    id="name"
-                                    formControlName="cCandidateName"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="Full Name*" id="name" formControlName="cCandidateName" />
                                 </div>
-                                <div *ngIf="m['cCandidateName'].touched && m['cCandidateName'].invalid" class="validation">
+                                <div *ngIf="m['cCandidateName'].touched && m['cCandidateName'].invalid"
+                                  class="validation">
                                   <div *ngIf="m['cCandidateName'].errors['required']">Please Enter Full Name</div>
                                 </div>
                               </div>
@@ -253,13 +228,8 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-envelope"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="Email Address*"
-                                    id="email"
-                                    formControlName="cEmail"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="Email Address*" id="email" formControlName="cEmail" />
                                 </div>
                                 <div *ngIf="m['cEmail'].touched && m['cEmail'].invalid" class="validation">
                                   <div *ngIf="m['cEmail'].errors['required']">Please enter email address</div>
@@ -275,13 +245,8 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-phone flip"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="number"
-                                    placeholder="Mobile Number*"
-                                    id="number"
-                                    formControlName="cMobile"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="number"
+                                    placeholder="Mobile Number*" id="number" formControlName="cMobile" />
                                 </div>
                                 <div *ngIf="m['cMobile'].touched && m['cMobile'].invalid" class="validation">
                                   <div *ngIf="m['cMobile'].errors['required']">Please enter mobile number</div>
@@ -293,13 +258,8 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-map-marker"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="City You Live In*"
-                                    id="city"
-                                    formControlName="cCity"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="City You Live In*" id="city" formControlName="cCity" />
                                 </div>
                                 <div *ngIf="m['cCity'].touched && m['cCity'].invalid" class="validation">
                                   <div *ngIf="m['cCity'].errors['required']">Please enter city</div>
@@ -314,13 +274,8 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-graduation-cap"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="Course Interested In*"
-                                    id="course"
-                                    formControlName="cCourse"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="Course Interested In*" id="course" formControlName="cCourse" />
                                 </div>
                                 <div *ngIf="m['cCourse'].touched && m['cCourse'].invalid" class="validation">
                                   <div *ngIf="m['cCourse'].errors['required']">Please enter Course</div>
@@ -331,13 +286,9 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-graduation-cap"></i>
                                   </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input"
-                                    type="text"
-                                    placeholder="Select Highest Education*"
-                                    id="education"
-                                    formControlName="qeducation"
-                                  />
+                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                    placeholder="Select Highest Education*" id="education"
+                                    formControlName="qeducation" />
                                 </div>
                                 <div *ngIf="m['qeducation'].touched && m['qeducation'].invalid" class="validation">
                                   <div *ngIf="m['qeducation'].errors['required']">Please enter Education</div>
@@ -346,23 +297,18 @@
                               <div class="terms">
                                 <p>
                                   By submitting this form, you accept and agree to our<span
-                                    style="color: cornflowerblue"
-                                  >
+                                    style="color: cornflowerblue">
                                     Terms of use
                                   </span>
                                 </p>
                               </div>
                               <div class="row">
-                                <div class="col-lg-10 col-md-10 col-sm-10 login-block">
+                                <!-- <div class="col-lg-10 col-md-10 col-sm-10 login-block">
                                   Already Registered? Click Here To Login.
-                                </div>
+                                </div> -->
                                 <div class="col-lg-2 col-md-2 col-sm-2">
-                                  <button
-                                    type="button"
-                                    class="btn submit"
-                                    [disabled]="!RegistrationFrom1.valid"
-                                    (click)="submitForm1()"
-                                  >
+                                  <button type="button" class="btn submit" [disabled]="!RegistrationFrom1.valid"
+                                    (click)="submitForm1()">
                                     SUBMIT
                                   </button>
                                 </div>
@@ -372,16 +318,36 @@
                         </form>
                       </div>
                     </div>
-              
+
+                    <!--thank you message div-->
+                    <div class="vh-50 d-flex justify-content-center align-items-center" *ngIf="form2 === true"
+                      id="thankyouform">
+                      <div>
+                        <div class="mb-4 text-center">
+                          <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75"
+                            fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                            <path
+                              d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
+                          </svg>
+                        </div>
+                        <div class="text-center">
+                          <h1>Thank You !</h1>
+                          <p>Your submission has bees sent. </p>
+                        </div>
+                      </div>
+                    </div>
+
                     <!-- Right Card Form 2-->
-                    <div class="col-lg-8 col-md-8" *ngIf="form2 === true">
+                    <!-- <div class="col-lg-8 col-md-8" *ngIf="form2 === true">
                       <div class="card form-card">
                         <h5 class="form-head text-center">Register Now To Apply</h5>
-                        <div>
-                          <!-- <p class="sub-title text-center">
+                        <div> -->
+
+                    <!-- <p class="sub-title text-center">
                             IIT Gandhinagar - Indian Institute of Technology -[IITG]
                           </p> -->
-                        </div>
+
+                    <!-- </div>
                         <div>
                           <h5 class="edu-title text-center">Current Education Details</h5>
                         </div>
@@ -389,11 +355,13 @@
                           <div class="form-div">
                             <div class="row">
                               <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                <div class="input-group">
-                                  <!-- <div class="input-group-text bg-transparent icon"> -->
-                                  <!-- <i class="fa fa-user"></i> -->
-                                  <!-- </div> -->
-                                  <input
+                                <div class="input-group"> -->
+
+                    <!-- <div class="input-group-text bg-transparent icon"> -->
+                    <!-- <i class="fa fa-user"></i> -->
+                    <!-- </div> -->
+
+                    <!-- <input
                                     class="form-control py-2 border-right-0 border form-input1"
                                     type="text"
                                     placeholder="Select Graduation College/Institue*"
@@ -413,11 +381,13 @@
                                 </div>
                               </div>
                               <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="input-group">
-                                  <!-- <div class="input-group-text bg-transparent icon"> -->
-                                  <!-- <i class="fa fa-envelope"></i> -->
-                                  <!-- </div> -->
-                                  <input
+                                <div class="input-group"> -->
+
+                    <!-- <div class="input-group-text bg-transparent icon"> -->
+                    <!-- <i class="fa fa-envelope"></i> -->
+                    <!-- </div> -->
+
+                    <!-- <input
                                     class="form-control py-2 border-right-0 border form-input1"
                                     type="text"
                                     placeholder="Which Course Did You Do?*"
@@ -441,11 +411,13 @@
                           <div class="form-div">
                             <div class="row">
                               <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                <div class="input-group">
-                                  <!-- <div class="input-group-text bg-transparent icon"> -->
-                                  <!-- <i class="fa fa-phone flip"></i> -->
-                                  <!-- </div> -->
-                                  <input
+                                <div class="input-group"> -->
+
+                    <!-- <div class="input-group-text bg-transparent icon"> -->
+                    <!-- <i class="fa fa-phone flip"></i> -->
+                    <!-- </div> -->
+
+                    <!-- <input
                                     class="form-control py-2 border-right-0 border form-input1"
                                     type="number"
                                     placeholder="Graduation Percentage* "
@@ -465,11 +437,13 @@
                                 </div>
                               </div>
                               <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="input-group">
-                                  <!-- <div class="input-group-text bg-transparent icon"> -->
-                                  <!-- <i class="fa fa-map-marker"></i> -->
-                                  <!-- </div> -->
-                                  <input
+                                <div class="input-group"> -->
+
+                    <!-- <div class="input-group-text bg-transparent icon"> -->
+                    <!-- <i class="fa fa-map-marker"></i> -->
+                    <!-- </div> -->
+
+                    <!-- <input
                                     class="form-control py-2 border-right-0 border form-input1"
                                     type="text"
                                     placeholder="Work Experience (in years)*"
@@ -523,8 +497,9 @@
                                     id="name"
                                     formControlName="qgate"
                                   />
-                                </div>
-                                <!-- <div
+                                </div> -->
+
+                    <!-- <div
                                   class="validation"
                                   *ngIf="
                                     RegistrationFrom2.get('qgate').invalid &&
@@ -534,7 +509,8 @@
                                 >
                                   Enter GATE Score.
                                 </div> -->
-                              </div>
+
+                    <!-- </div>
                               <div class="col-lg-4">
                                 <div class="input-group">
                                   <input
@@ -544,8 +520,9 @@
                                     id="name"
                                     formControlName="qgre"
                                   />
-                                </div>
-                                <!-- <div
+                                </div> -->
+
+                    <!-- <div
                                   class="validation"
                                   *ngIf="
                                     RegistrationFrom2.get('qgre').invalid &&
@@ -555,7 +532,8 @@
                                 >
                                   Enter GRE Score.
                                 </div> -->
-                              </div>
+
+                    <!-- </div>
                               <div class="col-lg-2"></div>
                             </div>
                             <div class="row" style="margin-top: 12px">
@@ -579,16 +557,18 @@
                           </div>
                         </form>
                       </div>
-                    </div>
+                    </div> -->
                     <!-- Right Card Form 3-->
-                    <div class="col-lg-8 col-md-8" *ngIf="form3 === true">
+                    <!-- <div class="col-lg-8 col-md-8" *ngIf="form3 === true">
                       <div class="card form-card">
                         <h5 class="form-head text-center">Register Now To Apply</h5>
-                        <div>
-                          <!-- <p class="sub-title text-center">
+                        <div> -->
+
+                    <!-- <p class="sub-title text-center">
                             IIT Gandhinagar - Indian Institute of Technology -[IITG]
                           </p> -->
-                        </div>
+
+                    <!-- </div>
                         <div>
                           <h5 class="edu-title text-center">Past Education Details</h5>
                         </div>
@@ -701,11 +681,13 @@
                     <div class="col-lg-8 col-md-8" *ngIf="form4 === true">
                       <div class="card form-card">
                         <h5 class="form-head text-center">Register Now To Apply</h5>
-                        <div>
-                          <!-- <p class="sub-title text-center">
+                        <div> -->
+
+                    <!-- <p class="sub-title text-center">
                             IIT Gandhinagar - Indian Institute of Technology -[IITG]
                           </p> -->
-                        </div>
+
+                    <!-- </div>
                         <div>
                           <h5 class="edu-title text-center">Past Education Details</h5>
                         </div>
@@ -838,13 +820,13 @@
                           </div>
                         </form>
                       </div>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
               </section>
-              
+
             </ng-template>
-            
+
             <div class="row row-without-gutter add-info">
               <div class="flex-holder3">
                 <img src="../../assets/img/College_Icons/2.IIT_Delhi/rating2.png" alt="" class="rating-img" />
@@ -1847,7 +1829,7 @@
                       <ng-container *ngFor="let item of itemtype.image">
                         <div *ngIf="item.type=='image'">
                           <div>
-                            <img src={{item.data}} />
+                            <img src={{item.data}} alt={{item.alt}} />
                           </div>
                         </div>
                       </ng-container>
@@ -1889,11 +1871,10 @@
                       <ng-container *ngFor="let item of itemtype.video">
                         <div *ngIf="item.type=='video'">
                           <div>
-                  
-                            <video width="100%" height="160" controls="controls"
-                            >
 
-                            <source src={{item.data}} type="video/mp4">
+                            <video width="100%" height="160" controls="controls">
+
+                              <source src={{item.data}} type="video/mp4">
                             </video>
                           </div>
                         </div>
@@ -2476,8 +2457,8 @@
                   width="30" />
                 <h6>Are you Interested?</h6>
                 <button class="btn btn-orange white-text-2 btn-lg" (click)="openModalWithClass(template)">
-                    Talk to Expert
-                  </button>
+                  Talk to Expert
+                </button>
               </div>
             </div>
           </div>

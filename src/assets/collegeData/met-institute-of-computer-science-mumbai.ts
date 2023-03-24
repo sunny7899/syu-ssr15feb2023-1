@@ -1,4 +1,3 @@
-
 export const metinstituteofcomputersciencemumbai = {
     "Title": "MET Institute of Computer Science",
     "shortTitle": "MET Institute of Computer Science",
@@ -58,15 +57,8 @@ export const metinstituteofcomputersciencemumbai = {
                     " Course Fee": "<b>Rs.1,33,000</b>",
 
                 },
-
-            ]
-        },
-
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b>Note:</b> 1$ = Rs.70</p>'
+            ],
+            "heading": '<p><b>Note:</b> 1$ = Rs.70</p>'
         },
         {
             "type": "list-bollet",
@@ -79,12 +71,18 @@ export const metinstituteofcomputersciencemumbai = {
                 "A candidate should <b>submit CET scores</b> at the time admission counseling."
             ]
         },
-
         {
-            type: 'text',
+            type: 'step-list',
             title: 'MCA Admission Process at METICS',
-            info: '',
-            data: '<p><b>Step 1:</b> Candidate needs to register on the official website.</p><br><p><b>Step 2:</b> After enrolling with valid details candidate should have to take a printout of application form.</p><br><p><b>Step 3:</b> Candidate selection should be on merit basis.</p><br><p><b>Step 4:</b> After getting a call from the institute, the candidate should carry original documents at the time of the admission process.</p><br><p><b>Step 5:</b>  Institute will not be responsible for any delay from students participation during admissions.</p><br><p><b>Step 6:</b> Institute will not refund the form fees, in case of cancellation of admissions.</p>'
+            info: '<b></b>',
+            data: [
+                "Step 1 : Candidate needs to register on the official website.",
+                "Step 2 : After enrolling with valid details candidate should have to take a printout of application form.",
+                "Step 3 : Candidate selection should be on merit basis.",
+                "Step 4 : After getting a call from the institute, the candidate should carry original documents at the time of the admission process.",
+                "Step 5 : Institute will not be responsible for any delay from students participation during admissions.",
+                "Step 6 : Institute will not refund the form fees, in case of cancellation of admissions."
+            ]
         },
         {
             "type": "table",
@@ -146,8 +144,6 @@ export const metinstituteofcomputersciencemumbai = {
                     "Semester IV": "Elective II",
                     "Semester V	": "",
                     "Semester VI": "",
-
-
                 },
 
             ]
@@ -165,7 +161,6 @@ export const metinstituteofcomputersciencemumbai = {
                 "ACCA"
             ]
         },
-
         {
             "type": "text",
             "title": "Gallary",
@@ -262,9 +257,7 @@ export const metinstituteofcomputersciencemumbai = {
             "row": [
                 ["Accenture", "Barclays", "Bank of Baroda", "Capgemini"],
                 ["Bajaj Allianz General Insurance Co. Ltd", "Deloitte", "HSBC", "ICICI Bank Ltd"],
-                ["HCL Infosystem LTD", "L&T Infotech", "", ""],
-
-
+                ["HCL Infosystem LTD", "L&T Infotech", "", ""]
             ]
         },
         {
@@ -309,6 +302,10 @@ export const metinstituteofcomputersciencemumbai = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "MET Institute of Computer Science - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "MET Institute of Computer Science - MCA Course Fees 2022",
             "info": "Top Recruiters at METICS:",
@@ -325,14 +322,8 @@ export const metinstituteofcomputersciencemumbai = {
                     "Particulars": "Total Fees",
                     "Course Fee": "Rs.1,33,000"
                 }
-
-
-            ]
-        },
-        {
-            "type": "text",
-            "title": "",
-            "data": '<p><strong style="color: red;"><u>Note: </u></strong> 1$ = Rs.70</p>'
+            ],
+            heading: '<p><strong style="color: red;"><u>Note: </u></strong> 1$ = Rs.70</p>'
         },
         {
             "type": "text",
@@ -368,8 +359,6 @@ export const metinstituteofcomputersciencemumbai = {
                     "Semester I": "Computer Organisation & Architecture",
                     "Semester II": "Decision Making & Mathematical Modelling"
                 }
-
-
             ]
         },
         {
@@ -401,8 +390,6 @@ export const metinstituteofcomputersciencemumbai = {
                     "Semester III": "Information Security",
                     "Semester IV": "Elective II"
                 }
-
-
             ]
         },
         {
@@ -430,8 +417,6 @@ export const metinstituteofcomputersciencemumbai = {
                     "Semester V": "Elective 2",
                     "Semester VI": ""
                 }
-
-
             ]
         },
         {
@@ -454,6 +439,10 @@ export const metinstituteofcomputersciencemumbai = {
 
     ],
     "admission": [
+        {
+            "type": "title",
+            "title": "MET Institute of Computer Science - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -499,7 +488,34 @@ export const metinstituteofcomputersciencemumbai = {
         }
 
     ],
-    "Placement":[
+    "review": [
+        {
+            "type": "title",
+            "title": "MET Institute of Computer Science - Reviews"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MET Institute of Computer Science - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MET Institute of Computer Science - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/reviews" }
+            ]
+        }
+    ],
+    "placement":[
+        {
+            "type": "title",
+            "title": "MET Institute of Computer Science - Placement"
+        },
         {
             "type": "text",
             "title": "Placements at METICS",
@@ -536,8 +552,34 @@ export const metinstituteofcomputersciencemumbai = {
         }
 
     ],
-    "Gallary": {},
-    "Scholarship": [
+    "gallary": [
+        {
+            "type": "title",
+            "title": "MET Institute of Computer Science - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MET Institute of Computer Science - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MET Institute of Computer Science - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "MET Institute of Computer Science - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
@@ -547,8 +589,29 @@ export const metinstituteofcomputersciencemumbai = {
 
             ]
         },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MET Institute of Computer Science - Scholarship" },
+                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MET Institute of Computer Science - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/scholarship" }
+            ]
+        }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "MET Institute of Computer Science - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty ",
@@ -594,8 +657,57 @@ export const metinstituteofcomputersciencemumbai = {
             ]
         }
     ],
-    "Hostel": {},
+    "news": [
+        {
+            "type": "title",
+            "title": "MET Institute of Computer Science - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MET Institute of Computer Science - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MET Institute of Computer Science - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            "type": "title",
+            "title": "MET Institute of Computer Science - Hostel"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MET Institute of Computer Science - Hostel" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MET Institute of Computer Science - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/hostel" }
+            ]
+        }
+    ],
     "faq": [
+        {
+            "type": "title",
+            "title": "MET Institute of Computer Science - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",
@@ -614,7 +726,7 @@ export const metinstituteofcomputersciencemumbai = {
                     "ans": "Yes, the Institute is affiliated to University of Mumbai                    "
                 },
                 {
-                    "ques": "Q. Is MET Institute of Computer Science recognized?                    ",
+                    "ques": "Q. Is MET Institute of Computer Science recognized?",
                     "ans": "Yes, the Institute is known through the AICTE."
                 },
                 {

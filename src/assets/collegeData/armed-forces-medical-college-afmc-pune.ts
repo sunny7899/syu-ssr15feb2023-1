@@ -69,14 +69,12 @@ export const armedforcesmedicalcollegeafmcpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/armed-forces-medical-college-afmc-pune" }
             ]
         }
-
-
-
-
-
-
     ],
     "coursesandfees": [
+        {
+            type: "title",
+            title: "Armed Forces Medical College, Pune - courses & Fees"
+        },
         {
             "type": "table",
             "title": "Armed Forces Medical College (AFMC) - MBBS Fee Structure",
@@ -144,6 +142,10 @@ export const armedforcesmedicalcollegeafmcpune = {
     ],
     "admission": [
         {
+            type: "title",
+            title: "Armed Forces Medical College, Pune - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "",
@@ -201,7 +203,11 @@ export const armedforcesmedicalcollegeafmcpune = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            type: "title",
+            title: "Armed Forces Medical College, Pune  - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -220,7 +226,11 @@ export const armedforcesmedicalcollegeafmcpune = {
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            type: "title",
+            title: "Armed Forces Medical College, Pune - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -250,7 +260,11 @@ export const armedforcesmedicalcollegeafmcpune = {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            type: "title",
+            title: "Armed Forces Medical College, Pune - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -269,11 +283,15 @@ export const armedforcesmedicalcollegeafmcpune = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            type: "title",
+            title: "Armed Forces Medical College, Pune - Scholarship"
+        },
         {
             "type": "number-list",
             "title": "Scholarships",
-            "info": "<b>Medical cadets will get stipend/scholarship as per existing policy. Stipend/scholarships are shown below:s</b>",
+            "info": "Medical cadets will get stipend/scholarship as per existing policy. Stipend/scholarships are shown below:",
             "data": [
                 "BUP Chancellor's Scholarship",
                 "BUP Vice Chancellor's Stipend",
@@ -305,7 +323,11 @@ export const armedforcesmedicalcollegeafmcpune = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            type: "title",
+            title: "Armed Forces Medical College, Pune - Faculty"
+        },
         {
             "type": "list-bollet",
             "title": "Faculty",
@@ -336,7 +358,11 @@ export const armedforcesmedicalcollegeafmcpune = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            type: "title",
+            title: "Armed Forces Medical College, Pune  - News & Article"
+        },
         {
             type: "meta",
             meta: [
@@ -355,11 +381,15 @@ export const armedforcesmedicalcollegeafmcpune = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            type: "title",
+            title: "Armed Forces Medical College, Pune - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<p>Staying away from residence place, it’s a big deal for a students <b>(local/NRI)<b></p><p>So, we at <b>Select Your University</b>, comes with bunch of goals for these students to make them live in Home-Based environment. Here, we have providing you the detail infra about facilities and accommodation of AIIMS institute..</p>",
+            "info": "<p>Staying away from residence place, it’s a big deal for a students (local/NRI)</p><p>So, we at Select Your University, comes with bunch of goals for these students to make them live in Home-Based environment. Here, we have providing you the detail infra about facilities and accommodation of AIIMS institute..</p>",
             "data": [
                 "Separate hostels for boys and girls are located in college campus.",
                 "The hostel and accommodation is available for <b>service liability</b> candidates.",
@@ -387,9 +417,13 @@ export const armedforcesmedicalcollegeafmcpune = {
     ],
     "faq": [
         {
+            type: "title",
+            title: "Armed Forces Medical College, Pune  - FAQ"
+        },
+        {
             "type": "question-list",
             "title": " Armed Forces Medical College - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How will I get admission to Armed Forces Medical College?",

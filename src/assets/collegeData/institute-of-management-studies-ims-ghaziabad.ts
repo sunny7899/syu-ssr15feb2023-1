@@ -1,4 +1,3 @@
-
 export const instituteofmanagementstudiesimsghaziabad = {
     "Title": "IMS GHAZIABAD GROUP OF INSTITUTION",
     "shortTitle": "IMS Ghaziabad Group of Institution",
@@ -19,7 +18,6 @@ export const instituteofmanagementstudiesimsghaziabad = {
             img: 'https://www.selectyouruniversity.com/images/ims-ghaziabad.jpg',
             data: '<p><strong>IMS Ghaziabad</strong> was established in 1990 empowering quality education to stimulate knowledge and professional skills for building values of integrity, tolerance and mutual respect. </p><p>IMS Ghaziabad acquire a primary place among top educational institutions in India. IMS Ghaziabad provides UG and PG programs affiliated to CCS University, Meerut.</p><p>IMS Ghaziabad has received academic degree excellence in providing quality and practical academic programmes in the field of information technology, management studies, biosciences, and journalism.</p><p>IMSGhaziabad provides value-driven, industry-based full-time and part-time programmes to accelerate the students in respective fields. IMS Ghaziabad also awarded accreditation status from Association of Indian Universities and AICTE.</p>'
         },
-
         {
             "type": "list-bollet",
             "title": "The vision of the Institute",
@@ -79,79 +77,6 @@ export const instituteofmanagementstudiesimsghaziabad = {
                 "Cafe",
             ]
         },
-
-        // {
-        //     "type": "text",
-        //     "title": "Facilities at IMS Ghaziabad",
-        //     "img": "https://www.selectyouruniversity.com/images/auditorium.png",
-        //     "data": [
-        //         "<p class =text-center>auditorium</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/medical.png",
-        //     "data": [
-        //         "<p class =text-center>medical</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/transport.png",
-        //     "data": [
-        //         "<p class =text-center>transport</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/computer.png",
-        //     "data": [
-        //         "<p class =text-center>computer</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/mess.png",
-        //     "data": [
-        //         "<p class =text-center>mess</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/ac.png",
-        //     "data": [
-        //         "<p class =text-center>AC</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/library.png",
-        //     "data": [
-        //         "<p class =text-center>library</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/sport.png",
-        //     "data": [
-        //         "<p class =text-center>sport</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/cafe.png",
-        //     "data": [
-        //         "<p class =text-center>cafe</p>"
-        //     ]
-        // },
         {
             "type": 'text',
             "title": 'Director’s Message',
@@ -193,10 +118,10 @@ export const instituteofmanagementstudiesimsghaziabad = {
         }
     ],
     "coursesandfees": [
-
-
-
-
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - courses & Fees"
+        },
         {
             "type": "table",
             "title": "IMS Ghaziabad Group of Institution - Fee Structure 2022",
@@ -234,13 +159,10 @@ export const instituteofmanagementstudiesimsghaziabad = {
                 "<b>MIB</b><br>The IMS Institute offers a 2-year program in Master of International Business to develop reliable policies in an international environment."
             ]
         },
-
-
-
         {
             "type": "table-title",
             "title": "BCA Coursed Syllabus at IMS",
-            "info": "<b>SEMESTER I</b>",
+            "info": "SEMESTER I",
             "colTitle": "Subject",
             "col": [
 
@@ -258,7 +180,7 @@ export const instituteofmanagementstudiesimsghaziabad = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>SEMESTER II</b>",
+            "info": "SEMESTER II",
             "colTitle": "Subject",
             "col": [
 
@@ -275,7 +197,7 @@ export const instituteofmanagementstudiesimsghaziabad = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>SEMESTER III</b>",
+            "info": "SEMESTER III",
             "colTitle": "Subject",
             "col": [
 
@@ -293,7 +215,7 @@ export const instituteofmanagementstudiesimsghaziabad = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>SEMESTER IV</b>",
+            "info": "SEMESTER IV",
             "colTitle": "Subject",
             "col": [
 
@@ -311,7 +233,7 @@ export const instituteofmanagementstudiesimsghaziabad = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>SEMESTER V</b>",
+            "info": "SEMESTER V",
             "colTitle": "Subject",
             "col": [
 
@@ -329,7 +251,7 @@ export const instituteofmanagementstudiesimsghaziabad = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>SEMESTER VI</b>",
+            "info": "SEMESTER VI",
             "colTitle": "Subject",
             "col": [
 
@@ -361,12 +283,12 @@ export const instituteofmanagementstudiesimsghaziabad = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/institute-of-management-studies-ims-ghaziabad/courses-and-fees" }
             ]
         }
-
-
-
-
     ],
     "admission": [
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "<b>Eligibility Criteria - For BCA Course at IMS Ghaziabad</b>",
@@ -421,7 +343,11 @@ export const instituteofmanagementstudiesimsghaziabad = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -440,14 +366,15 @@ export const instituteofmanagementstudiesimsghaziabad = {
             ]
         }
     ],
-    "Placement": [
-
-
-
+    "placement": [
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placements at IMS Ghaziabad",
-            "info": "<b>Objectives:</b>",
+            "info": "Objectives:",
             "data": [
                 "To enable the students to discover self-aided abilities.",
                 "To provide career guidance for long-term activities.",
@@ -488,40 +415,11 @@ export const instituteofmanagementstudiesimsghaziabad = {
             ]
         }
     ],
-
-    "Gallery": [
-        // {
-        //     "type": "text",
-        //     "title": "Gallery",
-        //     "img": "https://www.selectyouruniversity.com/images/courses/bca/ims-ghaziabad/auditorium-of-ims-ghaziabad.jpg",
-        //     "data": [
-        //         // "<p class =text-center>Reading Halls</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/courses/bca/ims-ghaziabad/classroom-of-ims-ghaziabad.jpg",
-        //     "data": [
-        //         // "<p class =text-center>Reading Halls</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/courses/bca/ims-ghaziabad/lecture-hall-of-ims-ghaziabad.jpg",
-        //     "data": [
-        //         // "<p class =text-center>Reading Halls</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/courses/bca/ims-ghaziabad/library-of-ims-ghaziabad.jpg",
-        //     "data": [
-        //         // "<p class =text-center>Reading Halls</p>"
-        //     ]
-        // },
+    "gallery": [
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -540,10 +438,11 @@ export const instituteofmanagementstudiesimsghaziabad = {
             ]
         }
     ],
-
-
-    "Scholarship": [
-
+    "scholarship": [
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - Scholarship"
+        },
         {
             "type": 'text',
             "title": '',
@@ -572,7 +471,11 @@ export const instituteofmanagementstudiesimsghaziabad = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty ",
@@ -600,10 +503,6 @@ export const instituteofmanagementstudiesimsghaziabad = {
                 },
 
             ]
-
-
-
-
         },
         {
             type: "meta",
@@ -623,7 +522,11 @@ export const instituteofmanagementstudiesimsghaziabad = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -642,8 +545,11 @@ export const instituteofmanagementstudiesimsghaziabad = {
             ]
         }
     ],
-    "Hostel": [
-
+    "hostel": [
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
@@ -684,45 +590,12 @@ export const instituteofmanagementstudiesimsghaziabad = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/institute-of-management-studies-ims-ghaziabad/hostel" }
             ]
         }
-
-
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/internet.png",
-        //     "data": [
-        //         "<p class =text-center>internet</p>"
-        //     ]
-        // },
-
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/accommodation.png",
-        //     "data": [
-        //         "<p class =text-center>accommodation</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/reading-hall.png",
-        //     "data": [
-        //         "<p class =text-center>reading-hall</p>"
-        //     ]
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/hostel.png",
-        //     "data": [
-        //         "<p class =text-center>hostel</p>"
-        //     ]
-        // },
-
     ],
-
     "faq": [
+        {
+            type: "title",
+            title: "IMS Group Institutions, Ghaziabad - FAQ"
+        },
         {
             "type": "question-list",
             "title": "FAQs",
@@ -743,9 +616,7 @@ export const instituteofmanagementstudiesimsghaziabad = {
                 {
                     "ques": "Q. What are the certification courses offered through IMS Ghaziabad?",
                     "ans": "IMS Ghaziabad offers diverse certification courses. The courses are like Statistical Package for Social Sciences , PREP ( Placement Readiness Enhancement Programme, CMIE's Prowess Training, Lean Six Sigma, Advanced MS Word, etc."
-                },
-
-
+                }
             ]
         },
         {
@@ -766,6 +637,4 @@ export const instituteofmanagementstudiesimsghaziabad = {
             ]
         }
     ]
-
-
 }

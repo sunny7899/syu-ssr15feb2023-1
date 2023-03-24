@@ -131,11 +131,12 @@ export const sdminstituteformanagementdevelopmentmysore = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sdm-institute-for-management-development-mysore" }
             ]
         }
-
-
-
     ],
     "coursesandfees": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - courses & Fees"
+        },
         {
             "type": "table",
             "title": "SDM Institute for Management Development - Fee Structure 2022",
@@ -166,14 +167,13 @@ export const sdminstituteformanagementdevelopmentmysore = {
         {
             "type": "number-list",
             "title": "Courses Offered at SDMIMD",
-            "info": "<b>In various disciplines, SDM Institute of Management offers Post Graduate Program in Management (PGPM) and Post Graduate Diploma in Management (PGDM) and also doctoral programs:</b>",
+            "info": "In various disciplines, SDM Institute of Management offers Post Graduate Program in Management (PGPM) and Post Graduate Diploma in Management (PGDM) and also doctoral programs:",
             "data": [
                 "<b>PGPM and PGDM Programs</b><br>Candidates are also offered Postgraduate Diploma & Postgraduate Certification in Management (PGDM- PGCPM) courses with Dual Certification.<br>Post qualification in the entrance test, students with a valid GMAT/ CAT/CMAT/ XAT score are called for the personal interview round.",
                 "<b>Doctoral Programs</b><br>On the candidate’s score in Ph.D. Admission Entrance Test conducted by the University of Mysore, admissions to the doctoral course in management offered at SMDIMD are based.<br>M.Phil or UGC JRF score holding candidates are exempted from the entrance test.<br>The eligible participants will have to face the personal interview round by the SMD Management Research Centre for the final admission.",
                 "<b>PG Diploma</b><br>SDMIMD initiated short-term courses is Sports management since 2009 in association with the Centre of Sports & Management Studies (CS & MS).<br>On the basis of their performance in the personal interview round, the candidates will be selected for the course.",
             ]
         },
-
         {
             type: "meta",
             meta: [
@@ -193,6 +193,10 @@ export const sdminstituteformanagementdevelopmentmysore = {
         }
     ],
     "admission": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Studying PGDM at SDMIMD",
@@ -267,7 +271,11 @@ export const sdminstituteformanagementdevelopmentmysore = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -286,11 +294,15 @@ export const sdminstituteformanagementdevelopmentmysore = {
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "SDMIMD Placements for PGDM Students",
-            "info": "<b>Objectives:</b>",
+            "info": "Objectives:",
             "data": [
                 "There has been an excellent record of placement at SDMIMD.",
                 "From a variety of sectors, different companies visit the SDMIMD campus every year and this number is increasing year after year.",
@@ -332,7 +344,11 @@ export const sdminstituteformanagementdevelopmentmysore = {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -351,11 +367,15 @@ export const sdminstituteformanagementdevelopmentmysore = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following are the scholarships offered by the SDMIMD  -</b>",
+            "info": "Following are the scholarships offered by the SDMIMD  -",
             "data": [
                 "Student Merit Scholarship",
                 "Empowering Woman",
@@ -380,7 +400,11 @@ export const sdminstituteformanagementdevelopmentmysore = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - Faculty"
+        },
         {
             "type": "table",
             "title": "Top Recruiters of SDMIMD",
@@ -426,7 +450,11 @@ export const sdminstituteformanagementdevelopmentmysore = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -445,7 +473,11 @@ export const sdminstituteformanagementdevelopmentmysore = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -465,6 +497,10 @@ export const sdminstituteformanagementdevelopmentmysore = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "SDM Institute for Management Development - FAQ"
+        },
         {
             "type": "question-list",
             "title": "FAQs",

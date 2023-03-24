@@ -138,6 +138,7 @@
                     <input
                       class="form-control py-2 border-right-0 border form-input"
                       type="number"
+                      step="0.01"
                       placeholder="Mobile Number*"
                       id="number"
                       formControlName="cMobile"
@@ -213,9 +214,9 @@
                   </p>
                 </div>
                 <div class="row">
-                  <div class="col-lg-10 col-md-10 col-sm-10 login-block">
+                  <!-- <div class="col-lg-10 col-md-10 col-sm-10 login-block">
                     Already Registered? Click Here To Login.
-                  </div>
+                  </div> -->
                   <div class="col-lg-2 col-md-2 col-sm-2">
                     <button
                       type="button"
@@ -225,7 +226,9 @@
                     >
                       SUBMIT
                     </button>
+                    
                   </div>
+                  
                 </div>
               </div>
             </div>
@@ -233,15 +236,33 @@
         </div>
       </div>
 
+      <div class="vh-50 d-flex justify-content-center align-items-center" *ngIf="form2 === true" id="thankyouform">
+        <div>
+            <div class="mb-4 text-center">
+                <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75"
+                    fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                    <path
+                        d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
+                </svg>
+            </div>
+            <div class="text-center">
+                <h1>Thank You !</h1>
+                <p>Your submission has bees sent. </p>
+            </div>
+        </div>
+        </div>
+
       <!-- Right Card Form 2-->
-      <div class="col-lg-8 col-md-8" *ngIf="form2 === true">
+      <!-- <div class="col-lg-8 col-md-8" *ngIf="form2 === true">
         <div class="card form-card">
           <h5 class="form-head text-center">Register Now To Apply</h5>
-          <div>
+          <div> -->
+
             <!-- <p class="sub-title text-center">
               IIT Gandhinagar - Indian Institute of Technology -[IITG]
             </p> -->
-          </div>
+
+          <!-- </div>
           <div>
             <h5 class="edu-title text-center">Current Education Details</h5>
           </div>
@@ -249,11 +270,13 @@
             <div class="form-div">
               <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                  <div class="input-group">
+                  <div class="input-group"> -->
+
                     <!-- <div class="input-group-text bg-transparent icon"> -->
                     <!-- <i class="fa fa-user"></i> -->
                     <!-- </div> -->
-                    <input
+
+                    <!-- <input
                       class="form-control py-2 border-right-0 border form-input1"
                       type="text"
                       placeholder="Select Graduation College/Institue*"
@@ -273,11 +296,13 @@
                   </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                  <div class="input-group">
+                  <div class="input-group"> -->
+
                     <!-- <div class="input-group-text bg-transparent icon"> -->
                     <!-- <i class="fa fa-envelope"></i> -->
                     <!-- </div> -->
-                    <input
+
+                    <!-- <input
                       class="form-control py-2 border-right-0 border form-input1"
                       type="text"
                       placeholder="Which Course Did You Do?*"
@@ -301,11 +326,13 @@
             <div class="form-div">
               <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                  <div class="input-group">
+                  <div class="input-group"> -->
+
                     <!-- <div class="input-group-text bg-transparent icon"> -->
                     <!-- <i class="fa fa-phone flip"></i> -->
                     <!-- </div> -->
-                    <input
+
+                    <!-- <input
                       class="form-control py-2 border-right-0 border form-input1"
                       type="number"
                       placeholder="Graduation Percentage* "
@@ -325,11 +352,13 @@
                   </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6">
-                  <div class="input-group">
+                  <div class="input-group"> -->
+
                     <!-- <div class="input-group-text bg-transparent icon"> -->
                     <!-- <i class="fa fa-map-marker"></i> -->
                     <!-- </div> -->
-                    <input
+
+                    <!-- <input
                       class="form-control py-2 border-right-0 border form-input1"
                       type="text"
                       placeholder="Work Experience (in years)*"
@@ -383,7 +412,8 @@
                       id="name"
                       formControlName="qgate"
                     />
-                  </div>
+                  </div> -->
+
                   <!-- <div
                     class="validation"
                     *ngIf="
@@ -394,7 +424,8 @@
                   >
                     Enter GATE Score.
                   </div> -->
-                </div>
+
+                <!-- </div>
                 <div class="col-lg-4">
                   <div class="input-group">
                     <input
@@ -404,7 +435,8 @@
                       id="name"
                       formControlName="qgre"
                     />
-                  </div>
+                  </div> -->
+
                   <!-- <div
                     class="validation"
                     *ngIf="
@@ -415,7 +447,8 @@
                   >
                     Enter GRE Score.
                   </div> -->
-                </div>
+
+                <!-- </div>
                 <div class="col-lg-2"></div>
               </div>
               <div class="row" style="margin-top: 12px">
@@ -439,16 +472,18 @@
             </div>
           </form>
         </div>
-      </div>
+      </div> -->
       <!-- Right Card Form 3-->
-      <div class="col-lg-8 col-md-8" *ngIf="form3 === true">
+      <!-- <div class="col-lg-8 col-md-8" *ngIf="form3 === true">
         <div class="card form-card">
           <h5 class="form-head text-center">Register Now To Apply</h5>
-          <div>
+          <div> -->
+
             <!-- <p class="sub-title text-center">
               IIT Gandhinagar - Indian Institute of Technology -[IITG]
             </p> -->
-          </div>
+
+          <!-- </div>
           <div>
             <h5 class="edu-title text-center">Past Education Details</h5>
           </div>
@@ -561,11 +596,13 @@
       <div class="col-lg-8 col-md-8" *ngIf="form4 === true">
         <div class="card form-card">
           <h5 class="form-head text-center">Register Now To Apply</h5>
-          <div>
+          <div> -->
+
             <!-- <p class="sub-title text-center">
               IIT Gandhinagar - Indian Institute of Technology -[IITG]
             </p> -->
-          </div>
+
+          <!-- </div>
           <div>
             <h5 class="edu-title text-center">Past Education Details</h5>
           </div>
@@ -698,7 +735,7 @@
             </div>
           </form>
         </div>
-      </div>
-    </div>
+      </div>-->
+    </div> 
   </div>
 </section>

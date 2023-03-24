@@ -140,6 +140,10 @@ export const bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment =
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Bharati Vidyapeeth Institute of Management - Fee Structure 2022",
             "info": "",
@@ -309,6 +313,10 @@ export const bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment =
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Admission 2023"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Admission 2023 " },
@@ -326,7 +334,11 @@ export const bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment =
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -345,86 +357,15 @@ export const bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment =
             ]
         }
     ],
-    "News": [
+    "placement": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - News & Articles" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-            ],
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Placement"
         },
-        {
-            type: "meta-title",
-            title: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - News & Articles"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/institute-of-management-and-entrepreneurship-development-imed-pune/news-and-articles" }
-            ]
-        }
-    ],
-    "Hostel": [
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Hostel" },
-                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Hostel"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/institute-of-management-and-entrepreneurship-development-imed-pune/hostel" }
-            ]
-        }
-    ],
-    "Gallery": [
-        {
-            "type": "text",
-            "title": "Gallary",
-            "img": "https://www.selectyouruniversity.com/images/courses/bca/institute-of-management-and-entrepreneurship-development/library-of-institute-of-management-and-entrepreneurship-development.jpg",
-            "data": []
-        },
-        {
-            "type": "text",
-            "title": "",
-            "img": "https://www.selectyouruniversity.com/images/courses/bca/institute-of-management-and-entrepreneurship-development/main-building-of-institute-of-management-and-entrepreneurship-development.jpg",
-            "data": [ ]
-        },
-        {
-            "type": "text",
-            "title": "",
-            "img": "https://www.selectyouruniversity.com/images/courses/bca/institute-of-management-and-entrepreneurship-development/sports-ground-of-institute-of-management-and-entrepreneurship-development.jpg",
-            "data": [ ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Gallery" },
-                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Gallery"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/institute-of-management-and-entrepreneurship-development-imed-pune/gallery" }
-            ]
-        }
-    ],
-    "Placement": [
         {
             "type": "list-bollet",
             "title": "Placements at Bharati Vidyapeeth Institute of Management",
-            "info": "<b>Key features:</b>",
+            "info": "Key features:",
             "data": [
                 "More than 92% Placements",
                 "Highest Package Rs.12.10 Lac",
@@ -464,11 +405,56 @@ export const bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment =
             ]
         }
     ],
-    "Scholarship": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Gallery"
+        },
+        {
+            "type": "text",
+            "title": "Gallary",
+            "img": "https://www.selectyouruniversity.com/images/courses/bca/institute-of-management-and-entrepreneurship-development/library-of-institute-of-management-and-entrepreneurship-development.jpg",
+            "data": []
+        },
+        {
+            "type": "text",
+            "title": "",
+            "img": "https://www.selectyouruniversity.com/images/courses/bca/institute-of-management-and-entrepreneurship-development/main-building-of-institute-of-management-and-entrepreneurship-development.jpg",
+            "data": [ ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "img": "https://www.selectyouruniversity.com/images/courses/bca/institute-of-management-and-entrepreneurship-development/sports-ground-of-institute-of-management-and-entrepreneurship-development.jpg",
+            "data": [ ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/institute-of-management-and-entrepreneurship-development-imed-pune/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following are the scholarships offered by the Bharati Vidyapeeth Institute of Management Entrepreneurship Development </b>",
+            "info": "Following are the scholarships offered by the Bharati Vidyapeeth Institute of Management Entrepreneurship Development ",
             "data": [
                 "Central SC/ST Scholarships",
                 "North Eastern Council (NEC) Scholarship",
@@ -495,7 +481,11 @@ export const bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment =
             ]
         }
     ],
-    "Faculty ": [
+    "faculty ": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Faculty"
+        },
         {
             "type": "table",
             "title": "",
@@ -529,7 +519,57 @@ export const bharatividyapeethinstituteofmanagemententrepreneurshipdevelopment =
             ]
         }
     ],
+    "news": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/institute-of-management-and-entrepreneurship-development-imed-pune/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Hostel"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Hostel" },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/institute-of-management-and-entrepreneurship-development-imed-pune/hostel" }
+            ]
+        }
+    ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Institute of Management & Entrepreneurship Development, Pune - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

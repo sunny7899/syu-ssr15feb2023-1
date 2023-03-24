@@ -83,9 +83,13 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Bharati Vidyapeeth (Deemed to be University) Medical College and Hospital: Fee Structure",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -147,9 +151,13 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Minimum Eligibility for MBBS Admission",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "Candidates must score minimum of marks 50 percentile in NEET for <b>general category students</b> and will have to satisfy eligibility norms as prescribed by <b>DCI (Dental Council of India).</b>",
                 "Candidates must score minimum of marks 40 percentile in NEET for <b>SC/ST category students</b> and will have to satisfy eligibility norms as prescribed by DCI (Dental Council of India).",
@@ -162,7 +170,7 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
         {
             "type": "list-bollet",
             "title": "MBBS Course (Admission Procedure)",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "The international students who completed their academics by August-end or mid of the september can join English language program before taking admission to the main course.",
                 "MBBS admissions are carried out through Director General of Health Science (DGHS), New Delhi.",
@@ -175,7 +183,7 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "NEET Admit Card",
                 "NEET Score Card with all india rank",
@@ -219,6 +227,10 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
     ],
     "review": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Medical College & Hospital, Sangli - Reviews" },
@@ -237,6 +249,10 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
         }
     ],
     "placement": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -257,6 +273,10 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
     ],
     "gallery": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Medical College & Hospital, Sangli - Gallery" },
@@ -275,6 +295,10 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
         }
     ],
     "scholarship": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -295,6 +319,10 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
     ],
     "faculty": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Medical College & Hospital, Sangli - Faculty" },
@@ -313,6 +341,10 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
         }
     ],
     "news": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -333,6 +365,10 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
     ],
     "hostel": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - Hostel"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Medical College & Hospital, Sangli - Hostel" },
@@ -351,6 +387,10 @@ export const bharatividyapeethmedicalcollegehospitalsangli = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Medical College & Hospital, Sangli - FAQ"
+        },
         {
             type: "meta",
             meta: [

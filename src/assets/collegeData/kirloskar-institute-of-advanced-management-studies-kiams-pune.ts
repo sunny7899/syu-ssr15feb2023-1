@@ -7,7 +7,6 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
     "rating": "vv",
     "shareLink": "www.google.com",
     "url": "kirloskar-institute-of-advanced-management-studies-kiams-pune",
-
     "info": [
         {
             type: "title",
@@ -19,7 +18,6 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
             info: '',
             data: '<p>Kirloskar group established <strong>KIAMS in 1991 in Harihar, Karnataka</strong>, to put its illustrious leader <strong>Mr. Shantanurao Laxmanrao Kirloskar’s</strong> thoughts to practice.</p><p>By understanding the need to promote managerial and organizational excellence, KIAMS dedicated itself to the task of Management Development in the Kirloskar Group and other companies.</p><p>To meet the managerial leadership needs of the country, KIAMS ventured into training bright, young minds in <strong>high-quality management education</strong> in 1998. They started a two year fully residential Post Graduate Diploma in Management (PGDM) in Harihar.</p><p>KIAMS got encouraged by the success of its alumni in the industry and thus was successful in opening its second campus in Pune in 2010. <strong>All India Council of Technical Education (AICTE)</strong>, New Delhi has approved both of these campuses.</p>'
         },
-
         {
             "type": "table",
             "title": "Kirloskar Institute of Advanced Management Studies - Quick Highlights 2022",
@@ -64,7 +62,6 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
                 "In the NHRDN-People Matters B-School Ranking 2016, for Leadership and Governance, KIAMS has been ranked No.4 in India, just behind the IIMs."
             ]
         },
-
         {
             "type": "list-bollet",
             "title": "Affiliations, Recognitions, and Achievement of KIAMS",
@@ -81,7 +78,7 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
         {
             "type": "list-bollet",
             "title": "Facilities Available at KIAMS",
-            "info": "<b>Meritorious students under the following conditions get the Scholarships of KIAMS:</b>",
+            "info": "Meritorious students under the following conditions get the Scholarships of KIAMS:",
             "data": [
                 "The library of KIAMS has 141 journals, 250 CDs and 860 case studies.",
                 "Institute has more than 10000 volumes of books in the library.",
@@ -102,16 +99,15 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
             "title": "",
             "info": "",
             "data": [
-               "Hostel",
-               "Library",
-               "Wifi",
-               "Gym",
-               "Sport",
-               "Mess",
-               "Medical"
+                "Hostel",
+                "Library",
+                "Wifi",
+                "Gym",
+                "Sport",
+                "Mess",
+                "Medical"
             ]
         },
-
         {
             "type": "text",
             "title": "Alumni",
@@ -140,9 +136,13 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
     ],
     "coursesandfees": [
         {
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "KIAMS - Fee Structure 2022",
-            "info": "<b>The fee structure for PGDM course at KIAMS is:</b>",
+            "info": "The fee structure for PGDM course at KIAMS is:",
             "col": [
                 "Particulars",
                 "1st Year",
@@ -185,7 +185,7 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
         {
             "type": "table",
             "title": "Courses Offered at KIAMS",
-            "info": "<b>KIAMS offers PGDM course in various specialties as follows:</b>",
+            "info": "KIAMS offers PGDM course in various specialties as follows:",
             "col": [
                 "Course Name",
                 "Duration",
@@ -243,6 +243,10 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
         }
     ],
     "admission": [
+        {
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For Studying PGDM at KIAMS",
@@ -320,7 +324,11 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -339,89 +347,11 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
             ]
         }
     ],
-    "Hostel": [
+    "placement": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Hostel" },
-                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
-            ],
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Placement"
         },
-        {
-            type: "meta-title",
-            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Hostel"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kirloskar-institute-of-advanced-management-studies-kiams-pune/hostel" }
-            ]
-        }
-    ],
-    "News": [
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - News & Articles" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - News & Articles"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kirloskar-institute-of-advanced-management-studies-kiams-pune/news-and-articles" }
-            ]
-        }
-    ],
-    "Gallery": [
-        {
-            "type": "text",
-            "title": "Gallery",
-            "img": "https://www.selectyouruniversity.com/images/courses/mba/kiams-institute-pune/campus-of-kiams-institute-pune.jpg",
-            "data": [ ]
-        },
-
-        {
-            "type": "text",
-            "title": "",
-            "img": "https://www.selectyouruniversity.com/images/courses/mba/kiams-institute-pune/classroom-of-kiams-institute-pune.jpg",
-            "data": []
-        },
-        {
-            "type": "text",
-            "title": "",
-            "img": "https://www.selectyouruniversity.com/images/courses/mba/kiams-institute-pune/gymnasium-of-kiams-institute-pune.jpg",
-            "data": []
-        },
-        {
-            "type": "text",
-            "title": "",
-            "img": "https://www.selectyouruniversity.com/images/courses/mba/kiams-institute-pune/library-of-kiams-institute-pune.jpg",
-            "data": []
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Gallery" },
-                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Gallery"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kirloskar-institute-of-advanced-management-studies-kiams-pune/gallery" }
-            ]
-        }
-    ],
-    "Placement": [
         {
             "type": "list-bollet",
             "title": "Placements at KIAMS",
@@ -467,11 +397,44 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
             ]
         }
     ],
-    "Scholarship": [
+    "gallery": [
+        {
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Gallery"
+        },
+        {
+            "type": "text",
+            "title": "Gallery",
+            "img": "https://www.selectyouruniversity.com/images/courses/mba/kiams-institute-pune/campus-of-kiams-institute-pune.jpg",
+            "data": []
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kirloskar-institute-of-advanced-management-studies-kiams-pune/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>Meritorious students under the following conditions get the Scholarships of KIAMS:</b>",
+            "info": "Meritorious students under the following conditions get the Scholarships of KIAMS:",
             "data": [
                 "Candidate with a CAT/ GMAT/ MAT/ XAT/ CMAT/ score which is 95 percentile and above– Fee concession of INR 100,000.",
                 "Candidate with a CMAT/ GMAT/ CAT/ XAT/ MAT score between 90 to 95 percentile – Fee concession of INR 60,000."
@@ -495,7 +458,11 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
             ]
         }
     ],
-    "Faculty ": [
+    "faculty ": [
+        {
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Faculty"
+        },
         {
             "type": "table",
             "title": "",
@@ -529,7 +496,57 @@ export const kirloskarinstituteofadvancedmanagementstudieskiamspune = {
             ]
         }
     ],
+    "news": [
+        {
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kirloskar-institute-of-advanced-management-studies-kiams-pune/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Hostel"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Hostel" },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kirloskar-institute-of-advanced-management-studies-kiams-pune/hostel" }
+            ]
+        }
+    ],
     "faq": [
+        {
+            type: "title",
+            title: "Kirloskar Institute of Advanced Management Studies (KIAMS), Pune - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

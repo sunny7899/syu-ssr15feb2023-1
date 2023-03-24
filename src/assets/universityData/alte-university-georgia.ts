@@ -574,32 +574,32 @@ export const alteuniversitygeorgia = {
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/alte-university-av-room.jpg",
-                    "alt": "Image 1"
+                    "alt": "alte university av room"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/alte-university-auditorium.jpg",
-                    "alt": "Image 1"
+                    "alt": "alte university auditorium"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/alte-university-waiting-room.jpg",
-                    "alt": "Image 1"
+                    "alt": "alte university waiting room"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/alte-university-function.jpg",
-                    "alt": "Image 1"
+                    "alt": "alte university function"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/alte-university-conference.jpg",
-                    "alt": "Image 1"
+                    "alt": "alte university conference"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/alte-university.jpg",
-                    "alt": "Image 1"
+                    "alt": "alte university"
                 },
             ],
             "video": [

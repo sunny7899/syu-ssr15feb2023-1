@@ -1,4 +1,3 @@
-
 export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune = {
     "Title": "Sinhgad Institute of Business Administration and Research, Pune",
     "shortTitle": "Sinhgad Institute of Business Administration and Research",
@@ -8,11 +7,10 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
     "shareLink": "",
     "url": "sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune",
     "info": [
-      {
-          "type": "title",
-          "title": "Sinhgad Institute of Business Administration and Research, Pune"
-      },
-
+        {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research, Pune"
+        },
         {
             type: 'text',
             title: 'About Sinhgad Institute of Business Administration and Research, Pune',
@@ -23,7 +21,7 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
         {
             "type": "table",
             "title": "Sinhgad Institute of Business Administration and Research: Quick Overview",
-            "info": "<b>Following are the quick highlights of studying MBA in SIBAR:</b>",
+            "info": "Following are the quick highlights of studying MBA in SIBAR:",
             "col": [],
             "row": [
                 ["<b>Degree Awarded	</b>", "MBA"],
@@ -37,7 +35,7 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
         {
             "type": "list-bollet",
             "title": "Why Study MBA in SIBAR?",
-            "info": "<b>After completing an MBA from SIBAR, students can get work opportunities in government, industrial and private sectors. The SIBAR plays a pivotal role in providing the following aspects:</b>",
+            "info": "After completing an MBA from SIBAR, students can get work opportunities in government, industrial and private sectors. The SIBAR plays a pivotal role in providing the following aspects:",
             "data": [
                 "Provides the fundamental knowledge in concepts of management science.",
                 "Provides an integrated approach to various streams of management.",
@@ -50,42 +48,46 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>SIBAR is accredited and Recognized by:</b>",
+            "info": "SIBAR is accredited and Recognized by:",
             "data": [
                 "AICTE",
                 "Government of Maharashtra",
                 "Savitribai Phule University of Pune",
             ]
         },
-        
         {
             "type": "text",
             "title": "Rector’s Message",
             "img": "https://www.selectyouruniversity.com/images/rectors-message-of-sinhgad-institute-of-business-administration-and-research.jpg",
             "data": []
-            
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
                 { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune" },
                 { name: "description", content: "Sinhgad Institute of Business Administration and Research (SIBAR) offers MBA in India at an affordable fee of 1.42 LPA. It was established in 2004 in Pune." },
             ],
         },
         {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune"},
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune" }
-        ]}
+            ]
+        }
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Sinhgad Institute of Business Administration and Research - Fee Structure 2022",
-            "info": "<b>Following is the low fee structure of MBA course at SIBAR:</b>",
+            "info": "Following is the low fee structure of MBA course at SIBAR:",
             "col": [
                 "Particulars",
                 "Fees in Rupees",
@@ -108,12 +110,12 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
                     "Fees in USD": "<b>$ 2230</b>",
                 },
             ],
-            heading: '<p><b>Note:</b> 1$= Rs.70</p>'
+            "heading": '<p><b>Note:</b> 1$= Rs.70</p>'
         },
         {
             "type": "table",
             "title": "Programs Offered at SIBAR",
-            "info": "<b>Below is the program offered at SIBAR:</b>",
+            "info": "Below is the program offered at SIBAR:",
             "col": [
                 "Program Name",
                 "Duration",
@@ -132,33 +134,39 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
         {
             "type": "list-bollet",
             "title": "Duration of MBA Course in SIBAR",
-            "info": "<b>An MBA in SIBAR lasts for a period of 2 years:</b>",
+            "info": "An MBA in SIBAR lasts for a period of 2 years:",
             "data": [
                 "SIBAR offers a full-time business management program that comprises 6 trimesters leading to the degree of Master of Business Administration.",
                 "One of the notable features of the SIBAR MBA program is that it provides the opportunity to learn business exposure by contributing to broad-based education."
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
                 { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - courses & Fees" },
                 { name: "description", content: "Sinhgad Institute of Business Administration and Research (SIBAR) offers a range of courses across a variety of disciplines, including business, arts, humanities, and more. Check available courses and fees" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - courses & Fees"},
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - courses & Fees"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/courses-and-fees" }
-        ]}
+            ]
+        }
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Follow the below criteria for applying MBA in SIBAR Pune:</b>",
+            "info": "Follow the below criteria for applying MBA in SIBAR Pune:",
             "data": [
                 "The applicant should be the holder of 3 years or equivalent bachelor’s degree.",
                 "Applicants must have an aggregate of 45% in academics.",
@@ -169,21 +177,21 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Follow the below admission guidelines for applying MBA in SIBAR:</b>',
+            info: 'Follow the below admission guidelines for applying MBA in SIBAR:',
             data: [
-               "Step 1: Register for the CET exam.",
-               "Step 2: After the declaration of CET results, eligible candidates can now apply for the group discussions and personal interview rounds at the university.",
-               "Step 3: The application process at the SIBAR is a Centralized Application Process.",
-               "Step 4: Confirm the admission at the ARC stage.",
-               "Step 5: After the display of the merit list, the candidate needs to report to the institute.",
-               "Step 6: Allotment letter will be provided to the candidate for admission confirmation.",
-               "Step 7: Pay the amount of tuition fees to book your seats at the university."
+                "Step 1: Register for the CET exam.",
+                "Step 2: After the declaration of CET results, eligible candidates can now apply for the group discussions and personal interview rounds at the university.",
+                "Step 3: The application process at the SIBAR is a Centralized Application Process.",
+                "Step 4: Confirm the admission at the ARC stage.",
+                "Step 5: After the display of the merit list, the candidate needs to report to the institute.",
+                "Step 6: Allotment letter will be provided to the candidate for admission confirmation.",
+                "Step 7: Pay the amount of tuition fees to book your seats at the university."
             ]
         },
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>For applying MBA in SIBAR, applicants should submit the original copies of the following documents:</b>",
+            "info": "For applying MBA in SIBAR, applicants should submit the original copies of the following documents:",
             "data": [
                 "Copy of Marksheets (10th, 12th and Bachelor)",
                 "Work Experience Certificate (If required)",
@@ -196,113 +204,52 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
                 { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Admission 2023 " },
                 { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Admission 2023 "},
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Admission 2023 "
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/admission" }
-        ]}
+            ]
+        }
     ],
-    "Reviews": [
+    "review": [
         {
-            type:"meta",
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Reviews"
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Reviews" },
                 { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Reviews"},
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Reviews"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/reviews" }
-        ]}
-    ],
-    "Gallery": [
-        {
-            type:"meta",
-            meta: [
-                { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Gallery" },
-                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-            ],
-        },
-        {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Gallery"},
-        {
-            type:"meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/gallery" }
-        ]}
-    ],
-    "News": [
-        {
-            type:"meta",
-            meta: [
-                { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - News & Articles" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-            ],
-        },
-        {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - News & Articles"},
-        {
-            type:"meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/news-and-articles" }
-        ]}
-    ],
-    "Hostel": [  
-        {
-            "type": "list-bollet",
-            "title": "Hostel Facility at SIBAR",
-            "info": "<b>SIBAR offers hostel facilities for the management students:</b>",
-            "data": [
-                "There are 4 seater rooms provided with the attached toilets.",
-                "Amenities like a bed, chairs, rooms, provision of hot water and ceiling fans are available at the hostel.",
-                "The rooms at the hostel are spacious, airy and surrounded by the greenery."
             ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "<b>Facilities at the hostel are:</b>",
-            "data": [
-               "Reading Halls",
-               "Dining Halls",
-               "Sport Complex",
-               "Gymnasium",
-               "Internet Facility"
-            ]
-        },
-        {
-            type:"meta",
-            meta: [
-                { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Hostel" },
-                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
-            ],
-        },
-        {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Hostel"},
-        {
-            type:"meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/hostel" }
-        ]}
+        }
     ],
-    "Placement": [
-               {
+    "placement": [
+        {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Placement"
+        },
+        {
             type: 'text',
             title: 'Career Opportunities after MBA in SIBAR',
             info: '',
@@ -311,7 +258,7 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
         {
             "type": "table",
             "title": "",
-            "info": "<b>Following are the top recruiters at SIBAR:</b>",
+            "info": "Following are the top recruiters at SIBAR:",
             "col": [],
             "row": [
                 ["Atlas Copco", "DMart", "Deloitte"],
@@ -320,49 +267,84 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
                 { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Placement" },
                 { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
             ],
         },
         {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Placement"},
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Placement"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/placement" }
-        ]}
+            ]
+        }
     ],
-    "Scholarship": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following are the scholarships offered by the Sinhgad Institute of Business Administration and Research  -</b>",
+            "info": "Following are the scholarships offered by the Sinhgad Institute of Business Administration and Research  -",
             "data": [
                 "Scholarships for minors",
                 "Merit scholarship",
-                "Scholarship for backward class"             
+                "Scholarship for backward class"
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
                 { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Scholarship" },
                 { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Scholarship"},
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Scholarship"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/scholarship" }
-        ]}
+            ]
+        }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -391,27 +373,100 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
                 { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Faculty" },
                 { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Faculty"},
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Faculty"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/faculty" }
-        ]}
+            ]
+        }
     ],
-
+    "news": [
+        {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Hostel"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Hostel Facility at SIBAR",
+            "info": "SIBAR offers hostel facilities for the management students:",
+            "data": [
+                "There are 4 seater rooms provided with the attached toilets.",
+                "Amenities like a bed, chairs, rooms, provision of hot water and ceiling fans are available at the hostel.",
+                "The rooms at the hostel are spacious, airy and surrounded by the greenery."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Facilities at the hostel are:",
+            "data": [
+                "Reading Halls",
+                "Dining Halls",
+                "Sport Complex",
+                "Gymnasium",
+                "Internet Facility"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Hostel" },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/hostel" }
+            ]
+        }
+    ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - FAQ"
+        },
         {
             "type": "question-list",
             "title": "SIBAR - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Is the Sinhgad Institute of Business Administration and Research Government College?",
@@ -437,19 +492,21 @@ export const sinhgadinstituteofbusinessadministrationandresearchsibarkondhwapune
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
                 { name: "title", content: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - FAQ" },
                 { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - FAQ"},
+            type: "meta-title",
+            title: "Sinhgad Institute of Business Administration and Research (SIBAR), Pune - FAQ"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-business-administration-and-research-sibar-kondhwa-pune/faq" }
-        ]}
+            ]
+        }
     ],
 }

@@ -463,52 +463,52 @@ export const caspianinternationalschoolofmedicine = {
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-auditorium.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school auditorium"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-building-front-view.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school building front view"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-campus.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school campus"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-convocation.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school convocation"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-graduates.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school graduates"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-library.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school library"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-practice-team.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school practice team"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-tech-team.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school tech team"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-university-building.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school university building"
                 },
                 {
                     "type": "image",
                     "data": "../../assets/img/university_gallery/caspian-international-school-university-logo.jpg",
-                    "alt": "Image 1"
+                    "alt": "caspian international school university logo"
                 }
             ]
         },

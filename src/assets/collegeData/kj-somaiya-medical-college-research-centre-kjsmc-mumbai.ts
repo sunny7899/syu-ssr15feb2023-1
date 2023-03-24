@@ -1,4 +1,3 @@
-
 export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
     "Title": "KJ Somaiya Medical College & Research Center, India",
     "shortTitle": "KJ Somaiya Medical College & Research Center, India",
@@ -21,7 +20,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "table",
             "title": "KJ Somaiya Medical College and Research Center: Main Highlights",
-            "info": "<b>Check out the important details of KJ Somaiya Medical College & Research Center for doing MBBS course:</b>",
+            "info": "Check out the important details of KJ Somaiya Medical College & Research Center for doing MBBS course:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March"],
@@ -37,7 +36,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at KJ Somaiya Medical College & Research Center?",
-            "info": "<b>The students all over the world must pick KJ Somaiya Medical College and Research Center for MBBS education to make their dreams come true:</b>",
+            "info": "The students all over the world must pick KJ Somaiya Medical College and Research Center for MBBS education to make their dreams come true:",
             "data": [
                 "KJ Somaiya Medical College and Research Center are officially recognized by the National Medical Commission (NMC) and listed in the World Health Organization(WHO).",
                 "The KJ Somaiya Medical College and Research Center has 140 teaching staff members who strengthen the education system.",
@@ -55,7 +54,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "list-bollet",
             "title": "Facilities offered at KJ Somaiya Medical College and Research Center",
-            "info": "<b>It has a well equipped Infrastructural organization:</b>",
+            "info": "It has a well equipped Infrastructural organization:",
             "data": [
                 "21 Departments",
                 "Classrooms",
@@ -78,7 +77,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>KJ Somaiya Medical College and Research Center conducts numerous academic activities every year by various for knowledge enhancement and faculty and students skill development including -</b>",
+            "info": "KJ Somaiya Medical College and Research Center conducts numerous academic activities every year by various for knowledge enhancement and faculty and students skill development including -",
             "data": [
                 "Conferences",
                 "CME Programs",
@@ -90,7 +89,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "table",
             "title": "KJ Somaiya Medical College and Research Center - Ranking 2022",
-            "info": "<b>Check out the country ranking of KJ Somaiya Medical College and Research Center:</b>",
+            "info": "Check out the country ranking of KJ Somaiya Medical College and Research Center:",
             "col": [
                 "Country",
                 "World",
@@ -128,7 +127,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "table",
             "title": "Living Cost of Mumbai, Maharashtra",
-            "info": "<b>The living cost of Mumbai City located in Maharashtra is much Affordable for students during MBBS education, given below in table according to month basis expenses which may vary as per individual's basic needs:</b>",
+            "info": "The living cost of Mumbai City located in Maharashtra is much Affordable for students during MBBS education, given below in table according to month basis expenses which may vary as per individual's basic needs:",
             "col": [
                 "Particulars",
                 "Approx Range in Rs",
@@ -147,7 +146,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
                     "Approx Range in Rs": "Rs. 546",
                 },
             ],
-            heading: '<p><b>Note:</b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b>Note:</b> 1$ = 70 Rs.</p>'
         },
         {
             type: "meta",
@@ -169,9 +168,13 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
     ],
     "coursesandfees": [
         {
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "KJ Somaiya Medical College & Research Center - Fee Structure",
-            "info": "<b>KJ Somaiya Medical College and Research Center offer affordable fee price to the worldwide medical aspirants for MBBS course:</b>",
+            "info": "KJ Somaiya Medical College and Research Center offer affordable fee price to the worldwide medical aspirants for MBBS course:",
             "col": [
                 "Particular",
                 "Course Fee",
@@ -194,7 +197,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at KJ Somaiya Medical College and Research Center",
-            "info": "<b>KJ Somaiya Medical College and Research Center offer a wide range of medical faculties:</b>",
+            "info": "KJ Somaiya Medical College and Research Center offer a wide range of medical faculties:",
             "data": [
                 "Anesthesiology",
                 "Anatomy",
@@ -221,7 +224,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "list-bollet",
             "title": "KJ Somaiya Medical College and Research Center - MBBS Duration",
-            "info": "<b>5.5 years of MBBS duration offered by KJ Somaiya Medical College and Research Center:</b>",
+            "info": "5.5 years of MBBS duration offered by KJ Somaiya Medical College and Research Center:",
             "data": [
                 "KJ Somaiya Medical College and Research Center offer 5.5-year MBBS courses to worldwide medical aspirants in the English medium of instruction.",
                 "The MBBS course is divided into 9 semesters of 6 months each and the Clinical training will start from the 3rd semester onwards.",
@@ -232,7 +235,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "table",
             "title": "KJ Somaiya Medical College and Research Center - MBBS Syllabus",
-            "info": "<b>Every candidate must refer to the study pattern to pursue MBBS education at KJ Somaiya Medical College and Research Center:</b>",
+            "info": "Every candidate must refer to the study pattern to pursue MBBS education at KJ Somaiya Medical College and Research Center:",
             "col": [
                 "Phase",
                 "Subject",
@@ -302,9 +305,13 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
     ],
     "admission": [
         {
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Mentioned below are the eligibility criteria to enroll for MBBS course into KJ Somaiya Medical College and Research Center:</b>",
+            "info": "Mentioned below are the eligibility criteria to enroll for MBBS course into KJ Somaiya Medical College and Research Center:",
             "data": [
                 "The medical aspirants should have completed the minimum age of 17 at the time of admission or complete that age on or before 31st December of the year of admission to the MBBS course.",
                 "The Medical aspirants must pass a higher secondary examination from the central board of secondary education (CBSE) or equivalent exam conducted by any state board.",
@@ -317,7 +324,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The candidates are requested to ho through the mentioned admission steps to get admission in MBBS course at KJ Somaiya Medical College and Research Center:</b>',
+            info: 'The candidates are requested to ho through the mentioned admission steps to get admission in MBBS course at KJ Somaiya Medical College and Research Center:',
             data: [
                 "Step 1: The Applicants must appear for the NEET-UG examination to pursue an MBBS career.",
                 "Step 2: Fill up the college application form available online on the official website for taking admission in KJ Somaiya Medical College and Research Center.",
@@ -330,7 +337,7 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The medical aspirants who want to study MBBS in this college should report with the essential documents mentioned below to complete the admission formalities:</b>",
+            "info": "The medical aspirants who want to study MBBS in this college should report with the essential documents mentioned below to complete the admission formalities:",
             "data": [
                 "The candidates must submit the application form with correct details.",
                 "Submit NEET examination results and admit card during admission time.",
@@ -368,7 +375,11 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
         }
 
     ],
-    "Reviews": [
+    "review": [
+        {
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -387,155 +398,11 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
             ]
         }
     ],
-    "Gallery": [
+    "placement": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "KJ Somaiya Medical College & Research Center - Gallery" },
-                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-            ],
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - Placement"
         },
-        {
-            type: "meta-title",
-            title: "KJ Somaiya Medical College & Research Center - Gallery"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/gallery" }
-            ]
-        }
-    ],
-    "Scholarship": [
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "KJ Somaiya Medical College & Research Center - Scholarship" },
-                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "KJ Somaiya Medical College & Research Center - Scholarship"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/scholarship" }
-            ]
-        }
-    ],
-    "News": [
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "KJ Somaiya Medical College & Research Center - News & Articles" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "KJ Somaiya Medical College & Research Center - News & Articles"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/news-and-articles" }
-            ]
-        }
-    ],
-    "Hostel": [
-        {
-            "type": "list-bollet",
-            "title": "Accommodation & Hostel",
-            "info": "<b>KJ Somaiya Medical College & Research Center provide well-equipped hostel facilities for the students learning MBBS on the university campus:</b>",
-            "data": [
-                "KJ Somaiya Medical College and Research Center have an organized level of hostel system for the students.",
-                "Separate hostel rooms are available for males and females.",
-                "2-3 students can stay in one room on a sharing basis with attached bathrooms/toilets.",
-                "The hostel rooms are totally secured for students round the clock.",
-                "Important requirements are fulfilled in the hostel rooms including bedding (blankets, bedsheets and pillows), tables, cupboard, fan and other electrical appliances.",
-                "There will be 24 hours of regular water supply (hot & cold) available in the hostel rooms for students.",
-                "Mess provided to the students with a huge dining hall in the hostel.",
-                "Students are provided with the high-speed Internet around the 24*7.",
-                "Availability of visitors room, reading room TV room and indoor games in the hostel system.",
-                "Availability of central heating system, washing machine, tv, fridge, telephone.",
-                "Nearby grocery shops, cafes, restaurants, sports complexes are available."
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "KJ Somaiya Medical College & Research Center - Hostel" },
-                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "KJ Somaiya Medical College & Research Center - Hostel"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/hostel" }
-            ]
-        }
-    ],
-    "faq": [
-        {
-            "type": "question-list",
-            "title": "KJ Somaiya Medical College & Research Center - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "What is the duration of the Courses at KJ Somaiya Medical College and Research Center",
-                    "ans": "The M.B.B.S. courses at KJ Somaiya Medical College and Research Center are of 4 ½ years + 1 year compulsory rotating Internship."
-                },
-                {
-                    "ques": "What is the Affiliation of the MBBS course of KJ Somaiya Medical College and Research Center?",
-                    "ans": "The KJ Somaiya Medical College and Research Center is affiliated to MUHS (Maharashtra University of Health Sciences) Nashik."
-                },
-                {
-                    "ques": "What are the MBBS tuition fees at KJ Somaiya Medical College and Research Center?",
-                    "ans": "Tuition Fees 7,75,000 Rs is an annual fee for doing MBBS course at KJ Somaiya Medical College and Research Center."
-                },
-                {
-                    "ques": "How much time is required for admission at KJ Somaiya Medical College and Research Center?",
-                    "ans": "20-25 days is required admission at KJ Somaiya Medical College and Research Center."
-                },
-                {
-                    "ques": "When does the medical course begin at KJ Somaiya Medical College and Research Center?                 ",
-                    "ans": "The MBBS course intake starts in September at KJ Somaiya Medical College and Research Center."
-                },
-                {
-                    "ques": "Is the KJ Somaiya Medical College and Research Center is it safe for students to pursue MBBS?",
-                    "ans": "Yes, the place has world-class security for students during MBBS education at KJ Somaiya Medical College and Research Center."
-                },
-                {
-                    "ques": "Is the KJ Somaiya What is the age limit to get admission in an MBBS course at Somaiya Medical College and Research Center?",
-                    "ans": "The candidates should have completed a minimum age of 17 at the time of admission or complete that age on or before 31st December of the year of admission to MBBS course."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "KJ Somaiya Medical College & Research Center - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "KJ Somaiya Medical College & Research Center - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/faq" }
-            ]
-        }
-    ],
-    "Placement": [
         {
             "type": "list-bollet",
             "title": "",
@@ -565,7 +432,57 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
             ]
         }
     ],
-    "Faculty": [
+    "gallery": [
+        {
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "KJ Somaiya Medical College & Research Center - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "KJ Somaiya Medical College & Research Center - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - Scholarship"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "KJ Somaiya Medical College & Research Center - Scholarship" },
+                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "KJ Somaiya Medical College & Research Center - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/scholarship" }
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - Faculty"
+        },
         {
             type: 'text',
             title: '',
@@ -643,6 +560,127 @@ export const kjsomaiyamedicalcollegeresearchcentrekjsmcmumbai = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/faculty" }
             ]
         }
+    ],
+    "news": [
+        {
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "KJ Somaiya Medical College & Research Center - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "KJ Somaiya Medical College & Research Center - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - Hostel"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Accommodation & Hostel",
+            "info": "KJ Somaiya Medical College & Research Center provide well-equipped hostel facilities for the students learning MBBS on the university campus:",
+            "data": [
+                "KJ Somaiya Medical College and Research Center have an organized level of hostel system for the students.",
+                "Separate hostel rooms are available for males and females.",
+                "2-3 students can stay in one room on a sharing basis with attached bathrooms/toilets.",
+                "The hostel rooms are totally secured for students round the clock.",
+                "Important requirements are fulfilled in the hostel rooms including bedding (blankets, bedsheets and pillows), tables, cupboard, fan and other electrical appliances.",
+                "There will be 24 hours of regular water supply (hot & cold) available in the hostel rooms for students.",
+                "Mess provided to the students with a huge dining hall in the hostel.",
+                "Students are provided with the high-speed Internet around the 24*7.",
+                "Availability of visitors room, reading room TV room and indoor games in the hostel system.",
+                "Availability of central heating system, washing machine, tv, fridge, telephone.",
+                "Nearby grocery shops, cafes, restaurants, sports complexes are available."
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "KJ Somaiya Medical College & Research Center - Hostel" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "KJ Somaiya Medical College & Research Center - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/hostel" }
+            ]
+        }
+    ],
+    "faq": [
+        {
+            type: "title",
+            title: "KJ Somaiya Medical College & Research Center - FAQ"
+        },
+        {
+            "type": "question-list",
+            "title": "KJ Somaiya Medical College & Research Center - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "What is the duration of the Courses at KJ Somaiya Medical College and Research Center",
+                    "ans": "The M.B.B.S. courses at KJ Somaiya Medical College and Research Center are of 4 ½ years + 1 year compulsory rotating Internship."
+                },
+                {
+                    "ques": "What is the Affiliation of the MBBS course of KJ Somaiya Medical College and Research Center?",
+                    "ans": "The KJ Somaiya Medical College and Research Center is affiliated to MUHS (Maharashtra University of Health Sciences) Nashik."
+                },
+                {
+                    "ques": "What are the MBBS tuition fees at KJ Somaiya Medical College and Research Center?",
+                    "ans": "Tuition Fees 7,75,000 Rs is an annual fee for doing MBBS course at KJ Somaiya Medical College and Research Center."
+                },
+                {
+                    "ques": "How much time is required for admission at KJ Somaiya Medical College and Research Center?",
+                    "ans": "20-25 days is required admission at KJ Somaiya Medical College and Research Center."
+                },
+                {
+                    "ques": "When does the medical course begin at KJ Somaiya Medical College and Research Center?                 ",
+                    "ans": "The MBBS course intake starts in September at KJ Somaiya Medical College and Research Center."
+                },
+                {
+                    "ques": "Is the KJ Somaiya Medical College and Research Center is it safe for students to pursue MBBS?",
+                    "ans": "Yes, the place has world-class security for students during MBBS education at KJ Somaiya Medical College and Research Center."
+                },
+                {
+                    "ques": "Is the KJ Somaiya What is the age limit to get admission in an MBBS course at Somaiya Medical College and Research Center?",
+                    "ans": "The candidates should have completed a minimum age of 17 at the time of admission or complete that age on or before 31st December of the year of admission to MBBS course."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "KJ Somaiya Medical College & Research Center - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "KJ Somaiya Medical College & Research Center - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kj-somaiya-medical-college-research-centre-kjsmc-mumbai/faq" }
+            ]
+        }
     ]
-
 }

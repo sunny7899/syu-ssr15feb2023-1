@@ -1,4 +1,3 @@
-
 export const sinhgadcollegeofengineeringscoevadgaonpune = {
     "Title": "Sinhgad College of Engineering, Pune",
     "shortTitle": "Sinhgad College of Engineering",
@@ -38,8 +37,7 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
                 ["<b>course Duration</b>", "4 Years"],
                 ["<b>Entrance Exams</b>", "JEE Main/MHT-CET"],
                 ["<b>Average Tuition Fee (including development fee)	</b>", "Open: Rs. 1,25,152/- (per year)<br>OBC: Rs. 73,583/- (per year)<br>SC: Rs. 10,152/ (per year)"],
-                ["<b>Top Recruiters</b>", "Mahindra, ORACLE, NVIDIA, Tata Technologies, Atlas Copco, John Deere, Thermax, Hyundai etc."],
-
+                ["<b>Top Recruiters</b>", "Mahindra, ORACLE, NVIDIA, Tata Technologies, Atlas Copco, John Deere, Thermax, Hyundai etc."]
             ]
         },
         {
@@ -236,6 +234,10 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Fee Structure - Sinhgad College of Engineering",
             "info": "",
@@ -292,7 +294,6 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
                 },
             ]
         },
-
         {
             "type": "number-list",
             "title": "Department Offered at SCOE",
@@ -325,13 +326,16 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/shailesh-j-mehta-school-of-management-iit-bombay-mumbai/courses-and-fees" }
             ]
         }
-
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - Admission 2023"
+        },
+        {
             type: 'list-bollet',
             title: 'Admission Criteria of SCOE : For B.tech Course',
-            info: '<b>The admission process is centralized which is conducted by Directorate of Technical Education, Maharashtra State:</b>',
+            info: 'The admission process is centralized which is conducted by Directorate of Technical Education, Maharashtra State:',
             data: [
                 "<b>Step 1:</b> The candidate must be an Indian National.",
                 "<b>Step 2:</b> The candidates must have passed the higher secondary examination with compulsory subjects Physics, Chemistry, Mathematics, and other vocational subjects.",
@@ -433,11 +437,12 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/shailesh-j-mehta-school-of-management-iit-bombay-mumbai/admission" }
             ]
         }
-
-
     ],
-
-    "Reviews": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -456,11 +461,15 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - Placement"
+        },
         {
             "type": "table-title",
             "title": "Placement at SCOE",
-            "info": "<b>Top recruiters at SCOE</b>",
+            "info": "Top recruiters at SCOE",
             "col": [],
             "row": [
                 ["<b>ATOS</b>", "Accenture"],
@@ -502,7 +511,11 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -521,7 +534,11 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships - ",
@@ -554,7 +571,11 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty -",
@@ -630,7 +651,11 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -649,7 +674,11 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -670,6 +699,10 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
     ],
     "faq": [
         {
+            "type": "title",
+            "title": "Sinhgad College of Engineering - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "FAQs",
             "info": "",
@@ -678,7 +711,6 @@ export const sinhgadcollegeofengineeringscoevadgaonpune = {
                     "ques": "Q. Is SCOE a private university or a government university?",
                     "ans": "It is a private university that offers a couple of courses withinside the field of Engineering."
                 },
-
                 {
                     "ques": "Q. Does SCOE have a placement cell?",
                     "ans": "A separate placement cell is there withinside the university to deal with the recruitment procedure and campus placements of the students."

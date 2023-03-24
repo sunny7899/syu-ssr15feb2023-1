@@ -122,6 +122,10 @@ export const walchandinstituteoftechnologysolapur = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Walchand Institute of Technology - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Walchand Institute of Technology - Fee Structure",
             "info": "",
@@ -147,12 +151,12 @@ export const walchandinstituteoftechnologysolapur = {
                     "Annual Fee": "Rs.1,21,240"
                 },
             ],
-            heading: '<p><b>Note:</b> 1$ = Rs. 70.04</p><br><p>Above fees are only for general category students. For reserved category, fees will be declared by the college after the verifications of documents.</p>'
+            "heading": '<p><b>Note:</b> 1$ = Rs. 70.04</p><br><p>Above fees are only for general category students. For reserved category, fees will be declared by the college after the verifications of documents.</p>'
         },
         {
             "type": "list-bollet",
             "title": "Department Offered at Walchand Institute of Technology",
-            "info": "<b>1 Civil Engineering</b>",
+            "info": "1 Civil Engineering",
             "data": [
                 "Department of Civil Engineering was established at Walchand Institute of Technology in the year 1983.",
                 "Apart from this, the department also offered a postgraduate, Ph.D. courses.",
@@ -165,7 +169,7 @@ export const walchandinstituteoftechnologysolapur = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>2 Computer Engineering</b>",
+            "info": "2 Computer Engineering",
             "data": [
                 "The Department of Computer Engineering was established at Walchand Institute of Technology in the year 1985.",
                 "The department has modern computer labs with the installed latest software.",
@@ -176,7 +180,7 @@ export const walchandinstituteoftechnologysolapur = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>3 Information technology</b>",
+            "info": "3 Information technology",
             "data": [
                 "The Department of Information technology was established at Walchand Institute of Technology in the year 1999.",
                 "The department is associated with computer engineering includes the study of computer applications, software, and computer machines.",
@@ -188,7 +192,7 @@ export const walchandinstituteoftechnologysolapur = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>4 Electronics Engineering</b>",
+            "info": "4 Electronics Engineering",
             "data": [
                 "The Department of Electronics Engineering was established at Walchand Institute of Technology in the year 1983 which offers the 4-year undergraduate course in B.Tech (Electronics).",
                 "The curriculum includes a study of digital electronics, power electronics, telecommunication, and skill development programmes.",
@@ -198,7 +202,7 @@ export const walchandinstituteoftechnologysolapur = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>5 Electronics and Telecommunication</b>",
+            "info": "5 Electronics and Telecommunication",
             "data": [
                 "The Department of Electronics and Telecommunication was established at Walchand Institute of Technology in the year 1999 with an intake capacity of 120 students.",
                 "The programme is recognized by the Doctoral Research Center of Solapur University.",
@@ -209,7 +213,7 @@ export const walchandinstituteoftechnologysolapur = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>6 Mechanical Engineering:</b>",
+            "info": "6 Mechanical Engineering:",
             "data": [
                 "The Department of Electronics and Telecommunication was established at Walchand Institute of Technology in the year 1983 with the intake capacity of 120 students.",
                 "The department offers the 4-year undergraduate course for engineering students.",
@@ -237,6 +241,10 @@ export const walchandinstituteoftechnologysolapur = {
         }
     ],
     "admission": [
+        {
+            "type": "title",
+            "title": "Walchand Institute of Technology - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria: Applying for B.Tech Course",
@@ -298,50 +306,38 @@ export const walchandinstituteoftechnologysolapur = {
             ]
         }
     ],
-    "Gallery": [
+    "review":  [
         {
-            type: 'text',
-            title: 'Gallery',
-            img: '',
-        },
-        {
-            type: 'text',
-            title: '',
-            img: '',
-        },
-        {
-            type: 'text',
-            title: '',
-            img: '',
-        },
-        {
-            type: 'text',
-            title: '',
-            img: '',
+            "type": "title",
+            "title": "Walchand Institute of Technology - Reviews"
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Walchand Institute of Technology - Gallery" },
-                { name: "description", content: "B.tech courses in production, mechanical, electronics, computer engineering. Check out gallery" },
+                { name: "title", content: "Walchand Institute of Technology - Reviews" },
+                { name: "description", content: "WIT afffiliated with Solapur university provides 4 year B.tech courses .Check out reviews" },
             ],
         },
         {
             type: "meta-title",
-            title: "Walchand Institute of Technology - Gallery"
+            title: "Walchand Institute of Technology - Reviews"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/walchand-institute-of-technology-solapur/gallery" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/walchand-institute-of-technology-solapur/reviews" }
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "Walchand Institute of Technology - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement at Walchand Institute of Technology",
-            "info": "<b>Important highlights of training and placement cell at WIT:</b>",
+            "info": "Important highlights of training and placement cell at WIT:",
             "data": [
                 "To organize campus placement for UG and PG students.",
                 "To provide optimum job offers to students",
@@ -352,7 +348,7 @@ export const walchandinstituteoftechnologysolapur = {
         {
             "type": "table",
             "title": "Placements (2021-21)",
-            "info": "<b>Here is the list of companies that hired students from Walchand Institute Of Technology. There were a total of 483 placements offered in the University.</b>",
+            "info": "Here is the list of companies that hired students from Walchand Institute Of Technology. There were a total of 483 placements offered in the University.",
             "col": [
                 "Sr. No.",
                 "Name of the Employer",
@@ -847,11 +843,43 @@ export const walchandinstituteoftechnologysolapur = {
             ]
         }
     ],
-    "Scholarship": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Walchand Institute of Technology - Gallery"
+        },
+        {
+            type: 'text',
+            title: 'Gallery',
+            img: '',
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Walchand Institute of Technology - Gallery" },
+                { name: "description", content: "B.tech courses in production, mechanical, electronics, computer engineering. Check out gallery" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Walchand Institute of Technology - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/walchand-institute-of-technology-solapur/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Walchand Institute of Technology - Scholarship"
+        },
         {
             "type": "table",
             "title": "Scholarships - ",
-            "info": "<b>These are the scholarships offered by Walchand Institute of Technology, India -</b>",
+            "info": "These are the scholarships offered by Walchand Institute of Technology, India -",
             "col": [
                 "SR. No",
                 "File Name"
@@ -917,26 +945,11 @@ export const walchandinstituteoftechnologysolapur = {
             ]
         }
     ],
-    "Reviews":  [
+    "faculty": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Walchand Institute of Technology - Reviews" },
-                { name: "description", content: "WIT afffiliated with Solapur university provides 4 year B.tech courses .Check out reviews" },
-            ],
+            "type": "title",
+            "title": "Walchand Institute of Technology - Faculty"
         },
-        {
-            type: "meta-title",
-            title: "Walchand Institute of Technology - Reviews"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/walchand-institute-of-technology-solapur/reviews" }
-            ]
-        }
-    ],
-    "Faculty": [
         {
             type: "meta",
             meta: [
@@ -955,7 +968,11 @@ export const walchandinstituteoftechnologysolapur = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            "type": "title",
+            "title": "Walchand Institute of Technology - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -974,7 +991,11 @@ export const walchandinstituteoftechnologysolapur = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Walchand Institute of Technology - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -994,6 +1015,10 @@ export const walchandinstituteoftechnologysolapur = {
         }
     ],
     "faq":[
+        {
+            "type": "title",
+            "title": "Walchand Institute of Technology - FAQ"
+        },
             {
                 "type": "question-list",
                 "title": "Walchand Institute of Technology - Frequently Asked Questions",

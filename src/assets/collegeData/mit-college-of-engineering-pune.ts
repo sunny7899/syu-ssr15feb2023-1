@@ -1,5 +1,3 @@
-
-
 export const mitcollegeofengineeringpune = {
     "Title": "MAEER’S MIT COLLEGE OF ENGINEERING",
     "shortTitle": "MIT College of Engineering",
@@ -19,7 +17,6 @@ export const mitcollegeofengineeringpune = {
             img: 'https://www.selectyouruniversity.com/images/mit-college-of-engineering.jpg',
             data: '<p><strong>MIT College of Engineering</strong> was established in <strong>2001</strong> situated at Kothrud, Pune, India. The main era of the institute is to encourage the students through innovative teaching-learning methodology.</p><br><p>MIT College of Engineering imparting the involvement of industry professionals for the development of students in their respective areas.</p><br><p><strong>MITCOE</strong> was <strong>ISO certified</strong> by <strong>American Quality Assessors</strong> (AQA) who are the prestigious body in Europe & USA.</p><br><p>For enhancing continuous improvement, internal audits carried out for the processes like laboratory management, library management, method of teaching, a method of learning, training programs etc.</p><br><p>Students come to MITCOE, to pursue their technical career in a diverse environment.</p>'
         },
-
         {
             "type": "list-bollet",
             "title": "The vision of the Institute",
@@ -57,11 +54,8 @@ export const mitcollegeofengineeringpune = {
                 ["<b>Entrance Exams</b>", "JEE Main/CET"],
                 ["<b>Average Tuition Fee (including development fee)</b>", "Rs 1,50,000 (Per year)"],
                 ["<b>Rs 1,50,000 (Per year)</b>", "Autoline Industries PVT LTD, Infosys, Wipro, Cognizant solutions, Honeywell Automation, Eaton Technologies etc."],
-
-
             ]
         },
-
         {
             "type": "list-bollet",
             "title": "Advantages of Studying Engineering at MITCOE",
@@ -74,8 +68,6 @@ export const mitcollegeofengineeringpune = {
                 "Guest lectures and seminars are standardized by experienced professionals."
             ]
         },
-
-
         // table divider start =>
         {
             "type": "table",
@@ -90,8 +82,7 @@ export const mitcollegeofengineeringpune = {
                     "": "<b>Eligibility Criteria</b>",
                     " ": "10+2 with 50% marks (45% for reserved candidates)",
 
-                },
-
+                }
 
             ]
         },
@@ -122,9 +113,6 @@ export const mitcollegeofengineeringpune = {
                     " Annual Fee (Per year)": "Rs.3,75,000",
 
                 },
-
-
-
             ]
         },
         {
@@ -140,18 +128,9 @@ export const mitcollegeofengineeringpune = {
                     "Particulars": "<b>Fee in USD</b>",
                     "Annual Fee": "$ 5,500",
 
-                },
-
-
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Note:",
-            "data": [
-                "1$ = Rs. 70"
-            ]
+                }
+            ],
+            "heading": '<p><b style="color: red;">Note:</b><ul class=mark-up-li>1$ = Rs. 70"</p>'
         },
         {
             "type": "list-bollet",
@@ -165,22 +144,17 @@ export const mitcollegeofengineeringpune = {
             ]
         },
         {
-            type: 'text',
-            title: 'Admission Process',
-            info: '',
-            data: '<p><b>Step 1:</b>  Application forms will be opened in the month of June.</p><br><p><b>Step 2:</b> All the students need to follow the link of Directorate of Technical Education, Maharashtra.</p><br><p><b>Step 3:</b>Candidates should submit the applications on respective dates as mentioned on the DTE website.</p><br><p><b>Step 4:</b>After the display of the final merit list, the respective institutes are allotted to eligible candidates.</p><br><p><b>Step 5:</b> 70% seats reserved for Maharashtra State Quota Candidates.</p>'
+            "type": "step-list",
+            "title": "Admission Process",
+            "info": "",
+            "data": [
+                "Step 1: Application forms will be opened in the month of June.",
+                "Step 2: All the students need to follow the link of Directorate of Technical Education, Maharashtra.",
+                "Step 3: Candidates should submit the applications on respective dates as mentioned on the DTE website.",
+                "Step 4: After the display of the final merit list, the respective institutes are allotted to eligible candidates.",
+                "Step 5: 70% seats reserved for Maharashtra State Quota Candidates."
+            ]
         },
-
-
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "",
-        //     "data": [
-        //         "<p class =text-center></p>"
-        //     ]
-        // },
-
         {
             "type": "text",
             "title": "Gallery",
@@ -213,10 +187,6 @@ export const mitcollegeofengineeringpune = {
                 // "<p class =text-center></p>"
             ]
         },
-
-
-
-
         {
             "type": "list-bollet",
             "title": "College Ranking (MITCOE)",
@@ -303,11 +273,9 @@ export const mitcollegeofengineeringpune = {
                 "At MITCOE, the government merit scholarship, fellowship, endowment scholarships are awarded to students."
             ]
         },
-
-
         {
             "type": "text",
-            "title": "Hostel and Accommodation at MITCOE",
+            "title": "",
             "img": "https://www.selectyouruniversity.com/images/accommodation.png",
             "data": [
                 "<p class =text-center>Accommodation</p>"
@@ -337,8 +305,6 @@ export const mitcollegeofengineeringpune = {
                 "<p class =text-center>Mess</p>"
             ]
         },
-
-
         {
             "type": "text",
             "title": "Other Facilities",
@@ -371,13 +337,6 @@ export const mitcollegeofengineeringpune = {
                 "<p class =text-center>Canteen</p>"
             ]
         },
-
-
-
-
-
-
-
         {
             "type": "list-bollet",
             "title": "",
@@ -457,6 +416,10 @@ export const mitcollegeofengineeringpune = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "MIT College of Engineering - courses & Fees"
+        },
+        {
             "type": "table-title",
             "title": "MIT College of Engineering - Fee Structure",
             "info": "For Indian Nationals",
@@ -477,8 +440,6 @@ export const mitcollegeofengineeringpune = {
                     "Particulars": "Total Fees",
                     "Annual Fee (Per year)": "Rs.3,75,000"
                 }
-
-
             ]
         },
         {
@@ -494,14 +455,8 @@ export const mitcollegeofengineeringpune = {
                     "Particulars": "Fee in USD",
                     "Annual Fee (Per year)": "$ 5,500"
                 }
-
-
-            ]
-        },
-        {
-            "type": "text",
-            "title": "",
-            "data": '<p><b style="color: red;">Note:</b><ul class=mark-up-li>1$ = Rs. 70"</p>'
+            ],
+            "heading": '<p><b style="color: red;">Note:</b><ul class=mark-up-li>1$ = Rs. 70"</p>'
         },
         {
             "type": "list-bollet",
@@ -588,6 +543,10 @@ export const mitcollegeofengineeringpune = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "MIT College of Engineering - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "",
@@ -609,8 +568,6 @@ export const mitcollegeofengineeringpune = {
                 "Step 3: Candidates should submit the applications on respective dates as mentioned on the DTE website.",
                 "Step 4: After the display of the final merit list, the respective institutes are allotted to eligible candidates.",
                 "Step 5: 70% seats reserved for Maharashtra State Quota Candidates."
-
-
             ]
         },
         {
@@ -630,77 +587,35 @@ export const mitcollegeofengineeringpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/admission" }
             ]
         }
-
-
     ],
-
-    "Gallary": {},
-    "Scholarship": [
+    "review": [
         {
-            "type": "list-bollet",
-            "title": "Scholarships Offered at MITCOE",
-            "info": "",
-            "data": [
-                "MITCOE offers the scholarships, freeships to the deserving candidates of various categories like SC/ST/OBC/NT as per government norms.",
-                "Tuition fees waver provided to poor students at the discretion of the management of MAEER’s group of institutes.",
-                "At MITCOE, the government merit scholarship, fellowship, endowment scholarships are awarded to students."
-
-
-            ]
+            "type": "title",
+            "title": "MIT College of Engineering - Reviews"
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "MIT College of Engineering - Scholarship" },
-                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+                { name: "title", content: "MIT College of Engineering - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
             type: "meta-title",
-            title: "MIT College of Engineering - Scholarship"
+            title: "MIT College of Engineering - Reviews"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/scholarship" }
-            ]
-        }
-
-    ],
-    "Faculty": {},
-    "Hostel": [
-        {
-            "type": "list-bollet",
-            "title": "Hostel and Accommodation at MITCOE",
-            "info": "",
-            "data": [
-                "Accommodation",
-                "Hostel",
-                "Medical",
-                "Mess"
-
-
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "MIT College of Engineering - Hostel" },
-                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "MIT College of Engineering - Hostel"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/hostel" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/mit-world-peace-university/reviews" }
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "MIT College of Engineering - Placement"
+        },
         {
             "type": "text",
             "title": "Placements at MITCOE",
@@ -723,8 +638,6 @@ export const mitcollegeofengineeringpune = {
                 "Neilsoft LTD",
                 "NVIDIA",
                 "Google"
-
-
             ]
         },
         {
@@ -744,9 +657,148 @@ export const mitcollegeofengineeringpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/placement" }
             ]
         }
-
+    ],
+    "gallary": [
+        {
+            "type": "title",
+            "title": "MIT College of Engineering - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MIT College of Engineering - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MIT College of Engineering - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/mit-world-peace-university/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "MIT College of Engineering - Scholarship"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Scholarships Offered at MITCOE",
+            "info": "",
+            "data": [
+                "MITCOE offers the scholarships, freeships to the deserving candidates of various categories like SC/ST/OBC/NT as per government norms.",
+                "Tuition fees waver provided to poor students at the discretion of the management of MAEER’s group of institutes.",
+                "At MITCOE, the government merit scholarship, fellowship, endowment scholarships are awarded to students."
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MIT College of Engineering - Scholarship" },
+                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MIT College of Engineering - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/scholarship" }
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            "type": "title",
+            "title": "MIT College of Engineering - Faculty"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MIT College of Engineering - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MIT College of Engineering - Faculty"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/mit-world-peace-university/faculty" }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "type": "title",
+            "title": "MIT College of Engineering - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MIT College of Engineering - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MIT College of Engineering - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/mit-world-peace-university/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            "type": "title",
+            "title": "MIT College of Engineering - Hostel"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Hostel and Accommodation at MITCOE",
+            "info": "",
+            "data": [
+                "Accommodation",
+                "Hostel",
+                "Medical",
+                "Mess"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MIT College of Engineering - Hostel" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MIT College of Engineering - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-college-of-engineering-pune/hostel" }
+            ]
+        }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "MIT College of Engineering - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",
@@ -762,10 +814,10 @@ export const mitcollegeofengineeringpune = {
                 },
                 {
                     "ques": "Q. What is the overall intake potential of M.Tech in MITCOE Pune?",
-                    "ans": " the overall intake potential of M.Tech in MITCOE Pune are 258 seats                    "
+                    "ans": " the overall intake potential of M.Tech in MITCOE Pune are 258 seats "
                 },
                 {
-                    "ques": "Q.  What is the seat creiteria allocation for Maharashtra Domicile Candidates?                    ",
+                    "ques": "Q.  What is the seat creiteria allocation for Maharashtra Domicile Candidates?",
                     "ans": "70% of seats are allotted for Maharashtra domicile college students, 30% for all India quota"
                 },
                 {
