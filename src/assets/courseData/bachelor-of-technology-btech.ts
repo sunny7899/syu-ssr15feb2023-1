@@ -287,6 +287,10 @@ export const bacheloroftechnologybtech = {
     ],
     "syllabus":[
         {
+            type: 'title',
+            title: 'B.tech in India 2023 - Syllabus'
+        },
+        {
             "type": "table",
             "title": "B.tech Course: Complete Syllabus",
             "info": "<b>Syllabus of MHT-CET includes 80% weightage of class 12th curriculum and 20% weightage of Class 10th curriculum:</b>",
@@ -436,6 +440,10 @@ export const bacheloroftechnologybtech = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'B.tech in India 2023 - Top Colleges in India'
+        },
+        {
             "type": "table",
             "title": "B.tech Course - Fee Structure",
             "info": "Here are the top 10 colleges in India who offer an engineering degree. Following table gives the detail description about the fee structure of topmost colleges in India:",
@@ -515,6 +523,10 @@ export const bacheloroftechnologybtech = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'B.tech in India 2023 - Career Options'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Career Prospects',
             "info": 'Private as well as public sectors also recruit the engineers. Depending upon skills and knowledge candidate can get a job in the reputed organization:',
@@ -565,6 +577,10 @@ export const bacheloroftechnologybtech = {
             ]}
     ],
     "faq":[
+        {
+            type: 'title',
+            title: 'B.tech in India 2023 - FAQ'
+        },
         {
             type: 'meta',
             meta: [

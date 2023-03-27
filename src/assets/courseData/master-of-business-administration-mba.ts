@@ -87,7 +87,7 @@ export const masterofbusinessadministrationmba = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria to take MBA Admission",
-            "info": "<b></b>",
+            "info": "",
             "img": '',
             "data": [
                 "Candidates should have done their graduation with good or qualifying marks is the first criteria.",
@@ -121,7 +121,7 @@ export const masterofbusinessadministrationmba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Scholarships are provided on the basis of below mentioned different criteria:</b>",
+            "info": "Scholarships are provided on the basis of below mentioned different criteria:",
             "img": '',
             "data": [
                 "The academic percentage in 10th, 12th & Graduation.",
@@ -155,6 +155,10 @@ export const masterofbusinessadministrationmba = {
         }
     ],
     "topcolleges": [
+        {
+            type: 'title',
+            title: 'MBA in India 2023 - Top Colleges in India'
+        },
         {
             "type": "table",
             "title": "Top MBA Universities/Colleges in India (with Fee Structure)",
@@ -234,9 +238,13 @@ export const masterofbusinessadministrationmba = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'MBA in India - Syllabus'
+        },
+        {
             "type": "table-title",
             "title": "All Subjects of an MBA Program in India",
-            "info": "<b>Students need to study below mentioned MBA (Master of Business Administration) subjects when they opt for ‘MBA in India’:</b>",
+            "info": "Students need to study below mentioned MBA (Master of Business Administration) subjects when they opt for ‘MBA in India’:",
             "col": [
             ],
             "row": [
@@ -275,6 +283,10 @@ export const masterofbusinessadministrationmba = {
 
     ],
     "careeroptions": [
+        {
+            type: 'title',
+            title: 'MBA in India - Career Options'
+        },
         {
             "type": "list-bollet",
             "title": "Job Positions for MBA Students",
@@ -350,6 +362,10 @@ export const masterofbusinessadministrationmba = {
 
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'MBA in India- FAQs'
+        },
         {
             type: "meta",
             meta: [

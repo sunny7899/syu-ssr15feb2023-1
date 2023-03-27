@@ -144,6 +144,10 @@ export const engineeringinpoland = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'Engineering in Poland 2023 - Syllabus'
+        },
+        {
             "type": 'number-list',
             "title": 'Courses Offered: For Engineering in Poland',
             "info": "<b>Following are the courses offered in the field of Engineering by Polish Universities:</b>",
@@ -185,6 +189,10 @@ export const engineeringinpoland = {
     ],
 
     "topcolleges": [
+        {
+            type: 'title',
+            title: 'Engineering in Poland 2023 - Top Colleges in Poland'
+        },
         {
             "type": "table",
             "title": "Top Engineering Universities in Poland: Fee Structure",
@@ -249,6 +257,10 @@ export const engineeringinpoland = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'Engineering in Poland 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Scopes after Completing Engineering from Poland",
             "info": "<b>Following are the career opportunities after engineering in Poland:</b>",
@@ -284,6 +296,10 @@ export const engineeringinpoland = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Engineering in Poland 2023 - FAQ'
+        },
 
 
         {

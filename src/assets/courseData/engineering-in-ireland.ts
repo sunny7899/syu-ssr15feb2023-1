@@ -216,6 +216,10 @@ export const engineeringinireland= {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'Engineering in Ireland 2023 - Syllabus'
+        },
+        {
             "type": "list-bollet",
             "title": "Engineering Course in Ireland: Core Subjects",
             "info": "The top core Engineering subjects are as follows:",
@@ -290,6 +294,10 @@ export const engineeringinireland= {
         }
     ],
     "topcolleges": [
+        {
+            type: 'title',
+            title: 'Engineering in Ireland 2023 - Top Colleges in Ireland'
+        },
         {
             "type": "list-bollet",
             "title": "List of Top 7 Engineering Universities in Ireland",
@@ -369,6 +377,10 @@ export const engineeringinireland= {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'Engineering in Ireland 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Prospects (After Completion of Engineering from Ireland)",
             "info": "",
@@ -425,6 +437,10 @@ export const engineeringinireland= {
         }
     ],
     "faq":[
+        {
+            type: 'title',
+            title: 'Engineering in Ireland 2023 - FAQs'
+        },
         {
             type: "meta",
             meta: [

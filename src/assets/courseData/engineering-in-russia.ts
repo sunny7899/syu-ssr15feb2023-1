@@ -185,6 +185,10 @@ export const engineeringinrussia = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'Engineering in Russia 2023 - Top Colleges in Russia'
+        },
+        {
             "type": "number-list",
             "title": "List of Top Engineering Colleges in Russia",
             "info": "<b>Following is a list of top universities in Russia for Engineering:</b>",
@@ -276,9 +280,13 @@ export const engineeringinrussia = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'Engineering in Russia 2023 - Syllabus'
+        },
+        {
             "type": "list-bollet",
             "title": "Subjects for a Course of Engineering In Russi",
-            "info": "<b>The top core Engineering subjects are as follows:</b>",
+            "info": "The top core Engineering subjects are as follows:",
             "data": [
                 "Engineering Graphics",
                 "Engineering Fluid Mechanics",
@@ -316,6 +324,10 @@ export const engineeringinrussia = {
         }
     ],
     "careeroptions": [
+        {
+            type: 'title',
+            title: 'Engineering in Russia 2023 - Career Options'
+        },
         {
             "type": "list-bollet",
             "title": "Career Prospects (After Completion of Engineering from Russia)",
@@ -389,6 +401,10 @@ export const engineeringinrussia = {
 
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Engineering in Russia 2023 - FAQs'
+        },
         {
             type: "meta",
             meta: [
