@@ -127,6 +127,10 @@ export const engineeringingermany = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'Engineering in Germany 2023 - Top Colleges in Germany'
+        },
+        {
             "type": "table",
             "title": "List of Top Engineering Universities of Germany",
             "info": "<b>Which university to choose to study engineering in Germany? Choose from the following top universities:</b>",
@@ -219,6 +223,10 @@ export const engineeringingermany = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'Engineering in Germany 2023 - Syllabus'
+        },
+        {
             "type": "text",
             "title": "Popular Courses Taught in Engineering in German Universities",
             "info": "<b>Choose from the following courses to study Engineering in Germany. These are the popular courses in Germany with vast opportunities:</b>",
@@ -263,6 +271,10 @@ export const engineeringingermany = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'Engineering in Germany 2023 - Career Options'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Engineering in Germany 2023 - Career Options" },
@@ -281,6 +293,10 @@ export const engineeringingermany = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Engineering in Germany 2023 - FAQs'
+        },
         {
             "type": "question-list",
             "title": "Engineering in Germany - Important FAQ",

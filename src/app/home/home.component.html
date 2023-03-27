@@ -716,12 +716,14 @@
                         <button class="btn signbtn" (click)="singinUp()">Sign Up</button>
 
                         <!-- <input type="button btn " value=" Sign Up" class="d-inline p-2 signbtn black-text"> -->
+                        
                     </div>
-                    <div class="success">
-                        <p *ngIf="signUp">You have successfully subscribed to our news letter</p>
-                    </div>
+                    
                 </div>
             </div>
+            <div class="success col-lg-1 col-12 text-center">
+              <p *ngIf="signUp">You have successfully subscribed to our news letter</p>
+          </div>
         </div>
     </div>
     <app-chat></app-chat>

@@ -1772,47 +1772,47 @@ const routes: Routes = [
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/courses-and-fees/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/courses-and-fees/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/admission/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/admission/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/review/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/review/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/placement/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/placement/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/gallery/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/gallery/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/scholarship/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/scholarship/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faculty/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/faculty/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/news/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/news/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/hostel/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/hostel/.',
     component: CollegeConComponent
   },
   {
-    path: 'institute-of-management-and-entrepreneurship-development-imed-pune/faq/.',
+    path: 'bharati-vidyapeeth-institute-of-management-entrepreneurship-development/faq/.',
     component: CollegeConComponent
   },
   {

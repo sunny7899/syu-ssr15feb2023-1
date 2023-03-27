@@ -6,8 +6,6 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
     "rating": "",
     "shareLink": "",
     "url": "shailesh-j-mehta-school-of-management-iit-bombay-mumbai",
-
-
     "info": [
         {
             "type": "title",
@@ -22,18 +20,15 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
         {
             type: 'text',
             title: '',
-            info: '<b>The Goal of the SJMSOM:</b>',
+            info: 'The Goal of the SJMSOM:',
             data: '<p>Within the IIT Bombay eco-system and beyond, nurture intellectual capital by leveraging on research, collaborations, consultancy, and teaching is the goal of SJMSOM.</p>'
         },
         {
             "type": "table-title",
             "title": "SJMSOM - Master of Management Studies Overview",
             "info": "",
-            "col": [
-            ],
+            "col": [],
             "row": [
-
-
                 ["<b>Basic Eligibility</b>", "60% in PCB (Physics, Chemistry, and Biology) for general category and 55% for others."],
                 ["<b>CAT/ GMAT Entrance Test</b>", "Yes, it is compulsory with a valid score."],
                 ["<b>TOEFL/ IELTS</b>", "To be given to prove English proficiency"],
@@ -56,11 +51,7 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
                 ["<b>Annual Tuition Fee</b>", "Rs.36 Lakhs/Year"],
                 ["<b>Course Duration</b>", "1 years"],
                 ["<b>Medium of Teaching</b>", "English Language"],
-                ["<b>Ranking</b>", "Country Ranking: 5 (according to NIRF)<br>World Ranking: 3"],
-
-
-
-
+                ["<b>Ranking</b>", "Country Ranking: 5 (according to NIRF)<br>World Ranking: 3"]
             ]
         },
         {
@@ -253,8 +244,11 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
             ]
         }
     ],
-
     "coursesandfees": [
+        {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - courses & Fees"
+        },
         {
             "type": "table",
             "title": "Shailesh J. Mehta School of Management - Fee Structure 2022",
@@ -312,6 +306,10 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility for Master of Management Programme",
             "info": "",
@@ -334,8 +332,8 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
         {
             "type": "table",
             "title": "Admission Procedure at SJMSOM",
-            "info": "<b>For Master of Management Programme</b><p>On the basis of their score in the CAT exam, candidates are shortlisted. (GMAT for international applicants).</p><p>To appear for the Written Ability Test (WAT) and Personal Interview, the shortlisted candidates are then invited.</p>",
-            "textBelowInfo": "<b>For Executive MBA</b><p>On the basis of their application, they will be shortlisted and, and as part of candidate’s application, applicants have to provide two recommendations written by someone they know in the professional capacity as well as a Sponsorship/Commitment letter.</p><p>A personal interview would be arranged for shortlisted candidates.</p>",
+            "info": "For Master of Management Programme<p>On the basis of their score in the CAT exam, candidates are shortlisted. (GMAT for international applicants).</p><p>To appear for the Written Ability Test (WAT) and Personal Interview, the shortlisted candidates are then invited.</p>",
+            "textBelowInfo": "For Executive MBA<p>On the basis of their application, they will be shortlisted and, and as part of candidate’s application, applicants have to provide two recommendations written by someone they know in the professional capacity as well as a Sponsorship/Commitment letter.</p><p>A personal interview would be arranged for shortlisted candidates.</p>",
             "data": "<b>To give an overview, tabulated below are the cut-offs for recent batches of IIT-B SJMSOM:</b>",
             "col": [
                 "Batch",
@@ -378,13 +376,9 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
                 {
                     "Event": "<b>Selected candidates’ final list shall be published by</b>",
                     "Dates": "April",
-                },
-
-
-
+                }
             ]
         },
-
         {
             type: "meta",
             meta: [
@@ -403,8 +397,11 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
             ]
         }
     ],
-    "Reviews": [
-
+    "review": [
+        {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -423,11 +420,15 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Job Placements at SJMSOM",
-            "info": "<b>Students get excellent work opportunities after completing management courses from SJMSOM (IIT Bombay):</b>",
+            "info": "Students get excellent work opportunities after completing management courses from SJMSOM (IIT Bombay):",
             "data": [
                 "The placement cell at SJMSOM is very strong. It guarantees 100% placement every year. IIT Bombay has always been a tremendous success when it comes to placement.",
                 "For the batch of 2017, the Institute concluded the final placements with the top salary offered as Rs. 29.9 lakhs.",
@@ -440,7 +441,6 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
                 "Offers made in the finals – 69"
             ]
         },
-
         {
             type: "meta",
             meta: [
@@ -459,7 +459,11 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - Gallery"
+        },
         // {
         //     "type": "text",
         //     "title": "Gallery",
@@ -511,17 +515,20 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following are the scholarships offered by the Shailesh J Mehta School of Management -</b>",
+            "info": "Following are the scholarships offered by the Shailesh J Mehta School of Management -",
             "data": [
                 "Scholarships are provided on merit- basis"
             ],
 
         },
-
         {
             type: "meta",
             meta: [
@@ -540,7 +547,11 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -568,7 +579,6 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
                 },
             ]
         },
-
         {
             type: "meta",
             meta: [
@@ -587,8 +597,11 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
             ]
         }
     ],
-    "News": [
-
+    "news": [
+        {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -607,8 +620,11 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
             ]
         }
     ],
-    "Hostel": [
-
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -628,6 +644,10 @@ export const shaileshjmehtaschoolofmanagementiitbombaymumbai = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Shailesh J.Mehta School of Management - FAQ"
+        },
         {
             "type": "question-list",
             "title": "FAQs",

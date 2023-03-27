@@ -1,4 +1,3 @@
-
 export const kjsomaiyainstituteofmanagementmumbai = {
     "Title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai",
     "shortTitle": "K.J. Somaiya Institute of Management Studies and Research, Mumbai",
@@ -7,7 +6,6 @@ export const kjsomaiyainstituteofmanagementmumbai = {
     "rating": "",
     "shareLink": "",
     "url": "kj-somaiya-institute-of-management-mumbai",
-
     "info": [
         {
             "type": "title",
@@ -23,7 +21,7 @@ export const kjsomaiyainstituteofmanagementmumbai = {
         {
             "type": "table",
             "title": "K.J. Somaiya Institute of Management: Quick Overview",
-            "info": "<b>Following are the quick highlights of studying MBA in K.J. Somaiya Institute of Management Studies and Research:</b>",
+            "info": "Following are the quick highlights of studying MBA in K.J. Somaiya Institute of Management Studies and Research:",
             "col": [],
             "row": [
                 ["<b>Degree Awarded</b>", "MBA"],
@@ -33,11 +31,10 @@ export const kjsomaiyainstituteofmanagementmumbai = {
                 ["<b>Job Positions Offered</b>", "Analyst, Manager, Supervisor, Specialist, HR"]
             ]
         },
-
         {
             "type": "list-bollet",
             "title": "Why Study MBA at K.J. Somaiya Institute of Management?",
-            "info": "<b>K.J. Somaiya Institute of Management Studies and Research is the renowned business school in Mumbai. Below are the benefits of studying MBA at the institute:</b>",
+            "info": "K.J. Somaiya Institute of Management Studies and Research is the renowned business school in Mumbai. Below are the benefits of studying MBA at the institute:",
             "data": [
                 "The institute has a well-equipped campus located in the heart of the Mumbai city.",
                 "With a student-driven culture, the curriculum leads to the professional and cultural growth of students.",
@@ -51,7 +48,7 @@ export const kjsomaiyainstituteofmanagementmumbai = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>KJ Somaiya Institute of Management is recognized by:</b>",
+            "info": "KJ Somaiya Institute of Management is recognized by:",
             "data": [
                 "AICTE",
                 "AACSB",
@@ -86,9 +83,13 @@ export const kjsomaiyainstituteofmanagementmumbai = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "K.J. Somaiya Institute of Management: Fee Structure 2022",
-            "info": "<b>Following is the fee structure of MBA courses at K.J. Somaiya Institute of Management Studies and Research:</b>",
+            "info": "Following is the fee structure of MBA courses at K.J. Somaiya Institute of Management Studies and Research:",
             "col": [
                 "Particulars",
                 "Fees in Rupees",
@@ -110,12 +111,12 @@ export const kjsomaiyainstituteofmanagementmumbai = {
 
                 },
             ],
-            heading: '<p><strong style=color: red;><u>Note</u>:</strong> Fees may be subject to change as per the university norms and regulations.</p>'
+            "heading": '<p><strong style=color: red;><u>Note</u>:</strong> Fees may be subject to change as per the university norms and regulations.</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at K.J. Somaiya Institute of Management",
-            "info": "<b>Following are the programs offered at K.J. Somaiya Institute of Management Studies and Research:</b>",
+            "info": "Following are the programs offered at K.J. Somaiya Institute of Management Studies and Research:",
             "data": [
                "International Business",
                "Retail Management",
@@ -130,7 +131,7 @@ export const kjsomaiyainstituteofmanagementmumbai = {
         {
             "type": "list-bollet",
             "title": "Duration of MBA Course in K.J. Somaiya Institute of Management",
-            "info": "<b>An MBA in K.J. Somaiya Institute of Management Studies and Research lasts for a period of 2 years:</b>",
+            "info": "An MBA in K.J. Somaiya Institute of Management Studies and Research lasts for a period of 2 years:",
             "data": [
                 "K.J. Somaiya Institute of Management offers a full-time business management program that comprises 4 semesters leading to the degree of Master in Business Administration.",
                 "One of the notable features of the KJ Somaiya Institute of Management MBA program is that it provides the opportunity to learn business exposure by contributing to broad-based education."
@@ -154,12 +155,15 @@ export const kjsomaiyainstituteofmanagementmumbai = {
             ]
         }
     ],
-
     "admission": [
+        {
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Follow the below admission prerequisites for applying for an MBA at K.J. Somaiya Institute of Management Studies and Research: Institute of Management Studies and Research needs to satisfy following eligibility criteria:</b>",
+            "info": "Follow the below admission prerequisites for applying for an MBA at K.J. Somaiya Institute of Management Studies and Research: Institute of Management Studies and Research needs to satisfy following eligibility criteria:",
             "data": [
                 "Applicants must have a bachelor’s degree from the recognized university.",
                 "Percentage criteria vary as per the enrollment of the respective course. It should be between 55 to 60 percent.",
@@ -170,7 +174,7 @@ export const kjsomaiyainstituteofmanagementmumbai = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Follow the below admission guidelines for applying for an MBA at K.J. Somaiya Institute of Management Studies and Research:</b>',
+            info: 'Follow the below admission guidelines for applying for an MBA at K.J. Somaiya Institute of Management Studies and Research:',
             data: [
                 "Step 1: Candidates can apply for more than one program for an MBA in various fields of specializations.",
                 "Step 2: Candidates shall be selected on the basis of test scores in the above entrance exams.",
@@ -183,7 +187,7 @@ export const kjsomaiyainstituteofmanagementmumbai = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Refer the below documents checklists for applying for an MBA in K.J. Somaiya Institute of Management Studies and Research:</b>",
+            "info": "Refer the below documents checklists for applying for an MBA in K.J. Somaiya Institute of Management Studies and Research:",
             "data": [
                 "Copy of mark sheets (10th, 12th, bachelor)",
                 "Offer letter",
@@ -197,7 +201,7 @@ export const kjsomaiyainstituteofmanagementmumbai = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Refer below table for the important dates for enrollment:</b>",
+            "info": "Refer below table for the important dates for enrollment:",
             "col": [
                 "Program Description",
                 "Dates",
@@ -243,7 +247,11 @@ export const kjsomaiyainstituteofmanagementmumbai = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -262,7 +270,65 @@ export const kjsomaiyainstituteofmanagementmumbai = {
             ]
         }
     ],
-    "Gallery": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Placement"
+        },
+        {
+            type: 'text',
+            title: 'Placement Process at K.J. Somaiya Institute of Management',
+            info: '',
+            data: '<p><b>MBA course at K.J. Somaiya Institute of Management Studies and Research is the growing career for management students:</b></p><p>The institute has received Iso certification from the Bureau veritas. It is the first institute which has been granted autonomous status for its affiliated programs. The placement cell organizes the training programs for students nurturing the opportunities in the management fields.</p>'
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Following are the main objectives of the placement program:",
+            "data": [
+                "Developing business communication skills.",
+                "Conducting the mock test, aptitude test, soft skill test in the respective discipline.",
+                "Encourage critical thinking for innovative minds.",
+                "Provide working exposure firing entrepreneurial ambitions.",
+                "Offer the integrated approach to enhance the capability of students."
+            ]
+        },
+        {
+            "type": "table",
+            "title": "",
+            "info": "Top recruiters at KJ Somaiya Institute of Management are:",
+            "col": [],
+            "row": [
+                ["ITC Limited", "Uber", "Accenture", "Google"],
+                ["Canon", "LG", "Cognizant", "Citi"],
+                ["HP", "Facebook", "Jio", "Atos"],
+                ["Bisleri", "Snapdeal", "", ""],
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "http://demo.mentebit.com/college/kj-somaiya-institute-of-management-mumbai/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -281,26 +347,11 @@ export const kjsomaiyainstituteofmanagementmumbai = {
             ]
         }
     ],
-    "News": [
+    "scholarship": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - News & Articles" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-            ],
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Scholarship"
         },
-        {
-            type: "meta-title",
-            title: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - News & Articles"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "http://demo.mentebit.com/college/kj-somaiya-institute-of-management-mumbai/news-and-articles" }
-            ]
-        }
-    ],
-    "Scholarship": [
         {
             type: 'text',
             title: 'Scholarships Offered at K.J. Somaiya Institute of Management',
@@ -349,103 +400,11 @@ export const kjsomaiyainstituteofmanagementmumbai = {
             ]
         }
     ],
-    "Placement": [
+    "faculty": [
         {
-            type: 'text',
-            title: 'Placement Process at K.J. Somaiya Institute of Management',
-            info: '',
-            data: '<p><b>MBA course at K.J. Somaiya Institute of Management Studies and Research is the growing career for management students:</b></p><p>The institute has received Iso certification from the Bureau veritas. It is the first institute which has been granted autonomous status for its affiliated programs. The placement cell organizes the training programs for students nurturing the opportunities in the management fields.</p>'
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Faculty"
         },
-
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "<b>Following are the main objectives of the placement program:</b>",
-            "data": [
-                "Developing business communication skills.",
-                "Conducting the mock test, aptitude test, soft skill test in the respective discipline.",
-                "Encourage critical thinking for innovative minds.",
-                "Provide working exposure firing entrepreneurial ambitions.",
-                "Offer the integrated approach to enhance the capability of students."
-            ]
-        },
-        {
-            "type": "table",
-            "title": "",
-            "info": "<b>Top recruiters at KJ Somaiya Institute of Management are:</b>",
-            "col": [],
-            "row": [
-                ["ITC Limited", "Uber", "Accenture", "Google"],
-                ["Canon", "LG", "Cognizant", "Citi"],
-                ["HP", "Facebook", "Jio", "Atos"],
-                ["Bisleri", "Snapdeal", "", ""],
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Placement" },
-                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Placement"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "http://demo.mentebit.com/college/kj-somaiya-institute-of-management-mumbai/placement" }
-            ]
-        }
-    ],
-    "faq": [
-        {
-            "type": "question-list",
-            "title": "K.J. Somaiya Institute of Management: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": " How many seats are allotted to the MBA course at K.J. Somaiya Institute of Management",
-                    "ans": "A total of 240 seats is allotted to MBA students out of which 120 seats are for NRI quota."
-                },
-                {
-                    "ques": " Are the internships available at the institute?",
-                    "ans": "Yes. at the end of first-year program internships programs are there which are known as summer internship programs for a period of 2 months."
-                },
-                {
-                    "ques": " What is the duration of MBA program at KJ Somaiya Institute of Management?",
-                    "ans": "The duration of MBA programs at KJ Somaiya Institute of Management lasts for a period of 2 years."
-                },
-                {
-                    "ques": " Is it the residential course or the Global MBA?",
-                    "ans": "It is the complete residential course."
-                },
-                {
-                    "ques": " Are there any hostel facilities available for the students?",
-                    "ans": "Yes, hostels are provided for boys and girls with the AC and Non-AC rooms."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "http://demo.mentebit.com/college/kj-somaiya-institute-of-management-mumbai/faq"}
-            ]
-        }
-    ],
-    "Faculty": [
         {
             "type": "table",
             "title": "",
@@ -491,11 +450,38 @@ export const kjsomaiyainstituteofmanagementmumbai = {
             ]
         }
     ],
-    "Hostel": [
+    "news": [
+        {
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "http://demo.mentebit.com/college/kj-somaiya-institute-of-management-mumbai/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Accommodation at K.J. Somaiya Institute of Management Studies and Research",
-            "info": "<b>Following are the accommodations facilities offered by the K.J. Somaiya Institute of Management Studies and Research -</b>",
+            "info": "Following are the accommodations facilities offered by the K.J. Somaiya Institute of Management Studies and Research -",
             "data": [
                 "Sandipani Hostel ( Boys )",
                 "Maitreyi Hostel  ( Girls )",
@@ -519,6 +505,56 @@ export const kjsomaiyainstituteofmanagementmumbai = {
                 { rel: "canonical", href: "http://demo.mentebit.com/college/kj-somaiya-institute-of-management-mumbai/hostel" }
             ]
         }
-    ]
+    ],
+    "faq": [
+        {
+            "type": "title",
+            "title": "K.J. Somaiya Institute of Management Studies and Research, Mumbai - FAQ"
+        },
+        {
+            "type": "question-list",
+            "title": "K.J. Somaiya Institute of Management: Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": " How many seats are allotted to the MBA course at K.J. Somaiya Institute of Management",
+                    "ans": "A total of 240 seats is allotted to MBA students out of which 120 seats are for NRI quota."
+                },
+                {
+                    "ques": " Are the internships available at the institute?",
+                    "ans": "Yes. at the end of first-year program internships programs are there which are known as summer internship programs for a period of 2 months."
+                },
+                {
+                    "ques": " What is the duration of MBA program at KJ Somaiya Institute of Management?",
+                    "ans": "The duration of MBA programs at KJ Somaiya Institute of Management lasts for a period of 2 years."
+                },
+                {
+                    "ques": " Is it the residential course or the Global MBA?",
+                    "ans": "It is the complete residential course."
+                },
+                {
+                    "ques": " Are there any hostel facilities available for the students?",
+                    "ans": "Yes, hostels are provided for boys and girls with the AC and Non-AC rooms."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "K.J. Somaiya Institute of Management Studies and Research, Mumbai - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "http://demo.mentebit.com/college/kj-somaiya-institute-of-management-mumbai/faq"}
+            ]
+        }
+    ],
 
 }

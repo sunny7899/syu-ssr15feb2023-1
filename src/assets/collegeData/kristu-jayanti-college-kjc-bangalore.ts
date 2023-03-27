@@ -1,4 +1,3 @@
-
 export const kristujayanticollegekjcbangalore = {
     "Title": "Kristu Jayanti College, Bangalore",
     "shortTitle": "Kristu Jayanti College, Bangalore",
@@ -96,8 +95,6 @@ export const kristujayanticollegekjcbangalore = {
 
             ]
         },
-
-
         {
             "type": "table",
             "title": "Kristu Jayanti College - Quick Highlights",
@@ -168,6 +165,10 @@ export const kristujayanticollegekjcbangalore = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Kristu Jayanti College - Fee Structure for BCA Course",
             "info": "",
@@ -198,7 +199,7 @@ export const kristujayanticollegekjcbangalore = {
                 },
 
             ], 
-            heading: '<p><b>Note:</b> 1$ = Rs.70.04</p><p>Above fees are only for general category students.</p><p>For reserved category, fees will be declared by the college after the verifications of documents.</p>'
+            "heading": '<p><b>Note:</b> 1$ = Rs.70.04</p><p>Above fees are only for general category students.</p><p>For reserved category, fees will be declared by the college after the verifications of documents.</p>'
         },
         {
             "type": "table",
@@ -394,6 +395,10 @@ export const kristujayanticollegekjcbangalore = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For BCA Course",
             "info": "",
@@ -405,7 +410,7 @@ export const kristujayanticollegekjcbangalore = {
         {
             type: 'step-list',
             title: 'Admission Procedure - BCA Course at Kristu Jayanti College',
-            info: '<b>All the BCA applicants need to follow application guidelines as per Kristu Jayanti College:</b>',
+            info: 'All the BCA applicants need to follow application guidelines as per Kristu Jayanti College:',
             data: [
                "Step 1: Fill the online application form with valid details.",
                "Step 2: Submit online applications.",
@@ -446,44 +451,11 @@ export const kristujayanticollegekjcbangalore = {
             ]
         }
     ],
-    "Gallery": [
+    "review": [
         {
-            "type": "text",
-            "title": "Gallary",
-            "img": "https://www.selectyouruniversity.com/images/courses/bca/kristu-jayanti-college-bangalore/auditorium-of-kristu-jayanti-college-bangalore.jpg",
-            "data": []
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - Reviews"
         },
-        {
-            "type": "text",
-            "title": "",
-            "img": "https://www.selectyouruniversity.com/images/courses/bca/kristu-jayanti-college-bangalore/canteen-of-kristu-jayanti-college-bangalore.jpg",
-            "data": []
-        },
-        {
-            "type": "text",
-            "title": "",
-            "img": "https://www.selectyouruniversity.com/images/courses/bca/kristu-jayanti-college-bangalore/main-building-of-kristu-jayanti-college-bangalore.jpg",
-            "data": []
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kristu Jayanti College, Bangalore - Gallery" },
-                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Kristu Jayanti College, Bangalore - Gallery"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kristu-jayanti-college-kjc-bangalore/gallery" }
-            ]
-        }
-    ],
-    "Reviews": [
         {
             type: "meta",
             meta: [
@@ -502,49 +474,15 @@ export const kristujayanticollegekjcbangalore = {
             ]
         }
     ],
-    "News": [
+    "placement": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kristu Jayanti College, Bangalore - News & Articles" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-            ],
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - Placement"
         },
-        {
-            type: "meta-title",
-            title: "Kristu Jayanti College, Bangalore - News & Articles"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kristu-jayanti-college-kjc-bangalore/news-and-articles" }
-            ]
-        }
-    ],
-    "Hostel": [
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kristu Jayanti College, Bangalore - Hostel" },
-                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Kristu Jayanti College, Bangalore - Hostel"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kristu-jayanti-college-kjc-bangalore/hostel" }
-            ]
-        }
-    ],
-    "Placement": [
         {
             "type": "list-bollet",
             "title": "Placements at Kristu Jayanti College",
-            "info": "<b>Objectives:</b>",
+            "info": "Objectives:",
             "data": [
                 "To ensure 100% employment for registered students.",
                 "To recognize the competencies of the students.",
@@ -585,11 +523,56 @@ export const kristujayanticollegekjcbangalore = {
             ]
         }
     ],
-    "Scholarship": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - Gallery"
+        },
+        {
+            "type": "text",
+            "title": "Gallary",
+            "img": "https://www.selectyouruniversity.com/images/courses/bca/kristu-jayanti-college-bangalore/auditorium-of-kristu-jayanti-college-bangalore.jpg",
+            "data": []
+        },
+        {
+            "type": "text",
+            "title": "",
+            "img": "https://www.selectyouruniversity.com/images/courses/bca/kristu-jayanti-college-bangalore/canteen-of-kristu-jayanti-college-bangalore.jpg",
+            "data": []
+        },
+        {
+            "type": "text",
+            "title": "",
+            "img": "https://www.selectyouruniversity.com/images/courses/bca/kristu-jayanti-college-bangalore/main-building-of-kristu-jayanti-college-bangalore.jpg",
+            "data": []
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kristu Jayanti College, Bangalore - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kristu Jayanti College, Bangalore - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kristu-jayanti-college-kjc-bangalore/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following are the scholarships offered by the Amity Institute of information technology -</b>",
+            "info": "Following are the scholarships offered by the Amity Institute of information technology -",
             "data": [
                 "Kristu Jayanti Scholarship",
                 "Government Scholarship"
@@ -613,7 +596,11 @@ export const kristujayanticollegekjcbangalore = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - Faculty"
+        },
         {
             "type": "table",
             "title": "",
@@ -659,7 +646,57 @@ export const kristujayanticollegekjcbangalore = {
             ]
         }
     ],
+    "news": [
+        {
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kristu Jayanti College, Bangalore - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kristu Jayanti College, Bangalore - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kristu-jayanti-college-kjc-bangalore/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - Hostel"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kristu Jayanti College, Bangalore - Hostel" },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kristu Jayanti College, Bangalore - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/kristu-jayanti-college-kjc-bangalore/hostel" }
+            ]
+        }
+    ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Kristu Jayanti College, Bangalore - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

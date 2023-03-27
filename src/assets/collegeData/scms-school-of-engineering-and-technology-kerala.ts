@@ -1,4 +1,3 @@
-
 export const scmsschoolofengineeringandtechnologykerala = {
     "Title": "SCMS School of Engineering & Technology, Kerala",
     "shortTitle": "SCMS School of Engineering and Technology",
@@ -21,7 +20,7 @@ export const scmsschoolofengineeringandtechnologykerala = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Important Facts</b>",
+            "info": "Important Facts",
             "data": [
                 "SCMS has got <b>56th rank</b> among 4300 engineering colleges in the country",
                 "As per GHRDC & CHR National Survey SCMS is found to be 14th in the country.",
@@ -33,7 +32,7 @@ export const scmsschoolofengineeringandtechnologykerala = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>A Vision of Institute</b>",
+            "info": "A Vision of Institute",
             "data": [
                 "To become a world-class center in providing technical education.",
                 "To offer <strong>practical-oriented education</strong> to meet the growing challenges of the industry and society."
@@ -53,7 +52,6 @@ export const scmsschoolofengineeringandtechnologykerala = {
                 ["<b>Top Recruiters</b>", "Infosys, Mahindra, UST global, Syntel, Wipro, MRF, HP, Spectrum, CISCO, Godrej, MPHASIS, Cognizant, Hexawave Technology etc."],
             ]
         },
-
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
@@ -185,6 +183,10 @@ export const scmsschoolofengineeringandtechnologykerala = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "M.S. Ramaiah Institute of Technology - Fee Structure",
             "info": "",
@@ -247,7 +249,10 @@ export const scmsschoolofengineeringandtechnologykerala = {
         }
     ],
     "admission": [
-
+        {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -263,7 +268,7 @@ export const scmsschoolofengineeringandtechnologykerala = {
         {
             type: 'step-list',
             title: 'Admission Process at SSET : For B.Tech Course',
-            info: '<b>The institute offers a 4-year undergraduate programme for B.Tech course approved by AICTE:</b>',
+            info: 'The institute offers a 4-year undergraduate programme for B.Tech course approved by AICTE:',
             data: [
                 "<b>Step 1:</b> The admission at SSET is centralized at the corporate office of Pratap Nagar, Cochin.",
                 "<b>Step 2:</b>Admissions at SSET are purely merit-based.",
@@ -271,9 +276,7 @@ export const scmsschoolofengineeringandtechnologykerala = {
                 "<b>Step 4:</b>Appropriate preference will be given to the candidate having merit cut off marks.",
                 "<b>Step 5:</b>There are no capitation & donation fees. Be aware of fraud agents."
             ]
-
         },
-
         {
             "type": "table",
             "title": "Intake Capacity for B.tech Course at SSET",
@@ -307,14 +310,9 @@ export const scmsschoolofengineeringandtechnologykerala = {
                 {
                     "Department": "<b>Automobile Engineering</b>",
                     "Available Seats": "60",
-                },
-
-
-
-
+                }
             ]
         },
-
         {
             type: "meta",
             meta: [
@@ -333,8 +331,11 @@ export const scmsschoolofengineeringandtechnologykerala = {
             ]
         }
     ],
-    "Reviews": [
-
+    "review": [
+        {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -353,23 +354,23 @@ export const scmsschoolofengineeringandtechnologykerala = {
             ]
         }
     ],
-    "Placement": [
-
+    "placement": [
+        {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - Placement"
+        },
         {
             type: 'table-title',
             title: 'Placements at SSET',
             info: '<p>Reputed companies visit the campus for conducting interviews. A recruitment process is carried out by placement cell. Entire details like a job description, eligibility criteria, salary structure etc. will be given to students to enroll for placements. Base on the company structure selection process is conducted successfully.</p>',
-            textBelowInfo: "<b>Following are the top recruiters at SSET:</b>",
-            "col": [
-
-            ],
+            textBelowInfo: "Following are the top recruiters at SSET:",
+            "col": [ ],
             "row": [
                 ["Syntel", "HP", "Reliance", "Infosys"],
                 ["Cisco", "IBM", "Accenture", "BOSCH"],
                 ["Godrej", "TATA", "SIEMENS", "Cognizant"],
             ]
         },
-
         {
             type: "meta",
             meta: [
@@ -388,7 +389,11 @@ export const scmsschoolofengineeringandtechnologykerala = {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - Gallery"
+        },
         // {
         //     "type": "text",
         //     "title": "Gallary",
@@ -440,8 +445,11 @@ export const scmsschoolofengineeringandtechnologykerala = {
             ]
         }
     ],
-    "Scholarship": [
-
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -460,8 +468,11 @@ export const scmsschoolofengineeringandtechnologykerala = {
             ]
         }
     ],
-    "Faculty": [
-
+    "faculty": [
+        {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - Faculty"
+        },
         {
             type: "meta",
             meta: [
@@ -480,8 +491,11 @@ export const scmsschoolofengineeringandtechnologykerala = {
             ]
         }
     ],
-    "News": [
-
+    "news": [
+        {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -500,8 +514,11 @@ export const scmsschoolofengineeringandtechnologykerala = {
             ]
         }
     ],
-    "Hostel": [
-
+    "hostel": [
+        {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -521,6 +538,10 @@ export const scmsschoolofengineeringandtechnologykerala = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "SCMS School of Engineering and Technology, Kerala - FAQ"
+        },
         {
             "type": "question-list",
             "title": "FAQs",

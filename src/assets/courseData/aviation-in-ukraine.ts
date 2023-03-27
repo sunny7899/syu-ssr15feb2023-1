@@ -297,6 +297,10 @@ export const aviationinukraine = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'Aviation in Ukraine 2023 - Top Colleges in Ukraine'
+        },
+        {
             "type": "table",
             "title": "Aviation in Ukraine Fee Structure 2022",
             "info": "<b>The tuition Fee of Aviation universities in Ukraine is affordable, and every year, thousands of students enroll in different programs and specialties:</b>",
@@ -469,6 +473,10 @@ export const aviationinukraine = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'Aviation in Ukraine 2023 - Syllabus'
+        },
+        {
             "type": "table-title",
             "title": "Courses Offered by Aviation Universities of Ukraine",
             "info": "<b>Ukrainian Aviation Universities offers various Engineering and Management courses to train students and enhance their skills:</b>",
@@ -512,6 +520,10 @@ export const aviationinukraine = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'Aviation in Ukraine 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Opportunities after Completing Degree in Aviation",
             "info": "<b>A promising career is waiting for Indian students after getting a Degree in Aviation from Ukraine:</b><p>Indian students can plan and choose from different career options -</p>",
@@ -543,6 +555,10 @@ export const aviationinukraine = {
 
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Aviation in Ukraine 2023 - FAQ'
+        },
         {
             "type": "question-list",
             "title": " Aviation in Ukraine - Important FAQs",

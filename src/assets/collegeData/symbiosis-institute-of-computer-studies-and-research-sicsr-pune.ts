@@ -7,7 +7,6 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
     "shareLink": "",
     "url": "symbiosis-institute-of-computer-studies-and-research-sicsr-pune",
     "info": [
-
         {
             "type": "title",
             "title": "Symbiosis Institute of Computer Studies & Research, Pune"
@@ -93,9 +92,13 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Symbiosis Institute of Computer Studies & Research - Fee Structure 2022",
-            "info": "<b>For Indian Students</b>",
+            "info": "For Indian Students",
             "col": [
                 "Particulars",
                 "1st Year",
@@ -127,7 +130,7 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>For International Students</b>",
+            "info": "For International Students",
             "col": [
                 "Particulars",
                 "1st Year",
@@ -161,7 +164,7 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
                     "3rd Year": "Rs.2,35,000",
                 },
             ],
-            heading: '<p><b>Note:</b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b>Note:</b> 1$ = 70 Rs.</p>'
         },
         {
             "type": "table",
@@ -314,6 +317,10 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For BCA at SICSR",
             "info": "",
@@ -396,7 +403,76 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
             ]
         }
     ],
-    "Gallery": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - Reviews"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Symbiosis Institute of Computer Studies & Research - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Symbiosis Institute of Computer Studies & Research - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-computer-studies-and-research-sicsr-pune/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - Placement"
+        },
+        {
+            type: 'text',
+            title: 'Placements at SICSR',
+            img: '',
+            data: '<p><b>SICSR</b> endeavors to develop trained professionals for the industry and society. The curriculum involves a pre placement training programme for all the students:</p>'
+        },
+        {
+            "type": "table",
+            "title": "",
+            "info": "Top Recruiters at SICSR:",
+            "col": [],
+            "row": [
+                ["KPIT", "Harbinger", "Sonata"],
+                ["TCS", "Wipro", "DHL"],
+                ["Tech Mahindra", "Persistent", "Google"],
+                ["Infosys", "HP", "Syntel"],
+                ["Cybage", "", ""]
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Symbiosis Institute of Computer Studies & Research - Placement" },
+                { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Symbiosis Institute of Computer Studies & Research - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-computer-studies-and-research-sicsr-pune/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - Gallery"
+        },
         {
             type: 'text',
             title: 'Gallery',
@@ -435,7 +511,11 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - Scholarship"
+        },
         {
             type: 'text',
             title: 'Scholarships',
@@ -472,86 +552,12 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-computer-studies-and-research-sicsr-pune/scholarship" }
             ]
         }
-    ],
-    "Hostel": [
+    ], 
+    "faculty": [
         {
-            "type": "list-bollet",
-            "title": "Hostel and Accommodation",
-            "info": "",
-            "data": [
-                "Hostel accommodation is mandatory for all residential campuses.",
-                "Room allotment in the hostel is done by a campus administrator where each room accommodates a maximum of 4 students.",
-                "Hostel has well-furnished rooms where students need to pay additional cost if anything found damaged in the room.",
-                "Mess facilities are provided to the hostel availing breakfast and dinner."
-            ]
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - Faculty"
         },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "Accommodation",
-                "Mess",
-                "Hostel"
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Symbiosis Institute of Computer Studies & Research - Hostel" },
-                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Symbiosis Institute of Computer Studies & Research - Hostel"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-computer-studies-and-research-sicsr-pune/hostel" }
-            ]
-        }
-    ],
-    "Placement": [
-        {
-            type: 'text',
-            title: 'Placements at SICSR',
-            img: '',
-            data: '<p><b>SICSR</b> endeavors to develop trained professionals for the industry and society. The curriculum involves a pre placement training programme for all the students:</p>'
-        },
-        {
-            "type": "table",
-            "title": "",
-            "info": "<b>Top Recruiters at SICSR:</b>",
-            "col": [],
-            "row": [
-                ["KPIT", "Harbinger", "Sonata"],
-                ["TCS", "Wipro", "DHL"],
-                ["Tech Mahindra", "Persistent", "Google"],
-                ["Infosys", "HP", "Syntel"],
-                ["Cybage", "", ""]
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Symbiosis Institute of Computer Studies & Research - Placement" },
-                { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Symbiosis Institute of Computer Studies & Research - Placement"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-computer-studies-and-research-sicsr-pune/placement" }
-            ]
-        }
-    ],
-    "Faculty": [
         {
             "type": "table",
             "title": "Faculty",
@@ -597,26 +603,11 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
             ]
         }
     ],
-    "Reviews": [
+    "news": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Symbiosis Institute of Computer Studies & Research - Reviews" },
-                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
-            ],
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - News & Articles"
         },
-        {
-            type: "meta-title",
-            title: "Symbiosis Institute of Computer Studies & Research - Reviews"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-computer-studies-and-research-sicsr-pune/reviews" }
-            ]
-        }
-    ],
-    "News": [
         {
             type: "meta",
             meta: [
@@ -635,7 +626,55 @@ export const symbiosisinstituteofcomputerstudiesandresearchsicsrpune = {
             ]
         }
     ],
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - Hostel"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Hostel and Accommodation",
+            "info": "",
+            "data": [
+                "Hostel accommodation is mandatory for all residential campuses.",
+                "Room allotment in the hostel is done by a campus administrator where each room accommodates a maximum of 4 students.",
+                "Hostel has well-furnished rooms where students need to pay additional cost if anything found damaged in the room.",
+                "Mess facilities are provided to the hostel availing breakfast and dinner."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "Accommodation",
+                "Mess",
+                "Hostel"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Symbiosis Institute of Computer Studies & Research - Hostel" },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Symbiosis Institute of Computer Studies & Research - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-computer-studies-and-research-sicsr-pune/hostel" }
+            ]
+        }
+    ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Computer Studies & Research - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

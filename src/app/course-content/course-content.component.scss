@@ -28,6 +28,14 @@
     padding-top: 1vh;
 }
 
+#thankyouform {
+    margin-left: 16%;
+}
+
+svg {
+    color: green;
+}
+
 // #title{
 //     padding-top: 10vh;
 // }
@@ -181,7 +189,7 @@
     }
 
     #number {
-        margin-left: 1%;
+        margin-left: 0%;
     }
 
     .overflow-x-auto {
@@ -1779,7 +1787,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -1790,7 +1798,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     font-weight: bold;
@@ -1798,7 +1806,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     font-weight: bold;
@@ -1927,7 +1935,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -1939,7 +1947,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -1961,7 +1969,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2101,7 +2109,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -2113,7 +2121,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2135,7 +2143,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2285,7 +2293,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -2296,7 +2304,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     font-weight: bold;
@@ -2304,7 +2312,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     font-weight: bold;
@@ -2437,7 +2445,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -2449,7 +2457,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2471,7 +2479,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2504,6 +2512,10 @@ input.form-control:focus {
 @media all and (max-width: 600px) {
     .submit {
         margin-top: 9px;
+    }
+    .container #thankyouform{
+        align-items: center;
+        margin-left: 0%;
     }
 }
 
@@ -2611,7 +2623,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -2623,7 +2635,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2645,7 +2657,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2698,7 +2710,7 @@ input.form-control:focus {
         -moz-box-align: start;
         -ms-flex-align: start;
         -webkit-align-items: flex-start;
-        align-items: flex-start;
+        align-items: center;
     }
 
     .container #hide {
@@ -2724,6 +2736,9 @@ input.form-control:focus {
 
     .sub-title {
         font-size: 10px;
+    }
+    .form{
+        margin-top: 25%;
     }
 
 }
@@ -2759,3 +2774,13 @@ input.form-control:focus {
     //     font-size: 20px;
     //     font-weight: 600;
     // }
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}

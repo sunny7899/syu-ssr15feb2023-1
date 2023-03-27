@@ -7,12 +7,10 @@ export const vishwakarmainstituteoftechnologyvitpune = {
     "shareLink": "",
     "url": "vishwakarma-institute-of-technology-vit-pune",
     "info": [
-
         {
             "type": "title",
             "title": "Vishwakarma Institute of Technology, Pune"
         },
-
         {
             "type": 'text',
             "title": 'About Vishwakarma Institute of Technology, Pune',
@@ -177,6 +175,10 @@ export const vishwakarmainstituteoftechnologyvitpune = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "VIT College of Engineering - Fee Structure",
             "info": "",
@@ -202,7 +204,7 @@ export const vishwakarmainstituteoftechnologyvitpune = {
                     "Annual Fee (Per year)": "Rs.2,25,755"
                 },
             ],
-            heading: '<p><b>Note:</b> 1$ = Rs. 60.04</p>'
+            "heading": '<p><b>Note:</b> 1$ = Rs. 60.04</p>'
         },
         {
             "type": "table",
@@ -231,7 +233,7 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         {
             "type": "list-bollet",
             "title": "Department Offered at VIT",
-            "info": "<b>1 Chemical Engineering</b>",
+            "info": "1 Chemical Engineering",
             "data": [
                 "Vishwakarma Institute of Technology offers an undergraduate degree in Chemical engineering in 1999 with an intake capacity of 60 students.",
                 "The department is run by Dr. Manik Deosarkar along with highly qualified and experienced doctoral staff striving to built beneficial industrial relations.",
@@ -241,7 +243,7 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>2 Computer Engineering</b>",
+            "info": "2 Computer Engineering",
             "data": [
                 "Vishwakarma Institute of Technology offers an undergraduate degree in computer engineering in 1991 with an intake capacity of 180 students.",
                 "The department focuses on core domain areas of computing and programming structure to explore student’s analytical abilities.",
@@ -252,7 +254,7 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>3 Electronics Engineering</b>",
+            "info": "3 Electronics Engineering",
             "data": [
                 "The Electronics Engineering is the one of a major department of VIT which involves proactive research and training in signal processing areas, microelectronics, machine intelligence, communication engineering, and real-time embedded system.",
                 "The department was established in 1985 which offers the B.Tech undergraduate degree with an intake capacity of 120 students.",
@@ -262,7 +264,7 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>4 Electronics and Telecommunication Engineering</b>",
+            "info": "4 Electronics and Telecommunication Engineering",
             "data": [
                 "The department was established in the year of 1999 which offers the B.Tech undergraduate degree in Electronics and Telecommunication with intake capacity of 60 students.",
                 "It also provides postgraduate and specialty courses for the students. The department strives to cater the need of technical brilliance in respective areas of Electronics and Telecommunication Engineering.",
@@ -272,7 +274,7 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>5 Mechanical Engineering</b>",
+            "info": "5 Mechanical Engineering",
             "data": [
                 "The department was established in the year 1986 which offers the 4-year undergraduate degree in B.Tech of Mechanical Engineering with intake capacity of 180 students.",
                 "The department has high academic standard, well-maintained discipline and good infrastructure facilities.",
@@ -284,7 +286,7 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>6 Instrumentation Engineering</b>",
+            "info": "6 Instrumentation Engineering",
             "data": [
                 "The Instrumentation Engineering department was established in 1992 which offers the 4-year undergraduate degree with an intake capacity of 180 students.",
                 "Instrumentation Engineering is an interdisciplinary branch covers the major aspects of mechanical, electronics, chemical, computer engineering.",
@@ -295,7 +297,7 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>7 Information Technology</b>",
+            "info": "7 Information Technology",
             "data": [
                 "The department was established in the year 2001 which offers an undergraduate degree in Information technology with intake capacity of 60 students.",
                 "The department deals with the study of computer applications and research opportunities in the field of Information technology.",
@@ -305,7 +307,7 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>8 Industrial Engineering</b>",
+            "info": "8 Industrial Engineering",
             "data": [
                 "The Industrial engineering department was established in the year 1984 followed by the production engineering program in 1999.",
                 "The department offers the 4-year undergraduate program with an intake capacity of 60. The department also provides industrial internships, student exchange programs, with foreign universities in the form of a board of studies, industrial advisory board etc.",
@@ -342,6 +344,10 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         }
     ],
     "admission": [
+        {
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For B.tech Course",
@@ -432,7 +438,77 @@ export const vishwakarmainstituteoftechnologyvitpune = {
             ]
         }
     ],
-    "Gallery": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - Reviews"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Vishwakarma Institute of Technology (VIT Pune) - Reviews" },
+                { name: "description", content: "VIT was founded in 1983 awarded autonomous status with NAAC accreditation. check out reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Vishwakarma Institute of Technology (VIT Pune) - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/vishwakarma-institute-of-technology-vit-pune/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - Placement"
+        },
+        {
+            type: 'text',
+            title: 'About Placement',
+            img: '',
+            data: '<p>Every year 120+ companies approach the VIT institutes for campus placement.</p>'
+        },
+        {
+            "type": "table",
+            "title": "",
+            "info": "Top Recruiting Companies at VIT",
+            "col": [
+            ],
+            "row": [
+                ["Atlas Copco India PVT LTD	", "Bosch India LTD"],
+                ["Mercedez Benz	", "Cognizant"],
+                ["ADP", "Barclays"],
+                ["Tata Technologies", "	Infosys"],
+                ["Wipro	", "Honeywell"]
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Vishwakarma Institute of Technology (VIT Pune) - Placement" },
+                { name: "description", content: "VIT was founded in 1983 awarded autonomous status with NAAC accreditation. click here for placements here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Vishwakarma Institute of Technology (VIT Pune) - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/vishwakarma-institute-of-technology-vit-pune/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - Gallery"
+        },
         {
             type: 'text',
             title: 'Gallery',
@@ -471,7 +547,11 @@ export const vishwakarmainstituteoftechnologyvitpune = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
@@ -510,46 +590,11 @@ export const vishwakarmainstituteoftechnologyvitpune = {
             ]
         }
     ],
-    "Placement": [
+    "faculty": [
         {
-            type: 'text',
-            title: 'About Placement',
-            img: '',
-            data: '<p>Every year 120+ companies approach the VIT institutes for campus placement.</p>'
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - Faculty"
         },
-        {
-            "type": "table",
-            "title": "",
-            "info": "<b>Top Recruiting Companies at VIT</b>",
-            "col": [
-            ],
-            "row": [
-                ["Atlas Copco India PVT LTD	", "Bosch India LTD"],
-                ["Mercedez Benz	", "Cognizant"],
-                ["ADP", "Barclays"],
-                ["Tata Technologies", "	Infosys"],
-                ["Wipro	", "Honeywell"]
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Vishwakarma Institute of Technology (VIT Pune) - Placement" },
-                { name: "description", content: "VIT was founded in 1983 awarded autonomous status with NAAC accreditation. click here for placements here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Vishwakarma Institute of Technology (VIT Pune) - Placement"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/vishwakarma-institute-of-technology-vit-pune/placement" }
-            ]
-        }
-    ],
-    "Faculty": [
         {
             "type": "table",
             "title": "Faculty",
@@ -625,26 +670,11 @@ export const vishwakarmainstituteoftechnologyvitpune = {
             ]
         }
     ],
-    "Reviews": [
+    "news": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Vishwakarma Institute of Technology (VIT Pune) - Reviews" },
-                { name: "description", content: "VIT was founded in 1983 awarded autonomous status with NAAC accreditation. check out reviews" },
-            ],
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - News & Articles"
         },
-        {
-            type: "meta-title",
-            title: "Vishwakarma Institute of Technology (VIT Pune) - Reviews"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/vishwakarma-institute-of-technology-vit-pune/reviews" }
-            ]
-        }
-    ],
-    "News": [
         {
             type: "meta",
             meta: [
@@ -663,7 +693,11 @@ export const vishwakarmainstituteoftechnologyvitpune = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -683,6 +717,10 @@ export const vishwakarmainstituteoftechnologyvitpune = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Vishwakarma Institute of Technology (VIT Pune) - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

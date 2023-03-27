@@ -1,5 +1,3 @@
-
-
 export const puneinstituteofcomputertechnologypictpune = {
     "Title": "Pune Institute of Computer Technology (PICT), Pune",
     "shortTitle": "Pune Institute of Computer Technology, (PICT)",
@@ -19,17 +17,12 @@ export const puneinstituteofcomputertechnologypictpune = {
             // img: 'https://www.selectyouruniversity.com/images/pune-institute-of-computer-technology.jpeg',
             data: '<p>Engineering college at <strong>Pune Institute of Computer Technology</strong> established in 1983 by the Society for Computer Technology and Research.</p><p>It has been one of the leading institutes in information technology education and research. It is accredited by NAAC and AICTE and it is affiliated to the University of Pune.</p><p>The college is well known for its UG and PG programs in Computer Engineering, Information Technology, and Electronics and telecommunication engineering. Ph.D. programs are also available in Engineering, and Electronics and telecommunication engineering.</p><p>This college was the first institute to introduce a Computer Engineering branch among private colleges in the Maharashtra state.</p><p>Creating versatile engineers who can apply their knowledge and skills anywhere in the world is the main aim of PICT’s engineering college.</p>'
         },
-
         {
             "type": "table-title",
             "title": "Pune Institute of Computer Technology - Quick Highlights",
             "info": "",
-            "col": [
-
-            ],
+            "col": [],
             "row": [
-
-
                 ["<b>Eligibility Criteria</b>", "10+2 with 50% marks (45% for reserved candidates)"],
                 ["<b>Computer course Duration</b>", "4 Years"],
                 ["<b>Entrance Exams</b>", "JEE Main/ MHT-CET"],
@@ -40,7 +33,7 @@ export const puneinstituteofcomputertechnologypictpune = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying Engineering at PICT",
-            "info": "<b>Following are a few of the benefits of studying engineering at PICT:-</b>",
+            "info": "Following are a few of the benefits of studying engineering at PICT:-",
             "data": [
                 "It is the most sought after institute for engineering education and research.",
                 "All UG programs at PICT are NBA Accredited.",
@@ -53,9 +46,6 @@ export const puneinstituteofcomputertechnologypictpune = {
                 "The college has State-of-the-art digital library.",
                 "PICT’s Robocon team won the 4th prize in 2014, 11th in 2017 and 14th in 2018 at National Robotic Contest.",
                 "For Hackathon-2017 Grand Finale, 14 PICT teams got shortlisted and 3 teams Won Prizes including the 1st prize of Rs.1,00,000."
-
-
-
             ]
         },
         {
@@ -80,13 +70,12 @@ export const puneinstituteofcomputertechnologypictpune = {
                 "Ranked 4th amongst all colleges including IITs, NITs, and Govt. colleges in Maharashtra.",
                 "PICT is 6th amongst all engineering colleges including IITs in the Western part of India.",
                 "PICT is Ranked 8th among private engineering institutions in India and 53rd amongst all engineering colleges including IITs in India."
-
             ]
         },
         {
             "type": "list-bollet",
             "title": "Facilities at PICT",
-            "info": "<b>Many facilities are provided to students at PICT. Some of them are:-</b>",
+            "info": "Many facilities are provided to students at PICT. Some of them are:-",
             "data": [
                 "Students at PICT are always motivated and encouraged to take part in various tournaments at college, district, state or national level.",
                 "Grounds are available for students to practice and enjoy cricket, shuttle badminton, etc.",
@@ -99,7 +88,6 @@ export const puneinstituteofcomputertechnologypictpune = {
                 "A well-equipped gym facility is provided to students and staff of the PICT with a specially appointed trainer. Yoga and meditation are also conducted at the gym on a regular basis.",
                 "Through 30+ hotspots developed in the campus controlled by dedicated wi-fi controller, wi-fi has been made available to all round the clock.",
                 "Library of PICT college has a well-organized and up-to-date collection of books and it is well known for its richest source of information."
-
             ]
         },
         {
@@ -117,10 +105,8 @@ export const puneinstituteofcomputertechnologypictpune = {
                 "Basketball",
                 "Library of PICT , Pune",
                 "Other Facilities"
-
             ]
         },
-
         {
             "type": "text",
             "title": "Alumni",
@@ -179,14 +165,6 @@ export const puneinstituteofcomputertechnologypictpune = {
         //         // "<p class =text-center>Recreational Room</p>"
         //     ]
         // },
-
-
-
-
-
-
-
-
         // {
         //     "type": "text",
         //     "title": "",
@@ -195,6 +173,7 @@ export const puneinstituteofcomputertechnologypictpune = {
         //         "<p class =text-center>Football</p>"
         //     ]
         // },
+
         // {
         //     "type": "text",
         //     "title": "",
@@ -277,13 +256,7 @@ export const puneinstituteofcomputertechnologypictpune = {
         //     ]
         // },
 
-
-
-
         // box divivder start =>
-
-
-
         {
             type: "meta",
             meta: [
@@ -305,9 +278,8 @@ export const puneinstituteofcomputertechnologypictpune = {
     "coursesandfees": [
         {
             "type": "title",
-            "title": "Pune Institute of Computer Technology (PICT), Pune"
+            "title": "Pune Institute of Computer Technology (PICT) - courses & Fees"
         },
-
         {
             "type": "table",
             "title": "Pune Institute of Computer Technology - Fee Structure",
@@ -345,23 +317,18 @@ export const puneinstituteofcomputertechnologypictpune = {
                 {
                     "Particulars": "<b>Total Fees</b>",
                     "Annual Fee": "Rs.1,04,550",
-                },
-
-
-
+                }
             ]
         },
-
         {
             "type": "number-list",
             "title": "Departments of Engineering at PICT",
-            "info": "<b>Following are different of Engineering at PICT:-",
+            "info": "Following are different of Engineering at PICT:-",
             "data": [
                 "<b>First-Year Engineering</b><br>This department provides a strong foundation for the students pursuing engineering course.<br>This department helps students in making their fundamentals strong and to develop their logical and analytical skills, which will also help them to prosper in their further years of education and career.",
                 "<b>Computer Engineering</b><br>The Computer Engineering department started in the year 1983-84.<br>This department is known for student placements and excellent results.<br>The computer engineering department consists of 15 well-equipped laboratories.",
                 "<b>ENTC Engineering</b>ENTC stands for Electronics and Telecommunication Engineering.<br>This is a department which commenced from the academic year 1995-96.<br>The college has current student intake capacity which is 240.<br>The college has 16 well-equipped laboratories.<br>The student-faculty ratio at this faculty is 20:1 and hence students can be given individual attention by the teachers.",
                 "<b>Information Technology</b>From the academic year 2001-2002, the bachelor of engineering in information technology started with an intake capacity of 60 students.<br>Today, the intake capacity of the department is 180.<br>This department offers separate computing facilities which consist of Modern PCs with high internet facility, high-end servers."
-
             ]
         },
         {
@@ -389,10 +356,12 @@ export const puneinstituteofcomputertechnologypictpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/pune-institute-of-computer-technology-pict-pune/courses-and-fees" }
             ]
         }
-
     ],
     "admission": [
-
+        {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT) - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Engineering Course at PICT",
@@ -401,9 +370,6 @@ export const puneinstituteofcomputertechnologypictpune = {
                 "Candidate should have passed a higher secondary examination with an aggregate of 50% for general category and 45% for scheduled caste from recognized university/ Institute of India.",
                 "Candidates should have taken Mathematics, Physics as compulsory subjects.",
                 "Candidates should have one of the Chemistry or Biotechnology or Biology or Technical or Vocational subjects too."
-
-
-
             ]
         },
         {
@@ -432,9 +398,6 @@ export const puneinstituteofcomputertechnologypictpune = {
                 "Nationality Proof (Date of Birth Certificate or Transfer Certificate or Passport",
                 "Domicile Certificate of Maharashtra (if applicable)",
                 "JEE-MAINS/ MHT-CET Score Card"
-
-
-
             ]
         },
         {
@@ -517,10 +480,12 @@ export const puneinstituteofcomputertechnologypictpune = {
             ]
         }
         // < =problem end
-
-
     ],
     "review": [
+        {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT) - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -541,6 +506,10 @@ export const puneinstituteofcomputertechnologypictpune = {
     ],
     "placement": [
         {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT) - Placement"
+        },
+        {
             "type": "list-bollet",
             "title": "Placements at PICT",
             "info": "",
@@ -558,8 +527,6 @@ export const puneinstituteofcomputertechnologypictpune = {
             "info": "",
             "col": [],
             "row": [
-
-
                 ["TCS	", "IBM"],
                 ["Amdocs", "Emphasis"],
                 ["Avaya", "ATOS origin"],
@@ -567,10 +534,7 @@ export const puneinstituteofcomputertechnologypictpune = {
                 ["HSBC", "Honeywell"],
                 ["Tech Mahindra", "Red Panda Pvt. Ltd."],
                 ["Persistent", "L&T"],
-                ["Capgemini", "SAP"],
-
-
-
+                ["Capgemini", "SAP"]
             ]
         },
         {
@@ -592,6 +556,10 @@ export const puneinstituteofcomputertechnologypictpune = {
         }
     ],
     "gallery": [
+        {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT) - Gallery"
+        },
         {
             "image": [
                 {
@@ -658,9 +626,13 @@ export const puneinstituteofcomputertechnologypictpune = {
     ],
     "scholarship": [
         {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT) - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships - ",
-            "info": "<b>Following are the scholarships offered by PICT - </b>",
+            "info": "Following are the scholarships offered by PICT - ",
             "data": [
                 "AMS Scholarship GR",
                 "EBC GR",
@@ -691,6 +663,10 @@ export const puneinstituteofcomputertechnologypictpune = {
         }
     ],
     "faculty": [
+        {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT) - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty -",
@@ -875,12 +851,7 @@ export const puneinstituteofcomputertechnologypictpune = {
                     "Name": "Asma Nasar Sayyad",
                     "Designation": "Assistant Professor",
                     "Department": "Engineering"
-                },
-
-
-
-
-
+                }
             ]
         },
         {
@@ -903,6 +874,10 @@ export const puneinstituteofcomputertechnologypictpune = {
     ],
     "news": [
         {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT) - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pune Institute of Computer Technology (PICT) - News & Articles" },
@@ -921,6 +896,10 @@ export const puneinstituteofcomputertechnologypictpune = {
         }
     ],
     "hostel": [
+        {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT) - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -941,6 +920,10 @@ export const puneinstituteofcomputertechnologypictpune = {
     ],
     "faq": [
         {
+            "type": "title",
+            "title": "Pune Institute of Computer Technology (PICT) - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "FAQs",
             "info": "",
@@ -948,27 +931,22 @@ export const puneinstituteofcomputertechnologypictpune = {
                 {
                     "ques": "Q. Is direct admission carried out at PICT Pune?",
                     "ans": "Yes, direct admission is possible in PICT Pune for college students with appropriate rankings in JEE Mains. Direct selection is likewise possible withinside the Management Quota."
-
                 },
                 {
                     "ques": "Q. Which organisations visit PICT Pune for recruitment?",
                     "ans": "Every year many corporations visit PICT Pune for placement. The maximum visited companies are ABS, ElasticRun, Fabric Inc, NICE Systems, TCS Digital Apisero, FinIQ, NTT Data, and TCS, and plenty of more."
-
                 },
                 {
                     "ques": "Q. PICT Is Pune a private or a public college?",
                     "ans": "PICT Pune is a private unaided engineering college."
-
                 },
                 {
                     "ques": "Q. Is there a hostel facility in PICT Pune?",
                     "ans": "Yes, separate hostels are available for boys and women followed by meals facilities."
-
                 },
                 {
                     "ques": "Q. What are the facilities available at PICT Pune for students?",
                     "ans": " PICT Pune is geared up with many facilities which includes boys’ and girls’ hostels, a virtual library, Badminton Court, and others."
-
                 },
             ]
         },

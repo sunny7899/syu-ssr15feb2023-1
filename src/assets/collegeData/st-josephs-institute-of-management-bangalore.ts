@@ -49,7 +49,7 @@ export const stjosephsinstituteofmanagementbangalore = {
         {
             type: 'list-bollet',
             title: 'Benefits of Studying PGDM at SJIM',
-            info: '<b>Following are some of the advantages of studying PGDM at SJIM:</b>',
+            info: 'Following are some of the advantages of studying PGDM at SJIM:',
             data: [
                 "The SJIM institute has excellent management as it is managed by international Jesuit Organization which also runs XLRI.",
                 "The institute has a low fee structure at Rs 7,50,000 lakhs.",
@@ -159,6 +159,10 @@ export const stjosephsinstituteofmanagementbangalore = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "St. Joseph's Institute of Management - Fee Structure 2022",
             "info": "",
@@ -184,7 +188,7 @@ export const stjosephsinstituteofmanagementbangalore = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at SJIM",
-            "info": "<b>There are 3 different courses at SJIM:</b><br><b>1 Post Graduate Diploma in Management (PGDM)</b>",
+            "info": "There are 3 different courses at SJIM:<br>1 Post Graduate Diploma in Management (PGDM)",
             "data": [
                 "It has two years duration and it is the flagship program of the Institute.",
                 "The whole program consists of six trimesters.",
@@ -195,7 +199,7 @@ export const stjosephsinstituteofmanagementbangalore = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at SJIM",
-            "info": "<b>2 Executive Post Graduate Diploma in Management (E-PGDM)</b>",
+            "info": "2 Executive Post Graduate Diploma in Management (E-PGDM)",
             "data": [
                 "This course is for working professionals with at least two years of work experience.",
                 "It is of 15 months’ duration.",
@@ -206,7 +210,7 @@ export const stjosephsinstituteofmanagementbangalore = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at SJIM",
-            "info": "<b>3 Post Graduate Certificate in Management (PGCM)</b>",
+            "info": "3 Post Graduate Certificate in Management (PGCM)",
             "data": [
                 "It is a certificate course of 12 months’ duration in management.",
                 "A project work of 8 weeks is included in the course."
@@ -231,6 +235,10 @@ export const stjosephsinstituteofmanagementbangalore = {
         }
     ],
     "admission": [
+        {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For Studying PGDM at SJIM",
@@ -311,7 +319,34 @@ export const stjosephsinstituteofmanagementbangalore = {
             ]
         }
     ],
-    "Placement": [
+    "review": [
+        {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - Reviews"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "St. Joseph's Institute of Management - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "St. Joseph's Institute of Management - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/st-josephs-institute-of-management-bangalore/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "SJIM Placements for PGDM Students",
@@ -354,11 +389,38 @@ export const stjosephsinstituteofmanagementbangalore = {
             ]
         }
     ],
-    "Scholarship": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "St. Joseph's Institute of Management - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "St. Joseph's Institute of Management - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/st-josephs-institute-of-management-bangalore/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships at SJIM",
-            "info": "<b>Scholarships and fee concessions are awarded to around 30% of the students every year. SJIM provides scholarships under the following categories:</b>",
+            "info": "Scholarships and fee concessions are awarded to around 30% of the students every year. SJIM provides scholarships under the following categories:",
             "data": [
                 "Fee concessions",
                 "Merit cum means scholarships for Christian students",
@@ -384,7 +446,11 @@ export const stjosephsinstituteofmanagementbangalore = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -430,75 +496,45 @@ export const stjosephsinstituteofmanagementbangalore = {
             ]
         }
     ],
-    "Reviews": [
+    "news": [
+        {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - News & Articles"
+        },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "St. Joseph's Institute of Management - Reviews" },
-                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+                { name: "title", content: "St. Joseph's Institute of Management - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
             ],
         },
         {
             type: "meta-title",
-            title: "St. Joseph's Institute of Management - Reviews"
+            title: "St. Joseph's Institute of Management - News & Articles"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/st-josephs-institute-of-management-bangalore/reviews" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/st-josephs-institute-of-management-bangalore/news-and-articles" }
             ]
         }
-    ],
-    "Gallery": [
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "St. Joseph's Institute of Management - Gallery" },
-                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "St. Joseph's Institute of Management - Gallery"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/st-josephs-institute-of-management-bangalore/gallery" }
-            ]
-        }
-    ],
-    "News": [
-        {
-        type: "meta",
-        meta: [
-            { name: "title", content: "St. Joseph's Institute of Management - News & Articles" },
-            { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "St. Joseph's Institute of Management - News & Articles"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/college/st-josephs-institute-of-management-bangalore/news-and-articles" }
-        ]
-    }
 
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Accommodation at St. Joseph's Institute of Management",
-            "info": "<b>Accommodation at St. Joseph's Institute of Management -</b>",
+            "info": "Accommodation at St. Joseph's Institute of Management -",
             "data": [
-            "A centrally positioned hostel facility is available to students.",
-            "The institute presents boarding and accommodation facilities for college students staying away from home.",
-            "The hostel gives exceptional meals and hygienic living space.",
-            "The hostel is located near the campus, to permit easy and quick commute.",
-            "There are separate hostel facilities for men and women."
+                "A centrally positioned hostel facility is available to students.",
+                "The institute presents boarding and accommodation facilities for college students staying away from home.",
+                "The hostel gives exceptional meals and hygienic living space.",
+                "The hostel is located near the campus, to permit easy and quick commute.",
+                "There are separate hostel facilities for men and women."
             ]
         },
         {
@@ -520,6 +556,10 @@ export const stjosephsinstituteofmanagementbangalore = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "St. Joseph's Institute of Management - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

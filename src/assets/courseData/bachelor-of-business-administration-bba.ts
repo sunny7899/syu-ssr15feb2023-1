@@ -139,6 +139,10 @@ export const bachelorofbusinessadministrationbba = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'BBA in India 2023 - Top Colleges in India'
+        },
+        {
             "type": "table",
             "title": "Top BBA Universities/Colleges in India (with Fee Structure)            ",
             "info": "",
@@ -319,6 +323,10 @@ export const bachelorofbusinessadministrationbba = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'BBA in India 2023 - Syllabus'
+        },
+        {
             "type": "list-bollet",
             "title": "BBA Course Duration in India",
             "info": "",
@@ -436,6 +444,10 @@ export const bachelorofbusinessadministrationbba = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'BBA in India 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Job Positions for BBA Students",
             "info": "Students get the following job positions at reputed companies, after pursuing BBA in India:",
@@ -497,6 +509,10 @@ export const bachelorofbusinessadministrationbba = {
 
     ],
     "faq":[
+        {
+            type: 'title',
+            title: 'BBA in India 2023 - FAQs'
+        },
         {
             type: 'meta',
             meta: [

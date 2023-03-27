@@ -72,9 +72,13 @@ export const bharatividyapeethdentalcollegehospitalpune = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Bharati Dental College, Pune: Fee Structure",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -149,9 +153,13 @@ export const bharatividyapeethdentalcollegehospitalpune = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria For BDS Course",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "Candidates must score minimum of marks 50 percentile in NEET for <b>general category students</b> and will have to satisfy eligibility norms as prescribed by <b>DCI (Dental Council of India).</b>",
                 "Candidates must score minimum of marks 40 percentile in NEET for <b>SC/ST category students</b> and will have to satisfy eligibility norms as prescribed by DCI (Dental Council of India).",
@@ -166,7 +174,7 @@ export const bharatividyapeethdentalcollegehospitalpune = {
         {
             "type": "list-bollet",
             "title": "Admission Procedure For BDS Course",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "Candidates should register themselves on the <b>DMER</b> portal for applying NEET entrance test.",
                 "There are total <b>100 seats</b> available for <b>BDS course</b> in Bharati Vidyapeeth Dental College and Hospital.",
@@ -181,7 +189,7 @@ export const bharatividyapeethdentalcollegehospitalpune = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "NEET Admit Card",
                 "NEET Score Card",
@@ -218,6 +226,10 @@ export const bharatividyapeethdentalcollegehospitalpune = {
     ],
     "review": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Dental College, Pune - Reviews" },
@@ -236,6 +248,10 @@ export const bharatividyapeethdentalcollegehospitalpune = {
         }
     ],
     "placement": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -256,6 +272,10 @@ export const bharatividyapeethdentalcollegehospitalpune = {
     ],
     "gallery": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Dental College, Pune - Gallery" },
@@ -274,6 +294,10 @@ export const bharatividyapeethdentalcollegehospitalpune = {
         }
     ],
     "scholarship": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -294,6 +318,10 @@ export const bharatividyapeethdentalcollegehospitalpune = {
     ],
     "faculty": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Dental College, Pune - Faculty" },
@@ -312,6 +340,10 @@ export const bharatividyapeethdentalcollegehospitalpune = {
         }
     ],
     "news": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -332,9 +364,13 @@ export const bharatividyapeethdentalcollegehospitalpune = {
     ],
     "hostel": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation: ",
-            "info": "<b>(Undergraduates/Postgraduates)</b>",
+            "info": "(Undergraduates/Postgraduates)",
             "data": [
                 "Separate hostels are available for Boys and Girls within the campus.",
                 "24 Hours security.",
@@ -369,6 +405,10 @@ export const bharatividyapeethdentalcollegehospitalpune = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College, Pune - FAQ"
+        },
         {
             type: "meta",
             meta: [

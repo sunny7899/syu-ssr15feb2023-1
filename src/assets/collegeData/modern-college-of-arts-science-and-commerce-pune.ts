@@ -1,4 +1,3 @@
-
 export const moderncollegeofartsscienceandcommercepune = {
     "Title": "Modern College of Arts, Science,& Commerce, Pune",
     "shortTitle": "Modern College of Arts Science and Commerce",
@@ -45,7 +44,6 @@ export const moderncollegeofartsscienceandcommercepune = {
                 "To encourage the students for facing the national and international challenges through the use of ICT.",
                 "To adopt the innovative and skilled based technique for promoting employability.",
                 "To nurture progressive education among the students."
-
             ]
         },
         {
@@ -57,10 +55,8 @@ export const moderncollegeofartsscienceandcommercepune = {
                 "Advanced teaching and learning methodology.",
                 "Collaboration with various industries for customizing internships, workshops.",
                 "Well established workshops for academic, skill development and research activities."
-
             ]
         },
-
         {
             "type": "table-title",
             "title": "Modern College of Arts, Science & Commerce - Quick Highlights",
@@ -71,11 +67,7 @@ export const moderncollegeofartsscienceandcommercepune = {
                 ["<b>Eligibility Criteria</b>", "10+2 with a minimum aggregate of 45% marks (40% for scheduled caste)"],
                 ["<b>Course Duration</b>", "3 Years (6 semesters)"],
                 ["<b>Annual Admission fees</b>", "Rs 41,805 (Per year)"],
-                ["<b>Top Recruiters</b>", "3Genesis, 6-Cube technologies, Neilsoft, Capgemini, Prosys Infotech Pvt Ltd. Sigma Ltd etc."],
-
-
-
-
+                ["<b>Top Recruiters</b>", "3Genesis, 6-Cube technologies, Neilsoft, Capgemini, Prosys Infotech Pvt Ltd. Sigma Ltd etc."]
             ]
         },
         {
@@ -85,7 +77,6 @@ export const moderncollegeofartsscienceandcommercepune = {
             "data": [
                 "Affiliated to Savitribai Phule Pune University",
                 "NAAC Accreditation with ‘A’ Grade"
-
             ]
         },
         // {
@@ -172,6 +163,10 @@ export const moderncollegeofartsscienceandcommercepune = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Modern College of Arts, Science & Commerce - Fee Structure 2022",
             "info": "",
@@ -199,13 +194,10 @@ export const moderncollegeofartsscienceandcommercepune = {
                     "Particulars": "<b>Total</b>",
                     " Course Fees": "Rs.73,105",
 
-                },
-
-
+                }
             ],
             "heading": "<p><b>Note:</b> 1$ = Rs. 70</p>"
         },
-
         {
             "type": "table",
             "title": "BCA Duration at MCASAC",
@@ -249,13 +241,9 @@ export const moderncollegeofartsscienceandcommercepune = {
                     "Courses": "<b>M. Sc</b>",
                     "Duration": "2 Years",
 
-                },
-
-
+                }
             ]
-        },
-
-        {
+        }, {
             "type": "table",
             "title": "BCA Syllabus at MCASAC",
             "info": "",
@@ -374,6 +362,10 @@ export const moderncollegeofartsscienceandcommercepune = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "",
@@ -382,7 +374,6 @@ export const moderncollegeofartsscienceandcommercepune = {
                 "For reserved category students, relaxation of 5% of marks provided to students.",
                 "Two years of Diploma after HSC conducted by Government of Maharashtra Technical Board of Education.",
                 "Three years of diploma after SSC conducted by Government of Maharashtra Technical Board of Education."
-
             ]
         },
         {
@@ -414,7 +405,11 @@ export const moderncollegeofartsscienceandcommercepune = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -433,7 +428,11 @@ export const moderncollegeofartsscienceandcommercepune = {
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placements at MCASAC",
@@ -455,9 +454,7 @@ export const moderncollegeofartsscienceandcommercepune = {
                 ["Neilsoft", "Modular Infotech Pvt Ltd."],
                 ["BMC", "e-Zest Solutions Pvt Ltd."],
                 ["Syntel", "TCS"],
-                ["IBM", ""],
-
-
+                ["IBM", ""]
             ]
         },
         {
@@ -478,7 +475,11 @@ export const moderncollegeofartsscienceandcommercepune = {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - Gallery"
+        },
         // {
         //     "type": "text",
         //     "title": "Gallery",
@@ -529,7 +530,11 @@ export const moderncollegeofartsscienceandcommercepune = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - Scholarship"
+        },
         {
             "type": "table",
             "title": "Scholarships Offered at MCASAC",
@@ -574,8 +579,6 @@ export const moderncollegeofartsscienceandcommercepune = {
                     "Online Link": "Forms available at College Alumni",
 
                 },
-
-
             ]
         },
         {
@@ -596,7 +599,11 @@ export const moderncollegeofartsscienceandcommercepune = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - Faculty"
+        },
         {
             "type": "table",
             "title": "Scholarships Offered at MCASAC",
@@ -642,7 +649,11 @@ export const moderncollegeofartsscienceandcommercepune = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -661,7 +672,11 @@ export const moderncollegeofartsscienceandcommercepune = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
@@ -695,6 +710,10 @@ export const moderncollegeofartsscienceandcommercepune = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Modern College of Arts, Science & Commerce - FAQ"
+        },
         {
             "type": "question-list",
             "title": "FAQs",

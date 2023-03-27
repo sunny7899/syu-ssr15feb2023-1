@@ -44,16 +44,11 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             "info": "",
             "col": [],
             "row": [
-
-
                 ["<b>Eligibility Criteria</b>", "10+2 with 45% marks (40% for reserved candidates)"],
                 ["<b>course Duration</b>", "4 Years"],
                 ["<b>Entrance Exams</b>", "MHT-CET"],
                 ["<b>Average Tuition Fee</b>", "Rs 53,460 (Per year)"],
                 ["<b>Top Recruiters</b>", "Capgemini, Ansys, Bonanza, Cisco, Syntel, SIEMENS, Microsoft, Protechsoft, HP, Samsung, Infosys"],
-
-
-
             ]
         },
         {
@@ -195,9 +190,11 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             ]
         }
     ],
-
     "coursesandfees": [
-
+        {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - courses & Fees"
+        },
         {
             "type": "table",
             "title": "M.S. Ramaiah Institute of Technology - Fee Structure",
@@ -262,6 +259,10 @@ export const ramaiahinstituteoftechnologyritbangalore = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria : For Studying B.Tech at MSRIT",
             "info": "",
@@ -276,9 +277,7 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             "type": "table-title",
             "title": "Document Required",
             "info": "",
-            "col": [
-
-            ],
+            "col": [ ],
             "row": [
                 ["10th mark sheet", "12th mark sheet"],
                 ["CET report card", "Leaving Certificate"],
@@ -304,7 +303,11 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -323,11 +326,15 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement at MSRIT",
-            "info": "<b>Objectives:</b>",
+            "info": "Objectives:",
             "data": [
                 "To train the students on the basis of best industrial practices, personality development for recruiting in reputed industries.",
                 "To arrange cocurricular and soft skills programs for students.",
@@ -371,7 +378,11 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - Gallery"
+        },
         // {
         //     "type": "text",
         //     "title": "Gallery",
@@ -422,11 +433,15 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<p>Eligible students awarded a scholarship by <b>Government of Karnataka</b>. The corresponding applications will be disclosed in the month of September every year.</p><b>List of scholarships awarded by MSRIT:</b>",
+            "info": "<p>Eligible students awarded a scholarship by Government of Karnataka. The corresponding applications will be disclosed in the month of September every year.</p>List of scholarships awarded by MSRIT:",
             "data": [
                 "Post metric scholarship",
                 "Defense Scholarship",
@@ -437,7 +452,7 @@ export const ramaiahinstituteoftechnologyritbangalore = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Merit Scholarships:</b>",
+            "info": "Merit Scholarships:",
             "data": [
                 "MSR Charities",
                 "Indian Oil Corporation",
@@ -463,7 +478,11 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - Faculty"
+        },
         {
             type: "meta",
             meta: [
@@ -482,7 +501,11 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -501,7 +524,11 @@ export const ramaiahinstituteoftechnologyritbangalore = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -522,6 +549,10 @@ export const ramaiahinstituteoftechnologyritbangalore = {
     ],
     "faq": [
         {
+            "type": "title",
+            "title": "Ramaiah Institute of Technology (RIT) - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "FAQs",
             "info": "",
@@ -529,22 +560,18 @@ export const ramaiahinstituteoftechnologyritbangalore = {
                 {
                     "ques": "Q. Ramaiah Institute of Technology Is private or a public university?",
                     "ans": "Ramaiah Institute of Technology is a private university."
-
                 },
                 {
                     "ques": "Q. How many departments are offered at Ramaiah Institute of Technology?",
                     "ans": "Ramaiah Institute of Technology includes 23 departments that provide UG, PG, and PhD courses to its students. It additionally gives certificate courses to its students."
-
                 },
                 {
                     "ques": "Q. Who are the top recruiters taking part withinside the placements drive at Ramaiah Institute of Technology?",
                     "ans": "The top recruiters taking part withinside the placements drive at Ramaiah Institute of Technology are 99acres.com, Healthmantra, Protechsoft, ABB, and numerous others."
-
                 },
                 {
                     "ques": "Q. What are the courses provided through Ramaiah Institute of Technology?",
                     "ans": "Ramaiah Institute of Technology offers UG publications namely BTech/ BE, and BArch in several specialisations. The university gives MTech, MBA, and MCA in various specialisations at the PG level. It additionally gives a PhD programme in numerous streams."
-
                 },
             ]
         },

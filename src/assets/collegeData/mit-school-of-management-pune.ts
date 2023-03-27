@@ -1,4 +1,3 @@
-
 export const mitschoolofmanagementpune = {
     "Title": "MIT School of Management, Pune",
     "shortTitle": "MIT School of Management Pune",
@@ -42,11 +41,8 @@ export const mitschoolofmanagementpune = {
                 ["<b>Course Duration</b>", "3 Years"],
                 ["<b>Annual Course Fees (approx)</b>", "Rs 1,58,338 (Per year)"],
                 ["<b>Top Recruiters</b>", "Cybage Software, TCS, Zeta, Syntel, Coretech solutions, Tata Technologies, Nuance, L&T Infotech"],
-
-
             ]
         },
-
         {
             "type": "table",
             "title": "MIT School of Management - MCA Course Fee Structure 2022",
@@ -59,34 +55,27 @@ export const mitschoolofmanagementpune = {
                 {
                     "Particulars": "<b>Fees in USD</b>",
                     " Course Fees": "$ 2,261.97",
-
                 },
                 {
                     "Particulars": "<b>Fees in Indian Rupees</b>",
                     " Course Fees": "Rs.1,58,338",
-
                 },
                 {
                     "Particulars": "<b>Hostel Fees</b>",
                     " Course Fees": "Rs.90,000",
-
                 },
                 {
                     "Particulars": "<b>Total</b>",
                     " Course Fees": "Rs.2,48,338",
-
                 },
-
             ]
         },
-
         {
             type: 'text',
             title: 'Admission Process',
             info: '',
             data: '<p><b>Step 1:</b>Candidates who have passed bachelor degree with 50% aggregate for open category & 45% for reserved category students.</p><br><p><b>Step 2:</b> The candidate who has appeared for 3-year diploma after 10+2 education having a bachelor degree also eligible for MCA admission at MITSOM.</p><br><p><b>Step 3:</b>Candidate should have a domicile of Maharashtra state.</p><br><p><b>Step 4:</b>Candidates must be taken a Maths/Statistics subjects and should have passed CET taken by Director of Technical Education.</p><br><p><b>Step 5:</b> Candidate will not be considered for an admission process for MCA programmes unless he/she will clear the required qualifying examination on or before 30th Septemberof concern academic year.</p><br><p><b>Step 6:</b> Candidate having qualified degree with a duration less than 3 years not eligible for applying MCA course.</p>'
         },
-
         {
             "type": "list-bollet",
             "title": "Award and Ranking of MITSOM",
@@ -98,7 +87,6 @@ export const mitschoolofmanagementpune = {
                 "MITSOM has received an award for“<b>Institute of the year 2016</b> - MCA Colleges Category” by higher education review magazine."
             ]
         },
-
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
@@ -109,8 +97,6 @@ export const mitschoolofmanagementpune = {
                 "Affiliated with the University of Pune"
             ]
         },
-
-
         {
             "type": "text",
             "title": "Gallery",
@@ -143,20 +129,16 @@ export const mitschoolofmanagementpune = {
                 // "<p class =text-center></p>"
             ]
         },
-
-
-
-
         {
             type: 'text',
             title: 'Programmes Offered at MITSOM',
-            info: ' <b>Master of Business Administration</b>',
+            info: ' Master of Business Administration',
             data: '<p>MITCOM offered a 2-year postgraduate programme in business administration affiliated to the University of Pune. The program consists of 4 semesters and includes the Choice Based Credit System (CBCS) and grading system.</p>'
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Institute provides MBA programmes in the following streams:</b>",
+            "info": "Institute provides MBA programmes in the following streams:",
             "data": [
                 "MBA CSR Management",
                 "MBA Hospital Management",
@@ -166,20 +148,20 @@ export const mitschoolofmanagementpune = {
         {
             type: 'text',
             title: '',
-            info: ' <b> Master of Computer Applications (MCA)</b>',
+            info: '  Master of Computer Applications (MCA)',
             data: '<p>MITSOM provides <b>3 years course</b> in Master of Computer Applications (MCA) with an intake <b>capacity of 60 students.</b></p><br><p>The curriculum introduces standard techniques of programming including word processors, spreadsheets and databases, design tools and system analysis.</p><br><p>The course mainly focuses on study and creation of business applications and programming aspects to improve student’s technical orientation, understanding IT environment and domain knowledge</p>'
         },
         {
             type: 'text',
             title: '',
-            info: ' <b>  Ph.D.</b>',
+            info: '  Ph.D.',
             data: '<p>The MITSOM offers a <b>Ph.D. programme which is started in 2002.</b> The programme is affiliated with the University of Pune for P.h.D. degree</p>'
         },
 
         {
             "type": "table",
             "title": "Complete Syllabus for MCA Course at MITSOM",
-            "info": "<b>At MITSOM, the structure of the MCA course is divided into 9 semesters as given below:</b>",
+            "info": "At MITSOM, the structure of the MCA course is divided into 9 semesters as given below:",
             "col": [
                 "Semester I",
                 "Semester II",
@@ -267,8 +249,6 @@ export const mitschoolofmanagementpune = {
 
             ]
         },
-
-
         {
             "type": "text",
             "title": "Facilities at MITSOM",
@@ -334,8 +314,6 @@ export const mitschoolofmanagementpune = {
             info: ' ',
             data: '<p>Dear Students,</p><br><p>First of all warm welcome to you at MITSOM…</p><br><p>Today, our century is said to be a business century with knowledge and technology-driven management. MIT is all set to bring dynamic education for tackling professional challenges to meet the global evaluation of the society.</p><br><p>Our institute provides wide exposure to academic and professional discipline with valued-based education. So, let’s start your diminishing career with spectacular institute.</p>'
         },
-
-
         {
             "type": "text",
             "title": "Alumni",
@@ -377,9 +355,12 @@ export const mitschoolofmanagementpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-school-of-management-pune" }
             ]
         }
-
     ],
     "coursesandfees": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - courses & Fees"
+        },
         {
             "type": "table",
             "title": "MIT School of Management - Course Fee Structure 2022",
@@ -587,8 +568,6 @@ export const mitschoolofmanagementpune = {
                 {
                     "Semester IX": "Internship with Industry",
                     "": ""
-
-
                 }
             ]
         },
@@ -609,10 +588,12 @@ export const mitschoolofmanagementpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-school-of-management-pune/courses-and-fees" }
             ]
         }
-
-
     ],
     "admission": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - Admission 2023"
+        },
         {
             "type": "step-list",
             "title": "Admissions Process",
@@ -644,7 +625,34 @@ export const mitschoolofmanagementpune = {
             ]
         }
     ],
-    "Placement": [
+    "review": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - Reviews"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MIT School of Management, Pune - Reviews " },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MIT School of Management, Pune - Reviews "
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-school-of-management-pune/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - Placement"
+        },
         {
             "type": "text",
             "title": "Placements at MITSOM",
@@ -670,11 +678,11 @@ export const mitschoolofmanagementpune = {
             "col": [
             ],
             "row": [
-               ["Tech Mahindra","KPIT Technologies LTD."],
-               ["Evosys","Cybage Software"],
-               ["Syntel","Coretech Solutions"],
-               ["HDFC Bank","Axis Bank"],
-               ["Go Ads India PVT Ltd.","Amura Marketing Technologies PVT LTD."]
+                ["Tech Mahindra", "KPIT Technologies LTD."],
+                ["Evosys", "Cybage Software"],
+                ["Syntel", "Coretech Solutions"],
+                ["HDFC Bank", "Axis Bank"],
+                ["Go Ads India PVT Ltd.", "Amura Marketing Technologies PVT LTD."]
             ]
         },
         {
@@ -694,18 +702,41 @@ export const mitschoolofmanagementpune = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-school-of-management-pune/placement" }
             ]
         }
-
     ],
-
-    "Gallary": {},
-    "Scholarship": [
+    "gallary": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MIT School of Management, Pune - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here " },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MIT School of Management, Pune - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-school-of-management-pune/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
             "info": "Following are the scholarships offered by theMIT School of Management -",
             "data": [
                 "Merit scholarship"
-
             ]
         },
         {
@@ -726,7 +757,11 @@ export const mitschoolofmanagementpune = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -739,26 +774,18 @@ export const mitschoolofmanagementpune = {
                 {
                     "Name": "Dr. Asish Saha",
                     "Position": "Ph.D. Professor Emeritus"
-
-
                 },
                 {
                     "Name": "Prof. (Dr.) Srinivas Subbarao Pasumarti",
                     "Position": "Dean & Director"
-
-
                 },
                 {
                     "Name": "Dr. Swati Bankar",
                     "Position": "Assistant Professor"
-
-
                 },
                 {
                     "Name": "Mrs. Sonal Muluk",
                     "Position": "Assistant Professor"
-
-
                 }
             ]
         },
@@ -780,8 +807,57 @@ export const mitschoolofmanagementpune = {
             ]
         }
     ],
-    "Hostel": {},
+    "news": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MIT School of Management, Pune - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MIT School of Management, Pune - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-school-of-management-pune/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - Hostel"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MIT School of Management, Pune - Hostel" },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MIT School of Management, Pune - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/mit-school-of-management-pune/hostel" }
+            ]
+        }
+    ],
     "faq": [
+        {
+            "type": "title",
+            "title": "MIT School of Management, Pune - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

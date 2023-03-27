@@ -94,55 +94,20 @@ export const balajiinstituteofmodernmanagementbimmpune = {
       ]
     },
     {
-      "type": "text",
+      "type": "list-bollet",
       "title": "",
-      "img": "images/india-universities/Hostel.png",
-      "data": "<p class=text-center>Hostel</p>"
+      "info": "",
+      "data": [
+        "Hostel",
+        "Conference",
+        "Computer",
+        "Classroom",
+        "Library",
+        "Gym",
+        "Auditorium",
+        "Swimming Pool"
+      ]
     },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Conference.png",
-      "data": "<p class=text-center>Conference</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Computer.png",
-      "data": "<p class=text-center>Computer</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Classroom.png",
-      "data": "<p class=text-center>Classroom</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Library.png",
-      "data": "<p class=text-center>Library</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Gym.png",
-      "data": "<p class=text-center>Gym</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Auditorium.png",
-      "data": "<p class=text-center>Auditorium</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Swimming-pool.png",
-      "data": "<p class=text-center>Swimming Pool</p>"
-    },
-
-
     {
       type: "meta",
       meta: [
@@ -160,73 +125,12 @@ export const balajiinstituteofmodernmanagementbimmpune = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/college/balaji-institute-of-modern-management-bimm-pune" }
       ]
     }
-
-
-
-  ],
-  "Placement": [
-    {
-      "type": "list-bollet",
-      "title": "Job Opportunities After Completing MBA at BIMM",
-      "info": "",
-      "data": [
-        "BIMM offers excellent placements for its students.",
-        "Around 300 companies visit the BIMM campus every year.",
-        "Students get an average package of Rs.6.5 Lakhs/annum.",
-        "The Highest Stipend for MBA was INR 16,00,000.",
-        " The average package received was Rs.5 Lakhs/annum."
-      ]
-    },
-    {
-      "type": "table-title",
-      "title": "Top Recruiters at BIMM",
-      "info": "",
-      "row": [
-        ["ACS Consultants", "Aditya Birla Retail Pvt Ltd"],
-        ["Amazon India P Ltd.", "AO Smith Ltd."],
-        ["Bajaj Allianz General Insurance Company Limited.", "Bajaj Finserv Limited."],
-        ["Capital First Limited.", "Colgate Global Business Services Pvt. Ltd."],
-        ["Dell India P Ltd.", "Deloitte Consulting (I) Pvt Ltd."],
-        ["GIC Housing Finance Limited", "Federal Bank Limited."],
-        ["HDFC Bank Limited.", "ICICI Bank Ltd."],
-        ["ICICI Prudential Life Insurance Co Ltd.", "Infosys Ltd."],
-        ["Kotak Mahindra Bank Ltd.", "L&T Infotech Ltd."],
-        ["Mahindra & Mahindra Ltd.", "Mother Dairy Fruit & Vegetable Pvt Ltd."],
-        ["Tata Consultancy Services (TCS).", "Reliance Retail Ltd."]
-      ]
-    },
-    {
-      "type": "text",
-      "title": "Alumni",
-      //"img": "images/india-universities/Swimming-pool.png",
-      "data": "<h4>Vikram Anand</h4><p>HR Business Partner - Malaysia & Recruitment Manager</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      //"img": "images/india-universities/Swimming-pool.png",
-      "data": "<h4>Pritam Patnaik</h4><p>Business Head, Financial Markets/Commodities Reliance Commodities Ltd.</p>"
-    },
-    {
-      type: "meta",
-      meta: [
-        { name: "title", content: "Balaji Institute of Modern Management, Pune - Placement" },
-        { name: "description", content: "Balaji Institute of Modern Management Placements: Around 70-75% of the students got placed. check top recruiters. Check the placement drive" },
-      ],
-    },
-    {
-      type: "meta-title",
-      title: "Balaji Institute of Modern Management, Pune - Placement"
-    },
-    {
-      type: "meta-links",
-      link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/balaji-institute-of-modern-management-bimm-pune/placement" }
-      ]
-    }
-
   ],
   "coursesandfees": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - courses & Fees"
+    },
     {
       "type": "table",
       "title": "Balaji Institute of Modern Management - Fee Structure 2023",
@@ -264,13 +168,8 @@ export const balajiinstituteofmodernmanagementbimmpune = {
           "Course": "Post Graduate Diploma in Management [PGDM] {Executive} (Business Analytics)",
           "Fees for the course": "Rs.7.10 Lakhs"
         }
-      ]
-    },
-    {
-      "type": "text",
-      "title": "",
-      //"img": "images/india-universities/Swimming-pool.png",
-      "data": '<p><b style="color: red;"><u>Note:</u></b> The above fees include hostel fees of Rs.67,500/- only for the first year.</p>'
+      ],
+      heading: '<p><b style="color: red;"><u>Note:</u></b> The above fees include hostel fees of Rs.67,500/- only for the first year.</p>'
     },
     {
       "type": "table",
@@ -315,6 +214,10 @@ export const balajiinstituteofmodernmanagementbimmpune = {
 
   ],
   "admission": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - Admission 2023"
+    },
     {
       "type": "list-bollet",
       "title": "Eligibility Criteria - For Studying MBA at BIMM",
@@ -388,8 +291,123 @@ export const balajiinstituteofmodernmanagementbimmpune = {
     }
 
   ],
-  "Gallery": {},
-  "Scholarship": [
+  "review": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - Reviews"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Balaji Institute of Modern Management, Pune - Reviews" },
+        { name: "description", content: "Find out what makes Balaji Institute of Modern Management so special by reading student reviews. Click here to see reviews" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Balaji Institute of Modern Management, Pune - Reviews"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/balaji-institute-of-modern-management-bimm-pune/reviews" }
+      ]
+    }
+  ],
+  "placement": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - Placement"
+    },
+    {
+      "type": "list-bollet",
+      "title": "Job Opportunities After Completing MBA at BIMM",
+      "info": "",
+      "data": [
+        "BIMM offers excellent placements for its students.",
+        "Around 300 companies visit the BIMM campus every year.",
+        "Students get an average package of Rs.6.5 Lakhs/annum.",
+        "The Highest Stipend for MBA was INR 16,00,000.",
+        " The average package received was Rs.5 Lakhs/annum."
+      ]
+    },
+    {
+      "type": "table-title",
+      "title": "Top Recruiters at BIMM",
+      "info": "",
+      "row": [
+        ["ACS Consultants", "Aditya Birla Retail Pvt Ltd"],
+        ["Amazon India P Ltd.", "AO Smith Ltd."],
+        ["Bajaj Allianz General Insurance Company Limited.", "Bajaj Finserv Limited."],
+        ["Capital First Limited.", "Colgate Global Business Services Pvt. Ltd."],
+        ["Dell India P Ltd.", "Deloitte Consulting (I) Pvt Ltd."],
+        ["GIC Housing Finance Limited", "Federal Bank Limited."],
+        ["HDFC Bank Limited.", "ICICI Bank Ltd."],
+        ["ICICI Prudential Life Insurance Co Ltd.", "Infosys Ltd."],
+        ["Kotak Mahindra Bank Ltd.", "L&T Infotech Ltd."],
+        ["Mahindra & Mahindra Ltd.", "Mother Dairy Fruit & Vegetable Pvt Ltd."],
+        ["Tata Consultancy Services (TCS).", "Reliance Retail Ltd."]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Alumni",
+      //"img": "images/india-universities/Swimming-pool.png",
+      "data": "<h4>Vikram Anand</h4><p>HR Business Partner - Malaysia & Recruitment Manager</p>"
+    },
+    {
+      "type": "text",
+      "title": "",
+      //"img": "images/india-universities/Swimming-pool.png",
+      "data": "<h4>Pritam Patnaik</h4><p>Business Head, Financial Markets/Commodities Reliance Commodities Ltd.</p>"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Balaji Institute of Modern Management, Pune - Placement" },
+        { name: "description", content: "Balaji Institute of Modern Management Placements: Around 70-75% of the students got placed. check top recruiters. Check the placement drive" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Balaji Institute of Modern Management, Pune - Placement"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/balaji-institute-of-modern-management-bimm-pune/placement" }
+      ]
+    }
+
+  ],
+  "gallery": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - Gallery"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Balaji Institute of Modern Management, Pune - Gallery" },
+        { name: "description", content: "Balaji Institute of Modern Management is considered within the top 10 for medical in country, Established in 1999. check gallery here" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Balaji Institute of Modern Management, Pune - Gallery "
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/balaji-institute-of-modern-management-bimm-pune/gallery" }
+      ]
+    }
+  ],
+  "scholarship": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - Scholarship"
+    },
     {
       "type": "list-bollet",
       "title": "Admission Procedure at BIMM",
@@ -420,7 +438,11 @@ export const balajiinstituteofmodernmanagementbimmpune = {
     }
 
   ],
-  "Faculty": [
+  "faculty": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - Faculty"
+    },
     {
       "type": "table",
       "title": "",
@@ -465,10 +487,12 @@ export const balajiinstituteofmodernmanagementbimmpune = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/college/balaji-institute-of-modern-management-bimm-pune/faculty" }
       ]
     }
-
-
   ],
-  "News": [
+  "news": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - News & Articles"
+    },
     {
       type: "meta",
       meta: [
@@ -487,10 +511,14 @@ export const balajiinstituteofmodernmanagementbimmpune = {
       ]
     }
   ],
-  "Hostel": [
+  "hostel": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - Hostel"
+    },
     {
       "type": "list-bollet",
-      "title": "Accommodation at Balaji Institute of Modern Management      ",
+      "title": "Accommodation at Balaji Institute of Modern Management",
       "info": "Following are the points which describe how good is accommodation offered by the Balaji Institute of Modern Management - ",
       "data": [
         "With sufficient accommodation and recreational facilities, the hostel building is where the student managers relax, study, and have interaction with their peers. ",
@@ -523,26 +551,27 @@ export const balajiinstituteofmodernmanagementbimmpune = {
       ]
     }
   ],
-
-  "Reviews":[
+  "faq": [
+    {
+      "type": "title",
+      "title": "Balaji Institute of Modern Management, Pune - FAQ"
+    },
     {
       type: "meta",
       meta: [
-        { name: "title", content: "Balaji Institute of Modern Management, Pune - Reviews" },
-        { name: "description", content: "Find out what makes Balaji Institute of Modern Management so special by reading student reviews. Click here to see reviews" },
+        { name: "title", content: "Balaji Institute of Modern Management, Pune - FAQ" },
+        { name: "description", content: "Balaji Institute of Modern Management is a among top colleges present in the country. Click here to see FAQs" },
       ],
     },
     {
       type: "meta-title",
-      title: "Balaji Institute of Modern Management, Pune - Reviews"
+      title: "Balaji Institute of Modern Management, Pune - FAQ"
     },
     {
       type: "meta-links",
       link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/balaji-institute-of-modern-management-bimm-pune/reviews" }
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/balaji-institute-of-modern-management-bimm-pune/faq" }
       ]
     }
   ]
-
-
 }

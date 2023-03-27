@@ -1,4 +1,3 @@
-
 export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
     "Title": "INDIAN INSTITUTE OF MEDICAL SCIENCE AND RESEARCH",
     "shortTitle": "Indian Institute of Medical Science and Research",
@@ -12,18 +11,16 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
             type: "title",
             title: "INDIAN INSTITUTE OF MEDICAL SCIENCE AND RESEARCH"
         },
-
         {
             type: 'text',
             title: 'About Indian Institute of Medical Science and Research, Jalna',
             info: '',
             data: '<p><b>Indian Institute of Medical Science & Research (IIMSR)</b> is an Ideal choice for worldwide candidates to study MBBS in India, It was founded in 2013 and located in Jalna, Aurangabad.</p><p>Indian Institute of Medical Science & Research is aimed to provide efficient & excellent health care and medical education facilities to society by improving its hospital services and the medical education standards exceeding the expectation of the people.Application forms are out now and the students looking to study MBBS at the Indian Institute of Medical Science & Research must fill the form before the deadline date. </p>'
         },
-
         {
             "type": "table",
             "title": "Indian Institute of Medical Science & Research - Quick Highlights",
-            "info": "<b>Find out some important point regarding the MBBS course in the Indian Institute of Medical Science and Research:</b>",
+            "info": "Find out some important point regarding the MBBS course in the Indian Institute of Medical Science and Research:",
             "col": [],
             "row": [
                 ["Course Intake", "February"],
@@ -37,7 +34,7 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at IIMSR?",
-            "info": "<b>The students who look forward to studying MBBS course at the Indian Institute of Medical Science & Research must go through these important points:</b>",
+            "info": "The students who look forward to studying MBBS course at the Indian Institute of Medical Science & Research must go through these important points:",
             "data": [
                 "The students will acquire MBBS education in the English language at the Indian Institute of Medical Science and Research.",
                 "IIMSR is recognised by the National Medical Commission (NMC).",
@@ -52,7 +49,7 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at IIMSR",
-            "info": "<b>Indian Institute of Medical Science and Research fulfills basic requirements of students by providing modern facilities:</b>",
+            "info": "Indian Institute of Medical Science and Research fulfills basic requirements of students by providing modern facilities:",
             "data": [
                 "Sport Complex",
                 "canteen",
@@ -67,14 +64,14 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The qualified professors at this place will provide education in the English language:</b>",
+            "info": "The qualified professors at this place will provide education in the English language:",
             "data": "<p>Indian Institute of Medical Science and Research provides medical education in 100% of English medium to the applicants willing to study MBBS in India.</p>"
-            
+
         },
         {
             "type": "table",
             "title": "Departments at IIMSR",
-            "info": "<b>The following faculties of medicine program mentioned below are offered at the Indian Institute of Medical Science and Research:</b>",
+            "info": "The following faculties of medicine program mentioned below are offered at the Indian Institute of Medical Science and Research:",
             "col": [
                 "Preclinical Department",
                 "Paraclinical Department",
@@ -107,7 +104,7 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
         {
             "type": "list-bollet",
             "title": "Accreditations and Recognitions",
-            "info": "<b>Indian Institute of Medical Science and Research is recognized by medical bodies including:</b>",
+            "info": "Indian Institute of Medical Science and Research is recognized by medical bodies including:",
             "data": [
                 "National Medical Commission (NMC).",
                 "Affiliated with Maharashtra University of health sciences(MUHS) Nashik."
@@ -116,7 +113,7 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
         {
             "type": "table",
             "title": "Living Cost of Jalna, Aurangabad",
-            "info": "<b>The living expense of Aurangabad is quite affordable students for pursuing MBBS, the table is given below according to monthly basis:</b>",
+            "info": "The living expense of Aurangabad is quite affordable students for pursuing MBBS, the table is given below according to monthly basis:",
             "col": [
                 "Particulars",
                 "Amount",
@@ -157,9 +154,13 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
     ],
     "coursesandfees": [
         {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Indian Institute of Medical Science & Research - MBBS Fee Structure 2022",
-            "info": "<b>The IIMSR offers you a low price fee for doing the MBBS program:</b>",
+            "info": "The IIMSR offers you a low price fee for doing the MBBS program:",
             "col": [
                 "Particular",
                 "Tuition Fees",
@@ -186,7 +187,7 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
         {
             "type": "list-bollet",
             "title": "IIMSR - MBBS Duration",
-            "info": "<b>4.5 years of MBBS duration with1 year of internship provided at Indian Institute of Medical Science and Research:</b>",
+            "info": "4.5 years of MBBS duration with1 year of internship provided at Indian Institute of Medical Science and Research:",
             "data": [
                 "The medical aspirants willing to study the MBBS program must complete 4.5 years of duration.",
                 "1 year of compulsory internship."
@@ -196,7 +197,7 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
         {
             "type": "table",
             "title": "IIMSR - MBBS Syllabus",
-            "info": "<b>The aspirants can refer to know about the MBBS course syllabus provided at the Indian Institute of Medical Science and Research:</b>",
+            "info": "The aspirants can refer to know about the MBBS course syllabus provided at the Indian Institute of Medical Science and Research:",
             "col": [],
             "row": [
                 {
@@ -263,9 +264,13 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
     ],
     "admission": [
         {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students must fit in eligibility criteria to study MBBS at the Indian Institute of Medical Science and Research:</b>",
+            "info": "The students must fit in eligibility criteria to study MBBS at the Indian Institute of Medical Science and Research:",
             "data": [
                 "The candidates must have at least 17 years of age.",
                 "The candidates must pass 10+12 with respective boards or any equivalent exam conducted by any State Board or equivalent.",
@@ -277,7 +282,7 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
         {
             type: 'step-list',
             title: 'Admission Procedure',
-            info: '<b>All the desirous students willing to seek MBBS admission in IIMSR must follow the admission step to study here:</b>',
+            info: 'All the desirous students willing to seek MBBS admission in IIMSR must follow the admission step to study here:',
             data: [
                 "Step 1: The candidate must apply for the NEET-UG examination and get good scores to admit to the MBBS course.",
                 "Step 2: The students must fill the application form with the correct details.",
@@ -286,10 +291,10 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
                 "Step 5: Foreign students must apply for the visa procedure to get a valid passport."
             ]
         },
-         {
+        {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Check out the list of the documents submitted by individual applicants to take MBBS admission India:</b>",
+            "info": "Check out the list of the documents submitted by individual applicants to take MBBS admission India:",
             "data": [
                 "Online application form",
                 "SSC board mark sheet",
@@ -320,13 +325,13 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
                 "Eligibility Certificate (Economically Weaker Section)",
                 "1-year bond Service (Admission under government scholarship/concession scheme)"
             ],
-            heading: "<p><b>Note:</b> Scanned copies of all above original documents individually in soft copy (in PDF format below 300kb)</p>",
+            "heading": "<p><b>Note:</b> Scanned copies of all above original documents individually in soft copy (in PDF format below 300kb)</p>",
         },
 
         {
             "type": "table",
             "title": "IIMSR - Important Dates 2022",
-            "info": "<b>Go through the important dates to pursue MBBS education from the Indian Institute of Medical Science and Research:</b>",
+            "info": "Go through the important dates to pursue MBBS education from the Indian Institute of Medical Science and Research:",
             "col": [
                 "Event",
                 "Dates",
@@ -351,8 +356,7 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
                 {
                     "Event": "Online Foundation Course",
                     "Dates": "25 January to 30 January",
-                },
-
+                }
             ]
         },
         {
@@ -373,7 +377,11 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -392,7 +400,45 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
             ]
         }
     ],
-    "Gallery": [
+    "placement": [
+        {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - Placement"
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "Young graduates may pursue jobs as doctors in India after obtaining their degree.",
+                "Indian Institute of Medical Science and Research graduates may work at their own hospital. Consequently, those with completed degrees are entitled to work at the Indian Institute of Medical Science and Research.",
+                "By offering further education choices, the Indian Institute of Medical Science and Research encourages graduates to continue their studies.",
+                "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE)."
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Indian Institute of Medical Science and Research, Jalna - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Indian Institute of Medical Science and Research, Jalna - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/indian-institute-of-medical-science-and-research-iimsr-jalna/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -411,7 +457,11 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -430,7 +480,11 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - Faculty"
+        },
         {
             type: "meta",
             meta: [
@@ -449,7 +503,11 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -468,11 +526,15 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>The Indian Institute of Medical science and research provides an excellent accommodation system with basic amenities to worldwide students:</b>",
+            "info": "The Indian Institute of Medical science and research provides an excellent accommodation system with basic amenities to worldwide students:",
             "data": [
                 "Separate accommodation for both boys and girls.",
                 "Hostel confirms the high standard quality of construction, security, entertainment etc situated on the university campus.",
@@ -501,7 +563,6 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
                 "gym"
             ]
         },
-       
         {
             type: "meta",
             meta: [
@@ -520,13 +581,15 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
             ]
         }
     ],
-
     "faq": [
-
+        {
+            type: "title",
+            title: "Indian Institute of Medical Science and Research, Jalna - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Indian Institute of Medical Science and Research - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "What medium of teaching for MBBS is used at the Indian Institute of Medical Science and Research?",
@@ -576,34 +639,5 @@ export const indianinstituteofmedicalscienceandresearchiimsrjalna = {
             ]
         }
     ],
-    "Placement": [
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "Young graduates may pursue jobs as doctors in India after obtaining their degree.",
-                "Indian Institute of Medical Science and Research graduates may work at their own hospital. Consequently, those with completed degrees are entitled to work at the Indian Institute of Medical Science and Research.",
-                "By offering further education choices, the Indian Institute of Medical Science and Research encourages graduates to continue their studies.",
-                "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE)."
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Indian Institute of Medical Science and Research, Jalna - Placement" },
-                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Indian Institute of Medical Science and Research, Jalna - Placement"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/indian-institute-of-medical-science-and-research-iimsr-jalna/placement" }
-            ]
-        }
-    ]
+   
 }
