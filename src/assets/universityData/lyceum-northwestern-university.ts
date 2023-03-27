@@ -557,7 +557,7 @@ export const lyceumnorthwesternuniversity = {
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/lyceum-northwestern-university/faculty" }
             ]
         }
     ],

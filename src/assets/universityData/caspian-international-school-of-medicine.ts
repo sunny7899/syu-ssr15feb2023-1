@@ -620,13 +620,13 @@ export const caspianinternationalschoolofmedicine = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Carleton University, Canada - News & Articles" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+                { name: "title", content: "Caspian International School of Medicine - News & Articles" },
+                { name: "description", content: "Keep up with the most recent events and news from the Caspian International School of Medicine. Read news and articles written by the staff, faculty, and students." },
             ],
         },
         {
             type: "meta-title",
-            title: "Carleton University, Canada - News & Articles"
+            title: "Caspian International School of Medicine - News & Articles"
         },
         {
             type: "meta-links",
