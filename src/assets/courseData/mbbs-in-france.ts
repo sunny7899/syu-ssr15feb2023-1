@@ -343,6 +343,12 @@ export const mbbsinfrance = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in France 2023 - Top Colleges in France'
+        },
+
         {
             type: "meta",
             meta: [
@@ -363,6 +369,12 @@ export const mbbsinfrance = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in France 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Course Duration of MBBS in France",
@@ -434,6 +446,12 @@ export const mbbsinfrance = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in France 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Career Opportunities',
@@ -465,6 +483,12 @@ export const mbbsinfrance = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in France 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in France - Important FAQs",

@@ -138,6 +138,13 @@ export const mbbsinlatvia = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Latvia 2023 - Top Colleges in Latvia'
+        },
+
+
         {
             "type": "table",
             "title": "Top Medical Universities in Latvia: Fees Structure(2022-23)",
@@ -180,6 +187,12 @@ export const mbbsinlatvia = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Latvia 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Latvia: Course Syllabus",
@@ -332,6 +345,11 @@ export const mbbsinlatvia = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'MBBS in Latvia 2023 - Career Options'
+        },
+
+        {
             "type": "list-bollet",
             "title": "Career Opportunities after MBBS in Latvia",
             "info": "<b>MBBS in Latvia is a great study destination for each medical student. Following is the career guidelines after completion of MBBS in Latvia:</b>",
@@ -362,6 +380,14 @@ export const mbbsinlatvia = {
 
     ],
     "faq": [
+
+
+        {
+            type: 'title',
+            title: 'MBBS in Latvia 2023 - FAQs'
+        },
+
+
         {
             "type": "question-list",
             "title": "MBBS in Latvia: Important FAQs",

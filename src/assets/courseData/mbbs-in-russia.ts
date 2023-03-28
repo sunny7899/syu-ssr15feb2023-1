@@ -412,6 +412,12 @@ export const mbbsinrussia= {
 
     ],
     "topcolleges":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Russia 2023 - Top Colleges in Russia'
+    },
+
         {
             "type": "table",
             "title": "MBBS Fees in Russia",
@@ -710,6 +716,12 @@ export const mbbsinrussia= {
         
     ],
     "syllabus":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Russia 2023 - Syllabus'
+    },
+
         {
             "type": "list-bollet",
             "title": "Total Duration for MBBS in Russia",
@@ -1047,6 +1059,12 @@ export const mbbsinrussia= {
     ],
     
     "careeroptions": [
+
+      {
+        type: 'title',
+        title: 'MBBS in Russia 2023 - Career Options'
+    },
+
         {
           type: 'list-bollet',
           title: 'PG Options after Completing MBBS from Russia',
@@ -1075,6 +1093,13 @@ export const mbbsinrussia= {
         ]}
     ],
     "faq": [
+
+      {
+        type: 'title',
+        title: 'MBBS in Russia 2023 - FAQs'
+    },
+
+
         {
             "type": "question-list",
             "title": "MBBS in Russia - Important FAQs",

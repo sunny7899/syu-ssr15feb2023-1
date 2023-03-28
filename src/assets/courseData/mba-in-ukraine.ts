@@ -293,6 +293,12 @@ export const mbainukraine = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Ukraine 2023 - Top Colleges in Ukraine'
+        },
+
         {
             "type": "table",
             "title": "MBA in Ukraine Fee Structure 2022",
@@ -367,6 +373,12 @@ export const mbainukraine = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Ukraine 2023 - Syllabus'
+        },
+        
         {
             "type": "table-title",
             "title": "Syllabus of MBA Course in Ukraine",
@@ -507,6 +519,12 @@ export const mbainukraine = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Ukraine 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Opportunities",
@@ -538,6 +556,12 @@ export const mbainukraine = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in Austria 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBA in Ukraine - Important FAQs",

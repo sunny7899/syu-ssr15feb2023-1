@@ -193,6 +193,13 @@ export const mbaingermany = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Germany 2023 - Syllabus'
+        },
+        
+        
         {
             type: "meta",
             meta: [
@@ -212,6 +219,12 @@ export const mbaingermany = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Germany 2023 - Top Colleges in Germany'
+        },
+
         {
             "type": "table",
             "title": "Top MBA Colleges, Schools, and Universities in Germany",
@@ -310,6 +323,12 @@ export const mbaingermany = {
     ],
 
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Germany 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "What after Completing an MBA from German Universities?",
@@ -377,7 +396,10 @@ export const mbaingermany = {
     ],
     "faq": [
 
-
+        {
+            type: 'title',
+            title: 'MBA in Germany - FAQ'
+        },
         {
             "type": "question-list",
             "title": "MBA in Germany - Important FAQs",

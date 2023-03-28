@@ -154,6 +154,12 @@ export const mbainnewzealand = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in New Zealand 2023 - Top Colleges in New Zealand'
+        },
+
         {
             "type": "table",
             "title": "MBA in New Zealand: Fee Structure (2022-23)",
@@ -234,6 +240,12 @@ export const mbainnewzealand = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in New Zealand 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Course Duration of MBA in New Zealand",
@@ -339,6 +351,12 @@ export const mbainnewzealand = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in New Zealand 2023 - Career Options'
+        },
+
         {
             type: "meta",
             meta: [
@@ -358,6 +376,12 @@ export const mbainnewzealand = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in New Zealand 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBA in New Zealand - Important FAQs",

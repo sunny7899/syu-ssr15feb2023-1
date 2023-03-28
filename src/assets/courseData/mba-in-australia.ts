@@ -10,7 +10,9 @@ export const mbainaustralia = {
     "info": [
         {
             type: 'title',
-            title: 'MBA in australia' },
+            title: 'MBA in australia' 
+        },
+
         {
             "type": "text",
             "title": "",
@@ -232,6 +234,12 @@ export const mbainaustralia = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Australia 2023 - Top Colleges in Australia' 
+        },
+        
         {
             "type": "table",
             "title": "MBA in Australia Fee Structure 2022",
@@ -310,6 +318,12 @@ export const mbainaustralia = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Australia 2023 - Syllabus' 
+        },
+
         {
             "type": "list-bollet",
             "title": "Course Duration of MBA in Australia",
@@ -375,6 +389,12 @@ export const mbainaustralia = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Australia 2023 - Career Options' 
+        },
+
         {
             type: 'text',
             title: 'Career Opportunity after Studying MBA in Australia',
@@ -428,6 +448,12 @@ export const mbainaustralia = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in Australia 2023 - FAQs' 
+        },
+
         {
             "type": "question-list",
             "title": "MBA in Australia: Important FAQs",

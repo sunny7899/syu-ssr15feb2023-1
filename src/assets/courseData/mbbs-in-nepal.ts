@@ -342,6 +342,11 @@ export const mbbsinnepal= {
     ],
     "syllabus":[
     
+      {
+        type: 'title',
+        title: 'MBBS in Nepal 2023 - Syllabus'
+    },
+
         {
             "type": "list-bollet",
             "title": "Medical Courses offered in Nepal",
@@ -471,6 +476,12 @@ export const mbbsinnepal= {
         ]}
     ],
     "topcolleges":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Nepal 2023 - Top Colleges in Nepal'
+    },
+
         {
             "type": "table",
             "title": "MBBS in Nepal Fees Structure 2022",
@@ -613,6 +624,11 @@ export const mbbsinnepal= {
             ]}
     ],
     "careeroptions":[
+      {
+        type: 'title',
+        title: 'MBBS in Nepal 2023 - Career Options'
+    },
+
         {
             "type": 'list-bollet',
             "title": 'Future Scope after Completing MBBS Degree from Nepal',
@@ -641,6 +657,12 @@ export const mbbsinnepal= {
             ]}
     ],
     "faq": [
+
+      {
+        type: 'title',
+        title: 'MBBS in Nepal 2023 - FAQs'
+    },
+
         {
             "type": "question-list",
             "title": "MBBS in Nepal: Important FAQs",

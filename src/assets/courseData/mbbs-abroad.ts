@@ -185,6 +185,12 @@ export const mbbsabroad = {
             ]}
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Abroad 2023 - Top Colleges in Abroad'
+        },
+
         {
             "type": "table",
             "title": "Country Wise List of Best Medical Universities for MBBS in Abroad",
@@ -308,6 +314,12 @@ export const mbbsabroad = {
             ]}
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Abroad 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "Time Duration to Complete MBBS Course in Abroad",
@@ -373,6 +385,12 @@ export const mbbsabroad = {
             ]}
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Abroad 2023 - Career Options'
+        },
+
         {
             "type": 'list-bollet',
             "title": 'Career Opportunities After MBBS in Abroad',
@@ -403,6 +421,12 @@ export const mbbsabroad = {
             ]}
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Abroad 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Abroad: Important FAQs",

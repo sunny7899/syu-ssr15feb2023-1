@@ -218,6 +218,12 @@ export const mbbsinbelarus = {
 
     ],
     "topcolleges":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Belarus 2023 - Top Colleges in Belarus'
+    },
+
         {
             "type": "table",
             "title": "MBBS in Belarus Fees Structure 2023",
@@ -273,6 +279,13 @@ export const mbbsinbelarus = {
             ]}
     ],
     "syllabus":[
+
+
+      {
+        type: 'title',
+        title: 'MBBS in Belarus 2023 - Syllabus'
+    },
+
         {
             "type": "table",
             "title": "Top Medical Universities and their Course Duration in Belarus",
@@ -317,6 +330,12 @@ export const mbbsinbelarus = {
             ]}
     ],
     "faq": [
+
+      {
+        type: 'title',
+        title: 'MBBS in Belarus 2023 - FAQs'
+    },
+
         {
             "type": "question-list",
             "title": "MBBS in Belarus - Important FAQ",
@@ -360,6 +379,11 @@ export const mbbsinbelarus = {
             ]}
     ],
     "careeroptions": [
+
+      {
+        type: 'title',
+        title: 'MBBS in Belarus 2023 - Career Options'
+    },
        
       {
           type: "meta",

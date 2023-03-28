@@ -299,6 +299,12 @@ export const mbbsinchina = {
     ],
 
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in China 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "MBBS in China - Course Duration",
@@ -492,6 +498,12 @@ export const mbbsinchina = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in China 2023 - Top Colleges in China'
+        },
+
         {
             "type": "table",
             "title": "MBBS in China Fee Structure 2023",
@@ -609,6 +621,12 @@ export const mbbsinchina = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in China 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "MD/MS in USA After Completing MBBS in China",
@@ -649,6 +667,12 @@ export const mbbsinchina = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in China 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in China - Important FAQs",

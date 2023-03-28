@@ -197,6 +197,12 @@ export const mbainpoland = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Poland 2023 - Syllabus'
+        },
+
         {
             "type": "number-list",
             "title": "Types of MBA Programs in Poland",
@@ -237,6 +243,12 @@ export const mbainpoland = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Poland 2023 - Top Colleges in Poland'
+        },
+
         {
             "type": "table",
             "title": "MBA in Poland: Fee Structure (2023-24)",
@@ -311,6 +323,12 @@ export const mbainpoland = {
     ],
 
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Poland 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Opportunity after MBA in Poland",
@@ -348,6 +366,12 @@ export const mbainpoland = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in Poland 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBA in Poland: Important FAQs",

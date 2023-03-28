@@ -137,6 +137,12 @@ export const masterofcomputerapplicationmca = {
     ],
 
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MCA in India 2023  - Top Colleges in India'
+        },
+
         {
             "type": "table",
             "title": "Top MCA Colleges in India: Fees Structure (2022-23)",
@@ -205,6 +211,12 @@ export const masterofcomputerapplicationmca = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MCA in India 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Duration of MCA Course in India",
@@ -372,6 +384,12 @@ export const masterofcomputerapplicationmca = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MCA in India 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Opportunities after MCA in India",
@@ -439,6 +457,13 @@ export const masterofcomputerapplicationmca = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MCA in India 2023 - FAQs'
+        },
+
+
         {
             type: "meta",
             meta: [

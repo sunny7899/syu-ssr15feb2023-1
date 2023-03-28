@@ -206,6 +206,12 @@ export const mbbsinuk = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in UK 2023 - Top Colleges in UK'
+        },
+
         {
             "type": "table",
             "title": "List of Top Universities for Medicine in UK",
@@ -316,6 +322,12 @@ export const mbbsinuk = {
     ],
 
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in UK 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "MBBS Course Structure: For Studying Medicine in UK",
@@ -394,6 +406,12 @@ export const mbbsinuk = {
 
 
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in UK 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Opportunity after Studying MBBS in UK",
@@ -462,6 +480,12 @@ export const mbbsinuk = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in UK 2023 - FAQs'
+        },
+
         {
             type: "meta",
             meta: [

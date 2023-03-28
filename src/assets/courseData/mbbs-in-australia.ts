@@ -205,6 +205,12 @@ export const mbbsinaustralia = {
 
   ],
   "topcolleges": [
+
+    {
+      type: 'title',
+      title: 'MMBBS in Australia 2023 - Top Colleges in Australia'
+    },
+
     {
       "type": "table",
       "title": 'Top Medical Universities in Australia: Fee Structure',
@@ -277,6 +283,13 @@ export const mbbsinaustralia = {
 
   ],
   "syllabus": [
+
+    {
+      type: 'title',
+      title: 'MBBS in Australia 2023 - Syllabus'
+    },
+
+
     {
       "type": 'list-bollet',
       "title": 'Course Duration of MBBS in Australia',
@@ -452,6 +465,12 @@ export const mbbsinaustralia = {
 
   ],
   "careeroptions": [
+
+    {
+      type: 'title',
+      title: 'MBBS in Australia 2023 - Career Options'
+    },
+
     {
       "type": "text",
       "title": 'Career Opportunities after MBBS in Australia',
@@ -497,6 +516,12 @@ export const mbbsinaustralia = {
 
   ],
   "faq": [
+
+    {
+      type: 'title',
+      title: 'MBBS in Australia 2023 - FAQs'
+    },
+
     {
         "type": "question-list",
         "title": "MBBS in Australia: Important FAQs",

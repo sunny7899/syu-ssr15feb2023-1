@@ -320,6 +320,12 @@ export const mbbsinukraine = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ukraine 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "Complete Syllabus of MBBS in Ukraine (Year Wise)",
@@ -783,6 +789,12 @@ export const mbbsinukraine = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ukraine 2023 - Top Colleges in Ukraine'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Ukraine Fees Structure 2022",
@@ -970,6 +982,12 @@ export const mbbsinukraine = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ukraine 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Options: After Completing MBBS Degree From Ukraine",
@@ -1012,6 +1030,12 @@ export const mbbsinukraine = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ukraine 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Ukraine - Important FAQs",

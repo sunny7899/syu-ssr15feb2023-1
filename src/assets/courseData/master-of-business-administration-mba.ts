@@ -386,3 +386,6 @@ export const masterofbusinessadministrationmba = {
     ],
 
 }
+
+
+

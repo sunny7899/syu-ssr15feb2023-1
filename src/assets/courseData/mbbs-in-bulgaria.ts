@@ -1,7 +1,7 @@
 export const mbbsinbulgaria = {
-    "Title": "mbbs in bulgaria",
-    "shortTitle": "mbbs in bulgaria",
-    "location": "bulgaria",
+    "Title": "MBBS in Bulgaria",
+    "shortTitle": "MBBS in Bulgaria",
+    "location": "Bulgaria",
     "type": "",
     "rating": "",
     "shareLink": "",
@@ -10,7 +10,7 @@ export const mbbsinbulgaria = {
     "info": [
         {
             type: 'title',
-            title: 'mbbs in bulgaria'
+            title: 'MBBS in Bulgaria'
         },
         {
             "type": "text",
@@ -311,6 +311,12 @@ export const mbbsinbulgaria = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bulgaria 2023 - Top Colleges in Bulagaria'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Bulgaria Fees Structure 2023",
@@ -405,6 +411,12 @@ export const mbbsinbulgaria = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bulgaria 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Medical Courses Offered in Bulgaria",
@@ -518,6 +530,12 @@ export const mbbsinbulgaria = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bulgaria 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Future Career Opportunity After MBBS in Bulgaria',
@@ -548,6 +566,12 @@ export const mbbsinbulgaria = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bulgaria 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Bulgaria: Important FAQs",

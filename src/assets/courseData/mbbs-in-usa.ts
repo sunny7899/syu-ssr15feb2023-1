@@ -278,6 +278,12 @@ export const mbbsinusa = {
     ],
 
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in USA 2023 - Top Colleges in USA'
+        },
+
         {
             "type": "table",
             "title": "MBBS in USA Fees Structure 2022",
@@ -447,6 +453,12 @@ export const mbbsinusa = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in USA 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration in USA",
@@ -487,6 +499,12 @@ export const mbbsinusa = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in USA 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Options in USA (After Completion of MBBS Degree)",
@@ -517,6 +535,12 @@ export const mbbsinusa = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in USA 2023 - FAQs'
+        },
+
         {
             type: "meta",
             meta: [

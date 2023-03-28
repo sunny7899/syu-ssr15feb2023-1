@@ -164,6 +164,12 @@ export const mbbsinpoland= {
             ]}
     ],
     "syllabus":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Poland  2023 - Syllabus'
+    },
+
         {
             "type": 'list-bollet',
             "title": 'Courses Offered by Medical Universities in Poland',
@@ -328,6 +334,12 @@ export const mbbsinpoland= {
             ]}
     ],
     "topcolleges":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Poland 2023 - Top Colleges in Poland'
+    },
+
         {
             "type": "table",
             "title": "MBBS in Poland Fees Structure 2022",
@@ -475,6 +487,12 @@ export const mbbsinpoland= {
             ]}
     ],
     "careeroptions":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Poland  2023 - Career Options'
+    },
+
         {
             "type": 'list-bollet',
             "title": 'Career Options: After Completing MBBS Degree From Poland',
@@ -502,6 +520,12 @@ export const mbbsinpoland= {
             ]}
     ],
     "faq": [
+
+      {
+        type: 'title',
+        title: 'MBBS in Poland 2023 - FAQs'
+    },
+
         {
             "type": "question-list",
             "title": "MBBS in Poland - Important FAQs",

@@ -10,7 +10,7 @@ export const mbbsinireland = {
     "info": [
         {
             type: 'title',
-            title: 'Mbbs in Ireland'
+            title: 'MBBS in Ireland'
         },
 
         {
@@ -227,6 +227,12 @@ export const mbbsinireland = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ireland 2023 - Top Colleges in Ireland'
+        },
+
         {
             type: 'text',
             title: 'List of Top 6 Medical Universities or Schools in Ireland',
@@ -513,6 +519,12 @@ export const mbbsinireland = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ireland 2023 - Syllabus'
+        },
+
         
         {
             type: "meta",
@@ -533,6 +545,13 @@ export const mbbsinireland = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ireland 2023 - Career Options'
+        },
+
+
         {
             type: "meta",
             meta: [
@@ -552,6 +571,12 @@ export const mbbsinireland = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ireland 2023 - FAQs'
+        },
+
         {
             type: "meta",
             meta: [
