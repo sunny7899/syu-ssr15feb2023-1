@@ -6,6 +6,7 @@ import { ServicesComponent } from './services.component';
 import { HeaderInnerModule } from '../header-inner/header-inner.module';
 import { FooterModule } from '../footer/footer.module';
 import { ChatModule } from '../chat/chat.module';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [ServicesComponent],
@@ -14,7 +15,8 @@ import { ChatModule } from '../chat/chat.module';
     ServicesRoutingModule,
     HeaderInnerModule,
     FooterModule,
-    ChatModule
+    ChatModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class ServicesModule { }

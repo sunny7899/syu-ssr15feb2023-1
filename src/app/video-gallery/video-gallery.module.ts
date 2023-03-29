@@ -9,7 +9,7 @@ import { FooterModule } from '../footer/footer.module';
 import { AccordionModule } from 'primeng/accordion';
 import { TabViewModule } from 'primeng/tabview';
 import { ChatModule } from '../chat/chat.module';
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [VideoGalleryComponent],
@@ -20,7 +20,8 @@ import { ChatModule } from '../chat/chat.module';
     FooterModule,
     AccordionModule,
     TabViewModule,
-    ChatModule
+    ChatModule,
+    FormsModule, ReactiveFormsModule
     
   ]
 })

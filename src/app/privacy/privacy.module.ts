@@ -7,7 +7,7 @@ import { HeaderInnerModule } from '../header-inner/header-inner.module';
 import { FooterModule } from '../footer/footer.module';
 import { AccordionModule } from 'primeng/accordion';
 import { ChatModule } from '../chat/chat.module';
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [PrivacyComponent],
@@ -17,7 +17,8 @@ import { ChatModule } from '../chat/chat.module';
     HeaderInnerModule,
     FooterModule,
     AccordionModule,
-    ChatModule
+    ChatModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class PrivacyModule { }

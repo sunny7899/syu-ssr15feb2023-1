@@ -7,7 +7,7 @@ import { FooterModule } from '../footer/footer.module';
 import { ChatModule } from '../chat/chat.module';
 import { HeaderInnerModule } from '../header-inner/header-inner.module';
 import {Location} from '@angular/common'; 
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [CourseComponent],
@@ -16,7 +16,8 @@ import {Location} from '@angular/common';
     CourseRoutingModule,
     FooterModule,
     HeaderInnerModule,
-    ChatModule
+    ChatModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class CourseModule { }

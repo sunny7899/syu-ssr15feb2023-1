@@ -16,6 +16,21 @@ import { ApiService } from "../api.service";
   styleUrls: ["./popup-form.component.scss"],
 })
 export class PopupFormComponent implements OnInit {
+
+  
+  Course: any = ['Btech', 'Mtech', 'Bsc', 'Msc','Bca','Mca'];
+  registrationForm = this.fb.group({
+    cCourse: ['', [Validators.required]],
+  });
+  changeCourse(e: any) {
+    this.cCourse?.setValue(e.target.value, {
+      onlySelf: true,
+    });
+  }
+  // Access formcontrols getter
+  get cCourse() {
+    return this.registrationForm.get('cCourse');
+  }
   modalRef: BsModalRef;
   form1 = true;
   form2 = false;
@@ -39,9 +54,9 @@ export class PopupFormComponent implements OnInit {
       cCandidateName: ["", Validators.required],
       cEmail: ["",[ Validators.required , Validators.pattern("^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$")]],
       cMobile: ["", [Validators.required, Validators.pattern("^((\\+91-?)|0)?[0-9]{10}$")]],
-      cCity: ["", Validators.required],
+      cCity: [""],
       cCourse: ["", Validators.required],
-      qeducation: ["", Validators.required],
+      // qeducation: ["", Validators.required],
     });
     // this.RegistrationFrom2 = this.fb.group({
     //   qgraduation: ["", Validators.required],
@@ -95,13 +110,13 @@ export class PopupFormComponent implements OnInit {
     data['cDataFrom']=1
     data['AllocatedTo']=0
     data['CurrentStatus']=0
-    data['cRemarks']=this.RegistrationFrom1.value.qeducation
+    //data['cRemarks']=this.RegistrationFrom1.value.qeducation
     data['cCountry']="Na"
     data['cWebsite']='http://demo.mentebit.com/#/'
     data['cCoutryCode']="Na"
     console.log('rom1', this.RegistrationFrom1.value)
-    const {cCity, cCourse, cCandidateName, cEmail, cMobile, qeducation} = this.RegistrationFrom1.value;
-    this.http.get( `https://bizcallcrmforms.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&qeducation=${qeducation}&section=insertdetails`)
+    const {cCity, cCourse, cCandidateName, cEmail, cMobile} = this.RegistrationFrom1.value;
+    this.http.get( `https://bizcallcrmforms.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&section=insertdetails`)
     .subscribe((res) => {
       console.log('res', res)
     this.nsrNo= res

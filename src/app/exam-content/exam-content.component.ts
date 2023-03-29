@@ -8,12 +8,77 @@ import { ApiService } from '../api.service';
 import { GalleryItem, ImageItem } from 'ng-gallery';
 import *as collegeContent from './data'
 import { NgxGalleryOptions, NgxGalleryImage, NgxGalleryAnimation } from '@kolkov/ngx-gallery';
+import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
+import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { HttpClient } from '@angular/common/http';
 @Component({
   selector: 'app-exam-content',
   templateUrl: './exam-content.component.html',
   styleUrls: ['./exam-content.component.scss']
 })
 export class ExamContentComponent implements OnInit {
+
+  RegistrationForm1: FormGroup;
+  modalRef: BsModalRef;
+  form1 = true;
+  form2 = false;
+  form3 = false;
+  form4 = false;
+  RegistrationFrom1: FormGroup;
+  RegistrationFrom2: FormGroup;
+  RegistrationFrom3: FormGroup;
+  RegistrationFrom4: FormGroup;
+  nsrNo: any;
+
+  //second form
+  form5 = true;
+  form6 = false;
+  get m2() {
+    return this.RegistrationForm1.controls;
+  }
+
+  public submitFormS() {
+    if (this.RegistrationForm1.valid) {
+      this.form5 = false;
+      this.form6 = true;
+      this.form3 = false;
+      this.form4 = false;
+    }
+    let data = this.RegistrationForm1.value;
+    data['refNo'] = 777;
+    data['cAddressLine'] = 'Na';
+    data['cState'] = 'Na';
+    data['cPinCode'] = 'Na';
+    data['cParantNo'] = 'Na';
+    data['cDataFrom'] = 1;
+    data['AllocatedTo'] = 0;
+    data['CurrentStatus'] = 0;
+    //data['cRemarks'] = this.RegistrationFrom1.value.qeducation;
+    //data['cCountry'] = 'Na';
+    data['cWebsite'] = 'http://demo.mentebit.com/#/';
+    data['cCoutryCode'] = 'Na';
+    console.log('rom1', this.RegistrationForm1.value);
+    const {
+      //cCity,
+      //cCourse,
+      cCandidateName,
+      cEmail,
+      cMobile,
+      //qeducation,
+      //cLinkName,
+    } = this.RegistrationForm1.value;
+    this.http
+      .get(
+        `https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cLinkName=${this.currentUrl}&section=insertdetails`
+      )
+      .subscribe((res) => {
+        console.log('res', res);
+        this.nsrNo = res;
+      });
+    console.log('form 1', this.RegistrationForm1.value);
+  }
+
+
   @ViewChild('stickyNav', { static: true }) navTabs: ElementRef;
   @ViewChild('stickyDiv', { static: true }) talkExpertDiv: ElementRef;
   isReadMore = true
@@ -101,7 +166,6 @@ export class ExamContentComponent implements OnInit {
   // sub Tab End
 
 
-
   showBasicDialog() {
     this.displayBasic = true;
   }
@@ -117,6 +181,10 @@ export class ExamContentComponent implements OnInit {
     private meta: Meta,
     private api: ApiService,
     private sanitizer: DomSanitizer,
+    public bsModalRef: BsModalRef,
+    public modalService: BsModalService,
+    private fb: FormBuilder,
+    private http: HttpClient,
     @Inject(DOCUMENT) private dom
   ) {
     let link: HTMLLinkElement = this.dom.createElement('link');
@@ -308,6 +376,56 @@ export class ExamContentComponent implements OnInit {
     })
   }
   ngOnInit() {
+    this.RegistrationFrom1 = this.fb.group({
+      cCandidateName: ['', Validators.required],
+      cEmail: [
+        '',
+        [
+          Validators.required,
+          Validators.pattern('^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$'),
+        ],
+      ],
+      cMobile: [
+        '',
+        [Validators.required, Validators.pattern('^((\\+91-?)|0)?[0-9]{10}$')],
+      ],
+      cCity: [''],
+      cCourse: ['', Validators.required],
+      //qeducation: ['', Validators.required],
+    });
+    this.RegistrationFrom2 = this.fb.group({
+      qgraduation: ['', Validators.required],
+      qcourse: ['', Validators.required],
+      qgradper: ['', Validators.required],
+      qextraExam: ['', Validators.required],
+      qexperience: ['', Validators.required],
+      qgate: ['', Validators.required],
+      qgre: ['', Validators.required],
+    });
+    this.RegistrationFrom3 = this.fb.group({
+      qtenthBoard: ['', Validators.required],
+      qtenthPassing: ['', Validators.required],
+      qtenthPercentage: ['', Validators.required],
+      qschool: ['', Validators.required],
+      qtwelvethBoard: ['', Validators.required],
+      qtwelvethPassing: ['', Validators.required],
+      qtwelvethPer: ['', Validators.required],
+      qtwelvethSchool: ['', Validators.required],
+      qtwelvethSpec: ['', Validators.required],
+    });
+    this.RegistrationFrom4 = this.fb.group({
+      fldValue1: ['', Validators.required],
+      fldValue2: ['', Validators.required],
+      fldValue3: ['', Validators.required],
+      fldValue4: ['', Validators.required],
+      fldValue5: ['', Validators.required],
+    });
+     //for form 2
+     this.RegistrationForm1 = this.fb.group({
+      cCandidateName: ["", Validators.required],
+      cEmail: ["", [Validators.required, Validators.pattern("^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$")]],
+      cMobile: ["", [Validators.required, Validators.pattern("^((\\+91-?)|0)?[0-9]{10}$")]]
+    });
     this.getStudentVisit()
     //this.currentUrl = this.router.url.split('/').pop()
     this.getUrl = this.router.url.split('/'); 
