@@ -195,6 +195,12 @@ export const mbbsinphilippines = {
 
     ],
     "topcolleges":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Philippines 2023 - Top Colleges in Philippines'
+    },
+
         {
             "type": "table",
             "title": "MBBS in Philippines Fees for Indian Students",
@@ -377,6 +383,12 @@ export const mbbsinphilippines = {
           ]}
     ],
     "syllabus":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Philippines 2023 - Syllabus'
+    },
+
         {
             "type": "list-bollet",
             "title": "Course Duration of MBBS (MD) in Philippines",
@@ -565,6 +577,12 @@ export const mbbsinphilippines = {
         ]}
     ],
     "careeroptions": [
+
+      {
+        type: 'title',
+        title: 'MBBS in Philippines 2023 - Career Options'
+    },
+
       {
         type: 'list-bollet',
         title: 'Career Opportunities after Completing MBBS from the Philippines',
@@ -594,6 +612,12 @@ export const mbbsinphilippines = {
       ]}
     ],
     "faq": [
+
+      {
+        type: 'title',
+        title: 'MBBS in Philippines 2023 - FAQs'
+    },
+
       {
           "type": "question-list",
           "title": "MBBS in Philippines - Important FAQs",

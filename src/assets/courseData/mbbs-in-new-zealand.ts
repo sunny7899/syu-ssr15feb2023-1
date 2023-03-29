@@ -179,6 +179,12 @@ export const mbbsinnewzealand = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in New Zealand 2023 - Top Colleges in New Zealand'
+        },
+
         {
             "type": "table",
             "title": "MBBS in New Zealand: Fee Structure(2022-23)",
@@ -249,6 +255,12 @@ export const mbbsinnewzealand = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in New Zealand 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Course Duration of MBBS in New Zealand",
@@ -421,6 +433,12 @@ export const mbbsinnewzealand = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in New Zealand 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Opportunities after MBBS in New Zealand",
@@ -475,8 +493,12 @@ export const mbbsinnewzealand = {
         }
 
     ],
-    "faq":
-    [
+    "faq":[
+
+        {
+            type: 'title',
+            title: 'MBBS in New Zealand 2023 - FAQs'
+        },
         {
             "type": "question-list",
             "title": "MBBS in New Zealand: Important FAQs",

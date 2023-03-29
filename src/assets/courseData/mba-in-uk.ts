@@ -213,6 +213,12 @@ export const mbainuk = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in UK 2023 - Top Colleges in UK'
+        },
+
         {
             "type": "table",
             "title": "TOP MBA Universities in UK: Fee Structure (2022-23)",
@@ -302,6 +308,12 @@ export const mbainuk = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in UK 2023 - Syllabus'
+        },
+
         {
             "type": "text",
             "title": "MBA in UK: Course Duration",
@@ -353,6 +365,12 @@ export const mbainuk = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in UK 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career opportunities after MBA in UK",
@@ -387,6 +405,12 @@ export const mbainuk = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in UK 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBA in UK: Important FAQs",

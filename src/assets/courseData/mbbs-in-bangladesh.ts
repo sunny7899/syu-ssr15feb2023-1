@@ -182,6 +182,12 @@ export const mbbsinbangladesh = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bangladesh 2023 - Syllabus'
+        },
+
         {
             "type": 'text',
             "title": 'Study Pattern for MBBS in Bangladesh',
@@ -250,6 +256,12 @@ export const mbbsinbangladesh = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bangladesh 2023 - Top Colleges in Bangladesh'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Bangladesh Fees Structure 2022",
@@ -430,6 +442,11 @@ export const mbbsinbangladesh = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bangladesh 2023 - FAQs'
+        },
         {
             "type": "question-list",
             "title": "MBBS in Bangladesh: Important FAQs",
@@ -493,6 +510,11 @@ export const mbbsinbangladesh = {
       ]}
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - Career Options'
+        },
        
         {
             type: "meta",

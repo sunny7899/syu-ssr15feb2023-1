@@ -218,6 +218,12 @@ export const mbbsinmalaysia = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malayasia 2023 - Top Colleges in Malayasia'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Malaysia Fee Structure 2022",
@@ -361,6 +367,12 @@ export const mbbsinmalaysia = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malayasia 2023 - Syllabus'
+        },
+
         {
             type: 'list-bollet',
             title: 'Courses Offered by the Malaysian Medical Universities',
@@ -467,6 +479,12 @@ export const mbbsinmalaysia = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malayasia 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Career Options: After Completing MBBS Degree From Malaysia',
@@ -497,6 +515,12 @@ export const mbbsinmalaysia = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malayasia 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Malaysia: Important FAQs",

@@ -183,6 +183,12 @@ export const mbbsinmalta = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malta 2023 - Top Colleges in Malta'
+        },
+
         {
             "type": "table",
             "title": "Top Medical Universities in Malta: Fee Structure (2022-23)",
@@ -226,6 +232,11 @@ export const mbbsinmalta = {
 
     ],
     "syllabus": [
+        {
+            type: 'title',
+            title: 'MBBS in Malta 2023 - Syllabus'
+        },
+
         {
             type: 'list-bollet',
             title: 'Course Duration of MBBS in Malta',
@@ -336,6 +347,12 @@ export const mbbsinmalta = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malta 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Career Opportunity After MBBS in Malta',
@@ -366,6 +383,12 @@ export const mbbsinmalta = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malta 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Malta - Important FAQs",

@@ -149,6 +149,12 @@ export const mbbsinarmenia= {
 
     ],
     "syllabus":[
+
+       {
+                type: 'title',
+                title: 'MBBS in Armenia 2023 - Syllabus'
+            },
+
         {
             type: 'list-bollet',
             title: 'Course Duration of Studying MBBS in Armenia',
@@ -199,6 +205,12 @@ export const mbbsinarmenia= {
             ]}
     ],
     "topcolleges":[
+
+       {
+                type: 'title',
+                title: 'MBBS in Armenia 2023 - Top Colleges in Armenia'
+            },
+
         {
             "type": "table",
             "title": "MBBS in Armenia Fee Structure 2023",
@@ -271,6 +283,12 @@ export const mbbsinarmenia= {
             ]}
     ],
     "careeroptions":[
+
+       {
+                type: 'title',
+                title: 'MBBS in Armenia 2023 - Career Options'
+            },
+
         {
             "type": "number-list",
             "title": "Career after MBBS in Armenia",
@@ -300,6 +318,12 @@ export const mbbsinarmenia= {
             ]}
     ],
     "faq": [
+
+       {
+                type: 'title',
+                title: 'MBBS in Armenia 2023 - FAQs'
+            },
+
         {
             "type": "question-list",
             "title": "MBBS in Armenia - Important FAQs",

@@ -10,7 +10,7 @@ export const mbbsinhungary= {
     "info": [
         {
             type: 'title',
-            title: 'Mbbs in Hungary'
+            title: 'MBBS in Hungary'
         },
 
         {
@@ -139,6 +139,12 @@ export const mbbsinhungary= {
                     ]}
             ],
             "syllabus": [
+
+                {
+                    type: 'title',
+                    title: 'MBBS in Hungary 2023 - Syllabus'
+                },
+
                 {
                     "type": "list-bollet",
                     "title": "Total Duration for MBBS in Hungary",
@@ -371,6 +377,12 @@ export const mbbsinhungary= {
                 }
             ],
             "topcolleges": [
+
+                {
+                    type: 'title',
+                    title: 'MBBS in Hungary 2023 - Top Colleges in Hungary'
+                },
+
                 {
                     "type": "table",
                     "title": "MBBS Fees in Hungary 2022-23",
@@ -454,6 +466,12 @@ export const mbbsinhungary= {
                 }
             ],
             "careeroptions": [
+
+                {
+                    type: 'title',
+                    title: 'MBBS in Hungary 2023 - Career Options'
+                },
+
                 {
                     type: 'list-bollet',
                     title: 'What are the Career Opportunities after Completing an MBBS Degree from Hungary?',
@@ -489,6 +507,12 @@ export const mbbsinhungary= {
                 }
             ],
             "faq": [
+
+                {
+                    type: 'title',
+                    title: 'MBBS in Hungary 2023 - FAQs'
+                },
+
                 {
                     "type": "question-list",
                     "title": "MBBS in Hungary - Important FAQs",

@@ -138,6 +138,12 @@ export const mbbs= {
 
     ],
     "syllabus":[
+
+      {
+        type: 'title',
+        title: 'MBBS in India 2023 - Syllabus'
+    },
+
         
         {
             "type": "table",
@@ -252,6 +258,12 @@ export const mbbs= {
           ]}
     ],
     "topcolleges":[
+
+      {
+        type: 'title',
+        title: 'MBBS in India 2023 - Top Colleges in India'
+    },
+
         {
             "type": "table",
             "title": "Top Medical Colleges in India - Total Fees Structure 2023",
@@ -824,6 +836,11 @@ export const mbbs= {
     ],
     "careeroptions":[
       {
+        type: 'title',
+        title: 'MBBS in India 2023 - Career Options'
+    },
+
+      {
         "type": "table",
         "title": "Top Recruiters for MBBS in India",
         "info": "MBBS is one of the most preferred medical professions across all over the world. MBBS in India is a crucial program for medical students. It offers job opportunities as well as career growth for the medical students. As per the Employment News India, Around 2000 jobs are listed in the medical sectors.",
@@ -869,6 +886,11 @@ export const mbbs= {
     ]}
     ],
     "faq": [
+      {
+        type: 'title',
+        title: 'MBBS in India 2023 - FAQs'
+    },
+
       {
           "type": "question-list",
           "title": "MBBS in India - Important FAQs",

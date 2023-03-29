@@ -158,6 +158,11 @@ export const mbbsinkyrgyzstan = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'MBBS in Kyrgyzstan 2023 - Top Colleges in Kyrgyzstan'
+        },
+
+        {
             "type": "table",
             "title": "MBBS Fees in Kyrgyzstan 2023",
             "info": "<b>Following are the fee structures for Kyrgyzstan’s top NMC approved medical universities:</b>",
@@ -332,6 +337,12 @@ export const mbbsinkyrgyzstan = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Kyrgyzstan 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "What are the Courses offered by Kyrgyzstan Medical Universities?",
@@ -461,6 +472,12 @@ export const mbbsinkyrgyzstan = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Kyrgyzstan 2023 - Career Options'
+        },
+        
         {
             "type": "list-bollet",
             "title": "What are the Career Opportunities after Completing MBBS Degree from Kyrgyzstan?",
@@ -496,6 +513,13 @@ export const mbbsinkyrgyzstan = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Kyrgyzstan 2023 - FAQs'
+        },
+
+
         {
             "type": "question-list",
             "title": "MBBS in Kyrgyzstan - Important FAQs",

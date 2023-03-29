@@ -272,6 +272,12 @@ export const mbbsingeorgia= {
 
     ],
     "syllabus":[
+
+        {
+            type: 'title',
+            title: 'MBBS in Georgia 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "What are the Courses offered by Georgian Medical Universities?",
@@ -478,6 +484,12 @@ export const mbbsingeorgia= {
             ]}
     ],
         "topcolleges":[
+
+            {
+                type: 'title',
+                title: 'MBBS in Georgia 2023 - Top Colleges in Georgia'
+            },
+
             {
                 "type": "table",
                 "title": "Total Cost of MBBS in Georgia 2023",
@@ -782,6 +794,12 @@ export const mbbsingeorgia= {
                 ]}
     ],
     "careeroptions":[
+
+        {
+            type: 'title',
+            title: 'MBBS in Georgia 2023 - Career Options'
+        },
+
         {
             "type": 'list-bollet',
             "title": 'What are the Career Opportunities after Completing MBBS Degree from Georgia?',
@@ -821,6 +839,12 @@ export const mbbsingeorgia= {
             ]}
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Georgia 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Georgia - Important FAQs",

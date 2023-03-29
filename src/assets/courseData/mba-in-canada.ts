@@ -195,6 +195,12 @@ export const mbaincanada = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Canada 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Course Duration of MBA in Canada",
@@ -273,6 +279,12 @@ export const mbaincanada = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Canada 2023 - Top Colleges in Canada'
+        },
+
         {
             "type": "table",
             "title": "Top MBA Universities in Canada: Fee Structure (2022-23)",
@@ -343,6 +355,12 @@ export const mbaincanada = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Canada 2023 - Career Options'
+        },
+
         {
             type: 'text',
             title: "Career Opportunities for Studying MBA in Canada",
@@ -388,6 +406,12 @@ export const mbaincanada = {
     
     
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in Canada 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBA in Canada - FAQ",

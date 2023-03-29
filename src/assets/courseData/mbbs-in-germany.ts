@@ -10,7 +10,7 @@ export const mbbsingermany = {
     "info": [
         {
             type: 'title',
-            title: 'Mbbs in germany'
+            title: 'MBBS in Germany'
         },
         {
             "type": "text",
@@ -197,6 +197,12 @@ export const mbbsingermany = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Germany 2023 - Top Colleges in Germany'
+        },
+
         {
             "type": "list-bollet",
             "title": "Top NMC Approved Medical Universities in Germany",
@@ -234,6 +240,13 @@ export const mbbsingermany = {
         }
     ],
     "syllabus": [
+
+
+        {
+            type: 'title',
+            title: "MBBS in Germany 2023 - Syllabus"
+        },
+
         {
             "type": "text",
             "title": "MBBS Course Duration in Germany",
@@ -271,6 +284,12 @@ export const mbbsingermany = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Germany 2023 - Career Options'
+        },
+
         {
             type: "meta",
             meta: [
@@ -290,6 +309,12 @@ export const mbbsingermany = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Germany 2023 - FAQs'
+        },
+
         {
             type: "meta",
             meta: [

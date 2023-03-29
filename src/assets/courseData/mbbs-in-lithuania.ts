@@ -154,6 +154,12 @@ export const mbbsinlithuania = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Lithuania 2023 - Top Colleges in Lithuania'
+        },
+
         {
             "type": "table",
             "title": "Top Medical Universities in Lithuania: Fee Structure 2022",
@@ -196,6 +202,12 @@ export const mbbsinlithuania = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Lithuania 2023 - Syllabus'
+        },
+
         {
             "type": "tabel",
             "title": "MBBS Curriculum in Lithuania",
@@ -347,6 +359,12 @@ export const mbbsinlithuania = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Lithuania 2023 - Career Options'
+        },
+
         {
             type: "meta",
             meta: [
@@ -367,6 +385,12 @@ export const mbbsinlithuania = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Lithuania 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Lithuania: Important FAQs",

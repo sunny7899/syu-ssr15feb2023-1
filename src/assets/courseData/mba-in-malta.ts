@@ -152,6 +152,11 @@ export const mbainmalta = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'MBA in Malta 2023 - Top Colleges in Malta'
+        },
+        
+        {
             "type": "table",
             "title": "Top MBA Universities in Malta: Fee Structure (2022-23)",
             "info": "<b>Refer to the below fee structure of top MBA Universities in Malta:</b>",
@@ -209,6 +214,10 @@ export const mbainmalta = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'MBA in Malta 2023 - Syllabus'
+        },
+        {
             "type": "list-bollet",
             "title": "MBA in Malta: Course Duration",
             "info": "<b>Following is the course duration for MBA in Malta:</b>",
@@ -255,6 +264,10 @@ export const mbainmalta = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'MBA in Malta 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Opportunities after MBA in Malta",
             "info": "<b>Management is the degree that encompasses the various areas of fields and has a high range of career options. The career sectors after MBA in Malta are as follows:</b>",
@@ -288,6 +301,10 @@ export const mbainmalta = {
 
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'MBA in Malta 2023 - FAQs'
+        },
         {
             "type": "question-list",
             "title": "MBA in Malta: Important FAQs",

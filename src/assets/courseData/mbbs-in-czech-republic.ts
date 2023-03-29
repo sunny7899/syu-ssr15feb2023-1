@@ -10,7 +10,7 @@ export const mbbsinczechrepublic = {
     "info": [
         {
             type: 'title',
-            title: 'Mbbs in czech republic'
+            title: 'Mbbs in Czech Republic'
         },
         {
             "type": "text",
@@ -309,11 +309,14 @@ export const mbbsinczechrepublic = {
         }
 
 
-
-
-
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Czech Republic 2023 - Top Colleges in Czech Republic'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Czech Republic: Tuition Fees for 2022-23",
@@ -389,6 +392,12 @@ export const mbbsinczechrepublic = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Czech Republic 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Medical Courses Offered in Czech Republic",
@@ -503,6 +512,12 @@ export const mbbsinczechrepublic = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Czech Republic 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Future Career Opportunity After MBBS in Czech Republic',
@@ -533,6 +548,12 @@ export const mbbsinczechrepublic = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Czech Republic 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Czech Republic: Important FAQs",

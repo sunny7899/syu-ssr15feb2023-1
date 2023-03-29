@@ -300,6 +300,12 @@ export const mbbsinromania = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Romania 2023 - Top Colleges in Romania'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Romanian Fees Structure 2022",
@@ -410,6 +416,13 @@ export const mbbsinromania = {
 
     ],
     "syllabus": [
+
+
+        {
+            type: 'title',
+            title: 'MBBS in Romania 2023 - Syllabus'
+        },
+
         {
             type: 'list-bollet',
             title: 'Medical Courses Offered in Romania',
@@ -548,6 +561,12 @@ export const mbbsinromania = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Romania 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Career Scope After Completing MBBS Degree from Romania',
@@ -579,6 +598,12 @@ export const mbbsinromania = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Romania 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Romania: Important FAQs",

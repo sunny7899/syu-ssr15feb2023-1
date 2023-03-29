@@ -330,6 +330,12 @@ export const mbbsinaustria = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - Syllabus'
+        },
+
         {
             "type": "table-title",
             "title": "A Detailed Course Syllabus of MBBS in Austria",
@@ -418,6 +424,12 @@ export const mbbsinaustria = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - Top Colleges in Austria'
+        }, 
+
         {
             "type": "table",
             "title": "MBBS in Austria: Tuition Fees for 2022",
@@ -503,6 +515,12 @@ export const mbbsinaustria = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - Career Options'
+        },
+
         {
 
             "type": "list-bollet",
@@ -547,6 +565,12 @@ export const mbbsinaustria = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Austria: Important FAQs",

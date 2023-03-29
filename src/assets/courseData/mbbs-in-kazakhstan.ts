@@ -139,6 +139,12 @@ export const mbbsinkazakhstan= {
 
     ],
     "syllabus":[
+
+        {
+            type: 'title',
+            title: 'MBBS in Kazakhstan 2023 - Syllabus'
+        },
+
         {
             "type": "text",
             "title": "Total Duration of MBBS in Kazakhstan",
@@ -361,6 +367,12 @@ export const mbbsinkazakhstan= {
             ]}
     ],
         "topcolleges":[
+
+            {
+                type: 'title',
+                title: 'MBBS in Kazakhstan 2023 - Top Colleges in Kazakhstan'
+            },
+
             {
                 "type": "table",
                 "title": "MBBS in Kazakhstan Fee Structure 2023",
@@ -490,6 +502,12 @@ export const mbbsinkazakhstan= {
             ]}
     ],
     "careeroptions":[
+
+        {
+            type: 'title',
+            title: 'MBBS in Kazakhstan 2023 - Career Options'
+        },
+
         {
             "type": 'list-bollet',
             "title": 'Career Opportunities After Completing MBBS from Kazakhstan',
@@ -517,6 +535,13 @@ export const mbbsinkazakhstan= {
             ]}
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Kazakhstan 2023 - FAQs'
+        },
+
+
         {
             "type": "question-list",
             "title": "MBBS in Kazakhstan - Important FAQs",

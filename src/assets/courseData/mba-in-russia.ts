@@ -246,6 +246,11 @@ export const mbainrussia = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Russia 2023 - Top Colleges in Russia'
+        },
         {
             "type": "table",
             "title": "Top MBA Universities/Colleges in Russia (with Fee Structure)",
@@ -305,9 +310,16 @@ export const mbainrussia = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mba-in-russia/top-colleges" }
             ]
         }
+        
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Russia 2023 - Syllabus'
+        },
+
         {
             type: 'list-bollet',
             title: 'MBA Course Duration in Russia',
@@ -351,6 +363,12 @@ export const mbainrussia = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Russia 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'MBA - Career Prospects',
@@ -411,6 +429,11 @@ export const mbainrussia = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in Russia 2023 - FAQs'
+        },
         
         {
             type: "meta",

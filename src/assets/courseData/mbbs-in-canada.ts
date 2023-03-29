@@ -173,6 +173,12 @@ export const mbbsincanada= {
             ]}
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Canada 2023 - Syllabus'
+        },
+
         {
             "type": "table-title",
             "title": "A Detailed Overview of MBBS Syllabus in Canada",
@@ -221,6 +227,12 @@ export const mbbsincanada= {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Canada 2023 - Top Colleges in Canada'
+        },
+
         {
             "type": "table",
             "title": "Fees for Medical Degrees in Canadian Universities",
@@ -319,6 +331,11 @@ export const mbbsincanada= {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'MBBS in Canada 2023 - FAQs'
+        },
+
+        {
             "type": "question-list",
             "title": "MBBS in Canada: Important FAQs",
             "info": "The most frequently asked questions on popular education forum sites like Quora & Careers 360 are answered below:",
@@ -376,6 +393,11 @@ export const mbbsincanada= {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Canada 2023 - Career Options'
+        },
        
         {
             type: "meta",

@@ -178,6 +178,12 @@ export const mbbsineurope = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Europe 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "Courses Offered: Applying for MBBS Europe",
@@ -252,6 +258,12 @@ export const mbbsineurope = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Europe 2023 - Top Colleges in Europe'
+        },
+
         {
             "type": "table",
             "title": "Fees Structure: Applying for MBBS in Europe",
@@ -312,6 +324,12 @@ export const mbbsineurope = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Europe 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Average Salary of an MBBS Doctor in Europe',
@@ -344,6 +362,13 @@ export const mbbsineurope = {
 
     ],
     "faq": [
+
+
+        {
+            type: 'title',
+            title: 'MBBS in Europe 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Europe - Importants FAQs",

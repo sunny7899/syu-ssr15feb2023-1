@@ -293,6 +293,12 @@ export const mbbsinuzbekistan= {
 
     ],
     "topcolleges":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Uzbekistan 2023 - Top Colleges in Uzbekistan'
+    },
+
         {
             "type": "table",
             "title": "MBBS in Uzbekistan Fee Structure 2022",
@@ -445,6 +451,12 @@ export const mbbsinuzbekistan= {
             ]}
     ],
     "syllabus":[
+
+      {
+        type: 'title',
+        title: 'MBBS in Uzbekistan 2023 - Syllabus'
+    },
+
         {
             "type": "list-bollet",
             "title": "Total Duration of MBBS in Uzbekistan",
@@ -605,6 +617,12 @@ export const mbbsinuzbekistan= {
             ]}
     ],
         "careeroptions": [
+
+          {
+            type: 'title',
+            title: 'MBBS in Uzbekistan 2023 - Career Options'
+        },
+
             {
               type: 'list-bollet',
               title: 'What are the Career Opportunities after Completing an MBBS Degree from Uzbekistan?',
@@ -632,6 +650,12 @@ export const mbbsinuzbekistan= {
             ]}
         ],
         "faq": [
+
+          {
+            type: 'title',
+            title: 'MBBS in Uzbekistan 2023 - FAQs'
+        },
+
             {
                 "type": "question-list",
                 "title": "MBBS in Uzbekistan: Important FAQs",
