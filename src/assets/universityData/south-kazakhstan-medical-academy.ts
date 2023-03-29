@@ -717,7 +717,25 @@ export const southkazakhstanmedicalacademy = {
     }
 
   ],
-  "gallery": {},
+  "gallery": [
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "South Kazakh State Medical Academy - Gallery" },
+        { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "South Kazakh State Medical Academy - Gallery"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/gallery" }
+      ]
+    }
+  ],
   "scholarship": [
     {
       "type": "list-bollet",
@@ -751,8 +769,44 @@ export const southkazakhstanmedicalacademy = {
       ]
     }
   ],
-  "faculty": {},
-  "News & Articles": {},
+  "faculty": [
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "South Kazakh State Medical Academy - Faculty" },
+        { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "South Kazakh State Medical Academy - Faculty"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/faculty" }
+      ]
+    }
+  ],
+  "news": [
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "South Kazakh State Medical Academy - News & Articles" },
+        { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "South Kazakh State Medical Academy - News & Articles"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/news-and-articles" }
+      ]
+    }
+  ],
   "hostel": [
     {
       "type": "list-bollet",
