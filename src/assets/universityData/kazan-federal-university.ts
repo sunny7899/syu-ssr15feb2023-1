@@ -19,7 +19,7 @@ export const kazanfederaluniversity = {
         {
             "type": "table-title",
             "title": "Kazan Federal University - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick facts about Kazan Federal University:</b>",
+            "info": "Given below is the table for quick facts about Kazan Federal University:",
             "col": [],
             "row": [
                 ["<b>University Type</b>", "Federal"],
@@ -54,13 +54,13 @@ export const kazanfederaluniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The medium for teaching at Kazan Federal University is:</b>",
+            "info": "The medium for teaching at Kazan Federal University is:",
             "data": "<p>At Kazan Federal University, the medium of teaching is <b>English</b>, and thus language is not a barrier for students from other countries while studying at this university.</p>"
         },
         {
             "type": "table",
             "title": "Kazan Federal University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Kazan Federal University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Kazan Federal University:",
             "col": [
                 "Country",
                 "World"
@@ -75,7 +75,7 @@ export const kazanfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities",
-            "info": "<b>Kazan Federal University provides all the necessary facilities for personal growth and academic growth of students:</b>",
+            "info": "Kazan Federal University provides all the necessary facilities for personal growth and academic growth of students:",
             "data": [
                 "Library",
                 "University Clinic",
@@ -87,7 +87,7 @@ export const kazanfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Kazan Federal University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "Kazan Federal University is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "World Health Organization",
                 "The US Department of Education",
@@ -99,7 +99,7 @@ export const kazanfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "Student’s Life at Kazan Federal University",
-            "info": "<b>The life of students studying MBBS at Kazan Federal University is as follows:</b>",
+            "info": "The life of students studying MBBS at Kazan Federal University is as follows:",
             "data": [
                 "Students of Kazan Federal University have the chance to live on and off campus.",
                 "At Kazan Federal University, Universiade-2013 Village dormitories which have the capacity of up to 12,000 places, students get world class living facilities.",
@@ -114,7 +114,7 @@ export const kazanfederaluniversity = {
         {
             "type": "table",
             "title": "Kazan Federal University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Kazan Federal University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Kazan Federal University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -164,7 +164,7 @@ export const kazanfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Kazan City",
-            "info": "<b>Some of the interesting facts about the Kazan city are as follows:</b>",
+            "info": "Some of the interesting facts about the Kazan city are as follows:",
             "data": [
                 "On the bank of the River Volga, the city of Kazan is situated and it is surrounded by many beautiful cities such as Nizhny Novgorod, Ulyanovsk, and Samara.",
                 "This city is a home to much recent development in the region and it has a rich culture.",
@@ -194,9 +194,14 @@ export const kazanfederaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kazan Federal University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kazan Federal University Fees Structure 2022",
-            "info": "<b>The fee structure for Kazan Federal University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Kazan Federal University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -251,7 +256,7 @@ export const kazanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at Kazan Federal University',
-            "info": '<b>Kazan Federal University has following faculties:</b>',
+            "info": 'Kazan Federal University has following faculties:',
             "data": [
                 "Human Health",
                 "General Pathology",
@@ -266,7 +271,7 @@ export const kazanfederaluniversity = {
         {
             "type": "table",
             "title": "Kazan Federal University - Medicine Courses Specialization",
-            "info": "<b>Have a look at the the specializations offered in medicinal courses at Kazan Federal University:</b>",
+            "info": "Have a look at the the specializations offered in medicinal courses at Kazan Federal University:",
             "col": [
                 "Course Name",
                 "Education Level",
@@ -330,13 +335,13 @@ export const kazanfederaluniversity = {
         {
             "type": "text",
             "title": "Kazan Federal University - MBBS Duration",
-            "info": "<b>Kazan Federal University offers different course durations for different courses:</b>",
+            "info": "Kazan Federal University offers different course durations for different courses:",
             "data": "<p>The course duration for the MBBS course at Kazan Federal University is 6 years. Other courses offered here vary in duration from 4 years to 6 years.</p>"
         },
         {
             "type": "text",
             "title": "Kazan Federal University - MBBS Syllabus",
-            "info": '<p><b>The complete syllabus for studying MBBS course at Kazan Federal University is as follows:</b></p>'
+            "info": 'The complete syllabus for studying MBBS course at Kazan Federal University is as follows:'
         },
 
         {
@@ -454,9 +459,14 @@ export const kazanfederaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kazan Federal University, Russia - Admission 2023"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>The eligibility criteria to study MBBS at Kazan Federal University is as follows:</b>',
+            "info": 'The eligibility criteria to study MBBS at Kazan Federal University is as follows:',
             "data": [
                 "The applicant must have completed his/her <b>12th Standard</b> from a reputed board or organization and must have at <b>least 50% aggregate marks</b> in Physics, Chemistry, and Biology.",
                 "He/she must be of <b>17 years</b> of age on or before the 31st December of the year in which the admission is being taken.",
@@ -468,7 +478,7 @@ export const kazanfederaluniversity = {
         {
             "type": 'step-list',
             "title": 'Admission Process',
-            "info": '<b>Following is the admission procedure for applying to MBBS course at Kazan Federal University:</b><p>A prospective student can apply online as instructed below:-</p>',
+            "info": 'Following is the admission procedure for applying to MBBS course at Kazan Federal University:</b><p>A prospective student can apply online as instructed below:-',
             "data": [
                 "<b>Step 1:</b> Open the application form.",
                 "<b>Step 2:</b> Fill in the application form accurately.",
@@ -481,7 +491,7 @@ export const kazanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Required Documents at the Time of Admission',
-            "info": '<b>Following documents are required for admission to Kazan Federal University:</b>',
+            "info": 'Following documents are required for admission to Kazan Federal University:',
             "data": [
                 "10 passport size Photographs.",
                 "Official Invitation letter from the University.",
@@ -503,7 +513,7 @@ export const kazanfederaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Kazan Federal University:</b>",
+            "info": "Check out the Important dates regarding admission at Kazan Federal University:",
             "col": [
                 "Events",
                 "Dates"
@@ -543,6 +553,11 @@ export const kazanfederaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kazan Federal University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazan Federal University, Russia - Reviews" },
@@ -561,6 +576,11 @@ export const kazanfederaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kazan Federal University, Russia - Placement"
+
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -591,6 +611,11 @@ export const kazanfederaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kazan Federal University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazan Federal University, Russia - Gallery" },
@@ -609,6 +634,11 @@ export const kazanfederaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Kazan Federal University, Russia - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -629,6 +659,11 @@ export const kazanfederaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kazan Federal University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazan Federal University, Russia - Faculty" },
@@ -647,6 +682,11 @@ export const kazanfederaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kazan Federal University, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -667,9 +707,14 @@ export const kazanfederaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kazan Federal University, Russia - Hostel"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel and Accommodation',
-            "info": '<b>Following are the hostel facilities at Kazan Federal University:</b>',
+            "info": 'Following are the hostel facilities at Kazan Federal University:',
             "data": [
                 "Kazan Federal University’s hostel is known as Universiade-2013 Village dormitories which can accommodate 12000 students.",
                 "In Kazan Federal University, students get a choice of single, twin and triple sharing rooms.",
@@ -708,9 +753,14 @@ export const kazanfederaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kazan Federal University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kazan Federal University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What are the Entrance exams we need to appear to get admission to MBBS at Kazan Federal University?",

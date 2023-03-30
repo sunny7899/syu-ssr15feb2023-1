@@ -19,7 +19,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "table-title",
             "title": "Batumi Shota Rustaveli State University: Quick Highlights",
-            "info": "<b>Check out some major facts of Batumi Shota Rustaveli State University if you want to pursue MBBS career:</b>",
+            "info": "Check out some major facts of Batumi Shota Rustaveli State University if you want to pursue MBBS career:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -36,7 +36,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Batumi Shota Rustaveli State University?",
-            "info": "<b>The students across the globe seeking to pursue MBBS career must choose Batumi Shota Rustaveli State University for MBBS education:</b>",
+            "info": "The students across the globe seeking to pursue MBBS career must choose Batumi Shota Rustaveli State University for MBBS education:",
             "data": [
                 "No IELTS or TOEFL required.",
                 "Batumi Shota Rustaveli State University provides a competitive and adaptive environment for worldwide medical aspirants.",
@@ -56,7 +56,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "table",
             "title": "Batumi Shota Rustaveli State University: Ranking 2022",
-            "info": "<b>Refer Uni rank for the country and world ranking of Batumi Shota Rustaveli State University mentioned below:</b>",
+            "info": "Refer Uni rank for the country and world ranking of Batumi Shota Rustaveli State University mentioned below:",
             "col": [
                 "Country",
                 "World"
@@ -77,7 +77,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The university is accredited, acknowledged and recognized by many medical authorities:</b>",
+            "info": "The university is accredited, acknowledged and recognized by many medical authorities:",
             "data": [
                 "Batumi Shota Rustaveli State University is approved by NMC.",
                 "Batumi Shota Rustaveli State University is listed in WHO.",
@@ -90,7 +90,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities at Batumi Shota Rustaveli State University",
-            "info": "<b>Batumi Shota Rustaveli State University provides all basic facilities at the convenience of students:</b>",
+            "info": "Batumi Shota Rustaveli State University provides all basic facilities at the convenience of students:",
             "data": [
                 "The first floor of the building at Batumi Shota Rustaveli State University is allocated with Gymnasium.",
                 "Batumi Shota Rustaveli State University is equipped with the latest educational equipment for study purposes.",
@@ -102,7 +102,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The second floor of Batumi Shota Rustaveli State University comprises -</b>",
+            "info": "The second floor of Batumi Shota Rustaveli State University comprises -",
             "data": [
                 "Church",
                 "Assembly Hall",
@@ -116,7 +116,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "table",
             "title": "Batumi Shota Rustaveli State University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for East Batumi Shota Rustaveli State University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for East Batumi Shota Rustaveli State University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -136,7 +136,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "table",
             "title": "Living Expense of Batumi City",
-            "info": "<b>Batumi city is much affordable place to live for worldwide medical aspirants to pursue MBBS, the table is showing monthly expenses which may vary according to individual needs:</b>",
+            "info": "Batumi city is much affordable place to live for worldwide medical aspirants to pursue MBBS, the table is showing monthly expenses which may vary according to individual needs:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -171,7 +171,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>One must visit the few top sights of Batumi city -</b>",
+            "info": "One must visit the few top sights of Batumi city -",
             "col": [],
             "row": [
                 ["Batumi Botanical Garden", "Gonio Apsaros Fortress"],
@@ -201,9 +201,13 @@ export const batumishotarustavelistateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Batumi Shota Rustaveli State University: Fee Structure 2022",
-            "info": "<b>Fee structure of the Batumi Shota Rustaveli State University is affordable for the worldwide medical aspirant who looks forward to becoming a doctor:</b>",
+            "info": "Fee structure of the Batumi Shota Rustaveli State University is affordable for the worldwide medical aspirant who looks forward to becoming a doctor:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -256,7 +260,7 @@ export const batumishotarustavelistateuniversity = {
         {
             type: 'list-bollet',
             title: "Batumi Shota Rustaveli State University: MBBS Duration",
-            info: "<b>The medical aspirants must undergo 6 years of MBBS course at Batumi Shota Rustaveli State University:</b>",
+            info: "The medical aspirants must undergo 6 years of MBBS course at Batumi Shota Rustaveli State University:",
             data: [
                 "Batumi Shota Rustaveli State University provides 6 years of medicine program of which 5 years is assigned for teaching theoretical and practical part of MBBS course.",
                 "The MBBS education provided to the student in English medium of instruction.",
@@ -268,7 +272,7 @@ export const batumishotarustavelistateuniversity = {
         {
             "type": "table",
             "title": "Batumi Shota Rustaveli State University: MBBS Syllabus",
-            "info": "<b>The students must refer to the study pattern for better understanding the medical course of Batumi Shota Rustaveli State University:</b><br>1st Year",
+            "info": "The students must refer to the study pattern for better understanding the medical course of Batumi Shota Rustaveli State University:</b><br>1st ",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -344,7 +348,7 @@ export const batumishotarustavelistateuniversity = {
         {
             type: 'list-bollet',
             title: "Courses offered at Batumi Shota Rustaveli State University",
-            info: "<b>1 Economics and Business</b>",
+            info: "1 Economics and Business",
             data: [
                 "Faculty of Economics and Business was established in the year of 2014 at Batumi Shota Rustaveli State University.",
                 "University offers industrial exposure to the faculty to expand teaching and research activities."
@@ -353,7 +357,7 @@ export const batumishotarustavelistateuniversity = {
         {
             type: 'list-bollet',
             title: "",
-            info: "<b>2 Humanities</b>",
+            info: "2 Humanities",
             data: [
                 "Faculty of Humanities was founded in 1935 at Batumi Shota Rustaveli State University which is the oldest faculty of the university.",
                 "The faculty involves 9 departments of Philology, pedagogy, western European languages etc.",
@@ -363,7 +367,7 @@ export const batumishotarustavelistateuniversity = {
         {
             type: 'list-bollet',
             title: "",
-            info: "<b>3 Natural Science & Healthcare</b>",
+            info: "3 Natural Science & Healthcare",
             data: [
                 "Faculty of Natural Science and Healthcare was established in the year 2005 which offers the courses in biology, chemistry, geography, bioresources, ecology and medicine."
             ]
@@ -371,7 +375,7 @@ export const batumishotarustavelistateuniversity = {
         {
             type: 'list-bollet',
             title: "",
-            info: "<b>4 Technologies</b>",
+            info: "4 Technologies",
             data: [
                 "Faculty of technologies offer higher education programs at the bachelor, masters, doctoral and professional level in the agricultural and engineering areas."
             ]
@@ -396,9 +400,13 @@ export const batumishotarustavelistateuniversity = {
     ],
     "admission": [
         {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - Admission 2023 "
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria: Applying for Medicine Course',
-            info: '<b>If the students strive to get admission in medicine program at Batumi Shota Rustaveli State University, then the following requirements mentioned below have to be met:</b>',
+            info: 'If the students strive to get admission in medicine program at Batumi Shota Rustaveli State University, then the following requirements mentioned below have to be met:',
             data: [
                 "The applicant's age should be 17 years old as on 31st December of the admission year.",
                 "The applicant must obtain at least 50% marks in the higher secondary examination or equivalent examination from the recognised board.",
@@ -409,38 +417,38 @@ export const batumishotarustavelistateuniversity = {
         {
             type: 'step-list',
             title: 'MBBS Admission Process at (BSRSU)',
-            info: "<b>The students who seek to get MBBS at Batumi Shota Rustaveli State University must follow the mentioned below steps:</b>",
+            info: "The students who seek to get MBBS at Batumi Shota Rustaveli State University must follow the mentioned below steps:",
             data: [
-              "Step 1: The candidates should fill the online application form properly.",
-              "Step 2: The candidate must submit higher secondary certificates & other important documents in the university office.",
-              "Step 3: The university will provide an offer letter from within a short period of time.",
-              "Step 4: The candidates must pay the 1st-year tuition fee.",
-              "Step 5: Apply for the visa procedure to get a valid passport.",
-              "Step 6: After completing the visa processing time, the candidate will get a valid passport."
+                "Step 1: The candidates should fill the online application form properly.",
+                "Step 2: The candidate must submit higher secondary certificates & other important documents in the university office.",
+                "Step 3: The university will provide an offer letter from within a short period of time.",
+                "Step 4: The candidates must pay the 1st-year tuition fee.",
+                "Step 5: Apply for the visa procedure to get a valid passport.",
+                "Step 6: After completing the visa processing time, the candidate will get a valid passport."
             ]
         },
         {
             type: 'step-list',
             title: 'Documents Required: Applying for MBBS Course',
-            info: "<b>The students must bring the important documents required during MBBS admission process at Batumi Shota Rustaveli State University:</b>",
+            info: "The students must bring the important documents required during MBBS admission process at Batumi Shota Rustaveli State University:",
             data: [
-              "Candidate must submit the application form.",
-              "Candidates must have NEET examination results.",
-              "The academic mark sheet and passing certificate (original and copy).",
-              "The candidate must carry a transfer certificate from the previous institution.",
-              "A valid passport is essential.",
-              "The birth certificate must be submitted during admission.",
-              "Candidates must submit caste certificate (SC/ ST/ OBC category candidates)",
-              "Submit your ID proof during admission time.",
-              "Candidates should submit the medical report at the university.",
-              "Carry passport size photographs required for MBBS admission.",
-              "Migration certificate."
+                "Candidate must submit the application form.",
+                "Candidates must have NEET examination results.",
+                "The academic mark sheet and passing certificate (original and copy).",
+                "The candidate must carry a transfer certificate from the previous institution.",
+                "A valid passport is essential.",
+                "The birth certificate must be submitted during admission.",
+                "Candidates must submit caste certificate (SC/ ST/ OBC category candidates)",
+                "Submit your ID proof during admission time.",
+                "Candidates should submit the medical report at the university.",
+                "Carry passport size photographs required for MBBS admission.",
+                "Migration certificate."
             ]
         },
         {
             "type": "table",
             "title": "Important Dates: Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Batumi Shota Rustaveli State University:</b>",
+            "info": "Check out the Important dates regarding admission at Batumi Shota Rustaveli State University:",
             "col": [
                 "Events",
                 "Dates"
@@ -484,6 +492,10 @@ export const batumishotarustavelistateuniversity = {
     ],
     "review": [
         {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Batumi Shota Rustaveli State University  - Reviews" },
@@ -502,6 +514,10 @@ export const batumishotarustavelistateuniversity = {
         }
     ],
     "gallery": [
+        {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -522,6 +538,10 @@ export const batumishotarustavelistateuniversity = {
     ],
     "news": [
         {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Batumi Shota Rustaveli State University  - News & Articles" },
@@ -541,9 +561,13 @@ export const batumishotarustavelistateuniversity = {
     ],
     "scholarship": [
         {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - Scholarship"
+        },
+        {
             type: 'list-bollet',
             title: 'Scholarship offered at University (BSRSU)',
-            info: '<b>Batumi Shota Rustaveli State University provides Scholarship opportunities for the students coming to study MBBS from different countries:</b>',
+            info: 'Batumi Shota Rustaveli State University provides Scholarship opportunities for the students coming to study MBBS from different countries:',
             data: [
                 "First-year students who are registering for the unified national examinations, having indicated first option BSU faculty/program, having gained a high score in 4th elective subject are eligible to apply for scholarships in the amount of GEL 100 per month.",
                 "Students continuously scoring 81 / i.e. B grades are eligible for scholarships beginning the second semester in the amount of GEL 50",
@@ -555,7 +579,7 @@ export const batumishotarustavelistateuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Social Benefit Programs</b>',
+            info: 'Social Benefit Programs',
             data: [
                 "Orphan students are exempt from the MBBS tuition fees",
                 "Socially disadvantaged students with good academic performance are eligible to University tuition co-financing on a competition basis.",
@@ -581,6 +605,10 @@ export const batumishotarustavelistateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - Placement"
+        },
         {
             type: 'list-bollet',
             title: 'Placement',
@@ -612,8 +640,12 @@ export const batumishotarustavelistateuniversity = {
     ],
     "faculty": [
         {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - Faculty"
+        },
+        {
             "type": "table",
-            "title": "",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -662,9 +694,13 @@ export const batumishotarustavelistateuniversity = {
     ],
     "hostel": [
         {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - Hostel"
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel and Accommodation',
-            info: "<b>Batumi Shota Rustaveli State University offers comfortable accommodation facilities on the university campus:</b><br>The hostels have important amenities such as heaters and so on. There are public and private hostels available in Georgia as well. The hostel charges are quite affordable. It is around 3000-35000 USD per year.",
+            info: "Batumi Shota Rustaveli State University offers comfortable accommodation facilities on the university campus:</b><br>The hostels have important amenities such as heaters and so on. There are public and private hostels available in Georgia as well. The hostel charges are quite affordable. It is around 3000-35000 USD per year",
             data: [
                 "Batumi Shota Rustaveli State University offers safe and convenient hostel rooms.",
                 "The hostel charges are quite affordable for worldwide medical aspirants.",
@@ -690,44 +726,44 @@ export const batumishotarustavelistateuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: "<b>All basic requirements are fully-filled at Batumi Shota Rustaveli State University hostel system -</b>",
+            info: "All basic requirements are fully-filled at Batumi Shota Rustaveli State University hostel system -",
             data: [
-              "Electricity",
-              "Water Supply",
-              "Heat",
-              "Gas",
-              "Garbage Disposal Services",
-              "Expanded Cable TV Service",
-              "Ethernet Access",
-              "Laundry"
+                "Electricity",
+                "Water Supply",
+                "Heat",
+                "Gas",
+                "Garbage Disposal Services",
+                "Expanded Cable TV Service",
+                "Ethernet Access",
+                "Laundry"
             ]
         },
         {
             type: 'list-bollet',
             title: '',
-            info: "<b>Well-equipped facilities are available at student comfort zones.</b>",
+            info: "Well-equipped facilities are available at student comfort zones.",
             data: [
-              "Heating",
-              "Cooling",
-              "Tv",
-              "Internet",
-              "Bathroom",
-              "Kitchen",
-              "Security",
-              "Laundry",
-              "Mess"
+                "Heating",
+                "Cooling",
+                "Tv",
+                "Internet",
+                "Bathroom",
+                "Kitchen",
+                "Security",
+                "Laundry",
+                "Mess"
             ]
         },
         {
             type: 'list-bollet',
             title: '',
-            info: "<b>Hostel rooms are accessible with proper-</b>",
+            info: "Hostel rooms are accessible with proper-",
             data: [
-              "Bedding",
-              "Study Table",
-              "Lamp",
-              "Bookshelf",
-              "Fan"
+                "Bedding",
+                "Study Table",
+                "Lamp",
+                "Bookshelf",
+                "Fan"
             ]
         },
         {
@@ -750,9 +786,13 @@ export const batumishotarustavelistateuniversity = {
     ],
     "faq": [
         {
+            type: "title",
+            title: "Batumi Shota Rustaveli State University  - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Batumi Shota Rustaveli State University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Where is the Batumi Shota Rustaveli State University located?",

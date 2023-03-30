@@ -19,7 +19,7 @@ export const centralphilippineuniversity = {
         {
             "type": "table-title",
             "title": "Central Philippine University: Quick Highlights",
-            "info": "<b>Given below is the table for quick facts about Central Philippine University:</b>",
+            "info": "Given below is the table for quick facts about Central Philippine University:",
             "col": [
             ],
             "row": [
@@ -37,7 +37,7 @@ export const centralphilippineuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Central Philippine University?",
-            "info": "<b>After reading some of the benefits of studying at Central Philippine University, Philippines given below you will realize how your decision of studying at this university is correct. Let’s have a look:</b>",
+            "info": "After reading some of the benefits of studying at Central Philippine University, Philippines given below you will realize how your decision of studying at this university is correct. Let’s have a look:",
             "data": [
                 "The university provides medical education at affordable tuition fees.",
                 "There are easy payment schemes available at this university for the payment of fees.",
@@ -55,7 +55,7 @@ export const centralphilippineuniversity = {
         {
             "type": "table",
             "title": "Central Philippine University: MBBS Syllabus",
-            "info": "<b>Syllabus For Pre-Medical.The complete syllabus for studying MBBS at Central Philippine University is as follows:</b>",
+            "info": "Syllabus For Pre-Medical.The complete syllabus for studying MBBS at Central Philippine University is as follows:",
             "colTitle": "Syllabus For Pre-Medical",
             "col": [
                 "First Term",
@@ -202,7 +202,7 @@ export const centralphilippineuniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction at Central Philippine University:</b>",
+            "info": "The medium of instruction at Central Philippine University:",
             "data": [
                 "At Central Philippine University, the medium of teaching is English.",
                 "As the Philippines is English speaking country, it would be easy for all local as well as international students."
@@ -211,7 +211,7 @@ export const centralphilippineuniversity = {
         {
             "type": "table",
             "title": "Central Philippine University: Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Central Philippine University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Central Philippine University:",
             "col": [
                 "Country",
                 "World"
@@ -226,7 +226,7 @@ export const centralphilippineuniversity = {
         {
             "type": "list-bollet",
             "title": "Recognition of Central Philippine University",
-            "info": "<b>Central Philippine University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "Central Philippine University is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -240,7 +240,7 @@ export const centralphilippineuniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Student's",
-            "info": "<b>Apart from providing excellent and quality education, the university takes care of students’ mental and physical fitness and helps them to live a happy and healthy life:</b>",
+            "info": "Apart from providing excellent and quality education, the university takes care of students’ mental and physical fitness and helps them to live a happy and healthy life:",
             "data": [
                 "Students are encouraged to form groups at the Central Philippine University that enhance their desire for study.",
                 "For all student campus organizations, the Student Organization Committee (SOC) acts as the regulatory body.",
@@ -257,7 +257,7 @@ export const centralphilippineuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Iloilo City",
-            "info": "<b>The cost of living at Iloilo city is as follows:</b>",
+            "info": "The cost of living at Iloilo city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -289,7 +289,7 @@ export const centralphilippineuniversity = {
         {
             "type": "list-bollet",
             "title": "About Iloilo City",
-            "info": "<b>Some of the interesting facts about the Iloilo city are as follows:</b>",
+            "info": "Some of the interesting facts about the Iloilo city are as follows:",
             "data": [
                 "Located in the center of the Philippine archipelago, Iloilo is a province of the Philippines.",
                 "The City of Iloilo is the capital city of the province of Iloilo. It is also one of the major urban centers in the Philippines. It is nicknamed “the Heart of the Philippines”.",
@@ -324,9 +324,13 @@ export const centralphilippineuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Central Philippine University, Philippines - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Central Philippine University: MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Central Philippine University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Central Philippine University for MBBS program is given in the table below:",
             "col": [
                 "Year",
                 "Pre-Medicine 18 Months(BS Program)",
@@ -382,7 +386,7 @@ export const centralphilippineuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Central Philippine University",
-            "info": "<b>Central Philippine University is recognized as the institution that guarantees quality education in the field of medicine and healthcare. The university has following different courses to offer:</b>",
+            "info": "Central Philippine University is recognized as the institution that guarantees quality education in the field of medicine and healthcare. The university has following different courses to offer:",
             "data": [
                 "Medicine",
                 "Nursing",
@@ -412,6 +416,10 @@ export const centralphilippineuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Central Philippine University, Philippines - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "<b>Students need to fulfill the below given eligibility criteria to study MBBS at Central Philippine University:</b>",
@@ -425,7 +433,7 @@ export const centralphilippineuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following is the admission process for applying to MBBS course at Central Philippine University, Philippines:</b>",
+            "info": "Following is the admission process for applying to MBBS course at Central Philippine University, Philippines:",
             "data": [
                 "<b>Step 1:</b> Fill in the application form accurately.",
                 "<b>Step 2:</b> Attach the documents given below:<br>- Copy of marksheet of completion of higher secondary education/ tertiary education (Scanned copy) - Results of NEET (Score card) - Scanned copy of your Passport",
@@ -437,7 +445,7 @@ export const centralphilippineuniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are needed from students by the Central Philippine University at the time of admission:</b>",
+            "info": "Following documents are needed from students by the Central Philippine University at the time of admission:",
             "data": [
                 "Copy of Birth Certificate",
                 "Photocopy of Grade 11 and Grade 12 report card (grades must have a numerical equivalent) – Grade 12 card with 1st and/or 2nd class grade",
@@ -455,7 +463,7 @@ export const centralphilippineuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Central Philippine University, Philippines:</b>",
+            "info": "Check out the Important dates regarding admission at Central Philippine University, Philippines:",
             "col": [
                 "Events",
                 "Dates"
@@ -495,6 +503,10 @@ export const centralphilippineuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Central Philippine University, Philippines - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Central Philippine University, Philippines - Reviews" },
@@ -513,6 +525,10 @@ export const centralphilippineuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Central Philippine University, Philippines - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -533,6 +549,10 @@ export const centralphilippineuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Central Philippine University, Philippines - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Central Philippine University, Philippines - Gallery" },
@@ -552,9 +572,13 @@ export const centralphilippineuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Central Philippine University, Philippines - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships Offered by Central Philippine University",
-            "info": "<b>Central Philippine University offers several scholarships to students which are given based on the below mentioned criterias:</b>",
+            "info": "Central Philippine University offers several scholarships to students which are given based on the below mentioned criterias:",
             "data": [
                 "There are University Scholarships and other university funded scholarships.",
                 "The University scholarships are divided into entrance and continuing entrance scholarships.",
@@ -586,6 +610,10 @@ export const centralphilippineuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Central Philippine University, Philippines - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Central Philippine University, Philippines - Faculty" },
@@ -604,6 +632,10 @@ export const centralphilippineuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Central Philippine University, Philippines - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -624,9 +656,13 @@ export const centralphilippineuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Central Philippine University, Philippines - Hostel"
+        },
+        {
             "type": "text",
             "title": "Accommodation & Hostel",
-            "info": "<b>The Central Philippine University provides the best accommodation facilities for the convenience of students and they are:</b>",
+            "info": "The Central Philippine University provides the best accommodation facilities for the convenience of students and they are:",
             "data": [
                 "The university has dormitories available for students on the campus.",
                 "The dormitories are located on the university's main campus that could provide living accommodations to students.",
@@ -672,9 +708,13 @@ export const centralphilippineuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Central Philippine University, Philippines - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Central Philippine University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q.How is the library of the university?",

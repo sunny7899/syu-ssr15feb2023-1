@@ -19,7 +19,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Kharkiv National Medical University - Quick Overview 2022",
-            "info": "<b>Mentioned below in table important highlights of Kharkiv National Medical University: </b>",
+            "info": "Mentioned below in table important highlights of Kharkiv National Medical University: ",
             "col": [],
             "row": [
                 ["<b>Intake & Deadlines for MBBS Course</b>", "Twice in a year:February and September"],
@@ -36,7 +36,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Kharkiv National Medical University?",
-            "info": "<b>Checkout the major reasons to choose Kharkiv National Medical University for pursuing MBBS Career: </b>",
+            "info": "Checkout the major reasons to choose Kharkiv National Medical University for pursuing MBBS Career: ",
             "data": [
                 "Subjects are taught in English/Russian Medium.",
                 "WHO and NMC recognized Medical degree.",
@@ -55,7 +55,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Kharkiv National Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Kharkiv National Medical University is: </b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Kharkiv National Medical University is: ",
             "col": [
                 "Country",
                 "World"
@@ -70,7 +70,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Kharkiv National Medical University is fully recognised and accredited by: </b>",
+            "info": "The Kharkiv National Medical University is fully recognised and accredited by: ",
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -89,7 +89,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Kharkiv National Medical University - FMGE Performance 2020",
-            "info": "<b>The details about FMGE performance for Kharkiv National Medical University of year 2020 with passing percent is as follows: </b>",
+            "info": "The details about FMGE performance for Kharkiv National Medical University of year 2020 with passing percent is as follows: ",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -108,7 +108,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction at Kharkiv National Medical University: </b>",
+            "info": "The medium of instruction at Kharkiv National Medical University: ",
             "data": [
                 "The medium of instruction used for MBBS education at Kharkiv National Medical University is English language."
             ]
@@ -116,7 +116,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Kharkiv",
-            "info": "<b>The living cost of the city is much cheaper which may vary as per individual requirements, here is the monthly cost: </b>",
+            "info": "The living cost of the city is much cheaper which may vary as per individual requirements, here is the monthly cost: ",
             "col": [
                 "Particulars",
                 "Approx in USD",
@@ -187,9 +187,14 @@ export const kharkivnationalmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kharkiv National Medical University - Fee Structure 2022",
-            "info": "<b>The Kharkiv National Medical University is providing quite affordable range of fee price for MBBS course: </b>",
+            "info": "The Kharkiv National Medical University is providing quite affordable range of fee price for MBBS course: ",
             "col": [
                 "Particular",
                 "Year 1",
@@ -242,7 +247,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Kharkiv National Medical University - MBBS Duration",
-            "info": "<b>Mentioned below is the medicine course duration of Kharkiv National Medical University: </b>",
+            "info": "Mentioned below is the medicine course duration of Kharkiv National Medical University: ",
             "data": [
                 "The students coming to pursue MBBS in Kharkiv National Medical University from different parts of the world must complete 6 years of Medicine program.",
                 "During 5 years Medical aspirants will get basic medicine knowledge. Including theoretical as well as practical knowledge from our top class faculty members providing the high standard of education.",
@@ -252,7 +257,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Kharkiv National Medical University - MBBS Syllabus",
-            "info": "<b>The students must go through the syllabus for better understanding of MBBS course: </b>",
+            "info": "The students must go through the syllabus for better understanding of MBBS course: ",
             "col": [
                 "1st-Year Course Semester 1 & Semester 2",
                 "2nd-Year Course Semester 3 & Semester 4"
@@ -299,7 +304,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "3rd-Year Course Semester 5 & Semester 6",
                 "4th-Year Course Semester 7 & Semester 8"
@@ -366,7 +371,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "5th-Year Course Semester 9 & Semester 10",
                 "6th-Year Course Semester 11 & Semester 12"
@@ -449,7 +454,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at KhNMU",
-            "info": "<b>Below are the faculties offered at Kharkiv National Medical University: </b>",
+            "info": "Below are the faculties offered at Kharkiv National Medical University: ",
             "data": [
                 "Medical",
                 "Dentistry",
@@ -478,9 +483,14 @@ export const kharkivnationalmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>To study MBBS at Kharkiv National Medical University, below given is the eligibility criteria:- </b>",
+            "info": "To study MBBS at Kharkiv National Medical University, below given is the eligibility criteria:- ",
             "data": [
                 "The candidate must be 17 years old on or before 31st December of the year in which the admission is being taken.",
                 "The applicants must have cleared NEET exam.",
@@ -491,7 +501,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "step-list",
             "title": "How to Apply for an MBBS Course in Kharkiv National Medical University?",
-            "info": "<b>The admission process for taking admission to Kharkiv National Medical University is mentioned below step by step: </b>",
+            "info": "The admission process for taking admission to Kharkiv National Medical University is mentioned below step by step: ",
             "data": [
                 "Step 1: In order to apply to this University, and send an international application, students should contact the admission department of the University by info@ksmu.kharkov.ua and must send the following documents: secondary school completion certificate, international passport or birth certificate",
                 "Step 2: For further admission confirmation and guidance in registering to the University, the scanned documents are to be sent to the University by email for evaluation of eligibility.",
@@ -505,7 +515,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students should make sure that they have the following documents already cleared before proceeding for the admission process: </b>",
+            "info": "Students should make sure that they have the following documents already cleared before proceeding for the admission process: ",
             "data": [
                 "A Passport (Valid for a minimum of 2 years)",
                 "Academic certificates (SSC, HSC, NEET)",
@@ -523,7 +533,7 @@ export const kharkivnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "KhNMU - Academic Calendar & Deadlines 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue Medical career: </b>",
+            "info": "Here are some Important dates to remember if you want to pursue Medical career: ",
             "col": [
                 "Events",
                 "Dates"
@@ -568,6 +578,11 @@ export const kharkivnationalmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv National Medical University (KhNMU) - Reviews" },
@@ -586,6 +601,11 @@ export const kharkivnationalmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -606,6 +626,11 @@ export const kharkivnationalmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv National Medical University (KhNMU) - Gallery" },
@@ -625,9 +650,14 @@ export const kharkivnationalmedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship at KhNMU",
-            "info": "<b>There is the Scholarships program available in the Kharkiv National Medical University:</b>",
+            "info": "There is the Scholarships program available in the Kharkiv National Medical University:",
             "data": [
                 "Kharkiv National Medical University provides scholarships to the certain category of students.",
                 "Applicable for ST/SC/OBC category students who can't afford the university fee structure. "
@@ -653,6 +683,11 @@ export const kharkivnationalmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv National Medical University (KhNMU) - Faculty" },
@@ -671,6 +706,11 @@ export const kharkivnationalmedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -691,9 +731,14 @@ export const kharkivnationalmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facilities",
-            "info": "<b>The University Provides excellent accomodation facility to International students along with basic amenities:</b>",
+            "info": "The University Provides excellent accomodation facility to International students along with basic amenities:",
             "data": [
                 "Kharkiv National Medical University provides one of the best accommodation facilities to foreign students.",
                 "There are rooms allocated to students on a sharing basis, separate basis, single, double and triple share basis.",
@@ -723,9 +768,14 @@ export const kharkivnationalmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kharkiv National Medical University (KhNMU) - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kharkiv National Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Indian mess available for students living at the KhNMU?",

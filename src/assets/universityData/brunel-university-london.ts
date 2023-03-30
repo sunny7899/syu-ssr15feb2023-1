@@ -201,6 +201,10 @@ export const bruneluniversitylondon = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Brunel University, London - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Brunel University London - Fee Structure & Course Duration",
             "info": "Undergraduate",
@@ -267,8 +271,7 @@ export const bruneluniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "",
-            "textBelowInfo": "Business",
+            "info": "Business",
             "col": [
                 "Programs",
                 "Start Date",
@@ -338,8 +341,7 @@ export const bruneluniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "",
-            "textBelowInfo": "Art's",
+            "info": "Art's",
             "col": [
                 "Programs",
                 "Start Date",
@@ -409,8 +411,7 @@ export const bruneluniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "",
-            "textBelowInfo": "Law",
+            "info": "Law",
             "col": [
                 "Programs",
                 "Start Date",
@@ -532,8 +533,7 @@ export const bruneluniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "",
-            "textBelowInfo": "Business",
+            "info": "Business",
             "col": [
                 "Programs",
                 "Start Date",
@@ -582,8 +582,7 @@ export const bruneluniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "",
-            "textBelowInfo": " Art's",
+            "info": "Art's",
             "col": [
                 "Programs",
                 "Start Date",
@@ -647,8 +646,7 @@ export const bruneluniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "",
-            "textBelowInfo": "Law",
+            "info": "Law",
             "col": [
                 "Programs",
                 "Start Date",
@@ -657,7 +655,6 @@ export const bruneluniversitylondon = {
                 "Fees",
             ],
             "row": [
-
                 {
                     "Programs": "<b>Law (Graduate Entry) LLB</b>",
                     "Start Date": "September",
@@ -717,6 +714,10 @@ export const bruneluniversitylondon = {
         }
     ],
     "admission": [
+        {
+            type: 'title',
+            title: "Brunel University, London - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Admission Process",
@@ -830,6 +831,10 @@ export const bruneluniversitylondon = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Brunel University, London - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Brunel University, London - Reviews" },
@@ -848,6 +853,10 @@ export const bruneluniversitylondon = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Brunel University, London - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -929,6 +938,10 @@ export const bruneluniversitylondon = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Brunel University, London - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Brunel University, London - Gallery" },
@@ -947,6 +960,10 @@ export const bruneluniversitylondon = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Brunel University, London - Scholarship"
+        },
         {
             "type": "text",
             "title": "Scholarships Provided to International Students",
@@ -1049,6 +1066,10 @@ export const bruneluniversitylondon = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Brunel University, London - Faculty"
+        },
+        {
             "type": "table",
             "title": "",
             "info": "",
@@ -1101,6 +1122,10 @@ export const bruneluniversitylondon = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Brunel University, London - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Brunel University, London - News & Articles" },
@@ -1119,6 +1144,10 @@ export const bruneluniversitylondon = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Brunel University, London - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Accommodation",
@@ -1154,6 +1183,10 @@ export const bruneluniversitylondon = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Brunel University, London - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Brunel University London - Important FAQs",

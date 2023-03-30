@@ -15,12 +15,12 @@ export const internationalhigherschoolofmedicine = {
             "type": "text",
             "title": "About International Higher School of Medicine, Kyrgyzstan",
             "img": "",
-            "data": "<p> The <b>International Higher School of Medicine </b> is considered the most prominent university established in 2003 for higher education in Bishkek, Kyrgyzstan. </p><p>The medical school confirms approximately 6332 students of different nationalities like globe-India, Pakistan, South Korea, USA, Great Britain, Russia, Ukraine, Afghanistan, Japan, Nepal, Bangladesh, Turkey and Syria studying at IHSM every year from Central as well as South Asia.</p><p>International Higher School of Medicine management staff and faculty members focus on creating a modern progressive educational organisation that contributes high-quality training during MBBS education. </p><p>The higher education programs are ensured by highly-qualified and experienced personnel, the IHSM has 168 teachers including 81 teachers with academic standards (48%).</p><p>IHSM with a well-organised infrastructure and expert faculty members who are recognized specialists in numerous areas of medicine, professional health organizations and agencies.</p>"
+            "data": "<p>The<b>International Higher School of Medicine </b> is considered the most prominent university established in 2003 for higher education in Bishkek, Kyrgyzstan. </p><p>The medical school confirms approximately 6332 students of different nationalities like globe-India, Pakistan, South Korea, USA, Great Britain, Russia, Ukraine, Afghanistan, Japan, Nepal, Bangladesh, Turkey and Syria studying at IHSM every year from Central as well as South Asia.</p><p>International Higher School of Medicine management staff and faculty members focus on creating a modern progressive educational organisation that contributes high-quality training during MBBS education. </p><p>The higher education programs are ensured by highly-qualified and experienced personnel, the IHSM has 168 teachers including 81 teachers with academic standards (48%).</p><p>IHSM with a well-organised infrastructure and expert faculty members who are recognized specialists in numerous areas of medicine, professional health organizations and agencies.</p>"
         },
         {
             "type": "table",
             "title": "International Higher School of Medicine: Ranking 2022",
-            "info": "<b>Check out the country & world rankings of International Higher School of Medicine:</b>",
+            "info": "Check out the country & world rankings of International Higher School of Medicine:",
             "col": [
                 "Country",
                 "World"
@@ -36,7 +36,7 @@ export const internationalhigherschoolofmedicine = {
         {
             "type": "table-title",
             "title": "International Higher School of Medicine: Important Highlights",
-            "info": "<b>For MBBS admission, one must explore some quick facts of the International Higher School of Medicine:</b>",
+            "info": "For MBBS admission, one must explore some quick facts of the International Higher School of Medicine:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "May"],
@@ -52,7 +52,7 @@ export const internationalhigherschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at International Higher School of Medicine?",
-            "info": "<b>Let's dive into the benefits to pursue a medical career in International Higher School of Medicine:</b>",
+            "info": "Let's dive into the benefits to pursue a medical career in International Higher School of Medicine:",
             "data": [
                 "The International Higher School of Medicine offers a lowest and convenient fee schedule for MBBS in Kyrgyzstan.",
                 "The International Higher School of Medicine has 5 affiliated hospitals.",
@@ -70,7 +70,7 @@ export const internationalhigherschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>IHSM offers an English medium of instructions during lectures:</b>",
+            "info": "IHSM offers an English medium of instructions during lectures:",
             "data": [
                 "The worldwide medical aspirants pursuing MBBS at the International Higher School of Medicine learn medicine programs in 100% English language."
             ]
@@ -93,7 +93,7 @@ export const internationalhigherschoolofmedicine = {
         {
             "type": "table",
             "title": "International Higher School of Medicine: FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for International Higher School of Medicine of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for International Higher School of Medicine of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -114,7 +114,7 @@ export const internationalhigherschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Accreditations and Recognitions",
-            "info": "<b>The International Higher School of Medicine is registered and cooperates with many leading international institutions:</b>",
+            "info": "The International Higher School of Medicine is registered and cooperates with many leading international institutions:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -127,7 +127,7 @@ export const internationalhigherschoolofmedicine = {
         {
             "type": "table",
             "title": "Living Cost in Bishkek, Kyrgyzstan",
-            "info": "<b>The total living expenses of Bishkek, Kyrgyzstan is cost-effective for worldwide medical aspirants, the students need to go through the table mentioned below:</b>",
+            "info": "The total living expenses of Bishkek, Kyrgyzstan is cost-effective for worldwide medical aspirants, the students need to go through the table mentioned below:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -188,9 +188,13 @@ export const internationalhigherschoolofmedicine = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "International Higher School of Medicine: MBBS Fee Structure 2022",
-            "info": "<b>The fee structure is devised in such a manner that the students can afford it while enrolling for MBBS Education:</b>",
+            "info": "The fee structure is devised in such a manner that the students can afford it while enrolling for MBBS Education:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -245,15 +249,10 @@ export const internationalhigherschoolofmedicine = {
             haeding: '<p><strong style="color: red;"><u>Note</u>:</strong>$1 = Rs.71 (for calculation purpose.)</p>'
         },
         {
-            "type": "text",
-            "title": "International Higher School of Medicine: MBBS Syllabus",
-            "info": "",
-            "data": '<p><b>The students must take a view on the following subjects taught in IHSM curriculum:</b></p>'
-        },
-        {
             "type": "table",
-            "title": "",
-            "info": "1st Year",
+            "title": "International Higher School of Medicine: MBBS Syllabus",
+            "info": "The students must take a view on the following subjects taught in IHSM curriculum:",
+            "textBelowInfo": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -334,7 +333,7 @@ export const internationalhigherschoolofmedicine = {
             "type": "table-title",
             "title": "",
             "info": "4th - 5th Year",
-            "colTitle":  "7th-10th Semester",
+            "colTitle": "7th-10th Semester",
             "row": [
                 {
                     "7th-10th Semester": "Clinical Subjects and Clinical Postings Oncology, Internal Medicine, Pediatrics, General Surgery, Neurology, Primary Care medicine, Obstetrics and Gynecology, Internal medicine, Neurology and Psychiatry, Psychology, ENT, Emergency Medicine, and Cardiology",
@@ -344,7 +343,7 @@ export const internationalhigherschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at International Higher School of Medicine",
-            "info": "<strong>Numerous medical faculties available at International Higher School of Medicine for diverse learning:</strong>",
+            "info": "Numerous medical faculties available at International Higher School of Medicine for diverse learning:",
             "data": [
                 "Gynecology",
                 "Obstetrics",
@@ -384,9 +383,13 @@ export const internationalhigherschoolofmedicine = {
 
     "admission": [
         {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>To secure MBBS admission at the International Higher School of Medicine, one must fit into the criteria mentioned below:</b>",
+            "info": "To secure MBBS admission at the International Higher School of Medicine, one must fit into the criteria mentioned below:",
             "data": [
                 "The applicant should be at least 17 years old as on 31st December of the year in which the admission is being taken.",
                 "The candidates should score a minimum of 50 % marks in their 10+2 standard in Physics, Chemistry, Biology and English as a compulsory subject from a recognized board.",
@@ -398,7 +401,7 @@ export const internationalhigherschoolofmedicine = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>To study the MBBS course at the International Higher School of Medicine the students must follow the following admission process:</b>',
+            info: 'To study theS course at the International Higher School of Medicine the students must follow the following admission process:',
             data: [
                 "Step 1: Fill the application form with the required information available on the official website.",
                 "Step 2: International School Of Medicine will issue the admission letter after scanned documents verification.",
@@ -431,7 +434,7 @@ export const internationalhigherschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Important documents need to be submitted during MBBS Education at IHSM:</b>",
+            "info": "Important documents need to be submitted during MBBS Education at IHSM:",
             "data": [
                 "The students must carry their 10th & 12th certificate for MBBS admission.",
                 "A birth certificate is required at the time of MBBS admission.",
@@ -450,7 +453,7 @@ export const internationalhigherschoolofmedicine = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students interested in MBBS course are advised to note the important dates:</b>",
+            "info": "Students interested in MBBS course are advised to note the important dates:",
             "col": [
                 "Events",
                 "Dates"
@@ -499,6 +502,10 @@ export const internationalhigherschoolofmedicine = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "International Higher School of Medicine, Kyrgyzstan - Reviews" },
@@ -517,6 +524,10 @@ export const internationalhigherschoolofmedicine = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -537,6 +548,10 @@ export const internationalhigherschoolofmedicine = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "International Higher School of Medicine, Kyrgyzstan - Gallery" },
@@ -555,6 +570,10 @@ export const internationalhigherschoolofmedicine = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -575,6 +594,10 @@ export const internationalhigherschoolofmedicine = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "International Higher School of Medicine, Kyrgyzstan - News & Articles" },
@@ -594,8 +617,12 @@ export const internationalhigherschoolofmedicine = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - Faculty"
+        },
+        {
             "type": "list-bollet",
-            "title": "faculty",
+            "title": "Faculty",
             "info": " ",
             "data": [
                 "Dr. Gnanachandran Rajathi Ph.D.(Medicine), Lecturer",
@@ -627,9 +654,13 @@ export const internationalhigherschoolofmedicine = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>International Higher School of Medicine advises choosing dormitory options for first years students, Additional information about hostel mentioned below:</b>",
+            "info": "International Higher School of Medicine advises choosing dormitory options for first years students, Additional information about hostel mentioned below:",
             "data": [
                 "International Higher School of Medicine provides the opportunity for students to stay in hostels and rent apartments.",
                 "Senators for Hostel Affairs also reside in these hostels to help students in solving their problems.",
@@ -673,6 +704,10 @@ export const internationalhigherschoolofmedicine = {
     ],
 
     "faq": [
+        {
+            type: 'title',
+            title: "International Higher School of Medicine, Kyrgyzstan - FAQ"
+        },
         {
             "type": "question-list",
             "title": "International Medical School: Important FAQs",

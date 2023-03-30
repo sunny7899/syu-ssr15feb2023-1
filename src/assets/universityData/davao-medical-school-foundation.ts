@@ -21,7 +21,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "table-title",
             "title": "Davao Medical School Foundation - Quick Highlights 2022",
-            "info": "<b>Refer to the table below for quick facts about Davao Medical School Foundation:</b>",
+            "info": "Refer to the table below for quick facts about Davao Medical School Foundation:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Davao Medical School Foundation?",
-            "info": "<b>Following are the benefits of Davao Medical School Foundation:</b>",
+            "info": "Following are the benefits of Davao Medical School Foundation:",
             "data": [
                 "Davao Medical School University ranked at 134th position among top medical universities of the Philippines.",
                 "NMC & WHO recognized medical colleges.",
@@ -56,7 +56,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "table",
             "title": "Davao Medical School Foundation - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Davao Medical School Foundatione of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Davao Medical School Foundatione of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -78,7 +78,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "table",
             "title": "Davao Medical School Foundation - Ranking 2022",
-            "info": "<b>As per ranking web of universities the country and world ranking are given below:</b>",
+            "info": "As per ranking web of universities the country and world ranking are given below:",
             "col": [
                 "Country",
                 "World",
@@ -94,7 +94,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "table",
             "title": "Cost of Living in Mindanao",
-            "info": "<b>The expenses of living in Mindanao are given below: </b>",
+            "info": "The expenses of living in Mindanao are given below: ",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -128,7 +128,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Here are some best places near Davao city:</b>",
+            "info": "Here are some best places near Davao city:",
             "data": [
                 "Manila",
                 "Boracay",
@@ -162,9 +162,13 @@ export const davaomedicalschoolfoundation = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Davao Medical School Foundation - MBBS Fee Structure",
-            "info": "<b>Following table shows the fee structure of studying MBBS at Davao Medical School Foundation, Philippines: </b>",
+            "info": "Following table shows the fee structure of studying MBBS at Davao Medical School Foundation, Philippines: ",
             "col": [
                 "Particulars",
                 "1st Year",
@@ -214,7 +218,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Davao Medical School Foundation",
-            "info": "<b>Following are faculties of medicine of Davao Medical School Foundation:</b>",
+            "info": "Following are faculties of medicine of Davao Medical School Foundation:",
             "data": [
                 "Biology",
                 "Dentistry",
@@ -230,12 +234,12 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "text",
             "title": "Davao Medical School Foundation - MBBS Syllabus",
-            "info": "<b>Syllabus of md program at Davao Medical School Foundation is given below:</b>",
+            "info": "Syllabus of md program at Davao Medical School Foundation is given below:",
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b>Syllabus For Pre-Medical</b>",
+            "info": "Syllabus For Pre-Medical",
             "col": [
                 "First Term",
                 "Second  Term",
@@ -294,7 +298,7 @@ export const davaomedicalschoolfoundation = {
         },
         {
             "type": "table",
-            "title": "<b>MBBS (MD) Syllabus</b>",
+            "title": "MBBS (MD) Syllabus",
             "info": "",
             "col": [
                 "1st semester",
@@ -398,9 +402,13 @@ export const davaomedicalschoolfoundation = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission in Davao Medical School Foundation for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission in Davao Medical School Foundation for MBBS:",
             "data": [
                 "The age of students must be 18 years.",
                 "Should have passing marks in all subjects in 12th grade.",
@@ -415,7 +423,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>follow these steps to take admission in Philippines for MBBS:</b>",
+            "info": "follow these steps to take admission in Philippines for MBBS:",
             "data": [
                 "<b>Step 1:</b>The student should submit the application to the chairman of the committee with the above documents to the secretary.",
                 "<b>Step 2:</b>An orientation program is conducted for the applicants and their parents/guardian.",
@@ -426,7 +434,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students need to have the following documents for the admission process:</b>",
+            "info": "Students need to have the following documents for the admission process:",
             "data": [
                 "Academic documents of 11th and 12th",
                 "Birth certificate",
@@ -459,6 +467,10 @@ export const davaomedicalschoolfoundation = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Davao Medical School Foundation, Philippines - Reviews" },
@@ -477,6 +489,10 @@ export const davaomedicalschoolfoundation = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -497,6 +513,10 @@ export const davaomedicalschoolfoundation = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Davao Medical School Foundation, Philippines - Gallery" },
@@ -516,6 +536,10 @@ export const davaomedicalschoolfoundation = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Davao Medical School Foundation, Philippines - News & Articles" },
@@ -524,7 +548,7 @@ export const davaomedicalschoolfoundation = {
         },
         {
             type: "meta-title",
-            title: "Davao Medical School Foundation, Philippines - Admission 2023 "
+            title: "Davao Medical School Foundation, Philippines - News & Articles"
         },
         {
             type: "meta-links",
@@ -535,6 +559,10 @@ export const davaomedicalschoolfoundation = {
     ],
 
     "scholarship": [
+        {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Scholarship "
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -564,9 +592,13 @@ export const davaomedicalschoolfoundation = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Faculty"
+        },
+        {
             "type": "number-list",
             "title": "Faculty ",
-            "info": "<b>Department of Physiology</b>",
+            "info": "Department of Physiology",
             "data": [
                 "Hontiveros Erwin Rommel Dr Lab Instructor/Lecturer",
                 "Lim Ma. Victoria Dr Lab Instructor/Lecturer",
@@ -575,7 +607,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "number-list",
             "title": " ",
-            "info": "<b>Department of Biochemistry</b>",
+            "info": "Department of Biochemistry",
             "data": [
                 "Amor Mayen Dr Lab Instructor/Lecturer",
                 "Bañes Charlotte Dr Lab Instructor/Lecturer",
@@ -584,7 +616,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "number-list",
             "title": " ",
-            "info": "<b>Gross Anatomy Section</b>",
+            "info": "Gross Anatomy Section",
             "data": [
                 "Ababon Fides Dr Lab Instructor/Lecturer",
                 "Ababon Myles Clement Dr Lab Instructor/Lecturer",
@@ -593,7 +625,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "number-list",
             "title": " ",
-            "info": "<b>Neuro-Anatomy Section</b>",
+            "info": "Neuro-Anatomy Section",
             "data": [
                 "Ababon Fides Dr Lab Instructor/Lecturer",
                 "Ababon Myles Clement Dr Lab Instructor/Lecturer",
@@ -619,9 +651,13 @@ export const davaomedicalschoolfoundation = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Davao Medical School Foundation provides the facilities of accommodation and mess for students:</b>",
+            "info": "Davao Medical School Foundation provides the facilities of accommodation and mess for students:",
             "data": [
                 "Hostels provide homely comfort to all medical aspirants coming from different parts of the world to pursue their dreams.",
                 "Affordable hostel system with fully furnished rooms.",
@@ -667,9 +703,13 @@ export const davaomedicalschoolfoundation = {
 
     "faq": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Davao Medical School Foundation - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q.What is the degree offered at Davao Medical School Foundation?",

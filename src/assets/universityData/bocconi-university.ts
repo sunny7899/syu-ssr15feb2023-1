@@ -20,7 +20,7 @@ export const bocconiuniversity = {
         {
             "type": "table-title",
             "title": "Bocconi University - Quick Highlights",
-            "info": "<b>Things to keep in my before taking admission to Bocconi University:</b>",
+            "info": "Things to keep in my before taking admission to Bocconi University:",
             "row": [
                 ["<b>Intake for Course</b>", "September, January"],
                 ["<b>Last Date for Admission Forms</b>", "Early Session - June<br>Winter Session - January<br>Spring Session - April"],
@@ -36,7 +36,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study at the Bocconi University?',
-            info: '<b>Bocconi University offers the best courses and infrastructure in Europe. Below are some of the cons to study at Bocconi University:</b>',
+            info: 'Bocconi University offers the best courses and infrastructure in Europe. Below are some of the cons to study at Bocconi University:',
             data: [
                 "Bocconi University is recognized internationally for its courses.",
                 "It aims for “knowledge that matters”.",
@@ -56,7 +56,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: 'Summer School',
-            info: "<b>Summer school programs are designed with the students' interests:</b>",
+            info: "Summer school programs are designed with the students' interests:",
             data: [
                 "Bocconi University provides Summer programs for Economics, Business and Law.",
                 "It offers a challenging study program to motivate students.",
@@ -71,7 +71,7 @@ export const bocconiuniversity = {
         {
             "type": "table",
             "title": "Bocconi University - Ranking 2022",
-            "info": "<b>Bocconi University ranks at the top of in the country as well as world ranking:</b>",
+            "info": "Bocconi University ranks at the top of in the country as well as world ranking:",
             "col": [
                 "Country",
                 "World",
@@ -87,13 +87,13 @@ export const bocconiuniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>Bocconi University pays strong attention to its medium of teaching for its students to make the course easier:</b>",
+            "info": "Bocconi University pays strong attention to its medium of teaching for its students to make the course easier:",
             "data": "<p><b>Bocconi University pays strong attention to its medium of teaching for its students to make the course easier:</b></p><p>The medium of teaching at Bocconi University is English for the international students and Italian for the native students.</p>"
         },
         {
             type: 'list-bollet',
             title: 'Accreditation',
-            info: "<b>Bocconi University is internationally recognized by the Ministry of Education. Universities and Research of Italy and among few universities worldwide to hold ‘triple crown’ accreditation. It is accredited by the following:</b>",
+            info: "Bocconi University is internationally recognized by the Ministry of Education. Universities and Research of Italy and among few universities worldwide to hold ‘triple crown’ accreditation. It is accredited by the following:",
             data: [
                 "AACSB",
                 "EQUIS",
@@ -103,7 +103,7 @@ export const bocconiuniversity = {
         {
             "type": "table",
             "title": "Living Expenses in Milan",
-            "info": "<b>The cost of living in Milan is quite affordable and one should have an estimate of the expenditures before taking admission to Bocconi University:</b>",
+            "info": "The cost of living in Milan is quite affordable and one should have an estimate of the expenditures before taking admission to Bocconi University:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -152,10 +152,14 @@ export const bocconiuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Bocconi University, Italy - courses & Fees"
+        },
+        {
             "type": "table",
             "textBelowInfo": "<b>1 BA/BSC Program</b>",
             "title": "Fee Structure and Course Duration (For BA/BSC Program)",
-            "info": "<b>Bocconi University offers multiple courses in Bachelor degree. Kindly refer to the below-mentioned details of the course:</b>",
+            "info": "Bocconi University offers multiple courses in Bachelor degree. Kindly refer to the below-mentioned details of the course:",
             "col": [
                 "Program",
                 "Course Duration",
@@ -218,7 +222,7 @@ export const bocconiuniversity = {
             "type": "table",
             "textBelowInfo": "<b>MA/MSC Program</b>",
             "title": "Fee Structure and Course Duration (For MA/MSC Program)",
-            "info": "<b>Bocconi University offers multiple courses in Masters degree. Kindly refer to the below-mentioned details of the course:</b>",
+            "info": "Bocconi University offers multiple courses in Masters degree. Kindly refer to the below-mentioned details of the course:",
             "col": [
                 "Program",
                 "Course Duration",
@@ -307,7 +311,7 @@ export const bocconiuniversity = {
             "type": "table",
             "textBelowInfo": "<b>3 LAW</b>",
             "title": "Fee Structure and Course Duration (For Law)",
-            "info": "<b>The study of Law at Bocconi University is affordable. Below is the duration and fee structure of pursuing Law:</b>",
+            "info": "The study of Law at Bocconi University is affordable. Below is the duration and fee structure of pursuing Law:",
             "col": [
                 "Program",
                 "Course Duration",
@@ -334,7 +338,7 @@ export const bocconiuniversity = {
             "type": "table",
             "textBelowInfo": "<b>4 MBA</b>",
             "title": "Fee Structure and Course Duration (For MBA)",
-            "info": "<b>The course duration and fee for Masters of Business Administration at Bocconi University are as below:</b>",
+            "info": "The course duration and fee for Masters of Business Administration at Bocconi University are as below:",
             "col": [
                 "Program",
                 "Course Duration",
@@ -355,7 +359,7 @@ export const bocconiuniversity = {
             "type": "table",
             "textBelowInfo": "<b>4 Ph.D</b>",
             "title": "Fee Structure and Course Duration (For Ph.D)",
-            "info": "<b>The university provides different Ph.D. programs with different duration and fee structures. The duration and fee structure are as below:</b>",
+            "info": "The university provides different Ph.D. programs with different duration and fee structures. The duration and fee structure are as below:",
             "col": [
                 "Program",
                 "Course Duration",
@@ -411,7 +415,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: "<b>The assessment criteria are as follows:</b>",
+            info: "The assessment criteria are as follows:",
             data: [
                 "a maximum of 40 points for the applicant’s curriculum vitae and academic records",
                 "a maximum of 20 points for GMAT/GRE",
@@ -424,7 +428,7 @@ export const bocconiuniversity = {
             "type": "table",
             "textBelowInfo": "<b>6 Post Experience Masters</b>",
             "title": "Fee Structure and Course Duration (For Post Experience Masters)",
-            "info": "<b>Bocconi University also provides Post Experience Master courses such as:</b>",
+            "info": "Bocconi University also provides Post Experience Master courses such as:",
             "col": [
                 "Program",
                 "Course Duration",
@@ -480,7 +484,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: 'Courses offered at Bocconi University',
-            info: "<b>Bocconi University offers top-class Bachelor, Masters as well as Doctoral courses for the students:</b>",
+            info: "Bocconi University offers top-class Bachelor, Masters as well as Doctoral courses for the students:",
             data: [
                 "BA/BSC",
                 "MA/MSC",
@@ -512,9 +516,13 @@ export const bocconiuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Bocconi University, Italy - Admission 2023"
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria (For BA/BSC Program)',
-            info: "<b>The candidates need to have the below mention eligibilities to apply for BA/BSC in Bocconi University:</b>",
+            info: "The candidates need to have the below mention eligibilities to apply for BA/BSC in Bocconi University:",
             data: [
                 "The candidate should have completed secondary education.",
                 "Language Proficiency"
@@ -523,7 +531,7 @@ export const bocconiuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process (For BA/BSC Program)',
-            info: "<b>Following are the steps to get admission in BA/BSC at Bocconi University, Italy:</b>",
+            info: "Following are the steps to get admission in BA/BSC at Bocconi University, Italy:",
             data: [
                 "<b>Step 1:</b> The candidate should choose the program of interest to take admission.",
                 "<b>Step 2:</b> Check the selection rounds to apply. There are 3 sessions:<br>1. Early Session (October): first roun <br>2. Winter Session (January): second round <br>3. Spring Session (April): third and last round",
@@ -537,7 +545,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required (For BA/BSC Program)',
-            info: "<b>Documents are very important while applying to Bocconi University. Below is a list of documents one needs to submit at the university:</b>",
+            info: "Documents are very important while applying to Bocconi University. Below is a list of documents one needs to submit at the university:",
             data: [
                 "Application form",
                 "SSC certificate",
@@ -560,7 +568,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria (For MA/MSC Program)',
-            info: "<b>The candidates need to have the below mention eligibilities to apply for MA/MSC in Bocconi University:</b>",
+            info: "The candidates need to have the below mention eligibilities to apply for MA/MSC in Bocconi University:",
             data: [
                 "The candidate should have completed secondary education.",
                 "The candidate should have a relevant Bachelor’s degree.",
@@ -573,7 +581,7 @@ export const bocconiuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process ( For MA/MSC Program)',
-            info: "<b>Following are the steps to get admission in MA/MSC at Bocconi University, Italy:</b>",
+            info: "Following are the steps to get admission in MA/MSC at Bocconi University, Italy:",
             data: [
                 "<b>Step 1:</b> The candidate should choose the program of interest to take admission.",
                 "<b>Step 2:</b> Check the selection rounds to apply. There are 5 sessions for international students:<br>1. September - November 2020<br>2. November - January<br>3. January - March<br>4. March - April 2021<br>5. April – May",
@@ -589,7 +597,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required (For MA/MSC Program)',
-            info: "<b>Documents are very important while applying to Bocconi University. Below is a list of documents one needs to submit at the university:</b>",
+            info: "Documents are very important while applying to Bocconi University. Below is a list of documents one needs to submit at the university:",
             data: [
                 "Application form",
                 "SSC certificate",
@@ -613,7 +621,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria (For Law)',
-            info: "<b>The candidates need to have the below mention eligibilities to apply for MA/MSC in Bocconi University:</b>",
+            info: "The candidates need to have the below mention eligibilities to apply for MA/MSC in Bocconi University:",
             data: [
                 "The candidate should have completed secondary education.",
                 "The candidate should have a Bachelor’s degree in the relevant field.",
@@ -625,7 +633,7 @@ export const bocconiuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process (For Law)',
-            info: "<b>Following are the steps to get admission in Law at Bocconi University, Italy:</b>",
+            info: "Following are the steps to get admission in Law at Bocconi University, Italy:",
             data: [
                 "<b>Step 1:</b> The candidate should choose the program of interest to take admission.",
                 "<b>Step 2:</b> Apply to the Bocconi University website for the application form before the deadline.",
@@ -638,7 +646,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required (For Law)',
-            info: "<b>Documents are very important while applying to Bocconi University. Below is a list of documents one needs to submit at the university:</b>",
+            info: "Documents are very important while applying to Bocconi University. Below is a list of documents one needs to submit at the university:",
             data: [
                 "Application form",
                 "SSC certificate",
@@ -662,7 +670,7 @@ export const bocconiuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process (For MBA)',
-            info: "<b>Following are the steps to get admission in MBA at Bocconi University, Italy:</b>",
+            info: "Following are the steps to get admission in MBA at Bocconi University, Italy:",
             data: [
                 "<b>Step 1:</b> Apply to the Bocconi University website for the application form before the deadline.",
                 "<b>Step 2:</b> Upload the required documents.",
@@ -676,7 +684,7 @@ export const bocconiuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required (For MBA)',
-            info: "<b>Documents are very important while applying to Bocconi University. Below is a list of documents one needs to submit at the university:</b>",
+            info: "Documents are very important while applying to Bocconi University. Below is a list of documents one needs to submit at the university:",
             data: [
                 "Application form",
                 "SSC certificate",
@@ -700,7 +708,7 @@ export const bocconiuniversity = {
         {
             "type": "table",
             "title": "Bocconi University - Important Dates 2022",
-            "info": "<b>To keep a track of the Bocconi University, here is a list of some important dates:</b>",
+            "info": "To keep a track of the Bocconi University, here is a list of some important dates:",
             "col": [
                 "Events",
                 "Dates",
@@ -745,6 +753,10 @@ export const bocconiuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Bocconi University, Italy - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bocconi University, Italy - Reviews" },
@@ -764,9 +776,13 @@ export const bocconiuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Bocconi University, Italy - Placement"
+        },
+        {
             "type": "table",
             "title": "placement",
-            "info": "<b>Below is the details of One year after the graduation from Bocconi University (2018-2019) as follows:</b>",
+            "info": "Below is the details of One year after the graduation from Bocconi University (2018-2019) as follows:",
             "col": [
                 "Particulars",
                 "Statistics",
@@ -786,7 +802,7 @@ export const bocconiuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Below is the details of One year after graduation On graduation day from Bocconi University (2018-2019) as follows:</b>",
+            "info": "Below is the details of One year after graduation On graduation day from Bocconi University (2018-2019) as follows:",
             "col": [
                 "Particulars",
                 "Statistics",
@@ -838,6 +854,10 @@ export const bocconiuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Bocconi University, Italy - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bocconi University, Italy - Gallery" },
@@ -857,9 +877,13 @@ export const bocconiuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Bocconi University, Italy - Scholarship"
+        },
+        {
             type: 'list-bollet',
             title: 'Scholarship',
-            info: "<b>The scholarship that is provided at the Bocconi University is as follows:</b>",
+            info: "The scholarship that is provided at the Bocconi University is as follows:",
             data: [
                 "Education Future International Scholarship - USA & Non-USA 2022",
                 "HEST 2023- Higher Education Scholarship Test For Indian Students",
@@ -888,6 +912,10 @@ export const bocconiuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Bocconi University, Italy - Faculty"
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -946,6 +974,10 @@ export const bocconiuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Bocconi University, Italy - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bocconi University, Italy - News & Articles" },
@@ -965,9 +997,13 @@ export const bocconiuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Bocconi University, Italy - Hostel"
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
-            info: "<b>Bocconi University hostels are in the heart of the city where the students can have a carefree life:</b>",
+            info: "Bocconi University hostels are in the heart of the city where the students can have a carefree life:",
             data: [
                 "Bocconi University has 8 residential halls on different parts of the campus.",
                 "The rooms vary from hostels to hostels.",
@@ -1004,6 +1040,10 @@ export const bocconiuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Bocconi University, Italy - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Bocconi University - Important FAQs",

@@ -1,11 +1,11 @@
-export const zaporizhzhiastateengineeringacademy= {
+export const zaporizhzhiastateengineeringacademy = {
     "Title": "Zaporizhzhia State Engineering Academy, Ukraine",
     "shortTitle": "Zaporizhzhia State Engineering Academy ",
     "location": "  Ukraine ",
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
-    "url":"zaporizhzhia-state-engineering-academy",
+    "url": "zaporizhzhia-state-engineering-academy",
     "info": [
 
         {
@@ -15,14 +15,14 @@ export const zaporizhzhiastateengineeringacademy= {
         {
             type: 'text',
             title: 'About Zaporizhzhia State Engineering Academy, Ukraine',
-           // img: 'https://www.selectyouruniversity.com/images/zaporizhzhia-state-engineering-academy.jpg',
+            // img: 'https://www.selectyouruniversity.com/images/zaporizhzhia-state-engineering-academy.jpg',
             data: '<p><b>Zaporizhzhia State Engineering Academy</b> is an ideal option for the students coming to study across the globe. Zaporizhzhia State Engineering Academy was founded in 1959 and situated in Zaporizhzhya, Ukraine.</p><br><p>Graduated students of the college always meet the staffing needs of various industries. Right now overall 14,000 students are studying at Zaporizhzhia State Engineering Academy.</p><br><p>The institute strives to maintain academic and research traditions, excellent accomodation facilities with essential amenities, provides high-quality education, student teaching-learning environment, developed infrastructure and the latest equipment.</p><br><p>Thousands of students are graduating from Zaporizhzhia State Engineering Academy and working at the best places across the globe with a globally accepted Engineering degree.</p>'
         },
 
         {
             "type": "table",
             "title": "Zaporizhzhia State Engineering Academy: Quick Overview",
-            "info": "<b>The students must refer to the table mentioned below to know the major highlights of Zaporizhzhia State Engineering Academy:</b>",
+            "info": "The students must refer to the table mentioned below to know the major highlights of Zaporizhzhia State Engineering Academy:",
             "col": [
             ],
             "row": [
@@ -35,10 +35,10 @@ export const zaporizhzhiastateengineeringacademy= {
 
             ]
         },
-     {
+        {
             "type": "list-bollet",
             "title": "Why Study at Zaporizhzhia State Engineering Academy?",
-            "info": "<b> The students who want to study at Zaporizhzhia State Engineering Academy must go through some favourable reasons to pick this university:</b>",
+            "info": " The students who want to study at Zaporizhzhia State Engineering Academy must go through some favourable reasons to pick this university:",
             "img": '',
             "data": [
                 "The students often participate in different activities like gathering, ceremonial meetings, business meetings and concerts, festivals, sports.",
@@ -51,15 +51,13 @@ export const zaporizhzhiastateengineeringacademy= {
                 "The students of Zaporizhzhia State Engineering Academy acquire a degree with global acceptance.",
                 "The college offers a high standard of education to the students.",
                 "The candidates don’t need to appear for the university entrance examination to enroll in Zaporizhzhia State Engineering Academy.",
-
-
             ]
         },
 
         {
             "type": "table",
             "title": "Zaporizhzhia State Engineering Academy: Ranking 2022",
-            "info": "<b>According to Uni rank, the country & world ranking of Zaporizhzhia State Engineering Academy is mentioned below:</b>",
+            "info": "According to Uni rank, the country & world ranking of Zaporizhzhia State Engineering Academy is mentioned below:",
             "col": [
                 "World",
                 "Country",
@@ -76,60 +74,66 @@ export const zaporizhzhiastateengineeringacademy= {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>The medium of instruction at Zaporizhzhia State Engineering Academy is the English language:</b>',
+            info: 'The medium of instruction at Zaporizhzhia State Engineering Academy is the English language:',
             data: '<p>Zaporozhye State Engineering Academy always offers English medium of education to all students coming across the globe to pursue quality education.</p> '
         },
         {
             type: 'text',
             title: 'Accreditation and Recognition',
-            info: '<b>Zaporizhzhia State Engineering Academy State Engineering Academy has accreditation and recognition:</b>',
+            info: 'Zaporizhzhia State Engineering Academy State Engineering Academy has accreditation and recognition:',
             data: '<p>The institute is officially recognised by Ministry of Education of Ukraine</p> '
         },
-        
-            {
-                "type": "table",
-                "title": "Living Cost of Zaporizhzhya City",
-                "info": "<b>Zaporizhzhya provides reasonable fee cost, and the table shows the average and approx cost of living for a month but it may vary according to Individual’s living:</b>",
-                "col": [
-                    "Particular",
-                    "Approx range in USD", 
-                    "Approx range in RS", 
-                ],
 
-                "row": [
-                    {
-                        "Particular": "<b>Food</b>",
-                        "Approx range in USD":"113 USD",
-                        "Approx range in RS":"7938 Rs",
-                    },
-                    {
-                        "Particular": "<b>Transport</b>",
-                        "Approx range in USD":"7 USD",
-                        "Approx range in RS":"525 Rs",
-                    },
+        {
+            "type": "table",
+            "title": "Living Cost of Zaporizhzhya City",
+            "info": "Zaporizhzhya provides reasonable fee cost, and the table shows the average and approx cost of living for a month but it may vary according to Individual’s living:",
+            "col": [
+                "Particular",
+                "Approx range in USD",
+                "Approx range in RS",
+            ],
 
-                ],
-                "heading":"<p><b> Note:</b> 1$ = Rs 70</p>"
-            },
-           
-            { 
-                type:"meta",
-                meta: [
-                    { name: "title", content: "Zaporizhzhia State Engineering Academy, Ukraine" },
-                    { name: "description", content: "Zaporizhzhia State Engineering Academy offers Engineering in Ukraine at just approximately $1000 per year. The university offers Engineering of 4 years duration." },
-                ],
-            },
-            {
-                type:"meta-title",
-                title: "Zaporizhzhia State Engineering Academy, Ukraine"},
-            { 
-                type:"meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/zaporizhzhia-state-engineering-academy" }
-            ]}
+            "row": [
+                {
+                    "Particular": "<b>Food</b>",
+                    "Approx range in USD": "113 USD",
+                    "Approx range in RS": "7938 Rs",
+                },
+                {
+                    "Particular": "<b>Transport</b>",
+                    "Approx range in USD": "7 USD",
+                    "Approx range in RS": "525 Rs",
+                },
+
+            ],
+            "heading": "<p><b> Note:</b> 1$ = Rs 70</p>"
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Zaporizhzhia State Engineering Academy, Ukraine" },
+                { name: "description", content: "Zaporizhzhia State Engineering Academy offers Engineering in Ukraine at just approximately $1000 per year. The university offers Engineering of 4 years duration." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Zaporizhzhia State Engineering Academy, Ukraine"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/zaporizhzhia-state-engineering-academy" }
+            ]
+        }
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - courses & Fees'
+        },
         {
             "type": "table",
             "title": "Zaporozhye State Engineering Academy: Engineering Fee Structure 2023",
@@ -148,7 +152,7 @@ export const zaporizhzhiastateengineeringacademy= {
                     "Annual Fee": "70,000 Rs"
                 },
             ],
-            "heading":"<p><b>Note: </b>$1 = Rs. 70 (It may vary at the time of admission)</p>"
+            "heading": "<p><b>Note: </b>$1 = Rs. 70 (It may vary at the time of admission)</p>"
         },
         {
             "type": "list-bollet",
@@ -159,12 +163,12 @@ export const zaporizhzhiastateengineeringacademy= {
                 "During the Engineering program education, the students will acquire theoretical and practical knowledge from highly dedicated and experienced faculty members.",
             ]
         },
-        
+
         {
             "type": "table-title",
             "title": "Faculties Provided at Zaporizhzhia State Engineering Academy",
             "info": "Zaporizhzhia State Engineering Academy has a wide range of faculties to study different specialities:",
-            "textBelowInfo":"<h3>1 Department Metallurgy</h3>",
+            "textBelowInfo": "<h3>1 Department Metallurgy</h3>",
             "colTitle": "",
             "row": [
                 ["Metallurgy", "Metal Forming"],
@@ -183,7 +187,7 @@ export const zaporizhzhiastateengineeringacademy= {
                 ["Economics And Information Technology (Eit)", "Information Package Graduating Department Dig"],
             ]
         },
-       
+
         {
             type: "meta",
             meta: [
@@ -203,6 +207,10 @@ export const zaporizhzhiastateengineeringacademy= {
         }
     ],
     "admission": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - Admission 2023'
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -290,7 +298,11 @@ export const zaporizhzhiastateengineeringacademy= {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - Reviews'
+        },
         {
             type: "meta",
             meta: [
@@ -309,8 +321,11 @@ export const zaporizhzhiastateengineeringacademy= {
             ]
         }
     ],
-    "Placement": [
-        
+    "placement": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -329,7 +344,11 @@ export const zaporizhzhiastateengineeringacademy= {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - Gallery'
+        },
         {
             type: "meta",
             meta: [
@@ -348,9 +367,11 @@ export const zaporizhzhiastateengineeringacademy= {
             ]
         }
     ],
-    "Scholarship": [
-       
-
+    "scholarship": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -369,7 +390,11 @@ export const zaporizhzhiastateengineeringacademy= {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - Faculty'
+        },
         {
             type: "meta",
             meta: [
@@ -388,7 +413,11 @@ export const zaporizhzhiastateengineeringacademy= {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -407,7 +436,11 @@ export const zaporizhzhiastateengineeringacademy= {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - Hostel'
+        },
         {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
@@ -426,8 +459,8 @@ export const zaporizhzhiastateengineeringacademy= {
             "info": "All basic facilities are provided in the dormitories -",
             "colTitle": "",
             "row": [
-                ["Beddings", "Blankets","Cupboard","Kitchen","Fan"],
-                ["Bedsheets", "Pillows","Table","Washing Basin","Bathroom"]
+                ["Beddings", "Blankets", "Cupboard", "Kitchen", "Fan"],
+                ["Bedsheets", "Pillows", "Table", "Washing Basin", "Bathroom"]
             ]
         },
         {
@@ -461,6 +494,10 @@ export const zaporizhzhiastateengineeringacademy= {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Zaporizhzhia State Engineering Academy, Ukraine - FAQ'
+        },
         {
             "type": "question-list",
             "title": "Zaporizhzhia State Engineering Academy: Important FAQs",

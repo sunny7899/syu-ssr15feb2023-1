@@ -419,15 +419,16 @@ export const southkazakhstanmedicalacademy = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy" }
       ]
     }
-
-
-
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "South Kazakhstan State Medical Academy - MBBS Fee Structure",
-      "info": "<b>South Kazakhstan State Medical Academy offers MBBS program education at affordable prices that allows all the students to get a quality education at the most reduced rates:</b>",
+      "info": "South Kazakhstan State Medical Academy offers MBBS program education at affordable prices that allows all the students to get a quality education at the most reduced rates:",
       "col": [
         "Particulars",
         "Year - 1",
@@ -480,7 +481,7 @@ export const southkazakhstanmedicalacademy = {
     {
       "type": "list-bollet",
       "title": "Courses Offered at South Kazakhstan State Medical University",
-      "info": "<b>The students must go through the numerous MBBS faculties provided at South Kazakhstan State Medical Academy:</b>",
+      "info": "4th students must go through the numerous MBBS faculties provided at South Kazakhstan State Medical Academy:",
       "data": [
         "General Medicine",
         "Dentistry",
@@ -492,12 +493,12 @@ export const southkazakhstanmedicalacademy = {
       "type": "text",
       "title": "South Kazakhstan State Medical Academy - MBBS Syllabus",
       "info": "",
-      "data": '<b>South Kazakhstan State Medical Academy has a well-developed curriculum, the applicants must go through the syllabus mentioned below:</b>'
+      "data": '4thth Kazakhstan State Medical Academy has a well-developed curriculum, the applicants must go through the syllabus mentioned below:'
     },
     {
       "type": "table",
       "title": "",
-      "info": "<b>1st Year</b>",
+      "info": "1st Year",
       "col": [
         "1st Semester",
         "2nd Semester"
@@ -514,7 +515,7 @@ export const southkazakhstanmedicalacademy = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>2nd Year</b>",
+      "info": "2nd Year",
       "col": [
         "3rd Semester",
         "4th Semester"
@@ -543,7 +544,7 @@ export const southkazakhstanmedicalacademy = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>3rd Year</b>",
+      "info": "3rd Year",
       "col": [
         "5th Semester",
         "6th Semester"
@@ -572,7 +573,7 @@ export const southkazakhstanmedicalacademy = {
     {
       "type": "table-title",
       "title": "",
-      "info": "<b>3rd Year</b>",
+      "info": "4th Year",
       "colTitle": "7th-12th Semester",
       "row": [
         ["Clinical Subjects and Clinical Postings", "Psychology"],
@@ -587,7 +588,7 @@ export const southkazakhstanmedicalacademy = {
     {
       "type": "list-bollet",
       "title": "South Kazakhstan State Medical Academy - MBBS Duration",
-      "info": "<b>The university provides 6 years of medical education to the medical aspirants across the globe:</b>",
+      "info": "The university provides 6 years of medical education to the medical aspirants across the globe:",
       "data": [
         " The students need to undergo 6 years of medicine program under the guidance of trained and qualified professors.",
         "At the end of the MBBS course, complete 1 year of Internship where the students will get hands-on experience of handling patients in the hospital."
@@ -614,9 +615,13 @@ export const southkazakhstanmedicalacademy = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The medical aspirants must fit into the following eligibility criteria for doing MBBS course:</b>",
+      "info": "The medical aspirants must fit into the following eligibility criteria for doing MBBS course:",
       "data": [
         "The applicant must finish 17 years of age to apply for MBBS course education.",
         "The applicants need to score an aggregate of 50% in higher secondary classes with physics, chemistry, and biology subjects.",
@@ -628,7 +633,7 @@ export const southkazakhstanmedicalacademy = {
     {
       "type": "step-list",
       "title": "Admission Process",
-      "info": "<b>Given below are admission steps, one must follow to take admission in South Kazakhstan State Medical Academy:</b>",
+      "info": "Given below are admission steps, one must follow to take admission in South Kazakhstan State Medical Academy:",
       "data": [
         "<b>Step 1:</b> The applicants must fill online application forms at South Kazakhstan State Medical Academy to take admission in the MBBS program.",
         "<b>Step 2:</b> The students must scan & send the all essential higher secondary education documents along with a passport copy.",
@@ -641,7 +646,7 @@ export const southkazakhstanmedicalacademy = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>Medical aspirants looking to pursue MBBS must carry all essential documents given below at the time of admission:</b>",
+      "info": "Medical aspirants looking to pursue MBBS must carry all essential documents given below at the time of admission:",
       "data": [
         "10th, 11th and 12th mark sheets",
         "Fitness certificate by a registered doctor",
@@ -658,7 +663,7 @@ export const southkazakhstanmedicalacademy = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>Stay updated with the important dates regarding MBBS admissions at South Kazakhstan State Medical Academy:</b>",
+      "info": "Stay updated with the important dates regarding MBBS admissions at South Kazakhstan State Medical Academy:",
       "col": [
         "Events",
         "Dates"
@@ -687,7 +692,7 @@ export const southkazakhstanmedicalacademy = {
     {
       "type": "list-bollet",
       "title": "Visa Procedure",
-      "info": "<b>Students willing to go to South Kazakhstan State Medical Academy of Kazakhstan for study purpose must obtain a study visa. Below are the requirements:</b>",
+      "info": "Students willing to go to South Kazakhstan State Medical Academy of Kazakhstan for study purpose must obtain a study visa. Below are the requirements:",
       "data": [
         " A letter from the university/ college or school be provided in which the enrollment is confirmed.",
         "Copy of passport main page.",
@@ -717,7 +722,57 @@ export const southkazakhstanmedicalacademy = {
     }
 
   ],
+  "review": [
+    {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - Reviews'
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "South Kazakh State Medical Academy - Reviews " },
+        { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "South Kazakh State Medical Academy - Reviews "
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/reviews" }
+      ]
+    }
+  ],
+  "placement": [
+    {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - Placement '
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "South Kazakh State Medical Academy - Placement " },
+        { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "South Kazakh State Medical Academy - Placement "
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/placement" }
+      ]
+    }
+  ],
   "gallery": [
+    {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - Gallery'
+    },
     {
       type: "meta",
       meta: [
@@ -737,6 +792,10 @@ export const southkazakhstanmedicalacademy = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - Scholarship'
+    },
     {
       "type": "list-bollet",
       "title": "Scholarship ",
@@ -771,6 +830,10 @@ export const southkazakhstanmedicalacademy = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - Faculty'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "South Kazakh State Medical Academy - Faculty" },
@@ -789,6 +852,10 @@ export const southkazakhstanmedicalacademy = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - News & Articles'
+    },
     {
       type: "meta",
       meta: [
@@ -809,9 +876,13 @@ export const southkazakhstanmedicalacademy = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation ",
-      "info": "<b>South Kazakhstan State Medical Academy facilitates hostel facilities with the latest amenities on campus:</b>",
+      "info": "South Kazakhstan State Medical Academy facilitates hostel facilities with the latest amenities on campus:",
       "data": [
         "Sport",
         "Accommodation",
@@ -844,6 +915,10 @@ export const southkazakhstanmedicalacademy = {
     }
   ],
   "faq":[
+    {
+      type: 'title',
+      title: 'South Kazakh State Medical Academy - FAQ'
+    },
     {
     "type": "faq-list",
     "title": "South Kazakhstan State Medical Academy - Important FAQs",

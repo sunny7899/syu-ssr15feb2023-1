@@ -19,7 +19,7 @@ export const queensuniversity = {
         {
             "type": "table-title",
             "title": "Queen’s University - Quick Facts",
-            "info": "<b>Applicants should be aware of the following highlights before submitting the application:</b>",
+            "info": "Applicants should be aware of the following highlights before submitting the application:",
             "col": [],
             "row": [
                 ["<b>Established</b>", "1841"],
@@ -39,7 +39,7 @@ export const queensuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose Queen’s University for Higher Studies?",
-            "info": "<b>The following are the key factors why students are interested to go to Queen’s:</b>",
+            "info": "The following are the key factors why students are interested to go to Queen’s:",
             "data": [
                 "Queen's University is extremely close to the Kingston campus and only a 10-minute walk from downtown.",
                 "In Maclean's 2019 University Rankings, Queen's is placed fifth among Canadian medical-doctoral universities.",
@@ -53,7 +53,7 @@ export const queensuniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided in Queen’s University",
-            "info": "<b>Queen’s University students have access to high-tech advantages:</b>",
+            "info": "Queen’s University students have access to high-tech advantages:",
             "data": [
                 "Campus Security",
                 "Client Services",
@@ -69,7 +69,7 @@ export const queensuniversity = {
         {
             "type": "table",
             "title": "Ranking of Queen’s University 2022",
-            "info": "<b>Consider the following worldwide and national rankings of Queen’s University:</b>",
+            "info": "Consider the following worldwide and national rankings of Queen’s University:",
             "col": [
                 "Country",
                 "World"
@@ -84,7 +84,7 @@ export const queensuniversity = {
         {
             "type": "list-bollet",
             "title": "Affiliations & Recognitions",
-            "info": "<b>Queen’s University is affiliated with the following international organisations:</b>",
+            "info": "Queen’s University is affiliated with the following international organisations",
             "data": [
                 "MNU",
                 "ACU",
@@ -100,7 +100,7 @@ export const queensuniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Kingston, Ontario",
-            "info": "<b>The following are the students' estimated monthly costs for calculating purposes:On-Campus:</b>",
+            "info": "The following are the students' estimated monthly costs for calculating purposes:On-Campus",
             "col": [
                 "Particular",
                 "Approx Range in CAD",
@@ -160,7 +160,7 @@ export const queensuniversity = {
                     "Approx Range in RS": "Rs. 27,913",
                 }
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> 1 CAD$ = 58.15 Rs. (for calculation purpose)</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> 1 CAD$ = 58.15 Rs. (for calculation purpose)</p>"
         },
         {
             type: "meta",
@@ -181,6 +181,10 @@ export const queensuniversity = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Queen's University, Canada - courses & Fees"
+        },
         {
             "type": "text",
             "title": "Queen’s University - Program & Course Duration",
@@ -682,9 +686,13 @@ export const queensuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Queen's University, Canada - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students who satisfy the following criteria are eligible to apply for admission:</b><br> <b>Bachelor Degree Programs:</b> ",
+            "info": "Students who satisfy the following criteria are eligible to apply for admission:<br> Bachelor Degree Programs: ",
             "data": [
                 "Minimum overall average should be 75% in high school diploma with ENGL4U, plus two more 4U courses.",
                 "A 2 or 3years college diploma with a minimum 2.9 GPA",
@@ -694,7 +702,7 @@ export const queensuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master’s Programs:</b> ",
+            "info": "Master’s Programs: ",
             "data": [
                 "Students must have a second-class degree in the following degrees from a recognized university or its equivalent.",
                 "Bachelor’s degree in Arts or Science",
@@ -705,7 +713,7 @@ export const queensuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>English Language Requirements:</b> ",
+            "info": "English Language Requirements: ",
             "data": [
                 "TOEFL - Minimum score of 69(iBT)",
                 "IELTS – overall score should be 6.0 "
@@ -714,7 +722,7 @@ export const queensuniversity = {
         {
             type: 'step-list',
             title: 'How to take Admission at Queen’s University?',
-            info: '<b>If you are applying for the admission to Queen’s University, keep the following points into consideration:</b>',
+            info: 'If you are applying for the admission to Queen’s University, keep the following points into consideration:',
             data: [
                 "Step 1: <b>Apply Online</b> Students can check the application form at OUAC center if you are transferring from university or college. Ensure that you meet the eligibility requirements before applying and submit official transcripts along with additional requirements.",
                 "Step 2: <b>Add @queensu.ca as a safe sender</b> You must be able to receive email from Queen's university with this I’d for communication.",
@@ -726,7 +734,7 @@ export const queensuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents need to present at the time of admission:</b>",
+            "info": "Following documents need to present at the time of admission:",
             "data": [
                 "Academic Transcripts",
                 "Application form",
@@ -753,7 +761,7 @@ export const queensuniversity = {
         {
             "type": "table",
             "title": "Queen’s University - Admission Dates & Deadlines 2022",
-            "info": "<b>Students can view the relevant entrance deadlines in the table below:</b>",
+            "info": "Students can view the relevant entrance deadlines in the table below:",
             "col": [
                 "Events",
                 "Dates",
@@ -797,6 +805,10 @@ export const queensuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Queen's University, Canada - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Queen's University, Canada - Reviews" },
@@ -815,6 +827,10 @@ export const queensuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Queen's University, Canada - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -874,7 +890,7 @@ export const queensuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Top Recruiters</b> ",
+            "info": "Top Recruiters",
             "data": [
                 "Liberty",
                 "Bank of America",
@@ -907,6 +923,10 @@ export const queensuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Queen's University, Canada - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Queen's University, Canada - Gallery" },
@@ -926,9 +946,13 @@ export const queensuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Queen's University, Canada - Scholarship"
+        },
+        {
             "type": "table",
             "title": "International Scholarships",
-            "info": "<b>International students at Queen’s University are given financial aid in the form of scholarships:</b>",
+            "info": "International students at Queen’s University are given financial aid in the form of scholarships:",
             "col": [
                 "Scholarships",
                 "Value",
@@ -1012,6 +1036,10 @@ export const queensuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Queen's University, Canada - Faculty"
+        },
+        {
             "type": "table",
             "title": "faculty",
             "info": "",
@@ -1062,6 +1090,10 @@ export const queensuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Queen's University, Canada - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Queen's University, Canada - News & Articles" },
@@ -1081,9 +1113,13 @@ export const queensuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Queen's University, Canada - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel Facility",
-            "info": "<b>Queen's offers candidates convenient and inexpensive housing alternatives, both on and off-campus.</b>",
+            "info": "Queen's offers candidates convenient and inexpensive housing alternatives, both on and off-campus.",
             "data": [
                 "The campus has 17 residences with nearly 4,500 students, which are affordable and within a 20-minute walk from campus.",
                 "First-year students usually choose to live on campus since it is affordable, safe, and readily available.",
@@ -1113,12 +1149,15 @@ export const queensuniversity = {
             ]
         }
     ],
-    "faq":
-    [
+    "faq": [
+        {
+            type: 'title',
+            title: "Queen's University, Canada - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Queen’s University - Important FAQ",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What if I don't have the required level of English?",

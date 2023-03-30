@@ -19,7 +19,7 @@ export const dalhousieuniversity = {
         {
             "type": "table-title",
             "title": "Dalhousie University - Quick Overview",
-            "info": "<b>Before applying for admission, applicants should be familiar with the following highlights:</b>",
+            "info": "Before applying for admission, applicants should be familiar with the following highlights:",
             "col": [],
             "row": [
                 ["<b>Established</b>", "1818"],
@@ -40,7 +40,7 @@ export const dalhousieuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Choose Dalhousie University?',
-            info: '<b>These are the topmost reasons why students are captivated to study at Dalhousie University:</b>',
+            info: 'These are the topmost reasons why students are captivated to study at Dalhousie University:',
             data: [
                 "Dalhousie is a well-known hilltop station in Himachal Pradesh, so one can enjoy its pleasant climate and natural beauty.",
                 "It is one of the top research-intensive institutions with U15 recognition in Canada.",
@@ -56,7 +56,7 @@ export const dalhousieuniversity = {
         {
             "type": "table",
             "title": "Ranking of Dalhousie University 2022",
-            "info": "<b>Take a peek at Dalhousie College's global and national rankings:</b>",
+            "info": "Take a peek at Dalhousie College's global and national rankings:",
             "col": [
 
                 "World",
@@ -73,7 +73,7 @@ export const dalhousieuniversity = {
         {
             "type": "list-bollet",
             "title": "Affiliations & Recognitions",
-            "info": "<b>Dalhousie University has worldwide affiliations with the following organization</b>",
+            "info": "Dalhousie University has worldwide affiliations with the following organization",
             "data": [
                 "Canadian Bureau for International Education (CBIE)",
                 "Colleges and Institutes Canada (AUCC)",
@@ -86,7 +86,7 @@ export const dalhousieuniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities provided in Dalhousie University",
-            "info": "<b>Students at Dalhousie University have access to high-tech amenities such as:</b>",
+            "info": "Students at Dalhousie University have access to high-tech amenities such as:",
             "data": [
                 "Library",
                 "Book store",
@@ -105,7 +105,7 @@ export const dalhousieuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Dalhousie",
-            "info": "<b>Students can check their monthly expenses plan according to the following information provided:</b>",
+            "info": "Students can check their monthly expenses plan according to the following information provided:",
             "col": [
                 "Particulars",
                 "Approx Range(CAD)",
@@ -156,6 +156,10 @@ export const dalhousieuniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Dalhousie University, Canada - courses & Fees"
+        },
         {
             "type": "table",
             "title": "Dalhousie University - Program & Course Duration",
@@ -956,7 +960,7 @@ export const dalhousieuniversity = {
         {
             "type": "table-title",
             "title": "Faculties provided at Dalhousie University",
-            "info": "<b>A fantastic array of lecturers from several academic disciplines will be available on campus:</b>",
+            "info": "A fantastic array of lecturers from several academic disciplines will be available on campus:",
             "col": [
             ],
             "row": [
@@ -989,9 +993,13 @@ export const dalhousieuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Dalhousie University, Canada - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students who meet the following requirements are eligible to participate in the admissions process:</b>",
+            "info": "Students who meet the following requirements are eligible to participate in the admissions process:",
             "textBelowInfo": "<b>Bachelor Degree Programs:</b>",
             "data": [
                 "Secondary school graduation (Grade 12)",
@@ -1003,7 +1011,7 @@ export const dalhousieuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Faculty of Agriculture:</b>",
+            "info": "Faculty of Agriculture:",
             "data": [
                 "Minimum average grade points of 75%",
                 "Academic English 12",
@@ -1016,7 +1024,7 @@ export const dalhousieuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Postgraduate degree:</b>",
+            "info": "Postgraduate degree:",
             "data": [
                 "Required 4 years of bachelor’s degree in relevant disciplines",
                 "Should acquire a minimum 3.0 GPA in the final year.",
@@ -1025,7 +1033,7 @@ export const dalhousieuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>English Language Requirements:</b>",
+            "info": "English Language Requirements:",
             "data": [
                 "TOEFL - minimum score of 90(iBT) and no less than 20 in each band.",
                 "IELTS – overall score should be 6.5 and no less than 6.0 in each band.",
@@ -1038,7 +1046,7 @@ export const dalhousieuniversity = {
         {
             "type": "step-list",
             "title": "How to take Admission at Dalhousie University?",
-            "info": "<b>Keep the following information in mind if you are applying to the admission at Dalhousie University:</b>",
+            "info": "Keep the following information in mind if you are applying to the admission at Dalhousie University:",
             "data": [
                 "<b>Step 1:</b> University provides a variety of programs to help you create an educational experience that is unique to you. Here students may apply to a maximum of three programs so that if you are not admitted to your first choice, you will be evaluated for your second and third choices.",
                 "<b>Step 2:</b> Examine the general entrance criteria and additional requirements for your chosen program. It is very important to meet the English Language Requirements for admission.",
@@ -1053,7 +1061,7 @@ export const dalhousieuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required at the Time of Admission",
-            "info": "<b>Students must present the following documents at the time of registration:</b>",
+            "info": "Students must present the following documents at the time of registration:",
             "data": [
                 "Academic Transcripts (High school/college/diploma)",
                 "Application form",
@@ -1081,7 +1089,7 @@ export const dalhousieuniversity = {
         {
             "type": "table",
             "title": "Dalhousie University - Intake Dates & Deadlines",
-            "info": "<b>The following table lists the important entry deadlines for students:</b>",
+            "info": "The following table lists the important entry deadlines for students:",
             "col": [
                 "Events",
                 "Dates"
@@ -1130,6 +1138,10 @@ export const dalhousieuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Dalhousie University, Canada - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Dalhousie University, Canada - Reviews" },
@@ -1149,9 +1161,13 @@ export const dalhousieuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Dalhousie University, Canada - Placement"
+        },
+        {
             "type": "table",
             "title": "Placement",
-            "info": "<b>Below is the placement report of Dalhousie University:</b>",
+            "info": "Below is the placement report of Dalhousie University:",
             "col": [
                 "Particulars",
                 "Statistics"
@@ -1181,7 +1197,7 @@ export const dalhousieuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Below is the placement report of Dalhousie University for MBA:</b>",
+            "info": "Below is the placement report of Dalhousie University for MBA:",
             "col": [
                 "Particulars",
                 "Statistics"
@@ -1228,6 +1244,10 @@ export const dalhousieuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Dalhousie University, Canada - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Dalhousie University, Canada - Gallery" },
@@ -1247,10 +1267,14 @@ export const dalhousieuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Dalhousie University, Canada - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "International Scholarships",
-            "info": "<b>Dalhousie University gives millions of dollars in scholarships and bursaries to new students each year.</b>",
-            "textBelowInfo": "<b>Entrance scholarships:</b>",
+            "info": "Dalhousie University gives millions of dollars in scholarships and bursaries to new students each year.",
+            "textBelowInfo": "Entrance scholarships:",
             "data": [
                 "These scholarships are available for future undergraduate students who completed their high school",
                 "Students must have an entrance average of 80% or 26 predicted/anticipated IB Diploma points.",
@@ -1261,7 +1285,7 @@ export const dalhousieuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Renewable Scholarships:</b>",
+            "info": "Renewable Scholarships:",
             "data": [
                 "Students will be directly eligible for this scholarship if they meet the requirements.",
                 "A certain amount of credit hours must be completed over two academic terms, as well as a minimum SGPA (scholarship GPA) must be obtained.",
@@ -1271,7 +1295,7 @@ export const dalhousieuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>In-Course Scholarships:</b>",
+            "info": "In-Course Scholarships:",
             "data": [
                 "Students are eligible for the scholarship only if they hold a renewable scholarship.",
                 "Value is $500- $2000",
@@ -1283,7 +1307,7 @@ export const dalhousieuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Other Award Opportunities:</b>",
+            "info": "Other Award Opportunities:",
             "data": [
                 "Aramark Leadership Award",
                 "W. Andrew MacKay Alumni Scholarship",
@@ -1309,6 +1333,10 @@ export const dalhousieuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Dalhousie University, Canada - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -1359,6 +1387,10 @@ export const dalhousieuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Dalhousie University, Canada - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Dalhousie University, Canada - News & Articles" },
@@ -1378,9 +1410,13 @@ export const dalhousieuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Dalhousie University, Canada - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>When it comes to housing, students at Dalhousie Campus have a variety of choices:</b>",
+            "info": "When it comes to housing, students at Dalhousie Campus have a variety of choices:",
             "data": [
                 "Dalhousie residences are classified into traditional and non-traditional homes, to explore every advantage of residence life.",
                 "There are six resident halls at Traditional residences and two apartments at non-traditional residences.",
@@ -1392,7 +1428,7 @@ export const dalhousieuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Resources you will find in Residences:</b>",
+            "info": "Resources you will find in Residences:",
             "row": [
 
                 ["Single rooms", "Living rooms"],
@@ -1425,6 +1461,10 @@ export const dalhousieuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Dalhousie University, Canada - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Dalhousie University - Important FAQ",

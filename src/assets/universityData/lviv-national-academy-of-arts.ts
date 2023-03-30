@@ -22,7 +22,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "table-title",
             "title": "Lviv National Academy of Arts - Quick Highlights",
-            "info": "<b>Students eager to take admission at Lviv National Academy of Arts can get the general information here:</b>",
+            "info": "Students eager to take admission at Lviv National Academy of Arts can get the general information here:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "list-bollet",
             "title": "Why Choose Lviv National Academy of Arts for Higher Education?",
-            "info": "<b>Every student dreams of studying in the best college or university, and here are some of the reasons why Lviv National Academy of Arts is one of the best:</b>",
+            "info": "Every student dreams of studying in the best college or university, and here are some of the reasons why Lviv National Academy of Arts is one of the best:",
             "img": '',
             "data": [
                 "The Academy provides a degree in the field of Arts, Applied Arts, Design and Culture.",
@@ -60,7 +60,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "table",
             "title": "Lviv National Academy of Arts - Ranking 2022",
-            "info": "<b>According to Uni rank, check out the country & world ranking of the Kharkiv National University of Arts:</b>",
+            "info": "According to Uni rank, check out the country & world ranking of the Kharkiv National University of Arts:",
             "col": [
                 "World",
                 "Country",
@@ -78,7 +78,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The courses at Lviv National Academy of Arts are taught in different languages:</b>",
+            "info": "The courses at Lviv National Academy of Arts are taught in different languages:",
             "img": '',
             "data": [
                 "The Bachelors' and Masters' Degree courses at Lviv National Academy of Arts are taught in English and Ukrainian language.",
@@ -87,7 +87,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Lviv National Academy of Arts is situated in Lviv, and the average cost of living is 210$- 419$:</b>",
+            "info": "Lviv National Academy of Arts is situated in Lviv, and the average cost of living is 210$- 419$:",
             "col": [
                 "Particular",
                 "Expenses (In USD)",
@@ -150,9 +150,14 @@ export const lvivnationalacademyofarts = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Lviv National Academy of Arts - Fee Structure",
-            "info": "<b>Lviv National Academy of Arts counted among the best institutions in Ukraine to study Culture and Arts:</b>",
+            "info": "Lviv National Academy of Arts counted among the best institutions in Ukraine to study Culture and Arts:",
             "col": [
                 "Program",
                 "Approx Annual Tuition Fee (In USD)",
@@ -178,7 +183,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "table",
             "title": "Specialties",
-            "info": "<b>Lviv National Academy of Arts offers Bachelors' and Masters' Degree courses in 17 specialties, and the details are mentioned below:</b>",
+            "info": "Lviv National Academy of Arts offers Bachelors' and Masters' Degree courses in 17 specialties, and the details are mentioned below:",
             "col": [
                 "Faculty",
                 "Courses",
@@ -209,7 +214,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "list-bollet",
             "title": "Lviv National Academy of Arts - Course Duration",
-            "info": "<b>Lviv National Academy of Arts offers full-time courses in various fields of arts and culture:</b>",
+            "info": "Lviv National Academy of Arts offers full-time courses in various fields of arts and culture:",
             "data": [
                 "The course duration of the Bachelors' Degree course is 4 Years, and Masters' Degree course is 18 Months. At the same time, the course duration of the Ph.D. program is four years."
             ]
@@ -234,9 +239,14 @@ export const lvivnationalacademyofarts = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Given below are the details of international students' Eligibility criteria to take admission at Lviv National Academy of Arts:</b>",
+            "info": "Given below are the details of international students' Eligibility criteria to take admission at Lviv National Academy of Arts:",
             "data": [
                 "Students must have documents of higher secondary education to take admission in a bachelor's degree course.",
                 "To take admission to a Master's Degree course, students must have completed a bachelor.",
@@ -248,7 +258,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "table",
             "title": "Entrance Exam",
-            "info": "<b>To secure admission in any of the degree programs offered by the Lviv National Academy of Arts, students have to clear the entrance exam:</b>",
+            "info": "To secure admission in any of the degree programs offered by the Lviv National Academy of Arts, students have to clear the entrance exam:",
             "textBelowInfo": "For Bachelors’ and Masters’ Degree Courses",
             "col": [
                 "Faculty",
@@ -302,7 +312,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "list-bollet",
             "title": "Faculties offered at Lviv National Academy of Arts",
-            "info": "<b>Lviv National Academy of Arts has four faculty and several departments of higher education:</b>",
+            "info": "Lviv National Academy of Arts has four faculty and several departments of higher education:",
             "data": [
 
                 "Design",
@@ -314,7 +324,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Follow this admission procedure to secure admission to Lviv National Academy of Arts:</b>",
+            "info": "Follow this admission procedure to secure admission to Lviv National Academy of Arts:",
             "data": [
                 "<b>Step 1:</b> The admission takes place twice a year. Therefore students can take admission according to their convenience.",
                 "<b>Step 2:</b> Firstly, fill the application form for the Lviv National Academy of Arts.",
@@ -329,7 +339,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>After getting the admission confirmation from the university, the students have to submit the following documents:</b>",
+            "info": "After getting the admission confirmation from the university, the students have to submit the following documents:",
             "data": [
                 "Application Form",
                 "Scanned copy of the first page of the passport",
@@ -363,6 +373,11 @@ export const lvivnationalacademyofarts = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lviv National Academy of Arts, Ukraine - Reviews" },
@@ -381,6 +396,11 @@ export const lvivnationalacademyofarts = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -401,6 +421,11 @@ export const lvivnationalacademyofarts = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lviv National Academy of Arts, Ukraine - Gallery" },
@@ -419,6 +444,11 @@ export const lvivnationalacademyofarts = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -439,6 +469,11 @@ export const lvivnationalacademyofarts = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lviv National Academy of Arts, Ukraine - Faculty" },
@@ -457,6 +492,11 @@ export const lvivnationalacademyofarts = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -477,9 +517,14 @@ export const lvivnationalacademyofarts = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Lviv National Academy of Arts provides accommodation to international students on the academy campus:</b>",
+            "info": "Lviv National Academy of Arts provides accommodation to international students on the academy campus:",
             "data": [
                 "Lviv National Academy of Arts consists of a hostel with nine floors and has two wings.",
                 "The Accommodation charges are 18 USD (Approx) per month.",
@@ -489,7 +534,7 @@ export const lvivnationalacademyofarts = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel has the following facilities:</b>",
+            "info": "The hostel has the following facilities:",
             "data": [
                 "Mess",
                 "Lecture Hall",
@@ -520,9 +565,14 @@ export const lvivnationalacademyofarts = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Lviv National Academy of Arts, Ukraine - FAQ"
+
+        },
+        {
             type: 'question-list',
             title: 'Lviv National Academy of Arts - Important FAQs',
-            info: "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            info: "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             data: [
                 {
                     "ques": "Q. Do Lviv National Academy of Arts provide the raw material and paints during workshops?",

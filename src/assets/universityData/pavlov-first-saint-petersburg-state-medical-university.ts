@@ -20,7 +20,7 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Pavlov First Saint Petersburg State Medical University - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick facts about Pavlov First Saint Petersburg State Medical University:</b>",
+            "info": "Given below is the table for quick facts about Pavlov First Saint Petersburg State Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Processing Time for MBBS Admission</b>", "45 to 60 days"],
@@ -37,7 +37,7 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Pavlov First Saint Petersburg State Medical University?',
-            info: '<b>Below are some of the reasons why students should study at Pavlov First Saint Petersburg State Medical University:</b>',
+            info: 'Below are some of the reasons why students should study at Pavlov First Saint Petersburg State Medical University:',
             data: [
                 "The university has 11 medical faculties.",
                 "This is one of the top medical universities in Russia.",
@@ -71,7 +71,7 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: "<b>Pavlov First Saint Petersburg State Medical University in Russia is accredited by many medical bodies such as:</b>",
+            info: "Pavlov First Saint Petersburg State Medical University in Russia is accredited by many medical bodies such as:",
             data: [
                 "Ministry of Public Health of the Russian Federation",
                 "FAIMER",
@@ -84,7 +84,7 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Pavlov First Saint Petersburg State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking forPavlov First Saint Petersburg State Medical University:s</b>",
+            "info": "According to 4icu.org, following is the country and world ranking forPavlov First Saint Petersburg State Medical University:s",
             "col": [
                 "Country",
                 "World",
@@ -101,7 +101,7 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at St. Petersburg City",
-            "info": "<b>The cost of living at St. Petersburg city is as follows:</b>",
+            "info": "The cost of living at St. Petersburg city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -160,11 +160,16 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - courses & Fees"
+
+        },
 
         {
             "type": "table",
             "title": "Tula State University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Tula State University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Tula State University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -232,7 +237,7 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         {
             type: 'text',
             title: 'Pavlov First Saint Petersburg State Medical University - MBBS Duration',
-            info: "<b>The duration of MBBS course at Pavlov First Saint Petersburg State Medical University is mentioned below:</b>",
+            info: "The duration of MBBS course at Pavlov First Saint Petersburg State Medical University is mentioned below:",
             data: "<p>The duration of MBBS course at Pavlov First Saint Petersburg State Medical University is <b>6 years</b>, out of which 1 year is internship. The medium of instruction is English for studying MBBS at this university.</p>"
         },
         {
@@ -378,9 +383,14 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - Admission 2023"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: "<b>The eligibility criteria to study MBBS at Pavlov First Saint Petersburg State Medical University is as follows:</b>",
+            info: "The eligibility criteria to study MBBS at Pavlov First Saint Petersburg State Medical University is as follows:",
             data: [
                 "Students must have cleared NEET exam.",
                 "The student must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -391,7 +401,7 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: "<b>Following is the admission process for applying to MBBS course at Pavlov First Saint Petersburg State Medical University:</b>",
+            info: "Following is the admission process for applying to MBBS course at Pavlov First Saint Petersburg State Medical University:",
             data: [
                 "<b>Step 1:</b> Applicants should fill the application form available online. They can send the documents via email.",
                 "<b>Step 2:</b> Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -404,7 +414,7 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Required Documents',
-            info: "<b>Following documents are required at the time of admission to Pavlov First Saint Petersburg State Medical University:</b>",
+            info: "Following documents are required at the time of admission to Pavlov First Saint Petersburg State Medical University:",
             data: [
                 "Duly filled-in admission form",
                 "Scanned copy of mark sheet of class 12th and 10th",
@@ -437,6 +447,11 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pavlov First Saint Petersburg State Medical University, Russia - Reviews" },
@@ -455,6 +470,11 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - Placement"
+
+        },
         {
             type: 'list-bollet',
             title: 'Placement',
@@ -485,6 +505,11 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pavlov First Saint Petersburg State Medical University, Russia - Gallery" },
@@ -504,9 +529,14 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - Scholarship"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Scholarship',
-            info: "<b>The scholarships provided at Pavlov First Saint Petersburg State Medical University are as follows:</b>",
+            info: "The scholarships provided at Pavlov First Saint Petersburg State Medical University are as follows:",
             data: [
                 "Narotam Sekhsaria’s Scholarships",
                 "K.C. Mahindra Scholarships For Post-Graduate Studies Abroad",
@@ -533,6 +563,11 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - Faculty"
+
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -585,6 +620,11 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pavlov First Saint Petersburg State Medical University, Russia - News & Articles" },
@@ -604,9 +644,14 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel and Accommodation',
-            info: "<b>Following are the hostel facilities at Pavlov First Saint Petersburg State Medical University:</b>",
+            info: "Following are the hostel facilities at Pavlov First Saint Petersburg State Medical University:",
             data: [
                 "For both local as well as international students, the First St. Petersburg State Medical University provides an on-campus hostel facility.",
                 "It is specially recommended for international students that they should opt for a hostel facility for the first year.",
@@ -635,9 +680,14 @@ export const pavlovfirstsaintpetersburgstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Pavlov First Saint Petersburg State Medical University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Pavlov First Saint Petersburg State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How many students are studying at the university currently?",

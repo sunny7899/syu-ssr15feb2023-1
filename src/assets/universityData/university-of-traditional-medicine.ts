@@ -19,7 +19,7 @@ export const universityoftraditionalmedicine = {
         {
             "type": "table-title",
             "title": "University of Traditional Medicine - Quick Highlights 2022",
-            "info": "<b>Refer the table below for quick highlights about University of Traditional Medicine:</b>",
+            "info": "Refer the table below for quick highlights about University of Traditional Medicine:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -35,7 +35,7 @@ export const universityoftraditionalmedicine = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at University of Traditional Medicine?",
-            "info": "<b>Following are the top benefits of studying MBBS at the University of Traditional Medicine:</b>",
+            "info": "Following are the top benefits of studying MBBS at the University of Traditional Medicine:",
             "data": [
                 "High-quality education is provided in the departments of General Medicine and Dentistry.",
                 "Ease of modern technology with well-equipped laboratories",
@@ -52,7 +52,7 @@ export const universityoftraditionalmedicine = {
         {
             "type": "table",
             "title": "University of Traditional Medicine - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Traditional Medicine is:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Traditional Medicine is:",
             "col": [
                 "Country",
                 "World"
@@ -83,7 +83,7 @@ export const universityoftraditionalmedicine = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Services under the Scientific Medical & Training Center are:</b>",
+            "info": "Services under the Scientific Medical & Training Center are:",
             "col": [],
             "row": [
                 ["General Medicine Practice", "Needle-burning Therapy"],
@@ -106,7 +106,7 @@ export const universityoftraditionalmedicine = {
         {
             "type": "table",
             "title": "Cost of Living in Yerevan City",
-            "info": "<b>The table below shows the approx cost of living for a month in Yerevan City:</b>",
+            "info": "The table below shows the approx cost of living for a month in Yerevan City:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -129,7 +129,7 @@ export const universityoftraditionalmedicine = {
                     "Approx Range in RS": "1200-1500"
                 },
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = Rs. 70</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> 1$ = Rs. 70</p>'
         },
         {
             "type": "list-bollet",
@@ -160,9 +160,13 @@ export const universityoftraditionalmedicine = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Traditional Medicine - MBBS Fee Structure 2",
-            "info": "<b>Here are the approx tuition fee and hostel fee for University of Traditional Medicine:</b>",
+            "info": "Here are the approx tuition fee and hostel fee for University of Traditional Medicine:",
             "col": [
                 "Particular",
                 "Fees in USD",
@@ -185,12 +189,12 @@ export const universityoftraditionalmedicine = {
                     "Fees in INR": "Rs. 2,80,000"
                 }
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at University of Traditional Medicine",
-            "info": "<b>Following are the faculties offered at University of Traditional Medicine:</b>",
+            "info": "Following are the faculties offered at University of Traditional Medicine:",
             "data": [
                 "Medicine",
                 "Dentistry"
@@ -199,7 +203,7 @@ export const universityoftraditionalmedicine = {
         {
             "type": "list-bollet",
             "title": "University of Traditional Medicine - MBBS Duration",
-            "info": "<b>The course duration of MBBS at the University of Traditional Medicine is 6 years:</b>",
+            "info": "The course duration of MBBS at the University of Traditional Medicine is 6 years:",
             "data": [
                 "The MBBS course duration at the University of Traditional Medicine includes 5 years of course and 1 year of internship. So the duration of the course is 6 years."
             ]
@@ -207,7 +211,7 @@ export const universityoftraditionalmedicine = {
         {
             "type": "table",
             "title": "University of Traditional Medicine - MBBS Syllabus",
-            "info": "<b>The syllabus taught at the University of Traditional Medicine for MBBS is as follows:</b>",
+            "info": "The syllabus taught at the University of Traditional Medicine for MBBS is as follows:",
             "Data": "1st Year",
             "col": [
                 "1st Semester",
@@ -324,9 +328,13 @@ export const universityoftraditionalmedicine = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Eligibility Criteria for MBBS at University of Traditional Medicine is as follows:</b>",
+            "info": "Eligibility Criteria for MBBS at University of Traditional Medicine is as follows:",
             "data": [
                 "Applicants must have a state-recognized certificate of secondary education.",
                 "Age must be 17 years as on or before the year of the admission process at University of Traditional Medicine.",
@@ -337,7 +345,7 @@ export const universityoftraditionalmedicine = {
         {
             type: 'list-bollet',
             title: 'Admission Process',
-            info: '<b>Admissions at the University of Traditional Medicine are conducted in accordance with State and Non-State higher education institution’s admission regulations approved by the Government decree:</b>',
+            info: 'Admissions at the University of Traditional Medicine are conducted in accordance with State and Non-State higher education institution’s admission regulations approved by the Government decree:',
             data: [
                 "The admission process for foreign students is conducted in three different languages i.e. English, Russian or Armenian.",
                 "The foreign nationals having the diploma or certificate of higher secondary education are eligible to apply for MBBS at University of Traditional Medicine."
@@ -346,7 +354,7 @@ export const universityoftraditionalmedicine = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Admissions of foreign citizens are carried out in four different stages:</b>',
+            info: 'Admissions of foreign citizens are carried out in four different stages:',
             data: [
                 "Registration",
                 "Information verification",
@@ -357,7 +365,7 @@ export const universityoftraditionalmedicine = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following is the document checklists required for applying MBBS course at University of Traditional Medicine:</b>",
+            "info": "Following is the document checklists required for applying MBBS course at University of Traditional Medicine:",
             "data": [
                 "Application to the Ministry of Science and Education",
                 "Copy of original passport",
@@ -369,7 +377,7 @@ export const universityoftraditionalmedicine = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Applicant can submit the documents by,</b>",
+            "info": "Applicant can submit the documents by,",
             "data": [
                 "Personally or authorized representative",
                 "By post/e-mail to the Ministry’s official address",
@@ -396,6 +404,10 @@ export const universityoftraditionalmedicine = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Traditional Medicine, Armenia - Reviews" },
@@ -414,6 +426,10 @@ export const universityoftraditionalmedicine = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -445,6 +461,10 @@ export const universityoftraditionalmedicine = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Traditional Medicine, Armenia - Gallery" },
@@ -464,6 +484,10 @@ export const universityoftraditionalmedicine = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - Scholarship'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Traditional Medicine, Armenia - Scholarship" },
@@ -482,6 +506,10 @@ export const universityoftraditionalmedicine = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -521,6 +549,10 @@ export const universityoftraditionalmedicine = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Traditional Medicine, Armenia - News & Articles" },
@@ -540,9 +572,13 @@ export const universityoftraditionalmedicine = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>University of Traditional Medicine offers accommodation to foreign students with following facilities:</b>",
+            "info": "University of Traditional Medicine offers accommodation to foreign students with following facilities:",
             "data": [
                 "Well-equipped Rooms",
                 "Cafe",
@@ -570,47 +606,50 @@ export const universityoftraditionalmedicine = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "University of Traditional Medicine - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. Where is the University of Traditional Medicine Located?",
-                        "ans": "University of Traditional Medicine is located in the city of Yerevan, Armenia."
-                    },
-                    {
-                        "ques": "Q. Can I do an MBBS internship at University of Traditional Medicine?",
-                        "ans": "No, Internship programs are not mandatory at the University of Traditional Medicine. After that, you can practice in India."
-                    },
-                    {
-                        "ques": "Q. How can I exchange currency in Armenia?",
-                        "ans": "In Armenia, there are the banks available for money exchange. Also, students can withdraw the money through local ATMs."
-                    },
-                    {
-                        "ques": "Q. What is the cost of MBBS at University of Traditional Medicine?",
-                        "ans": "At the University of Traditional Medicine, the cost is affordable to each foreign student. The cost is around Rs.2.10 lakhs per year."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "University of Traditional Medicine, Armenia - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "University of Traditional Medicine, Armenia - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-traditional-medicine/faq" }
-                ]
-            }
-        ]
+    "faq": [
+        {
+            type: 'title',
+            title: 'University of Traditional Medicine, Armenia - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "University of Traditional Medicine - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+            "data": [
+                {
+                    "ques": "Q. Where is the University of Traditional Medicine Located?",
+                    "ans": "University of Traditional Medicine is located in the city of Yerevan, Armenia."
+                },
+                {
+                    "ques": "Q. Can I do an MBBS internship at University of Traditional Medicine?",
+                    "ans": "No, Internship programs are not mandatory at the University of Traditional Medicine. After that, you can practice in India."
+                },
+                {
+                    "ques": "Q. How can I exchange currency in Armenia?",
+                    "ans": "In Armenia, there are the banks available for money exchange. Also, students can withdraw the money through local ATMs."
+                },
+                {
+                    "ques": "Q. What is the cost of MBBS at University of Traditional Medicine?",
+                    "ans": "At the University of Traditional Medicine, the cost is affordable to each foreign student. The cost is around Rs.2.10 lakhs per year."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Traditional Medicine, Armenia - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Traditional Medicine, Armenia - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-traditional-medicine/faq" }
+            ]
+        }
+    ]
 }

@@ -19,7 +19,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "table-title",
       "title": "Khwaja Yunus Ali Medical College - Quick highlights 2022",
-      "info": "<b>Take a look at some important points to be considered during MBBS enrollment at Khwaja Yunus Ali Medical College:</b>",
+      "info": "Take a look at some important points to be considered during MBBS enrollment at Khwaja Yunus Ali Medical College:",
       "col": [],
       "row": [
         ["<b>Accepted Examination</b>", "NEET Exam and Rajshahi University Entrance exam"],
@@ -34,7 +34,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": 'list-bollet',
       "title": 'Benefits to Study MBBS at Khwaja Yunus Ali Medical College',
-      "info": '<b>Every candidate must dive into the favorable reasons to study MBBS at Khwaja Yunus Ali Medical College:</b>',
+      "info": 'Every candidate must dive into the favorable reasons to study MBBS at Khwaja Yunus Ali Medical College:',
       "data": [
         "The cost of studying MBBS at Khwaja Yunus Ali Medical College is very less which is affordable for many students coming from different corners of the world.",
         "The official language for teaching the MBBS course in English medium.",
@@ -53,13 +53,13 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "text",
       "title": "Medium of Teaching",
-      "info": "",
-      "data": "<p><b>The medium of instruction at the Khwaja Yunus Ali Medical College is the English language:</b></p><p>The medium of instruction for all foreign students at Khwaja Yunus Ali Medical College is the English language.</p>"
+      "info": "The medium of instruction at the Khwaja Yunus Ali Medical College is the English language:",
+      "data": "<p>The medium of instruction for all foreign students at Khwaja Yunus Ali Medical College is the English language.</p>"
     },
     {
       "type": "table",
       "title": "Khwaja Yunus Ali Medical College: Ranking 2022",
-      "info": "<b>Find out the ranking of the university with the reference of uni rank:</b>",
+      "info": "Find out the ranking of the university with the reference of uni rank:",
       "col": [
         "Country",
         "World",
@@ -75,7 +75,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>The students must check out some important admission dates for taking admission at Khwaja Yunus Ali Medical College:</b>",
+      "info": "The students must check out some important admission dates for taking admission at Khwaja Yunus Ali Medical College:",
       "col": [
         "Events",
         "Dates",
@@ -102,7 +102,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Facilities at Khwaja Yunus Ali Medical College",
-      "info": "<b>The new campus of Khwaja Yunus Ali Medical College is built on 103 decimal areas which contain all other modern facilities during MBBS education:</b>",
+      "info": "The new campus of Khwaja Yunus Ali Medical College is built on 103 decimal areas which contain all other modern facilities during MBBS education:",
       "data": [
         "Library",
         "hostel",
@@ -116,7 +116,7 @@ export const khwajayunusalimedicalcollege = {
     }, {
       "type": "list-bollet",
       "title": "Accreditation, Affiliation and Recognition",
-      "info": "<b>The Khwaja Yunus Ali Medical College is officially acknowledged and accredited by various organizations:</b>",
+      "info": "The Khwaja Yunus Ali Medical College is officially acknowledged and accredited by various organizations:",
       "data": [
         "World Health Organization (WHO)",
         "Govt. of Bangladesh",
@@ -150,7 +150,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "table",
       "title": "Cost of Living at Sirajganj, Bangladesh",
-      "info": "<b>Let's get to know about the approx living expenses of Sirajganj for a month but it may vary according to the individual’s living:</b>",
+      "info": "Let's get to know about the approx living expenses of Sirajganj for a month but it may vary according to the individual’s living:",
       "col": [
         "Particulars",
         "Cost in USD",
@@ -185,9 +185,14 @@ export const khwajayunusalimedicalcollege = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Khwaja Yunus Ali Medical College, Bangladesh - courses & Fees"
+
+    },
+    {
       "type": "table",
       "title": "Khwaja Yunus Ali Medical College - Fee Structure 2022",
-      "info": "<b>The institute will always offer cost-effective fees to the students who are willing to study medicine:</b>",
+      "info": "The institute will always offer cost-effective fees to the students who are willing to study medicine:",
       "col": [
         "Particular",
         "Fee in USD",
@@ -205,7 +210,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "table-title",
       "title": "Courses Offered at Khwaja Yunus Ali Medical College",
-      "info": "<b>Khwaja Yunus Ali Medical College provides multiple departments to achieve quality education and an exciting career in medicine:</b>",
+      "info": "Khwaja Yunus Ali Medical College provides multiple departments to achieve quality education and an exciting career in medicine:",
       "col": [],
       "row": [
         ["Cardiology", "Cardiovascular Thoracic", "Clinical Haematology"],
@@ -221,7 +226,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Khwaja Yunus Ali Medical College - MBBS Duration",
-      "info": "<b>Khwaja Yunus Ali Medical College offers 5 years of MBBS program to the students:</b>",
+      "info": "Khwaja Yunus Ali Medical College offers 5 years of MBBS program to the students:",
       "data": [
         "Khwaja Yunus Ali Medical College offers 5 years of medicine program and that too in the English language.",
         "The college has renowned professors providing the students with the basic MBBS where the students from various countries get theoretical as well as practical knowledge.",
@@ -233,7 +238,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "table",
       "title": "Khwaja Yunus Ali Medical College - MBBS Syllabus",
-      "info": "<b>The candidates should check out the well-organized syllabus for the MBBS course at Khwaja Yunus Ali Medical College:</b>",
+      "info": "The candidates should check out the well-organized syllabus for the MBBS course at Khwaja Yunus Ali Medical College:",
       "col": [
         "Phase",
         "Duration",
@@ -287,9 +292,14 @@ export const khwajayunusalimedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Khwaja Yunus Ali Medical College, Bangladesh - Admission 2023 "
+
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The students who wish to start their medical career at Khwaja Yunus Ali Medical College must fit into the following eligibility criteria:</b>",
+      "info": "The students who wish to start their medical career at Khwaja Yunus Ali Medical College must fit into the following eligibility criteria:",
       "data": [
         "The interested candidates must be 17 years old before 31st December of the admission year.",
         "The students who passed SSC and HSC or equivalent exams in Physics, Chemistry, English, and Biology with A level are eligible to apply for the MBBS course.",
@@ -302,7 +312,7 @@ export const khwajayunusalimedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>The students striving to take MBBS admission at Khwaja Yunus Ali Medical College must follow the steps mentioned below:</b>',
+      info: 'The students striving to take MBBS admission at Khwaja Yunus Ali Medical College must follow the steps mentioned below:',
       data: [
         "Step 1: Fill up the online admission form of Khwaja Yunus Ali Medical College.",
         "Step 2: The candidates shall submit essential academic or other documents and submit the form in 1000 taka.",
@@ -315,7 +325,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The candidates should submit relevant documents to pursue the medicine program at Khwaja Yunus Ali Medical College:</b>",
+      "info": "The candidates should submit relevant documents to pursue the medicine program at Khwaja Yunus Ali Medical College:",
       "data": [
         "Application form",
         "SSC certificate",
@@ -356,6 +366,11 @@ export const khwajayunusalimedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Khwaja Yunus Ali Medical College, Bangladesh - Reviews"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Khwaja Yunus Ali Medical College, Bangladesh - Reviews" },
@@ -374,6 +389,11 @@ export const khwajayunusalimedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Khwaja Yunus Ali Medical College, Bangladesh - Placement"
+
+    },
     {
       type: "meta",
       meta: [
@@ -394,6 +414,11 @@ export const khwajayunusalimedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Khwaja Yunus Ali Medical College, Bangladesh - Gallery"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Khwaja Yunus Ali Medical College, Bangladesh - Gallery" },
@@ -412,6 +437,11 @@ export const khwajayunusalimedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Khwaja Yunus Ali Medical College, Bangladesh - Scholarship"
+
+    },
     {
       type: "meta",
       meta: [
@@ -432,6 +462,11 @@ export const khwajayunusalimedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Khwaja Yunus Ali Medical College, Bangladesh - Faculty"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Khwaja Yunus Ali Medical College, Bangladesh - Faculty" },
@@ -450,6 +485,11 @@ export const khwajayunusalimedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Khwaja Yunus Ali Medical College, Bangladesh - News & Articles"
+
+    },
     {
       type: "meta",
       meta: [
@@ -470,9 +510,14 @@ export const khwajayunusalimedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Khwaja Yunus Ali Medical College, Bangladesh - Hostel"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>Khwaja Yunus Ali Medical College provides the students with the best hostel and accommodation facilities:</b>",
+      "info": "Khwaja Yunus Ali Medical College provides the students with the best hostel and accommodation facilities:",
       "data": [
         "The college offers top-class hostel facilities to the students.",
         "The accommodation is well-furnished and properly maintained 24 hours.",
@@ -488,7 +533,7 @@ export const khwajayunusalimedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The hostel rooms are well equipped-</b>",
+      "info": "The hostel rooms are well equipped-",
       "data": [
         "Mess",
         "Kitchen",
@@ -522,9 +567,14 @@ export const khwajayunusalimedicalcollege = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Khwaja Yunus Ali Medical College, Bangladesh - FAQ"
+
+      },
+      {
         "type": "question-list",
         "title": "Khwaja Yunus Ali Medical College - Important FAQss",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. Are there only practical classes conducted at the Khwaja Yunus Ali Medical College?",

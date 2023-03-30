@@ -19,7 +19,7 @@ export const keeleuniversity = {
         {
             "type": "table-title",
             "title": "Quick Highlights of Keele University",
-            "info": "<b>The applicants should go through the important points to study at the Keele University:</b>",
+            "info": "The applicants should go through the important points to study at the Keele University:",
             "col": [],
             "row": [
                 ["<b>Tuition Fees (approx)</b>", "Varies according to the course"],
@@ -34,7 +34,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose Keele University for Higher Studies?",
-            "info": "<b>Let’s find out some of the main beneficial reasons why students prefer to study here, at Keele university:</b>",
+            "info": "Let’s find out some of the main beneficial reasons why students prefer to study here, at Keele university:",
             "data": [
                 "The university is excellent at both teaching and research, with a gold TEF award.",
                 "The university has some of it’s most satisfied students in England, and research that is changing lives for the better. The university is among the top 3 in England for student satisfaction.",
@@ -50,7 +50,7 @@ export const keeleuniversity = {
         {
             "type": "table",
             "title": "Ranking of Keele University",
-            "info": "<b>The Country and World rankings of this university are mentioned below in the table:</b>",
+            "info": "The Country and World rankings of this university are mentioned below in the table:",
             "col": [
                 "Country",
                 "World"
@@ -81,7 +81,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditations of Keele University",
-            "info": "<b>Keele University has various National and international accreditations as given below and it is accredited by:</b>",
+            "info": "Keele University has various National and international accreditations as given below and it is accredited by:",
             "data": [
                 "The British Council",
                 "The Privy Council",
@@ -92,7 +92,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "Student’s Life at Keele University",
-            "info": "<b>The life of students at Keele University is full of enjoyment, challenges and excitement. Let us begin:</b>",
+            "info": "The life of students at Keele University is full of enjoyment, challenges and excitement. Let us begin:",
             "data": [
                 "At Keele University, for students’ convenience all the most important facilities are gathered together at the centre of campus within walking distance.",
                 "The University has an area of 600 acres and is one of the biggest in the UK.",
@@ -108,7 +108,7 @@ export const keeleuniversity = {
         {
             "type": "table",
             "title": "Monthly Cost of Living at Keele",
-            "info": "<b>Given below are the living expenses of Keele, UK which also depend on the living style of students and it may vary:</b>",
+            "info": "Given below are the living expenses of Keele, UK which also depend on the living style of students and it may vary:",
             "col": [
                 "Activity",
                 "Cost (approx.)"
@@ -191,9 +191,14 @@ export const keeleuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Keele University, UK - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Keele University - Fee Structure & Course Duration",
-            "info": "<b>Undergraduate Courses</b>",
+            "info": "Undergraduate Courses",
             "col": [
                 "Name of Programme",
                 "Duration",
@@ -496,7 +501,7 @@ export const keeleuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Postgraduate Courses</b>",
+            "info": "Postgraduate Courses",
             "col": [
                 "Name of Programme",
                 "Duration",
@@ -685,7 +690,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "Faculties at Keele University",
-            "info": "<b>The students must have a look at the various faculties or institutes at the Keele University:</b>",
+            "info": "The students must have a look at the various faculties or institutes at the Keele University:",
             "data": [
                 "Faculty of Humanities and Social Sciences",
                 "Faculty of Medicine and Health Sciences",
@@ -696,7 +701,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The university has following institutes:-</b>",
+            "info": "The university has following institutes:-",
             "data": [
                 "Institute for Global health",
                 "Institute for social Inclusion",
@@ -725,10 +730,15 @@ export const keeleuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Keele University, UK - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Undergraduate Courses</b>",
-            "textBelowInfo": "<p><b>To study foundation courses at Keele University students must have successfully completed 10+1 at 70% or 10+2 at 60%.</b></p><p><b>To study undergraduate courses students must have fulfilled following eligibility criteria:</b></p>",
+            "info": "Undergraduate Courses",
+            "textBelowInfo": "<p>To study foundation courses at Keele University students must have successfully completed 10+1 at 70% or 10+2 at 60%.</p><p>To study undergraduate courses students must have fulfilled following eligibility criteria:</p>",
             "data": [
                 "If students are from ICSE / CBSE / West Bengal Class XII then they should have 60% - 90% depending on the course. In addition, any subject specific requirements.",
                 "If students are from other State Boards like Higher Secondary Certificate (HSC) / Standard Class XII then they should have acquired 65% - 95% depending on the course. In addition, any subject specific requirements.",
@@ -738,8 +748,8 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Postgraduate Courses</b>",
-            "textBelowInfo": "<b>Indian Students willing to study at Keele University must fit into following different criterias:-</b>",
+            "info": "Postgraduate Courses",
+            "textBelowInfo": "Indian Students willing to study at Keele University must fit into following different criterias:-",
             "data": [
                 "Students studying from a minimum 3 year Bachelor degree should have 55% or above OR CGPA 6.0/10.0.",
                 "Students who have studied from a minimum 3 year Bachelor degree should have 60% or above OR CGPA 6.5/10.0.",
@@ -750,7 +760,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "How to Apply in Keele University?",
-            "info": "<b>Undergraduate Courses</b>",
+            "info": "Undergraduate Courses",
             "data": [
                 "Students should make all the applications for undergraduate courses at Keele online through UCAS.",
                 "UCAS is the University and Colleges Admissions Services.",
@@ -766,7 +776,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Postgraduate Courses</b>",
+            "info": "Postgraduate Courses",
             "data": [
                 "Students should click on the 'apply' links at the top right of each postgraduate course page. This will take them to the application form for that particular course.",
                 "There is no application fee.",
@@ -782,7 +792,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "English Language Requirements",
-            "info": "<b>Undergraduate Courses</b>",
+            "info": "Undergraduate Courses",
             "data": [
                 "If students are from ICSE/CBSE Class XII then they should have 70% or above in English, depending on the course.",
                 "All other State Boards Class XII students (except Punjab or Mohali School Education Board) must have 75% or above in English, depending on course.",
@@ -793,7 +803,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Postgraduate Courses</b>",
+            "info": "Postgraduate Courses",
             "data": [
                 "If students are from ICSE/CBSE Class XII then they should have 70% or above in English, if completed within the last 5 years.",
                 "All other Class XII students (except Punjab or Mohali School Education Board) must have 75% or above in English, if completed within the last 5 years.",
@@ -805,7 +815,7 @@ export const keeleuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required in Keele University",
-            "info": "<b>Applicants are required to provide the below given documents for admission:</b>",
+            "info": "Applicants are required to provide the below given documents for admission:",
             "data": [
                 "Student’s personal details and qualifications",
                 "Student’s course choices",
@@ -838,6 +848,11 @@ export const keeleuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Keele University, UK - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Keele University, UK - Reviews" },
@@ -856,6 +871,11 @@ export const keeleuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Keele University, UK - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -886,6 +906,11 @@ export const keeleuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Keele University, UK - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Keele University, UK - Gallery" },
@@ -904,6 +929,11 @@ export const keeleuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Keele University, UK - Scholarship"
+
+        },
         {
             "type": "table",
             "title": "Scholarship",
@@ -981,6 +1011,11 @@ export const keeleuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Keele University, UK - Faculty"
+
+        },
+        {
             "type": "table",
             "title": "Faculty",
             "col": [
@@ -1032,6 +1067,11 @@ export const keeleuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Keele University, UK - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Keele University, UK - News & Articles" },
@@ -1051,9 +1091,14 @@ export const keeleuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Keele University, UK - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Keele University provides housing facilities to its students at different premises. Have a look:</b>",
+            "info": "Keele University provides housing facilities to its students at different premises. Have a look:",
             "data": [
                 "Keele university has over 2,800 bedrooms, with a wide range of accommodation available.",
                 "These options are present within a short walk of the centre of campus.",
@@ -1088,6 +1133,11 @@ export const keeleuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Keele University, UK - FAQ"
+
+        },
         {
             "type": "question-list",
             "title": "Keele University - Important FAQs",

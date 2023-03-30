@@ -19,7 +19,7 @@ export const aghuniversityofscienceandtechnology = {
         {
             "type": "table-title",
             "title": "AGH University of Science & Technology - Quick Highlights",
-            "info": "<b>Following are the highlights of studying engineering at AGH University of Science and Technology:</b>",
+            "info": "Following are the highlights of studying engineering at AGH University of Science and Technology:",
             "col": [],
             "row": [
                 ["<b>Intake for Engineering Course</b>", "October"],
@@ -33,7 +33,7 @@ export const aghuniversityofscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "Why Study at AGH University of Science & Technology?",
-            "info": "<b>Following are the top benefits of studying B.Tech at AGH University of Science and Technology:</b>",
+            "info": "Following are the top benefits of studying B.Tech at AGH University of Science and Technology:",
             "data": [
                 "The university has a huge scientific potential that encourages the students to participate in various research programs.",
                 "Internationalization and Global Recognition of the university explore the opportunity for students in various areas of disciplines.",
@@ -45,7 +45,7 @@ export const aghuniversityofscienceandtechnology = {
         {
             "type": "table",
             "title": "AGH University of Science and Technology - Ranking 2022",
-            "info": "<b>As per the uniRank system, the ranking of AGH University of Science and Technology is:</b>",
+            "info": "As per the uniRank system, the ranking of AGH University of Science and Technology is:",
             "col": [
                 "Country",
                 "World"
@@ -60,7 +60,7 @@ export const aghuniversityofscienceandtechnology = {
         {
             "type": "table",
             "title": "Cost of Living in Krakow",
-            "info": "<b>Following is the cost of living in the city of Krakow:</b>",
+            "info": "Following is the cost of living in the city of Krakow:",
             "col": [
                 "Particulars",
                 "Cost in USD",
@@ -113,7 +113,7 @@ export const aghuniversityofscienceandtechnology = {
         },
         {
             type: 'meta-title',
-            title: " AGH University of Science & Technology, Poland"
+            title: "AGH University of Science & Technology, Poland"
         },
         {
             type: 'meta-links',
@@ -124,9 +124,13 @@ export const aghuniversityofscienceandtechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "AGH University of Science & Technology - Fee Structure 2022",
-            "info": "<b>Refer the low fee structure for engineering course at AGH University of Science and Technology:</b><br>For Foreign Nationals",
+            "info": "Refer the low fee structure for engineering course at AGH University of Science and Technology:</b><br>For Foreign Natio",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -151,7 +155,7 @@ export const aghuniversityofscienceandtechnology = {
             ],
             heading: '<p><strong style="color: red;"><u>Note</u>:</strong></p>'
         },
-       
+
         {
             "type": "list-bollet",
             "title": "",
@@ -167,7 +171,7 @@ export const aghuniversityofscienceandtechnology = {
         {
             "type": "table",
             "title": "Programs Offered at AGH University of Science and Technology",
-            "info": "<b>Following are the first cycle degree programs offered at AGH University of Science and Technology:</b>",
+            "info": "Following are the first cycle degree programs offered at AGH University of Science and Technology:",
             "col": [
                 "Program Name",
                 "Program Duration"
@@ -187,23 +191,16 @@ export const aghuniversityofscienceandtechnology = {
                 }
             ]
         },
+
         {
-            "type": "text",
+            "type": "number-list",
             "title": "",
             "info": "",
-            "data": '<p><b>1 Mechatronic Engineering</b></p><p>The program consists of a study of different courses in mechanics, control theory, computer science and electronics, mechanics, mathematics and control theory mechanisms. During the course of study, students can learn the analysis and synthesis of mechatronic systems and integration in mechatronics.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>2 Computer Engineering</b></p><p>The aim of the program is to offer practical knowledge of computer systems that covers the areas of mathematics, computer science, practical aspects including the design and implementation of PC, data analysis, study of programming tools etc.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>3 Electronics and Telecommunication</b></p><p>After completion of course, the graduates are awarded the degree in Electronics and Telecommunication. The course offers theoretical and practical knowledge of designing, building, exploitation of electronic circuits, equipment and telecommunication systems.</p>'
+            "data": [
+                '<b>1 Mechatronic Engineering</b><br>The program consists of a study of different courses in mechanics, control theory, computer science and electronics, mechanics, mathematics and control theory mechanisms. During the course of study, students can learn the analysis and synthesis of mechatronic systems and integration in mechatronics.',
+                '<b>2 Computer Engineering</b><br>The aim of the program is to offer practical knowledge of computer systems that covers the areas of mathematics, computer science, practical aspects including the design and implementation of PC, data analysis, study of programming tools etc.',
+                '<b>3 Electronics and Telecommunication</b><br>After completion of course, the graduates are awarded the degree in Electronics and Telecommunication. The course offers theoretical and practical knowledge of designing, building, exploitation of electronic circuits, equipment and telecommunication systems.',
+            ]
         },
         {
             type: 'meta',
@@ -225,6 +222,10 @@ export const aghuniversityofscienceandtechnology = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - Admission Process 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "<p>Following is the eligibility criteria required for applying engineering course at AGH University of Science and Technology:</p>",
@@ -235,51 +236,23 @@ export const aghuniversityofscienceandtechnology = {
             ]
         },
         {
-            "type": "text",
+            "type": "number-list",
             "title": "Admission Procedure",
-            "info": "",
-            "data": '<p><b>Following is the simple admission process for international students to study engineering course at AGH University of Science and Technology:</b></p><p><b>1 Online registration in the system</b></p><p>The applicant needs to register online for enrolling in the course.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>2 Upload Documents</b></p><p>Applicant needs to submit a declaration of qualification with scanned copies of documents + recruitment fees.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>3 Verification of Documents</b></p><p>After the submission of documents, the documents verification process takes place.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>4 Calculation of the Grades</b></p><p>Grades can be calculated as per the academic scores of the candidates.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>5 Announcement of Results</b></p><p>University will declare the list of selected candidates who suit the eligibility criteria.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>6 Issuing an Acceptance Letter</b></p><p>The candidate will get issued the official invitation letter from the university within the 15 days.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>7 Payment of Tuition Fee</b></p><p>The candidate needs to pay the tuition fees for the confirmation of seats. Fees can be paid in semester-wise.</p>'
+            "info": "Following is the simple admission process for international students to study engineering course at AGH University of Science and Technology:",
+            "data": [
+                '<b>1 Online registration in the system</b><br>The applicant needs to register online for enrolling in the course.</p>',
+                '<b>2 Upload Documents</b><br>Applicant needs to submit a declaration of qualification with scanned copies of documents + recruitment fees.</p>',
+                '<b>3 Verification of Documents</b><br>After the submission of documents, the documents verification process takes place.</p>',
+                '<b>4 Calculation of the Grades</b><br>Grades can be calculated as per the academic scores of the candidates.</p>',
+                '<b>5 Announcement of Results</b><br>University will declare the list of selected candidates who suit the eligibility criteria.</p>',
+                '<b>6 Issuing an Acceptance Letter</b><br>The candidate will get issued the official invitation letter from the university within the 15 days.</p>',
+                '<b>7 Payment of Tuition Fee</b><br>The candidate needs to pay the tuition fees for the confirmation of seats. Fees can be paid in semester-wise.</p>',
+            ]
         },
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following are the documents required for engineering course at AGH University of Science and Technology:</b>",
+            "info": "Following are the documents required for engineering course at AGH University of Science and Technology:",
             "data": [
                 "Secondary School Leaving Certificate (legalized copy)",
                 "Scan copy of supplementary grades (as confirmed by the school)",
@@ -292,7 +265,7 @@ export const aghuniversityofscienceandtechnology = {
         {
             "type": "table",
             "title": "AGH University of Science and Technology - Important Dates 2022",
-            "info": "<b>Following are the important dates of engineering program at AGH University of Science and Technology:</b>",
+            "info": "Following are the important dates of engineering program at AGH University of Science and Technology:",
             "colTitle": [],
             "row": [
                 ["<b>Last Date of Submission of Documents</b>", "January"],
@@ -320,15 +293,19 @@ export const aghuniversityofscienceandtechnology = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - Hostel"
+        },
+        {
             "type": "text",
             "title": "Hostel & Accommodation - AGH University of Science & Technology",
-            "info": "",
-            "data": '<p><b>The AGH University of Science and Technology offers hostels and accommodation for foreign students:</b></p><p>There are 20 student houses are provided nearly at different places.</p>'
+            "info": "The AGH University of Science and Technology offers hostels and accommodation for foreign students:",
+            "data": '<p>There are 20 student houses are provided nearly at different places.</p>'
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Amenities provided at the dormitories are:</b>",
+            "info": "Amenities provided at the dormitories are:",
             "data": [
                 "SuperMarket",
                 "Pharmacy",
@@ -353,7 +330,7 @@ export const aghuniversityofscienceandtechnology = {
         },
         {
             type: 'meta-title',
-            title: "AGH University of Science & Technology, Poland - Hostel "
+            title: "AGH University of Science & Technology, Poland - Hostel"
         },
         {
             type: 'meta-links',
@@ -363,6 +340,10 @@ export const aghuniversityofscienceandtechnology = {
         }
     ],
     "review": [
+        {
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - Reviews"
+        },
         {
             type: 'meta',
             meta: [
@@ -383,6 +364,10 @@ export const aghuniversityofscienceandtechnology = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - Gallery"
+        },
+        {
             type: 'meta',
             meta: [
                 { name: "title", content: "AGH University of Science & Technology, Poland - Gallery" },
@@ -401,6 +386,10 @@ export const aghuniversityofscienceandtechnology = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - Faculties"
+        },
         {
             type: 'meta',
             meta: [
@@ -421,6 +410,10 @@ export const aghuniversityofscienceandtechnology = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - News & Articles"
+        },
+        {
             type: 'meta',
             meta: [
                 { name: "title", content: "AGH University of Science & Technology, Poland - News & Articles" },
@@ -440,6 +433,10 @@ export const aghuniversityofscienceandtechnology = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - FAQs"
+        },
+        {
             type: 'meta',
             meta: [
                 { name: "title", content: "AGH University of Science & Technology, Poland - FAQs" },
@@ -457,30 +454,22 @@ export const aghuniversityofscienceandtechnology = {
             ]
         }
     ],
-    "scholarship":[
+    "scholarship": [
         {
-            "type": "text",
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - Scholarships"
+        },
+        {
+            "type": "number-list",
             "title": "Scholarships Offered at AGH University of Science and Technology",
-            "info": "",
-            "data": '<p><b>Following are the scholarships offered at AGH University of Science and Technology:</b></p><p><b>1 The gen. Anders Program</b></p><p>The scholarships are offered to non-national students of Belarus, Bulgaria, Ukraine, Lithuania, Russia, Slovakia etc. The condition of scholarship is the non-national students should be of Polish origin.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>2 The Stefan Banach Scholarship Program</b></p><p>The scholarship program develops the socioeconomic growth of developing countries by improving the knowledge and education of citizens.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>3 The Ignacy Lukasiewicz Scholarship Program</b></p><p>The scholarship program offered by the joint initiative of the Ministry of Foreign Affairs and the Polish National Agency of Academic Exchange.</p>'
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": '<p><b>4 Visegrad Scholarship Program</b></p><p>The scholarship program supports the bachelor, master, postgraduate and doctoral students in any discipline up to 4 semesters.</p>'
+            "info": "Following are the scholarships offered at AGH University of Science and Technology:",
+            "data": [
+                '<b>1 The gen. Anders Program</b><br>The scholarships are offered to non-national students of Belarus, Bulgaria, Ukraine, Lithuania, Russia, Slovakia etc. The condition of scholarship is the non-national students should be of Polish origin.',
+                '<b>2 The Stefan Banach Scholarship Program</b><br>The scholarship program develops the socioeconomic growth of developing countries by improving the knowledge and education of citizens.',
+                '<b>3 The Ignacy Lukasiewicz Scholarship Program</b><br>The scholarship program offered by the joint initiative of the Ministry of Foreign Affairs and the Polish National Agency of Academic Exchange.',
+                '<b>4 Visegrad Scholarship Program</b><br>The scholarship program supports the bachelor, master, postgraduate and doctoral students in any discipline up to 4 semesters.',
+            ],
+
         },
         {
             type: 'meta',
@@ -502,10 +491,14 @@ export const aghuniversityofscienceandtechnology = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "AGH University of Science & Technology, Poland - Placements"
+        },
+        {
             "type": "text",
-            "title": "",
+            "title": "Placements-",
             "info": "",
-            "data": '<p><b>Placements -</b></p><p>In AGH University of Science and Technology, students can know about placement and internships through the job teaser column of the website. There they can find all the necessary details that they require before applying for a job in different companies.</p>'
+            "data": '<p>In AGH University of Science and Technology, students can know about placement and internships through the job teaser column of the website. There they can find all the necessary details that they require before applying for a job in different companies.</p>'
         },
         {
             type: 'meta',
@@ -524,5 +517,5 @@ export const aghuniversityofscienceandtechnology = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/agh-university-of-science-and-technology/placement" }
             ]
         }
-    ]   
+    ]
 }

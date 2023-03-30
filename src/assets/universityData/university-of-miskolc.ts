@@ -19,7 +19,7 @@ export const universityofmiskolc = {
     {
       "type": "table-title",
       "title": "University of Miskolc - Quick Highlights",
-      "info": "<b>Here are some of the highlights that one needs to know for B.Tech and M.tech in Hungary before getting enrolled in the University of Miskolc:</b>",
+      "info": "Here are some of the highlights that one needs to know for B.Tech and M.tech in Hungary before getting enrolled in the University of Miskolc:",
       "col": [],
       "row": [
         ["<b>Intake for Course</b>", "September, February"],
@@ -36,7 +36,7 @@ export const universityofmiskolc = {
     {
       "type": "list-bollet",
       "title": "Why Choose the University of Miskolc for Higher Studies?",
-      "info": "<b>Below are some of the benefits to study at the University of Miskolc:</b>",
+      "info": "Below are some of the benefits to study at the University of Miskolc:",
       "data": [
         "The University of Miskolc provides a beautiful natural campus full of greenery.",
         "The fee structure of The University of Miskolc is quite affordable for students coming from other parts of the world.",
@@ -55,7 +55,7 @@ export const universityofmiskolc = {
     {
       "type": "list-bollet",
       "title": "Medium of Teaching",
-      "info": "<b>The University of Miskolc has a large number of international students. So, it tries to provide a common medium of teaching to them:</b>",
+      "info": "The University of Miskolc has a large number of international students. So, it tries to provide a common medium of teaching to them:",
       "data": [
         "The medium of the teaching of Master’s courses in the University of Miskolc is English."
       ]
@@ -63,7 +63,7 @@ export const universityofmiskolc = {
     {
       "type": "table",
       "title": "University of Miskolc - Ranking 2022",
-      "info": "<b>The University of Miskolc ranks at the top universities to study B.Tech and M.Tech in Hungary. According to uni rank, the University of Miskolc rankings are as below:</b>",
+      "info": "The University of Miskolc ranks at the top universities to study B.Tech and M.Tech in Hungary. According to uni rank, the University of Miskolc rankings are as below:",
       "col": [
         "Country",
         "World"
@@ -78,7 +78,7 @@ export const universityofmiskolc = {
     {
       "type": "list-bollet",
       "title": "Accreditation & Recognition",
-      "info": "<b>The University of Miskolc is an officially recognized institute:</b>",
+      "info": "The University of Miskolc is an officially recognized institute:",
       "data": [
         "The college is recognized by the Hungarian Accreditation Committee."
       ]
@@ -86,7 +86,7 @@ export const universityofmiskolc = {
     {
       "type": "list-bollet",
       "title": "Facilities",
-      "info": "<b>The University of Miskolc provides world-class facilities at the campus. Check out the below-mentioned facilities:</b>",
+      "info": "The University of Miskolc provides world-class facilities at the campus. Check out the below-mentioned facilities:",
       "data": [
         "hostel",
         "Canteen",
@@ -101,7 +101,7 @@ export const universityofmiskolc = {
     {
       "type": "table",
       "title": "Living Expenses of Miskolc, Hungary",
-      "info": "<b>Living in Miskolc is quite affordable for the students coming from outside to study in Hungary. Below you can find the living cost of a particular student annually:</b>",
+      "info": "Living in Miskolc is quite affordable for the students coming from outside to study in Hungary. Below you can find the living cost of a particular student annually:",
       "col": [
         "Particulars",
         "Approx Range in USD",
@@ -141,9 +141,13 @@ export const universityofmiskolc = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "The University of Miskolc - Fee Structure 2022",
-      "info": "<b>The fee structure of the University of Miskolc is quite affordable to study M.Tech courses. Here is a list of the course with their fees:</b>",
+      "info": "The fee structure of the University of Miskolc is quite affordable to study M.Tech courses. Here is a list of the course with their fees:",
       "col": [
         "Course",
         "Semester fee in Euro",
@@ -201,7 +205,7 @@ export const universityofmiskolc = {
     {
       "type": "list-bollet",
       "title": "University of Miskolc - Course Duration",
-      "info": "<b>The course duration for the Master's in the English language at Hungary is at below:</b>",
+      "info": "The course duration for the Master's in the English language at Hungary is at below:",
       "data": [
         "All master’s programmes offered at the University of Miskolc are for 2 years consisting of 4 semesters."
       ]
@@ -209,7 +213,7 @@ export const universityofmiskolc = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>Some more Master courses in University of Miskolc are as follows:</b>",
+      "info": "Some more Master courses in University of Miskolc are as follows:",
       "col": [
         "Course",
         "Duration",
@@ -248,7 +252,7 @@ export const universityofmiskolc = {
     {
       "type": "table",
       "title": "The University of Miskolc - Ph.D. Programs",
-      "info": "<b>The University of Miskolc also provides Ph.D. programs. Following are the duration, fee and medium of teaching:</b>",
+      "info": "The University of Miskolc also provides Ph.D. programs. Following are the duration, fee and medium of teaching:",
       "col": [
         "Course",
         "Duration",
@@ -299,7 +303,7 @@ export const universityofmiskolc = {
     {
       "type": "table",
       "title": "Additional Programs",
-      "info": "<b>The University of Miskolc provides some additional programs to the students. Such as:</b>",
+      "info": "The University of Miskolc provides some additional programs to the students. Such as:",
       "col": [
         "Scholarship Programmes",
         "Exchange Programmes",
@@ -327,7 +331,7 @@ export const universityofmiskolc = {
     {
       "type": "list-bollet",
       "title": "Faculties offered at University of Miskolc",
-      "info": "<b>The University of Miskolc offers a wide range of courses. Have a look at the faculties and courses below:</b>",
+      "info": "The University of Miskolc offers a wide range of courses. Have a look at the faculties and courses below:",
       "data": [
         "Materials Science and Engineering",
         "Mechanical Engineering and Informatic",
@@ -357,9 +361,13 @@ export const universityofmiskolc = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The students must fulfill the below mention eligibility criteria to study M.Tech at the University of Miskolc:</b>",
+      "info": "The students must fulfill the below mention eligibility criteria to study M.Tech at the University of Miskolc:",
       "data": [
         "<b>Environmental Engineering:</b> BSc or BEng degree (minimum 6 semesters) in Environmental Engineering or Environmental sciences, or in Earth Sciences, Geology, Earth Sciences engineering, Mining engineering.",
         "<b>Computer Science: English (min. B2 or equivalent), bachelor’s / masters’ degree in Computer science.",
@@ -380,7 +388,7 @@ export const universityofmiskolc = {
     {
       "type": "step-list",
       "title": "Admission Process",
-      "info": "<b>Check out the steps below for admission to the University of Miskolc:</b>",
+      "info": "Check out the steps below for admission to the University of Miskolc:",
       "data": [
         "<b>Step 1:</b> Choose a study program.",
         "<b>Step 2:</b> The candidate should register on the university website and fill the application form online.",
@@ -396,7 +404,7 @@ export const universityofmiskolc = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>These are the following documents the applicant should keep in mind for taking admission to the University of Miskolc:</b>",
+      "info": "These are the following documents the applicant should keep in mind for taking admission to the University of Miskolc:",
       "data": [
         "Online application form in English",
         "Copy of Secondary school certificate",
@@ -428,7 +436,7 @@ export const universityofmiskolc = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>The students coming to study at the University of Miskolc must keep in mind the following dates:</b>",
+      "info": "The students coming to study at the University of Miskolc must keep in mind the following dates:",
       "col": [
         "Events",
         "Dates",
@@ -473,6 +481,10 @@ export const universityofmiskolc = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Miskolc, Hungary - Reviews" },
@@ -491,6 +503,10 @@ export const universityofmiskolc = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - Placement'
+    },
     {
       type: "meta",
       meta: [
@@ -511,6 +527,10 @@ export const universityofmiskolc = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Miskolc, Hungary - Gallery" },
@@ -530,9 +550,13 @@ export const universityofmiskolc = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - Scholarship'
+    },
+    {
       "type": "list-bollet",
       "title": "scholarship",
-      "info": "<b>The scholarships that are provided at the University of Miskolc are as follows:</b>",
+      "info": "The scholarships that are provided at the University of Miskolc are as follows:",
       "data": [
         "Education Future International Scholarship - USA & Non-USA 2022",
         "HEST 2023- Higher Education Scholarship Test For Indian Students",
@@ -561,6 +585,10 @@ export const universityofmiskolc = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - Faculty'
+    },
     {
       "type": "table",
       "title": "faculty",
@@ -613,6 +641,10 @@ export const universityofmiskolc = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Miskolc, Hungary - News & Articles" },
@@ -632,9 +664,13 @@ export const universityofmiskolc = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>The students of the University of Miskolc have two options for stay. Either they can stay in the university hostels or they can seek rent outside the campus:</b>",
+      "info": "The students of the University of Miskolc have two options for stay. Either they can stay in the university hostels or they can seek rent outside the campus:",
       "data": [
         "The University of Miskolc has 7 on-campus hostels.",
         "All these hostels are easily accessible from the university campus.",
@@ -681,9 +717,13 @@ export const universityofmiskolc = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: 'University of Miskolc, Hungary - FAQ'
+    },
+    {
       "type": "question-list",
       "title": "University of Miskolc - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
 
         {

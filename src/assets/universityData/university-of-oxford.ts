@@ -31,7 +31,7 @@ export const universityofoxford = {
         {
             "type": "table-title",
             "title": "University of Oxford - Quick Overview",
-            "info": "<b>Following are the quick highlights of studying MBA in the University of Oxford:</b>",
+            "info": "Following are the quick highlights of studying MBA in the University of Oxford:",
             "row": [
                 ["<b>Degree Awarded</b>", "MBA"],
                 ["<b>Course Duration</b>", "1 Years"],
@@ -44,7 +44,7 @@ export const universityofoxford = {
         {
             type: 'list-bollet',
             title: 'Why Study MBA at University of Oxford?',
-            info: '<b>Following are the top benefits for studying MBA at the University of Oxford:</b>',
+            info: 'Following are the top benefits for studying MBA at the University of Oxford:',
             data: [
                 "1:1 meeting with the career counselors.",
                 "10+ career fairs each year with more than 600+ exhibitors.",
@@ -56,7 +56,7 @@ export const universityofoxford = {
         {
             "type": "table",
             "title": "University of Oxford - Ranking 2022",
-            "info": "<b>Below is the country & world ranking of the University of Oxford as per the uniRank standard ranking system:</b>",
+            "info": "Below is the country & world ranking of the University of Oxford as per the uniRank standard ranking system:",
             "col": [
                 "Country",
                 "World",
@@ -71,7 +71,7 @@ export const universityofoxford = {
         {
             type: 'list-bollet',
             title: 'Students Life',
-            info: "<b>Many of the international students at the university will get plenty of growth opportunities with a modern and productive teaching environment at the university:</b> <br>The university offers,",
+            info: "Many of the international students at the university will get plenty of growth opportunities with a modern and productive teaching environment at the university:<br>The university offers,",
             data: [
                 "Excellent life in the city of Oxford",
                 "Options for accommodation",
@@ -100,9 +100,13 @@ export const universityofoxford = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Oxford, England - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Oxford - Fee Structure 2022",
-            "info": "<b>Following is the fee structure of MBA course at University of Oxford:</b>",
+            "info": "Following is the fee structure of MBA course at University of Oxford:",
             "col": [
                 "Particulars",
                 "Fees in Rupees",
@@ -125,12 +129,12 @@ export const universityofoxford = {
                     "Fees in USD": "$ 79,357"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$= Rs.70</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$= Rs.70</p>'
         },
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at University of Oxford',
-            "info": '<b>Following are the courses offered at the University of Oxford:</b>',
+            "info": 'Following are the courses offered at the University of Oxford:',
             "data": [
                 "Postgraduate",
                 "Business Administration",
@@ -141,7 +145,7 @@ export const universityofoxford = {
         {
             "type": 'list-bollet',
             "title": 'University of Oxford - MBA Duration',
-            "info": '<b>An MBA in University of Oxford lasts for a period of 1 year:</b>',
+            "info": 'An MBA in University of Oxford lasts for a period of 1 year:',
             "data": [
                 "The University of Oxford offers a full-time business management program that comprises 1 year leading to the degree of Master of Business Administration.",
                 "One of the notable features of the University of Oxford MBA program is that it provides the opportunity to learn business exposure by contributing to broad-based education."
@@ -150,7 +154,7 @@ export const universityofoxford = {
         {
             "type": 'list-bollet',
             "title": 'Specializations Offered at University of Oxford',
-            "info": '<b>Below are the specializations offered for studying MBA at University of Oxford:</b>',
+            "info": 'Below are the specializations offered for studying MBA at University of Oxford:',
             "data": [
                 "Finance",
                 "Economics",
@@ -179,9 +183,13 @@ export const universityofoxford = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Oxford, England - Admission 2023 '
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following are the admission prerequisites for applying MBA in University of Oxford:</b>",
+            "info": "Following are the admission prerequisites for applying MBA in University of Oxford:",
             "data": [
                 "Applicants must have a bachelor degree in respective discipline from the recognized university.",
                 "For working professionals, a work experience certificate is required.",
@@ -192,7 +200,7 @@ export const universityofoxford = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Below are the admission guidelines required for applying MBA in the University of Oxford:</b>',
+            info: 'Below are the admission guidelines required for applying MBA in the University of Oxford:',
             data: [
                 "Step 1: Visit the website. Apply on the link",
                 "Step 2: Create a new graduate applicant account.",
@@ -204,7 +212,7 @@ export const universityofoxford = {
         {
             "type": "list-bollet",
             "title": "Application type should be",
-            "info": "<b>1 Standard</b>",
+            "info": "1 Standard",
             "data": [
                 "Select the standard application type if your application meets the type of category. Application fees: £75"
             ]
@@ -212,7 +220,7 @@ export const universityofoxford = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>2 Standard Application (pre-paid)</b>",
+            "info": "2 Standard Application (pre-paid)",
             "data": [
                 "Select the application if you already paid the fees. Such applications are permitted to apply for CDT/DTP courses."
             ]
@@ -220,7 +228,7 @@ export const universityofoxford = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Readmission</b>",
+            "info": "Readmission",
             "data": [
                 "You can use the current authorization code and apply to the next level of admission of the course.",
                 "On the entry requirements section, an applicant can view the status of application whether the eligible or not.",
@@ -230,7 +238,7 @@ export const universityofoxford = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Refer the below document checklists for applying MBA at University of Oxford:</b>",
+            "info": "Refer the below document checklists for applying MBA at University of Oxford:",
             "data": [
                 "Bachelor’s degree and transcripts",
                 "GMAT/GRE",
@@ -273,6 +281,10 @@ export const universityofoxford = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Oxford, England - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Oxford, England - Reviews" },
@@ -292,9 +304,13 @@ export const universityofoxford = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'University of Oxford, England - Placement'
+        },
+        {
             "type": "list-bollet",
             "title": "Placements of University of Oxford",
-            "info": "<b>Following are the placements records of University of Oxford you can go through it for a detailed look-</b>",
+            "info": "Following are the placements records of University of Oxford you can go through it for a detailed look-",
             "data": [
                 "Oxford placements rate of 81.3% for 2017-18 batch recorded an all time high considering the fact that 2015 placement rate of 55%.",
                 "With more than 90% of global college students bagging a placement after graduating from Oxford University, packages for 2020 intake have multiplied through 3%.",
@@ -323,6 +339,10 @@ export const universityofoxford = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Oxford, England - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Oxford, England - Gallery" },
@@ -342,9 +362,13 @@ export const universityofoxford = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Oxford, England - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships Offered at University of Oxford",
-            "info": "<b>Funding is sponsored by the University of Oxford to the management professionals:</b>",
+            "info": "Funding is sponsored by the University of Oxford to the management professionals:",
             "data": [
                 "The scholarship is completely based on merit-basis.",
                 "There is a range of options available for the students for availing the scholarships. Scholarships are awarded through external funding and loans."
@@ -369,6 +393,10 @@ export const universityofoxford = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Oxford, England - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -416,6 +444,10 @@ export const universityofoxford = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Oxford, England - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Oxford, England - News & Articles" },
@@ -434,6 +466,10 @@ export const universityofoxford = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: 'University of Oxford, England - Hostel'
+        },
         {
             type: "meta",
             meta: [
@@ -454,9 +490,13 @@ export const universityofoxford = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Oxford, England - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Oxford - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many seats allotted to the MBA course at the University of Oxford?",

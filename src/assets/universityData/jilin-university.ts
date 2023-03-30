@@ -20,7 +20,7 @@ export const jilinuniversity = {
         {
             "type": "table-title",
             "title": "Jilin University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Jilin University:</b>",
+            "info": "Given below is the table for quick facts about Jilin University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September 2020"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -37,7 +37,7 @@ export const jilinuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS Course at Jilin University?',
-            info: '<b>Below are some of the benefits of studying MBBS Program for Indian students at Jilin University:</b>',
+            info: 'Below are some of the benefits of studying MBBS Program for Indian students at Jilin University:',
             data: [
                 "In China ranking, Jilin University comes in the top 10 MBBS universities in China.",
                 "Though Jilin University is in B+ Grade, the reviews of Jilin University for Medical programs in China by Indian students are few of the best.",
@@ -58,7 +58,7 @@ export const jilinuniversity = {
         {
             "type": "table",
             "title": "Jilin University - Ranking 2020",
-            "info": "<b>According to 4icu.org, the following is the country & world ranking for Jilin Medical University:</b>",
+            "info": "According to 4icu.org, the following is the country & world ranking for Jilin Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -80,7 +80,7 @@ export const jilinuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation & Recognition',
-            info: '<b>China’s Jilin Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>',
+            info: 'China’s Jilin Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:',
             data: [
                 "Chinese Education Ministry",
                 "United States Medical Licensing Examination (USMLE)",
@@ -93,7 +93,7 @@ export const jilinuniversity = {
         {
             type: 'list-bollet',
             title: 'Life of Students at Jilin University',
-            info: '<b>Students live an excellent life at Jilin medical university as it provides many facilities to its students:</b>',
+            info: 'Students live an excellent life at Jilin medical university as it provides many facilities to its students:',
             data: [
                 "More than 400 international students from Pakistan, Malaysia, Indonesia, India, Nepal, South Africa, Zambia, Zimbabwe, Nigeria, and other Nationalities come for studying MBBS (Clinical Medicine) in Jilin Medical University, China so students get to experience a multicultural environment.",
                 "Every year Jilin Medical College offers Scholarship to excellent students at the end of the academic year.",
@@ -108,7 +108,7 @@ export const jilinuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Changchun City",
-            "info": "<b>The cost of living in Changchun city is as follows:</b>",
+            "info": "The cost of living in Changchun city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -177,9 +177,14 @@ export const jilinuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Jilin Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Jilin University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Jilin Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Jilin Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "1st Year",
@@ -250,7 +255,7 @@ export const jilinuniversity = {
         {
             type: 'list-bollet',
             title: 'Faculties at Jilin Medical University',
-            info: '<b>Below are the course offered at Jilin Medical University for international students:</b>',
+            info: 'Below are the course offered at Jilin Medical University for international students:',
             data: [
                 "Veterinary Science",
                 "Clinical Medicine",
@@ -264,7 +269,7 @@ export const jilinuniversity = {
         {
             "type": "text",
             "title": "Jilin University - MBBS Syllabus",
-            "info": '<p><b>The complete syllabus for studying MBBS at Jilin Medical University is as follows:</b></p>'
+            "info": 'The complete syllabus for studying MBBS at Jilin Medical University is as follows:'
         },
 
         {
@@ -400,9 +405,14 @@ export const jilinuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Jilin Medical University - Admission 2023"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>The eligibility criteria to study MBBS at Jilin Medical University is as follows:</b>',
+            info: 'The eligibility criteria to study MBBS at Jilin Medical University is as follows:',
             data: [
                 "To apply for MBBS or BDS, the basic eligibility criteria is that students must have cleared 12th exam or an equivalent higher secondary exam or 10+2 education system from an approved board of education.",
                 "The major subjects at the 10+2 level must be Physics, Chemistry, Biology, and English.",
@@ -415,7 +425,7 @@ export const jilinuniversity = {
         {
             type: 'step-list',
             title: 'How to Apply for MBBS Admission at Jilin University?',
-            info: '<b>Following is the simple & easy step-by-step admission procedure for applying to MBBS course at Jilin Medical University:</b>',
+            info: 'Following is the simple & easy step-by-step admission procedure for applying to MBBS course at Jilin Medical University:',
             data: [
                 "<b>Step 1:</b> Students must fill the application form to study MBBS at Jilin University.",
                 "<b>Step 2:</b> They should submit all the copies of the necessary documents to the University.",
@@ -427,7 +437,7 @@ export const jilinuniversity = {
         {
             type: 'list-bollet',
             title: 'Required Documents',
-            info: '<b>Following documents are needed at the time of MBBS admission to Jilin Medical University:</b>',
+            info: 'Following documents are needed at the time of MBBS admission to Jilin Medical University:',
             data: [
                 "10th Marksheet",
                 "12th Marksheet",
@@ -446,7 +456,7 @@ export const jilinuniversity = {
         {
             "type": "table",
             "title": "Jilin Medical University - Important Dates 2020",
-            "info": "<b>Check out the Important dates regarding admission at Jilin Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Jilin Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -494,6 +504,11 @@ export const jilinuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Jilin Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jilin Medical University - Reviews" },
@@ -512,6 +527,11 @@ export const jilinuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Jilin Medical University - Placement"
+
+        },
         {
             type: 'list-bollet',
             title: 'Placement',
@@ -543,6 +563,11 @@ export const jilinuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Jilin Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jilin Medical University - Gallery" },
@@ -562,9 +587,14 @@ export const jilinuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Jilin Medical University - Scholarship"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Jilin Medical University - Scholarships',
-            info: '<b>Following scholarships are offered to international students at Jilin Medical University</b>',
+            info: 'Following scholarships are offered to international students at Jilin Medical University',
             data: [
                 "These universities in China are offering a variety of scholarship programs for international students in order to encourage them to come to study in China."
             ]
@@ -572,7 +602,7 @@ export const jilinuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Students can get either full scholarship or partial scholarship, depending on the conditions and criteria for different scholarships. These scholarships are:-</b>',
+            info: 'Students can get either full scholarship or partial scholarship, depending on the conditions and criteria for different scholarships. These scholarships are:-',
             data: [
                 "CGS: Chinese Government Scholarship.",
                 "US: University Scholarships.",
@@ -600,6 +630,11 @@ export const jilinuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Jilin Medical University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jilin Medical University - Faculty" },
@@ -618,6 +653,11 @@ export const jilinuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Jilin Medical University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -638,9 +678,14 @@ export const jilinuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Jilin Medical University - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
-            info: '<b>Following are the hostel facilities offered at Jilin Medical University:</b>',
+            info: 'Following are the hostel facilities offered at Jilin Medical University:',
             data: [
                 "While studying MBBS at Jilin University, there are dormitories available for students. These dormitory rooms are furnished with TV sets, telephones, nice furniture, and network terminals.",
                 "In each building, there are tea rooms, reading rooms, fitness rooms, and cyber cafes.",
@@ -671,9 +716,14 @@ export const jilinuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Jilin Medical University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How many students are studying at the university?",

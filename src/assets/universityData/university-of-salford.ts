@@ -20,7 +20,7 @@ export const universityofsalford = {
         {
             "type": "table-title",
             "title": "University of Salford - Quick Overview",
-            "info": "<b>Are you an international student & like to know important highlights about studying in the UK at the University of Salford, If so, then check the table:</b>",
+            "info": "Are you an international student & like to know important highlights about studying in the UK at the University of Salford, If so, then check the table:",
             "row": [
                 ["<b>Students</b>", "21,500+"],
                 ["<b>Examination</b>", "TOEFL iBT, IELTS and PTE"],
@@ -34,7 +34,7 @@ export const universityofsalford = {
         {
             type: 'list-bollet',
             title: 'Why Choose the University of Salford for Higher Education?',
-            info: '<b>If you are deciding to choose the right destination, we have got some beneficial reasons for why you belong with University of Salford:</b>',
+            info: 'If you are deciding to choose the right destination, we have got some beneficial reasons for why you belong with University of Salford:',
             data: [
                 "The University of Salford has the top-most academic experts to teach the students.",
                 "The University provides world-class facilities along with a reasonable fee structure.",
@@ -108,7 +108,7 @@ export const universityofsalford = {
         {
             type: 'list-bollet',
             title: 'Affiliations',
-            info: '<b>Pursue education in UK at the University of Salford to earn undergraduate and postgraduate degrees by major organisations:</b>',
+            info: 'Pursue education in UK at the University of Salford to earn undergraduate and postgraduate degrees by major organisations:',
             data: [
                 "University Alliance",
                 "Association of Commonwealth Universities",
@@ -120,17 +120,14 @@ export const universityofsalford = {
         {
             "type": "table",
             "title": "Living Cost of Salford, England",
-            "info": "<b>University of Salford is top choice of international students, find out the monthly expenses:</b>",
+            "info": "University of Salford is top choice of international students, find out the monthly expenses:",
             "col": [
 
                 "Particulars",
                 "Approx Range in USD",
                 "Approx Range in Rs",
-
-
             ],
             "row": [
-
                 {
                     "Particulars": "<b>Restaurant</b>",
                     "Approx Range in USD": "478 USD",
@@ -161,8 +158,6 @@ export const universityofsalford = {
                     "Approx Range in USD": "31,235 USD",
                     "Approx Range in Rs": "22,17,600 Rs"
                 },
-
-
             ],
             "heading": "<p><b>Note: </b>1 USD = 71 Rs (for calculation purpose)</p>"
         },
@@ -184,16 +179,17 @@ export const universityofsalford = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-salford" }
             ]
         }
-
-
-
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University of Salford, UK - courses & Fees'
+        },
         {
             "type": "table",
             "title": "University of Salford - Fees,Program & Course Duration",
             "info": "Undergraduate",
-            "textBelowInfo": "<b>Engineering</b>",
+            "textBelowInfo": "Engineering",
             "col": [
                 "Programs",
                 "Type",
@@ -258,7 +254,7 @@ export const universityofsalford = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Business</b>",
+            "textBelowInfo": "Business",
             "col": [
                 "Programs",
                 "Type",
@@ -329,7 +325,7 @@ export const universityofsalford = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Arts</b>",
+            "textBelowInfo": "Arts",
             "col": [
                 "Programs",
                 "Type",
@@ -393,7 +389,7 @@ export const universityofsalford = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Law</b>",
+            "textBelowInfo": "Law",
             "col": [
                 "Programs",
                 "Type",
@@ -464,7 +460,7 @@ export const universityofsalford = {
             "type": "table",
             "title": "University of Salford - Fees,Program & Course Duration",
             "info": "Postgraduate",
-            "textBelowInfo": "<b>Engineering</b>",
+            "textBelowInfo": "Engineering",
             "col": [
                 "Programs",
                 "Type",
@@ -516,7 +512,7 @@ export const universityofsalford = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Business</b>",
+            "textBelowInfo": "Business",
             "col": [
                 "Programs",
                 "Type",
@@ -580,7 +576,7 @@ export const universityofsalford = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Arts</b>",
+            "textBelowInfo": "Arts",
             "col": [
                 "Programs",
                 "Type",
@@ -644,7 +640,7 @@ export const universityofsalford = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Law</b>",
+            "textBelowInfo": "Law",
             "col": [
                 "Programs",
                 "Type",
@@ -683,7 +679,7 @@ export const universityofsalford = {
         {
             "type": "list-bollet",
             "title": "Faculties provided at University of Salford",
-            "info": "<b>The university is providing highly skilled faculty experts in various departments:</b>",
+            "info": "The university is providing highly skilled faculty experts in various departments:",
             "data": [
                 "Salford Business School",
                 "Salford School of Arts Media",
@@ -711,9 +707,13 @@ export const universityofsalford = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Salford, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Entry Requirements",
-            "info": "<b>Checking admission criteria of your chosen programs is an important step:</b>",
+            "info": "Checking admission criteria of your chosen programs is an important step:",
             "textBelowInfo": "Undergraduate",
             "data": [
                 "The students must score the following grades (exam board in brackets)- 50% (West Bengal), 55% (ISC, awarded by CISCE), 60% (CBSE), 65% (all other state boards) to take admission in UG courses.",
@@ -730,7 +730,7 @@ export const universityofsalford = {
         {
             "type": "list-bollet",
             "title": "English Language Requirements",
-            "info": "<b>Undergraduate</b>",
+            "info": "Undergraduate",
             "data": [
                 "The students must appear in the IELTS examination and score an overall 6.0 (with a minimum of 5.5 in each component) or equivalent"],
         },
@@ -777,7 +777,7 @@ export const universityofsalford = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>These are the essential documents to be submitted by individuals looking to study in the UK:</b>",
+            "info": "These are the essential documents to be submitted by individuals looking to study in the UK:",
             "data": [
                 "Application form",
                 "Higher secondary education certificates",
@@ -819,6 +819,10 @@ export const universityofsalford = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Salford, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Salford, UK - Reviews" },
@@ -837,6 +841,10 @@ export const universityofsalford = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Salford, UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -905,6 +913,10 @@ export const universityofsalford = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Salford, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Salford, UK - Gallery" },
@@ -924,9 +936,13 @@ export const universityofsalford = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Salford, UK - Scholarship'
+        },
+        {
             "type": "table",
             "title": "Scholarships",
-            "info": "<b>The University of Central is happy to provide Lancashire has a wide range of scholarships and bursaries for international students:</b>",
+            "info": "The University of Central is happy to provide Lancashire has a wide range of scholarships and bursaries for international students:",
             "col": [
                 "Scholarships",
                 "Course",
@@ -997,6 +1013,10 @@ export const universityofsalford = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Salford, UK - Faculty'
+        },
+        {
             "type": "table",
             "title": "Faculty",
             "col": [
@@ -1049,6 +1069,10 @@ export const universityofsalford = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Salford, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Salford, UK - News & Articles" },
@@ -1067,6 +1091,10 @@ export const universityofsalford = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: 'University of Salford, UK - Hostel'
+        },
         {
             "type": "list-bollet",
             "title": "Accommodation",
@@ -1097,6 +1125,10 @@ export const universityofsalford = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'University of Salford, UK - FAQ'
+        },
         {
             "type": "question-list",
             "title": "University of Salford - Important FAQ’s",

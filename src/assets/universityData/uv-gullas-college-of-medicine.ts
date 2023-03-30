@@ -21,7 +21,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "table-title",
             "title": "UV Gullas College of Medicine - Quick Highlights",
-            "info": "<b>Given below is the table for quick overview about Gullas College of Medicine:</b>",
+            "info": "Given below is the table for quick overview about Gullas College of Medicine:",
             "col": [
             ],
             "row": [
@@ -39,7 +39,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at UV Gullas College of Medicine?",
-            "info": "<b>The benefits of studying MBBS at UV Gullas college of Medicine are given below:</b>",
+            "info": "The benefits of studying MBBS at UV Gullas college of Medicine are given below:",
             "data": [
                 "At UV Gullas college of Medicine, American Standard is achievable and affordable too.",
                 "The UV Gullas college of Medicine creates a well-established platform for USMLE.",
@@ -60,7 +60,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "table",
             "title": "UV Gullas College of Medicine Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Gullas College of Medicine is as follows:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Gullas College of Medicine is as follows:",
             "col": [
                 "Country",
                 "world",
@@ -78,7 +78,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "table",
             "title": "UV Gullas College of Medicine - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Gullas College of Medicine of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Gullas College of Medicine of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -99,7 +99,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Student Life at UV Gullas College of Medicine",
-            "info": "<b>Life of students at UV Gullas College of Medicine is as follows:</b>",
+            "info": "Life of students at UV Gullas College of Medicine is as follows:",
             "data": [
                 "To enhance study with a peaceful mind the student is offered with the fulfilled necessities at UV Gullas College of Medicine.",
                 "Students get an on-campus hostel to stay, and Indian delicacies are available for the students. So students also need not compromise on their food.",
@@ -130,15 +130,16 @@ export const uvgullascollegeofmedicine = {
             ]
         }
 
-
-
     ],
     "coursesandfees": [
-
+        {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - courses & Fees'
+        },
         {
             "type": "table",
             "title": "UV Gullas College - Admission Dates 2022-23",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Devdaha Medical College:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Devdaha Medical College:",
             "col": [
                 "Year",
                 "16-months",
@@ -197,7 +198,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at UV Gullas College of Medicine",
-            "info": "<b>Following are the courses at UV Gullas college of medicine:</b>",
+            "info": "Following are the courses at UV Gullas college of medicine:",
             "data": [
                 "Dentistry",
                 "Obstetrics & Gynecology",
@@ -212,7 +213,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "table",
             "title": "UV Gullas College of Medicine - Admission Dates 2022-23",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Devdaha Medical College:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Devdaha Medical College:",
             "col": [
                 "First Year",
                 "Second  Year",
@@ -291,9 +292,13 @@ export const uvgullascollegeofmedicine = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "What are the Eligibility Criteria to get Admission in UV Gullas College of Medicine?",
-            "info": "<b>Below given is the eligibility criteria for studying MBBS at UV Gullas College of Medicine:</b>",
+            "info": "Below given is the eligibility criteria for studying MBBS at UV Gullas College of Medicine:",
             "data": [
                 "Students should have more than 50% marks in chemistry, biology, or botany and zoology and physics for the 12th grade.",
                 "Students must have passed NEET so that they can practice in India to pursue MBBS in the Philippines.",
@@ -303,7 +308,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "step-list",
             "title": "How can I get admission in UV Gullas College of Medicine?",
-            "info": "<b>The admission process for MBBS course at UV Gullas College of Medicine is mentioned below:</b>",
+            "info": "The admission process for MBBS course at UV Gullas College of Medicine is mentioned below:",
             "data": [
                 "<b>Step 1:</b> Fill in the application form accurately.",
                 "<b>Step 2:</b> After the step one, attach the documents listed below:<br>- Scanned copy of marksheet of completion of higher secondary education / tertiary education<br>- Score card of NEET<br>- Scanned Passport c",
@@ -316,7 +321,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required for MBBS admission into UV Gullas College of Medicine:</b>",
+            "info": "Following documents are required for MBBS admission into UV Gullas College of Medicine:",
             "data": [
                 "10th and 12th Marksheets",
                 "Undergraduate, and Graduate certificates (if any)",
@@ -337,7 +342,7 @@ export const uvgullascollegeofmedicine = {
         {
             "type": "table",
             "title": "UV Gullas College of Medicine - Admission Dates 2022-23",
-            "info": "<b>Students should consider the following important dates to follow the timetable of admission dates:</b>",
+            "info": "Students should consider the following important dates to follow the timetable of admission dates:",
             "col": [
                 "Events",
                 "Dates",
@@ -379,6 +384,10 @@ export const uvgullascollegeofmedicine = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "UV Gullas College of Medicine, Philippines  - Reviews" },
@@ -397,6 +406,10 @@ export const uvgullascollegeofmedicine = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - Placement'
+        },
         {
             "type": "number-list",
             "title": "",
@@ -427,6 +440,10 @@ export const uvgullascollegeofmedicine = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "UV Gullas College of Medicine, Philippines  - Gallery" },
@@ -445,6 +462,10 @@ export const uvgullascollegeofmedicine = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "",
@@ -473,6 +494,10 @@ export const uvgullascollegeofmedicine = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "UV Gullas College of Medicine, Philippines  - News & Articles" },
@@ -491,6 +516,10 @@ export const uvgullascollegeofmedicine = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - Faculty'
+        },
         {
             type: "meta",
             meta: [
@@ -511,9 +540,13 @@ export const uvgullascollegeofmedicine = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The accommodation facilities at UV Gullas College of Medicine are as follows:</b>",
+            "info": "The accommodation facilities at UV Gullas College of Medicine are as follows:",
             "data": [
 
                 "Gullas College of Medicine provides separate on campus accommodation for both women and men students and offers them full range of facilities.",
@@ -559,9 +592,13 @@ export const uvgullascollegeofmedicine = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'UV Gullas College of Medicine, Philippines  - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "UV Gullas College of Medicine, Philippines - Important FAQ’s",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is UV Gullas College of Medicine fully recognized?",

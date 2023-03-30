@@ -19,7 +19,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "table",
             "title": "Tashkent State Dental Institute: Quick Highlights 2022",
-            "info": "<b>Go through the key points of Tashkent State Dental Institute, that will assist during enrollment into the MBBS program:</b>",
+            "info": "Go through the key points of Tashkent State Dental Institute, that will assist during enrollment into the MBBS program:",
             "col": [
             ],
             "row": [
@@ -35,7 +35,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Tashkent State Dental Institute?",
-            "info": "<b>Checkout some favourable reasons why global medical aspirants urge to choose Tashkent State Dental Institute for doing MBBS education:</b>",
+            "info": "Checkout some favourable reasons why global medical aspirants urge to choose Tashkent State Dental Institute for doing MBBS education:",
             "data": [
                 "Tashkent State Dental Institute has English medium as well as Russian medium of instruction for teaching medical education to the students coming across the globe.",
                 "Tashkent State Dental Institute has official acknowledgement of officially various medical organisation including the Medical Council of India (NMC) and the World Health Organization (WHO).",
@@ -50,13 +50,13 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction at the Tashkent State Dental Institute is the English & Russian language:</b>",
+            "info": "The medium of instruction at the Tashkent State Dental Institute is the English & Russian language:",
             "data": "<p>The goal of the Tashkent State Dental Institute is to provide English and Russian language for Bachelor of Medicine program training to transform the students into a universally competitive and competent qualified physician.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Tashkent State Dental Institute",
-            "info": "<b>The students can avail required facilities at Tashkent State Dental Institute offer and that too in the affordable price:</b>",
+            "info": "The students can avail required facilities at Tashkent State Dental Institute offer and that too in the affordable price:",
             "data": [
                 "Classroom",
                 "Canteen",
@@ -69,7 +69,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "table",
             "title": "Tashkent State Dental Institute: Ranking 2022",
-            "info": "<b>Among top medical university of Uzbekistan, Tashkent State Dental Institute ranks at desirable positions according to Uni Rank:</b>",
+            "info": "Among top medical university of Uzbekistan, Tashkent State Dental Institute ranks at desirable positions according to Uni Rank:",
             "col": [
                 "Country",
                 "World"
@@ -84,7 +84,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
-            "info": "<b>Tashkent State Dental Institute was included in the list of acknowledged medical organisations:</b>",
+            "info": "Tashkent State Dental Institute was included in the list of acknowledged medical organisations:",
             "data": [
                 "Tashkent State Dental Institute is recognised by the National Medical Commission (NMC).",
                 "Institute is approved by the World health organization (WHO).",
@@ -94,7 +94,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The institute is located in Tashkent city, It has lower expenses varying as per individual's basic requirements, check out the table given below on monthly basis expenses:</b>",
+            "info": "The institute is located in Tashkent city, It has lower expenses varying as per individual's basic requirements, check out the table given below on monthly basis expenses:",
             "col": [
                 "Particulars",
                 "Annual Amount in USD",
@@ -123,7 +123,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "list-bollet",
             "title": "About City",
-            "info": "<b>Tashkent State Dental Institute is located in Tashkent, a city of Uzbekistan, Read the information regarding the city:</b>",
+            "info": "Tashkent State Dental Institute is located in Tashkent, a city of Uzbekistan, Read the information regarding the city:",
             "data": [
                 "Tashkent is the capital city of Uzbekistan.",
                 "The city is situated in Makhtumkuli street, Tashkent.",
@@ -136,7 +136,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>One must explore the topmost attractable places of Tashkent city of Uzbekistan -</b>",
+            "info": "One must explore the topmost attractable places of Tashkent city of Uzbekistan -",
             "row": [
                 ["Amir Timur Museum", "Chorsu Market",],
                 ["Ko'kaldosh Madrasasi", "Museum of Applied Arts",],
@@ -169,9 +169,14 @@ export const tashkentstatedentalinstitute = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Tashkent State Dental Institute - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "",
-            "info": "<b>One must explore the topmost attractable places of Tashkent city of Uzbekistan -</b>",
+            "info": "One must explore the topmost attractable places of Tashkent city of Uzbekistan -",
             "col": [
                 "Academic Year",
                 "Tuition Fee in USD",
@@ -219,7 +224,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Tashkent State Dental Institute",
-            "info": "<b>Tashkent State Dental Institute offers a wide range of medicine faculties to the medical aspirants:</b>",
+            "info": "Tashkent State Dental Institute offers a wide range of medicine faculties to the medical aspirants:",
             "data": [
                 "Vocational Training",
                 "Medical Business",
@@ -236,7 +241,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "list-bollet",
             "title": "Tashkent State Dental Institute: MBBS Course Duration",
-            "info": "<b>Tashkent State Dental Institute offers 5 years of medicine program for worldwide medical aspirants:</b>",
+            "info": "Tashkent State Dental Institute offers 5 years of medicine program for worldwide medical aspirants:",
             "data": [
                 "The duration of full-time medicine education is for 5 years.",
                 "In 5 years, the students study about the basic knowledge of the MBBS program at Tashkent State Dental Institute.",
@@ -247,7 +252,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "table",
             "title": "Tashkent State Dental Institute: MBBS Syllabus",
-            "info": "<b>Go through the well-organised curriculum of MBBS course to gather the detailed information about various subjects in each semester:</b>",
+            "info": "Go through the well-organised curriculum of MBBS course to gather the detailed information about various subjects in each semester:",
             "col": [
                 "First Year",
                 "Second Year",
@@ -398,9 +403,14 @@ export const tashkentstatedentalinstitute = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Tashkent State Dental Institute - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students must fit in eligibility criteria to get admission in Tashkent State Dental Institute:</b>",
+            "info": "The students must fit in eligibility criteria to get admission in Tashkent State Dental Institute:",
             "data": [
                 "Candidates should complete the age of 17 years at least or before the 31st December of the admission year.",
                 "The student must clear 10+12 with physics, chemistry, biology and English subjects.",
@@ -412,7 +422,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "step-list",
             "title": "Admission Procedure",
-            "info": "<b>Here are the steps to take MBBS admission in Tashkent State Dental Institute:</b>",
+            "info": "Here are the steps to take MBBS admission in Tashkent State Dental Institute:",
             "data": [
                 "<b>Step 1:</b> The candidates must fill the online application form available on the official website with correct details.",
                 "<b>Step 2:</b> Upload all scanned copies of education and other required documents with photographs and submit the application form.",
@@ -424,7 +434,7 @@ export const tashkentstatedentalinstitute = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Medical aspirants must submit essential documents required during MBBS admission:</b>",
+            "info": "Medical aspirants must submit essential documents required during MBBS admission:",
             "data": [
                 "The students must carry the duly filled application form.",
                 "Submit the 10th & 12th Mark sheets.",
@@ -460,6 +470,11 @@ export const tashkentstatedentalinstitute = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Tashkent State Dental Institute - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tashkent State Dental Institute - Reviews" },
@@ -478,6 +493,11 @@ export const tashkentstatedentalinstitute = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Tashkent State Dental Institute - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -498,6 +518,11 @@ export const tashkentstatedentalinstitute = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Tashkent State Dental Institute - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tashkent State Dental Institute - Gallery" },
@@ -516,6 +541,11 @@ export const tashkentstatedentalinstitute = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Tashkent State Dental Institute - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -536,6 +566,11 @@ export const tashkentstatedentalinstitute = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Tashkent State Dental Institute - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tashkent State Dental Institute - Faculty" },
@@ -554,6 +589,11 @@ export const tashkentstatedentalinstitute = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Tashkent State Dental Institute - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -574,9 +614,14 @@ export const tashkentstatedentalinstitute = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Tashkent State Dental Institute - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The Tashkent State Dental Institute provides a spacious and comfortable stay at hostel rooms enjoying all required facilities at doorstep:</b>",
+            "info": "The Tashkent State Dental Institute provides a spacious and comfortable stay at hostel rooms enjoying all required facilities at doorstep:",
             "data": [
                 "Tashkent State Dental Institute offers fully furnished, safe and comfortable hostel rooms.",
                 "The hostel has hot and cold water and a centralised heating system.",
@@ -608,9 +653,14 @@ export const tashkentstatedentalinstitute = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Tashkent State Dental Institute - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Tashkent State Dental Institute: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What are the other expenses apart from the medical program fee at Tashkent State Dental Institute?",

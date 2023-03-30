@@ -11,7 +11,6 @@ export const tyumenstatemedicaluniversity = {
             type: 'title',
             title: 'Tyumen State Medical University, Russia'
         },
-
         {
             type: 'text',
             title: 'About Tyumen State Medical University, Russia',
@@ -22,7 +21,7 @@ export const tyumenstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Tyumen State Medical University - Quick Highlights",
-            "info": "<b>Given below is the table for quick facts about Tyumen State Medical University:</b>",
+            "info": "Given below is the table for quick facts about Tyumen State Medical University:",
             "col": [
             ],
             "row": [
@@ -35,15 +34,13 @@ export const tyumenstatemedicaluniversity = {
                 ["<b>Course Duration</b>", "5.8 years with internship"],
                 ["<b>Medium of Teaching</b>", "English"],
                 ["<b>University Ranking</b>", "Country - 48<br>World - 2166"],
-                ["<b>University Recognition</b>", "WHO & NMC approved"],
-
-
+                ["<b>University Recognition</b>", "WHO & NMC approved"]
             ]
         },
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Tyumen State Medical University?",
-            "info": "<b>Below are some of the benefits of studying MBBS at Tyumen State Medical University:</b>",
+            "info": "Below are some of the benefits of studying MBBS at Tyumen State Medical University:",
             "img": '',
             "data": [
                 "In Tyumen State Medical University, the Advanced Training Faculty imparts professional education to pharmacists and doctors.",
@@ -55,27 +52,23 @@ export const tyumenstatemedicaluniversity = {
                 "The university has an affordable fee structure.",
                 "Students are not required to give any kind of entrance examination.",
                 "Students also get hostel facilities and Indian food.",
-
-
             ]
         },
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Tyumen State Medical University in Russia is accredited by many medical bodies such as:</b>",
+            "info": "Tyumen State Medical University in Russia is accredited by many medical bodies such as:",
             "img": '',
             "data": [
                 "WHO (World Health Organization)",
                 "NMC (National Medical Commission)",
-                "Ministry of Public Health of the Russian Federation",
-
-
+                "Ministry of Public Health of the Russian Federation"
             ]
         },
         {
             "type": "table",
             "title": "Tyumen State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Tyumen State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Tyumen State Medical University:",
             "col": [
                 "World",
                 "Country",
@@ -89,12 +82,10 @@ export const tyumenstatemedicaluniversity = {
 
             ]
         },
-
-
         {
             "type": "table",
             "title": "Cost of Living at Tyumen",
-            "info": "<b>The cost of living at Tyumen city is as follows:</b>",
+            "info": "The cost of living at Tyumen city is as follows:",
             "col": [
                 "Activity",
                 "Cost",
@@ -151,6 +142,10 @@ export const tyumenstatemedicaluniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - courses & Fees'
+        },
         {
             "type": "table",
             "title": "Pskov State University - MBBS Fees Structure 2022",
@@ -222,7 +217,7 @@ export const tyumenstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Tyumen State Medical University",
-            "info": "<b>Russia’s Tyumen State Medical University has following courses:</b>",
+            "info": "Russia’s Tyumen State Medical University has following courses:",
             "data": [
                 "General Medicine",
                 "Pediatrics",
@@ -235,12 +230,12 @@ export const tyumenstatemedicaluniversity = {
         {
             "type": "text",
             "title": "Tyumen State Medical University - MBBS Course Duration",
-            "info": "<b>The duration of MBBS course at Tyumen State Medical University is mentioned below:</b><p>The duration of MBBS course at Tyumen State Medical University is <strong>5.8 years</strong>, out of which 1 year is internship. The medium of instruction is English for studying MBBS at this university.</p>",
+            "info": "The duration of MBBS course at Tyumen State Medical University is mentioned below:<p>The duration of MBBS course at Tyumen State Medical University is <strong>5.8 years</strong>, out of which 1 year is internship. The medium of instruction is English for studying MBBS at this university.</p>",
         },
         {
             "type": "text",
             "title": "Tyumen State Medical University - MBBS Syllabus",
-            "info": '<p><b>The complete syllabus for studying MBBS at Tyumen State Medical University is as follows:</b></p>'
+            "info": '<p>The complete syllabus for studying MBBS at Tyumen State Medical University is as follows:</p>'
         },
         {
             "type": "table",
@@ -355,9 +350,13 @@ export const tyumenstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - Admission 2023'
+        },
+        {
             "type": "table",
             "title": "Tyumen State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Tyumen State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Tyumen State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -381,7 +380,7 @@ export const tyumenstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Tyumen State Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Tyumen State Medical University is as follows:",
             "data": [
                 "Students must have cleared NEET exam.",
                 "The student must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -392,7 +391,7 @@ export const tyumenstatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following is the admission process for applying to MBBS course at Tyumen State Medical University:</b>",
+            "info": "Following is the admission process for applying to MBBS course at Tyumen State Medical University:",
             "data": [
                 "<b>Step 1:</b> Applicants should fill the application form available online. They can send the documents via email.",
                 "<b>Step 2:</b> Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -405,7 +404,7 @@ export const tyumenstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required at the time of admission to Tyumen State Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Tyumen State Medical University:",
             "data": [
                 "Filled admission form (scan copy)",
                 "Mark sheet and certificate of class 10th (scan copy)",
@@ -435,6 +434,10 @@ export const tyumenstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tyumen State Medical University, Russia - Reviews" },
@@ -453,6 +456,10 @@ export const tyumenstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -483,6 +490,10 @@ export const tyumenstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tyumen State Medical University, Russia - Gallery" },
@@ -502,9 +513,13 @@ export const tyumenstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships provided at Tyumen State Medical University are as follows:</b>",
+            "info": "The scholarships provided at Tyumen State Medical University are as follows:",
             "data": [
                 "Novus Biologicals Scholarship",
                 "Jared J. Davis Grant",
@@ -533,6 +548,10 @@ export const tyumenstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tyumen State Medical University, Russia - Faculty" },
@@ -551,6 +570,10 @@ export const tyumenstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -571,9 +594,13 @@ export const tyumenstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Tyumen State Medical University:</b>",
+            "info": "Following are the hostel facilities at Tyumen State Medical University:",
             "data": [
                 "Tyumen State Medical University consists of 5 student hostels.",
                 "Separate accommodation for boys and girls is provided by the university.",
@@ -612,9 +639,13 @@ export const tyumenstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Tyumen State Medical University, Russia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Tyumen State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How are the practical facilities at Tyumen state medical university?",

@@ -20,7 +20,7 @@ export const yorkstjohnuniversity = {
         {
             "type": "table-title",
             "title": "York St John University - Quick Overview",
-            "info": "<b>Let’s dive through basic information of York St John University if you are willing to study in the UK:</b>",
+            "info": "Let’s dive through basic information of York St John University if you are willing to study in the UK:",
             "row": [
                 ["<b>University Status</b>", "Public"],
                 ["<b>Students</b>", "7,000"],
@@ -37,7 +37,7 @@ export const yorkstjohnuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Choose York St John University?',
-            info: '<b>There are many reasons to choose York St John University to acquire higher studies:</b>',
+            info: 'There are many reasons to choose York St John University to acquire higher studies:',
             data: [
                 "York St John University offers 100-degree programs options to the students at the foundation and undergraduate levels.",
                 "The students' Union organises different types of activities including various sports, functions and other interest groups.",
@@ -51,7 +51,7 @@ export const yorkstjohnuniversity = {
         {
             "type": "table",
             "title": "York St John University Ranking 2022",
-            "info": "<b>York St John University has satisfactory world and country rankings mentioned below:</b>",
+            "info": "York St John University has satisfactory world and country rankings mentioned below:",
             "col": [
                 "World",
                 "Country",
@@ -67,7 +67,7 @@ export const yorkstjohnuniversity = {
         {
             "type": "table",
             "title": "Living Costs in York, England",
-            "info": "<b>Check out the monthly basis living costs of York city if you want to study at York St John University:</b>",
+            "info": "Check out the monthly basis living costs of York city if you want to study at York St John University:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -85,7 +85,7 @@ export const yorkstjohnuniversity = {
                     "Approx range in RS": "5,822 Rs"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1 USD = 71 Rs ( for calculation purpose )</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1 USD = 71 Rs ( for calculation purpose )</p>'
         },
         {
             type: "meta",
@@ -106,6 +106,10 @@ export const yorkstjohnuniversity = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'York St John University, UK - courses & Fees'
+        },
         {
             "type": "text",
             "title": "York St John University - Program & Course Duration",
@@ -419,9 +423,13 @@ export const yorkstjohnuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'York St John University, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Indian Students",
-            "info": "<b>Admission eligibility criteria are mandatory to be fulfilled by the students for undergraduate admissions:</b>",
+            "info": "Admission eligibility criteria are mandatory to be fulfilled by the students for undergraduate admissions:",
             "data": [
                 "The students must have Bachelors Degree with 60 or higher or a second class degree.",
                 "If English is not the first language of students then keep evidence of English language competence.",
@@ -431,7 +439,7 @@ export const yorkstjohnuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Detailed information about the admission process is needed to know by the students before applying for admission:</b>',
+            info: 'Detailed information about the admission process is needed to know by the students before applying for admission:',
             data: [
                 "Step 1: <b>Research Course</b><br> The students must check out the course list to find the one course to study, then apply through UCAS.",
                 "Step 2: <b>Check Eligibility Criteria</b><br> The candidates should go through the English language and academic requirements of the country.",
@@ -444,7 +452,7 @@ export const yorkstjohnuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required at the Time of Admission",
-            "info": "<b>The students must prepare all required documents to start the admission process:</b>",
+            "info": "The students must prepare all required documents to start the admission process:",
             "data": [
                 "Application Form",
                 "COVID-19 Reports",
@@ -485,6 +493,10 @@ export const yorkstjohnuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'York St John University, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "York St John University, UK - Reviews" },
@@ -503,6 +515,10 @@ export const yorkstjohnuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'York St John University, UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -555,6 +571,10 @@ export const yorkstjohnuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'York St John University, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "York St John University, UK - Gallery" },
@@ -574,6 +594,10 @@ export const yorkstjohnuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'York St John University, UK - Scholarship'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "York St John University, UK - Scholarship" },
@@ -592,6 +616,10 @@ export const yorkstjohnuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'York St John University, UK - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -643,6 +671,10 @@ export const yorkstjohnuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'York St John University, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "York St John University, UK - News & Articles" },
@@ -662,9 +694,13 @@ export const yorkstjohnuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'York St John University, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation Facility",
-            "info": "<b>The students will get a spacious and comfy home away from home on the campus of the university:</b>",
+            "info": "The students will get a spacious and comfy home away from home on the campus of the university:",
             "data": [
                 "The college guarantees accommodation places for all UK, EU and international first-year students.",
                 "The university accommodation sites are all in the centre of York, 1 mile or less from campus.",
@@ -675,7 +711,7 @@ export const yorkstjohnuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Accommodation Places</b>",
+            "info": "Accommodation Places",
             "data": [
                 "St John Central",
                 "Limes Court",
@@ -706,9 +742,13 @@ export const yorkstjohnuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'York St John University, UK - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "York St John University - FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Which exams are required to take admission at York St John University?",

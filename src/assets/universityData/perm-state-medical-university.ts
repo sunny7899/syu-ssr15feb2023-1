@@ -19,7 +19,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Perm State Medical University - Quick Highlights 2022",
-            "info": "<b>Refer the table below for quick facts about Perm State Medical University:</b>",
+            "info": "Refer the table below for quick facts about Perm State Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -34,7 +34,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying MBBS at Perm State Medical University",
-            "info": "<b>Following are the advantages of studying medicine course in Perm State Medical University:</b>",
+            "info": "Following are the advantages of studying medicine course in Perm State Medical University:",
             "data": [
                 "Perm State Medical University is one of the top-ranked government universities in the city of Perm, Russia.",
                 "It offers a low-cost fee structure which makes it very much affordable.",
@@ -55,7 +55,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Perm State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Perm State Medical University :</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Perm State Medical University :",
             "col": [
                 "Country",
                 "World"
@@ -70,7 +70,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Perm State Medical University has the following accreditation and recognition:</b>",
+            "info": "Perm State Medical University has the following accreditation and recognition:",
             "data": [
                 " World Health Organization (WHO)",
                 "National Medical Commission (NMC)"
@@ -79,7 +79,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Perm State Medical University - FMGE Performance 2021",
-            "info": "<b>Perm State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Perm State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -94,16 +94,12 @@ export const permstatemedicaluniversity = {
                     "Pass %": "35.00%"
                 },
             ]
-        }, {
-            "type": "text",
-            "title": "Cost of Living",
-            "info": "",
-            "data": '<p><b>The expenses of living in Russia is not much different than living in India:</b></p>'
         },
         {
             "type": "table",
-            "title": "",
-            "info": "<p>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.</p>",
+            "title": "Cost of Living",
+            "info": "The expenses of living in Russia is not much different than living in India:",
+            "textBelowInfo": "<p>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.</p>",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -167,6 +163,11 @@ export const permstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Perm State Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Perm State Medical University - MBBS Fee Structure 2022",
             "info": "Perm State Medical University has an affordable fee structure:",
@@ -220,10 +221,9 @@ export const permstatemedicaluniversity = {
             "heading": "<strong>Note: </strong>1 USD = Rs. 71 Rs (approx)"
         },
         {
-            "type": "text",
+            "type": "list-bollet",
             "title": "Courses Offered at Perm State Medical University",
-            "info": "<b>Apart from the MBBS course, there are following courses taught in this university:</b>",
-
+            "info": "Apart from the MBBS course, there are following courses taught in this university:",
             "data": [
                 "Medicine",
                 "Pediatrics",
@@ -237,7 +237,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Perm State Medical University - MBBS Course Duration",
-            "info": "<b>The course duration of MBBS in Russia is 6 years:</b>",
+            "info": "The course duration of MBBS in Russia is 6 years:",
             "data": [
                 "MBBS degree’s duration in Russia is 6 years, this includes 5 years course and 1 year of internship."
             ]
@@ -245,13 +245,13 @@ export const permstatemedicaluniversity = {
         {
             "type": "text",
             "title": "Perm State Medical University - MBBS Syllabus",
-            "info": "<p><strong>The syllabus for MBBS in Russia is shown in the table below:</strong></p>",
+            "info": "The syllabus for MBBS in Russia is shown in the table below:",
         },
 
         {
             "type": "table",
             "title": "",
-            "info": "<b>1st Year</b>",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -266,7 +266,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -301,7 +301,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -324,7 +324,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th - 6th Year</b>",
+            "info": "4th - 6th Year",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["Oncology", "Internal Medicine"],
@@ -354,10 +354,16 @@ export const permstatemedicaluniversity = {
         }
     ],
     "admission": [
+
+        {
+            type: 'title',
+            title: "Perm State Medical University - Admission 2023"
+
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS:",
             "data": [
                 "Candidates who are above 17 years old on or before 31st December of admission year can take admission to MBBS in Russia.",
                 "Candidates who have scored more than 50% in HSC exam or in similar courses with Physics, Chemistry, Biology and English as compulsory subjects can apply for the admission process for MBBS in Russia.",
@@ -367,7 +373,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process for MBBS Course",
-            "info": "<b>Students need to follow these steps to take admission in Russia for MBBS:</b>",
+            "info": "Students need to follow these steps to take admission in Russia for MBBS:",
             "data": [
                 "<b>Step 1:</b>Students need to fill the admission form from the online portal of university",
                 "<b>Step 2:</b>Submit all the documents online or at the office of ‘Select Your University’.",
@@ -395,7 +401,7 @@ export const permstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Here the Important dates regarding admission at Perm State Medical University:</b>",
+            "info": "Here the Important dates regarding admission at Perm State Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -438,6 +444,12 @@ export const permstatemedicaluniversity = {
         }
     ],
     "Review": [
+
+        {
+            type: 'title',
+            title: "Perm State Medical University - Reviews"
+
+        },
         {
             type: "meta",
             meta: [
@@ -457,6 +469,12 @@ export const permstatemedicaluniversity = {
         }
     ],
     "placement": [
+
+        {
+            type: 'title',
+            title: "Perm State Medical University - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "",
@@ -486,6 +504,12 @@ export const permstatemedicaluniversity = {
         }
     ],
     "gallery": [
+
+        {
+            type: 'title',
+            title: "Perm State Medical University - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -505,6 +529,12 @@ export const permstatemedicaluniversity = {
         }
     ],
     "scholarship": [
+
+        {
+            type: 'title',
+            title: "Perm State Medical University - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "",
@@ -533,6 +563,12 @@ export const permstatemedicaluniversity = {
         }
     ],
     "faculty": [
+
+        {
+            type: 'title',
+            title: "Perm State Medical University - Faculty"
+
+        },
         {
             type: "meta",
             meta: [
@@ -552,6 +588,12 @@ export const permstatemedicaluniversity = {
         }
     ],
     "news": [
+
+        {
+            type: 'title',
+            title: "Perm State Medical University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -571,10 +613,16 @@ export const permstatemedicaluniversity = {
         }
     ],
     "hostel": [
+
+        {
+            type: 'title',
+            title: "Perm State Medical University - Hostel"
+
+        },
         {
             "type": "list-bollet",
             "title": "Hostel and Food",
-            "info": "<b>Perm State Medical University provides the facilities of accommodation and mess for students:</b>",
+            "info": "Perm State Medical University provides the facilities of accommodation and mess for students:",
             "data": [
                 "Students at Perm state medical university are provided with 7 hostels on a sharing basis.",
                 "Rooms are provided with 2 and 3 beds sharing.",
@@ -608,10 +656,16 @@ export const permstatemedicaluniversity = {
     ],
     "faq":
         [
+
+            {
+                type: 'title',
+                title: "Perm State Medical University - FAQ"
+
+            },
             {
                 "type": "question-list",
                 "title": "National Metallurgical Academy of Ukraine: Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. Is the National Metallurgical Academy of Ukraine worth a place to study Metallurgical Engineering?",

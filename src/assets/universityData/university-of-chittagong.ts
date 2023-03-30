@@ -20,7 +20,7 @@ export const universityofchittagong = {
         {
             "type": "table-title",
             "title": "University of Chittagong - Quick Overview 2022",
-            "info": "<b>Given below is the table for quick highlights about University of Chittagong, Bangladesh:</b>",
+            "info": "Given below is the table for quick highlights about University of Chittagong, Bangladesh:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -38,7 +38,7 @@ export const universityofchittagong = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at University of Chittagong?",
-            "info": "<b>Below are some of the benefits of studying MBBS at the University of Chittagong:</b>",
+            "info": "Below are some of the benefits of studying MBBS at the University of Chittagong:",
             "data": [
                 "The university has amazing infrastructure with necessary laboratory facilities.",
                 "As the university has tie ups with many international organizations, students can participate in international student exchange programs.",
@@ -52,7 +52,7 @@ export const universityofchittagong = {
         {
             "type": "table",
             "title": "University of Chittagong - Ranking 2022",
-            "info": "<b>According to 4icu.org, the following is the country and world ranking for the University of Chittagong, Bangladesh:</b>",
+            "info": "According to 4icu.org, the following is the country and world ranking for the University of Chittagong, Bangladesh:",
             "col": [
                 "Country",
                 "World"
@@ -67,7 +67,7 @@ export const universityofchittagong = {
         {
             "type": "table",
             "title": "University of Chittagong - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at the University of Chittagong is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at the University of Chittagong is as follows:",
             "col": [],
             "data": [
                 {
@@ -130,7 +130,7 @@ export const universityofchittagong = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of teaching in University of Chittagong is English:</b>",
+            "info": "The medium of teaching in University of Chittagong is English:",
             "data": [
                 "The education pattern in Bangladesh for medical degree is not much different than that in India.",
                 "The medium of teaching is in English for all the students in the University of Chittagong ."
@@ -139,7 +139,7 @@ export const universityofchittagong = {
         {
             "type": "list-bollet",
             "title": "Library at University of Chittagong",
-            "info": "<b>The University of Chittagong provides students with excellent library facilities:</b>",
+            "info": "The University of Chittagong provides students with excellent library facilities:",
             "data": [
                 "The library of the University of Chittagong contains over 3,50,000 volumes of books, 40,000 e-Books. Along with this, journals for different Faculties, Centers, and Institutes make it more enriched.",
                 "The library has a rare collection of various old manuscripts written in Bengali, Sanskrit, Arabic, Persian, and Urdu of about 600, which were written during the period 1872 to 1953.",
@@ -150,7 +150,7 @@ export const universityofchittagong = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>University of Chittagong has following Accreditation and Recognition:</b>",
+            "info": "University of Chittagong has following Accreditation and Recognition:",
             "data": [
                 "The University of Chittagong has been recognized and accredited by the University Grants Commision, Bangladesh and it is also approved by NMC."
             ]
@@ -158,7 +158,7 @@ export const universityofchittagong = {
         {
             "type": "list-bollet",
             "title": "Life of Students",
-            "info": "<b>At the University of Chittagong, students are provided with excellent facilities to take care of their physical and mental health. Some of those are:</b>",
+            "info": "At the University of Chittagong, students are provided with excellent facilities to take care of their physical and mental health. Some of those are:",
             "data": [
                 "The University of Chittagong offers its students a wide range of cultural activities to hold and grow the culture and heritage of Bengal.",
                 "The university also provides students a wide variety of central sports, hall sports, and recreational facilities to enlighten their campus life.",
@@ -170,7 +170,7 @@ export const universityofchittagong = {
         {
             "type": "table",
             "title": "University of Chittagong - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for University of Chittagong of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for University of Chittagong of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -189,7 +189,7 @@ export const universityofchittagong = {
         {
             "type": "table",
             "title": "Cost of Living at Chittagong",
-            "info": "<b>The cost of living at Chittagong city is as follows:</b>",
+            "info": "The cost of living at Chittagong city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -216,7 +216,7 @@ export const universityofchittagong = {
                     "Cost": "Cost between Rs.5800 - Rs.8800"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>1$ = 70 Rs. </p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>1$ = 70 Rs. </p>'
         },
         {
             "type": "text",
@@ -227,7 +227,7 @@ export const universityofchittagong = {
         {
             "type": "list-bollet",
             "title": "About Chittagong City",
-            "info": "<b>Some of the interesting things about the Chittagong city are as follows:</b>",
+            "info": "Some of the interesting things about the Chittagong city are as follows:",
             "data": [
                 "Chittagong city is officially called Chattogram.",
                 "It is the chief Indian ocean port of Bangladesh.",
@@ -260,9 +260,13 @@ export const universityofchittagong = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Chittagong - MBBS Fee Structure 2022",
-            "info": "<b>The fees for the University of Chittagong, Bangladesh for the MBBS program is given in the table below:</b>",
+            "info": "The fees for the University of Chittagong, Bangladesh for the MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year - 1",
@@ -289,7 +293,7 @@ export const universityofchittagong = {
                     "Year - 5": "Rs. 23.80 Lakhs"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong></p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong></p>'
         },
         {
             "type": "list-bollet",
@@ -305,7 +309,7 @@ export const universityofchittagong = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at University of Chittagong",
-            "info": "<b>Following are the faculties at University of Chittagong, Bangladesh:</b>",
+            "info": "Following are the faculties at University of Chittagong, Bangladesh:",
             "data": [
                 "ENT",
                 "Orthopedic",
@@ -326,7 +330,7 @@ export const universityofchittagong = {
         {
             "type": "list-bollet",
             "title": "University of Chittagong - MBBS Duration",
-            "info": "<b>The duration of the MBBS course at the University of Chittagong is mentioned below:</b>",
+            "info": "The duration of the MBBS course at the University of Chittagong is mentioned below:",
             "data": [
                 "The MBBS degree takes place in 4 phases at University of Chittagong.",
                 "The first and the fourth phase consist of 1 and a half year where as 2nd and third phase consist of 1 year each. These total 4 phases consist of 5 years course duration.",
@@ -354,9 +358,13 @@ export const universityofchittagong = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at University of Chittagong is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at University of Chittagong is as follows:",
             "data": [
                 "Students must have passed 12th examination or equivalent qualifications recognized by Universities/ Board of Nepal.",
                 "Students must have English, Physics, Chemistry, Biology (PCB) at their 10+2.",
@@ -368,7 +376,7 @@ export const universityofchittagong = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following is the admission process for applying to the MBBS course at the University of Chittagong:</b><br>Students are advised to read the below mentioned points to avoid any kind of confusion regarding admission.',
+            info: 'Following is the admission process for applying to the MBBS course at the University of Chittagong:<br>Students are advised to read the below mentioned points to avoid any kind of confusion regarding admission.',
             data: [
                 "Step 1: You must fill the Application form of the desired institute with all the right points of interest.",
                 "Step 2: You will get an offer letter which you need to save for future use.",
@@ -381,7 +389,7 @@ export const universityofchittagong = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to the University of Chittagong, Bangladesh:</b>",
+            "info": "Following documents are required at the time of admission to the University of Chittagong, Bangladesh:",
             "data": [
                 "Invitation charges",
                 "Duly filled application form (online or onsite)",
@@ -402,7 +410,7 @@ export const universityofchittagong = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The admission process follows the following timetable. Students are advised to fill the application forms immediately as the application forms have started:</b>",
+            "info": "The admission process follows the following timetable. Students are advised to fill the application forms immediately as the application forms have started:",
             "col": [
                 "Events",
                 "Dates"
@@ -442,6 +450,10 @@ export const universityofchittagong = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Chittagong, Bangladesh - Reviews" },
@@ -461,6 +473,10 @@ export const universityofchittagong = {
 
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -482,9 +498,13 @@ export const universityofchittagong = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - Gallery'
+        },
+        {
             type: "meta",
             meta: [
-                { name: "title", content: "UUniversity of Chittagong, Bangladesh - Gallery" },
+                { name: "title", content: "University of Chittagong, Bangladesh - Gallery" },
                 { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
             ],
         },
@@ -501,6 +521,10 @@ export const universityofchittagong = {
 
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -522,6 +546,10 @@ export const universityofchittagong = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Chittagong, Bangladesh - Faculty" },
@@ -541,6 +569,10 @@ export const universityofchittagong = {
 
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -562,9 +594,13 @@ export const universityofchittagong = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Below given are the hostel facilities at the University of Chittagong:</b>",
+            "info": "Below given are the hostel facilities at the University of Chittagong:",
             "data": [
                 "The University of Chittagong, Bangladesh, provides students with a hostel facility.",
                 "There are separate hostels for girls and boys with mess and canteen facilities that provide cupboards, chairs, sufficient number of beds, hygienic food, and other facilities.",
@@ -601,75 +637,78 @@ export const universityofchittagong = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "University of Chittagong - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. What is the language of teaching at the University Of Chittagong?",
-                        "ans": "English is the commonly taught language at the University Of Chittagong."
-                    },
-                    {
-                        "ques": "Q. How much does it cost to complete the MD course at the University Of Chittagong?",
-                        "ans": "The cost of medicine at the University Of Chittagong is around INR 2 to 3 lacs per annum."
-                    },
-                    {
-                        "ques": "Q. Does the University Of Chittagong have an NMC recognition?",
-                        "ans": "Yes, the University Of Chittagong is recognized by NMC & WHO."
-                    },
-                    {
-                        "ques": "Q. Can I stay with my parents at the university dormitories?",
-                        "ans": "The university offers the guest rooms for the visitors & the stay at the university dorm is restricted up to the number of days for the visitors."
-                    },
-                    {
-                        "ques": "Q. How long does it take to complete the MBBS course at the University Of Chittagong?",
-                        "ans": "MBBS at the University Of Chittagong lasts for a period of 6 years."
-                    },
-                    {
-                        "ques": "Q. Does the University of Chittagong possess a good library?",
-                        "ans": "Yes. The library at the University of Chittagong contains 3,50,000 volumes of books, 40,000 e-books and journals, for different centers, faculties, and institutes make the library more enriched."
-                    },
-                    {
-                        "ques": "Q. How is the campus life at the University of Chittagong?",
-                        "ans": "University of Chittagong offers a wide range of cultural activities, annual sports, central sports, hall sports, and other recreational facilities."
-                    },
-                    {
-                        "ques": "Q. What are the different amenities provided to students of this university?",
-                        "ans": "The campus of University of Chittagong boasts of amenities such as well equipped museums, auditorium, and spacious lecture halls, huge library, etc."
-                    },
-                    {
-                        "ques": "Q. How is the infrastructure of the university?",
-                        "ans": "The University of Chittagong consists of well equipped, super-specialized, digitized laboratories, operation theatres, X-ray machine, MRI machine, Ultrasonography machine, etc."
-                    },
-                    {
-                        "ques": "Q. Is the University of Chittagong a good university?",
-                        "ans": "Yes, as one of the largest and oldest universities in Bangladesh, University of Chittagong comprises ten faculties, many facilities, amenities, best teaching faculties, etc. and thus it definitely stands out among the other universities."
-                    },
-                    {
-                        "ques": "Q. Do I need to qualify IELTS and TOFEL to study MBBS at University of Chittagong?",
-                        "ans": "No, you do not need to qualify any entrance exam to study MBBS at University of Chittagong."
-                    }
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "University of Chittagong, Bangladesh - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "University of Chittagong, Bangladesh - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-chittagong/faq" }
-                ]
-            }
-        ],
+    "faq": [
+        {
+            type: 'title',
+            title: 'University of Chittagong, Bangladesh - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "University of Chittagong - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. What is the language of teaching at the University Of Chittagong?",
+                    "ans": "English is the commonly taught language at the University Of Chittagong."
+                },
+                {
+                    "ques": "Q. How much does it cost to complete the MD course at the University Of Chittagong?",
+                    "ans": "The cost of medicine at the University Of Chittagong is around INR 2 to 3 lacs per annum."
+                },
+                {
+                    "ques": "Q. Does the University Of Chittagong have an NMC recognition?",
+                    "ans": "Yes, the University Of Chittagong is recognized by NMC & WHO."
+                },
+                {
+                    "ques": "Q. Can I stay with my parents at the university dormitories?",
+                    "ans": "The university offers the guest rooms for the visitors & the stay at the university dorm is restricted up to the number of days for the visitors."
+                },
+                {
+                    "ques": "Q. How long does it take to complete the MBBS course at the University Of Chittagong?",
+                    "ans": "MBBS at the University Of Chittagong lasts for a period of 6 years."
+                },
+                {
+                    "ques": "Q. Does the University of Chittagong possess a good library?",
+                    "ans": "Yes. The library at the University of Chittagong contains 3,50,000 volumes of books, 40,000 e-books and journals, for different centers, faculties, and institutes make the library more enriched."
+                },
+                {
+                    "ques": "Q. How is the campus life at the University of Chittagong?",
+                    "ans": "University of Chittagong offers a wide range of cultural activities, annual sports, central sports, hall sports, and other recreational facilities."
+                },
+                {
+                    "ques": "Q. What are the different amenities provided to students of this university?",
+                    "ans": "The campus of University of Chittagong boasts of amenities such as well equipped museums, auditorium, and spacious lecture halls, huge library, etc."
+                },
+                {
+                    "ques": "Q. How is the infrastructure of the university?",
+                    "ans": "The University of Chittagong consists of well equipped, super-specialized, digitized laboratories, operation theatres, X-ray machine, MRI machine, Ultrasonography machine, etc."
+                },
+                {
+                    "ques": "Q. Is the University of Chittagong a good university?",
+                    "ans": "Yes, as one of the largest and oldest universities in Bangladesh, University of Chittagong comprises ten faculties, many facilities, amenities, best teaching faculties, etc. and thus it definitely stands out among the other universities."
+                },
+                {
+                    "ques": "Q. Do I need to qualify IELTS and TOFEL to study MBBS at University of Chittagong?",
+                    "ans": "No, you do not need to qualify any entrance exam to study MBBS at University of Chittagong."
+                }
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Chittagong, Bangladesh - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Chittagong, Bangladesh - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-chittagong/faq" }
+            ]
+        }
+    ],
 }

@@ -19,7 +19,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             "type": "table-title",
             "title": "Bangladesh University of Professionals - Quick Highlights",
-            "info": "<b>Following are the quick overview about Bangladesh University of Professionals:</b>",
+            "info": "Following are the quick overview about Bangladesh University of Professionals:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Acronym</b>", "BUP"],
@@ -35,7 +35,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             type: 'list-bollet',
             title: 'Benefits of Studying at Bangladesh University of Professionals',
-            info: '<b>The benefits of studying MBBS at Bangladesh University of Professionals are given below:</b>',
+            info: 'The benefits of studying MBBS at Bangladesh University of Professionals are given below:',
             data: [
                 "Bangladesh University of Professionals is the youngest college of Bangladesh.",
                 "As BUP is the youngest university, it is newly constructed with modern facilities.",
@@ -51,13 +51,13 @@ export const bangladeshuniversityofprofessionals = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '',
-            data: "<p><b>Following is the medium of teaching at Bangladesh University of Professionals:</b></p><p>For international students as well as local students, the courses are taught in the English language.</p>"
+            info: 'Following is the medium of teaching at Bangladesh University of Professionals:',
+            data: "<p>For international students as well as local students, the courses are taught in the English language.</p>"
         },
         {
             "type": "table",
             "title": "Bangladesh University of Professionals - Ranking 2022",
-            "info": "<b>According to 4icu.org, the ranking of Bangladesh University of Professionals is, as follows:</b>",
+            "info": "According to 4icu.org, the ranking of Bangladesh University of Professionals is, as follows:",
             "col": [
                 "Country",
                 "World",
@@ -72,7 +72,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             type: 'list-bollet',
             title: 'Facilities/Infrastructure Provided by Bangladesh University of Professionals',
-            info: '<b>Bangladesh University of Professionals provides the following different facilities to its students:</b>',
+            info: 'Bangladesh University of Professionals provides the following different facilities to its students:',
             data: [
                 "BUP has an information center where students can collect all the required information.",
                 "It has a medical center where you and other officials can get quality medical treatment and that too at free of cost.",
@@ -98,7 +98,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Medical Degree from the Bangladesh University of Professionals is fully recognized by different medical bodies given below:</b>',
+            info: 'Medical Degree from the Bangladesh University of Professionals is fully recognized by different medical bodies given below:',
             data: [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -108,7 +108,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             type: 'list-bollet',
             title: 'Students Life',
-            info: '<b>The university provides different facilities to its students to make their life healthier, easier, and better. It also provides different activities to its students:</b>',
+            info: 'The university provides different facilities to its students to make their life healthier, easier, and better. It also provides different activities to its students:',
             data: [
                 "In BUP, student's get plenty of options to prove and groom themselves other than studies.",
                 "They can show their talent through various platforms like dance, drama, singing, etc.",
@@ -119,7 +119,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             "type": "table",
             "title": "Cost of Living in Dhaka",
-            "info": "<b>The living expenses in the city of Dhaka are given below:</b>",
+            "info": "The living expenses in the city of Dhaka are given below:",
             "col": [
                 "Activity",
                 "Cost (approx.)",
@@ -158,7 +158,7 @@ export const bangladeshuniversityofprofessionals = {
             type: 'list-bollet',
             title: 'About Dhaka City',
             img: 'bangladesh-universities/about-dhaka-city.jpg',
-            info: '<b>The city ‘Dhaka’ has many interesting and noticeable things such as:</b>',
+            info: 'The city ‘Dhaka’ has many interesting and noticeable things such as:',
             data: [
                 "Dhaka is the largest city in Bangladesh and it is the capital city.",
                 "Dhaka is a city where there are many mosques and muslims.",
@@ -246,7 +246,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             type: 'list-bollet',
             title: 'Course Offered at Bangladesh University of Professionals',
-            info: '<b>Faculties at Bangladesh University of Professionals are as follows in which students can take their education:</b>',
+            info: 'Faculties at Bangladesh University of Professionals are as follows in which students can take their education:',
             data: [
                 "General medicine (MBBS)",
                 "Food and Nutrition",
@@ -257,7 +257,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             type: 'list-bollet',
             title: 'Bangladesh University of Professionals - MBBS Duration',
-            info: '<b>The MBBS course in Bangladesh University of Professionals has a duration of 5 years 6 months:</b>',
+            info: 'The MBBS course in Bangladesh University of Professionals has a duration of 5 years 6 months:',
             data: [
                 "The course is divided into 3 phases namely pre-clinical, para-clinical, and clinical phases.",
                 "MBBS in Bangladesh follows a semester system and each semester is of 6 months."
@@ -266,7 +266,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             "type": "table",
             "title": "Bangladesh University of Professionals - MBBS Syllabus",
-            "info": "<b>The Syllabus for the MBBS course at Bangladesh University of Professionals is shown in the following table:</b>",
+            "info": "The Syllabus for the MBBS course at Bangladesh University of Professionals is shown in the following table:",
             "col": [
                 "Phase",
                 "Duration",
@@ -322,7 +322,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Students",
-            "info": "<b>Students should follow the below-given eligibility criteria to get admission to Bangladesh University of Professionals to pursue MBBS:</b>",
+            "info": "Students should follow the below-given eligibility criteria to get admission to Bangladesh University of Professionals to pursue MBBS:",
             "data": [
                 "The candidate must be over 17 and below 25 years old on or before the date in which the admission is being taken.",
                 "The applicant should have secured at least 60% aggregate in all the above-mentioned subjects in 10+2 and 40% if the applicant falls under the category SC/ST/OBC.",
@@ -334,7 +334,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Students must follow the below-mentioned steps to take Admission in the Bangladesh University of Professionals for doing MBBS:</b>',
+            info: 'Students must follow the below-mentioned steps to take Admission in the Bangladesh University of Professionals for doing MBBS:',
             data: [
                 "Step 1: You should fill in the Application form available online.",
                 "Step 2: Then, he/she should send the filled-in Application together with the copies of the documents, necessary for the acquisition of the student’s status.",
@@ -346,7 +346,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students must submit the documents mentioned below to the university at the time of admission:</b>",
+            "info": "Students must submit the documents mentioned below to the university at the time of admission:",
             "data": [
                 "Copy Of Passport",
                 "Guardian’s letter",
@@ -366,7 +366,7 @@ export const bangladeshuniversityofprofessionals = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should take their admissions to Bangladesh University of Professionals before the dates mentioned below. Check out the Important dates regarding admission at Bangladesh University of Professionals:</b>",
+            "info": "Students should take their admissions to Bangladesh University of Professionals before the dates mentioned below. Check out the Important dates regarding admission at Bangladesh University of Professionals:",
             "col": [
                 "Events",
                 "Dates",
@@ -522,13 +522,13 @@ export const bangladeshuniversityofprofessionals = {
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Bangladesh University of Professionals provides fully furnished hostel and accommodation facilities to its students:</b>",
+            "info": "Bangladesh University of Professionals provides fully furnished hostel and accommodation facilities to its students:",
             "data": [
-               "The Bangladesh University of Professionals has six buildings for the accommodation of students.",
-               "Hostel facilities provided by the university are for both, males and females.",
-               "These are present within the campus allotted for student accommodation.",
-               "The hostel facility is only available for international students who want to take admission in this university.",
-               "All hostel rooms of this university are newly constructed, well-maintained and have all basic amenities required for a healthy living."
+                "The Bangladesh University of Professionals has six buildings for the accommodation of students.",
+                "Hostel facilities provided by the university are for both, males and females.",
+                "These are present within the campus allotted for student accommodation.",
+                "The hostel facility is only available for international students who want to take admission in this university.",
+                "All hostel rooms of this university are newly constructed, well-maintained and have all basic amenities required for a healthy living."
             ]
         },
         {
@@ -550,51 +550,51 @@ export const bangladeshuniversityofprofessionals = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Bangladesh University of Professionals - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. How long does it take to complete MBBS from Bangladesh University of Professionals?",
-                    "ans": "It takes 5.5 years to complete MBBS from Bangladesh University of Professionals."
-                },
-                {
-                    "ques": "Q. What is the last date of form submission at Bangladesh University of Professionals?",
-                    "ans": "Applications are accepted until the month of October. After the due date, the university does not receive any applications from the candidates."
-                },
-                {
-                    "ques": "Q. Can I manage part-time work while pursuing an MBBS degree from Bangladesh University of Professionals?",
-                    "ans": "No, you can’t. The MBBS is the vast syllabus across all the studies. You need to do a focus-based study for pursuing MBBS at Bangladesh University of Professionals."
-                },
-                {
-                    "ques": "Q. How much does it cost for studying medicine at Bangladesh University of Professionals?",
-                    "ans": "MBBS at Bangladesh University of Professionals costs around INR 2 to 3 lacs per annum."
-                },
-                {
-                    "ques": "Q. What is the age criteria assigned for medical aspirants?",
-                    "ans": "Aspirant age should be in between 17 to 25 years."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Bangladesh University of Professionals - FAQ" },
-                { name: "description", content: "Bangladesh University of Professionals is a among top colleges present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Bangladesh University of Professionals - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bangladesh-university-of-professionals/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                "type": "question-list",
+                "title": "Bangladesh University of Professionals - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. How long does it take to complete MBBS from Bangladesh University of Professionals?",
+                        "ans": "It takes 5.5 years to complete MBBS from Bangladesh University of Professionals."
+                    },
+                    {
+                        "ques": "Q. What is the last date of form submission at Bangladesh University of Professionals?",
+                        "ans": "Applications are accepted until the month of October. After the due date, the university does not receive any applications from the candidates."
+                    },
+                    {
+                        "ques": "Q. Can I manage part-time work while pursuing an MBBS degree from Bangladesh University of Professionals?",
+                        "ans": "No, you can’t. The MBBS is the vast syllabus across all the studies. You need to do a focus-based study for pursuing MBBS at Bangladesh University of Professionals."
+                    },
+                    {
+                        "ques": "Q. How much does it cost for studying medicine at Bangladesh University of Professionals?",
+                        "ans": "MBBS at Bangladesh University of Professionals costs around INR 2 to 3 lacs per annum."
+                    },
+                    {
+                        "ques": "Q. What is the age criteria assigned for medical aspirants?",
+                        "ans": "Aspirant age should be in between 17 to 25 years."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Bangladesh University of Professionals - FAQ" },
+                    { name: "description", content: "Bangladesh University of Professionals is a among top colleges present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Bangladesh University of Professionals - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bangladesh-university-of-professionals/faq" }
+                ]
+            }
+        ]
 
 }

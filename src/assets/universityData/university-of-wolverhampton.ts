@@ -22,7 +22,7 @@ export const universityofwolverhampton = {
         {
             "type": "table-title",
             "title": "University of Wolverhampton - Quick Overview",
-            "info": "<b>The applicants must check some important information about the University of Wolverhampton of college:</b>",
+            "info": "The applicants must check some important information about the University of Wolverhampton of college:",
             "col": [
             ],
             "row": [
@@ -44,7 +44,7 @@ export const universityofwolverhampton = {
         {
             "type": "list-bollet",
             "title": "Why Choose the University of Wolverhampton for Higher Studies?",
-            "info": "<b>The applicants rush to confirm their seats due to some beneficial reasons at the University of Wolverhampton:</b>",
+            "info": "The applicants rush to confirm their seats due to some beneficial reasons at the University of Wolverhampton:",
             "img": '',
             "data": [
                 "The University of Wolverhampton is awarded 4 stars in the latest QS Stars international rating system.",
@@ -63,7 +63,7 @@ export const universityofwolverhampton = {
         {
             "type": "table",
             "title": "University of Wolverhampton Ranking 2022",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "World",
                 "Country",
@@ -81,7 +81,7 @@ export const universityofwolverhampton = {
         {
             "type": "list-bollet",
             "title": "Affiliations",
-            "info": "<b>The University of Wolverhampton offers recognised undergraduate and postgraduate degrees by the many organisations:</b>",
+            "info": "The University of Wolverhampton offers recognised undergraduate and postgraduate degrees by the many organisations:",
             "img": '',
             "data": [
                 "Million+",
@@ -93,7 +93,7 @@ export const universityofwolverhampton = {
         {
             "type": "table",
             "title": "Living Cost of Wolverhampton, England",
-            "info": "<b>As compared to other cities, Wolverhampton is quite affordable for students who are studying at the University of Wolverhampton:</b>",
+            "info": "As compared to other cities, Wolverhampton is quite affordable for students who are studying at the University of Wolverhampton:",
             "col": [
                 "Particular",
                 "Amount in USD",
@@ -137,7 +137,7 @@ export const universityofwolverhampton = {
         {
             "type": "list-bollet",
             "title": "Facilities provided at University of Wolverhampton",
-            "info": "<b>Luxurious campus facilities are enjoyed by all students while studying various programs at the University of Wolverhampton:</b>",
+            "info": "Luxurious campus facilities are enjoyed by all students while studying various programs at the University of Wolverhampton:",
             "img": '',
             "data": [
                 "Wifi",
@@ -174,10 +174,14 @@ export const universityofwolverhampton = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Wolverhampton - Program & Course Duration",
-            "info": "<b>Undergraduate</b>",
-            "textBelowInfo": "<b>Engineering</b>",
+            "info": "Undergraduate",
+            "textBelowInfo": "Engineering",
             "col": [
                 "Programs",
                 "Start Date",
@@ -242,7 +246,7 @@ export const universityofwolverhampton = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Business</b>",
+            "textBelowInfo": "Business",
             "col": [
                 "Programs",
                 "Start Date",
@@ -323,7 +327,7 @@ export const universityofwolverhampton = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Law</b>",
+            "textBelowInfo": "Law",
             "col": [
                 "Programs",
                 "Start Date",
@@ -403,8 +407,8 @@ export const universityofwolverhampton = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Postgraduate</b>",
-            "textBelowInfo": "<b>Engineering</b>",
+            "info": "Postgraduate",
+            "textBelowInfo": "Engineering",
             "col": [
                 "Programs",
                 "Start Date",
@@ -461,7 +465,7 @@ export const universityofwolverhampton = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Business</b>",
+            "textBelowInfo": "Business",
             "col": [
                 "Programs",
                 "Start Date",
@@ -518,7 +522,7 @@ export const universityofwolverhampton = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Arts</b>",
+            "textBelowInfo": "Arts",
             "col": [
                 "Programs",
                 "Start Date",
@@ -575,7 +579,7 @@ export const universityofwolverhampton = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Law</b>",
+            "textBelowInfo": "Law",
             "col": [
                 "Programs",
                 "Start Date",
@@ -658,9 +662,13 @@ export const universityofwolverhampton = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Undergraduate</b>",
+            "info": "Undergraduate",
             "data": [
                 "The students should complete 12th standard and have higher secondary school certificates (Indian School Certificate/Intermediate Examination Certificate/Higher Secondary School Certificate /All India Senior School Certificate).",
                 "The candidates must also have a minimum of between 68% and 70% in the 12th standard exams from the recognised boards.",
@@ -670,7 +678,7 @@ export const universityofwolverhampton = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>English Language Requirements -</b>",
+            "info": "English Language Requirements -",
             "data": [
                 "The candidates must score 6.0 in the IELTS exam (min 5.5 in all components)",
                 "The students should have 70-75% in the English exam in the 12th class depending on the board.",
@@ -679,14 +687,14 @@ export const universityofwolverhampton = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Postgraduate</b>",
+            "info": "Postgraduate",
             "data": [
                 "Indian students must have completed a 3 or 4-year undergraduate degree (Honours Bachelor degree or Professional degree) at an accredited university or college."]
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Exact requirements depend on the course degree-</b>",
+            "info": "Exact requirements depend on the course degree-",
             "data": [
                 "A minimum score of 60% is required for courses that require a UK Second Class Honours Second Division (2:2).",
                 "A minimum score of 65% is required for programmes that require a UK Second Class Honours First Division (2:1).",
@@ -695,7 +703,7 @@ export const universityofwolverhampton = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>English Language Requirements -</b>",
+            "info": "English Language Requirements -",
             "data": [
                 "The candidates must score 6.5 in the IELTS exam (min 6.0 in all components)",
                 "The students should have 80-85% in the English exam in the 12th class depending on the board.",
@@ -704,7 +712,7 @@ export const universityofwolverhampton = {
         {
             "type": "step-list",
             "title": "How to Apply at University of Wolverhampton?",
-            "info": "<b>Before applying at the University of Wolverhampton, the candidates must keep basic admission steps in mind:</b>",
+            "info": "Before applying at the University of Wolverhampton, the candidates must keep basic admission steps in mind:",
             "data": [
                 "<b>Step 1:</b> The candidates must apply via the Online Application Form to take admission at the University of Wolverhampton.",
                 "<b>Step 2:</b> Fill the application form and pay a fee- Postgraduate courses: No fee Undergraduate courses: 20 GBP for UCAS",
@@ -762,6 +770,10 @@ export const universityofwolverhampton = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Wolverhampton, UK - Reviews" },
@@ -780,6 +792,10 @@ export const universityofwolverhampton = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -842,6 +858,10 @@ export const universityofwolverhampton = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Wolverhampton, UK - Gallery" },
@@ -861,9 +881,13 @@ export const universityofwolverhampton = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - Scholarship'
+        },
+        {
             "type": "table",
             "title": "International Scholarships",
-            "info": "<b>The students should not get stuck due to financial issues during education, thus the institute provides various scholarships to assist them:</b>",
+            "info": "The students should not get stuck due to financial issues during education, thus the institute provides various scholarships to assist them:",
             "col": [
                 "Scholarships",
                 "Information",
@@ -942,9 +966,13 @@ export const universityofwolverhampton = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - Faculty'
+        },
+        {
             "type": "list-bollet",
             "title": "Facilities provided at University of Wolverhampton",
-            "info": "<b>The University of Wolverhampton provides 3 faculties to the students who are coming to study in the UK from corners of the world:</b>",
+            "info": "The University of Wolverhampton provides 3 faculties to the students who are coming to study in the UK from corners of the world:",
             "data": [
                 "Education Health Wellbeing",
                 "Science Engineering",
@@ -1004,6 +1032,10 @@ export const universityofwolverhampton = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Wolverhampton, UK - News & Articles" },
@@ -1023,9 +1055,13 @@ export const universityofwolverhampton = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation",
-            "info": "<b>At this place, individuals will find out comfortable home away from home with the latest amenities:</b>",
+            "info": "At this place, individuals will find out comfortable home away from home with the latest amenities:",
             "data": [
                 "The University of Wolverhampton offers 3 different types of accommodation across 3 campuses at affordable rates to the students.",
                 "It provides 1600 places in residence halls including over 1000 rooms with en-suite facilities.",
@@ -1055,6 +1091,10 @@ export const universityofwolverhampton = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'University of Wolverhampton, UK - FAQ'
+        },
         {
             "type": "question-list",
             "title": "University of Wolverhampton - Important FAQs",

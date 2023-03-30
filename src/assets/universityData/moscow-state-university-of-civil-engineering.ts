@@ -22,15 +22,15 @@ export const moscowstateuniversityofcivilengineering = {
             "title": "Moscow State University of Civil Engineering - Quick Highlights",
             "info": "The following are the short quick highlights about the Moscow state university of civil engineering and its bachelor of engineering programs:",
             "row": [
-                ["Intake", "June and January"],
-                ["Last Date for Admission Forms", "August( All Sem) ,February(Spring Sem)"],
-                ["Entrance Examination", "Russian language proficiency ,maths/physics"],
-                ["Annual Tuition Fees (approx)", "1471 USD"],
-                ["Duration of Course", "4 years"],
-                ["Students Enrollment", "10000-15000"],
-                ["Medium of Teaching", "Russian,English"],
-                ["University Ranking", "Country - 95<br>World - 3000"],
-                ["Recognition", "Min. of Science and higher education of Russian Federation"]
+                ["<b>Intake</b>", "June and January"],
+                ["<b>Last Date for Admission Forms</b>", "August( All Sem) ,February(Spring Sem)"],
+                ["<b>Entrance Examination</b>", "Russian language proficiency ,maths/physics"],
+                ["<b>Annual Tuition Fees (approx)</b>", "1471 USD"],
+                ["<b>Duration of Course</b>", "4 years"],
+                ["<b>Students Enrollment</b>", "10000-15000"],
+                ["<b>Medium of Teaching</b>", "Russian,English"],
+                ["<b>University Ranking</b>", "Country - 95<br>World - 3000"],
+                ["<b>Recognition</b>", "Min. of Science and higher education of Russian Federation"]
             ]
         },
         {
@@ -65,13 +65,13 @@ export const moscowstateuniversityofcivilengineering = {
             type: 'text',
             title: 'Accreditation',
             info: 'The Moscow state university of civil engineering is accredited by the following:',
-            data: "<p>The Moscow state university of civil engineering is accredited by the following:</p><p>The Moscow state university of civil engineering is recognized by the Ministry of Science and Higher education by the Russian federation.</p>"
+            data: "<p>The Moscow state university of civil engineering is recognized by the Ministry of Science and Higher education by the Russian federation.</p>"
         },
         {
             type: 'text',
             title: 'Medium of Teaching',
             info: 'The Moscow state university of civil engineering available the engineering programs in dual medium as under:',
-            data: "<p>The Moscow state university of civil engineering available the engineering programs in dual medium as under:</p><p>The medium of teaching in the Moscow State University of Civil Engineering is Russian and English medium for the Engineering students.</p>"
+            data: "<p>The medium of teaching in the Moscow State University of Civil Engineering is Russian and English medium for the Engineering students.</p>"
         },
         {
             "type": "table",
@@ -84,34 +84,33 @@ export const moscowstateuniversityofcivilengineering = {
             ],
             "row": [
                 {
-                    "Particulars": "Apartment rent",
+                    "Particulars": "<b>Apartment rent</b>",
                     "Approx range in USD": "250",
                     "Approx range in RS": "17,500"
                 },
                 {
-                    "Particulars": "Food",
+                    "Particulars": "<b>Food</b>",
                     "Approx range in USD": "150",
                     "Approx range in RS": "10,500"
                 },
                 {
-                    "Particulars": "Clothing",
+                    "Particulars": "<b>Clothing</b>",
                     "Approx range in USD": "50",
                     "Approx range in RS": "3,500"
                 },
                 {
-                    "Particulars": "Transportation",
+                    "Particulars": "<b>Transportation</b>",
                     "Approx range in USD": "29.73",
                     "Approx range in RS": "2,100"
                 },
                 {
-                    "Particulars": "Other Expenses",
+                    "Particulars": "<b>Other Expenses</b>",
                     "Approx range in USD": "30",
                     "Approx range in RS": "2,100"
                 }
             ],
-            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p><p>Expenses can vary from person to person and depend on the standard of living of an individual.</p>'
+            "heading": "<p><b><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p><p>Expenses can vary from person to person and depend on the standard of living of an individual.</p>"
         },
-
         {
             type: "meta",
             meta: [
@@ -133,6 +132,72 @@ export const moscowstateuniversityofcivilengineering = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering, Russia - courses & Fees"
+
+        },
+        {
+            "type": "table",
+            "title": "Moscow State University of Civil Engineering - Fee Structure",
+            "info": "Below represent the fees and the estimation of studying the engineering course in this university for one academic year:",
+            "col": [
+                "Particular",
+                "Annual Fee",
+            ],
+            "row": [
+                {
+                    "Particular": "<b>Fee in USD (approx)</b>",
+                    "Annual Fee": "1471 USD",
+                },
+                {
+                    "Particular": "<b>Fee in Indian Rupees (approx)</b>",
+                    "Annual Fee": "Rs 1,12,000",
+                },
+                {
+                    "Particular": "<b>Hostel & Food in rupees(approx)</b>",
+                    "Annual Fee": "Rs 849-1590",
+                },
+                {
+                    "Particular": "<b>Total Fees</b>",
+                    "Annual Fee": "Rs 2,25,000",
+                },
+            ],
+            "heading": "<p><b>Note: </b>1USD = 70 Rs.(approx)</p>"
+
+        },
+        {
+            "type": "table-title",
+            "title": "Courses offered at MSUCE",
+            "info": "Bachelor Degree",
+            "row": [
+                ["Mechanical Engineering", "Geosciences", "Computer Science and Engineering"],
+                ["Architecture", "Urban planning", "Construction (7 courses)"],
+                ["Informatics and computer science", 'Information system and technologie"s', "Automation of technological processes and production"],
+                ["Standardization and metrology", "Management in technical systems", "Economics"],
+                ["Management", 'Applied math"ematics', "-"]
+            ]
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "info": "Specialist’s Degree",
+            "row": [
+                ["Construction of unique building and facilities-high rise and large span", "Construction of unique building and facilities-critical and hydraulic facilities"],
+                ["Construction of unique building and facilities-thermal and nuclear power plants", "Construction of unique building and facilities-underground facilities"],
+                ["Ground transport and process complexes-lifting, transportation,road making.", "-"]
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: 'Moscow State University of Civil Engineering - Course Duration',
+            info: 'The Moscow state university of civil engineering serves the engineering courses for the following duration period:',
+            data: [
+                "The course duration to study Engineering in Russia is of 4 years duration including 8 semesters total that is 2 for each academic year.",
+                "The duration for specialists is 5-6 years while masters took 2 years."
+
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow State University of Civil Engineering, Russia - courses & Fees" },
@@ -149,20 +214,108 @@ export const moscowstateuniversityofcivilengineering = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/courses-and-fees" }
             ]
         }
-
-
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering, Russia - Admission 2023"
+
+        },
+        {
+            type: 'list-bollet',
+            title: 'Eligibility Criteria',
+            info: 'The applicants willing to apply for the engineering program at Moscow State University of civil engineering must be fit in this criteria of general eligibility in Russia:',
+            data: [
+                "The applicant must be 17 years or above for the bachelor’s program.",
+                "The applicant must have passed the 10+2 exam with a government recognized board or university.",
+                "The applicant must have scored 50% or above (45% for reserved category) for the general category.",
+                "The candidate passed an entrance exam for Russian language proficiency and English too."
+            ]
+        },
+        {
+            type: 'step-list',
+            title: 'Eligibility Criteria',
+            info: 'Below are the steps that are generally applied and followed for seeking admission to Russian universities:',
+            data: [
+                "<b>Step 1:</b> Consultation and Filling up of application form.",
+                "<b>Step 2:</b> Submission of documents copies to the given mail id-inter@mgsu.ru.",
+                "<b>Step 3:</b> Personal interview via skype or other of the Applicants.",
+                "<b>Step 4:</b> Selection by the committee and overall selection of the candidate by scores, interview.",
+                "<b>Step 5:</b> Invitation letters are sent to the selected candidates through mail and the date of the class scheduled.",
+                "<b>Step 6:</b> After the confirmation the fee payment proceeds.",
+                "<b>Step 7:</b> After the arrival confirming admission by showing original documents."
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: 'Documents Required',
+            info: 'A list of documents is mentioned below and some essential copies that are required at the candidate after admission to the university:',
+            textBelowInfo: "<b>Before Arrival (At time of applying)</b>",
+            data: [
+                "Application Form",
+                "Notarised documents (not required for students applying to the Russian language program)",
+                "Russian translation copies of the educational documents",
+                "Passport front page copy",
+                "Birth certificate",
+                "Migration letter",
+                "Medical insurance",
+                "Previous obtained Russian visa copy",
+                "Payment receipts of the university bank account for the confirmation of fees transfer"
+
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '',
+            textBelowInfo: "<b>After Arrival</b>",
+            data: [
+                "Original educational documents (translated to Russian).",
+                "Payment receipts for the particular semester /year.",
+                "Foreign passport first-page copy.",
+                "Russian visa copy.",
+                "Medical tests negative reports of HIV-AIDS and COVID.",
+                "Insurance/health certificate/medical in Moscow region.",
+                "4 passport size color photocopies."
+            ]
+        },
+        {
+            "type": "table",
+            "title": "Important Dates - Intake 2022",
+            "info": "",
+            "col": [
+                "Events",
+                "Dates",
+            ],
+            "row": [
+                {
+                    "Events": "<b>Application Start Date</b>",
+                    "Dates": "Fall semester",
+                },
+                {
+                    "Events": "<b>Invitation Letter</b>",
+                    "Dates": "August-September",
+                },
+                {
+                    "Events": "<b>Admission Start Date</b>",
+                    "Dates": "August",
+                },
+                {
+                    "Events": "<b>Last Date of Admission</b>",
+                    "Dates": "August end /September",
+                },
+            ]
+        },
+        {
             type: "meta",
             meta: [
-                { name: "title", content: "Moscow State University of Civil Engineering, Russia - Admission 2023    " },
+                { name: "title", content: "Moscow State University of Civil Engineering, Russia - Admission 2023" },
                 { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
             ],
         },
         {
             type: "meta-title",
-            title: "Moscow State University of Civil Engineering, Russia - Admission 2023    "
+            title: "Moscow State University of Civil Engineering, Russia - Admission 2023"
         },
         {
             type: "meta-links",
@@ -170,9 +323,13 @@ export const moscowstateuniversityofcivilengineering = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/admission" }
             ]
         }
-
     ],
     "review": [
+        {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering, Russia - Reviews"
+
+        },
         {
             type: "meta",
             meta: [
@@ -190,10 +347,13 @@ export const moscowstateuniversityofcivilengineering = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/reviews" }
             ]
         }
-
-
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -211,9 +371,13 @@ export const moscowstateuniversityofcivilengineering = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/placement" }
             ]
         }
-
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering, Russia - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -231,9 +395,13 @@ export const moscowstateuniversityofcivilengineering = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/gallery" }
             ]
         }
-
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering, Russia - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -251,9 +419,13 @@ export const moscowstateuniversityofcivilengineering = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/scholarship" }
             ]
         }
-
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering, Russia - Faculty"
+
+        },
         {
             type: "meta",
             meta: [
@@ -271,14 +443,18 @@ export const moscowstateuniversityofcivilengineering = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/faculty" }
             ]
         }
-
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow State University of Civil Engineering, Russia - News & Articles" },
-                { name: "description", content: " Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
             ],
         },
         {
@@ -291,14 +467,49 @@ export const moscowstateuniversityofcivilengineering = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/news-and-articles" }
             ]
         }
-
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering, Russia - Hostel"
+
+        },
+        {
+            type: 'list-bollet',
+            title: 'Hostel & Accommodation',
+            info: 'Following are the interesting features of the hostel at MSUCE technical school:',
+            data: [
+                "The capacity of the hostel is 5000 students with 10 dormitories.",
+                "Students live on a sharing basis of 2-3 in each room.",
+                "Rooms consisting of television,refrigerator, electric kettle.",
+                "The hostel is facilitated with laundry, lockers, stores, refreshments and cafeteria corners.",
+                "The Internet is provided throughout the campus and hostel area.",
+                "Football, chess and various sports leisure is served for the students.",
+                "The hostel is secured with full security and safety."
+
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '',
+            data: [
+                "Laundry",
+                "Cafeteria",
+                "Hostel",
+                "Security",
+                "Football",
+                "Chess",
+                "Sports",
+                "Refrigerator",
+
+            ]
+        },
         {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow State University of Civil Engineering, Russia - Hostel" },
-                { name: "description", content: " accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
             ],
         },
         {
@@ -311,29 +522,57 @@ export const moscowstateuniversityofcivilengineering = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/hostel" }
             ]
         }
-
     ],
-    "faq":
-        [
+    "faq": [
+        {
+            type: 'title',
+            title: "Moscow State University of Civil Engineering"
 
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Moscow State University of Civil Engineering, Russia - FAQ" },
-                    { name: "description", content: " the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Moscow State University of Civil Engineering, Russia - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/faq" }
-                ]
-            }
-        ],
-
+        },
+        {
+            "type": "question-list",
+            "title": "Moscow State University of Civil Engineering - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. Does the MSU civil engineering school provide courses in English medium?",
+                    "ans": "Yes, the university provides engineering courses in both the medium of Russian and English. While for foreign students classroom sessions are fully in the English language."
+                },
+                {
+                    "ques": "Q. What are other engineering courses provided at Moscow State University of civil engineering other than civil engineering?",
+                    "ans": "The school is specialized and known for its technical courses in civil engineering and architecture, but other courses are related to management, economics, architecture, IT and software engineering, mechanical engineering, etc."
+                },
+                {
+                    "ques": "Q. When is the intake of admissions for the engineering courses held?",
+                    "ans": "The admissions usually for the odd semester are during the July month, while for the even semester at January end or February. The new admissions started at the start of the academic year that is July to August."
+                },
+                {
+                    "ques": "Q. Is the city safe for foreign students?",
+                    "ans": "The Moscow city capital of the country is totally fine with the safety of the foreign students and women's security with a safety index of 61.22%."
+                },
+                {
+                    "ques": "Q. Do the dormitories at Moscow State University of Civil Engineering are well equipped and maintained?",
+                    "ans": "Yes, the accommodation here at the Moscow State University of civil engineering is so facilitated with beds, study table, pillow, laundry, kitchen, mess, gym, and other sources."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Moscow State University of Civil Engineering" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Moscow State University of Civil Engineering"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-state-university-of-civil-engineering/faq" }
+            ]
+        }
+    ]
 
 }

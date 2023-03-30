@@ -18,12 +18,10 @@ export const romebusinessschool = {
         "img": 'https://www.selectyouruniversity.com/images/italy-universities/university-of-trento.jpg',
         "data": '<p><b>Rome Business School</b> is a top choice for MBA aspirants. Established in 2011 in Rome, Italy the institution is known for offering the best Masters and MBA programs.</p><p>Rome Business School is a private institution with its campus located in Via Giuseppe Montanelli, 5, Rome. The institution has partnerships with several foreign universities and institutes. It has approximately 100,000 students from 150 different countries enrolled and 9,800 collaborating companies. This institution is a member of an international network named Planeta Formación y Universidades (PFU).</p><p>Apart from Master’s and MBA courses the institution also offers Executive Education training programs. The courses offered by this institute can be taken on campus and online. The institute is active at the national and international levels. The university helps students in developing their competencies in managerial areas and help them become a successful professional.</p><p>The institution is certified by ISO 9001:2008 that justifies the high-quality standard of its courses and training services. The institution owns an excellent staff that motivates students and ensures continuous improvement. The professors also assist students personally and help them learn and grow.</p><p><b><i> Do you desire to pursue Masters or MBA from a top-notch institution? If yes, then Rome Business School is the right place for you to get enrolled.</i></b></p>'
       },
-  
-  
       {
         "type": "table-title",
         "title": "Rome Business School - Quick Highlights",
-        "info": "<b>A look at the table below will help you learn the key details of this renowned institution:</b>",
+        "info": "A look at the table below will help you learn the key details of this renowned institution:",
         "col": [
         ],
         "row": [
@@ -43,7 +41,7 @@ export const romebusinessschool = {
       {
         "type": "list-bollet",
         "title": "Why Choose Rome Business School?",
-        "info": "<b>From the points below know the advantages of getting admission to this prominent educational institution:</b>",
+        "info": "From the points below know the advantages of getting admission to this prominent educational institution:",
         "data": [
           "This institution is based in the top environment; most suitable to pursue a Master's program.",
           "At this institution you are bound to gain international experience, hone your skills and enrich your knowledge.",
@@ -64,7 +62,7 @@ export const romebusinessschool = {
       {
         "type": "table",
         "title": "Rome Business School - Ranking 2022",
-        "info": "<b>Students can check out the institution’s ranking from the table below:</b>",
+        "info": "Students can check out the institution’s ranking from the table below:",
         "col": [
           "Top 100 Global Ranking",
           "World Rank",
@@ -79,7 +77,7 @@ export const romebusinessschool = {
       {
         "type": "list-bollet",
         "title": "Facilities",
-        "info": "<b>The university is known for the facilities and a wide range of services it offers:</b>",
+        "info": "The university is known for the facilities and a wide range of services it offers:",
         "data": [
           "The institution has modern classrooms that allow students to learn and grow in a high-tech environment. Having modern classrooms benefits both teachers and students.",
           "The institute has well-fitted cameras inside and around the premises to ensure the student's safety. These cameras record every little detail and make the university a safe place to stay and study.",
@@ -157,7 +155,7 @@ export const romebusinessschool = {
       {
         "type": "list-bollet",
         "title": "Recognition and Accreditations",
-        "info": "<b>This Institute is Well - Recognized and Accredited:</b>",
+        "info": "This Institute is Well - Recognized and Accredited:",
         "data": [
           "The institute’s Master’s Programmes are accredited by VIU",
           "The institute is officially recognized by MIUR (Italian Ministry of Education, University and Research)",
@@ -169,7 +167,7 @@ export const romebusinessschool = {
       {
         "type": "table",
         "title": "What is the Cost of Living in Rome?",
-        "info": "<b>Have a sneak-peak of the basic approximate expenditures of living in Rome, Italy from the table below:</b>",
+        "info": "Have a sneak-peak of the basic approximate expenditures of living in Rome, Italy from the table below:",
         "col": [
           "Particulars",
           "Approx range in USD",
@@ -209,6 +207,10 @@ export const romebusinessschool = {
   
     ],
     "coursesandfees": [
+      {
+        type: 'title',
+        title: 'Rome Business School, Italy - courses & Fees'
+      },
       {
         "type": "table",
         "title": "Rome Business School - Fee Structure 2021 & Course Duration",
@@ -506,11 +508,14 @@ export const romebusinessschool = {
       }
     ],
     "admission": [
-  
+      {
+        type: 'title',
+        title: 'Rome Business School, Italy - Admission 2023'
+      },
       {
         "type": "list-bollet",
         "title": "Eligibility Criteria in Rome Business School",
-        "info": "<b>Given below are the basic criteria to get enrolled in the study programs:</b>",
+        "info": "Given below are the basic criteria to get enrolled in the study programs:",
         "data": [
           "The candidate must be at least 21 years of age",
           "Must have completed 10th and 12th from a recognized university.",
@@ -525,7 +530,7 @@ export const romebusinessschool = {
       {
         "type": "step-list",
         "title": "Step by Step Admission Process in Rome Business School",
-        "info": "<b>From the points given below know step by step admission process practiced by this institution:</b>",
+        "info": "From the points given below know step by step admission process practiced by this institution:",
         "data": [
           "<b>Step 1:</b> Complete the online application form with the correct details. It will be soon reviewed by the pre-admission committee within 3 working days.",
           "<b>Step 2:</b> Screening- Once the application gets approved after the initial screening the candidate shall receive a call for the selection interview process.",
@@ -569,7 +574,7 @@ export const romebusinessschool = {
       {
         "type": "table",
         "title": "University for the Creative Arts - Application Deadlines 2022",
-        "info": "<b>Note down the important dates of the university for your reference:</b>",
+        "info": "Note down the important dates of the university for your reference:",
         "col": [
           "Events",
           "Dates"
@@ -618,6 +623,10 @@ export const romebusinessschool = {
     ],
     "review": [
       {
+        type: 'title',
+        title: 'Rome Business School, Italy - Reviews'
+      },
+      {
         type: "meta",
         meta: [
           { name: "title", content: "Rome Business School, Italy - Reviews" },
@@ -637,9 +646,13 @@ export const romebusinessschool = {
     ],
     "placement": [
       {
+        type: 'title',
+        title: 'Rome Business School, Italy - Placement'
+      },
+      {
         "type": "table",
         "title": "Placement",
-        "info": "<b>Below is the placement details of Rome Business School:</b>",
+        "info": "Below is the placement details of Rome Business School:",
         "col": [
           "Particulars",
           "Statistics",
@@ -663,7 +676,7 @@ export const romebusinessschool = {
       {
         "type": "number-list",
         "title": "",
-        "info": "<b>Top Partners</b>",
+        "info": "Top Partners",
         "data": [
           "American Express",
           " Coca-Cola Hellenic Bottling Company",
@@ -706,6 +719,10 @@ export const romebusinessschool = {
     ],
     "gallery": [
       {
+        type: 'title',
+        title: 'Rome Business School, Italy - Gallery'
+      },
+      {
         type: "meta",
         meta: [
           { name: "title", content: "Rome Business School, Italy - Gallery" },
@@ -725,9 +742,13 @@ export const romebusinessschool = {
     ],
     "scholarship": [
       {
+        type: 'title',
+        title: 'Rome Business School, Italy - Scholarship'
+      },
+      {
         "type": "list-bollet",
         "title": "Scholarships & Bursaries",
-        "info": "<b>The institution offers 7 different types of scholarships to deserving candidates:</b>",
+        "info": "The institution offers 7 different types of scholarships to deserving candidates:",
         "data": [
           "Early Bird Enrollment Scholarships",
           "Study in Italy Initiative Scholarship",
@@ -741,7 +762,7 @@ export const romebusinessschool = {
       {
         "type": "list-bollet",
         "title": "",
-        "info": "<b>It also provides two grants:</b>",
+        "info": "It also provides two grants:",
         "data": [
           "Executive Women Grant",
           "Entrepreneurial Grant",
@@ -767,6 +788,10 @@ export const romebusinessschool = {
       }
     ],
     "faculty": [
+      {
+        type: 'title',
+        title: 'Rome Business School, Italy - Faculty'
+      },
       {
         "type": "list-bollet",
         "title": "Faculty",
@@ -800,6 +825,10 @@ export const romebusinessschool = {
     ],
     "news": [
       {
+        type: 'title',
+        title: 'Rome Business School, Italy - News & Articles'
+      },
+      {
         type: "meta",
         meta: [
           { name: "title", content: "Rome Business School, Italy - News & Articles" },
@@ -819,9 +848,13 @@ export const romebusinessschool = {
     ],
     "hostel": [
       {
+        type: 'title',
+        title: 'Rome Business School, Italy - Hostel'
+      },
+      {
         "type": "list-bollet",
         "title": "Hostel and Accommodation",
-        "info": "<b>The institute provides comfortable hostel and accommodation services to the students enrolled:</b>",
+        "info": "The institute provides comfortable hostel and accommodation services to the students enrolled:",
         "data": [
           "At this institute, the students get to live in a culturally rich environment; international and Italian mix",
           "The institute provides spacious accommodation to its students, It provides a variety of rooms and apartment types, single and shared bedroom options to the students.",
@@ -853,9 +886,13 @@ export const romebusinessschool = {
     ],
     "faq": [
       {
+        type: 'title',
+        title: 'Rome Business School, Italy - FAQ'
+      },
+      {
         "type": "question-list",
         "title": "Rome Business School - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
         "data": [
           {
             "ques": "Q. Does the institute have accommodation facilities available for the students on board?",

@@ -19,7 +19,7 @@ export const chuvashstateuniversity = {
         {
             "type": "table-title",
             "title": "Chuvash State University - Quick Highlights",
-            "info": "<b>Given below is the table for quick overview about Chuvash State University:</b>",
+            "info": "Given below is the table for quick overview about Chuvash State University:",
             "col": [
 
             ],
@@ -37,7 +37,7 @@ export const chuvashstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying MBBS at Chuvash State University",
-            "info": "<b>Following are some of the advantages of studying MBBS at Chuvash State University are as given below:</b>",
+            "info": "Following are some of the advantages of studying MBBS at Chuvash State University are as given below:",
             "data": [
                 "The MBBS course at Chuvash state university is taught in the English medium.",
                 "There is no entrance exam for admission to MBBS courses at the Chuvash University.",
@@ -53,7 +53,7 @@ export const chuvashstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Student Life at Chuvash State University",
-            "info": "<b>Following is the life of students at Chuvash State University:</b>",
+            "info": "Following is the life of students at Chuvash State University:",
             "data": [
                 "At Chuvash state university, teachers give personal attention to each and every student, as each class comprises 35 students.",
                 "The classrooms at the university are well equipped with all the necessary technologies such as microscopes, Wi-Fi, round table, skeletons, projectors, and practical specimens.",
@@ -67,7 +67,7 @@ export const chuvashstateuniversity = {
         {
             "type": "table",
             "title": "Chuvash State University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Chuvash State University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Chuvash State University:",
             "col": [
                 "Country",
                 "World"
@@ -82,7 +82,7 @@ export const chuvashstateuniversity = {
         {
             "type": "table",
             "title": "Chuvash State University - FMGE Performance 2021",
-            "info": "<b>Chuvash State University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Chuvash State University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -101,7 +101,7 @@ export const chuvashstateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Cheboksary",
-            "info": "<b>The living expenses in Izhevsk are as follows:</b>",
+            "info": "The living expenses in Izhevsk are as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -133,7 +133,7 @@ export const chuvashstateuniversity = {
         {
             "type": "text",
             "title": "About Cheboksary City",
-            "info": "<b>Here are few things about Cheboksary city:</b>",
+            "info": "Here are few things about Cheboksary city:",
             "data": "<p>The Cheboksary city is the capital of Chuvash republic. Total population of the Cheboksary city is 453,721, according to the census of 2010. The total area of the city is 250.87 sq.km. This city is at a distance of nearly 406 miles from the Moscow city.</p><p>In the Volga Region of Russia, the city is famous for trading different goods. In Cheboksary city, cold winters are the prominent feature of the regional climate. The average temperature of the city reaches about 3.5 °C in winters. Summers in the city are mild when the temperature stays at around 24.2 °C. The Cheboksary city is an important port on the Volga River and it is an industrial and cultural center of the region.</p>"
 
         },
@@ -159,9 +159,13 @@ export const chuvashstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Chuvash State University, Russia - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Chuvash State University - MBBS Fee Structure 2022",
-            "info": "<b>Chuvash State University offers low fee structure to worldwide students to study MBBS at affordable cost:</b>",
+            "info": "Chuvash State University offers low fee structure to worldwide students to study MBBS at affordable cost:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -216,7 +220,7 @@ export const chuvashstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Chuvash State University",
-            "info": "<b>Below are the faculties at the Chuvash State University:</b>",
+            "info": "Below are the faculties at the Chuvash State University:",
             "data": [
                 "Medicine",
                 "Pediatrics",
@@ -227,7 +231,7 @@ export const chuvashstateuniversity = {
         {
             "type": "text",
             "title": "Chuvash State University - MBBS Syllabus",
-            "info": '<p><b>Chuvash State University’s syllabus for studying MBBS is as follows:</b></p>'
+            "info": 'Chuvash State University’s syllabus for studying MBBS is as follows:'
         },
 
         {
@@ -344,9 +348,13 @@ export const chuvashstateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Chuvash State University, Russia - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Chuvash State University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Chuvash State University is as follows:",
             "data": [
                 "Students must have studied Physics, Chemistry, Biology at their 12th standard.",
                 "They must have studied in English medium of instruction at their 12th standard.",
@@ -357,7 +365,7 @@ export const chuvashstateuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process for MBBS Course",
-            "info": "<b>Following is the admission process for studying MBBS at Chuvash State University:</b>",
+            "info": "Following is the admission process for studying MBBS at Chuvash State University:",
             "data": [
                 "<b>Step 1:</b> Students should fill the application form available online.",
                 "<b>Step 2:</b> Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records.",
@@ -370,7 +378,7 @@ export const chuvashstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Chuvash State University:</b>",
+            "info": "Following documents are required at the time of admission to Chuvash State University:",
             "data": [
                 "Birth Certificate",
                 "Bank Statement Having Min Balance 3 lakhs for 3 Months",
@@ -387,7 +395,7 @@ export const chuvashstateuniversity = {
         {
             "type": "table",
             "title": "Chuvash State University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Chuvash State University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Chuvash State University:",
             "col": [
                 "Events",
                 "Dates"
@@ -428,7 +436,10 @@ export const chuvashstateuniversity = {
         }
     ],
     "review": [
-
+        {
+            type: 'title',
+            title: "Chuvash State University, Russia - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -448,6 +459,10 @@ export const chuvashstateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Chuvash State University, Russia - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -478,7 +493,10 @@ export const chuvashstateuniversity = {
         }
     ],
     "gallery": [
-
+        {
+            type: 'title',
+            title: "Chuvash State University, Russia - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -499,9 +517,13 @@ export const chuvashstateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Chuvash State University, Russia - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships that are provided at Chuvash State University are as follows:</b>",
+            "info": "The scholarships that are provided at Chuvash State University are as follows:",
             "data": [
                 "GyanDhan Scholarship",
                 "Women Techmakers Scholars Program",
@@ -531,6 +553,10 @@ export const chuvashstateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Chuvash State University, Russia - Faculty"
+        },
+        {
             "type": "list-bollet",
             "title": "faculty",
             "info": "",
@@ -559,7 +585,10 @@ export const chuvashstateuniversity = {
         }
     ],
     "news": [
-
+        {
+            type: 'title',
+            title: "Chuvash State University, Russia - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -580,9 +609,13 @@ export const chuvashstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Chuvash State University, Russia - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The accommodation & hostel facilities at Chuvash State University are as follows:</b>",
+            "info": "The accommodation & hostel facilities at Chuvash State University are as follows:",
             "data": [
                 "There are separate hostels for girls and boys students.",
                 "Chuvash state university has 10 hostels. Hostels are provided with the facilities such as hot & cold water, 24 hrs gas supply and electricity, phone.",
@@ -630,9 +663,13 @@ export const chuvashstateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Chuvash State University, Russia - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Chuvash State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many students have passed out from the Chuvash State University?",

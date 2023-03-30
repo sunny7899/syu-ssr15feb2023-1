@@ -6,7 +6,7 @@ export const ismuniversityofmanagementandeconomics = {
     "rating": "",
     "shareLink": "",
     "url": "ism-university-of-management-and-economics",
-    "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ISM_logo.svg/1200px-ISM_logo.svg.png",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ISM_logo.svg/1200px-ISM_logo.svg.png",
     "info": [
 
         {
@@ -110,17 +110,9 @@ export const ismuniversityofmanagementandeconomics = {
                     "Approx Range in USD": "36 USD",
                     "Approx Range in RS": "2,520 Rs"
                 }
-            ]
+            ],
+            "heading": "<p><b><u>Note:</u></b> 1 USD - 70 Rs (approx)</p>"
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b style="color: red;"><u>Note:</u></b> 1 USD - 70 Rs (approx)</p>',
-        },
-
-
-
         {
             type: "meta",
             meta: [
@@ -142,6 +134,11 @@ export const ismuniversityofmanagementandeconomics = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "ISM University of Management and Economics - BBA Fee Structure 2023",
             "info": "The college provides affordable fee for doing BBA in Lithuania at ISM University of Management and Economics:",
@@ -154,12 +151,12 @@ export const ismuniversityofmanagementandeconomics = {
                 {
                     "Particular": "<b>Annual tuition fee with a state study scholarship</b>",
                     "Fee in Euro": "2332 €",
-                    "Fee in USD":"2844 USD",
+                    "Fee in USD": "2844 USD",
                 },
                 {
                     "Particular": "<b>Semester price</b>",
                     "Fee in Euro": "2480 €",
-                    "Fee in USD":"3025 USD"
+                    "Fee in USD": "3025 USD"
                 },
             ],
         },
@@ -176,7 +173,7 @@ export const ismuniversityofmanagementandeconomics = {
                 {
                     "MBA course": "<b>Semester price</b>",
                     "Fee in EURO (Approx)": "3300 €",
-                    "Fee in USD (Approx)":"4024 USD",
+                    "Fee in USD (Approx)": "4024 USD",
                 }
             ],
         },
@@ -193,7 +190,7 @@ export const ismuniversityofmanagementandeconomics = {
                 {
                     "Particular": "<b>Semester price</b>",
                     "Tuition fee in Euro (approx)": "2475 €",
-                    "Tuition fee in USD (approx)":"3002 USD",
+                    "Tuition fee in USD (approx)": "3002 USD",
                 }
             ],
         },
@@ -210,22 +207,22 @@ export const ismuniversityofmanagementandeconomics = {
                 {
                     "Course year": "<b>1 year</b>",
                     "1 semester": "Applied Mathematics in the Social Sciences (FUN114, LT)<br>Logical reasoning (MNG241)Marketing Principles (MNG103)<br>Financial Fundamentals (FIN114)<br>Fundamentals of Economics, Business and Management (MNG101)<br>Writing and presentation of academic works (HUM108, LT)",
-                    "2 semesters":"Microeconomics (ECO101, E, VVR)<br>Organizational Behavior (MNG107)<br>Quantitative decision methods (FUN118, LT)<br>Financial accounting (FIN101, LT)<br>Optional subject",
+                    "2 semesters": "Microeconomics (ECO101, E, VVR)<br>Organizational Behavior (MNG107)<br>Quantitative decision methods (FUN118, LT)<br>Financial accounting (FIN101, LT)<br>Optional subject",
                 },
                 {
                     "Course year": "<b>2 years</b>",
                     "1 semester": "Business Ethics and Sustainability (MNG239)<br>Statistical data analysis (FUN107, TVK, ITV, VVA)<br>Macroeconomics (ECO102)<br>Business Research Methods (MNG165)<br>International Business (MNG108)",
-                    "2 semesters":"Advertising and sales promotion (MNG245)<br>Customer Relationship Management (MNG244)<br>Neuroscience (MNG238)<br>Entrepreneurship (MNG110)<br>E-Commerce (MNG154)",
+                    "2 semesters": "Advertising and sales promotion (MNG245)<br>Customer Relationship Management (MNG244)<br>Neuroscience (MNG238)<br>Entrepreneurship (MNG110)<br>E-Commerce (MNG154)",
                 },
                 {
                     "Course year": "<b>3 years</b>",
                     "1 semester": "Global Supply Chain Management (MNG243)<br>Corporate Governance and Business Law (MNG240)<br>Digital Marketing (MNG234)<br>Strategic Management (MNG109)",
-                    "2 semesters":"Optional subject",
+                    "2 semesters": "Optional subject",
                 },
                 {
                     "Course year": "<b>4 years</b>",
                     "1 semester": "Internship (MNG144)<br>Bachelor's Thesis (MNG120)",
-                    "2 semesters":"-",
+                    "2 semesters": "-",
                 }
             ],
         },
@@ -233,7 +230,7 @@ export const ismuniversityofmanagementandeconomics = {
             "type": "text",
             "title": "ISM University of Management and Economics - MBA Course Duration",
             "info": "",
-            "data":"The students wishing to study MBA in Lithuanian must complete the entire MBA education in 1 year at the ISM University of Management and Economics."
+            "data": "The students wishing to study MBA in Lithuanian must complete the entire MBA education in 1 year at the ISM University of Management and Economics."
         },
         {
             "type": "table",
@@ -248,12 +245,12 @@ export const ismuniversityofmanagementandeconomics = {
                 {
                     "Course year": "<b>1 year</b>",
                     "1 semester": "Application of Artificial Intelligence (GRAI019)<br>People, organization and innovation (GRAI020)<br>Business Strategy (GRAI012)<br>Business Finance (GRAI009)<br>Sustainable development of new technologies (GRAI018)",
-                    "2 semesters":"Innovation Project Management (GRAI024)<br>Innovation Process Management (GRAI021)<br>Technology and Innovation Management (GRAI022)<br>Innovation and Technology Management Research Project (GRAI023)<br>New Product Development (GRAI014)"
+                    "2 semesters": "Innovation Project Management (GRAI024)<br>Innovation Process Management (GRAI021)<br>Technology and Innovation Management (GRAI022)<br>Innovation and Technology Management Research Project (GRAI023)<br>New Product Development (GRAI014)"
                 },
                 {
                     "Course year": "<b>2 year</b>",
                     "1 semester": "Master's Thesis (GRAI011)<br>Optional subject",
-                    "2 semesters":"-"
+                    "2 semesters": "-"
                 }
             ],
         },
@@ -261,7 +258,7 @@ export const ismuniversityofmanagementandeconomics = {
             "type": "text",
             "title": "ISM University of Management and Economics - MIM Course Duration",
             "info": "",
-            "data":"At ISM University of Management and Economics, The candidates willing to study MIM must complete the entire education in 1.5 years."
+            "data": "At ISM University of Management and Economics, The candidates willing to study MIM must complete the entire education in 1.5 years."
         },
         {
             "type": "table",
@@ -276,12 +273,12 @@ export const ismuniversityofmanagementandeconomics = {
                 {
                     "Course year": "<b>1 year</b>",
                     "1 semester": "Corporate Social Responsibility and Sustainability (GRAV034)<br>International Management II (GRAV028)<br>Marketing Research Specific Issues (GRAV029)<br>Service Marketing (GRAV020)<br>Multidimensional Statistics (GRAV007)",
-                    "2 semesters":"Research methodology (GRAV001)<br>User Value Analytics (GRAV031)<br>International Consumer Behavior (GRAV010)<br>Brand Management (GRAV022)<br>Company Finance II (GRAV012)"
+                    "2 semesters": "Research methodology (GRAV001)<br>User Value Analytics (GRAV031)<br>International Consumer Behavior (GRAV010)<br>Brand Management (GRAV022)<br>Company Finance II (GRAV012)"
                 },
                 {
                     "Course year": "<b>2 year</b>",
                     "1 semester": "Research project (GRAV032)<br>Integrated Marketing Communication (GRAV033)<br>Social Marketing (GRAV030)<br>New Product Development and Service Innovation (GRAV025)<br>Competitiveness Microeconomics (GRAV027)",
-                    "2 semesters":"Master's Thesis (GRAV016)"
+                    "2 semesters": "Master's Thesis (GRAV016)"
                 }
             ],
         },
@@ -289,7 +286,7 @@ export const ismuniversityofmanagementandeconomics = {
             "type": "list-bollet",
             "title": "Programs at ISM University of Management and Economics",
             "info": "The applicants must check out the wide varieties of programs offered at the University of Management and Economics:",
-            "textBelowInfo":"<h3>1. Undergraduate Studies</h3>",
+            "textBelowInfo": "<h3>1. Undergraduate Studies</h3>",
             "data": [
                 "Business Management and Analytics",
                 "Economics",
@@ -325,7 +322,7 @@ export const ismuniversityofmanagementandeconomics = {
                 "Strategic Management"
             ]
         },
-       
+
         {
             type: "meta",
             meta: [
@@ -345,6 +342,11 @@ export const ismuniversityofmanagementandeconomics = {
         }
     ],
     "admission": [
+        {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - Admission 2023"
+
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria (For BBA)",
@@ -581,6 +583,11 @@ export const ismuniversityofmanagementandeconomics = {
     ],
     "Reviews": [
         {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "ISM University of Management and Economics, Lithuania - Reviews" },
@@ -600,6 +607,11 @@ export const ismuniversityofmanagementandeconomics = {
     ],
     "Placement": [
         {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "",
             "info": "",
@@ -608,7 +620,7 @@ export const ismuniversityofmanagementandeconomics = {
                 "Internships and jobs in and around Lithuania are encouraged for students at the ISM University of Management and Economics."
             ]
         },
-        
+
         {
             type: "meta",
             meta: [
@@ -629,6 +641,11 @@ export const ismuniversityofmanagementandeconomics = {
     ],
     "Gallery": [
         {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "ISM University of Management and Economics, Lithuania - Gallery" },
@@ -647,7 +664,12 @@ export const ismuniversityofmanagementandeconomics = {
         }
     ],
     "Scholarship": [
-       
+        {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - Scholarship"
+
+        },
+
 
         {
             type: "meta",
@@ -670,8 +692,13 @@ export const ismuniversityofmanagementandeconomics = {
     "Faculty": [
 
         {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -716,6 +743,11 @@ export const ismuniversityofmanagementandeconomics = {
     ],
     "News": [
         {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "ISM University of Management and Economics, Lithuania - News & Articles" },
@@ -735,6 +767,11 @@ export const ismuniversityofmanagementandeconomics = {
     ],
     "Hostel": [
         {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
             "info": "The ISM University of Management and Economics don’t provide on-campus hostel services:",
@@ -746,7 +783,7 @@ export const ismuniversityofmanagementandeconomics = {
                 "For more information please contact ISM International studies coordinator martyna.kinduryte@ism.lt or international@ism.lt",
             ]
         },
-        
+
         {
             type: "meta",
             meta: [
@@ -766,6 +803,11 @@ export const ismuniversityofmanagementandeconomics = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "ISM University of Management and Economics, Lithuania - FAQ"
+
+        },
         {
             "type": "question-list",
             "title": "ISM University of Management and Economics - Important FAQs",

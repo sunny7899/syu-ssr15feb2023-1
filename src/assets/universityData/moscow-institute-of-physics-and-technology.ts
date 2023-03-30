@@ -19,7 +19,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "table-title",
             "title": "Moscow Institute of Physics and Technology - Quick Overview",
-            "info": "<b>Applicants willing to apply to Moscow Institute of Physics and Technology can get important details about the institute here:</b>",
+            "info": "Applicants willing to apply to Moscow Institute of Physics and Technology can get important details about the institute here:",
             "col": [],
             "row": [
                 ["<b>Intake</b>", "Fall Semester (September)"],
@@ -36,7 +36,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Why Choose Moscow Institute of Physics and Technology?",
-            "info": "<b>Some of the reasons which makes MIPT of the renowned institutions in Russia:</b>",
+            "info": "Some of the reasons which makes MIPT of the renowned institutions in Russia:",
             "data": [
                 "The Tuition Fee of Moscow Institute of Physics and Technology is quite affordable even for the international students.",
                 "Professors of this university have immense knowledge in the field of Physics and Technology.",
@@ -50,7 +50,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "table",
             "title": "Moscow Institute of Physics and Technology - Ranking 2022",
-            "info": "<b>According to UniRank database the country & world ranking of Moscow Institute of Physics and Technology is given below:</b>",
+            "info": "According to UniRank database the country & world ranking of Moscow Institute of Physics and Technology is given below:",
             "col": [
                 "Country",
                 "World"
@@ -71,7 +71,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Visa Requirement",
-            "info": "<b>International students can apply for a long term student visa after getting an invitation letter from the university:</b>",
+            "info": "International students can apply for a long term student visa after getting an invitation letter from the university:",
             "data": [
                 "Applicants must contact the nearest Russian embassy in respective countries",
                 "Travel Passport (Valid for duration of 1.5 years)",
@@ -83,7 +83,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Departments at MIPT",
-            "info": "<b>Find the details of various departments of Moscow Institute of Physics and Technology below:</b>",
+            "info": "Find the details of various departments of Moscow Institute of Physics and Technology below:",
             "data": [
                 "Radio Engineering and Cybernetics",
                 "General and Applied Physics",
@@ -101,7 +101,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Moscow Institute of Physics and Technology is situated in Moscow and the average cost of living in Moscow is 595.36 $ - 1102.3$ per month</b>",
+            "info": "Moscow Institute of Physics and Technology is situated in Moscow and the average cost of living in Moscow is 595.36 $ - 1102.3$ per month",
             "col": [
                 "Particular",
                 "Expenses (In INR)",
@@ -156,9 +156,14 @@ export const moscowinstituteofphysicsandtechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Moscow Institute of Physics and Technology, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Moscow Institute of Physics and Technology - Fee Structure",
-            "info": "<b>MIPT offers affordable education to international students. Find below the details of yearly tuition fees:</b>",
+            "info": "MIPT offers affordable education to international students. Find below the details of yearly tuition fees:",
             "col": [
                 "Particular",
                 "Yearly Tuition Fee (In USD)",
@@ -186,7 +191,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "table",
             "title": "Moscow Institute of Physics and Technology - Engineering Duration",
-            "info": "<b>MIPT offers Bachelor, Master and PhD programs and details of course duration of these programs are given below:</b>",
+            "info": "MIPT offers Bachelor, Master and PhD programs and details of course duration of these programs are given below:",
             "col": [
                 "Program",
                 "Duration"
@@ -209,7 +214,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Bachelor Degree Programs",
-            "info": "<b>Moscow Institute of Physics and Technology offers Bachelor Degree Programs to international students for a duration of 4 years:</b>",
+            "info": "Moscow Institute of Physics and Technology offers Bachelor Degree Programs to international students for a duration of 4 years:",
             "data": [
                 "Applied Mathematics and Computer Science",
                 "Applied Mathematics and Physics System",
@@ -222,7 +227,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Bachelor Degree Courses offered at MIPT",
-            "info": "<b>Below given programs are offered to international students in English Language:</b>",
+            "info": "Below given programs are offered to international students in English Language:",
             "data": [
                 "Aerospace Engineering",
                 "Advanced Physics and Research",
@@ -233,7 +238,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Other Bachelor Courses in MIPT",
-            "info": "<b>Here is the list of other Bachelor Degree Programs offered by Moscow Institute of Physics and Technology:</b>",
+            "info": "Here is the list of other Bachelor Degree Programs offered by Moscow Institute of Physics and Technology:",
             "data": [
                 "The Radio System and Control System",
                 "Physics of Flight and Aviation Technology",
@@ -253,7 +258,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Master Degree Programs",
-            "info": "<b>Moscow Institute of Physics and Technology provides Master Degree Courses in English Language to international students:</b><br>Major Field of Study",
+            "info": "Moscow Institute of Physics and Technology provides Master Degree Courses in English Language to international students:</b><br>Major Field of S",
             "data": [
                 "Applied mathematics and Informatics",
                 "Applied mathematics and physics",
@@ -301,7 +306,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Other Master Degree Courses",
-            "info": "<b>Applicants can find the list of other Master Degree Programs offered by Moscow Institute of Physics and Technology:</b>",
+            "info": "Applicants can find the list of other Master Degree Programs offered by Moscow Institute of Physics and Technology:",
             "data": [
                 "Beam Plasma Systems and Technologies",
                 "Advanced Combinatorics",
@@ -314,7 +319,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "table-title",
             "title": "PhD Programs",
-            "info": "<b>MIPT offers 2 major field of study for PhD programs and details are mentioned below:</b>",
+            "info": "MIPT offers 2 major field of study for PhD programs and details are mentioned below:",
             "col": [],
             "row": [
                 ["Natural Sciences", "Engineering and Technology"],
@@ -340,7 +345,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Eligibility:</b>",
+            "info": "Eligibility:",
             "data": [
                 "Bachelor/Master/Diploma or PhD",
                 "Previous Work Experience (If Any)",
@@ -351,7 +356,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Documents:</b>",
+            "info": "Documents:",
             "data": [
                 "Applicant should write an Application to submit at MIPT internship committee",
                 "Scanned copy of Passport",
@@ -363,7 +368,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "How to Apply",
-            "info": "<b>International applicants willing to do a short term internship from MIPT will have to write an application along with the internship coordinator:</b>",
+            "info": "International applicants willing to do a short term internship from MIPT will have to write an application along with the internship coordinator:",
             "data": [
                 "Applicants should reach out to the Internship department.",
                 "Submit the mentioned documents.",
@@ -390,9 +395,14 @@ export const moscowinstituteofphysicsandtechnology = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Moscow Institute of Physics and Technology, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "data": [
                 "Applicants must have completed higher secondary.",
                 "International applicants will have to take IELTS/TOEFL."
@@ -401,7 +411,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "data": [
                 "Bachelor Degree",
                 "Good Academic Results",
@@ -413,7 +423,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>PhD</b>",
+            "info": "PhD",
             "data": [
                 "Master Degree",
                 "Good Academic Results",
@@ -426,7 +436,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "data": [
                 "MIPT Application Form",
                 "Scanned Copy of Birth Certificate or any other identity proof (It should be notarized and translated into Russian Language)",
@@ -440,7 +450,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "data": [
                 "Scanned copy of Birth Certificate",
                 "Scanned copy of Passport",
@@ -456,7 +466,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>PhD</b>",
+            "info": "PhD",
             "data": [
                 "Scanned copy of applicant’s passport",
                 "Documents of Master Degree",
@@ -472,7 +482,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Applicants should follow these steps in order to secure admission to any of the degree programs at MIPT:</b>',
+            info: 'Applicants should follow these steps in order to secure admission to any of the degree programs at MIPT:',
             data: [
                 "Step 1: Applicants who want to take admission to Moscow Institute of Physics and Technology should decide the program they want to study.",
                 "Step 2: All the courses and specialties are mentioned and applicants can choose one for them.",
@@ -504,6 +514,11 @@ export const moscowinstituteofphysicsandtechnology = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Moscow Institute of Physics and Technology, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow Institute of Physics and Technology, Russia - Reviews" },
@@ -522,6 +537,11 @@ export const moscowinstituteofphysicsandtechnology = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Moscow Institute of Physics and Technology, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -542,6 +562,11 @@ export const moscowinstituteofphysicsandtechnology = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Moscow Institute of Physics and Technology, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow Institute of Physics and Technology, Russia - Gallery" },
@@ -561,9 +586,14 @@ export const moscowinstituteofphysicsandtechnology = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Moscow Institute of Physics and Technology, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship Programs",
-            "info": "<b>MIPT offers various scholarship programs to international students to help them with yearly tuition fees:</b>",
+            "info": "MIPT offers various scholarship programs to international students to help them with yearly tuition fees:",
             "data": [
                 "There are many scholarship programs and international students can apply for any one of them depending upon the eligibility.",
                 "Government Scholarship Program",
@@ -592,6 +622,11 @@ export const moscowinstituteofphysicsandtechnology = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Moscow Institute of Physics and Technology, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow Institute of Physics and Technology, Russia - Faculty" },
@@ -610,6 +645,11 @@ export const moscowinstituteofphysicsandtechnology = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Moscow Institute of Physics and Technology, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -630,9 +670,14 @@ export const moscowinstituteofphysicsandtechnology = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Moscow Institute of Physics and Technology, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel Facility at MIPT",
-            "info": "<b>MIPT provides accommodation to international students at an affordable cost inside the campus:</b>",
+            "info": "MIPT provides accommodation to international students at an affordable cost inside the campus:",
             "data": [
                 "There are 3 campuses of MIPT and they are located in Moscow, Dolgoprydny and Zhukovsky.",
                 "And all the 3 campuses consist of 14 dormitories altogether. The Moscow campus consists of 12 dormitories."
@@ -641,7 +686,7 @@ export const moscowinstituteofphysicsandtechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The Dormitories has:</b>",
+            "info": "The Dormitories has:",
             "data": [
                 "Kitchens",
                 "Gym",
@@ -719,9 +764,14 @@ export const moscowinstituteofphysicsandtechnology = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Moscow Institute of Physics and Technology, Russia - FAQ"
+
+            },
+            {
                 "type": "question-list",
                 "title": "Moscow Institute of Physics and Technology - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. How much time does MIPT take to issue an invitation letter to applicants?",

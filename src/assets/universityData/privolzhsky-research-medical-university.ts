@@ -20,7 +20,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Privolzhsky Research Medical University: Quick Highlights",
-            "info": "<b>Check out the table mentioned below, to get some important highlights about Privolzhsky Research Medical University:</b>",
+            "info": "Check out the table mentioned below, to get some important highlights about Privolzhsky Research Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -35,7 +35,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Privolzhsky Research Medical University?",
-            "info": "<b>Here are the advantages of studying medicine course at Privolzhsky Research Medical University: </b>",
+            "info": "Here are the advantages of studying medicine course at Privolzhsky Research Medical University: ",
             "data": [
                 "Privolzhsky Research Medical University is currently ranked 7 out of 46 medical institutions in Russia.",
                 "Privolzhsky Research Medical University provides scientific research and educational work to the students during medical education.",
@@ -55,13 +55,13 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of teaching at Privolzhsky Research Medical University in the English language: </b>",
+            "info": "The medium of teaching at Privolzhsky Research Medical University in the English language: ",
             "data": "<p><b>The medium of teaching at Privolzhsky Research Medical University in the English language: </b></p><p>A 6-year general medicine program offered at Privolzhsky Research Medical University is in 100% English and Russian (optional) language.</p>"
         },
         {
             "type": "table",
             "title": "Privolzhsky Research Medical University - Ranking 2022",
-            "info": "<b>Check out the reference link-Uni Rank, to find out the country & World ranking of Privolzhsky Research Medical University: </b>",
+            "info": "Check out the reference link-Uni Rank, to find out the country & World ranking of Privolzhsky Research Medical University: ",
             "col": [
                 "Country",
                 "World"
@@ -76,7 +76,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities at Privolzhsky Research Medical University",
-            "info": "<b>Privolzhsky Research Medical University is equipped with modern housings for international students on the university campus: </b>",
+            "info": "Privolzhsky Research Medical University is equipped with modern housings for international students on the university campus: ",
             "data": [
                 "Canteen",
                 "Laboratories",
@@ -89,7 +89,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "table",
             "title": "Privolzhsky Research Medical University - FMGE Performance 2021",
-            "info": "<b>Find the passing percent and appeared students in year 2021 for Privolzhsky Research Medical University is here in the table below: </b>",
+            "info": "Find the passing percent and appeared students in year 2021 for Privolzhsky Research Medical University is here in the table below: ",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -110,7 +110,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Privolzhsky Research Medical University has the following accreditation and recognition: </b>",
+            "info": "Privolzhsky Research Medical University has the following accreditation and recognition: ",
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -120,7 +120,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Nizhny Novgorod",
-            "info": "<b>The expenses of living in Nizhny Novgorod is affordable for the students while MBBS education at Privolzhsky Research Medical University, The table shows the average and approx cost of living for a month. This may vary from person to person and according to the living style of the students: </b>",
+            "info": "The expenses of living in Nizhny Novgorod is affordable for the students while MBBS education at Privolzhsky Research Medical University, The table shows the average and approx cost of living for a month. This may vary from person to person and according to the living style of the students: ",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -147,7 +147,7 @@ export const privolzhskyresearchmedicaluniversity = {
 
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>1$ = Rs. 70</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>1$ = Rs. 70</p>'
         },
         {
             "type": "text",
@@ -160,7 +160,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Nizhny Novgorod is worth visiting place in Russia, top sites of Nizhny Novgorod is mentioned below - </b>",
+            "info": "Nizhny Novgorod is worth visiting place in Russia, top sites of Nizhny Novgorod is mentioned below - ",
             "col": [],
             "row": [
                 ["Nizhny Novgorod Kremlin", "Chkalov Stairs"],
@@ -193,9 +193,13 @@ export const privolzhskyresearchmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Privolzhsky Research Medical University - MBBS Fee Structure 2022",
-            "info": "<b>Privolzhsky Research Medical University has an affordable fee structure, which makes worldwide medical aspirants study MBBS course at a reasonable price: </b>",
+            "info": "Privolzhsky Research Medical University has an affordable fee structure, which makes worldwide medical aspirants study MBBS course at a reasonable price: ",
             "col": [
                 "Particular",
                 "Annual Fees"
@@ -218,12 +222,12 @@ export const privolzhskyresearchmedicaluniversity = {
                     "Annual Fees": "3,30,034 Rs"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>$1 = Rs. 70 (It may differ at the time of admission)</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>$1 = Rs. 70 (It may differ at the time of admission)</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at Privolzhsky Research Medical University",
-            "info": "<b>There are 8 faculties available at Privolzhsky Research Medical University: </b>",
+            "info": "There are 8 faculties available at Privolzhsky Research Medical University: ",
             "data": [
                 "General Medicine",
                 "Dentistry",
@@ -359,9 +363,13 @@ export const privolzhskyresearchmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for MBBS: </b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS: ",
             "data": [
                 "The candidates must be 17 years old or above. If not then this age must complete at least before 31st December of the admission year.",
                 "Candidates who have scored more than 50% in HSC exam with Physics, Chemistry, Biology and English as compulsory subjects can apply for the admission process for MBBS in Privolzhsky Research Medical University.",
@@ -373,7 +381,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The worldwide students willing to grab MBBS seats in Privolzhsky Research Medical University must follow the steps mentioned below: </b>',
+            info: 'The worldwide students willing to grab MBBS seats in Privolzhsky Research Medical University must follow the steps mentioned below: ',
             data: [
                 "Step 1: First of all the candidates need to fill the application form which is available online at the website of Privolzhsky Research Medical University.",
                 "Step 2: The candidate must submit all important documents via Privolzhsky Research Medical University applicants' account to the university admission Board (lka.pimunn.net).",
@@ -388,7 +396,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The students looking forward to pursuing MBBS course at Privolzhsky Research Medical University, need to submit the following important documents to carry out the admission process: </b>",
+            "info": "The students looking forward to pursuing MBBS course at Privolzhsky Research Medical University, need to submit the following important documents to carry out the admission process: ",
             "data": [
                 "Every candidate willing to take admission in MBBS course must submit a notarized copy of the passport with a notarized translation into Russian.",
                 "The candidate must submit notarized copies of diplomas or certificates of education, annexed to them where the subjects studied and credits are indicated, with a notarized translation into Russian.",
@@ -412,7 +420,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out important admission dates to grab an MBBS seat at Privolzhsky Research Medical University: </b>",
+            "info": "Check out important admission dates to grab an MBBS seat at Privolzhsky Research Medical University: ",
             "col": [
                 "Events",
                 "Dates"
@@ -452,6 +460,10 @@ export const privolzhskyresearchmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Privolzhsky Research Medical University, Russia - Reviews" },
@@ -470,6 +482,10 @@ export const privolzhskyresearchmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -501,6 +517,10 @@ export const privolzhskyresearchmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Privolzhsky Research Medical University, Russia - Gallery" },
@@ -519,6 +539,10 @@ export const privolzhskyresearchmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -550,6 +574,10 @@ export const privolzhskyresearchmedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -601,6 +629,10 @@ export const privolzhskyresearchmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Privolzhsky Research Medical University, Russia - News & Articles" },
@@ -620,9 +652,13 @@ export const privolzhskyresearchmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facility",
-            "info": "<b>Privolzhsky Research Medical University provides the well-equipped accommodation facilities for the worldwide medical aspirants: </b>",
+            "info": "Privolzhsky Research Medical University provides the well-equipped accommodation facilities for the worldwide medical aspirants: ",
             "data": [
                 "The Privolzhsky Research Medical University provides fully furnished and convenient hostel rooms for the students to stay in their comfort zone.",
                 "The students can live on a sharing basis in 1 room.",
@@ -633,7 +669,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>All the essential modern amenities are available at Privolzhsky Research Medical University -</b>",
+            "info": "All the essential modern amenities are available at Privolzhsky Research Medical University -",
             "data": [
                 "Pillow",
                 "Blanket",
@@ -662,7 +698,7 @@ export const privolzhskyresearchmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel also comprises of sports complex including -</b>",
+            "info": "The hostel also comprises of sports complex including -",
             "data": [
                 "Gym",
                 "Football",
@@ -700,9 +736,13 @@ export const privolzhskyresearchmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Privolzhsky Research Medical University, Russia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Privolzhsky Research Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360: </b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360: ",
             "data": [
                 {
                     "ques": "Q. Are there any scientific research programs that occur at Privolzhsky Research Medical University during medical education?",

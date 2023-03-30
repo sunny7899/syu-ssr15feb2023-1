@@ -22,7 +22,7 @@ export const universitycanadawest = {
         {
             "type": "table-title",
             "title": "University Canada West - Quick Review",
-            "info": "<b>Every student needs to know the below mentioned highlights before getting admission into university:</b>",
+            "info": "Every student needs to know the below mentioned highlights before getting admission into university:",
             "col": [
             ],
             "row": [
@@ -35,15 +35,13 @@ export const universitycanadawest = {
                 ["<b>Course Duration</b>", "Master’s - 2 years<br> Bachelor’s - 2 to 4 years"],
                 ["<b>University Ranking</b>", "Country rank - 81<br>World rank - 5092"],
                 ["<b>Medium of teaching	</b>", "English"],
-                ["<b>Accreditations</b>", "EQA<br>  ACBSP<br> BCCAT<br>  & many more"],
-
-
+                ["<b>Accreditations</b>", "EQA<br>  ACBSP<br> BCCAT<br>  & many more"]
             ]
         },
         {
             "type": "list-bollet",
             "title": "Why Choose the University Canada West?",
-            "info": "<b>Some of the key features are mentioned below to opt the University Canada West:</b>",
+            "info": "Some of the key features are mentioned below to opt the University Canada West:",
             "img": '',
             "data": [
                 "The University Canada West is known for its vast geography and enormous landscape with a spotless environment.",
@@ -54,16 +52,14 @@ export const universitycanadawest = {
                 " It provides scholarships to international students for graduation and undergraduate courses based on academic excellence.",
                 "Faculties are well-versed in their fields and have first-hand industrial experience.",
                 "It is a forward-thinking business-oriented technology that places a premium on hands-on learning.",
-                "The Campus is very near to all restaurants, a bank, a supermarket, a retail store, and a pharmacy for ease to students.",
-
-
+                "The Campus is very near to all restaurants, a bank, a supermarket, a retail store, and a pharmacy for ease to students."
             ]
         },
 
         {
             "type": "table",
             "title": "University Canada West - Ranking 2021",
-            "info": "<b>Take a look at the University Canada West global and national ranking in the table below:</b>",
+            "info": "Take a look at the University Canada West global and national ranking in the table below:",
             "col": [
                 "World",
                 "Country",
@@ -80,7 +76,7 @@ export const universitycanadawest = {
         {
             "type": "table-title",
             "title": "Affiliations",
-            "info": "<b>The applicants should have a look at these affiliations before applying for the admission process:</b>",
+            "info": "The applicants should have a look at these affiliations before applying for the admission process:",
             "col": [
             ],
             "row": [
@@ -96,7 +92,7 @@ export const universitycanadawest = {
         {
             "type": "list-bollet",
             "title": "Facilities Provide at University Canada West",
-            "info": "<b>University Canada West is providing topmost facilities at the campus, Vancouver:</b>",
+            "info": "University Canada West is providing topmost facilities at the campus, Vancouver:",
             "img": '',
             "data": [
                 "Student-Centric-Services",
@@ -114,7 +110,7 @@ export const universitycanadawest = {
         {
             "type": "table",
             "title": "Living Expenses in Canada for Indian Students",
-            "info": "<b>The students who are going to pursue their education at the University Canada West can know their expenses from the below-mentioned table:</b>",
+            "info": "The students who are going to pursue their education at the University Canada West can know their expenses from the below-mentioned table:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -167,10 +163,14 @@ export const universitycanadawest = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University Canada West - Fee Structure & Program Duration",
             "textBelowInfo": "Graduate Programs",
-            "info": "<b>UCW offers graduate programs for graduate students. Fee structure, duration, and other details are mentioned in the following table:</b>",
+            "info": "UCW offers graduate programs for graduate students. Fee structure, duration, and other details are mentioned in the following table:",
             "col": [
                 "Courses",
                 "Duration",
@@ -214,7 +214,7 @@ export const universitycanadawest = {
             "type": "table",
             "title": "",
             "textBelowInfo": "Under Graduate Programs",
-            "info": "<b>UCW offers graduate programs for graduate students. Fee structure, duration, and other details are mentioned in the following table:</b>",
+            "info": "UCW offers graduate programs for graduate students. Fee structure, duration, and other details are mentioned in the following table:",
             "col": [
                 "Courses",
                 "Duration",
@@ -264,7 +264,7 @@ export const universitycanadawest = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at University Canada West",
-            "info": "<b>University Canada West is providing high-quality education by accepting well-experienced faculties in various fields:</b>",
+            "info": "University Canada West is providing high-quality education by accepting well-experienced faculties in various fields:",
             "img": '',
             "data": [
                 "Master of Business Administration",
@@ -275,9 +275,6 @@ export const universitycanadawest = {
                 "Arts",
                 "Communication and Social sciences",
                 "Quantitative studies"
-
-
-
             ]
         },
 
@@ -301,9 +298,13 @@ export const universitycanadawest = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Entry Requirements",
-            "info": "<b>Graduate Programmes</b>",
+            "info": "Graduate Programmes",
             "data": [
                 "An IELTS score of at least 6.5 (with a minimum of 6.0 in the writing band) or equivalent qualification is required (TOEFL, PTE, Duolingo, etc.)",
                 "Completion of University Access Program (UAP) at UCW with minimum grade points of 70.",
@@ -317,7 +318,7 @@ export const universitycanadawest = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Undergraduate Programmes</b>",
+            "info": "Undergraduate Programmes",
             "data": [
                 "Applicants should complete their Higher Secondary Education from British Columbia secondary school or possess a minimum BC high school (Grade 12) diploma with a C overall average.",
                 "Students are eligible for admissions who have scored at least 30 academic post-secondary credits from recognized institutions.",
@@ -328,7 +329,7 @@ export const universitycanadawest = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Some of the basic requirements are mentioned below for the students to get admission in graduate programs:</b>",
+            "info": "Some of the basic requirements are mentioned below for the students to get admission in graduate programs:",
             "data": [
                 "<b>Master of Business Administration:</b> A bachelor's degree with a cumulative GPA of 3.00 (on a scale of 4.33), or completion of an MBA Foundation course with a Grade Point of 72 percent.",
                 "<b>MBA Foundation:</b> A Bachelor's degree with average grade points of 2.33 or higher from a recognized university is necessary."
@@ -337,7 +338,7 @@ export const universitycanadawest = {
         {
             "type": "step-list",
             "title": "How to Take Admission in University Canada West?",
-            "info": "<b>To get admission in graduate and undergraduate programs, follow the steps outlined below in detail:</b>",
+            "info": "To get admission in graduate and undergraduate programs, follow the steps outlined below in detail:",
             "data": [
                 "<b>Step 1:</b> Firstly, the candidate should visit the official site to choose the program for the application process.",
                 "<b>Step 2:</b> The candidate must create an account on the university's website and complete the application form without any errors.",
@@ -351,7 +352,7 @@ export const universitycanadawest = {
         {
             "type": "list-bollet",
             "title": "Documents Required at the Time of Admission",
-            "info": "<b>The candidate should submit the following documents to the university when applying for graduate and undergraduate programs:</b>",
+            "info": "The candidate should submit the following documents to the university when applying for graduate and undergraduate programs:",
             "data": [
                 "Academic Transcript",
                 "An acceptable score of GMAT/GRE",
@@ -372,7 +373,7 @@ export const universitycanadawest = {
         {
             "type": "table",
             "title": "University Canada West - Admission Dates 2021",
-            "info": "<b>Important dates for enrolling in various degrees at University Canada West are as follows:</b>",
+            "info": "Important dates for enrolling in various degrees at University Canada West are as follows:",
             "col": [
                 "Events",
                 "Dates",
@@ -417,6 +418,10 @@ export const universitycanadawest = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University Canada West (UCW), Canada - Reviews" },
@@ -435,6 +440,10 @@ export const universitycanadawest = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - Placement'
+        },
         {
             "type": "table",
             "title": "placement",
@@ -458,7 +467,7 @@ export const universitycanadawest = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Top Recruiter</b>",
+            "info": "Top Recruiter",
             "data": [
                 "Apple,",
                 "Scotiabank,",
@@ -499,6 +508,10 @@ export const universitycanadawest = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University Canada West (UCW), Canada - Gallery" },
@@ -518,9 +531,13 @@ export const universitycanadawest = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - Scholarship'
+        },
+        {
             "type": "table",
             "title": "Scholarships offered for International Students",
-            "info": "<b>To avail of the scholarships from the University Canada West, one should follow the eligibility criteria which is mentioned below:</b>",
+            "info": "To avail of the scholarships from the University Canada West, one should follow the eligibility criteria which is mentioned below:",
             "col": [
                 "scholarship",
                 "Details",
@@ -599,6 +616,10 @@ export const universitycanadawest = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - Faculty'
+        },
+        {
             "type": "table",
             "title": "faculty",
             "info": "",
@@ -650,6 +671,10 @@ export const universitycanadawest = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University Canada West (UCW), Canada - News & Articles" },
@@ -669,9 +694,13 @@ export const universitycanadawest = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>The university is providing excellent accommodation facilities to students for rent by off-campus housing options:</b>",
+            "info": "The university is providing excellent accommodation facilities to students for rent by off-campus housing options:",
             "data": [
                 "University has 2 campuses to book their hostels near the institute.",
                 "The college offers an online facility for the students to book their accommodation from anywhere within a few times.",
@@ -703,6 +732,10 @@ export const universitycanadawest = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'University Canada West (UCW), Canada - FAQ'
+        },
         {
             "type": "question-list",
             "title": "University Canada West - Most Important FAQs",

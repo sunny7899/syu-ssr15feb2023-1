@@ -75,10 +75,10 @@ export const gismabusinessschool = {
             title: '',
             info: '',
             row: [
-                ["Accommodation","Security","Canteen","Library","Internet"]
+                ["Accommodation", "Security", "Canteen", "Library", "Internet"]
             ]
         },
-        
+
         {
             "type": "list-bollet",
             "title": "Accreditations",
@@ -110,30 +110,37 @@ export const gismabusinessschool = {
                     "Approx range in RS": "7350 Rs"
                 }
             ],
-            "heading":"<p><b>Note:</b> 1 USD - 70 Rs (approx)</p>"
+            "heading": "<p><b>Note:</b> 1 USD - 70 Rs (approx)</p>"
         },
-        
 
-        { 
-            type:"meta",
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "GISMA Business School, Germany" },
                 { name: "description", content: "GISMA Business School was established in 1999. It offers the MBA and Global MBA courses in Germany in English medium. The duration of the course in 12-24 Months." },
             ],
         },
         {
-            type:"meta-title",
-            title: "GISMA Business School, Germany"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "GISMA Business School, Germany"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school" }
-        ]}
+            ]
+        }
 
 
     ],
     "coursesandfees": [
 
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - courses & Fees"
+
+        },
         {
             "type": "table",
             "title": "GISMA Business School - Fee Structure 2023",
@@ -149,198 +156,205 @@ export const gismabusinessschool = {
                     "MBA Courses": "<b>MBA</b>",
                     "Fee per course in Euro": "€ 31450 per course",
                     "Fee per course in USD": "37428 USD",
-                    "Fee per course in Rs":"26,19,960"
+                    "Fee per course in Rs": "26,19,960"
                 },
                 {
                     "MBA Courses": "<b>Global MBA</b>",
                     "Fee per course in Euro": "Tuition fee - €21,000<br>International fee - €23,000/ Year",
                     "Fee per course in USD": "Tuition fee - 24991 USD<br>International fee - 27371 USD/ Year",
-                    "Fee per course in Rs":"Tuition fee - 17,49,370 Rs<br>International fee - 19,15,970 Rs/ Year"
+                    "Fee per course in Rs": "Tuition fee - 17,49,370 Rs<br>International fee - 19,15,970 Rs/ Year"
                 }
             ],
-            "heading":"<p><b>Note:</b> 1 USD - 70 Rs (approx)</p>"
+            "heading": "<p><b>Note:</b> 1 USD - 70 Rs (approx)</p>"
         },
         {
-            "type":"table",
-            "title":"GISMA Business School - Course Duration",
-            "info":"Go through the course duration of MBA programs provided by GISMA Business School:",
+            "type": "table",
+            "title": "GISMA Business School - Course Duration",
+            "info": "Go through the course duration of MBA programs provided by GISMA Business School:",
             "col": [
                 "MBA programs",
                 "Course Duration"
             ],
-            "row":[
+            "row": [
                 {
-                    "MBA programs":"<b>MBA</b>",
-                    "Course Duration":"1 year"
+                    "MBA programs": "<b>MBA</b>",
+                    "Course Duration": "1 year"
                 },
                 {
-                    "MBA programs":"<b>Global MBA</b>",
-                    "Course Duration":"12 or 24 months"
+                    "MBA programs": "<b>Global MBA</b>",
+                    "Course Duration": "12 or 24 months"
                 }
             ]
         },
         {
             "type": "list-bollet",
             "title": "MBA Programs",
-            "info":"GISMA Business School provides various MBA courses to the students who are looking for quality education:",
+            "info": "GISMA Business School provides various MBA courses to the students who are looking for quality education:",
             "data": [
-              "MBA",
-              "Global MBA"
-              ]
-          },
-          {
+                "MBA",
+                "Global MBA"
+            ]
+        },
+        {
             "type": "list-bollet",
             "title": "Programmes at GISMA Business School",
-            "info":"Discover the wide range of programmes here to start your journey with GISMA Business School:",
-            "infoBeloText":"<h3>1. GISMA Awarded Postgraduate Programmes</h3>",
+            "info": "Discover the wide range of programmes here to start your journey with GISMA Business School:",
+            "infoBeloText": "<h3>1. GISMA Awarded Postgraduate Programmes</h3>",
             "data": [
-              "MSc Leadership for Digital Transformation",
-              "MSc International Business Management",
-              "Global MBA",
-              "MSc International Agribusiness",
-              "MSc Data Science, AI, and Digital Business"
-              ]
-          },
-          {
+                "MSc Leadership for Digital Transformation",
+                "MSc International Business Management",
+                "Global MBA",
+                "MSc International Agribusiness",
+                "MSc Data Science, AI, and Digital Business"
+            ]
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info":"<h3>2. GISMA Partner Postgraduate Programmes</h3>",
+            "info": "<h3>2. GISMA Partner Postgraduate Programmes</h3>",
             "data": [
-              "MBA",
-              "Manager D’Affaires Internationales/MSc Management in International Business",
-              "MSc Innovation, Strategy and Entrepreneurship",
-              "MSc Marketing Management",
-              "MSc Corporate Financial Management",
-              "MSc Global Accounting",
-              "MSc International Business Management",
-              "MSc International Marketing",
-              "MSc Leadership and Human Resource Management",
-              "MSc Strategic Business Management",
-              "MSc Project Management",
-              "MSc Digital Marketing",
-              "MSc Business Intelligence and Analytics",
-              "MSc Cyber Security and Data Governance"
-              ]
-          },
-          {
+                "MBA",
+                "Manager D’Affaires Internationales/MSc Management in International Business",
+                "MSc Innovation, Strategy and Entrepreneurship",
+                "MSc Marketing Management",
+                "MSc Corporate Financial Management",
+                "MSc Global Accounting",
+                "MSc International Business Management",
+                "MSc International Marketing",
+                "MSc Leadership and Human Resource Management",
+                "MSc Strategic Business Management",
+                "MSc Project Management",
+                "MSc Digital Marketing",
+                "MSc Business Intelligence and Analytics",
+                "MSc Cyber Security and Data Governance"
+            ]
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info":"<h3>3. GISMA Awarded Undergraduate Programmes</h3>",
+            "info": "<h3>3. GISMA Awarded Undergraduate Programmes</h3>",
             "data": [
-              "BSc Data Science, AI, and Digital Business",
-              "BSc International Business Management"
-              ]
-          },
-          {
+                "BSc Data Science, AI, and Digital Business",
+                "BSc International Business Management"
+            ]
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info":"<h3>4. GIMSA Degrees</h3>",
+            "info": "<h3>4. GIMSA Degrees</h3>",
             "data": [
-              "BSc Data Science, AI, and Digital Business",
-              "BSc International Business Management",
-              "MSc Leadership for Digital Transformation",
-              "MSc International Business Management",
-              "Global MBA",
-              "MSc International Agribusiness"
-              ]
-          },
-          {
+                "BSc Data Science, AI, and Digital Business",
+                "BSc International Business Management",
+                "MSc Leadership for Digital Transformation",
+                "MSc International Business Management",
+                "Global MBA",
+                "MSc International Agribusiness"
+            ]
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info":"<h3>5. Short courses</h3>",
+            "info": "<h3>5. Short courses</h3>",
             "data": [
-              "Marketing in the Education Industry",
-              "Training and Consultancy Centre",
-              "Advanced Trading Course",
-              "Trading Skills Course",
-              "Introduction to Financial Markets and Trading",
-              "Bookkeeping and Payroll",
-              "Cyber and Digital Security",
-              "Data Analytics & Visualisation",
-              "Human Resource Management",
-              "Predictive Data Analytics",
-              "Project Management (PMI accredited)",
-              "Psychology"
-              ]
-          },
-          {
+                "Marketing in the Education Industry",
+                "Training and Consultancy Centre",
+                "Advanced Trading Course",
+                "Trading Skills Course",
+                "Introduction to Financial Markets and Trading",
+                "Bookkeeping and Payroll",
+                "Cyber and Digital Security",
+                "Data Analytics & Visualisation",
+                "Human Resource Management",
+                "Predictive Data Analytics",
+                "Project Management (PMI accredited)",
+                "Psychology"
+            ]
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info":"<h3>6. Language Programmes</h3>",
+            "info": "<h3>6. Language Programmes</h3>",
             "data": [
-              "General German",
-              "University Pathway Programme",
-              "University Pathway Programme - Blended Learning",
-              "General German - Blended Learning",
-              "University Placement Service"
-              ]
-          },
+                "General German",
+                "University Pathway Programme",
+                "University Pathway Programme - Blended Learning",
+                "General German - Blended Learning",
+                "University Placement Service"
+            ]
+        },
 
         {
-          type:"meta",
-          meta: [
-              { name: "title", content: "GISMA Business School, Germany - courses & Fees" },
-              { name: "description", content: "know about GISMA Business School , Eligibility, Required documents, courses Duration. Check available courses and fees" },
-          ],
-      },
-      {
-          type:"meta-title",
-          title: "GISMA Business School, Germany - courses & Fees"},
-      {
-          type:"meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/courses-and-fees" }
-      ]}
-        ],
-        "admission":[
+            type: "meta",
+            meta: [
+                { name: "title", content: "GISMA Business School, Germany - courses & Fees" },
+                { name: "description", content: "know about GISMA Business School , Eligibility, Required documents, courses Duration. Check available courses and fees" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "GISMA Business School, Germany - courses & Fees"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/courses-and-fees" }
+            ]
+        }
+    ],
+    "admission": [
 
-            {
-                "type": "list-bollet",
-                "title": "Eligibility Criteria",
-                "info":"Are you fulfilling the criteria for doing an MBA in Germany? Students should be eligible for admission at GISMA Business School:",
-                "textBelowInfo":"<h3>1. MBA</h3><p>Accepted - </p>",
-                "data": [
-                  "The students must have a Bachelor-level undergraduate degree in any subject, with a good grade average for MBA admission at GISMA Business School.",
-                  "The candidates must have at least 3 years of relevant, full-time work experience for enrollment."
-                  ]
-              },
-              {
-                "type": "list-bollet",
-                "title": "",
-                "info":"English proficiency examination clearance with good scores -",
-                "data": [
-                  "TOEFL– IBT- 94 (minimum of 22 in each band)",
-                  "Computer-based: 240",
-                  "Paper-based: 587IELTS exam– 6.5 (minimum of 6.0)",
-                  "Cambridge proficiency exam (CPE)- A, B, C",
-                  "Pearson Test of English (PTE) – Minimum of 63"
-                  ],
-                  "heading":"GMAT may be required on a case-by-case basis. the students will be notified after the Admissions Board meets if they are required to take the GMAT. The target score is 550 with a minimum of 70% in the quantitative section (GMAT institution code 0365). Students who score over 650 can apply for the GGSB GMAT Merit Scholarship. Details are below."
-              },
-              {
-                "type": "list-bollet",
-                "title": "",
-                "info":"Not accepted -",
-                "data": [
-                  "The students must have a Bachelor-level undergraduate degree in any subject, with a good grade average for MBA admission at GISMA Business School.",
-                  "The candidates must have at least 3 years of relevant, full-time work experience for enrollment."
-                  ]
-              },
-              {
-                "type": "list-bollet",
-                "title": "",
-                "info":"<h3>Global MBA</h3>",
-                "data": [
-                  "The students wishing to study Global MBA must have a bachelor’s degree in relevant discipline or equivalent work experience.",
-                  "The students should have 3 years of work experience for Global MBA admission.",
-                  "The students must clear the English proficiency exam having B2 level in IELTS with 6.5 or equivalent."
-                  ]
-              },
-              {
-                "type": "step-list",
-                "title": "Admission Process",
-                "info":"",
-                "data": [
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - Admission 2023"
+
+        },
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria",
+            "info": "Are you fulfilling the criteria for doing an MBA in Germany? Students should be eligible for admission at GISMA Business School:",
+            "textBelowInfo": "<h3>1. MBA</h3><p>Accepted - </p>",
+            "data": [
+                "The students must have a Bachelor-level undergraduate degree in any subject, with a good grade average for MBA admission at GISMA Business School.",
+                "The candidates must have at least 3 years of relevant, full-time work experience for enrollment."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "English proficiency examination clearance with good scores -",
+            "data": [
+                "TOEFL– IBT- 94 (minimum of 22 in each band)",
+                "Computer-based: 240",
+                "Paper-based: 587IELTS exam– 6.5 (minimum of 6.0)",
+                "Cambridge proficiency exam (CPE)- A, B, C",
+                "Pearson Test of English (PTE) – Minimum of 63"
+            ],
+            "heading": "GMAT may be required on a case-by-case basis. the students will be notified after the Admissions Board meets if they are required to take the GMAT. The target score is 550 with a minimum of 70% in the quantitative section (GMAT institution code 0365). Students who score over 650 can apply for the GGSB GMAT Merit Scholarship. Details are below."
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Not accepted -",
+            "data": [
+                "The students must have a Bachelor-level undergraduate degree in any subject, with a good grade average for MBA admission at GISMA Business School.",
+                "The candidates must have at least 3 years of relevant, full-time work experience for enrollment."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "<h3>Global MBA</h3>",
+            "data": [
+                "The students wishing to study Global MBA must have a bachelor’s degree in relevant discipline or equivalent work experience.",
+                "The students should have 3 years of work experience for Global MBA admission.",
+                "The students must clear the English proficiency exam having B2 level in IELTS with 6.5 or equivalent."
+            ]
+        },
+        {
+            "type": "step-list",
+            "title": "Admission Process",
+            "info": "",
+            "data": [
                 "<b>Step 1: Find course and apply</b><p>The students must complete the application form and consultants will get in touch with students.</p>",
                 "<b>Step 2: Receive acceptance letter</b><p>The students will get an acceptance letter after meeting all entry requirements and important documents are submitted.</p>",
                 "<b>Step 3: Sign study contract</b><p>The admission committee will send a confirmation letter and a request for a deposit to the students for the MBA course admission.</p>",
@@ -351,13 +365,13 @@ export const gismabusinessschool = {
                 "<b>Step 8: Receive visa</b><p>The students will get a visa as they’ve been accepted into a German school.</p>",
                 "<b>Step 9: Search for accommodation</b><p>After admission confirmation, the students should begin the accommodation process.</p>",
                 "<b>Step 10: Fly to Germany</b><p>Now the students can fly to Germany to start an MBA course at GISMA Business School.</p>"
-              ]
-              },
-              {
-              "type": "list-bollet",
-              "title": "Documents Required",
-              "info":"Attaching necessary documents is a crucial step for MBA admission at GISMA Business School:",
-              "data": [
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Documents Required",
+            "info": "Attaching necessary documents is a crucial step for MBA admission at GISMA Business School:",
+            "data": [
                 "Medical certificate",
                 "Passport size photographs",
                 "Bank receipt",
@@ -379,277 +393,325 @@ export const gismabusinessschool = {
                 "Updated curriculum",
                 "3 short essays relating to your academic/professional experience",
                 "2 professional referees"
-                ]
-            },
-          
-          {
-            type:"meta",
+            ]
+        },
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "GISMA Business School, Germany - Admission 2023" },
                 { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process. Click Here TO REGISTER" },
             ],
         },
         {
-            type:"meta-title",
-            title: "GISMA Business School, Germany - Admission 2023"},
+            type: "meta-title",
+            title: "GISMA Business School, Germany - Admission 2023"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/admission" }
-        ]}
-        ],
-        "review":[
-          
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "GISMA Business School, Germany - Reviews" },
-                  { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "GISMA Business School, Germany - Reviews"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/reviews" }
-              ]
-          }
-      ],
-        "placement":[
+            ]
+        }
+    ],
+    "review": [
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - Reviews"
 
-            {
-                "type": "list-bollet",
-                "title": "",
-                "info" :"",
-                "data": [
-                     "Graduates might return to India and seek work after completing their various degrees.",
-                     "Internships and jobs in and around Germany are encouraged for students at the GISMA Business School."
-                  ]
-              },
-              {
-                "type": "table",
-                "title": "",
-                "info": "",
-                "col": [
-                    "Particulars",
-                    "Statistics"
-    
-                ],
-                "row": [
-                    {
-                        "Particulars": "Average salary of an MBA graduate",
-                        "Statistics": "62,000 EUR Annually"
-                    },
-                ]
-              },
-          
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "GISMA Business School, Germany - Placement" },
-            { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "GISMA Business School, Germany - Placement"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/placement" }
-    ]}
-        ],
-        "gallery":[
-         
-    
-    
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "GISMA Business School, Germany - Gallery"},
-                  { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "GISMA Business School, Germany - Gallery"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/gallery" }
-              ]
-          }
-      ],
-        "scholarship": [
+        },
 
-            {
-                "type": "list-bollet",
-                "title": "",
-                "info" :"The scholarships that are provided at the GISMA Business School are as follows:",
-                "data": [
-                     "Principal’s scholarship for entrepreneurship",
-                     "Exceptional career scholarship",
-                     "Women in Business scholarship",
-                     "Academic merit scholarship",
-                     "Rector’s scholarship"
-                  ]
-              },
-          
-          {
-            type:"meta",
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "GISMA Business School, Germany - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "GISMA Business School, Germany - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - Placement"
+
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "Graduates might return to India and seek work after completing their various degrees.",
+                "Internships and jobs in and around Germany are encouraged for students at the GISMA Business School."
+            ]
+        },
+        {
+            "type": "table",
+            "title": "",
+            "info": "",
+            "col": [
+                "Particulars",
+                "Statistics"
+
+            ],
+            "row": [
+                {
+                    "Particulars": "Average salary of an MBA graduate",
+                    "Statistics": "62,000 EUR Annually"
+                },
+            ]
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "GISMA Business School, Germany - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "GISMA Business School, Germany - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - Gallery"
+
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "GISMA Business School, Germany - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "GISMA Business School, Germany - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - Scholarship"
+
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "The scholarships that are provided at the GISMA Business School are as follows:",
+            "data": [
+                "Principal’s scholarship for entrepreneurship",
+                "Exceptional career scholarship",
+                "Women in Business scholarship",
+                "Academic merit scholarship",
+                "Rector’s scholarship"
+            ]
+        },
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "GISMA Business School, Germany - Scholarship" },
                 { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
             ],
         },
         {
-            type:"meta-title",
-            title: "GISMA Business School, Germany - Scholarship"},
+            type: "meta-title",
+            title: "GISMA Business School, Germany - Scholarship"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/scholarship" }
-        ]}
-        ],
-        "faculty": [
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - Faculty"
 
-            {
-                "type": "table",
-                "title": "",
-                "info": "",
-                "col": [
-                    "Name",
-                    "Designation"
-    
-                ],
-                "row": [
-                    {
-                        "Name": "Prof. Dr. Maurits van Rooijen",
-                        "Designation": "Chairman"
-                    },
-                    {
-                        "Name": "Professor Dr. Stefan Stein",
-                        "Designation": "President"
-                    },
-                    {
-                        "Name": "Daniel Bolz",
-                        "Designation": "Director"
-                    },
-                    {
-                        "Name": "Professor. Dr. Ahmad Abu-Alkheil",
-                        "Designation": "Programme Leader International Business Management"
-                    },
-                    {
-                        "Name": "Professor Dr. Stefan Stein",
-                        "Designation": "Professor"
-                    },
-                ]
-              },
-          
-          {
-            type:"meta",
+        },
+
+        {
+            "type": "table",
+            "title": "Faculty",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+
+            ],
+            "row": [
+                {
+                    "Name": "Prof. Dr. Maurits van Rooijen",
+                    "Designation": "Chairman"
+                },
+                {
+                    "Name": "Professor Dr. Stefan Stein",
+                    "Designation": "President"
+                },
+                {
+                    "Name": "Daniel Bolz",
+                    "Designation": "Director"
+                },
+                {
+                    "Name": "Professor. Dr. Ahmad Abu-Alkheil",
+                    "Designation": "Programme Leader International Business Management"
+                },
+                {
+                    "Name": "Professor Dr. Stefan Stein",
+                    "Designation": "Professor"
+                },
+            ]
+        },
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "GISMA Business School, Germany - Faculty" },
                 { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
             ],
         },
         {
-            type:"meta-title",
-            title: "GISMA Business School, Germany - Faculty"},
+            type: "meta-title",
+            title: "GISMA Business School, Germany - Faculty"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/faculty" }
-        ]}
-        ],
-        "news":[
-         
-    
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "GISMA Business School, Germany - News & Articles" },
-                  { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "GISMA Business School, Germany - News & Articles"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/news-and-articles" }
-              ]
-          }
-      ],
-        "hostel": [
-          
-          {
-            type:"meta",
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - News & Articles"
+
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "GISMA Business School, Germany - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "GISMA Business School, Germany - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - Hostel"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "GISMA Business School, Germany - Hostel" },
                 { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
             ],
         },
         {
-            type:"meta-title",
-            title: "GISMA Business School, Germany - Hostel"},
+            type: "meta-title",
+            title: "GISMA Business School, Germany - Hostel"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/hostel" }
-        ]}
-        ],
-        "faq": [
-         
-            {
-                "type": "question-list",
-                "title": "GISMA Business School - Important FAQs",
-                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
-                "data": [
-                    {
-                      "ques": "Q. Is the GISMA Business School worth a place to study for an MBA education?",
-                      "ans": "The GISMA Business School offers MBA education at a low cost with quality education and wide-range job opportunities."
-                    },
-                    { "ques": "Q. Does the GISMA Business School offer transportation to the Airport after MBA admission?",
-                      "ans": "Yes, The students get an option within the application form to request a pickup from the airport at a fee to reach GISMA Business School."
-                    },
-                    {
-                        "ques": "Q. What is the tuition fee for doing an MBA at GISMA Business School?",
-                        "ans": "The students willing to study MBA courses at GISMA Business School should pay 37428 USD."
-                    },
-                    {
-                        "ques": "Q. How many years of Global MBA courses are provided at GISMA Business School?",
-                        "ans": "The students must complete 12 or 24 months of Global MBA at GISMA Business School."
-                    },
-                    {
-                        "ques": "Q. Is there any on-campus hostel during MBA education at GISMA Business School?",
-                        "ans": "No, GISMA Business School doesn’t have a campus hostel but it provides accommodation assistance with various options available in Berlin and Hannover."
-                    },
-                    
-                ]
-            },
+            ]
+        }
+    ],
+    "faq": [
 
-          {
-            type:"meta",
+        {
+            type: 'title',
+            title: "GISMA Business School, Germany - FAQ"
+
+        },
+        {
+            "type": "question-list",
+            "title": "GISMA Business School - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. Is the GISMA Business School worth a place to study for an MBA education?",
+                    "ans": "The GISMA Business School offers MBA education at a low cost with quality education and wide-range job opportunities."
+                },
+                {
+                    "ques": "Q. Does the GISMA Business School offer transportation to the Airport after MBA admission?",
+                    "ans": "Yes, The students get an option within the application form to request a pickup from the airport at a fee to reach GISMA Business School."
+                },
+                {
+                    "ques": "Q. What is the tuition fee for doing an MBA at GISMA Business School?",
+                    "ans": "The students willing to study MBA courses at GISMA Business School should pay 37428 USD."
+                },
+                {
+                    "ques": "Q. How many years of Global MBA courses are provided at GISMA Business School?",
+                    "ans": "The students must complete 12 or 24 months of Global MBA at GISMA Business School."
+                },
+                {
+                    "ques": "Q. Is there any on-campus hostel during MBA education at GISMA Business School?",
+                    "ans": "No, GISMA Business School doesn’t have a campus hostel but it provides accommodation assistance with various options available in Berlin and Hannover."
+                },
+
+            ]
+        },
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "GISMA Business School, Germany - FAQ" },
                 { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
             ],
         },
         {
-            type:"meta-title",
-            title: "GISMA Business School, Germany - FAQ"},
+            type: "meta-title",
+            title: "GISMA Business School, Germany - FAQ"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gisma-business-school/faq" }
-        ]}
-      ],
-    
-      }
+            ]
+        }
+    ],
+
+}

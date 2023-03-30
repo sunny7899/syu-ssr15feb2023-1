@@ -19,7 +19,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "table-title",
             "title": "Our Lady Of Fatima University - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick facts about Our Lady of Fatima University:</b>",
+            "info": "Given below is the table for quick facts about Our Lady of Fatima University:",
             "col": [
 
             ],
@@ -39,7 +39,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Our Lady Of Fatima University?",
-            "info": "<b>Below are some of the benefits of studying at Our Lady of Fatima University:</b>",
+            "info": "Below are some of the benefits of studying at Our Lady of Fatima University:",
             "data": [
                 "The university provides the students MBBS education which is equally focused on practicals and theory.",
                 "The campus of OLFU provides a great environment for the students.",
@@ -65,7 +65,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "table",
             "title": "Our Lady Of Fatima University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Our Lady of Fatima University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Our Lady of Fatima University:",
             "col": [
                 "Country",
                 "World"
@@ -80,7 +80,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "table",
             "title": "Our Lady of Fatima University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Our Lady of Fatima University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Our Lady of Fatima University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -99,7 +99,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Our Lady of Fatima University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "Our Lady of Fatima University is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "Five year accreditation from Medical Council of Thailand",
                 "World Health Organization",
@@ -112,7 +112,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Students",
-            "info": "<b>The management at LOFU makes sure that the life of students at Lady of Fatima University is beneficial for organization and academic excellence of its students.</b>",
+            "info": "The management at LOFU makes sure that the life of students at Lady of Fatima University is beneficial for organization and academic excellence of its students.",
             "data": [
                 "The students are provided with best facilities in the campus such as conference and seminar rooms, classrooms, lecture halls, amphi-theatre, library facilities with audio visual monitors, administrative offices, research and teaching laboratories, seminar departments and a huge parking space.",
                 "Students of OLFU are provided with a huge library. The OLFU university library has more than 2,00,000 books. The most important thing is that students can access the library anytime and it is free to access.",
@@ -126,7 +126,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Valenzuela City",
-            "info": "<b>The cost of living at Valenzuela city is as follows:</b>",
+            "info": "The cost of living at Valenzuela city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -158,7 +158,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "list-bollet",
             "title": "About Valenzuela City",
-            "info": "<b>Some of the interesting facts about the Valenzuela city are as follows:</b>",
+            "info": "Some of the interesting facts about the Valenzuela city are as follows:",
             "data": [
                 "Valenzuela City has a total land area of 44.59 square kilometer with a population of 600,000 according to the August 2010 census.",
                 "This makes it the 10th most populous city in the Philippines.",
@@ -189,9 +189,14 @@ export const ourladyoffatimauniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Our Lady Of Fatima University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Our Lady of Fatima University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Our Lady of Fatima University for MBBS program is given in the table below:",
             "col": [
                 "Year",
                 "16-months(BS)",
@@ -237,7 +242,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Our Lady Of Fatima University",
-            "info": "<b>Our Lady of Fatima University in Philippines has following faculties:</b>",
+            "info": "Our Lady of Fatima University in Philippines has following faculties:",
             "data": [
                 "Nursing",
                 "Dentistry",
@@ -259,7 +264,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "text",
             "title": "Our Lady Of Fatima University - MBBS Duration",
-            "info": "<b>Mentioned below is the duration of MBBS course:</b>",
+            "info": "Mentioned below is the duration of MBBS course:",
             "data": [
                 "The duration of MBBS course at Our Lady Fatima University is 6 years which includes 1 year of internship.",
                 "The MBBS course in the Philippines is divided into BS, MD and internship. BS can take 1.5 to 2 years. MD is nothing but MBBS. After BS, students can start with MD which takes 4 years."
@@ -434,9 +439,14 @@ export const ourladyoffatimauniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Our Lady of Fatima University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Our Lady of Fatima University is as follows:",
             "data": [
                 "An MBBS aspirant must have obtained a minimum aggregate of 50% marks in Physics, Chemistry, and Biology.",
                 "The student must have passed all subjects in his/her 12th standard and English is a compulsory subject.",
@@ -446,7 +456,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following is the admission procedure for applying to MBBS course at Our Lady of Fatima University:</b>",
+            "info": "Following is the admission procedure for applying to MBBS course at Our Lady of Fatima University:",
             "data": [
                 "<b>Step 1:</b> Fill in the application form accurately.",
                 "<b>Step 2:</b> Attach the documents given below:<br>- Scanned copy of marksheet of completion of higher secondary education / tertiary education<br>- Results of NEET (Score card)<br>- Scanned copy of your Passport",
@@ -458,7 +468,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Our Lady of Fatima University:</b>",
+            "info": "Following documents are required at the time of admission to Our Lady of Fatima University:",
             "data": [
                 "10 passport size Photographs.",
                 "10th Mark sheet & Certificate.",
@@ -477,7 +487,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Our Lady of Fatima University:</b>",
+            "info": "Check out the Important dates regarding admission at Our Lady of Fatima University:",
             "col": [
                 "Events",
                 "Dates",
@@ -518,6 +528,11 @@ export const ourladyoffatimauniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Our Lady Of Fatima University, Philippines - Reviews" },
@@ -536,6 +551,11 @@ export const ourladyoffatimauniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "Placements",
@@ -568,6 +588,11 @@ export const ourladyoffatimauniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Our Lady Of Fatima University, Philippines - Gallery" },
@@ -587,9 +612,14 @@ export const ourladyoffatimauniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Our Lady of Fatima University offers some scholarships to students:</b><p>The students who fulfill the required score in academics are given these types of scholarships. One simple rule to get this scholarship is that the students must not score less than 2.00 in any subjects. To avail this scholarship the student must have an average score (all subject scores together) as given below:</p><p></p>",
+            "info": "Our Lady of Fatima University offers some scholarships to students:</b><p>The students who fulfill the required score in academics are given these types of scholarships. One simple rule to get this scholarship is that the students must not score less than 2.00 in any subjects. To avail this scholarship the student must have an average score (all subject scores together) as given below:</p><p>",
             "textBelowInfo": "<p>Scholarship for Service<p>Following scholarships can be given to deserving students for their service.</p><br>For Libraries<br>For labs<br>For counseling and Guidance</p><p>Financial Scholarships<br>A) Leonora Jusgaya Scholarship<br>These are provided to students (even deemed students) who do not qualify for academic grants. The Finance office selects students by screening them. If selected the candidates are given a 50% to even 100% Scholarship.<br>B) Sibling or Family Privilege Discounts<br>The siblings who join the college together get this type of scholarship. At this university, a 10% waiver of the tuition fee is provided to both the siblings.</p>",
             "data": [
                 "A score of 1.25 or higher = 100% discount on the total fee",
@@ -621,6 +651,11 @@ export const ourladyoffatimauniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Our Lady Of Fatima University, Philippines - Faculty" },
@@ -639,6 +674,11 @@ export const ourladyoffatimauniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -659,9 +699,14 @@ export const ourladyoffatimauniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Our Lady of Fatima University:</b>",
+            "info": "Following are the hostel facilities at Our Lady of Fatima University:",
             "data": [
                 "Helps graduates access a world of opportunities via records on available jobs that might best match their qualifications",
                 "Updates graduates about the large occasions which might be occurring in their alma mater through announcements or news feeds",
@@ -673,7 +718,7 @@ export const ourladyoffatimauniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Hostel of the university is fully furnished with:</b>",
+            "info": "Hostel of the university is fully furnished with:",
             "data": [
                 "Fan",
                 "Bed",
@@ -706,9 +751,14 @@ export const ourladyoffatimauniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Our Lady Of Fatima University, Philippines - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Our Lady Fatima University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
 
                 {

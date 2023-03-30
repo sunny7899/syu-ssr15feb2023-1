@@ -19,7 +19,7 @@ export const newvisionuniversity = {
         {
             "type": "table-title",
             "title": "New Vision University - Quick Highlights 2022",
-            "info": "<p>Go through the major points to study MBBS program at New Vision University:</p>",
+            "info": "Go through the major points to study MBBS program at New Vision University:",
             "col": [
             ],
             "row": [
@@ -38,7 +38,7 @@ export const newvisionuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at New Vision University?",
-            "info": "<b>Take a look at the advantages of studying medical education at New Vision University:</b>",
+            "info": "Take a look at the advantages of studying medical education at New Vision University:",
             "data": [
                 "The university emphasizes ethical practices to follow as a doctor, and the students understand the responsibility of the profession.",
                 "Learning infrastructure of the university has state of the art which consist of classroom, library, laboratories, auditorium, internet, security, etc.",
@@ -52,7 +52,7 @@ export const newvisionuniversity = {
         {
             "type": "table",
             "title": "New Vision University - Ranking 2022",
-            "info": "<b>The students must refer UniRank for world and country rankings of New Vision University:</b>",
+            "info": "The students must refer UniRank for world and country rankings of New Vision University:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -67,13 +67,13 @@ export const newvisionuniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>New Vision University offers English medium of instruction to the global students coming to pursue MBBS:</b>",
+            "info": "New Vision University offers English medium of instruction to the global students coming to pursue MBBS:",
             "data": "The worldwide medical aspirants pursuing MBBS at New Vision University learn medicine programs in 100% English language."
         },
         {
             "type": "list-bollet",
             "title": "Accreditations and Recognitions",
-            "info": "<b>The New Vision University is officially recognised by various medical bodies mentioned below:</b>",
+            "info": "The New Vision University is officially recognised by various medical bodies mentioned below:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -88,7 +88,7 @@ export const newvisionuniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at New Vision University",
-            "info": "<b>New Vision University provides well-organized facilities at the convenience of students while studying MBBS:</b>",
+            "info": "New Vision University provides well-organized facilities at the convenience of students while studying MBBS:",
             "data": [
                 "Blood Bank",
                 "Canteen",
@@ -102,7 +102,7 @@ export const newvisionuniversity = {
         {
             "type": "table",
             "title": "SNew Vision University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for New Vision University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for New Vision University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -121,7 +121,7 @@ export const newvisionuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Tbilisi",
-            "info": "<b>The living expense of Tbilisi, Georgia is quite cheaper for students. The table is given below according to month basis expenses:</b>",
+            "info": "The living expense of Tbilisi, Georgia is quite cheaper for students. The table is given below according to month basis expenses:",
             "col": [
                 "Restaurants",
                 "Cost in GEL",
@@ -246,7 +246,7 @@ export const newvisionuniversity = {
         {
             "type": "list-bollet",
             "title": "New Vision University - Career Services",
-            "info": "<b>The New Vision University aims to educate, support, engage and inspire students for successful career development:</b>",
+            "info": "The New Vision University aims to educate, support, engage and inspire students for successful career development:",
             "data": [
                 "New Vision University conducts innovative educational programs, teaching methodologies and opportunities to network.",
                 "The institute offers the opportunity to find fulfilling careers in various sectors.",
@@ -257,7 +257,7 @@ export const newvisionuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>The Career Development Office offers ample services for students and alumni, helps students with -</b>",
+            "info": "The Career Development Office offers ample services for students and alumni, helps students with -",
             "col": [
             ],
             "row": [
@@ -269,7 +269,7 @@ export const newvisionuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Students and alumni appointments are conducted for individual advisement on various topics like -</b>",
+            "info": "Students and alumni appointments are conducted for individual advisement on various topics like -",
             "col": [
             ],
             "row": [
@@ -303,9 +303,14 @@ export const newvisionuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "New Vision University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "New Vision University - MBBS Fee Structure 2022",
-            "info": "<b>New Vision University offers quite an affordable fee structure to the students for MBBS education:</b>",
+            "info": "New Vision University offers quite an affordable fee structure to the students for MBBS education:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -362,7 +367,7 @@ export const newvisionuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at New Vision University",
-            "info": "<b>The New Vision University offers a broad range of medical faculties to worldwide medical aspirants during MBBS Education:</b>",
+            "info": "The New Vision University offers a broad range of medical faculties to worldwide medical aspirants during MBBS Education:",
             "data": [
                 "MD/MBBS",
                 "Nursing Care",
@@ -375,7 +380,7 @@ export const newvisionuniversity = {
         {
             "type": "list-bollet",
             "title": "New Vision University - MBBS Course Duration",
-            "info": "<b>New Vision University offers 6 years of MBBS duration to the students:</b>",
+            "info": "New Vision University offers 6 years of MBBS duration to the students:",
             "data": [
                 "Every batch of medicine program at New Vision University must undergo 6 years of MBBS education in English medium of instruction.",
                 "These 6 years include 360 credits.",
@@ -386,7 +391,7 @@ export const newvisionuniversity = {
         {
             "type": "table",
             "title": "MBBS Syllabus at New Vision University",
-            "data": "<b>The candidates should refer to the table mentioned below for a better understanding of MBBS syllabus:</b>",
+            "data": "The candidates should refer to the table mentioned below for a better understanding of MBBS syllabus:",
             "info": "",
             "col": [
                 "First Year",
@@ -595,9 +600,14 @@ export const newvisionuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "New Vision University - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>One must fit into the criteria mentioned below to take admission in MBBS course:</b>",
+            "info": "One must fit into the criteria mentioned below to take admission in MBBS course:",
             "data": [
                 "Students should have 60% in PCB for open category & 50% for reserved category students.",
                 "Students need to clear English language proficiency tests like EMPE/MCAT before enrolling for the MBBS course.",
@@ -608,7 +618,7 @@ export const newvisionuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Steps to join MD program at New Vision University are:</b>",
+            "info": "Steps to join MD program at New Vision University are:",
             "data": [
                 "<b>Step 1:</b> Fill the application form.",
                 "<b>Step 2:</b> Send the applications with the copies of documents to the following email address: <a>admissions@newvision.ge</a>",
@@ -621,7 +631,7 @@ export const newvisionuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Every candidate is required to submit all important documents during the admission procedure:</b>",
+            "info": "Every candidate is required to submit all important documents during the admission procedure:",
             "data": [
                 "Highschool certificate (10th and 12th)",
                 "Complete application form of admission",
@@ -637,7 +647,7 @@ export const newvisionuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The students must go through some important admission dates to get admission in MBBS course at New Vision University:</b>",
+            "info": "The students must go through some important admission dates to get admission in MBBS course at New Vision University:",
             "col": [
                 "Events",
                 "Date"
@@ -682,6 +692,11 @@ export const newvisionuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "New Vision University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "New Vision University - Reviews" },
@@ -700,6 +715,11 @@ export const newvisionuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "New Vision University - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "Placements",
@@ -731,6 +751,11 @@ export const newvisionuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "New Vision University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "New Vision University - Gallery" },
@@ -749,6 +774,11 @@ export const newvisionuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "New Vision University - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -769,8 +799,13 @@ export const newvisionuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "New Vision University - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -820,6 +855,11 @@ export const newvisionuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "New Vision University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "New Vision University - News & Articles" },
@@ -839,9 +879,14 @@ export const newvisionuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "New Vision University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The campus of New Vision University offers accommodation for international students which includes the amenities:</b><p>New Vision University provides the facility of staying in the hostel to the international students. Students are advised to contact the university to check the availability of the hostel rooms.</p><p>If the students apply minimum 2 weeks ago, then the university will also assist the students to find the arrangement of external accommodation.</p>",
+            "info": "The campus of New Vision University offers accommodation for international students which includes the amenities:</b><p>New Vision University provides the facility of staying in the hostel to the international students. Students are advised to contact the university to check the availability of the hostel rooms.</p><p>If the students apply minimum 2 weeks ago, then the university will also assist the students to find the arrangement of external accommodation.",
             "data": [
                 "The university offers comfortable rooms in it’s hostel building.",
                 "3 - 4 students can be adjusted in every room of the hostel.",
@@ -886,9 +931,14 @@ export const newvisionuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "New Vision University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "New Vision University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. What are the different courses offered at New Vision University?",

@@ -1,4 +1,3 @@
-
 export const tribhuvanuniversity = {
     "Title": "Tribhuvan University, Nepal",
     "shortTitle": "Tribhuvan University ",
@@ -21,7 +20,7 @@ export const tribhuvanuniversity = {
         {
             "type": "table-title",
             "title": "Tribhuvan University of Nepal - Quick Overview 2022",
-            "info": "<b>Check out the important highlights of the Tribhuvan University of Nepal:</b>",
+            "info": "Check out the important highlights of the Tribhuvan University of Nepal:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course	</b>", "September"],
@@ -36,7 +35,7 @@ export const tribhuvanuniversity = {
         {
             "type": "list-bollet",
             "title": "Advantages to Pursue MBBS in Tribhuvan University of Nepal",
-            "info": "<b>Let's dive into the benefits to pursue medicine career in this college:</b>",
+            "info": "Let's dive into the benefits to pursue medicine career in this college:",
             "data": [
                 "Tribhuvan university offers a low fee structure which is convenient to global students to pursue MBBS.",
                 "The university provides assured quality of education to all students.",
@@ -58,7 +57,7 @@ export const tribhuvanuniversity = {
         {
             "type": "table",
             "title": "Tribhuvan University of Nepal - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Tribhuvan University of Nepal:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Tribhuvan University of Nepal:",
             "col": [
                 "Country",
                 "World",
@@ -74,7 +73,7 @@ export const tribhuvanuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditations and Recognitions",
-            "info": "<b>Tribhuvan University of Nepal is Accredited and Recognized by medical bodies:</b>",
+            "info": "Tribhuvan University of Nepal is Accredited and Recognized by medical bodies:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -84,7 +83,7 @@ export const tribhuvanuniversity = {
         {
             "type": "table",
             "title": "Living cost at Kirtipur city",
-            "info": "<b>The living expenses of Kirtipur city are of reasonable price and the following table given below shown as per monthly basis:</b>",
+            "info": "The living expenses of Kirtipur city are of reasonable price and the following table given below shown as per monthly basis:",
             "col": [
                 "Activity",
                 "Amount in USD",
@@ -107,7 +106,7 @@ export const tribhuvanuniversity = {
                     "Amount in RS": "357 INR",
                 }
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs</p>'
         },
         {
             type: 'text',
@@ -119,7 +118,7 @@ export const tribhuvanuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Amongst the several sites of Kirtipur, here are some places of interest in this city, which are must exploring sites:</b>",
+            "info": "Amongst the several sites of Kirtipur, here are some places of interest in this city, which are must exploring sites:",
             "data": [
                 "Bagh Bhairab",
                 "Chilancho Stupa",
@@ -149,9 +148,13 @@ export const tribhuvanuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Tribhuvan University of Nepal - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure has been devised in such a manner that the students across the world can enroll in Tribhuvan University of Nepal:</b>",
+            "info": "The fee structure has been devised in such a manner that the students across the world can enroll in Tribhuvan University of Nepal:",
             "col": [
                 "Particular",
                 "Course Fee"
@@ -174,12 +177,12 @@ export const tribhuvanuniversity = {
                     "Course Fee": "1,24,000 INR"
                 },
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b>1 USD - INR 70(approx)</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b>1 USD - INR 70(approx)</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at Tribhuvan University",
-            "info": "<b>Tribhuvan University of Nepal has the following medical facilities:</b>",
+            "info": "Tribhuvan University of Nepal has the following medical facilities:",
             "data": [
                 "Nursing",
                 "Optometry",
@@ -189,7 +192,7 @@ export const tribhuvanuniversity = {
         {
             "type": "table",
             "title": "Tribhuvan University of Nepal: MBBS Syllabus",
-            "info": "<b>The Study pattern of Tribhuvan University of Nepal for doing MBBS Course:</b>",
+            "info": "The Study pattern of Tribhuvan University of Nepal for doing MBBS Course:",
             "Data": "1st Year",
             "col": [
                 "1st Semester",
@@ -296,7 +299,7 @@ export const tribhuvanuniversity = {
         {
             "type": "list-bollet",
             "title": "Tribhuvan University of Nepal - MBBS Duration",
-            "info": "<b>MBBS course duration in Tribhuvan University is for 5.5 years:</b>",
+            "info": "MBBS course duration in Tribhuvan University is for 5.5 years:",
             "data": [
                 "The duration of the medicine program in U. Tribhuvan college of Nepal is for five and a half years and the Initial years include theoretical classes and basics of medicine and clinical study.",
                 "In the last year of MBBS Course, the student must go through 1 year of mandatory Internship program in the hospital present in Tribhuvan University campus."
@@ -322,9 +325,13 @@ export const tribhuvanuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students must fit in the Eligibility criteria to study MBBS in Tribhuvan University of Nepal:</b>",
+            "info": "The students must fit in the Eligibility criteria to study MBBS in Tribhuvan University of Nepal:",
             "data": [
                 "The student must have a minimum age of 17 years",
                 "The maximum age limit for medicine education in the University for Indian students is according to NEET age limit.",
@@ -337,7 +344,7 @@ export const tribhuvanuniversity = {
         {
             "type": "list-bollet",
             "title": "Admission Process",
-            "info": "<b>To study MBBS course in Tribhuvan University of Nepal the students must follow the following admission process:</b>",
+            "info": "To study MBBS course in Tribhuvan University of Nepal the students must follow the following admission process:",
             "data": [
                 "Application forms are available on the official website of Tribhuvan University, students must fill the form before September.",
                 "Fill all the academic details in the application form"
@@ -346,7 +353,7 @@ export const tribhuvanuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Upload your academic documents in PSF or image format, along with passport size photographs.</b>",
+            "info": "Upload your academic documents in PSF or image format, along with passport size photographs.",
             "data": [
                 "HSC and SSC Marksheets",
                 "Valid passport copy for international students",
@@ -356,7 +363,7 @@ export const tribhuvanuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The candidates must submit the following documents to get MBBS admission in Tribhuvan University of Nepal.</b>",
+            "info": "The candidates must submit the following documents to get MBBS admission in Tribhuvan University of Nepal.",
             "data": [
                 "The students must carry their 10th & 12th mark-sheet/certificate.",
                 "Birth certificate is required at the time of admission.",
@@ -387,6 +394,10 @@ export const tribhuvanuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tribhuvan University, Nepal - Reviews" },
@@ -405,6 +416,10 @@ export const tribhuvanuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -437,6 +452,10 @@ export const tribhuvanuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tribhuvan University, Nepal - Gallery" },
@@ -455,6 +474,10 @@ export const tribhuvanuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -485,6 +508,10 @@ export const tribhuvanuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tribhuvan University, Nepal - Faculty" },
@@ -503,6 +530,10 @@ export const tribhuvanuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -523,9 +554,13 @@ export const tribhuvanuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The hostel facility for students studying MBBS in Tribhuvan University of Nepal is best suited and here are some basic facilities:</b>",
+            "info": "The hostel facility for students studying MBBS in Tribhuvan University of Nepal is best suited and here are some basic facilities:",
             "data": [
                 "Separate hostel accommodation provided for boys and girls.",
                 "Attached washrooms are available in hostel rooms.",
@@ -569,59 +604,62 @@ export const tribhuvanuniversity = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Tribhuvan University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. What will be the hostel charges of Tribhuvan University of Nepal?",
-                        "ans": "The hostel fee of U. Tribhuvan college of Nepal is 40,000 INR."
-                    },
-                    {
-                        "ques": "Q. Is the medical degree from Tribhuvan University of Nepal is valid in India?",
-                        "ans": "Once you have completed MBBS Education successfully, you need to qualify NMC screening test for practising in India."
-                    },
-                    {
-                        "ques": "Q. Is it worth to study MBBS in Tribhuvan University of Nepal?",
-                        "ans": "Yes, it's worth to study MBBS in U. Tribhuvan college of Nepal, The college is well known for its education quality and affordable medical education."
-                    },
-                    {
-                        "ques": "Q. Is any entrance exam is required in Tribhuvan University of Nepal for MBBS Admission?",
-                        "ans": "Yes, MET Entrance exam is mandatory to get admission in U. Tribhuvan college of Nepal for studying MBBS Course."
-                    },
-                    {
-                        "ques": "Q. What will be the eligibility criteria to take admission in Tribhuvan University of Nepal?",
-                        "ans": "Basic Eligibility criteria to get admission in U. Tribhuvan college of Nepal: The student must secure 50% in 10+2 standard in Physics, Chemistry and Biology subjects, 17 years of age or completed 17 years, Entrance exam qualification."
-                    },
-                    {
-                        "ques": "Q. Is the Tribhuvan University of Nepal is approved or recognised by NMC or not?",
-                        "ans": "Yes, U. Tribhuvan college of Nepal is fully recognised or approves by NMC."
-                    },
-                    {
-                        "ques": "Q. Is there hostel facilities available in the university campus?",
-                        "ans": "Yes, The U. Tribhuvan college of Nepal provides stop quality of hostel facilities to local and international students coming to pursue MBBS Career."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Tribhuvan University, Nepal - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Tribhuvan University, Nepal - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/tribhuvan-university/faq" }
-                ]
-            }
-        ]
+    "faq": [
+        {
+            type: 'title',
+            title: 'Tribhuvan University, Nepal - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Tribhuvan University - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+            "data": [
+                {
+                    "ques": "Q. What will be the hostel charges of Tribhuvan University of Nepal?",
+                    "ans": "The hostel fee of U. Tribhuvan college of Nepal is 40,000 INR."
+                },
+                {
+                    "ques": "Q. Is the medical degree from Tribhuvan University of Nepal is valid in India?",
+                    "ans": "Once you have completed MBBS Education successfully, you need to qualify NMC screening test for practising in India."
+                },
+                {
+                    "ques": "Q. Is it worth to study MBBS in Tribhuvan University of Nepal?",
+                    "ans": "Yes, it's worth to study MBBS in U. Tribhuvan college of Nepal, The college is well known for its education quality and affordable medical education."
+                },
+                {
+                    "ques": "Q. Is any entrance exam is required in Tribhuvan University of Nepal for MBBS Admission?",
+                    "ans": "Yes, MET Entrance exam is mandatory to get admission in U. Tribhuvan college of Nepal for studying MBBS Course."
+                },
+                {
+                    "ques": "Q. What will be the eligibility criteria to take admission in Tribhuvan University of Nepal?",
+                    "ans": "Basic Eligibility criteria to get admission in U. Tribhuvan college of Nepal: The student must secure 50% in 10+2 standard in Physics, Chemistry and Biology subjects, 17 years of age or completed 17 years, Entrance exam qualification."
+                },
+                {
+                    "ques": "Q. Is the Tribhuvan University of Nepal is approved or recognised by NMC or not?",
+                    "ans": "Yes, U. Tribhuvan college of Nepal is fully recognised or approves by NMC."
+                },
+                {
+                    "ques": "Q. Is there hostel facilities available in the university campus?",
+                    "ans": "Yes, The U. Tribhuvan college of Nepal provides stop quality of hostel facilities to local and international students coming to pursue MBBS Career."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Tribhuvan University, Nepal - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Tribhuvan University, Nepal - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/tribhuvan-university/faq" }
+            ]
+        }
+    ]
 }

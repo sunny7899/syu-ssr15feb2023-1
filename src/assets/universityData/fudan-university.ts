@@ -20,7 +20,7 @@ export const fudanuniversity = {
         {
             "type": "table-title",
             "title": "Fudan University: Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick facts about Fudan University:</b>",
+            "info": "Given below is the table for quick facts about Fudan University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -36,7 +36,7 @@ export const fudanuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS Course at Fudan University?',
-            info: '<b>Below are some of the advantages of studying MBBS at Fudan University:</b>',
+            info: 'Below are some of the advantages of studying MBBS at Fudan University:',
             data: [
                 "Fudan University is one of the top universities in China and it provides medical education with low tuition fees.",
                 "Fudan University provides world class education in medicine to the students.",
@@ -53,7 +53,7 @@ export const fudanuniversity = {
         {
             "type": "table",
             "title": "Fudan University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Fudan Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Fudan Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -69,13 +69,13 @@ export const fudanuniversity = {
         {
             "type": 'text',
             "title": 'Medium of Teaching',
-            "info": '<b>The medium of instruction used at Fudan University for MBBS education is mentioned below:</b>',
+            "info": 'The medium of instruction used at Fudan University for MBBS education is mentioned below:',
             "data": "<p>At Fudan Medical University, the medium of teaching is <b>English</b>, and thus language is not a barrier for non-chinese students while studying at this university.</p>"
         },
         {
             "type": 'list-bollet',
             "title": 'Accreditation and Recognition',
-            "info": '<b>China’s Fudan University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>',
+            "info": 'China’s Fudan University is recognized and accredited by many important medical bodies in the field of medical education such as:',
             "data": [
                 "China Engineering Education Accreditation Association",
                 "The Engineering Council’s Engineering Accreditation Board – United Kingdom",
@@ -88,7 +88,7 @@ export const fudanuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Life of Students at Fudan University',
-            "info": '<b>Students live an excellent life at Fudan university as it provides many facilities to its students:</b>',
+            "info": 'Students live an excellent life at Fudan university as it provides many facilities to its students:',
             "data": [
                 "Life of students at Fudan University is a combination of studies, fun as well as enjoyment.",
                 "The university is widely known for its campus culture of freedom, rich variety, and forward progress.",
@@ -112,7 +112,7 @@ export const fudanuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Shanghai City",
-            "info": "<b>The cost of living at Shanghai city is as follows:</b>",
+            "info": "The cost of living at Shanghai city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -145,7 +145,7 @@ export const fudanuniversity = {
             type: 'list-bollet',
             title: 'About Shanghai City',
             // img: 'shanghai-city.jpg',
-            info: '<b>Below are some of the key points about the Shanghai city:</b>',
+            info: 'Below are some of the key points about the Shanghai city:',
             data: [
                 "Shanghai city is located where the Yangtze River Delta and the Pacific meet, and it is the commercial and financial center of mainland China.",
                 "It ranks sixteenth in the 2013 edition of the Global Financial Centers Index published by the City of London.",
@@ -179,9 +179,14 @@ export const fudanuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Fudan University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Jilin University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Jilin Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Jilin Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "1st Year",
@@ -297,13 +302,13 @@ export const fudanuniversity = {
         {
             "type": 'text',
             "title": 'MBBS Course Duration: Fudan University',
-            "info": '<b>Mentioned below is the duration of MBBS course:</b>',
+            "info": 'Mentioned below is the duration of MBBS course:',
             "data": "<p>The duration of MBBS course at Fudan University is <b>6 years</b> which includes 1 year of internship.</p>"
         },
         {
             "type": 'text',
             "title": 'MBBS Syllabus: Fudan University',
-            "info": '<b>The complete syllabus for studying MBBS at Fudan Medical University is as follows:</b>',
+            "info": 'The complete syllabus for studying MBBS at Fudan Medical University is as follows:',
         },
         {
             "type": "table",
@@ -420,7 +425,7 @@ export const fudanuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at Fudan Medical University',
-            "info": '<b>Below are the various faculties and departments present at Fudan Medical University:</b>',
+            "info": 'Below are the various faculties and departments present at Fudan Medical University:',
             "data": [
                 "Basic Medical School",
                 "Pharmacy",
@@ -453,9 +458,14 @@ export const fudanuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Fudan University - Admission 2023"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>The eligibility criteria to study MBBS at Fudan University is as follows:</b>',
+            "info": 'The eligibility criteria to study MBBS at Fudan University is as follows:',
             "data": [
                 "Candidate’s age should be over 18 years and under 17 years.",
                 "Candidate’s mental and physical health should be good.",
@@ -471,7 +481,7 @@ export const fudanuniversity = {
         {
             "type": 'step-list',
             "title": 'How to Apply for MBBS Admission at Fudan Medical University?',
-            "info": '<b>Following is the admission procedure for applying to MBBS course at Fudan University:</b>',
+            "info": 'Following is the admission procedure for applying to MBBS course at Fudan University:',
             "data": [
                 "<b>Step 1:</b> Students who fit in the required eligibility criteria for Fudan Medical University must fill the application form of the university.",
                 "<b>Step 2:</b> Students must upload the required application documents.",
@@ -486,7 +496,7 @@ export const fudanuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Required Documents',
-            "info": '<b>Following documents are required at the time of admission to Fudan Medical University:</b>',
+            "info": 'Following documents are required at the time of admission to Fudan Medical University:',
             "data": [
                 "10th Marksheet",
                 "12th Marksheet",
@@ -503,7 +513,7 @@ export const fudanuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Fudan University:</b>",
+            "info": "Check out the Important dates regarding admission at Fudan University:",
             "col": [
                 "Events",
                 "Dates"
@@ -548,6 +558,11 @@ export const fudanuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Fudan University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Fudan University - Reviews" },
@@ -566,6 +581,11 @@ export const fudanuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Fudan University - Placement"
+
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -597,6 +617,11 @@ export const fudanuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Fudan University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Fudan University - Gallery" },
@@ -616,9 +641,14 @@ export const fudanuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Fudan University - Scholarship"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Scholarships',
-            "info": '<b>Following scholarships are offered at Fudan University:</b>',
+            "info": 'Following scholarships are offered at Fudan University:',
             "data": [
                 "For students who are diligent, hardworking, and aspiring, Fudan University has set up more than forty scholarships with a maximum award of more than 10,000 yuan / person / year, which covers more than 40% of all school-based (junior college) students.",
                 "The central government has set up national scholarships since 2007 to encourage students in colleges and universities to study diligently and make progress, and have achieved comprehensive development in ethics, physical education, intelligence, and beauty.",
@@ -627,7 +657,7 @@ export const fudanuniversity = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>At present, the scholarships established by Fudan University for undergraduate (special) students include:</b>',
+            "info": 'At present, the scholarships established by Fudan University for undergraduate (special) students include:',
             "data": [
                 "National scholarships",
                 "National inspirational scholarships",
@@ -661,6 +691,11 @@ export const fudanuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Fudan University - Faculty"
+
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -720,6 +755,11 @@ export const fudanuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Fudan University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Fudan University - News & Articles" },
@@ -739,9 +779,14 @@ export const fudanuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Fudan University - Hostel"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel & Accommodation',
-            "info": '<b>Following are the hostel facilities at Fudan University:</b>',
+            "info": 'Following are the hostel facilities at Fudan University:',
             "data": [
                 "Fudan Foreign Student Dormitory consists of the Main building and the Supplementary building.",
                 "The main building allocated for the Fudan University’s accommodation is located northwest of Fudan campus and it is a 23 storey building with a total of 728 rooms, of which 582 are single rooms and 146 are double rooms respectively.",
@@ -775,9 +820,14 @@ export const fudanuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Fudan University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many affiliated hospitals does this university have?",

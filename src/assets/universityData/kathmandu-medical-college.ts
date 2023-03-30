@@ -22,7 +22,7 @@ export const kathmandumedicalcollege = {
         {
             "type": "table-title",
             "title": "Kathmandu Medical College - Quick Overview 2022",
-            "info": "<b>Refer the table below for quick highlights about Kathmandu Medical College:</b>",
+            "info": "Refer the table below for quick highlights about Kathmandu Medical College:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course	</b>", "September"],
@@ -38,7 +38,7 @@ export const kathmandumedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Kathmandu Medical College?",
-            "info": "<b>Here are the salient features of Kathmandu Medical College:</b>",
+            "info": "Here are the salient features of Kathmandu Medical College:",
             "data": [
                 "Language of instruction taught for the MBBS course is English. There will be no language barrier for the studying MBBS course at the institute.",
                 "Indian students don’t need to have a visa to study medicine at <b>Kathmandu Medical College.</b>",
@@ -59,7 +59,7 @@ export const kathmandumedicalcollege = {
         {
             "type": "table",
             "title": "Kathmandu University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Kathmandu University is as follows: </b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Kathmandu University is as follows: ",
             "col": [
                 "Country",
                 "World",
@@ -100,9 +100,14 @@ export const kathmandumedicalcollege = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kathmandu Medical College: MBBS Fee Structure 2022",
-            "info": "<b>The MBBS fees at Kathmandu Medical College can be pay in installments. The fee structure is as follows:</b>",
+            "info": "The MBBS fees at Kathmandu Medical College can be pay in installments. The fee structure is as follows:",
             "col": [
                 "Particulars",
                 "Fees in INR",
@@ -141,18 +146,18 @@ export const kathmandumedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Kathmandu Medical College",
-            "info": "<b>Following are the medical programs offered at Kathmandu Medical College:</b>",
+            "info": "Following are the medical programs offered at Kathmandu Medical College:",
             "data": [
-               "MBBS Program",
-               "PG and MCH Program",
-               "BDS Program",
-               "Nursing Program"
+                "MBBS Program",
+                "PG and MCH Program",
+                "BDS Program",
+                "Nursing Program"
             ]
         },
         {
             "type": "table",
             "title": "Kathmandu Medical College - MBBS Syllabus",
-            "info": "<b>The Kathmandu Medical College has the syllabus as prescribed by the Medical Council of Nepal:</b><br><b>The curriculum is mainly distributed in 3 aspects of subjects as follows:</b>",
+            "info": "The Kathmandu Medical College has the syllabus as prescribed by the Medical Council of Nepal:</b><br><b>The curriculum is mainly distributed in 3 aspects of subjects as follows:",
             "col": [
                 "Basic Sciences",
                 "Community Medicine",
@@ -204,7 +209,7 @@ export const kathmandumedicalcollege = {
         {
             "type": "table",
             "title": "Kathmandu Medical College: FMGE Performance 2021",
-            "info": "<b>Find the passing percent and appeared students in year 2021 for Kathmandu Medical College is here in the table below:</b>",
+            "info": "Find the passing percent and appeared students in year 2021 for Kathmandu Medical College is here in the table below:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -241,9 +246,14 @@ export const kathmandumedicalcollege = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Follow the eligibility criteria required applying for MBBS at Kathmandu Medical College:</b>",
+            "info": "Follow the eligibility criteria required applying for MBBS at Kathmandu Medical College:",
             "data": [
                 "The candidate who has completed 17 years of age is eligible to apply for the MBBS program at Kathmandu Medical College.",
                 "Candidates must have completed 10+2 education or equivalent or Intermediate of Science(I.Sc) with subjects of physics, Chemistry, Biology and English as the main course subjects.",
@@ -255,13 +265,12 @@ export const kathmandumedicalcollege = {
         {
             type: 'text',
             title: 'Admission Process',
-            info: "",
-            data: '<p><b>Kathmandu Medical College always believes to provide equal opportunity to students irrespective of their gender and origin:</b></p>'
+            info: 'Kathmandu Medical College always believes to provide equal opportunity to students irrespective of their gender and origin:'
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Application Prerequisites:</b>",
+            "info": "Application Prerequisites:",
             "data": [
                 "Students who have been sponsored by the Ministry of education will be enrolled in 10% of the total available seats.",
                 "Local students or Nepali students need to apply for the Kathmandu University Medical Entrance Test (KUMET) held at Kathmandu University.",
@@ -272,7 +281,7 @@ export const kathmandumedicalcollege = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>How to Apply?</b>",
+            "info": "How to Apply?",
             "data": [
                 "Applications for the MBBS program at Kathmandu Medical College are made in the month of April to August each year.",
                 "Resident students need to clear the KUMET examination and submit a copy of the application form along with relevant documents to Kathmandu Medical College.",
@@ -282,7 +291,7 @@ export const kathmandumedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Applicants need to submit notarized copy of following documents</b>",
+            "info": "Applicants need to submit notarized copy of following documents",
             "data": [
                 "Copy of Mark Sheets",
                 "Copy of original Passport",
@@ -296,7 +305,7 @@ export const kathmandumedicalcollege = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Following are the important academic dates of Kathmandu Medical College:</b>",
+            "info": "Following are the important academic dates of Kathmandu Medical College:",
             "col": [
                 "Events",
                 "Dates"
@@ -337,6 +346,11 @@ export const kathmandumedicalcollege = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kathmandu Medical College, Nepal - Reviews" },
@@ -355,6 +369,11 @@ export const kathmandumedicalcollege = {
         }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -375,6 +394,11 @@ export const kathmandumedicalcollege = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kathmandu Medical College, Nepal - News & Articles" },
@@ -394,21 +418,27 @@ export const kathmandumedicalcollege = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - Hostel"
+
+        },
+        {
             type: 'text',
             title: 'Hostel & Accommodation',
-            info: "<b>The Kathmandu Medical College offers the hostels for students at two different locations:</b>",
-            data: '<p><b>1 Hostel at Duwakot</b></p><p>It is the own building of Kathmandu Medical College provides accommodation for 421 students. The hostel has a cafeteria with a capacity of 56 boys. All types of food are available at the hostel premises.</p>'
+            info: "The Kathmandu Medical College offers the hostels for students at two different locations:",
+            textBelowInfo: "1 Hostel at Duwakot",
+            data: '<p>It is the own building of Kathmandu Medical College provides accommodation for 421 students. The hostel has a cafeteria with a capacity of 56 boys. All types of food are available at the hostel premises.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: "",
-            data: '<p><b>2 Hostel at Sinamangal</b></p><p>There are 2 hostels for girls and 1 hostel for boys with an accommodation capacity of 128 students. All the girls of the clinical department and the faculty of basic sciences accommodated here. Lady warden is allotted to students for the management of the girl’s hostel for handling the issues related to hostel and girls. Kathmandu Medical College hospital is situated at a walking distance from the hostel</p>'
+            info: "2 Hostel at Sinamangal",
+            data: '<p>There are 2 hostels for girls and 1 hostel for boys with an accommodation capacity of 128 students. All the girls of the clinical department and the faculty of basic sciences accommodated here. Lady warden is allotted to students for the management of the girl’s hostel for handling the issues related to hostel and girls. Kathmandu Medical College hospital is situated at a walking distance from the hostel</p>'
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b>The following table gives the capacity of hostels in tabular format:</b>",
+            "info": "The following table gives the capacity of hostels in tabular format:",
             "col": [
                 "Description",
                 "Capacity"
@@ -460,7 +490,7 @@ export const kathmandumedicalcollege = {
         {
             "type": "table",
             "title": "Living Cost at Kathmandu",
-            "info": "<b>The expenses of living in Kathmandu city are:</b>",
+            "info": "The expenses of living in Kathmandu city are:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -506,9 +536,14 @@ export const kathmandumedicalcollege = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kathmandu Medical College - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Do Indian students need a student visa to study in Nepali Universities?",
@@ -553,6 +588,11 @@ export const kathmandumedicalcollege = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "",
             "info": "",
@@ -584,6 +624,11 @@ export const kathmandumedicalcollege = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "",
             "info": "",
@@ -613,6 +658,10 @@ export const kathmandumedicalcollege = {
 
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Kathmandu Medical College, Nepal - Faculty"
+        },
         {
             "type": "list-bollet",
             "title": "",

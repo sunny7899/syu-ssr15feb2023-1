@@ -20,7 +20,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "table-title",
             "title": "Ivanovo State Medical Academy - Quick Highlights",
-            "info": "<b>Given below is the table for quick highlights about Ivanovo State Medical Academy:</b>",
+            "info": "Given below is the table for quick highlights about Ivanovo State Medical Academy:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September 2022"],
@@ -37,7 +37,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Ivanovo State Medical Academy?",
-            "info": "<b>Advantages of studying MBBS at Ivanovo State Medical Academy, Russia are as given below:</b>",
+            "info": "Advantages of studying MBBS at Ivanovo State Medical Academy, Russia are as given below:",
             "data": [
                 "The medium of instruction for the MBBS course at Ivanovo State Medical University is English.",
                 "The cost of studying MBBS in Russia is very low and the cost of living in Russia is low too as exchange rate of Ruble is almost similar to Indian Rupee.",
@@ -52,7 +52,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Following is the medium of teaching at Ivanovo State Medical University:</b>",
+            "info": "Following is the medium of teaching at Ivanovo State Medical University:",
             "data": [
                 "At this university, all the different medicine courses are taught in the English language.",
                 "Russian language is also taught to students so that it will be useful for them during their internships to communicate with the patients and also to communicate with other people in their daily life."
@@ -61,7 +61,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "table",
             "title": "Ivanovo State Medical Academy - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Ivanovo State Medical Academy:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Ivanovo State Medical Academy:",
             "col": [
                 "Country",
                 "World"
@@ -78,7 +78,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Ivanovo State Medical Academy has following Accreditation and Recognition:</b>",
+            "info": "Ivanovo State Medical Academy has following Accreditation and Recognition:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -89,7 +89,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "list-bollet",
             "title": "Library Facility",
-            "info": "<b>Below given are the details of the library at Ivanovo State Medical Academy:</b>",
+            "info": "Below given are the details of the library at Ivanovo State Medical Academy:",
             "data": [
                 "The library of Ivanovo State Medical University is known as IvGMA library.",
                 "The mission of the library of the Ministry of Health of Russia is to fully provide library users with information resources for educational, research and clinical activities, and also for development and personal improvement.",
@@ -100,7 +100,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Some of the library goals are -</b>",
+            "info": "Some of the library goals are -",
             "data": [
                 "Creation and support at the modern level of information which includes support for the educational, scientific and educational processes of the Academy.",
                 "Continuous improvement of the quality of library services and information based on the constant updating of the collection with various sources of information.",
@@ -110,14 +110,15 @@ export const ivanovostatemedicalacademy = {
         },
         {
             "type": "text",
-            "title": "Cost of Living at Ivanovo",
+            "title": "",
             "info": "",
-            "data": '<p><strong>Following are the living expenses at Ivanovo city:</strong></p>'
+            "data": '<p><strong></strong></p>'
         },
         {
             "type": "table",
-            "title": "",
-            "info": "The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.",
+            "title": "Cost of Living at Ivanovo",
+            "info": "Following are the living expenses at Ivanovo city:",
+            "textBelowInfo": "<p>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.</p>",
             "col": [
                 "Activity",
                 "Cost"
@@ -156,7 +157,7 @@ export const ivanovostatemedicalacademy = {
             "type": "list-bollet",
             "title": "About Ivanovo City",
             "img": "",
-            "info": "<b>Some of the highlights of the Ivanovo city are:</b>",
+            "info": "Some of the highlights of the Ivanovo city are:",
             "data": [
                 "Ivanovo city is located about 300 km northeast of Moscow, in the central part of European Russia.",
                 "The city is the administrative center of Ivanovo Oblast. The city is also called under the names as the “city of brides”, the textile capital of Russia, as well as the “Russian and Red Manchester”.",
@@ -165,27 +166,34 @@ export const ivanovostatemedicalacademy = {
                 "Ivanovo city has mini buses, trolley buses for public transport."
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy" },
                 { name: "description", content: "Ivano State Medical Academy offers students an affordable fee structure for Medical courses and provided quality education since its establishment in 1930." },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy" }
-        ]}
+            ]
+        }
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Ivanovo State Medical Academy - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Ivanovo State Medical Academy - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Ivanovo State Medical Academy, Russia for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Ivanovo State Medical Academy, Russia for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "First Year",
@@ -252,7 +260,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "table",
             "title": "Ivanovo State Medical Academy - MBBS Syllabus",
-            "info": "<b>Ivanovo State Medical Academy’s syllabus for studying MBBS is as follows:</b><br>1st Year",
+            "info": "Ivanovo State Medical Academy’s syllabus for studying MBBS is as follows:</b><br>1st ",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -351,47 +359,54 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Ivanovo State Medical Academy",
-            "info": "<strong>Below are the faculties provide by Ivanovo State Medical Academy:</strong>",
+            "info": "Below are the faculties provide by Ivanovo State Medical Academy:",
             "data": [
-            "General Medicine",
-            "Pediatrics",
-            "Dentistry",
-            "Pre-university Education",
-            "Clinical Residency"
+                "General Medicine",
+                "Pediatrics",
+                "Dentistry",
+                "Pre-university Education",
+                "Clinical Residency"
             ]
         },
         {
             "type": "list-bollet",
             "title": "Ivanovo State Medical Academy - MBBS Course Duration",
-            "info": "<b>The duration of MBBS course at Ivanovo State Medical Academy is mentioned below:</b>",
+            "info": "The duration of MBBS course at Ivanovo State Medical Academy is mentioned below:",
             "data": [
                 "The duration of MBBS course at Ivanovo State Medical Academy is 6 years, of which 1 year is internship.",
                 "The medium of instruction is English, and the Russian language is taught separately for internship."
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy - courses & Fees" },
                 { name: "description", content: "Ivano State Medical Academy offers students an affordable fee structure for Medical courses ; Tuition Fee with Hostel. Check available courses and fees" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy - courses & Fees"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - courses & Fees"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/courses-and-fees" }
-        ]}
+            ]
+        }
 
     ],
 
     "admission": [
         {
+            type: 'title',
+            title: "Ivanovo State Medical Academy - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Ivanovo State Medical Academy is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Ivanovo State Medical Academy is as follows:",
             "data": [
                 "Students must have cleared NEET exam.",
                 "The candidate must have completed class 12th from a regular board.",
@@ -403,7 +418,7 @@ export const ivanovostatemedicalacademy = {
         {
             type: 'step-list',
             title: 'Admission Process for MBBS Course',
-            info: '<b>Following is the simple & easy admission process for studying MBBS at Ivanovo State Medical Academy:</b>',
+            info: 'Following is the simple & easy admission process for studying MBBS at Ivanovo State Medical Academy:',
             data: [
                 "Step 1: Students should fill the application form available online.",
                 "Step 2: Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records.",
@@ -416,7 +431,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Ivanovo State Medical Academy:</b>",
+            "info": "Following documents are required at the time of admission to Ivanovo State Medical Academy:",
             "data": [
                 "Copy of International passport",
                 "Copy of School leaving certificate and 12th standard mark sheet",
@@ -434,7 +449,7 @@ export const ivanovostatemedicalacademy = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should take their admissions to Ivanovo State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Ivanovo State Medical University:</b>",
+            "info": "Students should take their admissions to Ivanovo State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Ivanovo State Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -463,130 +478,179 @@ export const ivanovostatemedicalacademy = {
                 }
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy - Admission 2023 " },
                 { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy - Admission 2023 "},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - Admission 2023 "
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/admission" }
-        ]}
+            ]
+        }
 
     ],
     "review": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Ivanovo State Medical Academy - Reviews"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy - Reviews" },
                 { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy - Reviews"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - Reviews"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/reviews" }
-        ]}
+            ]
+        }
     ],
     "placement": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Ivanovo State Medical Academy - Placement"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy - Placement" },
                 { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy - Placement"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - Placement"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/placement" }
-        ]}
+            ]
+        }
     ],
     "gallery": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Ivanovo State Medical Academy - Gallery"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy - Gallery" },
                 { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy - Gallery"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - Gallery"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/gallery" }
-        ]}
+            ]
+        }
     ],
     "scholarship": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Ivanovo State Medical Academy - Scholarship"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy - Scholarship" },
                 { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy - Scholarship"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - Scholarship"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/scholarship" }
-        ]}
+            ]
+        }
     ],
     "faculty": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Ivanovo State Medical Academy - Faculty"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy - Faculty" },
                 { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy - Faculty"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - Faculty"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/faculty" }
-        ]}
+            ]
+        }
     ],
     "news": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Ivanovo State Medical Academy - News & Articles"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy - News & Articles" },
                 { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy - News & Articles"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - News & Articles"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/news-and-articles" }
-        ]}
+            ]
+        }
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Ivanovo State Medical Academy - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Food",
-            "info": "<b>Following are the hostel & food facilities for MBBS students at Ivanovo State Medical Academy:</b>",
+            "info": "Following are the hostel & food facilities for MBBS students at Ivanovo State Medical Academy:",
             "data": [
                 "Ivanovo State Medical Academy has 3 hostels which can accommodate more than 500 students.",
                 "All the dormitories are fully equipped with modern utilities and they have hot and cold water supply, centralized heating, and 24×7 electricity.",
@@ -599,74 +663,83 @@ export const ivanovostatemedicalacademy = {
                 "Indian food is available at the hostel of Ivanovo State University."
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Ivanovo State Medical Academy - Hostel" },
                 { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Ivanovo State Medical Academy - Hostel"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - Hostel"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/hostel" }
-        ]}
+            ]
+        }
 
     ],
     "faq": [
         {
-            "type": "question-list",
-                "title": "Ivanovo State Medical Academy - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. What is the accreditation of the Ivanovo State Medical Academy?",
-                        "ans": "The Ivanovo State Medical Academy has IV level of accreditation."
-                    },
-                    {
-                        "ques": "Q. How many students are studying at Ivanovo State Medical Academy currently?",
-                        "ans": "Currently, there are 3000 medical students studying at the Ivanovo State Medical Academy."
-                    },
-                    {
-                        "ques": "Q. Which are the facilities provided at the Ivanovo State Medical Academy?",
-                        "ans": "The facilities provided at the Ivanovo State Medical Academy are:-Canteen, Stadium, Summer Camp, Students’ Club, Internet Classroom Sports Club, Canteen, Center of Practical Training, Gym, Library, etc."
-                    },
-                    {
-                        "ques": "Q. Is Ivanovo State Medical Academy a public or a private university?",
-                        "ans": "Ivanovo State Medical Academy is a public university."
-                    },
-                    {
-                        "ques": "Q. Can I get a scholarship at Ivanovo State Medical Academy?",
-                        "ans": "Yes. Students at Ivanovo State Medical Academy can get scholarships based on different criterias such as students' merit and the financial background, academic performance, publication of scientific papers and participation in scientific conferences, etc."
-                    },
-                    {
-                        "ques": "Q. What documents are required for a student visa to Russia?",
-                        "ans": "The documents required at the university are:- Original of medical health certificate, including chest X-ray result<br> Original of negative HIV test results<br> Passport<br> Certificate of complete higher secondary education<br> Official bank documents (receipt) confirming full payment of tuition fees for the first academic year<br> Completed application form (issued by the Embassy of the Russian Federation / General Consulate of the Russian Federation in your country)<br> 3 photographs (3x4cm)<br> Original of the “invitation letter for study"
-                    },
-                    {
-                        "ques": "Q. In the one year of clinical internship which specialties are mainly involved?",
-                        "ans": "In a clinical internship of one year, students get a subsequent training in basic specialties such as therapy, surgery, obstetrics and gynecology, etc."
-                    }
-                ]
-            },
-            { 
-                type:"meta",
-                meta: [
-                    { name: "title", content: "Ivanovo State Medical Academy - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type:"meta-title",
-                title: "Ivanovo State Medical Academy - FAQ"},
-            { 
-                type:"meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/faq" }
-            ]}
+            type: 'title',
+            title: "Ivanovo State Medical Academy - FAQ"
 
-        ],
+        },
+        {
+            "type": "question-list",
+            "title": "Ivanovo State Medical Academy - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. What is the accreditation of the Ivanovo State Medical Academy?",
+                    "ans": "The Ivanovo State Medical Academy has IV level of accreditation."
+                },
+                {
+                    "ques": "Q. How many students are studying at Ivanovo State Medical Academy currently?",
+                    "ans": "Currently, there are 3000 medical students studying at the Ivanovo State Medical Academy."
+                },
+                {
+                    "ques": "Q. Which are the facilities provided at the Ivanovo State Medical Academy?",
+                    "ans": "The facilities provided at the Ivanovo State Medical Academy are:-Canteen, Stadium, Summer Camp, Students’ Club, Internet Classroom Sports Club, Canteen, Center of Practical Training, Gym, Library, etc."
+                },
+                {
+                    "ques": "Q. Is Ivanovo State Medical Academy a public or a private university?",
+                    "ans": "Ivanovo State Medical Academy is a public university."
+                },
+                {
+                    "ques": "Q. Can I get a scholarship at Ivanovo State Medical Academy?",
+                    "ans": "Yes. Students at Ivanovo State Medical Academy can get scholarships based on different criterias such as students' merit and the financial background, academic performance, publication of scientific papers and participation in scientific conferences, etc."
+                },
+                {
+                    "ques": "Q. What documents are required for a student visa to Russia?",
+                    "ans": "The documents required at the university are:- Original of medical health certificate, including chest X-ray result<br> Original of negative HIV test results<br> Passport<br> Certificate of complete higher secondary education<br> Official bank documents (receipt) confirming full payment of tuition fees for the first academic year<br> Completed application form (issued by the Embassy of the Russian Federation / General Consulate of the Russian Federation in your country)<br> 3 photographs (3x4cm)<br> Original of the “invitation letter for study"
+                },
+                {
+                    "ques": "Q. In the one year of clinical internship which specialties are mainly involved?",
+                    "ans": "In a clinical internship of one year, students get a subsequent training in basic specialties such as therapy, surgery, obstetrics and gynecology, etc."
+                }
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Ivanovo State Medical Academy - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Ivanovo State Medical Academy - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ivanovo-state-medical-academy/faq" }
+            ]
+        }
+
+    ],
 }

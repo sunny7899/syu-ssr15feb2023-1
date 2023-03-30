@@ -20,7 +20,7 @@ export const londonmetropolitanuniversity = {
         {
             "type": "table-title",
             "title": "London Metropolitan University - Quick Overview",
-            "info": "<b>The table shows the quick highlights for the international applicants willing to study at the London Metropolitan University:</b>",
+            "info": "The table shows the quick highlights for the international applicants willing to study at the London Metropolitan University:",
             "row": [
                 ["<b>Intake for Course</b>", "September/February"],
                 ["<b>Last Date for Admission Forms</b>", "July/ December"],
@@ -36,7 +36,7 @@ export const londonmetropolitanuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study at London Metropolitan University?',
-            info: '<b>Reasons are mentioned below about the London Met University:</b>',
+            info: 'Reasons are mentioned below about the London Met University:',
             data: [
                 "London Metropolitan University is among the top Universities of London for higher education with full/part-time, distance learning, and internships also.",
                 "It is awarded University status and has deep roots of its presence since the 19th century.",
@@ -60,7 +60,7 @@ export const londonmetropolitanuniversity = {
         {
             "type": "table",
             "title": "London Metropolitan University Ranking 2022",
-            "info": "<b>UniRank has mentioned the London Met University in the following positions:</b>",
+            "info": "UniRank has mentioned the London Met University in the following positions:",
             "col": [
                 "Country",
                 "World",
@@ -76,19 +76,19 @@ export const londonmetropolitanuniversity = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>The medium of teaching at the London Metropolitan college is noted as under:</b>',
+            info: 'The medium of teaching at the London Metropolitan college is noted as under:',
             data: "<p>The London Metropolitan University offers all of its courses including (full-time, part-time & distance learning) in the English language. While bachelor, master & other courses have curriculum in English medium.</p>"
         },
         {
             type: 'text',
             title: 'Accreditation',
-            info: '<b>The London Metropolitan University is accredited as under for the following associations:</b>',
+            info: 'The London Metropolitan University is accredited as under for the following associations:',
             data: "<p>London Metropolitan University was accredited by the Privy Council in 1992 for the first time.</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>While the institute has other associations and memberships as below:</b>',
+            info: 'While the institute has other associations and memberships as below:',
             data: [
                 "European University Association (EUA)",
                 "MillionPlus",
@@ -99,7 +99,7 @@ export const londonmetropolitanuniversity = {
         {
             "type": "table",
             "title": "Monthly Expenses for International Students",
-            "info": "<b>The cost of living in London City for an individual estimated for a month:</b>",
+            "info": "The cost of living in London City for an individual estimated for a month:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -137,7 +137,7 @@ export const londonmetropolitanuniversity = {
         {
             type: 'list-bollet',
             title: "Student’s Life",
-            info: "<b>The student’s life is elaborated in detail with some facts:</b>",
+            info: "The student’s life is elaborated in detail with some facts:",
             data: [
                 "London Metropolitan University operates two huge campuses at Holloway and Aldgate, both having a grown-up atmosphere.",
                 "The University has an essence of a multicultural environment with a strong competitive atmosphere motivating every fellow student.",
@@ -169,6 +169,11 @@ export const londonmetropolitanuniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "London Metropolitan University, UK - courses & Fees"
+
+        },
         {
             "type": "table",
             "title": "Engineering & Architecture",
@@ -685,9 +690,14 @@ export const londonmetropolitanuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "London Metropolitan University, UK - Admission 2023"
+
+        },
+        {
             "type": 'list-bollet',
             "title": "Eligibility Criteria",
-            "info": "<b>Undergraduate Degree</b>",
+            "info": "Undergraduate Degree",
             "data": [
                 "The applicant must have completed the high school that is 10+2/12th or diploma.",
                 "The applicant possesses at least a 60% percentage in the 11th and 12th exams. or",
@@ -698,7 +708,7 @@ export const londonmetropolitanuniversity = {
         {
             "type": 'list-bollet',
             "title": "",
-            "info": "<b>Postgraduate Degree</b>",
+            "info": "Postgraduate Degree",
             "data": [
                 "The recognized Bachelor’s degree from any Indian University/college/Institute.",
                 "The applicant must have a first division degree which is 60% at least.",
@@ -708,7 +718,7 @@ export const londonmetropolitanuniversity = {
         {
             "type": 'step-list',
             "title": "Admission Process for International Students",
-            "info": "<p>International students need to enroll through UCAS to apply for the London Metropolitan University. The UCAS stands for Universities and Colleges Admission Service, in which the majority of UK colleges follow the UCAS admission portal for all types of admission to Universities.</p><b>Thus, below are given UCAS application process for undergraduate and graduate admission :</b>",
+            "info": "<p>International students need to enroll through UCAS to apply for the London Metropolitan University. The UCAS stands for Universities and Colleges Admission Service, in which the majority of UK colleges follow the UCAS admission portal for all types of admission to Universities.</p>Thus, below are given UCAS application process for undergraduate and graduate admission :",
             "data": [
                 "<b>Step 1:</b> Registering at the UCAS portal is necessary for international applicants.",
                 "<b>Step 2:</b> After successful profile creation of the applicant, and filling in essential details the candidate can successfully proceed with an application form.",
@@ -750,7 +760,7 @@ export const londonmetropolitanuniversity = {
         {
             "type": "table",
             "title": "London Metropolitan University - Admission Dates 2021",
-            "info": "<b>The below table gives important dates & deadlines for international applicants:</b>",
+            "info": "The below table gives important dates & deadlines for international applicants:",
             "col": [
                 "Events",
                 "September Intake",
@@ -800,6 +810,11 @@ export const londonmetropolitanuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "London Metropolitan University, UK - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "London Metropolitan University, UK - Reviews" },
@@ -819,8 +834,13 @@ export const londonmetropolitanuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "London Metropolitan University, UK - Placement"
+
+        },
+        {
             "type": 'list-bollet',
-            "title": "placement",
+            "title": "Placement",
             "info": "",
             "data": [
                 "Graduates might return to India and seek work after completing their various degrees.",
@@ -880,6 +900,11 @@ export const londonmetropolitanuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "London Metropolitan University, UK - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "London Metropolitan University, UK - Gallery" },
@@ -899,9 +924,14 @@ export const londonmetropolitanuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "London Metropolitan University, UK - Scholarship"
+
+        },
+        {
             "type": 'list-bollet',
             "title": "scholarship",
-            "info": "<b>Scholarships for Undergraduate:</b>",
+            "info": "Scholarships for Undergraduate:",
             "data": [
                 "EU Transition Scholarships",
                 "London Metropolitan University Refugee Scholarship",
@@ -912,7 +942,7 @@ export const londonmetropolitanuniversity = {
         },
         {
             "type": 'list-bollet',
-            "title": "placement",
+            "title": "",
             "info": "<b>Scholarships for Postgraduate:</b>",
             "data": [
                 "Chevening scholarships",
@@ -943,8 +973,13 @@ export const londonmetropolitanuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "London Metropolitan University, UK - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -994,6 +1029,11 @@ export const londonmetropolitanuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "London Metropolitan University, UK - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "London Metropolitan University, UK - News & Articles" },
@@ -1012,6 +1052,11 @@ export const londonmetropolitanuniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "London Metropolitan University, UK - Hostel"
+
+        },
         {
             "type": 'list-bollet',
             "title": "Hostel Facilities provided by London Metropolitan University",
@@ -1048,9 +1093,14 @@ export const londonmetropolitanuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "London Metropolitan University, UK - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "London Metropolitan University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the intake time to take admission at London Metropolitan University?",

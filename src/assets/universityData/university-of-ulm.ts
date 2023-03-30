@@ -19,7 +19,7 @@ export const universityofulm = {
         {
             "type": "table-title",
             "title": "University of Ulm - Quick Overview",
-            "info": "<b>The table shows the quick highlights of the University of Ulm, especially for the international engineering aspirants:</b>",
+            "info": "The table shows the quick highlights of the University of Ulm, especially for the international engineering aspirants:",
             "col": [],
             "row": [
                 ["<b>Intake for Course</b>", "May"],
@@ -38,7 +38,7 @@ export const universityofulm = {
         {
             "type": "table",
             "title": "University of Ulm - Ranking 2022",
-            "info": "<b>The table shows the quick highlights of the University of Ulm, especially for the international engineering aspirants:</b>",
+            "info": "The table shows the quick highlights of the University of Ulm, especially for the international engineering aspirants:",
             "col": [
 
                 "Country Rank",
@@ -54,7 +54,7 @@ export const universityofulm = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of teaching for the engineering PG program at Ulm institute is mentioned below:</b>",
+            "info": "The medium of teaching for the engineering PG program at Ulm institute is mentioned below:",
             "data": [
                 "The classroom language for the engineering’s master degree program at the University of Ulm is the English language, but some courses available in both German and English language as the medium of teaching"
             ]
@@ -62,14 +62,14 @@ export const universityofulm = {
         {
             "type": "text",
             "title": "Accreditation",
-            "info": "<b>The University is affiliated and accredited with the following titles:</b>",
+            "info": "The University is affiliated and accredited with the following titles:",
             "data": "<p>The University of Ulm is accredited officially by the Min. of Science, Research and Arts of the Baden- Wurttemberg State.</p>",
         },
 
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Also, The University of Ulm is a member of the following renowned organizations of Germany, which are globally associated too:</b>",
+            "info": "Also, The University of Ulm is a member of the following renowned organizations of Germany, which are globally associated too:",
             "data": [
                 "YERUN (Young European Research Universities)",
                 "DFG (Deutsche Forschungsgemeinschaft)",
@@ -82,7 +82,7 @@ export const universityofulm = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living of Ulm city where the university campus situated is elaborated below for single fellow:</b>",
+            "info": "The cost of living of Ulm city where the university campus situated is elaborated below for single fellow:",
             "col": [
 
                 "Particular",
@@ -138,9 +138,13 @@ export const universityofulm = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Ulm, Germany - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Ulm - Fee Structure 2022",
-            "info": "<b>The tables aware about the international student’s fee structure at Ulm University and annual paid off as per the official site:</b>",
+            "info": "The tables aware about the international student’s fee structure at Ulm University and annual paid off as per the official site:",
             "col": [
 
                 "Events",
@@ -173,7 +177,7 @@ export const universityofulm = {
         {
             "type": "list-bollet",
             "title": "University of Ulm - Course Duration",
-            "info": "<b>The Engineering course duration for the students pursuing MS abroad in Germany:</b>",
+            "info": "The Engineering course duration for the students pursuing MS abroad in Germany:",
             "data": [
                 "The duration of the Course for the Master of Science (M.Sc) at the University of Ulm is of 4-semester duration, which is of total 2 years of duration in total approximately.",
             ]
@@ -181,7 +185,7 @@ export const universityofulm = {
         {
             "type": "table-title",
             "title": "Courses offered at University of Ulm",
-            "info": "<b>Below is the category wise list of courses offered by the University of Ulm:</b>",
+            "info": "Below is the category wise list of courses offered by the University of Ulm:",
             "textBelowinfo": "1 Engineering Programs",
             "colTitle": "Bachelor’s Degree Programs - Degree B.Sc",
             "row": [
@@ -249,9 +253,13 @@ export const universityofulm = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Ulm, Germany - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The aspirant must be completely sought at the below eligibility criteria for admission at the German University of Ulm for an MS engineering course:</b>",
+            "info": "The aspirant must be completely sought at the below eligibility criteria for admission at the German University of Ulm for an MS engineering course:",
             "data": [
                 "The Applicant must have passed High School secondary or diploma in a related area for the Master of engineering in German universities.",
                 "Also, it is compulsory to have a graduate passed degree certificate.",
@@ -261,7 +269,7 @@ export const universityofulm = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Language Requirement -</b>",
+            "info": "Language Requirement -",
             "col": [
 
                 "Scores/Exams",
@@ -287,7 +295,7 @@ export const universityofulm = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>The general admission steps to be followed for any University of Germany by the international engineering study aspirants:</b>",
+            "info": "The general admission steps to be followed for any University of Germany by the international engineering study aspirants:",
             "data": [
                 "<b>Step 1:</b> The first step in the admission process is usually consultation and obtaining details about the courses through notification of the university.",
                 "<b>Step 2:</b> Just after the finalization of the degree program, filling up the application form and completing the registration process is counted as 2nd step.",
@@ -301,7 +309,7 @@ export const universityofulm = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The list of documents is brief below for the Non-Eu and Non-German degree students:</b>",
+            "info": "The list of documents is brief below for the Non-Eu and Non-German degree students:",
             "data": [
                 "Application form",
                 "Motivation and Invitation Letter",
@@ -323,7 +331,7 @@ export const universityofulm = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The table as under gives the details about the admission schedule of Ulm university:</b>",
+            "info": "The table as under gives the details about the admission schedule of Ulm university:",
             "col": [
 
                 "Events",
@@ -372,6 +380,10 @@ export const universityofulm = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Ulm, Germany - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Ulm, Germany - Reviews" },
@@ -390,6 +402,10 @@ export const universityofulm = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Ulm, Germany - Placement'
+        },
         {
             "type": "table",
             "title": "placement",
@@ -432,6 +448,10 @@ export const universityofulm = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Ulm, Germany - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Ulm, Germany - Gallery" },
@@ -450,6 +470,10 @@ export const universityofulm = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'University of Ulm, Germany - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -479,6 +503,10 @@ export const universityofulm = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Ulm, Germany - Faculty'
+        },
+        {
             "type": "table",
             "title": "faculty",
             "info": "",
@@ -492,31 +520,26 @@ export const universityofulm = {
 
                     "Name": "Prof. Dr. Anke Huckauf",
                     "Designation": "Dean"
-
                 },
                 {
 
                     "Name": "Prof. Dr.-Ing. Dietmar Kissinger",
                     "Designation": "Vice Dean"
-
                 },
                 {
 
                     "Name": "Prof. Dr. Alexander Braun",
                     "Designation": "Vice Dean"
-
                 },
                 {
 
                     "Name": "Prof. Dr. Jan Beyersmann",
                     "Designation": "Professors"
-
                 },
                 {
 
                     "Name": "Prof. Dr. Henning Bruhn-Fujimoto",
                     "Designation": "Professors"
-
                 },
             ]
 
@@ -541,6 +564,10 @@ export const universityofulm = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Ulm, Germany - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Ulm, Germany - News & Articles" },
@@ -560,9 +587,13 @@ export const universityofulm = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Ulm, Germany - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "hostel",
-            "info": "<b>The OFF-Campus hostel features are explained in detail below:</b>",
+            "info": "The OFF-Campus hostel features are explained in detail below:",
             "data": [
                 "The University of Ulm is facilitated not with an on-campus hostel/dormitory.",
                 "Thus, <b>OFF-CAMPUS</b> is made available for such students.",
@@ -605,9 +636,13 @@ export const universityofulm = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Ulm, Germany - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Ulm - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. For what university of Ulm is popularly known for than its courses?",

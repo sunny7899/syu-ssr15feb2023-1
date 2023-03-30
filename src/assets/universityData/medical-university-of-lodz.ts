@@ -19,7 +19,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "table-title",
             "title": "Medical University of Lodz - Quick Highlights 2022",
-            "info": "<b>Consider the table given below to quickly know the information regarding the medical course admissions at The Medical University of Lodz:</b>",
+            "info": "Consider the table given below to quickly know the information regarding the medical course admissions at The Medical University of Lodz:",
             "col": [
 
             ],
@@ -62,7 +62,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Medical University of Lodz?",
-            "info": "<b>Go through some favourable reasons for doing MBBS education at The Medical University of Lodz:</b>",
+            "info": "Go through some favourable reasons for doing MBBS education at The Medical University of Lodz:",
             "data": [
                 "The University offers the top quality of the education system for the overall development of students.",
                 "The Medical University of Lodz has collaboration with 22 international universities.",
@@ -81,13 +81,13 @@ export const medicaluniversityoflodz = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The Medical University of Lodz provides English medium of Medical education to the worldwide students:</b>",
+            "info": "The Medical University of Lodz provides English medium of Medical education to the worldwide students:",
             "data": "<p>The Medical University of Lodz offers overall MBBS education in the English language, thus the students never face any language barrier during lecture and interacting with the highly qualified professors.</p>"
         },
         {
             "type": "table",
             "title": "Medical University of Lodz - Ranking 2022",
-            "info": "<b>The students must refer Unirank to country and world rankings of the Medical University of Lodz:</b>",
+            "info": "The students must refer Unirank to country and world rankings of the Medical University of Lodz:",
             "col": [
                 "Country",
                 "World"
@@ -102,7 +102,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Medical University of Lodz is fully recognised by different medical bodies mentioned below:</b>",
+            "info": "The Medical University of Lodz is fully recognised by different medical bodies mentioned below:",
             "data": [
                 "The Medical University of Lodz is listed in the International Medical Education Directory (IMED)",
                 "National Medical Commission (NMC)",
@@ -113,7 +113,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "table",
             "title": "Living Cost of Lodz",
-            "info": "<b>Lodz city is situated in Poland and it provides affordable living costs to the students while doing MBBS course:</b>",
+            "info": "Lodz city is situated in Poland and it provides affordable living costs to the students while doing MBBS course:",
             "col": [
                 "Particulars",
                 "Per month amount in USD",
@@ -136,7 +136,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "list-bollet",
             "title": "About Lodz City",
-            "info": "<b>Check out the detailed information about the Lodz city:</b>",
+            "info": "Check out the detailed information about the Lodz city:",
             "data": [
                 "Lodz is one of the largest city in Poland lies on the northwestern edge of the Lodz highlands on the watershed of the Vistula river.",
                 "Today, Lodz has become a leading center in Poland for the production of cotton textiles.",
@@ -168,9 +168,14 @@ export const medicaluniversityoflodz = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Medical University of Lodz - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Medical University of Lodz - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure at The Medical University of Lodz is quite affordable for worldwide MBBS aspirants:</b>",
+            "info": "The fee structure at The Medical University of Lodz is quite affordable for worldwide MBBS aspirants:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -227,7 +232,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "table",
             "title": "Medical University of Lodz - MBBS Syllabus",
-            "info": "<b>The students must check out the detailed MBBS syllabus mentioned below in the table:</b>",
+            "info": "The students must check out the detailed MBBS syllabus mentioned below in the table:",
             "col": [
                 "First Year",
                 "Second Year"
@@ -350,7 +355,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Medical University of Lodz",
-            "info": "<b>The Medical University of Lodz offers varieties of MBBS faculties for the students coming to study medicine program from different parts of the world:</b>",
+            "info": "The Medical University of Lodz offers varieties of MBBS faculties for the students coming to study medicine program from different parts of the world:",
             "data": [
                 "Medicine",
                 "Dentistry",
@@ -360,7 +365,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "list-bollet",
             "title": "Medical University of Lodz - MBBS Duration",
-            "info": "<b>The Medical University of Lodz offers 6 years of medicine course to the worldwide medical aspirants:</b>",
+            "info": "The Medical University of Lodz offers 6 years of medicine course to the worldwide medical aspirants:",
             "data": [
                 "The duration of MBBS at the Medical University of Lodz is 6 years and the medium of teaching will be in the English language.",
                 "The students will achieve theoretical knowledge and practical skills of medicine through qualified faculty members.",
@@ -388,9 +393,14 @@ export const medicaluniversityoflodz = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Medical University of Lodz - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For MBBS Course",
-            "info": "<b>The students must fulfill the basic criteria to enroll in the medicine course at The Medical University of Lodz:</b>",
+            "info": "The students must fulfill the basic criteria to enroll in the medicine course at The Medical University of Lodz:",
             "data": [
                 "Candidate should be passed higher secondary education from the recognized university.",
                 "Candidate should have taken physics, chemistry & biology subjects during the course of study.",
@@ -401,7 +411,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "step-list",
             "title": "Admission Process (2022-23) - For MBBS/MD Course",
-            "info": "<b>Every student must follow the precise admission process to study MBBS program at The Medical University of Lodz:</b>",
+            "info": "Every student must follow the precise admission process to study MBBS program at The Medical University of Lodz:",
             "data": [
                 "<b>Step 1:</b> Candidate needs to register on the website <a>https://registration.umed.lodz.pl/</a>",
                 "<b>Step 2:</b> After registration, check the fields carefully and fill the required fields with valid details.",
@@ -415,7 +425,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "list-bollet",
             "title": "Document Required - Enrolling for MBBS Course",
-            "info": "<b>The medical aspirants must carry all essential documents during MBBS admission time at The Medical University of Lodz:</b>",
+            "info": "The medical aspirants must carry all essential documents during MBBS admission time at The Medical University of Lodz:",
             "data": [
                 "High school certificate",
                 "Application form",
@@ -447,6 +457,11 @@ export const medicaluniversityoflodz = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Medical University of Lodz - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Lodz - Reviews" },
@@ -466,9 +481,14 @@ export const medicaluniversityoflodz = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Medical University of Lodz - Placement"
+
+        },
+        {
             "type": "table-title",
             "title": "",
-            "info": "<b>Following are the scholarships available while applying to Medical University of Lodz - </b>",
+            "info": "Following are the scholarships available while applying to Medical University of Lodz - ",
             "col": [
 
             ],
@@ -538,6 +558,11 @@ export const medicaluniversityoflodz = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Medical University of Lodz - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Lodz - Gallery" },
@@ -556,6 +581,11 @@ export const medicaluniversityoflodz = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Medical University of Lodz - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -576,6 +606,11 @@ export const medicaluniversityoflodz = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Medical University of Lodz - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Lodz - Faculty" },
@@ -594,6 +629,11 @@ export const medicaluniversityoflodz = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Medical University of Lodz - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -614,9 +654,14 @@ export const medicaluniversityoflodz = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Medical University of Lodz - Hostel"
+
+        },
+        {
             "type": "number-list",
             "title": "Hostel & Accommodation Facility",
-            "info": "<b>The Medical University of Lodz provides well-furnished hostel facility and fulfilling all basic needs of the student:</b>",
+            "info": "The Medical University of Lodz provides well-furnished hostel facility and fulfilling all basic needs of the student:",
             "data": [
                 "<b>1 st Dormitory “MEDYK”</b><br>The 4-story building has 170 well-equipped rooms.<br>The dormitory building has renovated rooms.<br>A cinema room is used for other entertainment purposes.<br>It has a spacious hall equipped with comfortable sofas and Television.<br>Due to the location of the hostel, the students quickly reach the university to attend classes and to the city centre.<br>Availability of clinic, canteen, shopping centre, bicycle station and the AZS sports complex.",
                 '<b>II Dormitory "SYNAPSA"</b><br>II Dormitory "SYNAPSA" fulfils the requirements of a 3-star hotel.<br>The dormitory offers single or double rooms with attached bathrooms/toilets.<br>The dormitory has refrigerators in the kitchen.<br>The dormitory provides unlimited internet access to the student.<br>The accommodation base consists of modern and comfortably furnished 194 student rooms<br>The dormitory also accommodates people with physical disabilities.<br>Due to the location of the hostel, the students quickly reach the university to attend classes and to the city centre.<br>The students can access the nearby clinic, canteen, shopping centre, bicycle station and the AZS sports complex.',
@@ -626,7 +671,7 @@ export const medicaluniversityoflodz = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Accommodation price for students to stay in dormitories of the Medical University of Lodz:</b>",
+            "info": "Accommodation price for students to stay in dormitories of the Medical University of Lodz:",
             "data": [
                 "Gymnasium",
                 "Guest Room",
@@ -691,9 +736,14 @@ export const medicaluniversityoflodz = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Medical University of Lodz - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Medical University of Lodz - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is there any entrance exam required for MBBS admissions at The Medical University of Lodz?",

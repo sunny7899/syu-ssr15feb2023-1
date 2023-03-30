@@ -19,7 +19,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "table-title",
       "title": "Tairunnessa Memorial Medical College - Quick Overview 2022",
-      "info": "<b>Take a look at some important points to be considered during medicine admission at Tairunnessa Memorial Medical College & Hospital:</b>",
+      "info": "Take a look at some important points to be considered during medicine admission at Tairunnessa Memorial Medical College & Hospital:",
       "col": [],
       "row": [
         ["<b>Intake for MBBS Course</b>", "January"],
@@ -34,7 +34,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       type: 'list-bollet',
       title: 'Why Study MBBS at Tairunnessa Memorial Medical College & Hospital?',
-      info: '<b>Every candidate must dive into the various benefits of studying MBBS at Tairunnessa Memorial Medical College:</b>',
+      info: 'Every candidate must dive into the various benefits of studying MBBS at Tairunnessa Memorial Medical College:',
       data: [
         "The cost of education at MBBS is less which is affordable for many students.",
         "The medical degree with global acceptance will guarantee 100 % job placement across the world.",
@@ -51,7 +51,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       type: 'list-bollet',
       title: 'Facilities Provided at Tairunnessa Memorial Medical College',
-      info: '<b>Tairunnessa Memorial Medical College and Hospital contains all other modern facilities during MBBS education:</b>',
+      info: 'Tairunnessa Memorial Medical College and Hospital contains all other modern facilities during MBBS education:',
       data: [
         "hostel",
         "Hospital",
@@ -66,7 +66,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "table",
       "title": "Tairunnessa Memorial Medical College - FMGE Performance 2021",
-      "info": "<b>The details about FMGE performance for Tairunnessa Memorial Medical College of year 2021 with passing percent is as follows:</b>",
+      "info": "The details about FMGE performance for Tairunnessa Memorial Medical College of year 2021 with passing percent is as follows:",
       "col": [
         "Name of University",
         "Appeared ",
@@ -91,7 +91,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>The Tairunnessa Memorial Medical College and Hospital is officially recognised by various medical bodies mentioned below:</b>",
+      "info": "The Tairunnessa Memorial Medical College and Hospital is officially recognised by various medical bodies mentioned below:",
       "data": [
         "World Health Organization (WHO).",
         "Govt. of Bangladesh.",
@@ -118,7 +118,7 @@ export const tairunnessamemorialmedicalcollege = {
         },
 
       ],
-      heading: '<p><b><u>Note:</u></b> 1$ = 70 Rs.</p>'
+      "heading": '<p><b><u>Note:</u></b> 1$ = 70 Rs.</p>'
     },
 
     {
@@ -142,6 +142,10 @@ export const tairunnessamemorialmedicalcollege = {
 
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - courses & Fees'
+    },
+    {
       "type": "text",
       "title": "Tairunnessa Memorial Medical College - MBBS Fee Structure 2022",
       "info": "",
@@ -150,7 +154,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "table-title",
       "title": "",
-      "info": "<h3><b>1 India and Nepal Students</b></h3><p><b>Course Fees - 31000 USD (Including hostel fees, without food charge)</b></p>",
+      "info": "<h3>1 India and Nepal Students</h3><p>Course Fees - 31000 USD (Including hostel fees, without food charge)</p>",
       "col": [],
       "coltitle": "At The Time Of Admission - Mode Of Payment",
       "row": [
@@ -170,7 +174,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "table-title",
       "title": "",
-      "info": "<h3><b>2 Maldives and Srilanka Students</b></h3><p><b>Course Fees - 40000 USD (Including hostel fees, without food charge)</b></p>",
+      "info": "<h3>2 Maldives and Srilanka Students</h3><p>Course Fees - 40000 USD (Including hostel fees, without food charge)</p>",
       "col": [],
       "coltitle": "At The Time Of Admission - Mode Of Payment",
       "row": [
@@ -206,7 +210,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Tairunnessa Memorial Medical College and Hospital (TMMCH) - MBBS Duration",
-      "info": "<b>Tairunnessa Memorial Medical College and Hospital offers 5 years of MBBS program to the students:</b>",
+      "info": "Tairunnessa Memorial Medical College and Hospital offers 5 years of MBBS program to the students:",
       "data": [
         "Tairunnessa Memorial Medical College offers 5 years Bachelor of Medicine & Bachelor of Surgery.",
         "The professors provide medical education to equip them with knowledge, skill and attitude along with theoretical as well as practical knowledge.",
@@ -216,7 +220,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "table",
       "title": "Tairunnessa Memorial Medical College - MBBS Syllabus",
-      "info": "<b>The candidates should check out the well-organised syllabus for the MBBS course at Tairunnessa Memorial Medical College:</b>",
+      "info": "The candidates should check out the well-organised syllabus for the MBBS course at Tairunnessa Memorial Medical College:",
       "col": [
         "Phase",
         "Duration",
@@ -270,9 +274,13 @@ export const tairunnessamemorialmedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>For MBBS enrollment in Tairunnessa Memorial Medical College, the students should satisfy the requirements:</b>",
+      "info": "For MBBS enrollment in Tairunnessa Memorial Medical College, the students should satisfy the requirements:",
       "data": [
         "He/She must complete the age of 17 years on or before 31st December, of the year of admission to the MBBS course.",
         "The students won’t have more than 2 years gap after the 12th (HSC) Pass Out.",
@@ -284,7 +292,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>The students striving to take MBBS admission at Tairunnessa Memorial Medical College must follow the steps mentioned below:</b>',
+      info: 'The students striving to take MBBS admission at Tairunnessa Memorial Medical College must follow the steps mentioned below:',
       data: [
         "Step 1: Fill up the online admission form with the correct details.",
         "Step 2: The students should complete the application form, attach the relevant documents and submit them to the principal’s office within the announced date.",
@@ -297,7 +305,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The candidates should submit relevant documents to pursue the medicine program at Tairunnessa Memorial Medical College:</b>",
+      "info": "The candidates should submit relevant documents to pursue the medicine program at Tairunnessa Memorial Medical College:",
       "data": [
         "Correct filled application form",
         "SSC and HSC certificate",
@@ -320,7 +328,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>The applicants must check out important dates for enrolling in the MBBS course:</b>",
+      "info": "The applicants must check out important dates for enrolling in the MBBS course:",
       "col": [
         "Events",
         "Dates",
@@ -365,6 +373,10 @@ export const tairunnessamemorialmedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Tairunnessa Memorial Medical College, Bangladesh - Reviews" },
@@ -383,6 +395,10 @@ export const tairunnessamemorialmedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - Placement'
+    },
     {
       type: "meta",
       meta: [
@@ -403,6 +419,10 @@ export const tairunnessamemorialmedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Tairunnessa Memorial Medical College, Bangladesh - Gallery" },
@@ -421,6 +441,10 @@ export const tairunnessamemorialmedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - Scholarship'
+    },
     {
       type: "meta",
       meta: [
@@ -441,6 +465,10 @@ export const tairunnessamemorialmedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - Faculty'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Tairunnessa Memorial Medical College, Bangladesh - Faculty" },
@@ -459,6 +487,10 @@ export const tairunnessamemorialmedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - News & Articles'
+    },
     {
       type: "meta",
       meta: [
@@ -479,9 +511,13 @@ export const tairunnessamemorialmedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>The students need to check in advance about the hostel facilities made available at the university campus:</b>",
+      "info": "The students need to check in advance about the hostel facilities made available at the university campus:",
       "data": [
         "The college offers excellent hostel facilities to the students.",
         "The hostel rooms are well-furnished.",
@@ -496,7 +532,7 @@ export const tairunnessamemorialmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The hostel premises is very well equipped with modern facilities - </b>",
+      "info": "The hostel premises is very well equipped with modern facilities - ",
       "data": [
         "Bedsheet",
         "Pillow",
@@ -530,9 +566,13 @@ export const tairunnessamemorialmedicalcollege = {
 
   "faq": [
     {
+      type: 'title',
+      title: 'Tairunnessa Memorial Medical College, Bangladesh - FAQ'
+    },
+    {
       "type": "question-list",
       "title": "Tairunnessa Memorial Medical College & Hospital - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. Are there only practical classes conducted at the Tairunnessa Memorial Medical College and Hospital?",

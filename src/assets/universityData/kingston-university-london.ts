@@ -19,7 +19,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table-title",
             "title": "Kingston University London - Quick Overview",
-            "info": "<b>These are the highlights a student should know before applying for Bachelor, Masters or Ph.D. courses at Middlesex University:</b>",
+            "info": "These are the highlights a student should know before applying for Bachelor, Masters or Ph.D. courses at Middlesex University:",
             "col": [],
             "row": [
                 ["<b>Intake for Course</b>", "January, March,September"],
@@ -36,7 +36,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "Why Choose Kingston University London?",
-            "info": "<b>These points will clear your doubts for choosing Kingston University over other universities:</b>",
+            "info": "These points will clear your doubts for choosing Kingston University over other universities:",
             "data": [
                 "Kingston University London ranks among the top 40 universities in Uk.",
                 "The university provides career-focused courses for aspiring students.",
@@ -54,7 +54,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "Student Life",
-            "info": "<b>We all know how precious a student’s time is in our lives. Kingston University balances student life along with their studies:</b>",
+            "info": "We all know how precious a student’s time is in our lives. Kingston University balances student life along with their studies:",
             "data": [
                 "The campus is surrounded by wooded areas and lawns, this campus has a real community feel.",
                 "Kingston Hill field has everything a student can want on the field together with a bar, food store, restaurant, Subway, and Starbucks.",
@@ -69,7 +69,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "Kingston University London - Ranking 2022",
-            "info": "<b>Following are the Country and World rankings of Kingston University:</b>",
+            "info": "Following are the Country and World rankings of Kingston University:",
             "col": [
                 "Country",
                 "World"
@@ -92,7 +92,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "Living Cost of London",
-            "info": "<b>London is the city of dreams and work culture. It is also a budget-friendly city for Kingston University students:</b>",
+            "info": "London is the city of dreams and work culture. It is also a budget-friendly city for Kingston University students:",
             "col": [
                 "Particulars",
                 "Monthly amount in Pound (approx.)",
@@ -132,9 +132,14 @@ export const kingstonuniversitylondon = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kingston University London, England - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Courses Offered",
-            "info": "<b>Bachelors Programs(4)</b>",
+            "info": "Bachelors Programs(4)",
             "textBelowInfo": "<b>Business</b>",
             "col": [
                 "Course",
@@ -187,7 +192,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Business Top-up Degrees, HNDs and joint Honours Courses</b>",
+            "info": "Business Top-up Degrees, HNDs and joint Honours Courses",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -209,7 +214,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Preparatory courses for international students:</b>",
+            "info": "Preparatory courses for international students:",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -227,7 +232,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Pharmacy Courses</b>",
+            "info": "Pharmacy Courses",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -284,7 +289,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Computing</b>",
+            "info": "Computing",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -326,7 +331,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Computing</b>",
+            "info": "Computing",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -368,8 +373,8 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Engineering</b>",
-            "textBelowInfo": "<b>Aerospace and Aircraft Engineering:</b>",
+            "info": "Engineering",
+            "textBelowInfo": "Aerospace and Aircraft Engineering:",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -416,7 +421,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Automotive and Mechanical Engineering:</b>",
+            "info": "Automotive and Mechanical Engineering:",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -438,7 +443,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Civil and Infrastructure Engineering, Construction and Surveying:</b>",
+            "info": "Civil and Infrastructure Engineering, Construction and Surveying:",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -465,7 +470,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Foundation Courses in Engineering:</b>",
+            "info": "Foundation Courses in Engineering:",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -482,8 +487,8 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Masters Programs(2)</b>",
-            "textBelowInfo": "<b>Business</b>",
+            "info": "Masters Programs(2)",
+            "textBelowInfo": "Business",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -520,7 +525,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Engineering</b>",
+            "info": "Engineering",
             "col": [
                 "Course",
                 "Fees in Pound",
@@ -625,9 +630,14 @@ export const kingstonuniversitylondon = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kingston University London, England - Admission 2023"
+
+        },
+        {
             "type": "step-list",
             "title": "Admission Process ( for Bachelors & Masters )",
-            "info": "<b>The admission process at Kingston University are as follows:</b>",
+            "info": "The admission process at Kingston University are as follows:",
             "data": [
                 "<b>Step 1:</b> Register in the online site of the university",
                 "<b>Step 2:</b> Fill the online application form",
@@ -641,7 +651,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Bachelors</b>",
+            "info": "Bachelors",
             "data": [
                 "The candidate must finish the Higher Secondary exam with 70% (CBSE, CISCE, Tamil Nadu, Maharashtra & West Bengal boards) or 80% (all other boards).",
                 "A-levels.",
@@ -655,7 +665,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Masters</b>",
+            "info": "Masters",
             "data": [
                 "The candidate must have a relevant Bachelor degree",
                 "A-levels.",
@@ -670,7 +680,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Bachelors</b>",
+            "info": "Bachelors",
             "data": [
                 "Online application form",
                 "Copy of Secondary school certificate",
@@ -698,7 +708,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Masters</b>",
+            "info": "Masters",
             "data": [
                 "Online application form",
                 "Copy of Secondary school certificate",
@@ -772,6 +782,11 @@ export const kingstonuniversitylondon = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kingston University London, England - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kingston University London, England - Reviews" },
@@ -790,6 +805,11 @@ export const kingstonuniversitylondon = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kingston University London, England - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -810,6 +830,11 @@ export const kingstonuniversitylondon = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kingston University London, England - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kingston University London, England - Gallery" },
@@ -829,10 +854,15 @@ export const kingstonuniversitylondon = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kingston University London, England - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Below are the awards and scholarships provided by Kingston University for the upliftment of the students:</b>",
-            "textBelowInfo": "<b>1 International scholarships</b>",
+            "info": "Below are the awards and scholarships provided by Kingston University for the upliftment of the students:",
+            "textBelowInfo": "1 International scholarships",
             "data": [
                 "This scholarship is completely for the international students applying for the first year of studies."
             ]
@@ -840,7 +870,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>2 Loyalty bursaries and alumni discount</b>",
+            "info": "2 Loyalty bursaries and alumni discount",
             "textBelowInfo": "The international student may qualify for one of our bursaries or alumni discounts:",
             "data": [
                 "Alumni discount",
@@ -851,7 +881,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>3 Postgraduate scholarships for International students</b>",
+            "info": "3 Postgraduate scholarships for International students",
             "data": [
                 "Click the below link for more details<br> https://www.kingston.ac.uk/postgraduate/fees-and-funding/funding-your-course/scholarships/#international",
             ]
@@ -859,7 +889,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>4 Chevening awards</b>",
+            "info": "4 Chevening awards",
             "data": [
                 "The award is for high potential graduates with the personal, intellectual and interpersonal qualities necessary for leadership."
             ]
@@ -867,7 +897,7 @@ export const kingstonuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>5 Commonwealth Scholarships</b>",
+            "info": "5 Commonwealth Scholarships",
             "data": [
                 "This scholarship is granted to the students based on academic merit, and their potential to contribute to the needs of their home countries.",
             ]
@@ -891,6 +921,11 @@ export const kingstonuniversitylondon = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Kingston University London, England - Faculty"
+
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -943,6 +978,11 @@ export const kingstonuniversitylondon = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Kingston University London, England - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kingston University London, England - News & Articles" },
@@ -962,9 +1002,14 @@ export const kingstonuniversitylondon = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kingston University London, England - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Kingston University hostels have guaranteed accommodation for new full-time undergraduate students and first-year international postgraduate students:</b>",
+            "info": "Kingston University hostels have guaranteed accommodation for new full-time undergraduate students and first-year international postgraduate students:",
             "data": [
                 "Kingston University has designed accommodation for special and physically challenged students.",
                 "The University provides on-campus as well as off-campus accommodation.",
@@ -997,9 +1042,14 @@ export const kingstonuniversitylondon = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kingston University London, England - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kingston University London - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Can International students work during their stay at Kingston University?",

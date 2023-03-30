@@ -19,7 +19,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Karaganda State Medical University - Quick Highlights 2022",
-            "info": "<b>Refer the table below for quick facts about Karaganda State Medical University:</b>",
+            "info": "Refer the table below for quick facts about Karaganda State Medical University:",
             "col": [
             ],
             "row": [
@@ -36,7 +36,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Karaganda State Medical University?",
-            "info": "<b>Following are the advantages of studying MBBS in Karaganda State Medical University:</b>",
+            "info": "Following are the advantages of studying MBBS in Karaganda State Medical University:",
             "data": [
                 "The degrees and diplomas from the university are recognized world wide.",
                 "This is the most significant university in Kazakhstan.",
@@ -50,13 +50,13 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction for students studying at Karaganda State Medical University is:</b>",
+            "info": "The medium of instruction for students studying at Karaganda State Medical University is:",
             "data": "Different medicine courses at Karaganda State Medical University are imparted in 3 languages Kazakh, Russian, and English.<br>For international students studying at this university it becomes easier as the courses are taught in the English language."
         },
         {
             "type": "table",
             "title": "Karaganda State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, the following is the country & world ranking for Karaganda State Medical University:</b>",
+            "info": "According to 4icu.org, the following is the country & world ranking for Karaganda State Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -71,7 +71,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Karaganda State Medical University has high ratings in the world ranking systems and its MD degrees have following Recognition and Accreditation:</b>",
+            "info": "The Karaganda State Medical University has high ratings in the world ranking systems and its MD degrees have following Recognition and Accreditation:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -81,7 +81,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "table",
             "title": "Karaganda State Medical University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Karaganda State Medical University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Karaganda State Medical University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -100,7 +100,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Karaganda City",
-            "info": "<b>The cost of living at Karaganda city is as follows:</b>",
+            "info": "The cost of living at Karaganda city is as follows:",
             "col": [
                 "Activity",
                 "Cost (approx.)"
@@ -133,7 +133,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Karaganda City",
-            "info": "<b>Some of the interesting things about Karaganda city are given below:</b>",
+            "info": "Some of the interesting things about Karaganda city are given below:",
             "data": [
                 "The ‘Karaganda’ city is located near to capital of Kazakhstan. It is one of the main financial and economic center of the country. Karaganda is known as education hub of the country as many students from the world come to study in this city.",
                 "The city takes special care of student’s safety, especially for foreign students and thus the Karaganda city is also known as ‘City of Peace’.",
@@ -162,9 +162,14 @@ export const karagandastatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Karaganda State Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Karaganda State Medical University - MBBS Fee Structure",
-            "info": "<b>Here are the approx tuition fee and hostel fee for Karaganda State Medical University:</b>",
+            "info": "Here are the approx tuition fee and hostel fee for Karaganda State Medical University:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -221,7 +226,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Karaganda State Medical University",
-            "info": "<b>There are 11 faculties at the Karaganda state medical university which are:</b>",
+            "info": "There are 11 faculties at the Karaganda state medical university which are:",
             "data": [
                 "General Medicine",
                 "Stomatology",
@@ -248,8 +253,8 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "table",
             "title": "Karaganda State Medical University - MBBS Syllabus",
-            "data": "<b>The complete syllabus for studying MBBS at Karaganda State Medical University in Kazakhstan is as follows:</b>",
-            "info": "<b>1st Year</b>",
+            "data": "The complete syllabus for studying MBBS at Karaganda State Medical University in Kazakhstan is as follows:",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -265,7 +270,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -302,7 +307,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -330,7 +335,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th - 6th Year</b>",
+            "info": "4th - 6th Year",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["General Surgery", "Neurology"],
@@ -362,9 +367,14 @@ export const karagandastatemedicaluniversity = {
         }],
     "admission": [
         {
+            type: 'title',
+            title: "Karaganda State Medical University - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students who fulfill the following eligibility criteria can proceed for the admission process at Karaganda State Medical University:</b>",
+            "info": "Students who fulfill the following eligibility criteria can proceed for the admission process at Karaganda State Medical University:",
             "data": [
                 "The student must be 17 years old or more as on 31st December of the year in which the admission is being taken.",
                 "The applicants must have completed class 12th from a regular board.",
@@ -376,7 +386,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Students must go through the following admission process for applying to MBBS course at Karaganda State Medical University:</b>",
+            "info": "Students must go through the following admission process for applying to MBBS course at Karaganda State Medical University:",
             "data": [
                 "<b>Step 1:</b> Students who want to secure admission at Karaganda State Medical university must fill the online application form along with all the required documents.",
                 "<b>Step 2:</b> The applications sent by the students are reviewed by the university and then they need to deposit the fees into the university's bank account.",
@@ -388,7 +398,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following is the list of documents required applying for MBBS course at Karaganda State Medical University:</b>",
+            "info": "Following is the list of documents required applying for MBBS course at Karaganda State Medical University:",
             "data": [
                 "Scanned Copy of Valid international Passport (document must be notarized and translated into Kazakh or Russian)",
                 "Copy of higher secondary education (transcript of documents required)",
@@ -408,7 +418,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should take their admissions to Karaganda State Medical University before the dates mentioned below:</b>",
+            "info": "Students should take their admissions to Karaganda State Medical University before the dates mentioned below:",
             "col": [
                 "Events",
                 "Dates"
@@ -437,7 +447,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Visa Procedure",
-            "info": "<b>All the students who wish to go to study in Kazakhstan have to get a student visa. Here is the step by step process for getting a student visa:</b><p>All the students who wish to go to Kazakhstan for study purpose must obtain study visa. Kazakhstan visa process is very easy.</p><p>Below are the requirements from the Kazakhstan embassy for most of the countries.</p>",
+            "info": "All the students who wish to go to study in Kazakhstan have to get a student visa. Here is the step by step process for getting a student visa:</b><p>All the students who wish to go to Kazakhstan for study purpose must obtain study visa. Kazakhstan visa process is very easy.</p><p>Below are the requirements from the Kazakhstan embassy for most of the countries.",
             "data": [
                 "The students must have a passport valid for at least 3 months longer than the requested validity of the visa having at least one blank page.",
                 "Students should submit a completed visa application form.",
@@ -466,6 +476,11 @@ export const karagandastatemedicaluniversity = {
         }],
     "review": [
         {
+            type: 'title',
+            title: "Karaganda State Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Karaganda State Medical University - Reviews" },
@@ -484,6 +499,11 @@ export const karagandastatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Karaganda State Medical University - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -504,6 +524,11 @@ export const karagandastatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Karaganda State Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Karaganda State Medical University - Gallery" },
@@ -522,6 +547,11 @@ export const karagandastatemedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Karaganda State Medical University - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
@@ -552,6 +582,11 @@ export const karagandastatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Karaganda State Medical University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Karaganda State Medical University - Faculty" },
@@ -570,6 +605,11 @@ export const karagandastatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Karaganda State Medical University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -590,9 +630,14 @@ export const karagandastatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Karaganda State Medical University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Karaganda State Medical University offers excellent accommodation facilities:</b>",
+            "info": "Karaganda State Medical University offers excellent accommodation facilities:",
             "data": [
                 "Students are provided with sharing rooms in hostels.",
                 "Rooms are equipped with attached bathrooms.",
@@ -620,7 +665,7 @@ export const karagandastatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Registration for accommodation:</b>",
+            "info": "Registration for accommodation:",
             "data": [
                 "For registration in the dormitories of Karaganda State Medical University, applicants need to submit their age certificate declaring the age under 18.",
                 "If the applicant hasn’t registered then an administrative fine will be applicable as per the rule.",
@@ -647,9 +692,14 @@ export const karagandastatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Karaganda State Medical University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Karaganda State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is a medical degree from Karaganda State Medical University valid in India?",

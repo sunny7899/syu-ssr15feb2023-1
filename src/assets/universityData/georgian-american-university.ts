@@ -18,9 +18,9 @@ export const georgianamericanuniversity
             "data": "<p><b>Georgian American University</b> was established in 2001. The main emphasis of the university is on the importance of good quality education. Georgian American University consists of <b>qualified and highly experienced faculty</b> members.</p><p>To build a notable educational center in Georgia, the university aims to ensure the implementation of <b>international education standards in teaching and research</b>. Georgian American University is one of the best universities for studying MBBS in Georgia.</p><p>This is a co-educational institute located in Tbilisi. The MBBS course at this University is of 5 years. The <b>medium of education for foreign students is English</b> at this University. There are two semesters, spring and fall at the Georgian American University.</p>"
         },
         {
-            "type": "table",
-            "title": "Georgian American University - Quick Highlights",
-            "info": "<b>Refer the below eye-catchy MBBS course facts of Georgian American University:</b>",
+            "type": "table-title",
+            "title": "Georgian American University - Quick Highlights 2023",
+            "info": "Refer the below eye-catchy MBBS course facts of Georgian American University:",
             "col": [
             ],
             "row": [
@@ -30,14 +30,14 @@ export const georgianamericanuniversity
                 ["<b>Annual Tuition Fees</b>", "4500 USD"],
                 ["<b>Course Duration</b>", "6 years"],
                 ["<b>Medium of Teaching</b>", "English"],
-                ["<b>University Ranking</b>", "Country Rank - 30<br>World Rank - 10181"],
+                ["<b>University Ranking</b>", "Country Rank - 28<br>World Rank - 10017"],
                 ["<b>University Recognition</b>", "NMC, WHO Approved"]
             ]
         },
         {
             "type": "list-bollet",
             "title": "Benefits of Studying at Georgian American University",
-            "info": "<b>Medical education at Georgian American University is highly effective and internationally recognized. The benefits of pursuing an MD/MBBS education at University are:</b>",
+            "info": "Medical education at Georgian American University is highly effective and internationally recognized. The benefits of pursuing an MD/MBBS education at University are:",
             "data": [
                 "Georgian American University is listed in WHO, FAIMER, and NMC and it is recognized globally.",
                 "The students studying MBBS at this university can avail of the benefits of students exchange programs of USA, Europe, Canada, Australia or can transfer themselves to any USA Medical Colleges once they evaluate their current credentials, at any authorized evaluator organization.",
@@ -52,16 +52,16 @@ export const georgianamericanuniversity
         },
         {
             "type": "table",
-            "title": "Georgian American University - Ranking 2022",
-            "info": "<b>As per the uniRank ranking system, the Georgian American University has an annual enrollment range of up to 1000- 2000 students for the medical course:</b>",
+            "title": "Georgian American University - Ranking 2023",
+            "info": "As per the uniRank ranking system, the Georgian American University has an annual enrollment range of up to 1000- 2000 students for the medical course:",
             "col": [
                 "Country",
                 "World"
             ],
             "row": [
                 {
-                    "Country": "30",
-                    "World": "10181"
+                    "Country": "28",
+                    "World": "10017"
                 },
 
             ]
@@ -69,7 +69,7 @@ export const georgianamericanuniversity
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>At Georgian American University, Students from different nationalities will get exposure to study medicine in the English language:</b>",
+            "info": "At Georgian American University, Students from different nationalities will get exposure to study medicine in the English language:",
             "data": [
                 "The medical courses at Georgian American University, Georgia have been taught in the English language. Students can also apply for the preparatory course in the Georgian language at the university.",
                 "The university offers quality education with experienced faculty members and good infrastructure."
@@ -78,7 +78,7 @@ export const georgianamericanuniversity
         {
             "type": "list-bollet",
             "title": "Facilities Provided by Georgian American University",
-            "info": "<b>On an account of stabilizing the stay of international students at Georgian American University, the university offers the following facilities:</b>",
+            "info": "On an account of stabilizing the stay of international students at Georgian American University, the university offers the following facilities:",
             "data": [
                 "Georgian American University provides many facilities that are important for studying and it also provides scientific activities for students.",
                 "The university consists of modern and state-of-the-art infrastructure.",
@@ -92,9 +92,9 @@ export const georgianamericanuniversity
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognitions",
-            "info": "<b>Georgian American University, Georgia is accredited by:</b>",
+            "info": "Georgian American University, Georgia is accredited by:",
             "textBelowInfo": "The university is accredited & recognized by,",
-            "data": [,
+            "data": [
                 "Ministry of Education and Science of Georgia",
                 "National Medical Commission",
                 "World Health Organization"
@@ -103,7 +103,7 @@ export const georgianamericanuniversity
         {
             "type": "list-bollet",
             "title": "Student's Life at Georgian American University",
-            "info": "<b>Georgian American University offers not only a great academic learning experience but also provides enthusiastic living exposure to international students:</b>",
+            "info": "Georgian American University offers not only a great academic learning experience but also provides enthusiastic living exposure to international students:",
             "data": [
                 "The Georgian American University provides the best academic experience to the students.",
                 "At Georgian American University, students from all over the world take They are of different Nationalism and Cultures. And hence, students studying at this University get to know about each other’s cultures and customs.",
@@ -118,7 +118,7 @@ export const georgianamericanuniversity
         {
             "type": "table",
             "title": "Cost of Living in Tbilisi",
-            "info": "<b>Following is the living cost of Tbilisi in tabular form:</b>",
+            "info": "Following is the living cost of Tbilisi in tabular form:",
             "col": [
                 "Activity",
                 "Cost"
@@ -131,13 +131,16 @@ export const georgianamericanuniversity
                 {
                     "Activity": "<b>Eating at a mid-range restaurant (for 2 people)</b>",
                     "Cost": "Rs. 1400 - Rs. 1500"
-                }, {
+                }, 
+                {
                     "Activity": "<b>One way ticket of any local transport</b>",
                     "Cost": "Rs. 13 to Rs. 15"
-                }, {
+                }, 
+                {
                     "Activity": "<b>A monthly pass for local transport</b>",
                     "Cost": "Rs. 750"
-                }, {
+                },
+                 {
                     "Activity": "<b>Monthly rent for a 1 bedroom apartment</b>",
                     "Cost": "cost between Rs. 14,000 - Rs. 25,000"
                 },
@@ -147,7 +150,7 @@ export const georgianamericanuniversity
         {
             "type": "list-bollet",
             "title": "About Tbilisi City",
-            "info": "<b>The moderate climate in Tbilisi influences human life to stay in a healthy environment:</b>",
+            "info": "The moderate climate in Tbilisi influences human life to stay in a healthy environment:",
             "data": [
                 "Earlier Tbilisi was known as Tiflis.",
                 "The city is situated on the banks of the Kura River with a population of approximately 1.5 million people.",
@@ -179,9 +182,14 @@ export const georgianamericanuniversity
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Georgian American University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Georgian American University - MBBS Fee Structure",
-            "info": "<b>Georgian American University offers world-class medical education at affordable prices. Here, we have given the detailed fee structure of MBBS course for the annual year:</b>",
+            "info": "Georgian American University offers world-class medical education at affordable prices. Here, we have given the detailed fee structure of MBBS course for the annual year:",
             "col": [
                 "Particular",
                 "Year - 1",
@@ -234,7 +242,7 @@ export const georgianamericanuniversity
         {
             "type": "list-bollet",
             "title": "Georgian American University - MBBS Duration",
-            "info": "<b>With a 6 year period of study, Georgian American University offers the best academic experience to international students nurturing quality medical education with renowned faculties:</b>",
+            "info": "With a 6 year period of study, Georgian American University offers the best academic experience to international students nurturing quality medical education with renowned faculties:",
             "data": [
                 "The Georgian American University, Georgia offers a 6-year MBBS program including 1 year of internships.",
                 "With 5 years of dedicated and theoretical medical education, students will get a medical degree and the opportunity to work in university-affiliated hospitals."
@@ -243,8 +251,8 @@ export const georgianamericanuniversity
         {
             "type": "table",
             "title": "Georgian American University - MBBS Course Syllabus",
-            "data": "<b>Georgian American University has an internationally recognized curriculum for the MBBS course. Below is the year-wise syllabus of the university for the reference:</b>",
-            "info": "<b>First Year</b>",
+            "data": "Georgian American University has an internationally recognized curriculum for the MBBS course. Below is the year-wise syllabus of the university for the reference:",
+            "info": "First Year",
             "col": [
                 "1st Semester",
                 "2nd Semester",
@@ -259,7 +267,7 @@ export const georgianamericanuniversity
         {
             "type": "table",
             "title": "",
-            "info": "<b>Second Year</b>",
+            "info": "Second Year",
             "col": [
                 "3rd Semester",
                 "4th Semester",
@@ -286,7 +294,7 @@ export const georgianamericanuniversity
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Third Year</b>",
+            "info": "Third Year",
             "colTitle": "5th Semester",
             "col": [
 
@@ -299,7 +307,7 @@ export const georgianamericanuniversity
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Fourth & Fifth Year</b>",
+            "info": "Fourth & Fifth Year",
             "colTitle": "6th-10th Semester",
             "col": [
             ],
@@ -327,21 +335,26 @@ export const georgianamericanuniversity
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Georgian American University - Admission 2023 "
+
+        },
+        {
             "type": "step-list",
             "title": "Admission Process in Georgian American University",
-            "info": "<b>To secure admission in one of the top medical universities in Georgia, like ‘Georgian American University’, students must follow the instructions given below:</b>",
+            "info": "To secure admission in one of the top medical universities in Georgia, like ‘Georgian American University’, students must follow the instructions given below:",
             "data": [
-                "Step 1: Students must fill the online application form along with all the required documents.",
-                "Step 2: The University reviews the applications sent by the students and then they need to deposit the fees into the university’s bank account.",
-                "Step 3: Once it is done, within 30 days, the Ministry of Education and Science of Georgia issues an accreditation letter to the applicants. The university receives a ministry order after this and it issues an invitation letter to the students as well.",
-                "Step 4: After all the above procedures are completed, the visa approval takes nearly 30 days.",
-                "Step 5: The day and date of departure of applicants are planned and finalized after the fee is cleared."
+                "<b>Step 1:</b> Students must fill the online application form along with all the required documents.",
+                "<b>Step 2:</b> The University reviews the applications sent by the students and then they need to deposit the fees into the university’s bank account.",
+                "<b>Step 3:</b> Once it is done, within 30 days, the Ministry of Education and Science of Georgia issues an accreditation letter to the applicants. The university receives a ministry order after this and it issues an invitation letter to the students as well.",
+                "<b>Step 4:</b> After all the above procedures are completed, the visa approval takes nearly 30 days.",
+                "<b>Step 5:</b> The day and date of departure of applicants are planned and finalized after the fee is cleared."
             ]
         },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria to Study at Georgian American University",
-            "info": "<b>The eligibility criteria for studying MBBS at Georgian American University is as follows:</b>",
+            "info": "The eligibility criteria for studying MBBS at Georgian American University is as follows:",
             "data": [
                 "The candidate must be over 17 and below 25 years old on or before the date in which the admission is being taken.",
                 "The applicant must clear the NEET exam as it is mandatory for students coming from India.",
@@ -354,7 +367,7 @@ export const georgianamericanuniversity
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Refer the documents checklists for applying MBBS study at Georgian American University:</b>",
+            "info": "Refer the documents checklists for applying MBBS study at Georgian American University:",
             "data": [
                 "Date Of Birth Certificate (In English)",
                 "10th (SSC) Mark sheet and Certificates",
@@ -369,8 +382,8 @@ export const georgianamericanuniversity
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2022",
-            "info": "<b>Medical aspirants can join either fall semester having the batches in September or they can join spring academic semester having the batches in the month of February & March:</b>",
+            "title": "Important Dates - Intake 2023",
+            "info": "Medical aspirants can join either fall semester having the batches in September or they can join spring academic semester having the batches in the month of February & March:",
             "col": [
                 "Events",
                 "Dates"
@@ -414,6 +427,22 @@ export const georgianamericanuniversity
     ],
     "review": [
         {
+            type: 'title',
+            title: "Georgian American University - Reviews"
+
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "Reviews on Georgian American University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Rajat Shukla</b><p>My experience at Georgian American University was wonderful. The professors were helpful and informative.</p>",
+              "<b>Karan Sharma</b><p>Anybody looking for a top-notch medical education ought to give Georgian American University serious consideration.</p>",
+              "<b>Anjali Mehta</b><p>At Georgian American University, there are first-rate facilities and a friendly staff. I had first-rate care the entire time I was there.</p>",
+            ]
+          },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Georgian American University - Reviews" },
@@ -433,6 +462,11 @@ export const georgianamericanuniversity
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Georgian American University - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Placements",
             "info": "",
@@ -443,7 +477,6 @@ export const georgianamericanuniversity
                 "Students who pass the United States Medical Licensing Examination may also work in other nations, such as the USA (USMLE)",
                 "Students registered with the medical council are also eligible to seek government positions in India.",
                 "After passing the MCI screening test, internship opportunities are available at any private or public college for one year.",
-
             ]
         },
         {
@@ -466,6 +499,55 @@ export const georgianamericanuniversity
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Georgian American University - Gallery"
+
+        },
+
+        {
+            "image": [
+                // {
+                //     "type": "image",
+                //     "data": "../../assets/img/university_gallery/east-european-university-building.jpg",
+                //     "alt": "East European University Building"
+                // },
+                // {
+                //     "type": "image",
+                //     "data": "../../assets/img/university_gallery/east-european-university-classroom.jpg",
+                //     "alt": "East European University Classroom"
+                // },
+                // {
+                //     "type": "image",
+                //     "data": "../../assets/img/university_gallery/east-european-university-graduated-students.jpg",
+                //     "alt": "East European University Graduated Students"
+                // },
+                // {
+                //     "type": "image",
+                //     "data": "../../assets/img/university_gallery/east-european-university-library.jpg",
+                //     "alt": "East European University Library"
+                // },
+                // {
+                //     "type": "image",
+                //     "data": "../../assets/img/university_gallery/east-european-university-practical-lab.jpg",
+                //     "alt": "East European University Lab"
+                // },
+                // {
+                //     "type": "image",
+                //     "data": "../../assets/img/university_gallery/east-european-university-students.jpg",
+                //     "alt": "East European University Students"
+                // },
+            ],
+            "video": [
+                // {
+                //     "type": "video",
+                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                //     "alt": "Image 1"
+                // },
+                
+            ]
+        },
+
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Georgian American University - Gallery" },
@@ -485,20 +567,23 @@ export const georgianamericanuniversity
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Georgian American University - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
             "info": "",
             "data": [
                 "Slots for scholarships have been made available to Georgian American University various times from different scholarship providers.",
                 "You can use our list of top international scholarship providers to learn more about the institutions that may have offered Georgian American University's students the chance to pursue their studies there.",
-                "World's top providers of scholarships - ",
-
             ]
         },
         {
             "type": "number-list",
             "title": "",
-            "info": "",
+            "info": "World's top providers of scholarships -",
             "data": [
                 "Australia Development Scholarships (ADS)",
                 "The German Academic Exchange Service (DAAD) Scholarships Programmes,",
@@ -539,6 +624,11 @@ export const georgianamericanuniversity
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Georgian American University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Georgian American University - Faculty" },
@@ -558,6 +648,11 @@ export const georgianamericanuniversity
     ],
     "news": [
         {
+            type: 'title',
+            title: "Georgian American University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Georgian American University - News & Articles" },
@@ -576,11 +671,16 @@ export const georgianamericanuniversity
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Georgian American University - Hostel"
+
+        },
 
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>MBBS aspirants at Georgian American University can opt for hostel & accommodation at an affordable prices:</b>",
+            "info": "MBBS aspirants at Georgian American University can opt for hostel & accommodation at an affordable prices:",
             "data": [
                 "Georgian American University provides students with hostels.",
                 "Hostels provide students a very comfortable environment to live.",
@@ -608,11 +708,16 @@ export const georgianamericanuniversity
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Georgian American University - FAQ"
+
+        },
 
         {
             "type": "question-list",
             "title": "Georgian American University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q.What degree will I get after completing a medical course in Georgian American University, Georgia?",

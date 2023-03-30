@@ -16,7 +16,6 @@ export const universityofperpetualhelpsystemdalta = {
       "title": "",
       "data": "<p>Inspired and committed for better life and national development Dr./BGen. Antonio Laperal Tamayo and Dr. Daisy Moran Tamayo founded the <b>University of Perpetual Help</b> on February 5, 1975. The University of Perpetual Help is located in Las Pinas city, Philippines.</p><p>The University of Perpetual Help is a preferred and apt choice for international aspirants to pursue MBBS in the Philippines.</p><p>Also known as the University of Perpetual Help System DALTA (UPHSD), the university is a pioneer in medical education in the Philippines. The campuses of UPHS - Perpetual Las Piñas,Perpetual Molina and Perpetual Calamba are fledged with a great infrastructure. curricular activities and faculty members.</p><p>The University of Perpetual Help System DALTA aims at achieving its goals of maintaining and sustaining education.</p>"
     },
-
     {
       "type": "table-title",
       "title": "University of Perpetual Help - Quick Highlights 2022",
@@ -154,14 +153,8 @@ export const universityofperpetualhelpsystemdalta = {
           "Approx Range in USD": "6 USD",
           "Approx Range in RS": "420 Rs"
         },
-      ]
-    },
-
-    {
-      type: 'text',
-      title: '',
-      info: '',
-      data: '<p><b><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>',
+      ],
+      "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1$ = 70 Rs. (for calculation purpose)</p>'
     },
     {
       type: 'text',
@@ -203,6 +196,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "coursesandfees": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - courses & Fees'
+    },
     {
       "type": "table",
       "title": "University of Perpetual Help - MBBS Fee Structure 2023",
@@ -442,6 +439,10 @@ export const universityofperpetualhelpsystemdalta = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
       "info": "The medical aspirants must fit into the basic criteria to grab MBBS seats at University of Perpetual Help:",
@@ -534,7 +535,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "review": [
-
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Reviews'
+    },
     {
       type: "meta",
       meta: [
@@ -554,7 +558,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "placement": [
-
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Placement'
+    },
     {
       type: "meta",
       meta: [
@@ -574,7 +581,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "gallery": [
-
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Gallery'
+    },
     {
       type: "meta",
       meta: [
@@ -594,6 +604,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Scholarship'
+    },
     {
       "type": "list-bollet",
       "title": "",
@@ -623,7 +637,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "faculty": [
-
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Faculty'
+    },
     {
       type: "meta",
       meta: [
@@ -643,8 +660,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "news": [
-
-
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - News & Articles'
+    },
     {
       type: "meta",
       meta: [
@@ -664,6 +683,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "hostel": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Hostel'
+    },
     {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
@@ -731,6 +754,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "faq": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - FAQ'
+    },
     {
       "type": "question-list",
       "title": "University of Perpetual Help - Important FAQs",

@@ -20,7 +20,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             "type": "table-title",
             "title": "Kyrgyz Russian Slavic University - Important Highlights",
-            "info": "<b>Given below is the table for quick facts about Kyrgyz Russian Slavic University to help you know better about the university quickly :</b>",
+            "info": "Given below is the table for quick facts about Kyrgyz Russian Slavic University to help you know better about the university quickly :",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "May"],
                 ["<b>Medium of Instruction</b>", "English, Russian, or Kyrgyz"],
@@ -35,7 +35,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Should Students Study at Kyrgyz Russian Slavic University?',
-            info: '<b>Below are the things to note down about Kyrgyz Russian Slavic University which will help you realize why and how your choice of this university is correct:</b>',
+            info: 'Below are the things to note down about Kyrgyz Russian Slavic University which will help you realize why and how your choice of this university is correct:',
             data: [
                 "Due to its low-cost fee structure, Kyrgyzstan is a great option for MBBS.",
                 "Students who complete their MBBS degree from Kyrgyz Russian Slavic University can get limitless opportunities all over the world as the degree is NMC approved and recognized worldwide.",
@@ -49,7 +49,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             "type": "table",
             "title": "Kyrgyz Russian Slavic University - Ranking 2022",
-            "info": "<b>As per UniRank (4icu), here is the ranking of Kyrgyz Russian Slavic University:</b>",
+            "info": "As per UniRank (4icu), here is the ranking of Kyrgyz Russian Slavic University:",
             "col": [
                 "Country",
                 "World",
@@ -65,7 +65,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>The list of medical committees who recognized the courses at Kyrgyz Russian Slavic University:</b>',
+            info: 'The list of medical committees who recognized the courses at Kyrgyz Russian Slavic University:',
             data: [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -77,7 +77,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             type: 'list-bollet',
             title: 'Student Life at Kyrgyz Russian Slavic University',
-            info: '<b>The university pays great attention to the physical and mental fitness of the students. And thus, it takes care of their overall development:</b>',
+            info: 'The university pays great attention to the physical and mental fitness of the students. And thus, it takes care of their overall development:',
             data: [
                 "The University believes in the holistic development of every student studying at the university and for that, the university offers various types of cultural and activity centers inside the premises.",
                 "KRSU offers various sports facilities inside the college premises such as football, tennis, basketball, volleyball, etc.",
@@ -92,7 +92,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             "type": "table",
             title: 'Kyrgyz Russian Slavic University - FMGE Performance 2021',
-            info: '<b>Kyrgyz Russian Slavic University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>',
+            info: 'Kyrgyz Russian Slavic University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -113,7 +113,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Bishkek",
-            "info": "<b>Following are the living expenses at Bishkek city:</b>",
+            "info": "Following are the living expenses at Bishkek city:",
             "col": [
                 "Activity",
                 "Cost"
@@ -145,7 +145,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             type: 'list-bollet',
             title: 'Infrastructure Provided by Kyrgyz Russian Slavic University',
-            info: "<b>The Kyrgyz Russian Slavic University provides world class facilities and amenities to its students. The infrastructure and facilities provided here are as follows:</b>",
+            info: "The Kyrgyz Russian Slavic University provides world class facilities and amenities to its students. The infrastructure and facilities provided here are as follows:",
             data: [
                 "The Kyrgyz Russian Slavic University has 25 Tremendous Institutes for students’ aesthetic education, 6 Big Centers for Research, 15 Huge Educational and Scientific Centers, and 4 Large-sized Laboratories for students.",
                 "On the campus of KRSU, various cultural and activity centers are also available.",
@@ -158,7 +158,7 @@ export const kyrgyzrussianslavicuniversity = {
             type: 'list-bollet',
             title: 'About Bishkek City',
             img: 'about-bishkek-city.jpg',
-            info: "<b>Some noticeable things and facts about Bishkek city are given below:</b>",
+            info: "Some noticeable things and facts about Bishkek city are given below:",
             data: [
                 "Bishkek is the largest city of Kyrgyzstan and it is also the capital of Kyrgyzstan.",
                 "The city of Bishkek has a population of about one million people.",
@@ -193,9 +193,14 @@ export const kyrgyzrussianslavicuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kyrgyz Russian Slavic University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Kyrgyz Russian Slavic University, Russia for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Kyrgyz Russian Slavic University, Russia for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -252,8 +257,8 @@ export const kyrgyzrussianslavicuniversity = {
         {
             "type": "table",
             "title": "Kyrgyz Russian Slavic University - MBBS Syllabus",
-            "data": "<b>The complete syllabus for studying MBBS at Kyrgyz Russian Slavic University is as follows:</b>",
-            "info": "<b>1st Year</b>",
+            "data": "The complete syllabus for studying MBBS at Kyrgyz Russian Slavic University is as follows:",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -269,7 +274,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -310,7 +315,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -334,7 +339,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th - 6th Year</b>",
+            "info": "4th - 6th Year",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["Clinical Subjects and Clinical Postings Oncology, Internal Medicine, Pediatrics, General Surgery, Neurology, Primary Care medicine, Obstetrics and Gynecology, Internal medicine, Neurology and Psychiatry, Psychology, ENT, Emergency Medicine, and Cardiology"]
@@ -368,9 +373,14 @@ export const kyrgyzrussianslavicuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - Admission 2023 "
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: "<b>The following criteria need to be fulfilled by the students to get a seat at the Kyrgyz Russian Slavic University:</b>",
+            info: "The following criteria need to be fulfilled by the students to get a seat at the Kyrgyz Russian Slavic University:",
             data: [
                 "The applicant should be a high-school graduate with a degree in Biology, Physics, Chemistry, and English as subjects.",
                 "The applicant must have completed 17 years of age and below 25 years old on or before the date of admission.",
@@ -382,7 +392,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: "<b>Following is the admission process for applying to MBBS course at Kyrgyz Russian Slavic University:</b>",
+            info: "Following is the admission process for applying to MBBS course at Kyrgyz Russian Slavic University:",
             data: [
                 "<b>Step 1:</b> Gather all the required documents and fill out the application form.",
                 "<b>Step 2:</b> Applicants would then need to send the documents to the university, where they will be analyzed by the authorities.",
@@ -394,7 +404,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: "<b>Following documents are required for MBBS admission at Kyrgyz Russian Slavic University:</b>",
+            info: "Following documents are required for MBBS admission at Kyrgyz Russian Slavic University:",
             data: [
                 "An original, valid passport (with a minimum of 18 months validity)",
                 "Filled application form",
@@ -427,6 +437,11 @@ export const kyrgyzrussianslavicuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kyrgyz Russian Slavic University - Reviews" },
@@ -447,6 +462,11 @@ export const kyrgyzrussianslavicuniversity = {
 
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -469,6 +489,11 @@ export const kyrgyzrussianslavicuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kyrgyz Russian Slavic University - Gallery" },
@@ -489,6 +514,11 @@ export const kyrgyzrussianslavicuniversity = {
 
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -511,6 +541,11 @@ export const kyrgyzrussianslavicuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kyrgyz Russian Slavic University - Faculty" },
@@ -531,6 +566,11 @@ export const kyrgyzrussianslavicuniversity = {
 
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -553,9 +593,14 @@ export const kyrgyzrussianslavicuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Accommodation & Hostel',
-            info: "<b>The university provides accommodation facilities at the best level to its students. Following are the hostel facilities at Kyrgyz Russian Slavic University:</b>",
+            info: "The university provides accommodation facilities at the best level to its students. Following are the hostel facilities at Kyrgyz Russian Slavic University:",
             data: [
                 "Kyrgyz Russian Slavic University provides hostel facilities to all the international students.",
                 "The hostel rooms are well-equipped with all the basic facilities like water supply, food, TV, heaters, air conditioning, internet service, etc.",
@@ -567,7 +612,7 @@ export const kyrgyzrussianslavicuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: "<b>The accommodation provided to students at the Kyrgyz Russian Slavic University comes with the following features:</b>",
+            info: "The accommodation provided to students at the Kyrgyz Russian Slavic University comes with the following features:",
             data: [
                 "Spacious and well-ventilated rooms",
                 "Rooms available on a sharing basis.",
@@ -601,9 +646,14 @@ export const kyrgyzrussianslavicuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kyrgyz Russian Slavic University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kyrgyz Russian Slavic University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. What are the opportunities after graduating with a medical degree from KRSU?",

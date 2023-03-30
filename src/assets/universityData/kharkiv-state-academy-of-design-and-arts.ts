@@ -21,21 +21,21 @@ export const kharkivstateacademyofdesignandarts = {
         {
             "type": "table-title",
             "title": "Kharkiv State Academy of Design and Arts - Quick Highlights",
-            "info": "<b>Given below is the table for quick overview about Kharkiv State Academy of Design and Arts:</b>",
+            "info": "Given below is the table for quick overview about Kharkiv State Academy of Design and Arts:",
             "col": [],
             "row": [
-                ["<b>Application Starts on	</b>", "May"],
-                ["<b>Programs / Faculties	</b>", "Fine Art, Design, Environmental Design"],
-                ["<b>Location </b>", "Kharkiv, Ukraine"],
-                ["<b>Medium of Education	</b>", "English"],
-                ["<b>University Ranking </b>", "World Rank - 8687<br> Country Rank - 143  "],
+                ["<b>Application Starts on</b>", "May"],
+                ["<b>Programs / Faculties</b>", "Fine Art, Design, Environmental Design"],
+                ["<b>Location</b>", "Kharkiv, Ukraine"],
+                ["<b>Medium of Education</b>", "English"],
+                ["<b>University Ranking</b>", "World Rank - 8687<br> Country Rank - 143  "],
                 ["<b>University Recognition</b>", "The Ministry of Education and Science of Ukraine<br> IVth level (Highest level) of accreditation"],
             ]
         },
         {
             "type": "list-bollet",
             "title": "Benefits of Studying at Kharkiv State Academy of Design and Arts",
-            "info": "<b>Students must go through the below-given benefits which will make them realize that how their decision of studying at Kharkiv State Academy of Design and Arts is not only right, it’s perfect:</b>",
+            "info": "Students must go through the below-given benefits which will make them realize that how their decision of studying at Kharkiv State Academy of Design and Arts is not only right, it’s perfect:",
             "data": [
                 "The university trains students in Art, namely in design, graphic arts, and restoration of works of art.",
                 "For students, the Academy also offers both a postgraduate training programme and a Doctoral training programme.",
@@ -50,7 +50,7 @@ export const kharkivstateacademyofdesignandarts = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Find out the medium of teaching at Kharkiv State Academy of Design and Arts here:</b>",
+            "info": "Find out the medium of teaching at Kharkiv State Academy of Design and Arts here:",
             "data": [
                 "The language of instruction at the University is English, Russian and Ukrainian.",
                 "The various programs at the university are offered in English and Ukrainian languages.",
@@ -60,7 +60,7 @@ export const kharkivstateacademyofdesignandarts = {
         {
             "type": "table",
             "title": "Kharkiv State Academy of Design and Arts - Ranking 2022",
-            "info": "<b>According to 4icu.org, the country & world ranking of Kharkiv State Academy of Design and Arts is as follows:</b>",
+            "info": "According to 4icu.org, the country & world ranking of Kharkiv State Academy of Design and Arts is as follows:",
             "col": [
                 "World Rank",
                 "Country Rank",
@@ -75,7 +75,7 @@ export const kharkivstateacademyofdesignandarts = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Kharkiv State Academy of Design and Arts is recognized and accredited by many important bodies and is also a member of:</b>",
+            "info": "Kharkiv State Academy of Design and Arts is recognized and accredited by many important bodies and is also a member of:",
             "data": [
                 "The Ministry of Education and Science of Ukraine",
                 "IVth level (Highest level) of accreditation",
@@ -84,7 +84,7 @@ export const kharkivstateacademyofdesignandarts = {
         {
             "type": "table",
             "title": "Cost of Living in Kharkiv",
-            "info": "<b>Find below the approximate cost of living in the city Kharkiv:</b>",
+            "info": "Find below the approximate cost of living in the city Kharkiv:",
             "col": [
                 "Activity",
                 "Cost",
@@ -133,9 +133,14 @@ export const kharkivstateacademyofdesignandarts = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Design and Arts, Ukraine - courses & Fees"
+
+        },
+        {
             "type": "table-title",
             "title": "Courses Offered at Kharkiv State Academy of Design and Arts",
-            "info": "<b>Kharkiv State Academy of Design and Arts has 3 faculties and under these 3 faculties there are various departments as follows:</b>",
+            "info": "Kharkiv State Academy of Design and Arts has 3 faculties and under these 3 faculties there are various departments as follows:",
             "data": "1 Faculty of Fine Art",
             "col": [],
             "row": [
@@ -167,7 +172,7 @@ export const kharkivstateacademyofdesignandarts = {
         {
             "type": "list-bollet",
             "title": "Kharkiv State Academy of Design and Arts - Course Duration",
-            "info": "<b>At Kharkiv State Academy of Design and Arts, there are various courses under each department of each faculty with different duration as mentioned below:</b>",
+            "info": "At Kharkiv State Academy of Design and Arts, there are various courses under each department of each faculty with different duration as mentioned below:",
             "data": [
                 "Academic Painting - 1-5 years;",
                 "Fundamentals of composition course - 1-2 years;",
@@ -202,9 +207,14 @@ export const kharkivstateacademyofdesignandarts = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Design and Arts, Ukraine - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Candidates who want to secure admission at Kharkiv State Academy of Design and Arts must fit in the following eligibility criteria:</b>",
+            "info": "Candidates who want to secure admission at Kharkiv State Academy of Design and Arts must fit in the following eligibility criteria:",
             "data": [
                 "To study different bachelor’s programs students must have completed 10+2 years of their education and for master’s program they must have completed their bachelor’s degree in the relevant field.",
                 "They must have knowledge of English language.",
@@ -214,7 +224,7 @@ export const kharkivstateacademyofdesignandarts = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The admission process which students need to follow to take admission at Kharkiv State Academy of Design and Arts is mentioned here:</b>',
+            info: 'The admission process which students need to follow to take admission at Kharkiv State Academy of Design and Arts is mentioned here:',
             data: [
                 "Step 1: Students must send the necessary documents such as application form, education certificates by applying online or by sending the documents on the email address of the college for preparing the invitation letter.",
                 "Step 2: Students will receive the bank requisites and payment details by email. Students will then receive the invitation letter from the university.",
@@ -226,7 +236,7 @@ export const kharkivstateacademyofdesignandarts = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students must carry the below-mentioned documents with them at the time of admission to Kharkiv State Academy of Design and Arts:</b>",
+            "info": "Students must carry the below-mentioned documents with them at the time of admission to Kharkiv State Academy of Design and Arts:",
             "data": [
                 "The Enrollment application form",
                 "An Original invitation letter (translated into the Ukrainian language approved by the Embassy of Ukraine in the respective country)",
@@ -265,6 +275,11 @@ export const kharkivstateacademyofdesignandarts = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Design and Arts, Ukraine - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv State Academy of Design and Arts, Ukraine - Reviews" },
@@ -283,6 +298,11 @@ export const kharkivstateacademyofdesignandarts = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kharkiv State Academy of Design and Arts, Ukraine - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -303,6 +323,11 @@ export const kharkivstateacademyofdesignandarts = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Design and Arts, Ukraine - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv State Academy of Design and Arts, Ukraine - Gallery" },
@@ -322,9 +347,14 @@ export const kharkivstateacademyofdesignandarts = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Design and Arts, Ukraine - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>For the benefit of students, Kharkiv State Academy of Design and Arts offers several scholarships to them, based on the below-mentioned criteria:</b>",
+            "info": "For the benefit of students, Kharkiv State Academy of Design and Arts offers several scholarships to them, based on the below-mentioned criteria:",
             "data": [
                 "Students with high grades in their academic career and with extraordinary achievements in their fields are offered scholarships. The scholarships are provided by governments of different countries, by various organizations etc.",
                 "Students studying on research projects and Ph.D. programs also get substantial amounts of scholarships and grant support.",
@@ -351,8 +381,13 @@ export const kharkivstateacademyofdesignandarts = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Design and Arts, Ukraine - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -385,6 +420,11 @@ export const kharkivstateacademyofdesignandarts = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Design and Arts, Ukraine - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv State Academy of Design and Arts, Ukraine - News & Articles" },
@@ -404,9 +444,14 @@ export const kharkivstateacademyofdesignandarts = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Design and Arts, Ukraine - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>For students willing to study abroad and for their parents too, accommodation is always a matter of concern! Kharkiv State Academy of Design and Arts provides following hostel facilities to international students:</b>",
+            "info": "For students willing to study abroad and for their parents too, accommodation is always a matter of concern! Kharkiv State Academy of Design and Arts provides following hostel facilities to international students:",
             "data": [
                 "The university provides housing for foreigners.",
                 "The hostel for international students is located in the city center, in an area with good infrastructure.",
@@ -451,50 +496,55 @@ export const kharkivstateacademyofdesignandarts = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Kharkiv State Academy of Design and Arts - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. How many international students study at the university currently?",
-                    "ans": "About 1,450 students study at three faculties of the university who are from Ukraine and 12 other foreign countries."
-                },
-                {
-                    "ques": "Q. How is the library of Kharkiv State Academy of Design and Arts?",
-                    "ans": "By 2014 the library held 137 896 units, including 27 944 books and 4,641 periodical publications. The library has a delivery desk and 4 reference rooms. Moreover, under the information and reference department, a computer reference room works. All the computers at the library are connected to the Internet."
-                },
-                {
-                    "ques": "Q. Does the university provide a distance learning facility?",
-                    "ans": "Yes, there is a distance learning facility at the university that allows students to study part time or distance courses."
-                },
-                {
-                    "ques": "Q. Are there any research facilities at the university?",
-                    "ans": "Yes, the Kharkiv state academy of Design and Arts has a large scope for research for students."
-                },
-                {
-                    "ques": "Q. Does the university provide hostel and food facilities to its students?",
-                    "ans": "Yes, there is a hostel and a dining hall for students at the university."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kharkiv State Academy of Design and Arts, Ukraine - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Kharkiv State Academy of Design and Arts, Ukraine - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kharkiv-state-academy-of-design-and-arts/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Kharkiv State Academy of Design and Arts, Ukraine - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "Kharkiv State Academy of Design and Arts - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. How many international students study at the university currently?",
+                        "ans": "About 1,450 students study at three faculties of the university who are from Ukraine and 12 other foreign countries."
+                    },
+                    {
+                        "ques": "Q. How is the library of Kharkiv State Academy of Design and Arts?",
+                        "ans": "By 2014 the library held 137 896 units, including 27 944 books and 4,641 periodical publications. The library has a delivery desk and 4 reference rooms. Moreover, under the information and reference department, a computer reference room works. All the computers at the library are connected to the Internet."
+                    },
+                    {
+                        "ques": "Q. Does the university provide a distance learning facility?",
+                        "ans": "Yes, there is a distance learning facility at the university that allows students to study part time or distance courses."
+                    },
+                    {
+                        "ques": "Q. Are there any research facilities at the university?",
+                        "ans": "Yes, the Kharkiv state academy of Design and Arts has a large scope for research for students."
+                    },
+                    {
+                        "ques": "Q. Does the university provide hostel and food facilities to its students?",
+                        "ans": "Yes, there is a hostel and a dining hall for students at the university."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Kharkiv State Academy of Design and Arts, Ukraine - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Kharkiv State Academy of Design and Arts, Ukraine - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kharkiv-state-academy-of-design-and-arts/faq" }
+                ]
+            }
+        ]
 }

@@ -38,7 +38,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": 'list-bollet',
             "title": 'Why Study MBBS at Jalalabad Ragib-Rabeya Medical College?',
-            "info": '<b>There are multiple advantages of studying MBBS course in Jalalabad Ragib Rabeya Medical College & Hospital that proves to be utmost beneficial for Indian students:</b>',
+            "info": 'There are multiple advantages of studying MBBS course in Jalalabad Ragib Rabeya Medical College & Hospital that proves to be utmost beneficial for Indian students:',
             "data": [
                 "Well structured twin towered College & Hospital",
                 "Hostel facility for local and international students",
@@ -61,7 +61,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "table",
             "title": "Jalalabad Ragib-Rabeya Medical College - Ranking 2022",
-            "info": "<b>Jalalabad Ragib-Rabeya Medical College was started in the year 1995 with a handful of students and a firm dedication to serve people and produce great doctors, today with the unwavering support of the teachers, management and staff JRRMC is among the top medical schools of the world. According to Unirank 4icu, the ranking of Jalalabad Ragib-Rabeya Medical College is as follows:</b>",
+            "info": "Jalalabad Ragib-Rabeya Medical College was started in the year 1995 with a handful of students and a firm dedication to serve people and produce great doctors, today with the unwavering support of the teachers, management and staff JRRMC is among the top medical schools of the world. According to Unirank 4icu, the ranking of Jalalabad Ragib-Rabeya Medical College is as follows:",
             "col": [
                 "Country",
                 "World"
@@ -76,7 +76,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The chosen medium for education at JRRMC is English, as it is widely understood by students who come from various countries.</b>",
+            "info": "The chosen medium for education at JRRMC is English, as it is widely understood by students who come from various countries.",
             "data": "<p>English Language</p>"
         },
         {
@@ -100,7 +100,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "text",
             "title": "Facilities Provided at Jalalabad Ragib-Rabeya Medical College",
-            "info": "<b>Here we have mentioned all the services & amenities students get to witness while learning medical course at JR-RMC:</b>",
+            "info": "Here we have mentioned all the services & amenities students get to witness while learning medical course at JR-RMC:",
             "data": ""
         },
         {
@@ -116,7 +116,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Infrastructural Facilities:</b>",
+            "info": "Infrastructural Facilities:",
             "col": [],
             "row": [
                 ["Dormitory Rooms", "Capacious Lecture Halls", "Well-stocked Museums"],
@@ -128,7 +128,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Fundamental Services:</b>",
+            "info": "Fundamental Services:",
             "col": [],
             "row": [
                 ["Nearest ATM", "Laundry services"],
@@ -136,11 +136,11 @@ export const jalalabadragibrabeyamedicalcollege = {
                 ["Airport", "-"]
             ]
         },
-       
+
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Keep track of all the dates of all the events involved in the admission process:</b>",
+            "info": "Keep track of all the dates of all the events involved in the admission process:",
             "col": [
                 "Events",
                 "Dates",
@@ -163,7 +163,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Jalalabad Ragib Rabeya Medical College & Hospital has recognition from the following medical council & accreditation committees:</b>",
+            "info": "Jalalabad Ragib Rabeya Medical College & Hospital has recognition from the following medical council & accreditation committees:",
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -196,7 +196,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "table",
             "title": "Cost of Living in Sylhet, Bangladesh",
-            "info": "<b>Here is a table showing monthly expenses if you opt for external accommodation instead of the hostel & food provided by the college:</b>",
+            "info": "Here is a table showing monthly expenses if you opt for external accommodation instead of the hostel & food provided by the college:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -252,7 +252,7 @@ export const jalalabadragibrabeyamedicalcollege = {
             "type": "text",
             "title": "About Sylhet City",
             "img": "sylhet-city.jpg",
-            "info": "<b>Information about Sylhet has provided here:</b>",
+            "info": "Information about Sylhet has provided here:",
             "data": "<p>Sylhet, former Srihatta, is based in northeastern Bangladesh. It is settled around the bank of the Surma River. </p><p>Sylhet is known for its furniture products, tea, fertilizer, and liquefied petroleum (propane) gas. They also have a fair number of handicraft cottage industries including mat pruning & bamboo work. </p><p>It formed a municipality in 1878. Sylhet is the residence of Shahjalal University of Science and Technology (1987) & some government colleges. Must-see Historical spots consist of the Shah Jalal Mosque & the tombs of notable Muslim saints. </p>"
         },
         {
@@ -289,9 +289,14 @@ export const jalalabadragibrabeyamedicalcollege = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Jalalabad Ragib-Rabeya Medical College Fees - JRRMC MBBS Fee Structure 2022",
-            "info": "<b>Foreign students have to pay the tuition fees of MBBS as per the following Jalalabad Ragib Rabeya Medical College & Hospital format:</b>",
+            "info": "Foreign students have to pay the tuition fees of MBBS as per the following Jalalabad Ragib Rabeya Medical College & Hospital format:",
             "col": [
                 "Particular",
                 "Amount in USD",
@@ -349,7 +354,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Modes of payment of tuition fees & term of installation:</b>",
+            "info": "Modes of payment of tuition fees & term of installation:",
             "col": [],
             "row": [
                 ["<b>At the Admission Time</b>", "16,000$"],
@@ -364,7 +369,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Presentation of Tuition Fees, Hostel Rent, & Clinical Fees:</b>",
+            "info": "Presentation of Tuition Fees, Hostel Rent, & Clinical Fees:",
             "col": [],
             "row": [
                 ["<b>Tuition Fees</b>", "2,700$ (Per Annum)"],
@@ -376,7 +381,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Jalalabad Ragib-Rabeya Medical College",
-            "info": "<b>The list of medical courses available in the college has given below:</b>",
+            "info": "The list of medical courses available in the college has given below:",
             "data": [
                 "General medicine (MBBS)",
                 "Dentistry",
@@ -390,7 +395,7 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Recognition of the Post-Graduate Training:</b>",
+            "info": "Recognition of the Post-Graduate Training:",
             "col": [],
             "row": [
                 ["Medicine", "Otolaryngology", "Dermatology & Venereology"],
@@ -403,13 +408,13 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             "type": "text",
             "title": "Jalalabad Ragib-Rabeya Medical College - MBBS Duration",
-            "info": "<b>It takes five years to complete an MBBS course for any student in JR-RMC:</b>",
+            "info": "It takes five years to complete an MBBS course for any student in JR-RMC:",
             "data": "<p>JR-RMC offers an MBBS program of five years including one year of internship.There are a total of 10 semesters in the course & each semester is of 6 months</p>"
         },
         {
             "type": "table",
             "title": "Jalalabad Ragib-Rabeya Medical College - MBBS Syllabus",
-            "info": "<b>Jalalabad Ragib Rabeya Medical College & Hospital MBBS course has four professional exams during their 5 year curriculum. A complete list of subjects listed in the syllabus of the MBBS course in JR-RMC is as follows:</b>",
+            "info": "Jalalabad Ragib Rabeya Medical College & Hospital MBBS course has four professional exams during their 5 year curriculum. A complete list of subjects listed in the syllabus of the MBBS course in JR-RMC is as follows:",
             "col": [
                 "Phase",
                 "Duration",
@@ -463,9 +468,14 @@ export const jalalabadragibrabeyamedicalcollege = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>There is a simple qualification criteria for MBBS course admission based on the following basic requirements:</b>",
+            "info": "There is a simple qualification criteria for MBBS course admission based on the following basic requirements:",
             "data": [
                 "Students who have passed secondary education certificates before 2019 are not eligible to apply for admission <b>for the year 2021-2022.</b>",
                 "Foreign students: They will be selected on viva-voce examination on fulfillment of prerequisite, i.e. qualification equivalent to SSC & HSC and equivalence in conformity with the rules of Government of the People's Republic of Bangladesh.",
@@ -476,21 +486,21 @@ export const jalalabadragibrabeyamedicalcollege = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The admission process for international students to enroll in the MBBS course in JR-RMC involves the following steps:</b>',
+            info: 'The admission process for international students to enroll in the MBBS course in JR-RMC involves the following steps:',
             data: [
-              "Step 1: Application forms are available between Aug - Sept.",
-              "Step 2: Organize the academic documents & certificates to attach with the form.",
-              "Step 3: All the documents must be duly certified by the Ministry of Foreign Affairs, India in regards to Directorate General of Health Services (DGHS), Mohakhali, Dhaka, Bangladesh.",
-              "Step 4: This process should be done through the High Commission/Embassy of India at Dhaka for further submission of DGHS with the mention of JR-RMC.",
-              "Step 5:: The High Commission/Embassy will forward the certificates & mark sheet to the Directorate General of Health Services (DGHS) of Mohakhali, Dhaka, Bangladesh for the verification process.",
-              "Step 6: Make the payment for the tuition fees stated in the official prospect.",
-              "Step 7: Apply for students VISA with authentic & verifiable documents."
+                "Step 1: Application forms are available between Aug - Sept.",
+                "Step 2: Organize the academic documents & certificates to attach with the form.",
+                "Step 3: All the documents must be duly certified by the Ministry of Foreign Affairs, India in regards to Directorate General of Health Services (DGHS), Mohakhali, Dhaka, Bangladesh.",
+                "Step 4: This process should be done through the High Commission/Embassy of India at Dhaka for further submission of DGHS with the mention of JR-RMC.",
+                "Step 5:: The High Commission/Embassy will forward the certificates & mark sheet to the Directorate General of Health Services (DGHS) of Mohakhali, Dhaka, Bangladesh for the verification process.",
+                "Step 6: Make the payment for the tuition fees stated in the official prospect.",
+                "Step 7: Apply for students VISA with authentic & verifiable documents."
             ]
         },
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required to be attested with the application form to take admission for the MBBS course in JR-RMC:</b>",
+            "info": "Following documents are required to be attested with the application form to take admission for the MBBS course in JR-RMC:",
             "data": [
                 "A valid copy of the passport.",
                 "Photocopies of the academic certificates of SSC, HSC/ other equivalents.",
@@ -523,6 +533,11 @@ export const jalalabadragibrabeyamedicalcollege = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Reviews" },
@@ -541,6 +556,11 @@ export const jalalabadragibrabeyamedicalcollege = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -561,6 +581,11 @@ export const jalalabadragibrabeyamedicalcollege = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Gallery" },
@@ -579,6 +604,11 @@ export const jalalabadragibrabeyamedicalcollege = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -599,6 +629,11 @@ export const jalalabadragibrabeyamedicalcollege = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Faculty" },
@@ -617,6 +652,11 @@ export const jalalabadragibrabeyamedicalcollege = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -637,9 +677,14 @@ export const jalalabadragibrabeyamedicalcollege = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Jalalabad Ragib-Rabeya Medical College has its hostel accommodation services that consist of the following facilities:</b>",
+            "info": "Jalalabad Ragib-Rabeya Medical College has its hostel accommodation services that consist of the following facilities:",
             "data": [
                 "The total floor space of the accommodation is 3,64,600 sqft",
                 "Separate hostel rooms for boys, girls & foreign students",
@@ -684,9 +729,14 @@ export const jalalabadragibrabeyamedicalcollege = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Jalalabad Ragib-Rabeya Medical College, Bangladesh - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Jalalabad Ragib-Rabeya Medical College - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Are there scholarship opportunities for international students?",

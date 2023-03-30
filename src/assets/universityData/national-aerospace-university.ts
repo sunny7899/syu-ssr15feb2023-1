@@ -176,11 +176,16 @@ export const nationalaerospaceuniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - courses & Fees"
+
+        },
 
         {
             "type": "text",
             "title": "National Aerospace University - Syllabus",
-            "data": "<p><b>The students should check out the well-organised syllabus for Aviation course at National Aerospace University:</b></p>"
+            "data": "The students should check out the well-organised syllabus for Aviation course at National Aerospace University:"
         },
         {
             "type": "table",
@@ -725,7 +730,7 @@ export const nationalaerospaceuniversity = {
         {
             "type": "text",
             "title": "Memberships and Programs",
-            "data": "<p><b>The National Aerospace University has many memberships and various programs:</b></p>"
+            "data": "The National Aerospace University has many memberships and various programs:"
         },
         {
             "type": "list-bollet",
@@ -819,6 +824,11 @@ export const nationalaerospaceuniversity = {
         }
     ],
     "admission": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - Admission 2023"
+
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -914,6 +924,11 @@ export const nationalaerospaceuniversity = {
         }
     ],
     "review": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - Reviews"
+
+        },
 
         {
             type: "meta",
@@ -934,6 +949,11 @@ export const nationalaerospaceuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - Placement"
+
+        },
 
         {
             type: "meta",
@@ -955,6 +975,11 @@ export const nationalaerospaceuniversity = {
 
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - Gallery"
+
+        },
 
         {
             type: "meta",
@@ -975,6 +1000,11 @@ export const nationalaerospaceuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "",
@@ -1006,6 +1036,11 @@ export const nationalaerospaceuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - Faculty"
+
+        },
 
         {
             type: "meta",
@@ -1026,6 +1061,11 @@ export const nationalaerospaceuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - News & Articles"
+
+        },
 
 
         {
@@ -1047,6 +1087,11 @@ export const nationalaerospaceuniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - Hostel"
+
+        },
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
@@ -1109,6 +1154,11 @@ export const nationalaerospaceuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "National Aerospace University, Ukraine - FAQ"
+
+        },
         {
             "type": "question-list",
             "title": "National Aerospace University: Important FAQs",

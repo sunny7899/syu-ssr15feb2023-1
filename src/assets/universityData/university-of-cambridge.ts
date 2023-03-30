@@ -19,7 +19,7 @@ export const universityofcambridge = {
         {
             "type": "table-title",
             "title": "University of Cambridge - Quick Overview",
-            "info": "<b>Following are the quick highlights of studying MBA at University of Cambridge:</b>",
+            "info": "Following are the quick highlights of studying MBA at University of Cambridge:",
             "col": [],
             "row": [
                 ["<b>Degree Awarded</b>", "MBA"],
@@ -36,7 +36,7 @@ export const universityofcambridge = {
         {
             "type": "list-bollet",
             "title": "Why Study MBA at University of Cambridge?",
-            "info": "<b>Studying medicine at University of Cambridge is the world class degree recognized worldwide:</b>",
+            "info": "Studying medicine at University of Cambridge is the world class degree recognized worldwide:",
             "data": [
                 "The university offers combined knowledge to specific business situations from academia and professional practice.",
                 "Faculties and staff at the university encourage the students to create new businesses, pursuing goals for the intellectual gain and contributing to social enterprise.",
@@ -48,7 +48,7 @@ export const universityofcambridge = {
         {
             "type": "table",
             "title": "University of Cambridge - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for University of Cambridge:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for University of Cambridge:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -80,9 +80,13 @@ export const universityofcambridge = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Cambridge, England - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Cambridge - Fee Structure 2022",
-            "info": "<b>Following is the cost effective fee structure of MBA course at University of Cambridge:</b>",
+            "info": "Following is the cost effective fee structure of MBA course at University of Cambridge:",
             "col": [
                 "Particulars",
                 "Fees in Rupees",
@@ -105,12 +109,12 @@ export const universityofcambridge = {
                     "Fees in USD": "$ 1,01,288- 1,01,963"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1 £ = 1.35 USD</p> <p>1 £ = 100.07 INR</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1 £ = 1.35 USD</p> <p>1 £ = 100.07 INR</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at University of Cambridge",
-            "info": "<b>Following are the programs offered at University of Cambridge:</b>",
+            "info": "Following are the programs offered at University of Cambridge:",
             "data": [
                 "MBA",
                 "Executive MBA",
@@ -124,7 +128,7 @@ export const universityofcambridge = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Specialization offered for MBA program are:</b>",
+            "info": "Specialization offered for MBA program are:",
             "data": [
                 "Accounting",
                 "Finance",
@@ -139,7 +143,7 @@ export const universityofcambridge = {
         {
             "type": "list-bollet",
             "title": "University of Cambridge - MBA Duration",
-            "info": "<b>An MBA in the University of Cambridge lasts for a period of 1 year:</b>",
+            "info": "An MBA in the University of Cambridge lasts for a period of 1 year:",
             "data": [
                 "University of Cambridge offers a full-time business management program that comprises 1 year leading to the degree of Master of Business Administration.",
                 "One of the notable features of theUniversity of Cambridge MBA program is that it provides the opportunity to learn business exposure by contributing to broad-based education."
@@ -165,9 +169,13 @@ export const universityofcambridge = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Cambridge, England - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Follow the below admission prerequisites for applying MBA at University of Cambridge:</b>",
+            "info": "Follow the below admission prerequisites for applying MBA at University of Cambridge:",
             "data": [
                 "Applicants should have an undergraduate degree from the recognized university.",
                 "If you are a working professional, applicant needs to have a minimum 2years of work experience.",
@@ -179,7 +187,7 @@ export const universityofcambridge = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Follow the below admission guidelines for applying MBA in University of Cambridge:</b>',
+            info: 'Follow the below admission guidelines for applying MBA in University of Cambridge:',
             data: [
                 "Step 1: Register on the official portal of University of Cambridge. Fill the application form as per the prerequisites.",
                 "Step 2: Pay the Application Fees around 200 USD (INR 1500 approximately) & submit your application.",
@@ -195,7 +203,7 @@ export const universityofcambridge = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Follow the below document checklists required for applying MBA in University of Cambridge:</b>",
+            "info": "Follow the below document checklists required for applying MBA in University of Cambridge:",
             "data": [
                 "Copy of Mark Sheets (10th,12th, Bachelor)",
                 "Copy of Passport",
@@ -230,6 +238,10 @@ export const universityofcambridge = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Cambridge, England - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Cambridge, England - Reviews" },
@@ -249,9 +261,13 @@ export const universityofcambridge = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'University of Cambridge, England - Placement'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Opportunity for MBA at University of Cambridge",
-            "info": "<b>The career program at the University of Cambridge starts on your arrival:</b>",
+            "info": "The career program at the University of Cambridge starts on your arrival:",
             "data": [
                 "The university offers a broad program of coaching and guidance to equip the students with effective employability tools for life. 90% of students get employed within a span of 3 months after completion of their MBA studies.",
                 "Career Guide for MBA Students"
@@ -260,7 +276,7 @@ export const universityofcambridge = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Career development programme covers the three major aspects:</b>",
+            "info": "Career development programme covers the three major aspects:",
             "data": [
                 "Defining your career goals",
                 "Job search & planning skills",
@@ -275,7 +291,7 @@ export const universityofcambridge = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Top Recruiters at University of Cambridge are:</b>",
+            "info": "Top Recruiters at University of Cambridge are:",
             "row": [
                 ["Amazon", "BCG", "Facebook"],
                 ["IBM", "Expedia", "International Financial Corporation"],
@@ -302,6 +318,10 @@ export const universityofcambridge = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Cambridge, England - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Cambridge, England - Gallery" },
@@ -321,9 +341,13 @@ export const universityofcambridge = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Cambridge, England - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following are the scholarships offered by the University of Cambridge -</b>",
+            "info": "Following are the scholarships offered by the University of Cambridge -",
             "data": [
                 "Cambridge International Scholarship",
                 "Cambridge Masters Studentship",
@@ -369,6 +393,10 @@ export const universityofcambridge = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Cambridge, England - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -416,6 +444,10 @@ export const universityofcambridge = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Cambridge, England - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Cambridge, England - News & Articles" },
@@ -435,9 +467,13 @@ export const universityofcambridge = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Cambridge, England - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation at University of Cambridge",
-            "info": "<b>Following are the points which describe how good is accommodation offered by the University of Cambridge -</b> <br>They can help with types of properties:",
+            "info": "Following are the points which describe how good is accommodation offered by the University of Cambridge - <br>They can help with types of properties:",
             "data": [
                 "University-owned or managed accommodation that is positioned throughout the city. They are available for a minimum duration of 1 year and can be booked prior to arriving in Cambridge.",
                 "Private lodging that is located throughout the city and the encircling villages.",
@@ -464,9 +500,13 @@ export const universityofcambridge = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Cambridge, England - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Cambridge - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many seats allotted to the MBA course at the University of Cambridge?",

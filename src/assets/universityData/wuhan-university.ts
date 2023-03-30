@@ -19,7 +19,7 @@ export const wuhanuniversity = {
         {
             "type": "table-title",
             "title": "Wuhan University - Quick Highlights 2021",
-            "info": "<b>Given below is the table for quick facts about Wuhan Medical University:</b>",
+            "info": "Given below is the table for quick facts about Wuhan Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -37,7 +37,7 @@ export const wuhanuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Wuhan University?",
-            "info": "<b>Following are the advantages of studying at Wuhan University:</b>",
+            "info": "Following are the advantages of studying at Wuhan University:",
             "data": [
                 "Degrees from this university are highly recognized by the Medical Council of India and World Health Organization etc.",
                 "Students who complete their MBBS course from this university, become eligible for Medical licensing exam and can practice in their own country or in the university itself.",
@@ -50,7 +50,7 @@ export const wuhanuniversity = {
         {
             "type": "table",
             "title": "Wuhan University - Ranking 2021",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Wuhan Medical University:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Wuhan Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -65,13 +65,13 @@ export const wuhanuniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Wuhan Medical University:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Wuhan Medical University:",
             "data": "<p><b>According to 4icu.org, following is the country & world ranking for Wuhan Medical University:</b></p><p>At Wuhan University, the medium of teaching is English, and thus language is not a barrier for non-chinese students while studying at this university. Students may receive Chinese language training in their first year of education.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>China’s Wuhan University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "China’s Wuhan University is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "World Health Organization (WHO)",
                 "Medical Council of India (MCI)",
@@ -82,7 +82,7 @@ export const wuhanuniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Students at Wuhan University",
-            "info": "<b>Students live an excellent life at Shandong medical university as it provides many facilities to its students:</b>",
+            "info": "Students live an excellent life at Shandong medical university as it provides many facilities to its students:",
             "data": [
                 "Wuhan Medical University offers opportunities for students to try something new, to explore, and experience colorful campus lives.",
                 "At Wuhan University, there are about 300 student clubs, and a wide range of student activities running year-round.",
@@ -97,7 +97,7 @@ export const wuhanuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Wuhan City",
-            "info": "<b>The cost of living at Wuhan city is as follows:</b>",
+            "info": "The cost of living at Wuhan city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -129,7 +129,7 @@ export const wuhanuniversity = {
         {
             "type": "list-bollet",
             "title": "About Wuhan City",
-            "info": "<b>Below are some of the key points about the Wuhan city:</b>",
+            "info": "Below are some of the key points about the Wuhan city:",
             "data": [
                 "Wuhan is the birthplace of Chu dynastic civilization.",
                 "Wuhan is the capital city in the People's Republic of China.",
@@ -163,9 +163,13 @@ export const wuhanuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Wuhan University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Wuhan University - MBBS Fee Structure 2021",
-            "info": "<b>The fee structure for Wuhan University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Wuhan University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "1st Year",
@@ -284,7 +288,7 @@ export const wuhanuniversity = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Wuhan University",
-            "info": "<b>Mentioned below is the duration of MBBS course:</b>",
+            "info": "Mentioned below is the duration of MBBS course:",
             "data": [
                 "The duration of MBBS course at Wuhan University is <b>6 years</b> which includes 1 year of internship."
             ]
@@ -292,7 +296,7 @@ export const wuhanuniversity = {
         {
             "type": "table",
             "title": "MBBS Syllabus - Wuhan University",
-            "info": "<b>The complete syllabus for studying MBBS at Wuhan University is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Wuhan University is as follows:",
             "textBelowInfo": "1st Year",
             "col": [
                 "1st Semester",
@@ -495,7 +499,7 @@ export const wuhanuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Wuhan University",
-            "info": "<b>The various faculties and departments present at Wuhan University are:</b>",
+            "info": "The various faculties and departments present at Wuhan University are:",
             "data": [
                 "Medical Research Institute/Frontier Science Center for Immunology and Metabolism",
                 "School of Basic Medical Sciences",
@@ -541,9 +545,13 @@ export const wuhanuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Wuhan University - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Wuhan University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Wuhan University is as follows:",
             "data": [
                 "The age of the applicant must be minimum 18 years as on September 1st 2021 and maximum 30 years.",
                 "Applicant should be healthy and well-behaved.",
@@ -557,7 +565,7 @@ export const wuhanuniversity = {
         {
             "type": "step-list",
             "title": "How to Apply for MBBS Admission at Wuhan University ?",
-            "info": "<b>Following is the admission procedure for applying to MBBS course at Wuhan University:</b>",
+            "info": "Following is the admission procedure for applying to MBBS course at Wuhan University:",
             "textBelowInfo": "1 Filling Online Application",
             "data": [
                 "<b>Step 1:</b> At the beginning, students must fill the application form at Wuhan University International Students Service System within the application period.",
@@ -586,7 +594,7 @@ export const wuhanuniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Wuhan University:</b>",
+            "info": "Following documents are required at the time of admission to Wuhan University:",
             "data": [
                 "10th Marksheet",
                 "12th Marksheet",
@@ -603,7 +611,7 @@ export const wuhanuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Wuhan University:</b>",
+            "info": "Check out the Important dates regarding admission at Wuhan University:",
             "col": [
                 "Events",
                 "Dates",
@@ -647,6 +655,10 @@ export const wuhanuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Wuhan University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wuhan University - Reviews" },
@@ -665,6 +677,10 @@ export const wuhanuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Wuhan University - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -697,6 +713,10 @@ export const wuhanuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Wuhan University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wuhan University - Gallery" },
@@ -716,9 +736,13 @@ export const wuhanuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Wuhan University - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following scholarships are offered at Wuhan University:</b>",
+            "info": "Following scholarships are offered at Wuhan University:",
             "data": [
                 "For students who are unable to pay the fees and are financially weak, some scholarships are offered.",
                 "The different scholarship programs are Confucious scholarship, and Chinese government scholarship, etc."
@@ -743,6 +767,10 @@ export const wuhanuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Wuhan University - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -794,6 +822,10 @@ export const wuhanuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Wuhan University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wuhan University - News & Articles" },
@@ -813,9 +845,13 @@ export const wuhanuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Wuhan University - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Wuhan University:</b>",
+            "info": "Following are the hostel facilities at Wuhan University:",
             "data": [
                 "Wuhan Medical University consists of 3 different campuses Fengyuan Campus (Campus of Humanities and Science), Campus of Information Sciences, Medical Campus (Campus of Medicine).",
                 "The accommodation fee range varies according to the rooms.",
@@ -847,9 +883,13 @@ export const wuhanuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Wuhan University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Wuhan University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How is the campus of Wuhan University?",

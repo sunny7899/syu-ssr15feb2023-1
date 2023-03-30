@@ -23,7 +23,7 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         {
             "type": "table-title",
             "title": "London School of Economics & Political Science: Quick Overview",
-            "info": "<b>Following are the quick highlights of studying MBA in London School of Economics & Political Science:</b>",
+            "info": "Following are the quick highlights of studying MBA in London School of Economics & Political Science:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         {
             "type": "list-bollet",
             "title": "Why Pursue an MBA at London School of Economics & Political Science?",
-            "info": "<b>London School of Economics and Political Science offers the following benefits:</b>",
+            "info": "London School of Economics and Political Science offers the following benefits:",
             "data": [
                 "100% Placements and Assistance.",
                 "Ranked #5 among top business schools in the world.",
@@ -53,7 +53,7 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         {
             "type": "table",
             "title": "London School of Economics & Political Science: Ranking (2021-22)",
-            "info": "<b>Below is the ranking of the London School of Economics and Political Science as per the uniRank standard ranking system:</b>",
+            "info": "Below is the ranking of the London School of Economics and Political Science as per the uniRank standard ranking system:",
             "col": [
                 "Country Rank",
                 "World Rank",
@@ -85,9 +85,14 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "London School of Economics & Political Science - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "London School of Economics & Political Science: Fee Structure (2021-22)",
-            "info": "<b>Following is the fee structure of MBA course at London School of Economics and Political Science:</b>",
+            "info": "Following is the fee structure of MBA course at London School of Economics and Political Science:",
             "col": [
                 "Particulars",
                 "Fees in Rupees",
@@ -116,7 +121,7 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         {
             "type": "list-bollet",
             "title": "Course Offered at London School of Economics and Political Science",
-            "info": "<b>Course Offered at London School of Economics and Political Science</b>",
+            "info": "Course Offered at London School of Economics and Political Science",
             "data": [
                 "Marketing",
                 "Entrepreneurship",
@@ -129,7 +134,7 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         {
             "type": "list-bollet",
             "title": "Duration of MBA Course in London School of Economics & Political Science",
-            "info": "<b>An MBA in the London School of Economics & Political Science lasts for a period of 1 year:</b>",
+            "info": "An MBA in the London School of Economics & Political Science lasts for a period of 1 year:",
             "data": [
                 "London School of Economics and Political Science offers a full-time business management program that comprises 1 year leading to the degree of Master of Business Administration.",
                 "One of the notable features of the London School of Economics and Political Science MBA program is that it provides the opportunity to learn business exposure by contributing to broad-based education."
@@ -139,7 +144,7 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         {
             "type": "list-bollet",
             "title": "London School of Economics & Political Science: MBA Specializations",
-            "info": "<b>Below are the specializations offered at London School of Economics and Political Science:</b>",
+            "info": "Below are the specializations offered at London School of Economics and Political Science:",
             "data": [
                 "Finance",
                 "Economics",
@@ -171,9 +176,14 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "London School of Economics & Political Science - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Applicants from any background are welcomed for applying for an MBA course at the London School of Economics and Political Science:</b>",
+            "info": "Applicants from any background are welcomed for applying for an MBA course at the London School of Economics and Political Science:",
             "data": [
                 "Applicant should have a bachelor’s degree in the relevant field.",
                 "The work experience of 3 months or more than it is eligible to apply.",
@@ -184,7 +194,7 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Admission to MBA in London School of Economics and Political Science will be considered on its academic merit basis:</b>",
+            "info": "Admission to MBA in London School of Economics and Political Science will be considered on its academic merit basis:",
             "data": [
                 "<b>Step 1:</b> The applicant should register on UCAS. Through UCAS, the university will receive the applications.",
                 "<b>Step 2:</b> Application submission direct to the university will not be accepted.",
@@ -196,7 +206,7 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following are important document required to take admission in London School of Economics and Political Science to study MBBS course:</b>",
+            "info": "Following are important document required to take admission in London School of Economics and Political Science to study MBBS course:",
             "data": [
                 "Copy of Mark sheets & transcripts (10th, 12th & bachelor)",
                 "Copy of Passport",
@@ -230,6 +240,11 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "London School of Economics & Political Science - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "London School of Economics & Political Science - Reviews" },
@@ -249,9 +264,14 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "London School of Economics & Political Science - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Career Opportunity after MBA in London School of Economics & Political Science",
-            "info": "<b>Career & Placement cell at London School of Economics and Political Science offer lucrative opportunities for the management professionals:</b>",
+            "info": "Career & Placement cell at London School of Economics and Political Science offer lucrative opportunities for the management professionals:",
             "data": [
                 "The university has been ranked #5 in the world for the renowned reputation in providing excellent employment across the world.",
                 "Placement and training cells at the university will provide practical learning on the ongoing projects striving the team's efforts to develop communication and presentation skills of the students.",
@@ -264,7 +284,7 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Following are the top recruiters at this university:</b>",
+            "info": "Following are the top recruiters at this university:",
             "col": [
             ],
             "row": [
@@ -293,6 +313,11 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "London School of Economics & Political Science - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "London School of Economics & Political Science - Gallery" },
@@ -312,9 +337,14 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "London School of Economics & Political Science - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships Offered at London School of Economics & Political Science",
-            "info": "<b>London School of Economics and Political Science offers scholarships around £11.5 million to overseas students:</b>",
+            "info": "London School of Economics and Political Science offers scholarships around £11.5 million to overseas students:",
             "data": [
                 "It is the need-based scholarships provided to students on the basis of the Graduate support scheme, masters awards and the anniversary scholarships.",
                 "The funding deadline for the need-based students is <b>April 27, 2020.</b> Moreover, the university also offers scholarships through external funding or by the government scheme."
@@ -340,6 +370,11 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "London School of Economics & Political Science - Faculty"
+
+        },
         {
             "type": "table",
             "title": "Faculty ",
@@ -389,6 +424,11 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "London School of Economics & Political Science - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "London School of Economics & Political Science - News & Articles" },
@@ -408,9 +448,14 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "London School of Economics & Political Science - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation Facility: London School of Economics & Political Science",
-            "info": "<b>Each year, the accommodation is allotted to more than 4000 students by the university:</b>",
+            "info": "Each year, the accommodation is allotted to more than 4000 students by the university:",
             "data": [
                 "For applying for accommodation at the university, you need to have an offer letter from the institute for the respective course.",
                 "Book your accommodation online.",
@@ -442,9 +487,14 @@ export const londonschoolofeconomicsandpoliticalsciencelondon = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "London School of Economics & Political Science - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "London School of Economics & Political Science: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is MBA degree from London School of Economics and Political Science valid in India?",

@@ -56,7 +56,7 @@ export const lyceumnorthwesternuniversity = {
         },
         {
             "type": "table",
-            "title": "Lyceum Northwestern University - Ranking 2023",
+            "title": "Lyceum Northwestern University - Ranking 2022",
             "info": "As per UniRank (4icu), following is the country and world ranking for Lyceum Northwestern University:",
             "col": [
                 "Country",
@@ -171,8 +171,13 @@ export const lyceumnorthwesternuniversity = {
     "coursesandfees": [
 
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - courses & Fees'
+        },
+
+        {
             "type": "table",
-            "title": "Lyceum Northwestern University - MBBS Fee Structure 2023",
+            "title": "Lyceum Northwestern University - MBBS Fee Structure 2022",
             "info": "The reasonable cost for medicine course at Lyceum-Northwestern University will never make you sense distressed with an educational budget:",
             "col": [
                 "Academic year",
@@ -211,17 +216,7 @@ export const lyceumnorthwesternuniversity = {
                     "Fee amount in INR": "<b>19,50,000</b>"
                 },
             ],
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Note:",
-            "data": [
-                "Tuition fee and accommodation should be paid in Philippines Peso",
-                "Hostel fee should be paid year wise",
-                "PHP to INR conversion rate - 1.50 (Approx)"
-            ],
-            // "images": ""
+            "heading": "<p><b>Note: </b><br>Tuition fee and accommodation should be paid in Philippines Peso<br>Hostel fee should be paid year wise<br>PHP to INR conversion rate - 1.50 (Approx)</p>"
         },
         {
             "type": "list-bollet",
@@ -267,76 +262,76 @@ export const lyceumnorthwesternuniversity = {
             ],
             "row": [
                 {
-                    "First Year": "Anatomy",
-                    "Second Year": "Pharmacology",
-                    "Third Year": "Pediatrics-2",
-                    "Fourth Year": "Surgery"
+                    "First Year": "-Anatomy",
+                    "Second Year": "-Pharmacology",
+                    "Third Year": "-Pediatrics-2",
+                    "Fourth Year": "-Surgery"
                 },
                 {
-                    "First Year": "Histology",
-                    "Second Year": "General And Clinical Pathology",
-                    "Third Year": "Surgery-2",
-                    "Fourth Year": "Medicine"
+                    "First Year": "-Histology",
+                    "Second Year": "-General And -Clinical Pathology",
+                    "Third Year": "-Surgery-2",
+                    "Fourth Year": "-Medicine"
                 },
                 {
-                    "First Year": "Biochemistry",
-                    "Second Year": "Parasitology",
-                    "Third Year": "Medicine-2",
-                    "Fourth Year": "Psychiatry"
+                    "First Year": "-Biochemistry",
+                    "Second Year": "-Parasitology",
+                    "Third Year": "-Medicine-2",
+                    "Fourth Year": "-Psychiatry"
                 },
                 {
-                    "First Year": "Psychiatry",
-                    "Second Year": "Medicine-1",
-                    "Third Year": "Internal Medicine",
-                    "Fourth Year": "Ophthalmology"
+                    "First Year": "-Psychiatry",
+                    "Second Year": "-Medicine-1",
+                    "Third Year": "-Internal Medicine",
+                    "Fourth Year": "-Ophthalmology"
                 },
                 {
-                    "First Year": "Physiology",
-                    "Second Year": "Epidemiology",
-                    "Third Year": "Legal Medicine",
-                    "Fourth Year": "Neurology"
+                    "First Year": "-Physiology",
+                    "Second Year": "-Epidemiology",
+                    "Third Year": "-Legal Medicine",
+                    "Fourth Year": "-Neurology"
                 },
                 {
-                    "First Year": "Neuroscience",
-                    "Second Year": "Microbiology",
-                    "Third Year": "Dermatology",
-                    "Fourth Year": "Paediatrics"
+                    "First Year": "-Neuroscience",
+                    "Second Year": "-Microbiology",
+                    "Third Year": "-Dermatology",
+                    "Fourth Year": "-Paediatrics"
                 },
                 {
-                    "First Year": "History Of Medicine",
-                    "Second Year": "Pharmacology",
-                    "Third Year": "Radiology",
-                    "Fourth Year": "Obstetrics and Gynecology"
+                    "First Year": "-History Of Medicine",
+                    "Second Year": "-Pharmacology",
+                    "Third Year": "-Radiology",
+                    "Fourth Year": "-Obstetrics and Gynecology"
                 },
                 {
-                    "First Year": "Preventive And Communicative",
-                    "Second Year": "Pediatrics-1",
-                    "Third Year": "Neuroscience-3",
-                    "Fourth Year": "-"
+                    "First Year": "-Preventive And Communicative",
+                    "Second Year": "-Pediatrics-1",
+                    "Third Year": "-Neuroscience-3",
+                    "Fourth Year": ""
                 },
                 {
-                    "First Year": "Bioethics",
-                    "Second Year": "Surgery",
-                    "Third Year": "Cardiology",
-                    "Fourth Year": "-"
+                    "First Year": "-Bioethics",
+                    "Second Year": "-Surgery",
+                    "Third Year": "-Cardiology",
+                    "Fourth Year": ""
                 },
                 {
                     "First Year": "-",
-                    "Second Year": "Neuroscience 2",
+                    "Second Year": "-Neuroscience 2",
                     "Third Year": "Advanced Pathology",
-                    "Fourth Year": "-"
+                    "Fourth Year": ""
+                }, ,
+                {
+                    "First Year": "",
+                    "Second Year": "-Psychiatry",
+                    "Third Year": "-Ophthalmology",
+                    "Fourth Year": ""
                 },
                 {
-                    "First Year": "-",
-                    "Second Year": "Psychiatry",
-                    "Third Year": "Ophthalmology",
-                    "Fourth Year": "-"
-                },
-                {
-                    "First Year": "-",
-                    "Second Year": "-",
-                    "Third Year": "Obstetrics And Gynecology",
-                    "Fourth Year": "-"
+                    "First Year": "",
+                    "Second Year": "-Psychiatry",
+                    "Third Year": "-Obstetrics And Gynecology",
+                    "Fourth Year": ""
                 },
             ]
         },
@@ -361,6 +356,10 @@ export const lyceumnorthwesternuniversity = {
         }
     ],
     "admission": [
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Admission 2023 '
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -400,7 +399,7 @@ export const lyceumnorthwesternuniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2023",
+            "title": "Important Dates - Intake 2022",
             "info": "Every candidate must consider important admission dates that will assist them for admission at the Lyceum-Northwestern University:",
             "col": [
                 "Events",
@@ -441,6 +440,10 @@ export const lyceumnorthwesternuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lyceum Northwestern University, Philippines - Reviews" },
@@ -459,6 +462,10 @@ export const lyceumnorthwesternuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placements",
@@ -488,6 +495,10 @@ export const lyceumnorthwesternuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lyceum Northwestern University, Philippines - Gallery" },
@@ -506,6 +517,10 @@ export const lyceumnorthwesternuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Scholarship'
+        },
         {
             "type": "number-list",
             "title": "scholarship",
@@ -544,6 +559,10 @@ export const lyceumnorthwesternuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lyceum Northwestern University, Philippines - Faculty" },
@@ -557,11 +576,15 @@ export const lyceumnorthwesternuniversity = {
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/lyceum-northwestern-university/faculty" }
+                { rel: "canonical", href: "" }
             ]
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -581,6 +604,10 @@ export const lyceumnorthwesternuniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Hostel'
+        },
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
@@ -614,6 +641,10 @@ export const lyceumnorthwesternuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - FAQ'
+        },
         {
             "type": "question-list",
             "title": "Lyceum Northwestern University - Important FAQs",

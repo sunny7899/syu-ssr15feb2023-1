@@ -19,22 +19,22 @@ export const novosibirskstateuniversity = {
         {
             "type": "table",
             "title": "Novosibirsk National Research State University: Quick highlights",
-            "info": "<b>Given below is the table for quick highlights about Novosibirsk National Research State University:</b>",
-            "col": [ ],
+            "info": "Given below is the table for quick highlights about Novosibirsk National Research State University:",
+            "col": [],
             "row": [
-                ["<b>Intake for MBBS Course</b>","September"],
-                ["<b>NEET Exam</b>","Required"],
-                ["<b>Annual Tuition Fees (approx)</b>","5000 USD"],
-                ["<b>Duration of MBBS Course</b>","6 years"],
-                ["<b>Medium of Teaching</b>","English"],
-                ["<b>Ranking</b>","Country Rank - 8<br>World Rank - 765"],
-                ["<b>University Recognition</b>","NMC & WHO approved"],
+                ["<b>Intake for MBBS Course</b>", "September"],
+                ["<b>NEET Exam</b>", "Required"],
+                ["<b>Annual Tuition Fees (approx)</b>", "5000 USD"],
+                ["<b>Duration of MBBS Course</b>", "6 years"],
+                ["<b>Medium of Teaching</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 8<br>World Rank - 765"],
+                ["<b>University Recognition</b>", "NMC & WHO approved"],
             ]
         },
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Novosibirsk National Research State University?",
-            "info": "<b>Following are the advantages of studying MBBS at Novosibirsk National Research State University:</b>",
+            "info": "Following are the advantages of studying MBBS at Novosibirsk National Research State University:",
             "data": [
                 "The university is NMC approved and the degree from this university is accepted across the globe.",
                 "Novosibirsk National Research State University offers a low fee structure which is affordable for doing MBBS in Russia medical university.",
@@ -49,7 +49,7 @@ export const novosibirskstateuniversity = {
         {
             "type": "table",
             "title": "Novosibirsk National Research State University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Novosibirsk National Research State University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Novosibirsk National Research State University:",
             "col": [
                 "Country",
                 "World"
@@ -64,7 +64,7 @@ export const novosibirskstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Following are the accreditation and recognition of Novosibirsk National Research State University:</b>",
+            "info": "Following are the accreditation and recognition of Novosibirsk National Research State University:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)"
@@ -73,7 +73,7 @@ export const novosibirskstateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Novosibirsk",
-            "info": "<b>The table below shows the average and approx cost of living in Russia for a month but it may vary according to Individual's living:</b>",
+            "info": "The table below shows the average and approx cost of living in Russia for a month but it may vary according to Individual's living:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -106,7 +106,7 @@ export const novosibirskstateuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Here are the major attractions of the Novosibirsk city -</b>",
+            "info": "Here are the major attractions of the Novosibirsk city -",
             "data": [
                 "Byzantine-style Alexander Nevsky Cathedral",
                 "Ballet Theatre borders Lenin Square",
@@ -137,9 +137,14 @@ export const novosibirskstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Novosibirsk National Research State University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Novosibirsk National Research State University - Fee Structure 2022",
-            "info": "<b>Novosibirsk National Research State University fee structure is much affordable to all students coming from across the world:</b>",
+            "info": "Novosibirsk National Research State University fee structure is much affordable to all students coming from across the world:",
             "col": [
                 "Particular",
                 "Annual Fees"
@@ -167,13 +172,13 @@ export const novosibirskstateuniversity = {
         {
             "type": "text",
             "title": "Novosibirsk National Research State University - MBBS Duration",
-            "info": "",
-            "data": "<p><b>MBBS course duration is of 6 years:</b></p><p>Novosibirsk National Research State University is providing all International and local students of Russia with 6 years. The duration of a Medical degree in Russia is 6 years which includes 5 years of MBBS course and 1 year of internship.</p>"
+            "info": "MBBS course duration is of 6 years:",
+            "data": "<p>Novosibirsk National Research State University is providing all International and local students of Russia with 6 years. The duration of a Medical degree in Russia is 6 years which includes 5 years of MBBS course and 1 year of internship.</p>"
         },
         {
             "type": "table",
             "title": "Novosibirsk National Research State University - MBBS Syllabus",
-            "info": "<b>The syllabus for MBBS in Russia is shown in the table below:</b>",
+            "info": "The syllabus for MBBS in Russia is shown in the table below:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -265,7 +270,7 @@ export const novosibirskstateuniversity = {
         {
             "type": "table",
             "title": "Novosibirsk National Research State University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Novosibirsk National Research State University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Novosibirsk National Research State University:",
             "col": [
                 "Events",
                 "Dates",
@@ -305,9 +310,14 @@ export const novosibirskstateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Novosibirsk National Research State University, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS:",
             "data": [
                 "Applicant should apply after completing 12th with Biology.",
                 "TGeneral Category requires a minimum aggregate of 50% in PCB.",
@@ -318,7 +328,7 @@ export const novosibirskstateuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following are the steps to take MBBS admission at Novosibirsk National Research State University:</b>',
+            info: 'Following are the steps to take MBBS admission at Novosibirsk National Research State University:',
             data: [
                 "Step 1: Fill up the online admission forms.",
                 "Step 2: Applicants must submit all-important academic documents.",
@@ -330,7 +340,7 @@ export const novosibirskstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students need to have the following documents for the admission process:</b>",
+            "info": "Students need to have the following documents for the admission process:",
             "data": [
                 "Application for admission",
                 "Academic documents of 11th and 12th",
@@ -364,9 +374,14 @@ export const novosibirskstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Novosibirsk National Research State University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Food",
-            "info": "<b>Novosibirsk National Research State University provides best Hostel facilities in university campus:</b>",
+            "info": "Novosibirsk National Research State University provides best Hostel facilities in university campus:",
             "data": [
                 "Complete power back-up",
                 "Free bus service between hostel and campus",
@@ -412,9 +427,14 @@ export const novosibirskstateuniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Novosibirsk National Research State University, Russia - FAQ"
+
+            },
+            {
                 "type": "question-list",
                 "title": "Novosibirsk National Research State University: Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. Is it a good idea to learn MBBS in Novosibirsk National Research State University?",
@@ -458,6 +478,11 @@ export const novosibirskstateuniversity = {
         ],
     "placement": [
         {
+            type: 'title',
+            title: "Novosibirsk National Research State University, Russia - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "placement",
             "info": "",
@@ -487,9 +512,14 @@ export const novosibirskstateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Novosibirsk National Research State University, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships provided at Novosibirsk National Research State University are as follows:</b>",
+            "info": "The scholarships provided at Novosibirsk National Research State University are as follows:",
             "data": [
                 "Russian Government Scholarship",
                 "Hani Zeini Scholarship",
@@ -518,20 +548,25 @@ export const novosibirskstateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Novosibirsk National Research State University, Russia - Faculty"
+
+        },
+        {
             "type": "table",
             "title": "faculty",
             "info": "",
             "col": [
-              "Name",
-              "Designation",
-              "Department"
+                "Name",
+                "Designation",
+                "Department"
             ],
             "row": [
-              {
-                "Name": "Elshanskaya Irina",
-                "Designation": "Professor",
-                "Department": "Human Resource"
-              },
+                {
+                    "Name": "Elshanskaya Irina",
+                    "Designation": "Professor",
+                    "Department": "Human Resource"
+                },
             ]
         },
         {
@@ -554,6 +589,11 @@ export const novosibirskstateuniversity = {
     ],
     "Review": [
         {
+            type: 'title',
+            title: "Novosibirsk National Research State University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Novosibirsk National Research State University, Russia - Reviews" },
@@ -573,6 +613,11 @@ export const novosibirskstateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Novosibirsk National Research State University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Novosibirsk National Research State University, Russia - Gallery" },
@@ -591,6 +636,11 @@ export const novosibirskstateuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Novosibirsk National Research State University, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [

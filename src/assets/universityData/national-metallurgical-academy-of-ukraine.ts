@@ -48,9 +48,9 @@ export const nationalmetallurgicalacademyofukraine = {
                 "The institute pays significant attention to bring the study programmes, educational technologies, research and scientific activities following the European principles and standards of education."
             ]
         },
-        
-        
-        
+
+
+
         {
             "type": "table",
             "title": "National Metallurgical Academy of Ukraine: Ranking 2023",
@@ -132,7 +132,7 @@ export const nationalmetallurgicalacademyofukraine = {
             ]
         },
 
-        
+
         {
             "type": "table",
             "title": "Living Cost",
@@ -160,26 +160,33 @@ export const nationalmetallurgicalacademyofukraine = {
                 }
             ]
         },
-        
-        { 
-            type:"meta",
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "National Metallurgical Academy of Ukraine, Ukraine" },
                 { name: "description", content: "Study Engineering in Ukraine at National Metallurgical Academy of Ukraine. Founded in 1899 the academy provides Englineering courses at approx $1700 per year." },
             ],
         },
         {
-            type:"meta-title",
-            title: "National Metallurgical Academy of Ukraine, Ukraine"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "National Metallurgical Academy of Ukraine, Ukraine"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/national-metallurgical-academy-of-ukraine" }
-        ]}
+            ]
+        }
 
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine- courses & Fees"
+
+        },
         {
             "type": "table",
             "title": "National Metallurgical Academy of Ukraine: Fee Structure",
@@ -205,12 +212,8 @@ export const nationalmetallurgicalacademyofukraine = {
                     "Particular": "Total Fees in Rs.",
                     "Amount per Annum": "1,61,000 Rs."
                 }
-            ]
-        },
-        {
-            "type": "text",
-            "title": "",
-            "data": '<p><strong style="color: red;">Note: </strong>$1 = Rs. 70 Rs (approx)</p>'
+            ],
+            "heading": "<p><strong>Note: </strong>$1 = Rs. 70 Rs (approx)</p>"
         },
         {
             "type": "list-bollet",
@@ -304,6 +307,11 @@ export const nationalmetallurgicalacademyofukraine = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "Students will be eligible for Metallurgical Engineering admission after fitting into the eligibility criteria:",
@@ -367,8 +375,13 @@ export const nationalmetallurgicalacademyofukraine = {
         }
 
     ],
-    "review":[
-          
+    "review": [
+        {
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine - Reviews"
+
+        },
+
         {
             type: "meta",
             meta: [
@@ -387,28 +400,37 @@ export const nationalmetallurgicalacademyofukraine = {
             ]
         }
     ],
-      "placement":[
-        
-    {
-      type:"meta",
-      meta: [
-          { name: "title", content: "National Metallurgical Academy of Ukraine, Ukraine - Placement" },
-          { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
-      ],
-  },
-  {
-      type:"meta-title",
-      title: "National Metallurgical Academy of Ukraine, Ukraine - Placement"},
-  {
-      type:"meta-links",
-      link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/national-metallurgical-academy-of-ukraine/placement" }
-  ]}
-      ],
-      "gallery":[
-       
-  
-  
+    "placement": [
+        {
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine - Placement"
+
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "National Metallurgical Academy of Ukraine, Ukraine - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "National Metallurgical Academy of Ukraine, Ukraine - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/national-metallurgical-academy-of-ukraine/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -427,28 +449,40 @@ export const nationalmetallurgicalacademyofukraine = {
             ]
         }
     ],
-      "scholarship": [
-        
+    "scholarship": [
         {
-          type:"meta",
-          meta: [
-              { name: "title", content: "National Metallurgical Academy of Ukraine, Ukraine - Scholarship" },
-              { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
-          ],
-      },
-      {
-          type:"meta-title",
-          title: "National Metallurgical Academy of Ukraine, Ukraine - Scholarship"},
-      {
-          type:"meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/national-metallurgical-academy-of-ukraine/scholarship" }
-      ]}
-      ],
-      "faculty": [
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine - Scholarship"
+
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "National Metallurgical Academy of Ukraine, Ukraine - Scholarship" },
+                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "National Metallurgical Academy of Ukraine, Ukraine - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/national-metallurgical-academy-of-ukraine/scholarship" }
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine - Faculty"
+
+        },
         {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -492,9 +526,14 @@ export const nationalmetallurgicalacademyofukraine = {
         }
     ],
 
-    "news":[
-         
-    
+    "news": [
+        {
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine - News & Articles"
+
+        },
+
+
         {
             type: "meta",
             meta: [
@@ -516,6 +555,11 @@ export const nationalmetallurgicalacademyofukraine = {
 
 
     "hostel": [
+        {
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine - Hostel"
+
+        },
 
         {
             "type": "list-bollet",
@@ -542,7 +586,7 @@ export const nationalmetallurgicalacademyofukraine = {
                 "Fan"
             ]
         },
-        
+
         {
             "type": "list-bollet",
             "title": "",
@@ -574,8 +618,13 @@ export const nationalmetallurgicalacademyofukraine = {
             ]
         }
     ],
-   
+
     "faq": [
+        {
+            type: 'title',
+            title: "National Metallurgical Academy of Ukraine, Ukraine - FAQ"
+
+        },
         {
             "type": "faq-list",
             "title": "National Metallurgical Academy of Ukraine: Important FAQs",
@@ -627,5 +676,5 @@ export const nationalmetallurgicalacademyofukraine = {
 
 
     ],
-    
+
 }

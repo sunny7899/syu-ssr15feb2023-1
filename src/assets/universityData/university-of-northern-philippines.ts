@@ -24,7 +24,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "table",
             "title": "University of Northern Philippines - Quick Highlights",
-            "info": "<b>Given below is the table for quick facts about University of Northern Philippines:</b>",
+            "info": "Given below is the table for quick facts about University of Northern Philippines:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS course</b>", "July"],
@@ -42,7 +42,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at University of Northern Philippines?",
-            "info": "<b>Below are some of the benefits of studying at University of Northern Philippines:</b>",
+            "info": "Below are some of the benefits of studying at University of Northern Philippines:",
             "data": [
                 "The university helps students attain excellence and leadership among Instruction in Medicine and Allied Health Professions responsive to the needs of the dynamic health system.",
                 "For the improvement of the general health and conditions, the university helps to enhance scientific, clerical and community based health researchers along identified local and global concerns.",
@@ -65,7 +65,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "table",
             "title": "University of Northern Philippines - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for University of Northern Philippines:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for University of Northern Philippines:",
             "col": [
                 "Country",
                 "World"
@@ -86,7 +86,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "table",
             "title": "University of Northern Philippines - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for University of Northern Philippines of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for University of Northern Philippines of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -105,7 +105,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>University of Northern Philippines is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "University of Northern Philippines is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "World Health Organization",
                 "National Medical Commission",
@@ -123,7 +123,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "list-bollet",
             "title": "Life of Student's",
-            "info": "<b>The life of students studying MBBS at University of Northern Philippines is as follows:</b>",
+            "info": "The life of students studying MBBS at University of Northern Philippines is as follows:",
             "data": [
                 "At the University of Northern Philippines, course price is extremely low as compared to all other international locations.",
                 "Students can immediately get admission for MBBS in the Philippines after 12th completion.",
@@ -143,7 +143,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "table",
             "title": "Cost of Living at Vigan City",
-            "info": "<b>The cost of living at Vigan city is as follows:</b>",
+            "info": "The cost of living at Vigan city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -170,12 +170,12 @@ export const universityofnorthernphilippines = {
                     "Cost": "costs between Rs.13,000 - Rs.25,000"
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>1$ = 70 Rs.</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>1$ = 70 Rs.</p>'
         },
         {
             "type": "list-bollet",
             "title": "About Vigan City",
-            "info": "<b>Some of the interesting facts about the Vigan city are as follows:</b>",
+            "info": "Some of the interesting facts about the Vigan city are as follows:",
             "data": [
                 "Vigan city, established in the 16th century, is the most intact example in Asia of a planned Spanish colonial town. Thus, it is listed as UNESCO’s world heritage site.",
                 "The architecture of the city reflects the coming together of cultural elements from elsewhere in the Philippines and from China with those of Europe and Mexico to create a unique culture and townscape without parallels anywhere in East and South-East Asia.",
@@ -209,9 +209,13 @@ export const universityofnorthernphilippines = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Northern Philippines - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Northern Philippines: MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for University of Northern Philippines for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for University of Northern Philippines for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -268,12 +272,12 @@ export const universityofnorthernphilippines = {
                     "Year  6": "Rs. 2.94 Lakhs"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1$ = Rs.70<br>One time expenses (Registration charges), food charges, etc. can be extra up to Rs.70,000/- (or more approximately).<br>The above mentioned fees are approximate, and may vary as per the change in currency.</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1$ = Rs.70<br>One time expenses (Registration charges), food charges, etc. can be extra up to Rs.70,000/- (or more approximately).<br>The above mentioned fees are approximate, and may vary as per the change in currency.</p>'
         },
         {
             type: 'list-bollet',
             title: "University of Northern Philippines - MBBS Duration",
-            info: "<b>Mentioned below is the duration of MBBS course:</b>",
+            info: "Mentioned below is the duration of MBBS course:",
             data: [
                 "The duration of the MBBS course at University of Northern Philippines is 6 years which includes 1 year of internship.",
                 "The MBBS course in the Philippines is divided into BS, MD and internship. BS can take 1.5 to 2 years. MD is nothing but MBBS. Students can start with MD which takes 4 years after completing BS."
@@ -282,7 +286,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "table",
             "title": "University of Northern Philippines - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at University of Northern Philippines is as follows:</b><br>Syllabus For Pre-Medical",
+            "info": "The complete syllabus for studying MBBS at University of Northern Philippines is as follows:<br>Syllabus For Pre-Medical",
             "col": [
                 "First Term",
                 "Second Term",
@@ -343,7 +347,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>MBBS (MD) Syllabus</b>",
+            "info": "MBBS (MD) Syllabus",
             "col": [
                 "First Year",
                 "Second Year",
@@ -446,9 +450,13 @@ export const universityofnorthernphilippines = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Northern Philippines - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at University of Northern Philippines is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at University of Northern Philippines is as follows:",
             "data": [
                 "An MBBS aspirant must have obtained a minimum aggregate of 50% marks in Physics, Chemistry, and Biology.",
                 "The student must have passed all subjects in his/her 12th standard and English is a compulsory subject.",
@@ -459,7 +467,7 @@ export const universityofnorthernphilippines = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The admission process can be selected according to student’s convenience:</b><br>A) Paper-based Application<br>B) Online Application<br>Following is the admission process for applying to MBBS course at University of Northern Philippines:',
+            info: 'The admission process can be selected according to student’s convenience:<br>A) Paper-based Application<br>B) Online Application<br>Following is the admission process for applying to MBBS course at University of Northern Philippines:',
             data: [
                 "Step 1: Fill out the form accurately.",
                 "Step 2: Upload all requirements given below"
@@ -505,7 +513,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required at the time of admission to University of Northern Philippines:</b>",
+            "info": "Following documents are required at the time of admission to University of Northern Philippines:",
             "data": [
                 "10th Marksheet & Certificate",
                 "12th Marksheet & Certificate",
@@ -524,7 +532,7 @@ export const universityofnorthernphilippines = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at University of Northern Philippines:</b>",
+            "info": "Check out the Important dates regarding admission at University of Northern Philippines:",
             "col": [
                 "Events",
                 "Dates",
@@ -564,6 +572,10 @@ export const universityofnorthernphilippines = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Northern Philippines - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Northern Philippines - Reviews" },
@@ -582,6 +594,10 @@ export const universityofnorthernphilippines = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Northern Philippines - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -602,6 +618,10 @@ export const universityofnorthernphilippines = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Northern Philippines - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Northern Philippines - Gallery" },
@@ -621,9 +641,13 @@ export const universityofnorthernphilippines = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Northern Philippines - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>University of Northern Philippines offers several scholarships to students which are given based on the below mentioned criterias:</b>",
+            "info": "University of Northern Philippines offers several scholarships to students which are given based on the below mentioned criterias:",
             "data": [
                 "Students with exceptionally high average grade scores, or with other notable accomplishments in art, science, or sports may receive additional points.",
                 "Students with disabilities can get scholarships.",
@@ -650,6 +674,10 @@ export const universityofnorthernphilippines = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Northern Philippines - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Northern Philippines - Faculty" },
@@ -668,6 +696,10 @@ export const universityofnorthernphilippines = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'University of Northern Philippines - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -688,9 +720,13 @@ export const universityofnorthernphilippines = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Northern Philippines - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at University of Northern Philippines:</b>",
+            "info": "Following are the hostel facilities at University of Northern Philippines:",
             "data": [
                 "The University of Northern Philippines provides its students with sufficiently comfortable housing facilities for both male and female student residents.",
                 "These dormitories of the university are provided with bathrooms, kitchen and laundry areas, athletic oval and gymnasium for sports and recreational activities, computer center for speedy internet service, laboratory facilities with a wide variety of simulations, audio-visual materials and models for research and experimentation, and much more.",
@@ -715,51 +751,54 @@ export const universityofnorthernphilippines = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "University of Northern Philippines - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. How many campuses does the University of Northern Philippines have?",
-                        "ans": "The University of Northern Philippines is spread over with 4 campuses in the province of Ilocos Sur with the main campus located in Vigan City and others such as Sinait, Quimmarayan, Santa Maria."
-                    },
-                    {
-                        "ques": "Q. What are the facilities provided at the University of northern Philippines college of medicine?",
-                        "ans": "The University of Northern Philippines college of medicine provides facilities such as a huge library, classrooms, seminar halls, computers, laboratory, auditorium cum museum, hostel, sports, transport and so on. Near the administration building, ATM facilities are also available."
-                    },
-                    {
-                        "ques": "Q. Is Indian food available at the University of Northern Philippines?",
-                        "ans": "Yes, the University of Northern Philippines hostel provides vegetarian & non-vegetarian Indian foods of the student’s choice. Also, Indian restaurants/cafes are available within the walking distance from the medical university."
-                    },
-                    {
-                        "ques": "Q. What sports facilities are available at the University of Northern Philippines?",
-                        "ans": "The sports facilities available in the University of Northern Philippines campus are basketball, tennis, volleyball, football, gymnasium. The playground facilities are also available in the premises."
-                    },
-                    {
-                        "ques": "Q. How the affiliated hospitals of the university work?",
-                        "ans": "University of Northern Philippines hospital provides surgical & diagnostic services and medical services to the inpatients & outpatients with an integrated team of physicians and health care professionals."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "University of Northern Philippines - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "University of Northern Philippines - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-northern-philippines/faq" }
-                ]
-            }
-        ]
+    "faq": [
+        {
+            type: 'title',
+            title: 'University of Northern Philippines - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "University of Northern Philippines - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. How many campuses does the University of Northern Philippines have?",
+                    "ans": "The University of Northern Philippines is spread over with 4 campuses in the province of Ilocos Sur with the main campus located in Vigan City and others such as Sinait, Quimmarayan, Santa Maria."
+                },
+                {
+                    "ques": "Q. What are the facilities provided at the University of northern Philippines college of medicine?",
+                    "ans": "The University of Northern Philippines college of medicine provides facilities such as a huge library, classrooms, seminar halls, computers, laboratory, auditorium cum museum, hostel, sports, transport and so on. Near the administration building, ATM facilities are also available."
+                },
+                {
+                    "ques": "Q. Is Indian food available at the University of Northern Philippines?",
+                    "ans": "Yes, the University of Northern Philippines hostel provides vegetarian & non-vegetarian Indian foods of the student’s choice. Also, Indian restaurants/cafes are available within the walking distance from the medical university."
+                },
+                {
+                    "ques": "Q. What sports facilities are available at the University of Northern Philippines?",
+                    "ans": "The sports facilities available in the University of Northern Philippines campus are basketball, tennis, volleyball, football, gymnasium. The playground facilities are also available in the premises."
+                },
+                {
+                    "ques": "Q. How the affiliated hospitals of the university work?",
+                    "ans": "University of Northern Philippines hospital provides surgical & diagnostic services and medical services to the inpatients & outpatients with an integrated team of physicians and health care professionals."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Northern Philippines - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Northern Philippines - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-northern-philippines/faq" }
+            ]
+        }
+    ]
 }

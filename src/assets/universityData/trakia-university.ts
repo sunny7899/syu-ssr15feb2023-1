@@ -19,7 +19,7 @@ export const trakiauniversity = {
         {
             "type": "table-title",
             "title": "Trakia University: Quick Highlights 2022",
-            "info": "<b>Let's have a look at important points of Trakia University:</b>",
+            "info": "Let's have a look at important points of Trakia University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "December"],
@@ -35,7 +35,7 @@ export const trakiauniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Trakia University?",
-            "info": "<b>Here are some favourable reasons to choose Trakia University for MBBS education:</b>",
+            "info": "Here are some favourable reasons to choose Trakia University for MBBS education:",
             "data": [
                 "Trakia University offers a high standard of education to the medical aspirants coming to pursue medical courses.",
                 "The institute provides payable MBBS fees to the students.",
@@ -54,13 +54,13 @@ export const trakiauniversity = {
         {
             "type": "text",
             "title": "Trakia University: Medium of Teaching",
-            "info": "<strong>The medium of teaching is English and Bulgarian language at Trakia University:</strong>",
+            "info": "The medium of teaching is English and Bulgarian language at Trakia University:",
             "data": "<p><strong>The medium of teaching is English and Bulgarian language at Trakia University:</strong></p><p>All the candidates are provided with the opportunity to study the medicine program offered by Trakia University in the English language.  </p>"
         },
         {
             "type": "table",
             "title": "Trakia University: Ranking 2022",
-            "info": "<b>Refer uni rank to know about the rankings of the Trakia University:</b>",
+            "info": "Refer uni rank to know about the rankings of the Trakia University:",
             "col": [
                 "Country",
                 "World"
@@ -76,7 +76,7 @@ export const trakiauniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Trakia University",
-            "info": "<p><strong>High-class of facilities are available for the convenience of students at Trakia University:</strong></p>",
+            "info": "<p>High-class of facilities are available for the convenience of students at Trakia University:</p>",
             "data": [
                 "Auditorium",
                 "Canteen",
@@ -85,14 +85,11 @@ export const trakiauniversity = {
                 "hostel",
                 "Hospital",
             ],
-
-
         },
-
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Trakia University has the following acknowledgement mentioned below:</b>",
+            "info": "Trakia University has the following acknowledgement mentioned below:",
             "data": [
                 "World Health Organisation (WHO).",
                 "National Medical Commission (NMC)."
@@ -112,7 +109,7 @@ export const trakiauniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Top places in the city are -</b>",
+            "info": "Top places in the city are -",
             "data": [
                 "Neolithic Dwellings Museum",
                 "Regional Museum of History Stara Zagora",
@@ -140,14 +137,16 @@ export const trakiauniversity = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/trakia-university" }
             ]
         }
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Trakia University: MBBS Fee Structure 2023",
-            "info": "<b>Students must check out the fee structure of Trakia University in the table mentioned below:</b>",
+            "info": "Students must check out the fee structure of Trakia University in the table mentioned below:",
             "col": [
                 "Particular",
                 "Annual Tuition Fees"
@@ -171,7 +170,7 @@ export const trakiauniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Trakia University",
-            "info": "<b>Trakia University offers several MBBS programs for the students during medicine:</b>",
+            "info": "Trakia University offers several MBBS programs for the students during medicine:",
             "data": [
 
                 "Nurse-PQ “Nurse”",
@@ -183,7 +182,7 @@ export const trakiauniversity = {
         {
             "type": "text",
             "title": "Trakia University: MBBS Syllabus",
-            "info": '<p><b>Take a look at the organised curriculum of MBBS program at Trakia University:</b></p>'
+            "info": '<p>Take a look at the organised curriculum of MBBS program at Trakia University:</p>'
         },
 
         {
@@ -283,7 +282,7 @@ export const trakiauniversity = {
         {
             "type": "list-bollet",
             "title": "Trakia University: MBBS Duration",
-            "info": "<b>Trakia University’s duration of study in medicine program is 6 years:</b>",
+            "info": "Trakia University’s duration of study in medicine program is 6 years:",
             "data": [
                 "The duration of full-time medicine education is for <b>6 years</b>",
                 "During 5 years, the students will learn basic knowledge of the MBBS.",
@@ -312,9 +311,13 @@ export const trakiauniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following are the admission prerequisites for studying MBBS course at Trakia University:</b>",
+            "info": "Following are the admission prerequisites for studying MBBS course at Trakia University:",
             "data": [
                 "The candidates must be 17 years old or above. If not then this age must complete at least before 31st December of the admission year.",
                 "Every candidate must score more than 50% in the HSC exam or similar courses with Physics, Chemistry, Biology, and English.",
@@ -326,7 +329,7 @@ export const trakiauniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>The global candidates willing to take admission should follow the detailed admission steps of Trakia University:</b>",
+            "info": "The global candidates willing to take admission should follow the detailed admission steps of Trakia University:",
             "data": [
                 "Step 1: Fill up the online admission form of Trakia University.",
                 "Step 2: Applicants must submit all-important academic documents.",
@@ -338,7 +341,7 @@ export const trakiauniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The students must submit all important documents (original+xerox copy) at Trakia University:</b>",
+            "info": "The students must submit all important documents (original+xerox copy) at Trakia University:",
             "data": [
                 "The candidate must submit their 10th & 12th mark sheets during medicine admission at Trakia University.",
                 "The Notarized birth certificate must be submitted during student enrollment at Trakia University.",
@@ -376,6 +379,10 @@ export const trakiauniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Trakia University, Bulgaria - Reviews" },
@@ -394,6 +401,10 @@ export const trakiauniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -414,6 +425,10 @@ export const trakiauniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Trakia University, Bulgaria - Gallery" },
@@ -432,6 +447,10 @@ export const trakiauniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -452,6 +471,10 @@ export const trakiauniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Trakia University, Bulgaria - Faculty" },
@@ -470,6 +493,10 @@ export const trakiauniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -490,9 +517,13 @@ export const trakiauniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Trakia University institute, Bulgaria provides well-furnished hostel facilities at the comfort zone of Students:</b>",
+            "info": "Trakia University institute, Bulgaria provides well-furnished hostel facilities at the comfort zone of Students:",
             "data": [
                 "Trakia University has comfortable and spacious hostel rooms.",
                 "Institute offers separate spaces for boys and girls students.",
@@ -506,7 +537,7 @@ export const trakiauniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel has nearest places at some distance -</b>",
+            "info": "The hostel has nearest places at some distance -",
             "data": [
                 "Restaurant",
                 "Grocery Shop",
@@ -537,9 +568,13 @@ export const trakiauniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Trakia University, Bulgaria - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Trakia University Institute: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Trakia University approved/ recognised?",
@@ -570,8 +605,6 @@ export const trakiauniversity = {
                     "ans": "No, the medium of instruction in the English language and the students won’t face any language barrier at Trakia University due to a healthy and friendly atmosphere."
                 },
             ]
-
-
         },
         {
             type: "meta",

@@ -21,7 +21,7 @@ export const universityofstuttgart = {
         {
             "type": "table",
             "title": "University of Stuttgart - Quick Highlights",
-            "info": "<b>The table shows the quick highlights for the students willing to study MS abroad in Stuttgart German University:</b>",
+            "info": "The table shows the quick highlights for the students willing to study MS abroad in Stuttgart German University:",
             "col": [
             ],
             "row": [
@@ -38,7 +38,7 @@ export const universityofstuttgart = {
         {
             "type": "list-bollet",
             "title": "Why Study at University of Stuttgart?",
-            "info": "<b>Some of the reasons mentioned about the Stuttgart German University to choose as the destination for engineering study:</b>",
+            "info": "Some of the reasons mentioned about the Stuttgart German University to choose as the destination for engineering study:",
             "img": '',
             "data": [
                 "The university of Stuttgart is one of the leading research institutes in Germany for MS study in engineering, Science, and other technical programs.",
@@ -47,25 +47,21 @@ export const universityofstuttgart = {
                 "The university is internationally associated with global organizations.",
                 "The placements programs and internships are too attractive features of the university with its educational standards.",
                 " Facilities like a central library, research unit, heat and power plant, dormitories are provided with special high-performing computer centers and language centers.",
-
-
             ]
         },
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Teaching at Stuttgart University in the following languages:</b>",
+            "info": "Teaching at Stuttgart University in the following languages:",
             "img": '',
             "data": [
                 "The Master’s degree of MSc engineering at the University of Stuttgart is available in the German and English Languages.",
-
-
             ]
         },
         {
             "type": "table",
             "title": "University of Stuttgart - Ranking 2023",
-            "info": "<b>Find the latest World and Country rankings of the University of Stuttgart according to Unirank:</b>",
+            "info": "Find the latest World and Country rankings of the University of Stuttgart according to Unirank:",
             "col": [
                 "World",
                 "Country",
@@ -83,7 +79,7 @@ export const universityofstuttgart = {
         {
             "type": "list-bollet",
             "title": "Accreditation",
-            "info": "<b>The University of Stuttgart is accredited with the following:</b>",
+            "info": "The University of Stuttgart is accredited with the following:",
             "img": '',
             "data": [
                 "he University of Stuttgart is accredited with the Min. of Science, Research, and Arts of Baden Wurttemberg State.",
@@ -97,7 +93,7 @@ export const universityofstuttgart = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Below are the monthly expenses required to live in Stuttgart city for a single person on an average and the cost of living may vary for different persons:</b>",
+            "info": "Below are the monthly expenses required to live in Stuttgart city for a single person on an average and the cost of living may vary for different persons:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -154,8 +150,10 @@ export const universityofstuttgart = {
         }
     ],
     "coursesandfees": [
-
-
+        {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - courses & Fees'
+        },
         {
             "type": "table",
             "title": "University of Stuttgart - Fee Structure 2023",
@@ -272,6 +270,10 @@ export const universityofstuttgart = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "The applicant must be completely fit in the below criteria to grab the seat at Stuttgart University:",
@@ -309,7 +311,7 @@ export const universityofstuttgart = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<p><b>Allocation of Study Places -</b></p><p>Under the act of HVVO</p>",
+            "info": "<p>Allocation of Study Places -</p><p>Under the act of HVVO</p>",
             "data": [
                 "Priority is given on a first-come basis.",
                 "8-10% for Foreign applicants (qualifications not matched with German education)",
@@ -367,7 +369,10 @@ export const universityofstuttgart = {
         }
     ],
     "review": [
-
+        {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - Reviews'
+        },
         {
             type: "meta",
             meta: [
@@ -387,7 +392,10 @@ export const universityofstuttgart = {
         }
     ],
     "placement": [
-
+        {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "",
@@ -418,7 +426,10 @@ export const universityofstuttgart = {
 
     ],
     "gallery": [
-
+        {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - Gallery'
+        },
         {
             type: "meta",
             meta: [
@@ -438,6 +449,10 @@ export const universityofstuttgart = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "",
@@ -470,7 +485,10 @@ export const universityofstuttgart = {
         }
     ],
     "faculty": [
-
+        {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - Faculty'
+        },
         {
             type: "meta",
             meta: [
@@ -490,8 +508,10 @@ export const universityofstuttgart = {
         }
     ],
     "news": [
-
-
+        {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -511,8 +531,10 @@ export const universityofstuttgart = {
         }
     ],
     "hostel": [
-
-
+        {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - Hostel'
+        },
         {
             type: "meta",
             meta: [
@@ -532,6 +554,10 @@ export const universityofstuttgart = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'University of Stuttgart, Germany - FAQ'
+        },
         {
             "type": "question-list",
             "title": "University of Stuttgart - Important FAQs",

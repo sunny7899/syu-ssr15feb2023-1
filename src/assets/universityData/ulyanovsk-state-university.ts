@@ -19,7 +19,7 @@ export const ulyanovskstateuniversity = {
         {
             "type": "table-title",
             "title": "Ulyanovsk State University: Quick Highlights",
-            "info": "<b>Listed below are the key highlights of Ulyanovsk State University:</b>",
+            "info": "Listed below are the key highlights of Ulyanovsk State University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>NEET Examination</b>", "Yes, Required"],
@@ -33,7 +33,7 @@ export const ulyanovskstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Ulyanovsk State University?',
-            info: '<b>Following are the advantages of studying MBBS at Ulyanovsk State University:</b>',
+            info: 'Following are the advantages of studying MBBS at Ulyanovsk State University:',
             data: [
                 "It is NMC & WHO approved",
                 "The Medical degree from Ulyanovsk State University is Globally accepted.",
@@ -49,7 +49,7 @@ export const ulyanovskstateuniversity = {
         {
             "type": "table",
             "title": "Ulyanovsk State University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Ulyanovsk State University :</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Ulyanovsk State University :",
             "col": [
                 "Country",
                 "World",
@@ -65,7 +65,7 @@ export const ulyanovskstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Medical Degree from Ulyanovsk State University is fully accredited by:</b>',
+            info: 'Medical Degree from Ulyanovsk State University is fully accredited by:',
             data: [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -76,7 +76,7 @@ export const ulyanovskstateuniversity = {
         {
             "type": "table",
             title: 'Ulyanovsk State University - FMGE Performance 2021',
-            info: '<b>The details about FMGE performance for Ulyanovsk State University of year 2021 with passing percent is as follows:</b>',
+            info: 'The details about FMGE performance for Ulyanovsk State University of year 2021 with passing percent is as follows:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -95,7 +95,7 @@ export const ulyanovskstateuniversity = {
         {
             "type": "table",
             "title": "Living Cost of Ulyanovsk",
-            "info": "<b>Following table shows the living cost of Ulyanovsk, Russia. It may vary according to Individuals personal expense:</b>",
+            "info": "Following table shows the living cost of Ulyanovsk, Russia. It may vary according to Individuals personal expense:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -118,7 +118,7 @@ export const ulyanovskstateuniversity = {
                     "Approx range in RS": "3,500"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. </p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. </p>'
         },
         {
             type: 'text',
@@ -130,7 +130,7 @@ export const ulyanovskstateuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Check out the major attractions of Ulyanovsk city -</b>",
+            "info": "Check out the major attractions of Ulyanovsk city -",
             "row": [
                 ["Lenin Memorial", "Vinkovskaya Grove"],
                 ["President Bridge", "Aleksandrovskiy Park"],
@@ -158,9 +158,13 @@ export const ulyanovskstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Ulyanovsk State University - MBBS Fee Structure 2022",
-            "info": "<b>Ulyanovsk State University fee structure is much affordable to all students coming from across the world:</b>",
+            "info": "Ulyanovsk State University fee structure is much affordable to all students coming from across the world:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -208,12 +212,12 @@ export const ulyanovskstateuniversity = {
                     "Year  6": "5,14,750 INR"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1 RUB = Rs. 1.45 (approx)</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1 RUB = Rs. 1.45 (approx)</p>'
         },
         {
             "type": "table-title",
             "title": "Faculties at Ulyanovsk State University",
-            "info": "<b>The medicine program includes a wide range of faculties at Ulyanovsk State University</b>",
+            "info": "The medicine program includes a wide range of faculties at Ulyanovsk State University",
             "row": [
                 ["Obstetrics and gynaecology", "Ear, throat and nose diseases", "Internal diseases"],
                 ["Cardiology", "Paediatrics", "Infectious diseases"],
@@ -235,7 +239,7 @@ export const ulyanovskstateuniversity = {
         {
             "type": "table",
             "title": "Ulyanovsk State University - MBBS Syllabus",
-            "info": "<b>The syllabus for MBBS course at Ulyanovsk State University is shown in the table below:</b>",
+            "info": "The syllabus for MBBS course at Ulyanovsk State University is shown in the table below:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -344,9 +348,13 @@ export const ulyanovskstateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for Medicine course:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for Medicine course:",
             "data": [
                 "Applicant should apply after completing 12th with Biology",
                 "General Category requires a minimum aggregate of 50% in PCB",
@@ -357,7 +365,7 @@ export const ulyanovskstateuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Follow the admission procedure given below to pursue MBBS at Ulyanovsk State University:</b>',
+            info: 'Follow the admission procedure given below to pursue MBBS at Ulyanovsk State University:',
             data: [
                 "Step 1: Fill the Online Application form with Essential details.",
                 "Step 2: Upload the scan copies of Academic documents.",
@@ -371,7 +379,7 @@ export const ulyanovskstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students need to have the following documents for the MBBS admission process:</b>",
+            "info": "Students need to have the following documents for the MBBS admission process:",
             "data": [
                 "Application form copy",
                 "11th and 12th documents",
@@ -387,7 +395,7 @@ export const ulyanovskstateuniversity = {
         {
             "type": "table",
             "title": "Ulyanovsk State University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Ulyanovsk State University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Ulyanovsk State University:",
             "col": [
                 "Events",
                 "Dates",
@@ -427,6 +435,10 @@ export const ulyanovskstateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ulyanovsk State University, Russia - Reviews" },
@@ -445,6 +457,10 @@ export const ulyanovskstateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -475,6 +491,10 @@ export const ulyanovskstateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ulyanovsk State University, Russia - Gallery" },
@@ -494,9 +514,13 @@ export const ulyanovskstateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The Ulyanovsk State university doesn't offer any scholarships on any level of study:</b>",
+            "info": "The Ulyanovsk State university doesn't offer any scholarships on any level of study:",
             "data": [
                 "All inquiries about the scholarships should be directed to the Russian Ministry of Education.",
                 "And you may also contact the Ministry of Education to confirm the following agreements between the countries which makes you eligible for scholarships."
@@ -522,6 +546,10 @@ export const ulyanovskstateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ulyanovsk State University, Russia - Faculty" },
@@ -540,6 +568,10 @@ export const ulyanovskstateuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -560,9 +592,13 @@ export const ulyanovskstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Ulyanovsk State University provides fully furnished hostel facility to students who came to study in the university:</b>",
+            "info": "Ulyanovsk State University provides fully furnished hostel facility to students who came to study in the university:",
             "data": [
                 "Power back-up",
                 "Security",
@@ -598,52 +634,55 @@ export const ulyanovskstateuniversity = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Ulyanovsk State University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. If I have sent the application, then what is the expected period of getting an invitation letter from the university?",
-                        "ans": "After submission of your application, you will get an invitation letter within 30 working days."
-                    },
-                    {
-                        "ques": "Q. When do I apply for the visa? Should I need to pay the tuition fees for the same?",
-                        "ans": "You don’t need to pay the tuition fees upon arrival to Russia. You need to submit the invitation letter applying for the visa."
-                    },
-                    {
-                        "ques": "Q. Are the courses taught in the English language?",
-                        "ans": "Russian is the commonly taught language at Ulyanovsk State University."
-                    },
-                    {
-                        "ques": "Q. Are there any short term courses for distance learning?",
-                        "ans": "Currently, Ulyanovsk State University does not offer any short term courses for distance learning."
-                    },
-                    {
-                        "ques": "Q. Are the foreign students allowed to visit in other cities?",
-                        "ans": "Yes, foreign students can travel to other cities until they are permitted to stay as per the registration with local authorities."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Ulyanovsk State University, Russia - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Ulyanovsk State University, Russia - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ulyanovsk-state-university/faq" }
-                ]
-            }
-        ]
+    "faq": [
+        {
+            type: 'title',
+            title: 'Ulyanovsk State University, Russia - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Ulyanovsk State University - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. If I have sent the application, then what is the expected period of getting an invitation letter from the university?",
+                    "ans": "After submission of your application, you will get an invitation letter within 30 working days."
+                },
+                {
+                    "ques": "Q. When do I apply for the visa? Should I need to pay the tuition fees for the same?",
+                    "ans": "You don’t need to pay the tuition fees upon arrival to Russia. You need to submit the invitation letter applying for the visa."
+                },
+                {
+                    "ques": "Q. Are the courses taught in the English language?",
+                    "ans": "Russian is the commonly taught language at Ulyanovsk State University."
+                },
+                {
+                    "ques": "Q. Are there any short term courses for distance learning?",
+                    "ans": "Currently, Ulyanovsk State University does not offer any short term courses for distance learning."
+                },
+                {
+                    "ques": "Q. Are the foreign students allowed to visit in other cities?",
+                    "ans": "Yes, foreign students can travel to other cities until they are permitted to stay as per the registration with local authorities."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Ulyanovsk State University, Russia - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Ulyanovsk State University, Russia - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ulyanovsk-state-university/faq" }
+            ]
+        }
+    ]
 
 }

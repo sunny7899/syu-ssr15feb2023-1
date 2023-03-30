@@ -19,7 +19,7 @@ export const universityofregina = {
     {
       "type": "table-title",
       "title": "Quick Review of University of Regina",
-      "info": "<b>Before enrolling at the University of Regina, students should review the following highlights:</b>",
+      "info": "Before enrolling at the University of Regina, students should review the following highlights:",
       "col": [],
       "row": [
         ["<b>Type</b>", "Public"],
@@ -38,7 +38,7 @@ export const universityofregina = {
     {
       "type": "list-bollet",
       "title": "Why Choose the University of Regina for Higher Studies?",
-      "info": "<b>The University of Regina is the best choice to opt for the various courses, here is the some of the reasons must know:</b>",
+      "info": "The University of Regina is the best choice to opt for the various courses, here is the some of the reasons must know:",
       "data": [
         "The University ranks second among extensive universities in terms of the amount of student financial assistance offered as a proportion of tuition fee.",
         "The University incorporates 10 faculties, 25 academic departments, and schools, 18 research centers, and 3 federated colleges.",
@@ -53,7 +53,7 @@ export const universityofregina = {
     {
       "type": "table",
       "title": "University of Regina Ranking 2022",
-      "info": "<b>Check the global and national ranking of the University of Regina:</b>",
+      "info": "Check the global and national ranking of the University of Regina:",
       "col": [
         "World",
         "Country"
@@ -68,7 +68,7 @@ export const universityofregina = {
     {
       "type": "list-bollet",
       "title": "Facilities Provided at U of R",
-      "info": "<b>The University focuses on providing best facilities in addition to the student academics:</b>",
+      "info": "The University focuses on providing best facilities in addition to the student academics:",
       "data": [
         "Library cards",
         "Book club",
@@ -86,7 +86,7 @@ export const universityofregina = {
     {
       "type": "table",
       "title": "Cost of Living in Canada for Indian Students",
-      "info": "<b>Students can calculate their monthly expenses from the following details:</b>",
+      "info": "Students can calculate their monthly expenses from the following details:",
       "col": [
         "Particulars",
         "Approx Range (CAD)",
@@ -104,7 +104,7 @@ export const universityofregina = {
           "Approx Range (Rupees)": "Rs. 3,71,432"
         },
       ],
-      heading: '<p><b style="color: red;"><u>Note:</u></b> 1 CAD $ = 58 Rs. (for calculation purpose)</p>'
+      "heading": '<p><b style="color: red;"><u>Note:</u></b> 1 CAD $ = 58 Rs. (for calculation purpose)</p>'
     },
     {
       type: "meta",
@@ -125,6 +125,10 @@ export const universityofregina = {
     }
   ],
   "coursesandfees": [
+    {
+      type: 'title',
+      title: 'University of Regina, Canada - courses & Fees'
+    },
     {
       "type": "text",
       "title": "University of Regina - Fee Structure & Course Duration",
@@ -636,6 +640,10 @@ export const universityofregina = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'University of Regina, Canada - Admission 2023 '
+    },
+    {
       "type": "text",
       "title": "What are the Eligibility Criteria for University of Regina?",
       "data": "<p><b>Students must satisfy the following eligibility standards based on their program prior to getting enrolled to the University:</b></p>"
@@ -662,7 +670,7 @@ export const universityofregina = {
     {
       type: 'step-list',
       title: 'How to take Admission in U of R?',
-      info: '<b>Students must have a look at the following steps before starting their application process:</b>',
+      info: 'Students must have a look at the following steps before starting their application process:',
       data: [
         "Step 1: Create an account from the official site if you are registering for the first time.",
         "Step 2: Note down the login details safely for later.",
@@ -677,7 +685,7 @@ export const universityofregina = {
     {
       "type": "list-bollet",
       "title": "Important Documents Required at U of R",
-      "info": "<b>Before you start filling the online application, you must have the following documents available:</b>",
+      "info": "Before you start filling the online application, you must have the following documents available:",
       "data": [
         "High school Transcript",
         "Application form",
@@ -716,6 +724,10 @@ export const universityofregina = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'University of Regina, Canada - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Regina, Canada - Reviews" },
@@ -735,9 +747,13 @@ export const universityofregina = {
   ],
   "placement": [
     {
+      type: 'title',
+      title: 'University of Regina, Canada - Placement'
+    },
+    {
       "type": "table",
       "title": "placement",
-      "info": "<b>Below is the placement data of University of Regina:</b>",
+      "info": "Below is the placement data of University of Regina:",
       "col": [
         "Job Title",
         "Average Salary"
@@ -793,6 +809,10 @@ export const universityofregina = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'University of Regina, Canada - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Regina, Canada - Gallery" },
@@ -812,9 +832,13 @@ export const universityofregina = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'University of Regina, Canada - Scholarship'
+    },
+    {
       "type": "table",
       "title": "Scholarships",
-      "info": "<b>Here is the list of scholarships especially offering to the International students according to their eligibility:</b>",
+      "info": "Here is the list of scholarships especially offering to the International students according to their eligibility:",
       "col": [
         "Scholarships",
         "Eligibility",
@@ -852,6 +876,10 @@ export const universityofregina = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: 'University of Regina, Canada - Faculty'
+    },
     {
       "type": "table",
       "title": "faculty",
@@ -903,6 +931,10 @@ export const universityofregina = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'University of Regina, Canada - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Regina, Canada - News & Articles" },
@@ -922,9 +954,13 @@ export const universityofregina = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'University of Regina, Canada - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel and Accommodation",
-      "info": "<b>The University of Regina is affording top-class facilities to the students both on-campus and off-campus:</b>",
+      "info": "The University of Regina is affording top-class facilities to the students both on-campus and off-campus:",
       "data": [
         "The University of Regina provides modern accommodation, comfortable housing to the students to build a unique experience.",
         "There are five residence halls available to students who live on-campus namely kisik towers, wakpa towers, La residence, College west, and Luther College.",
@@ -955,52 +991,55 @@ export const universityofregina = {
       ]
     }
   ],
-  "faq":
-    [
-      {
-        "type": "question-list",
-        "title": "FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-        "data": [
-          {
-            "ques": "Q. How can I check my application deadline before applying for admission?",
-            "ans": "Students can check the application deadlines from the official website on the admission page. However, it takes at least 4 weeks to process the application."
-          },
-          {
-            "ques": "Q. Are international students eligible for scholarships?",
-            "ans": "Yes, International students are being awarded various scholarships such as admission-based and entrance based depending on courses throughout the year."
-          },
-          {
-            "ques": "Q. What is the procedure after completing my admission to the university?",
-            "ans": "After once getting admission to the university, you need to pay the tuition fees and opt for residence before flying to Canada."
-          },
-          {
-            "ques": "Q. When do the admissions begin in the U of R?",
-            "ans": "All programs at the University of Regina are available year-round, with fall, summer, and spring intakes. Yet, the majority of the programs are only available during the fall semester."
-          },
-          {
-            "ques": "Q. Do I eligible for admission if I don’t have an IELTS Score?",
-            "ans": "The exam is compulsory for all international students who are from outside the country. They need to submit the test scores at the time of admission."
-          },
-        ]
-      },
-      {
-        type: "meta",
-        meta: [
-          { name: "title", content: "University of Regina, Canada - FAQ" },
-          { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-        ],
-      },
-      {
-        type: "meta-title",
-        title: "University of Regina, Canada - FAQ"
-      },
-      {
-        type: "meta-links",
-        link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-regina/faq" }
-        ]
-      }
-    ]
+  "faq": [
+    {
+      type: 'title',
+      title: 'University of Regina, Canada - FAQ'
+    },
+    {
+      "type": "question-list",
+      "title": "FAQs",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+      "data": [
+        {
+          "ques": "Q. How can I check my application deadline before applying for admission?",
+          "ans": "Students can check the application deadlines from the official website on the admission page. However, it takes at least 4 weeks to process the application."
+        },
+        {
+          "ques": "Q. Are international students eligible for scholarships?",
+          "ans": "Yes, International students are being awarded various scholarships such as admission-based and entrance based depending on courses throughout the year."
+        },
+        {
+          "ques": "Q. What is the procedure after completing my admission to the university?",
+          "ans": "After once getting admission to the university, you need to pay the tuition fees and opt for residence before flying to Canada."
+        },
+        {
+          "ques": "Q. When do the admissions begin in the U of R?",
+          "ans": "All programs at the University of Regina are available year-round, with fall, summer, and spring intakes. Yet, the majority of the programs are only available during the fall semester."
+        },
+        {
+          "ques": "Q. Do I eligible for admission if I don’t have an IELTS Score?",
+          "ans": "The exam is compulsory for all international students who are from outside the country. They need to submit the test scores at the time of admission."
+        },
+      ]
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "University of Regina, Canada - FAQ" },
+        { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "University of Regina, Canada - FAQ"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-regina/faq" }
+      ]
+    }
+  ]
 
 }

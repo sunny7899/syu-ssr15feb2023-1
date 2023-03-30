@@ -19,7 +19,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table-title",
             "title": "European University Georgia - Important Highlights",
-            "info": "<b>Go through the major points to study MBBS program at European University Georgia:</b>",
+            "info": "Go through the major points to study MBBS program at European University Georgia:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>NEET Examination</b>", "Required"],
@@ -34,7 +34,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": 'list-bollet',
             "title": 'Why Study MBBS at European University Georgia?',
-            "info": '<b>Given below are some of the advantages that will make you sure about your decision of choosing European university for studying MBBS:</b>',
+            "info": 'Given below are some of the advantages that will make you sure about your decision of choosing European university for studying MBBS:',
             "data": [
                 "The European University, Georgia offers MBBS education at low cost.",
                 "The program is taught in English language of instruction.",
@@ -51,7 +51,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "European University Georgia - Ranking 2022",
-            "info": "<b>The student's must refer UniRank for world and country rankings of European University, Georgia:</b>",
+            "info": "The student's must refer UniRank for world and country rankings of European University, Georgia:",
             "col": [
                 "Country",
                 "World",
@@ -72,7 +72,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognitions",
-            "info": "<b>European University is recognized by the following medical organizations:</b>",
+            "info": "European University is recognized by the following medical organizations:",
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -86,7 +86,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Library",
-            "info": "<b>The library of European University, Georgia has following facilities:</b>",
+            "info": "The library of European University, Georgia has following facilities:",
             "data": [
                 "The library of European University, Georgia has a collection of Printed materials and digital items along with a huge collection of books.",
                 "The library has all kinds of books including press, journals, fiction books, periodicals, dictionaries, CDs, and encyclopedias.",
@@ -100,7 +100,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Life of Student's",
-            "info": "<b>European University tries to give its students the best possible study experience. They take care of their physical and mental fitness along with the best quality education:</b>",
+            "info": "European University tries to give its students the best possible study experience. They take care of their physical and mental fitness along with the best quality education:",
             "data": [
                 "The university has a center for promotion of Scientific Research activities which arranges discussions, conferences, seminars, presentations, competitions and various activities for its students.",
                 "The university has co-operations with foreign educational and research institutions, and thus students can get the research opportunities and they can also take part in student exchange programs.",
@@ -114,7 +114,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "European University Georgia - FMGE Performance 2021",
-            "info": "<b>European University Georgia gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "European University Georgia gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared ",
@@ -133,7 +133,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "Cost of Living in Tbilisi, Georgia",
-            "info": "<b>The average cost of living at Tbilisi city is as given below:</b>",
+            "info": "The average cost of living at Tbilisi city is as given below:",
             "col": [
                 "Activity",
                 "Cost"
@@ -189,9 +189,14 @@ export const europeanuniversitygeorgia = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "European University Georgia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "European University Georgia - MBBS Fee Structure 2022",
-            "info": "<b>European University Georgia offers quite an affordable fee structure to the students for MBBS education:</b>",
+            "info": "European University Georgia offers quite an affordable fee structure to the students for MBBS education:",
             "col": [
                 "Particular",
                 "1st year",
@@ -244,7 +249,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Courses offered at European University, Georgia",
-            "info": "<b>European University Georgia offers students to learn their courses in the following varieties:</b>",
+            "info": "European University Georgia offers students to learn their courses in the following varieties:",
             "data": [
                 "Medicine",
                 "Pharmacy",
@@ -265,7 +270,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "MBBS Syllabus at European University Georgia",
-            "info": "<b>The complete syllabus for studying MBBS at European University, Georgia is as follows:</b><br><b>1st Year</b>",
+            "info": "The complete syllabus for studying MBBS at European University, Georgia is as follows:</b><br><b>1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -321,7 +326,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -377,7 +382,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -413,7 +418,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>4th Year</b>",
+            "info": "4th Year",
             "col": [
                 "7th Semester",
                 "8th Semester"
@@ -453,7 +458,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>5th Year</b>",
+            "info": "5th Year",
             "col": [
                 "9th Semester",
                 "10th Semester"
@@ -493,7 +498,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>6th Year</b>",
+            "info": "6th Year",
             "col": [
                 "11th Semester",
                 "12th Semester"
@@ -550,9 +555,14 @@ export const europeanuniversitygeorgia = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "European University Georgia - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For MBBS at European University Georgia",
-            "info": "<b>Students must fulfill the below mentioned eligibility criteria to make sure that they are eligible to take admission to European University, Georgia:</b>",
+            "info": "Students must fulfill the below mentioned eligibility criteria to make sure that they are eligible to take admission to European University, Georgia:",
             "data": [
                 "Applicants age should 17 years before the 31st December of the year of the admission process.",
                 "Applicants must complete a 10+2 examination from the recognized university.",
@@ -562,7 +572,7 @@ export const europeanuniversitygeorgia = {
         {
             type: 'step-list',
             title: 'Admission Process - For MBBS at European University Georgia',
-            info: '<b>To secure admission in one of the top medical universities in Georgia like European University, students must follow the instructions given below:</b>',
+            info: 'To secure admission in one of the top medical universities in Georgia like European University, students must follow the instructions given below:',
             data: [
                 "Step 1: Fill the application form available on the university portal.",
                 "Step 2: Send the scanned copies of filled application form & documents required for applying for the MBBS course.",
@@ -576,7 +586,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required at the time of admission to European University, Georgia:</b>",
+            "info": "Following documents are required at the time of admission to European University, Georgia:",
             "data": [
                 "Original copy of passport",
                 "10th & 12th mark sheets",
@@ -590,7 +600,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should take their admissions to European University, Georgia before the dates mentioned below. Check out the Important dates regarding admission at European University, Georgia:</b>",
+            "info": "Students should take their admissions to European University, Georgia before the dates mentioned below. Check out the Important dates regarding admission at European University, Georgia:",
             "col": [
                 "Events",
                 "Dates"
@@ -635,6 +645,11 @@ export const europeanuniversitygeorgia = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "European University Georgia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "European University Georgia - Reviews" },
@@ -654,8 +669,13 @@ export const europeanuniversitygeorgia = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "European University Georgia - Placement"
+
+        },
+        {
             "type": "list-bollet",
-            "title": "",
+            "title": "Placement",
             "info": "",
             "data": [
                 "By offering further education choices, European University Georgia encourages graduates to continue their studies.",
@@ -684,6 +704,11 @@ export const europeanuniversitygeorgia = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "European University Georgia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "European University Georgia - Gallery" },
@@ -703,9 +728,14 @@ export const europeanuniversitygeorgia = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "European University Georgia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The scholarships that are provided at are as follows:</b>",
+            "info": "The scholarships that are provided at are as follows:",
             "data": [
                 "EU Scholarship",
                 "Fullbright Scholarship",
@@ -732,8 +762,12 @@ export const europeanuniversitygeorgia = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "European University Georgia - Faculty"
+        },
+        {
             "type": "table-title",
-            "title": "",
+            "title": "Faculty",
             "info": "",
             "col": [],
             "row": [
@@ -783,7 +817,7 @@ export const europeanuniversitygeorgia = {
                 ["Mamuka", "Lortkipanidze", "Associate Professor", ""],
                 ["Khatuna", "Kudava", "Associate Professor", "Affilation"],
                 ["Marine", "Nikolaishvili", "Associate Professor", "Affilation"],
-                ["Nikoloz", "Nioradze", "Associate Professor", ""],            
+                ["Nikoloz", "Nioradze", "Associate Professor", ""],
                 ["Vera", "Tsomaia", "Associate Professor", ""],
                 ["Nino", "Sharikadze", "Associate Professor", ""],
                 ["Giorgi", "Lomidze", "Associate Professor", ""],
@@ -870,6 +904,10 @@ export const europeanuniversitygeorgia = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "European University Georgia - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "European University Georgia - News & Articles" },
@@ -889,9 +927,13 @@ export const europeanuniversitygeorgia = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "European University Georgia - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation at European University Georgia",
-            "info": "<b>European University, Georgia provides excellent accommodation facilities to its students, they are as follows:</b>",
+            "info": "European University, Georgia provides excellent accommodation facilities to its students, they are as follows:",
             "data": [
                 "European University constitutes the development of students imparting the development in their talents & interests.",
                 "The university has a young band of musicians, hiking clubs, volleyball, drama troupe.",
@@ -901,7 +943,7 @@ export const europeanuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The university has its own dormitories providing accommodation to more than 1000 international students. Amenities provided by the university are:</b>",
+            "info": "The university has its own dormitories providing accommodation to more than 1000 international students. Amenities provided by the university are:",
             "data": [
                 "Well-furnished rooms",
                 "Attached bathroom & kitchen",
@@ -932,9 +974,13 @@ export const europeanuniversitygeorgia = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "European University Georgia - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "European University Georgia - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. From which year does the clinical practice start while studying MBBS from European University, Georgia?",

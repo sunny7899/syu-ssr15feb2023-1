@@ -22,7 +22,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "table-title",
             "title": "Tbilisi Open Teaching University - Quick Highlights",
-            "info": "<b>Refer to the below course highlights for studying MBBS at of Tbilisi Open Teaching University:</b>",
+            "info": "Refer to the below course highlights for studying MBBS at of Tbilisi Open Teaching University:",
             "col": [
             ],
             "row": [
@@ -42,7 +42,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying at Tbilisi Open Teaching University",
-            "info": "<b>Medical education at Tbilisi Open Teaching University is highly effective and internationally recognized. The benefits of pursuing an MD/MBBS education at University are:</b>",
+            "info": "Medical education at Tbilisi Open Teaching University is highly effective and internationally recognized. The benefits of pursuing an MD/MBBS education at University are:",
             "img": '',
             "data": [
                 "Tbilisi Open Teaching University is one of the fastest-growing universities in Georgia.",
@@ -62,7 +62,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "table",
             "title": "Tbilisi Open Teaching University - Ranking 2022",
-            "info": "<b>As per the uniRank ranking system, the Tbilisi Open Teaching University has an annual enrollment range of up to 2500- 5000 students for the medical course:</b>",
+            "info": "As per the uniRank ranking system, the Tbilisi Open Teaching University has an annual enrollment range of up to 2500- 5000 students for the medical course:",
             "col": [
                 "World	",
                 "Country",
@@ -80,7 +80,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Unified medical exams at Tbilisi Open Teaching University are conducted in English language:</b>",
+            "info": "Unified medical exams at Tbilisi Open Teaching University are conducted in English language:",
             "img": '',
             "data": [
                 "English is the commonly taught language at Tbilisi Open Teaching University, Georgia.",
@@ -96,7 +96,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognitions",
-            "info": "<b>Tbilisi Open Teaching University, Georgia has received a 5-year of accreditation from the Ministry of Science and Education Georgia, since 2013:</b>",
+            "info": "Tbilisi Open Teaching University, Georgia has received a 5-year of accreditation from the Ministry of Science and Education Georgia, since 2013:",
             "img": '',
             "data": [
                 "National Medical Commission",
@@ -108,7 +108,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided by Tbilisi Open Teaching University",
-            "info": "<b>Below is the exposure & facilities provided to UG & PG students at Tbilisi Open Teaching University:</b>",
+            "info": "Below is the exposure & facilities provided to UG & PG students at Tbilisi Open Teaching University:",
             "img": '',
             "data": [
                 "The University has science labs.",
@@ -126,7 +126,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "list-bollet",
             "title": "Student's Life at Tbilisi Open Teaching University",
-            "info": "<b>Life of students at Tbilisi Open Teaching University has a wonderful experience with a great learning piece of baggage:</b>",
+            "info": "Life of students at Tbilisi Open Teaching University has a wonderful experience with a great learning piece of baggage:",
             "img": '',
             "data": [
                 "Once students join Tbilisi Open Teaching University, they become part of a strong residential community based on student self-governance, an experience that builds knowledge, character, and independence.",
@@ -143,7 +143,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Tbilisi",
-            "info": "<b>Living cost in Tbilisi, Georgia has been listed below:</b>",
+            "info": "Living cost in Tbilisi, Georgia has been listed below:",
             "col": [
                 "Activity",
                 "Cost",
@@ -202,9 +202,14 @@ export const tbilisiopenteachinguniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Tbilisi Open Teaching University - MBBS Fee Structure 2022",
-            "info": "<b>Tbilisi Open Teaching University offers world-class medical education at affordable prices. Here, we have given the detailed fee structure of MBBS course for the annual year:</b>",
+            "info": "Tbilisi Open Teaching University offers world-class medical education at affordable prices. Here, we have given the detailed fee structure of MBBS course for the annual year:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -262,7 +267,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "list-bollet",
             "title": "Tbilisi Open Teaching University - MBBS Duration",
-            "info": "<b>6-year medicine program at Tbilisi Open Teaching University consists of 20 weeks in each semester:</b>",
+            "info": "6-year medicine program at Tbilisi Open Teaching University consists of 20 weeks in each semester:",
             "data": [
                 "MBBS program at Tbilisi Open Teaching University, Georgia lasts for a period of 6 years. The university has 360 credits in teaching out of which 60 credits are divided per year. After completing the 6 years of the medical course, students can apply for the USMLE exam to practice abroad.",
                 "5 years of the degree are dedicated to the paramedical & premedical phase while the last year consists of 1 year internships in affiliated hospitals.",
@@ -271,7 +276,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "text",
             "title": "Tbilisi Open Teaching University - MBBS Syllabus",
-            "info": '<p><b>Tbilisi Open Teaching University has an internationally recognized curriculum for the MBBS course:</b></p>'
+            "info": 'Tbilisi Open Teaching University has an internationally recognized curriculum for the MBBS course:'
         },
 
         {
@@ -370,9 +375,14 @@ export const tbilisiopenteachinguniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Below are the admission prerequisites for studying the MBBS course at Tbilisi Open Teaching University:</b>",
+            "info": "Below are the admission prerequisites for studying the MBBS course at Tbilisi Open Teaching University:",
             "data": [
                 "The candidate must be over 17 and below 25 years old on or before the date in which the admission is being taken.",
                 "The candidate should be a high-school graduate or he/she must hold an equivalent degree with Physics, Chemistry, Biology, and English as subjects.",
@@ -384,7 +394,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "step-list",
             "title": "Admission Process in Tbilisi Open Teaching University",
-            "info": "<b>MBBS Admissions at Tbilisi Open Teaching University are completely on merit basis:</b>",
+            "info": "MBBS Admissions at Tbilisi Open Teaching University are completely on merit basis:",
             "data": [
                 "<b>Step 1:</b> Students should fill in the Application Form.",
                 "<b>Step 2:</b> Then, he/she should send the filled-in Application together with the copies of the documents, necessary for the acquisition of the student’s status.",
@@ -396,7 +406,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Refer the below documents checklists for applying MBBS course at Tbilisi Open Teaching University:</b>",
+            "info": "Refer the below documents checklists for applying MBBS course at Tbilisi Open Teaching University:",
             "data": [
                 "Birth Certificate (In English)",
                 "10th (SSLC) Mark sheet and Certificates",
@@ -411,7 +421,7 @@ export const tbilisiopenteachinguniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Theoretical and practical sessions at Tbilisi Open Teaching University are expected to start in the month of September with a limited number of intakes for the international students:</b>",
+            "info": "Theoretical and practical sessions at Tbilisi Open Teaching University are expected to start in the month of September with a limited number of intakes for the international students:",
             "col": [
                 "Events",
                 "Date"
@@ -456,6 +466,11 @@ export const tbilisiopenteachinguniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi Open Teaching University - Reviews" },
@@ -474,6 +489,11 @@ export const tbilisiopenteachinguniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -494,6 +514,11 @@ export const tbilisiopenteachinguniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi Open Teaching University - Gallery" },
@@ -512,6 +537,11 @@ export const tbilisiopenteachinguniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships ",
@@ -541,6 +571,11 @@ export const tbilisiopenteachinguniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi Open Teaching University - Faculty" },
@@ -559,6 +594,11 @@ export const tbilisiopenteachinguniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -579,9 +619,14 @@ export const tbilisiopenteachinguniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel/Accommodation - Tbilisi Open Teaching University",
-            "info": "<b>Hostel & Accommodation at Tbilisi Open Teaching University provided on the first come first serve basis:</b>",
+            "info": "Hostel & Accommodation at Tbilisi Open Teaching University provided on the first come first serve basis:",
             "data": [
                 "Separate hostel accommodation facility is provided for boys and girls at Tbilisi Open Teaching University.",
                 "All the Indian and International Students studying MBBS at Tbilisi Open Teaching University, Georgia can enjoy both veg and non-veg food at the Indian mess available at the university campus.",
@@ -609,9 +654,14 @@ export const tbilisiopenteachinguniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Tbilisi Open Teaching University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Stavropol State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How much is the duration of the MBBS course at Tbilisi Open Teaching University?",

@@ -19,7 +19,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "table-title",
       "title": "Kumudini Women's Medical College: Quick Overview 2022",
-      "info": "<b>The students willing to pursue MBBS must go through some important points of Kumudini Women's Medical College:</b>",
+      "info": "The students willing to pursue MBBS must go through some important points of Kumudini Women's Medical College:",
       "col": [],
       "row": [
         ["<b>Intake for MBBS Course</b>", "September"],
@@ -34,7 +34,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       type: 'list-bollet',
       title: 'Why Study MBBS at Kumudini Womens Medical College?',
-      info: '<b>Every year lots of students register for the MBBS program, There are many reasons to choose Kumudini Womens Medical College as the destination to study medicine:</b>',
+      info: 'Every year lots of students register for the MBBS program, There are many reasons to choose Kumudini Womens Medical College as the destination to study medicine:',
       data: [
         "The university has started Online Classes and the faculty members are conducting lectures by using PowerPoint, demonstration models, pictorials and equipment and question-answer sessions.",
         "Institute offers high quality advanced educational excellence and research at world standards.",
@@ -51,13 +51,13 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "text",
       "title": "Medium of Teaching",
-      "info": "",
-      "data": "<p><b>Kumudini Women's Medical College offers English teaching for medicine program education:</b></p><p>The worldwide students willing to pursue medicine to build a bright career at Kumudini Women's Medical College will gain the MBBS program knowledge in 100% English language.</p>"
+      "info": "Kumudini Women's Medical College offers English teaching for medicine program education:",
+      "data": "<p>The worldwide students willing to pursue medicine to build a bright career at Kumudini Women's Medical College will gain the MBBS program knowledge in 100% English language.</p>"
     },
     {
       "type": "list-bollet",
       "title": "Facilities Provided at Kumudini Women's Medical College",
-      "info": "<b>Kumudini Women's Medical College provides premium modern facilities furnished in an organized manner at the comfort zone of the students:</b>",
+      "info": "Kumudini Women's Medical College provides premium modern facilities furnished in an organized manner at the comfort zone of the students:",
       "data": [
         "Library",
         "Laboratory",
@@ -71,7 +71,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "table",
       "title": "Academic Calendar: Intake 2022",
-      "info": "<b>The candidates should go through some important admission dates to grab MBBS seat at Kumudini Women's Medical College:</b>",
+      "info": "The candidates should go through some important admission dates to grab MBBS seat at Kumudini Women's Medical College:",
       "col": [
         "Events",
         "Dates",
@@ -95,7 +95,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>Kumudini Women's Medical College is officially recognized by several medical bodies given below:</b>",
+      "info": "Kumudini Women's Medical College is officially recognized by several medical bodies given below:",
       "data": [
         "Ministry of Health & Family Welfare.",
         "Govt. of the Peoples’ Republic of Bangladesh.",
@@ -109,7 +109,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "table",
       "title": "Kumudini Women's Medical College - FMGE Performance 2021",
-      "info": "<b>The details about FMGE performance for Kumudini Women's Medical College of year 2021 with passing percent is as follows:</b>",
+      "info": "The details about FMGE performance for Kumudini Women's Medical College of year 2021 with passing percent is as follows:",
       "col": [
         "Name of University",
         "Appeared ",
@@ -119,8 +119,8 @@ export const kumudiniwomensmedicalcollege = {
       "row": [
         {
           "Name of University": "<b>Kumudini Women's Medical College</b>",
-          "Appeared 	": "57",
-          "Total Pass 	": "21",
+          "Appeared": "57",
+          "Total Pass": "21",
           "Pass %": "36.84%",
         }
       ]
@@ -128,7 +128,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "table",
       "title": "Living Expense of Tangail",
-      "info": "<b>To live in Tangail city is quite affordable for medical aspirants who look forward to MBBS in Kumudini Women's Medical College, So the living cost of the city according to month basis is given in the table below:</b>",
+      "info": "To live in Tangail city is quite affordable for medical aspirants who look forward to MBBS in Kumudini Women's Medical College, So the living cost of the city according to month basis is given in the table below:",
       "col": [
         "Particulars",
         "Approx Range in USD",
@@ -141,19 +141,19 @@ export const kumudiniwomensmedicalcollege = {
           "Approx Range in Rs": "1,962",
         },
       ],
-      heading: "<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>"
+      heading: "<p><b><u>Note:</u></b> 1$ = 70 Rs.</p>"
     },
     {
       "type": "text",
       "title": "About Tangail City",
       "img": "images/bangladesh/tangail-city.jpg",
-      "info": "",
-      "data": "<p><b>Let’s get to know about the Tangail city:</b></p><p>Tangail is a major city of Dhaka in the central part of Bangladesh. </p><p>Situated on the bank of the Louhajang River, 98 km north-west of Dhaka, the capital and is considered the main urban area of the Tangail District. </p><p>It is the 23rd largest city in Bangladesh.</p>"
+      "info": "Let’s get to know about the Tangail city:",
+      "data": "<p>Tangail is a major city of Dhaka in the central part of Bangladesh. </p><p>Situated on the bank of the Louhajang River, 98 km north-west of Dhaka, the capital and is considered the main urban area of the Tangail District. </p><p>It is the 23rd largest city in Bangladesh.</p>"
     },
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Top attractions of Tangail city -</b>",
+      "info": "Top attractions of Tangail city -",
       "data": [
         "Mohera Jamidar House",
         "Bangabandhu Bridge",
@@ -185,9 +185,14 @@ export const kumudiniwomensmedicalcollege = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Kumudini Women's Medical College, Bangladesh - courses & Fees"
+
+    },
+    {
       "type": "table",
       "title": "Kumudini Women's Medical College: MBBS Fee Structure 2022",
-      "info": "<b>Kumudini Women's Medical College offers very low fee structure, affordable for international students willing to pursue MBBS career:</b>",
+      "info": "Kumudini Women's Medical College offers very low fee structure, affordable for international students willing to pursue MBBS career:",
       "col": [
         "Instalments",
         "Amount in USD",
@@ -235,7 +240,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Courses offered at Kumudini Women's Medical College",
-      "info": "<b>The Kumudini Women's Medical College provides varieties of the medical faculties mentioned below:</b>",
+      "info": "The Kumudini Women's Medical College provides varieties of the medical faculties mentioned below:",
       "data": [
         "Anatomy",
         "Physiology",
@@ -252,7 +257,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Kumudini Women's Medical College: MBBS Duration",
-      "info": "<b>5 years Bachelor of Medicine and Bachelor of Surgery with an additional one-year internship training:</b>",
+      "info": "5 years Bachelor of Medicine and Bachelor of Surgery with an additional one-year internship training:",
       "data": [
         "Every batch of medicine program at Kumudini Women's Medical College must undergo 5 years of MBBS education in English medium of instruction.",
         "The student will gain not only theoretical but also practical knowledge by highly qualified professors.",
@@ -262,7 +267,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "table",
       "title": "Kumudini Women's Medical College: MBBS Syllabus",
-      "info": "<b>Kumudini Women’s Medical College is implementing a well-designed curriculum for MBBS course:</b>",
+      "info": "Kumudini Women’s Medical College is implementing a well-designed curriculum for MBBS course:",
       "col": [
         "Phase",
         "Duration",
@@ -316,9 +321,14 @@ export const kumudiniwomensmedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Kumudini Women's Medical College, Bangladesh - Admission 2023 "
+
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The students must fit into the eligibility criteria for MBBS admission at Kumudini Women's Medical College:</b>",
+      "info": "The students must fit into the eligibility criteria for MBBS admission at Kumudini Women's Medical College:",
       "data": [
         "The candidates must pass SSC & HSC examination with Physics, Chemistry and Biology from any recognized Board/University of Bangladesh with a grade point average of 9.00.",
         "The grades of the candidates should not be less than 3.50 and the HSC grade point in Biology must not be less than 3.50.",
@@ -332,7 +342,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: "<b>The students who seek to get MBBS at Kumudini Women's Medical College must follow the mentioned below steps:</b>",
+      info: "The students who seek to get MBBS at Kumudini Women's Medical College must follow the mentioned below steps:",
       data: [
         "Step 1: The candidates willing to pursue an MBBS program should submit the correctly filled application form.",
         "Step 2: The candidates must send scanned copies of the higher secondary education certificates and other documents.",
@@ -345,21 +355,21 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The global students should carry original and xerox copies of all essential documents for the MBBS course at Kumudini Women's Medical College:</b>",
+      "info": "The global students should carry original and xerox copies of all essential documents for the MBBS course at Kumudini Women's Medical College:",
       "data": [
-        " Submit a photocopy of original/provisional SSC & HSC/ equivalent examination certificates, marks sheets and testimonials.",
-        " The candidates must submit the sports certificate /social work or any other extracurricular activities.",
-        " The student should submit the three copies of recent passport size photographs.",
-        " The candidates must submit the properly filled application form to enroll in MBBS.",
-        " Submit the leaving/transfer certificate from the previous institution.",
-        " The students must submit the valid passport required at the time of MBBS admission.",
-        " Submit the NEET examination scorecard and admit card during admission time.",
-        " Candidates must submit the migration certificate to enroll for the MBBS course.",
-        " Every candidate should submit the birth certificate during medicine program admission time.",
-        " The applicants should submit caste certificate (SC/ ST/ OBC category candidates).",
-        " The students should submit your ID proof during MBBS admission time.",
-        " Candidates should submit the medical certificate for admission in the medical course.",
-        " COVID-19 test reports are very important for MBBS enrollment."
+        "Submit a photocopy of original/provisional SSC & HSC/ equivalent examination certificates, marks sheets and testimonials.",
+        "The candidates must submit the sports certificate /social work or any other extracurricular activities.",
+        "The student should submit the three copies of recent passport size photographs.",
+        "The candidates must submit the properly filled application form to enroll in MBBS.",
+        "Submit the leaving/transfer certificate from the previous institution.",
+        "The students must submit the valid passport required at the time of MBBS admission.",
+        "Submit the NEET examination scorecard and admit card during admission time.",
+        "Candidates must submit the migration certificate to enroll for the MBBS course.",
+        "Every candidate should submit the birth certificate during medicine program admission time.",
+        "The applicants should submit caste certificate (SC/ ST/ OBC category candidates).",
+        "The students should submit your ID proof during MBBS admission time.",
+        "Candidates should submit the medical certificate for admission in the medical course.",
+        "COVID-19 test reports are very important for MBBS enrollment."
       ]
     },
     {
@@ -382,6 +392,11 @@ export const kumudiniwomensmedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Kumudini Women's Medical College, Bangladesh - Reviews"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Kumudini Women's Medical College, Bangladesh - Reviews" },
@@ -400,6 +415,11 @@ export const kumudiniwomensmedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Kumudini Women's Medical College, Bangladesh - Placement"
+
+    },
     {
       type: "meta",
       meta: [
@@ -420,6 +440,11 @@ export const kumudiniwomensmedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Kumudini Women's Medical College, Bangladesh - Gallery"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Kumudini Women's Medical College, Bangladesh - Gallery" },
@@ -438,6 +463,11 @@ export const kumudiniwomensmedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Kumudini Women's Medical College, Bangladesh - Scholarship"
+
+    },
     {
       type: "meta",
       meta: [
@@ -458,6 +488,11 @@ export const kumudiniwomensmedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Kumudini Women's Medical College, Bangladesh - Faculty"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Kumudini Women's Medical College, Bangladesh - Faculty" },
@@ -476,6 +511,11 @@ export const kumudiniwomensmedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Kumudini Women's Medical College, Bangladesh - News & Articles"
+
+    },
     {
       type: "meta",
       meta: [
@@ -496,9 +536,14 @@ export const kumudiniwomensmedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Kumudini Women's Medical College, Bangladesh - Hostel"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>Kumudini Women's Medical College is fully residential and has adequate accommodation for all the enrolled students in the MBBS program:</b>",
+      "info": "Kumudini Women's Medical College is fully residential and has adequate accommodation for all the enrolled students in the MBBS program:",
       "data": [
         "Kumudini Women's Medical College offers spacious and safe dormitories at the university campus.",
         "The hostel has separate dining rooms, study rooms and clubrooms.",
@@ -511,7 +556,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The hostel system comprises of -</b>",
+      "info": "The hostel system comprises of -",
       "data": [
         "Refrigerator",
         "Blanket",
@@ -553,7 +598,7 @@ export const kumudiniwomensmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The Kumudini Women's Medical College hostel system fulfils all basic requirements at the comfort zone of students including -</b>",
+      "info": "The Kumudini Women's Medical College hostel system fulfils all basic requirements at the comfort zone of students including -",
       "data": [
         "Electricity",
         "Water Supply",
@@ -584,9 +629,14 @@ export const kumudiniwomensmedicalcollege = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Kumudini Women's Medical College, Bangladesh - FAQ"
+
+      },
+      {
         "type": "question-list",
         "title": "Kumudini Women's Medical College: Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. Is there any language barrier at a Kumudini Women's Medical College?",

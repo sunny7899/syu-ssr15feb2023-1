@@ -20,7 +20,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "table-title",
             "title": "Johannes Gutenberg University of Mainz - Quick Highlights",
-            "info": "<b>If interested in getting enrolled in an MBA program at Johannes Gutenberg University, have a look below for quick highlights:</b>",
+            "info": "If interested in getting enrolled in an MBA program at Johannes Gutenberg University, have a look below for quick highlights:",
             "col": [],
             "row": [
                 ["<b>Intake	</b>", "April"],
@@ -34,7 +34,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "list-bollet",
             "title": "Why Choose Johannes Gutenberg University of Mainz to pursue MBA?",
-            "info": "<b> Students who want to enroll at Johannes Gutenberg University can have a look below for its advantages:</b>",
+            "info": " Students who want to enroll at Johannes Gutenberg University can have a look below for its advantages:",
             "data": [
                 "The Johannes Gutenberg University of Mainz offers a wide range of courses for which it has exceptionally professional and knowledgeable professors to explain through.",
                 "The university has vast international collaborations and a network of scientific contacts at the global level giving good opportunities to the students. This attribute ensures the bright future of enrolled students at this university.",
@@ -50,7 +50,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>To eradicate the language barrier between teachers, students, and other staff members Johannes Gutenberg University opts for English mode of instruction:</b>",
+            "info": "To eradicate the language barrier between teachers, students, and other staff members Johannes Gutenberg University opts for English mode of instruction:",
             "data": [
                 "This university gives out professional lectures in the English language to ensure that the students understand it all efficiently without facing language barrier issues.",
                 "Having an English mode of instruction makes it easier for students to interact and helps professors to deliver the lectures in a way understood by all."
@@ -59,7 +59,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "table",
             "title": "Johannes Gutenberg University of Mainz - ranking 2022",
-            "info": "<b>Find the latest World and Country rankings of the Johannes Gutenberg University according to Unirank:</b>",
+            "info": "Find the latest World and Country rankings of the Johannes Gutenberg University according to Unirank:",
             "col": [
                 "Country",
                 "World",
@@ -74,7 +74,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "table",
             "title": "Living Expenses in Mainz, Germany",
-            "info": "<b>The cost of living in the city of Mainz, Germany is affordable. Students looking forward to taking admission in here can have a glance below to know approximately about the living expenses on monthly basis:</b>",
+            "info": "The cost of living in the city of Mainz, Germany is affordable. Students looking forward to taking admission in here can have a glance below to know approximately about the living expenses on monthly basis:",
             "col": [
                 "Particular",
                 "Approx Range  in USD",
@@ -97,7 +97,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Johannes Gutenberg University of Mainz",
-            "info": "<b>The Johannes Gutenberg University Mainz avails their students and other members with various facilities for better living and learning:</b>",
+            "info": "The Johannes Gutenberg University Mainz avails their students and other members with various facilities for better living and learning:",
             "data": [
                 "Canteen",
                 "Cafeteria",
@@ -127,9 +127,14 @@ export const johannesgutenberguniversitymainz = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Johannes Gutenberg University of Mainz - Fee Structure 2022",
-            "info": "<b>The fee Structure of Johannes Gutenberg University is nominal as compared to other universities:</b>",
+            "info": "The fee Structure of Johannes Gutenberg University is nominal as compared to other universities:",
             "col": [
                 "Course",
                 "Total Amount",
@@ -144,7 +149,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "list-bollet",
             "title": "Johannes Gutenberg University of Mainz - MBA Duration",
-            "info": "<b>The Johannes Gutenberg University of Mainz proffer 2 years MBA program which is instructed in the English language:</b>",
+            "info": "The Johannes Gutenberg University of Mainz proffer 2 years MBA program which is instructed in the English language:",
             "data": [
                 "This prominent university has designed an MBA program. The duration of this program is 2 years and is instructed in the English language.",
                 "Applicants with queries regarding the program or admission process will be guided all through."
@@ -153,7 +158,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "list-bollet",
             "title": "Programs Offered at Johannes Gutenberg University of Mainz",
-            "info": "<b>The Johannes Gutenberg University of Mainz avails Executive MBA program for students across the world:</b>",
+            "info": "The Johannes Gutenberg University of Mainz avails Executive MBA program for students across the world:",
             "data": [
                 "The university offers a full-time Executive MBA program designed for executives, future managers, freelancers, and also self - employed individuals.",
                 "The program deepens the understanding of the complete course and gives better opportunities and improves prospects."
@@ -179,9 +184,14 @@ export const johannesgutenberguniversitymainz = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Check out the basic criterias for getting admission in an MBA course at Johannes Gutenberg University Mainz:</b>",
+            "info": "Check out the basic criterias for getting admission in an MBA course at Johannes Gutenberg University Mainz:",
             "data": [
                 "At the time of admission, the applicant must have completed at least 21 years before 31st December.",
                 "Candidates must have an IELTS certificate as proof of English language proficiency. The University accepts only IELTS.",
@@ -197,7 +207,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Have a glance below at the details to learn about the admission processes at Johannes Gutenberg University of Mainz:</b>",
+            "info": "Have a glance below at the details to learn about the admission processes at Johannes Gutenberg University of Mainz:",
             "data": [
                 "Step 1: Apply for an official validation certificate. Before the candidate applies for regular program application they have to get a validation certificate and only then begin with the further admission process.",
                 "Step 2: Get further with Regular Program Application. After receiving a validation certificate you can apply for a master's program online through an international office. Fill in the application with proper details and once done you will receive a completed application to print.",
@@ -210,7 +220,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Check out important documents required to get admission in st Johannes Gutenberg University:</b>",
+            "info": "Check out important documents required to get admission in st Johannes Gutenberg University:",
             "data": [
                 "Birth certificate",
                 "Application form",
@@ -236,7 +246,7 @@ export const johannesgutenberguniversitymainz = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>To know the important dates of the admission process at the Johannes Gutenberg University check the table below:</b>",
+            "info": "To know the important dates of the admission process at the Johannes Gutenberg University check the table below:",
             "col": [
                 "Events",
                 "Dates"
@@ -280,6 +290,11 @@ export const johannesgutenberguniversitymainz = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Johannes Gutenberg University of Mainz, Germany - Reviews" },
@@ -298,6 +313,11 @@ export const johannesgutenberguniversitymainz = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -346,6 +366,11 @@ export const johannesgutenberguniversitymainz = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Johannes Gutenberg University of Mainz, Germany - Gallery" },
@@ -364,6 +389,11 @@ export const johannesgutenberguniversitymainz = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -400,8 +430,13 @@ export const johannesgutenberguniversitymainz = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -442,6 +477,11 @@ export const johannesgutenberguniversitymainz = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Johannes Gutenberg University of Mainz, Germany - News & Articles" },
@@ -461,9 +501,14 @@ export const johannesgutenberguniversitymainz = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Hostels and Accommodations provided by Johannes Gutenberg University of Mainz, Germany are relatively at a moderate price:</b>",
+            "info": "Hostels and Accommodations provided by Johannes Gutenberg University of Mainz, Germany are relatively at a moderate price:",
             "data": [
                 "This university provides spacious and clean accommodations to the students and other staff. The rooms are comfortable and students are expected to pay monthly rent.",
                 "The university has university halls of residence which are reasonable and a great place to meet and engage with new people.",
@@ -502,9 +547,14 @@ export const johannesgutenberguniversitymainz = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Johannes Gutenberg University of Mainz, Germany - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Johannes Gutenberg University of Mainz - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Johannes Gutenberg University a suitable place to acquire an MBA course?",

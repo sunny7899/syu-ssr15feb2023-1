@@ -19,7 +19,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             "type": "table-title",
             "title": "Kabardino Balkarian State University - Quick Highlights",
-            "info": "<b>To pursue MBBS career, checkout the major facts of Kabardino Balkarian State University:</b>",
+            "info": "To pursue MBBS career, checkout the major facts of Kabardino Balkarian State University:",
             "row": [
                 ["MBBS Intake", "September"],
                 ["NEET Qualification", "Yes"],
@@ -33,7 +33,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Kabardino Balkarian State University?',
-            info: '<b>Mentioned below are some advantages of studying medicine program in Kabardino Balkarian State University:</b>',
+            info: 'Mentioned below are some advantages of studying medicine program in Kabardino Balkarian State University:',
             data: [
                 "Kabardino Balkarian State University provides quality of education in less tuition fee for doing MBBS course.",
                 "The university has experienced staff members who are to solve any issues of students anytime.",
@@ -44,7 +44,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Kabardino Balkarian State University has a modern educational and material base in three educational building including-</b>',
+            info: 'Kabardino Balkarian State University has a modern educational and material base in three educational building including-',
             data: [
                 "76 equipped classrooms",
                 "Laboratories",
@@ -69,7 +69,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             "type": "table",
             "title": "Kabardino Balkarian State University - Ranking 2022",
-            "info": "<b>According to Uni Rank mentioned below are the ranking of Kabardino Balkarian State University:</b>",
+            "info": "According to Uni Rank mentioned below are the ranking of Kabardino Balkarian State University:",
             "col": [
                 "Country",
                 "World",
@@ -84,7 +84,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation & Recognitions',
-            info: '<b>Kabardino Balkarian State University has been recognized by following medical bodies mentioned below:</b>',
+            info: 'Kabardino Balkarian State University has been recognized by following medical bodies mentioned below:',
             data: [
                 "World health organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -94,7 +94,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             "type": "table",
             title: 'Kabardino Balkarian State University - FMGE Performance 2021',
-            info: '<b>Kabardino Balkarian State University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>',
+            info: 'Kabardino Balkarian State University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -113,7 +113,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             "type": "table",
             "title": "Living Cost of Nalchik City",
-            "info": "<b>The living cost of Nalchik city is quite affordable to worldwide medical aspirants, the table mentioned below shows the monthly basis living expenses:</b>",
+            "info": "The living cost of Nalchik city is quite affordable to worldwide medical aspirants, the table mentioned below shows the monthly basis living expenses:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -176,9 +176,14 @@ export const kabardinobalkarianstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kabardino Balkarian State University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kabardino Balkarian State University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for medical studies in Kabardino Balkarian State University is quite cheaper than other countries:</b>",
+            "info": "The fee structure for medical studies in Kabardino Balkarian State University is quite cheaper than other countries:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -231,7 +236,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Kabardino Balkarian State University",
-            "info": "<b>The current medical faculties of the university consists of 17 departments, 3 medical and biological departments:</b>",
+            "info": "The current medical faculties of the university consists of 17 departments, 3 medical and biological departments:",
             "data": [
                 "Normal and pathological anatomy",
                 "Normal and pathological physiology",
@@ -247,7 +252,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Kabardino Balkarian State University - MBBS Duration",
-            "info": "<b>The medicine program duration of medical duration offered by Kabardino Balkarian State University is of 6 years:</b>",
+            "info": "The medicine program duration of medical duration offered by Kabardino Balkarian State University is of 6 years:",
             "data": [
                 "Kabardino Balkarian State University offers 6 years of general medical education.",
                 "The first 5 years includes both theoretical and practical knowledge and the students need to complete 1 year of compulsory Internship.",
@@ -257,7 +262,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             "type": "table",
             "title": "Kabardino Balkarian State University - MBBS Syllabus",
-            "info": "<b>The study pattern of medical studies in Kabardino Balkarian State University is given in the following table below:</b>",
+            "info": "The study pattern of medical studies in Kabardino Balkarian State University is given in the following table below:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -362,9 +367,14 @@ export const kabardinobalkarianstateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kabardino Balkarian State University, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>For being eligible for admission the students must fit into the criteria mentioned below:</b>",
+            "info": "For being eligible for admission the students must fit into the criteria mentioned below:",
             "data": [
                 "The applicant shall complete the age of 17 years on or before the 31st December of the admission year for MBBS.",
                 "The applicant must have passed in 10+12 or equivalent exam in the subjects of physics, biology, English and chemistry.",
@@ -377,7 +387,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Follow the mentioned below steps carefully to get admission Kabardino Balkarian State University:</b>',
+            info: 'Follow the mentioned below steps carefully to get admission Kabardino Balkarian State University:',
             data: [
                 "Step 1: The applicant must fill the online application form available on the official website with correct details.",
                 "Step 2: The applicant must upload all the scanned copies of the required academic documents.",
@@ -391,7 +401,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The global medical aspirants need to carry all the essential document mentioned below at the of MBBS admission:</b>",
+            "info": "The global medical aspirants need to carry all the essential document mentioned below at the of MBBS admission:",
             "data": [
                 "The candidate must carry the university application form copy.",
                 "The candidate must carry an attested copy of higher secondary mark sheets and transfer certificate from the school.",
@@ -406,7 +416,7 @@ export const kabardinobalkarianstateuniversity = {
         {
             "type": "table",
             "title": "Kabardino Balkarian State University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Kabardino Balkarian State University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Kabardino Balkarian State University:",
             "col": [
                 "Events",
                 "Dates",
@@ -446,6 +456,11 @@ export const kabardinobalkarianstateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kabardino Balkarian State University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kabardino Balkarian State University, Russia - Reviews" },
@@ -465,6 +480,11 @@ export const kabardinobalkarianstateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kabardino Balkarian State University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kabardino Balkarian State University, Russia - Gallery" },
@@ -483,6 +503,11 @@ export const kabardinobalkarianstateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kabardino Balkarian State University, Russia - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -513,9 +538,14 @@ export const kabardinobalkarianstateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kabardino Balkarian State University, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships that are provided at Kabardino Balkarian State University are as follows:</b>",
+            "info": "The scholarships that are provided at Kabardino Balkarian State University are as follows:",
             "data": [
                 "Government of the Russian Federation",
                 "President of the Russian Federation",
@@ -541,6 +571,11 @@ export const kabardinobalkarianstateuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Kabardino Balkarian State University, Russia - Faculty"
+
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -598,6 +633,11 @@ export const kabardinobalkarianstateuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Kabardino Balkarian State University, Russia - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kabardino Balkarian State University, Russia - News & Articles" },
@@ -617,9 +657,14 @@ export const kabardinobalkarianstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kabardino Balkarian State University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facility",
-            "info": "<b>Kabardino Balkarian State University offers a well-equipped and safe hostel system in the campus area:</b>",
+            "info": "Kabardino Balkarian State University offers a well-equipped and safe hostel system in the campus area:",
             "data": [
                 "Kabardino Balkarian State University offers different rooms for 2-3 students on a sharing basis.",
                 "The hostel system has separate floors for boys and girls.",
@@ -666,59 +711,64 @@ export const kabardinobalkarianstateuniversity = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Kabardino Balkarian State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Is the Medical degree from Kabardino Balkarian state university globally acknowledgeable?",
-                    "ans": "Yes, The Kabardino Balkarian state university is fully Acknowledged and approved by all medical bodies including the NMC & WHO and UNESCO."
-                },
-                {
-                    "ques": "Q. Is MBBS in Kabardino Balkarian state university a good choice for worldwide Medical students?",
-                    "ans": "Kabardino Balkarian state university is one of the leading universities of Russia and the best choice for worldwide medical students to pursue MBBS, as the University offers the best education along with highly qualified professors and accommodation facilities at affordable price."
-                },
-                {
-                    "ques": "Q. Is Kabardino Balkarian State University a safe place for girls?",
-                    "ans": "Yes, the Kabardino Balkarian State University is the safest place for a girl student to live without worries, as the university has a highly developed security system."
-                },
-                {
-                    "ques": "Q. What is the application deadline date of Kabardino Balkarian State University?",
-                    "ans": "The last date for filling the application form of Kabardino Balkarian State University is 30th July."
-                },
-                {
-                    "ques": "Q. Is the Medical degree from Kabardino Balkarian state university acceptable globally?",
-                    "ans": "Yes, The medical degree you acquire from Kabardino Balkarian state university is totally valid in any country of your choice, nut the students first need to clear the NMC screening test of that particular country."
-                },
-                {
-                    "ques": "Q. Is there any entrance exam required for MBBS admissions?",
-                    "ans": "No, the Kabardino Balkarian state university doesn’t demand any entrance examinations for taking admission in MBBS courses."
-                },
-                {
-                    "ques": "Q. Are there any accommodation facilities available?",
-                    "ans": "Yes, Fully furnished and well-maintained hostel system separate for boys and girls along with all modern amenities are available in the university campus of Kabardino Balkarian state university during MBBS education."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kabardino Balkarian State University, Russia - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Kabardino Balkarian State University, Russia - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kabardino-balkarian-state-university/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Kabardino Balkarian State University, Russia - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "Kabardino Balkarian State University - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. Is the Medical degree from Kabardino Balkarian state university globally acknowledgeable?",
+                        "ans": "Yes, The Kabardino Balkarian state university is fully Acknowledged and approved by all medical bodies including the NMC & WHO and UNESCO."
+                    },
+                    {
+                        "ques": "Q. Is MBBS in Kabardino Balkarian state university a good choice for worldwide Medical students?",
+                        "ans": "Kabardino Balkarian state university is one of the leading universities of Russia and the best choice for worldwide medical students to pursue MBBS, as the University offers the best education along with highly qualified professors and accommodation facilities at affordable price."
+                    },
+                    {
+                        "ques": "Q. Is Kabardino Balkarian State University a safe place for girls?",
+                        "ans": "Yes, the Kabardino Balkarian State University is the safest place for a girl student to live without worries, as the university has a highly developed security system."
+                    },
+                    {
+                        "ques": "Q. What is the application deadline date of Kabardino Balkarian State University?",
+                        "ans": "The last date for filling the application form of Kabardino Balkarian State University is 30th July."
+                    },
+                    {
+                        "ques": "Q. Is the Medical degree from Kabardino Balkarian state university acceptable globally?",
+                        "ans": "Yes, The medical degree you acquire from Kabardino Balkarian state university is totally valid in any country of your choice, nut the students first need to clear the NMC screening test of that particular country."
+                    },
+                    {
+                        "ques": "Q. Is there any entrance exam required for MBBS admissions?",
+                        "ans": "No, the Kabardino Balkarian state university doesn’t demand any entrance examinations for taking admission in MBBS courses."
+                    },
+                    {
+                        "ques": "Q. Are there any accommodation facilities available?",
+                        "ans": "Yes, Fully furnished and well-maintained hostel system separate for boys and girls along with all modern amenities are available in the university campus of Kabardino Balkarian state university during MBBS education."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Kabardino Balkarian State University, Russia - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Kabardino Balkarian State University, Russia - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kabardino-balkarian-state-university/faq" }
+                ]
+            }
+        ]
 
 }

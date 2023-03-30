@@ -174,7 +174,7 @@ export const yerevanstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Yerevan State Medical University - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick highlights about Yerevan State Medical University:</b>",
+            "info": "Given below is the table for quick highlights about Yerevan State Medical University:",
             "col": [
             ],
             "row": [
@@ -195,7 +195,7 @@ export const yerevanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Yerevan State Medical University?",
-            "info": "<b>Below are some of the benefits of studying MBBS at Yerevan State Medical University:</b>",
+            "info": "Below are some of the benefits of studying MBBS at Yerevan State Medical University:",
             "img": '',
             "data": [
                 "Students are not required to pay any donation or capitation fee for their MBBS admission in the Armenian medical universities. They only need to pay the MBBS fees in Armenia online or by the other modes of payment in order to secure their seat.",
@@ -214,7 +214,7 @@ export const yerevanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Yerevan State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Yerevan State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Yerevan State Medical University:",
             "col": [
                 "World",
                 "Country",
@@ -232,7 +232,7 @@ export const yerevanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The MBBS, MD, and BDS degrees of Yerevan State Medical University are recognized by:</b>",
+            "info": "The MBBS, MD, and BDS degrees of Yerevan State Medical University are recognized by:",
             "img": '',
             "data": [
                 "National Medical Commission (NMC)",
@@ -245,7 +245,7 @@ export const yerevanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Yerevan",
-            "info": "<b>The cost of living at Yerevan city is as follows:</b>",
+            "info": "The cost of living at Yerevan city is as follows:",
             "col": [
                 "Activity",
                 "Cost",
@@ -279,7 +279,7 @@ export const yerevanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Yerevan State Medical University: FMGE Performance 2021",
-            "info": "<b>Find the passing percent and appeared students in year 2021 for Yerevan State Medical University is here in the table below:</b>",
+            "info": "Find the passing percent and appeared students in year 2021 for Yerevan State Medical University is here in the table below:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -301,7 +301,7 @@ export const yerevanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Yerevan City",
-            "info": "<b>Interesting facts about the Yerevan city are as follows:-</b>",
+            "info": "Interesting facts about the Yerevan city are as follows:-",
             // "img": 'https://www.selectyouruniversity.com/images/armenia-universities/yerevan-state-medical-university-college.jpg',
             "data": [
                 "Yerevan city is the capital city of Armenia.",
@@ -319,12 +319,6 @@ export const yerevanstatemedicaluniversity = {
 
             ]
         },
-
-
-
-
-
-
         {
             type: "meta",
             meta: [
@@ -345,221 +339,229 @@ export const yerevanstatemedicaluniversity = {
 
     ],
 
-"coursesandfees": [
-    {
-        "type": "table",
-        "title": "Yerevan State Medical University - MBBS Fee Structure 2022",
-        "info": "<b>The fee structure for Yerevan State Medical University for MBBS program is given in the table below:</b>",
-        "col": [
-            "Particular",
-            "Year 1",
-            "Year 2",
-            "Year 3",
-            "Year 4",
-            "Year 5",
-            "Year 6"
+    "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - courses & Fees'
+        },
+        {
+            "type": "table",
+            "title": "Yerevan State Medical University - MBBS Fee Structure 2022",
+            "info": "The fee structure for Yerevan State Medical University for MBBS program is given in the table below:",
+            "col": [
+                "Particular",
+                "Year 1",
+                "Year 2",
+                "Year 3",
+                "Year 4",
+                "Year 5",
+                "Year 6"
 
-        ],
-        "row": [
-            {
-                "Particular": "<b>Tuition Fee (approx.)</b>",
-                "Year 1": "$5000",
-                "Year 2": "$5000",
-                "Year 3": "$5000",
-                "Year 4": "$5000",
-                "Year 5": "$5000",
-                "Year 6": "$5000"
-            },
-            {
-                "Particular": "<b>Hostel (approx.)</b>",
-                "Year 1": "$600",
-                "Year 2": "$600",
-                "Year 3": "$600",
-                "Year 4": "$600",
-                "Year 5": "$600",
-                "Year 6": "$600"
+            ],
+            "row": [
+                {
+                    "Particular": "<b>Tuition Fee (approx.)</b>",
+                    "Year 1": "$5000",
+                    "Year 2": "$5000",
+                    "Year 3": "$5000",
+                    "Year 4": "$5000",
+                    "Year 5": "$5000",
+                    "Year 6": "$5000"
+                },
+                {
+                    "Particular": "<b>Hostel (approx.)</b>",
+                    "Year 1": "$600",
+                    "Year 2": "$600",
+                    "Year 3": "$600",
+                    "Year 4": "$600",
+                    "Year 5": "$600",
+                    "Year 6": "$600"
 
-            },
-            {
-                "Particular": "<b>Medical + Insurance + Registration Feem (approx.)</b>",
-                "Year 1": "$1000",
-                "Year 2": "-",
-                "Year 3": "-",
-                "Year 4": "-",
-                "Year 5": "-",
-                "Year 6": "-"
+                },
+                {
+                    "Particular": "<b>Medical + Insurance + Registration Feem (approx.)</b>",
+                    "Year 1": "$1000",
+                    "Year 2": "-",
+                    "Year 3": "-",
+                    "Year 4": "-",
+                    "Year 5": "-",
+                    "Year 6": "-"
 
-            },
-            {
-                "Particular": "<b>Total (USD)( approx.)</b>",
-                "Year 1": "$6600",
-                "Year 2": "$5600",
-                "Year 3": "$5600",
-                "Year 4": "$5600",
-                "Year 5": "$5600",
-                "Year 6": "$5600"
+                },
+                {
+                    "Particular": "<b>Total (USD)( approx.)</b>",
+                    "Year 1": "$6600",
+                    "Year 2": "$5600",
+                    "Year 3": "$5600",
+                    "Year 4": "$5600",
+                    "Year 5": "$5600",
+                    "Year 6": "$5600"
 
-            },
-            {
-                "Particular": "<b>Fees in Indian Rupees (approx.)</b>",
-                "Year 1": "<b>Rs.4.62 Lakhs</b>",
-                "Year 2": "<b>Rs.4.62 Lakhs</b>",
-                "Year 3": "<b>Rs.4.62 Lakhs</b>",
-                "Year 4": "<b>Rs.4.62 Lakhs</b>",
-                "Year 5": "<b>Rs.4.62 Lakhs</b>",
-                "Year 6": "<b>Rs.4.62 Lakhs</b>"
+                },
+                {
+                    "Particular": "<b>Fees in Indian Rupees (approx.)</b>",
+                    "Year 1": "<b>Rs.4.62 Lakhs</b>",
+                    "Year 2": "<b>Rs.4.62 Lakhs</b>",
+                    "Year 3": "<b>Rs.4.62 Lakhs</b>",
+                    "Year 4": "<b>Rs.4.62 Lakhs</b>",
+                    "Year 5": "<b>Rs.4.62 Lakhs</b>",
+                    "Year 6": "<b>Rs.4.62 Lakhs</b>"
 
-            }
-        ],
-        "heading": "<p><b>Note:</b><br>$1 = Rs.70<br>Application, visa, flight tickets, food charges, one time charges, etc. will be extra up to Rs.80,000/- to Rs.1,00,000/- (or more approximately).<br>The fees mentioned here are approximate and may change as per the change in currency.</p>",
+                }
+            ],
+            "heading": "<p><b>Note:</b><br>$1 = Rs.70<br>Application, visa, flight tickets, food charges, one time charges, etc. will be extra up to Rs.80,000/- to Rs.1,00,000/- (or more approximately).<br>The fees mentioned here are approximate and may change as per the change in currency.</p>",
 
-    },
-    {
-        "type": "list-bollet",
-        "title": "Courses Offered at Yerevan State Medical University",
-        "info": "<b>Yerevan State Medical University has following 6 faculties:</b>",
-        "data": [
-            "General Medicine",
-            "Public Health",
-            "Dental medicine",
-            "Pharmacy",
-            "Military Medicine",
-            "Professional and Continuing Education Centre"
-        ]
-    },
-    {
-        "type": "list-bollet",
-        "title": "Yerevan State Medical University - MBBS Duration",
-        "info": "<b>The duration of MBBS course at Yerevan State Medical University is mentioned below:</b>",
-        "data": [
-            "The duration of MBBS course at Yerevan State Medical University is <b>6 years,</b> out of which 1 year is internship.",
-            "The medium of instruction is English for studying MBBS at this university.",
+        },
+        {
+            "type": "list-bollet",
+            "title": "Courses Offered at Yerevan State Medical University",
+            "info": "Yerevan State Medical University has following 6 faculties:",
+            "data": [
+                "General Medicine",
+                "Public Health",
+                "Dental medicine",
+                "Pharmacy",
+                "Military Medicine",
+                "Professional and Continuing Education Centre"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Yerevan State Medical University - MBBS Duration",
+            "info": "The duration of MBBS course at Yerevan State Medical University is mentioned below:",
+            "data": [
+                "The duration of MBBS course at Yerevan State Medical University is <b>6 years,</b> out of which 1 year is internship.",
+                "The medium of instruction is English for studying MBBS at this university.",
 
-        ]
-    },
-    {
-        "type": "text",
-        "title": "Yerevan State Medical University - MBBS Syllabus",
-        "data": '<p><b>The complete syllabus for studying MBBS at Yerevan State Medical University is as follows:</b></p>'
-    },
+            ]
+        },
+        {
+            "type": "text",
+            "title": "Yerevan State Medical University - MBBS Syllabus",
+            "data": '<p><b>The complete syllabus for studying MBBS at Yerevan State Medical University is as follows:</b></p>'
+        },
 
-    {
-        "type": "table",
-        "title": "",
-        "info": "1st Year",
-        "col": [
-            "1st Semester",
-            "2nd Semester"
+        {
+            "type": "table",
+            "title": "",
+            "info": "1st Year",
+            "col": [
+                "1st Semester",
+                "2nd Semester"
 
-        ],
-        "row": [
-            {
-                "1st Semester": "Anatomy",
-                "2nd Semester": "Anatomy & Histology"
-            }
-        ]
-    },
-    {
-        "type": "table",
-        "title": "",
-        "info": "2nd Year",
-        "col": [
-            "3rd Semester",
-            "4th Semester"
+            ],
+            "row": [
+                {
+                    "1st Semester": "Anatomy",
+                    "2nd Semester": "Anatomy & Histology"
+                }
+            ]
+        },
+        {
+            "type": "table",
+            "title": "",
+            "info": "2nd Year",
+            "col": [
+                "3rd Semester",
+                "4th Semester"
 
-        ],
-        "row": [
-            {
-                "3rd Semester": "Histology",
-                "4th Semester": "Biochemistry"
-            },
-            {
-                "3rd Semester": "Biochemistry",
-                "4th Semester": "Micro-Biology"
-            },
-            {
-                "3rd Semester": "Anatomy",
-                "4th Semester": "Physiology"
-            },
-            {
-                "3rd Semester": "Physiology  Cell biology",
-                "4th Semester": "-"
-            },
-            {
-                "3rd Semester": "Microbiology",
-                "4th Semester": "-"
-            },
-            {
-                "3rd Semester": "general pathology",
-                "4th Semester": "-"
-            },
+            ],
+            "row": [
+                {
+                    "3rd Semester": "Histology",
+                    "4th Semester": "Biochemistry"
+                },
+                {
+                    "3rd Semester": "Biochemistry",
+                    "4th Semester": "Micro-Biology"
+                },
+                {
+                    "3rd Semester": "Anatomy",
+                    "4th Semester": "Physiology"
+                },
+                {
+                    "3rd Semester": "Physiology  Cell biology",
+                    "4th Semester": "-"
+                },
+                {
+                    "3rd Semester": "Microbiology",
+                    "4th Semester": "-"
+                },
+                {
+                    "3rd Semester": "general pathology",
+                    "4th Semester": "-"
+                },
 
 
-        ]
-    },
-    {
-        "type": "table",
-        "title": "",
-        "info": "3rd Year",
-        "col": [
-            "5th Semester",
-            "6th Semester"
+            ]
+        },
+        {
+            "type": "table",
+            "title": "",
+            "info": "3rd Year",
+            "col": [
+                "5th Semester",
+                "6th Semester"
 
-        ],
-        "row": [
-            {
-                "5th Semester": "Pathology",
-                "6th Semester": "Pathology"
-            },
-            {
-                "5th Semester": "Pharmacology",
-                "6th Semester": "Path physiology"
-            },
-            {
-                "5th Semester": "Micro-Biology and Path physiology",
-                "6th Semester": "Pharmacology,Genetics and principles of clinical medicine"
-            },
-        ]
-    },
-    {
-        "type": "table-title",
-        "title": "",
-        "info": "4th - 6th Year",
-        "colTitle": "7th-12th Semester",
-        "row": [
-            ["Oncology", "Internal medicine"],
-            ["Pediatrics", "General Surgery"],
-            ["Neurology", "Primary Care medicine"],
-            ["Neurology and Psychiatry", "Psychology"],
-            ["ENT", "Emergency Medicine"],
-            ["Cardiology", "Obstetrics and Gynecology"],
-            ["Internal Medicine, Pediatrics, Oncology, General Surgery, Neurology, Obstetrics and Gynecology, Internal medicine, Primary Care medicine, Neurology and Psychiatry, Psychology, ENT, Emergency Medicine, and Cardiology", "-"],
-        ]
-    },
+            ],
+            "row": [
+                {
+                    "5th Semester": "Pathology",
+                    "6th Semester": "Pathology"
+                },
+                {
+                    "5th Semester": "Pharmacology",
+                    "6th Semester": "Path physiology"
+                },
+                {
+                    "5th Semester": "Micro-Biology and Path physiology",
+                    "6th Semester": "Pharmacology,Genetics and principles of clinical medicine"
+                },
+            ]
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "info": "4th - 6th Year",
+            "colTitle": "7th-12th Semester",
+            "row": [
+                ["Oncology", "Internal medicine"],
+                ["Pediatrics", "General Surgery"],
+                ["Neurology", "Primary Care medicine"],
+                ["Neurology and Psychiatry", "Psychology"],
+                ["ENT", "Emergency Medicine"],
+                ["Cardiology", "Obstetrics and Gynecology"],
+                ["Internal Medicine, Pediatrics, Oncology, General Surgery, Neurology, Obstetrics and Gynecology, Internal medicine, Primary Care medicine, Neurology and Psychiatry, Psychology, ENT, Emergency Medicine, and Cardiology", "-"],
+            ]
+        },
 
-    {
-        type: "meta",
-        meta: [
-            { name: "title", content: "Yerevan State Medical University, Armenia - courses & Fees" },
-            { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia. check out courses and fees" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "Yerevan State Medical University, Armenia - courses & Fees"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/courses-and-fees" }
-        ]
-    }
-],
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Yerevan State Medical University, Armenia - courses & Fees" },
+                { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia. check out courses and fees" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Yerevan State Medical University, Armenia - courses & Fees"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/courses-and-fees" }
+            ]
+        }
+    ],
     "admission": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - Admission 2023'
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Yerevan State Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Yerevan State Medical University is as follows:",
             "img": '',
             "data": [
                 "Students must have more than 60% marks in 12th standard.",
@@ -571,7 +573,7 @@ export const yerevanstatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following is the admission process for applying to MBBS course at Yerevan State Medical University:</b>",
+            "info": "Following is the admission process for applying to MBBS course at Yerevan State Medical University:",
             "img": '',
             "data": [
                 "<b>Step 1:</b> Open the application form.",
@@ -584,7 +586,7 @@ export const yerevanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Yerevan State Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Yerevan State Medical University:",
             "img": '',
             "data": [
                 "Application (duly filled) to the RA Minister of Education and Science",
@@ -618,263 +620,295 @@ export const yerevanstatemedicaluniversity = {
             ]
         }
     ],
-        "review": [
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Yerevan State Medical University, Armenia - Reviews" },
-                    { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.. click here for more reviews" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Yerevan State Medical University, Armenia - Reviews"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/reviews" }
-                ]
-            }
-        ],
-            "placement": [
-                {
-                    "type": "list-bollet",
-                    "title": "placement",
-                    "info": "",
-                    "data": [
-                        "Graduates who pass the US Medical Licensing Examination (USMLE) can work in various countries, including the US.",
-                        "After receiving their degree, young graduates may seek work as doctors in India.",
-                        "Graduates of Yerevan State Medical University may serve in their own hospitals. As a result, students who have finished their degrees are eligible to work at Yerevan State Medical University.",
-                        "Yerevan State Medical University encourages graduates to continue their studies by providing higher educational opportunities.",
-                    ]
-                },
-                {
-                    type: "meta",
-                    meta: [
-                        { name: "title", content: "Yerevan State Medical University, Armenia - Placement" },
-                        { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia..check top recruiters" },
-                    ],
-                },
-                {
-                    type: "meta-title",
-                    title: "Yerevan State Medical University, Armenia - Placement"
-                },
-                {
-                    type: "meta-links",
-                    link: [
-                        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/placement" }
-                    ]
-                }
+    "review": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - Reviews'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Yerevan State Medical University, Armenia - Reviews" },
+                { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.. click here for more reviews" },
             ],
-                "gallery": [
-                    {
-                        type: "meta",
-                        meta: [
-                            { name: "title", content: "Yerevan State Medical University, Armenia - Gallery" },
-                            { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.click for more gallery information" },
-                        ],
-                    },
-                    {
-                        type: "meta-title",
-                        title: "Yerevan State Medical University, Armenia - Gallery"
-                    },
-                    {
-                        type: "meta-links",
-                        link: [
-                            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/gallery" }
-                        ]
-                    }
-                ],
-                    "scholarship": [
-                        {
-                            type: "meta",
-                            meta: [
-                                { name: "title", content: "Yerevan State Medical University, Armenia - Scholarship" },
-                                { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia. click for more scholarship information" },
-                            ],
-                        },
-                        {
-                            type: "meta-title",
-                            title: "Yerevan State Medical University, Armenia - Scholarship"
-                        },
-                        {
-                            type: "meta-links",
-                            link: [
-                                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/scholarship" }
-                            ]
-                        }
-                    ],
-                        "faculty": [
-                            {
-                                "type": "table",
-                                "title": "faculty",
-                                "info": "",
-                                "col": [
-                                    "Name",
-                                    "Designation"
+        },
+        {
+            type: "meta-title",
+            title: "Yerevan State Medical University, Armenia - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - Placement'
+        },
+        {
+            "type": "list-bollet",
+            "title": "placement",
+            "info": "",
+            "data": [
+                "Graduates who pass the US Medical Licensing Examination (USMLE) can work in various countries, including the US.",
+                "After receiving their degree, young graduates may seek work as doctors in India.",
+                "Graduates of Yerevan State Medical University may serve in their own hospitals. As a result, students who have finished their degrees are eligible to work at Yerevan State Medical University.",
+                "Yerevan State Medical University encourages graduates to continue their studies by providing higher educational opportunities.",
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Yerevan State Medical University, Armenia - Placement" },
+                { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia..check top recruiters" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Yerevan State Medical University, Armenia - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - Gallery'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Yerevan State Medical University, Armenia - Gallery" },
+                { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.click for more gallery information" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Yerevan State Medical University, Armenia - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - Scholarship'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Yerevan State Medical University, Armenia - Scholarship" },
+                { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia. click for more scholarship information" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Yerevan State Medical University, Armenia - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/scholarship" }
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - Faculty'
+        },
+        {
+            "type": "table",
+            "title": "faculty",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
 
-                                ],
-                                "row": [
-                                    {
-                                        "Name": "Meri Mkhitaryan",
-                                        "Designation": "Vice Dean of International Students, Human Anatomy Department, Lecturer"
-                                    },
-                                    {
-                                        "Name": "Karine Baroyan",
-                                        "Designation": "Head of Human Anatomy Department"
-                                    },
-                                    {
-                                        "Name": "Shushan Vardumyan",
-                                        "Designation": "Faculty of Public Health"
-                                    },
-                                    {
-                                        "Name": "Lazar Yesayan",
-                                        "Designation": "Faculty of Stomatology"
-                                    },
-                                    {
-                                        "Name": "Gayane Avetisyan",
-                                        "Designation": "Department of Topographic Anatomy and Operative Surgery, Docent (associate professor)"
-                                    },
-                                    {
-                                        "Name": "Anahit Aznauryan",
-                                        "Designation": "Assistant professor at Histology department"
-                                    },
-                                ]
-                            },
-                            {
-                                type: "meta",
-                                meta: [
-                                    { name: "title", content: "Yerevan State Medical University, Armenia - Faculty" },
-                                    { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.click for more Faculty information" },
-                                ],
-                            },
-                            {
-                                type: "meta-title",
-                                title: "Yerevan State Medical University, Armenia - Faculty"
-                            },
-                            {
-                                type: "meta-links",
-                                link: [
-                                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/faculty" }
-                                ]
-                            }
-                        ],
-                            "news": [
-                                {
-                                    type: "meta",
-                                    meta: [
-                                        { name: "title", content: "Yerevan State Medical University, Armenia - News & Articles" },
-                                        { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.click for more News and articles information" },
-                                    ],
-                                },
-                                {
-                                    type: "meta-title",
-                                    title: "Yerevan State Medical University, Armenia - News & Articles"
-                                },
-                                {
-                                    type: "meta-links",
-                                    link: [
-                                        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/news-and-articles" }
-                                    ]
-                                }
-                            ],
-                                "hostel": [
-                                    {
-                                        "type": "list-bollet",
-                                        "title": "Hostel & Accommodation",
-                                        "info": "<b>Below given are the hostel facilities at Yerevan State Medical University:</b>",
-                                        "data": [
-                                            "Yerevan State Medical University’s hostel is only 10 or 15 minutes away from the main campus, where the classes take place.",
-                                            "The hostel is open for all and it welcomes all students from all different faculties.",
-                                            "Facilities such as reading rooms, laundry rooms, communal kitchens, television, beds, computer clusters, and internet are available to the students of Yerevan State Medical University.",
-                                            "Students can get 3 bedded shared rooms or high end fine cubicles.",
-                                            "Rooms for students are well equipped and they are such that students will get timeless convenience and comfort for sure.",
-                                        ]
-                                    },
-                                    {
-                                        "type": "list-bollet",
-                                        "title": "",
-                                        "info": "",
-                                        "data": [
-                                            "hostel",
-                                            "Internet",
-                                            "Bed",
-                                            "Laundry",
-                                            "Reading Room",
+            ],
+            "row": [
+                {
+                    "Name": "Meri Mkhitaryan",
+                    "Designation": "Vice Dean of International Students, Human Anatomy Department, Lecturer"
+                },
+                {
+                    "Name": "Karine Baroyan",
+                    "Designation": "Head of Human Anatomy Department"
+                },
+                {
+                    "Name": "Shushan Vardumyan",
+                    "Designation": "Faculty of Public Health"
+                },
+                {
+                    "Name": "Lazar Yesayan",
+                    "Designation": "Faculty of Stomatology"
+                },
+                {
+                    "Name": "Gayane Avetisyan",
+                    "Designation": "Department of Topographic Anatomy and Operative Surgery, Docent (associate professor)"
+                },
+                {
+                    "Name": "Anahit Aznauryan",
+                    "Designation": "Assistant professor at Histology department"
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Yerevan State Medical University, Armenia - Faculty" },
+                { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.click for more Faculty information" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Yerevan State Medical University, Armenia - Faculty"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/faculty" }
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - News & Articles'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Yerevan State Medical University, Armenia - News & Articles" },
+                { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.click for more News and articles information" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Yerevan State Medical University, Armenia - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - Hostel'
+        },
+        {
+            "type": "list-bollet",
+            "title": "Hostel & Accommodation",
+            "info": "Below given are the hostel facilities at Yerevan State Medical University:",
+            "data": [
+                "Yerevan State Medical University’s hostel is only 10 or 15 minutes away from the main campus, where the classes take place.",
+                "The hostel is open for all and it welcomes all students from all different faculties.",
+                "Facilities such as reading rooms, laundry rooms, communal kitchens, television, beds, computer clusters, and internet are available to the students of Yerevan State Medical University.",
+                "Students can get 3 bedded shared rooms or high end fine cubicles.",
+                "Rooms for students are well equipped and they are such that students will get timeless convenience and comfort for sure.",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "hostel",
+                "Internet",
+                "Bed",
+                "Laundry",
+                "Reading Room",
 
-                                        ]
-                                    },
-                                    {
-                                        type: "meta",
-                                        meta: [
-                                            { name: "title", content: "Yerevan State Medical University, Armenia - Hostel" },
-                                            { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.click for more hostel information" },
-                                        ],
-                                    },
-                                    {
-                                        type: "meta-title",
-                                        title: "Yerevan State Medical University, Armenia - Hostel"
-                                    },
-                                    {
-                                        type: "meta-links",
-                                        link: [
-                                            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/hostel" }
-                                        ]
-                                    }
-                                ],
-                                    "faq": [
-                                        {
-                                            "type": "question-list",
-                                            "title": "Yerevan State Medical University - Important FAQs",
-                                            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                                            "data": [
-                                                {
-                                                    "ques": "Q. How are the food facilities at the university?",
-                                                    "ans": "The university campus has 4 cafeterias and one in the Hostel. These dining facilities operate on a non-commercial basis and they are affiliated to the Medical University. This is the reason why there is a significant drop in prices of meals served at these cafeterias. The prices are a third or a half of the market price of meals at other catering facilities in the city."
-                                                },
-                                                {
-                                                    "ques": "Q. Does the university have international relations with other medical institutes in the world?",
-                                                    "ans": "The university administration understands the importance of international collaboration and its benefits. Thus, it has agreements signed and reviewed between YSMU and various well-known medical universities in Central Asia, Europe, and the US"
-                                                },
-                                                {
-                                                    "ques": "Q. How many faculties are there at the Yerevan State Medical University from which a student can make a choice?",
-                                                    "ans": "There are 5 faculties and 102 academic departments at the university. The faculties are:- Faculty of General Medicine, The Faculty of Stomatology (Dentistry), The Faculty of Military Medicine, Faculty of Pharmacy, and Faculty of Public Health."
-                                                },
-                                                {
-                                                    "ques": "Q. Is the degree the same after studying mbbs at Yerevan state medical university?",
-                                                    "ans": "Yes, the degree you will get after studying General medicine course at Yerevan State Medical University is the MD Physician Degree which is the same as MBBS degree in India."
-                                                },
-                                                {
-                                                    "ques": "Q. Can I work outside Armenia after studying MBBS at Yerevan State Medical University?",
-                                                    "ans": "Yes, you can work in hospitals or health centers anywhere in the world after completing the MBBS at Yerevan State Medical University as it is NMC and WHO approved."
-                                                },
-                                                {
-                                                    "ques": "Q. What are the different extracurricular activities provided at the university?",
-                                                    "ans": "There is an extra-curricular department at the university, which provides all the different sports activities on campus that includes soccer, volleyball, basketball, powerlifting, chess, and dancing, theatre, drama, much more."
-                                                },
-                                                {
-                                                    "ques": "Q. What facilities students can get apart from hostel facilities at Yerevan State Medical University?",
-                                                    "ans": "Students can get all the facilities like WI-FI, canteen, laundry services, library, and reading room, etc. apart from hostels."
-                                                },
-                                            ]
-                                        },
-                                        {
-                                            type: "meta",
-                                            meta: [
-                                                { name: "title", content: "Yerevan State Medical University, Armenia - FAQ" },
-                                                { name: "description", content: "Yerevan State Medical University check out faq" },
-                                            ],
-                                        },
-                                        {
-                                            type: "meta-title",
-                                            title: "Yerevan State Medical University, Armenia - FAQ"
-                                        },
-                                        {
-                                            type: "meta-links",
-                                            link: [
-                                                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/faq" }
-                                            ]
-                                        }
-                                    ]
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Yerevan State Medical University, Armenia - Hostel" },
+                { name: "description", content: "Yerevan State Medical University is one of the top and the best medical institutes in Armenia.click for more hostel information" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Yerevan State Medical University, Armenia - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/hostel" }
+            ]
+        }
+    ],
+    "faq": [
+        {
+            type: 'title',
+            title: 'Yerevan State Medical University, Armenia - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Yerevan State Medical University - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. How are the food facilities at the university?",
+                    "ans": "The university campus has 4 cafeterias and one in the Hostel. These dining facilities operate on a non-commercial basis and they are affiliated to the Medical University. This is the reason why there is a significant drop in prices of meals served at these cafeterias. The prices are a third or a half of the market price of meals at other catering facilities in the city."
+                },
+                {
+                    "ques": "Q. Does the university have international relations with other medical institutes in the world?",
+                    "ans": "The university administration understands the importance of international collaboration and its benefits. Thus, it has agreements signed and reviewed between YSMU and various well-known medical universities in Central Asia, Europe, and the US"
+                },
+                {
+                    "ques": "Q. How many faculties are there at the Yerevan State Medical University from which a student can make a choice?",
+                    "ans": "There are 5 faculties and 102 academic departments at the university. The faculties are:- Faculty of General Medicine, The Faculty of Stomatology (Dentistry), The Faculty of Military Medicine, Faculty of Pharmacy, and Faculty of Public Health."
+                },
+                {
+                    "ques": "Q. Is the degree the same after studying mbbs at Yerevan state medical university?",
+                    "ans": "Yes, the degree you will get after studying General medicine course at Yerevan State Medical University is the MD Physician Degree which is the same as MBBS degree in India."
+                },
+                {
+                    "ques": "Q. Can I work outside Armenia after studying MBBS at Yerevan State Medical University?",
+                    "ans": "Yes, you can work in hospitals or health centers anywhere in the world after completing the MBBS at Yerevan State Medical University as it is NMC and WHO approved."
+                },
+                {
+                    "ques": "Q. What are the different extracurricular activities provided at the university?",
+                    "ans": "There is an extra-curricular department at the university, which provides all the different sports activities on campus that includes soccer, volleyball, basketball, powerlifting, chess, and dancing, theatre, drama, much more."
+                },
+                {
+                    "ques": "Q. What facilities students can get apart from hostel facilities at Yerevan State Medical University?",
+                    "ans": "Students can get all the facilities like WI-FI, canteen, laundry services, library, and reading room, etc. apart from hostels."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Yerevan State Medical University, Armenia - FAQ" },
+                { name: "description", content: "Yerevan State Medical University check out faq" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Yerevan State Medical University, Armenia - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/yerevan-state-medical-university/faq" }
+            ]
+        }
+    ]
 }

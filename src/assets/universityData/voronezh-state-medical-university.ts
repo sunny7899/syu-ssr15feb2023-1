@@ -20,7 +20,7 @@ export const voronezhstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Voronezh State Medical University - Quick Highlights",
-            "info": "<b>Given below is the table for quick facts about Voronezh State Medical University:</b>",
+            "info": "Given below is the table for quick facts about Voronezh State Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -37,7 +37,7 @@ export const voronezhstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Voronezh State Medical University?',
-            info: '<b>Below are some of the benefits of studying MBBS at Voronezh State Medical University:</b>',
+            info: 'Below are some of the benefits of studying MBBS at Voronezh State Medical University:',
             data: [
                 "The Voronezh State Medical University has a well-established coordination with the German Medical Association.",
                 "The university has a huge library with around 5,00,000 copies of books.",
@@ -53,7 +53,7 @@ export const voronezhstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Voronezh State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Voronezh State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Voronezh State Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -70,7 +70,7 @@ export const voronezhstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Voronezh State Medical University - FMGE Performance 2021",
-            "info": "<b>Voronezh State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Voronezh State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -90,7 +90,7 @@ export const voronezhstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Voronezh State Medical University is accredited by many medical bodies such as:</b>',
+            info: 'Voronezh State Medical University is accredited by many medical bodies such as:',
             data: [
                 "WHO (World Health Organization)",
                 "NMC (National Medical Commission)",
@@ -101,7 +101,7 @@ export const voronezhstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Voronezh",
-            "info": "<b>The cost of living at Voronezh city is as follows:</b>",
+            "info": "The cost of living at Voronezh city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -128,7 +128,7 @@ export const voronezhstatemedicaluniversity = {
                     "Cost": "costs between Rs.10,680 - Rs.16,990"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>',
         },
         {
             type: 'text',
@@ -159,9 +159,13 @@ export const voronezhstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Voronezh State Medical University - MBBS Fee Structure",
-            "info": "<b>The fee structure for Voronezh State Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Voronezh State Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -209,12 +213,12 @@ export const voronezhstatemedicaluniversity = {
                     "Year 6": "Rs. 3,33,700"
                 },
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1 USD = Rs. 71 (approx)</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1 USD = Rs. 71 (approx)</p>',
         },
         {
             type: 'list-bollet',
             title: 'Courses Offered at Voronezh State Medical University',
-            info: '<b>Voronezh State Medical University has following courses:</b>',
+            info: 'Voronezh State Medical University has following courses:',
             data: [
                 "General Medicine (MBBS)",
                 "Pediatrics (MBBS. Peds.)",
@@ -234,7 +238,7 @@ export const voronezhstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Voronezh State Medical University - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS Course at Voronezh State Medical University is as follows:</b><br>1st Year",
+            "info": "The complete syllabus for studying MBBS Course at Voronezh State Medical University is as follows:<br>1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -339,9 +343,13 @@ export const voronezhstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>The eligibility criteria to study MBBS at Voronezh State Medical University is as follows:</b>',
+            info: 'The eligibility criteria to study MBBS at Voronezh State Medical University is as follows:',
             data: [
                 "Students must have cleared NEET exam.",
                 "The student must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -352,7 +360,7 @@ export const voronezhstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following is the admission procedure for applying to MBBS course at Voronezh State Medical University:</b>',
+            info: 'Following is the admission procedure for applying to MBBS course at Voronezh State Medical University:',
             data: [
                 "Step 1: Applicants should fill the application form available online. They can send the documents via email.",
                 "Step 2: Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -365,7 +373,7 @@ export const voronezhstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: '<b>Following documents are required at the time of admission to Voronezh State Medical University:</b>',
+            info: 'Following documents are required at the time of admission to Voronezh State Medical University:',
             data: [
                 "Copy of the filled admission form (Scanned)",
                 "Copy of passing mark sheet and certificate of class 10th (scanned)>",
@@ -378,7 +386,7 @@ export const voronezhstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Voronezh State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Voronezh State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Voronezh State Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -418,6 +426,10 @@ export const voronezhstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Voronezh State Medical University, Russia - Reviews" },
@@ -436,6 +448,10 @@ export const voronezhstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - Placement'
+        },
         {
             type: 'list-bollet',
             title: '',
@@ -466,6 +482,10 @@ export const voronezhstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Voronezh State Medical University, Russia - Gallery" },
@@ -485,9 +505,13 @@ export const voronezhstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - Scholarship'
+        },
+        {
             type: 'list-bollet',
             title: '',
-            info: '<b>The scholarships provided at Voronezh State Medical University are as follows:</b>',
+            info: 'The scholarships provided at Voronezh State Medical University are as follows:',
             data: [
                 "Jared J. Davis Grant",
                 "Golden Key Graduate Scholar Award",
@@ -515,6 +539,10 @@ export const voronezhstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -570,6 +598,10 @@ export const voronezhstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Voronezh State Medical University, Russia - News & Articles" },
@@ -589,9 +621,13 @@ export const voronezhstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
-            info: '<b>Following are the hostel facilities at Voronezh State Medical University:</b>',
+            info: 'Following are the hostel facilities at Voronezh State Medical University:',
             data: [
                 "At the Voronezh State Medical university, hostels for the international students are located in the center of the city which is also close to the university.",
                 "Hostels of the university are well equipped with all the necessary things a student can need while staying there.",
@@ -634,9 +670,13 @@ export const voronezhstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Voronezh State Medical University, Russia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Voronezh State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How is the clinical base of the Voronezh state medical university?",

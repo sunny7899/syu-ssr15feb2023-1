@@ -19,7 +19,7 @@ export const loughboroughuniversity = {
         {
             "type": "table-title",
             "title": "Loughborough University - Quick Overview",
-            "info": "<b>Take a moment to explore main highlights of Loughborough University: </b>",
+            "info": "Take a moment to explore main highlights of Loughborough University: ",
             "col": [],
             "row": [
                 ["<b>University status</b>", "Public"],
@@ -36,7 +36,7 @@ export const loughboroughuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study at Loughborough University?",
-            "info": "<b>At Loughborough University, you'll make friends for life, explore potential and discover new passions, There are plenty of reasons why study here: </b>",
+            "info": "At Loughborough University, you'll make friends for life, explore potential and discover new passions, There are plenty of reasons why study here: ",
             "data": [
                 "The institute is a member of the top international academic network, UNITECH International, and also collaborated with many international institutes including MIT, IIT Delhi, and Nanyang Technological University.",
                 "It has strong links with funding agencies and sponsors- Brunei High Commission, the Libyan Embassy, Oman Cultural Attaché Office and the Chevening Organization.",
@@ -52,7 +52,7 @@ export const loughboroughuniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities",
-            "info": "<b>With a range of facilities across both the campuses, the institute is dedicated to providing an enjoyable and enriching student experience: </b>",
+            "info": "With a range of facilities across both the campuses, the institute is dedicated to providing an enjoyable and enriching student experience: ",
             "data": [
                 "Sports",
                 "Library",
@@ -62,7 +62,7 @@ export const loughboroughuniversity = {
         {
             "type": "list-bollet",
             "title": "Affiliations and Recognition",
-            "info": "<b>All postgraduate and undergraduate programmes accredited by professional and prestigious bodies: </b>",
+            "info": "All postgraduate and undergraduate programmes accredited by professional and prestigious bodies: ",
             "data": [
                 "Universities UK",
                 "Wallace Group",
@@ -80,7 +80,7 @@ export const loughboroughuniversity = {
         {
             "type": "table",
             "title": "Living Cost of Leicester, England",
-            "info": "<b>Before starting education at Loughborough University, it's important to check the Leicester city expenses you are likely to face and how to manage your money: </b>",
+            "info": "Before starting education at Loughborough University, it's important to check the Leicester city expenses you are likely to face and how to manage your money: ",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -141,14 +141,19 @@ export const loughboroughuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Loughborough University, UK - courses & Fees"
+
+        },
+        {
             "type": "text",
             "title": "Loughborough University - Program & Course Duration",
-            "data": "<p>Undergraduate</p>"
+            "data": "Undergraduate"
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b>Engineering</b>",
+            "info": "Engineering",
             "col": [
                 "Programs",
                 "Duration",
@@ -209,7 +214,7 @@ export const loughboroughuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Business</b>",
+            "info": "Business",
             "col": [
                 "Programs",
                 "Duration",
@@ -270,7 +275,7 @@ export const loughboroughuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Arts</b>",
+            "info": "Arts",
             "col": [
                 "Programs",
                 "Duration",
@@ -319,7 +324,7 @@ export const loughboroughuniversity = {
         {
             "type": "table",
             "title": "Postgraduate",
-            "info": "<b>Engineering</b>",
+            "info": "Engineering",
             "col": [
                 "Programs",
                 "Duration",
@@ -380,7 +385,7 @@ export const loughboroughuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Business</b>",
+            "info": "Business",
             "col": [
                 "Programs",
                 "Duration",
@@ -435,7 +440,7 @@ export const loughboroughuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Arts</b>",
+            "info": "Arts",
             "col": [
                 "Programs",
                 "Duration",
@@ -495,9 +500,14 @@ export const loughboroughuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Loughborough University, UK - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Loughborough University - Entry Requirements",
-            "info": "<b>Undergraduate</b>",
+            "info": "Undergraduate",
             "data": [
                 "Applicants must have completed 12th standard with 78% - 88% average performance from the best 4 subjects awarded by CBSE, ICSE or West Bengal Exam Boards.",
                 "Students from other state boards should acquire scores between 83% - 93% from the best 4 subjects, specific subject marks in 10th or 12th standard may be required for some programs.",
@@ -507,7 +517,7 @@ export const loughboroughuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Postgraduate</b>",
+            "info": "Postgraduate",
             "col": [
                 "Particular",
                 "First-class honours (70%)",
@@ -532,7 +542,7 @@ export const loughboroughuniversity = {
         {
             "type": "list-bollet",
             "title": "English Language Requirements",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "Score 6.5 overall with 6.0 in each individual element (reading, writing, listening and speaking) in IELTS examination to satisfy English language requirements.",
                 "Some courses may require high levels of English language.",
@@ -542,7 +552,7 @@ export const loughboroughuniversity = {
         {
             "type": "step-list",
             "title": "Loughborough University - Admission Process",
-            "info": "<b>The admission process is slightly different for some courses, we’ve outlined the steps you need to follow to enroll in Loughborough University: </b>",
+            "info": "The admission process is slightly different for some courses, we’ve outlined the steps you need to follow to enroll in Loughborough University: ",
             "data": [
                 "Step 1: The students willing to pursue education in the UK must fill the application form at Loughborough University.",
                 "Step 2: Candidates must attach important documents along with the form and submit them.",
@@ -554,7 +564,7 @@ export const loughboroughuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required for UG & PG Courses",
-            "info": "<b>The international students must don’t forget to carry all important documents at the time of admission: </b>",
+            "info": "The international students must don’t forget to carry all important documents at the time of admission: ",
             "data": [
                 "Application form",
                 "Academic certificates",
@@ -597,6 +607,11 @@ export const loughboroughuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Loughborough University, UK - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Loughborough University, UK - Reviews" },
@@ -616,9 +631,14 @@ export const loughboroughuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Loughborough University, UK - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "placement",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "Graduates might return to India and seek work after completing their various degrees.",
                 "Internships and jobs in and around the UK are encouraged for students at Loughborough University."
@@ -679,6 +699,11 @@ export const loughboroughuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Loughborough University, UK - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Loughborough University, UK - Gallery" },
@@ -698,9 +723,14 @@ export const loughboroughuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Loughborough University, UK - Scholarship"
+
+        },
+        {
             "type": "table",
             "title": "Scholarships",
-            "info": "<b>Loughborough University provides a wide range of financial help to assist students while the university journey: </b>",
+            "info": "Loughborough University provides a wide range of financial help to assist students while the university journey: ",
             "col": [
                 "Scholarships",
                 "Course",
@@ -748,6 +778,11 @@ export const loughboroughuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Loughborough University, UK - Faculty"
+
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -799,6 +834,11 @@ export const loughboroughuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Loughborough University, UK - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Loughborough University, UK - News & Articles" },
@@ -818,9 +858,14 @@ export const loughboroughuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Loughborough University, UK - Hostel"
+
+        },
+        {
             "type": "table",
             "title": "Accommodation",
-            "info": "<b>Loughborough University provides comfortable accommodation options for students: </b> <br> 17 halls of residence",
+            "info": "Loughborough University provides comfortable accommodation options for students: </b> <br> 17 halls of resid",
             "col": [
                 "Name",
                 "Location",
@@ -958,9 +1003,14 @@ export const loughboroughuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Loughborough University, UK - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "FAQs for Loughborough University",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is there any scholarship available for the international students at Loughborough University?",

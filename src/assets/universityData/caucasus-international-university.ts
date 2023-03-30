@@ -22,7 +22,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "table-title",
             "title": "Caucasus International University - Important Highlights",
-            "info": "<b>Check out some major facts of Caucasus International University if you want to pursue MBBS career:</b>",
+            "info": "Check out some major facts of Caucasus International University if you want to pursue MBBS career:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Caucasus International University?",
-            "info": "<b>The students across the globe seeking to pursue MBBS career must choose Caucasus International University for MBBS education:</b>",
+            "info": "The students across the globe seeking to pursue MBBS career must choose Caucasus International University for MBBS education:",
             "img": '',
             "data": [
                 "The medium of teaching for MBBS education is English and Georgian language.",
@@ -57,7 +57,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction used at Caucasus International University for MBBS education is mentioned below:</b>",
+            "info": "The medium of instruction used at Caucasus International University for MBBS education is mentioned below:",
             "img": '',
             "data": [
                 "English language",
@@ -69,7 +69,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "table",
             "title": "Caucasus International University - Ranking 2022",
-            "info": "<b> Refer Uni rank for the country and world ranking of Caucasus International University mentioned below:</b>",
+            "info": " Refer Uni rank for the country and world ranking of Caucasus International University mentioned below:",
             "col": [
                 "World",
                 "Country",
@@ -87,7 +87,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The university is affiliated, acknowledged and accredited by many authorities mentioned below:</b>",
+            "info": "The university is affiliated, acknowledged and accredited by many authorities mentioned below:",
             "img": '',
             "data": [
                 "Caucasus International University was included in the list of acknowledged foreign Medical Institutions by National Medical Commission (NMC) in 2016.",
@@ -104,7 +104,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "table",
             "title": "Caucasus International University - FMGE Performance 2021",
-            "info": "<b>Caucasus International University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Caucasus International University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -114,7 +114,7 @@ export const caucasusinternationaluniversity = {
 
             "row": [
                 {
-                    "Name of University": "<b>Caucasus International University			                    </b>",
+                    "Name of University": "<b>Caucasus International University</b>",
                     "Appeared": "15",
                     "Total Pass": "6",
                     "Pass %": "40.00%",
@@ -125,7 +125,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities at Caucasus International University",
-            "info": "<b>Well equipped facilities are available in Caucasus International University at the comfort zone of students:</b>",
+            "info": "Well equipped facilities are available in Caucasus International University at the comfort zone of students:",
             "img": '',
             "data": [
                 "The university provides labs operating such as Anatomy room, which is equipped with the modern anatomical models and phantoms, Biochemical Teaching Laboratory, Research Laboratory of Neuroscience and Applied Physiology-students can do experiments on animals.",
@@ -135,7 +135,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Tbilisi, Georgia",
-            "info": "<b>The living cost of Tbilisi, Georgia is affordable for worldwide students, Refer the table mentioned below according to monthly expenses:</b>",
+            "info": "The living cost of Tbilisi, Georgia is affordable for worldwide students, Refer the table mentioned below according to monthly expenses:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -173,7 +173,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Tbilisi City",
-            "info": "<b>Information about Tbilisi city mentioned below:</b>",
+            "info": "Information about Tbilisi city mentioned below:",
             "img": 'https://www.selectyouruniversity.com/images/georgia-universities/caucasus-international-university-city.jpg',
             "data": [
                 "Tbilisi is the capital city of Georgia, An old town with a large history of periods under Persian and Russian rule.",
@@ -187,7 +187,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Mesmerizing places of Tbilisi city -</b>",
+            "info": "Mesmerizing places of Tbilisi city -",
             "col": [
             ],
             "row": [
@@ -225,9 +225,13 @@ export const caucasusinternationaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Caucasus International University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Caucasus International University - MBBS Fee Structure",
-            "info": "<b>Fee structure of the Caucasus International University is low as compared to other institutions mentioned below:</b>",
+            "info": "Fee structure of the Caucasus International University is low as compared to other institutions mentioned below:",
             "col": [
                 "Particular",
                 "Course Fee",
@@ -255,7 +259,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Caucasus International University - MBBS Course Duration",
-            "info": "<b>Mentioned below is the duration of MBBS course:</b>",
+            "info": "Mentioned below is the duration of MBBS course:",
             "data": [
                 "The medical aspirants must undergo <b>6 years</b> of MBBS course at Caucasus International University.",
                 "The MBBS education will be in English and Georgian language.",
@@ -344,7 +348,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Faculties Offered at Caucasus International University",
-            "info": "<b>The medical courses offered by Caucasus International University are mentioned below:</b>",
+            "info": "The medical courses offered by Caucasus International University are mentioned below:",
             "data": [
                 "Pharmacy",
                 "Physical Medicine and Rehabilitation",
@@ -373,9 +377,13 @@ export const caucasusinternationaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Caucasus International University - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>If the students strive to get admission in medicine program at Caucasus International University, then the following requirements mentioned below have to be met:</b>",
+            "info": "If the students strive to get admission in medicine program at Caucasus International University, then the following requirements mentioned below have to be met:",
             "data": [
                 "The applicant's age should be 17 years old as on 31st December of the admission year.",
                 "The applicant must obtain at least 50% marks in the higher secondary examination or equivalent examination from the recognised board.",
@@ -387,7 +395,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>The students who seek to get MBBS at Caucasus International University must follow the mentioned below steps:</b>",
+            "info": "The students who seek to get MBBS at Caucasus International University must follow the mentioned below steps:",
             "data": [
                 "<b>Step 1:</b> Candidates must submit the correctly filled application form.",
                 "<b>Step 2:</b> The candidates must submit the educational certificates and other essential documents required for MBBS admission.",
@@ -401,7 +409,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The students must bring the important documents required during MBBS admission process at Caucasus International University:</b>",
+            "info": "The students must bring the important documents required during MBBS admission process at Caucasus International University:",
             "data": [
                 "Candidate must submit the application form.",
                 "Candidates must have NEET examination results.",
@@ -437,6 +445,10 @@ export const caucasusinternationaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Caucasus International University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Caucasus International University - Reviews" },
@@ -455,6 +467,10 @@ export const caucasusinternationaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Caucasus International University - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placements",
@@ -486,6 +502,10 @@ export const caucasusinternationaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Caucasus International University - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Caucasus International University - Gallery" },
@@ -504,6 +524,10 @@ export const caucasusinternationaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Caucasus International University - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -524,6 +548,10 @@ export const caucasusinternationaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Caucasus International University - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Caucasus International University - Faculty" },
@@ -542,6 +570,10 @@ export const caucasusinternationaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Caucasus International University - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -562,9 +594,13 @@ export const caucasusinternationaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Caucasus International University - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation Facility",
-            "info": "<b>Caucasus International University offers its own student accommodation which is well equipped with all amenities:</b>",
+            "info": "Caucasus International University offers its own student accommodation which is well equipped with all amenities:",
             "data": [
                 "Caucasus International University offers safe hostel rooms.",
                 "Separate space for boys and girls.",
@@ -590,7 +626,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>All basic requirements are fully-filled at Caucasus International University hostel system -</b>",
+            "info": "All basic requirements are fully-filled at Caucasus International University hostel system -",
             "data": [
                 "Electricity",
                 "Water Supply",
@@ -607,7 +643,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Well-equipped facilities are available at student comfort zones -</b>",
+            "info": "Well-equipped facilities are available at student comfort zones -",
             "data": [
                 "Heating",
                 "Cooling",
@@ -625,7 +661,7 @@ export const caucasusinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Hostel rooms are accessible with proper -</b>",
+            "info": "Hostel rooms are accessible with proper -",
             "data": [
                 "Bedding",
                 "Study Table",
@@ -657,9 +693,13 @@ export const caucasusinternationaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Caucasus International University - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Caucasus International University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How many Indian students are studying MBBS at Caucasus International University?",

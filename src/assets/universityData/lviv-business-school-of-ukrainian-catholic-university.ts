@@ -20,7 +20,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       "type": "table-title",
       "title": "Lviv Business School of Ukrainian Catholic University - Important Highlights",
-      "info": "<b>Every candidate must go through the basic key points related to the Lviv Business School (LvBS):</b>",
+      "info": "Every candidate must go through the basic key points related to the Lviv Business School (LvBS):",
       "row": [
         ["<b>Course Duration</b>", "Key Executive MBA - 22 months<br>Technology Management - 22 months<br>MA in Human Resources and Organization Development - 22 months<br>MSc in Innovation and Entrepreneurship<br>MSc in Marketing Management - 22 months"],
         ["<b>Programs</b>", "Key Executive MBA<br>Technology Management<br>MA in Human Resources and Organization Development<br>MSc in Innovation and Entrepreneurship<br>MSc in Marketing Management"],
@@ -33,7 +33,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: 'Why Study MBA at Lviv Business School of Ukrainian Catholic University?',
-      info: '<b>Lviv Business School offers quality education and the students enjoy all benefits at comfort zone:</b>',
+      info: 'Lviv Business School offers quality education and the students enjoy all benefits at comfort zone:',
       data: [
         "Lviv Business School offers quality education to the students coming to pursue business.",
         "The college offers low-cost MBA education to students who are coming from different parts of the world.",
@@ -52,7 +52,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       "type": "table",
       "title": "Lviv Business School of Ukrainian Catholic University - Ranking 2022",
-      "info": "<b>According to 4icu.org, following is the country and world ranking for Lviv Business School of Ukrainian Catholic University:</b>",
+      "info": "According to 4icu.org, following is the country and world ranking for Lviv Business School of Ukrainian Catholic University:",
       "col": [
         "Country",
         "World",
@@ -68,7 +68,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: 'Facilities Provided at Lviv Business School',
-      info: '<b>The students can enjoy every facility at Lviv Business School of Ukrainian Catholic University at an affordable price:</b>',
+      info: 'The students can enjoy every facility at Lviv Business School of Ukrainian Catholic University at an affordable price:',
       data: [
         "The students are safe here in every respect due to the strong security with CCTV cameras installed on the campus of Lviv Business School.",
         "Lviv Business School has large classrooms with modern technologies for better education.",
@@ -131,13 +131,13 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'text',
       title: 'Medium of Teaching',
-      info: '<b>The medium of teaching at the Lviv Business School is both Ukrainian and English languages:</b>',
+      info: 'The medium of teaching at the Lviv Business School is both Ukrainian and English languages:',
       data: '<p><b>The medium of teaching at the Lviv Business School is both Ukrainian and English languages:</b></p><p>100 % English and Ukrainian language is available at Lviv Business School.</p>',
     },
     {
       type: 'list-bollet',
       title: 'Accreditation and Recognition',
-      info: '<b>The Lviv Business School of Ukrainian Catholic University has official acknowledgment from the different organization:</b>',
+      info: 'The Lviv Business School of Ukrainian Catholic University has official acknowledgment from the different organization:',
       data: [
         "The Lviv Business School of Ukrainian Catholic University- LvBS has received the International Quality Accreditation (IQA) of the Central and East European Management Development Association (CEEMAN).",
         "The LvBS also has acquired accreditation from PRIME – Principles for Responsible Management Education and is also a member of the Business Graduates Association."
@@ -147,7 +147,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       "type": "table",
       "title": 'Cost of Living',
-      "info": '<b>Lviv city of Ukraine has an affordable cost of living that makes students choose Lviv Business School:</b>',
+      "info": 'Lviv city of Ukraine has an affordable cost of living that makes students choose Lviv Business School:',
       "col": [
         "Particulars",
         "Approx range in USD",
@@ -190,9 +190,14 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - courses & Fees"
+
+    },
+    {
       "type": "table",
       "title": 'Lviv Business School of Ukrainian Catholic University - Fee Structure 2022',
-      "info": '<b>The institute provides cost-effective tuition fee for MBA education concerning the affordability of the students:</b>',
+      "info": 'The institute provides cost-effective tuition fee for MBA education concerning the affordability of the students:',
       "col": [
         "Particular",
         "Annual Fee in USD",
@@ -233,7 +238,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: 'Courses Offered at Lviv Business School of Ukrainian Catholic University',
-      info: '<b>Various courses are provided at Lviv Business School, the students must have a look at it:</b>',
+      info: 'Various courses are provided at Lviv Business School, the students must have a look at it:',
       data: [
         "Key Executive MBA",
         "Technology Management",
@@ -247,8 +252,8 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: 'Lviv Business School of Ukrainian Catholic University - Syllabus',
-      info: '<b>The students must go through the detailed syllabus of Lviv Business School for obtaining greater knowledge:</b>',
-      textBelowInfo: '<b>1 Key Executive MBA Program</b><p>Basic training blocks and courses of the Key Executive MBA program</p><p><b>Business philosophy</b></p>',
+      info: 'The students must go through the detailed syllabus of Lviv Business School for obtaining greater knowledge:',
+      textBelowInfo: '1 Key Executive MBA Program</b><p>Basic training blocks and courses of the Key Executive MBA program</p><p><b>Business philosophy</b>',
       data: [
         "Business philosophy and organizational ethics",
         "Economic systems and models",
@@ -258,7 +263,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Business Strategies</b>',
+      info: 'Business Strategies',
       data: [
         "Business modeling and design",
         "Strategic marketing",
@@ -270,7 +275,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Process Management</b>',
+      info: 'Process Management',
       data: [
         "Analytics for decision making",
         "Managerial Accounting",
@@ -281,7 +286,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Leadership, Self-Management, and People</b>',
+      info: 'Leadership, Self-Management, and People',
       data: [
         "Transformational Leadership (includes Mountain Leadership)",
         "Strategic people management",
@@ -291,7 +296,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Business Development and Scaling</b>',
+      info: 'Business Development and Scaling',
       data: [
         "Change management",
         "Business breakthrough models",
@@ -302,8 +307,8 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>2 MSc in Technology Management</b>',
-      textBelowInfo: '<b>13 modules: 10 compulsory + 3 elective</b><p><b>Courses related to technology:</b></p>',
+      info: '2 MSc in Technology Management',
+      textBelowInfo: '13 modules: 10 compulsory + 3 elective</b><p><b>Courses related to technology:</b>',
       data: [
         "IT strategies",
         "New technologies",
@@ -316,7 +321,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Business and management courses:</b>',
+      info: 'Business and management courses:',
       data: [
         "Business as a system",
         "Strategic marketing",
@@ -332,7 +337,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Practical classes on soft skills:</b>',
+      info: 'Practical classes on soft skills:',
       data: [
         "Emotional intelligence",
         "Effective presentation",
@@ -343,7 +348,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Elective courses:</b>',
+      info: 'Elective courses:',
       data: [
         "Program participants have the opportunity to choose 3 courses from the list of elective courses of the business school (eg Brand Management, Project Management, Organizational Development, etc.)",
       ]
@@ -351,7 +356,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>International study tour to Israel:</b>',
+      info: 'International study tour to Israel:',
       data: [
         "A week-long study tour to one of the world's top innovative ecosystems",
         "Company visits: R&D centers, high-tech corporations, startups, venture funds, incubators, and universities",
@@ -361,7 +366,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Final project:</b>',
+      info: 'Final project:',
       data: [
         "Types of projects: corporate project, consulting project, the launch of a new company/product, research, etc.",
         "The project is written with the help of program mentors",
@@ -371,7 +376,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>At the end of the program, participants must:</b>',
+      info: 'At the end of the program, participants must:',
       data: [
         "improve strategic business thinking",
         "learn to manage technology strategically",
@@ -387,8 +392,8 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>3 MA in Human Resources and Organization Development</b>',
-      textBelowInfo: '<b>The main part of the program includes the following courses:</b>',
+      info: '3 MA in Human Resources and Organization Development',
+      textBelowInfo: 'The main part of the program includes the following courses:',
       data: [
         "International HRM",
         "Business as a system",
@@ -416,8 +421,8 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b> 4 MSc in Innovations and Entrepreneurship</b>',
-      textBelowInfo: '<b>MSc in Innovations and Entrepreneurship core courses-</b><p><b>The innovative and strategic component</b></p>',
+      info: ' 4 MSc in Innovations and Entrepreneurship',
+      textBelowInfo: 'MSc in Innovations and Entrepreneurship core courses-</b><p><b>The innovative and strategic component</b>',
       data: [
         "Theory of innovation and entrepreneurship",
         "Teamwork experts",
@@ -435,7 +440,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Fundamentals of Finance, which includes the following courses-</b>',
+      info: 'Fundamentals of Finance, which includes the following courses-',
       data: [
         "Fundamentals of Financial Accounting and Reporting",
         "Cost Management",
@@ -452,8 +457,8 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>5 MSc in Marketing Management</b>',
-      textBelowInfo: '<b>Economics, business and management</b>',
+      info: '5 MSc in Marketing Management',
+      textBelowInfo: 'Economics, business and management',
       data: [
         "Business as a system",
         "Economics for business",
@@ -465,7 +470,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Data and analytics</b>',
+      info: 'Data and analytics',
       data: [
         "Market analysis and marketing research",
         "Consumer behaviour",
@@ -479,7 +484,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Customer relationship management and communication</b>',
+      info: 'Customer relationship management and communication',
       data: [
         "Brand management",
         "Databases and customer experience management",
@@ -491,7 +496,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Digital marketing</b>',
+      info: 'Digital marketing',
       data: [
         "Social Media Marketing",
         "SEO, PPC, targeting, E-commerce",
@@ -501,7 +506,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Leadership, strategies, ethics</b>',
+      info: 'Leadership, strategies, ethics',
       data: [
         "Leadership",
         "Marketing ethics",
@@ -511,7 +516,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Elective courses</b>',
+      info: 'Elective courses',
       data: [
         "Program participants have the opportunity to choose 3 courses from the list of elective courses of business school (Project Management, Organizational Development, Business Process Modeling, Emotional Intelligence, and others)"
       ]
@@ -519,7 +524,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       "type": "table",
       "title": 'Lviv Business School of Ukrainian Catholic University - Course Duration',
-      "info": '<b>Lviv Business school offers students a variety of programs in MBA. Here is the course durations for each course program offered:</b>',
+      "info": 'Lviv Business school offers students a variety of programs in MBA. Here is the course durations for each course program offered:',
       "col": [
         "Programs",
         "Course Duration",
@@ -565,10 +570,15 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - Admission 2023"
+
+    },
+    {
       type: 'list-bollet',
       title: 'Eligibility Criteria',
-      info: '<b>The eligibility criteria for students willing to study at LvBS is different for every program:</b>',
-      textBelowInfo: '<b>1 Key Executive MBA</b>',
+      info: 'The eligibility criteria for students willing to study at LvBS is different for every program:',
+      textBelowInfo: '1 Key Executive MBA',
       data: [
         "The students must have a management position in the company.",
         "Every candidate must have at least 5 years of management experience.",
@@ -577,7 +587,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: 'Eligibility Criteria',
-      info: '<b>2 MSc in Marketing Management</b>',
+      info: '2 MSc in Marketing Management',
       data: [
         "The students must complete a bachelor's degree in any specialty.",
         "Candidates must have experience or practice in marketing or SMM from 6 months to 1 year.",
@@ -589,8 +599,8 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: 'Admission Process',
-      info: '<b>The applicants willing to study must follow all admission steps at Lviv Business School:</b>',
-      textBelowInfo: "<b>1 Key Executive MBA</b>",
+      info: 'The applicants willing to study must follow all admission steps at Lviv Business School:',
+      textBelowInfo: "1 Key Executive MBA",
       data: [
         "To apply for the program the students need to fill in the application form.",
         "The students must pass the introductory interview.",
@@ -601,7 +611,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>2 Technology Management</b>',
+      info: '2 Technology Management',
       data: [
         "The students must fill in the application form.",
         "The candidates should first pass the introductory interview to enroll in the institute.",
@@ -613,7 +623,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>3 MA in Human Resources and Organization Development</b>',
+      info: '3 MA in Human Resources and Organization Development',
       data: [
         "The students should register for the program on the official website of the college.",
         "The candidates must pass the introductory interview.",
@@ -626,7 +636,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       type: 'list-bollet',
       title: 'Documents Required',
-      info: '<b>The global candidates must keep all important documents for admission in MBA program:</b>',
+      info: 'The global candidates must keep all important documents for admission in MBA program:',
       data: [
         "Application form",
         "24 coloured photos - sized 30х40",
@@ -653,7 +663,7 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     {
       "type": "table",
       "title": "Lviv Business School of Ukrainian Catholic University - Academic Calendar 2022",
-      "info": "<b>Always keep yourself updated with the important dates regarding admissions at Lviv Business School:</b>",
+      "info": "Always keep yourself updated with the important dates regarding admissions at Lviv Business School:",
       "col": [
         "Events",
         "Date",
@@ -699,6 +709,11 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - Reviews"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Lviv Business School of Ukrainian Catholic University, Ukraine - Reviews" },
@@ -717,6 +732,11 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - Placement"
+
+    },
     {
       type: "meta",
       meta: [
@@ -737,6 +757,11 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - Gallery"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Lviv Business School of Ukrainian Catholic University, Ukraine - Gallery" },
@@ -756,6 +781,11 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - Scholarship"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Lviv Business School of Ukrainian Catholic University, Ukraine - Scholarship" },
@@ -774,6 +804,11 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - Faculty"
+
+    },
     {
       "type": "table",
       "title": "Faculty",
@@ -823,6 +858,11 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
   ],
   "news": [
     {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - News & Articles"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Lviv Business School of Ukrainian Catholic University, Ukraine - News & Articles" },
@@ -842,9 +882,14 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - Hostel"
+
+    },
+    {
       type: 'list-bollet',
       title: 'Hostel & Accommodation',
-      info: '<b>Lviv Business School provides on-campus accommodation facilities available for the students:</b>',
+      info: 'Lviv Business School provides on-campus accommodation facilities available for the students:',
       data: [
         "The Lviv Business School provides separate hostel facilities for men and women.",
         "The hostel rooms are well furnished with attached bathrooms/toilets.",
@@ -893,9 +938,14 @@ export const lvivbusinessschoolofukrainiancatholicuniversity = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: "Lviv Business School of Ukrainian Catholic University, Ukraine - FAQ"
+
+    },
+    {
       type: 'question-list',
       title: 'Lviv Business School of Ukrainian Catholic University - Important FAQs',
-      info: "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      info: "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       data: [
         {
           "ques": "Q. What are the other expenses apart from the MBA program fee at Lviv Business School?",

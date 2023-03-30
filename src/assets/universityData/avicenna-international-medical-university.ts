@@ -19,7 +19,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Avicenna International Medical University - Quick Overview 2022",
-            "info": "<b>If you are looking to study MBBS in Kyrgyzstan, then have a quick overview on some important points of Avicenna International Medical University:</b>",
+            "info": "If you are looking to study MBBS in Kyrgyzstan, then have a quick overview on some important points of Avicenna International Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September and October"],
@@ -38,7 +38,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Avicenna International Medical University?",
-            "info": "<b>Below are some facts which make it easier for a student to select MBBS at Avicenna International Medical University:</b>",
+            "info": "Below are some facts which make it easier for a student to select MBBS at Avicenna International Medical University:",
             "data": [
                 "Tuition Fees of MBBS course for both Local as well as foreign students are lower than any other Medical Universities withinside the country and abroad.",
                 "Faculty is enriched with highly qualified, skilled and devoted instructors with academic, clinical and research expertise",
@@ -52,7 +52,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "tabel",
             "title": "Avicenna International Medical University Ranking 2022",
-            "info": "<b>According to Webometrics.info, following is the country and world ranking for Avicenna International Medical University:</b>",
+            "info": "According to Webometrics.info, following is the country and world ranking for Avicenna International Medical University:",
             "col": [
                 "Country Ranking",
                 "World Ranking"
@@ -72,7 +72,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Infrastructure & Facilities Provided at Avicenna International Medical University",
-            "info": "<b>The infrastructure and facilities at Avicenna International Medical University are as follows:</b>",
+            "info": "The infrastructure and facilities at Avicenna International Medical University are as follows:",
             "data": [
                 "Avicenna International Medical University has many modern facilities which attract students.",
                 "They provide dormitories for the students that are equipped with all the necessary facilities such as 24 hrs running hot and cold water.",
@@ -85,7 +85,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition of Avicenna International Medical University",
-            "info": "<b>Avicenna International Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "Avicenna International Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "Ministry of Education, Kyrgyzstan",
                 "GMC(General Medical Council, UK)",
@@ -99,14 +99,9 @@ export const avicennainternationalmedicaluniversity = {
             ]
         },
         {
-            "type": "text",
-            "title": "Affiliated Hospitals",
-            "data": "<p>A high wellknown health care with updated diagnostic and service facilities are available withinside the attached teaching hospitals of Avicenna International Medical University. It has the modern coaching and research centers in all the required topics as well as the excellent specialized Cardio-thoracic, Neurosurgery and cancer in particular. The hospital is also having some of clean Operation Theaters with central air-conditioning both at inpatient and outpatient departments.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Affiliated Hospitals",
+            "info": "A high wellknown health care with updated diagnostic and service facilities are available withinside the attached teaching hospitals of Avicenna International Medical University. It has the modern coaching and research centers in all the required topics as well as the excellent specialized Cardio-thoracic, Neurosurgery and cancer in particular. The hospital is also having some of clean Operation Theaters with central air-conditioning both at inpatient and outpatient departments.",
             "data": [
                 "Issyk-Ata Region Hospital",
                 "Traumatology and orthopedic hospital",
@@ -123,7 +118,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "tabel",
             "title": "What is the Cost of Living in Bishkek? ",
-            "info": "<b>Following are the living expenses at Bishkek city:</b>",
+            "info": "Following are the living expenses at Bishkek city:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -178,9 +173,13 @@ export const avicennainternationalmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Avicenna International Medical University, Kyrgyzstan - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Avicenna International Medical University Fee Structure 2022",
-            "info": "<b>Avicenna International Medical University has an affordable fee structure for Indian students, the average annual cost for MBBS is 3.50 lacs, for detailed fee structure have a look below:</b>",
+            "info": "Avicenna International Medical University has an affordable fee structure for Indian students, the average annual cost for MBBS is 3.50 lacs, for detailed fee structure have a look below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -238,7 +237,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Courses Offered at Avicenna International Medical University",
-            "info": "<b>At Avicenna International Medical University, below mentioned different courses in medicine are offered:</b>",
+            "info": "At Avicenna International Medical University, below mentioned different courses in medicine are offered:",
             "col": [],
             "row": [
                 ["Medical", "Pharmacy"],
@@ -263,7 +262,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Avicenna International Medical University - MBBS Syllabus (Semester wise)",
-            "info": "<b>The complete syllabus for studying MBBS at Avicenna International Medical University is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Avicenna International Medical University is as follows:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -380,9 +379,13 @@ export const avicennainternationalmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Avicenna International Medical University, Kyrgyzstan - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Avicenna International Medical University - Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Avicenna International Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Avicenna International Medical University is as follows:",
             "data": [
                 "Candidates need to have a score of at least 50% and subjects as Physics, Chemistry and Biology.",
                 "Candidate need to have passed NEET.",
@@ -393,7 +396,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             type: 'step-list',
             title: 'How to take Admission in Avicenna International Medical University?',
-            info: '<b>There are easy steps to complete the admission procedure at Avicenna International Medical University:</b>',
+            info: 'There are easy steps to complete the admission procedure at Avicenna International Medical University:',
             data: [
                 "Step 1: Filling Out the Application",
                 "Step 2: Letter of Application for Admission",
@@ -410,7 +413,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required at the Time of Admission",
-            "info": "<b>The documents given below are important to submit at the time of admission for doing MBBS in Avicenna International Medical University:</b>",
+            "info": "The documents given below are important to submit at the time of admission for doing MBBS in Avicenna International Medical University:",
             "data": [
                 "Passport first-page (Scan)",
                 "SSC/O Levels Certificates",
@@ -425,7 +428,7 @@ export const avicennainternationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Avicenna International Medical University - Academic Calendar 2022-23",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Avicenna International Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Avicenna International Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -461,6 +464,10 @@ export const avicennainternationalmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Avicenna International Medical University, Kyrgyzstan - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Avicenna International Medical University, Kyrgyzstan - Reviews" },
@@ -479,6 +486,10 @@ export const avicennainternationalmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Avicenna International Medical University, Kyrgyzstan - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -499,6 +510,10 @@ export const avicennainternationalmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Avicenna International Medical University, Kyrgyzstan - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Avicenna International Medical University, Kyrgyzstan - Gallery" },
@@ -518,9 +533,13 @@ export const avicennainternationalmedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Avicenna International Medical University, Kyrgyzstan - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships provided at Avicenna International Medical University",
-            "info": "<b>Following scholarships are offered at Avicenna International Medical University:</b>",
+            "info": "Following scholarships are offered at Avicenna International Medical University:</b>",
             "data": [
                 "international students can also apply for the “Avicenna Scholarship Program” (ASP)",
                 "These scholarships are granted based on past academic, social, and sports activities history.",
@@ -548,6 +567,10 @@ export const avicennainternationalmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Avicenna International Medical University, Kyrgyzstan - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Avicenna International Medical University, Kyrgyzstan - Faculty" },
@@ -566,6 +589,10 @@ export const avicennainternationalmedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Avicenna International Medical University, Kyrgyzstan - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -586,9 +613,13 @@ export const avicennainternationalmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Avicenna International Medical University, Kyrgyzstan - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facilities",
-            "info": "<b>Following are the hostel & accommodation facilities at Avicenna International Medical University:</b>",
+            "info": "Following are the hostel &ommodation facilities at Avicenna International Medical University:</b>",
             "data": [
                 "The hostels are well kept and ready with all present day conveniences to ensure that scholars study in a pleasant, orderly, and easy atmosphere.",
                 "The hostel has different rooms for both boys and girls.",
@@ -617,46 +648,50 @@ export const avicennainternationalmedicaluniversity = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Avicenna International Medical University - Important FAQ",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Is Avicenna International Medical University a great choice for MBBS aspirants?",
-                    "ans": "Avicenna International Medical University, Kyrgyzstan is one of the best universities in Kyrgyzstan. It presents great quality training and is highly preferred."
-                },
-                {
-                    "ques": "Q. What is Avicenna International Medical University known for?",
-                    "ans": "The college has been identified through major groups like WHO, WFME, UNESCO, FAIMER, etc and is likewise listed withinside the WDOMS. Moreover, medical councils of many leading nations have additionally diagnosed AIMU. They offer high-quality education and skilled faculties."
-                },
-                {
-                    "ques": "Q. Which is the nearest airport from Avicenna International Medical University?",
-                    "ans": "Bishkek airport is the nearest airport from the Avicenna International Medical University"
-                },
-                {
-                    "ques": "Q. How many Faculty does the Avicenna International Medical University have?",
-                    "ans": "The Avicenna International Medical University has 8 Faculties."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Avicenna International Medical University, Kyrgyzstan - FAQ" },
-                { name: "description", content: "Astrakhan State Medical University is a one among the oldest medical universities located in Russia. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Avicenna International Medical University, Kyrgyzstan - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/avicenna-international-medical-university/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Avicenna International Medical University, Kyrgyzstan - FAQ"
+            },
+            {
+                "type": "question-list",
+                "title": "Avicenna International Medical University - Important FAQ",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. Is Avicenna International Medical University a great choice for MBBS aspirants?",
+                        "ans": "Avicenna International Medical University, Kyrgyzstan is one of the best universities in Kyrgyzstan. It presents great quality training and is highly preferred."
+                    },
+                    {
+                        "ques": "Q. What is Avicenna International Medical University known for?",
+                        "ans": "The college has been identified through major groups like WHO, WFME, UNESCO, FAIMER, etc and is likewise listed withinside the WDOMS. Moreover, medical councils of many leading nations have additionally diagnosed AIMU. They offer high-quality education and skilled faculties."
+                    },
+                    {
+                        "ques": "Q. Which is the nearest airport from Avicenna International Medical University?",
+                        "ans": "Bishkek airport is the nearest airport from the Avicenna International Medical University"
+                    },
+                    {
+                        "ques": "Q. How many Faculty does the Avicenna International Medical University have?",
+                        "ans": "The Avicenna International Medical University has 8 Faculties."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Avicenna International Medical University, Kyrgyzstan - FAQ" },
+                    { name: "description", content: "Astrakhan State Medical University is a one among the oldest medical universities located in Russia. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Avicenna International Medical University, Kyrgyzstan - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/avicenna-international-medical-university/faq" }
+                ]
+            }
+        ]
 }

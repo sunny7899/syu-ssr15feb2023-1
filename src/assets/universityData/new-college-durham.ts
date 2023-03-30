@@ -23,7 +23,7 @@ export const newcollegedurham = {
         {
             "type": "table-title",
             "title": "New College Durham - Quick Highlights",
-            "info": "<b>Given the table below will help you learn the key details of this college at a glance:</b>",
+            "info": "Given the table below will help you learn the key details of this college at a glance:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const newcollegedurham = {
         {
             "type": "list-bollet",
             "title": "Why Choose New College Durham?",
-            "info": "<b>Know the advantages of enrolling in this university:</b>",
+            "info": "Know the advantages of enrolling in this university:",
             "data": [
                 "The college and its courses are well-recognized.",
                 "The college has a friendly environment to learn and grow.",
@@ -61,7 +61,7 @@ export const newcollegedurham = {
         {
             "type": "text",
             "title": "Facilities",
-            "info": "<b>The college is best known for the wide range of facilities it offers:</b>",
+            "info": "The college is best known for the wide range of facilities it offers:",
             // "img": "https://www.selectyouruniversity.com/images/uk-universities/classroom.png",
             "data": [
                 "Classrooms",
@@ -118,7 +118,7 @@ export const newcollegedurham = {
         {
             "type": "table",
             "title": "New College Durham - Ranking 2022",
-            "info": "<b>To know the college’s ranking check out the table below:</b>",
+            "info": "To know the college’s ranking check out the table below:",
             "col": [
                 "QS World Rank",
                 "World Rank",
@@ -134,7 +134,7 @@ export const newcollegedurham = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The college uses the English language as a mode of instruction:</b>",
+            "info": "The college uses the English language as a mode of instruction:",
             "data": [
                 "The college instructs the study programs in the English language.",
                 "Students get an opportunity to improve their English vocabulary, verbal and written skills.",
@@ -145,7 +145,7 @@ export const newcollegedurham = {
         {
             "type": "list-bollet",
             "title": "Recognition and Accreditations",
-            "info": "<b>Know the recognition and accreditation of the college:</b>",
+            "info": "Know the recognition and accreditation of the college:",
             "data": [
                 "The college is recognized by National Apprenticeship Service",
                 "All the courses offered by the college is internationally recognized",
@@ -155,7 +155,7 @@ export const newcollegedurham = {
         {
             "type": "table",
             "title": "Living Expenses in Durham, UK",
-            "info": "<b>Know the approximate basic expenditures of living in Durham city from the table given below:</b>",
+            "info": "Know the approximate basic expenditures of living in Durham city from the table given below:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -205,9 +205,14 @@ export const newcollegedurham = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "New College Durham, UK - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "New College Durham - Fee Structure & Course Duration",
-            "info": "<b>The table below will assist you with the fee structure and course duration of the courses:</b>",
+            "info": "The table below will assist you with the fee structure and course duration of the courses:",
             "col": [
                 "Course",
                 "Duration",
@@ -250,9 +255,14 @@ export const newcollegedurham = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "New College Durham, UK - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Know the basic eligibility criteria to enroll in the bachelors’ study programs:</b>",
+            "info": "Know the basic eligibility criteria to enroll in the bachelors’ study programs:",
             "data": [
                 "Candidates must hold a high school certificate in business or management-related fields",
                 "The degree must be from a recognized college/university",
@@ -265,7 +275,7 @@ export const newcollegedurham = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>The points below will guide you to the step by step admission process of the college:</b>",
+            "info": "The points below will guide you to the step by step admission process of the college:",
             "data": [
                 "<b>Step 1:</b> Use the course search function and decide on a full-time course.",
                 "<b>Step 2:</b> Fill the application form online with the correct details.",
@@ -277,7 +287,7 @@ export const newcollegedurham = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Know the documents required to submit during the admission process:</b>",
+            "info": "Know the documents required to submit during the admission process:",
             "data": [
                 "Proof of English language",
                 "Statement of purpose in English",
@@ -305,7 +315,7 @@ export const newcollegedurham = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The table below will assist you with the important dates to consider:</b>",
+            "info": "The table below will assist you with the important dates to consider:",
             "col": [
                 "Events",
                 "Dates",
@@ -349,6 +359,11 @@ export const newcollegedurham = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "New College Durham, UK - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "New College Durham, UK - Reviews" },
@@ -368,6 +383,11 @@ export const newcollegedurham = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "New College Durham, UK - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Placement",
             "info": "",
@@ -379,7 +399,7 @@ export const newcollegedurham = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Benefits that are provided for students during their placement at New College Durham are as follows:</b>",
+            "info": "Benefits that are provided for students during their placement at New College Durham are as follows:",
             "data": [
                 "Community development",
                 "Close skills gaps",
@@ -410,6 +430,11 @@ export const newcollegedurham = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "New College Durham, UK - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "New College Durham, UK - Gallery" },
@@ -429,9 +454,14 @@ export const newcollegedurham = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "New College Durham, UK - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>The scholarships that are provided at New College Durham are as follows:</b>",
+            "info": "The scholarships that are provided at New College Durham are as follows:",
             "data": [
                 "Hardship Bursary",
                 "19+ Bursary",
@@ -460,6 +490,11 @@ export const newcollegedurham = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "New College Durham, UK - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "New College Durham, UK - Faculty" },
@@ -478,6 +513,11 @@ export const newcollegedurham = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "New College Durham, UK - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -498,9 +538,14 @@ export const newcollegedurham = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "New College Durham, UK - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostels and Accommodation",
-            "info": "<b>The university has several accommodation provisions for the students:</b>",
+            "info": "The university has several accommodation provisions for the students:",
             "data": [
                 "The university has spacious off-campus accommodation provisions for the students on-board.",
                 "These accommodations are available at a fair price.",
@@ -531,9 +576,14 @@ export const newcollegedurham = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "New College Durham, UK - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "New College Durham - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Are the college and its courses recognized?",

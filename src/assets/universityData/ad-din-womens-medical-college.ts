@@ -10,7 +10,7 @@ export const addinwomensmedicalcollege = {
     {
       type: 'title',
       title: "Ad-Din Women's Medical College, Bangladesh",
-  },
+    },
     {
       "type": "text",
       "title": "About Ad-Din Women's Medical College, Bangladesh",
@@ -56,16 +56,16 @@ export const addinwomensmedicalcollege = {
       "title": "Facilities Provided by Ad-Din Women's Medical College",
       "info": "The college building is adequately equipped with amazing facilities:",
       "data": [
-          "Computers",
-          "Lecture Rooms",
-          "Security",
-          "Internet",
-          "Canteen",
-          "Laboratories",
-          "Hospital"
+        "Computers",
+        "Lecture Rooms",
+        "Security",
+        "Internet",
+        "Canteen",
+        "Laboratories",
+        "Hospital"
       ]
     },
-    
+
     {
       "type": "list-bollet",
       "title": "Affiliation & Recognition",
@@ -98,23 +98,29 @@ export const addinwomensmedicalcollege = {
         },
       ]
     },
-    { 
-      type:'meta',
+    {
+      type: 'meta',
       meta: [
-          { name: "title", content: "Ad-Din Women's Medical College, Bangladesh" },
-          { name: "description", content: "Ad-Din Women's Medical College is a private medical college in Bangladesh. Established in 2008 it offers and English medium of coaching for foreign students." },
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh" },
+        { name: "description", content: "Ad-Din Women's Medical College is a private medical college in Bangladesh. Established in 2008 it offers and English medium of coaching for foreign students." },
       ],
-  },
-  {
-      type:'meta-title',
-      title: " Ad-Din Women's Medical College, Bangladesh"},
-  { 
-      type:'meta-links',
+    },
+    {
+      type: 'meta-title',
+      title: "Ad-Din Women's Medical College, Bangladesh"
+    },
+    {
+      type: 'meta-links',
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college" }
-  ]}
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college" }
+      ]
+    }
   ],
   "coursesandfees": [
+    {
+      type: 'title',
+      title: "Ad-Din Women's Medical College, Bangladesh - courses & Fees 2023"
+    },
     {
       "type": "table",
       "title": "Ad-Din Women's Medical College - Fee Structure 2022",
@@ -167,14 +173,14 @@ export const addinwomensmedicalcollege = {
       "title": "Courses Offered at Ad-Din Women's Medical College",
       "info": "The college will provide various course mentioned below, just go through them once:",
       "data": [
-        ["Anatomy","Biochemistry"],
-        ["Physiology","Community Medicine"],
-        ["Forensic Medicine","Pharmacology"],
-        ["Pathology","Microbiology"],
-        ["Medicine","Surgery"]
+        ["Anatomy", "Biochemistry"],
+        ["Physiology", "Community Medicine"],
+        ["Forensic Medicine", "Pharmacology"],
+        ["Pathology", "Microbiology"],
+        ["Medicine", "Surgery"]
       ]
     },
-    
+
     {
       "type": "",
       "title": "Ad-Din Women's Medical College  - MBBS Course Duration",
@@ -222,26 +228,29 @@ export const addinwomensmedicalcollege = {
         },
       ]
     },
-    { 
-      type:'meta',
+    {
+      type: 'meta',
       meta: [
-          { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - courses & Fees 2023" },
-          { name: "description", content: "Ad-Din Women's Medical College is a private medical. It offers and English medium of coaching for foreign students. Check here for courses and fess" },
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - courses & Fees 2023" },
+        { name: "description", content: "Ad-Din Women's Medical College is a private medical. It offers and English medium of coaching for foreign students. Check here for courses and fess" },
       ],
-  },
-  {
-      type:'meta-title',
-      title: " Ad-Din Women's Medical College, Bangladesh - courses & Fees 2023"},
-  { 
-      type:'meta-links',
+    },
+    {
+      type: 'meta-title',
+      title: "Ad-Din Women's Medical College, Bangladesh - courses & Fees 2023"
+    },
+    {
+      type: 'meta-links',
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/courses-and-fees" }
-  ]}
-
-
-
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/courses-and-fees" }
+      ]
+    }
   ],
   "admission": [
+    {
+      type: 'title',
+      title: "Ad-Din Women's Medical College, Bangladesh - Admission Process"
+    },
     {
       "type": "list-bollet",
       "title": "Eligibility Criteria ",
@@ -258,8 +267,8 @@ export const addinwomensmedicalcollege = {
       "type": "text",
       "title": "Admission Process - Ad-Din Women's Medical College",
       "info": "The aspirants willing to study MBBS should follow the steps mentioned below to take admission in MBBS:",
-      "textBelowInfo": "<p><strong>The aspirants willing to study MBBS should follow the steps mentioned below to take admission in MBBS:</strong></p>",
-      "data":[
+      "textBelowInfo": "<p>The aspirants willing to study MBBS should follow the steps mentioned below to take admission in MBBS:</p>",
+      "data": [
         "Step 1: The candidates must fill the application form available from the institute office (8 am to 5 pm) at 1000.00 Tk.",
         "Step 2: The candidates must collect and submit the application form along with all important documents attached.",
         "Step 3: The application form will be sent to the admission committee of the concerned Department/Institute for their opinion.",
@@ -292,13 +301,8 @@ export const addinwomensmedicalcollege = {
         "HIV test certificate",
         "Covid-19 report",
         "Transfer certificate "
-      ]
-    },
-    {
-      "type": "list-bollet",
-      "title": "",
-      "info": "",
-      "data": '<p><strong style="color: red;"><u>Note:</u></strong>Original copies of documents should be produced at admission time.</p>'
+      ],
+      "heading": "<p><strong><u>Note:</u></strong>Original copies of documents should be produced at admission time.</p>"
     },
     {
       "type": "table",
@@ -369,141 +373,168 @@ export const addinwomensmedicalcollege = {
     {
       type: "meta",
       meta: [
-          { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Admission Process" },
-          { name: "description", content: "Ad-Din Women's Medical College is a prestigious institution that educates hundreds of students from throughout the world. Check here for admission procedure" },
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Admission Process" },
+        { name: "description", content: "Ad-Din Women's Medical College is a prestigious institution that educates hundreds of students from throughout the world. Check here for admission procedure" },
       ],
-  },
-  {
+    },
+    {
       type: "meta-title",
       title: "Ad-Din Women's Medical College, Bangladesh - Admission Process"
-  },
-  {
+    },
+    {
       type: "meta-links",
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/admission" }
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/admission" }
       ]
-  }
-    
-  ],
-  "review":[
-        
-    {
-        type: "meta",
-        meta: [
-            { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Reviews" },
-            { name: "description", content: "AD-DIN Women Medical College is one of the best colleges in Bangladesh. Check reviews here" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "Ad-Din Women's Medical College, Bangladesh - Reviews"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/reviews" }
-        ]
     }
-  ],
-  "placement":[
 
-      
-  {
-      type:"meta",
+  ],
+  "review": [
+    {
+      type: 'title',
+      title: "Ad-Din Women's Medical College, Bangladesh - Reviews"
+    },
+    {
+      type: "meta",
       meta: [
-          { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Placements Details" },
-          { name: "description", content: "Ad-din Women's Medical College (AWMC) is a private medical college in Bangladesh, exclusively for female students. Check placement detailes here" },
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Reviews" },
+        { name: "description", content: "AD-DIN Women Medical College is one of the best colleges in Bangladesh. Check reviews here" },
       ],
     },
     {
-      type:"meta-title",
-      title: "Ad-Din Women's Medical College, Bangladesh - Placements Details"},
+      type: "meta-title",
+      title: "Ad-Din Women's Medical College, Bangladesh - Reviews"
+    },
     {
-      type:"meta-links",
+      type: "meta-links",
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/placement" }
-    ]}
-    ],
-    "gallery":[
-    
-      {
-          type: "meta",
-          meta: [
-              { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Gallery" },
-              { name: "description", content: "Ad-Din Women's Medical College is one of the most prominent colleges in Bangladesh. Check gallery here" },
-          ],
-      },
-      {
-          type: "meta-title",
-          title: "Ad-Din Women's Medical College, Bangladesh - Gallery"
-      },
-      {
-          type: "meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/gallery" }
-          ]
-      }
-    ],
-    "scholarship": [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/reviews" }
+      ]
+    }
+  ],
+  "placement": [
+    {
+      type: 'title',
+      title: "Ad-Din Women's Medical College, Bangladesh - Placements Details"
+    },
 
-     
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Scholarships & Bursaries" },
-            { name: "description", content: "Ad-din Womens Medical College is an established medical institute in Bangladesh. Click to see scholarships offered" },
-        ],
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Placements Details" },
+        { name: "description", content: "Ad-din Women's Medical College (AWMC) is a private medical college in Bangladesh, exclusively for female students. Check placement detailes here" },
+      ],
     },
     {
-        type:"meta-title",
-        title: "Ad-Din Women's Medical College, Bangladesh - Scholarships & Bursaries"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/scholarship" }
-    ]}
-    ],
-    "faculty": [
-      
-     
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Faculties" },
-            { name: "description", content: "Ad-din Sakina Women's Medical College is a private medical college in Bangladesh. Check for faculty" },
-        ],
+      type: "meta-title",
+      title: "Ad-Din Women's Medical College, Bangladesh - Placements Details"
     },
     {
-        type:"meta-title",
-        title: "Ad-Din Women's Medical College, Bangladesh - Faculties"},
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/placement" }
+      ]
+    }
+  ],
+  "gallery": [
     {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/faculty" }
-    ]}
-    ],
-    "news":[
-    
-    
-      {
-          type: "meta",
-          meta: [
-              { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - News & Articles" },
-              { name: "description", content: "Ad-din Women's Medical College is a private medical college in Bangladesh. Click here for news and articles" },
-          ],
-      },
-      {
-          type: "meta-title",
-          title: "Ad-Din Women's Medical College, Bangladesh - News & Articles"
-      },
-      {
-          type: "meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/news-and-articles" }
-          ]
-      }
-    ],
-  "hostel":[
+      type: 'title',
+      title: "Ad-Din Women's Medical College, Bangladesh - Gallery"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Gallery" },
+        { name: "description", content: "Ad-Din Women's Medical College is one of the most prominent colleges in Bangladesh. Check gallery here" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Ad-Din Women's Medical College, Bangladesh - Gallery"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/gallery" }
+      ]
+    }
+  ],
+  "scholarship": [
+    {
+      type: 'title',
+      title: "Ad-Din Women's Medical College, Bangladesh - Scholarships & Bursaries"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Scholarships & Bursaries" },
+        { name: "description", content: "Ad-din Womens Medical College is an established medical institute in Bangladesh. Click to see scholarships offered" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Ad-Din Women's Medical College, Bangladesh - Scholarships & Bursaries"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/scholarship" }
+      ]
+    }
+  ],
+  "faculty": [
+    {
+      type: 'title',
+      title: "Ad-Din Women's Medical College, Bangladesh - Faculties"
+    },
+
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Faculties" },
+        { name: "description", content: "Ad-din Sakina Women's Medical College is a private medical college in Bangladesh. Check for faculty" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Ad-Din Women's Medical College, Bangladesh - Faculties"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/faculty" }
+      ]
+    }
+  ],
+  "news": [
+    {
+      type: 'title',
+      title: "Ad-Din Women's Medical College, Bangladesh - News & Articles"
+    },
+
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - News & Articles" },
+        { name: "description", content: "Ad-din Women's Medical College is a private medical college in Bangladesh. Click here for news and articles" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Ad-Din Women's Medical College, Bangladesh - News & Articles"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/news-and-articles" }
+      ]
+    }
+  ],
+  "hostel": [
+    {
+      type: 'title',
+      title: "Ad-Din Women's Medical College, Bangladesh - Hostel"
+    },
     {
       "type": "list-bollet",
       "title": "Hostel & Accommodation ",
@@ -520,10 +551,10 @@ export const addinwomensmedicalcollege = {
       "title": "",
       "info": "The rooms are equipped with all the latest amenities fulfilling the basic requirements of the students:",
       "data": [
-        ["Bed","Fan","Television"],
-        ["Cupboard","Blankets","AC"],
-        ["Pillow","Fridge","Washing machine"],
-        ["Bedsheets","Hot/cold water","Central heating system"]
+        ["Bed", "Fan", "Television"],
+        ["Cupboard", "Blankets", "AC"],
+        ["Pillow", "Fridge", "Washing machine"],
+        ["Bedsheets", "Hot/cold water", "Central heating system"]
       ]
     },
     {
@@ -538,81 +569,87 @@ export const addinwomensmedicalcollege = {
         "The hostel is under high-class security round the clock."
       ]
     },
-    { 
-      type:'meta',
+    {
+      type: 'meta',
       meta: [
-          { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Hostel" },
-          { name: "description", content: "Ad-Din Women's Medical College provides an excellent Hostel and Accommodation facilities. Check detailed accomodation" },
+        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - Hostel" },
+        { name: "description", content: "Ad-Din Women's Medical College provides an excellent Hostel and Accommodation facilities. Check detailed accomodation" },
       ],
-  },
-  {
-      type:'meta-title',
-      title: " Ad-Din Women's Medical College, Bangladesh - Hostel"},
-  { 
-      type:'meta-links',
+    },
+    {
+      type: 'meta-title',
+      title: " Ad-Din Women's Medical College, Bangladesh - Hostel"
+    },
+    {
+      type: 'meta-links',
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/hostel" }
-  ]}
-
-
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/hostel" }
+      ]
+    }
 
   ],
 
-"faq":
-[
-  {
-    "type": "question-list",
-    "title": "Ad-Din Women's Medical College - Important FAQs",
-    "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
-    "data": [
+  "faq":
+    [
       {
-        "ques": "Q. Are there any other expenses than medicine fees while doing MBBS at the Ad-Din Women's Medical College ?",
-        "ans": "Yes, there are a lot of expenses while studying MBBS at the Ad-Din Women's Medical College , which is quite affordable to students including hostel fees, transportation costs, clothes costs, and meal costs, etc."
+        type: 'title',
+        title: "Ad-Din Women's Medical College, Bangladesh - FAQs"
       },
       {
-        "ques": "Q. How many years of the medical program offered by the Ad-Din Women's Medical College ?",
-        "ans": "The Ad-Din Women's Medical College  offers 5 years of medical studies and 1 year of mandatory internship."
-      },
-      {
-        "ques": "Q. What is the medium of teaching for medicine programs at the Ad-Din Women's Medical College ?",
-        "ans": "The Ad-Din Women's Medical College  offers an English medium of teaching for studying MBBS."
-      },
-      {
-        "ques": "Q. What will be the transportation cost of the city during MBBS Education at the Ad-Din Women's Medical College ?",
-        "ans": "798 Rs is required for transportation during medicine education at Ad-Din Women's Medical College ."
-      },
-      {
-        "ques": "Q. Is there Indian food available in the Ad-Din Women's Medical College ?",
-        "ans": "Yes, healthy and fresh Indian food is available in the university canteen of the Ad-din Women's Medical College Hospital."
-      },
-      {
-        "ques": "Q. Do we require to sit for any English proficiency test to enroll in the medicine program Ad-Din Women's Medical College ?",
-        "ans": "No, the students don't need English proficiency exam clearance to study medicine at Ad-Din Women's Medical College ."
-      },
-      {
-        "ques": "Q. Can we take holidays in between MBBS education at Ad-Din Women's Medical College ?",
-        "ans": "No, The students are allowed to take leave only in emergency cases."
-      },
+        "type": "question-list",
+        "title": "Ad-Din Women's Medical College - Important FAQs",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+        "data": [
+          {
+            "ques": "Q. Are there any other expenses than medicine fees while doing MBBS at the Ad-Din Women's Medical College ?",
+            "ans": "Yes, there are a lot of expenses while studying MBBS at the Ad-Din Women's Medical College , which is quite affordable to students including hostel fees, transportation costs, clothes costs, and meal costs, etc."
+          },
+          {
+            "ques": "Q. How many years of the medical program offered by the Ad-Din Women's Medical College ?",
+            "ans": "The Ad-Din Women's Medical College  offers 5 years of medical studies and 1 year of mandatory internship."
+          },
+          {
+            "ques": "Q. What is the medium of teaching for medicine programs at the Ad-Din Women's Medical College ?",
+            "ans": "The Ad-Din Women's Medical College  offers an English medium of teaching for studying MBBS."
+          },
+          {
+            "ques": "Q. What will be the transportation cost of the city during MBBS Education at the Ad-Din Women's Medical College ?",
+            "ans": "798 Rs is required for transportation during medicine education at Ad-Din Women's Medical College ."
+          },
+          {
+            "ques": "Q. Is there Indian food available in the Ad-Din Women's Medical College ?",
+            "ans": "Yes, healthy and fresh Indian food is available in the university canteen of the Ad-din Women's Medical College Hospital."
+          },
+          {
+            "ques": "Q. Do we require to sit for any English proficiency test to enroll in the medicine program Ad-Din Women's Medical College ?",
+            "ans": "No, the students don't need English proficiency exam clearance to study medicine at Ad-Din Women's Medical College ."
+          },
+          {
+            "ques": "Q. Can we take holidays in between MBBS education at Ad-Din Women's Medical College ?",
+            "ans": "No, The students are allowed to take leave only in emergency cases."
+          },
 
-    ]
-  },
-  { 
-    type:'meta',
-    meta: [
-        { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - FAQs" },
-        { name: "description", content: "AD-DIN Women Medical College is one of the best colleges in Bangladesh. Check FAQS here" },
+        ]
+      },
+      {
+        type: 'meta',
+        meta: [
+          { name: "title", content: "Ad-Din Women's Medical College, Bangladesh - FAQs" },
+          { name: "description", content: "AD-DIN Women Medical College is one of the best colleges in Bangladesh. Check FAQS here" },
+        ],
+      },
+      {
+        type: 'meta-title',
+        title: "Ad-Din Women's Medical College, Bangladesh - FAQs"
+      },
+      {
+        type: 'meta-links',
+        link: [
+          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/faq" }
+        ]
+      }
+
     ],
-},
-{
-    type:'meta-title',
-    title: " Ad-Din Women's Medical College, Bangladesh - FAQs"},
-{ 
-    type:'meta-links',
-    link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ad-din-womens-medical-college/faq" }
-]}
-
-],
 
 
 }

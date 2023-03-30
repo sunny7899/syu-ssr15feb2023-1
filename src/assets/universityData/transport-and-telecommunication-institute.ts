@@ -19,7 +19,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "table-title",
             "title": "Transport and Telecommunication Institute - Quick Overview",
-            "info": "<b>The applicants should go through the important points to study at the Transport and Telecommunication Institute: </b>",
+            "info": "The applicants should go through the important points to study at the Transport and Telecommunication Institute:",
             "col": [],
             "row": [
                 ["<b>Application Deadline Time</b>", "Summer intake - June"],
@@ -34,7 +34,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "Why Choose Transport & Telecommunication Institute for Higher Studies?",
-            "info": "<b>Below are some of the reasons to believe Transport and Telecommunication Institute is a unique place and top position to help students grow and build a bright career: </b>",
+            "info": "Below are some of the reasons to believe Transport and Telecommunication Institute is a unique place and top position to help students grow and build a bright career: ",
             "data": [
                 "The Institute has an environment where individuals are valued and provided with many job opportunities for personal development.",
                 "The college has Experienced Academic staff with unique skills combining modern theoretical concepts with practical training.",
@@ -57,7 +57,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Transport and Telecommunication Institute",
-            "info": "<b> Transport and Telecommunication Institute is praised worldwide for providing modern facilities to the students during education: </b>",
+            "info": " Transport and Telecommunication Institute is praised worldwide for providing modern facilities to the students during education: ",
             "data": [
                 "Hostel",
                 "Sport",
@@ -76,7 +76,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "table",
             "title": "Transport and Telecommunication Institute - Ranking 2022",
-            "info": "<b>The students must find out the World and Country mentioned below in the table: </b>",
+            "info": "The students must find out the World and Country mentioned below in the table: ",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -91,7 +91,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "table",
             "title": "Living Cost of Riga, Latvia",
-            "info": "<b>Go through the table to know the monthly basis living expenses of Riga which may vary according to the individual needs: </b>",
+            "info": "Go through the table to know the monthly basis living expenses of Riga which may vary according to the individual needs: ",
             "col": [
                 "Particular",
                 "Amount in USD",
@@ -131,9 +131,13 @@ export const transportandtelecommunicationinstitute = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Transport and Telecommunication Institute - Fee Structure 2022",
-            "info": "<b>BBA</b>",
+            "info": "BBA",
             "col": [
                 "BBA course",
                 "Full-time in Euro"
@@ -148,7 +152,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>MBA</b>",
+            "info": "MBA",
             "col": [
                 "Duration",
                 "2 years (Full-time)",
@@ -163,12 +167,12 @@ export const transportandtelecommunicationinstitute = {
                     "2.5 years (Distant)": "1700 EUR"
                 },
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> If the tuition fee of the semester is divided into monthly payments (5 payments), the amount of the tuition fee increases by 100 euro per semester.</p> <p>The tuition fee of the MasterPlus track with the mentor support is additionally EUR 500 per year.</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> If the tuition fee of the semester is divided into monthly payments (5 payments), the amount of the tuition fee increases by 100 euro per semester.</p> <p>The tuition fee of the MasterPlus track with the mentor support is additionally EUR 500 per year.</p>"
         },
         {
             "type": "table",
             "title": "Transport and Telecommunication Institute - Program Structure",
-            "info": "<b>BBA</b>",
+            "info": "BBA",
             "data": "Block A – Mandatory Courses",
             "col": [
                 "Title",
@@ -541,7 +545,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "table",
             "title": "Programmes at Transport and Telecommunication Institute",
-            "info": "<b>The students must have a look at the various departments provided by the college: </b>",
+            "info": "The students must have a look at the various departments provided by the college: ",
             "col": [
                 "Master's degree study programmes",
                 "Bachelor's degree study programmes"
@@ -607,7 +611,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "Faculties",
-            "info": "<b>Transport and Telecommunication Institute is divided into a wide range of faculties:</b>",
+            "info": "Transport and Telecommunication Institute is divided into a wide range of faculties:",
             "data": [
                 "Department of Continuing Education",
                 "Telematics and Logistics Institute",
@@ -618,7 +622,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Faculty of Computer Science and Electronics </b>",
+            "info": "Faculty of Computer Science and Electronics ",
             "data": [
                 "Mathematical methods",
                 "Computer networks",
@@ -629,7 +633,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Faculty of Management Sciences, Economics and Transport </b>",
+            "info": "Faculty of Management Sciences, Economics and Transport ",
             "data": [
                 "Management",
                 "Economics",
@@ -640,7 +644,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Department of Basic Sciences </b>",
+            "info": "Department of Basic Sciences ",
             "data": [
                 "Mathematics",
                 "Physics",
@@ -667,9 +671,13 @@ export const transportandtelecommunicationinstitute = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>BBA</b>",
+            "info": "BBA",
             "data": [
                 "The students must complete their higher secondary school diploma to take admission.",
                 "The candidates should have a valid passport copy for studying the BBA course in Latvia.",
@@ -679,7 +687,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MBA</b>",
+            "info": "MBA",
             "data": [
                 "The students wishing to study an MBA should complete 10+12 with good marks to enrol in an MBA course.",
                 "The applicants should apply for the MBA program with a valid passport.",
@@ -691,7 +699,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>BBA </b>",
+            "info": "BBA ",
             "data": [
                 "Step 1: Choose the program and register to take admission in BBA at Transport and Telecommunication Institute.",
                 "Step 2: The applicants must fill the application form with the correct details on the online portal.",
@@ -708,7 +716,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "step-list",
             "title": "",
-            "info": "<b>MBA </b>",
+            "info": "MBA ",
             "data": [
                 "Step 1: The first step is the completion of the online application form to pursue an MBA education.",
                 "Step 2: The students must attach the important documents along with the form.",
@@ -721,7 +729,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>BBA </b>",
+            "info": "BBA ",
             "data": [
                 "10th-grade certificate",
                 "12th-grade mark sheet",
@@ -744,7 +752,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MBA </b>",
+            "info": "MBA ",
             "data": [
                 "Bachelors mark sheet",
                 "10th-grade certificate",
@@ -768,7 +776,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "Transport and Telecommunication Institute - Course Duration",
-            "info": "<b>BBA </b>",
+            "info": "BBA ",
             "data": [
                 "Full-time - 3 years in Latvian and English",
                 "Part-time - 4 years in Latvian and English",
@@ -778,7 +786,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MBA </b>",
+            "info": "MBA ",
             "data": [
                 "Complete study program volume- 80 CP | 120 ECTS",
                 "Full-time- 2 years in Latvian and English language",
@@ -789,7 +797,7 @@ export const transportandtelecommunicationinstitute = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the main dates related to BBA admission at the Transport and Telecommunication Institute: </b>",
+            "info": "Check out the main dates related to BBA admission at the Transport and Telecommunication Institute: ",
             "col": [
                 "Events",
                 "Dates"
@@ -812,7 +820,7 @@ export const transportandtelecommunicationinstitute = {
                     "Dates": "Not declared"
                 },
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> Deadline dates can be extended, so the students must contact admission@tsi.lv, for more information.</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> Deadline dates can be extended, so the students must contact admission@tsi.lv, for more information.</p>"
         },
         {
             type: "meta",
@@ -834,6 +842,10 @@ export const transportandtelecommunicationinstitute = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Transport and Telecommunication Institute, Latvia - Reviews" },
@@ -852,6 +864,10 @@ export const transportandtelecommunicationinstitute = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -880,6 +896,10 @@ export const transportandtelecommunicationinstitute = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Transport and Telecommunication Institute, Latvia - Gallery" },
@@ -899,6 +919,10 @@ export const transportandtelecommunicationinstitute = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - Scholarship'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Transport and Telecommunication Institute, Latvia - Scholarship" },
@@ -917,6 +941,10 @@ export const transportandtelecommunicationinstitute = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -968,6 +996,10 @@ export const transportandtelecommunicationinstitute = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Transport and Telecommunication Institute, Latvia - News & Articles" },
@@ -987,9 +1019,13 @@ export const transportandtelecommunicationinstitute = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Transport and Telecommunication Institute is going to be the next home of the students: </b>",
+            "info": "Transport and Telecommunication Institute is going to be the next home of the students: ",
             "data": [
                 "The Duck Republik Revolutionary Student hotel is located 15 minutes away from the Transport and Telecommunication Institute.",
                 "The hotel is near a famous traditional Latvian cuisine LIDO restaurant that is reachable in 20 minutes.",
@@ -1022,9 +1058,13 @@ export const transportandtelecommunicationinstitute = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Transport and Telecommunication Institute, Latvia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Transport and Telecommunication Institute - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Does the degree from the Transport and Telecommunication Institute have official accreditation?",

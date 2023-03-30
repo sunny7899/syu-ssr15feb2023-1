@@ -19,7 +19,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "table-title",
             "title": "Kharkiv National University of Radio Electronics: Quick Overview",
-            "info": "<b>Given below is the table for quick highlights about Kharkiv National University of Radio Electronics: </b>",
+            "info": "Given below is the table for quick highlights about Kharkiv National University of Radio Electronics: ",
             "col": [],
             "row": [
                 ["<b>Start of Admission</b>", "Not Declared Yet"],
@@ -35,7 +35,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying at Kharkiv National University of Radio Electronics",
-            "info": "<b>Students must read the below-given benefits which will make you realize that your decision of studying at Kharkiv National University of Radio Electronics is correct: </b>",
+            "info": "Students must read the below-given benefits which will make you realize that your decision of studying at Kharkiv National University of Radio Electronics is correct: ",
             "data": [
                 "The Kharkiv National University of Radio Electronics has 8 faculties, and 34 departments.",
                 "At the University, there study more than 7000 students of various forms of training on 46 specialties from 7 areas of knowledge.",
@@ -50,13 +50,13 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "",
-            "data": "<p><b>The medium of teaching at Kharkiv National University of Radio Electronics is mentioned below:</b></p> <p>At Kharkiv National University of Radio Electronics, the medium of teaching is English. Thus, local as well as international students can both benefit from this. For local students, the courses are also available in Ukrainian or Russian languages</p>"
+            "info": "The medium of teaching at Kharkiv National University of Radio Electronics is mentioned below:",
+            "data": "<p>At Kharkiv National University of Radio Electronics, the medium of teaching is English. Thus, local as well as international students can both benefit from this. For local students, the courses are also available in Ukrainian or Russian languages</p>"
         },
         {
             "type": "table",
             "title": "Kharkiv National University Of Radioelectronics - Ranking 2022",
-            "info": "<b>According to 4icu.org, the country & world ranking of Kharkiv National University of Radio Electronics: </b>",
+            "info": "According to 4icu.org, the country & world ranking of Kharkiv National University of Radio Electronics: ",
             "col": [
                 "Country",
                 "World"
@@ -71,7 +71,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
-            "info": "<b>Kharkiv National University of Radio Electronics is recognized and accredited by many important medical bodies in the field of medical education such as: </b>",
+            "info": "Kharkiv National University of Radio Electronics is recognized and accredited by many important medical bodies in the field of medical education such as: ",
             "data": [
                 "Ministry of Education and Science of Ukraine",
                 "National Agency for Higher education Quality Assurance"
@@ -80,7 +80,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "table",
             "title": "Cost of Living in Kharkiv",
-            "info": "<b>Find below the approximate cost of living in Kharkiv city: </b>",
+            "info": "Find below the approximate cost of living in Kharkiv city: ",
             "col": [
                 "Activity",
                 "Cost"
@@ -111,7 +111,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "list-bollet",
             "title": "About Kharkiv City",
-            "info": "<b>Some of the noticeable facts about Kharkiv city are given below: </b>",
+            "info": "Some of the noticeable facts about Kharkiv city are given below: ",
             "data": [
                 "In the north-eastern part of Ukraine, Kharkiv city is located.",
                 "It is the second largest city of Ukraine after Kyiv presently, and it is the former capital of the country (back in the 1919-1934).",
@@ -142,9 +142,14 @@ export const kharkivnationaluniversityofradioelectronics = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kharkiv National University of Radio Electronics: Fee Structure",
-            "info": "<b>The fee structure for different courses at the Kharkiv National University of Radio Electronics is mentioned with approx calculations below. Students are advised to check the currency exchange rates before: </b>",
+            "info": "The fee structure for different courses at the Kharkiv National University of Radio Electronics is mentioned with approx calculations below. Students are advised to check the currency exchange rates before: ",
             "col": [
                 "Specialty",
                 "Specialization",
@@ -260,7 +265,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "table-title",
             "title": "Courses Offered at Kharkiv National University of Radio Electronics",
-            "info": "<b>The Kharkiv National University of Radio Electronics offers various courses in management and engineering: </b>",
+            "info": "The Kharkiv National University of Radio Electronics offers various courses in management and engineering: ",
             "row": [
                 ["Economics", "Management", "Biomedical Engineering"],
                 ["Mathematics", "Software Engineering", "Computer Science"],
@@ -273,7 +278,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "table",
             "title": "Duration for Engineering and Other Programs: KNURE",
-            "info": "<b>There is a wide variety of courses at Kharkiv National University of Radio Electronics and each course has different duration: </b>",
+            "info": "There is a wide variety of courses at Kharkiv National University of Radio Electronics and each course has different duration: ",
             "col": [
                 "Specialty",
                 "Specialization",
@@ -387,9 +392,14 @@ export const kharkivnationaluniversityofradioelectronics = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - Admission 2023 "
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria for Students',
-            info: '<b>Candidates who want to take admission at Kharkiv National University of Radio Electronics must ensure that they fit in the following eligibility criteria: </b>',
+            info: 'Candidates who want to take admission at Kharkiv National University of Radio Electronics must ensure that they fit in the following eligibility criteria: ',
             data: [
                 "The university calculates the points/ assessments of the candidate for study on the basis of the document on the previous education level and sets the minimum amount of points from the general subjects from which the entrance examination is conducted, which is necessary for entry. Students or applicants must fit into this criteria.",
                 "Students or applicants must have completed minimum 10+2 or 12th of their education level.",
@@ -400,7 +410,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             type: 'step-list',
             title: 'Admission Procedure',
-            info: '<b>Below given is the admission process which students need to follow to take admission at Kharkiv National University of Radio Electronics: </b>',
+            info: 'Below given is the admission process which students need to follow to take admission at Kharkiv National University of Radio Electronics: ',
             data: [
                 "Step 1: Submit application - Fill and submit an application form.",
                 "Step 2: Submit the necessary documents mentioned here.",
@@ -413,7 +423,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: '<b>Admission of foreign citizens is carried out on the provision of the following documents which an applicant should submit for admission along with the application: </b>',
+            info: 'Admission of foreign citizens is carried out on the provision of the following documents which an applicant should submit for admission along with the application: ',
             data: [
                 "Documents (the original and its copy) about the previously acquired educational level, on the basis of which the admission takes place.",
                 "In case of transfer or renewal of studies, Academic certificates issued by an Ukrainian/ foreign educational institution, from the second year, the academic background is attached.",
@@ -428,7 +438,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "table",
             "title": "Important Dates: Intake 2022",
-            "info": "<b>At Kharkiv National University of Radio Electronics, admission is carried out twice a year. Check out the Important dates regarding admission at Kharkiv National University of Radio Electronics: </b>",
+            "info": "At Kharkiv National University of Radio Electronics, admission is carried out twice a year. Check out the Important dates regarding admission at Kharkiv National University of Radio Electronics: ",
             "col": [
                 "Events",
                 "Dates",
@@ -464,6 +474,11 @@ export const kharkivnationaluniversityofradioelectronics = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv National University of Radio Electronics, Ukraine - Reviews" },
@@ -484,6 +499,11 @@ export const kharkivnationaluniversityofradioelectronics = {
 
     "placement": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - Placement"
+
+        },
+        {
             "type": "text",
             "title": "placement",
             "data": "<p>The career centre of the university is responsible for the placement related activities.</p> <p>Here are the main tasks and functions of the career centre - </p>"
@@ -491,7 +511,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Main tasks: </b>",
+            "info": "Main tasks: ",
             "data": [
                 "constant analysis of demand and supply on the labour market for specialists studying at the university;",
                 "developing collaboration with enterprises, offices and organisations irrespective of the property form which may become potential employers for graduates and undergraduate students as well;",
@@ -504,7 +524,7 @@ export const kharkivnationaluniversityofradioelectronics = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Functions of the Center: </b>",
+            "info": "Functions of the Center: ",
             "data": [
                 "studying the dynamic demand for specialists on the labour market of the region and Ukraine;",
                 "arrangement of meetings for employers with undergraduate students and graduates concerning their possible future employment;",
@@ -532,6 +552,11 @@ export const kharkivnationaluniversityofradioelectronics = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv National University of Radio Electronics, Ukraine - Gallery" },
@@ -550,6 +575,11 @@ export const kharkivnationaluniversityofradioelectronics = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -570,6 +600,11 @@ export const kharkivnationaluniversityofradioelectronics = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv National University of Radio Electronics, Ukraine - Faculty" },
@@ -588,6 +623,11 @@ export const kharkivnationaluniversityofradioelectronics = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -608,9 +648,14 @@ export const kharkivnationaluniversityofradioelectronics = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The university provides excellent accommodation facilities for international students. Following are the hostel facilities: </b>",
+            "info": "The university provides excellent accommodation facilities for international students. Following are the hostel facilities: ",
             "data": [
                 "The University campus consists of eight hostels at the university premise. Five of which are located near the metro stations located on the same “Alekseevskaya” line with the station leading to the university, and three hostels are directly included in the unified architectural ensemble of KNURE.",
                 "The maximum travel time from any of the hostels to the university is twenty minutes.",
@@ -644,9 +689,14 @@ export const kharkivnationaluniversityofradioelectronics = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Radio Electronics, Ukraine - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kharkiv National University of Radio Electronics: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many students study at the university currently?",

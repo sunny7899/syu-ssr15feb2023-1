@@ -34,7 +34,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Uzhhorod National University - Quick Highlights",
-            "info": "<b>The important numbers and quick information about the Uzhhorod National Medical University is mentioned in the table below:</b>",
+            "info": "The important numbers and quick information about the Uzhhorod National Medical University is mentioned in the table below:",
             "col": [],
             "row": [
                 ["<b>Deadlines for MBBS Course</b>", "Twice in a year:February and September"],
@@ -52,7 +52,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying MBBS at Uzhhorod National University",
-            "info": "<b>These points mentioned below are some of the reasons to push your thoughts about taking MBBS admission to Uzhhorod National University:</b>",
+            "info": "These points mentioned below are some of the reasons to push your thoughts about taking MBBS admission to Uzhhorod National University:",
             "data": [
                 "Being one of the top-ranked universities in Ukraine it becomes the best choices for Indian students to pursue their MBBS degree here.",
                 "It has got the accreditation of some of the top medical councils of many of the countries which means the medical degree from this university is recognized worldwide.",
@@ -65,7 +65,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "MBBS Syllabus - Uzhhorod National Medical University",
-            "info": "<b>The syllabus for MBBS course in Ukraine is shown in the table below:</b>",
+            "info": "The syllabus for MBBS course in Ukraine is shown in the table below:",
             "col": [
                 "1st-Year Course",
                 "2nd-Year Course"
@@ -272,7 +272,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Uzhhorod National University - Ranking 2022",
-            "info": "<b>As per UniRank (4icu), the Country and World Ranking of Uzhhorod National University:</b>",
+            "info": "As per UniRank (4icu), the Country and World Ranking of Uzhhorod National University:",
             "col": [
                 "Country",
                 "World"
@@ -287,7 +287,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Uzhhorod National University",
-            "info": "<b>Students learning in Uzhhorod National Medical University gets all the necessary facilities for their educational and personal needs:</b>",
+            "info": "Students learning in Uzhhorod National Medical University gets all the necessary facilities for their educational and personal needs:",
             "data": [
                 "Canteen",
                 "Library",
@@ -301,7 +301,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Uzhhorod National University - FMGE Performance 2021",
-            "info": "<b>Uzhhorod National University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Uzhhorod National University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -320,7 +320,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Uzhhorod National medical university has the following accreditation and recognition:</b>",
+            "info": "Uzhhorod National medical university has the following accreditation and recognition:",
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)"
@@ -376,7 +376,7 @@ export const uzhhorodnationalmedicaluniversity = {
                     "Approx range in RS": "4900-5300"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> for calculation purposes 1$= Rs.70</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> for calculation purposes 1$= Rs.70</p>'
         },
         {
             "type": "text",
@@ -404,9 +404,13 @@ export const uzhhorodnationalmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Uzhhorod National University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Uzhhorod National University - MBBS Fee Structure 2022",
-            "info": "<b>One of the top-ranked medical universities, Uzhhorod National Medical University offers students a cost-efficient medical degree. Check out the annual fee structure:</b>",
+            "info": "One of the top-ranked medical universities, Uzhhorod National Medical University offers students a cost-efficient medical degree. Check out the annual fee structure:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -454,12 +458,12 @@ export const uzhhorodnationalmedicaluniversity = {
                     "Year 6": "Rs. 3,30,150"
                 },
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> $1 = Rs.71 (It may vary)</p> <p>India One Time Charges: Rs 1 Lac + GST (Visa & Flight Excluded)</p> <p>Extra charges of Insurance in Ukraine.</p> <p>All the fees to the university have to be paid in US $ only.</p> <p>All the above-mentioned living expenses are subject to the students lifestyle and university.</p> <p>Tuition & Hostel fees may increase every year.</p> <p>No hidden charges.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> $1 = Rs.71 (It may vary)</p> <p>India One Time Charges: Rs 1 Lac + GST (Visa & Flight Excluded)</p> <p>Extra charges of Insurance in Ukraine.</p> <p>All the fees to the university have to be paid in US $ only.</p> <p>All the above-mentioned living expenses are subject to the students lifestyle and university.</p> <p>Tuition & Hostel fees may increase every year.</p> <p>No hidden charges.</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at Uzhhorod National University",
-            "info": "<b>Apart from the MBBS course, there are following courses taught in this university:</b>",
+            "info": "Apart from the MBBS course, there are following courses taught in this university:",
             "data": [
                 "General Medicine (MBBS)",
                 "Pediatrics",
@@ -471,7 +475,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Uzhhorod National University",
-            "info": "<b>The course duration of MBBS in Uzhhorod National Medical University is 6 years:</b>",
+            "info": "The course duration of MBBS in Uzhhorod National Medical University is 6 years:",
             "data": [
                 "MBBS degree’s duration in Ukraine is of 6 years, this includes 5 years’ course and 1 year of internship."
             ]
@@ -496,9 +500,13 @@ export const uzhhorodnationalmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Uzhhorod National University - Admission 2023 '
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For MBBS Course",
-            "info": "<b>Students have to fit in the following eligibility criteria to get admission to Uzhhorod National Medical University for the MBBS course:</b>",
+            "info": "Students have to fit in the following eligibility criteria to get admission to Uzhhorod National Medical University for the MBBS course:</b>",
             "data": [
                 "A candidate who has passed the 12th standard exam with minimum of 50% marks and with Physics, Chemistry, Biology and English subjects can apply for the seat of MBBS to take admission.",
                 "The age of the candidate should be at least 17 year and maximum 25 years at the time of admission or before the 31st December of the admission year.",
@@ -509,7 +517,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Students need to follow these steps to take admission in Ukraine for MBBS in Uzhhorod National Medical University:</b>",
+            "info": "Students need to follow these steps to take admission in Ukraine for MBBS in Uzhhorod National Medical University:",
             "data": [
                 "Step 1: Fill the admission form and get ready for all the necessary documents.",
                 "Step 2: Submit all the documents online or at the office of ‘Select Your University’",
@@ -521,7 +529,7 @@ export const uzhhorodnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students need to have the following documents for the admission process:</b>",
+            "info": "Students need to have the following documents for the admission process:",
             "data": [
                 "SSC mark sheet",
                 "HSC mark sheet",
@@ -554,6 +562,10 @@ export const uzhhorodnationalmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Uzhhorod National University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Uzhhorod National University - Reviews" },
@@ -572,6 +584,10 @@ export const uzhhorodnationalmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Uzhhorod National University - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -592,6 +608,10 @@ export const uzhhorodnationalmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Uzhhorod National University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Uzhhorod National University - Gallery" },
@@ -610,6 +630,10 @@ export const uzhhorodnationalmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Uzhhorod National University - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -630,6 +654,10 @@ export const uzhhorodnationalmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Uzhhorod National University - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Uzhhorod National University - Faculty" },
@@ -648,6 +676,10 @@ export const uzhhorodnationalmedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Uzhhorod National University - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -668,6 +700,10 @@ export const uzhhorodnationalmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Uzhhorod National University - Hostel'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Uzhhorod National University - Hostel" },
@@ -687,9 +723,13 @@ export const uzhhorodnationalmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Uzhhorod National University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Uzhhorod National University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Uzhhorod National Medical University a good choice for MBBS education to an Indian student?",

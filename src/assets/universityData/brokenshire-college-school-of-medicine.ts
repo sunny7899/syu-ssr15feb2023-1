@@ -19,7 +19,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "table-title",
             "title": "Brokenshire College School of Medicine - Quick Overview 2022",
-            "info": "<b>If you are looking to study MBBS in Philippines, then have a quick overview on some important points of Brokenshire College School of Medicine:</b>",
+            "info": "If you are looking to study MBBS in Philippines, then have a quick overview on some important points of Brokenshire College School of Medicine:",
             "col": [
             ],
             "row": [
@@ -44,7 +44,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Brokenshire College School of Medicine?",
-            "info": "<b>When choosing the university to study for a medical degree in the Philippines, you need to find a trustworthy top one among hundreds of universities. Here are the advantages offered by Brokenshire College School of Medicine to students to get admission to MBBS courses:</b>",
+            "info": "When choosing the university to study for a medical degree in the Philippines, you need to find a trustworthy top one among hundreds of universities. Here are the advantages offered by Brokenshire College School of Medicine to students to get admission to MBBS courses:",
             "data": [
                 "Brokenshire College School of Medicine courses are the top Graded in Davao City, Philippines.",
                 "The ranking is authorized through TESDA.",
@@ -65,14 +65,14 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>The medium of teaching at Brokenshire College School of Medicine is English:</b>',
+            info: 'The medium of teaching at Brokenshire College School of Medicine is English:',
             data: '<p>No Language Barrier, considering English is the medium of instruction & 99% of people in the Philippines communicate in English.</p>'
         },
 
         {
             "type": "table",
             "title": "Brokenshire College School of Medicine - Ranking 2022",
-            "info": "<b>According to Uni rank, the country & world ranking of Brokenshire College School of Medicine:</b>",
+            "info": "According to Uni rank, the country & world ranking of Brokenshire College School of Medicine:",
             "col": [
                 "Country",
                 "World",
@@ -88,7 +88,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Brokenshire College School of Medicine has international recognition and accreditation. It is recognized by:</b>",
+            "info": "The Brokenshire College School of Medicine has international recognition and accreditation. It is recognized by:",
             "data": [
                 "National Medical Commission (NMC)",
                 "The World Health Organization (WHO)",
@@ -100,7 +100,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Brokenshire College School of Medicine - Associated Hospitals",
-            "info": "<b>The Brokenshire College School of Medicine has international recognition and accreditation. It is recognized by:</b>",
+            "info": "The Brokenshire College School of Medicine has international recognition and accreditation. It is recognized by:",
             "data": [
                 "Brokenshire Memorial Hospital (BMH) is a tertiary general hospital providing a huge variety of medical and surgical services. With its approved residency training packages in Family Medicine, Internal Medicine, Obstetrics and Gynecology, Pediatrics, and Surgery (accreditation in process).",
                 "BMH gives a fertile ground for future medical doctors who're skilled to provide first-class healthcare and to address the health needs of the people holistically.",
@@ -112,7 +112,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The average cost of the student for a month while studying at Brokenshire College School of Medicine is shown in table below:</b>",
+            "info": "The average cost of the student for a month while studying at Brokenshire College School of Medicine is shown in table below:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -152,11 +152,15 @@ export const brokenshirecollegeschoolofmedicine = {
         }
 
     ],
-    "courseandfees": [
+    "coursesandfees": [
+        {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - courses & Fees"
+        },
         {
             "type": "table",
             "title": "Brokenshire College School of Medicine Fee Structure 2022",
-            "info": "<b>Brokenshire College School of Medicine has an affordable fees for Indian students, the average annual cost for MBBS is 3.2 lacs, for detailed fee structure have a look below:</b>",
+            "info": "Brokenshire College School of Medicine has an affordable fees for Indian students, the average annual cost for MBBS is 3.2 lacs, for detailed fee structure have a look below:",
             "col": [
                 "Pre Medicine - B.S",
                 "MD - Year I",
@@ -178,12 +182,12 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "table",
             "title": "Brokenshire College School of Medicine - MBBS Syllabus (Semester Wise)",
-            "info": "<b>Following subjects are covered in the 5.5 years MBBS course at Brokenshire College School of Medicine:</b>"
+            "info": "Following subjects are covered in the 5.5 years MBBS course at Brokenshire College School of Medicine>"
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b><u>MD - Year I</u></b>",
+            "info": "MD - Year I",
             "col": [
                 "I Semester",
                 "II Semester",
@@ -224,7 +228,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "table",
             "title": "",
-            "info": "<b><u>MD - Year II</u></b>",
+            "info": "MD - Year II",
             "col": [
                 "III Semester<",
                 "VI Semester<",
@@ -281,7 +285,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "table",
             "title": "",
-            "info": "<b><u>MD - Year III</u></b>",
+            "info": "MD - Year III",
             "col": [
                 "V Semester",
                 "VI Semester",
@@ -350,7 +354,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b><u>MD - Year IV</u></b>",
+            "info": "MD - Year IV",
             "col": [
                 "<b>Fourth Year - 52 Week Internship</b>",
 
@@ -388,9 +392,13 @@ export const brokenshirecollegeschoolofmedicine = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Brokenshire College School of Medicine - Eligibility Criteria",
-            "info": "<b>To be eligible for the MBBS course at Brokenshire College School of Medicine, the applicant has to satisfy the following entry requirements:</b>",
+            "info": "To be eligible for the MBBS course at Brokenshire College School of Medicine, the applicant has to satisfy the following entry requirements:",
             "data": [
                 "If you want to study MBBS in Philippines he or she may be an Indian they have to qualify the NEET examination it’s a obligatory rule to all the Indian students to study medication withinside the Philippines",
                 "If the scholars want to study medication he or she desires to have more than 50% marks in physics, chemistry, biology (botany or zoology).",
@@ -400,7 +408,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "step-list",
             "title": "How can I Get Admission in Brokenshire College School of Medicine?",
-            "info": "<b>The admission process which is followed at Brokenshire College School of Medicine which students need to follow is given below:</b>",
+            "info": "The admission process which is followed at Brokenshire College School of Medicine which students need to follow is given below:",
             "data": [
                 "<b><u>Step 1</u></b><b>Registration</b><br>Click at the <a>official website</a> to start<br>Fill the required data properly as wrong data may cancel your registration.<br>Upload all the asked documents.<br>Note your ERN(Enrollment reference number) and date of birth.<br>Wait for the scheduled interview.<br>Wait for document verification, enrollment evaluation and advising form.",
                 "<b><u>Step 2</u></b><b>Payment</b><br>Read the instructions and pay the asked amount.<br>Scan or take a picture of proof of your payment and upload it on a legitimate website.<br>Wait for payment verification.",
@@ -412,7 +420,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Brokenshire College School of Medicine - Documents Required",
-            "info": "<b>Keep all the documents mentioned below ready before starting the admission procedure for the MBBS course at Brokenshire College School of Medicine:</b>",
+            "info": "Keep all the documents mentioned below ready before starting the admission procedure for the MBBS course at Brokenshire College School of Medicine:",
             "data": [
                 "Transcript of Records",
                 "General Weighted Average in College (GWA)",
@@ -445,6 +453,10 @@ export const brokenshirecollegeschoolofmedicine = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Brokenshire College School of Medicine, Philippines - Reviews" },
@@ -465,6 +477,10 @@ export const brokenshirecollegeschoolofmedicine = {
 
     "placement": [
         {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - Placement"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Brokenshire College School of Medicine, Philippines - Placement" },
@@ -483,6 +499,10 @@ export const brokenshirecollegeschoolofmedicine = {
         }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -503,6 +523,10 @@ export const brokenshirecollegeschoolofmedicine = {
     ],
 
     "scholarship": [
+        {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -536,6 +560,10 @@ export const brokenshirecollegeschoolofmedicine = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Brokenshire College School of Medicine, Philippines - Faculty" },
@@ -556,6 +584,10 @@ export const brokenshirecollegeschoolofmedicine = {
 
 
     "news": [
+        {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - Faculty"
+        },
         {
             type: "meta",
             meta: [
@@ -578,9 +610,13 @@ export const brokenshirecollegeschoolofmedicine = {
 
     "hostel": [
         {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>At Brokenshire College School of Medicine following accommodation facilities are provided:</b>",
+            "info": "At Brokenshire College School of Medicine following accommodation facilities are provided:",
             "data": [
                 "Brokenshire College School of Medicine Hostel gives accommodation for all students within the campus.",
                 "The rooms are spacious, with alternatives of being fully air-conditioned & ready with comfortable furniture.",
@@ -628,6 +664,10 @@ export const brokenshirecollegeschoolofmedicine = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Brokenshire College School of Medicine, Philippines - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Brokenshire College School of Medicine - Important FAQs",

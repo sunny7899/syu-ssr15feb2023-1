@@ -315,149 +315,9 @@ export const avicennatajikstatemedicaluniversity = {
                 }
             ],
         },
-        {
-            "type": "table",
-            "title": "Avicenna Tajik State Medical University Ranking 2023",
-            "info": "Before applying for this university you should check ranking:",
-            "col": [
-                "Country",
-                "World"
-            ],
-            "row": [
-                {
-                    "Country": "3",
-                    "World": "8925"
-                }
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Note:",
-            "data": [
-                "Tuition fee and accommodation should be paid in Philippines Peso",
-                "Hostel fee should be paid year wise",
-                "PHP to INR conversion rate - 1.50 (Approx)"
-            ],
-            // "images": ""
-        },
-        {
-            "type": "list-bollet",
-            "title": "Courses Offered at Lyceum Northwestern University",
-            "info": "Lyceum Northwestern University offers a 4-year MD course which is equivalent to MBBS in India. The course covers subjects like:",
-            "data": [
-                "Biochemistry",
-                "Psychiatry",
-                "Physiology",
-                "Obstetrics",
-                "Pharmacology",
-                "Pediatrics",
-                "Preventive Medicine",
-                "General Medicine",
-                "Community Health",
-                "Medical Practice",
-                "Human Anatomy"
-            ],
-            // "images": ""
-        },
-        {
-            "type": "list-bollet",
-            "title": "Lyceum Northwestern University - MBBS Duration",
-            "info": "The duration of studying the entire medical program at Lyceum-Northwestern University is 5.6 years:",
-            "data": [
-                "Candidates should complete 5 and half years of full-time MBBS education provided to all international students.",
-                "During medical course education the first 16 months are dedicated for the pre-medical course, focusing on building a foundation for a strong medical education.",
-                "And the next 4 years focuses on core medicine and clinical rotation.",
-                "The renowned professors also focus on practical knowledge along with theoretical.",
-                "The medical aspirants should also complete 1 year of mandatory internship at the end of the program."
-            ]
-        },
-        {
-            "type": "table",
-            "title": "At Lyceum Northwestern University - MBBS Syllabus",
-            "colTitle": "MBBS (MD) Syllabus",
-            "info": "The MBBS syllabus for Lyceum Northwestern University is shown in the table below:",
-            "col": [
-                "First Year",
-                "Second Year",
-                "Third Year",
-                "Fourth Year"
-            ],
-            "row": [
-                {
-                    "First Year": "Anatomy",
-                    "Second Year": "Pharmacology",
-                    "Third Year": "Pediatrics-2",
-                    "Fourth Year": "Surgery"
-                },
-                {
-                    "First Year": "Histology",
-                    "Second Year": "General And Clinical Pathology",
-                    "Third Year": "Surgery-2",
-                    "Fourth Year": "Medicine"
-                },
-                {
-                    "First Year": "Biochemistry",
-                    "Second Year": "Parasitology",
-                    "Third Year": "Medicine-2",
-                    "Fourth Year": "Psychiatry"
-                },
-                {
-                    "First Year": "Psychiatry",
-                    "Second Year": "Medicine-1",
-                    "Third Year": "Internal Medicine",
-                    "Fourth Year": "Ophthalmology"
-                },
-                {
-                    "First Year": "Physiology",
-                    "Second Year": "Epidemiology",
-                    "Third Year": "Legal Medicine",
-                    "Fourth Year": "Neurology"
-                },
-                {
-                    "First Year": "Neuroscience",
-                    "Second Year": "Microbiology",
-                    "Third Year": "Dermatology",
-                    "Fourth Year": "Paediatrics"
-                },
-                {
-                    "First Year": "History Of Medicine",
-                    "Second Year": "Pharmacology",
-                    "Third Year": "Radiology",
-                    "Fourth Year": "Obstetrics and Gynecology"
-                },
-                {
-                    "First Year": "Preventive And Communicative",
-                    "Second Year": "Pediatrics-1",
-                    "Third Year": "Neuroscience-3",
-                    "Fourth Year": "-"
-                },
-                {
-                    "First Year": "Bioethics",
-                    "Second Year": "Surgery",
-                    "Third Year": "Cardiology",
-                    "Fourth Year": "-"
-                },
-                {
-                    "First Year": "-",
-                    "Second Year": "Neuroscience 2",
-                    "Third Year": "Advanced Pathology",
-                    "Fourth Year": "-"
-                },
-                {
-                    "First Year": "-",
-                    "Second Year": "Psychiatry",
-                    "Third Year": "Ophthalmology",
-                    "Fourth Year": "-"
-                },
-                {
-                    "First Year": "-",
-                    "Second Year": "-",
-                    "Third Year": "Obstetrics And Gynecology",
-                    "Fourth Year": "-"
-                },
-            ]
-        },
+        
+        
+        
         {
             "type": "table",
             "title": "Courses offered at Avicenna Tajik State Medical University",
@@ -685,33 +545,33 @@ export const avicennatajikstatemedicaluniversity = {
             "image": [
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-av-room.jpg",
-                    "alt": "Image 1"
+                    "data": "../../assets/img/university_gallery/avicenna-international-medical-university.jpg",
+                    "alt": "Avicenna International Medical University"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-auditorium.jpg",
-                    "alt": "Image 1"
+                    "data": "../../assets/img/university_gallery/avicenna-international-medical-university-building.jpg",
+                    "alt": "Avicenna International Medical University Building"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-waiting-room.jpg",
-                    "alt": "Image 1"
+                    "data": "../../assets/img/university_gallery/avicenna-international-medical-university-campus.jpg",
+                    "alt": "Avicenna International Medical University Campus"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-function.jpg",
-                    "alt": "Image 1"
+                    "data": "../../assets/img/university_gallery/avicenna-international-medical-university-practical-lab.jpg",
+                    "alt": "Avicenna International Medical University Practical Lab"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-conference.jpg",
-                    "alt": "Image 1"
+                    "data": "../../assets/img/university_gallery/avicenna-international-medical-university-student-group-photo.jpg",
+                    "alt": "Avicenna International Medical University Student Group Photo"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university.jpg",
-                    "alt": "Image 1"
+                    "data": "../../assets/img/university_gallery/avicenna-tajik-state-medical-university-therory-room.jpg",
+                    "alt": "Avicenna International Medical University Therory Room"
                 },
             ],
             "video": [

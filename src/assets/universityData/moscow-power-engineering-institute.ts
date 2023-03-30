@@ -19,7 +19,7 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "table-title",
             "title": "Moscow Power Engineering Institute - Quick Overview",
-            "info": "<b>Applicants who want to pursue Engineering from Moscow Power Engineering Institute can know about it in brief here:</b>",
+            "info": "Applicants who want to pursue Engineering from Moscow Power Engineering Institute can know about it in brief here:",
             "col": [],
             "row": [
                 ["<b>Intake</b>", "June/July"],
@@ -35,7 +35,7 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "list-bollet",
             "title": "Why Choose Moscow Power Engineering Institute for Higher Studies?",
-            "info": "<b>Moscow Power Engineering Institute is an ideal institution for students who want to pursue Engineering from Russia:</b>",
+            "info": "Moscow Power Engineering Institute is an ideal institution for students who want to pursue Engineering from Russia:",
             "data": [
                 "Students will get a chance to study at one of Russia's most prestigious universities.",
                 "The university has 90 years of history and it comprises a significant number of trained engineers and prominent scientists.",
@@ -51,7 +51,7 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "table",
             "title": "Moscow Power Engineering Institute - Ranking 2022",
-            "info": "<b>According to UniRank, the ranking of Moscow Power Engineering Institute is given below:</b>",
+            "info": "According to UniRank, the ranking of Moscow Power Engineering Institute is given below:",
             "col": [
                 "Country",
                 "World"
@@ -66,7 +66,7 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Years ago, MPEI launched the program of education for international students:</b>",
+            "info": "Years ago, MPEI launched the program of education for international students:",
             "data": [
                 "Moscow Power Engineering Institute is one of the few Russian Universities to start courses for international students.",
                 "MPEI uses both English and Russian languages as its medium of teaching."
@@ -75,7 +75,7 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Moscow Power Engineering Institute is located in Moscow, Russia. The average cost of living in Moscow is 629 $ - 1200 $ per month:</b>",
+            "info": "Moscow Power Engineering Institute is located in Moscow, Russia. The average cost of living in Moscow is 629 $ - 1200 $ per month:",
             "col": [
                 "Particulars",
                 "Expenses (In USD)",
@@ -135,9 +135,14 @@ export const moscowpowerengineeringinstitute = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Moscow Power Engineering Institute, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Moscow Power Engineering Institute - Fee Structure",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "col": [
                 "Courses",
                 "Tuition Fee (First Year in USD)",
@@ -205,7 +210,7 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "table",
             "title": "Moscow Power Engineering Institute - Fee Structure",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "col": [
                 "Courses",
                 "1st Year Tuition Fees (In USD)",
@@ -243,7 +248,7 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "table-title",
             "title": "Courses Offered at Moscow Power Engineering Institute",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "col": [],
             "row": [
                 ["Advertising and Public Relations", "Applied mathematics and Informatics", "Bioengineering Systems and Technologies"],
@@ -271,9 +276,9 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "list-bollet",
             "title": "Course Duration",
-            "info": "<b>There are many specialties, and the Moscow Power Engineering Institute provides degree courses on a full-time basis:</b>",
+            "info": "There are many specialties, and the Moscow Power Engineering Institute provides degree courses on a full-time basis:",
             "data": [
-               "Moscow Power Engineering Institute offers Bachelor’s Degree Courses for 4-5 years. And the course duration of Moscow Power Engineering Institute is two years."
+                "Moscow Power Engineering Institute offers Bachelor’s Degree Courses for 4-5 years. And the course duration of Moscow Power Engineering Institute is two years."
             ]
         },
         {
@@ -296,9 +301,14 @@ export const moscowpowerengineeringinstitute = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Moscow Power Engineering Institute, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Moscow Power Engineering Institute does not ask students to appear for any entrance exam, but they will have to submit these documents:</b>",
+            "info": "Moscow Power Engineering Institute does not ask students to appear for any entrance exam, but they will have to submit these documents:",
             "data": [
                 "Legalized certificate from secondary school.",
                 "Medical certificate.",
@@ -310,7 +320,7 @@ export const moscowpowerengineeringinstitute = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Applicants who want to study at the Moscow Power Engineering Institute will have to follow this admission process:</b>',
+            info: 'Applicants who want to study at the Moscow Power Engineering Institute will have to follow this admission process:',
             data: [
                 "Step 1: MPEI asks foreign applicants to send the application form or written application to the University.",
                 "Step 2: Applicants will have to submit the documents to get admission to the University.",
@@ -328,7 +338,7 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Applicants who want to pursue Engineering from Moscow Power Engineering Institute will have to submit the following documents:</b>",
+            "info": "Applicants who want to pursue Engineering from Moscow Power Engineering Institute will have to submit the following documents:",
             "data": [
                 "Original application with the signature in handwriting.",
                 "Single-entry visa to Russia on education to MPEI",
@@ -366,6 +376,11 @@ export const moscowpowerengineeringinstitute = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Moscow Power Engineering Institute, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow Power Engineering Institute, Russia - Reviews" },
@@ -384,6 +399,11 @@ export const moscowpowerengineeringinstitute = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Moscow Power Engineering Institute, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -404,6 +424,11 @@ export const moscowpowerengineeringinstitute = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Moscow Power Engineering Institute, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow Power Engineering Institute, Russia - Gallery" },
@@ -423,9 +448,14 @@ export const moscowpowerengineeringinstitute = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Moscow Power Engineering Institute, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship at Moscow Power Engineering Institute",
-            "info": "<b>Moscow Power Engineering Institute offers scholarship to international students to help them pay the tuition fees:</b>",
+            "info": "Moscow Power Engineering Institute offers scholarship to international students to help them pay the tuition fees:",
             "data": [
                 "A group named BOOS Lighting provides scholarships to international students.",
                 "This scholarship is given to the students of the Engineering Department of MPEI.",
@@ -452,6 +482,11 @@ export const moscowpowerengineeringinstitute = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Moscow Power Engineering Institute, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow Power Engineering Institute, Russia - Faculty" },
@@ -470,6 +505,11 @@ export const moscowpowerengineeringinstitute = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Moscow Power Engineering Institute, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -490,9 +530,14 @@ export const moscowpowerengineeringinstitute = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Moscow Power Engineering Institute, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>International students can get rooms in the institute hostel at an affordable cost. Find the accommodation details mentioned below:</b>",
+            "info": "International students can get rooms in the institute hostel at an affordable cost. Find the accommodation details mentioned below:",
             "data": [
                 "International students willing to get accommodation will have to apply to the campus.",
                 "There are 2 or 3 bedrooms. The University charges 70 USD per month as hostel fees."
@@ -501,7 +546,7 @@ export const moscowpowerengineeringinstitute = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Facilities at Hostel:</b>",
+            "info": "Facilities at Hostel:",
             "data": [
                 "Wardrobe",
                 "Bed",
@@ -536,55 +581,60 @@ export const moscowpowerengineeringinstitute = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Moscow Power Engineering Institute - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Does Moscow Power Engineering Institute conduct any entrance exam to give admission to international students?",
-                    "ans": "Moscow Power Engineering Institute does not conduct any entrance exam to give admission to international students."
-                },
-                {
-                    "ques": "Q. What is the medium of teaching at Moscow Power Engineering Institute?",
-                    "ans": "MPEI uses English and Russian languages as the medium of teaching."
-                },
-                {
-                    "ques": "Q. How many international students study at the Moscow Power Engineering Institute?",
-                    "ans": "Around 1700, international students study at the Moscow Power Engineering Institute."
-                },
-                {
-                    "ques": "Q. What is the application fee at the Moscow Power Engineering Institute?",
-                    "ans": "The Application fee for Moscow Power Engineering Institute is included in the tuition fee. Students will not have to pay the application fee separately."
-                },
-                {
-                    "ques": "Q. Does Moscow Power Engineering Institute offer any accommodation to international students?",
-                    "ans": "Yes, the students can avail themselves of the Moscow Power Engineering Institute's hostel facility."
-                },
-                {
-                    "ques": "Q. What are the hostel fees at the Moscow Power Engineering Institute?",
-                    "ans": "MPEI charges international students of 70 USD per month as accommodation fees."
-                }
-                
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Moscow Power Engineering Institute, Russia - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Moscow Power Engineering Institute, Russia - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-power-engineering-institute/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Moscow Power Engineering Institute, Russia - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "Moscow Power Engineering Institute - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. Does Moscow Power Engineering Institute conduct any entrance exam to give admission to international students?",
+                        "ans": "Moscow Power Engineering Institute does not conduct any entrance exam to give admission to international students."
+                    },
+                    {
+                        "ques": "Q. What is the medium of teaching at Moscow Power Engineering Institute?",
+                        "ans": "MPEI uses English and Russian languages as the medium of teaching."
+                    },
+                    {
+                        "ques": "Q. How many international students study at the Moscow Power Engineering Institute?",
+                        "ans": "Around 1700, international students study at the Moscow Power Engineering Institute."
+                    },
+                    {
+                        "ques": "Q. What is the application fee at the Moscow Power Engineering Institute?",
+                        "ans": "The Application fee for Moscow Power Engineering Institute is included in the tuition fee. Students will not have to pay the application fee separately."
+                    },
+                    {
+                        "ques": "Q. Does Moscow Power Engineering Institute offer any accommodation to international students?",
+                        "ans": "Yes, the students can avail themselves of the Moscow Power Engineering Institute's hostel facility."
+                    },
+                    {
+                        "ques": "Q. What are the hostel fees at the Moscow Power Engineering Institute?",
+                        "ans": "MPEI charges international students of 70 USD per month as accommodation fees."
+                    }
+
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Moscow Power Engineering Institute, Russia - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Moscow Power Engineering Institute, Russia - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-power-engineering-institute/faq" }
+                ]
+            }
+        ]
 }

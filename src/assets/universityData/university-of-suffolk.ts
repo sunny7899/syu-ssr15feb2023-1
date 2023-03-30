@@ -19,7 +19,7 @@ export const universityofsuffolk = {
         {
             "type": "table-title",
             "title": "University of Suffolk - Quick Overview",
-            "info": "<b>The students looking for quality education in Uk must check out the important highlights of the University of Suffolk:</b>",
+            "info": "The students looking for quality education in Uk must check out the important highlights of the University of Suffolk:",
             "col": [
 
             ],
@@ -38,7 +38,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "Advantages of Studying at the University of Suffolk",
-            "info": "<b>There are many reasons to select the University of Suffolk for higher studies in the UK:</b>",
+            "info": "There are many reasons to select the University of Suffolk for higher studies in the UK:",
             "data": [
                 "The University of Suffolk has a modern and teaching-learning atmosphere.",
                 "The college also provides varieties of undergraduate and postgraduate programs to international students at friendly prices.",
@@ -54,7 +54,7 @@ export const universityofsuffolk = {
         {
             "type": "table",
             "title": "University of Suffolk Ranking 2021",
-            "info": "<b>The candidates must check out the world and country ranking of the University of Suffolk:</b>",
+            "info": "The candidates must check out the world and country ranking of the University of Suffolk:",
             "col": [
                 "Country",
                 "World"
@@ -69,7 +69,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided for International Students",
-            "info": "<b>Top-class facilities are available for the students who are coming to study in the Uk at the University of Suffolk:</b>",
+            "info": "Top-class facilities are available for the students who are coming to study in the Uk at the University of Suffolk:",
             "data": [
                 "Canteen",
                 "Internet",
@@ -83,7 +83,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "University of Suffolk - Affiliations & Recognitions",
-            "info": "<b>The University of Suffolk is officially affiliated by many organisations mentioned below:</b>",
+            "info": "The University of Suffolk is officially affiliated by many organisations mentioned below:",
             "data": [
                 "University of East Anglia",
                 "University of Essex",
@@ -95,7 +95,7 @@ export const universityofsuffolk = {
         {
             "type": "table",
             "title": "Monthly Living Expenses in Suffolk, England",
-            "info": "<b>The students must check out the living cost of pursuing education at the University of Suffolk must know the city living cost:</b>",
+            "info": "The students must check out the living cost of pursuing education at the University of Suffolk must know the city living cost:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -135,6 +135,10 @@ export const universityofsuffolk = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University of Suffolk, UK - courses & Fees'
+        },
         {
             "type": "table",
             "title": "University of Suffolk - Fee Structure & Program Duration",
@@ -238,7 +242,7 @@ export const universityofsuffolk = {
             "type": "table",
             "title": "",
             "info": "Law",
-            "textBelowInfo": "<b>The applicants must check out the law programs and other information about them:</b>",
+            "textBelowInfo": "The applicants must check out the law programs and other information about them:",
             "col": [
                 "Courses",
                 "Location",
@@ -274,7 +278,7 @@ export const universityofsuffolk = {
             "type": "table",
             "title": "",
             "info": "Business",
-            "textBelowInfo": "<b>Here the students can find out business courses provided by the University of Suffolk:</b>",
+            "textBelowInfo": "Here the students can find out business courses provided by the University of Suffolk:",
             "col": [
                 "Courses",
                 "Location",
@@ -318,7 +322,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "Schools and Departments",
-            "info": "<b>The institute provides many schools where students will get high-quality education:</b>",
+            "info": "The institute provides many schools where students will get high-quality education:",
             "data": [
                 "School of Social Sciences and Humanities",
                 "School of Engineering, Arts, Science and Technology",
@@ -348,6 +352,10 @@ export const universityofsuffolk = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Suffolk, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "data": [
@@ -359,7 +367,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Here is the detailed information of basic criteria to enter in various engineering programs:</b>",
+            "info": "Here is the detailed information of basic criteria to enter in various engineering programs:",
             "textBelowInfo": "BSc (Hons) Software Engineering, BSc (Hons) Network Engineering -",
             "data": [
                 "The candidates must have 96 UCAS tariff points (or above) CCC (A-Level) MMM (BTEC) to study Engineering.",
@@ -370,7 +378,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>International Requirements</b>",
+            "info": "International Requirements",
             "data": [
                 "The students must have passed IELTS with 6.0 overall (minimum 5.5 in all components) where English is not the students' first language.",
 
@@ -379,7 +387,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Digital and Technology Solutions Professional Degree Apprenticeship Software Engineering -</b>",
+            "info": "Digital and Technology Solutions Professional Degree Apprenticeship Software Engineering -",
             "data": [
                 "The college will liaise with employers regarding entry requirements, but would normally expect Apprentices to meet our standard entry requirements.",
                 "The students must have 112 UCAS tariff points (or above), BBC (A-Level), DMM (BTEC).",
@@ -390,7 +398,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Non-Academic Requirements</b>",
+            "info": "Non-Academic Requirements",
             "data": [
                 "Apprentices are expected to be in employment in order to undertake this course, the college may require apprentices to attend an interview in order to be accepted onto the course.",
                 "Apprentices should have permission to work in the UK and have been ordinarily resident in the EEA or the UK for at least 3 years prior to beginning the Apprenticeship., Any apprentice with non-UK qualifications will be expected to meet the equivalent entry requirements as set out in our International and EU pages.",
@@ -401,7 +409,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>BSc (Hons) Civil Engineering [degree apprenticeship] & FdSc Civil Engineering -</b>",
+            "info": "BSc (Hons) Civil Engineering [degree apprenticeship] & FdSc Civil Engineering -",
             "data": [
                 "The students must have 80 UCAS tariff points (or above), CDD (A-Level), MMP (BTEC).",
                 "The candidates must hold GCSE English and Maths at Grade C/4 or above and the students without holding these qualifications may be considered on an individual basis based upon their overall application and the course applied for.",
@@ -411,7 +419,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Non-Academic Requirements</b>",
+            "info": "Non-Academic Requirements",
             "data": [
                 "The students may be required to attend an interview as part of the application process and the apprentices will be expected to be in employment in order to undertake this program.",
             ]
@@ -419,7 +427,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>International Requirements</b>",
+            "info": "International Requirements",
             "data": [
                 "Apprentices should have permission to work in the UK and have been ordinarily resident in the EEA or the UK for at least 3 years prior to beginning the Apprenticeship., Any apprentice with non-UK qualifications will be expected to meet the equivalent entry requirements as set out in our International and EU pages.",
                 "The applicants with English as a second language should also meet English Language requirements.",
@@ -429,7 +437,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>HND General Engineering -</b>",
+            "info": "HND General Engineering -",
             "data": [
                 "The students must successfully complete a relevant HNC for admission.",
                 "The students must score 6.0 overall in the IELTS exam (minimum 5.5 in all components) where English is not the students' first language.",
@@ -438,7 +446,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>BSc (Hons) Civil Engineering (Progression Route) & BEng (Hons) Operations Engineering (Progression Route) -</b>",
+            "info": "BSc (Hons) Civil Engineering (Progression Route) & BEng (Hons) Operations Engineering (Progression Route) -",
             "data": [
                 "The candidates must hold a Foundation degree (or equivalent) for admission in BEng (Hons) Operations Engineering (Progression Route).",
                 "The students are required to have GCSE English and Maths grade 4/C or above, or equivalent Level 2 qualifications and the candidates without these qualifications may be considered on an individual basis based upon their overall application and the course applied for.",
@@ -448,7 +456,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>International Requirements</b>",
+            "info": "International Requirements",
             "data": [
                 "The students must score 6.0 overall in the IELTS exam (minimum 5.5 in all components) where English is not the students' first language."
             ]
@@ -456,7 +464,7 @@ export const universityofsuffolk = {
         {
             "type": "step-list",
             "title": "How to take Admission in University of Suffolk?",
-            "info": "<b>The students dreaming of higher education at the University of Suffolk should follow admission steps to enroll on undergraduate and postgraduate courses:</b>",
+            "info": "The students dreaming of higher education at the University of Suffolk should follow admission steps to enroll on undergraduate and postgraduate courses:",
             "data": [
                 "<b>Step 1:</b> The candidates dreaming to study in the UK must fill the application form with the correct details.",
                 "<b>Step 2:</b> Upload all important documents along with the form by mail.",
@@ -470,7 +478,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The students must submit all important documents during admission time at the University of Suffolk:</b>",
+            "info": "The students must submit all important documents during admission time at the University of Suffolk:",
             "data": [
                 "Completed application form",
                 "Higher secondary certificates",
@@ -502,7 +510,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Find out the basic requirements to pursue law in Uk at the University of Suffolk:</b>",
+            "info": "Find out the basic requirements to pursue law in Uk at the University of Suffolk:",
             "data": [
                 "The candidates must have 112 UCAS tariff points (or above), BBC (A-Level), DMM (BTEC) or Access to HE Diploma - a minimum of 30 Level 3 credits at merit grade or above for admission in law programs in the Uk.",
                 "The students are required to have GCSE English and Maths grade 4/C or above, or equivalent Level 2 qualifications and the candidates without these qualifications may be considered on an individual basis based upon their overall application and the course applied for.",
@@ -511,7 +519,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>International Requirements</b>",
+            "info": "International Requirements",
             "data": [
                 "The students must score 6.0 overall in the IELTS exam (minimum 5.5 in all components) where English is not the students' first language.",
             ]
@@ -528,7 +536,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The applicants must fulfill all basic criteria to admit into various business programs:</b>",
+            "info": "The applicants must fulfill all basic criteria to admit into various business programs:",
             "textBelowInfo": "BA (Hons) Business Management -",
             "data": [
                 "The students must have 96 UCAS tariff points (or above), CCC (A-Level), MMM (BTEC) for admission.",
@@ -538,7 +546,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Non-Academic Requirements</b>",
+            "info": "Non-Academic Requirements",
             "data": [
                 "The students may be required to attend an interview as part of the application process."
             ]
@@ -546,7 +554,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>International Requirements</b>",
+            "info": "International Requirements",
             "data": [
                 "The students must score 6.0 overall in the IELTS exam (minimum 5.5 in all components) where English is not the students' first language."
             ]
@@ -554,7 +562,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MSc/PgD/PgC International Business and Management -</b>",
+            "info": "MSc/PgD/PgC International Business and Management -",
             "data": [
                 "The students must have an academic background in any discipline (Bachelors honours degree 2:2 or equivalent) or",
                 "The applicants must hold an HNC or HND or a foundation degree and have 2 years relevant experience; or",
@@ -565,7 +573,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Non-Academic Requirements</b>",
+            "info": "Non-Academic Requirements",
             "data": [
                 "Any offer of a place will be subject to 2 satisfactory reports from referees."
             ]
@@ -573,7 +581,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>International Requirements</b>",
+            "info": "International Requirements",
             "data": [
                 "The candidates must satisfy English language qualification requirements for admission"
             ]
@@ -599,6 +607,10 @@ export const universityofsuffolk = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Suffolk, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Suffolk, UK - Reviews" },
@@ -617,6 +629,10 @@ export const universityofsuffolk = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Suffolk, UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -646,6 +662,10 @@ export const universityofsuffolk = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Suffolk, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Suffolk, UK - Gallery" },
@@ -665,9 +685,13 @@ export const universityofsuffolk = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Suffolk, UK - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships provided for International Students",
-            "info": "<b>The University of Suffolk offers scholarships for the students to assist during education:</b>",
+            "info": "The University of Suffolk offers scholarships for the students to assist during education:",
             "data": [
                 "University of Suffolk International Scholarship",
                 "The college provides partial scholarships to international students enrolling on a Bachelor or Master programme in 2021/2022.",
@@ -677,7 +701,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Chevening Scholarships (external)</b>",
+            "info": "Chevening Scholarships (external)",
             "data": [
                 "This scholarship is the UK Government’s global scholarship program.",
                 "It supports students from over 110 various countries to study in the UK, mostly on 1-year masters courses.",
@@ -687,7 +711,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Commonwealth Scholarships (external)</b>",
+            "info": "Commonwealth Scholarships (external)",
             "data": [
                 "The Commonwealth Scholarship Commission (CSC) in the UK offers awards every year for students from developing countries to pursue education in the UK.",
                 "The awards are funded by the UK Government in conjunction with UK Universities.",
@@ -699,7 +723,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Snowdon Masters Scholarship</b>",
+            "info": "Snowdon Masters Scholarship",
             "data": [
                 "Masters Scholarship for disabled students is an external scholarship that is provided by the Global Disability Innovation Hub.",
                 "The deadline date for application forms is 6 April 2021.",
@@ -724,6 +748,10 @@ export const universityofsuffolk = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Suffolk, UK - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -780,6 +808,10 @@ export const universityofsuffolk = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Suffolk, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Suffolk, UK - News & Articles" },
@@ -799,9 +831,13 @@ export const universityofsuffolk = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Suffolk, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel Facility provided by University of Suffolk",
-            "info": "<b>The University of Suffolk offers top-class accommodation space along with modern facilities at the comfort zone of the students:</b>",
+            "info": "The University of Suffolk offers top-class accommodation space along with modern facilities at the comfort zone of the students:",
             "data": [
                 "At the University of Suffolk, the students will stay in comfy hostel rooms on campus.",
                 "The hostel rooms are well-furnished and maintained properly.",
@@ -816,7 +852,7 @@ export const universityofsuffolk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Check out the list of all halls of residences provided by the institute -</b>",
+            "info": "Check out the list of all halls of residences provided by the institute -",
             "data": [
                 "Athena Hall",
                 "AXO Suffolk",
@@ -844,6 +880,10 @@ export const universityofsuffolk = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'University of Suffolk, UK - FAQ'
+        },
         {
             "type": "question-list",
             "title": "Important FAQs",

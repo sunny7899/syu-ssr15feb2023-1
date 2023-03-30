@@ -21,7 +21,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": "table-title",
             "title": "Grigol Robakidze University - Quick Highlights 2022",
-            "info": "<b>The students willing to pursue MBBS must go through some important points of Grigol Robakidze University:</b>",
+            "info": "The students willing to pursue MBBS must go through some important points of Grigol Robakidze University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "April 2022"],
                 ["<b>NEET Exam</b>", "Yes, required"],
@@ -35,7 +35,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Why Study MBBS at Grigol Robakidze University?',
-            "info": '<b>There are several reasons why international students should choose Grigol Robakidze University to study MBBS:</b>',
+            "info": 'There are several reasons why international students should choose Grigol Robakidze University to study MBBS:',
             "data": [
                 "Grigol Robakidze University has a European type campus, the architecture of the university differs from other universities of Georgia.",
                 "The medium of teaching at Grigol Robakidze University for MBBS education in the English language.",
@@ -51,7 +51,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": "table",
             "title": "Grigol Robakidze University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Grigol Robakidze University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Grigol Robakidze University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -70,13 +70,13 @@ export const grigolrobakidzeuniversity = {
         {
             "type": 'text',
             "title": 'Medium of Teaching',
-            "info": '<b>Grigol Robakidze University offers English medium of instruction:</b>',
+            "info": 'Grigol Robakidze University offers English medium of instruction:',
             "data": "<p>The worldwide medical aspirants pursuing MBBS at Grigol Robakidze University get to learn medicine program in 100% English language.</p>"
         },
         {
             "type": "table",
             "title": "Grigol Robakidze University - Ranking 2022",
-            "info": "<b>For the country and world ranking of Grigol Robakidze University, the students must refer Edu rank:</b>",
+            "info": "For the country and world ranking of Grigol Robakidze University, the students must refer Edu rank:",
             "col": [
                 "Country",
                 "World",
@@ -151,13 +151,13 @@ export const grigolrobakidzeuniversity = {
         {
             type: 'text',
             title: 'About Tbilisi City',
-            info: '<b>Let’s get to know about the Tbilisi city in which Grigol Robakidze University is situated:</b>',
+            info: 'Let’s get to know about the Tbilisi city in which Grigol Robakidze University is situated:',
             data: '<p>Grigol Robakidze University is situated in the capital city of Georgia-Tbilisi, which is an old town with a large history of periods under Persian and Russian rule. Tbilisi city is also a part of the UNESCO world heritage list.</p><p>Tbilisi city is well known for its architecture which comprises of Eastern Orthodox churches, ornate art nouveau buildings and Soviet Modernist structures. Looming over it all are Narikala, a reconstructed 4th-century fortress, and Kartlis Deda, an iconic statue of the “Mother of Georgia.”</p><p><b>There are many places which are explorable in Tbilisi city, one must visit all of these places to explore Tbilisi - </b></p>',
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>There are many places which are explorable in Tbilisi city, one must visit all of these places to explore Tbilisi -</b>",
+            "info": "There are many places which are explorable in Tbilisi city, one must visit all of these places to explore Tbilisi -",
             "col": [],
             "row": [
                 ["Old Town architecture", "Jvari Monastery of Mtskheta"],
@@ -187,6 +187,11 @@ export const grigolrobakidzeuniversity = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Grigol Robakidze University - courses & Fees"
+
+        },
         {
             "type": "table",
             "title": "Grigol Robakidze University- MBBS Fee Structure 2022",
@@ -218,7 +223,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at Grigol Robakidze University',
-            "info": '<b>The Grigol Robakidze University provides medical faculties other than MBBS mentioned below:</b>',
+            "info": 'The Grigol Robakidze University provides medical faculties other than MBBS mentioned below:',
             "data": [
                 "Dentistry",
                 "PhD Program",
@@ -227,7 +232,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Grigol Robakidze University- MBBS Course Duration',
-            "info": '<b>Grigol Robakidze University offers 6 years of MBBS duration:</b>',
+            "info": 'Grigol Robakidze University offers 6 years of MBBS duration:',
             "data": [
                 "Every batch of medicine program at Grigol Robakidze University must undergo 6 years of MBBS education in English medium of instruction.",
                 "All the international students pursuing MBBS will acquire theoretical and practical knowledge of general medicine for 5 years.",
@@ -238,7 +243,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": "text",
             "title": "Grigol Robakidze University - MBBS Syllabus",
-            "info": '<p><b>The students willing to seek MBBS education must refer the table given below for better understanding the study pattern of Grigol Robakidze:</b></p>'
+            "info": 'The students willing to seek MBBS education must refer the table given below for better understanding the study pattern of Grigol Robakidze:'
         },
 
         {
@@ -342,9 +347,14 @@ export const grigolrobakidzeuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Grigol Robakidze University - Admission 2023"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>The students must fit into the eligibility criteria for MBBS admission at Grigol Robakidze University:</b>',
+            "info": 'The students must fit into the eligibility criteria for MBBS admission at Grigol Robakidze University:',
             "data": [
                 "The candidates should secure at least 50% marks with Physics, Chemistry, Biology and English subjects in the higher secondary examination or equivalent examination from the recognised board.",
                 "The candidates’ age should be 17 years old as on 31st December of the admission year.",
@@ -355,7 +365,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": 'step-list',
             "title": 'Admission Process',
-            "info": '<b>The students who seek to get MBBS at Grigol Robakidze University must follow the mentioned below steps:</b>',
+            "info": 'The students who seek to get MBBS at Grigol Robakidze University must follow the mentioned below steps:',
             "data": [
                 "<b>Step 1:</b> The candidates should submit the application form",
                 "<b>Step 2:</b> The candidates should submit the higher secondary education certificates and other documents at the time of admission.",
@@ -368,7 +378,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Documents Required for MBBS Admission',
-            "info": '<b>The medical aspirants should carry original and xerox copies of all essential documents required for MBBS admission process at Grigol Robakidze University:</b>',
+            "info": 'The medical aspirants should carry original and xerox copies of all essential documents required for MBBS admission process at Grigol Robakidze University:',
             "data": [
                 "Candidates must submit the properly filled application form.",
                 "Submit the leaving/transfer certificate from the previous institution.",
@@ -386,7 +396,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Go through some important admission dates to grab MBBS seat at Grigol Robakidze University:</b>",
+            "info": "Go through some important admission dates to grab MBBS seat at Grigol Robakidze University:",
             "col": [
                 "Events",
                 "Dates"
@@ -431,6 +441,11 @@ export const grigolrobakidzeuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Grigol Robakidze University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Grigol Robakidze University - Reviews" },
@@ -449,6 +464,11 @@ export const grigolrobakidzeuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Grigol Robakidze University - Placement"
+
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -480,6 +500,11 @@ export const grigolrobakidzeuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Grigol Robakidze University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Grigol Robakidze University - Gallery" },
@@ -499,9 +524,14 @@ export const grigolrobakidzeuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Grigol Robakidze University - Scholarship"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Scholarship',
-            "info": '<b>The scholarships that are provided at Grigol Robakidze University are as follows:</b>',
+            "info": 'The scholarships that are provided at Grigol Robakidze University are as follows:',
             "data": [
                 "Australia Development Scholarships (ADS)",
                 "The German Academic Exchange Service (DAAD) Scholarships Programmes,",
@@ -541,8 +571,13 @@ export const grigolrobakidzeuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Grigol Robakidze University - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -592,6 +627,11 @@ export const grigolrobakidzeuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Grigol Robakidze University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Grigol Robakidze University - News & Articles" },
@@ -611,9 +651,14 @@ export const grigolrobakidzeuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Grigol Robakidze University - Hostel"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel and Accommodation Facility',
-            "info": '<b>Grigol Robakidze University provides well-maintained dormitory facilities at students comfort zone in the campus itself:</b><p><b>The dormitory system comprises of-</b></p>',
+            "info": 'Grigol Robakidze University provides well-maintained dormitory facilities at students comfort zone in the campus itself:</b><p><b>The dormitory system comprises of-</b>',
             "data": [
                 "101 single rooms",
                 "Refrigerator",
@@ -643,7 +688,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>Places nearby the hostel at a walkable distance -</b>',
+            "info": 'Places nearby the hostel at a walkable distance -',
             "data": [
                 "Sports Complex",
                 "Cafeteria",
@@ -657,7 +702,7 @@ export const grigolrobakidzeuniversity = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>The Grigol Robakidze University hostel system fulfils all basic requirements at the comfort zone of students including -</b>',
+            "info": 'The Grigol Robakidze University hostel system fulfils all basic requirements at the comfort zone of students including -',
             "data": [
                 "Electricity",
                 "Water Supply",
@@ -676,7 +721,7 @@ export const grigolrobakidzeuniversity = {
         },
         {
             type: "meta-title",
-            title: "vGrigol Robakidze University - Hostel"
+            title: "Grigol Robakidze University - Hostel"
         },
         {
             type: "meta-links",
@@ -687,9 +732,14 @@ export const grigolrobakidzeuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Grigol Robakidze University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Grigol Robakidze University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Is there any language barrier at a Grigol Robakidze University?",

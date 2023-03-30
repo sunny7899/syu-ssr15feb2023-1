@@ -20,7 +20,7 @@ export const simonfraseruniversity = {
     {
       "type": "table-title",
       "title": "Simon Fraser University - Quick Overview 2021",
-      "info": "<b>Students must go through these mentioned highlights before taking admission in Simon Fraser University:</b>",
+      "info": "Students must go through these mentioned highlights before taking admission in Simon Fraser University:",
       "row": [
         ["<b>Acronym</b>", "SFU"],
         ["<b>Type</b>", "Public"],
@@ -39,7 +39,7 @@ export const simonfraseruniversity = {
     {
       type: 'list-bollet',
       title: 'Reasons to Choose Simon Fraser University for Higher Studies',
-      info: '<b>There are several reasons to describe the university as best as it is loaded with opportunities:</b>',
+      info: 'There are several reasons to describe the university as best as it is loaded with opportunities:',
       data: [
         "SFU is providing a lot of opportunities to many international students to focus on their studies.",
         "As per Times of India, Simon Fraser University is listed under 50 as a Top comprehensive university.",
@@ -69,7 +69,7 @@ export const simonfraseruniversity = {
     {
       type: 'list-bollet',
       title: 'Affiliations',
-      info: '<b>SFU became the top university in Canada by the union of the following organizations:</b>',
+      info: 'SFU became the top university in Canada by the union of the following organizations:',
       data: [
         "Association of Universities and colleges of Canada(AUCC)",
         "Canadian University Society for Intercollegiate Debate (CUSID)",
@@ -83,7 +83,7 @@ export const simonfraseruniversity = {
     {
       "type": "table-title",
       "title": "Facilities Provided",
-      "info": "<b>In terms of student amenities, the University is at the top of the list:</b>",
+      "info": "In terms of student amenities, the University is at the top of the list:",
       "row": [
         ["Laboratories", "Experimental theatres"],
         ["Screening rooms", "Sound studios"],
@@ -110,15 +110,16 @@ export const simonfraseruniversity = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/university/simon-fraser-university" }
       ]
     }
-
-
-
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "Simon Fraser University - Program, Fees & Course Duration",
-      "info": "<b>Undergraduate</b>",
+      "info": "Undergraduate",
       "dropSection": " Engineering",
       "col": [
         "Course",
@@ -398,7 +399,7 @@ export const simonfraseruniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>Post graduate</b>",
+      "info": "Post graduate",
       "dropSection": "Engineering",
       "col": [
         "Course",
@@ -614,7 +615,7 @@ export const simonfraseruniversity = {
     {
       type: 'list-bollet',
       title: 'Faculties and Departments',
-      info: '<b>The following are the various faculties in each department at the Simon Fraser University:</b>',
+      info: 'The following are the various faculties in each department at the Simon Fraser University:',
       data: [
         "Arts and social sciences",
         "Communication, art, and technology",
@@ -646,9 +647,13 @@ export const simonfraseruniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - Admission 2023'
+    },
+    {
       type: 'list-bollet',
       title: 'Eligibility Criteria',
-      info: '<b>Before being admitted to the University, students must meet the following eligibility requirements according to their program:</b><p><b>Graduate, Certificate or Diploma:</b></p>',
+      info: 'Before being admitted to the University, students must meet the following eligibility requirements according to their program:<p>Graduate, Certificate or Diploma:</p>',
       data: [
         "Required degree that should be equivalent to SFU bachelor’s degree.",
         "Should Require B- Grade or its equivalent.",
@@ -657,7 +662,7 @@ export const simonfraseruniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Master’s Program:</b>',
+      info: 'Master’s Program:',
       data: [
         "Required 4 year bachelor’s degree in relevant fields.",
         "Should secure 8/10 points if you degree is 3 years",
@@ -666,7 +671,7 @@ export const simonfraseruniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Doctoral Program:</b>',
+      info: 'Doctoral Program:',
       data: [
         "Required Master’s degree in relevant fields.",
         "Proof of English language proficiency.",
@@ -675,7 +680,7 @@ export const simonfraseruniversity = {
     {
       type: 'step-list',
       title: 'How to Apply at Simon Fraser University?',
-      info: '<b>Before taking admission to the University, students have to follow these steps to complete their admission successfully:</b>',
+      info: 'Before taking admission to the University, students have to follow these steps to complete their admission successfully:',
       data: [
         "<b>Step 1: Explore Graduate programs:</b><br>Visit the programs section from the official website and check the information as well as admission deadlines.",
         "<b>Step 2: Review admission requirements:</b><br>Students cannot guarantee admission even if they fulfill the University's minimal entrance standards, in addition to that criterion they should meet the standards listed on the program webpage.",
@@ -686,7 +691,7 @@ export const simonfraseruniversity = {
     {
       type: 'list-bollet',
       title: 'Documents Required at the Time of Admission',
-      info: '<b>Submit all the following documents to the university to avoid problems regarding your admission:</b>',
+      info: 'Submit all the following documents to the university to avoid problems regarding your admission:',
       data: [
         "High school Transcript",
         "University Application form",
@@ -754,6 +759,10 @@ export const simonfraseruniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Simon Fraser University, Canada - Reviews" },
@@ -773,9 +782,13 @@ export const simonfraseruniversity = {
   ],
   "placement": [
     {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - Placement'
+    },
+    {
       "type": "table",
       "title": "",
-      "info": "<b>Below is the placement report of Simon Fraser University:</b>",
+      "info": "Below is the placement report of Simon Fraser University:",
       "col": [
         "Particulars",
         "Statistics",
@@ -798,7 +811,7 @@ export const simonfraseruniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>Below is the employment by industry of Simon Fraser University:</b>",
+      "info": "Below is the employment by industry of Simon Fraser University:",
       "col": [
         "Particulars",
         "Statistics",
@@ -855,6 +868,10 @@ export const simonfraseruniversity = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Simon Fraser University, Canada - Gallery" },
@@ -874,9 +891,13 @@ export const simonfraseruniversity = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - Scholarship'
+    },
+    {
       type: 'list-bollet',
       title: 'Scholarships provided to International Students',
-      info: '<p><b>International students can apply to various scholarships at Simon Fraser University, check the list below:</b></p><p><b>These are the list of scholarship opportunities for domestic, international, and doctorate students:</b></p>',
+      info: '<p>International students can apply to various scholarships at Simon Fraser University, check the list below:</p><p>These are the list of scholarship opportunities for domestic, international, and doctorate students:</p>',
       data: [
         "Undergraduate student research awards",
         "Tri-Agency CGS Master’s",
@@ -936,6 +957,10 @@ export const simonfraseruniversity = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - Faculty'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Simon Fraser University, Canada - Faculty" },
@@ -954,6 +979,10 @@ export const simonfraseruniversity = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - News & Articles'
+    },
     {
       type: "meta",
       meta: [
@@ -974,9 +1003,13 @@ export const simonfraseruniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - Hostel'
+    },
+    {
       type: 'list-bollet',
       title: 'Hostel and Accommodation',
-      info: '<b>The institute provides first-rate accommodation for students convenience, check the below-mentioned facilities:</b>',
+      info: 'The institute provides first-rate accommodation for students convenience, check the below-mentioned facilities:',
       data: [
         "SFU residences offer the students a unique experience and a diverse community that encourages their self-discovery and academic success.",
         "Students can feel a warm,friendly environment in a homely neighborhood.",
@@ -992,7 +1025,7 @@ export const simonfraseruniversity = {
     {
       "type": "table",
       "title": "Cost of Living",
-      "info": "<b>SFU is providing housing on a budget-friendly basis that every student can be benefitted:</b>",
+      "info": "SFU is providing housing on a budget-friendly basis that every student can be benefitted:",
       "col": [
         "Particulars",
         "Approx Range (CAD)",
@@ -1031,6 +1064,10 @@ export const simonfraseruniversity = {
     }
   ],
   "faq": [
+    {
+      type: 'title',
+      title: 'Simon Fraser University, Canada - FAQ'
+    },
     {
       "type": "question-list",
       "title": "FAQs of Simon Fraser University",

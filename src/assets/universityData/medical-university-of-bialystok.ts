@@ -20,7 +20,7 @@ export const medicaluniversityofbialystok = {
         {
             "type": "table-title",
             "title": "Medical University of Bialystok: Quick Highlights 2022",
-            "info": "<b>Following are the facts of Medical University of Bialystok:</b>",
+            "info": "Following are the facts of Medical University of Bialystok:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March"],
                 ["<b>Eligibility Criteria</b>", "50% in PCB"],
@@ -36,7 +36,7 @@ export const medicaluniversityofbialystok = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Medical University of Bialystok?',
-            info: '<b>Following are the top benefits of studying MBBS at Medical University of Bialystok:</b>',
+            info: 'Following are the top benefits of studying MBBS at Medical University of Bialystok:',
             data: [
                 "The graduates of the university hold a managerial position in the health centers, medical schools, medical institutes in the country and abroad.",
                 "The university has a scientific research center for experimental medicine, research medicine, pharmaceutical medicine which conducts advanced training programs for medical students.",
@@ -48,13 +48,13 @@ export const medicaluniversityofbialystok = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '',
-            data: '<p><b>Courses at Medical University of Bialystok are offered in Polish and English language:</b></p><p>At Medical University of Bialystok, around 10,000 students are studying in the different fields of study medicine and humanitarian specialties. English is a commonly used language for providing training to foreign medical students.</p>',
+            info: 'Courses at Medical University of Bialystok are offered in Polish and English language:',
+            data: '<p>At Medical University of Bialystok, around 10,000 students are studying in the different fields of study medicine and humanitarian specialties. English is a commonly used language for providing training to foreign medical students.</p>',
         },
         {
             "type": "table",
             "title": "Medical University of Bialystok: Ranking 2022",
-            "info": "<b>As per the uniRank system, the country and world ranking of Medical University of Bialystok is:</b>",
+            "info": "As per the uniRank system, the country and world ranking of Medical University of Bialystok is:",
             "col": [
                 "Country",
                 "World",
@@ -70,7 +70,7 @@ export const medicaluniversityofbialystok = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Medical University of Bialystok is recognized by:</b>',
+            info: 'Medical University of Bialystok is recognized by:',
             data: [
                 "National Medical Commission",
                 "Ministry of Health and Higher Education of Poland",
@@ -83,7 +83,7 @@ export const medicaluniversityofbialystok = {
         {
             "type": "table",
             "title": "Cost of Living in Białystok",
-            "info": "<b>Following is the cost of living in the city of Białystok:</b>",
+            "info": "Following is the cost of living in the city of Białystok:",
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -142,9 +142,14 @@ export const medicaluniversityofbialystok = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Medical University of Bialystok - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Medical University of Bialystok: MBBS Fee Structure 2022",
-            "info": "<b>Refer the fee structure for MBBS at Medical University of Bialystok:</b>",
+            "info": "Refer the fee structure for MBBS at Medical University of Bialystok:",
             "colTitle": "For Foreign Nationals",
             "row": [
                 ["<b>Particulars</b>", "<b>Annual Tuition Fees</b>"],
@@ -158,13 +163,13 @@ export const medicaluniversityofbialystok = {
         {
             type: 'text',
             title: 'MBBS Course Duration at Medical University of Bialystok',
-            info: "",
-            data: "<p><b>Medical University of Bialystok offers an MBBS course for a period of 6 years:</b></p><p>MBBS atMedical University of Bialystok lasts for a period of 6 years including 5 years of classroom learning and 1-year internship.</p>"
+            info: "Medical University of Bialystok offers an MBBS course for a period of 6 years:",
+            data: "<p>MBBS atMedical University of Bialystok lasts for a period of 6 years including 5 years of classroom learning and 1-year internship.</p>"
         },
         {
             type: 'list-bollet',
             title: 'Courses Offered at Medical University of Bialystok',
-            info: '<b>Following are the courses offered at Medical University of Bialystok:</b>',
+            info: 'Following are the courses offered at Medical University of Bialystok:',
             data: [
                 "Medicine",
                 "Pharmacy",
@@ -177,7 +182,7 @@ export const medicaluniversityofbialystok = {
         {
             "type": "table",
             "title": "MBBS Syllabus at Medical University of Bialystok",
-            "info": "<b>Following is the MBBS syllabus at Medical University of Bialystok:</b>",
+            "info": "Following is the MBBS syllabus at Medical University of Bialystok:",
             "col": [
                 "First Year",
                 "Second Year"
@@ -363,9 +368,13 @@ export const medicaluniversityofbialystok = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Medical University of Bialystok - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Refer the below admission criteria required for applying MBBS at Medical University of Bialystok:</b>",
+            "info": "Refer the below admission criteria required for applying MBBS at Medical University of Bialystok:",
             "data": [
                 "The applicant must be the holder of a higher secondary education degree from the recognized school or university.",
                 "The applicant should have positive grades in two out of four subjects including physics, chemistry, biology or mathematics.",
@@ -376,21 +385,21 @@ export const medicaluniversityofbialystok = {
         {
             "type": "step-list",
             "title": "Admission Process (2022-23)",
-            "info": "<b>Follow the below admission process for MBBS admission at Medical University of Bialystok:</b>",
+            "info": "Follow the below admission process for MBBS admission at Medical University of Bialystok:",
             "data": [
-               "Step 1: All the candidates are requested to submit the application on the online application system of the university.",
-               "Step 2: Submit the scanned copies of documents along with the application.",
-               "Step 3: The Qualification Committee will take approximately 2 weeks to review your application.",
-               "Step 4: The eligible candidate will get a Promissory Letter of Enrollment (POE) from the university.",
-               "Step 5: POE is the conditional enrollment that entitles the candidate to apply for the interview.",
-               "Step 6: The applicant needs to pay the additional recruitment fees before applying to the interviews. Note that the recruitment fees are non-refundable.",
-               "Step 7: After successful completion of the interview, shortlisted students need to submit the certified copies of documents at the university.<br>In case of any issue regarding admission, you can contact on admission@umb.edu.pl."
+                "Step 1: All the candidates are requested to submit the application on the online application system of the university.",
+                "Step 2: Submit the scanned copies of documents along with the application.",
+                "Step 3: The Qualification Committee will take approximately 2 weeks to review your application.",
+                "Step 4: The eligible candidate will get a Promissory Letter of Enrollment (POE) from the university.",
+                "Step 5: POE is the conditional enrollment that entitles the candidate to apply for the interview.",
+                "Step 6: The applicant needs to pay the additional recruitment fees before applying to the interviews. Note that the recruitment fees are non-refundable.",
+                "Step 7: After successful completion of the interview, shortlisted students need to submit the certified copies of documents at the university.<br>In case of any issue regarding admission, you can contact on admission@umb.edu.pl."
             ]
         },
         {
             "type": "list-bollet",
             "title": "Documents Required at The Time of Admission",
-            "info": "<b>Following are the documents required for applying MBBS at Medical University of Bialystok:</b>",
+            "info": "Following are the documents required for applying MBBS at Medical University of Bialystok:",
             "data": [
                 "Copy of completed application form",
                 "School Leaving Certificate (High school diploma/matriculation certificate)",
@@ -408,7 +417,7 @@ export const medicaluniversityofbialystok = {
         {
             "type": "table",
             "title": "Medical University of Bialystok: Academic Calendar 2022",
-            "info": "<b>Check out the Important dates regarding admission at Medical University of Bialystok:</b>",
+            "info": "Check out the Important dates regarding admission at Medical University of Bialystok:",
             "col": [
                 "Events",
                 "Dates"
@@ -448,6 +457,11 @@ export const medicaluniversityofbialystok = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Medical University of Bialystok - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Bialystok - Reviews " },
@@ -467,6 +481,11 @@ export const medicaluniversityofbialystok = {
 
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Medical University of Bialystok - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "",
@@ -495,7 +514,12 @@ export const medicaluniversityofbialystok = {
             ]
         }
     ],
-    "gallery": [ 
+    "gallery": [
+        {
+            type: 'title',
+            title: "Medical University of Bialystok - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -516,16 +540,22 @@ export const medicaluniversityofbialystok = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Medical University of Bialystok - Scholarship"
+
+        },
+        {
             type: 'text',
             title: 'Scholarships Offered',
-            info: "",
-            data: "<p><b>Following are the scholarships offered to medical students at Medical University of Bialystok:</b></p><p><b>1 Social Scholarships</b></p><p>Scholarships provided to students having the net income less than Rs.20,000. Increased Social Scholarship - Rs. 3,200</p>"
+            info: "Following are the scholarships offered to medical students at Medical University of Bialystok:",
+            textBelowInfo: "1 Social Scholarships",
+            data: "<p>Scholarships provided to students having the net income less than Rs.20,000. Increased Social Scholarship - Rs. 3,200</p>"
         },
         {
             type: 'text',
             title: '',
-            info: "",
-            data: "<p><b>2 Scholarships for disable person</b></p><p>The scholarship is offered to the person having any physical disabilities. Applicants need to produce a disability certificate to avail of the scholarship.</p>"
+            info: "2 Scholarships for disable person",
+            data: "<p>The scholarship is offered to the person having any physical disabilities. Applicants need to produce a disability certificate to avail of the scholarship.</p>"
         },
         {
             "type": "table",
@@ -553,8 +583,8 @@ export const medicaluniversityofbialystok = {
         {
             type: 'text',
             title: '',
-            info: "",
-            data: "<p><b>3 Rector’s Scholarships</b></p><p>The scholarship offered to students having excellent academic records in the respective field of study.</p>"
+            info: "3 Rector’s Scholarships",
+            data: "<p>The scholarship offered to students having excellent academic records in the respective field of study.</p>"
         },
         {
             "type": "table",
@@ -601,7 +631,12 @@ export const medicaluniversityofbialystok = {
             ]
         }
     ],
-    "faculty": [ 
+    "faculty": [
+        {
+            type: 'title',
+            title: "Medical University of Bialystok - Faculty"
+
+        },
         {
             type: "meta",
             meta: [
@@ -620,7 +655,12 @@ export const medicaluniversityofbialystok = {
             ]
         }
     ],
-    "news": [ 
+    "news": [
+        {
+            type: 'title',
+            title: "Medical University of Bialystok - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -641,9 +681,14 @@ export const medicaluniversityofbialystok = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Medical University of Bialystok - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>The Medical University of Bialystok offers accommodation to foreign students:</b>",
+            "info": "The Medical University of Bialystok offers accommodation to foreign students:",
             "data": [
                 "The students need to pay the deposit before availing of the accommodation.",
                 "Student housing consists of 132 single, double, triple bedded rooms."
@@ -652,7 +697,7 @@ export const medicaluniversityofbialystok = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Rooms are equipped with:</b>",
+            "info": "Rooms are equipped with:",
             "data": [
                 "Fridge",
                 "Chair",
@@ -665,7 +710,7 @@ export const medicaluniversityofbialystok = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Amenities at a hostel:</b>",
+            "info": "Amenities at a hostel:",
             "data": [
                 "Kitchen",
                 "Tv Rooms",
@@ -696,49 +741,54 @@ export const medicaluniversityofbialystok = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Medical University of Bialystok - FAQ"
+
+        },
+        {
             "type": "question-list",
-                "title": "Medical University of Bialystok: Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. Can I get the airport pickup?",
-                        "ans": "Yes, airport pickup will be provided to students. You have to inform the date of arrival to the university."
-                    },
-                    {
-                        "ques": "Q. What is the cost of MBBS study at Medical University of Bialystok?",
-                        "ans": "MBBS at Medical University of Bialystok costs around 8.45 lakhs per year."
-                    },
-                    {
-                        "ques": "Q. How do I apply for the MBBS course at Medical University of Bialystok?",
-                        "ans": "Admissions are conducted with registered candidates by the application form available on the website of the Medical University of Bialystok. Fill the application form and submit the notarized copies of documents online."
-                    },
-                    {
-                        "ques": "Q. Is Poland safe for Indian students?",
-                        "ans": "Poland is safe for all the nationals. Only you have to focus on studies. Distraction with anything may cause you in trouble."
-                    },
-                    {
-                        "ques": "Q. Are there any accommodation facilities available?",
-                        "ans": "Yes. Medical University of Bialystok offers students houses with mess facilities."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Medical University of Bialystok - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Medical University of Bialystok - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/medical-university-of-bialystok/faq" }
-                ]
-            }
-        ]
+            "title": "Medical University of Bialystok: Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+            "data": [
+                {
+                    "ques": "Q. Can I get the airport pickup?",
+                    "ans": "Yes, airport pickup will be provided to students. You have to inform the date of arrival to the university."
+                },
+                {
+                    "ques": "Q. What is the cost of MBBS study at Medical University of Bialystok?",
+                    "ans": "MBBS at Medical University of Bialystok costs around 8.45 lakhs per year."
+                },
+                {
+                    "ques": "Q. How do I apply for the MBBS course at Medical University of Bialystok?",
+                    "ans": "Admissions are conducted with registered candidates by the application form available on the website of the Medical University of Bialystok. Fill the application form and submit the notarized copies of documents online."
+                },
+                {
+                    "ques": "Q. Is Poland safe for Indian students?",
+                    "ans": "Poland is safe for all the nationals. Only you have to focus on studies. Distraction with anything may cause you in trouble."
+                },
+                {
+                    "ques": "Q. Are there any accommodation facilities available?",
+                    "ans": "Yes. Medical University of Bialystok offers students houses with mess facilities."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Medical University of Bialystok - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Medical University of Bialystok - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/medical-university-of-bialystok/faq" }
+            ]
+        }
+    ]
 
 }

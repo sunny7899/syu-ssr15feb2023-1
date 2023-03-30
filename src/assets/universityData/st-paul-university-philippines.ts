@@ -197,7 +197,10 @@ export const stpauluniversityphilippines = {
     ],
 
     "coursesandfees": [
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - courses & Fees'
+        },
         {
             "type": "table",
             "title": "St. Paul University Philippines - MBBS Fee Structure 2022",
@@ -457,7 +460,10 @@ export const stpauluniversityphilippines = {
         }
     ],
     "admission": [
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - Admission 2023'
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -542,7 +548,10 @@ export const stpauluniversityphilippines = {
         }
     ],
     "review": [
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - Reviews'
+        },
         {
             type: "meta",
             meta: [
@@ -562,7 +571,10 @@ export const stpauluniversityphilippines = {
         }
     ],
     "placement": [
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -583,7 +595,10 @@ export const stpauluniversityphilippines = {
 
     ],
     "gallery": [
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - Gallery'
+        },
         {
             type: "meta",
             meta: [
@@ -603,7 +618,10 @@ export const stpauluniversityphilippines = {
         }
     ],
     "scholarship": [
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
@@ -634,7 +652,10 @@ export const stpauluniversityphilippines = {
         }
     ],
     "faculty": [
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - Faculty'
+        },
         {
             "type": "list-bollet",
             "title": "Faculty ",
@@ -663,7 +684,10 @@ export const stpauluniversityphilippines = {
     ],
     "news": [
 
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -683,7 +707,10 @@ export const stpauluniversityphilippines = {
         }
     ],
     "hostel": [
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - Hostel'
+        },
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
@@ -722,7 +749,10 @@ export const stpauluniversityphilippines = {
         }
     ],
     "faq": [
-
+        {
+            type: 'title',
+            title: 'St. Paul University Philippines - FAQ'
+        },
         {
             "type": "question-list",
             "title": "St. Paul University Philippines - Important FAQs",

@@ -1,6 +1,6 @@
 export const universityofbradford = {
   "Title": "University of Bradford, UK",
-  "shortTitle": "TUniversity of Bradford",
+  "shortTitle": "University of Bradford",
   "location": "UK",
   "type": "Public",
   "rating": "",
@@ -20,7 +20,7 @@ export const universityofbradford = {
     {
       "type": "table-title",
       "title": "University of Bradford - Quick Highlights",
-      "info": "<b>The students willing to study in the UK must go through the important information about the University of Bradford:</b>",
+      "info": "The students willing to study in the UK must go through the important information about the University of Bradford:",
       "row": [
         ["<b>Foundation Year</b>", "1966"],
         ["<b>University status</b>", "Public"],
@@ -37,7 +37,7 @@ export const universityofbradford = {
     {
       type: 'list-bollet',
       title: 'Why Study at the University of Bradford?',
-      info: '<b>Choosing to study in the UK is an exciting journey and a big decision, here we will help you to make the right choice:</b>',
+      info: 'Choosing to study in the UK is an exciting journey and a big decision, here we will help you to make the right choice:',
       data: [
         "The University of Bradford provides government loans for masters of up to £11,570 to assist students with tuition fees and living costs during education.",
         "The students have access to societies, sports facilities, support networks and social spaces.",
@@ -54,7 +54,7 @@ export const universityofbradford = {
     {
       "type": "list-bollet",
       "title": "Facilities",
-      "info": "<b>Catch a glimpse of modern facilities available at the University of Bradford which are enjoyed by all students:</b>",
+      "info": "Catch a glimpse of modern facilities available at the University of Bradford which are enjoyed by all students:",
       "data": [
         "Food and Drink",
         "Student Central",
@@ -86,7 +86,7 @@ export const universityofbradford = {
     {
       type: 'list-bollet',
       title: 'Affiliations',
-      info: '<b>The University of Bradford is providing recognised course degrees by these major organisations:</b>',
+      info: 'The University of Bradford is providing recognised course degrees by these major organisations:',
       data: [
         "EQUIS",
         "AMBA",
@@ -111,16 +111,17 @@ export const universityofbradford = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-bradford" }
       ]
     }
-
-
-
   ],
   "coursesandfees": [
+  {
+    type: 'title',
+    title: "University of Bradford, UK - courses & Fees"
+  },
     {
       "type": "table",
       "title": "University of Bradford - Program & Course Duration",
-      "info": "<b>Undergraduate</b>",
-      "textBelowInfo": "<b>Engineering</b>",
+      "info": "Undergraduate",
+      "textBelowInfo": "Engineering",
       "col": [
         "Programs",
         "Duration",
@@ -182,7 +183,7 @@ export const universityofbradford = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Business</b>",
+      "textBelowInfo": "Business",
       "col": [
         "Programs",
         "Duration",
@@ -244,7 +245,7 @@ export const universityofbradford = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Arts</b>",
+      "textBelowInfo": "Arts",
       "col": [
         "Programs",
         "Duration",
@@ -276,7 +277,7 @@ export const universityofbradford = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Law</b>",
+      "textBelowInfo": "Law",
       "col": [
         "Programs",
         "Duration",
@@ -320,7 +321,7 @@ export const universityofbradford = {
       "type": "table",
       "title": "",
       "info": "Postgraduate",
-      "textBelowInfo": "<b>Engineering</b>",
+      "textBelowInfo": "Engineering",
       "col": [
         "Programs",
         "Duration",
@@ -382,7 +383,7 @@ export const universityofbradford = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Business</b>",
+      "textBelowInfo": "Business",
       "col": [
         "Programs",
         "Duration",
@@ -444,7 +445,7 @@ export const universityofbradford = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Arts</b>",
+      "textBelowInfo": "Arts",
       "col": [
         "Programs",
         "Duration",
@@ -476,7 +477,7 @@ export const universityofbradford = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Law</b>",
+      "textBelowInfo": "Law",
       "col": [
         "Programs",
         "Duration",
@@ -533,7 +534,7 @@ export const universityofbradford = {
     {
       type: 'list-bollet',
       title: 'Faculties provided at University of Bradford',
-      info: '<b>Catch a glimpse of modern facilities available at the University of Bradford which are enjoyed by all students:</b>',
+      info: 'Catch a glimpse of modern facilities available at the University of Bradford which are enjoyed by all students:',
       data: [
         "Life Science",
         "Health Studies",
@@ -562,6 +563,10 @@ export const universityofbradford = {
     }
   ],
   "admission": [
+    {
+      type: 'title',
+      title: 'University of Bradford, UK - Admission 2023'
+    },
     {
       "type": "table",
       "title": "University of Bradford - Entry Requirements",
@@ -606,7 +611,7 @@ export const universityofbradford = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Postgraduate</b>',
+      info: 'Postgraduate',
       data: [
         "The admission criteria for a postgraduate course is typically equivalent to a UK Second Class Honours Second Division (2:2).",
         "For specific program requirements, the students must go through course listings",
@@ -675,7 +680,7 @@ export const universityofbradford = {
     {
       type: 'list-bollet',
       title: 'Documents Required',
-      info: '<b>These are the essential documents to be submitted by individuals looking to study in the UK:</b>',
+      info: 'These are the essential documents to be submitted by individuals looking to study in the UK:',
       data: [
         "Application form",
         "Bachelor's degree (for postgraduate courses)",
@@ -717,6 +722,10 @@ export const universityofbradford = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'University of Bradford, UK - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Bradford, UK - Reviews" },
@@ -735,6 +744,10 @@ export const universityofbradford = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'University of Bradford, UK - Placement'
+    },
     {
       type: 'list-bollet',
       title: 'Placement',
@@ -764,6 +777,10 @@ export const universityofbradford = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'University of Bradford, UK - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Bradford, UK - Gallery" },
@@ -783,9 +800,13 @@ export const universityofbradford = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'University of Bradford,UK - Scholarship'
+    },
+    {
       "type": "table",
       "title": "International Scholarships",
-      "info": "<b>The University of Bradford invests over £4m annually in scholarships to help students during education:</b>",
+      "info": "The University of Bradford invests over £4m annually in scholarships to help students during education:",
       "col": [
         "Scholarships",
         "Course",
@@ -866,6 +887,10 @@ export const universityofbradford = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'University of Bradford, UK - Faculty'
+    },
+    {
       "type": "table",
       "title": "Faculty",
       "col": [
@@ -917,6 +942,10 @@ export const universityofbradford = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'University of Bradford, UK - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Bradford, UK - News & Articles" },
@@ -936,9 +965,13 @@ export const universityofbradford = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'University of Bradford, UK - Hostel'
+    },
+    {
       type: 'list-bollet',
       title: 'Accommodation',
-      info: "<p><b>Apply at the University of Bradford, and find the best student accommodation for you:</b></p><p><b>The Green on-campus ​student village-</b></p>",
+      info: "<p>Apply at the University of Bradford, and find the best student accommodation for you:</p><p>The Green on-campus ​student village-</p>",
       data: [
         "Security service",
         "Access to each living area",
@@ -949,7 +982,7 @@ export const universityofbradford = {
     {
       "type": "table",
       "title": "Living Cost of Bradford, England",
-      "info": "<b>Bradford city is an exciting place to study in UK, the students need to know about the monthly basis expenses:</b>",
+      "info": "Bradford city is an exciting place to study in UK, the students need to know about the monthly basis expenses:",
       "col": [
         "Particular",
         "Approx Range in USD",
@@ -1011,6 +1044,10 @@ export const universityofbradford = {
     }
   ],
   "faq": [
+    {
+      type: 'title',
+      title: 'University of Bradford, UK - FAQ'
+    },
     {
       type: 'question-list',
       title: 'University of Bradford - Important FAQs',

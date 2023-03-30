@@ -138,6 +138,11 @@ export const flameuniversitypune = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "FLAME University, Pune - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "FLAME University - BBA Fee Structure 2022",
             "info": "",
@@ -187,9 +192,14 @@ export const flameuniversitypune = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "FLAME University, Pune - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<p>To be eligible for admission to BBA courses at FLAME University:</p>",
+            "info": "To be eligible for admission to BBA courses at FLAME University:",
             "data": [
                 "A candidate must have passed <b>Higher Secondary School (10+2)</b> or an equivalent examination from any recognized Board / Council / University with minimum 45% marks as an aggregate score.",
                 "The candidate must have appeared for <b>FEAT/SAT entrance exam</b> conducted by the University.",
@@ -261,6 +271,11 @@ export const flameuniversitypune = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "FLAME University, Pune - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "FLAME University, Pune - Reviews" },
@@ -279,6 +294,11 @@ export const flameuniversitypune = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "FLAME University, Pune - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "FLAME University Placements for BBA Students",
@@ -328,6 +348,11 @@ export const flameuniversitypune = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "FLAME University, Pune - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "FLAME University, Pune - Gallery" },
@@ -347,9 +372,14 @@ export const flameuniversitypune = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "FLAME University, Pune - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following are the scholarships offered by the Flame University -</b>",
+            "info": "Following are the scholarships offered by the Flame University -",
             "data": [
                 "Merit Scholarships",
                 "FLAME Fellows Program",
@@ -376,8 +406,13 @@ export const flameuniversitypune = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "FLAME University, Pune - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -422,6 +457,11 @@ export const flameuniversitypune = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "FLAME University, Pune - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "FLAME University, Pune - News & Articles" },
@@ -441,9 +481,14 @@ export const flameuniversitypune = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "FLAME University, Pune - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation at Flame University",
-            "info": "<b>Following are the points which describe how good is accommodation offered by the Flame University- </b>",
+            "info": "Following are the points which describe how good is accommodation offered by the Flame University- ",
             "data": [
                 "FLAME University has a strictly residential program.",
                 "Along with students, few faculty and staff additionally live on campus.",
@@ -470,6 +515,10 @@ export const flameuniversitypune = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "FLAME University, Pune - FAQ"
+        },
         {
             "type": "question-list",
             "title": "FAQs",

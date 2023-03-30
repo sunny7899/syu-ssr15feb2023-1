@@ -19,7 +19,7 @@ export const munichbusinessschool = {
     {
       "type": "table-title",
       "title": "Munich Business School - Quick Highlights",
-      "info": "<b>The students must go through the important highlights of Munich Business School:</b>",
+      "info": "The students must go through the important highlights of Munich Business School:",
       "row": [
         ["<b>University Type</b>", "Private"],
         ["<b>Program Intake</b>", "March and September 2021"],
@@ -34,24 +34,24 @@ export const munichbusinessschool = {
     {
       type: 'list-bollet',
       title: 'Reasons for Studying MBA at Munich Business School',
-      info: '<b>Many students from other countries decide to study MBA at Munich Business School, Checkout beneficial reasons to choose this place:</b>',
+      info: 'Many students from other countries decide to study MBA at Munich Business School, Checkout beneficial reasons to choose this place:',
       data: [
         "The faculty members of Munich Business School are 23 professors and over 120 lecturers.",
         "Graduated students will receive a recognised MBA degree from Munich Business School.",
-        " Munich Business School also organizes events in the evening time and at weekends.",
+        "Munich Business School also organizes events in the evening time and at weekends.",
         "The students can participate in numerous groups and societies covering many topics, ranging from film and sport to debating.",
-        " Munich Business School is also open over the weekend, the MBS Lounge and the study centre are popular meeting points for students to share ideas and views during education.",
-        " MBS conducts a series of introductory activities and networking events that kicks off the first term during the MBA program start.",
-        " The MBS has an International Center that organizes orientation days to assist international students to settle in, and the buddy program also connects MBS students with international exchange students during MBA education.",
-        " The students can explore something inspiring through internships, services and fun things at the MBS campus.",
-        " Munich Business School also conducts guest lectures by qualified and renowned experts.",
-        " The university also offers its own scholarship programs to the students."
+        "Munich Business School is also open over the weekend, the MBS Lounge and the study centre are popular meeting points for students to share ideas and views during education.",
+        "MBS conducts a series of introductory activities and networking events that kicks off the first term during the MBA program start.",
+        "The MBS has an International Center that organizes orientation days to assist international students to settle in, and the buddy program also connects MBS students with international exchange students during MBA education.",
+        "The students can explore something inspiring through internships, services and fun things at the MBS campus.",
+        "Munich Business School also conducts guest lectures by qualified and renowned experts.",
+        "The university also offers its own scholarship programs to the students."
       ]
     },
     {
       "type": "table",
       "title": "Munich Business School - Ranking 2022",
-      "info": "<b>The students willing to study MBA at Munich Business School must refer to the unirank to know the world and country rankings:</b>",
+      "info": "The students willing to study MBA at Munich Business School must refer to the unirank to know the world and country rankings:",
       "col": [
         "Country",
         "World",
@@ -105,7 +105,7 @@ export const munichbusinessschool = {
     {
       "type": "list-bollet",
       "title": "Facilities at Munich Business School",
-      "info": "<b>Munich Business School offers a rich student life with amazing infrastructure and modern facilities at the comfort zone of the students during MBA education:</b>",
+      "info": "Munich Business School offers a rich student life with amazing infrastructure and modern facilities at the comfort zone of the students during MBA education:",
       "data": [
         "Canteen",
         "Cafeteria",
@@ -118,13 +118,13 @@ export const munichbusinessschool = {
     {
       type: 'text',
       title: 'Medium of Teaching',
-      info: '<b>Munich Business School provides an entire MBA education in English literature:</b>',
+      info: 'Munich Business School provides an entire MBA education in English literature:',
       data: '<p>The MBA in General Management full- time and the part-time course is taught entirely in English.</p>',
     },
     {
       "type": "list-bollet",
       "title": "Recognition and Accreditations",
-      "info": "<b>Munich Business School has various affiliations, the students must organizations:</b>",
+      "info": "Munich Business School has various affiliations, the students must organizations:",
       "data": [
         "The Munich Business School received unlimited state recognition in 1999.",
         "The college is the first private university to receive indefinite state accreditation from the Bavarian State Ministry for Science, Research and the Arts.",
@@ -136,7 +136,7 @@ export const munichbusinessschool = {
     {
       "type": "list-bollet",
       "title": "National And International Memberships",
-      "info": "<b>Munich Business School has various memberships in the national and international associations and education groups:</b>",
+      "info": "Munich Business School has various memberships in the national and international associations and education groups:",
       "data": [
         "Association to Advance Collegiate Schools of Business (AACSB)",
         "European Foundation for Management Development (EFMD)",
@@ -151,7 +151,7 @@ export const munichbusinessschool = {
     {
       "type": "table",
       "title": "Living Cost of Munich, Germany",
-      "info": "<b>Munich offers affordable living cost, the students must refer to the table to know about the monthly expenses, it is varying according to the individual’s basic requirements:</b>",
+      "info": "Munich offers affordable living cost, the students must refer to the table to know about the monthly expenses, it is varying according to the individual’s basic requirements:",
       "col": [
         "Particulars",
         "Approx Range (CAD)",
@@ -193,9 +193,14 @@ export const munichbusinessschool = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Munich Business School, Germany - courses & Fees"
+
+    },
+    {
       "type": "table",
       "title": "Munich Business School - Fee Structure 2023",
-      "info": "<b>Reasonable fees at Munich Business School attract aspirants from corners of the globe, especially the Indian students to opt for MBA:</b>",
+      "info": "Reasonable fees at Munich Business School attract aspirants from corners of the globe, especially the Indian students to opt for MBA:",
       "col": [
         "MBA programs",
         "Total Amount in Euro (Approx)",
@@ -222,7 +227,7 @@ export const munichbusinessschool = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>Other Fees:</b>",
+      "info": "Other Fees:",
       "col": [
         "Particular",
         "Fee in Euro",
@@ -254,7 +259,7 @@ export const munichbusinessschool = {
     {
       "type": "table",
       "title": "Munich Business School - Course Duration",
-      "info": "<b>Munich Business School is providing full time and part-time MBA programs, The students must find out the course duration: </b>",
+      "info": "Munich Business School is providing full time and part-time MBA programs, The students must find out the course duration: ",
       "col": [
         "MBA programs",
         "Duration",
@@ -273,7 +278,7 @@ export const munichbusinessschool = {
     {
       "type": "table-title",
       "title": "Programs at Munich Business School",
-      "info": "<b>Go through the various programs offered by the Munich Business School:</b>",
+      "info": "Go through the various programs offered by the Munich Business School:",
       "colTitle": "Bachelor",
       "col": [
 
@@ -329,9 +334,14 @@ export const munichbusinessschool = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Munich Business School, Germany - Admission 2023"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The students must fit into the eligibility criteria to enroll in MBA course at Munich Business School:</b>",
+      "info": "The students must fit into the eligibility criteria to enroll in MBA course at Munich Business School:",
       "data": [
         "<b>Higher Secondary Education:</b> The students must complete 11th and 12th form a recognised board with good scores.",
         "<b>Passport:</b>The candidates must have a valid passport to enter Germany for MBA admission.",
@@ -343,7 +353,7 @@ export const munichbusinessschool = {
     {
       "type": "list-bollet",
       "title": "Language Requirements:",
-      "info": "<b>The students should prove the English language proficiency in one of the following exam -</b>",
+      "info": "The students should prove the English language proficiency in one of the following exam -",
       "data": [
         "TOEFL iBT - minimum score of 85",
         "IELTS - at least Level 6.5",
@@ -353,7 +363,7 @@ export const munichbusinessschool = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Exceptions: The English proficiency examinations can be waived by the applicants mentioned below -</b>",
+      "info": "Exceptions: The English proficiency examinations can be waived by the applicants mentioned below -",
       "data": [
         "Completed school in English (i.e., High School Diploma, IB)",
         "Completed first academic degree in English.",
@@ -363,7 +373,7 @@ export const munichbusinessschool = {
     {
       "type": "step-list",
       "title": "Admission Process",
-      "info": "<b>The students must strictly follow the admission steps to enroll in an MBA program at Munich Business School:</b>",
+      "info": "The students must strictly follow the admission steps to enroll in an MBA program at Munich Business School:",
       "data": [
         "<b>Step 1: Written Application:</b>",
         "<b>Step 2: Application Rounds and Personal Interview:</b><br>The college offers several application rounds per year and the students must select one of these rounds, go through the next dates:<br>Round April: Application deadline is April 15 with personal interviews in April/May.<br>Round May: Application deadline May is 31 with personal interviews in June.<br>Round July: Application deadline July is 15 with personal interviews in July/August.<br>Round August: Application deadline is August 31 with personal interviews in September.",
@@ -374,7 +384,7 @@ export const munichbusinessschool = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>It’s important to submit the essential documents by the stated deadlines to admit into the institute:</b>",
+      "info": "It’s important to submit the essential documents by the stated deadlines to admit into the institute:",
       "data": [
         "10th-grade certificate",
         "12th-grade mark sheet",
@@ -403,7 +413,7 @@ export const munichbusinessschool = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>Check out the important admission dates to enroll in the MBA program at Munich Business School:</b>",
+      "info": "Check out the important admission dates to enroll in the MBA program at Munich Business School:",
       "col": [
         "Events",
         "Dates",
@@ -447,6 +457,11 @@ export const munichbusinessschool = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Munich Business School, Germany - Reviews"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Munich Business School, Germany - Reviews" },
@@ -465,6 +480,11 @@ export const munichbusinessschool = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Munich Business School, Germany - Placement"
+
+    },
     {
       "type": "list-bollet",
       "title": "placement",
@@ -494,6 +514,11 @@ export const munichbusinessschool = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Munich Business School, Germany - Gallery"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Munich Business School, Germany - Gallery" },
@@ -513,9 +538,14 @@ export const munichbusinessschool = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: "Munich Business School, Germany - Scholarship"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Scholarships",
-      "info": "<b>Munich Business School offers scholarships advantage to the students:</b>",
+      "info": "Munich Business School offers scholarships advantage to the students:",
       "data": [
         "The college provides scholarships to MBA graduated students with outstanding achievements during their education.",
         "The college awards 20 % of scholarships on the tuition fees.",
@@ -525,7 +555,7 @@ export const munichbusinessschool = {
     {
       "type": "list-bollet",
       "title": "scholarship",
-      "info": "<b>The scholarships that are provided at Munich Business School are as follows:</b>",
+      "info": "The scholarships that are provided at Munich Business School are as follows:",
       "data": [
         "MBS BEST IMPACT Scholarship",
         "MBS BEST Scholarship",
@@ -553,8 +583,13 @@ export const munichbusinessschool = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Munich Business School, Germany - Faculty"
+
+    },
+    {
       "type": "table",
-      "title": "faculty",
+      "title": "Faculty",
       "info": "",
       "col": [
         "Name",
@@ -603,6 +638,11 @@ export const munichbusinessschool = {
   ],
   "news": [
     {
+      type: 'title',
+      title: "Munich Business School, Germany - News & Articles"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Munich Business School, Germany - News & Articles" },
@@ -622,9 +662,14 @@ export const munichbusinessschool = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Munich Business School, Germany - Hostel"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>Munich Business School doesn’t provide any hostel rooms for the students studying here:</b>",
+      "info": "Munich Business School doesn’t provide any hostel rooms for the students studying here:",
       "data": [
         "The Munich Business School campus doesn’t offer any on-campus halls of residence for the students.",
         "There are many private halls of residence in Munich city. ",
@@ -652,9 +697,14 @@ export const munichbusinessschool = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: "Munich Business School, Germany - FAQ"
+
+    },
+    {
       "type": "question-list",
       "title": "Munich Business School - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. Is the Munich Business School worth a place to study for an MBA?",

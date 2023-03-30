@@ -117,12 +117,12 @@ export const universityofottawa = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-ottawa" }
       ]
     }
-
-
-
-
   ],
   "coursesandfees": [
+    {
+      type: 'title',
+      title: 'University of Ottawa, Canada - courses & Fees'
+    },
     {
       type: 'text',
       title: 'University of Ottawa - Fee Structure & Course Duration',
@@ -1023,6 +1023,10 @@ export const universityofottawa = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'University of Ottawa, Canada - Admission 2023'
+    },
+    {
       type: 'text',
       title: 'Eligibility Criteria for International Students',
       data: "<p><b>Students must meet the following eligibility criteria to get admission to the University of Ottawa:</b></p>"
@@ -1145,6 +1149,10 @@ export const universityofottawa = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'University of Ottawa, Canada - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Ottawa, Canada - Reviews" },
@@ -1164,6 +1172,10 @@ export const universityofottawa = {
 
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'University of Ottawa, Canada - Placement'
+    },
     {
       type: 'table-title',
       title: 'Placement',
@@ -1200,6 +1212,10 @@ export const universityofottawa = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'University of Ottawa, Canada - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Ottawa, Canada - Gallery" },
@@ -1219,6 +1235,10 @@ export const universityofottawa = {
 
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: 'University of Ottawa, Canada - Scholarship'
+    },
     {
       type: 'table',
       title: 'Scholarships and Bursaries',
@@ -1304,6 +1324,10 @@ export const universityofottawa = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'University of Ottawa, Canada - Faculty'
+    },
+    {
       type: 'table',
       title: 'Faculty',
       info: "",
@@ -1355,6 +1379,10 @@ export const universityofottawa = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'University of Ottawa, Canada - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Ottawa, Canada - News & Articles" },
@@ -1374,6 +1402,10 @@ export const universityofottawa = {
 
   ],
   "hostel": [
+    {
+      type: 'title',
+      title: 'University of Ottawa, Canada - Hostel'
+    },
     {
       type: 'list-bollet',
       title: 'Hostel and Accommodation Facility',
@@ -1443,6 +1475,10 @@ export const universityofottawa = {
     }
   ],
   "faq": [
+    {
+      type: 'title',
+      title: 'University of Ottawa, Canada - FAQ'
+    },
     {
       "type": "question-list",
       "title": "Important FAQ for University of Ottawa",

@@ -19,7 +19,7 @@ export const theuniversityoflaw = {
         {
             "type": "table-title",
             "title": "The University of Law - Quick Highlights",
-            "info": "<b>The table below will help you know the key details of the university at a glance:</b>",
+            "info": "The table below will help you know the key details of the university at a glance:",
             "col": [],
             "row": [
                 ["<b>Intake for Course</b>", "Fall 30th June 2021"],
@@ -36,7 +36,7 @@ export const theuniversityoflaw = {
         {
             "type": "list-bollet",
             "title": "Why Study at The University of Law?",
-            "info": "<b>Have a look below and know the advantages of studying at this university:</b>",
+            "info": "Have a look below and know the advantages of studying at this university:",
             "data": [
                 "The university of Law has a low fee structure for the academic and non-academic facilities it provides.",
                 "It has a friendly environment that enables students to learn and grow efficiently.",
@@ -54,7 +54,7 @@ export const theuniversityoflaw = {
         {
             "type": "table",
             "title": "The University of Law - Ranking 2022",
-            "info": "<b>The university is widely known for its rankings:</b>",
+            "info": "The university is widely known for its rankings:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -70,7 +70,7 @@ export const theuniversityoflaw = {
         {
             "type": "list-bollet",
             "title": "Facilities",
-            "info": "<b>The university is widely known for the facilities it offers:</b>",
+            "info": "The university is widely known for the facilities it offers:",
             "data": [
                 "The university has modern classrooms that allow students to learn in a modern high-tech environment. It is a great learning and teaching way to experience.",
                 "Well-fitted cameras are arranged in the possible corners of the university to ensure the safety of the students and staff.",
@@ -124,7 +124,7 @@ export const theuniversityoflaw = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The university has adopted the English language as a medium to instruct the study courses:</b>",
+            "info": "The university has adopted the English language as a medium to instruct the study courses:",
             "data": [
                 "English is the primary language of communication across the world. The university chooses the English language to instruct the study programs.",
                 "Teaching the English language improves communication skills. It helps students get better employment opportunities."
@@ -133,7 +133,7 @@ export const theuniversityoflaw = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognitions",
-            "info": "<b>The university is accredited and well-recognized internationally:</b>",
+            "info": "The university is accredited and well-recognized internationally:",
             "data": [
                 "The university is officially chartered/recognized by the Privy Council",
                 "The law degree offered by the university is internationally recognized"
@@ -142,7 +142,7 @@ export const theuniversityoflaw = {
         {
             "type": "table",
             "title": "Cost of Living in Birmingham, UK",
-            "info": "<b>Have a sneak-peak of the basic approximate expenditures of living in Birmingham, UK from the table below:</b>",
+            "info": "Have a sneak-peak of the basic approximate expenditures of living in Birmingham, UK from the table below:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -197,9 +197,13 @@ export const theuniversityoflaw = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'The University of Law, UK - courses & Fees'
+        },
+        {
             "type": "list-bollet",
             "title": "Courses offered at The University of Law",
-            "info": "<b>From the points below know the wide range of courses offered by the university:</b>",
+            "info": "From the points below know the wide range of courses offered by the university:",
             "data": [
                 "Law",
                 "Business",
@@ -212,8 +216,8 @@ export const theuniversityoflaw = {
         {
             "type": "table",
             "title": "Fee Structure, Program Duration & other information",
-            "info": "<b>Law Courses</b>",
-            "textBelowInfo": "<b>From the table below know the Law courses, duration, and fees structure:</b>",
+            "info": "Law Courses",
+            "textBelowInfo": "From the table below know the Law courses, duration, and fees structure:",
             "col": [
                 "Courses",
                 "Duration",
@@ -432,7 +436,7 @@ export const theuniversityoflaw = {
         {
             "type": "table",
             "title": "Business Courses",
-            "info": "<b>From the table below know the Business courses, duration, and fees structure:</b>",
+            "info": "From the table below know the Business courses, duration, and fees structure:",
             "col": [
                 "Courses",
                 "Duration",
@@ -672,6 +676,10 @@ export const theuniversityoflaw = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'The University of Law, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "",
             "info": "Business",
@@ -708,7 +716,7 @@ export const theuniversityoflaw = {
         {
             "type": "list-bollet",
             "title": "Documents Required for Law and Business Courses",
-            "info": "<b>Know the list of important documents required to submit during the admission process:</b>",
+            "info": "Know the list of important documents required to submit during the admission process:",
             "data": [
                 "Application form",
                 "Birth certificate",
@@ -732,7 +740,7 @@ export const theuniversityoflaw = {
         {
             "type": "table",
             "title": "Academic Calendar - Intake & Deadlines 2021",
-            "info": "<b>Listed below are the important dates to be noted:</b>",
+            "info": "Listed below are the important dates to be noted:",
             "col": [
                 "Events",
                 "Dates",
@@ -779,6 +787,10 @@ export const theuniversityoflaw = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'The University of Law, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "The University of Law, UK - Reviews" },
@@ -797,6 +809,10 @@ export const theuniversityoflaw = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'The University of Law, UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -825,6 +841,10 @@ export const theuniversityoflaw = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'The University of Law, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "The University of Law, UK - Gallery" },
@@ -844,9 +864,13 @@ export const theuniversityoflaw = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'The University of Law, UK - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>The scholarships that are provided at The University of Law are as follows:</b>",
+            "info": "The scholarships that are provided at The University of Law are as follows:",
             "data": [
                 "ULaw Canada Scholarship",
                 "ULaw China Scholarship",
@@ -858,7 +882,7 @@ export const theuniversityoflaw = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The eligibility criteria for scholarships at The University of Law are as follows:</b>",
+            "info": "The eligibility criteria for scholarships at The University of Law are as follows:",
             "data": [
                 "Before applying for the scholarship, the candidate must have received an offer.",
                 "Scholarships are only available for postgraduate face-to-face studies beginning in September or October 2022.",
@@ -885,6 +909,10 @@ export const theuniversityoflaw = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'The University of Law, UK - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -937,6 +965,10 @@ export const theuniversityoflaw = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'The University of Law, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "The University of Law, UK - News & Articles" },
@@ -956,9 +988,13 @@ export const theuniversityoflaw = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'The University of Law, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>The university is popularly known for the exclusive accommodation facilities it offers:</b>",
+            "info": "The university is popularly known for the exclusive accommodation facilities it offers:",
             "data": [
                 "Many off-campus students accommodations are available at a short distance from the university’s campus.",
                 "The university is well connected with the local providers and thus has great local accommodation provisions.",
@@ -991,9 +1027,13 @@ export const theuniversityoflaw = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'The University of Law, UK - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "The University of Law - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is the university recognized?",

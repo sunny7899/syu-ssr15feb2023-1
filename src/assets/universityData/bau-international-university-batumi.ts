@@ -20,7 +20,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "table-title",
             "title": "BAU International University, Batumi - Quick Highlights",
-            "info": "<b>First of all the students must find out some major points about the BAU International University, Batumi for MBBS education:</b>",
+            "info": "First of all the students must find out some major points about the BAU International University, Batumi for MBBS education:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -35,7 +35,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "number-list",
             "title": "Why Study MBBS at BAU International University, Batumi?",
-            "info": "<b>The medical aspirants all over the world must surely go through the favourable reasons to choose BAU Batumi International University for medical education:</b>",
+            "info": "The medical aspirants all over the world must surely go through the favourable reasons to choose BAU Batumi International University for medical education:",
             "data": [
                 "<h3>Recognition</h3><br>BAU Batumi International University is recognised by the National Medical Commission (NMC) and listed in the World Health Organization (WHO) world directory of medical schools.",
                 "<h3>Multicultural Atmosphere</h3><br>BAU International University, Batumi boasts a multicultural exposure in the university campus where the students are enabled to meet different people from different backgrounds, cultures, traditions. This creates a friendly environment for students during medical studies.",
@@ -84,7 +84,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "table",
             "title": "BAU International University, Batumi - Ranking 2022",
-            "info": "<b>Uni rank is showing the country and world ranking of BAU International University, Batumi in the table given below:</b>",
+            "info": "Uni rank is showing the country and world ranking of BAU International University, Batumi in the table given below:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -99,13 +99,14 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "data": "<b>The medium of instruction for MBBS education at BAU International University, Batumi:</b><p>BAU International University, Batumi offers English medium teaching for medicine programs.</p>"
+            "info": "The medium of instruction for MBBS education at BAU International University, Batumi:",
+            "data": "<p>BAU International University, Batumi offers English medium teaching for medicine programs.</p>"
 
         },
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The university is accredited, acknowledged and recognized by many medical authorities:</b>",
+            "info": "The university is accredited, acknowledged and recognized by many medical authorities:",
             "data": [
                 "Ministry of education and healthcare of Georgia.",
                 "BAU International University, Batumi is listed in WHO.",
@@ -118,7 +119,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "table",
             "title": "Living Expense of Batumi City",
-            "info": "<b>Batumi city is much affordable place to live for worldwide medical aspirants to pursue MBBS, the table is showing monthly expenses which may vary according to individual needs:</b>",
+            "info": "Batumi city is much affordable place to live for worldwide medical aspirants to pursue MBBS, the table is showing monthly expenses which may vary according to individual needs:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -154,14 +155,14 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "text",
             "title": "About Batumi City",
-            "img": "",
-            "data": "<p><b>The university is located in Batumi, Georgia let's get to know about the city:</b></p><p>Batumi city is the capital of the Georgian republic of Adjara. It is worth visiting the place of Georgia, the most traditional destination in the country.</p><p>The official language of Batumi city is Georgian and nonetheless English, Russian, and Turkish are also commonly spoken in Batumi city.</p><p>The population of Batumi city is 121,806 which makes it the largest city in Ajaria.</p></p>"
+            "info": "The university is located in Batumi, Georgia let's get to know about the city:",
+            "data": "<p>Batumi city is the capital of the Georgian republic of Adjara. It is worth visiting the place of Georgia, the most traditional destination in the country.</p><p>The official language of Batumi city is Georgian and nonetheless English, Russian, and Turkish are also commonly spoken in Batumi city.</p><p>The population of Batumi city is 121,806 which makes it the largest city in Ajaria.</p></p>"
         },
 
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>One must visit the few top sights of Batumi city -</b>",
+            "info": "One must visit the few top sights of Batumi city -",
             "col": [],
             "row": [
                 ["Batumi Botanical Garden", "Gonio Apsaros Fortress"],
@@ -194,9 +195,13 @@ export const bauinternationaluniversitybatumi = {
     ],
     "coursesandfees": [
         {
+            type: "title",
+            title: "BAU International University, Batumi - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "BAU International University, Batumi - MBBS Fee Structure",
-            "info": "<b>BAU Batumi International University offered quite an effective price for doing MBBS which is affordable for medical aspirants:</b>",
+            "info": "BAU Batumi International University offered quite an effective price for doing MBBS which is affordable for medical aspirants:",
             "col": [
                 "Particular",
                 "Year - 1",
@@ -254,7 +259,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "list-bollet",
             "title": "BAU International University, Batumi - MBBS Course Duration",
-            "info": "<b>The students are allowed to undergo for 6 years of medicine program at BAU International University, Batumi :</b>",
+            "info": "The students are allowed to undergo for 6 years of medicine program at BAU International University, Batumi :",
             "data": [
                 "BAU International University, Batumi offers the American model one-cycle higher educational medicine program for 6 years which is conducted in the English language.",
                 "The aim of medical education at BAU Batumi International University is to equip the worldwide medical aspirants with theoretical knowledge as well as detailed clinical skills that will prepare them for their future medical career.",
@@ -269,7 +274,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>1st Year</b>",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -286,7 +291,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -318,7 +323,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -355,7 +360,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th -6th Year</b>",
+            "info": "4th -6th Year",
             "col": [],
             "colTitle": "7th-12th Semester",
             "row": [
@@ -384,9 +389,13 @@ export const bauinternationaluniversitybatumi = {
 
     "admission": [
         {
+            type: "title",
+            title: "BAU International University, Batumi - Admission-2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>For getting MBBS seat at BAU International University, Batumi, the candidate must fit into the following criteria mentioned below:</b>",
+            "info": "For getting MBBS seat at BAU International University, Batumi, the candidate must fit into the following criteria mentioned below:",
             "data": [
                 "Age of the candidate should be 17 years old as on 31st December of the admission year.",
                 "The candidates should secure at least 50% of marks in the academics with Physics, Biology, Chemistry and English subjects or equivalent examination from the recognised board.",
@@ -398,7 +407,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>The candidates willing to take MBBS admission at BAU International University, Batumi should strictly follow the following steps mentioned below:</b>",
+            "info": "The candidates willing to take MBBS admission at BAU International University, Batumi should strictly follow the following steps mentioned below:",
             "data": [
                 "<b>Step 1:</b> The candidates must fill the online application form properly with correct details.",
                 "<b>Step 2:</b> The candidates should submit the higher educational certificates along with other essential documents.",
@@ -412,7 +421,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>All the required documents should be submitted to the university along with original and xerox copies which are considered for MBBS admission at BAU International University, Batumi :</b>",
+            "info": "All the required documents should be submitted to the university along with original and xerox copies which are considered for MBBS admission at BAU International University, Batumi :",
             "data": [
                 "The candidate must submit the application form filled online",
                 "The candidate must submit a copy of education certificate/ transcript of the record issued by a foreign educational institution (translated into Georgian language and certified by a notary)",
@@ -431,7 +440,7 @@ export const bauinternationaluniversitybatumi = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Here are some important dates regarding MBBS admission at BAU International University, Batumi:</b>",
+            "info": "Here are some important dates regarding MBBS admission at BAU International University, Batumi:",
             "col": [
                 "Events",
                 "Dates"
@@ -475,27 +484,36 @@ export const bauinternationaluniversitybatumi = {
 
     ],
     "review":
-        [{
-            type: "meta",
-            meta: [
-                { name: "title", content: "BAU International University, Batumi - Reviews" },
-                { name: "description", content: "Find out what makes BAU International University so special by reading student reviews. Click here to see reviews" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "BAU International University, Batumi - Reviews"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bau-international-university-batumi/reviews" }
-            ]
-        }],
+        [
+            {
+                type: "title",
+                title: "BAU International University, Batumi - Reviews"
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "BAU International University, Batumi - Reviews" },
+                    { name: "description", content: "Find out what makes BAU International University so special by reading student reviews. Click here to see reviews" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "BAU International University, Batumi - Reviews"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bau-international-university-batumi/reviews" }
+                ]
+            }],
     "placement": [
         {
+            type: "title",
+            title: "BAU International University, Batumi - Placement"
+        },
+        {
             "type": "list-bollet",
-            "title": "placement",
+            "title": "Placement",
             "info": "",
             "data": [
                 "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE).",
@@ -522,25 +540,34 @@ export const bauinternationaluniversitybatumi = {
             ]
         }
     ],
-    "gallery": [{
-        type: "meta",
-        meta: [
-            { name: "title", content: "BAU International University, Batumi - Gallery" },
-            { name: "description", content: "BAU International University is considered within the top 10 for medical in country, Established in 2015. Check gallery here" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "BAU International University, Batumi - Gallery"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bau-international-university-batumi/gallery" }
-        ]
-    }],
+    "gallery": [
+        {
+            type: "title",
+            title: "BAU International University, Batumi - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "BAU International University, Batumi - Gallery" },
+                { name: "description", content: "BAU International University is considered within the top 10 for medical in country, Established in 2015. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "BAU International University, Batumi - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bau-international-university-batumi/gallery" }
+            ]
+        }],
 
     "scholarship": [
+        {
+            type: "title",
+            title: "BAU International University, Batumi - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -576,8 +603,12 @@ export const bauinternationaluniversitybatumi = {
     ],
     "faculty": [
         {
+            type: "title",
+            title: "BAU International University, Batumi - Faculty"
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -629,24 +660,33 @@ export const bauinternationaluniversitybatumi = {
             ]
         }
     ],
-    "news": [{
-        type: "meta",
-        meta: [
-            { name: "title", content: "BAU International University, Batumi - News & Articles" },
-            { name: "description", content: "Read latest News, Articles of BAU International University about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "BAU International University, Batumi - News & Articles"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bau-international-university-batumi/news-and-articles" }
-        ]
-    }],
+    "news": [
+        {
+            type: "title",
+            title: "BAU International University, Batumi - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "BAU International University, Batumi - News & Articles" },
+                { name: "description", content: "Read latest News, Articles of BAU International University about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "BAU International University, Batumi - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bau-international-university-batumi/news-and-articles" }
+            ]
+        }],
     "hostel": [
+        {
+            type: "title",
+            title: "BAU International University, Batumi - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel and Accommodation Facility",
@@ -687,6 +727,10 @@ export const bauinternationaluniversitybatumi = {
     ],
     "faq":
         [
+            {
+                type: "title",
+                title: "BAU International University, Batumi - FAQ"
+            },
             {
                 "type": "question-list",
                 "title": "BAU International University, Batumi - Important FAQs",

@@ -22,7 +22,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "table-title",
             "title": "Belfast Metropolitan College - Quick Highlights",
-            "info": "<b>The applicants should go through the important points to study at the Belfast Metropolitan College:</b>",
+            "info": "The applicants should go through the important points to study at the Belfast Metropolitan College:",
             "col": [
             ],
             "row": [
@@ -38,7 +38,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "list-bollet",
             "title": "Why Choose Belfast Met for Higher Studies?",
-            "info": "<b>Lets find out some of the main beneficial reasons why students prefer to study here:</b>",
+            "info": "Lets find out some of the main beneficial reasons why students prefer to study here:",
             "data": [
                 "Wide range of courses.",
                 "Outstanding teaching by industry experts.",
@@ -56,7 +56,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "table-title",
             "title": "Faculties at Belfast Met",
-            "info": "<b>The students must have a look at the various faculties or institutes at the Belfast Metropolitan College:</b>",
+            "info": "The students must have a look at the various faculties or institutes at the Belfast Metropolitan College:",
             "col": [
             ],
             "row": [
@@ -85,7 +85,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "list-bollet",
             "title": "Facilities Offered at Belfast Metropolitan College",
-            "info": "<b>Belfast Metropolitan College offers its students modern facilities:</b>",
+            "info": "Belfast Metropolitan College offers its students modern facilities:",
             "data": [
                 "The college offers flexible conferencing facilities, at highly competitive prices.",
                 "It also provides traditional and modern settings at the college.",
@@ -107,7 +107,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "list-bollet",
             "title": "Accreditations",
-            "info": "<b>Belfast Metropolitan College has various National and international accreditations as given below and it is accredited by:-</b>",
+            "info": "Belfast Metropolitan College has various National and international accreditations as given below and it is accredited by:-",
             "data": [
                 "The British Council for the teaching of English",
                 "The college has a UKVI Highly Trusted Sponsor licence",
@@ -117,7 +117,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "list-bollet",
             "title": "Students Life at Belfast Met",
-            "info": "<b>The life of students at Belfast Met College is full of enjoyment, challenges and excitement. Let us begin:</b>",
+            "info": "The life of students at Belfast Met College is full of enjoyment, challenges and excitement. Let us begin:",
             "data": [
                 "The college has a grown up atmosphere.",
                 "The college has a large diversity of student population and a large variety of courses that makes Belfast Met a great place to learn.",
@@ -133,7 +133,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "table",
             "title": "Belfast Metropolitan College Ranking 2021",
-            "info": "<b>The students must find out the Country and World rankings of this university mentioned below in the table:</b>",
+            "info": "The students must find out the Country and World rankings of this university mentioned below in the table:",
             "col": [
                 "Country",
                 "World",
@@ -153,7 +153,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "table",
             "title": "Monthly Cost of Living at Belfast",
-            "info": "<b>Given below are the living expenses of Belfast, UK which also depend on the living style of students and it may vary:</b>",
+            "info": "Given below are the living expenses of Belfast, UK which also depend on the living style of students and it may vary:",
             "col": [
                 "Activity",
                 "Cost (approx.)",
@@ -202,6 +202,10 @@ export const belfastmetropolitancollege = {
 
     ],
     "coursesandfees": [
+        {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - courses & Fees"
+        },
         {
             "type": "table",
             "title": "Belfast Metropolitan College - Program & Course Duration",
@@ -639,9 +643,13 @@ export const belfastmetropolitancollege = {
     ],
     "admission": [
         {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - Admission 2023"
+        },
+        {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Students must follow the below given admission process for taking admission to Belfast Metropolitan College. Students need to apply online to Belfast Met College:</b>",
+            "info": "Students must follow the below given admission process for taking admission to Belfast Metropolitan College. Students need to apply online to Belfast Met College:",
             "data": [
                 "<b>Step 1:</b> Search a Course<br>Students should browse the courses or use course search to find out the number of different courses at the university.<br>Students can click on the course name for more information about the course.<br>If they find it interesting they can click on Apply. To browse more courses, students can add these to the<br>Students can apply to 5 courses maximum.",
                 "<b>Step 2:</b> Applying Online<br>Then, they have to click on apply, they will be directed to the online applications page and then follow the instructions on screen to complete their application.<br>Students can login to their account any time and can track their application.<br>Last year students awaiting their results can also apply for courses.",
@@ -652,7 +660,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students are required to have following documents at the time of admission to Belfast Met College. Students can also request a list of necessary documents directly from a university, as it may vary for different countries and courses:</b>",
+            "info": "Students are required to have following documents at the time of admission to Belfast Met College. Students can also request a list of necessary documents directly from a university, as it may vary for different countries and courses:",
             "data": [
                 "Applicants or students may need to show examples of their work in this area.",
                 "All Academic Documents and certificates",
@@ -677,7 +685,7 @@ export const belfastmetropolitancollege = {
         {
             "type": "list-bollet",
             "title": "Belfast Met - Academic Calendar 2021",
-            "info": "<b>Let us have a look at term dates at the Belfast Metropolitan College. There are 3 intakes at Belfast Met:</b>",
+            "info": "Let us have a look at term dates at the Belfast Metropolitan College. There are 3 intakes at Belfast Met:",
             "data": [
                 "Autumn Term<brSeptember-December<brHalf Term Break<brIt is for 4-5 days in the month of November.",
                 "Spring Term<brJanuary-March<brHalf Term Break<brIt is for 4-5 days in the month of February.",
@@ -704,6 +712,10 @@ export const belfastmetropolitancollege = {
     ],
     "review": [
         {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Belfast Metropolitan College, UK - Reviews" },
@@ -722,6 +734,10 @@ export const belfastmetropolitancollege = {
         }
     ],
     "placement": [
+        {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -750,6 +766,10 @@ export const belfastmetropolitancollege = {
     ],
     "gallery": [
         {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Belfast Metropolitan College, UK - Gallery" },
@@ -769,9 +789,13 @@ export const belfastmetropolitancollege = {
     ],
     "scholarship": [
         {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships Offered by Belfast Metropolitan College",
-            "info": "<b>The following student fundings are offered by Belfast Metropolitan College- Learner Support Fund (Hardship)</b>",
+            "info": "The following student fundings are offered by Belfast Metropolitan College- Learner Support Fund (Hardship)",
             "textBelowInfo": "<p>Students who are in financial need and require assistance with any of the following categories can apply for this:</p>",
             "data": [
                 "Course Fees",
@@ -806,6 +830,10 @@ export const belfastmetropolitancollege = {
     ],
     "faculty": [
         {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Belfast Metropolitan College, UK - Faculty" },
@@ -824,6 +852,10 @@ export const belfastmetropolitancollege = {
         }
     ],
     "news": [
+        {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -844,9 +876,13 @@ export const belfastmetropolitancollege = {
     ],
     "hostel": [
         {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation & Hostel Facility",
-            "info": "<b>Belfast Metropolitan College provides housing facilities to its students at different premises. Once a student has been accepted to a course then he/she can send an accommodation application form:</b>",
+            "info": "Belfast Metropolitan College provides housing facilities to its students at different premises. Once a student has been accepted to a course then he/she can send an accommodation application form:",
             "textBelowInfo": "Homestay -",
             "data": [
                 "All Meals (except weekday lunch) which are included in the price.",
@@ -890,6 +926,10 @@ export const belfastmetropolitancollege = {
         }
     ],
     "faq": [
+        {
+            type: "title",
+            title: "Belfast Metropolitan College, UK - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Belfast Met - Important FAQs",

@@ -19,7 +19,7 @@ export const universityoftrento = {
         {
             "type": "table-title",
             "title": "University of Trento - Quick Highlights 2021",
-            "info": "<b>A glance at the table below is must before you enroll:</b>",
+            "info": "A glance at the table below is must before you enroll:",
             "col": [],
             "row": [
                 ["<b>Intake for Course</b>", "Twice in a year:September and February"],
@@ -35,7 +35,7 @@ export const universityoftrento = {
         {
             "type": "list-bollet",
             "title": "Why Choose University of Trento?",
-            "info": "<b>Have a sneak peek of the advantages of getting admission in this prestigious university:</b>",
+            "info": "Have a sneak peek of the advantages of getting admission in this prestigious university:",
             "data": [
                 "Doctoral, Master’s, and other degree courses offered by this University are in collaboration with Italian universities or abroad.",
                 "All the study programs offered by this university are taught in English",
@@ -54,7 +54,7 @@ export const universityoftrento = {
         {
             "type": "table",
             "title": "University of Trento - Ranking 2023",
-            "info": "<b>The university is widely known for its rankings:</b>",
+            "info": "The university is widely known for its rankings:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -69,7 +69,7 @@ export const universityoftrento = {
         {
             "type": "list-bollet",
             "title": "Facilities offered at the University of Trento",
-            "info": "<b>The university is known for the facilities and a wide range of services it offers:</b>",
+            "info": "The university is known for the facilities and a wide range of services it offers:",
             "data": [
                 "The sports center is dedicated to students and staff. The center has a sole mission to develop the physical, personal and mental well-being of the students and members of the staff.",
                 "The student club works closely with the admin staff and resolves the issues faced by the students with swift solutions. The club is focused on the development of the students in all areas by eradicating problems.",
@@ -97,7 +97,7 @@ export const universityoftrento = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>For better exposure and to shape the career of the students, the university opts to instruct students in globally accepted language:</b>",
+            "info": "For better exposure and to shape the career of the students, the university opts to instruct students in globally accepted language:",
             "data": [
                 "University instructs the study program, degree courses in the English language.",
                 "Adopting the English language as a mode of instruction improves students' vocabulary, personal development and widens the chances of better job opportunities."
@@ -106,7 +106,7 @@ export const universityoftrento = {
         {
             "type": "list-bollet",
             "title": "Recognitions and Accreditations",
-            "info": "<b>The university is well-known for its accreditations:</b>",
+            "info": "The university is well-known for its accreditations:",
             "data": [
                 "The university and all the degrees it offers are accredited by the Italian Ministry of Education, University, and Research.",
                 "Accreditation evaluation carried out by ANVUR IN 2019 in which this university secured the highest evaluation level ever by an Italian university.",
@@ -116,7 +116,7 @@ export const universityoftrento = {
         {
             "type": "table",
             "title": "Living Expenses in Trento, Italy",
-            "info": "<b>Looking forward to enrolling in this university? From the table below get an estimate of the basic monthly expenses of living in Trento, Italy: </b>",
+            "info": "Looking forward to enrolling in this university? From the table below get an estimate of the basic monthly expenses of living in Trento, Italy: ",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -134,7 +134,7 @@ export const universityoftrento = {
                     "Approx Range in Rs": "Rs 3200"
                 },
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> 1$ = 74 INR (It may vary)</p> <p>A single person's estimated monthly costs are 906.05$ (766.30€) without rent and tuition fees.</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> 1$ = 74 INR (It may vary)</p> <p>A single person's estimated monthly costs are 906.05$ (766.30€) without rent and tuition fees.</p>"
         },
         {
             type: "meta",
@@ -156,9 +156,13 @@ export const universityoftrento = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Trento, Italy - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Trento - Fee Structure & Course Duration MASTER’S",
-            "info": "<b>Engineering</b>",
+            "info": "Engineering",
             "col": [
                 "Program",
                 "Course Duration",
@@ -191,12 +195,12 @@ export const universityoftrento = {
                     "Tuition Fee in Eur/ year": "EUR 4500"
                 },
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> If the admission seats remain vacant those restricted for the Non-EU applicants, it will be progressively offered to the EU applicants.</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> If the admission seats remain vacant those restricted for the Non-EU applicants, it will be progressively offered to the EU applicants.</p>"
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b>Science</b>",
+            "info": "Science",
             "col": [
                 "Program",
                 "Course Duration",
@@ -229,11 +233,11 @@ export const universityoftrento = {
                     "Tuition Fee in Eur/ year": "EUR 4500"
                 },
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> If the admission seats remain vacant those restricted for the Non-EU applicants, it will be progressively offered to the EU applicants.</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> If the admission seats remain vacant those restricted for the Non-EU applicants, it will be progressively offered to the EU applicants.</p>"
         },
         {
             "type": "table",
-            "info": "<b>DOCTORAL (Ph.D.)</b><br><b>Find below the fee structure and course duration for Ph.D. study programs:</b>",
+            "info": "DOCTORAL (Ph.D.)<br>Find below the fee structure and course duration for Ph.D. study programs:",
             "col": [
                 "Ph.D.",
                 "Medium of Learning",
@@ -281,6 +285,10 @@ export const universityoftrento = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Trento, Italy - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "MASTERS",
@@ -304,7 +312,7 @@ export const universityoftrento = {
         {
             type: 'step-list',
             title: 'How to Apply at University of Trento?',
-            info: '<b>MASTERS</b>',
+            info: 'MASTERS',
             data: [
                 "Step 1: Have to go through the pre-selection process. The admission committee shall call candidates for an interview via skype (for Non- EU applicants) and On-campus /via skype (for EU students)",
                 "Step 2: Shortlisted candidates will have to appear for an admission test. (Written and Oral)",
@@ -316,7 +324,7 @@ export const universityoftrento = {
         {
             type: 'step-list',
             title: '',
-            info: '<b>Ph.D</b>',
+            info: 'Ph.D',
             data: [
                 "Step 1: Admission is offered through the public selective procedure, hereinafter named Call.",
                 "Step 2: On the website of the university, calls are published often between February and September of the academic year",
@@ -385,7 +393,7 @@ export const universityoftrento = {
         {
             "type": "table",
             "title": "University of Trento - Ph.D Courses and Deadlines",
-            "info": "<b>Check the table below for Ph.D courses, sub-courses and their deadlines:</b>",
+            "info": "Check the table below for Ph.D courses, sub-courses and their deadlines:",
             "col": [
                 "Ph.D",
                 "Courses",
@@ -412,7 +420,7 @@ export const universityoftrento = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2021",
-            "info": "<b>Listed below are the important dates to be noted:</b>",
+            "info": "Listed below are the important dates to be noted:",
             "col": [
                 "Events",
                 "Dates"
@@ -456,6 +464,10 @@ export const universityoftrento = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Trento, Italy - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Trento, Italy - Reviews" },
@@ -474,6 +486,10 @@ export const universityoftrento = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Trento, Italy - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -503,6 +519,10 @@ export const universityoftrento = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Trento, Italy - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Trento, Italy - Gallery" },
@@ -522,9 +542,13 @@ export const universityoftrento = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Trento, Italy - Scholarship'
+        },
+        {
             "type": "table",
             "title": "scholarship",
-            "info": "<b>Bachelor's and Master's degrees in English</b>",
+            "info": "Bachelor's and Master's degrees in English",
             "col": [
                 "Credits earned before 10th August *",
                 "Degree courses with max fee € 6.000",
@@ -561,7 +585,7 @@ export const universityoftrento = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Bachelor's and Master's degrees in Italian</b>",
+            "info": "Bachelor's and Master's degrees in Italian",
             "col": [
                 "Credits earned before 10th August *",
                 "Bachelor's degrees",
@@ -610,6 +634,10 @@ export const universityoftrento = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Trento, Italy - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Trento, Italy - Faculty" },
@@ -628,6 +656,10 @@ export const universityoftrento = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'University of Trento, Italy - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -648,9 +680,13 @@ export const universityoftrento = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Trento, Italy - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>The university provides comfortable accommodation to the students:</b>",
+            "info": "The university provides comfortable accommodation to the students:",
             "data": [
                 "The accommodation provided by the university is comfortable and very well furnished.",
                 "Italian and international students accommodate together and experience unforgettable moments in a lively environment.",
@@ -679,51 +715,54 @@ export const universityoftrento = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "University of Trento - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. Is the University of Trento accredited and the courses recognized?",
-                        "ans": "Yes, the University of Trento is accredited by the Italian Ministry of Education, University, and Research and the courses are well-recognized."
-                    },
-                    {
-                        "ques": "Q. What is the medium of instruction for the Master’s courses?",
-                        "ans": "Each master’s course is instructed in the English language."
-                    },
-                    {
-                        "ques": "What are the fees applicable for Ph.D. study programs?",
-                        "ans": "Currently, applicants are not required to pay any fees to access or attend the Ph.D. programs"
-                    },
-                    {
-                        "ques": "Q. What is the course duration for the Ph.D. study programs?",
-                        "ans": "The course duration for the Ph.D. study programs is not less than 3 years."
-                    },
-                    {
-                        "ques": "Q. What is the entrance test for the Master's degree?",
-                        "ans": "Pre-Selection test and Interview via skype are the basic entrance test for the Master's degree. ( Applies for both EU and Non-EU applicants)"
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "University of Trento, Italy - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "University of Trento, Italy - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-trento/faq" }
-                ]
-            }
-        ],
+    "faq": [
+        {
+            type: 'title',
+            title: 'University of Trento, Italy - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "University of Trento - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. Is the University of Trento accredited and the courses recognized?",
+                    "ans": "Yes, the University of Trento is accredited by the Italian Ministry of Education, University, and Research and the courses are well-recognized."
+                },
+                {
+                    "ques": "Q. What is the medium of instruction for the Master’s courses?",
+                    "ans": "Each master’s course is instructed in the English language."
+                },
+                {
+                    "ques": "What are the fees applicable for Ph.D. study programs?",
+                    "ans": "Currently, applicants are not required to pay any fees to access or attend the Ph.D. programs"
+                },
+                {
+                    "ques": "Q. What is the course duration for the Ph.D. study programs?",
+                    "ans": "The course duration for the Ph.D. study programs is not less than 3 years."
+                },
+                {
+                    "ques": "Q. What is the entrance test for the Master's degree?",
+                    "ans": "Pre-Selection test and Interview via skype are the basic entrance test for the Master's degree. ( Applies for both EU and Non-EU applicants)"
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Trento, Italy - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Trento, Italy - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-trento/faq" }
+            ]
+        }
+    ],
 }

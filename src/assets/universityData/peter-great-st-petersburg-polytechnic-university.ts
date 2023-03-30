@@ -22,7 +22,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "table-title",
             "title": "Peter the Great St. Petersburg Polytechnic University - Quick Highlights",
-            "info": "<b>A table showed a quick overview of the SPbPU for the students to study engineering in Russia:</b>",
+            "info": "A table showed a quick overview of the SPbPU for the students to study engineering in Russia:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study at Peter the Great St. Petersburg Polytechnic University?",
-            "info": "<b>Following are the interesting features of the university and many of some reasons are presented below:</b>",
+            "info": "Following are the interesting features of the university and many of some reasons are presented below:",
             "img": '',
             "data": [
                 "The university is the leading technical institute in 12th position in the country.",
@@ -57,7 +57,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "table",
             "title": "Peter the Great St. Petersburg Polytechnic University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Peter the Great St. Petersburg Polytechnic University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Peter the Great St. Petersburg Polytechnic University:",
             "col": [
                 "World",
                 "Country",
@@ -76,7 +76,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of teaching for the engineering bachelors degree is noted as under:</b>",
+            "info": "The medium of teaching for the engineering bachelors degree is noted as under:",
             "data": [
                 "Saint Petersburg Polytechnic University provides courses in the English Language.",
             ]
@@ -87,7 +87,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
-            "info": "<b>Lomonosov MSU business school has the following accreditations:</b>",
+            "info": "Lomonosov MSU business school has the following accreditations:",
             "img": '',
             "data": [
                 "Min. of Science and Higher Education of Russia.",
@@ -101,7 +101,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Following is the cost and expenses required to live in the Saint Petersburg city of Russia as for the one-month expenses:</b>",
+            "info": "Following is the cost and expenses required to live in the Saint Petersburg city of Russia as for the one-month expenses:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -160,11 +160,16 @@ export const petergreatstpetersburgpolytechnicuniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - courses & Fees"
+
+        },
 
         {
             "type": "table",
             "title": "Peter the Great St. Petersburg Polytechnic University - Fee Structure",
-            "info": "<b>Saint Petersburg Polytechnic University has tuition and hostel fees as of the following noted:</b>",
+            "info": "Saint Petersburg Polytechnic University has tuition and hostel fees as of the following noted:",
             "col": [
                 "Particular",
                 "Annual Fee",
@@ -193,7 +198,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "list-bollet",
             "title": "Peter the Great St. Petersburg Polytechnic University - Course Duration",
-            "info": "<b>Following is the duration for an engineering degree at the SPbPU:</b>",
+            "info": "Following is the duration for an engineering degree at the SPbPU:",
             "data": [
                 "The course duration at Saint Petersburg Polytechnic University is a 4 years degree program for a bachelor’s in Engineering."
 
@@ -203,7 +208,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Peter the Great St. Petersburg Polytechnic University",
-            "info": "<b>List of courses offered at SPbPU:</b>",
+            "info": "List of courses offered at SPbPU:",
             "data": [
                 "Engineering",
                 "Mathematics and physics",
@@ -215,7 +220,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Bachelors in Engineering</b>",
+            "info": "Bachelors in Engineering",
             "data": [
                 "Civil Engineering",
                 "Computer Science and Engineering",
@@ -249,9 +254,14 @@ export const petergreatstpetersburgpolytechnicuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicant must be fit in the below criteria for qualifying the eligibility criteria for admission at SPbPU institute:</b>",
+            "info": "The applicant must be fit in the below criteria for qualifying the eligibility criteria for admission at SPbPU institute:",
             "data": [
                 "The Applicant must be 17 or higher years for seeking the seat at the SPbPU.",
                 "The applicant must be passed with a good percentile from a government-recognized board or school having maths and English as the obligatory subjects.",
@@ -261,7 +271,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>For seeking admission at the SPbPU, below steps to be followed by the students willing to study engineering in Russia:</b>",
+            "info": "For seeking admission at the SPbPU, below steps to be followed by the students willing to study engineering in Russia:",
             "data": [
                 "<b>Step 1:</b> Filling up the application form and thus completing the registration process of the Saint Petersburg polytechnic university.",
                 "<b>Step 2:</b> Scanning and sending the essential documents demanded by the SPPU with their Russian translation copies.",
@@ -274,7 +284,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The list of documents needed for admission from registration to entry in the university are provided as under:</b>",
+            "info": "The list of documents needed for admission from registration to entry in the university are provided as under:",
             "data": [
                 "Application form",
                 "Invitation letter",
@@ -293,7 +303,7 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>As mentioned in the given table below, the following is the schedule for the bachelor’s programs for engineering students :</b>",
+            "info": "As mentioned in the given table below, the following is the schedule for the bachelor’s programs for engineering students :",
             "col": [
                 "Events",
                 "Dates",
@@ -339,6 +349,11 @@ export const petergreatstpetersburgpolytechnicuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Peter the Great St. Petersburg Polytechnic University, Russia - Reviews" },
@@ -357,6 +372,11 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -377,6 +397,11 @@ export const petergreatstpetersburgpolytechnicuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Peter the Great St. Petersburg Polytechnic University, Russia - Gallery" },
@@ -395,6 +420,11 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - Scholarship"
+
+        },
         {
             "type": "text",
             "title": "Scholarship - ",
@@ -420,6 +450,11 @@ export const petergreatstpetersburgpolytechnicuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Peter the Great St. Petersburg Polytechnic University, Russia - Faculty" },
@@ -438,6 +473,11 @@ export const petergreatstpetersburgpolytechnicuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -458,9 +498,14 @@ export const petergreatstpetersburgpolytechnicuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the features of the dormitories at the SPbPU:</b>",
+            "info": "Following are the features of the dormitories at the SPbPU:",
             "data": [
                 "The hostel has a capacity of more than 8500 students and is built near the university building in the campus areas.",
                 "The hostel or the dormitories are arranged for the students which are in the 3 three dormitories having separate names given.",
@@ -507,9 +552,14 @@ export const petergreatstpetersburgpolytechnicuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Peter the Great St. Petersburg Polytechnic University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Peter the Great St. Petersburg Polytechnic University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Do the dormitories cost much for international students?",

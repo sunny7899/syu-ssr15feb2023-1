@@ -1,4 +1,4 @@
-export const rwthaachenuniversity = {
+ export const rwthaachenuniversity = {
   "Title": "RWTH Aachen University, Germany",
   "shortTitle": "RWTH Aachen University",
   "location": "Estonia",
@@ -19,7 +19,7 @@ export const rwthaachenuniversity = {
     {
       "type": "table-title",
       "title": "RWTH Aachen University - Quick Highlights",
-      "info": "<b>Now will dive into the essential information regarding the university before taking admission:</b>",
+      "info": "Now will dive into the essential information regarding the university before taking admission:",
       "row": [
         ["<b>Application Accepted</b>", "Online"],
         ["<b>Institute Type</b>", "Public"],
@@ -37,7 +37,7 @@ export const rwthaachenuniversity = {
     {
       "type": 'list-bollet',
       "title": 'Why Choose RWTH Aachen University?',
-      "info": '<b>Applicants must go through the advantages of RWTH Aachen University:</b>',
+      "info": 'Applicants must go through the advantages of RWTH Aachen University:',
       "data": [
         "The semester tuition fees are free at RWTH Aachen University.",
         "It offers ample scope to be a part of a multinational knowledge community planning to build a unique research profile.",
@@ -55,7 +55,7 @@ export const rwthaachenuniversity = {
     {
       "type": "table",
       "title": "RWTH Aachen University - Ranking 2022",
-      "info": "<b>RWTH Aachen university has a good ranking and best place to pursue education, let’s know about the world and country rankings:</b>",
+      "info": "RWTH Aachen university has a good ranking and best place to pursue education, let’s know about the world and country rankings:",
       "col": [
         "Country",
         "World",
@@ -71,7 +71,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "RWTH Aachen university - Medium of Teaching",
-      "info": "<b>The institute will provide entire education in English and German at RWTH AAchen University:</b>",
+      "info": "The institute will provide entire education in English and German at RWTH AAchen University:",
       "data": [
         "The college conducts all lectures in both languages- English or German.",
         "The worldwide students can choose a comfortable medium to study an engineering course at RWTH Aachen University."
@@ -80,7 +80,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "Facilities Offered at RWTH Aachen University",
-      "info": "<b>The institute offers top-class facilities to make every student experience comfort ness during education:</b>",
+      "info": "The institute offers top-class facilities to make every student experience comfort ness during education:",
       "data": [
         "Canteen",
         "Classroom",
@@ -132,7 +132,7 @@ export const rwthaachenuniversity = {
     {
       "type": "table-title",
       "title": "Affiliations and Recognitions",
-      "info": "<b>Apart from being a part of one such prestigious EU university groups, it has added multiple recognitions to its cap:</b>",
+      "info": "Apart from being a part of one such prestigious EU university groups, it has added multiple recognitions to its cap:",
       "col": [],
       "coltitle": "Domestic",
       "row": [
@@ -171,9 +171,13 @@ export const rwthaachenuniversity = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "RWTH Aachen University - Fee Structure 2022",
-      "info": "<b>ENGINEERING</b>",
+      "info": "ENGINEERING",
       "col": [
         "Particular",
         "Amount in Euro",
@@ -206,7 +210,7 @@ export const rwthaachenuniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>MBA</b>",
+      "info": "MBA",
       "col": [
         "Fees Components",
         "Amount",
@@ -225,7 +229,7 @@ export const rwthaachenuniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>Other Expenses</b>",
+      "info": "Other Expenses",
       "col": [
         "Fees Components",
         "Amount",
@@ -249,7 +253,7 @@ export const rwthaachenuniversity = {
     {
       "type": "table",
       "title": "RWTH Aachen University - Course Duration",
-      "info": "<b>ENGINEERING</b>",
+      "info": "ENGINEERING",
       "col": [
         "Course",
         "Duration",
@@ -341,7 +345,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>MBA</b>",
+      "info": "MBA",
       "data": [
         "The entire course of the MBA program will last for 2 years at RWTH Aachen University."
       ]
@@ -349,7 +353,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "MBA Specialization",
-      "info": "<b>The MBA course comprises of four specializations are offered by RWTH Aachen University:</b>",
+      "info": "The MBA course comprises of four specializations are offered by RWTH Aachen University:",
       "data": [
         "Sustainability and Corporations",
         "Operations Research and Management",
@@ -360,7 +364,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "Corporate Development and Strategy",
-      "info": "<b>The college is offering a broad spectrum of programs to the aspirants willing to get the highest education:</b>",
+      "info": "The college is offering a broad spectrum of programs to the aspirants willing to get the highest education:",
       "data": [
         "Engineering sciences",
         "Natural sciences",
@@ -373,7 +377,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "Faculties offered at RWTH Aachen University",
-      "info": "<b>RWTH Aachen University provides various faculties to the students:</b>",
+      "info": "RWTH Aachen University provides various faculties to the students:",
       "data": [
         "Mathematics, Computer Science and Natural Sciences",
         "Architecture",
@@ -406,9 +410,13 @@ export const rwthaachenuniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>ENGINEERING</b>",
+      "info": "ENGINEERING",
       "data": [
         "The candidates who are seeking Engineering admission must pass higher secondary education.",
         "Every student willing to study at RWTH Aachen University must have a valid passport.",
@@ -427,7 +435,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>MBA</b>",
+      "info": "MBA",
       "data": [
         "The aspiring students should pass higher secondary education with good scores to enroll in MBA courses.",
         "Every student willing to study at RWTH AACHEN University must have a valid passport.",
@@ -441,7 +449,7 @@ export const rwthaachenuniversity = {
     {
       "type": "step-list",
       "title": "Admission Process",
-      "info": "<b>ENGINEERING</b>",
+      "info": "ENGINEERING",
       "data": [
         "<b>Step 1:</b> Register online to apply for the Engineering program at RWTH Aachen University.",
         "<b>Step 2:</b> Fill the application form properly, attach all documents and submit it before the deadline date.",
@@ -455,7 +463,7 @@ export const rwthaachenuniversity = {
     {
       "type": "step-list",
       "title": "",
-      "info": "<b>MBA</b>",
+      "info": "MBA",
       "data": [
         "<b>Step 1:</b> The aspirants should fill out the application form properly, attach all documents and submit it before the deadline date.",
         "<b>Step 2:</b> Fill the application form properly, attach all documents and submit it before the deadline date.",
@@ -469,7 +477,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>ENGINEERING</b>",
+      "info": "ENGINEERING",
       "data": [
         "Application form",
         "Higher secondary education certificates",
@@ -496,7 +504,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>MBA</b>",
+      "info": "MBA",
       "data": [
         "Correct Application form",
         "10 th mark sheet",
@@ -523,7 +531,7 @@ export const rwthaachenuniversity = {
     {
       "type": "table",
       "title": "RWTH Aachen University - Important Dates 2022",
-      "info": "<b>ENGINEERING</b>",
+      "info": "ENGINEERING",
       "col": [
         "Events",
         "Dates",
@@ -550,7 +558,7 @@ export const rwthaachenuniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>MBA</b>",
+      "info": "MBA",
       "col": [
         "Events",
         "Dates",
@@ -594,6 +602,10 @@ export const rwthaachenuniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "RWTH Aachen University, Germany - Reviews" },
@@ -612,6 +624,10 @@ export const rwthaachenuniversity = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - Placement'
+    },
     {
       "type": "list-bollet",
       "title": "placement",
@@ -639,7 +655,7 @@ export const rwthaachenuniversity = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Recruiter</b>",
+      "info": "Recruiter",
       "data": [
         "Audi",
         "Bosch",
@@ -670,6 +686,10 @@ export const rwthaachenuniversity = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "RWTH Aachen University, Germany - Gallery" },
@@ -689,9 +709,13 @@ export const rwthaachenuniversity = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - Scholarship'
+    },
+    {
       "type": "list-bollet",
       "title": "scholarship",
-      "info": "<b>The scholarships that are provided at RWTH Aachen University are as follows:</b>",
+      "info": "The scholarships that are provided at RWTH Aachen University are as follows:",
       "data": [
         "DAAD Scholarship",
         "T.I.M.E. Scholarship",
@@ -725,6 +749,10 @@ export const rwthaachenuniversity = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - Faculty'
+    },
     {
       "type": "table",
       "title": "faculty",
@@ -776,6 +804,10 @@ export const rwthaachenuniversity = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "RWTH Aachen University, Germany - News & Articles" },
@@ -795,9 +827,13 @@ export const rwthaachenuniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>RWTH Aachen University provides accommodation assistance to international students:</b>",
+      "info": "RWTH Aachen University provides accommodation assistance to international students:",
       "data": [
         "The college doesn’t offer any on-campus student dorms.",
         "The students must come early and arrange for their housing in Aachen city.",
@@ -819,7 +855,7 @@ export const rwthaachenuniversity = {
     {
       "type": "table",
       "title": "Cost of Living in Aachen, Germany",
-      "info": "<b>Aachen has a low living expense that is affordable for the students, go through the table varying according to the individual needs:</b>",
+      "info": "Aachen has a low living expense that is affordable for the students, go through the table varying according to the individual needs:",
       "col": [
         "Particulars",
         "Amount in USD",
@@ -860,9 +896,13 @@ export const rwthaachenuniversity = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: 'RWTH Aachen University, Germany - FAQ'
+    },
+    {
       "type": "question-list",
       "title": "RWTH Aachen University - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. Is the RWTH Aachen University globally recognised?",

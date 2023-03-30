@@ -19,7 +19,7 @@ export const kharkivstateacademyofculture = {
         {
             "type": "table-title",
             "title": "Kharkiv State Academy of Culture - Quick Highlights",
-            "info": "<b>Here are some important points about Kharkiv State Academy of Culture: </b>",
+            "info": "Here are some important points about Kharkiv State Academy of Culture: ",
             "col": [],
             "row": [
                 ["<b>Admission Process Starts</b>", "Twice a Year February and July"],
@@ -34,7 +34,7 @@ export const kharkivstateacademyofculture = {
         {
             "type": "list-bollet",
             "title": "Reasons to Choose Kharkiv State Academy of Culture for Higher Studies",
-            "info": "<b>Kharkiv State Academy of Culture has been a leading institute in Ukraine for years: </b>",
+            "info": "Kharkiv State Academy of Culture has been a leading institute in Ukraine for years: ",
             "data": [
                 "First Institution in Ukraine to begin a program in Library and information science.",
                 "The Academy prepares students for professional careers in a variety of fields. The Professors and experts of the Academy emphasize enhancing the practical skills of their students.",
@@ -50,13 +50,13 @@ export const kharkivstateacademyofculture = {
         {
             "type": "text",
             "title": "Course Language",
-            "info": "",
-            "data": "<p><b>Thousands of students from different states and countries pursue higher education in arts and culture at Kharkiv State Academy of Culture: </b></p> <p>The courses at Kharkiv State Academy are offered in English, Ukrainian and Russian language.</p>"
+            "info": "Thousands of students from different states and countries pursue higher education in arts and culture at Kharkiv State Academy of Culture: ",
+            "data": "<p>The courses at Kharkiv State Academy are offered in English, Ukrainian and Russian language.</p>"
         },
         {
             "type": "table",
             "title": "Kharkiv State Academy of Culture - Ranking 2021",
-            "info": "<b>According to UniRank, the rank of Kharkiv State Academy of Culture is given below: </b>",
+            "info": "According to UniRank, the rank of Kharkiv State Academy of Culture is given below: ",
             "col": [
                 "World Rank",
                 "Country Rank"
@@ -71,7 +71,7 @@ export const kharkivstateacademyofculture = {
         {
             "type": "table",
             "title": "Entrance Exam",
-            "info": "<b>Students have to take the entrance exam of specific subjects according to the chosen specialty to secure admission to Kharkiv State Academy of Culture: </b>",
+            "info": "Students have to take the entrance exam of specific subjects according to the chosen specialty to secure admission to Kharkiv State Academy of Culture: ",
             "col": [
                 "Specialty",
                 "Entrance Exam Subjects"
@@ -111,7 +111,7 @@ export const kharkivstateacademyofculture = {
         {
             "type": "list-bollet",
             "title": "Facilities Offered at Kharkiv State Academy of Culture",
-            "info": "<b>State Academy of culture offers various facilities to domestic and international students: </b>",
+            "info": "State Academy of culture offers various facilities to domestic and international students: ",
             "data": [
                 "Specialized Classrooms",
                 "Additional Classes",
@@ -124,7 +124,7 @@ export const kharkivstateacademyofculture = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>State Academy of Culture is situated in Kharkiv and the average cost of living is $211-465 USD/Month: </b>",
+            "info": "State Academy of Culture is situated in Kharkiv and the average cost of living is $211-465 USD/Month: ",
             "col": [
                 "Particulars",
                 "Approx in USD",
@@ -184,9 +184,14 @@ export const kharkivstateacademyofculture = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kharkiv State Academy of Culture - Fee Structure 2021",
-            "info": "<b>Kharkiv State Academy of Culture offers various courses for Bachelors' and Masters' Degree programs: </b>",
+            "info": "Kharkiv State Academy of Culture offers various courses for Bachelors' and Masters' Degree programs: ",
             "col": [
                 "Faculty",
                 "Specialty",
@@ -241,7 +246,7 @@ export const kharkivstateacademyofculture = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Kharkiv State Academy of Culture",
-            "info": "<b>Kharkiv State Academy of Culture includes various faculty and offers education in different specialties: </b>",
+            "info": "Kharkiv State Academy of Culture includes various faculty and offers education in different specialties: ",
             "data": [
                 "Culturology",
                 "Social Communications",
@@ -254,7 +259,7 @@ export const kharkivstateacademyofculture = {
         {
             "type": "table-title",
             "title": "Kharkiv State Academy of Culture - Course Duration",
-            "info": "<b>Kharkiv State Academy of culture offers full time and part-time courses and the details of course duration is given below: </b>",
+            "info": "Kharkiv State Academy of culture offers full time and part-time courses and the details of course duration is given below: ",
             "col": [],
             "row": [
                 ["Bachelor’s", "3 Years 10 Months"],
@@ -281,9 +286,14 @@ export const kharkivstateacademyofculture = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to come under these criteria to secure admission at Kharkiv State Academy of Culture: </b>",
+            "info": "Students have to come under these criteria to secure admission at Kharkiv State Academy of Culture: ",
             "data": [
                 "The student must have completed secondary education (for admission to Bachelor's programs).",
                 "Students who want to get admission in a Master’s Programme must have a Bachelor’s Degree.",
@@ -294,7 +304,7 @@ export const kharkivstateacademyofculture = {
         {
             "type": 'step-list',
             "title": "Admission Process",
-            "info": "<b>Students who are fond of arts and willing to study it further have to follow these steps to secure admission at Kharkiv State Academy of Culture: </b>",
+            "info": "Students who are fond of arts and willing to study it further have to follow these steps to secure admission at Kharkiv State Academy of Culture: ",
             "data": [
                 "Step 1: Admission to any program at Kharkiv State Academy of Culture is given based on the Entrance Exam.",
                 "Step 2: Applicants have to fill the Admission form and mail it to the official website of the Academy of Culture.",
@@ -309,7 +319,7 @@ export const kharkivstateacademyofculture = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>To confirm admission, students have to submit the documents mentioned below: </b>",
+            "info": "To confirm admission, students have to submit the documents mentioned below: ",
             "data": [
                 "Application form",
                 "Original copy and photocopy of a document of the previous qualifying examination.",
@@ -340,6 +350,11 @@ export const kharkivstateacademyofculture = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv State Academy of Culture, Ukraine - Reviews" },
@@ -358,6 +373,11 @@ export const kharkivstateacademyofculture = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -378,6 +398,11 @@ export const kharkivstateacademyofculture = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv State Academy of Culture, Ukraine - Gallery" },
@@ -396,6 +421,11 @@ export const kharkivstateacademyofculture = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -416,17 +446,22 @@ export const kharkivstateacademyofculture = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - Faculty"
+
+        },
+        {
             "type": "table",
             "title": "Departments at Kharkiv State Academy of Culture",
-            "info": "<b>The faculty of Kharkiv State Academy of Culture includes various departments: </b>",
+            "info": "The faculty of Kharkiv State Academy of Culture includes various departments: ",
             "col": [
                 "Faculty",
-                    "Departments1",
-                    "Departments2",
-                    "Departments3",
-                    "Departments4",
-                    "Departments5",
-                    "Departments6"
+                "Departments1",
+                "Departments2",
+                "Departments3",
+                "Departments4",
+                "Departments5",
+                "Departments6"
             ],
             "row": [
                 {
@@ -491,6 +526,11 @@ export const kharkivstateacademyofculture = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv State Academy of Culture, Ukraine - News & Articles" },
@@ -510,9 +550,14 @@ export const kharkivstateacademyofculture = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Kharkiv State Academy of Culture provides accommodation to international students inside the campus: </b>",
+            "info": "Kharkiv State Academy of Culture provides accommodation to international students inside the campus: ",
             "data": [
                 "The university consists of 2 dormitories inside the campus.",
                 "The cost of accommodation to the dormitories is decided by the administration every new academic year.",
@@ -558,9 +603,14 @@ export const kharkivstateacademyofculture = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kharkiv State Academy of Culture, Ukraine - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kharkiv State Academy of Culture - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Do the Kharkiv State Academy of Culture provide distance learning courses?",
@@ -573,7 +623,7 @@ export const kharkivstateacademyofculture = {
                 {
                     "ques": "Q. Is there any entrance exam to take admission to Kharkiv State Academy of Culture?",
                     "ans": "Yes, the students have to clear the university entrance exam to secure admission at the Academy."
-                }, 
+                },
                 {
                     "ques": "Q. Do the Kharkiv State Academy of Culture offer courses in Library and Education science?",
                     "ans": "Kharkiv State Academy of Culture is the first institution to offer Library and Education Science courses."

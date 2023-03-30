@@ -21,7 +21,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "table-title",
             "title": "Emilio Aguinaldo College - Quick Highlights",
-            "info": "<b>If you are looking to study MBBS in Philippines, then have a quick overview on some important points of Emilio Aguinaldo College:</b>",
+            "info": "If you are looking to study MBBS in Philippines, then have a quick overview on some important points of Emilio Aguinaldo College:",
             "col": [
             ],
             "row": [
@@ -41,7 +41,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Emilio Aguinaldo College?",
-            "info": "<b>Following are the reasons that will make you realize how your decision of studying at Emilio Aguinaldo College is correct:</b>",
+            "info": "Following are the reasons that will make you realize how your decision of studying at Emilio Aguinaldo College is correct:",
             "data": [
                 "The Emilio Aguinaldo College offers MBBS seats without any donations.",
                 "The university has low training and hostel price in comparison to different faculties withinside the Philippines.",
@@ -63,7 +63,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "list-bollet",
             "title": "Emilio Aguinaldo College - International Links and Accreditations",
-            "info": "<b>Emilio Aguinaldo College has the following accreditation and International link:</b>",
+            "info": "Emilio Aguinaldo College has the following accreditation and International link:",
             "data": [
                 "Qiqihar Medical University, China",
                 "Thai Medical Council",
@@ -80,7 +80,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "list-bollet",
             "title": "Emilio Aguinaldo College of Medicine - Hospitals for Clinical Training",
-            "info": "<b>Following are the hospitals which partnered with EAC for Clinical Training:</b>",
+            "info": "Following are the hospitals which partnered with EAC for Clinical Training:",
             "data": [
                 "Manila Med (Base Training Hospital)",
                 "University of the Philippines - Philippine General Hospital (UP-PGH)",
@@ -95,7 +95,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "list-bollet",
             "title": "Campus introduction of Emilio Aguinaldo College",
-            "info": "<b>Read the following points carefully and know more about campus of Emilio Aguinaldo College:</b>",
+            "info": "Read the following points carefully and know more about campus of Emilio Aguinaldo College:",
             "data": [
                 "Emilio Aguinaldo College has 2 campuses.",
                 "The most important Campus is in Ermita, Manila and the other is in Dasmariñas, Cavite.",
@@ -108,7 +108,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "table",
             "title": "Emilio Aguinaldo College - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Emilio Aguinaldo College of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Emilio Aguinaldo College of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University			",
                 "Appeared",
@@ -127,7 +127,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "list-bollet",
             "title": "Students Life",
-            "info": "<b>The student life at the Emilio Aguinaldo College is as follows:</b>",
+            "info": "The student life at the Emilio Aguinaldo College is as follows:",
             "data": [
                 "All the international students have been offered comfortable and secure accommodation by the college. The rooms are provided on a twin sharing basis to the students of the same gender. The rooms are fully furnished with central cooling, heating, and laundry system.",
                 "Indian food is available 24*7 in students mess for Indian students.",
@@ -224,9 +224,13 @@ export const emilioaguinaldocollegemanila = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Emilio Aguinaldo College of Medicine Fee Structure 2022",
-            "info": "<b>Emilio Aguinaldo College of medicine has an affordable fee structure for Indian students, the average annual cost for MBBS is 4 lacs, for detailed fee structure have a look below:</b>",
+            "info": "Emilio Aguinaldo College of medicine has an affordable fee structure for Indian students, the average annual cost for MBBS is 4 lacs, for detailed fee structure have a look below:",
             "col": [
                 "Particular	",
                 "BS(1.5 YEARS)",
@@ -260,7 +264,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Emilio Aguinaldo College - School of Medicine",
-            "info": "<b>At Emilio Aguinaldo College, below mentioned different courses in medicine are offered:</b>",
+            "info": "At Emilio Aguinaldo College, below mentioned different courses in medicine are offered:",
             "data": [
                 "Medicine",
                 "Pharmacy",
@@ -274,7 +278,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "table",
             "title": "Emilio Aguinaldo College - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at Emilio Aguinaldo College is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Emilio Aguinaldo College is as follows:",
             "col": [
                 "1st Year",
                 "2st Year"
@@ -357,7 +361,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "list-bollet",
             "title": "Emilio Aguinaldo College - MBBS Duration",
-            "info": "<b>Total duration of MBBS in Emilio Aguinaldo College is 5 and half years with the first 16 months is dedicated for pre medical course, for detailed information have a look below:</b>",
+            "info": "Total duration of MBBS in Emilio Aguinaldo College is 5 and half years with the first 16 months is dedicated for pre medical course, for detailed information have a look below:",
             "data": [
                 "The total length of the Medical, MD or MBBS path is 5 and 1/2 of a year for college students who've been educated till class 12 with Science.",
                 "The first 16 months is devoted to the pre medical path.",
@@ -385,9 +389,13 @@ export const emilioaguinaldocollegemanila = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "What are the Eligibility Criteria to get Admission in Emilio Aguinaldo College of Medicine?",
-            "info": "<b>Below given is the entry requirements which students need to fulfill for studying MBBS at Emilio Aguinaldo College:</b>",
+            "info": "Below given is the entry requirements which students need to fulfill for studying MBBS at Emilio Aguinaldo College:",
             "data": [
                 "The minimal age bar is 17 years or above.",
                 "50% marks withinside the 12th board examination of the PCB group.",
@@ -398,7 +406,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "step-list",
             "title": "How to Take Admission in Emilio Aguinaldo College?",
-            "info": "<b>Students need to follow these steps to take admission at Emilio Aguinaldo College for MBBS course:</b>",
+            "info": "Students need to follow these steps to take admission at Emilio Aguinaldo College for MBBS course:",
             "data": [
                 "<b>Step 1:</b> Fill in the application form accurately.",
                 "<b>Step 2:</b> Attach the documents given below:<br>-Scanned copy of marksheet of completion of higher secondary education / tertiary education<br>- Results of NEET (Score card)<br>- Scanned copy of your Passport",
@@ -411,7 +419,7 @@ export const emilioaguinaldocollegemanila = {
 
             "type": "list-bollet",
             "title": "What Documents are Required to Study MBBS in Emilio Aguinaldo College?",
-            "info": "<b>following documents essential in order to complete your admission process for the MBBS course at Emilio Aguinaldo College:</b>",
+            "info": "following documents essential in order to complete your admission process for the MBBS course at Emilio Aguinaldo College:",
             "data": [
                 "Undergraduate, and Graduate certificates (if any)",
                 "Certificate of Graduation",
@@ -434,7 +442,7 @@ export const emilioaguinaldocollegemanila = {
         {
             "type": "table",
             "title": "Emilio Aguinaldo College of Medicine - Admission Dates 2022-23",
-            "info": "<b>Students should consider the following important dates to follow the timetable of admission dates:</b>",
+            "info": "Students should consider the following important dates to follow the timetable of admission dates:",
             "col": [
                 "Events",
                 "Dates"
@@ -471,6 +479,10 @@ export const emilioaguinaldocollegemanila = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Emilio Aguinaldo College, Philippines - Reviews" },
@@ -489,6 +501,10 @@ export const emilioaguinaldocollegemanila = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -509,6 +525,10 @@ export const emilioaguinaldocollegemanila = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Emilio Aguinaldo College, Philippines - Gallery" },
@@ -528,10 +548,14 @@ export const emilioaguinaldocollegemanila = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - Scholarship"
+        },
+        {
 
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Scholarship</b>",
+            "info": "Scholarship",
             "data": [
                 "Vicente B. Bello Scholarship Grant",
                 "Angelo King Foundation Scholarship, 2017",
@@ -562,6 +586,10 @@ export const emilioaguinaldocollegemanila = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Emilio Aguinaldo College, Philippines - News & Articles" },
@@ -581,10 +609,14 @@ export const emilioaguinaldocollegemanila = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - Faculty"
+        },
+        {
 
             "type": "list-bollet",
-            "title": "",
-            "info": "<b>Faculty</b>",
+            "title": "Faculty",
+            "info": "",
             "data": [
                 "Manila Campus<br>-RACHELLE SOBREVIÑAS, DMD School of Dentistry & Dental Technology<br>-LORNA CATHERINE G. RAYMUNDO, MD, MHPEd, FPOGS, FPCOM School of Medicine<br>-JEENO JAY C. FRANI, PhD, RN, CNN, LPT, EMT School of Nursing<br>-FREDERICK FRANCISCO, RPh  School of Pharmacy",
                 "Cavite Campus<br>-VERONICA S. GARCIA, DMD, PhD School of Dental Medicine<br>-ROMEO C. ONGPOY, CPS, RPh, MSc School of Pharmacy<br>-ARNEL G. PANTOJA, RN, MSN School of Nursing & Midwifery",
@@ -613,10 +645,14 @@ export const emilioaguinaldocollegemanila = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - Hostel"
+        },
+        {
 
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the accommodation facilities at the Emilio Aguinaldo College:</b>",
+            "info": "Following are the accommodation facilities at the Emilio Aguinaldo College:",
             "data": [
                 "At Emilio Aguinaldo College, there are three good hostels located within the range of a few kilometers.",
                 "To commute from these hostels to the college, students can use the metro facility.",
@@ -646,6 +682,10 @@ export const emilioaguinaldocollegemanila = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Emilio Aguinaldo College, Philippines - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Emilio Aguinaldo College - Most Important FAQs",

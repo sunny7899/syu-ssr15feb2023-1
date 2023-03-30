@@ -31,7 +31,7 @@ export const lodzuniversityoftechnology = {
         {
             "type": "table-title",
             "title": "Lodz University of Technology- Quick Overview 2022",
-            "info": "<b>Following are the highlights of studying engineering at Lodz University of Technology:</b>",
+            "info": "Following are the highlights of studying engineering at Lodz University of Technology:",
             "col": [],
             "row": [
                 ["<b>Intake for Engineering Course</b>", "October"],
@@ -45,7 +45,7 @@ export const lodzuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Why to Study Engineering at Lodz University of Technology?",
-            "info": "<b>Following are the benefits of studying engineering at Lodz University of Technology:</b>",
+            "info": "Following are the benefits of studying engineering at Lodz University of Technology:",
             "data": [
                 "The curriculum taught at the Lodz University of Technology follows the Bologna process which represents the international standard of education.",
                 "Researchers from the university have been awarded by the authorities of world-recognized councils.",
@@ -58,7 +58,7 @@ export const lodzuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Language Proficiency",
-            "info": "<b>If foreigners want to study engineering in the English language then they should be required to hold the language proficiency certificate:</b>",
+            "info": "If foreigners want to study engineering in the English language then they should be required to hold the language proficiency certificate:",
             "data": [
                 "The certificates are:",
                 "First Certificate in English (FCE)",
@@ -75,7 +75,7 @@ export const lodzuniversityoftechnology = {
         {
             "type": "table",
             "title": "Lodz University of Technology - Ranking 2022",
-            "info": "<b>As per the uniRank system, the country and world ranking of Lodz University of Technology is:</b>",
+            "info": "As per the uniRank system, the country and world ranking of Lodz University of Technology is:",
             "col": [
                 "Country",
                 "World"
@@ -90,7 +90,7 @@ export const lodzuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Accreditation of the University",
-            "info": "<b>The Lodz University of Technology has received the accreditation by,</b>",
+            "info": "The Lodz University of Technology has received the accreditation by,",
             "data": [
                 "Polish Accreditation Committee",
                 "Accreditation Commission of Universities of technology"
@@ -112,7 +112,7 @@ export const lodzuniversityoftechnology = {
         {
             "type": "table",
             "title": "Cost of Living in Lodz",
-            "info": "<b>Following is the cost of living in the city of Lodz:</b>",
+            "info": "Following is the cost of living in the city of Lodz:",
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -167,9 +167,14 @@ export const lodzuniversityoftechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Lodz University of Technology, Poland - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Lodz University of Technology - Fee Structure 2022",
-            "info": "<b>Refer the fee structure for engineering at Lodz University of Technology:</b><br>For Foreign Nationals",
+            "info": "Refer the fee structure for engineering at Lodz University of Technology:</b><br>For Foreign Natio",
             "col": [
                 "Particular",
                 "Particulars",
@@ -197,7 +202,7 @@ export const lodzuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Lodz University of Technology",
-            "info": "<b>Below are the programs offered at Lodz University of Technology:</b><br>1 Mechanical Engineering",
+            "info": "Below are the programs offered at Lodz University of Technology:</b><br>1 Mechanical Enginee",
             "data": [
                 "The faculty was founded by the state decree on May 24, 1945. Today, the faculty staff consists of the 200 academics including 25 professors and 30 associate professors. The faculty has a major contribution in the field of technical education that offers the courses at bachelor’s, master and doctoral levels."
             ]
@@ -262,9 +267,14 @@ export const lodzuniversityoftechnology = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Lodz University of Technology, Poland - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following is the admission criteria required for applying for an engineering course at Lodz University of Technology:</b>",
+            "info": "Following is the admission criteria required for applying for an engineering course at Lodz University of Technology:",
             "data": [
                 "Candidates must have completed the higher secondary education from a recognized university with a subject of physics, chemistry and mathematics.",
                 "Applicants must have a percentage of 50% in respective subjects.",
@@ -274,12 +284,12 @@ export const lodzuniversityoftechnology = {
         {
             "type": "text",
             "title": "How to Apply for an Engineering Course?",
-            "data": "<p><b>Following is the admission process that candidate need to follow while applying for the engineering course of study:</b></p>"
+            "data": "Following is the admission process that candidate need to follow while applying for the engineering course of study:"
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For the Foreign Nationals</b>",
+            "info": "For the Foreign Nationals",
             "data": [
                 "Candidate can apply for the engineering course under the international faculty at Lodz University of Technology only if,",
                 "He/She don’t have a Polish Citizenship",
@@ -291,18 +301,18 @@ export const lodzuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Below are the admission steps stated as per university guidelines:</b>",
+            "info": "Below are the admission steps stated as per university guidelines:",
             "data": [
                 "Send the scanned copies of documents on Email foreignstudents@info.p.lodz.pl within the given date as specified on the website.",
                 "The documents must be legalized and translated into Polish or English language by a sworn translator.",
                 "There are 8 programs available for the candidates. They have to select the one program and send a separate application to the vice-rector of a particular program.",
-                "For further queries, the candidate can contact the international faculty of the department."                
+                "For further queries, the candidate can contact the international faculty of the department."
             ]
         },
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following is the list of documents required for applying for an engineering course at Lodz University of Technology:</b>",
+            "info": "Following is the list of documents required for applying for an engineering course at Lodz University of Technology:",
             "data": [
                 "Application to Vice-Rector (the program you selected for)",
                 "Copy of High School leaving certificate with transcripts of all records (legalized copy)",
@@ -310,7 +320,7 @@ export const lodzuniversityoftechnology = {
                 "Language proficiency certificate",
                 "Copy of Passport",
                 "Proof of application fee payment",
-                "Filled application form"                
+                "Filled application form"
             ],
             heading: '<p><b style="color: red;"><u>Note:</u></b> All the documents must be translated into Polish or English by a sworn translator.</p>'
         },
@@ -334,6 +344,11 @@ export const lodzuniversityoftechnology = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Lodz University of Technology, Poland - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lodz University of Technology, Poland - Reviews" },
@@ -352,6 +367,11 @@ export const lodzuniversityoftechnology = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Lodz University of Technology, Poland - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -372,6 +392,11 @@ export const lodzuniversityoftechnology = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Lodz University of Technology, Poland - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lodz University of Technology, Poland - Gallery" },
@@ -391,9 +416,14 @@ export const lodzuniversityoftechnology = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Lodz University of Technology, Poland - Scholarship"
+
+        },
+        {
             "type": "text",
             "title": "Scholarships Offered at Lodz University of Technology",
-            "data": "<p><b>Following are the scholarships offered at Lodz University of Technology:</b></p>"
+            "data": "Following are the scholarships offered at Lodz University of Technology:"
         },
         {
             "type": "list-bollet",
@@ -439,6 +469,11 @@ export const lodzuniversityoftechnology = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Lodz University of Technology, Poland - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lodz University of Technology, Poland - Faculty" },
@@ -457,6 +492,11 @@ export const lodzuniversityoftechnology = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Lodz University of Technology, Poland - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -477,9 +517,14 @@ export const lodzuniversityoftechnology = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Lodz University of Technology, Poland - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The Lodz University of Technology offers the student’s housing for international students:</b>",
+            "info": "The Lodz University of Technology offers the student’s housing for international students:",
             "data": [
                 "The university has 9 student dormitories with an excellent atmosphere for living and learning for the students"
             ]
@@ -487,7 +532,7 @@ export const lodzuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Facilities provided at the dormitory:</b>",
+            "info": "Facilities provided at the dormitory:",
             "data": [
                 "Canteen",
                 "Concert Hall",
@@ -517,51 +562,56 @@ export const lodzuniversityoftechnology = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Lodz University of Technology - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Can I pay the administrative fee in dollars?",
-                    "ans": "No. The payments should be done in Euros."
-                },
-                {
-                    "ques": "Q. Is the administrative fee refundable?",
-                    "ans": "No. The administrative charges are non-refundable."
-                },
-                {
-                    "ques": "Q. What should I mention in the cover letter?",
-                    "ans": "You have to mention your name, the statement of purpose and send it to the vice-rector of the respective faculty."
-                },
-                {
-                    "ques": "Q. Can I work part-time during the course of study?",
-                    "ans": "Yes, you can. But, our personal suggestion is that you have to evaluate your time more for studies."
-                },
-                {
-                    "ques": "Q. What is the duration of the mechanical engineering course at the Lodz University of Technology?",
-                    "ans": "The duration of the mechanical engineering course at the Lodz University of Technology is 4 years."
-                }
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Lodz University of Technology, Poland - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Lodz University of Technology, Poland - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/lodz-university-of-technology/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Lodz University of Technology, Poland - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "Lodz University of Technology - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+                "data": [
+                    {
+                        "ques": "Q. Can I pay the administrative fee in dollars?",
+                        "ans": "No. The payments should be done in Euros."
+                    },
+                    {
+                        "ques": "Q. Is the administrative fee refundable?",
+                        "ans": "No. The administrative charges are non-refundable."
+                    },
+                    {
+                        "ques": "Q. What should I mention in the cover letter?",
+                        "ans": "You have to mention your name, the statement of purpose and send it to the vice-rector of the respective faculty."
+                    },
+                    {
+                        "ques": "Q. Can I work part-time during the course of study?",
+                        "ans": "Yes, you can. But, our personal suggestion is that you have to evaluate your time more for studies."
+                    },
+                    {
+                        "ques": "Q. What is the duration of the mechanical engineering course at the Lodz University of Technology?",
+                        "ans": "The duration of the mechanical engineering course at the Lodz University of Technology is 4 years."
+                    }
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Lodz University of Technology, Poland - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Lodz University of Technology, Poland - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/lodz-university-of-technology/faq" }
+                ]
+            }
+        ]
 }
 

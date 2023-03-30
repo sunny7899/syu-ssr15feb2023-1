@@ -1,38 +1,38 @@
-export const cardiffmetropolitanuniversity= {
+export const cardiffmetropolitanuniversity = {
     "Title": "Cardiff Metropolitan University, UK",
     "shortTitle": "Cardiff Metropolitan University",
     "location": "UK",
     "type": "Public",
     "rating": "",
     "shareLink": "",
-    "url":"cardiff-metropolitan-university",
-        "info": [
-            {
-                type: 'title',
-                title: 'Cardiff Metropolitan University, UK'
-            },
+    "url": "cardiff-metropolitan-university",
+    "info": [
         {
-          "type": "text",
-          "title": "",
-          "data": "<p><b>Cardiff Metropolitan University</b> is the top-most university for thousands of students to pursue education in the UK, It traces history back to 1865, with two campuses -Llandaff Campus and Cyncoed Campus. </p><p>The University is an excellent choice for international students choosing to study in the UK whether students are looking for undergraduate and postgraduate programs.</p><p>The college is home to approximately 11,000 students, with over 1200 international students from more than 143 countries.</p><p>Since its development, The institute is providing practice-focused and professionally oriented education, high standard living, affordable fee structure with state of art infrastructure to students coming to pursue their dreams by studying in the UK.</p>"
+            type: 'title',
+            title: 'Cardiff Metropolitan University, UK'
         },
-        
+        {
+            "type": "text",
+            "title": "",
+            "data": "<p><b>Cardiff Metropolitan University</b> is the top-most university for thousands of students to pursue education in the UK, It traces history back to 1865, with two campuses -Llandaff Campus and Cyncoed Campus. </p><p>The University is an excellent choice for international students choosing to study in the UK whether students are looking for undergraduate and postgraduate programs.</p><p>The college is home to approximately 11,000 students, with over 1200 international students from more than 143 countries.</p><p>Since its development, The institute is providing practice-focused and professionally oriented education, high standard living, affordable fee structure with state of art infrastructure to students coming to pursue their dreams by studying in the UK.</p>"
+        },
+
         {
             "type": "table-title",
             "title": "Cardiff Metropolitan University - Quick Highlights 2023",
             "info": "Want to know more about Cardiff Metropolitan University? Before going into deep check out the key information:",
             "row": [
-                     ["University Status","Public"],
-                     ["Campus","2"],
-                     ["Examination","English language proficiency"],
-                     ["Teaching Medium","English"],
-                     ["Tuition Fees (Approx)","Art: £14500 - £15,500<br>Business: £14500 - £15,500<br>Engineering: £14500 - £15,500<br>Law: : £14500 - £15,500"],
-                     ["University Ranking","World - 1821<br>Country - 112"],
-                     ["Course Duration","Art: 1 - 4 years<br>Business: 1 - 5 years<br>Engineering:1 - 5 years<br>Law: 1 - 5 years"],
-                     ["Affiliations","Association of Commonwealth Universities, Wallace Group"]
-                    ]
+                ["University Status", "Public"],
+                ["Campus", "2"],
+                ["Examination", "English language proficiency"],
+                ["Teaching Medium", "English"],
+                ["Tuition Fees (Approx)", "Art: £14500 - £15,500<br>Business: £14500 - £15,500<br>Engineering: £14500 - £15,500<br>Law: : £14500 - £15,500"],
+                ["University Ranking", "World - 1821<br>Country - 112"],
+                ["Course Duration", "Art: 1 - 4 years<br>Business: 1 - 5 years<br>Engineering:1 - 5 years<br>Law: 1 - 5 years"],
+                ["Affiliations", "Association of Commonwealth Universities, Wallace Group"]
+            ]
         },
-          {
+        {
             type: 'list-bollet',
             title: 'Why Choose Cardiff Metropolitan University?',
             info: 'Take a look at the reasons why you should make Cardiff Metropolitan University your first choice:',
@@ -59,9 +59,9 @@ export const cardiffmetropolitanuniversity= {
                 "candidates should have 6.0 in IELTS (5.5 in each area) to pursue Undergraduate and Postgraduate programmes.",
                 "For alternative English qualifications, the college accepts instead of IELTS please <a href=https://www.cardiffmet.ac.uk/international/study/applying/Pages/English-Language-Requirements.aspx target=_blank>click here</a>"
             ],
-            "heading":"<p><b><u>Note:</u></b> Research degrees i.e. MPhil, PhD, Professional Doctorate and Taught Doctorate requires IELTS scores of 6.5 with 6.5 in reading and writing or the equivalent in a UKVI recognised English Language test.</p>"
+            "heading": "<p><b><u>Note:</u></b> Research degrees i.e. MPhil, PhD, Professional Doctorate and Taught Doctorate requires IELTS scores of 6.5 with 6.5 in reading and writing or the equivalent in a UKVI recognised English Language test.</p>"
         },
-        
+
         {
             "type": "table",
             "title": "Cardiff Metropolitan University - Ranking 2023",
@@ -72,18 +72,18 @@ export const cardiffmetropolitanuniversity= {
             ],
             "row": [
                 {
-                  "Country": "112",
-                  "World": "1821",
+                    "Country": "112",
+                    "World": "1821",
                 },
-               
+
             ]
         },
-        
+
         {
             type: 'list-bollet',
             title: 'Accreditations',
             info: 'The Cardiff Metropolitan University was included in the list by acknowledged and major organizations:',
-            data:[
+            data: [
                 "Association of Commonwealth Universities",
                 "Wallace Group"
             ]
@@ -92,81 +92,87 @@ export const cardiffmetropolitanuniversity= {
             type: 'list-bollet',
             title: 'Accomodation',
             info: 'The candidates will get comfy residence halls on Cardiff Metropolitan University:',
-            data:[
+            data: [
                 "Residence halls available on both campuses",
                 "Private halls"
             ]
         },
-          {
-        "type": "table",
-        "title": "Cost of Living in Cardiff",
-        "info":"Cardiff city is an exciting place to study, the students must have a look at monthly basis expenses which may vary according to individual needs:",
-        "col":[ 
-                    "Particulars",
-                    "Approx range in USD",
-                    "Approx range in RS"
-             ],
-        "row": [
-            {
-                "Particulars": "Restaurant",
-                "Approx range in USD": "516 USD",
-                "Approx range in RS": "36,600 Rs"
-            },
-            {
-                "Particulars": "Transportation",
-                "Approx range in USD": "79 USD",
-                "Approx range in RS": "5,600 Rs"
-            },
-            {
-                "Particulars": "Basic (Electricity, Heating, Cooling, Water, Garbage)",
-                "Approx range in USD": "8,804 USD",
-                "Approx range in RS": "6,25,000 Rs"
-            },
-            {
-                "Particulars": "Internet",
-                "Approx range in USD": "1,214 USD",
-                "Approx range in RS": "86,200 Rs"
-            },
-            {
-                "Particulars": "Fitness Club",
-                "Approx range in USD": "2,475 USD",
-                "Approx range in RS": "1,75,700 Rs"
-            },
-            {
-                "Particulars": "Apartment",
-                "Approx range in USD": "27,705 USD",
-                "Approx range in RS": "19,67,000 Rs"
-            }
-        ],
-        "heading":"<p><b><u>Note:</u></b> 1 USD = 71 Rs ( for Calculation Purpose ).</p>"
-    },
-    
-      {
-        type: 'list-bollet',
-        title: 'About Tashkent City',
-        img: 'tashkent-city.jpg',
-        data: "<p>Tashkent is the capital of Uzbekistan lies in the northeastern part of the country. It is the largest city in Central Asia. It is located at an elevation of around 1400 to 1500 feet in the Chirchiq river intersected by a series of canals from the Chirchiq river. The city was acquired by the Arabs at the beginning of the 8th century and later become a part of various Muslim ruling lines in the early 13th century.</p><p>The city has a humid continental climate with very hot summers and cold winters. The average temperature in July is 32°C and the average low temperature in winter is 9°C.</p><p>Today, Tashkent is the cultural and economic center of Central Asia. The city is connected by the various industries including food industries, agricultural industries, textile industries and the number of research establishments. The city has numerous theatres in Uzbek and Russian, including the Navoi Theatre of opera and ballet, several museums, the palace of arts, parks and stadiums.</p>"
-    },
-    { 
-        type:"meta",
-        meta: [
-            { name: "title", content: "Cardiff Metropolitan University, UK" },
-            { name: "description", content: "Founded in 1996 in Wales, Cardiff Metropolitan University is a great option to study in UK. It has a history back to 1865 with 2 campuses and around 11000 students" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "Cardiff Metropolitan University, UK"},
-    { 
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cardiff-metropolitan-university" }
-    ]}
-      
-        
-        
+        {
+            "type": "table",
+            "title": "Cost of Living in Cardiff",
+            "info": "Cardiff city is an exciting place to study, the students must have a look at monthly basis expenses which may vary according to individual needs:",
+            "col": [
+                "Particulars",
+                "Approx range in USD",
+                "Approx range in RS"
+            ],
+            "row": [
+                {
+                    "Particulars": "Restaurant",
+                    "Approx range in USD": "516 USD",
+                    "Approx range in RS": "36,600 Rs"
+                },
+                {
+                    "Particulars": "Transportation",
+                    "Approx range in USD": "79 USD",
+                    "Approx range in RS": "5,600 Rs"
+                },
+                {
+                    "Particulars": "Basic (Electricity, Heating, Cooling, Water, Garbage)",
+                    "Approx range in USD": "8,804 USD",
+                    "Approx range in RS": "6,25,000 Rs"
+                },
+                {
+                    "Particulars": "Internet",
+                    "Approx range in USD": "1,214 USD",
+                    "Approx range in RS": "86,200 Rs"
+                },
+                {
+                    "Particulars": "Fitness Club",
+                    "Approx range in USD": "2,475 USD",
+                    "Approx range in RS": "1,75,700 Rs"
+                },
+                {
+                    "Particulars": "Apartment",
+                    "Approx range in USD": "27,705 USD",
+                    "Approx range in RS": "19,67,000 Rs"
+                }
+            ],
+            "heading": "<p><b><u>Note:</u></b> 1 USD = 71 Rs ( for Calculation Purpose ).</p>"
+        },
+
+        {
+            type: 'list-bollet',
+            title: 'About Tashkent City',
+            img: 'tashkent-city.jpg',
+            data: "<p>Tashkent is the capital of Uzbekistan lies in the northeastern part of the country. It is the largest city in Central Asia. It is located at an elevation of around 1400 to 1500 feet in the Chirchiq river intersected by a series of canals from the Chirchiq river. The city was acquired by the Arabs at the beginning of the 8th century and later become a part of various Muslim ruling lines in the early 13th century.</p><p>The city has a humid continental climate with very hot summers and cold winters. The average temperature in July is 32°C and the average low temperature in winter is 9°C.</p><p>Today, Tashkent is the cultural and economic center of Central Asia. The city is connected by the various industries including food industries, agricultural industries, textile industries and the number of research establishments. The city has numerous theatres in Uzbek and Russian, including the Navoi Theatre of opera and ballet, several museums, the palace of arts, parks and stadiums.</p>"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Cardiff Metropolitan University, UK" },
+                { name: "description", content: "Founded in 1996 in Wales, Cardiff Metropolitan University is a great option to study in UK. It has a history back to 1865 with 2 campuses and around 11000 students" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Cardiff Metropolitan University, UK"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cardiff-metropolitan-university" }
+            ]
+        }
+
+
+
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Cardiff Metropolitan University, UK - courses & Fees"
+        },
         {
             "type": "table",
             "title": "Cardiff Metropolitan University - Program & Course Duration",
@@ -182,44 +188,44 @@ export const cardiffmetropolitanuniversity= {
                 {
                     "Programs": "<b>Electronic and Computer Systems<br>Engineering - BEng / MEng (Hons) Degree</b>",
                     "Type": "Full-Time",
-                    "Duration":"3 Years (BEng) plus 1 year (MEng)",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "3 Years (BEng) plus 1 year (MEng)",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Software Engineering - BSc (Hons)<br>Degree</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>BSc (Hons) Software Engineering<br>(Web Technology)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>BSc (Hons) Software Engineering (Augmented & Virtual Reality)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time Four Years- sandwich placement.<br>5 Years-Full time- Foundation Year and sandwich placement.",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time Four Years- sandwich placement.<br>5 Years-Full time- Foundation Year and sandwich placement.",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>BSc (Hons) Software<br>Engineering (Network Security)/b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>BSc (Hons) Software<br>Engineering (Data Security)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 }
             ],
         },
@@ -238,65 +244,65 @@ export const cardiffmetropolitanuniversity= {
                 {
                     "Programs": "<b>Business & Management - BA (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Business & Management<br>(Entrepreneurship) - BA (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Business & Management (Finance) - BA (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Business & Management (Human Resource Management)<br>- BA (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Business & Management (International Trade) - BA (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Business & Management (Law) - BA (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Business & Management (Marketing) - BA (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Business & Management (Sustainability) - BA (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Business Information Systems - BSc (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years Full-Time or four years Full-Time<br>Four years Full-Time-Foundation year<br>Five years Full-Time-Foundation year with placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 }
             ],
         },
@@ -315,51 +321,51 @@ export const cardiffmetropolitanuniversity= {
                 {
                     "Programs": "<b>Artist Designer: Maker - BA (Hons) Degree</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time<br>Four Years- sandwich placement.",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time<br>Four Years- sandwich placement.",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Fine Art - BA (Hons) Degree</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time<br>Four Years- sandwich placement.",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time<br>Four Years- sandwich placement.",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Animation - BA (Hons) Degree</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time<br>Four Years- sandwich placement.",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time<br>Four Years- sandwich placement.",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Architectural Design & Technology - BSc (Hons) Degree</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time<br>Four Years- sandwich placement.",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time<br>Four Years- sandwich placement.",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Architecture - BA (Hons)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time<br>Four Years- sandwich placement.",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time<br>Four Years- sandwich placement.",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Graphic Communication - BA (Hons) Degree</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time<br>Four Years- sandwich placement.",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time<br>Four Years- sandwich placement.",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>Interior Design - BA (Hons) Degree</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time<br>Four Years- sandwich placement.",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time<br>Four Years- sandwich placement.",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 }
             ],
         },
@@ -378,16 +384,16 @@ export const cardiffmetropolitanuniversity= {
                 {
                     "Programs": "<b>LLB (Hons) Law Degree</b>",
                     "Type": "Full-Time",
-                    "Duration":"3 years or 4 years",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "3 years or 4 years",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 },
                 {
                     "Programs": "<b>BA (Hons) Business & Management (Law)</b>",
                     "Type": "Full-Time",
-                    "Duration":"Three years-Full-Time<br>Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£14,500"
+                    "Duration": "Three years-Full-Time<br>Four Years- sandwich placement<br>5 Years-Full time- Foundation Year and sandwich placement",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£14,500"
                 }
             ],
         },
@@ -406,16 +412,16 @@ export const cardiffmetropolitanuniversity= {
                 {
                     "Programs": "<b>Production Engineering Management Masters</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"12 months Full-Time,br>24 months part-time",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£15,500"
+                    "Duration": "12 months Full-Time,br>24 months part-time",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>Project Management Masters</b>",
                     "Type": "Full-Time",
-                    "Duration":"1 year",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£15,500"
+                    "Duration": "1 year",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£15,500"
                 }
             ],
         },
@@ -434,30 +440,30 @@ export const cardiffmetropolitanuniversity= {
                 {
                     "Programs": "<b>International Business Management Masters</b>",
                     "Type": "Full-Time",
-                    "Duration":"1 year",
-                    "School":"Cardiff School of Management",
-                    "Fees":"£15,500"
+                    "Duration": "1 year",
+                    "School": "Cardiff School of Management",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>LLM International Business - Master of Laws</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1 - 2 year",
-                    "School":"Cardiff School of Management",
-                    "Fees":"£15,500"
+                    "Duration": "1 - 2 year",
+                    "School": "Cardiff School of Management",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>Executive Masters of Business Administration</b>",
                     "Type": "Part-time",
-                    "Duration":"2-3 year",
-                    "School":"Cardiff School of Management",
-                    "Fees":"£15,500"
+                    "Duration": "2-3 year",
+                    "School": "Cardiff School of Management",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>MBA - Master of Business Administration</b>",
                     "Type": "Full-Time",
-                    "Duration":"12- 16 months",
-                    "School":"Cardiff School of Management",
-                    "Fees":"£15,500"
+                    "Duration": "12- 16 months",
+                    "School": "Cardiff School of Management",
+                    "Fees": "£15,500"
                 }
             ],
         },
@@ -476,58 +482,58 @@ export const cardiffmetropolitanuniversity= {
                 {
                     "Programs": "<b>Creative Writing Masters</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1 - 2 year",
-                    "School":"Cardiff School of Education & Social Policy",
-                    "Fees":"£15,500"
+                    "Duration": "1 - 2 year",
+                    "School": "Cardiff School of Education & Social Policy",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>English Literature Masters</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1 - 2 year",
-                    "School":"Cardiff School of Education & Social Policy",
-                    "Fees":"£15,500"
+                    "Duration": "1 - 2 year",
+                    "School": "Cardiff School of Education & Social Policy",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>English Literature and Creative Writing Masters</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1 - 2 year",
-                    "School":"Cardiff School of Education & Social Policy",
-                    "Fees":"£15,500"
+                    "Duration": "1 - 2 year",
+                    "School": "Cardiff School of Education & Social Policy",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>Fashion Design</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1 - 2 year",
-                    "School":"Cardiff School of Education & Social Policy",
-                    "Fees":"£15,500"
+                    "Duration": "1 - 2 year",
+                    "School": "Cardiff School of Education & Social Policy",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>Master of Fine Art (MFA)</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1 - 2 year",
-                    "School":"Cardiff School of Education & Social Policy",
-                    "Fees":"£15,500"
+                    "Duration": "1 - 2 year",
+                    "School": "Cardiff School of Education & Social Policy",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>Global Design</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1 - 2 year",
-                    "School":"Cardiff School of Education & Social Policy",
-                    "Fees":"£15,500"
+                    "Duration": "1 - 2 year",
+                    "School": "Cardiff School of Education & Social Policy",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>Art & Design</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1 - 2 year",
-                    "School":"Cardiff School of Education & Social Policy",
-                    "Fees":"£15,500"
+                    "Duration": "1 - 2 year",
+                    "School": "Cardiff School of Education & Social Policy",
+                    "Fees": "£15,500"
                 },
                 {
                     "Programs": "<b>Master of Fine Art (MFA)</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1 - 2 year",
-                    "School":"Cardiff School of Education & Social Policy",
-                    "Fees":"£15,500"
+                    "Duration": "1 - 2 year",
+                    "School": "Cardiff School of Education & Social Policy",
+                    "Fees": "£15,500"
                 }
             ],
         },
@@ -546,9 +552,9 @@ export const cardiffmetropolitanuniversity= {
                 {
                     "Programs": "<b>LM International Business - Master of Laws</b>",
                     "Type": "Full-Time<br>Part-time",
-                    "Duration":"1-2 year",
-                    "School":"Cardiff School of Art & Design",
-                    "Fees":"£15,500"
+                    "Duration": "1-2 year",
+                    "School": "Cardiff School of Art & Design",
+                    "Fees": "£15,500"
                 }
             ],
         },
@@ -558,11 +564,11 @@ export const cardiffmetropolitanuniversity= {
             "info": "The college offers varieties of courses in various schools for the students looking to study in the Uk:",
             "colTitle": "",
             "row": [
-                ["Sport Sciences Technologies","Art Design","Education Social Policy Management"]
+                ["Sport Sciences Technologies", "Art Design", "Education Social Policy Management"]
             ]
         },
-        
-       
+
+
         {
             type: "meta",
             meta: [
@@ -582,7 +588,10 @@ export const cardiffmetropolitanuniversity= {
         }
     ],
     "admission": [
-        
+        {
+            type: 'title',
+            title: "Cardiff Metropolitan University, UK - Admission 2023"
+        },
         {
             "type": "step-list",
             "title": "How to Apply at the Cardiff Metropolitan University?",
@@ -627,7 +636,7 @@ export const cardiffmetropolitanuniversity= {
                 "Invitation letter",
             ]
         },
-        
+
         {
             type: "meta",
             meta: [
@@ -648,6 +657,10 @@ export const cardiffmetropolitanuniversity= {
     ],
     "Reviews": [
         {
+            type: 'title',
+            title: "Cardiff Metropolitan University, UK - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cardiff Metropolitan University, UK - Reviews" },
@@ -666,8 +679,10 @@ export const cardiffmetropolitanuniversity= {
         }
     ],
     "Placement": [
-        
-        
+        {
+            type: 'title',
+            title: "Cardiff Metropolitan University, UK - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -688,6 +703,10 @@ export const cardiffmetropolitanuniversity= {
     ],
     "Gallery": [
         {
+            type: 'title',
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cardiff Metropolitan University, UK - Gallery" },
@@ -706,7 +725,10 @@ export const cardiffmetropolitanuniversity= {
         }
     ],
     "Scholarship": [
-       
+        {
+            type: 'title',
+            title: "Cardiff Metropolitan University, UK - Scholarship"
+        },
         {
             "type": "table",
             "title": "International Scholarships",
@@ -720,37 +742,37 @@ export const cardiffmetropolitanuniversity= {
                 {
                     "Scholarships": "<b>Alumni scholarship</b>",
                     "Course": "undergraduate",
-                    "Award":"25% reduction in fees"
+                    "Award": "25% reduction in fees"
                 },
                 {
                     "Scholarships": "<b>MBA Scholarship</b>",
                     "Course": "Undergraduate",
-                    "Award":"Award Up to £1,500<br>Based on academic and/or professional, evidenced work experience"
+                    "Award": "Award Up to £1,500<br>Based on academic and/or professional, evidenced work experience"
                 },
                 {
                     "Scholarships": "<b>Vice-Chancellor Scholarship</b>",
                     "Course": "undergraduate",
-                    "Award":"Award Up to £1,500<br>Awarded to a number of MA and MSc courses based on academic and/or professional, evidenced work experience"
+                    "Award": "Award Up to £1,500<br>Awarded to a number of MA and MSc courses based on academic and/or professional, evidenced work experience"
                 },
                 {
                     "Scholarships": "<b>South East Asia Scholarship</b>",
                     "Course": "undergraduate",
-                    "Award":"Award of 50% tuition fees<br>South East Asia students are eligible<br>Based on an application and interview."
+                    "Award": "Award of 50% tuition fees<br>South East Asia students are eligible<br>Based on an application and interview."
                 },
                 {
                     "Scholarships": "<b>Cardiff Met Sanctuary Award</b>",
                     "Course": "Undergraduate and Postgraduate",
-                    "Award":"Students with irregular migration status, seeking sanctuary in the UK."
+                    "Award": "Students with irregular migration status, seeking sanctuary in the UK."
                 },
                 {
                     "Scholarships": "<b>Global Wales Postgraduate Scholarship</b>",
                     "Course": "Masters programme",
-                    "Award":"£3,000 scholarships"
+                    "Award": "£3,000 scholarships"
                 },
                 {
                     "Scholarships": "<b>President's International Scholarship</b>",
                     "Course": "Undergraduate",
-                    "Award":"Award of £10,000<br>Students from India, Vietnam, USA and the European Union"
+                    "Award": "Award of £10,000<br>Students from India, Vietnam, USA and the European Union"
                 }
             ],
         },
@@ -774,7 +796,10 @@ export const cardiffmetropolitanuniversity= {
         }
     ],
     "Faculty": [
-
+        {
+            type: 'title',
+            title: "Cardiff Metropolitan University, UK - Faculty"
+        },
         {
             "type": "table",
             "title": "",
@@ -822,6 +847,10 @@ export const cardiffmetropolitanuniversity= {
     ],
     "News": [
         {
+            type: 'title',
+            title: "Cardiff Metropolitan University, UK - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cardiff Metropolitan University, UK - News & Articles" },
@@ -841,6 +870,10 @@ export const cardiffmetropolitanuniversity= {
     ],
     "Hostel": [
         {
+            type: 'title',
+            title: "Cardiff Metropolitan University, UK - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Accomodation",
             "info": "The candidates will get comfy residence halls on Cardiff Metropolitan University:",
@@ -849,7 +882,7 @@ export const cardiffmetropolitanuniversity= {
                 "Private halls",
             ]
         },
-        
+
         {
             type: "meta",
             meta: [
@@ -869,6 +902,10 @@ export const cardiffmetropolitanuniversity= {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Cardiff Metropolitan University, UK - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Cardiff Metropolitan University - Important FAQs",

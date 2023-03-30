@@ -19,7 +19,7 @@ export const heidelberguniversity = {
         {
             "type": "table-title",
             "title": "Heidelberg University - Quick Highlights",
-            "info": "<b>The table shows the quick responses about the Heidelberg University essential for international applicants:</b>",
+            "info": "The table shows the quick responses about the Heidelberg University essential for international applicants:",
             "col": [],
             "row": [
                 ["<b>Intake</b>", "May"],
@@ -36,7 +36,7 @@ export const heidelberguniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study at Heidelberg University?",
-            "info": "<b>Some of the interesting facts which clearly interests to study engineering in Germany about the HU:</b>",
+            "info": "Some of the interesting facts which clearly interests to study engineering in Germany about the HU:",
             "data": [
                 "The University of Heidelberg is Germany’s oldest university with successfully maintaining its diversity, educational standards, and quality of research education.",
                 "The University is affiliated and accredited with the various global associations and members of prestigious Germany’s technical associations.",
@@ -58,7 +58,7 @@ export const heidelberguniversity = {
         {
             "type": "table",
             "title": "Heidelberg University - Ranking 2022",
-            "info": "<b>Find the latest World and Country rankings of the Heidelberg University according to Unirank:</b>",
+            "info": "Find the latest World and Country rankings of the Heidelberg University according to Unirank:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -73,7 +73,7 @@ export const heidelberguniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation",
-            "info": "<b>Following are the accreditation allotted to the University:</b> <br>The Heidelberg University of Germany is officially accredited by the following:",
+            "info": "Following are the accreditation allotted to the University:</b> <br>The Heidelberg University of Germany is officially accredited by the follow",
             "data": [
                 "Accredited by the Min. of Arts, Research and Science of the state of Baden-Wurttemberg.",
                 "The Heidelberg University are the members of the following unions and affiliated officially by some of the below organizations:",
@@ -90,7 +90,7 @@ export const heidelberguniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living of Heidelberg city is mentioned in the table:</b>",
+            "info": "The cost of living of Heidelberg city is mentioned in the table:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -124,7 +124,7 @@ export const heidelberguniversity = {
                     "Approx Range in RS": "Rs. 10000 - Rs. 25000"
                 },
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1 USD = 70 Rs (approx)</p>'
+            heading: '<p><b><u>Note:</u></b> 1 USD = 70 Rs (approx)</p>'
         },
         {
             type: "meta",
@@ -145,6 +145,10 @@ export const heidelberguniversity = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Heidelberg University, Germany - courses & Fees"
+        },
         {
             "type": "text",
             "title": "Heidelberg University - Fee Structure",
@@ -290,9 +294,13 @@ export const heidelberguniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Heidelberg University, Germany - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b> Bachelor in Engineering</b>",
+            "info": "Bachelor in Engineering",
             "data": [
                 "The Applicant must have passed High School secondary or diploma in a related area for the BSc engineering in German universities.",
                 "The applicant should have a good percentile to increase its chances of securing a seat at Heidelberg University BSc programs. "
@@ -301,7 +309,7 @@ export const heidelberguniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b> Master in Engineering</b>",
+            "info": "Master in Engineering",
             "data": [
                 "The Applicant must have passed High School secondary or diploma in a related area for the MSc engineering in German universities.",
                 "The applicant should have a good percentile to increase its chances of securing a seat at Heidelberg University MSc programs.",
@@ -311,7 +319,7 @@ export const heidelberguniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Bachelor in Engineering</b>',
+            info: 'Bachelor in Engineering',
             data: [
                 "Step 1: The first step, in general, is to take the proper consultation about the University and its undergraduate courses, then go for the particular desired program in the selected faculty and department.",
                 "Step 2: The application form to be filled after selecting the desired course, but must select the form from the international applicant variant or Non-EU.",
@@ -323,7 +331,7 @@ export const heidelberguniversity = {
         {
             type: 'step-list',
             title: '',
-            info: '<b>Master in Engineering</b>',
+            info: 'Master in Engineering',
             data: [
                 "Step 1: The first step, in general, is to take the proper consultation about the University and its courses, then go for the particular desired program in the selected faculty and department.",
                 "Step 2: The application form to be filled after selecting the desired course, but must select the form from the international applicant variant or Non-EU.",
@@ -336,7 +344,7 @@ export const heidelberguniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Bachelor in Engineering</b>",
+            "info": "Bachelor in Engineering",
             "data": [
                 "Application form",
                 "Writing Certificates",
@@ -355,7 +363,7 @@ export const heidelberguniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Academic Documents</b>",
+            "info": "Academic Documents",
             "data": [
                 "High School Secondary Certificates (10+2)",
                 "Diploma certificates (in case)"
@@ -364,7 +372,7 @@ export const heidelberguniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master in Engineering</b>",
+            "info": "Master in Engineering",
             "data": [
                 "Application form",
                 "Writing Certificates",
@@ -384,7 +392,7 @@ export const heidelberguniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Academic Documents:</b>",
+            "info": "Academic Documents:",
             "data": [
                 "High School Secondary Certificates (10+2)",
                 "Diploma certificates (in case)",
@@ -395,7 +403,7 @@ export const heidelberguniversity = {
         {
             "type": "table",
             "title": "Language Requirement",
-            "info": "<b>The table shows the details about different language exams and their criteria for admission to Heidelberg University:</b>",
+            "info": "The table shows the details about different language exams and their criteria for admission to Heidelberg University:",
             "col": [
                 "Scores/Exams",
                 "TOEFL",
@@ -440,6 +448,10 @@ export const heidelberguniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Heidelberg University, Germany - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Heidelberg University, Germany - Reviews" },
@@ -459,8 +471,12 @@ export const heidelberguniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Heidelberg University, Germany - Placement"
+        },
+        {
             "type": "table",
-            "title": "placement",
+            "title": "Placement",
             "info": "",
             "col": [
                 "Programme",
@@ -505,6 +521,10 @@ export const heidelberguniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Heidelberg University, Germany - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Heidelberg University, Germany - Gallery" },
@@ -524,9 +544,13 @@ export const heidelberguniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Heidelberg University, Germany - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships that are provided at the Heidelberg University are as follows:</b>",
+            "info": "The scholarships that are provided at the Heidelberg University are as follows:",
             "data": [
                 "DeutschlandStipendum",
                 "German Chancellor Fellowship",
@@ -553,6 +577,10 @@ export const heidelberguniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Heidelberg University, Germany - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Heidelberg University, Germany - Faculty" },
@@ -571,6 +599,10 @@ export const heidelberguniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Heidelberg University, Germany - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -591,9 +623,14 @@ export const heidelberguniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Heidelberg University, Germany - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The details about the hostel or dormitories for the Heidelberg University students are mentioned below and full assistance is provided by the University for this:</b> <br>1 On-Campus Accommodation",
+            "info": "The details about the hostel or dormitories for the Heidelberg University students are mentioned below and full assistance is provided by the University for this:",
+            "textBelowInfo": "1 On-Campus Accommodation",
             "data": [
                 "On-campus and off-campus accommodation facilities are both available.",
                 "While on-campus is for the limited students of the Heidelberg University, as a number of students enrolling in this place are in huge quota.",
@@ -619,10 +656,10 @@ export const heidelberguniversity = {
             "title": "",
             "info": "",
             "data": [
-              "Hostel",
-              "Kitchen",
-              "Restaurants",
-              "Cafeteria"
+                "Hostel",
+                "Kitchen",
+                "Restaurants",
+                "Cafeteria"
             ]
         },
         {
@@ -645,9 +682,13 @@ export const heidelberguniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Heidelberg University, Germany - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Heidelberg University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the reason for the global popularity of Heidelberg University?",

@@ -20,7 +20,7 @@ export const universityofgloucestershire = {
         {
             "type": "table-title",
             "title": "University of Gloucestershire - Key Highlights",
-            "info": "<b>Find out everything you need to know before applying for undergraduate and postgraduate programs at this place:</b>",
+            "info": "Find out everything you need to know before applying for undergraduate and postgraduate programs at this place:",
             "row": [
                 ["<b>Foundation Year</b>", "2001"],
                 ["<b>University Type</b>", "Public"],
@@ -38,7 +38,7 @@ export const universityofgloucestershire = {
         {
             type: 'list-bollet',
             title: 'Advantages to Study at the University of Gloucestershire',
-            info: '<b>There is a long list of topmost reasons for pursuing a degree at the University of Gloucestershire, Below, you can find some of the many perks and benefits:</b>',
+            info: 'There is a long list of topmost reasons for pursuing a degree at the University of Gloucestershire, Below, you can find some of the many perks and benefits:',
             data: [
                 "The college has student help zones on each campus and the students can receive any advice, support and assistance during education.",
                 "Your Future Plan team provides personalised careers and employability support, to develop the skills and confidence.",
@@ -55,7 +55,7 @@ export const universityofgloucestershire = {
         {
             "type": "table",
             "title": "University of Gloucestershire Ranking 2021",
-            "info": "<b>The University of Gloucestershire is the right choice for higher education, Check out the table to know about rankings:</b>",
+            "info": "The University of Gloucestershire is the right choice for higher education, Check out the table to know about rankings:",
             "col": [
                 "Country",
                 "World",
@@ -71,7 +71,7 @@ export const universityofgloucestershire = {
         {
             type: 'list-bollet',
             title: 'Affiliations',
-            info: '<b>The University of Gloucestershire is the right destination for education as all of the undergraduate and postgraduate degrees has official recognition:</b>',
+            info: 'The University of Gloucestershire is the right destination for education as all of the undergraduate and postgraduate degrees has official recognition:',
             data: [
                 "ERASMUS",
                 "BCA",
@@ -81,7 +81,7 @@ export const universityofgloucestershire = {
         {
             type: 'list-bollet',
             title: 'Research Priority Areas',
-            info: '<b>Have a look at 6 Research Priority Areas provided by the University of Gloucestershire:</b>',
+            info: 'Have a look at 6 Research Priority Areas provided by the University of Gloucestershire:',
             data: [
                 "Sport, Exercise, Health & Wellbeing",
                 "Environmental Dynamics & Governance",
@@ -94,7 +94,7 @@ export const universityofgloucestershire = {
         {
             "type": "table-title",
             "title": "What are the Facilities provided in University of Gloucestershire?",
-            "info": "<b>Students will experience the standard facilities while pursuing education at the University of Gloucestershire:</b>",
+            "info": "Students will experience the standard facilities while pursuing education at the University of Gloucestershire:",
             "row": [
                 ["Internet", "Security"],
                 ["Educational equipment", "Canteen"],
@@ -106,7 +106,7 @@ export const universityofgloucestershire = {
         {
             "type": "table",
             "title": "Living Cost of Gloucestershire, England",
-            "info": "<b>Choosing to study in the UK,Gloucestershire city, South West of England is a great place to live to be a student:</b>",
+            "info": "Choosing to study in the UK,Gloucestershire city, South West of England is a great place to live to be a student:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -166,6 +166,10 @@ export const universityofgloucestershire = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - courses & Fees'
+        },
         {
             "type": "table",
             "title": "University of Gloucestershire - Program & Course Duration",
@@ -541,7 +545,7 @@ export const universityofgloucestershire = {
         {
             "type": "table-title",
             "title": "Academic Programs in University of Gloucestershire",
-            "info": "<b>Near about 100 programs are available across a variety of subject areas:</b>",
+            "info": "Near about 100 programs are available across a variety of subject areas:",
 
             "row": [
 
@@ -552,11 +556,8 @@ export const universityofgloucestershire = {
                 ["Law", "Marketing"],
                 ["Music and Media", "Natural and Social Sciences"],
                 ["Performing Arts", "Sport and Exercise"]
-
-
             ]
         },
-
         {
             type: "meta",
             meta: [
@@ -577,23 +578,27 @@ export const universityofgloucestershire = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - Admission 2023'
+        },
+        {
             "type": 'text',
             "title": 'Eligibility Criteria',
-            "info": '<b>The UK has been one of the top preferred destinations for international students to pursue education. If you want to study at the University of Gloucestershire, check the eligibility criteria mentioned below:</b>',
-            "textBelowInfo": "<b>Undergraduate</b><p>The applicants must have a Higher Secondary Certificate/Indian School Certificate/Standard XII with a minimum score of 65% from ICSE and CBSE boards. Complete a recognised foundation course.</p>",
+            "info": 'The UK has been one of the top preferred destinations for international students to pursue education. If you want to study at the University of Gloucestershire, check the eligibility criteria mentioned below:',
+            "textBelowInfo": "Undergraduate<p>The applicants must have a Higher Secondary Certificate/Indian School Certificate/Standard XII with a minimum score of 65% from ICSE and CBSE boards. Complete a recognised foundation course.</p>",
             "heading": "<p><b>Note: </b>some courses may require higher eligibility criteria, The students are advised to check the course page, and/or conditions given in the invitation letter.</p>"
         },
         {
             "type": 'text',
             "title": '',
             "info": '',
-            "textBelowInfo": "<b>Postgraduate (Taught)</b><p>The candidates should have completed a 3 or 4 year bachelor degree with a minimum score of 55-60% from a recognised university.</p>",
+            "textBelowInfo": "Postgraduate (Taught)<p>The candidates should have completed a 3 or 4 year bachelor degree with a minimum score of 55-60% from a recognised university.</p>",
             "heading": "<p><b>Note: </b>some courses may require higher eligibility criteria, The students are advised to check the course page, and/or conditions given in the invitation letter.</p>"
         },
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>Postgraduate research (PhD / Professional Doctorate)</b>',
+            "info": 'Postgraduate research (PhD / Professional Doctorate)',
             "data": [
                 "Individuals should complete a 3 or 4-year bachelor degree with a minimum of 55-60% from a recognised university.",
                 "To study Doctorate and PhD, the students should complete a master’s degree with good grades in a related subject field or hold work experience. Some courses may require work experience and/or a strong work portfolio.",
@@ -603,7 +608,7 @@ export const universityofgloucestershire = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>English Language Criteria</b>',
+            "info": 'English Language Criteria',
             "data": [
                 "International students must achieve one of the qualifications mentioned in the link below.",
                 "All of the qualifications accepted are based on their equivalence to the UKVI IELTS (Academic) test.",
@@ -612,7 +617,7 @@ export const universityofgloucestershire = {
         {
             "type": 'list-bollet',
             "title": 'How to Apply at the University of Gloucestershire?',
-            "info": '<b>Undergraduate</b>',
+            "info": 'Undergraduate',
             "data": [
                 "The candidates must choose the course of choice for admission in undergraduate programmes.",
                 "The students need to go through the course page and country page to check the English Language requirements.",
@@ -629,7 +634,7 @@ export const universityofgloucestershire = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>Postgraduate</b>',
+            "info": 'Postgraduate',
             "data": [
                 "The candidates must choose the course of choice for admission in undergraduate programmes.",
                 "The students need to go through the course page and country page to check the English Language requirements",
@@ -641,7 +646,7 @@ export const universityofgloucestershire = {
         {
             "type": 'list-bollet',
             "title": 'Documents Required in University of Gloucestershire',
-            "info": '<b>Important documents are mandatory to be submitted by the candidate at the time of admission, The university will cross-verify the documents to approve admission:</b>',
+            "info": 'Important documents are mandatory to be submitted by the candidate at the time of admission, The university will cross-verify the documents to approve admission:',
             "data": [
                 "Application form",
                 "Higher secondary education certificates",
@@ -683,6 +688,10 @@ export const universityofgloucestershire = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Gloucestershire, UK - Reviews" },
@@ -701,6 +710,10 @@ export const universityofgloucestershire = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - Placement'
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -753,6 +766,10 @@ export const universityofgloucestershire = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Gloucestershire, UK - Gallery" },
@@ -772,9 +789,13 @@ export const universityofgloucestershire = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - Scholarship'
+        },
+        {
             "type": "table",
             "title": "University of Gloucestershire Scholarships",
-            "info": "<b>International Scholarships are available to assist students financially during study time:</b>",
+            "info": "International Scholarships are available to assist students financially during study time:",
             "col": [
                 "Scholarships",
                 "Information",
@@ -821,6 +842,10 @@ export const universityofgloucestershire = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -872,6 +897,10 @@ export const universityofgloucestershire = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Gloucestershire, UK - News & Articles" },
@@ -891,9 +920,13 @@ export const universityofgloucestershire = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - Hostel'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel and Accommodation',
-            "info": '<b>During studies all the students are provided with comfortable living places in student accommodation near to educational buildings:</b>',
+            "info": 'During studies all the students are provided with comfortable living places in student accommodation near to educational buildings:',
             "data": [
                 "The student can live in halls of residence in Cheltenham and Gloucester or university-approved private housing and lodgings.",
                 "It offers nearly 1,380 rooms in halls of residence and many university-managed shared flats and houses in Cheltenham and Gloucester.",
@@ -905,7 +938,7 @@ export const universityofgloucestershire = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Cheltenham halls of residence -</b>",
+            "info": "Cheltenham halls of residence -",
 
             "row": [
                 ["Pittville Student Village", "Park Challinor"],
@@ -915,7 +948,7 @@ export const universityofgloucestershire = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Gloucester halls of residence -</b>",
+            "info": "Gloucester halls of residence -",
 
             "row": [
                 ["Blackfriars", "Oxstalls halls"],
@@ -941,6 +974,10 @@ export const universityofgloucestershire = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'University of Gloucestershire, UK - FAQ'
+        },
         {
             "type": "question-list",
             "title": "FAQs for University of Gloucestershire",

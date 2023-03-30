@@ -20,7 +20,7 @@ export const royalcollegeofart
         {
             "type": "table-title",
             "title": "Royal College of Art - Quick Highlights",
-            "info": "<b>Know the fact files of this college from the table below</b>",
+            "info": "Know the fact files of this college from the table below",
             "col": [],
             "row": [
                 ["<b>Intake for Course</b>", "January, July, September"],
@@ -37,7 +37,7 @@ export const royalcollegeofart
         {
             "type": "list-bollet",
             "title": "Why Choose Royal College of Art?",
-            "info": "<b>From the points below know the advantages of getting enrolled in this college</b>",
+            "info": "From the points below know the advantages of getting enrolled in this college",
             "data": [
                 "The college has an exclusive panel of trained professors who are highly successful in their respective areas of teaching.",
                 "The professors lend personal support to the students, helping them achieve their aim.",
@@ -55,7 +55,7 @@ export const royalcollegeofart
         {
             "type": "list-bollet",
             "title": "Facilities offered at Royal College of Art",
-            "info": "<b>The college is quite famous among students for the facilities it offers</b>",
+            "info": "The college is quite famous among students for the facilities it offers",
             "data": [
                 "Classrooms",
                 "Art Studios",
@@ -67,7 +67,7 @@ export const royalcollegeofart
         {
             "type": "list-bollet",
             "title": "Recognitions and Accreditations",
-            "info": "<b>The college is widely recognized and accredited</b>",
+            "info": "The college is widely recognized and accredited",
             "data": [
                 "The college is recognized by UGC /(under Section 2 (f) and 12B in May 1999",
                 "It is officially recognized/chartered by The Privy Council"
@@ -76,7 +76,7 @@ export const royalcollegeofart
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The college instructs the courses in the English Language</b>",
+            "info": "The college instructs the courses in the English Language",
             "data": [
                 "The college teaches the study programs in the English language.",
                 "The English language is chosen to help students converse efficiently. Also, it makes them express verbally and orally in a better way.",
@@ -86,7 +86,7 @@ export const royalcollegeofart
         {
             "type": "table",
             "title": "Royal College of Art - Ranking 2021",
-            "info": "<b>Stay updated with the college’s current world & country rankings</b>",
+            "info": "Stay updated with the college’s current world & country rankings",
             "col": [
                 "Country",
                 "World"
@@ -101,7 +101,7 @@ export const royalcollegeofart
         {
             "type": "table",
             "title": "Living Expenses in London, UK",
-            "info": "<b>The given table below will give an insight about the approximate basic expenditures of living in this city</b>",
+            "info": "The given table below will give an insight about the approximate basic expenditures of living in this city",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -119,7 +119,7 @@ export const royalcollegeofart
                     "EApprox Range in Rs": "Rs 8, 600"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> $1: 74 INR (It may vary)</p> <p>A single persons estimated monthly costs are 86,278 $ (860£) without rent and tuition fees.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> $1: 74 INR (It may vary)</p> <p>A single persons estimated monthly costs are 86,278 $ (860£) without rent and tuition fees.</p>'
         },
         {
             type: "meta",
@@ -141,6 +141,10 @@ export const royalcollegeofart
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Royal College of Art, UK - courses & Fees'
+        },
+        {
             type: 'text',
             title: 'Royal College of Art - Fee structure & Course Duration',
             info: '',
@@ -149,7 +153,7 @@ export const royalcollegeofart
         {
             "type": "table",
             "title": "Pre-Master’s",
-            "info": "<b>Know the course duration and fees of the different courses from the table below:</b>",
+            "info": "Know the course duration and fees of the different courses from the table below:",
             "col": [
                 "Course",
                 "Course Duration",
@@ -166,12 +170,12 @@ export const royalcollegeofart
                     "Awards": "Graduate Diploma"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> New Entrants to the college for MA, MRes, Mphil and Ph.D. degrees are required to pay a non-refundable deposit as given above to secure their seats.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> New Entrants to the college for MA, MRes, Mphil and Ph.D. degrees are required to pay a non-refundable deposit as given above to secure their seats.</p>'
         },
         {
             "type": "table",
             "title": "Taught Master’s",
-            "info": "<b>Check out the table to know the list of Taught Master’s Courses </b>",
+            "info": "Check out the table to know the list of Taught Master’s Courses ",
             "col": [
                 "Course",
                 "Course Duration",
@@ -396,7 +400,7 @@ export const royalcollegeofart
         {
             "type": "table",
             "title": "Postgraduate Research",
-            "info": "<b>The university offers postgraduate research courses as given below:</b>",
+            "info": "The university offers postgraduate research courses as given below:",
             "col": [
                 "Course",
                 "Course Duration",
@@ -455,12 +459,12 @@ export const royalcollegeofart
                     "Awards": "MPhil/Ph.D"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> New Entrants to the college for MA, MRes, Mphil and Ph.D. degrees are required to pay a non-refundable deposit as given above to secure their seats</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> New Entrants to the college for MA, MRes, Mphil and Ph.D. degrees are required to pay a non-refundable deposit as given above to secure their seats</p>'
         },
         {
             "type": "table",
             "title": "Short Course",
-            "info": "<b>To know about the short courses, check the table below</b>",
+            "info": "To know about the short courses, check the table below",
             "col": [
                 "Course",
                 "Course Duration",
@@ -589,7 +593,7 @@ export const royalcollegeofart
                     "Awards": "Short Course"
                 },
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> New Entrants to the college for MA, MRes, Mphil and Ph.D. degrees are required to pay a non-refundable deposit as given above to secure their seats.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> New Entrants to the college for MA, MRes, Mphil and Ph.D. degrees are required to pay a non-refundable deposit as given above to secure their seats.</p>'
         },
         {
             type: "meta",
@@ -611,9 +615,13 @@ export const royalcollegeofart
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Royal College of Art, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Stay updated with the basic criterias needed to get admission at this college</b>",
+            "info": "Stay updated with the basic criterias needed to get admission at this college",
             "data": [
                 "English Proficiency test score is mandatory. (6.5 in IELTS with 6.0 in Written English test.",
                 "Must have portfolios showcasing candidates' set of skills relevant to the subject they choose to major in.",
@@ -626,7 +634,7 @@ export const royalcollegeofart
         {
             "type": "text",
             "title": "Admission Process",
-            "info": "<b>Know the in-detail admission process at this college</b>",
+            "info": "Know the in-detail admission process at this college",
             "data": [
                 "Step 1: Create an account on application portal, apply online",
                 "Step 2: Once the application gets shortlisted, submit the notarized copy of the required documents. All the documents must be translated in English.",
@@ -638,7 +646,7 @@ export const royalcollegeofart
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Note down the list of documents required during the enrollment process</b>",
+            "info": "Note down the list of documents required during the enrollment process",
             "data": [
                 "Work portfolios",
                 "TB Certificate",
@@ -671,7 +679,7 @@ export const royalcollegeofart
         {
             "type": "table",
             "title": "Royal College of Art - Academic Calendar 2022",
-            "info": "<b>Do not miss out on the important dates of this college</b>",
+            "info": "Do not miss out on the important dates of this college",
             "col": [
                 "Events",
                 "Dates"
@@ -711,6 +719,10 @@ export const royalcollegeofart
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Royal College of Art, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Royal College of Art, UK - Reviews" },
@@ -729,6 +741,10 @@ export const royalcollegeofart
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Royal College of Art, UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -758,6 +774,10 @@ export const royalcollegeofart
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Royal College of Art, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Royal College of Art, UK - Gallery" },
@@ -777,9 +797,13 @@ export const royalcollegeofart
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Royal College of Art, UK - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>From the below given information know the scholarships offered by the college</b>",
+            "info": "From the below given information know the scholarships offered by the college",
             "data": [
                 "Liu Ling Scholarships for MA Service Design only. The scholarship is available for International Students.",
                 "Value of the scholarship: One full tuition fee scholarship and a living cost stipend of EUR 12,000 per year.",
@@ -805,6 +829,10 @@ export const royalcollegeofart
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Royal College of Art, UK - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -856,6 +884,10 @@ export const royalcollegeofart
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Royal College of Art, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Royal College of Art, UK - News & Articles" },
@@ -875,9 +907,13 @@ export const royalcollegeofart
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Royal College of Art, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The college provides off-campus accommodations to the enrolled students </b>",
+            "info": "The college provides off-campus accommodations to the enrolled students ",
             "data": [
                 "The college does not have on-campus accommodation for the students but it gives access to the University of London Housing service.",
                 "This housing service will suggest students with fair accommodation and housing.",
@@ -908,6 +944,10 @@ export const royalcollegeofart
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Royal College of Art, UK - FAQ'
+        },
         {
             "type": "question-list",
             "title": "Royal College of Art - Important FAQs",
