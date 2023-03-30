@@ -14,37 +14,38 @@
   margin-left: 40%;
   padding: 50px;
   margin-top: 1.5%;
-  --border-size: 3px;
-  --border-angle: 0turn;
+//   --border-size: 3px;
+//   --border-angle: 0turn;
 
-  background-image: conic-gradient(from var(--border-angle),
-      rgb(238, 233, 243),
-      rgb(232, 232, 240) 50%,
-      rgb(243, 241, 245)),
-    conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
-  background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
-    cover;
-  background-position: center center;
-  background-repeat: no-repeat;
+//   background-image: conic-gradient(from var(--border-angle),
+//       rgb(238, 233, 243),
+//       rgb(232, 232, 240) 50%,
+//       rgb(243, 241, 245)),
+//     conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+//   background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
+//     cover;
+//   background-position: center center;
+//   background-repeat: no-repeat;
 
-  animation: bg-spin 3s linear infinite;
+//   animation: bg-spin 3s linear infinite;
 
-  @keyframes bg-spin {
-    to {
-      --border-angle: 1turn;
-    }
-  }
+//   @keyframes bg-spin {
+//     to {
+//       --border-angle: 1turn;
+//     }
+//   }
 
-  &:hover {
-    animation-play-state: paused;
-  }
-}
+//   &:hover {
+//     animation-play-state: paused;
+//   }
+// }
 
-@property --border-angle {
-  syntax: "<angle>";
-  inherits: true;
-  initial-value: 0turn;
+// @property --border-angle {
+//   syntax: "<angle>";
+//   inherits: true;
+//   initial-value: 0turn;
 
+// }
 }
 
 svg {
@@ -82,41 +83,42 @@ label {
 }
 
 .form-card {
-  background-color: white;
+  background-color: #d7d4d4;
   padding: 20px;
   line-height: 97%;
   margin-top: 1.5%;
-  --border-size: 3px;
-  --border-angle: 0turn;
-
-  background-image: conic-gradient(from var(--border-angle),
-      rgb(238, 233, 243),
-      rgb(232, 232, 240) 50%,
-      rgb(243, 241, 245)),
-    conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
-  background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
-    cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-
-  animation: bg-spin 3s linear infinite;
-
-  @keyframes bg-spin {
-    to {
-      --border-angle: 1turn;
-    }
-  }
-
-  &:hover {
-    animation-play-state: paused;
-  }
 }
+//   --border-size: 3px;
+//   --border-angle: 0turn;
 
-@property --border-angle {
-  syntax: "<angle>";
-  inherits: true;
-  initial-value: 0turn;
-}
+//   background-image: conic-gradient(from var(--border-angle),
+//       rgb(238, 233, 243),
+//       rgb(232, 232, 240) 50%,
+//       rgb(243, 241, 245)),
+//     conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+//   background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
+//     cover;
+//   background-position: center center;
+//   background-repeat: no-repeat;
+
+//   animation: bg-spin 3s linear infinite;
+
+//   @keyframes bg-spin {
+//     to {
+//       --border-angle: 1turn;
+//     }
+//   }
+
+//   &:hover {
+//     animation-play-state: paused;
+//   }
+// }
+
+// @property --border-angle {
+//   syntax: "<angle>";
+//   inherits: true;
+//   initial-value: 0turn;
+// }
 
 .form-head {
   color: #0b4292;
@@ -185,7 +187,7 @@ input.form-control:focus {
 }
 
 .submit {
-  margin-top: 0;
+  margin-top: -2%;
   background: #ffae47;
   color: white;
   font-weight: bold;
@@ -266,7 +268,7 @@ input.form-control:focus {
 }
 
 .form-card {
-  background-color: white;
+  background-color: #d7d4d4;
   padding: 20px;
   line-height: 97%;
 }
@@ -437,7 +439,7 @@ input.form-control:focus {
 }
 
 .form-card {
-  background-color: white;
+  background-color: #d7d4d4;
   padding: 20px;
   line-height: 97%;
 }
