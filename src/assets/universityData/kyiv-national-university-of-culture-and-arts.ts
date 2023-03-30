@@ -19,7 +19,7 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "table-title",
             "title": "Kyiv National University of Culture and Arts - Quick Highlights",
-            "info": "<b>The applicants should refer to the table to know about the main highlights of Kyiv National University of Culture and Arts: </b>",
+            "info": "The applicants should refer to the table to know about the main highlights of Kyiv National University of Culture and Arts: ",
             "col": [],
             "row": [
                 ["<b>Course Duration</b>", "4 years"],
@@ -31,7 +31,7 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "list-bollet",
             "title": "Why Choose Kyiv National University of Culture and Arts?",
-            "info": "<b>Among the reasons international Arts students choose a college for studying Arts: </b>",
+            "info": "Among the reasons international Arts students choose a college for studying Arts: ",
             "data": [
                 "The Kyiv National University of Culture and Arts has the most modern technologies for better education to the students coming from different parts of the world.",
                 "The candidates studying here will have rich opportunities in the future with the acquired knowledge and skills.",
@@ -49,7 +49,7 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "table",
             "title": "Kyiv National University of Culture and Arts - Ranking 2022",
-            "info": "<b>Refer Uni Rank to find out the country & world ranking of Kyiv National University of Culture and Arts: </b>",
+            "info": "Refer Uni Rank to find out the country & world ranking of Kyiv National University of Culture and Arts: ",
             "col": [
                 "World Rank",
                 "Country Rank"
@@ -64,13 +64,13 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "",
-            "data": "<p><b>The medium of instruction at the Kyiv National University of Culture and Arts is in English & Ukrainian: </b></p> <p>At the Kyiv National University of Culture and Arts, the lectures and examinations are conducted in English & Ukrainian language.</p>"
+            "info": "The medium of instruction at the Kyiv National University of Culture and Arts is in English & Ukrainian:",
+            "data": "<p>At the Kyiv National University of Culture and Arts, the lectures and examinations are conducted in English & Ukrainian language.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Facilities at Kyiv National University of Culture and Arts",
-            "info": "<b>The Kyiv National University of Culture and Arts is equipped with modern housings for international students on the university campus: </b>",
+            "info": "The Kyiv National University of Culture and Arts is equipped with modern housings for international students on the university campus: ",
             "data": [
                 "Classrooms",
                 "Library",
@@ -84,7 +84,7 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Kyiv National University of Culture and Arts has been officially accredited and recognised by: </b>",
+            "info": "The Kyiv National University of Culture and Arts has been officially accredited and recognised by: ",
             "data": [
                 "The college has official recognition by the Ministry of education of Ukraine."
             ]
@@ -92,7 +92,7 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "table",
             "title": "Living Cost of Kyiv",
-            "info": "<b>Kyiv, Ukraine has affordable living expenses, The table below shows the average and approx cost of living in for a month which may vary from person to person and according to the living style of the students: </b>",
+            "info": "Kyiv, Ukraine has affordable living expenses, The table below shows the average and approx cost of living in for a month which may vary from person to person and according to the living style of the students: ",
             "col": [
                 "Particulars",
                 "Monthly Cost in USD",
@@ -131,9 +131,14 @@ export const kyivnationaluniversityofcultureandarts = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - courses & Fees"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Kyiv National University of Culture and Arts - Course Duration",
-            "info": "<b>The Kyiv National University of Culture and Arts will provide 4 years: </b>",
+            "info": "The Kyiv National University of Culture and Arts will provide 4 years: ",
             "data": [
                 "Arts education at the Kyiv National University of Culture and Arts lasts for 4 years.",
                 "The art course is designed in an organised manner for the students coming from various parts of countries, and are strongly motivated."
@@ -142,7 +147,7 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "table-title",
             "title": "Courses offered at Kyiv National University of Culture and Arts",
-            "info": "<b>The college offers the following faculties mentioned below, the students have a look at it: </b>",
+            "info": "The college offers the following faculties mentioned below, the students have a look at it: ",
             "col": [],
             "row": [
                 ["Film and television", "Hotel and restaurant and tourism business"],
@@ -173,9 +178,14 @@ export const kyivnationaluniversityofcultureandarts = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The candidates must fit into the basic criteria to enroll in arts course: </b>",
+            "info": "The candidates must fit into the basic criteria to enroll in arts course: ",
             "data": [
                 "The students must have at least 17 years of age or shall complete 17 years before 31st December of the admission year.",
                 "Every student must complete higher secondary education with competitive scores.",
@@ -185,7 +195,7 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": 'step-list',
             "title": "Admission Process",
-            "info": "<b>To apply for Arts education at Kyiv National University of Culture and Arts: </b>",
+            "info": "To apply for Arts education at Kyiv National University of Culture and Arts: ",
             "data": [
                 "Step 1: Fill up the online application form available on a Kyiv National University of Culture and Arts.",
                 "Step 2: The applicants must upload the scanned copy of essential documents and submit the form.",
@@ -198,7 +208,7 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The selected students must provide good quality copies of the important documents: </b>",
+            "info": "The selected students must provide good quality copies of the important documents: ",
             "data": [
                 "Application form",
                 "Passport size photographs",
@@ -219,7 +229,7 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Keep up to date with the important admission dates to enroll in the Arts program: </b>",
+            "info": "Keep up to date with the important admission dates to enroll in the Arts program: ",
             "col": [
                 "Events",
                 "Dates",
@@ -263,6 +273,11 @@ export const kyivnationaluniversityofcultureandarts = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kyiv National University of Culture and Arts, Ukraine - Reviews" },
@@ -281,6 +296,11 @@ export const kyivnationaluniversityofcultureandarts = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -301,6 +321,11 @@ export const kyivnationaluniversityofcultureandarts = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kyiv National University of Culture and Arts, Ukraine - Gallery" },
@@ -319,6 +344,11 @@ export const kyivnationaluniversityofcultureandarts = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -339,6 +369,11 @@ export const kyivnationaluniversityofcultureandarts = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kyiv National University of Culture and Arts, Ukraine - Faculty" },
@@ -357,6 +392,11 @@ export const kyivnationaluniversityofcultureandarts = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -377,9 +417,14 @@ export const kyivnationaluniversityofcultureandarts = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The Kyiv National University of Culture and Arts provides the top class hostel for the worldwide Arts students at the university campus area: </b>",
+            "info": "The Kyiv National University of Culture and Arts provides the top class hostel for the worldwide Arts students at the university campus area: ",
             "data": [
                 "The institute has developed the infrastructure necessary for better living of the students.",
                 "The hostels comprise of",
@@ -393,16 +438,16 @@ export const kyivnationaluniversityofcultureandarts = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Institute offers modern amenities to the student -  </b>",
+            "info": "Institute offers modern amenities to the student -  ",
             "data": [
-               "pillow",
-               "Blanket",
-               "Table",
-               "Chair",
-               "Bed",
-               "Fan",
-               "Bathroom",
-               "TV"
+                "pillow",
+                "Blanket",
+                "Table",
+                "Chair",
+                "Bed",
+                "Fan",
+                "Bathroom",
+                "TV"
             ]
         },
         {
@@ -425,9 +470,14 @@ export const kyivnationaluniversityofcultureandarts = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kyiv National University of Culture and Arts, Ukraine - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kyiv National University of Culture and Arts - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many years of Arts course offered by the Kyiv National University of Culture and Arts?",

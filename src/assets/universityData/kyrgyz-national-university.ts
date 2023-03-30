@@ -22,7 +22,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "table-title",
             "title": "Kyrgyz National University - Quick Overview 2022",
-            "info": "<b>Given below is the table for quick highlights about Jusup Balasagyn Kyrgyz National University have a look at the details carefully and know more about the university:</b>",
+            "info": "Given below is the table for quick highlights about Jusup Balasagyn Kyrgyz National University have a look at the details carefully and know more about the university:",
             "col": [
             ],
             "row": [
@@ -47,7 +47,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Kyrgyz National University?",
-            "info": "<b>The advantages to studying at Kyrgyz National University give you some decent reasons to choose your MBBS degree from this institute in Bishkek:</b>",
+            "info": "The advantages to studying at Kyrgyz National University give you some decent reasons to choose your MBBS degree from this institute in Bishkek:",
             "img": '',
             "data": [
                 "Kyrgyz National University is located in Bishkek, having the lowest fee in government universities of Kyrgyzstan.",
@@ -64,7 +64,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Affiliated Hospitals",
-            "info": "<b>Kyrgyz National University has 4 affiliated hospitals which are listed below, have a look at it:</b>",
+            "info": "Kyrgyz National University has 4 affiliated hospitals which are listed below, have a look at it:",
             "img": '',
             "data": [
                 "City Clinical Hospital,",
@@ -80,7 +80,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "table",
             "title": "Kyrgyz National University - Ranking 2022",
-            "info": "<b>According to unipage.net, the country & world ranking of Kyrgyz National University is as follows:</b>",
+            "info": "According to unipage.net, the country & world ranking of Kyrgyz National University is as follows:",
             "col": [
                 "World",
                 "Country",
@@ -100,13 +100,13 @@ export const kyrgyznationaluniversity = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>Following is the medium of teaching at Kyrgyz National University:</b>',
+            info: 'Following is medium of teaching at Kyrgyz National University:</b>',
             data: '<p>At this university, all the different medicine courses are taught in the English language.</p> '
         },
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Kyrgyz National University has international recognition and accreditation. It is recognized by:</b>",
+            "info": "The Kyrgyz National University has international recognition and accreditation. It is recognized by:",
             "img": '',
             "data": [
                 "The Ministry of Education and Science, Kyrgyzstan",
@@ -121,7 +121,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Library at Kyrgyz National University",
-            "info": "<b>Library of Kyrgyz National University is considered as one of the biggest library in Kyrgyzstan, the library contains 5000+ books which may help you gain immense knowledge have look at the below section for details:</b>",
+            "info": "Library of Kyrgyz National University is considered as one of the biggest library in Kyrgyzstan, the library contains 5000+ books which may help you gain immense knowledge have look at the below section for details:",
             "img": '',
             "data": [
                 "The Kyrgyz National University Scientific Library is certainly considered one among the biggest college libraries in Kyrgyzstan.",
@@ -135,7 +135,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided by Kyrgyz National University",
-            "info": "<b>Kyrgyz National University has a wide range of facilities to its students which can help you with studies as well as refreshment :</b>",
+            "info": "Kyrgyz National University has a wide range of facilities to its students which can help you with studies as well as refreshment :",
             // "img": "https://www.selectyouruniversity.com/images/kyrgyzstan-universities/library.png",
             "data": [
                 "Library",
@@ -282,9 +282,14 @@ export const kyrgyznationaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kyrgyz National University - MBBS Fee Structure 2022",
-            "info": "<b>MBBS course at Kyrgyz National Medical University is in affordable price with of an average sum per year be Rs 2 lacs and average sum of hostel be Rs 20 thousand for detailed info have a look below:</b>",
+            "info": "MBBS course at Kyrgyz National Medical University is in affordable price with of an average sum per year be Rs 2 lacs and average sum of hostel be Rs 20 thousand for detailed info have a look below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -342,7 +347,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "text",
             "title": "Kyrgyz National University - MBBS Syllabus (Semester Wise)",
-            "info": '<p><b>The complete Year wise syllabus for studying MBBS at Kyrgyz National University have look carefully and prepare well:</b></p>'
+            "info": 'The complete Year wise syllabus for studying MBBS at Kyrgyz National University have look carefully and prepare well:'
         },
         {
             "type": "table",
@@ -437,7 +442,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Total MBBS Duration at Kyrgyz National University",
-            "info": "<b>Kyrgyz National University offers 5 years of medicine program with + 1 year of internship:</b>",
+            "info": "Kyrgyz National University offers 5 years of medicine program with + 1 year of internship:",
             "data": [
                 "MBBS’s Course Duration is 6 years which include 1 year of Clinical Internship or Clinical Rotation (4+1).",
                 "The college students will go through theoretical & practical information all through the first 5 years and then 1 year of compulsory Internship for practical knowledge.",
@@ -446,7 +451,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "table-title",
             "title": "Departments at Kyrgyz National University",
-            "info": "<b>Kyrgyz National University has 25 various Departments in the premises, each department poses different knowledge, have a look at the list mentioned below:</b>",
+            "info": "Kyrgyz National University has 25 various Departments in the premises, each department poses different knowledge, have a look at the list mentioned below:",
             "row": [
                 ["Anatomy", "Physiology", "Biochemistry", "Social Medicine"],
                 ["Pharmacology", "Forensic Medicine", "Pathology", "Microbiology"],
@@ -477,9 +482,14 @@ export const kyrgyznationaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Kyrgyz National University - Eligibility Criteria",
-            "info": "<b>If any student desires to study MBBS in Jusup Balasagyn Kyrgyz National University then they must have to satisfy the following admission requirements:</b>",
+            "info": "If any student desires to study MBBS in Jusup Balasagyn Kyrgyz National University then they must have to satisfy the following admission requirements:",
             "data": [
                 "It would be great to be at the least 17 years old on or before 31st December of the admission year.",
                 "Qualification Candidates need to have cleared 10+2 with 50% marks from the Science stream (Physics, Chemistry and Biology) in CBSE/ISC or another Equivalent Board of Examination.",
@@ -490,7 +500,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "step-list",
             "title": "How to take Admission in Kyrgyz National University?",
-            "info": "<b>There will be a round of counseling and academic progress, the Admission process for Kyrgyz National University is based. Students are advised to read the below mentioned points to avoid any kind of confusion:</b>",
+            "info": "There will be a round of counseling and academic progress, the Admission process for Kyrgyz National University is based. Students are advised to read the below mentioned points to avoid any kind of confusion:",
             "data": [
                 "<b>Step 1: Registration</b><br>Admission letter process: (Charges = 100$)<br>We will offer a legitimate receipt of registration fee to the student. Kyrgyz National University issues the admission letter in usually 3-7 operating days. Students will publish the following documents to us for admission letters.<br>Fresh photo with white background<br>SSC/O Levels Document<br>HSSC/Intermediate or A Levels Document<br>CNIC or Form B",
                 "<b>Step 2: Visa Letter</b><br>Visa Invitation Letter Process: (Charges = 200$)<br>We will offer legitimate receipt of visa letter fee to the student. Visa invitation letter issues through Kyrgyz Foreign Ministry which could take 20-30 days usually (or depends). Students will have to submit the following documents for a Visa letter.<br>Passport First page Scan<br>Fresh photo with white background<br>SSC/O Levels Document (attested by foreign office)<br>HSSC/Intermediate or A Levels Document (attested by foreign office)<br>CNIC or Form B<br>Police Clearance Report (attested by foreign office)<br>Medical Check up Report by DHQ Hospital (attested by foreign office)",
@@ -502,7 +512,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required - For Applying MBBS Course",
-            "info": "<b>Before taking admission to Kyrgyz National University keep in mind to hold all of the documents with you, all the details are mentioned below:</b>",
+            "info": "Before taking admission to Kyrgyz National University keep in mind to hold all of the documents with you, all the details are mentioned below:",
             "data": [
                 "Passport (Minimum 18 months validity).",
                 "Birth Certificate, 10th Certificate & Mark sheet.",
@@ -520,7 +530,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "table",
             "title": "Kyrgyz National University - Admission Dates 2022",
-            "info": "<b>Every candidate should check the important dates before taking MBBS admission at Kyrgyz National University:</b>",
+            "info": "Every candidate should check the important dates before taking MBBS admission at Kyrgyz National University:",
             "col": [
                 "Events",
                 "Date",
@@ -544,7 +554,7 @@ export const kyrgyznationaluniversity = {
         {
             "type": "table-title",
             "title": "Faculties offered at Kyrgyz National University",
-            "info": "<b>There are multiple faculties present at the Kyrgyz National University, some of them maybe useful for you have look carefully:</b>",
+            "info": "There are multiple faculties present at the Kyrgyz National University, some of them maybe useful for you have look carefully:",
             "row": [
                 ["State and Municipal Management.", "Mathematics, Computer Science and Cybernetics", "Physics and Electronics", "Information and Innovation Technologies"],
                 ["Chemistry and Chemical Technology", "Biology", "Geography and Ecology and Tourism", "Kyrgyz Philology"],
@@ -575,6 +585,11 @@ export const kyrgyznationaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kyrgyz National University, Kyrgyzstan - Reviews" },
@@ -593,6 +608,11 @@ export const kyrgyznationaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -613,6 +633,11 @@ export const kyrgyznationaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kyrgyz National University, Kyrgyzstan - Gallery" },
@@ -631,6 +656,11 @@ export const kyrgyznationaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -651,6 +681,11 @@ export const kyrgyznationaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kyrgyz National University, Kyrgyzstan - Faculty" },
@@ -669,6 +704,11 @@ export const kyrgyznationaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -689,9 +729,14 @@ export const kyrgyznationaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - Hostel"
+
+        },
+        {
             "type": "text",
             "title": "Hostel and Accommodation at Kyrgyz National University",
-            "info": "<b>At Kyrgyz National University there luxurious rooms with all the needed amenities so here is all you need to know about hostel and accommodation:</b>",
+            "info": "At Kyrgyz National University there luxurious rooms with all the needed amenities so here is all you need to know about hostel and accommodation:",
             "data": "<b>Amber</b><p>Amber Student takes the hassle out of securing student accommodation through supporting you to find the precise accomodation for your desires across the world, based on lots of exceptional accommodation. It enables withinside the reserving and paperwork, in addition to helping you on your search for roommates.</p><b>Unilodgers</b><p>Unilodgers is all about unlocking spaces in student-friendly neighborhoods around the globe and developing an international student community that is clearly your own. As the world’s biggest student housing provider, they create areas for college students to tackle the world and win.</p>",
         },
         {
@@ -713,6 +758,11 @@ export const kyrgyznationaluniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Kyrgyz National University, Kyrgyzstan - FAQ"
+
+        },
         {
             "type": "question-list",
             "title": "Important FAQs Related to Kyrgyz National University",

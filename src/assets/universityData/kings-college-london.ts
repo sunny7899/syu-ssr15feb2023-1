@@ -19,7 +19,7 @@ export const kingscollegelondon = {
         {
             "type": "table-title",
             "title": "King's College London - Quick Highlights",
-            "info": "<b>The applicants should go through the important points to study at the King’s College, London: </b>",
+            "info": "The applicants should go through the important points to study at the King’s College, London: ",
             "col": [],
             "row": [
                 ["<b>Tuition Fees (approx)</b>", "Ranges between £20,000 to £30,000 approx"],
@@ -32,7 +32,7 @@ export const kingscollegelondon = {
         {
             "type": "list-bollet",
             "title": "Why Choose King's College London?",
-            "info": "<b>Let’s explore some beneficial reasons why students prefer to study here: </b>",
+            "info": "Let’s explore some beneficial reasons why students prefer to study here: ",
             "data": [
                 "The university is ranked amongst some of the world’s most prestigious universities.",
                 "It is amongst the top 10 universities in the UK.",
@@ -67,7 +67,7 @@ export const kingscollegelondon = {
         {
             "type": "list-bollet",
             "title": "Facilities offered at King's College London",
-            "info": "<b>King’s College London offers its students modern facilities:- </b>",
+            "info": "King’s College London offers its students modern facilities:- ",
             "data": [
                 "King’s college has King's Sport founded in 2012 that currently engages over 15,000 people across our various programmes.",
                 "The college conducts different physical activities, gyms, different activities to improve the overall health and well being of students.",
@@ -83,12 +83,13 @@ export const kingscollegelondon = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "data": "<p><b>The medium of instruction for education at the King’s College London:</b></p> <p>King’s College London offers education in the English medium of instruction. </p>"
+            "info": "The medium of instruction for education at the King’s College London:",
+            "data": "<p>King’s College London offers education in the English medium of instruction.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Accreditations",
-            "info": "<b>King’s College London has various National and international accreditations as given below: </b>",
+            "info": "King’s College London has various National and international accreditations as given below: ",
             "data": [
                 "Middle States Commission on Higher Education",
                 "William G. McGowan School of Business of King’s college is accredited by AACSB International - The Association to Advance Collegiate Schools of Business (AACSB)",
@@ -102,7 +103,7 @@ export const kingscollegelondon = {
         {
             "type": "list-bollet",
             "title": "Students Life at King's College, London",
-            "info": "<b>Have a look at the student’s life at King’s College, London:- </b>",
+            "info": "Have a look at the student’s life at King’s College, London:- ",
             "data": [
                 "The King’s college has an award winning King’s College London Students’ Union that provides support for students all through their time at King’s.",
                 "The university is located in the Center of London.",
@@ -118,7 +119,7 @@ export const kingscollegelondon = {
         {
             "type": "table",
             "title": "Cost of Living at London, UK",
-            "info": "<b>Given below are the living expenses of London, UK which may vary according to the individual needs: </b>",
+            "info": "Given below are the living expenses of London, UK which may vary according to the individual needs: ",
             "col": [
                 "Activity",
                 "Cost (approx.)"
@@ -166,9 +167,14 @@ export const kingscollegelondon = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "King's College London (KCL), UK - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "King's College London - Program & Course Duration",
-            "info": "<b>Engineering</b>",
+            "info": "Engineering",
             "col": [
                 "Name of Programme",
                 "Duration",
@@ -217,7 +223,7 @@ export const kingscollegelondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Law</b>",
+            "info": "Law",
             "col": [
                 "Name of Programme",
                 "Duration",
@@ -260,7 +266,7 @@ export const kingscollegelondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Social Sciences and Liberal Arts</b>",
+            "info": "Social Sciences and Liberal Arts",
             "col": [
                 "Name of Programme",
                 "Duration",
@@ -285,7 +291,7 @@ export const kingscollegelondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Business Management</b>",
+            "info": "Business Management",
             "col": [
                 "Name of Programme",
                 "Duration",
@@ -340,7 +346,7 @@ export const kingscollegelondon = {
         {
             "type": "list-bollet",
             "title": "Departments at King's College London",
-            "info": "<b>There are several different departments at King’s College London:</b>",
+            "info": "There are several different departments at King’s College London:",
             "data": [
                 "Arts and Humanities",
                 "Law",
@@ -373,9 +379,14 @@ export const kingscollegelondon = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "King's College London (KCL), UK - Admission 2023 "
+
+        },
+        {
             type: 'step-list',
             title: "Admission Process at King's College London",
-            info: '<b>Students are required to follow the below given admission process for admission into King’s College London:- </b>',
+            info: 'Students are required to follow the below given admission process for admission into King’s College London:- ',
             data: [
                 "Step 1: Depending on the level of the programme that students are interested in, they will need to follow different procedures to apply to study at King’s.",
                 "Step 2: Students must make an online application via the Universities and Colleges Admissions Service, commonly known as UCAS, for all full-time undergraduate higher education courses at universities and colleges in the UK."
@@ -407,7 +418,7 @@ export const kingscollegelondon = {
         {
             "type": "list-bollet",
             "title": "Required Documents at King's College London",
-            "info": "<b>Once applicants have made decision about the study programme they want to apply for they should collect following necessary documents: </b>",
+            "info": "Once applicants have made decision about the study programme they want to apply for they should collect following necessary documents: ",
             "data": [
                 "In UCAS application students will be asked to provide: A personal statement Full education history A reference",
                 "Students can send scanned copies of any additional documents which they want to send to the university.",
@@ -445,6 +456,11 @@ export const kingscollegelondon = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "King's College London (KCL), UK - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "King's College London (KCL), UK - Reviews" },
@@ -463,6 +479,11 @@ export const kingscollegelondon = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "King's College London (KCL), UK - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -540,6 +561,11 @@ export const kingscollegelondon = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "King's College London (KCL), UK - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "King's College London (KCL), UK - Gallery" },
@@ -558,6 +584,11 @@ export const kingscollegelondon = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "King's College London (KCL), UK - Scholarship"
+
+        },
         {
             "type": "table",
             "title": "",
@@ -625,8 +656,13 @@ export const kingscollegelondon = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "King's College London (KCL), UK - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -675,6 +711,11 @@ export const kingscollegelondon = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "King's College London (KCL), UK - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "King's College London (KCL), UK - News & Articles" },
@@ -694,9 +735,14 @@ export const kingscollegelondon = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "King's College London (KCL), UK - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facility",
-            "info": "<b>Let us have a look at accommodation provided by the King’s College: </b>",
+            "info": "Let us have a look at accommodation provided by the King’s College: ",
             "data": [
                 "Every year over 6,000 undergraduate and postgraduate students join King’s Residences and the residences at King’s act as a platform for them to live and learn through life experiences.",
                 "All King’s Residences are led by a residence manager and are directly managed or managed by accommodation partners such as Unite and Urbanest and operate 24/7/365.",
@@ -726,9 +772,14 @@ export const kingscollegelondon = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "King's College London (KCL), UK - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "King's College London - FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360: </b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360: ",
             "data": [
                 {
                     "ques": "Q. Are there any scholarships at King’s College?",

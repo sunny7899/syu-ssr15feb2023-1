@@ -19,7 +19,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Dagestan State Medical University - Quick Highlights 2022",
-            "info": "<b>If you are looking to study MBBS in Russia, then have a quick overview on some important points of Dagestan State Medical University:</b>",
+            "info": "If you are looking to study MBBS in Russia, then have a quick overview on some important points of Dagestan State Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -37,7 +37,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Dagestan State Medical University?",
-            "info": "<b>MBBS course at Dagestan Medical University ensures quality medical education to its students. There are various advantages for Indian students when they study MBBS in Russia at Dagestan Medical University, have a look:</b>",
+            "info": "MBBS course at Dagestan Medical University ensures quality medical education to its students. There are various advantages for Indian students when they study MBBS in Russia at Dagestan Medical University, have a look:",
             "data": [
                 "Dagestan State Medical University has 4 Research Institutes.",
                 "Dagestan State Medical University provides quality of education and the environment full opportunities to shape a bright future.",
@@ -57,7 +57,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "tabel",
             "title": "Dagestan State Medical University Ranking 2022-23",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Dagestan State Medical University is given below</b>:",
+            "info": "According to 4icu.org, following is the country and world ranking for Dagestan State Medical University is given below:",
             "col": [
                 "Country",
                 "World"
@@ -73,7 +73,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "tabel",
             "title": "Dagestan State Medical University - FMGE Performance 2021",
-            "info": "<b>Find the passing percent and appeared students in year 2021 for Dagestan State Medical University is here in the table below:</b>",
+            "info": "Find the passing percent and appeared students in year 2021 for Dagestan State Medical University is here in the table below:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -92,7 +92,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The students getting MBBS degree from the best medical university of Russia are fully recognized by:</b>",
+            "info": "The students getting MBBS degree from the best medical university of Russia are fully recognized by:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)"
@@ -111,7 +111,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "tabel",
             "title": "Living Cost in Makhachkala",
-            "info": "<b>Apart from the MBBS fee, Makhachkala has the affordable cost of living and which becomes definitely the Ideal choice for MBBS Aspirants:</b>",
+            "info": "Apart from the MBBS fee, Makhachkala has the affordable cost of living and which becomes definitely the Ideal choice for MBBS Aspirants:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -177,9 +177,13 @@ export const dagestanstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Dagestan State Medical University Fee Structure 2022",
-            "info": "<b>Dagestan State Medical University has an affordable fee structure for Indian students, the average annual cost for MBBS is Rs. 2.80 lacs, for detailed fee structure have a look below:</b>",
+            "info": "Dagestan State Medical University has an affordable fee structure for Indian students, the average annual cost for MBBS is Rs. 2.80 lacs, for detailed fee structure have a look below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -233,7 +237,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Dagestan State Medical University",
-            "info": "<strong>At Dagestan State Medical University, below mentioned different courses in medicine are offered:</strong>",
+            "info": "At Dagestan State Medical University, below mentioned different courses in medicine are offered:",
             "data": [
                 "Pediatrics",
                 "Dentistry",
@@ -245,7 +249,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Duration of MBBS Course at Dagestan State Medical University",
-            "info": "<strong>Total duration of MBBS in Dagestan State Medical University is 6 years with the first 5 years is dedicated for MBBS course, for detailed information have a look below:</strong>",
+            "info": "Total duration of MBBS in Dagestan State Medical University is 6 years with the first 5 years is dedicated for MBBS course, for detailed information have a look below:",
             "data": [
                 "Dagestan State Medical University serves 6 years of Medicine program for worldwide students.",
                 "The 6 years of study includes 5 years of MBBS course and 1 year of internship."
@@ -255,7 +259,7 @@ export const dagestanstatemedicaluniversity = {
             "type": "text",
             "title": "Dagestan State Medical University - MBBS Syllabus (Semesterwise)",
             "info": "",
-            "data": '<p><b>Following is the syllabus of Dagestan State Medical University for MBBS course:</b></p>'
+            "data": 'Following is the syllabus of Dagestan State Medical University for MBBS course:'
         },
         {
             "type": "table",
@@ -355,7 +359,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Dagestan State Medical University - Admission Dates 2022-23",
-            "info": "<b>Students should consider the following important dates to follow the timetable of admission dates:</b>",
+            "info": "Students should consider the following important dates to follow the timetable of admission dates:",
             "col": [
                 "Particular",
                 "Dates"
@@ -395,9 +399,13 @@ export const dagestanstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "What are the Eligibility Criteria for MBBS at Dagestan State Medical University?",
-            "info": "<b>Students must fulfill the following eligibility criteria given below for taking admission for MBBS Course in Dagestan State Medical University:</b>",
+            "info": "Students must fulfill the following eligibility criteria given below for taking admission for MBBS Course in Dagestan State Medical University:",
             "data": [
                 "The student needs to have finished the age of 17 years or shall complete 17 years before admission year.",
                 "The applicant needs to have 50% in PCB in 12’th standard for the general class.",
@@ -409,7 +417,7 @@ export const dagestanstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'How to Take Admission in Dagestan State Medical University?',
-            info: '<b>There are 5 easy steps to complete the admission procedure at Dagestan State Medical University:</b>',
+            info: 'There are 5 easy steps to complete the admission proce at Dagestan State Medical University:',
             data: "Step 1: <b>HOW TO APPLY</b><br>Students can apply online. After reading the whole information on an internet site about tuition fee and courses, first you have to select the course. After choosing desired course you must send us the subsequent files through email:",
 
         },
@@ -466,7 +474,7 @@ export const dagestanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "What Documents are Required to Study MBBS in Dagestan State Medical University?",
-            "info": "<b>The documents given below are important to submit at the time of admission for doing MBBS in Dagestan State Medical University:</b>",
+            "info": "The documents given below are important to submit at the time of admission for doing MBBS in Dagestan State Medical University:",
             "data": [
                 "Passport size Photographs",
                 "10th Mark sheet",
@@ -526,6 +534,10 @@ export const dagestanstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Dagestan State Medical University, Russia - Reviews" },
@@ -545,9 +557,13 @@ export const dagestanstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - Gallery"
+        },
+        {
             type: "meta",
             meta: [
-                { name: "title", content: "Dagestan State Medical University, Russia - Gallery"},
+                { name: "title", content: "Dagestan State Medical University, Russia - Gallery" },
                 { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
             ],
         },
@@ -563,6 +579,10 @@ export const dagestanstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -583,8 +603,12 @@ export const dagestanstatemedicaluniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - Placement"
+        },
+        {
             "type": "list-bollet",
-            "title": "",
+            "title": "Placement",
             "info": "",
             "data": [
                 "Recent graduates may seek jobs as doctors in India after completing their studies.",
@@ -612,9 +636,13 @@ export const dagestanstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The scholarships provided at Dagestan State Medical University are as follows:</br>",
+            "info": "The scholarships provided at Dagestan State Medical University are as follows:",
             "data": [
                 "Saivian Eric Dalius Scholarship",
                 "Jonah Engler Scholarship",
@@ -642,7 +670,11 @@ export const dagestanstatemedicaluniversity = {
     ],
     "faculty": [
         {
-            "type": "tabel",
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - Faculty"
+        },
+        {
+            "type": "table",
             "title": "",
             "info": "",
             "col": [
@@ -676,9 +708,13 @@ export const dagestanstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Food",
-            "info": "<b>The Dagestan State Medical University provides fully comfortable hostels in campus area:</b>",
+            "info": "The Dagestan State Medical University provides fully comfortable hostels in campus area:",
             "data": [
                 "Fully furnished hostel rooms on sharing basis with attached washroom/bathroom.",
                 "1 room is allotted to 2-3 students.",
@@ -717,9 +753,13 @@ export const dagestanstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Dagestan State Medical University, Russia - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Dagestan State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How much tuition fees are charged from medical students?",

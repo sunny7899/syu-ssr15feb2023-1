@@ -1,20 +1,20 @@
-export const technischehochschuleingolstadt= {
+export const technischehochschuleingolstadt = {
     "Title": "Technische Hochschule Ingolstadt, Germany",
     "shortTitle": "Technische Hochschule Ingolstadt",
     "location": "Germany",
     "type": "Public",
     "rating": "",
     "shareLink": "",
-    "url":"technische-hochschule-ingolstadt",
-        "info": [
-            {
-                type: 'title',
-                title: 'Technische Hochschule Ingolstadt, Germany'
-            },
+    "url": "technische-hochschule-ingolstadt",
+    "info": [
         {
-          "type": "text",
-          "title": "",
-          "data": "<p>The <b>Technische Hochschule Ingolstadt (THI)</b> is the top technical and management German University which was established in 1994 in Ingolstadt. It has another campus in the city of Neuberg with the same standard of education and facilities. The University provides almost 60+ engineering, Research, Technical, Arts, Business, and other degrees. It has a partnership with 200+ universities in research and enterprises.</p><p>The <b>Technical University of Ingolstadt</b> is amongst the top 150 universities in Germany, with stronger international exposure. Thus, with the good world ranking of 2654. The University has a huge enrollment of international students gathering for pursuing top engineering degrees in Germany’s THI. Apart from that, they have abundant dual study programs available for all students.</p><p>The <b>THI</b> is known for its technical courses and its educational standards. For this, it has been awarded for its excellence in best teaching in recent years. Also nominated and received various awards for its research, education, and success since 2001 continuously. The University is accredited with various national, state, and global business accreditations.</p>",
+            type: 'title',
+            title: 'Technische Hochschule Ingolstadt, Germany'
+        },
+        {
+            "type": "text",
+            "title": "",
+            "data": "<p>The <b>Technische Hochschule Ingolstadt (THI)</b> is the top technical and management German University which was established in 1994 in Ingolstadt. It has another campus in the city of Neuberg with the same standard of education and facilities. The University provides almost 60+ engineering, Research, Technical, Arts, Business, and other degrees. It has a partnership with 200+ universities in research and enterprises.</p><p>The <b>Technical University of Ingolstadt</b> is amongst the top 150 universities in Germany, with stronger international exposure. Thus, with the good world ranking of 2654. The University has a huge enrollment of international students gathering for pursuing top engineering degrees in Germany’s THI. Apart from that, they have abundant dual study programs available for all students.</p><p>The <b>THI</b> is known for its technical courses and its educational standards. For this, it has been awarded for its excellence in best teaching in recent years. Also nominated and received various awards for its research, education, and success since 2001 continuously. The University is accredited with various national, state, and global business accreditations.</p>",
         },
 
         {
@@ -22,19 +22,19 @@ export const technischehochschuleingolstadt= {
             "title": "Technische Hochschule Ingolstadt - Quick Highlights",
             "info": "The table shows the quick overview of the THI for the students willing to pursue engineering and MBA in Germany:",
             "row": [
-                     ["Intake for Course","May"],
-                     ["Last Date for Admission Forms","July"],
-                     ["Programs offered","Bachelors, Masters, MBA"],
-                     ["Entrance Examination","Yes"],
-                     ["Annual Tuition Fees (approx)","Bachelor - No Fees<br>Master - No Fees<br>MBA - $2269"],
-                     ["Duration of Course","Bachelor - 3.5 years<br>Master - 1.5 years<br>MBA - 1.5 to 3.5 years"],
-                     ["Students Enrollment","6000+"],
-                     ["Medium of Teaching","English and German"],
-                     ["University Ranking","Country - 137<br>world - 2654"],
-                     ["Recognition","Min. of Bavarian State of Science and Arts, Min. of Edu, ACQUIN, ASIIN"]
-                    ]
+                ["Intake for Course", "May"],
+                ["Last Date for Admission Forms", "July"],
+                ["Programs offered", "Bachelors, Masters, MBA"],
+                ["Entrance Examination", "Yes"],
+                ["Annual Tuition Fees (approx)", "Bachelor - No Fees<br>Master - No Fees<br>MBA - $2269"],
+                ["Duration of Course", "Bachelor - 3.5 years<br>Master - 1.5 years<br>MBA - 1.5 to 3.5 years"],
+                ["Students Enrollment", "6000+"],
+                ["Medium of Teaching", "English and German"],
+                ["University Ranking", "Country - 137<br>world - 2654"],
+                ["Recognition", "Min. of Bavarian State of Science and Arts, Min. of Edu, ACQUIN, ASIIN"]
+            ]
         },
-          {
+        {
             type: 'list-bollet',
             title: 'Why Study at Technische Hochschule Ingolstadt?',
             info: 'Some of the reasons to study technical programs at THI:',
@@ -57,8 +57,8 @@ export const technischehochschuleingolstadt= {
             ],
             "row": [
                 {
-                  "Country": "137",
-                  "World": "2654",
+                    "Country": "137",
+                    "World": "2654",
                 },
 
             ]
@@ -91,12 +91,12 @@ export const technischehochschuleingolstadt= {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info":"The cost of living in the small city of Ingolstadt for international students are as under in the table noted and those expenses can vary:",
-            "col":[
-                        "Particulars",
-                        "Approx range in USD",
-                        "Approx range in RS"
-                 ],
+            "info": "The cost of living in the small city of Ingolstadt for international students are as under in the table noted and those expenses can vary:",
+            "col": [
+                "Particulars",
+                "Approx range in USD",
+                "Approx range in RS"
+            ],
             "row": [
                 {
                     "Particulars": "Accommodation (other than a hostel)",
@@ -124,34 +124,41 @@ export const technischehochschuleingolstadt= {
                     "Approx range in RS": "Rs.8000 - 12000"
                 }
             ],
-            "heading":"<p><b><u>Note:</u></b> 1 USD = 71 Rs ( for calculation purpose )</p>"
+            "heading": "<p><b><u>Note:</u></b> 1 USD = 71 Rs ( for calculation purpose )</p>"
         },
 
-  { 
-    type:"meta",
-    meta: [
-        { name: "title", content: "Technische Hochschule Ingolstadt, Germany" },
-        { name: "description", content: "Technische Hochschule Ingolstadt provides 60+ degree courses & was established in 1994 in Germany. With 2 campuses the university holds hands with 200+ universities." },
-    ],
-},
-{
-    type:"meta-title",
-    title: "Technische Hochschule Ingolstadt, Germany"},
-{ 
-    type:"meta-links",
-    link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt" }
-]}
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany" },
+                { name: "description", content: "Technische Hochschule Ingolstadt provides 60+ degree courses & was established in 1994 in Germany. With 2 campuses the university holds hands with 200+ universities." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt" }
+            ]
+        }
 
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - courses & Fees"
+
+        },
 
         {
             "type": "table",
             "title": "Courses offered at Technische Hochschule Ingolstadt",
             "info": "The list of courses for the different degree are listed category wise as in the below tables:",
-            "textBelowInfo":"<h3>1. Bachelor Degree</h3>",
+            "textBelowInfo": "<h3>1. Bachelor Degree</h3>",
             "col": [
                 "Specialization Course",
                 "Available in Language"
@@ -335,42 +342,42 @@ export const technischehochschuleingolstadt= {
                 {
                     "Specialization Course": "<b>MBA-IT management</b>",
                     "Available in Language": "German, English",
-                    "Duration of MBA":"4 Semesters"
+                    "Duration of MBA": "4 Semesters"
                 },
                 {
                     "Specialization Course": "<b>MBA procurement Management</b>",
                     "Available in Language": "German",
-                    "Duration of MBA":"4 Semesters"
+                    "Duration of MBA": "4 Semesters"
                 },
                 {
                     "Specialization Course": "<b>MBA Health Management</b>",
                     "Available in Language": "German",
-                    "Duration of MBA":"6 Semesters"
+                    "Duration of MBA": "6 Semesters"
                 },
                 {
                     "Specialization Course": "<b>MBA Strategy, Global risk, and security Management</b>",
                     "Available in Language": "German, English",
-                    "Duration of MBA":"4 Semesters"
+                    "Duration of MBA": "4 Semesters"
                 },
                 {
                     "Specialization Course": "<b>MBA HR Management</b>",
                     "Available in Language": "German",
-                    "Duration of MBA":"4 Semesters"
+                    "Duration of MBA": "4 Semesters"
                 },
                 {
                     "Specialization Course": "<b>MBA International Business</b>",
                     "Available in Language": "German, English",
-                    "Duration of MBA":"4 Semesters"
+                    "Duration of MBA": "4 Semesters"
                 },
                 {
                     "Specialization Course": "<b>MBA mobility and innovative Management</b>",
                     "Available in Language": "German, English",
-                    "Duration of MBA":"4 Semesters"
+                    "Duration of MBA": "4 Semesters"
                 },
                 {
                     "Specialization Course": "<b>MBA digital business Management</b>",
                     "Available in Language": "German, English",
-                    "Duration of MBA":"4 Semesters"
+                    "Duration of MBA": "4 Semesters"
                 }
             ],
         },
@@ -401,7 +408,7 @@ export const technischehochschuleingolstadt= {
                 }
             ],
         },
-            
+
         {
             "type": "text",
             "title": "Course Duration (For Bachelors Program)",
@@ -472,33 +479,40 @@ export const technischehochschuleingolstadt= {
                 }
             ],
         },
-            
+
         {
             "type": "text",
             "title": "Course Duration (For MBA Program)",
             "info": "",
             "data": "The duration of the Course, Master of Engineering at the Technical University of Ingolstadt is 4-7 semesters in total. This is approximately 1.5 to 3.5 years for regular to part-time international students studying abroad in Germany."
         },
-        
-    {
-      type:"meta",
-      meta: [
-          { name: "title", content: "Technische Hochschule Ingolstadt, Germany - courses & Fees" },
-          { name: "description", content: "The Technische Hochschule Ingolstadt offers a range of courses in computer science, providing students with the skills.  Check available courses and fees" },
-      ],
-  },
-  {
-      type:"meta-title",
-      title: "Technische Hochschule Ingolstadt, Germany - courses & Fees"},
-  {
-      type:"meta-links",
-      link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/courses-and-fees" }
-  ]}
-    ],
-    "admission":[
 
-        
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - courses & Fees" },
+                { name: "description", content: "The Technische Hochschule Ingolstadt offers a range of courses in computer science, providing students with the skills.  Check available courses and fees" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - courses & Fees"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/courses-and-fees" }
+            ]
+        }
+    ],
+    "admission": [
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - Admission 2023"
+
+        },
+
+
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria (For Bachelors Program)",
@@ -510,141 +524,153 @@ export const technischehochschuleingolstadt= {
                 "Also, refer to language criteria for degree programs."
             ],
         },
-        
+
         {
-          "type": "list-bollet",
-          "title": "Documents Required (For Bachelors Program)",
-          "info": "The list of documents required for the Bachelor degree to take admission at THI for engineering programs:",
-          "data": [
-              "Application form",
-              "Birth certificate",
-              "Valid Passport",
-              "Passing certificate",
-              "Bank receipt",
-              "HIV reports",
-              "COVID-19 reports",
-              "Transfer certificate",
-              "Migration certificate",
-              "Invitation letter",
-              "Caste certificate",
-              "Medical certificate",
-              "HSC mark sheet",
-              "SSC mark sheet",
-              "Passport size photos",
-              "ID proof"
-          ]
-      },
-      {
-        "type": "list-bollet",
-        "title": "Eligibility Criteria (For MBA Program)",
-        "info": "The applicant must be completely fit in the below eligibility criteria for seeking a seat at the MBA program of Germany THI:",
-        "data": [
-            "The applicant must be passed from the Govt recognized school or higher school with 10+2/12th and graduate degree.",
-            "The applicant should have good academic records and an excellent percentage with English as compulsory subjects.",
-            "The applicant must be liable to speak, read and write with better communication skills in English.",
-            "The applicant must have passed graduation with a similar or relevant degree course with strong technical, analytical, and management skills.",
-            "Also, refer to language criteria for degree programs.",
-            "The applicant with a non-German degree or educational qualification must have relevant experience of at least 1 year for seeking admission to an MBA."
-        ]
-    },
-    {
-        "type": "list-bollet",
-        "title": "Documents Required (For MBA Program)",
-        "info": "The list of documents required for the Master degree to take admission at THI for management programs:",
-        "data": [
-            "Application form",
-            "Birth certificate",
-            "Valid Passport",
-            "Passing certificate",
-            "Bank receipt",
-            "HIV reports",
-            "COVID-19 reports",
-            "Transfer certificate",
-            "Migration certificate",
-            "Invitation letter",
-            "Caste certificate",
-            "Medical certificate",
-            "HSC mark sheet",
-            "SSC mark sheet",
-            "Passport size photos",
-            "ID proof"
-        ]
-    },
-    {
-        "type": "list-bollet",
-        "title": "Eligibility Criteria (For Masters Program)",
-        "info": "The applicant must be completely fit in the below eligibility criteria for seeking a seat at the engineering program of Germany THI:",
-        "data": [
-            "The applicant must be passed from the Govt recognized school or higher school with 10+2/12th and graduate degree.",
-            "The applicant should have good academic records and an excellent percentage with English and Science (Maths) as compulsory subjects.",
-            "The applicant must be liable to speak, read and write with better communication skills in English.",
-            "The applicant must have passed graduation with a similar or relevant degree course with strong technical, analytical, and engineering skills.",
-            "Also, refer to language criteria for degree programs."
-        ]
-    },
-    {
-        "type": "list-bollet",
-        "title": "Documents Required (For Masters Program)",
-        "info": "The list of documents required for the Master degree to take admission at THI for engineering programs:",
-        "data": [
-            "Application form",
-            "Birth certificate",
-            "Valid Passport",
-            "Passing certificate",
-            "Bank receipt",
-            "HIV reports",
-            "COVID-19 reports",
-            "Transfer certificate",
-            "Migration certificate",
-            "Invitation letter",
-            "Caste certificate",
-            "Medical certificate",
-            "HSC mark sheet",
-            "SSC mark sheet",
-            "Passport size photos",
-            "ID proof"
-        ]
-    },
-      
-        
-      
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Admission 2023" },
-            { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process. Click Here TO REGISTER" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "Technische Hochschule Ingolstadt, Germany - Admission 2023"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/admission" }
-    ]}
+            "type": "list-bollet",
+            "title": "Documents Required (For Bachelors Program)",
+            "info": "The list of documents required for the Bachelor degree to take admission at THI for engineering programs:",
+            "data": [
+                "Application form",
+                "Birth certificate",
+                "Valid Passport",
+                "Passing certificate",
+                "Bank receipt",
+                "HIV reports",
+                "COVID-19 reports",
+                "Transfer certificate",
+                "Migration certificate",
+                "Invitation letter",
+                "Caste certificate",
+                "Medical certificate",
+                "HSC mark sheet",
+                "SSC mark sheet",
+                "Passport size photos",
+                "ID proof"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria (For MBA Program)",
+            "info": "The applicant must be completely fit in the below eligibility criteria for seeking a seat at the MBA program of Germany THI:",
+            "data": [
+                "The applicant must be passed from the Govt recognized school or higher school with 10+2/12th and graduate degree.",
+                "The applicant should have good academic records and an excellent percentage with English as compulsory subjects.",
+                "The applicant must be liable to speak, read and write with better communication skills in English.",
+                "The applicant must have passed graduation with a similar or relevant degree course with strong technical, analytical, and management skills.",
+                "Also, refer to language criteria for degree programs.",
+                "The applicant with a non-German degree or educational qualification must have relevant experience of at least 1 year for seeking admission to an MBA."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Documents Required (For MBA Program)",
+            "info": "The list of documents required for the Master degree to take admission at THI for management programs:",
+            "data": [
+                "Application form",
+                "Birth certificate",
+                "Valid Passport",
+                "Passing certificate",
+                "Bank receipt",
+                "HIV reports",
+                "COVID-19 reports",
+                "Transfer certificate",
+                "Migration certificate",
+                "Invitation letter",
+                "Caste certificate",
+                "Medical certificate",
+                "HSC mark sheet",
+                "SSC mark sheet",
+                "Passport size photos",
+                "ID proof"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria (For Masters Program)",
+            "info": "The applicant must be completely fit in the below eligibility criteria for seeking a seat at the engineering program of Germany THI:",
+            "data": [
+                "The applicant must be passed from the Govt recognized school or higher school with 10+2/12th and graduate degree.",
+                "The applicant should have good academic records and an excellent percentage with English and Science (Maths) as compulsory subjects.",
+                "The applicant must be liable to speak, read and write with better communication skills in English.",
+                "The applicant must have passed graduation with a similar or relevant degree course with strong technical, analytical, and engineering skills.",
+                "Also, refer to language criteria for degree programs."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Documents Required (For Masters Program)",
+            "info": "The list of documents required for the Master degree to take admission at THI for engineering programs:",
+            "data": [
+                "Application form",
+                "Birth certificate",
+                "Valid Passport",
+                "Passing certificate",
+                "Bank receipt",
+                "HIV reports",
+                "COVID-19 reports",
+                "Transfer certificate",
+                "Migration certificate",
+                "Invitation letter",
+                "Caste certificate",
+                "Medical certificate",
+                "HSC mark sheet",
+                "SSC mark sheet",
+                "Passport size photos",
+                "ID proof"
+            ]
+        },
+
+
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Admission 2023" },
+                { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process. Click Here TO REGISTER" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - Admission 2023"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/admission" }
+            ]
+        }
     ],
-    "review":[
-      
-      {
-          type: "meta",
-          meta: [
-              { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Reviews" },
-              { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
-          ],
-      },
-      {
-          type: "meta-title",
-          title: "Technische Hochschule Ingolstadt, Germany - Reviews"
-      },
-      {
-          type: "meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/reviews" }
-          ]
-      }
-  ],
-    "placement":[
+    "review": [
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - Reviews"
+
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - Placement"
+
+        },
 
         {
             "type": "list-bollet",
@@ -656,45 +682,57 @@ export const technischehochschuleingolstadt= {
             ]
         },
 
-  {
-    type:"meta",
-    meta: [
-        { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Placement" },
-        { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/placement" }
+            ]
+        }
     ],
-},
-{
-    type:"meta-title",
-    title: "Technische Hochschule Ingolstadt, Germany - Placement"},
-{
-    type:"meta-links",
-    link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/placement" }
-]}
-    ],
-    "gallery":[
-     
+    "gallery": [
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - Gallery"
 
-      {
-          type: "meta",
-          meta: [
-              { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Gallery"},
-              { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-          ],
-      },
-      {
-          type: "meta-title",
-          title: "Technische Hochschule Ingolstadt, Germany - Gallery"
-      },
-      {
-          type: "meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/gallery" }
-          ]
-      }
-  ],
+        },
+
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/gallery" }
+            ]
+        }
+    ],
     "scholarship": [
-      
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - Scholarship"
+
+        },
+
         {
             "type": "list-bollet",
             "title": "",
@@ -705,24 +743,31 @@ export const technischehochschuleingolstadt= {
                 "The college clearly state that the Germany Scholarship will not be given if the candidate are already getting material help from another school based on your abilities and performance that exceeds 30.00 Euros per month."
             ]
         },
-        
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Scholarship" },
-            { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "Technische Hochschule Ingolstadt, Germany - Scholarship"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/scholarship" }
-    ]}
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Scholarship" },
+                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/scholarship" }
+            ]
+        }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - Faculty"
+
+        },
 
         {
             "type": "table",
@@ -763,45 +808,57 @@ export const technischehochschuleingolstadt= {
                 }
             ],
         },
-        
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Faculty" },
-            { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "Technische Hochschule Ingolstadt, Germany - Faculty"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/faculty" }
-    ]}
-    ],
-    "news":[
-     
 
-      {
-          type: "meta",
-          meta: [
-              { name: "title", content: "Technische Hochschule Ingolstadt, Germany - News & Articles" },
-              { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-          ],
-      },
-      {
-          type: "meta-title",
-          title: "Technische Hochschule Ingolstadt, Germany - News & Articles"
-      },
-      {
-          type: "meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/news-and-articles" }
-          ]
-      }
-  ],
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - Faculty"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/faculty" }
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - News & Articles"
+
+        },
+
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/news-and-articles" }
+            ]
+        }
+    ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - Hostel"
+
+        },
 
         {
             "type": "list-bollet",
@@ -817,25 +874,32 @@ export const technischehochschuleingolstadt= {
                 "Laundry and parking spaces are also made free to them."
             ],
         },
-        
-      
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Hostel" },
-            { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "Technische Hochschule Ingolstadt, Germany - Hostel"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/hostel" }
-    ]}
+
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - Hostel" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/hostel" }
+            ]
+        }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Technische Hochschule Ingolstadt, Germany - FAQ"
+
+        },
 
         {
             "type": "question-list",
@@ -843,12 +907,12 @@ export const technischehochschuleingolstadt= {
             "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
-                  "ques": "Q. Does the technical University of Ingolstadt have other campuses?",
-                  "ans": "Yes, The Technische Hochschule Ingolstadt University in the Ingolstadt small city is the main campus, while its sub-campus is in the Neuberg city of Germany."
+                    "ques": "Q. Does the technical University of Ingolstadt have other campuses?",
+                    "ans": "Yes, The Technische Hochschule Ingolstadt University in the Ingolstadt small city is the main campus, while its sub-campus is in the Neuberg city of Germany."
                 },
-                { 
-                   "ques": "Q. What is the fee for B. Engg and M.Engg at THI for international applicants?",
-                  "ans": "The bachelor’s and master’s programs at THI university of Germany are free for international students studying in Germany."
+                {
+                    "ques": "Q. What is the fee for B. Engg and M.Engg at THI for international applicants?",
+                    "ans": "The bachelor’s and master’s programs at THI university of Germany are free for international students studying in Germany."
                 },
                 {
                     "ques": "Q. What are the important eligibility criteria for international students to pursue MBA at THI?",
@@ -859,34 +923,36 @@ export const technischehochschuleingolstadt= {
                     "ans": "The programs which are in English language, then their classroom language and teaching must be fully in English with the curriculum."
                 },
                 {
-                  "ques": "Q. Does the IELTS or TOEFL exams compulsory to pass for admission at THI?",
-                  "ans": "Yes, language proficiency proof is required for the admission procedure and its confirmation. While it is not compulsory to give only those exams, any international English language exam is accepted."
-              }
+                    "ques": "Q. Does the IELTS or TOEFL exams compulsory to pass for admission at THI?",
+                    "ans": "Yes, language proficiency proof is required for the admission procedure and its confirmation. While it is not compulsory to give only those exams, any international English language exam is accepted."
+                }
             ]
         },
-     
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Technische Hochschule Ingolstadt, Germany - FAQ" },
-            { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "Technische Hochschule Ingolstadt, Germany - FAQ"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/faq" }
-    ]}
-  ],
 
-  }
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Technische Hochschule Ingolstadt, Germany - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Technische Hochschule Ingolstadt, Germany - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/technische-hochschule-ingolstadt/faq" }
+            ]
+        }
+    ],
+
+}
 
 
 
 
-    
+
 
 

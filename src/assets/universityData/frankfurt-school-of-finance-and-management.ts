@@ -20,7 +20,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "table-title",
             "title": "Frankfurt School of Finance & Management - Quick Highlights",
-            "info": "<b>The applicants should go through the important points to study at the Frankfurt School of Finance & Management:</b>",
+            "info": "The applicants should go through the important points to study at the Frankfurt School of Finance & Management:",
             "col": [],
             "row": [
                 ["<b>Tuition Fees (approx)</b>", "MBA - 13,61,220 INR to 39,18,740 INR<br>  BBA (Per semester) - 5,78,410 INR"],
@@ -35,7 +35,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "list-bollet",
             "title": "Why Choose Frankfurt School of Finance & Management for Higher Studies?",
-            "info": "<b>The institute is becoming a magnet for students from all over the world, Let’s explore some beneficial reasons why students prefer to study here:</b>",
+            "info": "The institute is becoming a magnet for students from all over the world, Let’s explore some beneficial reasons why students prefer to study here:",
             "data": [
                 "The Frankfurt School of Finance & Management has an environment where individuals are valued and provided with many job opportunities for personal development.",
                 "The institute has a team of dedicated teachers who combine modern theoretical concepts with practical training and solve the doubts of the students anytime.",
@@ -52,7 +52,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction is English for high-standard of education at the Frankfurt School of Finance & Management:</b>",
+            "info": "The medium of instruction is English for high-standard of education at the Frankfurt School of Finance & Management:",
             "data": [
                 "Frankfurt School of Finance & Management offers education in English medium to all the students coming to study here."
             ]
@@ -60,7 +60,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "list-bollet",
             "title": "Accreditations",
-            "info": "<b>The Frankfurt School of Finance & Management has various National and international accreditations which are crucial for the Frankfurt School's quality management system:</b>",
+            "info": "The Frankfurt School of Finance & Management has various National and international accreditations which are crucial for the Frankfurt School's quality management system:",
             "data": [
                 "AACSB",
                 "EQUIS",
@@ -72,7 +72,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "table",
             "title": "Frankfurt School of Finance & Management - Ranking 2022",
-            "info": "<b>The students must find out the World and Country mentioned below in the table:</b>",
+            "info": "The students must find out the World and Country mentioned below in the table:",
             "col": [
                 "Country",
                 "World",
@@ -87,7 +87,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "table",
             "title": "Living Cost of Frankfurt, Germany",
-            "info": "<b>Go through the table to know the monthly basis living expenses of Frankfurt which may vary according to the individual needs:</b>",
+            "info": "Go through the table to know the monthly basis living expenses of Frankfurt which may vary according to the individual needs:",
             "col": [
                 "Particular	",
                 "Amount in USD",
@@ -128,9 +128,14 @@ export const frankfurtschooloffinanceandmanagement = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - courses & Fees"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Departments at Frankfurt School of Finance & Management",
-            "info": "<b>The students must have a look at the various departments provided by the college:</b>",
+            "info": "The students must have a look at the various departments provided by the college:",
             "data": [
                 "Finance Department",
                 "Management Department",
@@ -147,7 +152,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "table",
             "title": "Frankfurt School of Finance & Management - MBA Fee Structure 2022",
-            "info": "<b>The college offers MBA education at affordable prices allowing students to get an excellent education at the most reduced rates:</b>",
+            "info": "The college offers MBA education at affordable prices allowing students to get an excellent education at the most reduced rates:",
             "col": [
                 "MBA Programmes",
                 "Fee in Euro",
@@ -196,7 +201,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "table",
             "title": "Frankfurt School of Finance & Management - BBA Fee Structure 2022",
-            "info": "<b>The college provides a low fee for doing BBA in Germany, the students must go through the table:</b>",
+            "info": "The college provides a low fee for doing BBA in Germany, the students must go through the table:",
             "col": [
                 "Particular",
                 "Amount"
@@ -220,7 +225,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "list-bollet",
             "title": "Frankfurt School of Finance & Management - BBA Course Duration",
-            "info": "<b>The students must complete the entire BBA in 3.5 years at the Frankfurt School of Finance & Management:</b>",
+            "info": "The students must complete the entire BBA in 3.5 years at the Frankfurt School of Finance & Management:",
             "data": [
                 "Frankfurt School of Finance & Management also offers a BBA program in 100% English literature.",
                 "The students must complete overall 3.5 years to acquire a valid degree of BBA in Germany."
@@ -246,9 +251,14 @@ export const frankfurtschooloffinanceandmanagement = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria (For MBA)",
-            "info": "<b>The eligibility should always be kept in mind while applying for the MBA course at the Frankfurt School of Finance & Management:</b>",
+            "info": "The eligibility should always be kept in mind while applying for the MBA course at the Frankfurt School of Finance & Management:",
             "data": [
                 "To get admission to the Frankfurt School of Finance & Management for MBA program the students must have a minimum of 21 years of age.",
                 "The students wishing to study an MBA should complete 10+12 with good marks to enrol in an MBA course.",
@@ -260,7 +270,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "step-list",
             "title": "Admission Process (For MBA)",
-            "info": "<b>Detailed information about the admission procedure is needed to know before applying for admission at the Frankfurt School of Finance & Management:</b>",
+            "info": "Detailed information about the admission procedure is needed to know before applying for admission at the Frankfurt School of Finance & Management:",
             "data": [
                 "Step 1: <b>Online application:</b> The first step to applying for the MBA program is the completion of the online application form, attach the required documents with the form and submit it.",
                 "Step 2: <b>AC and /or Interview:</b> The admission committee will review the form and documents and invite qualified candidates to participate in a personal interview at Frankfurt School.",
@@ -271,7 +281,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "list-bollet",
             "title": "Documents Required (For MBA)",
-            "info": "<b>The students must submit all the essential document for MBA admission at the Frankfurt School of Finance & Management:</b>",
+            "info": "The students must submit all the essential document for MBA admission at the Frankfurt School of Finance & Management:",
             "data": [
                 "Bachelors mark sheet",
                 "10th-grade certificate",
@@ -296,7 +306,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "table",
             "title": "Important Dates (For MBA) - Intake 2022",
-            "info": "<b>Let’s know about the important admission dates for hassle-free enrollment at the Frankfurt School of Finance & Management:</b>",
+            "info": "Let’s know about the important admission dates for hassle-free enrollment at the Frankfurt School of Finance & Management:",
             "col": [
                 "Events",
                 "Dates"
@@ -323,7 +333,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria (For BBA)",
-            "info": "<b>The following criteria should be fulfilled by the applicants to grab a BBA seat at the Frankfurt School of Finance & Management:</b>",
+            "info": "The following criteria should be fulfilled by the applicants to grab a BBA seat at the Frankfurt School of Finance & Management:",
             "data": [
                 "The students must complete their Secondary School Diploma. (e.g. German Abitur, Fachhochschulreife, IB, EB or equivalent)- the applicants who are yet to graduate can apply by uploading the last 2 school reports.",
                 "If the students are yet to graduate, then they can apply by uploading the last two school reports.",
@@ -333,23 +343,19 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The students should complete the Assessment Centre which consists of -</b>",
+            "info": "The students should complete the Assessment Centre which consists of -",
             "data": [
                 "Maths test",
                 "Cognitive test",
                 "English test",
                 "Interview"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: '<p><b>Due to the pandemic situation, the Assessment Centres may take place online instead of on campus.</b></p>'
+            ],
+            "heading": "<b>Due to the pandemic situation, the Assessment Centres may take place online instead of on campus.</b>"
         },
         {
             "type": "step-list",
             "title": "Admission Process (For BBA)",
-            "info": "<b>Follow the precise admission steps to get admitted into the BBA course of Frankfurt School of Finance & Management:</b>",
+            "info": "Follow the precise admission steps to get admitted into the BBA course of Frankfurt School of Finance & Management:",
             "data": [
                 "Step 1: As a helpful guide to completing your application, you can download our application checklist.",
                 "Step 2: The students must prepare the following documents and attach them with the application form- Secondary school diploma or 2 latest school transcripts, Passport or ID card copy, Letter of motivation (optional), Updated Resume, Other documents supporting professional experience or extracurricular activities",
@@ -361,7 +367,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "list-bollet",
             "title": "Documents Required (For BBA)",
-            "info": "<b>Each applicant must submit required documents along with application form for doing BBA in Frankfurt School of Finance & Management:</b>",
+            "info": "Each applicant must submit required documents along with application form for doing BBA in Frankfurt School of Finance & Management:",
             "data": [
                 "10th-grade certificate",
                 "12th-grade mark sheet",
@@ -384,7 +390,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "table",
             "title": "Important Dates (For BBA) - Intake 2022",
-            "info": "<b>Check out the main dates related to BBA admission at the Frankfurt School of Finance & Management:</b>",
+            "info": "Check out the main dates related to BBA admission at the Frankfurt School of Finance & Management:",
             "col": [
                 "Events",
                 "Dates"
@@ -411,7 +417,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "list-bollet",
             "title": "Facilities offered at Frankfurt School of Finance & Management",
-            "info": "<b>Frankfurt School of Finance & Management is praised worldwide for providing modern facilities to the students during education:</b>",
+            "info": "Frankfurt School of Finance & Management is praised worldwide for providing modern facilities to the students during education:",
             "data": [
                 "Hostel",
                 "Canteen",
@@ -441,6 +447,11 @@ export const frankfurtschooloffinanceandmanagement = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Frankfurt School of Finance & Management, Germany - Reviews" },
@@ -459,6 +470,11 @@ export const frankfurtschooloffinanceandmanagement = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": 'placement',
@@ -502,7 +518,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Top Placement Functions</b>",
+            "info": "Top Placement Functions",
             "col": [
                 "Particulars",
                 "Statistics"
@@ -550,6 +566,11 @@ export const frankfurtschooloffinanceandmanagement = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Frankfurt School of Finance & Management, Germany - Gallery" },
@@ -569,9 +590,14 @@ export const frankfurtschooloffinanceandmanagement = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships that are provided at Frankfurt School of Finance & Management are as follows:</b>",
+            "info": "The scholarships that are provided at Frankfurt School of Finance & Management are as follows:",
             "data": [
                 "FS Bachelor of Science Scholarships",
                 "FS Master's Scholarships",
@@ -598,8 +624,13 @@ export const frankfurtschooloffinanceandmanagement = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -654,6 +685,11 @@ export const frankfurtschooloffinanceandmanagement = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Frankfurt School of Finance & Management, Germany - News & Articles" },
@@ -673,9 +709,14 @@ export const frankfurtschooloffinanceandmanagement = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Frankfurt School of Finance & Management is going to be the next home of the students:</b>",
+            "info": "Frankfurt School of Finance & Management is going to be the next home of the students:",
             "data": [
                 "Frankfurt School of Finance & Management offers on-campus dormitories for the global students coming to study here.",
                 "The students can stay in a shared apartment with fellow students and new friends.",
@@ -746,7 +787,7 @@ export const frankfurtschooloffinanceandmanagement = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Hostel Cost</b>",
+            "info": "Hostel Cost",
             "col": [
                 "Category",
                 "Size",
@@ -780,9 +821,14 @@ export const frankfurtschooloffinanceandmanagement = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Frankfurt School of Finance & Management, Germany - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Frankfurt School of Finance & Management - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Does the degree from the Frankfurt School of Finance & Management have official accreditation?",

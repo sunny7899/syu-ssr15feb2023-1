@@ -19,7 +19,7 @@ export const universityofsussex = {
         {
             "type": "table-title",
             "title": "University of Sussex - At a Glance",
-            "info": "<b>Here are some important highlights about the University of Sussex:</b>",
+            "info": "Here are some important highlights about the University of Sussex:",
             "col": [],
             "row": [
                 ["<b>Type</b>", "Public"],
@@ -37,7 +37,7 @@ export const universityofsussex = {
         {
             "type": "list-bollet",
             "title": "Why Choose the University of Sussex?",
-            "info": "<b>The candidates must select the University of Sussex to experience high-quality education:</b>",
+            "info": "The candidates must select the University of Sussex to experience high-quality education:",
             "data": [
                 "The University of Sussex is home to the latest facilities with a beautiful campus designed to help students.",
                 "The institute has a campus security facility available 24-hours a day.",
@@ -52,7 +52,7 @@ export const universityofsussex = {
         {
             "type": "table",
             "title": "University of Sussex - Ranking 2022",
-            "info": "<b>The students must go through the latest world and country ranking of the University of Sussex:</b>",
+            "info": "The students must go through the latest world and country ranking of the University of Sussex:",
             "col": [
                 "World",
                 "Country"
@@ -67,7 +67,7 @@ export const universityofsussex = {
         {
             "type": "table-title",
             "title": "Facilities provided at University of Sussex",
-            "info": "<b>The University of Sussex is a top-class destination for higher education along with modern facilities at the convenience of students willing to study in the Uk:</b>",
+            "info": "The University of Sussex is a top-class destination for higher education along with modern facilities at the convenience of students willing to study in the Uk:",
             "col": [],
             "row": [
                 ["Internet", "Security", "Classrooms"],
@@ -84,7 +84,7 @@ export const universityofsussex = {
         {
             "type": "list-bollet",
             "title": "Affiliations & Recognitions",
-            "info": "<b>The applicants must go through the affiliations of the University of Sussex:</b>",
+            "info": "The applicants must go through the affiliations of the University of Sussex:",
             "data": [
                 "Universities Uk",
                 "BUCS",
@@ -97,7 +97,7 @@ export const universityofsussex = {
         {
             "type": "table",
             "title": "Living Cost of Brighton, England",
-            "info": "<b>Check out the living expenses of the city before taking admission at the University of Sussex:</b>",
+            "info": "Check out the living expenses of the city before taking admission at the University of Sussex:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -136,6 +136,10 @@ export const universityofsussex = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University of Sussex, UK - courses & Fees'
+        },
         {
             "type": "text",
             "title": "Fee Structure, Program Duration & other information",
@@ -661,7 +665,7 @@ export const universityofsussex = {
                     "Duration": "1-year full time, 2 years part-time"
                 }
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> English examinations are mandatory for all courses.</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> English examinations are mandatory for all courses.</p>"
         },
         {
             "type": "table",
@@ -759,7 +763,7 @@ export const universityofsussex = {
                     "Duration": "10 months full time, 20 months part-time"
                 },
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> English examinations are mandatory for all courses.</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> English examinations are mandatory for all courses.</p>"
         },
         {
             "type": "table",
@@ -832,7 +836,7 @@ export const universityofsussex = {
                     "Duration": "1-year full time, 2 years part-time"
                 },
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> English examinations are mandatory for all courses.</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> English examinations are mandatory for all courses.</p>"
         },
         {
             "type": "text",
@@ -872,7 +876,7 @@ export const universityofsussex = {
                     "Duration": "Up to 4 years full time, 6 years part-time"
                 },
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> English examinations are mandatory for all courses.</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> English examinations are mandatory for all courses.</p>"
         },
         {
             "type": "table",
@@ -949,9 +953,13 @@ export const universityofsussex = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Sussex, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Indian Students",
-            "info": "<b>The candidates must fit into basic criteria to take admission to the University of Sussex:</b>",
+            "info": "The candidates must fit into basic criteria to take admission to the University of Sussex:",
             "data": [
                 "The students must pass the IELTS exam with an overall 6.0 overall, at least 5.5 in each component",
                 "Valid passport",
@@ -962,7 +970,7 @@ export const universityofsussex = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Standard 12th results-</b>",
+            "info": "Standard 12th results-",
             "data": [
                 "The applicants willing to study must score 80% from the ISC Indian School certificate of Education (CISCE)",
                 "The students should score 80% from SSC All India Senior School Certificate Examination (CBSE)",
@@ -972,7 +980,7 @@ export const universityofsussex = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Additional Criteria -</b>",
+            "info": "Additional Criteria -",
             "data": [
                 "The students must have evidence of existing academic ability at a high level in Mathematics for admission.",
                 "The eligibility criteria are guidelines and the student can assess all application forms on a case-by-case basis."
@@ -981,7 +989,7 @@ export const universityofsussex = {
         {
             "type": "step-list",
             "title": "Step by Step Admission Process",
-            "info": "<b>The applicants should check out steps to admit to the University of Sussex:</b>",
+            "info": "The applicants should check out steps to admit to the University of Sussex:",
             "data": [
                 "Step 1: The applicants must fill the online application form with the correct details.",
                 "Step 2: After completing the application, the candidates must submit the important documents.",
@@ -994,7 +1002,7 @@ export const universityofsussex = {
         {
             "type": "list-bollet",
             "title": "Important Documents",
-            "info": "<b>Mentioned below are the documents to be submitted by the candidates to take admission to the University of Sussex:</b>",
+            "info": "Mentioned below are the documents to be submitted by the candidates to take admission to the University of Sussex:",
             "data": [
                 "COVID-19 reports",
                 "Transfer certificate",
@@ -1034,6 +1042,10 @@ export const universityofsussex = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Sussex, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Sussex, UK - Reviews" },
@@ -1053,6 +1065,10 @@ export const universityofsussex = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'University of Sussex, UK - Placement'
+        },
+        {
             "type": "list-bollet",
             "title": "placement",
             "info": "",
@@ -1064,7 +1080,7 @@ export const universityofsussex = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The benefits of opting for placements at the University of Sussex are as follows:</b>",
+            "info": "The benefits of opting for placements at the University of Sussex are as follows:",
             "data": [
                 "Firsthand knowledge of the working world",
                 "Academic learning should be reinforced and applied.",
@@ -1095,6 +1111,10 @@ export const universityofsussex = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Sussex, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Sussex, UK - Gallery" },
@@ -1113,6 +1133,10 @@ export const universityofsussex = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'University of Sussex, UK - Scholarship'
+        },
         {
             "type": "table",
             "title": "",
@@ -1235,6 +1259,10 @@ export const universityofsussex = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Sussex, UK - Faculty'
+        },
+        {
             "type": "table",
             "title": "faculty",
             "info": "",
@@ -1293,6 +1321,10 @@ export const universityofsussex = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Sussex, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Sussex, UK - News & Articles" },
@@ -1312,9 +1344,13 @@ export const universityofsussex = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Sussex, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The accommodation place will make you feel like a home away from home:</b>",
+            "info": "The accommodation place will make you feel like a home away from home:",
             "data": [
                 "The University of Sussex provides various housing options on and off-campus.",
                 "The students can apply for University-managed accommodation after receiving an offer from the University of Sussex.",
@@ -1344,56 +1380,59 @@ export const universityofsussex = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Important FAQs for University of Sussex",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q.Are the accommodation rooms affordable for the students at the University of Sussex?",
-                        "ans": "The University of Sussex provides accommodation options to the students at a reasonable price with all amenities."
-                    },
-                    {
-                        "ques": "Q. Are there job opportunities abroad after completing education at the University of Sussex?",
-                        "ans": "The students will get many job opportunities after completing their education at the University of Sussex."
-                    },
-                    {
-                        "ques": "Q. Which examinations are required for pursuing all courses at the University of Sussex?",
-                        "ans": "English proficiency exams are important for students coming across the world"
-                    },
-                    {
-                        "ques": "Q. How many years of law courses were provided at the University of Sussex?",
-                        "ans": "The students must complete 2-4 years of undergraduate courses at the University of Sussex."
-                    },
-                    {
-                        "ques": "Q. How many years of Engineering courses are provided at the University of Sussex?",
-                        "ans": "The students need to complete to study Engineering at the University of Sussex."
-                    },
-                    {
-                        "ques": "Q. Can the students study along with part-time jobs at the University of Sussex?",
-                        "ans": "The students can do part-time jobs during education at the University of Sussex."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "University of Sussex, UK - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "University of Sussex, UK - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-sussex/faq" }
-                ]
-            }
-        ],
+    "faq": [
+        {
+            type: 'title',
+            title: 'University of Sussex, UK - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Important FAQs for University of Sussex",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q.Are the accommodation rooms affordable for the students at the University of Sussex?",
+                    "ans": "The University of Sussex provides accommodation options to the students at a reasonable price with all amenities."
+                },
+                {
+                    "ques": "Q. Are there job opportunities abroad after completing education at the University of Sussex?",
+                    "ans": "The students will get many job opportunities after completing their education at the University of Sussex."
+                },
+                {
+                    "ques": "Q. Which examinations are required for pursuing all courses at the University of Sussex?",
+                    "ans": "English proficiency exams are important for students coming across the world"
+                },
+                {
+                    "ques": "Q. How many years of law courses were provided at the University of Sussex?",
+                    "ans": "The students must complete 2-4 years of undergraduate courses at the University of Sussex."
+                },
+                {
+                    "ques": "Q. How many years of Engineering courses are provided at the University of Sussex?",
+                    "ans": "The students need to complete to study Engineering at the University of Sussex."
+                },
+                {
+                    "ques": "Q. Can the students study along with part-time jobs at the University of Sussex?",
+                    "ans": "The students can do part-time jobs during education at the University of Sussex."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University of Sussex, UK - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University of Sussex, UK - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-sussex/faq" }
+            ]
+        }
+    ],
 }
 

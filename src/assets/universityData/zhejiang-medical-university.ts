@@ -22,7 +22,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Zhejiang Medical University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Zhejiang Medical University:</b>",
+            "info": "Given below is the table for quick facts about Zhejiang Medical University:",
             "col": [
             ],
             "row": [
@@ -43,7 +43,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS Course at Zhejiang Medical University?",
-            "info": "<b>Below are some of the advantages of studying MBBS at Zhejiang Medical University:</b>",
+            "info": "Below are some of the advantages of studying MBBS at Zhejiang Medical University:",
             "img": '',
             "data": [
                 "In comparison to the private medical colleges in India, the cost of studying MBBS in China is very less.",
@@ -61,7 +61,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": "table",
             "title": "Zhejiang Medical University - Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Zhejiang Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Zhejiang Medical University:",
             "col": [
                 "World",
                 "Country",
@@ -84,7 +84,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>China’s Zhejiang Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "China’s Zhejiang Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "img": '',
             "data": [
                 "World Health Organization (WHO)",
@@ -97,7 +97,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Students at Zhejiang University",
-            "info": "<b>Students live an excellent life at Zhejiang Medical university as it provides many facilities to its students:</b>",
+            "info": "Students live an excellent life at Zhejiang Medical university as it provides many facilities to its students:",
             "img": '',
             "data": [
                 "The life of students at Zhejiang University is a perfect blend of studies, fun as well as enjoyment.",
@@ -115,7 +115,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Hangzhou City",
-            "info": "<b>The cost of living at Hangzhou city is as follows:</b>",
+            "info": "The cost of living at Hangzhou city is as follows:",
             "col": [
                 "Activity",
                 "Amount in RS",
@@ -148,7 +148,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Hangzhou City",
-            "info": "<b>Below are some of the key points about the Hangzhou city:</b>",
+            "info": "Below are some of the key points about the Hangzhou city:",
             "img": 'https://www.selectyouruniversity.com/images/china/hangzhou-city.jpg',
             "data": [
                 "Zhejiang University is located in the picturesque and historical city of Hangzhou.",
@@ -184,9 +184,13 @@ export const zhejiangmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Zhejiang Medical University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Zhejiang Medical University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Zhejiang Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Zhejiang Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "1st Year",
@@ -302,7 +306,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'MBBS Course Duration - Zhejiang Medical University',
-            "info": '<b>Mentioned below is the duration of MBBS course:</b>',
+            "info": 'Mentioned below is the duration of MBBS course:',
             "data": [
                 "The duration of MBBS course at Zhejiang University is <b>6 years</b> which includes 1 year of internship."
             ]
@@ -310,7 +314,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": 'text',
             "title": 'MBBS Syllabus - Zhejiang Medical University',
-            "data": '<b>The complete syllabus for studying MBBS at Zhejiang Medical University is as follows:</b>',
+            "data": 'The complete syllabus for studying MBBS at Zhejiang Medical University is as follows:',
         },
         {
             "type": "table",
@@ -427,7 +431,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Faculties Offered at Zhejiang Medical University',
-            "info": '<b>Below are the various courses at Zhejiang Medical University:</b>',
+            "info": 'Below are the various courses at Zhejiang Medical University:',
             "data": [
                 "Medical",
                 "Clinical Medicine",
@@ -459,9 +463,13 @@ export const zhejiangmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Zhejiang Medical University - Admission 2023'
+        },
+        {
             "type": "table",
             "title": "Important Dates - Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Zhejiang Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Zhejiang Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -489,7 +497,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>The eligibility criteria to study MBBS at Zhejiang Medical University is as follows:</b>',
+            "info": 'The eligibility criteria to study MBBS at Zhejiang Medical University is as follows:',
             "data": [
                 "Candidate’s age should be over 18 years and under 25 years.",
                 "Candidate’s mental and physical health should be good.",
@@ -505,7 +513,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": 'step-list',
             "title": 'How to Apply for MBBS Admission at Zhejiang Medical University?',
-            "info": '<b>Following is the admission procedure for applying to MBBS course at Zhejiang Medical University:</b>',
+            "info": 'Following is the admission procedure for applying to MBBS course at Zhejiang Medical University:',
             "data": [
                 "<b>Step 1:</b> Students who fit in the required eligibility criteria for Zhejiang Medical University must fill the application form of the university.",
                 "<b>Step 2:</b> Students must upload the required application documents.",
@@ -519,7 +527,7 @@ export const zhejiangmedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Required Documents',
-            "info": '<b>Following documents are required at the time of admission to Zhejiang Medical University:</b>',
+            "info": 'Following documents are required at the time of admission to Zhejiang Medical University:',
             "data": [
                 "An applicant under 18 years must provide proof of their local guardian in China",
                 "Certificate of English language proficiency",
@@ -555,6 +563,10 @@ export const zhejiangmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Zhejiang Medical University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Zhejiang Medical University - Reviews" },
@@ -573,6 +585,10 @@ export const zhejiangmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Zhejiang Medical University - Placement'
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -604,6 +620,10 @@ export const zhejiangmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Zhejiang Medical University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Zhejiang Medical University - Gallery" },
@@ -623,9 +643,13 @@ export const zhejiangmedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Zhejiang Medical University - Scholarship'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Scholarships',
-            "info": '<b>Following scholarships are offered at Zhejiang Medical University:</b>',
+            "info": 'Following scholarships are offered at Zhejiang Medical University:',
             "data": [
                 "Chinese Government Scholarship",
                 "Zhejiang University Scholarship",
@@ -654,6 +678,10 @@ export const zhejiangmedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Zhejiang Medical University - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -905,6 +933,10 @@ export const zhejiangmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Zhejiang Medical University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Zhejiang Medical University - News & Articles" },
@@ -924,9 +956,13 @@ export const zhejiangmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Zhejiang Medical University - Hostel'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel & Accommodation',
-            "info": '<b>Following are the hostel facilities at Zhejiang Medical University:</b>',
+            "info": 'Following are the hostel facilities at Zhejiang Medical University:',
             "data": [
                 "With different conditions and specifications, Zhejiang University possesses different types of International Student Dormitories.",
                 "For international undergraduates, double rooms or quadruple rooms are available.",
@@ -954,9 +990,13 @@ export const zhejiangmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Zhejiang Medical University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Zhejiang Medical university - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How is the dinning / food facility at the university?",

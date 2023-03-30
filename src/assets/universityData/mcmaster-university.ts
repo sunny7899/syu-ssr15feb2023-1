@@ -7,6 +7,7 @@ export const mcmasteruniversity = {
   "shareLink": "",
   "url": "mcmaster-university",
   "info": [
+
     {
       type: 'title',
       title: 'McMaster University, Canada'
@@ -20,7 +21,7 @@ export const mcmasteruniversity = {
     {
       "type": "table-title",
       "title": "Quick Overview of McMaster University",
-      "info": "<b>Applicants have to check the important points of McMaster University before taking admission:</b>",
+      "info": "Applicants have to check the important points of McMaster University before taking admission:",
       "row": [
         ["<b>University Status</b>", "Public"],
         ["<b>Students</b>", "33,000+"],
@@ -37,7 +38,7 @@ export const mcmasteruniversity = {
     {
       type: 'list-bollet',
       title: 'Why Choose McMaster University for Higher Studies?',
-      info: '<b>McMaster University is the top research institute in Canada, Some of the notable features are mentioned below:</b>',
+      info: 'McMaster University is the top research institute in Canada, Some of the notable features are mentioned below:',
       data: [
         "McMaster University is a medical-doctoral, research institute committed to promoting personal and social health and well-being.",
         "The main campus of McMaster University is located in the Westdale area of Hamilton, Ontario, Canada.",
@@ -51,7 +52,7 @@ export const mcmasteruniversity = {
     {
       "type": "table",
       "title": "Ranking of McMaster University",
-      "info": "<b>Check out the world and country ranking of McMaster University from the following table:</b>",
+      "info": "Check out the world and country ranking of McMaster University from the following table:",
       "col": [
         "Country",
         "World",
@@ -68,7 +69,7 @@ export const mcmasteruniversity = {
     {
       "type": "list-bollet",
       "title": "Facilities provided in McMaster University",
-      "info": "<b>McMaster University is providing world-class facilities to students apart from academics:</b>",
+      "info": "McMaster University is providing world-class facilities to students apart from academics:",
       "data": [
         "Dining Outlets",
         "Sports",
@@ -184,6 +185,10 @@ export const mcmasteruniversity = {
 
   ],
   "coursesandfees": [
+    {
+      type: 'title',
+      title: 'McMaster University, Canada - courses & Fees'
+    },
     {
       "type": "table",
       "title": "McMaster University - Program & Courses Duration",
@@ -733,6 +738,10 @@ export const mcmasteruniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'McMaster University, Canada - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
       "info": "Undergraduate",
@@ -758,7 +767,7 @@ export const mcmasteruniversity = {
     {
       "type": "step-list",
       "title": "How to Apply at McMaster University?",
-      "info": "<b>Before starting the application process, look at the following steps to have a clear idea of the Admission procedure:</b>",
+      "info": "Before starting the application process, look at the following steps to have a clear idea of the Admission procedure:",
       "data": [
         "<b>Step 1:</b> Research options<br>Explore your academic and career goals before choosing a career program. Else, students can also attend the McMaster information session from your place.",
         "<b>Step 2:</b> Apply online<br>Applicants can go through the Ontario Universities Application Center (OUAC) website to create an account. Choose a list of programs from the options and apply online.",
@@ -770,7 +779,7 @@ export const mcmasteruniversity = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>Applicants are necessary to check the important documents before uploading in the admission form:</b>",
+      "info": "Applicants are necessary to check the important documents before uploading in the admission form:",
       "data": [
         "Academic Transcripts",
         "Application form",
@@ -813,6 +822,10 @@ export const mcmasteruniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'McMaster University, Canada - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "McMaster University, Canada - Reviews" },
@@ -832,9 +845,13 @@ export const mcmasteruniversity = {
   ],
   "placement": [
     {
+      type: 'title',
+      title: 'McMaster University, Canada - Placement'
+    },
+    {
       "type": "table",
       "title": "Placement",
-      "info": "<b>Below is the placement report of McMaster University:</b>",
+      "info": "Below is the placement report of McMaster University:",
       "col": [
         "Job Title",
         "Average",
@@ -888,6 +905,10 @@ export const mcmasteruniversity = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'McMaster University, Canada - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "McMaster University, Canada - Gallery" },
@@ -907,10 +928,14 @@ export const mcmasteruniversity = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'McMaster University, Canada - Scholarship'
+    },
+    {
       "type": "list-bollet",
       "title": "Scholarships provided to International Students",
-      "info": "<b>Here is a list of scholarships available to international students based on their eligibility:</b>",
-      "textBelowInfo": "<b>Scholarships for Bachelor students:</b>",
+      "info": "Here is a list of scholarships available to international students based on their eligibility:",
+      "textBelowInfo": "Scholarships for Bachelor students:",
       "data": [
         "Provost Entrance Scholarship",
         "Athletic Financial Award",
@@ -923,7 +948,7 @@ export const mcmasteruniversity = {
       "type": "list-bollet",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Scholarships for Master students:</b>",
+      "textBelowInfo": "Scholarships for Master students:",
       "data": [
         "Internal awards",
         "Government funding",
@@ -942,7 +967,7 @@ export const mcmasteruniversity = {
       "type": "list-bollet",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Scholarships for Doctoral students:</b>",
+      "textBelowInfo": "Scholarships for Doctoral students:",
       "data": [
         "Ontario Trillium Scholarship",
         "Travel Award",
@@ -970,9 +995,13 @@ export const mcmasteruniversity = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'McMaster University, Canada - Faculty'
+    },
+    {
       "type": "table-title",
       "title": "Faculties provided at McMaster University",
-      "info": "<b>McMaster University is providing 6 faculties with high skilled faculty experts:</b>",
+      "info": "McMaster University is providing 6 faculties with high skilled faculty experts:",
       "col": [
 
       ],
@@ -1002,6 +1031,10 @@ export const mcmasteruniversity = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'McMaster University, Canada - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "McMaster University, Canada - News & Articles" },
@@ -1021,9 +1054,13 @@ export const mcmasteruniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'McMaster University, Canada - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel and Accommodation Facility",
-      "info": "<b>McMaster University provides a great opportunity to meet different people inside campus residences:</b>",
+      "info": "McMaster University provides a great opportunity to meet different people inside campus residences:",
       "data": [
         "University Campus of McMaster is one of the most beautiful places in Canada with ancient buildings surrounded by Royal Botanical Gardens.",
         "Students have both on-campus and off-campus residences providing accommodation.",
@@ -1036,7 +1073,7 @@ export const mcmasteruniversity = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Different types of rooms are available in both on-campus and off-campus residences:</b>",
+      "info": "Different types of rooms are available in both on-campus and off-campus residences:",
       "data": [
         "Twin Bed Double Room with connected shared washroom.",
         "Super single room with connected shared washroom.",
@@ -1069,6 +1106,10 @@ export const mcmasteruniversity = {
     }
   ],
   "faq": [
+    {
+      type: 'title',
+      title: 'McMaster University, Canada - FAQ'
+    },
     {
       "type": "question-list",
       "title": "McMaster University - Important FAQ’s",

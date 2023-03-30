@@ -19,7 +19,7 @@ export const heriotwattuniversity = {
         {
             "type": "table-title",
             "title": "Heriot Watt University - Quick Highlights",
-            "info": "<b>let us have a look at the Course Overview of Heriot-Watt University:</b>",
+            "info": "let us have a look at the Course Overview of Heriot-Watt University:",
             "col": [
             ],
             "row": [
@@ -39,7 +39,7 @@ export const heriotwattuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study at Heriot Watt University?",
-            "info": "<b>Thousands of students across the globe choose Heriot-Watt University as the destination for higher education:</b>",
+            "info": "Thousands of students across the globe choose Heriot-Watt University as the destination for higher education:",
             "data": [
                 "The students who graduated from Heriot Watt University can work across the globe as all degrees are recognised worldwide.",
                 "Heriot Watt University is well-known for applied teaching and research, informed and shaped by real-world needs.",
@@ -54,7 +54,7 @@ export const heriotwattuniversity = {
         {
             "type": "table",
             "title": "Heriot-Watt University - Ranking 2022",
-            "info": "<b>The students must get to know about the latest world and country ranking of Heriot-Watt University:</b>",
+            "info": "The students must get to know about the latest world and country ranking of Heriot-Watt University:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -69,7 +69,7 @@ export const heriotwattuniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities provided",
-            "info": "<b>Heriot-Watt University takes care of the students by offering all basic facilities for convenient studies:</b>",
+            "info": "Heriot-Watt University takes care of the students by offering all basic facilities for convenient studies:",
             "data": [
                 "canteen",
                 "Internet",
@@ -83,7 +83,7 @@ export const heriotwattuniversity = {
         {
             "type": "list-bollet",
             "title": "Affiliations & Accreditations",
-            "info": "<b>Here are some affiliations of Heriot-Watt University:</b>",
+            "info": "Here are some affiliations of Heriot-Watt University:",
             "data": [
                 "Association of Commonwealth Universities",
                 "CESAER",
@@ -95,7 +95,7 @@ export const heriotwattuniversity = {
         {
             "type": "table",
             "title": "Living Cost of Edinburgh, Scotland",
-            "info": "<b>The students must get to know about the monthly living cost of Edinburgh, Scotland to pursue education in UK:</b>",
+            "info": "The students must get to know about the monthly living cost of Edinburgh, Scotland to pursue education in UK:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -136,9 +136,14 @@ export const heriotwattuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Heriot Watt University, UK - Admission 2023"
+
+        },
+        {
             "type": "table",
             "title": "Heriot Watt University - Programs, Fees, Duration",
-            "info": "<b>Engineering</b>",
+            "info": "Engineering",
             "col": [
                 "Program",
                 "Course Duration",
@@ -298,7 +303,7 @@ export const heriotwattuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>BBA</b>",
+            "info": "BBA",
             "col": [
                 "Program",
                 "Course Duration",
@@ -320,7 +325,7 @@ export const heriotwattuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Executive MBA</b>",
+            "info": "Executive MBA",
             "col": [
                 "Program",
                 "Course Duration",
@@ -359,9 +364,13 @@ export const heriotwattuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Heriot Watt University, UK - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Before taking admission to the undergraduate courses at Heriot-Watt University, please don’t forget to carry all important documents:</b>",
+            "info": "Before taking admission to the undergraduate courses at Heriot-Watt University, please don’t forget to carry all important documents:",
             "textBelowInfo": "Engineering",
             "data": [
                 "The applicants wishing to study undergraduate courses in the UK must have a valid passport.",
@@ -399,14 +408,14 @@ export const heriotwattuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Minimum: under our Fair Access Policy, we will relax our standard entry requirements for Scottish students depending on their circumstances. Our minimum requirements will apply if you:</b>",
+            "info": "Minimum: under our Fair Access Policy, we will relax our standard entry requirements for Scottish students depending on their circumstances. Our minimum requirements will apply if you:",
             "data": [
                 "live in an area within the Scottish Index of Multiple Deprivation lowest 20% (SIMD20), or are care experienced",]
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>We can also make exceptions for some Scottish students with grades above the minimum but below standard. Read more about our Minimum and standard entry requirements</b>",
+            "info": "We can also make exceptions for some Scottish students with grades above the minimum but below standard. Read more about our Minimum and standard entry requirements",
             "textBelowInfo": "Year 2",
             "data": [
                 "Advanced Highers BB including one of Accounting, Business, Economics or Maths, plus AAAB at HigherA-Levels ABB including one of Accountancy, Business, Economics or Maths",
@@ -438,7 +447,7 @@ export const heriotwattuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>English Language Requirements</b>",
+            "info": "English Language Requirements",
             "data": [
                 "If your first language is not English, or your first degree was not taught in English, we’ll need to see evidence of your English language ability.",
                 "The minimum English language requirement for entry to this programme is IELTS 6.5 (or equivalent) with no component lower than 6.0.",
@@ -449,7 +458,7 @@ export const heriotwattuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>The admission steps are given below and the students need to follow all steps precisely:</b>",
+            "info": "The admission steps are given below and the students need to follow all steps precisely:",
             "data": [
                 "<b>Step 1:</b> The first step is to apply for admission and fill the application form.",
                 "<b>Step 2:</b> Submission of original documents along with the application.",
@@ -464,7 +473,7 @@ export const heriotwattuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Before taking admission to the undergraduate courses at Heriot-Watt University, please don’t forget to carry all important documents:</b>",
+            "info": "Before taking admission to the undergraduate courses at Heriot-Watt University, please don’t forget to carry all important documents:",
             "textBelowInfo": "Engineering",
             "data": [
                 "Application form",
@@ -552,6 +561,10 @@ export const heriotwattuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Heriot Watt University, UK - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Heriot Watt University, UK - Reviews" },
@@ -570,6 +583,10 @@ export const heriotwattuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Heriot Watt University, UK - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -667,6 +684,10 @@ export const heriotwattuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Heriot Watt University, UK - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Heriot Watt University, UK - Gallery" },
@@ -685,6 +706,10 @@ export const heriotwattuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Heriot Watt University, UK - Scholarship"
+        },
         {
             "type": "table",
             "title": "Scholarships and Bursaries",
@@ -782,6 +807,10 @@ export const heriotwattuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Heriot Watt University, UK - Faculty"
+        },
+        {
             "type": "table",
             "title": "Faculty",
             "info": "",
@@ -834,6 +863,10 @@ export const heriotwattuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Heriot Watt University, UK - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Heriot Watt University, UK - News & Articles" },
@@ -853,9 +886,13 @@ export const heriotwattuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Heriot Watt University, UK - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Edinburgh Campus Accommodation</b>",
+            "info": "Edinburgh Campus Accommodation",
             "data": [
                 "Accommodation is close to teaching, sports, catering and the Union.",
                 "Students meet others from all over the world and make lifelong friends.",
@@ -870,7 +907,7 @@ export const heriotwattuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Scottish Borders Campus</b>",
+            "info": "Scottish Borders Campus",
             "data": [
                 "The friendly, welcoming community at the Scottish Borders Campus.",
                 "Meet various cultures others share interests, discover new activities, and make lifelong friends.",
@@ -887,7 +924,7 @@ export const heriotwattuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Ensuite room includes -</b>",
+            "info": "Ensuite room includes -",
             "row": [
                 ["3/4 double bed", "mattress protector"],
                 ["desk", "desk chair"],
@@ -898,7 +935,7 @@ export const heriotwattuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Other general facilties include -</b>",
+            "info": "Other general facilties include -",
             "data": [
                 "Laundry facilities (washing machines and dryers)",
                 "Student Wellbeing Hub is located on the ground floor Pavilion Building 2.",
@@ -924,6 +961,10 @@ export const heriotwattuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Heriot Watt University, UK - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Heriot-Watt University - Important FAQs",

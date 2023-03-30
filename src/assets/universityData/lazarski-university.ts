@@ -21,7 +21,7 @@ export const lazarskiuniversity = {
         {
             "type": "table",
             "title": "Lazarski University - Quick Highlights",
-            "info": "<b>The quick response for the foreign applicant about the Lazarski BBA programs is plotted in the below table:</b>",
+            "info": "The quick response for the foreign applicant about the Lazarski BBA programs is plotted in the below table:",
             "col": [
             ],
             "row": [
@@ -38,7 +38,7 @@ export const lazarskiuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose to Study BBA at Lazarski University?",
-            "info": "<b>Some of the many reasons to choose this Poland University for BBA study:</b>",
+            "info": "Some of the many reasons to choose this Poland University for BBA study:",
             "img": '',
             "data": [
                 "It is one of the top private Polish universities in Warsaw.",
@@ -58,7 +58,7 @@ export const lazarskiuniversity = {
         {
             "type": "table",
             "title": "Lazarski University - Ranking 2023",
-            "info": "<b>The UniRank has mentioned the Lazarski University on the following ranking:</b>",
+            "info": "The UniRank has mentioned the Lazarski University on the following ranking:",
             "col": [
                 "World",
                 "Country",
@@ -76,7 +76,7 @@ export const lazarskiuniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The classroom language for the BBA bachelor degree at Lazarski is:</b>",
+            "info": "The classroom language for the BBA bachelor degree at Lazarski is:",
             "img": '',
             "data": [
                 "Bachelor’s degree courses in Business Management are available in the English language at Lazarski private Economics institute. Also, the classroom language is the same as for the foreign students in Poland.",
@@ -90,7 +90,7 @@ export const lazarskiuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation",
-            "info": "<b>The Lazarski University is officially accredited by the following:</b>",
+            "info": "The Lazarski University is officially accredited by the following:",
             "img": '',
             "data": [
                 "Min. of Science and Higher Education of Poland",
@@ -105,7 +105,7 @@ export const lazarskiuniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The Warsaw city expenses and cost of living for an individual is listed in the table:</b>",
+            "info": "The Warsaw city expenses and cost of living for an individual is listed in the table:",
             "col": [
                 "Particular",
                 "Amount in USD",
@@ -162,6 +162,11 @@ export const lazarskiuniversity = {
     ],
 
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Lazarski University, Poland - courses & Fees"
+
+        },
 
 
         {
@@ -251,6 +256,11 @@ export const lazarskiuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Lazarski University, Poland - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "The below eligibility criteria conditions are pointed by Lazarski for the international students willing to study in Poland BBA:",
@@ -336,6 +346,11 @@ export const lazarskiuniversity = {
         }
     ],
     "review": [
+        {
+            type: 'title',
+            title: "Lazarski University, Poland - Reviews"
+
+        },
 
         {
             type: "meta",
@@ -356,6 +371,11 @@ export const lazarskiuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Lazarski University, Poland - Placement"
+
+        },
 
         {
             type: "meta",
@@ -377,6 +397,11 @@ export const lazarskiuniversity = {
 
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "Lazarski University, Poland - Gallery"
+
+        },
 
         {
             type: "meta",
@@ -397,6 +422,11 @@ export const lazarskiuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Lazarski University, Poland - Scholarship"
+
+        },
         {
             "type": "text",
             "title": "",
@@ -423,6 +453,11 @@ export const lazarskiuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Lazarski University, Poland - Faculty"
+
+        },
 
         {
             type: "meta",
@@ -443,6 +478,11 @@ export const lazarskiuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Lazarski University, Poland - News & Articles"
+
+        },
 
 
         {
@@ -464,6 +504,11 @@ export const lazarskiuniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Lazarski University, Poland - Hostel"
+
+        },
         {
             "type": "list-bollet",
             "title": "Hostel",
@@ -495,6 +540,11 @@ export const lazarskiuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Lazarski University, Poland - FAQ"
+
+        },
         {
             "type": "question-list",
             "title": "Lazarski University - Important FAQs",

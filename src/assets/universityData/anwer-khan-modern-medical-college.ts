@@ -18,14 +18,14 @@ export const anwerkhanmodernmedicalcollege = {
       "info": "Go through the following Highlights mentioned below if you want to take MBBS Admission in Anwer Khan Modern Medical College:",
       "col": [],
       "row": [
-        ["Intake for MBBS Course", "September"],
-        ["Accepted Examination", "NEET Qualification"],
-        ["Tuition Fees", "26,000 USD (At the time of Admission)"],
-        ["MBBS Duration", "5 Years"],
-        ["Teaching Medium", "English language"],
-        ["MBBS Duration", "Country - 116<br>World - 12319"],
-        ["University Recognition", "WHO, BMDC and NMC"],
-        ["Affiliation", "University of Dhaka"]
+        ["<b>Intake for MBBS Course</b>", "September"],
+        ["<b>Accepted Examination</b>", "NEET Qualification"],
+        ["<b>Tuition Fees</b>", "26,000 USD (At the time of Admission)"],
+        ["<b>MBBS Duration</b>", "5 Years"],
+        ["<b>Teaching Medium</b>", "English language"],
+        ["<b>MBBS Duration</b>", "Country - 116<br>World - 12319"],
+        ["<b>University Recognition</b>", "WHO, BMDC and NMC"],
+        ["<b>Affiliation</b>", "University of Dhaka"]
       ]
     },
     {
@@ -54,7 +54,7 @@ export const anwerkhanmodernmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Facilities Provided at Anwer Khan Modern Medical College",
-      "info": "The college building is adequately equipped with amazing facilities:<p><b>Top-class facilities are furnished at Anwer Khan Modern Medical College:</b></p>",
+      "info": "<b>The college building is adequately equipped with amazing facilities:<p><b>Top-class facilities are furnished at Anwer Khan Modern Medical College:</b></p></b>",
       "data": [
         "Classroom",
         "Laboratory",
@@ -90,7 +90,7 @@ export const anwerkhanmodernmedicalcollege = {
       ],
       "row": [
         {
-          "Name of University": "Anwer Khan Modern Medical College",
+          "Name of University": "<b>Anwer Khan Modern Medical College</b>",
           "Appeared": "2",
           "Total Pass": "1",
           "Pass %": "50.00%",
@@ -108,17 +108,17 @@ export const anwerkhanmodernmedicalcollege = {
       ],
       "row": [
         {
-          "Particulars": "hostel",
+          "Particulars": "<b>hostel</b>",
           "Monthly Cost in USD": "130 USD",
           "Monthly Cost in Rs": "9,100 Rs"
         },
         {
-          "Particulars": "Food",
+          "Particulars": "<b>Food</b>",
           "Monthly Cost in USD": "56.7 USD",
           "Monthly Cost in Rs": "3969 Rs"
         },
         {
-          "Particulars": "Transport",
+          "Particulars": "<b>Transport</b>",
           "Monthly Cost in USD": "11.4 USD",
           "Monthly Cost in Rs": "Rs. 794"
         },
@@ -170,10 +170,10 @@ export const anwerkhanmodernmedicalcollege = {
           "Amount in Rs": "30,80,000 Rs"
         },
       ],
-      "heading":"<p><b style='color: red;'><u>Note:</u></b> 1$ = 70 Rs.</p>"
+      "heading": "<p><b style='color: red;'><u>Note:</u></b> 1$ = 70 Rs.</p>"
     },
-    
-    
+
+
 
 
     {
@@ -191,11 +191,12 @@ export const anwerkhanmodernmedicalcollege = {
         },
       ]
     },
-   
+
     {
       "type": 'text',
       "title": 'About Dhaka City',
-      "data": '<p><b>Let s talk about the Dhaka city:</b></p><p>Dhaka is the capital city of Bangladesh located in the southern part of Asia. </p><p>Dhaka city is situated on the Buriganga River.</p><p>Dhaka city is the center of the national government, trade, and culture. </p><p>The social and economic diversity of this city is growing excessively.</p><p>Dhaka is the most densely industrialized region of Bangladesh. </p>',
+      "info": 'Let s talk about the Dhaka city:',
+      "data": '<p>Dhaka is the capital city of Bangladesh located in the southern part of Asia. </p><p>Dhaka city is situated on the Buriganga River.</p><p>Dhaka city is the center of the national government, trade, and culture. </p><p>The social and economic diversity of this city is growing excessively.</p><p>Dhaka is the most densely industrialized region of Bangladesh. </p>',
     },
     {
       "type": "table",
@@ -208,25 +209,31 @@ export const anwerkhanmodernmedicalcollege = {
         ["Bangladesh National Zoo, Mirpur", "Liberation War Museum"],
       ]
     },
-    
-    { 
-      type:'meta',
+
+    {
+      type: 'meta',
       meta: [
-          { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh" },
-          { name: "description", content: "Anwer Khan Modern Medical College has become the 1st choice of students for MBBS in Bangladesh. Since 2008 the college has secured rank in top medical colleges." },
+        { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh" },
+        { name: "description", content: "Anwer Khan Modern Medical College has become the 1st choice of students for MBBS in Bangladesh. Since 2008 the college has secured rank in top medical colleges." },
       ],
-  },
-  {
-      type:'meta-title',
-      title: "Anwer Khan Modern Medical College, Bangladesh"},
-  { 
-      type:'meta-links',
+    },
+    {
+      type: 'meta-title',
+      title: "Anwer Khan Modern Medical College, Bangladesh"
+    },
+    {
+      type: 'meta-links',
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college" }
-  ]}
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college" }
+      ]
+    }
 
   ],
   "coursesandfees": [
+    {
+      type: 'title',
+      title: "Anwer Khan Modern Medical College - courses & Fees"
+    },
     {
       "type": "text",
       "title": "Anwer Khan Modern Medical College - MBBS Fee Structure 2023",
@@ -255,9 +262,9 @@ export const anwerkhanmodernmedicalcollege = {
           "Amount": "13,38,400 Rs",
         },
       ],
-      "heading":"<p><b><u>Note:</u></b> 1$ = 70 Rs.</p>"
+      "heading": "<p><b><u>Note:</u></b> 1$ = 70 Rs.</p>"
     },
-   
+
     {
       "type": "table",
       "title": "Courses Offered at Anwer Khan Modern Medical College",
@@ -322,25 +329,29 @@ export const anwerkhanmodernmedicalcollege = {
         },
       ]
     },
-    { 
-      type:'meta',
+    {
+      type: 'meta',
       meta: [
-          { name: "title", content: "Anwer Khan Modern Medical College - courses & Fees" },
-          { name: "description", content: "know about Anwer Khan Modern Medical College Fee Structure, Eligibility, Required documents, courses Duration. check available courses and fees" },
+        { name: "title", content: "Anwer Khan Modern Medical College - courses & Fees" },
+        { name: "description", content: "know about Anwer Khan Modern Medical College Fee Structure, Eligibility, Required documents, courses Duration. check available courses and fees" },
       ],
-  },
-  {
-      type:'meta-title',
-      title: "Anwer Khan Modern Medical College - courses & Fees"},
-  { 
-      type:'meta-links',
+    },
+    {
+      type: 'meta-title',
+      title: "Anwer Khan Modern Medical College - courses & Fees"
+    },
+    {
+      type: 'meta-links',
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/courses-and-fees" }
-  ]}
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/courses-and-fees" }
+      ]
+    }
   ],
-
-
   "admission": [
+    {
+      type: 'title',
+      title: "Anwer Khan Modern Medical College - Admission Process 2023"
+    },
     {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
@@ -366,7 +377,7 @@ export const anwerkhanmodernmedicalcollege = {
         "Step 6: Pay visa fee and wait for some days, visa processing will take 30 days. Once you get the Visa, fly for your dreams."
       ]
     },
-   
+
     {
       "type": "list-bollet",
       "title": "Documents Required",
@@ -397,155 +408,185 @@ export const anwerkhanmodernmedicalcollege = {
       ],
       "row": [
         {
-          "Events": "Application Start Date",
+          "Events": "<b>Application Start Date</b>",
           "Dates": "March",
         },
         {
-          "Events": "Invitation Letter",
+          "Events": "<b>Invitation Letter</b>",
           "Dates": "Within 1 Month",
         },
         {
-          "Events": "Admission Start Date",
+          "Events": "<b>Admission Start Date</b>",
           "Dates": "September",
         },
       ]
     },
-    { 
-      type:'meta',
+    {
+      type: 'meta',
       meta: [
-          { name: "title", content: "Anwer Khan Modern Medical College - Admission Process 2023" },
-          { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
+        { name: "title", content: "Anwer Khan Modern Medical College - Admission Process 2023" },
+        { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
       ],
-  },
-  {
-      type:'meta-title',
-      title: "Anwer Khan Modern Medical College - Admission Process 2023"},
-  { 
-      type:'meta-links',
+    },
+    {
+      type: 'meta-title',
+      title: "Anwer Khan Modern Medical College - Admission Process 2023"
+    },
+    {
+      type: 'meta-links',
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/admission" }
-  ]}
-  ],
-  "review":[
-        
-    {
-        type: "meta",
-        meta: [
-            { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Reviews" },
-            { name: "description", content: "Find out what makes Anwer Khan Modern Medical school so special by reading student reviews. click here to see reviews" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "Anwer Khan Modern Medical College, Bangladesh - Reviews"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/reviews" }
-        ]
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/admission" }
+      ]
     }
   ],
-  "placement":[
-
-      
-  {
-      type:"meta",
+  "review": [
+    {
+      type: 'title',
+      title: "Anwer Khan Modern Medical College, Bangladesh - Reviews"
+    },
+    {
+      type: "meta",
       meta: [
-          { name: "title", content: "Anwer Khan Modern Medical College - Placements" },
-          { name: "description", content: "Get information on the placement process and what you should expect from the interview.check the placement drive" },
+        { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Reviews" },
+        { name: "description", content: "Find out what makes Anwer Khan Modern Medical school so special by reading student reviews. click here to see reviews" },
       ],
     },
     {
-      type:"meta-title",
-      title: "Anwer Khan Modern Medical College - Placements"},
+      type: "meta-title",
+      title: "Anwer Khan Modern Medical College, Bangladesh - Reviews"
+    },
     {
-      type:"meta-links",
+      type: "meta-links",
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/placement" }
-    ]}
-    ],
-    "gallery":[
-    
-      {
-          type: "meta",
-          meta: [
-              { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Gallery" },
-              { name: "description", content: "See what life is like as a student at one of the best medical colleges check gallery here" },
-          ],
-      },
-      {
-          type: "meta-title",
-          title: "Anwer Khan Modern Medical College, Bangladesh - Gallery"
-      },
-      {
-          type: "meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/gallery" }
-          ]
-      }
-    ],
-    "scholarship": [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/reviews" }
+      ]
+    }
+  ],
+  "placement": [
 
-     
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Scholarships" },
-            { name: "description", content: "Anwer Khan Modern medical college offers scholarships to deserving students who demonstrate academic excellence check scholarship and bursary" },
-        ],
+    {
+      type: 'title',
+      title: "Anwer Khan Modern Medical College - Placements"
     },
     {
-        type:"meta-title",
-        title: "Anwer Khan Modern Medical College, Bangladesh - Scholarships"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/scholarship" }
-    ]}
-    ],
-    "faculty": [
-      
-     
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Faculties" },
-            { name: "description", content: "Browse list of faculties of Anwer Khan Modern medical college. click here for departments" },
-        ],
+      type: "meta",
+      meta: [
+        { name: "title", content: "Anwer Khan Modern Medical College - Placements" },
+        { name: "description", content: "Get information on the placement process and what you should expect from the interview.check the placement drive" },
+      ],
     },
     {
-        type:"meta-title",
-        title: "Anwer Khan Modern Medical College, Bangladesh - Faculties"},
+      type: "meta-title",
+      title: "Anwer Khan Modern Medical College - Placements"
+    },
     {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/faculty" }
-    ]}
-    ],
-    "news":[
-    
-    
-      {
-          type: "meta",
-          meta: [
-              { name: "title", content: "Anwer Khan Modern Medical College - News & Articles" },
-              { name: "description", content: "Read latest News, Articles of Anwer Khan Modern medical college about Cutoffs, Placements, courses, Fees. check all the news and articles here" },
-          ],
-      },
-      {
-          type: "meta-title",
-          title: "Anwer Khan Modern Medical College - News & Articles"
-      },
-      {
-          type: "meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/news-and-articles" }
-          ]
-      }
-    ],
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/placement" }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      type: 'title',
+      title: "Anwer Khan Modern Medical College, Bangladesh - Gallery"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Gallery" },
+        { name: "description", content: "See what life is like as a student at one of the best medical colleges check gallery here" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Anwer Khan Modern Medical College, Bangladesh - Gallery"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/gallery" }
+      ]
+    }
+  ],
+  "scholarship": [
+
+    {
+      type: 'title',
+      title: "Anwer Khan Modern Medical College, Bangladesh - Scholarships"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Scholarships" },
+        { name: "description", content: "Anwer Khan Modern medical college offers scholarships to deserving students who demonstrate academic excellence check scholarship and bursary" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Anwer Khan Modern Medical College, Bangladesh - Scholarships"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/scholarship" }
+      ]
+    }
+  ],
+  "faculty": [
+
+    {
+      type: 'title',
+      title: "Anwer Khan Modern Medical College, Bangladesh - Faculties"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Faculties" },
+        { name: "description", content: "Browse list of faculties of Anwer Khan Modern medical college. click here for departments" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Anwer Khan Modern Medical College, Bangladesh - Faculties"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/faculty" }
+      ]
+    }
+  ],
+  "news": [
+    {
+      type: 'title',
+      title: "Anwer Khan Modern Medical College - News & Articles"
+    },
+
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Anwer Khan Modern Medical College - News & Articles" },
+        { name: "description", content: "Read latest News, Articles of Anwer Khan Modern medical college about Cutoffs, Placements, courses, Fees. check all the news and articles here" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Anwer Khan Modern Medical College - News & Articles"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/news-and-articles" }
+      ]
+    }
+  ],
 
   "hostel": [
+    {
+      type: 'title',
+      title: "Anwer Khan Modern Medical College, Bangladesh - Hostel Details"
+    },
     {
       "type": "list-bollet",
       "title": "Hostel & Accommodation ",
@@ -575,26 +616,32 @@ export const anwerkhanmodernmedicalcollege = {
         "Bathroom"
       ]
     },
-    
-    { 
-      type:'meta',
+
+    {
+      type: 'meta',
       meta: [
-          { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Hostel Details" },
-          { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+        { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - Hostel Details" },
+        { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
       ],
-  },
-  {
-      type:'meta-title',
-      title: "Anwer Khan Modern Medical College, Bangladesh - Hostel Details"},
-  { 
-      type:'meta-links',
+    },
+    {
+      type: 'meta-title',
+      title: "Anwer Khan Modern Medical College, Bangladesh - Hostel Details"
+    },
+    {
+      type: 'meta-links',
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/hostel" }
-  ]}
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/hostel" }
+      ]
+    }
   ],
 
   "faq":
     [
+      {
+        type: 'title',
+        title: "Anwer Khan Modern Medical College, Bangladesh - FAQs"
+      },
       {
         "type": "question-list",
         "title": "Anwer Khan Modern Medical College - Important FAQs",
@@ -631,21 +678,23 @@ export const anwerkhanmodernmedicalcollege = {
 
         ]
       },
-      { 
-        type:'meta',
+      {
+        type: 'meta',
         meta: [
-            { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - FAQs" },
-            { name: "description", content: "Anwer Khan Modern Medical College (AKMMC) is one of Bangladesh's most prestigious medical schools. click here to see FAQs" },
+          { name: "title", content: "Anwer Khan Modern Medical College, Bangladesh - FAQs" },
+          { name: "description", content: "Anwer Khan Modern Medical College (AKMMC) is one of Bangladesh's most prestigious medical schools. click here to see FAQs" },
         ],
-    },
-    {
-        type:'meta-title',
-        title: "Anwer Khan Modern Medical College, Bangladesh - FAQs"},
-    { 
-        type:'meta-links',
+      },
+      {
+        type: 'meta-title',
+        title: "Anwer Khan Modern Medical College, Bangladesh - FAQs"
+      },
+      {
+        type: 'meta-links',
         link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/faq" }
-    ]}
+          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/anwer-khan-modern-medical-college/faq" }
+        ]
+      }
     ],
 
 }

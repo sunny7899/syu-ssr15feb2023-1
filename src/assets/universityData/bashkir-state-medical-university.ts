@@ -22,7 +22,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Bashkir State Medical University - Quick Highlights",
-            "info": "<b>Given below is the table for quick overview about Bashkir State Medical University:</b>",
+            "info": "Given below is the table for quick overview about Bashkir State Medical University:",
             "col": [
             ],
             "row": [
@@ -43,7 +43,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Bashkir State Medical University?",
-            "info": "<b>Below are some of the benefits of studying MBBS at Bashkir State Medical University:</b>",
+            "info": "Below are some of the benefits of studying MBBS at Bashkir State Medical University:",
             // "img": 'https://www.selectyouruniversity.com/images/russia-universities/surgical-pratical-center-bashkir-state-medical-university.jpg',
             "data": [
                 "BSMU has a huge clinic where over 24000 patients visit annually which helps students to be in practical touch.",
@@ -61,7 +61,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Bashkir State Medical University offers the Medicinal courses in the following way mentioned:</b>",
+            "info": "Bashkir State Medical University offers the Medicinal courses in the following way mentioned:",
             "img": '',
             "data": [
                 "Bashkir State Medical University is a bilingual university. Here the medium of teaching is English and Russian.",
@@ -74,7 +74,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Bashkir State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Bashkir State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Bashkir State Medical University:",
             "col": [
                 "World",
                 "Country",
@@ -94,7 +94,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Bashkir State Medical University is accredited by many medical bodies such as:</b>",
+            "info": "Bashkir State Medical University is accredited by many medical bodies such as:",
             "img": '',
             "data": [
                 "WHO (World Health Organization)",
@@ -110,7 +110,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Students Life",
-            "info": "<b>Bashkir State Medical University focuses on the all side growth of students including educational, academic and extra curriculum with students health and activeness too:</b>",
+            "info": "Bashkir State Medical University focuses on the all side growth of students including educational, academic and extra curriculum with students health and activeness too:",
             "img": '',
             "data": [
                 "Bashkir State Medical University provides students all the facilities regarding academic, sports, extra curriculum, festivals and tours.",
@@ -125,7 +125,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Ufa",
-            "info": "<b>Get an idea about the average living cost while studying at Bashkir State Medical University:</b>",
+            "info": "Get an idea about the average living cost while studying at Bashkir State Medical University:",
             "col": [
                 "Activity",
                 "Cost",
@@ -194,9 +194,13 @@ export const bashkirstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Bashkir State Medical University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Bashkir State Medical University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Bashkir State Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Bashkir State Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -253,7 +257,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Bashkir State Medical University",
-            "info": "<b>Since its establishment Bashkir State Medical University has always improvised and added many faculties for medical studies in Russia:</b>",
+            "info": "Since its establishment Bashkir State Medical University has always improvised and added many faculties for medical studies in Russia:",
             "data": [
                 "General Medicine",
                 "Dentistry",
@@ -265,7 +269,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Undergraduate Courses and Course Duration",
-            "info": "<b>Bashkir State Medical University offers medical courses with the duration of 4 years to 6 years. Here are the undergraduate courses offered by the university with their durations:</b>",
+            "info": "Bashkir State Medical University offers medical courses with the duration of 4 years to 6 years. Here are the undergraduate courses offered by the university with their durations:",
             "col": [
                 "Course",
                 "Duration",
@@ -297,7 +301,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Bashkir State Medical University - MBBS Duration",
-            "info": "<b>The duration of MBBS course at Bashkir State Medical University is mentioned below:</b>",
+            "info": "The duration of MBBS course at Bashkir State Medical University is mentioned below:",
             "data": [
                 "The Course duration of the medicine courses at Bashkir State Medical University is 4 years to 6 years for different courses.",
                 "The MBBS course has a duration of 6 years out of which 1 year is internship.",
@@ -433,9 +437,13 @@ export const bashkirstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Bashkir State Medical University - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Bashkir State Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Bashkir State Medical University is as follows:",
             "data": [
                 "Students must have cleared NEET exam.",
                 "The student must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -446,7 +454,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Complete the following steps to take admission to Bashkir State Medical University. There is an entrance test to crack to take admission to this university:</b>",
+            "info": "Complete the following steps to take admission to Bashkir State Medical University. There is an entrance test to crack to take admission to this university:",
             "data": [
                 "<b>Step 1:</b> Choose your program and fill the application form.",
                 "<b>Step 2:</b> Fill the visa invitation inquiry form.",
@@ -461,7 +469,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Students need to submit the different documents at different steps of the admission process and student visa process:</b>",
+            "info": "Students need to submit the different documents at different steps of the admission process and student visa process:",
             "data": [
                 "Application form and Visa invitation form",
                 "Academic certificates",
@@ -478,7 +486,7 @@ export const bashkirstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Bashkir State Medical University - Academic Calendar 2022",
-            "info": "<b>These are the important dates that you need to follow for the admission process:</b>",
+            "info": "These are the important dates that you need to follow for the admission process:",
             "col": [
                 "Events",
                 "Dates",
@@ -532,6 +540,10 @@ export const bashkirstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Bashkir State Medical University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bashkir State Medical University - Reviews" },
@@ -551,8 +563,12 @@ export const bashkirstatemedicaluniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Bashkir State Medical University - Placement"
+        },
+        {
             "type": "list-bollet",
-            "title": "placement",
+            "title": "Placement",
             "info": "",
             "data": [
                 "Bashkir State Medical University also encourages graduates to further their studies by providing the option.",
@@ -580,6 +596,10 @@ export const bashkirstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Bashkir State Medical University - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bashkir State Medical University - Gallery" },
@@ -599,9 +619,13 @@ export const bashkirstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Bashkir State Medical University - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarship provided at Bashkir State Medical University are as follows:</b>",
+            "info": "The scholarship provided at Bashkir State Medical University are as follows:",
             "data": [
                 "Badhte Kadam Scholarship",
                 "Udaan Scholarship",
@@ -631,6 +655,10 @@ export const bashkirstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Bashkir State Medical University - Faculty"
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -683,6 +711,10 @@ export const bashkirstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Bashkir State Medical University - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bashkir State Medical University - News & Articles" },
@@ -702,9 +734,13 @@ export const bashkirstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Bashkir State Medical University - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Following are the hostel facilities at Bashkir State Medical University:</b>",
+            "info": "Following are the hostel facilities at Bashkir State Medical University:",
             "data": [
                 "Bashkir state medical university provides students with hostel facilities.",
                 "Separate rooms are available for male and female students.",
@@ -735,9 +771,13 @@ export const bashkirstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Bashkir State Medical University - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Bashkir State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Russian language training available at the university?",

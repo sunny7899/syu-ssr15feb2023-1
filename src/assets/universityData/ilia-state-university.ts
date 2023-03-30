@@ -20,7 +20,7 @@ export const iliastateuniversity = {
         {
             "type": "table-title",
             "title": "Ilia State University - Important Highlights 2022",
-            "info": "<b>Here is some important information about Ilia State University at a glance. Check the duration, eligibility, and other things at ease:</b>",
+            "info": "Here is some important information about Ilia State University at a glance. Check the duration, eligibility, and other things at ease:",
             "row": [
                 ["<b>Established</b>", "2006"],
                 ["<b>University Type</b>", "Public"],
@@ -42,7 +42,7 @@ export const iliastateuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Ilia State University?',
-            info: '<b>Ilia State University has a lot to offer to students which can help you to decide Ilia as your destination for MBBS in Georgia:</b>',
+            info: 'Ilia State University has a lot to offer to students which can help you to decide Ilia as your destination for MBBS in Georgia:',
             data: [
                 "The MBBS degree of Ilia State Medical University is fully accredited & recognized by the National Medical Commission (NMC) & World Health Organisation (WHO)",
                 "Education at Ilia is considered to be one of the best in Europe.",
@@ -59,7 +59,7 @@ export const iliastateuniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>The medium of teaching in NMC approved medical universities in Georgia is English. It helps the students from all over the world to understand the concepts very easily:</b>',
+            info: 'The medium of teaching in NMC approved medical universities in Georgia is English. It helps the students from all over the world to understand the concepts very easily:',
             data: [
                 "Ilia State University approved by the National Medical Commission & World Health Organisation which follows English as a medium of instruction for the MBBS course of study.",
                 "International students can benefit from communicating with the professors, faculties in English in terms of any queries."
@@ -68,7 +68,7 @@ export const iliastateuniversity = {
         {
             "type": "table",
             "title": "Ilia State University - Country & World Ranking 2022",
-            "info": "<b>Ilia State Medical University is ranked among the top 500 universities in Emerging Europe and Central Asia by the QS World University Rankings:</b>",
+            "info": "Ilia State Medical University is ranked among the top 500 universities in Emerging Europe and Central Asia by the QS World University Rankings:",
             "col": [
                 "Country",
                 "World",
@@ -150,6 +150,10 @@ export const iliastateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Ilia State University, Georgia - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Ilia State University - MBBS Fee Structure 2022",
             "info": "",
@@ -210,7 +214,7 @@ export const iliastateuniversity = {
         {
             "type": "list-bollet",
             "title": "Which Courses are offered at Ilia State University?",
-            "info": "<p><strong>The courses offered at Ilia State University is comprised of four faculties:</strong></p>",
+            "info": "The courses offered at Ilia State University is comprised of four faculties:",
             "data": [
                 "Arts and Sciences",
                 "Law",
@@ -222,7 +226,7 @@ export const iliastateuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Ilia State University - MBBS Course Duration',
-            "info": '<b>Duration of the course in Ilia State University varies from 2 to 6 years depending on the chosen program:</b>',
+            "info": 'Duration of the course in Ilia State University varies from 2 to 6 years depending on the chosen program:',
             "data": [
                 "Total course duration of MBBS at the Ilia State university is 6 years. This includes an internship of 1 year."
             ]
@@ -230,7 +234,7 @@ export const iliastateuniversity = {
         {
             "type": "text",
             "title": "Ilia State University - MBBS Syllabus",
-            "info": '<p><b>The syllabus for MBBS in Ilia State Medical University covers a lot of different subjects. Here is the syllabus for 12 semesters of MBBS degree in Ilia, Georgia:</b></p>'
+            "info": 'The syllabus for MBBS in Ilia State Medical University covers a lot of different subjects. Here is the syllabus for 12 semesters of MBBS degree in Ilia, Georgia:'
         },
 
         {
@@ -408,9 +412,14 @@ export const iliastateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Ilia State University, Georgia - Admission 2023"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria for MBBS Program',
-            info: '<b>Those candidates who all are applying for MBBS degree must follow the mandatory points that are given below:</b>',
+            info: 'Those candidates who all are appg for MBBS degree must follow the mandatory points that are given below:</b>',
             data: [
                 "A candidate must have completed His/Her 10+2 from (PCB) Physics, Chemistry, and Biology with an average of 85%.",
                 "A candidate must score 6 to 7.5 IELTS bands overall. - TOEFL (IBT) score must be 79 to 90. - TOEFL (PBT) score must be 577 to 600. - Duolingo score must be 115 to 120. - PTE score should be around 65-75.",
@@ -419,7 +428,7 @@ export const iliastateuniversity = {
         {
             type: 'step-list',
             title: 'How to Apply for MBBS in Ilia State University?',
-            info: '<b>For hassle free admission follow the steps below:</b>',
+            info: 'For hassle free admission follow the stepsow:</b>',
             data: [
                 "<b>Step 1:</b>Submit Online Application.",
                 "<b>Step 2:</b>Receive the application feedback within 7 business days.",
@@ -464,7 +473,7 @@ export const iliastateuniversity = {
         {
             "type": "table",
             "title": "Ilia State University - Academic Calendar 2022-23",
-            "info": "<b>Refer to the following table for the important timelines of the admission process and intake in Ilia State University for the MBBS course. Indian students must keep the dates in mind as they need to process the student visa accordingly:</b>",
+            "info": "Refer to the following table for the important timelines of the admission process and intake in Ilia State University for the MBBS course. Indian students must keep the dates in mind as they need to process the student visa accordingly:",
             "col": [
                 "Events",
                 "Dates"
@@ -511,6 +520,11 @@ export const iliastateuniversity = {
     "Review":
         [
             {
+                type: 'title',
+                title: "Ilia State University, Georgia - Reviews"
+
+            },
+            {
                 type: "meta",
                 meta: [
                     { name: "title", content: "Ilia State University, Georgia - Reviews" },
@@ -530,6 +544,11 @@ export const iliastateuniversity = {
         ],
     "gallery": [
         {
+            type: 'title',
+            title: "Ilia State University, Georgia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ilia State University, Georgia - Gallery" },
@@ -548,6 +567,11 @@ export const iliastateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Ilia State University, Georgia - Placement"
+
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -581,9 +605,14 @@ export const iliastateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Ilia State University, Georgia - Scholarship"
+
+        },
+        {
             "type": "table-title",
             "title": "scholarship",
-            "info": "<b>The scholarship provided at Ilia State University is based on competitive marks and the amount of tuition fees after the scholarship is mentioned below</b>",
+            "info": "The scholarship provided at Ilia State University is based on competitive marks and the amount of tuition fees after the scholarship is mentioned below",
             "row": [
                 ["-", "For International students<br>(full program only)", "For Georgian students<br>(Intensive English and Math Preparation only)"],
                 ["3 months program", "1000 USD", "500 USD"],
@@ -610,8 +639,13 @@ export const iliastateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Ilia State University, Georgia - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -662,6 +696,11 @@ export const iliastateuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Ilia State University, Georgia - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ilia State University, Georgia - News & Articles" },
@@ -681,9 +720,14 @@ export const iliastateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Ilia State University, Georgia - Hostel"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Is there any Hostel facility provided by ILIAUNI?',
-            "info": '<b>Ilia State University provides students with a lavish stay at university accommodation facilities:</b>',
+            "info": 'Ilia State University provides students with a lavish stay at university accommodation facilities:',
             "data": [
                 "There are separate hostels for boys and girls with a 24*7 security guard service.",
                 "Each room is based on 3 person sharing. Hostels are provided with free wi-fi service.",
@@ -713,6 +757,10 @@ export const iliastateuniversity = {
     ],
     "faq":
         [
+            {
+                type: 'title',
+                title: "Ilia State University, Georgia - FAQ"
+            },
             {
                 "type": "question-list",
                 "title": "Ilia State University - Important FAQ",

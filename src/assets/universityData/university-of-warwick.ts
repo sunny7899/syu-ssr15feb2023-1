@@ -11,18 +11,16 @@ export const universityofwarwick = {
             type: 'title',
             title: 'University of Warwick, England'
         },
-
         {
             "type": 'text',
             "title": '',
             // "img": 'https://www.selectyouruniversity.com/images/university-of-warwick.jpg',
             "data": '<p>The University of Warwick was established in 1964 and started its first batch in 1965. MBA in University of Warwick has gained a renowned position among top business schools in the world.</p><p>The university has an affiliation with the Association of Commonwealth Universities, Midland Innovation Group, AACSB, European University Association and the universities in the UK. It houses the concert hall, theatre studio, art gallery, music center and sports facilities to the students.</p><p>The university offers business and management programs in the various fields with the involvement of 27,000 students and more than 2400 qualified and experienced teachers. WIth the collaboration of 200 local and international universities across 40 countries, the university has set the benchmark in producing the students of employable graduates.</p>'
         },
-
         {
             "type": "table-title",
             "title": "University of Warwick: Quick Overview",
-            "info": "<b>Following are the quick highlights of studying MBA in University of Warwick:</b>",
+            "info": "Following are the quick highlights of studying MBA in University of Warwick:",
             "col": [
             ],
             "row": [
@@ -35,14 +33,12 @@ export const universityofwarwick = {
                 ["<b>Annual Tuition Fees</b>", "Rs. 43 lakhs"],
                 ["<b>Job Positions Offered</b>", "Analyst, Supervisor, Manager, Specialist, HR"],
                 ["<b>Location</b>", "UK"],
-
-
             ]
         },
         {
             "type": "list-bollet",
             "title": "Why Pursue MBA at University of Warwick?",
-            "info": "<b>Below are the top benefits of studying MBA in University of Warwick:</b>",
+            "info": "Below are the top benefits of studying MBA in University of Warwick:",
             "img": '',
             "data": [
                 "The university offers peers of opportunity for the students to grow professionally and personally.",
@@ -51,15 +47,13 @@ export const universityofwarwick = {
                 "Each year more than 7000 vacancies are recruited by the university.",
                 "The university hosts major career fairs with a great opportunity in the employment and industrial sectors.",
                 "With fast-paced academia of the university, students are engaged with real-world knowledge exploring the experience to stand in the groom of business in the world.",
-
-
             ]
         },
 
         {
             "type": "table",
             "title": "University of Warwick: Ranking (2021-22)",
-            "info": "<b>Below is the ranking of the University of Warwick as per the uniRank standard ranking system:</b>",
+            "info": "Below is the ranking of the University of Warwick as per the uniRank standard ranking system:",
             "col": [
                 "World",
                 "Country",
@@ -94,9 +88,13 @@ export const universityofwarwick = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Warwick - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Warwick: Fee Structure (2021-22)",
-            "info": "<b>Following is the fee structure of MBA course at University of Warwick:</b>",
+            "info": "Following is the fee structure of MBA course at University of Warwick:",
             "col": [
                 "Particulars",
                 "Fees in Rupees",
@@ -125,13 +123,13 @@ export const universityofwarwick = {
         {
             "type": "text",
             "title": "Duration of MBA Course in University of Warwick",
-            "info": "<b>An MBA in the University of Warwick lasts for a period of 1 year:</b>",
+            "info": "An MBA in the University of Warwick lasts for a period of 1 year:",
             "data": "<p><b>An MBA in the University of Warwick lasts for a period of 1 year:</b></p><p>University of Warwick offers a 1 year of fast paced and captivating MBA program for the management students with the unlimited coaching, in-depth work material and provides the opportunity to employ in leading companies to grow personally and academically.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Programs Offered at University of Warwick",
-            "info": "<b>Following are the programs offered for studying MBA at University of Warwick:</b>",
+            "info": "Following are the programs offered for studying MBA at University of Warwick:",
             "data": [
                 "Full-Time MBA",
                 "Part-Time MBA",
@@ -142,7 +140,7 @@ export const universityofwarwick = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Specializations Offered at University of Warwick:</b>",
+            "info": "Specializations Offered at University of Warwick:",
             "data": [
                 "Accounting",
                 "Finance",
@@ -173,9 +171,13 @@ export const universityofwarwick = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Warwick - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: Applying for MBA in University of Warwick",
-            "info": "<b>Follow the below eligibility criteria for applying MBA at University of Warwick:</b>",
+            "info": "Follow the below eligibility criteria for applying MBA at University of Warwick:",
             "data": [
                 "Applicants should have a bachelor degree with good grades from the overseas university or the UK university.",
                 "Professional working experience should be 3 years for the business and management professionals.",
@@ -187,7 +189,7 @@ export const universityofwarwick = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>For applying MBA course in University of Warwick, the university has a web-based application system to make the process simple and convenient:</b>",
+            "info": "For applying MBA course in University of Warwick, the university has a web-based application system to make the process simple and convenient:",
             "data": [
                 "<b>Step 1:</b> Fill the online application form available on the official portal of the University of Warwick.",
                 "<b>Step 2:</b> By clicking the submit button, your information will be stored as confidential.",
@@ -203,7 +205,7 @@ export const universityofwarwick = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Refer the below document checklists for applying MBA in University of Warwick:</b>",
+            "info": "Refer the below document checklists for applying MBA in University of Warwick:",
             "data": [
                 "Copy of Mark Sheets (10th,12th, bachelor)",
                 "Copy of Passport",
@@ -221,7 +223,7 @@ export const universityofwarwick = {
         {
             "type": "table",
             "title": "University of Warwick: Important Dates",
-            "info": "<b>Below is the ranking of the University of Warwick as per the uniRank standard ranking system:</b>",
+            "info": "Below is the ranking of the University of Warwick as per the uniRank standard ranking system:",
             "col": [
                 "Phase",
                 "Declaration of Results",
@@ -277,6 +279,10 @@ export const universityofwarwick = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Warwick - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Warwick - Reviews" },
@@ -296,9 +302,13 @@ export const universityofwarwick = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'University of Warwick - Placement'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Opportunity at University of Warwick",
-            "info": "<b>Placement cell at University of Warwick offer personalized support to develop your skill and to acquire a better learning experience from the corporate industries and renowned organizations:</b>",
+            "info": "Placement cell at University of Warwick offer personalized support to develop your skill and to acquire a better learning experience from the corporate industries and renowned organizations:",
             "data": [
                 "In-depth understanding of the particular subject under the guidance of departmental consultants.",
                 "Help the students to prepare for job applications and interviews.",
@@ -310,11 +320,8 @@ export const universityofwarwick = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Top recruiters at University of Warwick:</b>",
-            "col": [
-
-
-            ],
+            "info": "Top recruiters at University of Warwick:",
+            "col": [],
 
             "row": [
                 ["IBM", "Capgemini", "SIMEN"],
@@ -342,6 +349,10 @@ export const universityofwarwick = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Warwick - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Warwick - Gallery" },
@@ -361,9 +372,13 @@ export const universityofwarwick = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Warwick - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following are the scholarships offered by the University of Warwick  -</b>",
+            "info": "Following are the scholarships offered by the University of Warwick  -",
             "data": [
                 "Chancellor’s International Scholarship",
                 "Department of Politics & International Studies",
@@ -393,6 +408,10 @@ export const universityofwarwick = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Warwick - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty ",
@@ -442,6 +461,10 @@ export const universityofwarwick = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Warwick - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Warwick - News & Articles" },
@@ -461,9 +484,13 @@ export const universityofwarwick = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Warwick - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation at University of Warwick",
-            "info": "<b>University of Warwick offers on-campus and off-campus accommodation to international students:</b>",
+            "info": "University of Warwick offers on-campus and off-campus accommodation to international students:",
             "data": [
                 "The hostel with well-equipped rooms are allotted to students & it is located at a distance of 20 minute away from main campus buildings.",
                 "Shared rooms are not available.",
@@ -474,7 +501,7 @@ export const universityofwarwick = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following are the amenities at hostel:</b>",
+            "info": "Following are the amenities at hostel:",
             "data": [
                 "Kitchens",
                 "Cafeteria",
@@ -506,9 +533,13 @@ export const universityofwarwick = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Warwick - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Warwick: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many seats allotted to the MBA course at the University of Warwick?",

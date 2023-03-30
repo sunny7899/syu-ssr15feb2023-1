@@ -20,7 +20,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table-title",
             "title": "Liceo College of Medicine - Quick Highlights 2021",
-            "info": "<b>Find out the necessary information for taking admission in a medical course at Liceo College of Medicine:</b>",
+            "info": "Find out the necessary information for taking admission in a medical course at Liceo College of Medicine:",
             "col": [
             ],
             "row": [
@@ -38,14 +38,14 @@ export const liceocollegeofmedicine = {
         {
             type: 'text',
             title: 'Liceo College of Medicine - Official Admission Partner',
-            info: "<b>Walgreens Consultancy and Services and Select Your University have shaken hands with Liceo College of Medicine for partnership and admission of Indian students:</b>",
+            info: "Walgreens Consultancy and Services and Select Your University have shaken hands with Liceo College of Medicine for partnership and admission of Indian students:",
             data: ''
         },
 
         {
             "type": "list-bollet",
             "title": "Top Reasons to Study MBBS in Liceo College of Medicine",
-            "info": "<b>Let's get to know why thousands of Indian students choose Liceo College of Medicine to pursue an MBBS career:</b>",
+            "info": "Let's get to know why thousands of Indian students choose Liceo College of Medicine to pursue an MBBS career:",
             "data": [
                 "The combined bed strength of the hospital is 2700+ to treat the patients.",
                 "The faculty members are highly qualified and fully dedicated and strive to provide the best of knowledge to the students.",
@@ -64,7 +64,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table",
             "title": "Liceo College of Medicine - Ranking 2022",
-            "info": "<b>The students must go through the country and world ranking of the Liceo College of Medicine:</b>",
+            "info": "The students must go through the country and world ranking of the Liceo College of Medicine:",
             "col": [
                 "Country",
                 "World",
@@ -80,7 +80,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table-title",
             "title": "Facilities Provided at Liceo College of Medicine",
-            "info": "<b>Liceo College of Medicine offers top-class modern facilities at the convenience of the students:</b>",
+            "info": "Liceo College of Medicine offers top-class modern facilities at the convenience of the students:",
             "col": [
             ],
             "row": [
@@ -105,7 +105,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Academic Affiliations",
-            "info": "<b>The Liceo College of Medicine is officially accredited and recognised by several medical bodies:</b>",
+            "info": "The Liceo College of Medicine is officially accredited and recognised by several medical bodies:",
             "data": [
                 "Federation of Accrediting Agencies of the Philippines",
                 "Philippine Association of Colleges and Universities Commission on Accreditation",
@@ -116,7 +116,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table",
             "title": "Living Cost of Cagayan de Oro, Philippines",
-            "info": "<b>The living expenses of Cagayan de Oro city is very much affordable if you are looking to study MBBS in the Philippines:</b>",
+            "info": "The living expenses of Cagayan de Oro city is very much affordable if you are looking to study MBBS in the Philippines:",
             "col": [
                 "Particulars",
                 "Amount in USD",
@@ -162,9 +162,14 @@ export const liceocollegeofmedicine = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Liceo College of Medicine Fee Structure 2022",
-            "info": "<b>Liceo College of Medicine offers affordable MBBS education to all students coming from across the globe:</b>",
+            "info": "Liceo College of Medicine offers affordable MBBS education to all students coming from across the globe:",
             "col": [
                 "Particulars",
                 "1st Installment",
@@ -202,7 +207,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Liceo College of Medicine - MBBS Course Duration",
-            "info": "<b>Liceo College of Medicine provides entire medical education of 6 years to the students looking to study MBBS in the Philippines:</b>",
+            "info": "Liceo College of Medicine provides entire medical education of 6 years to the students looking to study MBBS in the Philippines:",
             "data": [
                 "The Liceo College of Medicine provides 6 years of MBBS education in the English language through dedicated teachers who will provide theoretical as well as practical knowledge.",
                 "The students must complete 1 year of mandatory internship after completing 5 years.",
@@ -279,7 +284,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table",
             "title": "<b>MBBS (MD) Syllabus</b>",
-            "info": "<b>1st Year</b>",
+            "info": "1st Year",
 
             "col": [
                 "1st semester",
@@ -327,7 +332,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2st Year</b>",
+            "info": "2st Year",
             "col": [
                 "1st semester",
                 "2nd semester",
@@ -372,7 +377,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3st Year</b>",
+            "info": "3st Year",
             "col": [
                 "1st semester",
                 "2nd semester",
@@ -438,7 +443,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4st Year - Clerkship/ Internship</b>",
+            "info": "4st Year - Clerkship/ Internship",
             "col": [
 
             ],
@@ -470,10 +475,15 @@ export const liceocollegeofmedicine = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - Admission 2023 "
+
+        },
+        {
 
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicants should not miss out on the basic admission criteria to grab MBBS seat:</b>",
+            "info": "The applicants should not miss out on the basic admission criteria to grab MBBS seat:",
             "data": [
                 "The applicants should be at least 17 years old while taking admission or complete this age before 31st December of the admission year.",
                 "The willing candidates must complete 12th standard with Biology, Physics, Chemistry and English subjects.",
@@ -488,7 +498,7 @@ export const liceocollegeofmedicine = {
 
             "type": "step-list",
             "title": "Admission Steps",
-            "info": "<b>The students must follow precise admission procedures to enroll in medicine course:</b>",
+            "info": "The students must follow precise admission procedures to enroll in medicine course:",
             "data": [
                 "<b>Step 1 :</b>The candidates dreaming to study medicine must fill in the application form available on the official website.",
                 "<b>Step 2 :</b>Upload the scan copies of required documents by mail.",
@@ -504,7 +514,7 @@ export const liceocollegeofmedicine = {
 
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The students willing to take MBBS admission in Liceo College of Medicine must submit all essential documents: </b>",
+            "info": "The students willing to take MBBS admission in Liceo College of Medicine must submit all essential documents: ",
             "data": [
                 "Application form",
                 "10 th, 11th and 12 th mark sheet",
@@ -546,6 +556,11 @@ export const liceocollegeofmedicine = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Liceo College of Medicine, Philippines - Reviews" },
@@ -564,6 +579,11 @@ export const liceocollegeofmedicine = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -584,6 +604,11 @@ export const liceocollegeofmedicine = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Liceo College of Medicine, Philippines - Gallery" },
@@ -602,6 +627,11 @@ export const liceocollegeofmedicine = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -622,6 +652,11 @@ export const liceocollegeofmedicine = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Liceo College of Medicine, Philippines - News & Articles" },
@@ -640,6 +675,11 @@ export const liceocollegeofmedicine = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - Faculty"
+
+        },
         {
             type: "meta",
             meta: [
@@ -660,9 +700,14 @@ export const liceocollegeofmedicine = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - Hostel"
+
+        },
+        {
             "type": "table-title",
             "title": "Hostel Facility",
-            "info": "<b>Liceo College of Medicine provides fully furnished and comfy accommodation facilities for students:</b>",
+            "info": "Liceo College of Medicine provides fully furnished and comfy accommodation facilities for students:",
             "col": [
 
             ],
@@ -701,9 +746,14 @@ export const liceocollegeofmedicine = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Liceo College of Medicine, Philippines - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Liceo College of Medicine - Important FAQ’s",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the medium of Instruction used to provide medical education at the Liceo College of Medicine?",

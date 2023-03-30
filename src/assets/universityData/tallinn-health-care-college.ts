@@ -19,7 +19,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": "table-title",
             "title": "Tallinn Health Care College - Quick Overview",
-            "info": "<b>The applicants are requested to go through some of these Tallinn Health Care College quick-highlights before applying in the University for 2021 academic session:</b>",
+            "info": "The applicants are requested to go through some of these Tallinn Health Care College quick-highlights before applying in the University for 2021 academic session:",
             "row": [
                 ["<b>Annual Tuition Fees</b>", "BSc Assistant Pharmacist - Rs. 4,76,800 (approx)"],
                 ["<b>Accepted Examination</b>", "Cambridge language test,<br> IELTS language test,<br> TOEFL language test,<br> Innove Cambridge Assessment English C1 Advanced and many more."],
@@ -32,7 +32,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": 'list-bollet',
             "title": 'Why Study at Tallinn Health Care College?',
-            "info": '<b>International students willing to study in Tallinn Health Care College, Estonia are entitled to avail following benefits and advantages:</b>',
+            "info": 'International students willing to study in Tallinn Health Care College, Estonia are entitled to avail following benefits and advantages:',
             "data": [
                 "The University has a unique academic curriculum for Professional higher education in medical education technology, nursing, health education, etc.",
                 "Recently launched an innovative professional higher education degree in BSc Assistant Pharmacist for international students.",
@@ -49,7 +49,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": 'list-bollet',
             "title": 'Facilities offered at Tallinn Health Care College',
-            "info": '<b>Tallinn Health Care College offers some of these world-class facilities that not all of the Baltic state Universities offer, they’re:</b>',
+            "info": 'Tallinn Health Care College offers some of these world-class facilities that not all of the Baltic state Universities offer, they’re:',
             "data": [
                 "Hostel",
                 "Internet",
@@ -61,7 +61,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": "table",
             "title": "Tallinn Health Care College - Ranking 2022",
-            "info": "<b>Tallinn Health Care College Estonia is known for earning the following global ranking as per 4icu University ranking:</b>",
+            "info": "Tallinn Health Care College Estonia is known for earning the following global ranking as per 4icu University ranking:",
             "col": [
                 "Country",
                 "World",
@@ -76,7 +76,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": 'list-bollet',
             "title": 'Medium of Teaching ',
-            "info": '<b>Tallinn Health Care College follows English as the language of study for BSc in Assistant Pharmacist program:</b>',
+            "info": 'Tallinn Health Care College follows English as the language of study for BSc in Assistant Pharmacist program:',
             "data": [
                 "The Bachelor’s degree in Assistant Pharmacist at Tallinn Healthcare College and the ERASMUS student exchange traineeship programs are offered in English. ",
                 "Whereas the rest of the courses like - Professional Higher Education, Master’s, Vocational Training programs are offered in Estonian and Russian language."
@@ -85,7 +85,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": 'list-bollet',
             "title": 'Tallinn Health Care College - Accreditations',
-            "info": '<b>The international accreditations earned by Tallinn Health Care College Estonia are as follows: </b>',
+            "info": 'The international accreditations earned by Tallinn Health Care College Estonia are as follows: ',
             "data": [
                 "Internationally recognized state professional higher educational institution.",
                 "Rector of Tallinn Health Care College, was awarded the Pärnu decoration.",
@@ -97,7 +97,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": "table",
             "title": "Living Expenses in Estonia",
-            "info": "<b>Cost of living in Estonia is quite reasonable in comparison to the other Baltic countries. The affordable cost of living per month in the country are:</b>",
+            "info": "Cost of living in Estonia is quite reasonable in comparison to the other Baltic countries. The affordable cost of living per month in the country are:",
             "col": [
                 "Particular",
                 "Amount in USD",
@@ -125,7 +125,7 @@ export const tallinnhealthcarecollege = {
                     "Amount in RS": "2,700 Rs"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 74 INR (approx)</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 74 INR (approx)</p>',
         },
         {
             type: "meta",
@@ -148,9 +148,13 @@ export const tallinnhealthcarecollege = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - courses & Fees'
+        },
+        {
             "type": "table-title",
             "title": "Faculties at Tallinn Health Care College",
-            "info": "<b>As an applicant, you might go through the following list of academic programs offered at Tallinn Health Care College in different faculties they’re:</b> <br>Higher Education Program",
+            "info": "As an applicant, you might go through the following list of academic programs offered at Tallinn Health Care College in different faculties they’re: <br>Higher Education Program",
             "colTitle": "Sub-faculty:",
             "row": [
                 ["Healthcare ", "Medicine (Only BSc in Assistant Pharmacy course is provided in English in this discipline)"]
@@ -189,7 +193,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": "table",
             "title": "Tallinn Health Care College - BSc in Assistant Pharmacist Fee Structure",
-            "info": "<b>The reasonable fee structure of Tallinn Healthcare College for BSc degree in Assistant Pharmacy has been mentioned below:</b>",
+            "info": "The reasonable fee structure of Tallinn Healthcare College for BSc degree in Assistant Pharmacy has been mentioned below:",
             "col": [
                 "Program",
                 "Fees in USD (approx)",
@@ -238,9 +242,13 @@ export const tallinnhealthcarecollege = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - Admission 2023 '
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility details for applying in Tallinn Healthcare College has been shared below:</b>",
+            "info": "The eligibility details for applying in Tallinn Healthcare College has been shared below:",
             "data": [
                 "Must complete High School/Secondary Education or similar academic degree",
                 "Compulsory to complete HS examination with 50% (minimum) or above in science stream with physics, biology, chemistry, maths as a part of the subjects chosen in higher secondary education",
@@ -251,7 +259,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Must qualify the following English proficiency language tests at B2 level:</b>",
+            "info": "Must qualify the following English proficiency language tests at B2 level:",
             "data": [
                 "Cambridge Language test",
                 "IELTS language test",
@@ -262,7 +270,7 @@ export const tallinnhealthcarecollege = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The admission process for applying in Tallinn Healthcare College for academic session 2021 has been shared below:</b>',
+            info: 'The admission process for applying in Tallinn Healthcare College for academic session 2021 has been shared below:',
             data: [
                 "Step 1: Registering and filling up the online application process by clicking ‘apply now’ for respective academic year.",
                 "Step 2: Attaching all the documents related to Higher Secondary Education that declares that the previous academic programs have been completed from the respective institute that’s authorized. It’s mandatory to attach the transcripted grade average of the previous documents is the previous education acquired by the applicant is not in English as mentioned in the University’s admission guidelines.",
@@ -274,7 +282,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Every eligible candidates need to carry the following documents before coming to Tallinn Healthcare College at Estonia, they’re:</b>",
+            "info": "Every eligible candidates need to carry the following documents before coming to Tallinn Healthcare College at Estonia, they’re:",
             "data": [
                 "Original Passport",
                 "Domicile / Residential proof ",
@@ -287,7 +295,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Certificate proof of the English B2 level proficiency eligibility test in following disciplines:</b>",
+            "info": "Certificate proof of the English B2 level proficiency eligibility test in following disciplines:",
             "data": [
                 "CLT",
                 "IELTS",
@@ -298,7 +306,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": "table",
             "title": "Tallinn Health Care College - Important Dates 2022",
-            "info": "<b>The applicants of BSc in Assistant Pharmacist study programs offered at Tallinn Healthcare College are requested to go through the following deadlines and dates for academic session 2021:</b>",
+            "info": "The applicants of BSc in Assistant Pharmacist study programs offered at Tallinn Healthcare College are requested to go through the following deadlines and dates for academic session 2021:",
             "col": [
                 "Events",
                 "Dates"
@@ -346,6 +354,10 @@ export const tallinnhealthcarecollege = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tallinn Health Care College, Estonia - Reviews" },
@@ -364,6 +376,10 @@ export const tallinnhealthcarecollege = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -393,6 +409,10 @@ export const tallinnhealthcarecollege = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tallinn Health Care College, Estonia - Gallery" },
@@ -411,6 +431,10 @@ export const tallinnhealthcarecollege = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -439,6 +463,10 @@ export const tallinnhealthcarecollege = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -490,6 +518,10 @@ export const tallinnhealthcarecollege = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tallinn Health Care College, Estonia - News & Articles" },
@@ -509,9 +541,13 @@ export const tallinnhealthcarecollege = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Tallinn Health Care College provides the following hostel/accomodation facilities to the international students of exchange only, the facility includes:</b>",
+            "info": "Tallinn Health Care College provides the following hostel/accomodation facilities to the international students of exchange only, the facility includes:",
             "data": [
                 "Room for 2-3 people with no single room options",
                 "Location of the hostel is 15 minutes walk from the main campus",
@@ -524,7 +560,7 @@ export const tallinnhealthcarecollege = {
         {
             "type": "table",
             "title": "Hostel accommodation charges - ",
-            "info": "<b>The hostel expense-chart for Tallinn Healthcare College has been shared below:</b>",
+            "info": "The hostel expense-chart for Tallinn Healthcare College has been shared below:",
             "col": [
                 "Hostel Type",
                 "Expenses (approx) per month ",
@@ -568,9 +604,13 @@ export const tallinnhealthcarecollege = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Tallinn Health Care College, Estonia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Tallinn Health Care College - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How long the English taught study programs last at Tallinn HealthCare College Estonia?",

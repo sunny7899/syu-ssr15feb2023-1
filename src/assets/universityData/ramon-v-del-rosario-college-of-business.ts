@@ -20,7 +20,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "table-title",
             "title": "Ramon V. Del Rosario College of Business - Quick Highlights",
-            "info": "<b>The applicants should go through the important points to study at the Ramon V. del Rosario College of Business:</b>",
+            "info": "The applicants should go through the important points to study at the Ramon V. del Rosario College of Business:",
             "col": [],
             "row": [
                 ["<b>Tuition Fees (approx)</b>", "Undergraduate Courses: $4305 to $4725<br> Graduate Degree Courses: $777 to $2100<br> Doctorate Degree Courses: $2310 to $4305"],
@@ -34,7 +34,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "Why Choose Ramon V. del Rosario College of Business for Higher Studies?",
-            "info": "<b>Let’s explore some beneficial reasons why students prefer to study here:</b>",
+            "info": "Let’s explore some beneficial reasons why students prefer to study here:",
             "data": [
                 "The university has expanded with additional colleges under its belt since 1931.",
                 "From 1973, DLSU opened its doors for women allowing them to attend the university.",
@@ -50,7 +50,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "Facilities offered at Ramon V. del Rosario College of Business",
-            "info": "<b>Ramon V. del Rosario College of Business offers its students modern facilities:</b>",
+            "info": "Ramon V. del Rosario College of Business offers its students modern facilities:",
             "data": [
                 "Ramon V. del Rosario College of Business is well-equipped with the latest technologies while doing MBA courses.",
                 "Ramon V. del Rosario College of Business offers high-speed internet connectivity on the campus for studying MBA.",
@@ -66,7 +66,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction for education at the Ramon V. del Rosario College of Business:</b>",
+            "info": "The medium of instruction for education at the Ramon V. del Rosario College of Business:",
             "data": [
                 "Ramon V. del Rosario College of Business offers education in English medium to all the students studying here.",
             ]
@@ -74,7 +74,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "Accreditations",
-            "info": "<b>Ramon V. del Rosario College of Business has various National and international accreditations as given below:</b>",
+            "info": "Ramon V. del Rosario College of Business has various National and international accreditations as given below:",
             "data": [
                 "Commission on Higher Education (CHED)",
                 "Federation of Accrediting Agencies of the Philippines (FAAP)",
@@ -84,7 +84,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "Departments at Ramon V. del Rosario College of Business",
-            "info": "<b>The students must have a look at the various departments at the De La Salle University (DLSU):</b>",
+            "info": "The students must have a look at the various departments at the De La Salle University (DLSU):",
             "data": [
                 "Liberal Arts",
                 "Computer Studies",
@@ -98,7 +98,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>These are the departments at the Ramon V. del Rosario College of Business:</b>",
+            "info": "These are the departments at the Ramon V. del Rosario College of Business:",
             "data": [
                 "Accountancy",
                 "Commercial Law",
@@ -111,7 +111,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "table",
             "title": "Cost of Living at Manila, Philippines",
-            "info": "<b>Given below are the living expenses of Manila, Philippines which may vary according to the individual needs:</b>",
+            "info": "Given below are the living expenses of Manila, Philippines which may vary according to the individual needs:",
             "col": [
                 "Activity",
                 "Cost (approx.)",
@@ -138,7 +138,7 @@ export const ramonvdelrosariocollegeofbusiness = {
                     "Cost (approx.)": "Cost between Rs. 23,850 - Rs. 52,385",
                 },
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs.</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs.</p>',
         },
         {
             type: "meta",
@@ -160,6 +160,10 @@ export const ramonvdelrosariocollegeofbusiness = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - courses & Fees'
+        },
+        {
             "type": "text",
             "title": "1 Undergraduate Degree Programs",
             "data": "Programs"
@@ -167,7 +171,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following are the different Undergraduate Degree Programs at Ramon V. del Rosario College of Business:</b>",
+            "info": "Following are the different Undergraduate Degree Programs at Ramon V. del Rosario College of Business:",
             "data": [
                 "Accountancy",
                 "Advertising Management",
@@ -183,7 +187,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "table",
             "title": "Ramon V. del Rosario College of Business - Course Duration",
-            "info": "<b>Below given is the duration of different undergraduate courses at this college:</b>",
+            "info": "Below given is the duration of different undergraduate courses at this college:",
             "col": [
                 "Courses",
                 "Duration"
@@ -219,7 +223,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Following are the different Graduate Degree Programs at Ramon V. del Rosario College of Business:</b>",
+            "info": "Following are the different Graduate Degree Programs at Ramon V. del Rosario College of Business:</b>",
             "row": [
                 ["Doctor of Philosophy in Business (PHDBUS)", "Master of Science in Computational Finance (MSCF)", "Master in Risk and Insurance Management"],
                 ["Master of Marketing Communications", "Master of Science in Accountancy", "Master of Science in Entrepreneurship"],
@@ -263,7 +267,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "table",
             "title": "Ramon V. del Rosario College of Business - Course Duration",
-            "info": "<b>Below given is the duration of different graduate courses at this college:</b>",
+            "info": "Below given is the duration of different graduate courses at this college:",
             "col": [
                 "Courses",
                 "Duration"
@@ -327,9 +331,13 @@ export const ramonvdelrosariocollegeofbusiness = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria (Undergraduate Degree Programs)",
-            "info": "<b>Students must fit into the below mentioned eligibility criteria to take admission to undergraduate degree programs:</b>",
+            "info": "Students must fit into the below mentioned eligibility criteria to take admission to undergraduate degree programs:",
             "data": [
                 "The students must have completed their Secondary School education.",
                 "Students must have studied Mathematics at their 10+2 level.",
@@ -341,7 +349,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             type: 'step-list',
             title: 'Admission Process (Undergraduate Degree Programs)',
-            info: '<b>Students should follow the below given process to take admission to undergraduate degree programs:</b>',
+            info: 'Students should follow the below given process to take admission to undergraduate degree programs:',
             data: [
                 "Step 1: The students must prepare the following documents and attach them with the application form -"
             ]
@@ -370,7 +378,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "Documents Required - Undergraduate Degree Programs",
-            "info": "<b>Each applicant must submit following documents along with application form in order to secure admission to undergraduate degree programs:</b>",
+            "info": "Each applicant must submit following documents along with application form in order to secure admission to undergraduate degree programs:",
             "data": [
                 "10th-grade certificate",
                 "12th-grade mark sheet or certificate",
@@ -393,7 +401,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Graduate Degree Programs",
-            "info": "<b>Students must fit into the below mentioned eligibility criteria to take admission to graduate degree programs:</b>",
+            "info": "Students must fit into the below mentioned eligibility criteria to take admission to graduate degree programs:",
             "data": [
                 "To get admission to the Ramon V. del Rosario College of Business for graduate programs students must have a minimum of 21 years of age.",
                 "The students wishing to study graduate courses should complete 10+12 with good marks to enrol themselves.",
@@ -405,7 +413,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             type: 'step-list',
             title: 'Admission Process for Graduate Degree Programs',
-            info: '<b>Students should follow the below given process to take admission to graduate degree programs:</b>',
+            info: 'Students should follow the below given process to take admission to graduate degree programs:',
             data: [
                 "Step 1: The first step to applying for the postgraduate programs for the students is the completion of the online application form with the required documents attached with the form and then students should submit those.",
                 "Step 2: The admission committee will review the form and documents and invite qualified candidates for a personal interview.",
@@ -415,7 +423,7 @@ export const ramonvdelrosariocollegeofbusiness = {
         {
             "type": "list-bollet",
             "title": "Documents Required - Graduate Degree Programs",
-            "info": "<b>Each applicant must submit following documents along with application form in order to secure admission to graduate degree programs:</b>",
+            "info": "Each applicant must submit following documents along with application form in order to secure admission to graduate degree programs:",
             "data": [
                 "10th-grade certificate",
                 "12th-grade mark sheet or certificate",
@@ -455,6 +463,10 @@ export const ramonvdelrosariocollegeofbusiness = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ramon V. del Rosario College of Business, Philippines - Reviews" },
@@ -473,6 +485,10 @@ export const ramonvdelrosariocollegeofbusiness = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -502,6 +518,10 @@ export const ramonvdelrosariocollegeofbusiness = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ramon V. del Rosario College of Business, Philippines - Gallery" },
@@ -521,6 +541,10 @@ export const ramonvdelrosariocollegeofbusiness = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - Scholarship'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ramon V. del Rosario College of Business, Philippines - Scholarship" },
@@ -539,6 +563,10 @@ export const ramonvdelrosariocollegeofbusiness = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -596,6 +624,10 @@ export const ramonvdelrosariocollegeofbusiness = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ramon V. del Rosario College of Business, Philippines - News & Articles" },
@@ -615,9 +647,13 @@ export const ramonvdelrosariocollegeofbusiness = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation",
-            "info": "<b>De La Salle University (DLSU) provides housing facilities to its students at different premises:</b>",
+            "info": "De La Salle University (DLSU) provides housing facilities to its students at different premises:",
             "data": [
                 "The university provides housing facilities to its students so that it will be helpful for the students in their search for housing accommodations within the vicinity of the university.",
                 "The DLSU Housing Committee provides this facility that is composed of representatives from the administration, parents, Physical Facilities Office, faculty, students, and International Center.",
@@ -642,70 +678,73 @@ export const ramonvdelrosariocollegeofbusiness = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Ramon V. del Rosario College of Business - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360</b>",
-                "data": [
-                    {
-                        "ques": "Q. Which are the different student visas that are accepted for study at this university?",
-                        "ans": "De La Salle University accepts the following visas for study:"
-                    },
-                    // {
-                    //     "type": "table-title",
-                    //     "title": "",
-                    //     "info": "",
-                    //     "row": [
-                    //         ["<b>Student Visa Special</b>", "Diplomatic Visa"],
-                    //         ["<b>Study Permit</b>", "Refugee Visa"],
-                    //         ["<b>Missionary Visa</b>", "47 (a)(2)"],
-                    //         ["<b>Pre-arranged working Visa</b>", "EO 226 (as amended by RA-8756)"],
-                    //         ["<b>Subic Clark Working Visa</b>", "Section 13 (a-g)"],
-                    //         ["<b>Special Retirees Resident Visa</b>", "MCL"],
-                    //         ["<b>Native Born</b>", "Temporary Resident Visa"],
-                    //         ["<b>Permanent Resident/ Immigrant Visa</b>", "RA 7919"],
-                    //     ]
-                    // },
-                    {
-                        "ques": "Q. Are there international cooperation and exchange programs for students?",
-                        "ans": "Yes, the university has international cooperation and exchange programs with countries like China, Malaysia, Thailand, Indonesia, Vietnam, Japan, Mexico, Brazil, USA and so on."
-                    },
-                    {
-                        "ques": "Q. Are there any stores and restaurants on and off campus of the university?",
-                        "ans": "Yes, De La Salle University is surrounded by numerous restaurants that would fit students’ budget, also there are cafés, local and international fast food chains, and convenience stores that showcase Filipinos' love of Filipinos towards food."
-                    },
-                    {
-                        "ques": "Q. How much is the cost of living for a student in the Philippines?",
-                        "ans": "It is estimated that a student should be ready with a minimum of 18,000 Philippine Pesos or 378 US dollars (approximately) per month for basic living expenses including accommodation, food, utility bills, and transportation."
-                    },
-                    {
-                        "ques": "Q. Does the university provide accommodation to students?",
-                        "ans": "Yes, the university provides accommodation to students at various locations of the university campus."
-                    },
-                    {
-                        "ques": "Q. How are the faculties at the university?",
-                        "ans": "The faculty of De La Salle University is a powerhouse team of experts in the fields of arts and social sciences, education, engineering, business, computer technology, law, and natural science."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Ramon V. del Rosario College of Business, Philippines - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Ramon V. del Rosario College of Business, Philippines - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ramon-v-del-rosario-college-of-business/faq" }
-                ]
-            }
-        ]
+    "faq": [
+        {
+            type: 'title',
+            title: 'Ramon V. del Rosario College of Business, Philippines - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Ramon V. del Rosario College of Business - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360",
+            "data": [
+                {
+                    "ques": "Q. Which are the different student visas that are accepted for study at this university?",
+                    "ans": "De La Salle University accepts the following visas for study:"
+                },
+                // {
+                //     "type": "table-title",
+                //     "title": "",
+                //     "info": "",
+                //     "row": [
+                //         ["<b>Student Visa Special</b>", "Diplomatic Visa"],
+                //         ["<b>Study Permit</b>", "Refugee Visa"],
+                //         ["<b>Missionary Visa</b>", "47 (a)(2)"],
+                //         ["<b>Pre-arranged working Visa</b>", "EO 226 (as amended by RA-8756)"],
+                //         ["<b>Subic Clark Working Visa</b>", "Section 13 (a-g)"],
+                //         ["<b>Special Retirees Resident Visa</b>", "MCL"],
+                //         ["<b>Native Born</b>", "Temporary Resident Visa"],
+                //         ["<b>Permanent Resident/ Immigrant Visa</b>", "RA 7919"],
+                //     ]
+                // },
+                {
+                    "ques": "Q. Are there international cooperation and exchange programs for students?",
+                    "ans": "Yes, the university has international cooperation and exchange programs with countries like China, Malaysia, Thailand, Indonesia, Vietnam, Japan, Mexico, Brazil, USA and so on."
+                },
+                {
+                    "ques": "Q. Are there any stores and restaurants on and off campus of the university?",
+                    "ans": "Yes, De La Salle University is surrounded by numerous restaurants that would fit students’ budget, also there are cafés, local and international fast food chains, and convenience stores that showcase Filipinos' love of Filipinos towards food."
+                },
+                {
+                    "ques": "Q. How much is the cost of living for a student in the Philippines?",
+                    "ans": "It is estimated that a student should be ready with a minimum of 18,000 Philippine Pesos or 378 US dollars (approximately) per month for basic living expenses including accommodation, food, utility bills, and transportation."
+                },
+                {
+                    "ques": "Q. Does the university provide accommodation to students?",
+                    "ans": "Yes, the university provides accommodation to students at various locations of the university campus."
+                },
+                {
+                    "ques": "Q. How are the faculties at the university?",
+                    "ans": "The faculty of De La Salle University is a powerhouse team of experts in the fields of arts and social sciences, education, engineering, business, computer technology, law, and natural science."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Ramon V. del Rosario College of Business, Philippines - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Ramon V. del Rosario College of Business, Philippines - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ramon-v-del-rosario-college-of-business/faq" }
+            ]
+        }
+    ]
 }

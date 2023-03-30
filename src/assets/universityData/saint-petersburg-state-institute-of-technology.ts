@@ -19,7 +19,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "table-title",
             "title": "Saint Petersburg State Institute of Technology - Quick Highlights",
-            "info": "<b>The table shows the highlights of Saint Petersburg State Institute of technology for the foreign students willing to study engineering in Russia:</b></b>",
+            "info": "The table shows the highlights of Saint Petersburg State Institute of technology for the foreign students willing to study engineering in Russia:",
             "col": [],
             "row": [
                 ["<b>Intake for Engineering Course</b>", "July"],
@@ -36,7 +36,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "Why Study at Saint Petersburg State Institute of Technology?",
-            "info": "<b>Below are some of the few reasons for studying engineering at this university and listing some interesting facts about it:</b>",
+            "info": "Below are some of the few reasons for studying engineering at this university and listing some interesting facts about it:",
             "data": [
                 "It is one of the oldest and leading technical universities in Russia.",
                 "SPSIT is known for its chemical engineering, nanotechnology, biotechnology, and some other courses as the specialty.",
@@ -50,7 +50,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "table",
             "title": "Saint Petersburg State Institute of Technology - Ranking 2022",
-            "info": "<b>According to the UniRank database the country & world ranking of Saint Petersburg State Institute of Technology is given below:</b>",
+            "info": "According to the UniRank database the country & world ranking of Saint Petersburg State Institute of Technology is given below:",
             "col": [
                 "Country",
                 "World"
@@ -65,7 +65,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The major language used for the teaching in this university is described below:</b>",
+            "info": "The major language used for the teaching in this university is described below:",
             "data": [
                 "St.Petersburg State Institute of Technology provides the bachelor program of engineering in the English medium especially for foreign students, while it has Russian courses also available."
             ]
@@ -73,7 +73,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
-            "info": "<b>Following accreditation is obtained to this university by the government of Russia:</b>",
+            "info": "Following accreditation is obtained to this university by the government of Russia:",
             "data": [
                 "St.Petersburg State Institute of Technology is recognized by the Ministry of Science and Higher Education of the Russian Federation."
             ]
@@ -81,7 +81,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living in the city of Petersburg is mentioned on an average per month and may vary:</b>",
+            "info": "The cost of living in the city of Petersburg is mentioned on an average per month and may vary:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -138,9 +138,13 @@ export const saintpetersburgstateinstituteoftechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Saint Petersburg State Institute of Technology - Fee Structure 2022",
-            "info": "<b>The table gives quick notes about the fee structure decided by the official site of the university :</b>",
+            "info": "The table gives quick notes about the fee structure decided by the official site of the university :",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -169,7 +173,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "Course Duration",
-            "info": "<b>The engineering program has the minimum duration in this university is as follows:</b>",
+            "info": "The engineering program has the minimum duration in this university is as follows:",
             "data": [
                 "The course duration for the Engineering program at the St.Petersburg State Institute of Technology is 4 years in which two semesters are included for each academic year."
             ]
@@ -178,7 +182,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "table-title",
             "title": "Courses Offered at Saint Petersburg State Institute of Technology",
-            "info": "<b>Bachelor</b>",
+            "info": "Bachelor",
             "col": [],
             "row": [
                 ["Chemistry", "Applied information science", "Economics", "Management"],
@@ -190,7 +194,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Engineering</b>",
+            "info": "Engineering",
             "col": [],
             "row": [
                 ["Civil Engineering", "Mechanical Engineering", "Computer Science and Engineering"],
@@ -219,11 +223,14 @@ export const saintpetersburgstateinstituteoftechnology = {
         },
     ],
     "admission": [
-
+        {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology, Russia - Admission 2023'
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students seeking admission at the Russian universities must be perfectly fit in as under criteria for engineering programs:</b>",
+            "info": "Students seeking admission at the Russian universities must be perfectly fit in as under criteria for engineering programs:",
             "data": [
                 "The applicant must be 17 years or above for the bachelor’s degree in Engineering at St.petersburg SIT.",
                 "The applicant must be passed with a government-recognized school or university with maths as the compulsory subject.",
@@ -233,7 +240,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following are the steps to followed compulsorily for seeking admission to this university and seat to engineering programs:</b>",
+            "info": "Following are the steps to followed compulsorily for seeking admission to this university and seat to engineering programs:",
             "data": [
                 "<b>Step:1</b>Filling up the application form and thus completing the registration process for the engineering admission.",
                 "<b>Step:2</b>After that submission of all important academic documents and identity proof copies of both into the given mail id.",
@@ -261,7 +268,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The dates are scheduled as per the official site of the university:</b>",
+            "info": "The dates are scheduled as per the official site of the university:",
             "col": [
                 "Events",
                 "Dates"
@@ -305,7 +312,10 @@ export const saintpetersburgstateinstituteoftechnology = {
         },
     ],
     "review": [
-
+        {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology,Russia - Reviews'
+        },
         {
             type: "meta",
             meta: [
@@ -325,7 +335,10 @@ export const saintpetersburgstateinstituteoftechnology = {
         }
     ],
     "placement": [
-
+        {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology, Russia - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -345,7 +358,10 @@ export const saintpetersburgstateinstituteoftechnology = {
         }
     ],
     "gallery": [
-
+        {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology, Russia - Gallery'
+        },
         {
             type: "meta",
             meta: [
@@ -365,6 +381,10 @@ export const saintpetersburgstateinstituteoftechnology = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology, Russia - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "",
@@ -396,6 +416,10 @@ export const saintpetersburgstateinstituteoftechnology = {
         },
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology, Russia - Faculty'
+        },
         {
             "type": "table",
             "title": "",
@@ -443,7 +467,10 @@ export const saintpetersburgstateinstituteoftechnology = {
         }
     ],
     "news": [
-
+        {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology, Russia - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -464,9 +491,13 @@ export const saintpetersburgstateinstituteoftechnology = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Interesting features about the dormitories are listed as under:</b>",
+            "info": "Interesting features about the dormitories are listed as under:",
             "data": [
                 "Complete safety and security is maintained at the accommodation for the foreign students.",
                 "Gym, aerobic and sports clubs are there for the students.",
@@ -475,7 +506,7 @@ export const saintpetersburgstateinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostels at the SPSIT with all necessary facilities like:</b>",
+            "info": "The hostels at the SPSIT with all necessary facilities like:",
             "data": [
                 "Bed",
                 "Curtains",
@@ -574,6 +605,10 @@ export const saintpetersburgstateinstituteoftechnology = {
         // },
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Saint Petersburg State Institute of Technology, Russia - FAQ'
+        },
         {
             "type": "question-list",
             "title": "Saint Petersburg State Institute of Technology - Important FAQs",

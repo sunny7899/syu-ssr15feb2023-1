@@ -11,18 +11,16 @@ export const universityofdebrecen = {
             type: 'title',
             title: 'University of Debrecen, Hungary'
         },
-
         {
             type: 'text',
             title: 'About University of Debrecen, Hungary',
             // img: 'https://www.selectyouruniversity.com/images/hungary-universities/university-of-debrecen.jpg',
             data: '<p>The <b>public University of Debrecen</b> is the oldest still running university in Hungary since 1538.</p><p>The DU is the leading institute due to its excellence in every field of Business, Management, Arts, Medicine, Law, Science, and Engineering in Hungary. Thus, it is the learning hub for the global students studying here BBA, BE/BSc, ME/MSc, etc in Hungary in the number of 6000+ among 30000 total pupils.</p><p>Debrecen University being the top university in Hungary at the overall ranked as under 1000 universities globally, accredited with the top associations.</p><p>The University has almost 13 faculties and specializations with English programs available for each course. It includes two campuses with the main campus at Debrecen and the other at Kassai. It also has beautiful accommodations with all comfort facilities.</p><p>The University of Debrecen has almost 85+ bachelor’s degree programs and 100+master’s courses with 8 campuses in total. It has such a great record of notable alumni including writers, poets, chemists, mathematicians, scientists, etc. The university provides budget-friendly courses with economical living and scholarships for international students for their tuition fees expenses.</p>'
         },
-
         {
             "type": "table-title",
             "title": "University of Debrecen - Quick Overview",
-            "info": "<b>Below are some of the important highlights to remember before applying to University of Debrecen:</b>",
+            "info": "Below are some of the important highlights to remember before applying to University of Debrecen:",
             "col": [
             ],
             "row": [
@@ -39,9 +37,6 @@ export const universityofdebrecen = {
 
             ]
         },
-
-
-
         {
             type: 'text',
             title: 'University of Debrecen - Official Admission Partner',
@@ -49,15 +44,10 @@ export const universityofdebrecen = {
             // img: 'https://www.selectyouruniversity.com/hungary/university-of-debrecen-official-admission-partner.jpg',
             // data: ''
         },
-
-
-
-
-
         {
             "type": "list-bollet",
             "title": "Why Study at the University of Debrecen?",
-            "info": "<b>Features of the University of Debrecen describe below:</b>",
+            "info": "Features of the University of Debrecen describe below:",
             "img": '',
             "data": [
                 "The Debrecen University of Hungary stands at the top 5th in the country.",
@@ -71,14 +61,13 @@ export const universityofdebrecen = {
                 "Apart from that, it has notable alumni and great placements records.",
                 "It provides internships and placements opportunities to its students.",
 
-
             ]
         },
 
         {
             "type": "table",
             "title": "University of Debrecen - Ranking 2022",
-            "info": "<b>University of Debrecen is one of the best university to study MBA and BBA in Hungary, Checkout the ranking of college:</b>",
+            "info": "University of Debrecen is one of the best university to study MBA and BBA in Hungary, Checkout the ranking of college:",
             "col": [
                 "World",
                 "Country",
@@ -92,22 +81,19 @@ export const universityofdebrecen = {
 
             ]
         },
-
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The teaching medium for the international students in Hungary’s Debrecen University for Bachelor and master programs is:</b>",
+            "info": "The teaching medium for the international students in Hungary’s Debrecen University for Bachelor and master programs is:",
             "img": '',
             "data": [
                 "The medium of teaching at Hungary’s top institute of Debrecen is English. Also, the classroom language for the international student’s program who categorize in English language courses.",
-
-
             ]
         },
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living for an individual in the Debrecen city:</b>",
+            "info": "The cost of living for an individual in the Debrecen city:",
             "col": [
                 "Particular",
                 "Approx range in USD",
@@ -165,10 +151,14 @@ export const universityofdebrecen = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - courses & Fees'
+        },
+        {
             "type": "table",
             "textBelowInfo": "1 Engineering",
             "title": "Fee Structure",
-            "info": "<b>The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in Engineering:</b>",
+            "info": "The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in Engineering:",
             "col": [
                 "Program",
                 "USD",
@@ -218,7 +208,7 @@ export const universityofdebrecen = {
         {
             "type": "table",
             "title": "Courses Offered",
-            "info": "<b>The list of courses offered at the Debrecen University:</b>",
+            "info": "The list of courses offered at the Debrecen University:",
             "col": [
                 "Courses",
                 "Bachelor Degree(1)",
@@ -269,7 +259,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen University:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen University:",
             "data": [
                 "The applicant must have completed high school with mathematics and English as the compulsory subjects.",
                 "The applicant must be able to show their educational documents passing certificates while confirming admission.",
@@ -281,7 +271,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": '<b>The applicant must score well in a particular subject applying for mathematics as the mandatory for all exams.</b>',
+            "info": 'The applicant must score well in a particular subject applying for mathematics as the mandatory for all exams.',
             "data": [
                 "For Example, the applicant apply for the BSc in Chemical Engineering.",
                 "Then it is mandatory to have a good score in Chemistry with Maths in an Oral and written test of interview.",
@@ -292,7 +282,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Bachelor Degree (BSc)</b>",
+            "info": "For Bachelor Degree (BSc)",
             "data": [
                 "TOEFL - at least 513 marks",
                 "IELTS - Minimum 5.5",
@@ -302,7 +292,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Master Degree (MSc)</b>",
+            "info": "For Master Degree (MSc)",
             "data": [
                 "TOEFL - at least 547 marks",
                 "IELTS - Minimum 6.0",
@@ -312,7 +302,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Course Duration",
-            "info": "<b>The course duration for the Bachelor’s Master's engineering in Hungary is below: </b>",
+            "info": "The course duration for the Bachelor’s Master's engineering in Hungary is below: ",
             "data": [
                 "The course duration for the Bachelor of Engineering (B.E./B.Tech) at the University of Debrecen is 7 semesters in total. Thus, it takes 3.5 to 4 years to complete the full-time studies in Hungary for English programs, but students need to practice internships for some duration.",
                 "Also, the Master of Engineering at the Debrecen campus completed in 2 years having 4 semesters in total for the English curriculum."
@@ -322,7 +312,7 @@ export const universityofdebrecen = {
             "type": "table",
             "textBelowInfo": "2 Business Courses",
             "title": "Fee Structure",
-            "info": "<b>The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in business and marketing::</b>",
+            "info": "The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in business and marketing::</b>",
             "col": [
                 "Program",
                 "USD",
@@ -352,7 +342,7 @@ export const universityofdebrecen = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Other Fees:</b>",
+            "info": "Other Fees:",
             "col": [
                 "Application Fees",
                 "Registration Fees",
@@ -405,7 +395,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen Uni:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen Uni:",
             "data": [
                 "The applicant must have completed high school with mathematics and English as the compulsory subjects.",
                 "The applicant must be able to show their educational documents passing certificates while confirming admission.",
@@ -418,7 +408,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Bachelor Degree (BBA)</b>",
+            "info": "For Bachelor Degree (BBA)",
             "data": [
                 "TOEFL - at least 513 marks",
                 "IELTS - Minimum 5.5",
@@ -428,7 +418,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Master Degree (MIM)</b>",
+            "info": "For Master Degree (MIM)",
             "data": [
                 "TOEFL - at least 547 marks",
                 "IELTS - Minimum 6.0",
@@ -438,7 +428,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Course Duration",
-            "info": "<b>The course duration for the Bachelor’s Master's in the English language at Hungary is at below:</b>",
+            "info": "The course duration for the Bachelor’s Master's in the English language at Hungary is at below:",
             "data": [
                 "The duration of the Bachelor of Business Administration (BBA) course at the University of Debrecen is 6 semesters in total. Thus, it takes exactly 3 years to complete the full-time studies in Hungary for English programs.",
                 "Also, the Master in Business Administration (MIM) at the Debrecen campus completed in 2 years having 4 semesters in total for the English curriculum."
@@ -448,7 +438,7 @@ export const universityofdebrecen = {
             "type": "table",
             "textBelowInfo": "3 Music (Arts) programs",
             "title": "Program Structure",
-            "info": "<b>The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in Arts and music:</b>",
+            "info": "The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in Arts and music:",
             "col": [
                 "Program",
                 "USD",
@@ -478,7 +468,7 @@ export const universityofdebrecen = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Other Fees:</b>",
+            "info": "Other Fees:",
             "col": [
                 "Application Fees",
                 "Registration Fees",
@@ -498,7 +488,7 @@ export const universityofdebrecen = {
         {
             "type": "table",
             "title": "Courses Offered",
-            "info": "<b>The list of courses offered at the Debrecen University:</b>",
+            "info": "The list of courses offered at the Debrecen University:",
             "col": [
                 "Courses",
                 "Bachelor Degree(1)",
@@ -518,7 +508,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen Uni:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen Uni:",
             "data": [
                 "The applicant must have completed high school and must be able to show their educational documents passing certificates while confirming admission.",
                 "The applicant willing to apply for the master of arts must have a valid or suitable instrument degree.",
@@ -528,7 +518,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Course Duration",
-            "info": "<b>The course duration for the Bachelor’s Master's in the English language at Hungary is at below:</b>",
+            "info": "The course duration for the Bachelor’s Master's in the English language at Hungary is at below:",
             "data": [
                 "The course duration for the Bachelor of Art (B.A.)at the University of Debrecen is 6 semesters in total. Thus, it takes exactly 3 years to complete the full-time studies in Hungary for English programs.",
                 "Also, the Master of Arts (M.A.) in Hungary’s Debrecen campus completed in 2 years having 4 semesters in total for the English curriculum."
@@ -539,7 +529,7 @@ export const universityofdebrecen = {
             "type": "table",
             "textBelowInfo": "4 Science(BSc) Programs",
             "title": "Fee Structure",
-            "info": "<b>The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in Science:</b>",
+            "info": "The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in Science:",
             "col": [
                 "Program",
                 "USD",
@@ -569,7 +559,7 @@ export const universityofdebrecen = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Other Fees:</b>",
+            "info": "Other Fees:",
             "col": [
                 "Application Fees",
                 "Registration Fees",
@@ -589,7 +579,7 @@ export const universityofdebrecen = {
         {
             "type": "table",
             "title": "Courses Offered",
-            "info": "<b>The list of courses offered at the Debrecen University:</b>",
+            "info": "The list of courses offered at the Debrecen University:",
             "col": [
                 "Courses",
                 "Bachelor Degree(1)",
@@ -625,7 +615,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen Uni:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen Uni:",
             "data": [
                 "The applicant must have completed high school with mathematics and English as the compulsory subjects.",
                 "The applicant must be able to show their educational documents passing certificates while confirming admission.",
@@ -638,7 +628,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The applicant must score well in a particular subject applying for mathematics as the mandatory for all exams.</b>",
+            "info": "The applicant must score well in a particular subject applying for mathematics as the mandatory for all exams.",
             "data": [
                 "For Example, the applicant apply for the BSc in Geography",
                 "Then it is mandatory to have a good score in Geography with Maths in an Oral and written test of interview."
@@ -647,7 +637,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Bachelor Degree (BSc)</b>",
+            "info": "For Bachelor Degree (BSc)",
             "data": [
                 "TOEFL - at least 513 marks",
                 "IELTS - Minimum 5.5",
@@ -657,7 +647,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Master Degree (MSc)</b>",
+            "info": "For Master Degree (MSc)",
             "data": [
                 "TOEFL - at least 547 marks",
                 "IELTS - Minimum 6.0",
@@ -667,7 +657,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Course Duration",
-            "info": "<b>The course duration for the Bachelor’s Master's in the English language at Hungary is at below:</b>",
+            "info": "The course duration for the Bachelor’s Master's in the English language at Hungary is at below:",
             "data": [
                 "The duration of the course for the Bachelor of Science(B.Sc.)at the University of Debrecen is 6 semesters. Thus, it takes 3 years to complete the full-time studies in Hungary for English programs.",
                 "Also, the Master of Science in Hungary’s Debrecen campus completed in 2 years having 4 semesters in total for the English curriculum."
@@ -677,7 +667,7 @@ export const universityofdebrecen = {
             "type": "table",
             "textBelowInfo": "5 Healthcare & Nursing",
             "title": "Fee Structure",
-            "info": "<b>The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in Nursing and healthcare:</b>",
+            "info": "The tables give a brief about the tuition fees for international students at the Debrecen University for Bachelor and Master degrees in Nursing and healthcare:",
             "col": [
                 "Program",
                 "USD",
@@ -707,7 +697,7 @@ export const universityofdebrecen = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Other Fees:</b>",
+            "info": "Other Fees:",
             "col": [
                 "Application Fees",
                 "Registration Fees",
@@ -727,7 +717,7 @@ export const universityofdebrecen = {
         {
             "type": "table",
             "title": "Courses Offered",
-            "info": "<b>The list of courses offered at the Debrecen University:</b>",
+            "info": "The list of courses offered at the Debrecen University:",
             "col": [
                 "Courses",
                 "Bachelor Degree(1)",
@@ -756,7 +746,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen Uni:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen Uni:",
             "data": [
                 "The applicant must have completed high school with Biology and English as the compulsory subjects.",
                 "The applicant must be able to show their educational documents passing certificates while confirming admission.",
@@ -770,7 +760,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Course Duration",
-            "info": "<b>The course duration for the Bachelor’s Master's in the English language at Hungary is at below:</b>",
+            "info": "The course duration for the Bachelor’s Master's in the English language at Hungary is at below:",
             "data": [
                 "The duration of the course for the Bachelor of Science(B.Sc.)Physiotherapy and Nursing at the University of Debrecen are of 8 semesters curriculum. Thus, it takes 4 years to complete the full-time studies in Hungary for English programs.",
                 "Also, the Master of Science in Hungary’s Debrecen campus completed in 2 years having 4 semesters in total for the Health, Social work, and economy programs in the English curriculum."
@@ -780,7 +770,7 @@ export const universityofdebrecen = {
             "type": "table",
             "title": "Courses Offered",
             "textBelowInfo": "6 Doctorate/Ph.D",
-            "info": "<b>The list of courses offered at the Debrecen University:</b>",
+            "info": "The list of courses offered at the Debrecen University:",
             "col": [
                 "Courses",
                 "Ph.D/Doctoral Degree(1)",
@@ -865,7 +855,7 @@ export const universityofdebrecen = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Other Fees:</b>",
+            "info": "Other Fees:",
             "col": [
                 "Application Fees",
                 "Registration Fees",
@@ -886,7 +876,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Course Duration",
-            "info": "<b>The course duration for the Bachelor’s Master's in the English language at Hungary is at below:</b>",
+            "info": "The course duration for the Bachelor’s Master's in the English language at Hungary is at below:",
             "data": [
                 "The duration of the course for the doctoral program at the University of Debrecen is 8 semesters in total, which approximately takes 4 years."]
         },
@@ -1018,9 +1008,13 @@ export const universityofdebrecen = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - Admission 2023'
+        },
+        {
             "type": "table",
             "title": "University of Debrecen - Important Dates 2022",
-            "info": "<b>The international students’ online admission deadline and application dates are noted in the table below:</b>",
+            "info": "The international students’ online admission deadline and application dates are noted in the table below:",
             "col": [
                 "Events",
                 "Dates",
@@ -1048,7 +1042,7 @@ export const universityofdebrecen = {
         {
             "type": "step-list",
             "title": "How To Take Admission in University of Debrecen?",
-            "info": "<b>Below are the steps that need to be followed for error-free online admission for Non-Eu students:</b>",
+            "info": "Below are the steps that need to be followed for error-free online admission for Non-Eu students:",
             "data": [
                 "<b>Step 1:</b> <b>Application Form:</b> The applicant needs to fill the online application form available on the admission portal of the Debrecen University.",
                 "<b>Step 2:</b> <b>Documents:</b> Later, the applicant has to submit all the necessary documents for the verification of the student profile. And wait for the university to call for further procedure.",
@@ -1060,7 +1054,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The documents required for the bachelor and master degree for the international students’ admission:</b>",
+            "info": "The documents required for the bachelor and master degree for the international students’ admission:",
             "data": [
                 "Application form",
                 "Resume/CV(all skills and details mentioned)",
@@ -1083,7 +1077,7 @@ export const universityofdebrecen = {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "textBelowInfo": "Engineering",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen University:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen University:",
             "data": [
                 "The applicant must have completed high school with mathematics and English as the compulsory subjects.",
                 "The applicant must be able to show their educational documents passing certificates while confirming admission.",
@@ -1094,7 +1088,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": '<b>The applicant must score well in a particular subject applying for mathematics as the mandatory for all exams.</b>',
+            "info": 'The applicant must score well in a particular subject applying for mathematics as the mandatory for all exams.',
             "data": [
                 "For Example, the applicant apply for the BSc in Chemical Engineering.",
                 "Then it is mandatory to have a good score in Chemistry with Maths in an Oral and written test of interview.",
@@ -1105,7 +1099,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Bachelor Degree (BSc)</b>",
+            "info": "For Bachelor Degree (BSc)",
             "data": [
                 "TOEFL - at least 513 marks",
                 "IELTS - Minimum 5.5",
@@ -1115,7 +1109,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Master Degree (MSc)</b>",
+            "info": "For Master Degree (MSc)",
             "data": [
                 "TOEFL - at least 547 marks",
                 "IELTS - Minimum 6.0",
@@ -1125,7 +1119,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Master Degree (MSc)</b>",
+            "info": "For Master Degree (MSc)",
             "data": [
                 "TOEFL - at least 547 marks",
                 "IELTS - Minimum 6.0",
@@ -1136,7 +1130,7 @@ export const universityofdebrecen = {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "textBelowInfo": "Business",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen Uni:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen Uni:",
             "data": [
                 "The applicant must have completed high school with mathematics and English as the compulsory subjects.",
                 "The applicant must be able to show their educational documents passing certificates while confirming admission.",
@@ -1149,7 +1143,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Bachelor Degree (BBA)</b>",
+            "info": "For Bachelor Degree (BBA)",
             "data": [
                 "TOEFL - at least 513 marks",
                 "IELTS - Minimum 5.5",
@@ -1159,7 +1153,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Master Degree (MIM)</b>",
+            "info": "For Master Degree (MIM)",
             "data": [
                 "TOEFL - at least 547 marks",
                 "IELTS - Minimum 6.0",
@@ -1170,7 +1164,7 @@ export const universityofdebrecen = {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "textBelowInfo": "Musics",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen Uni:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen Uni:",
             "data": [
                 "The applicant must have completed high school and must be able to show their educational documents passing certificates while confirming admission.",
                 "The applicant willing to apply for the master of arts must have a valid or suitable instrument degree.",
@@ -1181,7 +1175,7 @@ export const universityofdebrecen = {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "textBelowInfo": "Science",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen Uni:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen Uni:",
             "data": [
                 "The applicant must have completed high school with mathematics and English as the compulsory subjects.",
                 "The applicant must be able to show their educational documents passing certificates while confirming admission.",
@@ -1193,7 +1187,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The applicant must score well in a particular subject applying for mathematics as the mandatory for all exams.</b>",
+            "info": "The applicant must score well in a particular subject applying for mathematics as the mandatory for all exams.",
             "data": [
                 "For Example, the applicant apply for the BSc in Geography",
                 "Then it is mandatory to have a good score in Geography with Maths in an Oral and written test of interview.",
@@ -1202,7 +1196,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Bachelor Degree (Bsc)</b>",
+            "info": "For Bachelor Degree (Bsc)",
             "data": [
                 "TOEFL - at least 513 marks",
                 "IELTS - Minimum 5.5",
@@ -1212,7 +1206,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For Master Degree (Msc)</b>",
+            "info": "For Master Degree (Msc)",
             "data": [
                 "TOEFL - at least 547 marks",
                 "IELTS - Minimum 6.0",
@@ -1223,7 +1217,7 @@ export const universityofdebrecen = {
             "type": "list-bollet",
             "textBelowInfo": "Healthcare and Nursing",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicant must be fit in the below criteria for the seat at the Debrecen Uni:</b>",
+            "info": "The applicant must be fit in the below criteria for the seat at the Debrecen Uni:",
             "data": [
                 "The applicant must have completed high school with Biology and English as the compulsory subjects.",
                 "The applicant must be able to show their educational documents passing certificates while confirming admission.",
@@ -1254,6 +1248,10 @@ export const universityofdebrecen = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Debrecen, Hungary - Reviews" },
@@ -1272,6 +1270,10 @@ export const universityofdebrecen = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -1292,6 +1294,10 @@ export const universityofdebrecen = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Debrecen, Hungary - Gallery" },
@@ -1311,20 +1317,22 @@ export const universityofdebrecen = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
             "info": "",
             "data": [
                 "The scholarship recipient is eligible for a 30% - 90% tuition reduction for the first year.",
                 "From the second year, the scholarship recipient is eligible for a tuition fee reduction based on their previous year's academic performance.",
-
-
             ]
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Requirement for the scholarship:</b>",
+            "info": "Requirement for the scholarship:",
             "data": [
                 "The candidate must be a non-Hungarian national.",
                 "UG programme: At the time of application, the candidate must have graduated from high school or be in their final year of high school studies.",
@@ -1353,6 +1361,10 @@ export const universityofdebrecen = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Debrecen, Hungary - Faculty" },
@@ -1371,6 +1383,10 @@ export const universityofdebrecen = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -1391,9 +1407,13 @@ export const universityofdebrecen = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The features of the Debrecen hostel, charges, and details are given:</b>",
+            "info": "The features of the Debrecen hostel, charges, and details are given:",
             "data": [
                 "Foreign students mostly preferred to live at the Students’ hostel, which is near the main campus area of the building.",
                 "The rooms are available on a sharing basis as well as private rooms are too available, separate bathrooms can come with them.",
@@ -1406,7 +1426,7 @@ export const universityofdebrecen = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The University of Debrecen opted for native as well as foreign students many accommodation choices between:</b>",
+            "info": "The University of Debrecen opted for native as well as foreign students many accommodation choices between:",
             "data": [
                 "Debrecen University Dormitories",
                 "Rented Flats of DU",
@@ -1435,9 +1455,13 @@ export const universityofdebrecen = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Debrecen, Hungary - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Debrecen - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is the University worth its expenses for the global student’s degrees?",

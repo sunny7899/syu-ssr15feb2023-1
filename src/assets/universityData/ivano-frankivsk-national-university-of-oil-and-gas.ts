@@ -19,7 +19,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "table-title",
             "title": "Ivano-Frankivsk National University of Oil & Gas: Important Highlights",
-            "info": "<b>Following is the quick overview of Ivano Frankivsk National University of Oil and Gas:</b>",
+            "info": "Following is the quick overview of Ivano Frankivsk National University of Oil and Gas:",
             "col": [],
             "row": [
                 ["<b>Intake for Engineering Course</b>", "Twice a Year July and September"],
@@ -36,7 +36,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "list-bollet",
             "title": "Why choose Ivano-Frankivsk National University of Oil and Gas for Higher Education?",
-            "info": "<b>There are multiple reasons which make Ivano-Frankivsk National University of Oil and Gas an ideal option for higher education in Ukraine:</b>",
+            "info": "There are multiple reasons which make Ivano-Frankivsk National University of Oil and Gas an ideal option for higher education in Ukraine:",
             "data": [
                 "One of the best higher education universities in Ukraine with 59th rank in the country.",
                 "The University provides professional training to students from 35 different countries.",
@@ -53,13 +53,13 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>Students from 35 different countries pursue higher education at Ivano Frankivsk National University of Oil and Gas:</b>",
+            "info": "Students from 35 different countries pursue higher education at Ivano Frankivsk National University of Oil and Gas:",
             "data": "<p><b>Students from 35 different countries pursue higher education at Ivano Frankivsk National University of Oil and Gas:</b></p><p>Ivano Frankivsk National University of Oil and Gas offers Bachelors and Masters' Degree Courses in English, Ukrainian and Russian Language.</p>"
         },
         {
             "type": "table",
             "title": "Ivano Frankivsk National University of Oil and Gas - Ranking 2022",
-            "info": "<b>According to the UniRank ranking database, the world & country rank of Ivano Frankivsk State University of Oil and Gas is given below:</b>",
+            "info": "According to the UniRank ranking database, the world & country rank of Ivano Frankivsk State University of Oil and Gas is given below:",
             "col": [
                 "Country",
                 "World"
@@ -74,7 +74,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at IFNTUNG",
-            "info": "<b>Ivano Frankivsk National University of Oil and Gas provides facilities which helps from educational improvements to improve physical and mental healths and taking care of students' life styles as well:</b>",
+            "info": "Ivano Frankivsk National University of Oil and Gas provides facilities which helps from educational improvements to improve physical and mental healths and taking care of students' life styles as well:",
             "data": [
                 "Sports Club",
                 "Dormitories",
@@ -217,7 +217,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The details of expenses and average cost of living is given below:</b>",
+            "info": "The details of expenses and average cost of living is given below:",
             "col": [
                 "Particulars",
                 "Expenses (In USD)",
@@ -277,9 +277,14 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Ivano Frankivsk National University of Oil and Gas - Fee Structure",
-            "info": "<b>Students can find the Tuition fee details of Ivano Frankivsk National University of Oil and Gas below:</b>",
+            "info": "Students can find the Tuition fee details of Ivano Frankivsk National University of Oil and Gas below:",
             "col": [
                 "Program",
                 "Annual Tuition Fee (per year) in USD",
@@ -306,7 +311,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "table-title",
             "title": "Ivano Frankivsk National University of Oil & Gas - Course Duration",
-            "info": "<b>Ivano Grankivsk State University offers Full-time courses and details of course duration is given below:</b>",
+            "info": "Ivano Grankivsk State University offers Full-time courses and details of course duration is given below:",
             "col": [
             ],
             "row": [
@@ -319,7 +324,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "table",
             "title": "Specialities and Professional Programs",
-            "info": "<b>Details of specialties and professional programs for Bachelors’ and Masters’ are given below:</b>",
+            "info": "Details of specialties and professional programs for Bachelors’ and Masters’ are given below:",
             "col": [
 
                 "Speciality",
@@ -450,7 +455,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>There are various institutions in Ivano National University of Oil and Gas, the details of which you can find below:</b>",
+            "info": "There are various institutions in Ivano National University of Oil and Gas, the details of which you can find below:",
             "data": [
                 "Information Technologies",
                 "Economics and Management",
@@ -483,9 +488,14 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to clear the entrance exam and Interview to get admitted to Ivano Frankivsk National University of Oil and Gas:</b>",
+            "info": "Students have to clear the entrance exam and Interview to get admitted to Ivano Frankivsk National University of Oil and Gas:",
             "data": [
                 "Students have to clear the Online Language Proficiency Test.",
                 "Based on entrance exam marks, the students can appear for the second round, i.e., Interview.",
@@ -497,7 +507,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>To be part of Ivano Frankivsk National University of Oil and Gas, students have to follow these steps:</b>",
+            "info": "To be part of Ivano Frankivsk National University of Oil and Gas, students have to follow these steps:",
             "data": [
                 "<b>Step 1:</b> Fill the online application form and mention all the details asked.",
                 "<b>Step 2:</b> Enrollment of international students in the appropriate level of higher education is based on the results of the entrance examination.",
@@ -515,7 +525,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>International Students have to submit these documents to take admission at Ivano-Frankivsk National University of Oil and Gas:</b>",
+            "info": "International Students have to submit these documents to take admission at Ivano-Frankivsk National University of Oil and Gas:",
             "data": [
                 "Application form",
                 "The original Invitation to study at IFNTUNG",
@@ -548,6 +558,11 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ivano Frankivsk National Medical University (IFNMU) - Reviews" },
@@ -566,6 +581,11 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -586,6 +606,11 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ivano Frankivsk National Medical University (IFNMU) - Gallery" },
@@ -605,18 +630,22 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Scholarship"
+
+        },
+        {
             "type": "text",
             "title": "Scholarship",
-            "info": "<b>There are various scholarship programs available for international students at Ivano-Frankivsk National University of Oil and Gas:</b>",
+            "info": "There are various scholarship programs available for international students at Ivano-Frankivsk National University of Oil and Gas:",
             "textBelowInfo": "<b>1 Coimbra Group Scholarship Program</b>",
             "data": "<p>The main purpose of this scholarship program is to enable scientists to conduct research in their institutions and to help them establish academic and research contacts.</p>"
         },
         {
             "type": "text",
             "title": "",
-            "info": "",
-            "textBelowInfo": "<b>2 Scholarships from the Estonian Ministry of Foreign Affairs</b>",
-            "data": "<p>The main purpose of this scholarship program is to enable scientists to conduct research in their institutions and to help them establish academic and research contacts.</p>"
+            "info": "2 Scholarships from the Estonian Ministry of Foreign Affairs",
+            "textBelowInfo": "<p>The main purpose of this scholarship program is to enable scientists to conduct research in their institutions and to help them establish academic and research contacts.</p>"
         },
         {
             type: "meta",
@@ -638,9 +667,14 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Faculty"
+
+        },
+        {
             "type": "table",
             "title": "Specialities and Professional Programs",
-            "info": "<b>Details of specialties and professional programs for Bachelors’ and Masters’ are given below:</b>",
+            "info": "Details of specialties and professional programs for Bachelors’ and Masters’ are given below:",
             "col": [
 
                 "Name",
@@ -683,6 +717,11 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ivano Frankivsk National Medical University (IFNMU) - News & Articles" },
@@ -702,9 +741,14 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The University provides accommodation for international students in the dormitory at North Boulevard:</b>",
+            "info": "The University provides accommodation for international students in the dormitory at North Boulevard:",
             "data": [
                 "For accommodation there are 2- and 3-bedrooms in the complex with a bathroom (washroom and toilet). The cost of living for one person is 750 UAH per month (including utilities).",
                 "The student can stay in a room alone, subject to payment of the full cost of living (for 2 or 3 places, respectively)."
@@ -714,7 +758,7 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Students have to submit the following documents:</b>",
+            "info": "Students have to submit the following documents:",
             "data": [
                 "Application",
                 "Sign a contract for accommodation",
@@ -745,9 +789,14 @@ export const ivanofrankivsknationaluniversityofoilandgas = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Ivano Frankivsk National University of Oil and Gas - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. What is the medium of teaching at Ivano Frankivsk National University of Oil and Gas?",

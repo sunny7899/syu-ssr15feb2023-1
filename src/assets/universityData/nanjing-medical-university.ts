@@ -19,7 +19,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Nanjing Medical University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Nanjing Medical University: </b>",
+            "info": "Given below is the table for quick facts about Nanjing Medical University: ",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September, 2020"],
@@ -37,7 +37,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS Course at Nanjing Medical University?",
-            "info": "<b>Below are some of the advantages of studying MBBS at Nanjing Medical University: </b>",
+            "info": "Below are some of the advantages of studying MBBS at Nanjing Medical University: ",
             "data": [
                 "The tuition fee cost is very affordable for world class and the high quality of medical education at Nanjing Medical University is the main advantage of studying here.",
                 "Students can get the opportunity to fulfill further specialization and advancement in medicine at Nanjing University.",
@@ -51,7 +51,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "table",
             "title": "Nanjing Medical University - Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Nanjing Medical University: </b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Nanjing Medical University: ",
             "col": [
                 "Country",
                 "World"
@@ -71,7 +71,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>China’s Nanjing Medical University is recognized and accredited by many important medical bodies in the field of medical education such as: </b>",
+            "info": "China’s Nanjing Medical University is recognized and accredited by many important medical bodies in the field of medical education such as: ",
             "data": [
                 "Chinese Education Ministry",
                 "United States Medical Licensing Examination (USMLE)",
@@ -86,7 +86,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Students at Nanjing University",
-            "info": "<b>Students live an excellent life at Nanjing medical university as it provides many facilities to its students: </b>",
+            "info": "Students live an excellent life at Nanjing medical university as it provides many facilities to its students: ",
             "data": [
                 "Nanjing University provides students excellent and proper lab facilities, apparatus, and infrastructure.",
                 "The university also provides the students an excellent platform by providing them seminars to explore the knowledge, conferences to enhance their knowledge and skills.",
@@ -104,7 +104,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Nanjing City",
-            "info": "<b>The cost of living at Nanjing city is as follows: </b>",
+            "info": "The cost of living at Nanjing city is as follows: ",
             "col": [
                 "Activity",
                 "Cost"
@@ -135,7 +135,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Nanjing City",
-            "info": "<b>Below are some of the key points about the Nanjing city: </b>",
+            "info": "Below are some of the key points about the Nanjing city: ",
             "data": [
                 "Nanjing is the capital of Jiangsu province in China and it is abbreviated as Ning.",
                 "Many great scientists, intellectuals & poets, and artists are produced in Nanjing.",
@@ -168,9 +168,14 @@ export const nanjingmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Nanjing Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Nanjing Medical University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Nanjing Medical University for MBBS program is given in the table below: </b>",
+            "info": "The fee structure for Nanjing Medical University for MBBS program is given in the table below: ",
             "col": [
                 "Particular",
                 "Year 1",
@@ -241,7 +246,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Nanjing Medical University",
-            "info": "<b>Mentioned below is the duration of MBBS course: </b>",
+            "info": "Mentioned below is the duration of MBBS course: ",
             "data": [
                 "The duration of MBBS course at Nanjing University is 6 years which includes 1 year of internship."
             ]
@@ -249,7 +254,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "table",
             "title": "MBBS Syllabus - Nanjing Medical University",
-            "info": "<b>The complete syllabus for studying MBBS at Nanjing Medical University is as follows: </b><br>1st Year",
+            "info": "The complete syllabus for studying MBBS at Nanjing Medical University is as follows: </b><br>1st ",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -355,7 +360,7 @@ export const nanjingmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Nanjing Medical University',
-            info: '<b>Below are the faculties at Nanjing Medical University: </b>',
+            info: 'Below are the faculties at Nanjing Medicniversity: </b>',
             data: [
                 "Clinical Medicine",
                 "Nursing",
@@ -386,9 +391,14 @@ export const nanjingmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Nanjing Medical University - Admission 2023 "
+
+        },
+        {
             "type": "table",
             "title": "Important Dates - Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Nanjing Medical University: </b>",
+            "info": "Check out the Important dates regarding admission at Nanjing Medical University: ",
             "col": [
                 "Events",
                 "Dates"
@@ -415,7 +425,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Nanjing Medical University is as follows: </b>",
+            "info": "The eligibility criteria to study MBBS at Nanjing Medical University is as follows: ",
             "data": [
                 "Candidate’s age should be over 18 years and under 25 years.",
                 "Candidate’s mental and physical health should be good.",
@@ -427,7 +437,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "step-list",
             "title": "How to Apply for MBBS Admission at Nanjing Medical University?",
-            "info": "<b>Following is the admission procedure for applying to MBBS course at Nanjing Medical University: </b>",
+            "info": "Following is the admission procedure for applying to MBBS course at Nanjing Medical University: ",
             "data": [
                 "Step 1: Students should log on the application system and upload the required documents. http://admission.njmu.edu.cn/ is the website of the application system.",
                 "Step 2: After the applicants submitted all the required documents successfully, the admission office will do the initial review and give feedback within 5 working days. The admission office will send a system message of “pass initial review” and pay a non-refundable deposit, to the applicants who pass the initial review, meanwhile, it will send an electrical Acceptance letter and a formal notice of paying a non-refundable deposit to the applicant’s email.",
@@ -440,7 +450,7 @@ export const nanjingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required at the time of admission to Nanjing Medical University: </b>",
+            "info": "Following documents are required at the time of admission to Nanjing Medical University: ",
             "data": [
                 "Highest diploma/degree certificate (notarized photocopy). If the applicant is working or pursuing study at the time of application, then he/she should submit a work experience certificate or bonafide certificate along with the application form. Documents which are in languages other than Chinese or English must be attached with notarized translations in Chinese or English.",
                 "Certificate of non-criminal punishment.",
@@ -471,6 +481,11 @@ export const nanjingmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Nanjing Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nanjing Medical University - Reviews" },
@@ -490,9 +505,14 @@ export const nanjingmedicaluniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Nanjing Medical University - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "placement",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "Nanjing Medical University graduates may work at their own hospitals. Consequently, those with completed degrees are entitled to work at Nanjing Medical University.",
                 "Nanjing Medical University encourages graduates to continue their studies by offering further education choices.",
@@ -520,6 +540,11 @@ export const nanjingmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Nanjing Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nanjing Medical University - Gallery" },
@@ -538,6 +563,11 @@ export const nanjingmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Nanjing Medical University - Scholarship"
+
+        },
         // {
         //     "type": "table",
         //     "title": "scholarship",
@@ -652,9 +682,14 @@ export const nanjingmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Nanjing Medical University - Faculty"
+
+        },
+        {
             "type": "table",
             "title": "faculty",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "Name",
                 "Position",
@@ -720,6 +755,11 @@ export const nanjingmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Nanjing Medical University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nanjing Medical University - News & Articles" },
@@ -739,9 +779,14 @@ export const nanjingmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Nanjing Medical University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Nanjing Medical University: </b>",
+            "info": "Following are the hostel facilities at Nanjing Medical University: ",
             "data": [
                 "There are two campuses at the Nanjing Medical University, the Jiangning Campus is in Jiangning District; the Wutai Campus is in Wutai District.",
                 "Both campuses have international students' apartments.",
@@ -775,9 +820,14 @@ export const nanjingmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Nanjing Medical University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How is the campus of the university?",

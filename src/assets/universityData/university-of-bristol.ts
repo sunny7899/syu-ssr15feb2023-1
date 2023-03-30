@@ -19,7 +19,7 @@ export const universityofbristol = {
     {
       "type": "table-title",
       "title": "University of Bristol - Quick Overview 2022",
-      "info": "<b>Following are the quick highlights of studying MBA in University of Bristol:</b>",
+      "info": "Following are the quick highlights of studying MBA in University of Bristol:",
       "col": [],
       "row": [
         ["<b>Degree Awarded</b>", "MBA"],
@@ -38,7 +38,7 @@ export const universityofbristol = {
     {
       type: 'list-bollet',
       title: 'Why Study MBA at University of Bristol?',
-      info: '<b>Bristol MBA is the high flying career in the field of business and management. Here are the some important benefits to study at University of Bristol: </b><br>During the course of study, students can undergo the following skills:',
+      info: 'Bristol MBA is the high flying career in the field of business and management. Here are the some important benefits to study at University of Bristol: <br>During the course of study, students can undergo the following skills:',
       data: [
         "Leadership and Management",
         "Financial Decision Making",
@@ -71,9 +71,13 @@ export const universityofbristol = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'University of Bristol, London - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "University of Bristol - Fee Structure 2022",
-      "info": "<b>Following is the fee structure of MBA course at University of Bristol:</b>",
+      "info": "Following is the fee structure of MBA course at University of Bristol:",
       "col": [
         "Particular",
         "Fees in Rupees",
@@ -96,7 +100,7 @@ export const universityofbristol = {
           "Fees in USD": "$ 22,683"
         },
       ],
-      heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs </p>'
+      "heading": '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs </p>'
     },
     {
       "type": "list-bollet",
@@ -112,7 +116,7 @@ export const universityofbristol = {
     {
       "type": "list-bollet",
       "title": "Duration of MBA Course in University of Bristol",
-      "info": "<b>An MBA in the University of Bristol lasts for a period of 1 year:</b>",
+      "info": "An MBA in the University of Bristol lasts for a period of 1 year:",
       "data": [
         "The MBA program at the University of Bristol can start either in the month of January or September for a duration of 12 months.",
         "It is the fast track MBA program that leads to improved leadership and business skills among the students thereby nurturing the professional experience of the students."
@@ -121,7 +125,7 @@ export const universityofbristol = {
     {
       "type": "table",
       "title": "University of Bristol - Ranking 2022",
-      "info": "<b>Below is the ranking of the University of Bristol as per the uniRank standard ranking system:</b>",
+      "info": "Below is the ranking of the University of Bristol as per the uniRank standard ranking system:",
       "col": [
         "Country Rank",
         "World Rank"
@@ -153,9 +157,13 @@ export const universityofbristol = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'University of Bristol, London - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>Below are the admission prerequisites required for applying MBA in University of Bristol:</b>",
+      "info": "Below are the admission prerequisites required for applying MBA in University of Bristol:",
       "data": [
         "Applicants must have an honour degree in the respective discipline from the recognized university.",
         "1.5 years of experience is required for the working professionals."
@@ -164,7 +172,7 @@ export const universityofbristol = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Applicant need to produce the information as listed below:</b>",
+      "info": "Applicant need to produce the information as listed below:",
       "data": [
         "Statement of Purpose",
         "Voluntary work experience",
@@ -176,7 +184,7 @@ export const universityofbristol = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>Below are the step-by-step admission steps required for applying MBA in University of Bristol:</b>',
+      info: 'Below are the step-by-step admission steps required for applying MBA in University of Bristol:',
       data: [
         "Step 1: Select your course of respective discipline.",
         "Step 2: Fill the UWE Bristol Application form online by clicking to Apply for this course on the respective web page.",
@@ -189,7 +197,7 @@ export const universityofbristol = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>Follow the below document checklist as listed below:</b>",
+      "info": "Follow the below document checklist as listed below:",
       "data": [
         "Copy of application form",
         "Copy of mark Sheets (10th, 12th & bachelor)",
@@ -221,6 +229,10 @@ export const universityofbristol = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'University of Bristol, London - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Bristol, London - Reviews" },
@@ -240,9 +252,13 @@ export const universityofbristol = {
   ],
   "placement": [
     {
+      type: 'title',
+      title: 'University of Bristol, London - Placement'
+    },
+    {
       "type": "list-bollet",
       "title": "Career Opportunities at University of Bristol",
-      "info": "<b>Bristol MBA boosts your career by providing the relevant skills, experience and network to become a leader in your chosen field of business:</b>",
+      "info": "Bristol MBA boosts your career by providing the relevant skills, experience and network to become a leader in your chosen field of business:",
       "data": [
         "The university has an award winning career service that helps to develop employment with high earning potential through career coaching, internships, placements, jobs, global opportunities, entrepreneurial activities and employment activities."
       ]
@@ -267,6 +283,10 @@ export const universityofbristol = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'University of Bristol, London - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Bristol, London - Gallery" },
@@ -286,9 +306,13 @@ export const universityofbristol = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'University of Bristol, London - Scholarship'
+    },
+    {
       "type": "list-bollet",
       "title": "scholarship",
-      "info": "<b>Following are the scholarships offered by the University of Bristol  -</b><br>Undergraduate",
+      "info": "Following are the scholarships offered by the University of Bristol  -<br>Undergraduate",
       "data": [
         "Think Big undergraduate awards",
         "Global Economics undergraduate scholarships",
@@ -331,6 +355,10 @@ export const universityofbristol = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: 'University of Bristol, London - Faculty'
+    },
     {
       "type": "table",
       "title": "faculty",
@@ -378,6 +406,10 @@ export const universityofbristol = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'University of Bristol, London - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Bristol, London - News & Articles" },
@@ -397,9 +429,13 @@ export const universityofbristol = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'University of Bristol, London - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>University of Bristol offers great accommodation options to international students:</b>",
+      "info": "University of Bristol offers great accommodation options to international students:",
       "data": [
         "Campus and private accommodations are provided to students owing to the cost of accommodation as per the choice of apartment."
       ]
@@ -407,7 +443,7 @@ export const universityofbristol = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Amenities provided at the hostel are:</b>",
+      "info": "Amenities provided at the hostel are:",
       "data": [
         "Single Room",
         "Cafeteria",
@@ -438,55 +474,58 @@ export const universityofbristol = {
       ]
     }
   ],
-  "faq":
-    [
-      {
-        "type": "question-list",
-        "title": "University of Bristol - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-        "data": [
-          {
-            "ques": "Q. What if the application has submitted after the deadline?",
-            "ans": "If you won’t apply before the deadline, then you will no longer be considered for the guaranteed offer letter. Your application will be granted after the declaration of A level results."
-          },
-          {
-            "ques": "Q. Will I get guaranteed accommodation at University of Bristol?",
-            "ans": "Yes, guaranteed accommodation is provided to those students who will apply for the application in July."
-          },
-          {
-            "ques": "Q. Are there any exemptions provided to international students?",
-            "ans": "Yes, University of Bristol offers the funding through the scholarship programs for the international student"
-          },
-          {
-            "ques": "Q. What are the alcohol-free flats?",
-            "ans": "Alcohol free flats are the rooms in which the students or the guests are not allowed to drink at the place."
-          },
-          {
-            "ques": "Q. What are course fees for an MBA course at University of Bristol?",
-            "ans": "The fees cost around 15 lakhs for 1 year at University of Bristol."
-          },
-          {
-            "ques": "Q. When does the program intake take place?",
-            "ans": "The program will start in the month of September and lasts for a duration of 12 months."
-          },
-        ]
-      },
-      {
-        type: "meta",
-        meta: [
-          { name: "title", content: "University of Bristol, London - FAQ" },
-          { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-        ],
-      },
-      {
-        type: "meta-title",
-        title: "University of Bristol, London - FAQ"
-      },
-      {
-        type: "meta-links",
-        link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-bristol/faq" }
-        ]
-      }
-    ]
+  "faq": [
+    {
+      type: 'title',
+      title: 'University of Bristol, London - FAQ'
+    },
+    {
+      "type": "question-list",
+      "title": "University of Bristol - Important FAQs",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+      "data": [
+        {
+          "ques": "Q. What if the application has submitted after the deadline?",
+          "ans": "If you won’t apply before the deadline, then you will no longer be considered for the guaranteed offer letter. Your application will be granted after the declaration of A level results."
+        },
+        {
+          "ques": "Q. Will I get guaranteed accommodation at University of Bristol?",
+          "ans": "Yes, guaranteed accommodation is provided to those students who will apply for the application in July."
+        },
+        {
+          "ques": "Q. Are there any exemptions provided to international students?",
+          "ans": "Yes, University of Bristol offers the funding through the scholarship programs for the international student"
+        },
+        {
+          "ques": "Q. What are the alcohol-free flats?",
+          "ans": "Alcohol free flats are the rooms in which the students or the guests are not allowed to drink at the place."
+        },
+        {
+          "ques": "Q. What are course fees for an MBA course at University of Bristol?",
+          "ans": "The fees cost around 15 lakhs for 1 year at University of Bristol."
+        },
+        {
+          "ques": "Q. When does the program intake take place?",
+          "ans": "The program will start in the month of September and lasts for a duration of 12 months."
+        },
+      ]
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "University of Bristol, London - FAQ" },
+        { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "University of Bristol, London - FAQ"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-bristol/faq" }
+      ]
+    }
+  ]
 }

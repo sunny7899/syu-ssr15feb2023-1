@@ -19,7 +19,7 @@ export const itmouniversity = {
         {
             "type": "table-title",
             "title": "ITMO University - Quick Highlights",
-            "info": "<b>Applicants can gather brief information about ITMO University here:</b>",
+            "info": "Applicants can gather brief information about ITMO University here:",
             "col": [
 
             ],
@@ -37,7 +37,7 @@ export const itmouniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose ITMO University for Higher Studies?",
-            "info": "<b>Here are some of the reasons which make ITMO University one of the leading universities in Russia:</b>",
+            "info": "Here are some of the reasons which make ITMO University one of the leading universities in Russia:",
             "data": [
                 "ITMO University is a community of passionate professionals willing to serve the education field.",
                 "It is the only university to win the ACM ICPC international student team programming competition seven times.",
@@ -54,13 +54,13 @@ export const itmouniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>ITMO University offers courses to the student in different languages:</b>",
+            "info": "ITMO University offers courses to the student in different languages:",
             "data": "<p>ITMO University uses English and Russian languages as mediums of teaching.</p>"
         },
         {
             "type": "table",
             "title": "ITMO University - Ranking 2022",
-            "info": "<b>As per UniRank Database, the country and world ranking of ITMO University is mentioned below:</b>",
+            "info": "As per UniRank Database, the country and world ranking of ITMO University is mentioned below:",
             "col": [
                 "Country",
                 "World"
@@ -75,7 +75,7 @@ export const itmouniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>ITMO University is situated in St. Petersburg and the average cost of living is 479 $ - 763 $:</b>",
+            "info": "ITMO University is situated in St. Petersburg and the average cost of living is 479 $ - 763 $:",
             "col": [
                 "Particulars",
                 "Expenses (In USD)",
@@ -135,9 +135,14 @@ export const itmouniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "ITMO University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "ITMO University - Fee Structure 2021",
-            "info": "<b>The fee structure of Master’s Degree Programs of ITMO University for international students is given below:</b>",
+            "info": "The fee structure of Master’s Degree Programs of ITMO University for international students is given below:",
             "col": [
                 "Courses",
                 "Tuition Fee (In USD)",
@@ -196,7 +201,7 @@ export const itmouniversity = {
         {
             "type": "table-title",
             "title": "Faculties offered at ITMO University",
-            "info": "<b>ITMO University offers various Bachelor's and Master's Degree Courses to students:</b>",
+            "info": "ITMO University offers various Bachelor's and Master's Degree Courses to students:",
             "row": [
                 ["Applied Mathematics and Computer Science", "Software and administration of Information systems"],
                 ["Urban Planning", "Informatics and Computer Engineering"],
@@ -224,7 +229,7 @@ export const itmouniversity = {
         {
             "type": "text",
             "title": "ITMO University - Course Duration",
-            "info": "<b>ITMO University offers various courses and education in different specialties. Applicants can find the duration of the courses below:</b>",
+            "info": "ITMO University offers various courses and education in different specialties. Applicants can find the duration of the courses below:",
             "data": "<p>ITMO University offers Bachelor's Degree Courses for four years, and the course duration of Master's Degree Courses is two years.</p>"
         },
         {
@@ -247,9 +252,14 @@ export const itmouniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "ITMO University, Russia - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "data": [
                 "Applicant must have completed higher secondary",
                 "Entrance Exam",
@@ -258,7 +268,7 @@ export const itmouniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "data": [
                 "Bachelor Degree/Diploma",
                 "High Academic Score",
@@ -268,7 +278,7 @@ export const itmouniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>To get admission to ITMO University, applicants should follow these steps:</b>",
+            "info": "To get admission to ITMO University, applicants should follow these steps:",
             "data": [
                 "<b>Step 1: Choose a Program:</b> The applicants willing to take admission to any degree course at ITMO university must choose a program she/he wants to take admission to.",
                 "<b>Step 2: Submit an application:</b> Applicants must apply to the ITMO University; students can also apply online on the university's official admission site.",
@@ -284,7 +294,7 @@ export const itmouniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Applicants will have to submit the following documents to the admission committee of the ITMO University:</b>",
+            "info": "Applicants will have to submit the following documents to the admission committee of the ITMO University:",
             "data": [
                 "Application Form",
                 "Scanned Copy of Bachelor Degree (For Master Degree)",
@@ -320,6 +330,11 @@ export const itmouniversity = {
     "review": [
 
         {
+            type: 'title',
+            title: "ITMO University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "ITMO University, Russia - Reviews" },
@@ -339,9 +354,14 @@ export const itmouniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "ITMO University, Russia - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships at ITMO University",
-            "info": "<b>To encourage and support students, ITMO University offers various scholarships. Applicants can get details here:</b><p>ITMO university gives scholarships to students after evaluating their academic performance and financial status.</p><p>Some of the scholarship programs are mentioned below:</p>",
+            "info": "To encourage and support students, ITMO University offers various scholarships. Applicants can get details here:</b><p>ITMO university gives scholarships to students after evaluating their academic performance and financial status.</p><p>Some of the scholarship programs are mentioned below:",
             "data": [
                 "State Academic Scholarship",
                 "Enhanced State Academic Scholarship",
@@ -378,6 +398,11 @@ export const itmouniversity = {
     "gallery": [
 
         {
+            type: 'title',
+            title: "ITMO University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "ITMO University, Russia - Gallery" },
@@ -397,6 +422,11 @@ export const itmouniversity = {
     ],
     "scholarship": [
 
+        {
+            type: 'title',
+            title: "ITMO University, Russia - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -418,6 +448,11 @@ export const itmouniversity = {
     "faculty": [
 
         {
+            type: 'title',
+            title: "ITMO University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "ITMO University, Russia - Faculty" },
@@ -438,6 +473,11 @@ export const itmouniversity = {
     "news": [
 
         {
+            type: 'title',
+            title: "ITMO University, Russia - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "ITMO University, Russia - News & Articles" },
@@ -457,9 +497,14 @@ export const itmouniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "ITMO University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>ITMO University provides accommodation to international students at an affordable cost:</b>",
+            "info": "ITMO University provides accommodation to international students at an affordable cost:",
             "data": [
                 "ITMO University provides accommodation to international students.",
                 "There are ten dormitories of the university located at different corners of the city.",
@@ -469,7 +514,7 @@ export const itmouniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Facilities at dormitories -</b>",
+            "info": "Facilities at dormitories -",
             "data": [
                 "Shower Room",
                 "Wifi",
@@ -538,9 +583,14 @@ export const itmouniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "ITMO University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "ITMO University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. When did the admission process of ITMO University start?",

@@ -20,7 +20,7 @@ export const altaistatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Altai State Medical University: Quick Overview for MBBS Course",
-            "info": "<b>Dive through the facts and important highlights of Altai State Medical University for the MBBS course:</b>",
+            "info": "Dive through the facts and important highlights of Altai State Medical University for the MBBS course:",
             "col": [],
             "row": [
                 ["<b>Acronym</b>", "ASMU"],
@@ -39,7 +39,7 @@ export const altaistatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Altai State Medical University?",
-            "info": "<b>The advantages of studying MBBS at Altai State Medical University easily grabs the attention of students all over the world:</b>",
+            "info": "The advantages of studying MBBS at Altai State Medical University easily grabs the attention of students all over the world:",
             "data": [
                 "Altai State Medical University pays individual attention to the safety of students.",
                 "There will be no entrance exam or any enrollment exam while applying for MBBS course at Altai State Medical University.",
@@ -54,7 +54,7 @@ export const altaistatemedicaluniversity = {
         {
             "type": "table",
             "title": "Altai State Medical University: Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Altai State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Altai State Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -69,7 +69,7 @@ export const altaistatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Student's Life",
-            "info": "<b>Students life at Altai State Medical University is very pleasant and enjoyable with education and curriculum:</b>",
+            "info": "Students life at Altai State Medical University is very pleasant and enjoyable with education and curriculum:",
             "data": [
                 "Students at Altai State Medical University live a pleasant life.",
                 "The educational environment is followed up by the events and activities for students which maintains the balance in academics and curriculums.",
@@ -113,7 +113,7 @@ export const altaistatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The basic expenses for a student living in Altai Krai city are given below. It shows the average living cost of a student’s monthly stay:</b>",
+            "info": "The basic expenses for a student living in Altai Krai city are given below. It shows the average living cost of a student’s monthly stay:",
             "col": [
                 "Particulars",
                 "In Rupees (approx. range)"
@@ -153,7 +153,7 @@ export const altaistatemedicaluniversity = {
         {
             "type": "text",
             "title": "MBBS Syllabus at Altai State Medical University",
-            "data": "<b>Students can consider the following table to have an idea about the syllabus and structure of studying MBBS at Altai State Medical University:</b>"
+            "data": "Students can consider the following table to have an idea about the syllabus and structure of studying MBBS at Altai State Medical University>"
         },
         {
             "type": "table",
@@ -279,9 +279,13 @@ export const altaistatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Altai State Medical University,Russia - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Altai State Medical University: Fee Structure for MBBS Course",
-            "info": "<b>Altai State Medical University offers a fee structure that is comparatively lower and affordable than many Indian medical colleges:</b>",
+            "info": "Altai State Medical University offers a fee structure that is comparatively lower and affordable than many Indian medical colleges:",
             "col": [
                 "Particular",
                 "Year - 1",
@@ -339,7 +343,7 @@ export const altaistatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Altai State Medical University",
-            "info": "<b>Altai State Medical University offers many other courses with MBBS for medical studies:</b>",
+            "info": "Altai State Medical University offers many other courses with MBBS for medical studies:",
             "data": [
                 "General Medicine",
                 "Pharmacy",
@@ -356,7 +360,7 @@ export const altaistatemedicaluniversity = {
         },
         {
             type: 'meta-title',
-            title: " Altai State Medical University,Russia - courses & Fees"
+            title: "Altai State Medical University,Russia - courses & Fees"
         },
         {
             type: 'meta-links',
@@ -368,9 +372,13 @@ export const altaistatemedicaluniversity = {
 
     "admission": [
         {
+            type: 'title',
+            title: "Altai State Medical University -Eligibility Criteria, Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: Required Applying for MBBS Course",
-            "info": "<b>Students who can fit in the criteria mentioned below can only take admission to the MBBS course at Altai State Medical University:</b>",
+            "info": "Students who can fit in the criteria mentioned below can only take admission to the MBBS course at Altai State Medical University:",
             "data": [
                 "The minimum age should be 17 and the maximum age should be 25 years before the 31st December of a year of the admission process.",
                 "Applicants must be 12th passed from the recognized institute/university.",
@@ -381,7 +389,7 @@ export const altaistatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Admission Process: Required for MBBS Course",
-            "info": "<b>Follow the simple steps from applying online to getting an air ticket for Russia to take admission to the MBBS course at Altai State Medical University:</b>",
+            "info": "Follow the simple steps from applying online to getting an air ticket for Russia to take admission to the MBBS course at Altai State Medical University:",
             "data": [
                 "<strong>Apply Online:</strong><br>Application forms are available on the university portal. You need to ensure the documents required for applying for MBBS course.",
                 "<strong>Get the invitation letter:</strong><br>After the submission of documents, the university will issue the official invitation letter to students.<br>The period of reviewing the applications is vary as per university.",
@@ -393,7 +401,7 @@ export const altaistatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required: For applying MBBS Course",
-            "info": "<b>Students should make sure to get all the documents ready for proceeding to the admission procedure:</b>",
+            "info": "Students should make sure to get all the documents ready for proceeding to the admission procedure:",
             "data": [
                 "High School Certificate",
                 "Copy of passport",
@@ -413,7 +421,7 @@ export const altaistatemedicaluniversity = {
         },
         {
             type: 'meta-title',
-            title: " Altai State Medical University -Eligibility Criteria, Admission 2023"
+            title: "Altai State Medical University -Eligibility Criteria, Admission 2023"
         },
         {
             type: 'meta-links',
@@ -423,6 +431,10 @@ export const altaistatemedicaluniversity = {
         },
     ],
     "review": [
+        {
+            type: 'title',
+            title: "Altai State Medical University, Russia - Reviews Details"
+        },
         {
             type: 'meta',
             meta: [
@@ -443,6 +455,10 @@ export const altaistatemedicaluniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Altai State Medical University,Russia - Placement"
+        },
+        {
             "type": "list-bollet",
             "title": "placement",
             "info": "",
@@ -461,7 +477,7 @@ export const altaistatemedicaluniversity = {
         },
         {
             type: 'meta-title',
-            title: " Altai State Medical University,Russia - Placement"
+            title: "Altai State Medical University,Russia - Placement"
         },
         {
             type: 'meta-links',
@@ -471,6 +487,10 @@ export const altaistatemedicaluniversity = {
         },
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "Altai State Medical University, Russia - Gallery Details"
+        },
         {
             type: 'meta',
             meta: [
@@ -491,9 +511,15 @@ export const altaistatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Altai State Medical University - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Altai State Medical University provides scholarships to deserving candidates. Candidates can apply for scholarships by contacting them via mail.</b><br>The scholarships provided at Altai State Medical University are as follows:",
+            "info": "Altai State Medical University provides scholarships to deserving candidates. Candidates can apply for scholarships by contacting them via mail.",
+            "textBelowInfo": "The scholarships provided at Altai State Medical University are as follows:",
+
             "data": [
                 "Academic Scholarships",
                 "Financial Support",
@@ -525,6 +551,10 @@ export const altaistatemedicaluniversity = {
 
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Altai State Medical University - Faculty"
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -589,6 +619,10 @@ export const altaistatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Altai State Medical University - News & Articles"
+        },
+        {
             type: 'meta',
             meta: [
                 { name: "title", content: "Altai State Medical University - News & Articles" },
@@ -609,9 +643,13 @@ export const altaistatemedicaluniversity = {
 
     "hostel": [
         {
+            type: 'title',
+            title: "Altai State Medical University - Hostel for Indian Students"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Altai State Medical University provides 5 different dormitories for students’ convenience. All the dormitories are provided with basic facilities and different amenities:</b>",
+            "info": "Altai State Medical University provides 5 different dormitories for students’ convenience. All the dormitories are provided with basic facilities and different amenities:",
             "img": "",
             "data": [
                 "There are 5 different hostels for students to live at Altai State Medical University.",
@@ -646,9 +684,13 @@ export const altaistatemedicaluniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Altai State Medical University,Russia - Important FAQs"
+            },
+            {
                 "type": "question-list",
                 "title": "Altai State Medical University: Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. Are there any payment subsidies provided by the Altai State Medical University?",
@@ -689,7 +731,7 @@ export const altaistatemedicaluniversity = {
             },
             {
                 type: 'meta-title',
-                title: " Altai State Medical University,Russia - Important FAQs"
+                title: "Altai State Medical University,Russia - Important FAQs"
             },
             {
                 type: 'meta-links',

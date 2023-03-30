@@ -52,7 +52,7 @@ export const sumystateuniversity = {
         {
             "type": "table",
             "title": "Sumy State University - Ranking 2022",
-            "info": "<b>As per UniRank (4icu.org), the country and world ranking of Sumy State University is:</b>",
+            "info": "As per UniRank (4icu.org), the country and world ranking of Sumy State University is:",
             "col": [
                 "Country",
                 "World",
@@ -68,7 +68,7 @@ export const sumystateuniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>Courses at Sumy State University are offered in Polish and English language:</b>',
+            info: 'Courses at Sumy State University are offered in Polish and English language:',
             data: [
                 "At Sumy State University, around 14,000 students are studying in the 25 different fields of study including technical, economical and humanitarian specialties.",
                 "English is a commonly used language for providing training to international medical students. It is the center of education for a number of specialties in different fields."
@@ -77,7 +77,7 @@ export const sumystateuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Sumy State University is recognized and accredited by:</b>',
+            info: 'Sumy State University is recognized and accredited by:',
             data: [
                 "Ministry of Education and Science of Ukraine",
                 "National Medical Commission."
@@ -86,7 +86,7 @@ export const sumystateuniversity = {
         {
             "type": "table",
             title: 'Sumy State University - FMGE Performance 2021',
-            info: '<b>Find the passing percent and appeared students in year 2021 for Sumy State University is here in the table below:</b>',
+            info: 'Find the passing percent and appeared students in year 2021 for Sumy State University is here in the table below:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -105,7 +105,7 @@ export const sumystateuniversity = {
         {
             type: 'list-bollet',
             title: 'Quality of Education at Sumy State University',
-            info: '<b>Sumy State University offers high-quality education to undergraduate and postgraduate students:</b>',
+            info: 'Sumy State University offers high-quality education to undergraduate and postgraduate students:',
             data: [
                 "Sumy State University is the 1st Educational institution in Ukraine that has been listed in the audit of the QS company in the categories as teaching, engagement, access and e-learning.",
                 "The university has a partnership with the universities from 50 countries including the USA, Great Britain, Germany, Austria, France, Sweden, Poland, Lithuania, Bulgaria, Japan and other countries of the world to establish a high standard of education.",
@@ -116,7 +116,7 @@ export const sumystateuniversity = {
         {
             type: 'text',
             title: 'Facilities Provided at Sumy State University',
-            info: "<b>Following are the facilities provided at Sumy State University:</b>",
+            info: "Following are the facilities provided at Sumy State University:",
             data: ''
         },
         {
@@ -250,6 +250,10 @@ export const sumystateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Sumy State University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Sumy State University - Fee Structure for MBBS 2022",
             "info": "",
@@ -310,7 +314,7 @@ export const sumystateuniversity = {
         {
             type: 'list-bollet',
             title: 'MBBS Course Duration - Sumy State University',
-            info: '<b>Sumy State University offers an MBBS course for a period of 6 years:</b>',
+            info: 'Sumy State University offers an MBBS course for a period of 6 years:',
             data: [
                 "MBBS at Sumy State University lasts for a period of 6 years including 5 years of the classroom learning and 1-year internship.",
                 "The university offers real-time experience with patients through affiliated hospitals."
@@ -363,7 +367,7 @@ export const sumystateuniversity = {
         {
             type: 'list-bollet',
             title: 'Courses offered at Sumy State University',
-            info: '<b>Sumy State University offers various programs as follows:</b>',
+            info: 'Sumy State University offers various programs as follows:',
             data: [
                 "Family Medicine",
                 "Pediatrics",
@@ -396,9 +400,13 @@ export const sumystateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Sumy State University - Admission 2023'
+        },
+        {
             "type": "table",
             "title": "Sumy State University - Important Dates 2022",
-            "info": "<b>Refer to the academic calendar of Sumy State University as given below:</b>",
+            "info": "Refer to the academic calendar of Sumy State University as given below:",
             "col": [
                 "Events",
                 "Dates",
@@ -425,7 +433,7 @@ export const sumystateuniversity = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria: For MBBS Course at Sumy State University',
-            info: '<b>To study MBBS at Sumy State Medical University, below given is the eligibility criteria:</b>',
+            info: 'To study MBBS at Sumy State Medical University, below given is the eligibility criteria:',
             data: [
                 "The candidate must be 17 years old on or before 31st December of the year in which the admission is being taken.", ,
                 "The Nationality of the students must be ‘Indian’.", ,
@@ -450,7 +458,7 @@ export const sumystateuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required: For MBBS Course',
-            info: '<b>To study MBBS at Sumy State Medical University, below given is the eligibility criteria:</b>',
+            info: 'To study MBBS at Sumy State Medical University, below given is the eligibility criteria:',
             data: [
                 "A Passport (Valid for a minimum of 2 years)",
                 "Birth Certificate’s copy",
@@ -485,6 +493,10 @@ export const sumystateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Sumy State University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sumy State University - Reviews" },
@@ -503,6 +515,10 @@ export const sumystateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Sumy State University - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -523,6 +539,10 @@ export const sumystateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Sumy State University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sumy State University - Gallery" },
@@ -541,6 +561,10 @@ export const sumystateuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Sumy State University - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -561,6 +585,10 @@ export const sumystateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Sumy State University - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sumy State University - Faculty" },
@@ -580,6 +608,10 @@ export const sumystateuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Sumy State University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sumy State University - News & Articles" },
@@ -598,6 +630,10 @@ export const sumystateuniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: 'Sumy State University - Hostel'
+        },
         {
             type: 'list-bollet',
             title: 'Hostel & Accommodation Facilities',
@@ -635,9 +671,13 @@ export const sumystateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Sumy State University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Sumy State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Where exactly is Sumy State University located?",

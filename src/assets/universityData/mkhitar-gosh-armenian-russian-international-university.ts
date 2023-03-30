@@ -19,7 +19,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "table-title",
             "title": "Given below is the table for quick facts about Mkhitar Gosh Armenian-Russian International University:",
-            "info": "<b>Go through the following Highlights mentioned below if you want to take MBBS Admission in Armenian Medical Institute:</b>",
+            "info": "Go through the following Highlights mentioned below if you want to take MBBS Admission in Armenian Medical Institute:",
             "col": [
             ],
             "row": [
@@ -38,7 +38,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Mkhitar Gosh Armenian-Russian International University?",
-            "info": "<b>Below are the benefits of studying at Mkhitar Gosh Armenian-Russian International University:</b>",
+            "info": "Below are the benefits of studying at Mkhitar Gosh Armenian-Russian International University:",
             "data": [
                 "A student can apply for internships in various hospitals in Armenia, after completing his/her first year of studies.",
                 "The graduate degree which students get in MBBS from Mkhitar Gosh University is valid in India and other countries.",
@@ -54,7 +54,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Mkhitar Gosh Armenian-Russian International University is recognized worldwide and the degree. University has got accreditation and recognition of :</b>",
+            "info": "Mkhitar Gosh Armenian-Russian International University is recognized worldwide and the degree. University has got accreditation and recognition of :",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)"
@@ -63,7 +63,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "table",
             "title": "Mkhitar Gosh Armenian-Russian International University - Ranking 2022",
-            "info": "<b>According to 4icu.org, the country and world ranking of Mkhitar Gosh Armenian-Russian International University is as follows:</b>",
+            "info": "According to 4icu.org, the country and world ranking of Mkhitar Gosh Armenian-Russian International University is as follows:",
             "col": [
                 "Country",
                 "World"
@@ -78,7 +78,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Student's Life",
-            "info": "<b>Below is the student life at Mkhitar Gosh Armenian-Russian International University</b>",
+            "info": "Below is the student life at Mkhitar Gosh Armenian-Russian International University",
             "data": [
                 "At Mkhitar Gosh University, for entertainment and refreshment of students, many extra-curricular activities like cultural, social, and sports activities are provided.",
                 "It offers clean and neat hostels to students.",
@@ -90,7 +90,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "table",
             "title": "Mkhitar Gosh Armenian-Russian International University: FMGE Performance 2021",
-            "info": "<b>Find the passing percent and appeared students in year 2021 for Mkhitar Gosh Armenian-Russian International University is here in the table below:</b>",
+            "info": "Find the passing percent and appeared students in year 2021 for Mkhitar Gosh Armenian-Russian International University is here in the table below:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -109,7 +109,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Yerevan",
-            "info": "<b>Following are the living expenses at Yerevan city:</b>",
+            "info": "Following are the living expenses at Yerevan city:",
             "col": [
                 "Activity",
                 "Cost"
@@ -174,9 +174,14 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Mkhitar Gosh Armenian-Russian International University - MBBS Fee Structure 2022",
-            "info": "<b>Following is the fee structure for Mkhitar Gosh Armenian-Russian International University for MBBS program:</b>",
+            "info": "Following is the fee structure for Mkhitar Gosh Armenian-Russian International University for MBBS program:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -244,7 +249,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "text",
             "title": "Mkhitar Gosh Armenian-Russian International University - MBBS Syllabus",
-            "data": '<p><b>The complete syllabus for studying MBBS at Mkhitar Gosh University is as follows:</b></p>'
+            "data": 'The complete syllabus for studying MBBS at Mkhitar Gosh University is as follows:'
         },
 
         {
@@ -360,9 +365,14 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students must meet the following requirements set by the National Medical Commission (NMC) for admission into the Mkhitar Gosh Armenian-Russian International University:</b>",
+            "info": "Students must meet the following requirements set by the National Medical Commission (NMC) for admission into the Mkhitar Gosh Armenian-Russian International University:",
             "data": [
                 "At least 17 years of age (as on 31st December of the year in which you are taking admission).",
                 "Applicants must get a minimum of 50% marks in Class XII (or equivalent examination).",
@@ -374,7 +384,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Step by Step admission procedure at the Mkhitar Gosh Armenian-Russian International University is as follows:</b>",
+            "info": "Step by Step admission procedure at the Mkhitar Gosh Armenian-Russian International University is as follows:",
             "data": [
                 "<b>Step 1:</b> Open the application form.",
                 "<b>Step 2:</b> Fill in the application form accurately.",
@@ -387,7 +397,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required at the Time of Admission",
-            "info": "<b>Following documents are required for admission to Mkhitar Gosh Armenian-Russian International University:</b>",
+            "info": "Following documents are required for admission to Mkhitar Gosh Armenian-Russian International University:",
             "data": [
                 "Curriculum vitae of the applicant",
                 "Application form with all mandatory details",
@@ -406,7 +416,7 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         {
             "type": "text",
             "title": "Mkhitar Gosh Armenian-Russian International University - MBBS Duration",
-            "info": "<b>Mkhitar Gosh Armenian-Russian International University offers an MBBS course of 6 years.</b>",
+            "info": "Mkhitar Gosh Armenian-Russian International University offers an MBBS course of 6 years.",
             "data": "<p>Students who undergo the MBBS studies at Mkhitar Gosh Armenian-Russian International University need to complete the 6 years course. These 6 years are divided into 12 semesters. These 12 semesters consist of a compulsory internship of 1 year.</p>"
         },
 
@@ -430,6 +440,11 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Mkhitar Gosh Armenian-Russian International University, Armenia - Reviews" },
@@ -449,8 +464,13 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - Placement"
+
+        },
+        {
             "type": "list-bollet",
-            "title": "placement",
+            "title": "Placement",
             "info": "",
             "data": [
                 "After receiving their degree, young graduates may seek work as doctors in India.",
@@ -481,6 +501,11 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Mkhitar Gosh Armenian-Russian International University, Armenia - Gallery" },
@@ -499,6 +524,11 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -519,6 +549,11 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Mkhitar Gosh Armenian-Russian International University, Armenia - Faculty" },
@@ -537,6 +572,11 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -557,9 +597,14 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation & Hostel",
-            "info": "<b>Following are the hostel facilities at Mkhitar Gosh Armenian-Russian International University:</b>",
+            "info": "Following are the hostel facilities at Mkhitar Gosh Armenian-Russian International University:",
             "data": [
                 "The Mkhitar Gosh University provides hostel facilities for Armenian as well as international students.",
                 "Hostels are well furnished and well equipped with all basic day to day facilities.",
@@ -602,9 +647,14 @@ export const mkhitargosharmenianrussianinternationaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Mkhitar Gosh Armenian-Russian International University, Armenia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Mkhitar Gosh Armenian-Russian International University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is there an Indian embassy in Armenia?",

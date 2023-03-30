@@ -41,7 +41,7 @@ export const xinjianguniversity = {
         {
             "type": "list-bollet",
             "title": "Few Benefits of Studying at Xinjiang Medical University",
-            "info": "<b></b>",
+            "info": "",
             "img": '',
             "data": [
                 "The Chinese government provides huge funds to MBBS universities in China and thus the Xinjiang Medical University has <b>world-class infrastructure</b>.                    ",
@@ -58,7 +58,7 @@ export const xinjianguniversity = {
         {
             "type": "list-bollet",
             "title": "About Urumqi City",
-            "info": "<b></b>",
+            "info": "",
             "img": '',
             "data": [
                 "Urumqi which literally means beautiful pasture is the capital of the Xinjiang Uyghur Autonomous Region of the People's Republic of China in Northwest China.",
@@ -93,6 +93,10 @@ export const xinjianguniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - courses & Fees'
+        },
         {
             "type": "table",
             "title": "Total MBBS Fee Structure at Xinjiang University",
@@ -177,6 +181,10 @@ export const xinjianguniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Indian Students: For MBBS Course",
             "info": "",
@@ -203,7 +211,7 @@ export const xinjianguniversity = {
         {
             "type": "number-list",
             "title": "",
-            "info": "<b>Following is the registration period:</b>",
+            "info": "Following is the registration period:",
             "data": [
                 "For Undergraduate Students: September 5th-25th",
                 "For Graduate Students: September 10th - October 10th",
@@ -214,7 +222,7 @@ export const xinjianguniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required: To Study MBBS Course",
-            "info": "<b>Below are the list of documents required to study MBBS course in Xinjiang University:</b>",
+            "info": "Below are the list of documents required to study MBBS course in Xinjiang University:",
             "data": [
                 "Physical Examination Record of Foreigner.",
                 "Copy of valid passport, academic transcript, and an official diploma.",
@@ -238,7 +246,7 @@ export const xinjianguniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For this, they require the following documents:</b>",
+            "info": "For this, they require the following documents:",
             "data": [
                 "Original Admission Letter.",
                 "Original <b>JW202 Study Visa</b> Form.",
@@ -267,6 +275,10 @@ export const xinjianguniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Xinjiang Medical University, China - Reviews" },
@@ -285,6 +297,10 @@ export const xinjianguniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -317,6 +333,10 @@ export const xinjianguniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Xinjiang Medical University, China - Gallery" },
@@ -336,6 +356,10 @@ export const xinjianguniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - Scholarship'
+        },
+        {
             "type": "text",
             "title": "Scholarships at Xinjiang University",
             "data": "<p>For overseas students pursuing bachelor, master and Ph.D. degrees in any discipline available on Xinjiang University, the government of Xinjiang Uygur Autonomous Region offers a number of scholarships.</p>",
@@ -343,7 +367,7 @@ export const xinjianguniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following is the eligibility criteria for the students who want to apply for scholarships:</b>",
+            "info": "Following is the eligibility criteria for the students who want to apply for scholarships:",
             "data": [
                 "Applicants must be non-Chinese citizens.",
                 "Applicants who wish to apply for scholarships for Ph.D. programs must have a master’s degree and must be under the age of 40.",
@@ -354,7 +378,7 @@ export const xinjianguniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following documents are necessary to apply for the scholarship programs:</b>",
+            "info": "Following documents are necessary to apply for the scholarship programs:",
             "data": [
                 "Foreigner Physical Examination Form",
                 "Application Form.",
@@ -384,6 +408,10 @@ export const xinjianguniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Xinjiang Medical University, China - Faculty" },
@@ -403,6 +431,10 @@ export const xinjianguniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Xinjiang Medical University, China - News & Articles" },
@@ -421,6 +453,10 @@ export const xinjianguniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - Hostel'
+        },
         {
             "type": "list-bollet",
             "title": "Hostel Facilities in Xinjiang University",
@@ -456,9 +492,13 @@ export const xinjianguniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Xinjiang Medical University, China - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Xinjiang University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many students have enrolled in the university?",

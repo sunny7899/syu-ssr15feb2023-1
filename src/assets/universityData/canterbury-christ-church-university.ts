@@ -22,7 +22,7 @@ export const canterburychristchurchuniversity = {
         {
             "type": "table-title",
             "title": "Canterbury Christ Church University - Quick Overview",
-            "info": "<b>Check out the important highlights to take admission in Canterbury Christ Church University:</b>",
+            "info": "Check out the important highlights to take admission in Canterbury Christ Church University:",
             "col": [
             ],
             "row": [
@@ -44,7 +44,7 @@ export const canterburychristchurchuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose Canterbury Christ Church University for Higher Studies?",
-            "info": "<b>Let’s check out the beneficial reasons to study at Canterbury Christ Church University:</b>",
+            "info": "Let’s check out the beneficial reasons to study at Canterbury Christ Church University:",
             "img": '',
             "data": [
                 "The college provides many opportunities and choices for students with various foundation year courses.",
@@ -63,7 +63,7 @@ export const canterburychristchurchuniversity = {
         {
             "type": "list-bollet",
             "title": "Teaching Literature",
-            "info": "<b>Canterbury Christ Church University teaches in 100% English language:</b>",
+            "info": "Canterbury Christ Church University teaches in 100% English language:",
             "img": '',
             "data": [
                 "The college provides whole education in 100% English language, and the students will never face any language problem.",
@@ -74,7 +74,7 @@ export const canterburychristchurchuniversity = {
         {
             "type": "table",
             "title": "Canterbury Christ Church University - Ranking (2021-22)",
-            "info": "<b>Go through the latest world and country ranking of the Canterbury Christ Church University:</b>",
+            "info": "Go through the latest world and country ranking of the Canterbury Christ Church University:",
             "col": [
                 "World",
                 "Country",
@@ -91,7 +91,7 @@ export const canterburychristchurchuniversity = {
         {
             "type": "list-bollet",
             "title": "Affiliations",
-            "info": "<b>Check out the affiliations of the Canterbury Christ Church University mentioned below:</b>",
+            "info": "Check out the affiliations of the Canterbury Christ Church University mentioned below:",
             "img": '',
             "data": [
                 "Universities at Medway",
@@ -105,7 +105,7 @@ export const canterburychristchurchuniversity = {
         {
             "type": "table",
             "title": "Living Cost of Canterbury, UK",
-            "info": "<b>All applicants should get to know living expenses about Canterbury, UK:</b>",
+            "info": "All applicants should get to know living expenses about Canterbury, UK:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -148,6 +148,10 @@ export const canterburychristchurchuniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - courses & Fees"
+        },
         {
             "type": "table",
             "textBelowInfo0": "1 Law",
@@ -345,8 +349,8 @@ export const canterburychristchurchuniversity = {
         {
             "type": "list-bollet",
             "title": "Faculties at CCCU",
-            "info": "<b>Canterbury Christ Church University is providing faculties to the students:</b>",
-            "textBelowInfo": "<b>1 Faculty of Arts, Humanities and Education</b>",
+            "info": "Canterbury Christ Church University is providing faculties to the students:",
+            "textBelowInfo": "1 Faculty of Arts, Humanities and Education",
             "data": [
                 "School of Teacher Education",
                 "Centre for Language and Linguistics",
@@ -364,7 +368,7 @@ export const canterburychristchurchuniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>2 Faculty of Medicine, Health and Social Care</b>",
+            "textBelowInfo": "2 Faculty of Medicine, Health and Social Care",
             "data": [
                 "School of Allied and Public Health Professions",
                 "School of Nursing, Midwifery and Social Work",
@@ -380,7 +384,7 @@ export const canterburychristchurchuniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>3 Faculty of Science, Engineering and Social Sciences</b>",
+            "textBelowInfo": "3 Faculty of Science, Engineering and Social Sciences",
             "data": [
                 "Centre for Sport, Physical Education and Activity Research (SPEAR)",
                 "Christ Church Business School",
@@ -414,10 +418,14 @@ export const canterburychristchurchuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria ( for Law Courses )",
-            "info": "<b>The admission eligibility criteria are low and all students must fulfill it for taking admission here:</b>",
-            "textBelowInfo": "<b>All Law Programs -</b>",
+            "info": "The admission eligibility criteria are low and all students must fulfill it for taking admission here:",
+            "textBelowInfo": "All Law Programs -",
             "data": [
                 "The applicants must have a valid passport.",
                 "The students should complete higher secondary education with good grades.",
@@ -430,7 +438,7 @@ export const canterburychristchurchuniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Law with Business with Foundation Year -</b>",
+            "textBelowInfo": "Law with Business with Foundation Year -",
             "data": [
                 "The applicants must have 32 UCAS tariff points to take admission.",
                 "The college welcomes application forms from few or no formal level 3 qualifications candidates willing to return to education and students can attend a scheduled interview.",
@@ -439,7 +447,7 @@ export const canterburychristchurchuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required ( for Law Courses )",
-            "info": "<b>The candidates must submit all submit in undergraduate programs to study UK:</b>",
+            "info": "The candidates must submit all submit in undergraduate programs to study UK:",
             "data": [
                 "Application form",
                 "Higher secondary education",
@@ -460,8 +468,8 @@ export const canterburychristchurchuniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria ( for Engineering Courses )",
-            "info": "<b>Check all eligibility criteria mentioned below to study masters courses in the UK at the Canterbury Christ Church University:</b>",
-            "textBelowInfo": "<b>All other Engineering programs eligibility -</b>",
+            "info": "Check all eligibility criteria mentioned below to study masters courses in the UK at the Canterbury Christ Church University:",
+            "textBelowInfo": "All other Engineering programs eligibility -",
             "data": [
                 "The students must have a valid passport copy for doing their masters in the UK.",
                 "All candidates must have completed high secondary education to enroll in a masters program.",
@@ -473,7 +481,7 @@ export const canterburychristchurchuniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Mechanical Engineering (Advance Manufacture) (MEng) -</b>",
+            "textBelowInfo": "Mechanical Engineering (Advance Manufacture) (MEng) -",
             "data": [
                 "32-112 UCAS points include a minimum of 5 GCSEs (including subjects maths, English language and science).",
                 "32-88 UCAS points at level 3 and one of the following is studied- maths, physics, applied science, engineering and BTEC Engineering Diploma.",
@@ -486,7 +494,7 @@ export const canterburychristchurchuniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Mechanical Engineering (Building Services) (BEng) & Product Design Engineering (BEng) and Mechanical Engineering -</b>",
+            "textBelowInfo": "Mechanical Engineering (Building Services) (BEng) & Product Design Engineering (BEng) and Mechanical Engineering -",
             "data": [
                 "88-112 UCAS points (A level or equivalent in subjects like maths, physics, applied science or engineering).",
                 "5 GCSEs scores C/4 or above (subjects included maths, English language and science).",
@@ -497,7 +505,7 @@ export const canterburychristchurchuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required ( for Engineering Courses )",
-            "info": "<b>Here is the list of all documents attached with the application form:</b>",
+            "info": "Here is the list of all documents attached with the application form:",
             "data": [
                 "Application form",
                 "Higher secondary education",
@@ -521,7 +529,7 @@ export const canterburychristchurchuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Follow the step by step process for postgraduate and undergraduate courses admission at Canterbury Christ Church University:</b>",
+            "info": "Follow the step by step process for postgraduate and undergraduate courses admission at Canterbury Christ Church University:",
             "data": [
                 "<b>Step 1:</b> The candidates must fill the online application form with the correct details.",
                 "<b>Step 2:</b> During the application process, the students must submit passport and visa details, English language qualifications, official translations of their transcripts or a statement of comparability from Naric.",
@@ -552,6 +560,10 @@ export const canterburychristchurchuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Canterbury Christ Church University, UK - Reviews" },
@@ -571,8 +583,12 @@ export const canterburychristchurchuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - Placement"
+        },
+        {
             "type": "list-bollet",
-            "title": "placement",
+            "title": "Placement",
             "info": "",
             "data": [
                 "Graduates might return to India and seek work after completing their various degrees.",
@@ -599,6 +615,10 @@ export const canterburychristchurchuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Canterbury Christ Church University, UK - Gallery" },
@@ -618,9 +638,13 @@ export const canterburychristchurchuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships and Bursaries",
-            "info": "<b>The University provides grants, scholarships and bursaries to the student:</b>",
+            "info": "The University provides grants, scholarships and bursaries to the student:",
             "data": [
                 "Canterbury Christ Church University Grant 2020/21",
                 "Care Leavers Bursary 2020/21",
@@ -653,9 +677,13 @@ export const canterburychristchurchuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - Faculty"
+        },
+        {
             "type": "table",
-            "textBelowInfo0": "faculty",
-            "title": "",
+            "textBelowInfo0": "",
+            "title": "Faculty",
             "col": [
                 "Name",
                 "Designation",
@@ -704,6 +732,10 @@ export const canterburychristchurchuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Canterbury Christ Church University, UK - News & Articles" },
@@ -723,9 +755,13 @@ export const canterburychristchurchuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Canterbury Christ Church University offers top-class accommodation facilities at the comfort zone of the students:</b>",
+            "info": "Canterbury Christ Church University offers top-class accommodation facilities at the comfort zone of the students:",
             "data": [
                 "The students make new friends and live independently in student accommodation.",
                 "The institute has various locations and rooms in Canterbury and Medway according to student’s budgets.",
@@ -761,9 +797,13 @@ export const canterburychristchurchuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Canterbury Christ Church University, UK - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Canterbury Christ Church University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Canterbury Christ Church University the best choice for pursuing education?",
@@ -805,16 +845,4 @@ export const canterburychristchurchuniversity = {
             ]
         }
     ]
-
-
-
-
-
-
-
-
-
-
-
-
 }

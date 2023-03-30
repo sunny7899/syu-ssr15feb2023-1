@@ -165,6 +165,10 @@ export const astrakhanstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Astrakhan State Medical University, Russia- courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Astrakhan State Medical University - MBBS Fee Structure",
             "info": "<b>Astrakhan State Medical University provides low-cost fee structure which is affordable to all International and local students looking forward to pursuing MBBS Career:</b>",
@@ -190,7 +194,7 @@ export const astrakhanstatemedicaluniversity = {
                     "Annual Fee": "3,21,400 Rs"
                 },
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> $1 = Rs. 70 (It may vary at the time of admission)</p>'
+            heading: '<p><b><u>Note:</u></b> $1 = Rs. 70 (It may vary at the time of admission)</p>'
         },
         {
             type: 'list-bollet',
@@ -331,6 +335,10 @@ export const astrakhanstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Astrakhan State Medical University, Russia- Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "<b>Students must fulfil the following eligibility criteria given below for taking admission for MBBS Course in Astrakhan State Medical University:</b>",
@@ -408,6 +416,10 @@ export const astrakhanstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Astrakhan State Medical University, Russia- Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Astrakhan State Medical University, Russia- Reviews" },
@@ -426,6 +438,10 @@ export const astrakhanstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Astrakhan State Medical University, Russia- Placement"
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -456,6 +472,10 @@ export const astrakhanstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Astrakhan State Medical University, Russia- Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Astrakhan State Medical University, Russia- Gallery" },
@@ -474,6 +494,10 @@ export const astrakhanstatemedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Astrakhan State Medical University, Russia- Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -502,6 +526,10 @@ export const astrakhanstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Astrakhan State Medical University, Russia- Faculty"
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -549,6 +577,10 @@ export const astrakhanstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Astrakhan State Medical University, Russia- News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Astrakhan State Medical University, Russia- News & Articles" },
@@ -567,6 +599,10 @@ export const astrakhanstatemedicaluniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Astrakhan State Medical University, Russia- Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel & Food",
@@ -623,50 +659,54 @@ export const astrakhanstatemedicaluniversity = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Astrakhan State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. When does the program intake start for an MBBS course at Astrakhan State Medical University?",
-                    "ans": "In the first week of September, the batches start for MBBS courses at Astrakhan State Medical University."
-                },
-                {
-                    "ques": "Q. How long does it take to complete an MBBS course at Astrakhan State Medical University?",
-                    "ans": "The MBBS at Astrakhan State Medical University lasts for a period of 6 years."
-                },
-                {
-                    "ques": "Q. Will I get any waiver on fees for the MBBS course?",
-                    "ans": "Astrakhan State Medical University offers funding & scholarships to marital students. Through the scholarships, students will get half or less than half waiver on their course fees."
-                },
-                {
-                    "ques": "Q. What is the cost of studying medicine in Astrakhan State Medical University?",
-                    "ans": "MBBS at Astrakhan State Medical University costs around INR 2.81 lakhs per annum."
-                },
-                {
-                    "ques": "Q. Does the Astrakhan State Medical University hold NMC recognition?",
-                    "ans": "Yes, Astrakhan State Medical University is approved by the National Medical Commission & World Health Organization."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Astrakhan State Medical University, Russia- FAQ" },
-                { name: "description", content: "Astrakhan State Medical University is a one among the oldest medical universities located in Russia. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Astrakhan State Medical University, Russia- FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/astrakhan-state-medical-university/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Astrakhan State Medical University, Russia- FAQ"
+            },
+            {
+                "type": "question-list",
+                "title": "Astrakhan State Medical University - Important FAQs",
+                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "data": [
+                    {
+                        "ques": "Q. When does the program intake start for an MBBS course at Astrakhan State Medical University?",
+                        "ans": "In the first week of September, the batches start for MBBS courses at Astrakhan State Medical University."
+                    },
+                    {
+                        "ques": "Q. How long does it take to complete an MBBS course at Astrakhan State Medical University?",
+                        "ans": "The MBBS at Astrakhan State Medical University lasts for a period of 6 years."
+                    },
+                    {
+                        "ques": "Q. Will I get any waiver on fees for the MBBS course?",
+                        "ans": "Astrakhan State Medical University offers funding & scholarships to marital students. Through the scholarships, students will get half or less than half waiver on their course fees."
+                    },
+                    {
+                        "ques": "Q. What is the cost of studying medicine in Astrakhan State Medical University?",
+                        "ans": "MBBS at Astrakhan State Medical University costs around INR 2.81 lakhs per annum."
+                    },
+                    {
+                        "ques": "Q. Does the Astrakhan State Medical University hold NMC recognition?",
+                        "ans": "Yes, Astrakhan State Medical University is approved by the National Medical Commission & World Health Organization."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Astrakhan State Medical University, Russia- FAQ" },
+                    { name: "description", content: "Astrakhan State Medical University is a one among the oldest medical universities located in Russia. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Astrakhan State Medical University, Russia- FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/astrakhan-state-medical-university/faq" }
+                ]
+            }
+        ]
 }

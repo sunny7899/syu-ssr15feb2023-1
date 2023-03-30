@@ -19,7 +19,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "table-title",
       "title": "Al-Farabi Kazakh National University - Quick Highlights",
-      "info": "<b>Given below is the table for quick highlights about Al-Farabi Kazakh National University:</b>",
+      "info": "Given below is the table for quick highlights about Al-Farabi Kazakh National University:",
       "col": [
 
       ],
@@ -39,7 +39,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "list-bollet",
       "title": "Why Study MBBS at Al-Farabi Kazakh National University?",
-      "info": "<b>Below are some of the benefits of studying MBBS at Al-Farabi Kazakh National University:</b>",
+      "info": "Below are some of the benefits of studying MBBS at Al-Farabi Kazakh National University:",
       "data": [
         "The students are not required to sit for any entrance examinations before securing admission to the Kazakhstan Medical University.",
         "The university does not demand any kind of donations.",
@@ -57,13 +57,13 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "text",
       "title": "Medium of Teaching",
-      "info": "<b>Following is the medium of teaching at Al-Farabi Kazakh National University:</b>",
+      "info": "Following is the medium of teaching at Al-Farabi Kazakh National University:",
       "data": "<p>The medium of instruction is English for studying MBBS at this university for international students as well as local students who want to opt English medium of education.</p>"
     },
     {
       "type": "table",
       "title": "Al-Farabi Kazakh National University - Ranking 2022",
-      "info": "<b>According to 4icu.org, following is the country and world ranking for Al-Farabi Kazakh National University:</b>",
+      "info": "According to 4icu.org, following is the country and world ranking for Al-Farabi Kazakh National University:",
       "col": [
         "Country Rank",
         "World Rank"
@@ -78,7 +78,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>The Al-Farabi Kazakh National University has the following accreditation and recognition:</b>",
+      "info": "The Al-Farabi Kazakh National University has the following accreditation and recognition:",
       "data": [
         "National Medical Commission (NMC)",
         "World Health Organization (WHO)"
@@ -87,7 +87,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "table",
       "title": "Cost of Living at Almaty",
-      "info": "<b>The cost of living at Almaty city is as follows:</b>",
+      "info": "The cost of living at Almaty city is as follows:",
       "col": [
         "Activity",
         "Cost"
@@ -119,7 +119,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "list-bollet",
       "title": "About Almaty City",
-      "info": "<b>Interesting facts about the Almaty city are as follows:</b>",
+      "info": "Interesting facts about the Almaty city are as follows:",
       "data": [
         "Almaty is the busiest and the biggest city in Kazakhstan. The city is located in the uneven locale in the lower regions of the Trans-ili Alatau Mountains of the southern part of Kazakhstan.",
         "Fund areas are accepted to be probably the biggest business in the city.",
@@ -132,7 +132,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "list-bollet",
       "title": "Student's Life",
-      "info": "<b>It is important to take care of students’ health to keep them mentally and physically fit. It provides different activities to its students:</b>",
+      "info": "It is important to take care of students’ health to keep them mentally and physically fit. It provides different activities to its students:",
       "data": [
         "The Youth of the Kazakh National University named after al-Farabi the students, as well as everyone who wants to reach the top.",
         "Student life at the university should be filled with bright flashes, impressive memories and this university can achieve these goals.",
@@ -163,9 +163,13 @@ export const alfarabikazakhnationaluniversity = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University - courses & Fees 2023"
+    },
+    {
       "type": "table",
       "title": "Al-Farabi Kazakh National University - MBBS Fee Structure",
-      "info": "<b>The fee structure for Al-Farabi Kazakh National University for MBBS program is given in the table below:</b>",
+      "info": "The fee structure for Al-Farabi Kazakh National University for MBBS program is given in the table below:",
       "col": [
         "Particular",
         "Year 1",
@@ -222,7 +226,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "list-bollet",
       "title": "Courses Offered at Al-Farabi Kazakh National University",
-      "info": "<b>The following are the courses offered at Al-Farabi Kazakh National University in which students can take their education:</b><p>Under the supervision of highly qualified faculty and state of the art infrastructure, the Al-Farabi Kazakh National University offers quality medical programs.</p>",
+      "info": "The following are the courses offered at Al-Farabi Kazakh National University in which students can take their education:</b><p>Under the supervision of highly qualified faculty and state of the art infrastructure, the Al-Farabi Kazakh National University offers quality medical programs.",
       "data": [
         "MBBS",
         "Medicine",
@@ -232,8 +236,8 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "table",
       "title": "Al-Farabi Kazakh National University - MBBS Syllabus",
-      "data": "<b>The complete syllabus for studying MBBS at Al-Farabi Kazakh National University is as follows:</b>",
-      "info": "<b>1st Year</b>",
+      "info": "The complete syllabus for studying MBBS at Al-Farabi Kazakh National University is as follows:",
+      "textBelowInfo": "1st Year",
       "col": [
         "1st Semester",
         "2nd Semester"
@@ -249,7 +253,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>2nd Year</b>",
+      "info": "2nd Year",
       "col": [
         "3rd Semester",
         "4th Semester"
@@ -286,7 +290,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>3rd Year</b>",
+      "info": "3rd Year",
       "col": [
         "5th Semester",
         "6th Semester"
@@ -314,7 +318,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "table-title",
       "title": "",
-      "info": "<b>4th - 6th Year</b>",
+      "info": "4th - 6th Year",
       "colTitle": "7th-12th Semester",
       "row": [
         ["Primary Care medicine", "Psychology"],
@@ -329,7 +333,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "text",
       "title": "Al-Farabi Kazakh National University - MBBS Duration",
-      "info": "<b>The duration of the MBBS course at Al-Farabi Kazakh National University is mentioned below:</b>",
+      "info": "The duration of the MBBS course at Al-Farabi Kazakh National University is mentioned below:",
       "data": "<p>The duration of the MBBS course at Al-Farabi Kazakh National University is 6 years, out of which 1 year is an internship.</p>"
     },
 
@@ -354,9 +358,13 @@ export const alfarabikazakhnationaluniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University - Admission, Eligibility Criteria"
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The eligibility criteria to study MBBS at Al-Farabi Kazakh National University is as follows:</b>",
+      "info": "The eligibility criteria to study MBBS at Al-Farabi Kazakh National University is as follows:",
       "data": [
         "Students must have more than 60% marks in 12th standard.",
         "Students must have qualified for the NEET-UG examination.",
@@ -367,7 +375,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "step-list",
       "title": "Admission Process",
-      "info": "<b>Following is the admission process for applying to the MBBS course at Al-Farabi Kazakh National University:</b>",
+      "info": "Following is the admission process for applying to the MBBS course at Al-Farabi Kazakh National University:",
       "data": [
         "<b>Step 1:</b> Students should apply online. They should fill the online application form of the university.<br><b>Following documents are required for enrolling in the university:</b><br>Copy of the transcript of grade 10, grade 11, grade 12<br>school-leaving certificate<br>valid passport",
         "<b>Step 2:</b> The students will be informed about the dismissal and acceptance of the application once their documents are evaluated. The student will be informed after 1-2 working days, in the event that a student & application structure is acknowledged. The students will be given the affirmation inside a similar period.",
@@ -378,7 +386,7 @@ export const alfarabikazakhnationaluniversity = {
     {
       "type": "list-bollet",
       "title": "Required Documents",
-      "info": "<b>The following documents are required at the time of admission to Al-Farabi Kazakh National University:</b>",
+      "info": "The following documents are required at the time of admission to Al-Farabi Kazakh National University:",
       "data": [
         "Passport (Minimum 18 months validity)",
         "Birth Certificate",
@@ -414,6 +422,10 @@ export const alfarabikazakhnationaluniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University, Kazakhstan - Reviews"
+    },
+    {
       type: 'meta',
       meta: [
         { name: "title", content: "Al-Farabi Kazakh National University, Kazakhstan - Reviews" },
@@ -432,6 +444,10 @@ export const alfarabikazakhnationaluniversity = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University, Kazakhstan - Placements"
+    },
     {
       type: 'meta',
       meta: [
@@ -452,6 +468,10 @@ export const alfarabikazakhnationaluniversity = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University, Kazakhstan - Gallery"
+    },
+    {
       type: 'meta',
       meta: [
         { name: "title", content: "Al-Farabi Kazakh National University, Kazakhstan - Gallery" },
@@ -470,6 +490,10 @@ export const alfarabikazakhnationaluniversity = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University - Scholarships & Bursaries"
+    },
     {
       "type": "list-bollet",
       "title": "scholarship",
@@ -502,6 +526,10 @@ export const alfarabikazakhnationaluniversity = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University - Departments & Faculties"
+    },
+    {
       type: 'meta',
       meta: [
         { name: "title", content: "Al-Farabi Kazakh National University - Departments & Faculties" },
@@ -520,6 +548,10 @@ export const alfarabikazakhnationaluniversity = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University, Kazakhstan - News & Articles"
+    },
     {
       type: 'meta',
       meta: [
@@ -540,9 +572,13 @@ export const alfarabikazakhnationaluniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University, Kazakhstan -  Hostel & Accommodation"
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>The Al-Farabi Kazakh National University provides excellent hostel facilities:</b>",
+      "info": "The Al-Farabi Kazakh National University provides excellent hostel facilities:",
       "data": [
         "At Al-Farabi Kazakh National University, more than 5,000 students live in 14 comfortable modern hostels.",
         "The warm atmosphere and homely environment is a feature of every hostel on the campus of the university.",
@@ -587,9 +623,13 @@ export const alfarabikazakhnationaluniversity = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: "Al-Farabi Kazakh National University, Kazakhstan - Important FAQs"
+    },
+    {
       "type": "question-list",
       "title": "Al-Farabi Kazakh National University - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. How is the infrastructure of the university?",

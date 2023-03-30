@@ -16,11 +16,10 @@ export const universityofpadua = {
             "title": "",
             "data": "<p>The <b>University of Padua (Padova)</b> was established in the year 1222, it is a top Italian public University in the northern region of Italy in Padua city.</p><p>The University is on the list of leading 5 Italian Universities for studying in Italy, with degrees in Engineering, MBA, BBA, Science, Aviation, Humanities, Arts, Law, etc. Being the 2nd oldest University in Italy and also the world’s 5th oldest surviving University completed 800 years ago, it was started by a group of students & teachers from Bologna.</p><p>The University of Padua is studded with 32 departments of various disciplines, in total 8 schools of different faculties, sole school of higher studies named as Galilean School of Higher Studies, also each one of Polyclinic, Veterinary Hospital, Museum, etc and 33 libraries.</p><p>As per the QS World Rankings(June 2021), the University of Padua stands at 242nd place in the global index, while at 4th position in Italy. It provides a plethora of courses in 3 English, Italian, and Spanish with serving education in almost every discipline. The Galilean School of Higher Studies was formed in 2004, which enrolls only 30 top students at the University of Padua among those are international students selected via competition.</p><p>The Padua University has world-class facilities for its students with huge infrastructure, modern labs, and well-facilitated accommodation. Apart from that, the University has notable alumni like Nilcaus Coppercus(great mathematics and physicist, placed a Sun in the Solar System), Vesalius(father of modern Human Anatomy), and Alexandros Mavrokordatos(PM of Greece).</p>"
         },
-
         {
             "type": "table-title",
             "title": "University of Padua - Quick Highlights",
-            "info": "<b>The table shows the quick noted for the applicants interested in admission to Italy Padua University for MBA, Engineering, BBA, or other courses:</b>",
+            "info": "The table shows the quick noted for the applicants interested in admission to Italy Padua University for MBA, Engineering, BBA, or other courses:",
             "row": [
                 ["<b>Intake for Course</b>", "March"],
                 ["<b>Programs offered</b>", "Engineering, MBA, BBA, MIM, BSc/MSc, MS/MTech"],
@@ -36,7 +35,7 @@ export const universityofpadua = {
         {
             type: 'list-bollet',
             title: 'Why Study at University of Padua?',
-            info: '<b>Benefits of studying at the University of Padua and facts about the institute:</b>',
+            info: 'Benefits of studying at the University of Padua and facts about the institute:',
             data: [
                 "The University provides excellent programs in English, for which it has been awarded also in 2018 for best teaching.",
                 "The University of Padua is in the top 3rd position in Italy for its overall excellence.",
@@ -51,7 +50,7 @@ export const universityofpadua = {
         {
             "type": "table",
             "title": "University of Padua - Ranking 2022",
-            "info": "<b>The following ranking is mentioned by the UniRank:</b>",
+            "info": "The following ranking is mentioned by the UniRank:",
             "col": [
                 "Country",
                 "World",
@@ -67,7 +66,7 @@ export const universityofpadua = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>The classroom language and curriculum at the University of Padua is:</b>',
+            info: 'The classroom language and curriculum at the University of Padua is:',
             data: [
                 "The University of Padua offers various graduate and undergraduate courses in the English language due to a large number of international students enrolling. Thus, the curriculum and classroom language is prior the same for its English-taught programs.",
                 "Also, the Padua University has the majority of its courses available in Italian for native students with Spanish-taught courses too."
@@ -76,7 +75,7 @@ export const universityofpadua = {
         {
             type: 'list-bollet',
             title: 'Accreditation',
-            info: '<b>The Padua University is accredited by the following groups:</b>',
+            info: 'The Padua University is accredited by the following groups:',
             data: [
                 "The University of Padua is accredited by the Ministry of Universities, Research, and Education of the Italian Government.",
                 "The University is also part of the Coimbra Group and the European University Association."
@@ -85,7 +84,7 @@ export const universityofpadua = {
         {
             "type": "table",
             "title": "Living Expenses in Rome for Indian Students",
-            "info": "<b>The monthly expenses and cost of living are brief in the below table for Padua city:</b>",
+            "info": "The monthly expenses and cost of living are brief in the below table for Padua city:",
             "col": [
                 "Particulars",
                 "Approx Range in Euro",
@@ -138,14 +137,16 @@ export const universityofpadua = {
             ]
         }
 
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Padua, Italy - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "What are the Courses offered at University of Padua?",
-            "info": "<b>The table shows the courses offered at the University of Padua in English and Italian Language:</b><p>Astrophysics & cosmology Statistical Science/technology</p>",
+            "info": "The table shows the courses offered at the University of Padua in English and Italian Language:<p>Astrophysics & cosmology Statistical Science/technology</p>",
             "col": [
                 "Courses",
                 "English(1)",
@@ -389,9 +390,13 @@ export const universityofpadua = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Padua, Italy - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>The Eligibility criteria for the international applicants are</b>',
+            info: 'The Eligibility criteria for the international applicants are',
             data: [
                 "The applicant must have completed high school with good grades(not mentioned about the minimum/cutoff marks).",
                 "The applicant willing to apply for the master’s degree must have a graduate degree passed.",
@@ -403,7 +408,7 @@ export const universityofpadua = {
         {
             type: 'step-list',
             title: 'How to Apply?',
-            info: '<b>For error free online admission at the University of Padua for international students follow those below steps:</b>',
+            info: 'For error free online admission at the University of Padua for international students follow those below steps:',
             data: [
                 "<b>Step 1: </b><b>Choose the program</b><br>Choosing the suitable degree option for applying as from the list of available undergraduate/graduate degrees. Meanwhile, also keep the pdf of all essential documents ready.",
                 "<b>Step 2: </b><b>Registration</b><br>Thus, for the registration at the University of Padua, click on apply.unipd.it by selecting become an applicant and then complete the further application form.",
@@ -416,7 +421,7 @@ export const universityofpadua = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: '<b>Below is the list of documents mandatory for admission of international students:</b>',
+            info: 'Below is the list of documents mandatory for admission of international students:',
             data: [
                 "Application form",
                 "Birth certificate",
@@ -439,7 +444,7 @@ export const universityofpadua = {
         {
             "type": "table",
             "title": "University of Padua - Intake & Deadline 2021",
-            "info": "<b>The table shows the details of the admission dates as per the official for the international admission to the University of Padua:</b>",
+            "info": "The table shows the details of the admission dates as per the official for the international admission to the University of Padua:",
             "col": [
                 "Events",
                 "Dates",
@@ -483,6 +488,10 @@ export const universityofpadua = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Padua, Italy - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Padua, Italy - Reviews" },
@@ -501,6 +510,10 @@ export const universityofpadua = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Padua, Italy - Placement'
+        },
         {
             type: 'list-bollet',
             title: 'Placement',
@@ -530,6 +543,10 @@ export const universityofpadua = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Padua, Italy - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Padua, Italy - Gallery" },
@@ -549,9 +566,13 @@ export const universityofpadua = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Padua, Italy - Scholarship'
+        },
+        {
             type: 'list-bollet',
             title: 'Scholarship',
-            info: '<b>The scholarships that are provided at University of Padua are as follows:</b>',
+            info: 'The scholarships that are provided at University of Padua are as follows:',
             data: [
                 "Padua International Excellence Scholarship Programme - a.y. 2022/23",
                 "Regione Veneto Scholarships",
@@ -579,6 +600,10 @@ export const universityofpadua = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Padua, Italy - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -636,6 +661,10 @@ export const universityofpadua = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Padua, Italy - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Padua, Italy - News & Articles" },
@@ -655,9 +684,13 @@ export const universityofpadua = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Padua, Italy - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel Facility Provided by University of Padua',
-            info: '<b>The features of the hostel are elaborated below:</b>',
+            info: 'The features of the hostel are elaborated below:',
             data: [
                 "The University of Padua has 10 halls of residence for accommodation with a capacity of 1400 students.",
                 "But, accommodation is provided walking from the Padua campus(near the city center) or University buildings.",
@@ -689,9 +722,13 @@ export const universityofpadua = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Padua, Italy - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Padua - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Does the University of Padua support part-time jobs/internships while studying?",

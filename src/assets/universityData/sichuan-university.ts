@@ -19,10 +19,8 @@ export const sichuanuniversity = {
         {
             "type": "table-title",
             "title": "Sichuan University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Sichuan Medical University:</b>",
-            "col": [
-
-            ],
+            "info": "Given below is the table for quick facts about Sichuan Medical University:",
+            "col": [],
             "row": [
                 ["<b> Intake for MBBS Course</b>", "September 2020"],
                 ["<b> Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -39,7 +37,7 @@ export const sichuanuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Sichuan University?",
-            "info": "<b>Students choose MBBS at Sichuan Medical University because of the following reasons:</b>",
+            "info": "Students choose MBBS at Sichuan Medical University because of the following reasons:",
             "data": [
                 "The Sichuan Medical University implements sophisticated teaching methodologies.",
                 "The university gives direct admission to the students, there is no entrance exam.",
@@ -55,7 +53,7 @@ export const sichuanuniversity = {
         {
             "type": "table",
             "title": "Sichuan University - Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Sichuan Medical University:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Sichuan Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -70,13 +68,13 @@ export const sichuanuniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>Following is the medium of teaching at Sichuan University:</b>",
+            "info": "Following is the medium of teaching at Sichuan University:",
             "data": "<p><b>Following is the medium of teaching at Sichuan University:</b></p><p>Since 2001, Sichuan University has been conducting MBBS courses in English medium. Most of the faculties have been educated in the USA and Canada and thus they can excellently teach the MBBS courses in English medium.<br>The university sends more than 200 faculties to the USA and Canada for education and training every year. West China School of Medicine that is Sichuan University is one of the best and the largest in China.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>China’s Sichuan Medical University is approved and accredited by the below mentioned bodies in the field of medical education so as to ensure that the MBBS degree is accepted worldwide after the completion of studying MBBS in China:</b>",
+            "info": "China’s Sichuan Medical University is approved and accredited by the below mentioned bodies in the field of medical education so as to ensure that the MBBS degree is accepted worldwide after the completion of studying MBBS in China:",
             "data": [
                 "Medical Council of India or MCI",
                 "World Health Organisation or WHO",
@@ -89,7 +87,7 @@ export const sichuanuniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Student's",
-            "info": "<b>Students live a very good life at Sichuan Medical University as it provides many facilities, fun and great environment to its students:</b>",
+            "info": "Students live a very good life at Sichuan Medical University as it provides many facilities, fun and great environment to its students:",
             "data": [
                 "The Student life in the Sichuan Medical University is such that every student will fall in love with it.",
                 "The environment is too good for not only studies but also for fun as well as enjoyment at the side.",
@@ -105,7 +103,7 @@ export const sichuanuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Chengdu City",
-            "info": "<b>The cost of living at Chengdu city is as follows:</b>",
+            "info": "The cost of living at Chengdu city is as follows:",
             "col": [
                 "Activity",
                 "Cost (approx.)"
@@ -136,7 +134,7 @@ export const sichuanuniversity = {
         {
             "type": "list-bollet",
             "title": "About Chengdu City",
-            "info": "<b>Below are some of the key points about the Chengdu city:</b>",
+            "info": "Below are some of the key points about the Chengdu city:",
             "data": [
                 "Chengdu city is located at the western edge of the Sichuan Basin.",
                 "It is the provincial capital of Sichuan Province.",
@@ -171,9 +169,13 @@ export const sichuanuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Sichuan Medical University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Sichuan University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Sichuan Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Sichuan Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "1st Year",
@@ -413,7 +415,7 @@ export const sichuanuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Sichuan University",
-            "info": "<b>The various faculties and departments present at Sichuan University are:</b>",
+            "info": "The various faculties and departments present at Sichuan University are:",
             "data": [
                 "Clinical Medicine",
                 "Pharmacy",
@@ -451,9 +453,13 @@ export const sichuanuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Sichuan Medical University - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Sichuan University",
-            "info": "<b>Mentioned below is the duration of MBBS course:</b>",
+            "info": "Mentioned below is the duration of MBBS course:",
             "data": [
                 "The duration of MBBS course at Sichuan Medical University is 6 years which includes 1 year of internship.",
                 "The internship can either be done at the university hospitals or in the home country of students in a hospital recognized by the Ministry of Health of the concerned country.",
@@ -464,7 +470,7 @@ export const sichuanuniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Sichuan University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Sichuan University is as follows:",
             "data": [
                 "17 is the lower age limit and 30 is the upper age limit to study medicine in China at Sichuan Medical University.",
                 "Students must have Physics, Chemistry and Biology in their curriculum who plan to study in China.",
@@ -481,7 +487,7 @@ export const sichuanuniversity = {
         {
             "type": "step-list",
             "title": "How to Apply for MBBS Admission at Sichuan University?",
-            "info": "<b>Following is the admission procedure for applying to MBBS course at Sichuan University:</b>",
+            "info": "Following is the admission procedure for applying to MBBS course at Sichuan University:",
             "data": [
                 "<b>Step 1:</b> Along with the necessary attested documents, students must fill the application form for studying medicine in Sichuan University, China.",
                 "<b>Step 2:</b> After filling the application form, students must pay application fees, admission fees and the processing fees. For the admission fees and the application fees, students must make advance payment but the processing fees can be either sent to China or India whichever is earlier.",
@@ -495,7 +501,7 @@ export const sichuanuniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Sichuan University:</b>",
+            "info": "Following documents are required at the time of admission to Sichuan University:",
             "data": [
                 "Health Certificate.",
                 "Photocopy of valid passport.",
@@ -511,7 +517,7 @@ export const sichuanuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Sichuan University:</b>",
+            "info": "Check out the Important dates regarding admission at Sichuan University:",
             "col": [
                 "Events",
                 "Dates"
@@ -556,6 +562,10 @@ export const sichuanuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Sichuan Medical University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sichuan Medical University - Reviews" },
@@ -574,6 +584,10 @@ export const sichuanuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Sichuan Medical University - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -607,6 +621,10 @@ export const sichuanuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Sichuan Medical University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sichuan Medical University - Gallery" },
@@ -626,9 +644,13 @@ export const sichuanuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Sichuan Medical University - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following various scholarships are offered at Sichuan Medical University for local and international students:</b>",
+            "info": "Following various scholarships are offered at Sichuan Medical University for local and international students:",
             "data": [
                 "Sichuan University has established various types of scholarships, in order to encourage and financially support international students.",
                 "Applicants must meet specified requirements to be eligible for a scholarship.",
@@ -655,6 +677,10 @@ export const sichuanuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Sichuan Medical University - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -707,6 +733,10 @@ export const sichuanuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Sichuan Medical University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sichuan Medical University - News & Articles" },
@@ -726,9 +756,13 @@ export const sichuanuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Sichuan Medical University - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Sichuan Medical University:</b>",
+            "info": "Following are the hostel facilities at Sichuan Medical University:",
             "data": [
                 "Sichuan Medical University has an Apartment Building for the Overseas Students.",
                 "This apartment building of Sichuan University has a housing capacity of about 300 guests.",
@@ -760,9 +794,13 @@ export const sichuanuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Sichuan Medical University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Sichuan Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
 
                 {

@@ -19,7 +19,7 @@ export const poltavastatemedicalanddentaluniversity = {
         {
             "type": "table-title",
             "title": "Poltava State Medical University - Important Highlights",
-            "info": "<b>Poltava Ukrainian Medical University is the most prioritized Medical Education for those students who want to pursue MBBS in Ukraine: </b>",
+            "info": "Poltava Ukrainian Medical University is the most prioritized Medical Education for those students who want to pursue MBBS in Ukraine: ",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "Twice in a year:February and September"],
@@ -34,7 +34,7 @@ export const poltavastatemedicalanddentaluniversity = {
         {
             "type": "table",
             "title": "Poltava State Medical and Dental University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Poltava State Medical and Dental University: </b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Poltava State Medical and Dental University: ",
             "col": [
                 "Country",
                 "World"
@@ -69,7 +69,7 @@ export const poltavastatemedicalanddentaluniversity = {
         {
             "type": "table",
             "title": "Poltava State Medical University - FMGE Performance 2021",
-            "info": "<b>Find the passing percent and appeared students in year 2021 for Poltava State Medical University is here in the table below: </b>",
+            "info": "Find the passing percent and appeared students in year 2021 for Poltava State Medical University is here in the table below: ",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -116,9 +116,14 @@ export const poltavastatemedicalanddentaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "MBBS Fee Structure of Poltava State Medical University",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "Particular",
                 "Year 1",
@@ -162,7 +167,7 @@ export const poltavastatemedicalanddentaluniversity = {
         {
             "type": "table-title",
             "title": "B.D.S Course: Overview",
-            "info": "<b></b>",
+            "info": "",
             "col": [],
             "row": [
                 ["<b>Basic Eligibility</b>", "50% in PCB for general category (40% for reserved category)"],
@@ -176,7 +181,7 @@ export const poltavastatemedicalanddentaluniversity = {
         {
             "type": "table",
             "title": "BDS Fee Structure of Poltava State Medical University",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "Particulars",
                 "Annual Fees in USD"
@@ -215,7 +220,7 @@ export const poltavastatemedicalanddentaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Poltava State Medical University",
-            "info": "<b>Following are the courses provided by Poltava State Medical Universities to their international students: </b>",
+            "info": "Following are the courses provided by Poltava State Medical Universities to their international students: ",
             "data": [
                 "General Medicine (MBBS)",
                 "Dentistry",
@@ -246,6 +251,11 @@ export const poltavastatemedicalanddentaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Documents Required: Applying for Student Visa",
             "data": [
@@ -264,7 +274,7 @@ export const poltavastatemedicalanddentaluniversity = {
         {
             "type": "table",
             "title": "Academic Calendar - Intake & Deadlines 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Poltava Ukrainian Medical University: </b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Poltava Ukrainian Medical University: ",
             "col": [
                 "Events",
                 "Dates",
@@ -308,6 +318,11 @@ export const poltavastatemedicalanddentaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Poltava State Medical and Dental University (UMSA), Ukraine - Reviews" },
@@ -326,6 +341,11 @@ export const poltavastatemedicalanddentaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -346,6 +366,11 @@ export const poltavastatemedicalanddentaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Poltava State Medical and Dental University (UMSA), Ukraine - Gallery" },
@@ -364,6 +389,11 @@ export const poltavastatemedicalanddentaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -384,6 +414,11 @@ export const poltavastatemedicalanddentaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Poltava State Medical and Dental University (UMSA), Ukraine - Faculty" },
@@ -402,6 +437,11 @@ export const poltavastatemedicalanddentaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -422,9 +462,14 @@ export const poltavastatemedicalanddentaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation Facilities for Indian Students",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "There are separate hostel facilities available for girls and boys.",
                 "The hostel rooms have attached bathrooms and ancillary facilities.",
@@ -433,7 +478,7 @@ export const poltavastatemedicalanddentaluniversity = {
                 "The Poltava University has a 3 hostels having an area of 44512 sq.m. with accommodation of 3344 students.",
                 "Kitchen is provided to each room so that students can cook own food of required taste.",
                 "The access is provided to students, such as campus security services, Counseling services, Health services etc.",
-                "The students should have to follow the rules and regulations as prescribed by Management and University."               
+                "The students should have to follow the rules and regulations as prescribed by Management and University."
             ]
         },
         {
@@ -456,9 +501,14 @@ export const poltavastatemedicalanddentaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Poltava State Medical and Dental University (UMSA), Ukraine - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Poltava State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. For which courses Can I apply to Poltava university?",
@@ -490,7 +540,7 @@ export const poltavastatemedicalanddentaluniversity = {
                 },
             ]
         },
-           {
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Poltava State Medical and Dental University (UMSA), Ukraine - FAQ" },

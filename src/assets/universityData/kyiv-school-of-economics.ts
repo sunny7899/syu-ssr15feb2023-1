@@ -69,14 +69,15 @@ export const kyivschoolofeconomics = {
         {
             "type": "text",
             "title": "Language of Instruction",
-            "data": '<p><b>The medium of teaching at the Kyiv School of Economics is the English language:</b></p><p>The entire MBA program at the institute is taught in <b>English</b> medium to all international students looking forward to becoming a famous businessman in the future.</p>'
+            "info": 'The medium of teaching at the Kyiv School of Economics is the English language:',
+            "data": "<p>The entire MBA program at the institute is taught in <b>English</b> medium to all international students looking forward to becoming a famous businessman in the future.</p>",
         },
         {
             type: 'table-title',
             title: 'Facilities Provided at Kyiv School of Economics',
             info: 'Kyiv School of Economics is furnished with modern facilities for the convenience of the students during the MBA:',
             row: [
-                ["Security","Internet","Classroom","Hostel","Cafeteria","Auditorium"]
+                ["Security", "Internet", "Classroom", "Hostel", "Cafeteria", "Auditorium"]
             ]
         },
         {
@@ -134,449 +135,516 @@ export const kyivschoolofeconomics = {
 
 
 
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Kyiv School of Economics, Ukraine" },
                 { name: "description", content: "Kyiv School of Economics (KSE) is the top management institute of Ukraine offering a high standard of MBA education to worldwide students." },
             ],
         },
         {
-            type:"meta-title",
-            title: "Kyiv School of Economics, Ukraine"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics" }
-        ]}
+            ]
+        }
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - courses & Fees"
+
+        },
 
         {
-            "type":"table",
-            "title":"Kyiv School of Economics: MBA Tuition Fee 2023",
-            "info":"Kyiv School of Economics provides a reasonable fee to all students who seek MBA admission:",
+            "type": "table",
+            "title": "Kyiv School of Economics: MBA Tuition Fee 2023",
+            "info": "Kyiv School of Economics provides a reasonable fee to all students who seek MBA admission:",
             "col": [
                 "Particular",
                 "Amount per year"
             ],
-            "row":[
+            "row": [
                 {
-                    "Particular":"<b>Amount in UAH</b>",
-                    "Amount per year":"450000 UAH"
+                    "Particular": "<b>Amount in UAH</b>",
+                    "Amount per year": "450000 UAH"
                 },
                 {
-                    "Particular":"<b>Amount in USD</b>",
-                    "Amount per year":"16000 USD (approx)"
+                    "Particular": "<b>Amount in USD</b>",
+                    "Amount per year": "16000 USD (approx)"
                 },
                 {
-                    "Particular":"<b>Amount in Rs</b>",
-                    "Amount per year":"Rs. 11,20,000 (approx)"
+                    "Particular": "<b>Amount in Rs</b>",
+                    "Amount per year": "Rs. 11,20,000 (approx)"
                 }
             ],
-            "heading":"<p><b>Note: </b>for calculation purpose 1 USD = 70 Rs.</p>"
+            "heading": "<p><b>Note: </b>for calculation purpose 1 USD = 70 Rs.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Kyiv School of Economics: MBA Duration",
-            "info":"The candidates must complete the entire MBA program in 20 months:",
+            "info": "The candidates must complete the entire MBA program in 20 months:",
             "data": [
-              "To study for an MBA at Kyiv School of Economics, all students should undergo a 20-month MBA.",
-              "The institute has top professors who are teaching an MBA course in the English language only.",
-              "The program is designed for ambitious leaders working in various industries."
-              ]
-          },
-          {
+                "To study for an MBA at Kyiv School of Economics, all students should undergo a 20-month MBA.",
+                "The institute has top professors who are teaching an MBA course in the English language only.",
+                "The program is designed for ambitious leaders working in various industries."
+            ]
+        },
+        {
             type: 'table-title',
             title: 'MBA Courses offered at Kyiv School of Economics',
             info: 'Check out the various courses offered at Kyiv School of Economics:',
             row: [
-                ["Organizational Behavior","Operations & Project Management"],
-                ["Strategic Marketing & Sales","Quantitative Methods"],
-                ["Leadership & People Management","Financial & Managerial Accounting"],
-                ["Strategic Management","Corporate Finance (MBA)" ]
+                ["Organizational Behavior", "Operations & Project Management"],
+                ["Strategic Marketing & Sales", "Quantitative Methods"],
+                ["Leadership & People Management", "Financial & Managerial Accounting"],
+                ["Strategic Management", "Corporate Finance (MBA)"]
             ]
         },
-        
-        {
-          type:"meta",
-          meta: [
-              { name: "title", content: "Kyiv School of Economics, Ukraine - courses & Fees" },
-              { name: "description", content: "know about Kyiv School of Economics (KSE), Eligibility, Required documents, courses Duration. Check available courses and fees" },
-          ],
-      },
-      {
-          type:"meta-title",
-          title: "Kyiv School of Economics, Ukraine - courses & Fees"},
-      {
-          type:"meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/courses-and-fees" }
-      ]}
-        ],
-        "admission":[
 
-            {
-                "type": "list-bollet",
-                "title": "Eligibility Criteria",
-                "info":"The MBA aspirants must fit into the basic criteria to grab MBA seats at Kyiv School of Economics:",
-                "data": [
-                  "The students must graduate from high school by July or earlier to apply for the MBA program at Kyiv School of Economics.",
-                  "Applicants should have an Independent external evaluation (ZnO) in English and Maths subjects (score doesn’t matter)",
-                  "International students must have a valid passport copy to study MBA at Kyiv School of Economics."
-                  ]
-              },
-              {
-                "type": "step-list",
-                "title": "Admission Process",
-                "info":"The students must carry essential documents during MBA course admission time at Kyiv School of Economics:",
-                "data": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kyiv School of Economics, Ukraine - courses & Fees" },
+                { name: "description", content: "know about Kyiv School of Economics (KSE), Eligibility, Required documents, courses Duration. Check available courses and fees" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - courses & Fees"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/courses-and-fees" }
+            ]
+        }
+    ],
+    "admission": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - Admission 2023"
+
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria",
+            "info": "The MBA aspirants must fit into the basic criteria to grab MBA seats at Kyiv School of Economics:",
+            "data": [
+                "The students must graduate from high school by July or earlier to apply for the MBA program at Kyiv School of Economics.",
+                "Applicants should have an Independent external evaluation (ZnO) in English and Maths subjects (score doesn’t matter)",
+                "International students must have a valid passport copy to study MBA at Kyiv School of Economics."
+            ]
+        },
+        {
+            "type": "step-list",
+            "title": "Admission Process",
+            "info": "The students must carry essential documents during MBA course admission time at Kyiv School of Economics:",
+            "data": [
                 "<b>Step 1: </b>The candidates willing to pursue an MBA course must fill the application form before the deadline date.",
                 "<b>Step 2: </b>Submit a written application and essential documents for enrollment.",
                 "<b>Step 3: </b>The applicants must appear for admission exams at the Kyiv School of Economics :- <br>- English<br>- Mathematics<br>- Logical aptitude",
                 "<b>Step 4: </b>The candidate must come for an interview at the Kyiv School of Economics.",
                 "<b>Step 5: </b>Kyiv School of Economics will send an official enrollment letter to selected students.",
                 "<b>Step 6: </b>The students can start the MBA course at Kyiv School of Economics during the intake period."
-              ]
-              },
-              {
-                "type": "list-bollet",
-                "title": "Documents Required",
-                "info":"While applying for the MBA program at Kyiv School of Economics, the students must be prepared with the required documents:",
-                "data": [
-                  "Complete and correct filled application form.",
-                  "Academic mark sheets of 11th and 12th standards.",
-                  "Marksheets of bachelor’s degree.",
-                  "Transfer certificate provided by the previous institute.",
-                  "Migration certificate.",
-                  "The bank fee receipt after paying the first-year fee of the MBA course.",
-                  "The caste certificate.",
-                  "The birth certificate.",
-                  "Latest COVID-19 test reports.",
-                  "Recent passport size photographs.",
-                  "A valid passport.",
-                  "Medical certificate along with the HIV reports."
-                  ]
-              },
-              {
-                "type":"table",
-                "title":"Important Dates: Intake 2023",
-                "info":"The candidates must stay updated with the important admission dates of Kyiv School of Economics:",
-                "col": [
-                    "Events",
-                    "Dates"
-                ],
-                "row":[
-                    {
-                        "Events":"<b>Application Start Date</b>",
-                        "Dates":"Yet to be declared"
-                    },
-                    {
-                        "Events":"<b>Invitation Letter</b>",
-                        "Dates":"Yet to be declared"
-                    },
-                    {
-                        "Events":"<b>Admission Start Date</b>",
-                        "Dates":"Yet to be declared"
-                    },
-                    {
-                        "Events":"<b>Last Date of Admission Form</b>",
-                        "Dates":"Yet to be declared"
-                    }
-                ]
-            },
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Documents Required",
+            "info": "While applying for the MBA program at Kyiv School of Economics, the students must be prepared with the required documents:",
+            "data": [
+                "Complete and correct filled application form.",
+                "Academic mark sheets of 11th and 12th standards.",
+                "Marksheets of bachelor’s degree.",
+                "Transfer certificate provided by the previous institute.",
+                "Migration certificate.",
+                "The bank fee receipt after paying the first-year fee of the MBA course.",
+                "The caste certificate.",
+                "The birth certificate.",
+                "Latest COVID-19 test reports.",
+                "Recent passport size photographs.",
+                "A valid passport.",
+                "Medical certificate along with the HIV reports."
+            ]
+        },
+        {
+            "type": "table",
+            "title": "Important Dates: Intake 2023",
+            "info": "The candidates must stay updated with the important admission dates of Kyiv School of Economics:",
+            "col": [
+                "Events",
+                "Dates"
+            ],
+            "row": [
+                {
+                    "Events": "<b>Application Start Date</b>",
+                    "Dates": "Yet to be declared"
+                },
+                {
+                    "Events": "<b>Invitation Letter</b>",
+                    "Dates": "Yet to be declared"
+                },
+                {
+                    "Events": "<b>Admission Start Date</b>",
+                    "Dates": "Yet to be declared"
+                },
+                {
+                    "Events": "<b>Last Date of Admission Form</b>",
+                    "Dates": "Yet to be declared"
+                }
+            ]
+        },
 
-          
-          {
-            type:"meta",
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Kyiv School of Economics, Ukraine - Admission 2023" },
                 { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process. Click Here TO REGISTER" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Kyiv School of Economics, Ukraine - Admission 2023"},
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - Admission 2023"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/admission" }
-        ]}
-        ],
-        "review":[
-          
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Kyiv School of Economics, Ukraine - Reviews" },
-                  { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Kyiv School of Economics, Ukraine - Reviews"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/reviews" }
-              ]
-          }
-      ],
-        "placement":[
-          
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Kyiv School of Economics, Ukraine - Placement" },
-            { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "Kyiv School of Economics, Ukraine - Placement"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/placement" }
-    ]}
-        ],
-        "gallery":[
-         
-    
-    
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Kyiv School of Economics, Ukraine - Gallery"},
-                  { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Kyiv School of Economics, Ukraine - Gallery"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/gallery" }
-              ]
-          }
-      ],
-        "scholarship": [
+            ]
+        }
+    ],
+    "review": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - Reviews"
 
-            {
-                "type": "list-bollet",
-                "title": "",
-                "info":"Following are the scholarships offered by the Kyiv School of Economics  -",
-                "data": [
-                  "Ampersand scholarship",
-                  "Merit based scholarship"
-                  ]
-              },
-          
-          {
-            type:"meta",
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kyiv School of Economics, Ukraine - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - Placement"
+
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kyiv School of Economics, Ukraine - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - Gallery"
+
+        },
+
+
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kyiv School of Economics, Ukraine - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - Scholarship"
+
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Following are the scholarships offered by the Kyiv School of Economics  -",
+            "data": [
+                "Ampersand scholarship",
+                "Merit based scholarship"
+            ]
+        },
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Kyiv School of Economics, Ukraine - Scholarship" },
                 { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Kyiv School of Economics, Ukraine - Scholarship"},
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - Scholarship"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/scholarship" }
-        ]}
-        ],
-        "faculty": [
-          
-            {
-                "type":"table",
-                "title":"",
-                "info":"",
-                "col": [
-                    "Name",
-                    "Position"
-                ],
-                "row":[
-                    {
-                        "Name":"<b>Oksana Nezhyvenko</b>",
-                        "Position":"Professor"
-                    },
-                    {
-                        "Name":"<b>Andrii Tymofejuk</b>",
-                        "Position":"Business analyst at Transparency International Ukraine"
-                    },
-                    {
-                        "Name":"<b>Nicolas Aragon</b>",
-                        "Position":"Ph.D., European University Institute, KSE Assistant Professor"
-                    },
-                    {
-                        "Name":"<b>Torbjorn Becker</b>",
-                        "Position":"Director of the Stockholm Institute of Transition Economics (SITE)"
-                    }
-                ]
-            },
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - Faculty"
 
-          {
-            type:"meta",
+        },
+
+        {
+            "type": "table",
+            "title": "",
+            "info": "",
+            "col": [
+                "Name",
+                "Position"
+            ],
+            "row": [
+                {
+                    "Name": "<b>Oksana Nezhyvenko</b>",
+                    "Position": "Professor"
+                },
+                {
+                    "Name": "<b>Andrii Tymofejuk</b>",
+                    "Position": "Business analyst at Transparency International Ukraine"
+                },
+                {
+                    "Name": "<b>Nicolas Aragon</b>",
+                    "Position": "Ph.D., European University Institute, KSE Assistant Professor"
+                },
+                {
+                    "Name": "<b>Torbjorn Becker</b>",
+                    "Position": "Director of the Stockholm Institute of Transition Economics (SITE)"
+                }
+            ]
+        },
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Kyiv School of Economics, Ukraine - Faculty" },
                 { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Kyiv School of Economics, Ukraine - Faculty"},
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - Faculty"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/faculty" }
-        ]}
-        ],
-        "news":[
-         
-    
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Kyiv School of Economics, Ukraine - News & Articles" },
-                  { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Kyiv School of Economics, Ukraine - News & Articles"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/news-and-articles" }
-              ]
-          }
-      ],
-        "hostel": [
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - News & Articles"
 
-            {
-                "type": "list-bollet",
-                "title": "Hostel & Accommodation",
-                "info":"Kyiv School of Economics has excellent residential facilities with proper amenities at affordable rates:",
-                "data": [
-                  "The college is offering a well developed and fully-furnished hostel for the convenient stay of the students.",
-                  "The residential place is a few steps away from the university campus.",
-                  "During the winter period, the students can stay warm inside their rooms due to the presence of a central heating system inside the hostel premises.",
-                  "The hostel mess provides delicious and healthy veg and non-veg food served to the students.",
-                  "There are many Indian restaurants also available near the hostel area.",
-                  "One common kitchen is available if some student wants to cook food for themselves, one common kitchen is available in the hostel."
-                  ]
-              },
-              {
-                type: 'table-title',
-                title: '',
-                info: 'The hostel rooms are fully furnished with proper amenities -',
-                row: [
-                    ["Bed","Study Table","Chair","Washing Basin"],
-                    ["Mattress","Blanket","Bedsheet","Pillow"]
-                ]
-            },
-            {
-                "type": "list-bollet",
-                "title": "",
-                "info":"",
-                "data": [
-                  "Kyiv School of Economics provides convenient and safe rooms for the better living of worldwide students.",
-                  "The hostel system will offer rooms on a sharing basis to the students.",
-                  "The students have access to an internet connection round the clock while staying at the hostel.",
-                  "Hostel premises are under CCTV surveillance and security guards are also available for the safety concern of the students."
-                  ]
-              },
-              {
-                type: 'table-title',
-                title: '',
-                info: 'The hostel is fulfilling the modern needs of students -',
-                row: [
-                    ["Gymnasium","Refrigerator","TV"],
-                    ["Washing Machine","Hot & cold water","Electrical Appliances"]
-                ]
-            },
-          
-          {
-            type:"meta",
+        },
+
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kyiv School of Economics, Ukraine - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - Hostel"
+
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "Hostel & Accommodation",
+            "info": "Kyiv School of Economics has excellent residential facilities with proper amenities at affordable rates:",
+            "data": [
+                "The college is offering a well developed and fully-furnished hostel for the convenient stay of the students.",
+                "The residential place is a few steps away from the university campus.",
+                "During the winter period, the students can stay warm inside their rooms due to the presence of a central heating system inside the hostel premises.",
+                "The hostel mess provides delicious and healthy veg and non-veg food served to the students.",
+                "There are many Indian restaurants also available near the hostel area.",
+                "One common kitchen is available if some student wants to cook food for themselves, one common kitchen is available in the hostel."
+            ]
+        },
+        {
+            type: 'table-title',
+            title: '',
+            info: 'The hostel rooms are fully furnished with proper amenities -',
+            row: [
+                ["Bed", "Study Table", "Chair", "Washing Basin"],
+                ["Mattress", "Blanket", "Bedsheet", "Pillow"]
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "Kyiv School of Economics provides convenient and safe rooms for the better living of worldwide students.",
+                "The hostel system will offer rooms on a sharing basis to the students.",
+                "The students have access to an internet connection round the clock while staying at the hostel.",
+                "Hostel premises are under CCTV surveillance and security guards are also available for the safety concern of the students."
+            ]
+        },
+        {
+            type: 'table-title',
+            title: '',
+            info: 'The hostel is fulfilling the modern needs of students -',
+            row: [
+                ["Gymnasium", "Refrigerator", "TV"],
+                ["Washing Machine", "Hot & cold water", "Electrical Appliances"]
+            ]
+        },
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Kyiv School of Economics, Ukraine - Hostel" },
                 { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Kyiv School of Economics, Ukraine - Hostel"},
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - Hostel"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/hostel" }
-        ]}
-        ],
-        "faq": [
-         
-            {
-                "type": "question-list",
-                "title": "Kyiv School of Economics: Important FAQs",
-                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
-                "data": [
-                    {
-                      "ques": "Q. When does the MBA course begin at Kyiv School of Economics?",
-                      "ans": "The MBA program starts in October at Kyiv School of Economics."
-                    },
-                    { "ques": "Q. Is Kyiv School of Economics safe for worldwide students during the MBA?",
-                      "ans": "Kyiv School of Economics is fully secured with CCTV camera surveillance for the safety concern of the students"
-                    },
-                    {
-                        "ques": "Q. What is the MBA duration at Kyiv School of Economics?",
-                        "ans": "The students must complete the entire MBA course in 20 months at the Kyiv School of Economics."
-                    },
-                    {
-                        "ques": "Q. What is the minimum level of required English language to study for an MBA at Kyiv School of Economics?",
-                        "ans": "The students must have an upper-Intermediate level of English proficiency to enroll in an MBA at Kyiv School of Economics."
-                    },
-                    {
-                        "ques": "Q. Are the IELTS and TOEFL exams necessary to enroll in the MBA program at Kyiv School of Economics?",
-                        "ans": "NO need to clear IELTS or TOEFL, but the candidates must appear for the internal English test to pursue MBA at Kyiv School of Economics."
-                    },
-                    {
-                        "ques": "Q. Are the IELTS and TOEFL exams necessary to enroll in the MBA program at Kyiv School of Economics?",
-                        "ans": "NO need to clear IELTS or TOEFL, but the candidates must appear for the internal English test to pursue MBA at Kyiv School of Economics."
-                      },
-                      {
-                        "ques": "Q. s it possible to pay the MBA tuition fee in installments at the Kyiv School of Economics?",
-                        "ans": "Yes, the students can pay a fee in quarterly installments to study MBA courses at Kyiv School of Economics."
-                      },
-                      {
-                        "ques": "Q. Are there financial aids available during MBA education for the students at Kyiv School of Economics?",
-                        "ans": "Kyiv School of Economics does not provide financial aids, but it surely gives a 10% discount for early applicants."
-                      },
-                    
-                ]
-            },
+            ]
+        }
+    ],
+    "faq": [
+        {
+            type: 'title',
+            title: "Kyiv School of Economics, Ukraine - FAQ"
 
-          {
-            type:"meta",
+        },
+
+        {
+            "type": "question-list",
+            "title": "Kyiv School of Economics: Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. When does the MBA course begin at Kyiv School of Economics?",
+                    "ans": "The MBA program starts in October at Kyiv School of Economics."
+                },
+                {
+                    "ques": "Q. Is Kyiv School of Economics safe for worldwide students during the MBA?",
+                    "ans": "Kyiv School of Economics is fully secured with CCTV camera surveillance for the safety concern of the students"
+                },
+                {
+                    "ques": "Q. What is the MBA duration at Kyiv School of Economics?",
+                    "ans": "The students must complete the entire MBA course in 20 months at the Kyiv School of Economics."
+                },
+                {
+                    "ques": "Q. What is the minimum level of required English language to study for an MBA at Kyiv School of Economics?",
+                    "ans": "The students must have an upper-Intermediate level of English proficiency to enroll in an MBA at Kyiv School of Economics."
+                },
+                {
+                    "ques": "Q. Are the IELTS and TOEFL exams necessary to enroll in the MBA program at Kyiv School of Economics?",
+                    "ans": "NO need to clear IELTS or TOEFL, but the candidates must appear for the internal English test to pursue MBA at Kyiv School of Economics."
+                },
+                {
+                    "ques": "Q. Are the IELTS and TOEFL exams necessary to enroll in the MBA program at Kyiv School of Economics?",
+                    "ans": "NO need to clear IELTS or TOEFL, but the candidates must appear for the internal English test to pursue MBA at Kyiv School of Economics."
+                },
+                {
+                    "ques": "Q. s it possible to pay the MBA tuition fee in installments at the Kyiv School of Economics?",
+                    "ans": "Yes, the students can pay a fee in quarterly installments to study MBA courses at Kyiv School of Economics."
+                },
+                {
+                    "ques": "Q. Are there financial aids available during MBA education for the students at Kyiv School of Economics?",
+                    "ans": "Kyiv School of Economics does not provide financial aids, but it surely gives a 10% discount for early applicants."
+                },
+
+            ]
+        },
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Kyiv School of Economics, Ukraine - FAQ" },
                 { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Kyiv School of Economics, Ukraine - FAQ"},
+            type: "meta-title",
+            title: "Kyiv School of Economics, Ukraine - FAQ"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kyiv-school-of-economics/faq" }
-        ]}
-      ],
-    
-      }
+            ]
+        }
+    ],
+
+}

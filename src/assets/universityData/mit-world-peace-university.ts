@@ -19,7 +19,7 @@ export const mitworldpeaceuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>List of Colleges under MIT WPU Pune:</b>",
+            "info": "List of Colleges under MIT WPU Pune:",
             "data": [
                 "MIT School of Government",
                 "MAEER’s MIT College of Engineering, Pune",
@@ -103,7 +103,7 @@ export const mitworldpeaceuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The salary statistics for this University:</b>",
+            "info": "The salary statistics for this University:",
             "data": [
                 "Highest Salary: 13 LPA",
                 "Average Salary: 6.25 LPA"
@@ -187,6 +187,11 @@ export const mitworldpeaceuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "MIT World Peace University, Pune - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "MIT WPU - BBA Fee Structure 2022",
             "info": "",
@@ -222,6 +227,11 @@ export const mitworldpeaceuniversity = {
         }
     ],
     "admission": [
+        {
+            type: 'title',
+            title: "MIT World Peace University, Pune - Admission 2023"
+
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -304,6 +314,11 @@ export const mitworldpeaceuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "MIT World Peace University, Pune - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "MIT World Peace University, Pune - Reviews" },
@@ -323,6 +338,11 @@ export const mitworldpeaceuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "MIT World Peace University, Pune - Placement"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "MIT World Peace University, Pune - Placement" },
@@ -341,6 +361,11 @@ export const mitworldpeaceuniversity = {
         }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "MIT World Peace University, Pune - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -362,9 +387,14 @@ export const mitworldpeaceuniversity = {
 
     "scholarship": [
         {
+            type: 'title',
+            title: "MIT World Peace University, Pune -Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Following are the scholarships offered to the deserving students by the Flame University -</b>",
+            "info": "Following are the scholarships offered to the deserving students by the Flame University -",
             "data": [
                 "Merit scholarships",
                 "Dr. Vishwanath Karad 100% Merit Scholarship",
@@ -391,6 +421,11 @@ export const mitworldpeaceuniversity = {
 
 
     "faculty": [
+        {
+            type: 'title',
+            title: "MIT World Peace University, Pune - Faculty"
+
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -438,6 +473,11 @@ export const mitworldpeaceuniversity = {
         }],
     "news": [
         {
+            type: 'title',
+            title: "MIT World Peace University, Pune - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "MIT World Peace University, Pune - News & Articles" },
@@ -457,9 +497,14 @@ export const mitworldpeaceuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "MIT World Peace University, Pune - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation at MIT World peace university",
-            "info": "<p>Following are the points which describe how good is accommodation offered by the MIT World peace university - </p>",
+            "info": "Following are the points which describe how good is accommodation offered by the MIT World peace university - ",
             "data": [
                 "Twin sharing rooms ",
                 "Triple sharing rooms ",
@@ -492,6 +537,11 @@ export const mitworldpeaceuniversity = {
     ],
     "faq":
         [
+            {
+                type: 'title',
+                title: "MIT World Peace University, Pune - FAQ"
+
+            },
             {
                 "type": "question-list",
                 "title": "",

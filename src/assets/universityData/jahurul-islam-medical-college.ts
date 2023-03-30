@@ -19,7 +19,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "table-title",
       "title": "Jahurul Islam Medical College - Quick Overview 2022",
-      "info": "<b>Find everything you need for starting MBBS journey at Jahurul Islam Medical College to manage the enrollment:</b>",
+      "info": "Find everything you need for starting MBBS journey at Jahurul Islam Medical College to manage the enrollment:",
       "col": [],
       "row": [
         ["<b>Intake for MBBS Course</b>", "University of Dhaka"],
@@ -35,7 +35,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": 'list-bollet',
       "title": 'Why Study MBBS at Jahurul Islam Medical College?',
-      "info": '<b>Here are the advantages of studying medicine course at Jahurul Islam Medical College:</b>',
+      "info": 'Here are the advantages of studying medicine course at Jahurul Islam Medical College:',
       "data": [
         "The cost of studying at Jahurul Islam Medical College is less than any Indian private college for worldwide students to pursue the MBBS program.",
         "The graduated students from the College are recognized across the globe.",
@@ -51,13 +51,13 @@ export const jahurulislammedicalcollege = {
     {
       "type": "text",
       "title": "Medium of Teaching",
-      "info": "",
-      "data": "<p><b>The teaching language for studying MBBS in English here:</b></p><p>High standard of medical education provided in 100% English literature at Jahurul Islam Medical College.</p>"
+      "info": "The teaching language for studying MBBS in English here:",
+      "data": "</p><p>High standard of medical education provided in 100% English literature at Jahurul Islam Medical College.</p>"
     },
     {
       "type": "table",
       "title": "Jahurul Islam Medical College - FMGE Performance 2020",
-      "info": "<b>The details about FMGE performance for Jahurul Islam Medical College of year 2020 with passing percent is as follows:</b>",
+      "info": "The details about FMGE performance for Jahurul Islam Medical College of year 2020 with passing percent is as follows:",
       "col": [
         "Name of University",
         "Appeared",
@@ -77,7 +77,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>Jahurul Islam Medical College is officially accredited, recognized, and acknowledged by various organizations:</b>",
+      "info": "Jahurul Islam Medical College is officially accredited, recognized, and acknowledged by various organizations:",
       "data": [
         "World Health Organization (WHO)",
         "Bangladesh Medical & Dental Council (BM&DC)",
@@ -88,7 +88,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>Prepare yourself to study MBS at Jahurul Islam Medical College, Check out the important dates that will be useful for enrollment:</b>",
+      "info": "Prepare yourself to study MBS at Jahurul Islam Medical College, Check out the important dates that will be useful for enrollment:",
       "col": [
         "Events",
         "Dates",
@@ -115,7 +115,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "table",
       "title": "Living Expenses of Bhagalpur, Bangladesh",
-      "info": "<b>Bhagalpur is very much affordable for the students during MBBS education at the institute, check out the table showing the monthly based living cost varying person to person:</b>",
+      "info": "Bhagalpur is very much affordable for the students during MBBS education at the institute, check out the table showing the monthly based living cost varying person to person:",
       "col": [
         "Particulars",
         "Cost in USD",
@@ -133,12 +133,12 @@ export const jahurulislammedicalcollege = {
           "Cost in INR": "357 Rs",
         },
       ],
-      heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
+      heading: '<p><b><u>Note:</u></b> 1$ = 70 Rs.</p>'
     },
     {
       "type": "list-bollet",
       "title": "Facilities offered at Jahurul Islam Medical College",
-      "info": "<b>Jahurul Islam Medical College is equipped with the latest facilities for local and international students on the campus:</b>",
+      "info": "Jahurul Islam Medical College is equipped with the latest facilities for local and international students on the campus:",
       "data": [
         "Library",
         "hostel",
@@ -170,10 +170,15 @@ export const jahurulislammedicalcollege = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Jahurul Islam Medical College, Bangladesh - courses & Fees"
+
+    },
+    {
       "type": "table",
       "title": "Jahurul Islam Medical College - MBBS Fee structure 2022",
-      "info": "<b>Jahurul Islam Medical College offers a reasonable fee for pursuing a medicine career:</b>",
-      "data": "<p><b>1 Foreign Students Fee</b></p>",
+      "info": "Jahurul Islam Medical College offers a reasonable fee for pursuing a medicine career:",
+      "textBelowInfo": "<p>1 Foreign Students Fee</p>",
       "col": [
         "Particular",
         "Total Fees",
@@ -192,7 +197,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Courses Offered at Jahurul Islam Medical College",
-      "info": "<b>Explore the various departments offered by Jahurul Islam Medical College:</b>",
+      "info": "Explore the various departments offered by Jahurul Islam Medical College:",
       "data": [
         "Medicine",
         "Anaesthesiology",
@@ -205,7 +210,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Jahurul Islam Medical College - MBBS Duration",
-      "info": "<b>The course duration of the MBBS course in Jahurul Islam Medical College is 5 years:</b>",
+      "info": "The course duration of the MBBS course in Jahurul Islam Medical College is 5 years:",
       "data": [
         "Jahurul Islam Medical College provides 5 years of the MBBS course in English medium.",
         "The students will gain not only theoretical information but also understand the practical aspect of MBBS through our experienced and highly qualified professors.",
@@ -216,7 +221,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "table",
       "title": "Jahurul Islam Medical College - MBBS Syllabus",
-      "info": "<b>Individual candidates must refer to the organized syllabus of the MBBS course of Jahurul Islam Medical College:</b>",
+      "info": "Individual candidates must refer to the organized syllabus of the MBBS course of Jahurul Islam Medical College:",
       "col": [
         "Duration",
         "Subjects",
@@ -265,9 +270,14 @@ export const jahurulislammedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Jahurul Islam Medical College, Bangladesh - Admission 2023 "
+
+    },
+    {
       "type": "text",
       "title": "Eligibility Criteria",
-      "info": "<b>The students have to fit into the following eligibility requirements to get admission at Jahurul Islam Medical College:</b>",
+      "info": "The students have to fit into the following eligibility requirements to get admission at Jahurul Islam Medical College:",
       "data": ""
     },
     {
@@ -291,7 +301,7 @@ export const jahurulislammedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>Following are the admission steps if you want to get enrolled in Jahurul Islam Medical College:</b><br>1 Foreign Students',
+      info: 'Following are the admission steps if you want to get enrolled in Jahurul Islam Medical College:<br>1 Foreign Students',
       data: [
         "Step 1: Eligible students should fill the application form and apply through the Embassy of Bangladesh in their countries within the announced date to get an eligibility certificate from the Director, Medical Education, Directorate of Health Services (DGHS).",
         "Step 2: The candidates must attach the following documents along with the application form - Certificates and mark sheets of SSC & HSC , 3 recent passport size color photos",
@@ -313,7 +323,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The students are supposed to submit all important documents for MBBS enrollment:</b>",
+      "info": "The students are supposed to submit all important documents for MBBS enrollment:",
       "data": [
         "Application form",
         "SSC certificate",
@@ -354,6 +364,11 @@ export const jahurulislammedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Jahurul Islam Medical College, Bangladesh - Reviews"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Jahurul Islam Medical College, Bangladesh - Reviews" },
@@ -372,6 +387,11 @@ export const jahurulislammedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Jahurul Islam Medical College, Bangladesh - Placement"
+
+    },
     {
       type: "meta",
       meta: [
@@ -392,6 +412,11 @@ export const jahurulislammedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Jahurul Islam Medical College, Bangladesh - Gallery"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Jahurul Islam Medical College, Bangladesh - Gallery" },
@@ -410,6 +435,11 @@ export const jahurulislammedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Jahurul Islam Medical College, Bangladesh - Scholarship"
+
+    },
     {
       type: "meta",
       meta: [
@@ -430,6 +460,11 @@ export const jahurulislammedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Jahurul Islam Medical College, Bangladesh - Faculty"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Jahurul Islam Medical College, Bangladesh - Faculty" },
@@ -448,6 +483,11 @@ export const jahurulislammedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Jahurul Islam Medical College, Bangladesh - News & Articles"
+
+    },
     {
       type: "meta",
       meta: [
@@ -468,9 +508,14 @@ export const jahurulislammedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Jahurul Islam Medical College, Bangladesh - Hostel"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>Jahurul Islam Medical College has a modernized and well-equipped hostel place for the students:</b>",
+      "info": "Jahurul Islam Medical College has a modernized and well-equipped hostel place for the students:",
       "data": [
         "The College is fully residential and all students will reside in their allotted seats.",
         "The hostel has two separate hostels for male and female students within the campus.",
@@ -482,7 +527,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "table-title",
       "title": "",
-      "info": "<b>Only the close relations including parents, sisters, and brothers of the students are allowed to visit in the hostel guest room-</b>",
+      "info": "Only the close relations including parents, sisters, and brothers of the students are allowed to visit in the hostel guest room-",
       "col": [],
       "row": [
         ["Every day- 3.00 pm to 6.00 pm", "Friday- 1.00 pm to 6.00 pm"]
@@ -491,7 +536,7 @@ export const jahurulislammedicalcollege = {
     {
       "type": "table-title",
       "title": "",
-      "info": "<b>The students will get fresh and nutritious food in the common mess provided by the hostel, check out the timings to get the food on time-</b>",
+      "info": "The students will get fresh and nutritious food in the common mess provided by the hostel, check out the timings to get the food on time-",
       "col": [],
       "row": [
         ["Breakfast- 7.00 am to 9.30 am", "Lunch- 1.00 am to 3.00 pm"],
@@ -503,10 +548,10 @@ export const jahurulislammedicalcollege = {
       "title": "",
       "info": "",
       "data": [
-          "Guest Room",
-          "Gym",
-          "TV",
-          "Mess"
+        "Guest Room",
+        "Gym",
+        "TV",
+        "Mess"
       ]
     },
     {
@@ -545,9 +590,14 @@ export const jahurulislammedicalcollege = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Jahurul Islam Medical College, Bangladesh - FAQ"
+
+      },
+      {
         "type": "question-list",
         "title": "Jahurul Islam Medical College - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. What are the hostel facilities provided by the Jahurul Islam Medical College?",

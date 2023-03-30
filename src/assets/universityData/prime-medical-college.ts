@@ -19,7 +19,7 @@ export const primemedicalcollege = {
     {
       "type": "table-title",
       "title": "Prime Medical College - Quick Overview 2022",
-      "info": "<b>The students willing to pursue MBBS must go through some important points of Prime Medical College:</b>",
+      "info": "The students willing to pursue MBBS must go through some important points of Prime Medical College:",
       "col": [],
       "row": [
         ["<b>NEET Exam</b>", "Yes, required"],
@@ -33,7 +33,7 @@ export const primemedicalcollege = {
     {
       type: 'list-bollet',
       title: 'Why Study MBBS at Prime Medical College?',
-      info: '<b>The students register themselves for doing Medical course due to many beneficial reasons:</b>',
+      info: 'The students register themselves for doing Medical course due to many beneficial reasons:',
       data: [
         "Prime Medical College offers high-quality advanced education at world standards.",
         "Prime Medical College has a low fee which is affordable for the students coming to pursue MBBS from different corners of the world.",
@@ -57,7 +57,7 @@ export const primemedicalcollege = {
     {
       type: 'list-bollet',
       title: 'Facilities Offered at Prime Medical College',
-      info: '<b>Prime Medical College provides every basic facility for the improvement and growth of the students:</b>',
+      info: 'Prime Medical College provides every basic facility for the improvement and growth of the students:',
       data: [
         "Accommodation",
         "Library",
@@ -73,7 +73,7 @@ export const primemedicalcollege = {
     {
       "type": "table",
       "title": "Prime Medical College - FMGE Performance 2020",
-      "info": "<b>The details about FMGE performance for Prime Medical College of year 2020 with passing percent is as follows:</b>",
+      "info": "The details about FMGE performance for Prime Medical College of year 2020 with passing percent is as follows:",
       "col": [
         "Name of University",
         "Appeared ",
@@ -92,7 +92,7 @@ export const primemedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation, Affiliation, and Recognition",
-      "info": "<b>Prime Medical College is officially recognized by various organizations:</b>",
+      "info": "Prime Medical College is officially recognized by various organizations:",
       "data": [
         "Ministry of Health & Family Welfare",
         "Govt. of the Peoples’ Republic of Bangladesh",
@@ -147,9 +147,13 @@ export const primemedicalcollege = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "Prime Medical College - MBBS Fee Structure 2022",
-      "info": "<b>The fee mentioned below is supposed to be paid by the foreign students at admission time:</b>",
+      "info": "The fee mentioned below is supposed to be paid by the foreign students at admission time:",
       "col": [
         "Particular",
         "Amount per annum"
@@ -165,12 +169,12 @@ export const primemedicalcollege = {
         },
 
       ],
-      heading: '<p><b style=color: red;><u>Note:</u></b> 1 USD = 70 Rs</p>'
+      "heading": '<p><b style=color: red;><u>Note:</u></b> 1 USD = 70 Rs</p>'
     },
     {
       "type": "table-title",
       "title": "Courses Offered at Prime Medical College",
-      "info": "<b>The Prime Medical College provides all sort of medical and surgical under the supervision of qualified faculty members:</b>",
+      "info": "The Prime Medical College provides all sort of medical and surgical under the supervision of qualified faculty members:",
       "col": [],
       "row": [
         ["General Medicine", "Obstetrics", "General Surgery"],
@@ -184,7 +188,7 @@ export const primemedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Prime Medical College - MBBS Duration",
-      "info": "<b>The institute offers 5 years of medical education with a compulsory one-year internship training:</b>",
+      "info": "The institute offers 5 years of medical education with a compulsory one-year internship training:",
       "data": [
         "Every batch of medicine program at Prime Medical College must undergo 5 years of MBBS education in the English medium of instruction.",
         "The student will acquire theoretical as well as practical knowledge from highly qualified and renowned professors.",
@@ -194,7 +198,7 @@ export const primemedicalcollege = {
     {
       "type": "table",
       "title": "Prime Medical College - MBBS Syllabus",
-      "info": "<b>Prime Medical College is implementing a well-designed curriculum for the MBBS course:</b>",
+      "info": "Prime Medical College is implementing a well-designed curriculum for the MBBS course:",
       "col": [
         "Duration",
         "Subjects",
@@ -247,6 +251,10 @@ export const primemedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - Admission 2023 '
+    },
+    {
       "type": "text",
       "title": "Eligibility Criteria",
       "info": "",
@@ -288,7 +296,7 @@ export const primemedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>The students who seek to get MBBS at Prime Medical College must follow the mentioned below steps: </b><br><b>1 Foreign Students</b>',
+      info: 'The students who seek to get MBBS at Prime Medical College must follow the mentioned below steps: <br>1 Foreign Students',
       data: [
         "Step 1: The foreign students should apply to the Director-General of the Health Service of the Government of Bangladesh for an equivalence certificate through the Bangladesh Embassy.",
         "Step 2: All certificates/mark sheets/other certificates and passport photocopy are attested by the respective country’s Education Board or Ministry of Education and authenticated by the respective country Foreign Minister."
@@ -297,7 +305,7 @@ export const primemedicalcollege = {
     {
       type: 'step-list',
       title: '',
-      info: '<b>2 Local Students</b>',
+      info: '2 Local Students',
       data: [
        "Step 1: The students must fill the application form on payment of 1000 taka.",
        "Step 2: The application form should be submitted to the college student section during office hours.",
@@ -311,7 +319,7 @@ export const primemedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The global students should carry original and xerox copies of all essential documents for the MBBS course at Prime Medical College:</b>",
+      "info": "The global students should carry original and xerox copies of all essential documents for the MBBS course at Prime Medical College:",
       "data": [
         " SSC mark sheet",
         " HSC mark sheet",
@@ -339,7 +347,7 @@ export const primemedicalcollege = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>The candidates should go through some important admission dates to grab an MBBS seat at Prime Medical College:</b>",
+      "info": "The candidates should go through some important admission dates to grab an MBBS seat at Prime Medical College:",
       "col": [
         "Events",
         "Dates",
@@ -384,6 +392,10 @@ export const primemedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Prime Medical College, Bangladesh - Reviews" },
@@ -402,6 +414,10 @@ export const primemedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - Placement'
+    },
     {
       type: "meta",
       meta: [
@@ -422,6 +438,10 @@ export const primemedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Prime Medical College, Bangladesh - Gallery" },
@@ -440,6 +460,10 @@ export const primemedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - Scholarship'
+    },
     {
       type: "meta",
       meta: [
@@ -460,6 +484,10 @@ export const primemedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - Faculty'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Prime Medical College, Bangladesh - Faculty" },
@@ -478,6 +506,10 @@ export const primemedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - News & Articles'
+    },
     {
       type: "meta",
       meta: [
@@ -498,9 +530,13 @@ export const primemedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>Prime Medical College has a hostel equipped with ultra-modern infrastructure and other facilities:</b>",
+      "info": "Prime Medical College has a hostel equipped with ultra-modern infrastructure and other facilities:",
       "data": [
         "Prime Medical College offers a convenient hostel on the campus.",
         "The administrative and academic activities are going on at hostel premises.",
@@ -513,7 +549,7 @@ export const primemedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The hostel offers excellent amenities -</b>",
+      "info": "The hostel offers excellent amenities -",
       "data": [
         "Refrigerator",
         "Bathroom",
@@ -537,7 +573,7 @@ export const primemedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The Prime Medical College hostel system fulfills all basic requirements at the comfort zone of students including-</b>",
+      "info": "The Prime Medical College hostel system fulfills all basic requirements at the comfort zone of students including-",
       "data": [
        "Electricity",
        "Water Supply",
@@ -566,9 +602,13 @@ export const primemedicalcollege = {
 
   "faq": [
     {
+      type: 'title',
+      title: 'Prime Medical College, Bangladesh - FAQ'
+    },
+    {
       "type": "question-list",
       "title": "Prime Medical College - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. Is there any language barrier at a Prime Medical College?",

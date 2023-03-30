@@ -19,7 +19,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "table-title",
             "title": "Devdaha Medical College & Research Institute - Quick Overview 2022",
-            "info": "<b>If you are looking to study MBBS in Nepal, then have a quick overview on some important points of Devdaha Medical College:</b>",
+            "info": "If you are looking to study MBBS in Nepal, then have a quick overview on some important points of Devdaha Medical College:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "January"],
@@ -38,7 +38,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Devdaha Medical College & Research Institute?",
-            "info": "<b>Below are some facts which make it easier for a student to select MBBS at Devdaha Medical College & Research Institute:</b>",
+            "info": "Below are some facts which make it easier for a student to select MBBS at Devdaha Medical College & Research Institute:",
             "data": [
                 "Devdaha institute covers approximately an area of 20 bigha that's equal to 6.6116 acres of land. College major campus building is located in a peaceful and full-fledged area that gives a quiet and comfortable zone for study.",
                 "The university has its personal research center that assists in gaining more reliable records and opportunity for realistic exposure.",
@@ -55,12 +55,12 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<p><b>The medium for teaching at Devdaha Medical College & Research Institute:  </b></p><p>At Devdaha Medical College, the medium of teaching is <b>English,</b> and thus language is not a barrier for students from all over the world while studying at this university.</p>"
+            "info": "<p>The medium for teaching at Devdaha Medical College & Research Institute:</p><p>At Devdaha Medical College, the medium of teaching is <b>English,</b> and thus language is not a barrier for students from all over the world while studying at this university.</p>"
         },
         {
             "type": "table",
             "title": "Devdaha Medical College & Research Institute - Ranking 2022",
-            "info": "<b>The Devdaha Medical College & Research Institute have a great reputation and following is the country and world ranking which describe these:</b>",
+            "info": "The Devdaha Medical College & Research Institute have a great reputation and following is the country and world ranking which describe these:",
             "col": [
                 "Country",
                 "World"
@@ -75,7 +75,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "list-bollet",
             "title": "Infrastructure & Facilities Provided at Devdaha Medical College            ",
-            "info": "<b>The infrastructure and facilities at Devdaha Medical College are as follows:</b>",
+            "info": "The infrastructure and facilities at Devdaha Medical College are as follows:",
             "data": [
                 "Being the leading institution it supplies the best and up to date facility to their students, faculty and other individuals of university. The college building has located in the developed area of the capital city Butwal enriched with all centers like water supply, electricity, proper drainage system, huge roads, parking, university canteen, library, research labs, computers lab, etc.",
                 "It offers the hostel accommodation inside the campus building with furnished rooms and required necessities for living and study. They also have separate hostels for girls and boys on sharing basis and single occupancy.",
@@ -87,7 +87,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Devdaha Medical College is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "Devdaha Medical College is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "GMC(General Medical Council, UK)",
                 "WHO (World Health Organization)",
@@ -99,7 +99,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "table",
             "title": "What is the Cost of Living in Butwal?",
-            "info": "<b>Following are the living expenses at Butwal city:</b>",
+            "info": "Following are the living expenses at Butwal city:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -154,17 +154,16 @@ export const devdahamedicalcollegeandresearchinstitute = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/devdaha-medical-college-and-research-institute" }
             ]
         }
-
-
-
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Devdaha Medical College & Research Institute, Nepal - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Devdaha Medical College & Research Institute Fee Structure 2022",
-            "info": "<b>Devdaha Medical College has an affordable fee structure for Indian students, the average annual cost for MBBS is 6 lacs, for detailed fee structure have a look below:</b>",
+            "info": "Devdaha Medical College has an affordable fee structure for Indian students, the average annual cost for MBBS is 6 lacs, for detailed fee structure have a look below:",
             "col": [
                 "Particular",
                 "Fees in Indian Rs."
@@ -203,7 +202,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Devdaha Medical College & Research Institute",
-            "info": "<b>At Devdaha Medical College & Research Institute, below mentioned different courses in medicine are offered:</b>",
+            "info": "At Devdaha Medical College & Research Institute, below mentioned different courses in medicine are offered:",
             "data": [
                 "MBBS",
                 "PCL Nursing"
@@ -213,7 +212,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "list-bollet",
             "title": "Duration of MBBS in Devdaha Medical College & Research Institute",
-            "info": "<b>Total duration of MBBS in Devdaha Medical College & Research Institute is 6 years with the first 5 years is dedicated for MBBS course, for detailed information have a look below:</b>",
+            "info": "Total duration of MBBS in Devdaha Medical College & Research Institute is 6 years with the first 5 years is dedicated for MBBS course, for detailed information have a look below:",
             "data": [
                 "Devdaha Medical College & Research Institute serves 6 years of Medicine program for worldwide students.",
                 "The 6 years of study includes 5 years of MBBS course and 1 year of internship."
@@ -239,9 +238,13 @@ export const devdahamedicalcollegeandresearchinstitute = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Devdaha Medical College & Research Institute, Nepal - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria to Take Admission in Devdaha Medical College & Research Institute",
-            "info": "<b>The entry requirements to study MBBS at Devdaha Medical College is as follows:</b>",
+            "info": "The entry requirements to study MBBS at Devdaha Medical College is as follows:",
             "data": [
                 "Eligibility Criteria of this college is quite simple and can be effortlessly fulfilled through the candidate. Candidate only need to fulfill the basic eligibility that is equalized in all state medical Colleges.",
                 "Candidates minimum Age Should be 17 years old as on 31st December at admission time and maximum age restriction need to be 25 years.",
@@ -253,7 +256,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "step-List",
             "title": "How to take Admission in Devdaha Medical College & Research Institute?",
-            "info": "<b>There are easy steps to complete the admission procedure at Devdaha Medical College:</b>",
+            "info": "There are easy steps to complete the admission procedure at Devdaha Medical College:",
             "data": [
                 "Step 1 : Submit a scanned copy of documents class 10th mark-sheet, 12th mark-sheet, NEET result & passport, if organized",
                 "Step 2 : Submit duly filled Application Form & along with Undertaking Form provided through Devdaha Medical College and Research Institute Admission block along with the above-mentioned set of files.",
@@ -273,7 +276,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
 
             "type": "list-bollet",
             "title": "Documents Required at the Time of Admission",
-            "info": "<b>The documents given below are important to submit at the time of admission for doing MBBS in Devdaha Medical College:</b>",
+            "info": "The documents given below are important to submit at the time of admission for doing MBBS in Devdaha Medical College:",
             "data": [
                 "SSC mark sheet",
                 "HSC mark sheet",
@@ -290,7 +293,7 @@ export const devdahamedicalcollegeandresearchinstitute = {
         {
             "type": "table",
             "title": "Devdaha Medical College - Admission Dates 2022-23",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Devdaha Medical College:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Devdaha Medical College:",
             "col": [
                 "Events",
                 "Dates"
@@ -327,6 +330,10 @@ export const devdahamedicalcollegeandresearchinstitute = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Devdaha Medical College & Research Institute, Nepal - Review"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Devdaha Medical College & Research Institute, Nepal - Review" },
@@ -344,35 +351,44 @@ export const devdahamedicalcollegeandresearchinstitute = {
             ]
         }
     ],
-    "placement": [{
-        "type": "list-bollet",
-        "title": "",
-        "info": "<b>Placement</b>",
-        "data": [
-            "After completing the course, the students get a chance to be part of the Devdaha Medical College & Research Institute, Nepal placements program, in which the freshly graduated doctors are provided opportunity into the mainstream career through reputed organizations.",
-            "The recruitment provided through the medical university offers for brilliant profession possibilities for the budding professionals withinside the field of healthcare and medicine.",
-            "Students pursuing medical training at the Institute can take utmost benefit of the Devdaha Medical College & Research Institute, Nepal placements."
-        ]
-    },
-    {
-        type: "meta",
-        meta: [
-            { name: "title", content: "Devdaha Medical College & Research Institute, Nepal - Placement" },
-            { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "Devdaha Medical College & Research Institute, Nepal - Placement"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/devdaha-medical-college-and-research-institute/placement" }
-        ]
-    }
+    "placement": [
+        {
+            type: 'title',
+            title: "Devdaha Medical College & Research Institute, Nepal - Placement"
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Placement",
+            "data": [
+                "After completing the course, the students get a chance to be part of the Devdaha Medical College & Research Institute, Nepal placements program, in which the freshly graduated doctors are provided opportunity into the mainstream career through reputed organizations.",
+                "The recruitment provided through the medical university offers for brilliant profession possibilities for the budding professionals withinside the field of healthcare and medicine.",
+                "Students pursuing medical training at the Institute can take utmost benefit of the Devdaha Medical College & Research Institute, Nepal placements."
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Devdaha Medical College & Research Institute, Nepal - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Devdaha Medical College & Research Institute, Nepal - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/devdaha-medical-college-and-research-institute/placement" }
+            ]
+        }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "Devdaha Medical College & Research Institute, Nepal - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -393,9 +409,13 @@ export const devdahamedicalcollegeandresearchinstitute = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Devdaha Medical College & Research Institute, Nepal - Placement"
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Scholarships</b>",
+            "info": "Scholarships",
             "data": [
                 "<b>North South Foundation College Scholarships -</b> Provided to Indian Medical Students for pursuing medical studies in India. Students are required to crack an entrance exam to qualify for a scholarship. ",
                 "<b>Government scholarships -</b> Provided by Central government and State government to those medical students who are really needy and deserving.<br>Scholarships are awarded on the basis of merit and financial need to support a student through the entire course of their study as long as they maintain a good academic standard.",
@@ -421,6 +441,10 @@ export const devdahamedicalcollegeandresearchinstitute = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Devdaha Medical College & Research Institute, Nepal - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Devdaha Medical College & Research Institute, Nepal - Faculty" },
@@ -439,6 +463,10 @@ export const devdahamedicalcollegeandresearchinstitute = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Devdaha Medical College & Research Institute, Nepal - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -460,9 +488,13 @@ export const devdahamedicalcollegeandresearchinstitute = {
 
     "hostel": [
         {
+            type: 'title',
+            title: "Devdaha Medical College & Research Institute, Nepal - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facilities",
-            "info": "<b>Following are the hostel & accommodation facilities at Devdaha Medical College & Research Institute:</b>",
+            "info": "Following are the hostel & accommodation facilities at Devdaha Medical College & Research Institute:",
             "data": [
                 "The hostels are well kept and ready with all present day conveniences to ensure that scholars study in a pleasant, orderly, and easy atmosphere.",
                 "The hostel has different rooms for both boys and girls.",
@@ -496,6 +528,10 @@ export const devdahamedicalcollegeandresearchinstitute = {
 
     "faq":
         [
+            {
+                type: 'title',
+                title: "Devdaha Medical College & Research Institute, Nepal - FAQ"
+            },
             {
                 "type": "question-list",
                 "title": "Devdaha Medical College & Research Institute - Important FAQ’s",

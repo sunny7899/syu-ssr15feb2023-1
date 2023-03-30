@@ -19,7 +19,7 @@ export const warsawuniversityoftechnologybusinessschool = {
         {
             "type": "table-title",
             "title": "Warsaw University of Technology Business School - Quick Highlights",
-            "info": "<b>he table shows the quick responses for the international management aspirants:</b>",
+            "info": "The table shows the quick responses for the international management aspirants:",
             "col": [],
             "row": [
                 ["<b>Intake for MBA Course</b>", "April, June, and September"],
@@ -33,7 +33,7 @@ export const warsawuniversityoftechnologybusinessschool = {
         {
             "type": "list-bollet",
             "title": "Why Study MBA at Warsaw University of Technology Business School?",
-            "info": "<b>The WUT Business School has interesting facts and some of them are mentioned below:</b>",
+            "info": "The WUT Business School has interesting facts and some of them are mentioned below:",
             "data": [
                 "It is one of the leading MBA institutes for international MBA in Poland.",
                 "It's been a joint initiative of the top 4 globally renowned universities and colleges.",
@@ -52,7 +52,7 @@ export const warsawuniversityoftechnologybusinessschool = {
         {
             "type": "list-bollet",
             "title": "Accreditation",
-            "info": "<b>The accreditation offered to WUT Business School is elaborated as under:</b>",
+            "info": "The accreditation offered to WUT Business School is elaborated as under:",
             "data": [
                 "The Warsaw School of Technology Business School is officially accredited by",
                 "EMBA",
@@ -65,7 +65,7 @@ export const warsawuniversityoftechnologybusinessschool = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living of Warsaw city of Poland and expenses of an individual is noted in the table below:</b>",
+            "info": "The cost of living of Warsaw city of Poland and expenses of an individual is noted in the table below:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -98,7 +98,7 @@ export const warsawuniversityoftechnologybusinessschool = {
                     "Approx Range in RS": "Rs. 8,500"
                 },
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
         },
         {
             type: "meta",
@@ -120,9 +120,13 @@ export const warsawuniversityoftechnologybusinessschool = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Warsaw University of Technology Business School - Fee Structure",
-            "info": "<b>The table shows detailed fees and costs required for the candidate to pursue MBA in Poland’s WUT Business School:</b>",
+            "info": "The table shows detailed fees and costs required for the candidate to pursue MBA in Poland’s WUT Business School:",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -145,12 +149,12 @@ export const warsawuniversityoftechnologybusinessschool = {
                     "Annual Fee": "Rs. 14,50,000 Approx."
                 },
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs for calculation purpose.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs for calculation purpose.</p>'
         },
         {
             "type": "list-bollet",
             "title": "Warsaw University of Technology Business School - Course Duration",
-            "info": "<b>The course duration EMBA at WUT BS is described below:</b>",
+            "info": "The course duration EMBA at WUT BS is described below:",
             "data": [
                 "The duration for the Executive MBA at Warsaw School of Technology Business School is from 1 to 5 years part-time and the candidate can willing to complete it in a given duration time."
             ]
@@ -158,7 +162,7 @@ export const warsawuniversityoftechnologybusinessschool = {
         {
             "type": "table-title",
             "title": "Courses offered at WUT Business School",
-            "info": "<b>The list of courses offered by WUT BS in English and Polish is given below:</b>",
+            "info": "The list of courses offered by WUT BS in English and Polish is given below:",
             "colTitle": "English Language",
             "row": [
                 ["Executive MBA (EMBA)", "International MBA (IMBA)", "ACCA PG studies in Accounting and Finance", "Certificate in Business for Engineers (Bachelor)"]
@@ -167,7 +171,7 @@ export const warsawuniversityoftechnologybusinessschool = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b></b>",
+            "info": "",
             "colTitle": "Polish Language",
             "row": [
                 ["MBA Digital Transformation", "MBA finance and Technology", "MBA Kaizen Industry 4.0"]
@@ -193,9 +197,13 @@ export const warsawuniversityoftechnologybusinessschool = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicant must be perfectly fit in below eligibility criteria for seeking admission to EMBA:</b>",
+            "info": "The applicant must be perfectly fit in below eligibility criteria for seeking admission to EMBA:",
             "data": [
                 "The applicant must be a double degree graduate i.e Master’s degree like an M.A with 3 years of experience.",
                 "If the applicant possesses a Bachelor’s degree, then 5 years of experience is mandatory.",
@@ -207,7 +215,7 @@ export const warsawuniversityoftechnologybusinessschool = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The following steps are required to follow for seeking admission at WUT Business School for management courses:</b>',
+            info: 'The following steps are required to follow for seeking admission at WUT Business School for management courses:',
             data: [
                 "Step 1: Application Form.",
                 "Step 2: Entrance Exam.",
@@ -220,7 +228,7 @@ export const warsawuniversityoftechnologybusinessschool = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The list of documents are mentioned below for international aspirants:</b>",
+            "info": "The list of documents are mentioned below for international aspirants:",
             "data": [
                 "Application Form",
                 "Motivation Letter",
@@ -240,7 +248,7 @@ export const warsawuniversityoftechnologybusinessschool = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The table gives a brief info about admission scheduled:</b>",
+            "info": "The table gives a brief info about admission scheduled:",
             "col": [
                 "Events",
                 "Dates"
@@ -288,6 +296,10 @@ export const warsawuniversityoftechnologybusinessschool = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Warsaw University of Technology Business School - Reviews" },
@@ -306,6 +318,10 @@ export const warsawuniversityoftechnologybusinessschool = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -326,6 +342,10 @@ export const warsawuniversityoftechnologybusinessschool = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Warsaw University of Technology Business School - Gallery" },
@@ -345,9 +365,13 @@ export const warsawuniversityoftechnologybusinessschool = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following are the scholarships offered by the Warsaw University of Technology Business School -</b>",
+            "info": "Following are the scholarships offered by the Warsaw University of Technology Business School -",
             "data": [
                 "Jacobs Foundation Research Fellowships, 2022",
                 "Dr Edouard Delcroix Prize, 2022",
@@ -375,6 +399,10 @@ export const warsawuniversityoftechnologybusinessschool = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Warsaw University of Technology Business School - Faculty" },
@@ -393,6 +421,10 @@ export const warsawuniversityoftechnologybusinessschool = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -413,9 +445,13 @@ export const warsawuniversityoftechnologybusinessschool = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The hostel features are explained in detail as under:</b>",
+            "info": "The hostel features are explained in detail as under:",
             "data": [
                 "WUT Business School facilitated on-campus dormitories for international as well as Polish Students.",
                 "The buildings have a huge capacity of students and almost 5000+ students residing currently over there.",
@@ -455,12 +491,15 @@ export const warsawuniversityoftechnologybusinessschool = {
             ]
         }
     ],
-    "faq":
-    [
+    "faq": [
+        {
+            type: 'title',
+            title: 'Warsaw University of Technology Business School - FAQ'
+        },
         {
             "type": "question-list",
             "title": "Warsaw University Of Technology Business School - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is it worth studying MBA at Warsaw University of Technology Business School?",

@@ -19,7 +19,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "table",
             "title": "First Moscow State Medical University - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick facts about First Moscow State Medical University:</b>",
+            "info": "Given below is the table for quick facts about First Moscow State Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -38,7 +38,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at First Moscow State Medical University?",
-            "info": "<b>Below are the main reasons why students should study at First Moscow State Medical University:</b>",
+            "info": "Below are the main reasons why students should study at First Moscow State Medical University:",
             "data": [
                 "The ‘Sechenov University’ is the largest research medical school in Russia and it was established in 1758.",
                 "Today it offers undergraduate and postgraduate courses taught in English and Russian in all areas of medicine, biology and biotechnology, including bachelor’s degrees, master’s programs, clinical residency programs, specialist degrees, PhD programs and CME courses.",
@@ -53,7 +53,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "table",
             "title": "First Moscow State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, the country and world ranking of First Moscow State Medical University is as follows:</b>",
+            "info": "According to 4icu.org, the country and world ranking of First Moscow State Medical University is as follows:",
             "col": [
                 "Country",
                 "World"
@@ -68,7 +68,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The First Moscow State Medical University has following Accreditation and Recognition:</b>",
+            "info": "The First Moscow State Medical University has following Accreditation and Recognition:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -78,7 +78,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Student's Life at First Moscow State Medical University",
-            "info": "<b>Below is the student life at First Moscow State Medical University:</b>",
+            "info": "Below is the student life at First Moscow State Medical University:",
             "data": [
                 "Sechenov University has established a Center for International Education which coordinates international students, provides a particular focus on their integration with all University-based and outside activities, and assists them with all migration-related issues.",
                 "The university also provides numerous opportunities to students to obtain and improve knowledge in the fields of their interest.",
@@ -93,7 +93,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Moscow",
-            "info": "<b>Following are the living expenses at Moscow city:</b>",
+            "info": "Following are the living expenses at Moscow city:",
             "col": [
                 "Activity",
                 "Cost"
@@ -125,7 +125,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Moscow City",
-            "info": "<b>Below are some noticeable things about Moscow city:</b>",
+            "info": "Below are some noticeable things about Moscow city:",
             "data": [
                 "Moscow, being Russia’s capital city, is home to over 10 million residents and countless non-residents.",
                 "Moscow city is the main transport hub of Russia, it is a political, cultural, economic, and scientific center.",
@@ -156,9 +156,14 @@ export const firstmoscowstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "First Moscow State Medical University - MBBS Fee Structure 2022",
-            "info": "<b>Following is the fee structure for First Moscow State Medical University for MBBS program:</b>",
+            "info": "Following is the fee structure for First Moscow State Medical University for MBBS program:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -211,7 +216,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at First Moscow State Medical University",
-            "info": "<b>Following are the faculties at First Moscow State Medical University:</b>",
+            "info": "Following are the faculties at First Moscow State Medical University:",
             "data": [
                 "Medicine",
                 "Pediatrics",
@@ -229,7 +234,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "First Moscow State Medical University - MBBS Duration",
-            "info": "<b>The MBBS course duration at First Moscow State Medical University is 6 years:</b>",
+            "info": "The MBBS course duration at First Moscow State Medical University is 6 years:",
             "data": [
                 "The MBBS course is divided into 2 parts.",
                 "5 years of theoretical knowledge in college and practicals at labs and the remaining 1 year is for the compulsory internship.",
@@ -240,7 +245,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             "type": "table",
             "title": "First Moscow State Medical University - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at First Moscow State Medical University is as follows:</b><br>1st Year",
+            "info": "The complete syllabus for studying MBBS at First Moscow State Medical University is as follows:</b><br>1st ",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -345,9 +350,14 @@ export const firstmoscowstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - Admission 2023 "
+
+        },
+        {
             "type": "table",
             "title": "First Moscow State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at First Moscow State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at First Moscow State Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -369,8 +379,8 @@ export const firstmoscowstatemedicaluniversity = {
         },
         {
             type: 'list-bollet',
-            title: 'Eligibility Criteria',
-            info: '<b>The eligibility criteria to study MBBS at First Moscow State Medical University is as follows:</b>',
+            title: 'Eligibility Crit',
+            info: 'The eligibility criteria to study MBBS at First Moscow State Medical University is as follows:</b>',
             data: [
                 "Applicants must have cleared the NEET exam for admission to the MBBS course in any country abroad.",
                 "The applicant must have completed his/her 12th Standard from a reputed board or organization and must have Physics, Chemistry, and Biology as subjects in their 12th standard.",
@@ -379,8 +389,8 @@ export const firstmoscowstatemedicaluniversity = {
         },
         {
             type: 'step-list',
-            title: 'Admission Process',
-            info: '<b>The admission procedure at First Moscow State Medical University is as follows:</b><br>An MBBS aspirant can apply online as instructed below:-',
+            title: 'Admission Pro',
+            info: 'The admission procedure at First Moscow State Medical University is as follows:</b><br>An MBBS aspirant can apply online as instructed below:-',
             data: [
                 "Step 1: Open the application form.",
                 "Step 2: Fill in the application form accurately.",
@@ -410,7 +420,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Required Documents',
-            info: '<b>Following documents are required for admission to First Moscow State Medical University:</b>',
+            info: 'Following documents are required for admission to First Moscow State Medical University:',
             data: [
                 "10th and 12th Marksheets",
                 "NEET Score Card",
@@ -442,9 +452,14 @@ export const firstmoscowstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
-            info: '<b>Following are the hostel facilities at First Moscow State Medical University:</b>',
+            info: 'Following are the hostel facilities at First Moscow State Medical University:',
             data: [
                 "First Moscow State Medical University offers affordable on-campus hostel facilities to the students",
                 "For the initial years, all the international students are advised to choose and stay there, at the hostels.",
@@ -489,9 +504,14 @@ export const firstmoscowstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "First Moscow State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many Indian students are studying at First Moscow State Medical University?",
@@ -539,6 +559,11 @@ export const firstmoscowstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "First Moscow State Medical University, Russia - Reviews" },
@@ -557,6 +582,11 @@ export const firstmoscowstatemedicaluniversity = {
         }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -577,6 +607,11 @@ export const firstmoscowstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "First Moscow State Medical University, Russia - Faculty" },
@@ -596,6 +631,11 @@ export const firstmoscowstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "First Moscow State Medical University, Russia - News & Articles" },
@@ -614,6 +654,11 @@ export const firstmoscowstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - Placement"
+
+        },
         {
             type: 'list-bollet',
             title: 'Placement',
@@ -644,6 +689,11 @@ export const firstmoscowstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "First Moscow State Medical University, Russia - Scholarship"
+
+        },
+        {
             "type": "text",
             "title": "scholarship",
             "data": "<p>International students who have passed the (EGE) Uniform State Examination or entrance tests are eligible to apply for state scholarships. The Russian government provides ‘state-funded slots' (at universities) to overseas students.</p>"
@@ -651,7 +701,7 @@ export const firstmoscowstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Benefits of a government scholarship-</b>',
+            info: 'Benefits of a government scholarship-',
             data: [
                 "100% tuition fee reduction during the years of study of the chosen programme.",
                 "Allowance for maintenance.",

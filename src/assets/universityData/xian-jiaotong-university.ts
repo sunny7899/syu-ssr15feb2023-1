@@ -20,7 +20,7 @@ export const xianjiaotonguniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Important Highlights</b>",
+            "info": "Important Highlights",
             "data": [
                 "74 UG Programs, 199 Master Programs, 114 Doctoral Programs",
                 "16 Members of the American Academy of Engineering",
@@ -116,6 +116,10 @@ export const xianjiaotonguniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Xi'an Jiaotong University: MBBS Fee Structure 2020",
             "info": "",
@@ -151,12 +155,12 @@ export const xianjiaotonguniversity = {
                     "Annual Fees in Rs.(Approx)": "Rs. 6,15,060 to Rs. 6,99,720/-"
                 },
             ],
-            heading: "<p><b style=color: red;><u>Note:</u></b> Thus, it is clear from the above information that the total cost of MBBS in Xi'an Jiaotong Medical University for Indian students is Rs.37-42 Lakhs which are very affordable course fees for medical studies.</p>"
+            "heading": "<p><b style=color: red;><u>Note:</u></b> Thus, it is clear from the above information that the total cost of MBBS in Xi'an Jiaotong Medical University for Indian students is Rs.37-42 Lakhs which are very affordable course fees for medical studies.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Courses at Xi’an Jiaotong Medical University",
-            "info": "<b>Following is the list of different types of medical courses offered by the university :</b>",
+            "info": "Following is the list of different types of medical courses offered by the university :",
             "data": [
                 "Pharmacy Program",
                 "Nursing Program",
@@ -185,9 +189,13 @@ export const xianjiaotonguniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For MBBS Course",
-            "info": "<b>Below are the few elligibility criteria one should perfectly fit to study MBBS in Xi’an Jiaotong Medical University :</b>",
+            "info": "Below are the few elligibility criteria one should perfectly fit to study MBBS in Xi’an Jiaotong Medical University :",
             "data": [
                 "The candidate’s age should be under 25 years.",
                 "Candidate should have a valid ordinary passport.",
@@ -231,7 +239,7 @@ export const xianjiaotonguniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For this, the required documents are the following:</b>",
+            "info": "For this, the required documents are the following:",
             "data": [
                 "Health Checkup Certificate sealed by the Government Hospital in Student’s country and duly signed by the doctor.",
                 "Original Admission Letter.",
@@ -259,6 +267,10 @@ export const xianjiaotonguniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Xi'an Jiaotong Medical University - Reviews" },
@@ -277,6 +289,10 @@ export const xianjiaotonguniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -308,6 +324,10 @@ export const xianjiaotonguniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Xi'an Jiaotong Medical University - Gallery" },
@@ -326,6 +346,10 @@ export const xianjiaotonguniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - Scholarship"
+        },
         {
             "type": "table-title",
             "title": "scholarship",
@@ -356,6 +380,10 @@ export const xianjiaotonguniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - Faculty"
+        },
         {
             "type": "list-bollet",
             "title": "faculty",
@@ -389,6 +417,10 @@ export const xianjiaotonguniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Xi'an Jiaotong Medical University - News & Articles" },
@@ -407,6 +439,10 @@ export const xianjiaotonguniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel Facilities at Xi’an Jiaotong University",
@@ -438,56 +474,59 @@ export const xianjiaotonguniversity = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Xi'an Jiaotong University: Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. Is MCI coaching available at the university? What is the passing rate?",
-                        "ans": "At the university campus, an optional MCI screening test coaching is available. Xi’an Jiaotong University has got the highest passing rate in the MCI screening test."
-                    },
-                    {
-                        "ques": "Q. Are there any affiliated hospitals with Xi’an Jiaotong University?",
-                        "ans": "Yes, Xi'an Jiaotong University has 4 affiliated hospitals within the campus."
-                    },
-                    {
-                        "ques": "Q. Can I do PG in the future at this university?",
-                        "ans": "Yes, students can do MD or MS at Xi'an Jiaotong University after completion of their regular MBBS course."
-                    },
-                    {
-                        "ques": "Q. Which books and what kind of syllabus is followed in XJTU?",
-                        "ans": "At this university, mostly Indian medical books along with some American books are followed. The university follows the MCI syllabus as part of the American curriculum."
-                    },
-                    {
-                        "ques": "Q. Is Indian food available at the Xi’an Jiaotong University?",
-                        "ans": "Yes, the university has 8 canteens within the campus that provide veg and non-veg Indian food."
-                    },
-                    {
-                        "ques": "Q. How many girl students study at Xi’an Jiaotong University?",
-                        "ans": "In this university, the girls to boys ratio are the same, that is 50:50. In fact, girls are a bit more in number than boys in the past two years."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Xi'an Jiaotong Medical University - FAQ" },
-                    { name: "description", content: "Xi'an Jiaotong University click here for faq" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Xi'an Jiaotong Medical University - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/xian-jiaotong-university/faq" }
-                ]
-            }
-        ]
+    "faq": [
+        {
+            type: 'title',
+            title: "Xi'an Jiaotong Medical University - FAQ"
+        },
+        {
+            "type": "question-list",
+            "title": "Xi'an Jiaotong University: Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. Is MCI coaching available at the university? What is the passing rate?",
+                    "ans": "At the university campus, an optional MCI screening test coaching is available. Xi’an Jiaotong University has got the highest passing rate in the MCI screening test."
+                },
+                {
+                    "ques": "Q. Are there any affiliated hospitals with Xi’an Jiaotong University?",
+                    "ans": "Yes, Xi'an Jiaotong University has 4 affiliated hospitals within the campus."
+                },
+                {
+                    "ques": "Q. Can I do PG in the future at this university?",
+                    "ans": "Yes, students can do MD or MS at Xi'an Jiaotong University after completion of their regular MBBS course."
+                },
+                {
+                    "ques": "Q. Which books and what kind of syllabus is followed in XJTU?",
+                    "ans": "At this university, mostly Indian medical books along with some American books are followed. The university follows the MCI syllabus as part of the American curriculum."
+                },
+                {
+                    "ques": "Q. Is Indian food available at the Xi’an Jiaotong University?",
+                    "ans": "Yes, the university has 8 canteens within the campus that provide veg and non-veg Indian food."
+                },
+                {
+                    "ques": "Q. How many girl students study at Xi’an Jiaotong University?",
+                    "ans": "In this university, the girls to boys ratio are the same, that is 50:50. In fact, girls are a bit more in number than boys in the past two years."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Xi'an Jiaotong Medical University - FAQ" },
+                { name: "description", content: "Xi'an Jiaotong University click here for faq" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Xi'an Jiaotong Medical University - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/xian-jiaotong-university/faq" }
+            ]
+        }
+    ]
 
 }

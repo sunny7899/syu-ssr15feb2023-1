@@ -19,7 +19,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "table-title",
             "title": "Tbilisi Medical University 'Hippocrates' - Quick Overview",
-            "info": "<b>Refer the course highlights of Tbilisi Medical University Hippocrates for MBBS study in tabular form:</b>",
+            "info": "Refer the course highlights of Tbilisi Medical University Hippocrates for MBBS study in tabular form:",
             "col": [],
             "row": [
                 ["<b>Last Date to Apply</b>", "September"],
@@ -35,7 +35,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Tbilisi Medical University, 'Hippocrates'?",
-            "info": "<b>Tbilisi Medical University Hippocrates is one of the higher accredited education institutions in Georgia that offers an excellent learning experience for studying MBBS in Georgia:</b>",
+            "info": "Tbilisi Medical University Hippocrates is one of the higher accredited education institutions in Georgia that offers an excellent learning experience for studying MBBS in Georgia:",
             "data": [
                 "The students studying MBBS at this university can avail of the benefits of students exchange programs of USA, Europe, Canada, Australia or can transfer themselves to any USA Medical Colleges once they evaluate their current credentials, at any authorized evaluator organization.",
                 "The entire MBBS course is taught in the English medium of instruction at the Tbilisi medical university, Hippocrates.",
@@ -50,7 +50,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "table",
             "title": "Tbilisi Medical University 'Hippocrates'  - Ranking 2021",
-            "info": "<b>The students must refer UniRank for world and country rankings of Tbilisi Medical University 'Hippocrates':</b>",
+            "info": "The students must refer UniRank for world and country rankings of Tbilisi Medical University 'Hippocrates':",
             "col": [
                 "Country",
                 "World"
@@ -66,7 +66,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>English & Georgian is the commonly taught language at Tbilisi Medical University Hippocrates:</b>",
+            "info": "English & Georgian is the commonly taught language at Tbilisi Medical University Hippocrates:",
             "data": [
                 "English is the commonly taught language at Tbilisi Medical University Hippocrates.",
                 "The faculty also teaches the Georgian language so that foreign students are able to treat the local patients."
@@ -75,7 +75,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
-            "info": "<b>Tbilisi Medical University Hippocrates is accredited & recognized by:</b>",
+            "info": "Tbilisi Medical University Hippocrates is accredited & recognized by:",
             "data": [
                 "International Medical Education Directory",
                 "NMC",
@@ -87,7 +87,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "table",
             "title": "Tbilisi Medical University Hippocrates - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Tbilisi Medical University Hippocrates of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Tbilisi Medical University Hippocrates of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -107,7 +107,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "list-bollet",
             "title": "Facilities/Infrastructure - Tbilisi Medical University, ‘Hippocrates’",
-            "info": "<b>The Tbilisi Medical University Hippocrates has well-equipped facilities & modern technology that engage the students in the field of medicine:</b>",
+            "info": "The Tbilisi Medical University Hippocrates has well-equipped facilities & modern technology that engage the students in the field of medicine:",
             "data": [
                 "Tbilisi Medical University ‘Hippocrates’ offers an infrastructure that is worth admiring.",
                 "The University is equipped with laboratories with new equipment and instruments, clinics, modern technologies, etc.",
@@ -118,7 +118,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "list-bollet",
             "title": "Student's Life",
-            "info": "<b>While pursuing medicine at Tbilisi Medical University Hippocrates, students can acquire self-learning skills under a healthy learning environment:</b>",
+            "info": "While pursuing medicine at Tbilisi Medical University Hippocrates, students can acquire self-learning skills under a healthy learning environment:",
             "data": [
                 "For student’s self-development and benefit, the university offers many extra-curricular activities. It has many clubs and organizations like a cultural club, sports club, art center, etc.",
                 "Moreover, foreign students at Tbilisi Medical University, Hippocrates, have the opportunity to be elected in the student governing councils, which is a representative body of the students at the university.",
@@ -128,7 +128,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "table",
             "title": "Cost of Living in Tbilisi",
-            "info": "<b>Below is the living cost of Tbilisi, Georgia:</b>",
+            "info": "Below is the living cost of Tbilisi, Georgia:",
             "col": [
                 "Activity",
                 "Cost"
@@ -155,7 +155,7 @@ export const tbilisimedicaluniversityhippocrates = {
                     "Cost": "cost between Rs.14000-Rs.25,000"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs.</p>'
         },
         {
             "type": "list-bollet",
@@ -191,9 +191,13 @@ export const tbilisimedicaluniversityhippocrates = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Tbilisi Medical University, 'Hippocrates' - MBBS Fee Structure",
-            "info": "<b>Following is the structure for Tbilisi Medical University, Hippocrates's fees for MBBS:</b>",
+            "info": "Following is the structure for Tbilisi Medical University, Hippocrates's fees for MBBS:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -241,12 +245,12 @@ export const tbilisimedicaluniversityhippocrates = {
                     "Year 6": "Rs. 5,82,200"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1$ = Rs.71 (approx.)</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1$ = Rs.71 (approx.)</p>'
         },
         {
             type: 'list-bollet',
             title: "Courses offered by Tbilisi Medical University, 'Hippocrates'",
-            info: "<b>Following are the medical faculties at Tbilisi Medical University, 'Hippocrates', Georgia:</b>",
+            info: "Following are the medical faculties at Tbilisi Medical University, 'Hippocrates', Georgia:",
             data: [
                 "Medicine",
                 "Pharmacy",
@@ -257,7 +261,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             type: 'list-bollet',
             title: "Tbilisi Medical University, 'Hippocrates' - MBBS Duration",
-            info: "<b>Tbilisi Medical University Hippocrates is an authorized medical university that offers the 6 - year MBBS course for medical students:</b>",
+            info: "Tbilisi Medical University Hippocrates is an authorized medical university that offers the 6 - year MBBS course for medical students:",
             data: [
                 "Tbilisi Medical University Hippocrates teaches the course of medicine for a period of 6 years.",
                 "5 years of study comprises pre medical & paramedical phase & 1 year is of the internships."
@@ -266,7 +270,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "table",
             "title": "Tbilisi Medical University, 'Hippocrates' - MBBS Syllabus",
-            "info": "<b>The syllabus at Tbilisi Medical University Hippocrates follows the Bologna process which is equivalent to the standard of international education:</b>",
+            "info": "The syllabus at Tbilisi Medical University Hippocrates follows the Bologna process which is equivalent to the standard of international education:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -370,9 +374,13 @@ export const tbilisimedicaluniversityhippocrates = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria for studying MBBS at Tbilisi Medical University 'Hippocrates' is as follows:</b>",
+            "info": "The eligibility criteria for studying MBBS at Tbilisi Medical University 'Hippocrates' is as follows:",
             "data": [
                 "The candidate must be over 17 and below 25 years old on or before the date in which the admission is being taken.",
                 "It is mandatory for the applicants to clear both IELTS and TOEFL exams",
@@ -384,7 +392,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Follow the below admission guidelines for applying MBBS course at Tbilisi Medical University Hippocrates:</b>',
+            info: 'Follow the below admission guidelines for applying MBBS course at Tbilisi Medical University Hippocrates:',
             data: [
                 "Step 1: Students must fill the online application form along with all the required documents.",
                 "Step 2: The University reviews the applications sent by the students and then they need to deposit the fees into the university's bank account.",
@@ -396,7 +404,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Documents checklists required to study medicine at Tbilisi Medical University Hippocrates is given below:</b>",
+            "info": "Documents checklists required to study medicine at Tbilisi Medical University Hippocrates is given below:",
             "data": [
                 "Birth Certificate",
                 "6 passport size photos",
@@ -411,7 +419,7 @@ export const tbilisimedicaluniversityhippocrates = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The Tbilisi Medical University Hippocrates has a limited number of seats for international students to pursue a course of medicine in Georgia. The program intakes for the MBBS course at Tbilisi Medical University Hippocrates are expected to start in the month of September or the 1st week of October:</b>",
+            "info": "The Tbilisi Medical University Hippocrates has a limited number of seats for international students to pursue a course of medicine in Georgia. The program intakes for the MBBS course at Tbilisi Medical University Hippocrates are expected to start in the month of September or the 1st week of October:",
             "col": [
                 "Events",
                 "Dates",
@@ -451,6 +459,10 @@ export const tbilisimedicaluniversityhippocrates = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi Medical University ‘Hippocrates’ - Reviews" },
@@ -469,6 +481,10 @@ export const tbilisimedicaluniversityhippocrates = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -500,6 +516,10 @@ export const tbilisimedicaluniversityhippocrates = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi Medical University ‘Hippocrates’ - Gallery" },
@@ -519,9 +539,13 @@ export const tbilisimedicaluniversityhippocrates = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships that are provided at Tbilisi Medical University 'Hippocrates' are as follows:</b>",
+            "info": "The scholarships that are provided at Tbilisi Medical University 'Hippocrates' are as follows:",
             "data": [
                 "Education Future International Scholarship - USA & Non-USA 2022",
                 "Race To Zero Youth Fellowship",
@@ -550,6 +574,10 @@ export const tbilisimedicaluniversityhippocrates = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi Medical University ‘Hippocrates’ - Faculty" },
@@ -568,6 +596,10 @@ export const tbilisimedicaluniversityhippocrates = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -588,9 +620,13 @@ export const tbilisimedicaluniversityhippocrates = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Tbilisi Medical University Hippocrates has an ancient architecture that provides the state of the art facilities to international students:</b>",
+            "info": "Tbilisi Medical University Hippocrates has an ancient architecture that provides the state of the art facilities to international students:",
             "data": [
                 "Tbilisi Medical University Hippocrates doesn’t have an accommodation facility.",
                 "The university does provide transportation to students with a 40% discount on it."
@@ -614,12 +650,15 @@ export const tbilisimedicaluniversityhippocrates = {
             ]
         }
     ],
-    "faq":
-    [
+    "faq": [
+        {
+            type: 'title',
+            title: "Tbilisi Medical University ‘Hippocrates’ - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Tbilisi Medical University, 'Hippocrates' - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Are there any accommodation facilities available for international students?",

@@ -19,7 +19,7 @@ export const universityforthecreativearts = {
         {
             "type": "table-title",
             "title": "University for the Creative Arts - Quick Highlights",
-            "info": "<b>A glimpse of the table below will assist you in knowing the key details of the university:</b>",
+            "info": "A glimpse of the table below will assist you in knowing the key details of the university:",
             "col": [],
             "row": [
                 ["<b>Application Fee</b>", "None (up to GBP via UCAS)"],
@@ -35,7 +35,7 @@ export const universityforthecreativearts = {
         {
             "type": "list-bollet",
             "title": "Why Choose University for the Creative Arts?",
-            "info": "<b>Learn the reasons why to enroll in this prestigious university:</b>",
+            "info": "Learn the reasons why to enroll in this prestigious university:",
             "data": [
                 "Well-designed courses will give students the knowledge and skills most required to excel in their field.",
                 "Most skilled professors educate undergraduates and graduates.",
@@ -56,7 +56,7 @@ export const universityforthecreativearts = {
         {
             "type": "list-bollet",
             "title": "Facilities offered at University for the Creative Arts",
-            "info": "<b>This university provides exclusive facilities to the students, check below:</b>",
+            "info": "This university provides exclusive facilities to the students, check below:",
             "data": [
                 "Camera Security",
                 "Careers Service",
@@ -120,7 +120,7 @@ export const universityforthecreativearts = {
         {
             "type": "list-bollet",
             "title": "Affiliations",
-            "info": "<b>The candidates looking for admission here must know that all degrees are affiliated by:</b>",
+            "info": "The candidates looking for admission here must know that all degrees are affiliated by:",
             "data": [
                 "Global U8 (GU8)",
                 "Utrecht Network",
@@ -128,12 +128,10 @@ export const universityforthecreativearts = {
                 "EUA"
             ]
         },
-
-
         {
             "type": "table",
             "title": "University for the Creative Arts - Ranking 2022",
-            "info": "<b>Learn the current rankings of the university from the table below:</b>",
+            "info": "Learn the current rankings of the university from the table below:",
             "col": [
                 "World",
                 "Country"
@@ -148,7 +146,7 @@ export const universityforthecreativearts = {
         {
             "type": "list-bollet",
             "title": "Recognitions and Accreditations",
-            "info": "<b>The University is internationally accredited and well-recognized:</b>",
+            "info": "The University is internationally accredited and well-recognized:",
             "data": [
                 "The university is recognized/chartered by The Privy Council.",
                 "All the courses offered by the university are well-recognized"
@@ -157,7 +155,7 @@ export const universityforthecreativearts = {
         {
             "type": "table",
             "title": "Living Expenses in England, UK",
-            "info": "<b>The table below will give an idea of approximate basic living expenses of living in this city, the expenses may vary from person to person:</b>",
+            "info": "The table below will give an idea of approximate basic living expenses of living in this city, the expenses may vary from person to person:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -197,16 +195,17 @@ export const universityforthecreativearts = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-for-the-creative-arts" }
             ]
         }
-
-
-
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - courses & Fees'
+        },
         {
             "type": "table",
             "title": "University for the Creative Arts - Courses & Duration",
             "info": "Undergraduate",
-            "textBelowInfo": "<b>Know the wide range of undergraduate courses offered by the university from the table below:</b>",
+            "textBelowInfo": "Know the wide range of undergraduate courses offered by the university from the table below:",
             "col": [
                 "Course",
                 "Course Duration",
@@ -400,7 +399,7 @@ export const universityforthecreativearts = {
             "type": "table",
             "title": "",
             "info": "Postgraduate",
-            "textBelowInfo": "<b>From the table below know the postgraduate courses offered by the university:</b>",
+            "textBelowInfo": "From the table below know the postgraduate courses offered by the university:",
             "col": [
                 "Course",
                 "Course Duration",
@@ -590,10 +589,14 @@ export const universityforthecreativearts = {
 
     "admission": [
         {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "Undergraduate",
-            "textBelowInfo": "<b>Know the basic criteria required to get admission in the Undergraduate courses:</b>",
+            "textBelowInfo": "Know the basic criteria required to get admission in the Undergraduate courses:",
             "data": [
                 "60% or above for English for Creative Arts",
                 "65% or above for GDAD, UCAIC UG stage 0",
@@ -607,7 +610,7 @@ export const universityforthecreativearts = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Know the basic eligibility criteria to enroll in postgraduate courses:</b>",
+            "textBelowInfo": "Know the basic eligibility criteria to enroll in postgraduate courses:",
             "data": [
                 "UCAIC PG Stage 0 and postgraduate direct entry",
                 "Must have proof of English proficiency, IELTS/TOEFL scores 75% or above for MBA",
@@ -621,7 +624,7 @@ export const universityforthecreativearts = {
         {
             "type": "step-list",
             "title": "How to Apply in University for the Creative Arts?",
-            "info": "<b>The points below will guide you through the in-detail admission steps:</b>",
+            "info": "The points below will guide you through the in-detail admission steps:",
             "data": [
                 "<b>Step 1:</b> Apply for the course online, on the official website of the university.",
                 "<b>Step 2:</b> Upload the supporting documents.",
@@ -633,7 +636,7 @@ export const universityforthecreativearts = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Make a note of the documents required to submit during the admission process:</b>",
+            "info": "Make a note of the documents required to submit during the admission process:",
             "data": [
                 "Proof of English language.",
                 "Statement of purpose in English.",
@@ -662,7 +665,7 @@ export const universityforthecreativearts = {
         {
             "type": "table",
             "title": "University for the Creative Arts - Application Deadlines 2022",
-            "info": "<b>Note down the important dates of the university for your reference:</b>",
+            "info": "Note down the important dates of the university for your reference:",
             "col": [
                 "Events",
                 "Dates"
@@ -710,6 +713,10 @@ export const universityforthecreativearts = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University for the Creative Arts, UK - Reviews" },
@@ -728,6 +735,10 @@ export const universityforthecreativearts = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -748,6 +759,10 @@ export const universityforthecreativearts = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University for the Creative Arts, UK - Gallery" },
@@ -767,10 +782,14 @@ export const universityforthecreativearts = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - Scholarship'
+        },
+        {
             "type": "table",
             "title": "Scholarships",
             "info": "Undergraduate",
-            "textBelowInfo": "<b>Know the scholarships offered by the university for undergraduate students:</b>",
+            "textBelowInfo": "Know the scholarships offered by the university for undergraduate students:",
             "col": [
                 "Scholarship",
                 "Course",
@@ -818,7 +837,7 @@ export const universityforthecreativearts = {
             "type": "table",
             "title": "",
             "info": "Postgraduate",
-            "textBelowInfo": "<b>Know the creative scholarships offered by the university for the Postgraduate courses:</b>",
+            "textBelowInfo": "Know the creative scholarships offered by the university for the Postgraduate courses:",
             "col": [
                 "Scholarship",
                 "Course",
@@ -863,6 +882,10 @@ export const universityforthecreativearts = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -911,29 +934,38 @@ export const universityforthecreativearts = {
             ]
         }
     ],
-    "news": [{
-        type: "meta",
-        meta: [
-            { name: "title", content: "University for the Creative Arts, UK - News & Articles" },
-            { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "University for the Creative Arts, UK - News & Articles"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-for-the-creative-arts/news-and-articles" }
-        ]
-    }
+    "news": [
+        {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - News & Articles'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University for the Creative Arts, UK - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University for the Creative Arts, UK - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-for-the-creative-arts/news-and-articles" }
+            ]
+        }
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>The university is quite popular among the students for the accommodations it provides:</b>",
+            "info": "The university is quite popular among the students for the accommodations it provides:",
             "data": [
                 "The university provides on-campus accommodations, hall of residence for the students.",
                 "These accommodations are spacious and are available at a fair price.Cleaning and washing facilities are provided if needed.",
@@ -960,52 +992,55 @@ export const universityforthecreativearts = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "University for the Creative Arts - Important FAQs",
-                "info": "",
-                "data": [
-                    {
-                        "ques": "Q. Does the university provide accommodations to international students?",
-                        "ans": "Yes, the university has accommodation halls to accommodate students coming from abroad."
-                    },
-                    {
-                        "ques": "Q. What are the modes of payment for the fees?",
-                        "ans": "Credit or debit card, Alipay, Tenpay, UnionPay, Trustly, Sofort are modes of payment for the fees."
-                    },
-                    {
-                        "ques": "Q. Are there any application fees charged by the university?",
-                        "ans": "No, there are no application fees charged by the university."
-                    },
-                    {
-                        "ques": "Q. Does the university provide Financial Aid to the students?",
-                        "ans": "Yes, the university offers Bursaries and scholarships as financial aid to the students."
-                    },
-                    {
-                        "ques": "Q. How can one apply for the course offered by the university?",
-                        "ans": "One can apply for the chosen course on the application portal available on the official website of the university."
-                    }
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "University for the Creative Arts, UK - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "University for the Creative Arts, UK - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-for-the-creative-arts/faq" }
-                ]
-            }
+    "faq": [
+        {
+            type: 'title',
+            title: 'University for the Creative Arts, UK - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "University for the Creative Arts - Important FAQs",
+            "info": "",
+            "data": [
+                {
+                    "ques": "Q. Does the university provide accommodations to international students?",
+                    "ans": "Yes, the university has accommodation halls to accommodate students coming from abroad."
+                },
+                {
+                    "ques": "Q. What are the modes of payment for the fees?",
+                    "ans": "Credit or debit card, Alipay, Tenpay, UnionPay, Trustly, Sofort are modes of payment for the fees."
+                },
+                {
+                    "ques": "Q. Are there any application fees charged by the university?",
+                    "ans": "No, there are no application fees charged by the university."
+                },
+                {
+                    "ques": "Q. Does the university provide Financial Aid to the students?",
+                    "ans": "Yes, the university offers Bursaries and scholarships as financial aid to the students."
+                },
+                {
+                    "ques": "Q. How can one apply for the course offered by the university?",
+                    "ans": "One can apply for the chosen course on the application portal available on the official website of the university."
+                }
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "University for the Creative Arts, UK - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "University for the Creative Arts, UK - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-for-the-creative-arts/faq" }
+            ]
+        }
 
-        ],
+    ],
 }

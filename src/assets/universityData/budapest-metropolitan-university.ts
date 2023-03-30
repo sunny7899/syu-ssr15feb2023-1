@@ -134,6 +134,10 @@ export const budapestmetropolitanuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Program Structure",
             "info": "<b>BBA</b>",
@@ -1056,6 +1060,10 @@ export const budapestmetropolitanuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "BBA",
@@ -1140,19 +1148,19 @@ export const budapestmetropolitanuniversity = {
             ],
             "row": [
                 {
-                    "Events": "Application Start Date",
+                    "Events": "<b>Application Start Date</b>",
                     "Date": "June for September Intake<br>October for February Intake"
                 },
                 {
-                    "Events": "Application Deadline Date",
+                    "Events": "<b>Application Deadline Date</b>",
                     "Date": "November for non-EU and Jan for EU students"
                 },
                 {
-                    "Events": "Invitation Letter",
+                    "Events": "<b>Invitation Letter</b>",
                     "Date": "2weeks"
                 },
                 {
-                    "Events": "Admission Start Date",
+                    "Events": "<b>Admission Start Date</b>",
                     "Date": "Not declared"
                 },
 
@@ -1179,6 +1187,10 @@ export const budapestmetropolitanuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Budapest Metropolitan University, Hungary - Reviews" },
@@ -1197,6 +1209,10 @@ export const budapestmetropolitanuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -1228,6 +1244,10 @@ export const budapestmetropolitanuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Budapest Metropolitan University, Hungary - Gallery" },
@@ -1246,6 +1266,10 @@ export const budapestmetropolitanuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarship",
@@ -1278,6 +1302,10 @@ export const budapestmetropolitanuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -1337,6 +1365,10 @@ export const budapestmetropolitanuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Budapest Metropolitan University, Hungary - News & Articles" },
@@ -1355,6 +1387,10 @@ export const budapestmetropolitanuniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel and Accomodation",
@@ -1408,6 +1444,10 @@ export const budapestmetropolitanuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Budapest Metropolitan University, Hungary - FAQ"
+        },
         {
             type: 'question-list',
             title: 'Budapest Metropolitan University - Important FAQs',

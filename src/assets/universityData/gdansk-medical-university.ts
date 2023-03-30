@@ -22,7 +22,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Gdańsk Medical University - Quick Highlights 2022",
-            "info": "<b>Check out the important details of Gdańsk Medical University for doing MBBS course:</b>",
+            "info": "Check out the important details of Gdańsk Medical University for doing MBBS course:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "	March"],
@@ -39,7 +39,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Gdańsk Medical University?",
-            "info": "<b>The students all over the world must pick Gdańsk Medical University for MBBS education to make their dreams come true:</b>",
+            "info": "The students all over the world must pick Gdańsk Medical University for MBBS education to make their dreams come true:",
             "data": [
                 "Gdańsk Medical University has official recognition of the various medical organisations.",
                 "The medical university is enriched with a modern Invasive Medicine Center with modern teaching methodologies for providing a top-class education system.",
@@ -72,7 +72,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "table",
             "title": "Gdańsk Medical University - Ranking 2022",
-            "info": "<b>The students should check out the country & world ranking of Gdańsk Medical University at Unirank:</b>",
+            "info": "The students should check out the country & world ranking of Gdańsk Medical University at Unirank:",
             "col": [
                 "World",
                 "Country",
@@ -88,7 +88,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Medical University of Gdańsk is a top medical institute providing recognized MBBS degree to the worldwide students as it has official recognition of medical organisations:</b>",
+            "info": "The Medical University of Gdańsk is a top medical institute providing recognized MBBS degree to the worldwide students as it has official recognition of medical organisations:",
             "data": [
                 "National Medical Commission (NMC).",
                 "World Health Organization (WHO).",
@@ -103,7 +103,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost of Gdansk",
-            "info": "<b>Gdańsk city is located in Poland and provides a reasonable living cost that's why the students must go for the Gdańsk Medical University to pursue MBBS, Checkout the monthly based expenses varying according to individual needs:</b>",
+            "info": "Gdańsk city is located in Poland and provides a reasonable living cost that's why the students must go for the Gdańsk Medical University to pursue MBBS, Checkout the monthly based expenses varying according to individual needs:",
             "col": [
                 "Particular",
                 "Per month amount in USD",
@@ -138,7 +138,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Gdansk City",
-            "info": "<b>Here is the detailed information about the Gdańsk city:</b>",
+            "info": "Here is the detailed information about the Gdańsk city:",
             "img": 'https://www.selectyouruniversity.com/images/poland/gdansk-city.jpg',
             "data": [
                 "Gdańsk is situated on the Baltic coast of Poland.",
@@ -150,7 +150,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>The population of Gdańsk is near about 5.82 lakhs (2019) -</b>",
+            "info": "The population of Gdańsk is near about 5.82 lakhs (2019) -",
             "col": [],
             "row": [
                 ["Long Market", "Neptune's Fountain", "Westerplatte", "Oliwa Cathedral"],
@@ -178,9 +178,14 @@ export const gdanskmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Gdańsk Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Gdańsk Medical University - MBBS Fee Structure",
-            "info": "<b>Gdańsk Medical University offers affordable fee price to the worldwide medical aspirants for MBBS course:</b>",
+            "info": "Gdańsk Medical University offers affordable fee price to the worldwide medical aspirants for MBBS course:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -233,7 +238,7 @@ export const gdanskmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Courses offered at Gdańsk Medical University',
-            info: '<b>Gdańsk Medical University offers a wide range of programs that are being taught during the MBBS course:</b>',
+            info: 'Gdańsk Medical University offers a wide range of programs that are being taught during the MBBS course:',
             data: [
                 "Medicine",
                 "Pharmacy",
@@ -244,7 +249,7 @@ export const gdanskmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Gdańsk Medical University - MBBS Duration',
-            info: '<b>6 years of MBBS duration offered by Gdańsk Medical University to all the candidates looking for MBBS education:</b>',
+            info: '6 years of MBBS duration offered by Gdańsk Medical University to all the candidates looking for MBBS education:',
             data: [
                 "The medical aspirants from different parts of the world need to complete the 6-year Doctor of Medicine programme (M.D.) in English division at the Medical University of Gdańsk.",
                 "During MBBS course the students are trained by qualified and experienced faculty members providing a high quality of medicine.",
@@ -255,7 +260,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "table",
             "title": "Gdańsk Medical University - MBBS Syllabus",
-            "info": "<b>Every candidate must refer to the study pattern to pursue MBBS education at Gdańsk Medical University:</b>",
+            "info": "Every candidate must refer to the study pattern to pursue MBBS education at Gdańsk Medical University:",
             "col": [
                 "First Year",
                 "Second Year"
@@ -397,9 +402,14 @@ export const gdanskmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Gdańsk Medical University - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria should always be kept in mind to apply for the medicine course at Gdańsk Medical University:</b>",
+            "info": "The eligibility criteria should always be kept in mind to apply for the medicine course at Gdańsk Medical University:",
             "data": [
                 "Candidates must hold a high school diploma or a secondary school leaving certificate or equal as GCE A-level certificates or IB and EB diplomas to get admission in MBBS course.",
                 "The applicant's age must be in between 17 to 25 years.",
@@ -411,7 +421,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>The candidates should also have good scores in English language test at the candidates should also have good scores in English language test at -</b>",
+            "info": "The candidates should also have good scores in English language test at the candidates should also have good scores in English language test at -",
             "col": [
                 "IELTS",
                 "TOEFL iBT",
@@ -430,7 +440,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>The candidates applying for MBBS program from the countries must score minimum -</b>",
+            "info": "The candidates applying for MBBS program from the countries must score minimum -",
             "col": [
                 "Norway",
                 "Sweden",
@@ -446,8 +456,8 @@ export const gdanskmedicaluniversity = {
         },
         {
             type: 'step-list',
-            title: 'Admission Process',
-            info: '<b>The candidates are requested to ho through the mentioned admission steps to get admission in MBBS course at Gdańsk Medical University:</b>',
+            title: 'Admission Pro',
+            info: 'The candidates are requested to ho through the mentioned admission steps to get admission in MBBS course at Gdańsk Medical University:</b>',
             data: [
                 "Step 1: The students wishing to apply to the MBBS program must fill the application form available on the official website of Gdańsk Medical University.",
                 "Step 2: Submit copies of important documents to facilitate the recruitment process for MBBS.",
@@ -460,7 +470,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students looking to pursue MBBS at Gdańsk Medical University should report with the essential documents:</b>",
+            "info": "Students looking to pursue MBBS at Gdańsk Medical University should report with the essential documents:",
             "data": [
                 "The candidates must submit a signed application form (printed from the electronic candidate database available at admission2020.mug.edu.pl",
                 "The candidates must submit certified copies of secondary school transcripts.",
@@ -481,7 +491,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "table",
             "title": "Gdańsk Medical University - Intake 2022",
-            "info": "<b>Here are the important dates updated currently regarding MBBS admissions at Gdańsk Medical University:</b>",
+            "info": "Here are the important dates updated currently regarding MBBS admissions at Gdańsk Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -504,7 +514,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Library",
-            "info": "<b>Gdańsk Medical University has a spacious library facility provides huge collections, resources and services:</b>",
+            "info": "Gdańsk Medical University has a spacious library facility provides huge collections, resources and services:",
             "data": [
                 "440 000 books and printed magazines",
                 "64 online databases",
@@ -515,7 +525,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Gdańsk Medical University",
-            "info": "<b>The students coming from different parts of the world can avail the top-class facilities offered by Gdańsk Medical University at affordable costs:</b>",
+            "info": "The students coming from different parts of the world can avail the top-class facilities offered by Gdańsk Medical University at affordable costs:",
             "data": [
                 "Sports Complex",
                 "Medical Centre",
@@ -546,6 +556,11 @@ export const gdanskmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Gdańsk Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Gdańsk Medical University - Reviews" },
@@ -564,6 +579,11 @@ export const gdanskmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Gdańsk Medical University - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -594,6 +614,11 @@ export const gdanskmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Gdańsk Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Gdańsk Medical University - Gallery" },
@@ -612,6 +637,11 @@ export const gdanskmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Gdańsk Medical University - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "Scholarship offered at Gdańsk Medical University",
@@ -652,8 +682,13 @@ export const gdanskmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Gdańsk Medical University - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -713,6 +748,11 @@ export const gdanskmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Gdańsk Medical University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Gdańsk Medical University - News & Articles" },
@@ -732,9 +772,14 @@ export const gdanskmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Gdańsk Medical University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Gdańsk Medical University provides well-equipped hostel facilities for the students learning MBBS on the university campus:</b>",
+            "info": "Gdańsk Medical University provides well-equipped hostel facilities for the students learning MBBS on the university campus:",
             "data": [
                 "Gdańsk Medical University has an organized level of hostel premises for global students.",
                 "The university campus consists of four dormitories for 1000 students.",
@@ -754,7 +799,7 @@ export const gdanskmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel provides all required amenities for the students including -</b>",
+            "info": "The hostel provides all required amenities for the students including -",
             "data": [
                 "Chair",
                 "Bed",
@@ -806,9 +851,14 @@ export const gdanskmedicaluniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Gdańsk Medical University - FAQ"
+
+            },
+            {
                 "type": "question-list",
                 "title": "Gdańsk Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. What is the duration of the MBBS course at Gdańsk Medical University?",

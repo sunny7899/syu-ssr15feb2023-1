@@ -19,7 +19,7 @@ export const dhakacommunitymedicalcollege = {
     {
       "type": "table-title",
       "title": "Dhaka Community Medical College: Major Highlights 2022",
-      "info": "<b>Every candidate should consider the main points of Dhaka Community Medical College to enroll in the medicine program:</b>",
+      "info": "Every candidate should consider the main points of Dhaka Community Medical College to enroll in the medicine program:",
       "col": [],
       "row": [
         ["<b>Intake for MBBS Course</b>", "September"],
@@ -34,7 +34,7 @@ export const dhakacommunitymedicalcollege = {
     {
       "type": 'list-bollet',
       "title": 'Why Study MBBS at Dhaka Community Medical College?',
-      "info": '<b>The medical aspirants striving to pursue MBBS should go through some of the benefits of Dhaka Community Medical College:</b>',
+      "info": 'The medical aspirants striving to pursue MBBS should go through some of the benefits of Dhaka Community Medical College:',
       "data": [
         "Dhaka Community Medical College provides a reasonable tuition fee for doing MBBS courses to global medical aspirants.",
         "Dhaka Community Medical College has the most simple admission procedure for an MBBS degree.",
@@ -62,7 +62,7 @@ export const dhakacommunitymedicalcollege = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>Dhaka Community Medical College is a top medical institute, grab the MBBS seats by staying updated with the important dates regarding admissions:</b>",
+      "info": "Dhaka Community Medical College is a top medical institute, grab the MBBS seats by staying updated with the important dates regarding admissions:",
       "col": [
         "Events",
         "Dates",
@@ -85,7 +85,7 @@ export const dhakacommunitymedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Facilities Provided at Dhaka Community Medical College",
-      "info": "<b>Dhaka Community Medical College campus has modern facilities for the convenience of the students:</b>",
+      "info": "Dhaka Community Medical College campus has modern facilities for the convenience of the students:",
       "data": [
         "Dhaka Community Medical College offers a well-arranged and furnished hostel facilities which are 3 minutes away from the campus.",
         "Dhaka Community Medical College offers highly developed laboratories, where students will experience the practical aspect of the medicine course.",
@@ -100,7 +100,7 @@ export const dhakacommunitymedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>Dhaka Community Medical College has been recognized by following medical bodies mentioned below:</b>",
+      "info": "Dhaka Community Medical College has been recognized by following medical bodies mentioned below:",
       "data": [
         "World health organization (WHO).",
         "National Medical Commission (NMC).",
@@ -112,17 +112,17 @@ export const dhakacommunitymedicalcollege = {
       type: 'text',
       title: 'About Dhaka City',
       img: 'images/bangladesh/dhaka-city.jpg',
-      data: '<p><b>Let s talk about the Dhaka city:</b></p><p>Dhaka is the capital city of Bangladesh located in the southern part of Asia. </p><p>Dhaka city is situated on the Buriganga River.</p><p>Dhaka city is the center of the national government, trade, and culture. </p><p>The social and economic diversity of this city is growing excessively.</p><p>Dhaka is the most densely industrialized region of Bangladesh. </p><p>Dhaka city is a major beta-global city as it hosts the headquarters of various international corporations.</p>',
+      data: '<p>Let s talk about the Dhaka city:</p><p>Dhaka is the capital city of Bangladesh located in the southern part of Asia. </p><p>Dhaka city is situated on the Buriganga River.</p><p>Dhaka city is the center of the national government, trade, and culture. </p><p>The social and economic diversity of this city is growing excessively.</p><p>Dhaka is the most densely industrialized region of Bangladesh. </p><p>Dhaka city is a major beta-global city as it hosts the headquarters of various international corporations.</p>',
     },
     {
       "type": "table-title",
       "title": "",
-      "info": "<b>Top places of the Dhaka city -</b>",
+      "info": "Top places of the Dhaka city -",
       "col": [],
       "row": [
-        ["Ahsan Manzil Museum", "Lalbagh Fort",""],
+        ["Ahsan Manzil Museum", "Lalbagh Fort", ""],
         ["National Parliament House", "Pharmacology", "Star Mosque"],
-        ["Bangladesh National Zoo, Mirpur", "Liberation War Museum",""],
+        ["Bangladesh National Zoo, Mirpur", "Liberation War Museum", ""],
       ]
     },
     {
@@ -146,9 +146,13 @@ export const dhakacommunitymedicalcollege = {
 
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Dhaka Community Medical College, Bangladesh - courses & Fees"
+    },
+    {
       "type": "table",
       "title": "Dhaka Community Medical College: MBBS Fee Structure 2022",
-      "info": "<b>The fee structure for medical studies in Dhaka Community Medical College is quite cheaper than other countries:</b>",
+      "info": "The fee structure for medical studies in Dhaka Community Medical College is quite cheaper than other countries:",
       "col": [
         "Particular",
         "Fee in USD",
@@ -187,7 +191,7 @@ export const dhakacommunitymedicalcollege = {
       "type": "text",
       "title": "Courses offered at Dhaka Community Medical College",
       "info": "",
-      "data": "<p><b>The current medical faculties at Dhaka Community Medical College are divided into 4 phases mentioned below:</b></p>"
+      "data": "The current medical faculties at Dhaka Community Medical College are divided into 4 phases mentioned below:"
     },
     {
       "type": "list-bollet",
@@ -221,7 +225,7 @@ export const dhakacommunitymedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Dhaka Community Medical College: MBBS Duration",
-      "info": "<b>The medicine program duration of medical duration offered by Dhaka Community Medical College is of 5 years:</b>",
+      "info": "The medicine program duration of medical duration offered by Dhaka Community Medical College is of 5 years:",
       "data": [
         "Dhaka Community Medical College offers 5 years of MBBS education.",
         "The students will gain theoretical and practical knowledge for 5 years in English medium.",
@@ -232,7 +236,7 @@ export const dhakacommunitymedicalcollege = {
     {
       "type": "table",
       "title": "Dhaka Community Medical College: MBBS Syllabus",
-      "info": "<b>Check out the well-organised curriculum of MBBS course in Dhaka Community Medical College is given in the following table below:</b>",
+      "info": "Check out the well-organised curriculum of MBBS course in Dhaka Community Medical College is given in the following table below:",
       "col": [
         "Phase",
         "Duration",
@@ -286,9 +290,13 @@ export const dhakacommunitymedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Dhaka Community Medical College, Bangladesh - Admission 2023 "
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>Medical aspirants should fit into the basic Eligibility criteria to enroll in the medical program:</b>",
+      "info": "Medical aspiranhould fit into the basic Eligibility criteria to enroll in the medical program:",
       "data": [
         "The applicant shall complete the age of 17 years on or before the 31st December of the admission year for MBBS.",
         "The applicant must have passed in 10+12 or equivalent exam in the subjects of physics, biology, English and chemistry.",
@@ -301,7 +309,7 @@ export const dhakacommunitymedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>The students should follow the mentioned below steps carefully to get admission Dhaka Community Medical College:</b>',
+      info: 'The studenhould follow the mentioned below steps carefully to get admission Dhaka Community Medical College:',
       data: [
         "Step 1: The applicant must fill the online application form available on the official website with correct details.",
         "Step 2: The applicant must upload all the scanned copies of the required academic documents.",
@@ -313,7 +321,7 @@ export const dhakacommunitymedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The global medical aspirants need to carry all the essential document mentioned below at the of MBBS admission:</b>",
+      "info": "The global mel aspirants need to carry all the essential document mentioned below at the of MBBS admission:",
       "data": [
         "The candidate should carry an application form copy to enroll in the MBBS program.",
         "Every candidate must submit an attested copy of higher secondary mark sheets.",
@@ -347,6 +355,10 @@ export const dhakacommunitymedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Dhaka Community Medical College, Bangladesh - Reviews"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Dhaka Community Medical College, Bangladesh - Reviews" },
@@ -365,6 +377,10 @@ export const dhakacommunitymedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Dhaka Community Medical College, Bangladesh - Placement"
+    },
     {
       type: "meta",
       meta: [
@@ -385,6 +401,10 @@ export const dhakacommunitymedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Dhaka Community Medical College, Bangladesh - Gallery"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Dhaka Community Medical College, Bangladesh - Gallery" },
@@ -403,6 +423,10 @@ export const dhakacommunitymedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Dhaka Community Medical College, Bangladesh - Scholarship"
+    },
     {
       type: "meta",
       meta: [
@@ -423,6 +447,10 @@ export const dhakacommunitymedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Dhaka Community Medical College, Bangladesh - Faculty"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Dhaka Community Medical College, Bangladesh - Faculty" },
@@ -441,6 +469,10 @@ export const dhakacommunitymedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Dhaka Community Medical College, Bangladesh - News & Articles"
+    },
     {
       type: "meta",
       meta: [
@@ -461,9 +493,13 @@ export const dhakacommunitymedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Dhaka Community Medical College, Bangladesh - Hostel"
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation ",
-      "info": "<b>Dhaka Community Medical College offers a well-equipped and safe hostel system in the campus area:</b>",
+      "info": "Dhaka Community Mel College offers a well-equipped and safe hostel system in the campus area:",
       "data": [
         "Dhaka Community Medical College offers different rooms for 2-3 students on a sharing basis.",
         "The hotels are separate floors for both boys and girls.",
@@ -477,7 +513,7 @@ export const dhakacommunitymedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Availability of all basic facilities -</b>",
+      "info": "Availability of all basic facilities -",
       "data": [
         "Heating System",
         "Ac",
@@ -518,9 +554,13 @@ export const dhakacommunitymedicalcollege = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Dhaka Community Medical College, Bangladesh - FAQ"
+      },
+      {
         "type": "question-list",
         "title": "Dhaka Community Medical College: Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. Is the Medical degree from Dhaka Community Medical College globally recognised?",

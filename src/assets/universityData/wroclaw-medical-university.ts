@@ -19,7 +19,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Wroclaw Medical University - Quick Overview 2022",
-            "info": "<b>If you want to pursue MBBS in this university for sure, then let’s walk through some main highlights of Wroclaw Medical University:</b>",
+            "info": "If you want to pursue MBBS in this university for sure, then let’s walk through some main highlights of Wroclaw Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -35,7 +35,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Wroclaw Medical University?",
-            "info": "<b>Check out the beneficial reasons for pursuing medicine program at Wroclaw Medical University:</b>",
+            "info": "Check out the beneficial reasons for pursuing medicine program at Wroclaw Medical University:",
             "data": [
                 "Wroclaw Medical University has the English medium of instruction to teach MBBS courses.",
                 "Highly educated specialists conduct lectures in tutorial groups of 10-12 students at Wroclaw Medical University.",
@@ -57,7 +57,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table",
             "title": "Wroclaw Medical University - Ranking 2022",
-            "info": "<b>Unirank will show the exact ranking of Wroclaw Medical University, the students must go through the wold and country rankings mentioned below:</b>",
+            "info": "Unirank will show the exact ranking of Wroclaw Medical University, the students must go through the wold and country rankings mentioned below:",
             "col": [
                 "Country",
                 "World"
@@ -72,7 +72,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Wroclaw Medical University is acknowledged by a wide range of medical organisations:</b>",
+            "info": "Wroclaw Medical University is acknowledged by a wide range of medical organisations:",
             "data": [
                 "National Medical Commission (NMC).",
                 "World Health Organisation (WHO)."
@@ -81,7 +81,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Wroclaw Medical University",
-            "info": '<p><b>Wroclaw Medical University provides all basic facilities at the convenience of students:</b></p>',
+            "info": '<p>Wroclaw Medical University provides all basic facilities at the convenience of students:</p>',
             "data": [
                 "Sports Complex",
                 "Security",
@@ -97,7 +97,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table",
             "title": "Living Expense of Wroclaw",
-            "info": "<b>Wroclaw city is much affordable place to pursue MBBS course, the table given below will show monthly based expenses which may vary according to individual needs:</b>",
+            "info": "Wroclaw city is much affordable place to pursue MBBS course, the table given below will show monthly based expenses which may vary according to individual needs:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -121,7 +121,7 @@ export const wroclawmedicaluniversity = {
             "type": "list-bollet",
             "title": "About Wroclaw City",
             "img": "",
-            "info": "<b>Let's get to know about the Wroclaw city:</b>",
+            "info": "Let's get to know about the Wroclaw city:",
             "data": [
                 "Wrocław is the largest city in the western part of Poland situated on the River Oder in the Silesian Lowlands of Central Europe.",
                 "Wrocław city is the historical capital of Silesia and Lower Silesia, but now it is the capital of the Lower Silesian Voivodeship.",
@@ -132,7 +132,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Top attractions of Wroclaw -</b>",
+            "info": "Top attractions of Wroclaw -",
             "col": [],
             "row": [
                 ["Market Square", "Wrocław Town Hall"],
@@ -141,11 +141,6 @@ export const wroclawmedicaluniversity = {
                 ["Tumski Bridge", "Wrocław Afrykarium"]
             ]
         },
-
-
-
-
-
         {
             type: "meta",
             meta: [
@@ -163,15 +158,16 @@ export const wroclawmedicaluniversity = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wroclaw-medical-university" }
             ]
         }
-
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Wroclaw Medical University - MBBS Fee Structure 2022",
-            "info": "<b>The students can pay tuition fee into annual instalments according to the schedule mentioned below:</b>",
+            "info": "The students can pay tuition fee into annual instalments according to the schedule mentioned below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -216,7 +212,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Wroclaw Medical University - MBBS Duration",
-            "info": "<b>There are 6 years of MBBS course at Wroclaw Medical University:</b>",
+            "info": "There are 6 years of MBBS course at Wroclaw Medical University:",
             "data": [
                 "Wroclaw Medical University provides 6 years of medicine program in English medium.",
                 "Qualified professors provide a theoretical as well as the practical aspect of a medicine program during 5 years of course.",
@@ -227,7 +223,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table",
             "title": "Wroclaw Medical University - MBBS Syllabus",
-            "info": "<b>All the students from Georgia and other countries are taught the same syllabus in Wroclaw Medical University:</b>",
+            "info": "All the students from Georgia and other countries are taught the same syllabus in Wroclaw Medical University:",
             "col": [
                 "1st Year",
                 "2nd Year",
@@ -353,7 +349,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Wroclaw Medical University",
-            "info": "<b>Wroclaw Medical University is offering various course while doing medical education:</b>",
+            "info": "Wroclaw Medical University is offering various course while doing medical education:",
             "data": [
                 "Medicine",
                 "Pharmacy",
@@ -382,9 +378,13 @@ export const wroclawmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For MBBS Course at WMU",
-            "info": "<b>If the students strive to get admission in medicine program at Wroclaw Medical University, then the following requirements have to be met:</b>",
+            "info": "If the students strive to get admission in medicine program at Wroclaw Medical University, then the following requirements have to be met:",
             "data": [
                 "The applicants wishing to pursue an MBBS course should be at least 17 years old as on 31st December of the admission year.",
                 "NEET Qualification is very necessary for Indian students to take admission in MBBS.",
@@ -396,7 +396,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process (2022-23)",
-            "info": "<b>The students who seek to get MBBS at Wroclaw Medical University must follow the mentioned below steps:</b>",
+            "info": "The students who seek to get MBBS at Wroclaw Medical University must follow the mentioned below steps:",
             "data": [
                 "Step 1: Fill the application form will correct details available on the official website of Wroclaw Medical University.",
                 "Step 2: The students should upload the scanned copies of important documents, pay the application form fees and submit it.",
@@ -409,7 +409,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Document Required - For MBBS Admission at WMU",
-            "info": "<b>The students must bring the important documents required during MBBS admission process at Wroclaw Medical University:</b>",
+            "info": "The students must bring the important documents required during MBBS admission process at Wroclaw Medical University:",
             "data": [
                 "Every candidate must submit the correct filled application form.",
                 "Candidates must have NEET examination scorecard and NEET admit card.",
@@ -430,7 +430,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table",
             "title": "Wroclaw Medical University - Intake 2022",
-            "info": "<b>The applicants must always keep an eye on the important dates regarding the MBBS course at Wroclaw Medical University:</b>",
+            "info": "The applicants must always keep an eye on the important dates regarding the MBBS course at Wroclaw Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -470,6 +470,10 @@ export const wroclawmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wroclaw Medical University, Poland - Reviews" },
@@ -488,6 +492,10 @@ export const wroclawmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -508,6 +516,10 @@ export const wroclawmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wroclaw Medical University, Poland - Gallery" },
@@ -526,6 +538,10 @@ export const wroclawmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - Scholarship'
+        },
         {
             "type": "text",
             "title": "scholarship",
@@ -551,6 +567,10 @@ export const wroclawmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wroclaw Medical University, Poland - Faculty" },
@@ -569,6 +589,10 @@ export const wroclawmedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -589,9 +613,13 @@ export const wroclawmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Wroclaw Medical University serves a comfortable stay for the students with all amenities and facilities at affordable rates:</b>",
+            "info": "Wroclaw Medical University serves a comfortable stay for the students with all amenities and facilities at affordable rates:",
             "data": [
                 "The hostel has a high class of security system round the clock to confirm the safety of students.",
                 "The hostel rooms are attached with bathrooms and toilets.",
@@ -607,7 +635,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": '<b>"Blizniak" room is well-equipped with the amenities -</b>',
+            "info": '"Blizniak" room is well-equipped with the amenities -',
             "data": [
                 "Fridge",
                 "Chair",
@@ -624,7 +652,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Accomodation Fee -</b>",
+            "info": "Accomodation Fee -",
             "col": [
                 "Room",
                 "Person count",
@@ -646,7 +674,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": '<b>"Jubilatka" Student Dormitory -</b>',
+            "info": 'Jubilatka" Student Dormitory -',
             "col": [
                 "Room",
                 "Person count",
@@ -685,9 +713,13 @@ export const wroclawmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Wroclaw Medical University - Important FAQs",
-            "info": '<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>',
+            "info": 'Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:',
             "data": [
 
                 {

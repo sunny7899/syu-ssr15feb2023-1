@@ -19,7 +19,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Lviv National Medical University - Quick Facts 2022",
-            "info": "<b>Go through some highlights of Danylo Halytsky Lviv National Medical University to have a quick overview of the basic points of the MBBS course: </b>",
+            "info": "Go through some highlights of Danylo Halytsky Lviv National Medical University to have a quick overview of the basic points of the MBBS course:",
             "row": [
                 ["<b>Intake for MBBS </b>", "Twice in a year:<br>February and September"],
                 ["<b>Basic Eligibility </b>", "50% in PCB"],
@@ -35,7 +35,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Benefits of Studying MBBS in Danylo Halytsky LNMU',
-            info: '<b>Danylo Halytsky Lviv National Medical University offers students a quality education with many advantages of studying MBBS here: </b>',
+            info: 'Danylo Halytsky Lviv National Medical University offers students a quality education with many advantages of studying MBBS here:',
             data: [
                 "<b>Danylo Halytsky LNMU</b> is one of the oldest medical universities since 1784. So, academics have a well-organized curriculum.",
                 "The university has more than <b>150 professors</b> to assist research and training programs for undergraduates students.",
@@ -46,10 +46,10 @@ export const danylohalytskylvivstatemedicaluniversity = {
                 "University department has participation in 12 scientific programs of the <b>Ukrainian Ministry of Health and international organizations.</b>"
             ]
         },
-           {
+        {
             "type": "table",
             "title": "Lviv National Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Lviv National Medical University: </b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Lviv National Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -72,7 +72,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation & Recognition',
-            info: '<b>The Danylo Halytsky Lviv National Medical University is officially recognised by various medical bodies mentioned below: </b>',
+            info: 'The Danylo Halytsky Lviv National Medical University is officially recognised by various medical bodies mentioned below:',
             data: [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)"
@@ -81,7 +81,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             type: "table",
             title: 'Danylo Halytsky Lviv National Medical University - FMGE Performance 2021',
-            info: '<b>Danylo Halytsky Lviv National Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same: </b>',
+            info: 'Danylo Halytsky Lviv National Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:',
             col: [
                 "Name of University",
                 "Appeared",
@@ -100,7 +100,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Visa Process',
-            info: '<b>Students who wish to study abroad have to apply for a student visa. The process of applying for a student visa is described below: </b>',
+            info: 'Students who wish to study abroad have to apply for a student visa. The process of applying for a student visa is described below:',
             data: [
                 "Foreign citizens who want to study MBBS in Danylo Halytsky LNMU should have to apply to the International Affair Office for the invitation to study.",
                 "Candidates should send original documents to the following email-id 'varyvoda@meduniv.lviv.ua'.",
@@ -111,7 +111,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Know about ECTS (European Credit Transfer System)',
-            info: '<b>Students who want to know about the European Union Credit Transfer System must go through these points: </b>',
+            info: 'Students who want to know about the European Union Credit Transfer System must go through these points:',
             data: [
                 "European Union Course Credits Transfer System (ECTS) was established by the commission of the European Union in order to approve the procedures of academic recognition of studies abroad.",
                 "The ECTS system depends upon the mutual relationship between higher education institutions.",
@@ -124,7 +124,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>ECTS system based on 3 core activities: </b>',
+            info: 'ECTS system based on 3 core activities:',
             data: [
                 "Information (study programmes),",
                 "Mutual agreement (between partner institutions and student),",
@@ -134,7 +134,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Student’s Life',
-            info: '<b>Students who are studying at Danylo Halytsky Lviv National Medical University have a wonderful and unique experience of getting an education with a wonderful life: </b>',
+            info: 'Students who are studying at Danylo Halytsky Lviv National Medical University have a wonderful and unique experience of getting an education with a wonderful life:',
             data: [
                 "Studying at Danylo Halytsky LNMU is more prominent for medical students who want to pursue MBBS education.",
                 "It is a unique experience of living in the university campus, as it has a unique culture and traditions.",
@@ -151,7 +151,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost of Lviv Oblast, Ukraine",
-            "info": "<b>The Lviv Oblast, Ukraine provides cost-effective expenses during medical education at Danylo Halytsky Lviv National Medical University, mentioned below is the table for monthly based expenses which may vary according to an individual’s basic needs: </b>",
+            "info": "The Lviv Oblast, Ukraine provides cost-effective expenses during medical education at Danylo Halytsky Lviv National Medical University, mentioned below is the table for monthly based expenses which may vary according to an individual’s basic needs:",
             "col": [
                 "Particulars",
                 "Amount in USD",
@@ -185,7 +185,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
             type: 'list-bollet',
             title: 'About City',
             img: 'lviv-city.jpg',
-            info: '<b>Let’s know more about the city where Danylo Halytsky Lviv National Medical University is situated: </b>',
+            info: 'Let’s know more about the city where Danylo Halytsky Lviv National Medical University is situated:',
             data: [
                 "Danylo Halytsky Lviv National Medical University is located in the city of Lviv Oblast in the western part of Ukraine.",
                 "The administrative centre of the oblast is the city of Lviv.",
@@ -213,9 +213,13 @@ export const danylohalytskylvivstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Lviv National Medical University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Lviv National Medical University - Fee Structure 2022",
-            "info": "<b>Lviv National Medical University offers students the MBBS course at a reasonable fee structure: </b>",
+            "info": "Lviv National Medical University offers students the MBBS course at a reasonable fee structure: ",
             "col": [
                 "Particular",
                 "Year 1",
@@ -268,7 +272,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Course Duration of MBBS at Lviv National Medical University",
-            "info": "<b>The MBBS course duration at Danylo Halytsky Lviv National Medical University consists of the theoretical and practical courses as well as the compulsory internship: </b>",
+            "info": "The MBBS course duration at Danylo Halytsky Lviv National Medical University consists of the theoretical and practical courses as well as the compulsory internship: ",
             "data": [
                 "The course duration at Lviv National Medical University is 6 years.",
                 "This includes one year of compulsory internship for the students in the affiliated hospitals of the university."
@@ -521,7 +525,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered in Danylo Halytsky LNMU",
-            "info": "<b>Danylo Halytsky Lviv National Medical University offers graduate and post graduate courses for these faculties: </b>",
+            "info": "Danylo Halytsky Lviv National Medical University offers graduate and post graduate courses for these faculties:",
             "data": [
                 "Medicine",
                 "Dentistry",
@@ -568,9 +572,13 @@ export const danylohalytskylvivstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Lviv National Medical University - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For Medicine Course",
-            "info": "<b>One must fulfil in the eligibility clauses mentioned below to take admission to Danylo Halytsky National Medical University for the MBBS course: </b>",
+            "info": "One must fulfil in the eligibility clauses mentioned below to take admission to Danylo Halytsky National Medical University for the MBBS course:",
             "data": [
                 "Age should be 17 years and above at the time of enrollment.",
                 "The exams like NEET, IELTS, NMAT are not required.",
@@ -581,7 +589,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Procedure at Lviv National Medical University",
-            "info": "<b>Follow the step by step admission process shown below to have a hassle-free admission in Danylo Halytsky Lviv National Medical University:</b> <br> The academic year starts from 1st September every year. Preparatory courses start from 1st October onwards.",
+            "info": "Follow the step by step admission process shown below to have a hassle-free admission in Danylo Halytsky Lviv National Medical University:</b> <br> The academic year starts from 1st September every year. Preparatory courses start from 1st October onwards.",
             "data": [
                 "Step 1: Applicant has to draw an application to the Rector of University for enrollment of studies in the University.",
                 "Step 2: The candidate should fill the application form including full name, permanent address, Date of Birth, citizenship, permanent address, phone number.",
@@ -589,12 +597,12 @@ export const danylohalytskylvivstatemedicaluniversity = {
                 "Step 4: The candidate must carry the original copy of documents that should be translated into Ukrainian language and legalized by Notary public and by the Ukrainian Embassy in your country.",
                 "Step 5: Candidate has to deposit admission fees at the time of the admission process."
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> All the certificates should be translated into the Ukrainian language attested by the Ukrainian Embassy of the respective country.</p>'
+            heading: '<p><b><u>Note:</u></b> All the certificates should be translated into the Ukrainian language attested by the Ukrainian Embassy of the respective country.</p>'
         },
         {
             "type": "list-bollet",
             "title": "Required Documents: For MBBS Admission Process",
-            "info": "<b>Students should make sure to have the following documents to take admission for MBBS at Danylo Halytsky Lviv National Medical University: </b>",
+            "info": "Students should make sure to have the following documents to take admission for MBBS at Danylo Halytsky Lviv National Medical University:",
             "data": [
                 "Invitation letter carried out by the Ministry of Education and Science of Ukraine",
                 "Original certificate (Completing language course)",
@@ -605,7 +613,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Other Obligatory Documents are: </b>",
+            "info": "Other Obligatory Documents are:",
             "data": [
                 "Application to the name of the rector of the Danylo Halytsky Lviv National Medical University.",
                 "School Leaving Certificate",
@@ -622,7 +630,7 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Lviv National Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Danylo Halytsky Lviv National Medical University: </b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Danylo Halytsky Lviv National Medical University: ",
             "col": [
                 "Events",
                 "Dates"
@@ -666,6 +674,10 @@ export const danylohalytskylvivstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Lviv National Medical University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lviv National Medical University - Reviews" },
@@ -684,6 +696,10 @@ export const danylohalytskylvivstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Lviv National Medical University - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -704,6 +720,10 @@ export const danylohalytskylvivstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Lviv National Medical University - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lviv National Medical University - Gallery" },
@@ -722,6 +742,10 @@ export const danylohalytskylvivstatemedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Lviv National Medical University - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -742,6 +766,10 @@ export const danylohalytskylvivstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Lviv National Medical University - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lviv National Medical University - Faculty" },
@@ -760,6 +788,10 @@ export const danylohalytskylvivstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Lviv National Medical University - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -780,9 +812,13 @@ export const danylohalytskylvivstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Lviv National Medical University - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel Facilities",
-            "info": "<b>Danylo Halytsky Lviv National Medical University offers convenient hostel rooms for worldwide students coming to study medicine: </b>",
+            "info": "Danylo Halytsky Lviv National Medical University offers convenient hostel rooms for worldwide students coming to study medicine: ",
             "data": [
                 "Danylo Halytsky Lviv National Medical University provides hygienic hostel facilities to the students.",
                 "The students can stay on the basis of twin sharing, which means 2-3 students in 1 room.",
@@ -793,16 +829,16 @@ export const danylohalytskylvivstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Danylo Halytsky Lviv National Medical University offers convenient hostel rooms for worldwide students coming to study medicine: </b>",
+            "info": "Danylo Halytsky Lviv National Medical University offers convenient hostel rooms for worldwide students coming to study medicine: ",
             "data": [
-               "Bedsheet",
-               "pillow",
-               "Bed",
-               "Blanket",
-               "Table",
-               "Cupboard",
-               "Fan",
-               "Study Lamp"
+                "Bedsheet",
+                "pillow",
+                "Bed",
+                "Blanket",
+                "Table",
+                "Cupboard",
+                "Fan",
+                "Study Lamp"
             ]
         },
         {
@@ -813,18 +849,18 @@ export const danylohalytskylvivstatemedicaluniversity = {
                 "The institute provides free internet connection for study and fun purpose.",
                 "The hostel provides a mess facility offering 3 times fresh and nutritious multiple cuisines.",
                 "A common kitchen is provided to the students to cook their own food of choice anytime.",
-                "Gymnasium and reading room is available in hostel premises."                
+                "Gymnasium and reading room is available in hostel premises."
             ]
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Every common usable thing are available at the hostel - </b>",
+            "info": "Every common usable thing are available at the hostel - ",
             "data": [
-               "AC",
-               "TV",
-               "Fridge",
-               "Wifi"
+                "AC",
+                "TV",
+                "Fridge",
+                "Wifi"
             ]
         },
         {
@@ -846,10 +882,15 @@ export const danylohalytskylvivstatemedicaluniversity = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: "Lviv National Medical University - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Lviv National Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the total cost of study at Lviv Medical University?",

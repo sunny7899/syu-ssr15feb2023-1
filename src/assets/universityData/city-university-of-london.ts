@@ -19,7 +19,7 @@ export const cityuniversityoflondon = {
         {
             "type": "table-title",
             "title": "Quick Highlights of City University London",
-            "info": "<b>The table mentioned below brings together the essential information about City University of London: </b>",
+            "info": "The table mentioned below brings together the essential information about City University of London: ",
             "col": [],
             "row": [
                 ["<b>Year of Established</b>", "1894"],
@@ -36,7 +36,7 @@ export const cityuniversityoflondon = {
         {
             "type": "list-bollet",
             "title": "Why Choose City University of London?",
-            "info": "<b>Candidates must take a look at beneficial reasons to earn higher education at City University of London: </b>",
+            "info": "Candidates must take a look at beneficial reasons to earn higher education at City University of London: ",
             "data": [
                 "The enrolled students will enjoy the vibrant experience, calm environment and volunteering activities on the campus.",
                 "The university has strong links with the top-most industries for the career development of students.",
@@ -65,7 +65,7 @@ export const cityuniversityoflondon = {
         {
             "type": "table",
             "title": "City University of London - Ranking 2022",
-            "info": "<b>Go through the satisfactory world and country ranking information of the City University of London: </b>",
+            "info": "Go through the satisfactory world and country ranking information of the City University of London: ",
             "col": [
                 "Country",
                 "World"
@@ -80,7 +80,7 @@ export const cityuniversityoflondon = {
         {
             "type": "list-bollet",
             "title": "Affiliations",
-            "info": "<b>Check out the affiliation list mentioned below that shows the City University of London has official recognition: </b>",
+            "info": "Check out the affiliation list mentioned below that shows the City University of London has official recognition: ",
             "data": [
                 "University of London",
                 "Association of MBAs",
@@ -91,7 +91,7 @@ export const cityuniversityoflondon = {
         {
             "type": "list-bollet",
             "title": "Facilities",
-            "info": "<b>With a range of facilities across both the campuses, the institute is dedicated to providing an enjoyable and enriching student experience: </b>",
+            "info": "With a range of facilities across both the campuses, the institute is dedicated to providing an enjoyable and enriching student experience: ",
             "data": [
                 "Sports",
                 "Library",
@@ -101,7 +101,7 @@ export const cityuniversityoflondon = {
         {
             "type": "list-bollet",
             "title": "Faculty <br> Schools and Departments",
-            "info": "<b>City University of London provides five specialist schools comprising of various departments, faculties, divisions and research centers: </b>",
+            "info": "City University of London provides five specialist schools comprising of various departments, faculties, divisions and research centers: ",
             "data": [
                 "City Law School",
                 "Bayes Business School",
@@ -114,7 +114,7 @@ export const cityuniversityoflondon = {
         {
             "type": "table",
             "title": "Living Cost in London, England",
-            "info": "<b>Find out monthly based expenses of London city, if you are willing to study in UK at City University of London: </b>",
+            "info": "Find out monthly based expenses of London city, if you are willing to study in UK at City University of London: ",
             "col": [
                 "Particulars",
                 "Monthly Amount in USD",
@@ -173,6 +173,10 @@ export const cityuniversityoflondon = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "City University of London, UK - courses & Fees"
+        },
         {
             "type": "text",
             "title": "The City University of London - Program & Course Duration",
@@ -741,9 +745,13 @@ export const cityuniversityoflondon = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "City University of London, UK - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Willing to study at City University of London? Find out the admission criteria of undergraduate and postgraduate courses:</b> <br> Undergraduate",
+            "info": "Willing to study at City University of London? Find out the admission criteria of undergraduate and postgraduate courses:</b> <br> Undergrad",
             "data": [
                 "The students must be passing in 2 subjects at GCE A-level or equivalent, the college accepts many equivalent qualifications to A-levels.",
                 "Candidates should also meet the specific requirements of the course which may be higher than City University of London's minimum requirements.",
@@ -753,7 +761,7 @@ export const cityuniversityoflondon = {
         {
             type: 'step-list',
             title: 'How to Apply at City University of London?',
-            info: '<b>Postgraduate </b>',
+            info: 'Postgraduate ',
             data: [
                 "Step 1: International students must apply through the Universities and Colleges Admissions Service (UCAS).",
                 "Step 2: Check out all entry requirements for the chosen undergraduate course can be found on the individual course pages.",
@@ -777,7 +785,7 @@ export const cityuniversityoflondon = {
         {
             "type": "list-bollet",
             "title": "Documents Required ",
-            "info": "<b>It is Mandatory to submit the mentioned below important documents to study various programs: </b>",
+            "info": "It is Mandatory to submit the mentioned below important documents to study various programs: ",
             "data": [
                 "Application form",
                 "Higher secondary education certificates",
@@ -810,6 +818,10 @@ export const cityuniversityoflondon = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "City University of London, UK - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "City University of London, UK - Reviews" },
@@ -828,6 +840,10 @@ export const cityuniversityoflondon = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "City University of London, UK - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -848,6 +864,10 @@ export const cityuniversityoflondon = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "City University of London, UK - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "City University of London, UK - Gallery" },
@@ -867,9 +887,13 @@ export const cityuniversityoflondon = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "City University of London, UK - Scholarship"
+        },
+        {
             "type": "table",
             "title": "Scholarships",
-            "info": "<b>Financial help is provided annually to all international students studying at the City University of London: </b>",
+            "info": "Financial help is provided annually to all international students studying at the City University of London: ",
             "col": [
                 "Scholarships",
                 "Course",
@@ -953,6 +977,10 @@ export const cityuniversityoflondon = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "City University of London, UK - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "City University of London, UK - Faculty" },
@@ -971,6 +999,10 @@ export const cityuniversityoflondon = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "City University of London, UK - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -991,9 +1023,13 @@ export const cityuniversityoflondon = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "City University of London, UK - Hostel"
+        },
+        {
             "type": "table-title",
             "title": "Halls of Residence",
-            "info": "<b>The institute ensures to offer spacious and safe accommodation options on campus: </b>",
+            "info": "The institute ensures to offer spacious and safe accommodation options on campus: ",
             "row": [
                 ["Arbor House", "Cross Court House"],
                 ["Romano Court", "Alliance House"],
@@ -1003,7 +1039,7 @@ export const cityuniversityoflondon = {
         {
             "type": "list-bollet",
             "title": "Hostels & Accommodations at City University of London",
-            "info": "<b>The following provides information and details about the hostel services offered by City University of London: </b>",
+            "info": "The following provides information and details about the hostel services offered by City University of London: ",
             "data": [
                 "Alliance House",
                 "Arbour House",
@@ -1032,9 +1068,13 @@ export const cityuniversityoflondon = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "City University of London, UK - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "City University of London - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Which exams are necessary to take admission in postgraduate courses at the City University of London?",

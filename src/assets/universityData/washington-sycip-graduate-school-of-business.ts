@@ -20,7 +20,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "table-title",
             "title": "Washington SyCip Graduate School of Business - Quick Overview",
-            "info": "<b>To get admission to this institute, go through the highlights table below and learn more:</b>",
+            "info": "To get admission to this institute, go through the highlights table below and learn more:",
             "col": [],
             "row": [
                 ["<b>Admission Intake	</b>", "June"],
@@ -36,7 +36,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "list-bollet",
             "title": "Why Choose Washington SyCip Graduate School of Business?",
-            "info": "<b>Transform and transcend to new heights by pursuing an extraordinarily designed MBA degree by this institute. Read below to know the advantages:</b>",
+            "info": "Transform and transcend to new heights by pursuing an extraordinarily designed MBA degree by this institute. Read below to know the advantages:",
             "data": [
                 "This institute is a part of AIM and leads especially in the field of finance and marketing.",
                 "The institute has a board of eminent business leaders to ensure the progress and development of the enrolled students. Further, they also commit to developing Asia and its people.",
@@ -52,7 +52,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "list-bollet",
             "title": "Medium of Instruction",
-            "info": "<b>The institute adopts a mode of instruction that is easy to understand by all:</b>",
+            "info": "The institute adopts a mode of instruction that is easy to understand by all:",
             "data": [
                 "The institute has adopted English as a language of instruction. It helps in accessing the English materials and curriculum efficiently.",
                 "Understanding academics in the English language helps the students to progress which will give them a better job and career development opportunities."
@@ -61,7 +61,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "table",
             "title": "Washington SyCip Graduate School of Business - Ranking 2022",
-            "info": "<b>Updated according to the Unirank, the below table gives a glimpse of the current ranking of this institute: </b>",
+            "info": "Updated according to the Unirank, the below table gives a glimpse of the current ranking of this institute: ",
             "col": [
                 "Country",
                 "world",
@@ -76,7 +76,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "list-bollet",
             "title": "Facilities",
-            "info": "<b>This institute has made provisions to improve the overall learning process and to ensure a comfortable stay:</b>",
+            "info": "This institute has made provisions to improve the overall learning process and to ensure a comfortable stay:",
             "data": [
                 "Classroom",
                 "Internet",
@@ -89,7 +89,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "list-bollet",
             "title": "Recognition and Accreditations",
-            "info": "<b>The institute is recognized worldwide and has received one of the best accreditations:</b>",
+            "info": "The institute is recognized worldwide and has received one of the best accreditations:",
             "data": [
                 "This institute is accredited by a US-based association; the Association to Advance Collegiate Schools of Business (AACSB)",
                 "AACSB is known to be the toughest accreditation in the world for management."
@@ -98,7 +98,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "table",
             "title": "Living Expenses in Manila, Philippines",
-            "info": "<b>Looking for to getting an admission at the university in Philippines, read the table below to learn about the basic monthly expenditures at Makati:</b>",
+            "info": "Looking for to getting an admission at the university in Philippines, read the table below to learn about the basic monthly expenditures at Makati:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -116,7 +116,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
                     "Approx Range in Rs": "Rs. 1,120",
                 },
             ],
-            heading: '<p><b>Note:1</b> USD = 70 Rs (Approx.)</p>'
+            "heading": '<p><b>Note:1</b> USD = 70 Rs (Approx.)</p>'
         },
         {
             type: "meta",
@@ -138,9 +138,13 @@ export const washingtonsycipgraduateschoolofbusiness = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Washington SyCip Graduate School of Business - Fee Structure 2022",
-            "info": "<b>A quick look at the table below will update you with the 2022- fee structure of this university:</b>",
+            "info": "A quick look at the table below will update you with the 2022- fee structure of this university:",
             "col": [
                 "Course",
                 "Total Amount (Including Reservation fee)"
@@ -155,7 +159,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "list-bollet",
             "title": "Washington SyCip Graduate School of Business - Course Duration",
-            "info": "<b>This institute has set a course duration to finish off the MBA program:</b>",
+            "info": "This institute has set a course duration to finish off the MBA program:",
             "data": [
                 "The institute with the help of other board leaders has established a full-time MBA program for 12 months.",
                 "During these 12 months, the professors appointed by this institute to impart MBA education will help you throughout. "
@@ -164,7 +168,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "list-bollet",
             "title": "Programs Offered",
-            "info": "<b>Given below are the two MBA programs offered by this institute:</b>",
+            "info": "Given below are the two MBA programs offered by this institute:",
             "data": [
                 "Masters in Business Administration",
                 "Executive Masters in Business Administration"
@@ -190,9 +194,13 @@ export const washingtonsycipgraduateschoolofbusiness = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - Admission 2023 '
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Want to enroll in the MBA program at this university? Check the pointers below to know the basic criteria:</b>",
+            "info": "Want to enroll in the MBA program at this university? Check the pointers below to know the basic criteria:",
             "data": [
                 "Must have a bachelor’s degree or an equivalent qualification.",
                 "Should hold an acceptable past Academic performance.",
@@ -206,7 +214,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Looking forward to admitting yourself to this university, read below to know the admission process:</b>',
+            info: 'Looking forward to admitting yourself to this university, read below to know the admission process:',
             data: [
                 "Step 1: First, check if you pass the basic requirements, i.e having a bachelor's degree, at least 2 years of relevant work experience, and having proficiency in oral and written English.",
                 "Step 2: Kindly connect with the university’s recruitment coordinators. They will assist you by evaluating your basic criteria, thereby assisting you with further processes and queries.",
@@ -237,7 +245,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>To enroll yourself in the MBA program offered by this institute, it is mandatory to have the documents listed below:</b>",
+            "info": "To enroll yourself in the MBA program offered by this institute, it is mandatory to have the documents listed below:",
             "data": [
                 "SSC marksheet",
                 "HSC marksheet",
@@ -258,7 +266,7 @@ export const washingtonsycipgraduateschoolofbusiness = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Below table will give you an overview of the key dates for the admission process:</b>",
+            "info": "Below table will give you an overview of the key dates for the admission process:",
             "col": [
                 "Events",
                 "Dates"
@@ -302,6 +310,10 @@ export const washingtonsycipgraduateschoolofbusiness = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Washington SyCip Graduate School of Business - Reviews" },
@@ -320,6 +332,10 @@ export const washingtonsycipgraduateschoolofbusiness = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -349,6 +365,10 @@ export const washingtonsycipgraduateschoolofbusiness = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Washington SyCip Graduate School of Business - Gallery" },
@@ -367,6 +387,10 @@ export const washingtonsycipgraduateschoolofbusiness = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -387,6 +411,10 @@ export const washingtonsycipgraduateschoolofbusiness = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Washington SyCip Graduate School of Business - Faculty" },
@@ -405,6 +433,10 @@ export const washingtonsycipgraduateschoolofbusiness = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -425,9 +457,13 @@ export const washingtonsycipgraduateschoolofbusiness = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accomodation",
-            "info": "<b>The University has stay arrangements for the students and staff members:</b>",
+            "info": "The University has stay arrangements for the students and staff members:",
             "data": [
                 "The institute has a campus that consists of air-conditioned residential buildings and dormitory facilities.",
                 "Students can accommodate in these buildings or opt for dormitory facilities; one that suits their needs.",
@@ -457,55 +493,58 @@ export const washingtonsycipgraduateschoolofbusiness = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Washington SyCip Graduate School of Business - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. Does the institute conduct AIMAT tests for those who don't have any admission test results?",
-                        "ans": "Yes, the institute shall conduct the AIMAT test if you don’t have any admission test results."
-                    },
-                    {
-                        "ques": "Q. Is this institute an ideal place to pursue an MBA degree?",
-                        "ans": "Yes, this institute is among the prominent institutes in the Asia- Pacific region and must be considered if you are willing to pursue an MBA degree."
-                    },
-                    {
-                        "ques": "Q. Does this institute have an online facility to process the application procedures?",
-                        "ans": "Yes, the institute has made available the online facility to carry out the application procedures."
-                    },
-                    {
-                        "ques": "Q. What is the medium of instruction for an MBA program?",
-                        "ans": "The complete MBA program is instructed in the English language to avoid language barrier issues."
-                    },
-                    {
-                        "ques": "Q. Does the institute have an accommodation facility on the campus?",
-                        "ans": "Yes, the institute has air-conditioned buildings and dormitory facilities available on the campus for students and staff members."
-                    },
-                    {
-                        "ques": "Q. For the shortlisted candidates, will the interview be conducted on campus or online?",
-                        "ans": "The interviews will be conducted online and no campus walk-ins are conducted at the moment."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Washington SyCip Graduate School of Business - FAQ" },
-                    { name: "description", content: "Washington SyCip Graduate School of Business is a business school of Asian Institute Management. click here for more faq" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Washington SyCip Graduate School of Business - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/washington-sycip-graduate-school-of-business/faq" }
-                ]
-            }
-        ]
+    "faq": [
+        {
+            type: 'title',
+            title: 'Washington SyCip Graduate School of Business - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Washington SyCip Graduate School of Business - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. Does the institute conduct AIMAT tests for those who don't have any admission test results?",
+                    "ans": "Yes, the institute shall conduct the AIMAT test if you don’t have any admission test results."
+                },
+                {
+                    "ques": "Q. Is this institute an ideal place to pursue an MBA degree?",
+                    "ans": "Yes, this institute is among the prominent institutes in the Asia- Pacific region and must be considered if you are willing to pursue an MBA degree."
+                },
+                {
+                    "ques": "Q. Does this institute have an online facility to process the application procedures?",
+                    "ans": "Yes, the institute has made available the online facility to carry out the application procedures."
+                },
+                {
+                    "ques": "Q. What is the medium of instruction for an MBA program?",
+                    "ans": "The complete MBA program is instructed in the English language to avoid language barrier issues."
+                },
+                {
+                    "ques": "Q. Does the institute have an accommodation facility on the campus?",
+                    "ans": "Yes, the institute has air-conditioned buildings and dormitory facilities available on the campus for students and staff members."
+                },
+                {
+                    "ques": "Q. For the shortlisted candidates, will the interview be conducted on campus or online?",
+                    "ans": "The interviews will be conducted online and no campus walk-ins are conducted at the moment."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Washington SyCip Graduate School of Business - FAQ" },
+                { name: "description", content: "Washington SyCip Graduate School of Business is a business school of Asian Institute Management. click here for more faq" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Washington SyCip Graduate School of Business - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/washington-sycip-graduate-school-of-business/faq" }
+            ]
+        }
+    ]
 }

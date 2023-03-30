@@ -19,7 +19,7 @@ export const symbiosisinternationaluniversitysiupune = {
     {
       "type": "table-title",
       "title": "Symbiosis International University - Quick Highlights",
-      "info": "<b>The applicants should go through the important points to study at the Vilniaus Kolegija University of Applied Sciences:</b>",
+      "info": "The applicants should go through the important points to study at the Vilniaus Kolegija University of Applied Sciences:",
       "col": [],
       "row": [
         ["<b>Establishment Year</b>", "2002"],
@@ -122,6 +122,10 @@ export const symbiosisinternationaluniversitysiupune = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'Symbiosis International University - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "Symbiosis International University - Fee Structure 2022",
       "info": "",
@@ -182,9 +186,13 @@ export const symbiosisinternationaluniversitysiupune = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'Symbiosis International University - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>To be eligible for admission to BBA courses at Symbiosis International University:</b>",
+      "info": "To be eligible for admission to BBA courses at Symbiosis International University:",
       "data": [
         "A candidate must have passed <b>Higher Secondary School (10+2)</b> or an equivalent examination from any recognized Board / Council / University with minimum 50% marks for general (open) category.",
         "He/she must have appeared for Symbiosis Entrance Test (SET) conducted by the college.",
@@ -278,6 +286,10 @@ export const symbiosisinternationaluniversitysiupune = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'Symbiosis International University - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Symbiosis International University - Reviews" },
@@ -296,6 +308,10 @@ export const symbiosisinternationaluniversitysiupune = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'Symbiosis International University - Placement'
+    },
     {
       "type": "list-bollet",
       "title": "SIU Placements for BBA Students",
@@ -343,6 +359,10 @@ export const symbiosisinternationaluniversitysiupune = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'Symbiosis International University - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Symbiosis International University - Gallery" },
@@ -362,9 +382,13 @@ export const symbiosisinternationaluniversitysiupune = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'Symbiosis International University - Scholarship'
+    },
+    {
       "type": "list-bollet",
       "title": "Scholarships",
-      "info": "<b>Following are the scholarships offered by the Symbiosis International University -</b>",
+      "info": "Following are the scholarships offered by the Symbiosis International University -",
       "data": [
         "1 Partial (50%) Academic Scholarship for a Post Graduate Program at any Institute of SIU",
         "1 Full (100%) Academic Scholarship for an Undergraduate Program at any Institute of SIU",
@@ -392,6 +416,10 @@ export const symbiosisinternationaluniversitysiupune = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: 'Symbiosis International University - Faculty'
+    },
     {
       "type": "table",
       "title": "faculty",
@@ -439,6 +467,10 @@ export const symbiosisinternationaluniversitysiupune = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'Symbiosis International University - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Symbiosis International University - News & Articles" },
@@ -458,6 +490,10 @@ export const symbiosisinternationaluniversitysiupune = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'Symbiosis International University - Hostel'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Symbiosis International University - Hostel" },
@@ -476,6 +512,10 @@ export const symbiosisinternationaluniversitysiupune = {
     }
   ],
   "faq": [
+    {
+      type: 'title',
+      title: 'Symbiosis International University - FAQ'
+    },
     {
       "type": "question-list",
       "title": "FAQs",

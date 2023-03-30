@@ -18,7 +18,7 @@ export const angelesuniversityfoundation = {
         },
         {
             "type": "table-title",
-            "title": "Angeles University Foundation: Quick Highlights 2023",
+            "title": "Angeles University Foundation: Quick Highlights 2022",
             "info": "If you are looking to study MBBS in Philippines, then have a quick overview on some important points of AMA School of Medicine:",
             "col": [
             ],
@@ -58,7 +58,7 @@ export const angelesuniversityfoundation = {
         },
         {
             "type": "table",
-            "title": "Angeles University Foundation (AUF) - Ranking 2023",
+            "title": "Angeles University Foundation (AUF) - Ranking 2022",
             "info": "According to 4icu.org, following is the country and world ranking for Angeles University Foundation:",
             "col": [
                 "Country",
@@ -74,7 +74,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "table",
             "title": "Cost of Living in Angeles",
-            "info": "Following are the living cost of the Philippines.<p>The table below shows the average and approx cost of living in the Philippines for a month but it may vary according to Individual’s living</p>",
+            "info": "Following are the living cost of the Philippines.</b><p>The table below shows the average and approx cost of living in the Philippines for a month but it may vary according to Individual’s living",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -135,8 +135,12 @@ export const angelesuniversityfoundation = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Angeles University Foundation, Philippines - Fees, Duration, courses"
+        },
+        {
             "type": "table",
-            "title": "Angeles University Foundation - MBBS Fee Structure 2023",
+            "title": "Angeles University Foundation - MBBS Fee Structure 2022",
             "info": "Angeles University Foundation fee structure is much affordable to all students coming from across the world:",
             "col": [
                 "Particular",
@@ -165,8 +169,7 @@ export const angelesuniversityfoundation = {
         {
             "type": "text",
             "title": "Angeles University Foundation - MBBS Duration",
-            "info":"MBBS course duration is of 6 years:",
-            "data": "<p>Angeles University Foundation is providing all International and local students of the Philippines with 6 years. The duration of a Medical degree in the Philippines is 6 years which includes 5 years of MBBS course and 1 year of internship.</p>",
+            "data": "<b>MBBS course duration is of 6 years:</b><p>Angeles University Foundation is providing all International and local students of the Philippines with 6 years. The duration of a Medical degree in the Philippines is 6 years which includes 5 years of MBBS course and 1 year of internship.</p>",
         },
 
         {
@@ -337,6 +340,10 @@ export const angelesuniversityfoundation = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Angeles University Foundation, Philippines - Admission, Eligibility Criteria"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "Students have to set in the following eligibility criteria to get admission to the Philippines for MBBS:",
@@ -377,7 +384,7 @@ export const angelesuniversityfoundation = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2023",
+            "title": "Important Dates - Intake 2022",
             "info": "Students should consider the following important dates to follow the timetable of admission dates:",
             "col": [
                 "Events",
@@ -418,6 +425,10 @@ export const angelesuniversityfoundation = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Angeles University Foundation, Philippines - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Angeles University Foundation, Philippines - Reviews" },
@@ -436,6 +447,10 @@ export const angelesuniversityfoundation = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Angeles University Foundation, Philippines - Placements"
+        },
         {
             type: "meta",
             meta: [
@@ -456,6 +471,10 @@ export const angelesuniversityfoundation = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Angeles University Foundation, Philippines - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Angeles University Foundation, Philippines - Gallery" },
@@ -474,19 +493,9 @@ export const angelesuniversityfoundation = {
         }
     ],
     "scholarship": [
-
-
         {
-            "type": "list-bollet",
-            "title": "Scholarship",
-            "info": "",
-            "data": [
-                "Education Future International Scholarship - USA & Non - USA 2022",
-                "HEST 2023 - Higher Education Scholarship Test For Indian Students",
-                "Race To Zero Youth Fellowship",
-                "British Council Scholarships For Women In STEM, 2022",
-                "ADB-Japan Scholarship Program For Developing Countries In Asia And Pacific 2022"
-            ]
+            type: 'title',
+            title: "Angeles University Foundation, Philippines - Scholarships"
         },
         {
             type: "meta",
@@ -508,6 +517,10 @@ export const angelesuniversityfoundation = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Angeles University Foundation, Philippines - Faculties"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Angeles University Foundation, Philippines - Faculties" },
@@ -527,6 +540,10 @@ export const angelesuniversityfoundation = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Angeles University Foundation - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Angeles University Foundation - News & Articles" },
@@ -545,6 +562,10 @@ export const angelesuniversityfoundation = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Angeles University Foundation - Hostel & Accommodation"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel & Food",
@@ -601,6 +622,10 @@ export const angelesuniversityfoundation = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Angeles University Foundation, Philippines - FAQs"
+        },
         {
             "type": "question-list",
             "title": "Angeles University Foundation - Important FAQs",

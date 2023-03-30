@@ -19,7 +19,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "table-title",
             "title": "B.P. Koirala Institute of Health Sciences - Quick Overview",
-            "info": "<b>Given below is the table for quick highlights about B.P. Koirala Institute of Health Sciences, Dharan have a look at the details carefully and know more about the university:</b>",
+            "info": "Given below is the table for quick highlights about B.P. Koirala Institute of Health Sciences, Dharan have a look at the details carefully and know more about the university:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -41,7 +41,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at B.P. Koirala Institute of Health Sciences?",
-            "info": "<b>The advantages to study at B. P. Koirala Institute of Health Sciences give you some decent reasons to choose your MBBS degree from this institute in Nepal:</b>",
+            "info": "The advantages to study at B. P. Koirala Institute of Health Sciences give you some decent reasons to choose your MBBS degree from this institute in Nepal:",
             "data": [
                 "B.P.Koirala Institute of Health Sciences is approved by the WHO and it is one of the listed colleges in the “World Directory of Medical School”.",
                 "In Nepal-India cooperation, BPKIHS is one of the best colleges.",
@@ -56,7 +56,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Affiliated Hospitals",
-            "info": "<b>The university have 700+ bed hospitals which are used to treat give students and practical knowledge as well as treat patients well have look at their affiliation:</b>",
+            "info": "The university have 700+ bed hospitals which are used to treat give students and practical knowledge as well as treat patients well have look at their affiliation:",
             "data": [
                 "B.P. Koirala Institute of Health Sciences is merged with the B.P. Koirala central teaching hospital and it’s district hospitals and additionally the BPKIHS hospital is related to 4 colleges they're as Medical, Dental, Nursing, and Public Health.",
                 "The Hospital owns 763 beds with 1000 no.of outpatients for offering the services to the people via the clinical and basic sciences departments."
@@ -81,7 +81,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "table",
             "title": "BPKIHS - Seat Reservation 2022",
-            "info": "<b>Below mentioned are the seat reservations stated by BP Koirala have a look carefully and take advantage of it:</b>",
+            "info": "Below mentioned are the seat reservations stated by BP Koirala have a look carefully and take advantage of it:",
             "col": [
                 "Category",
                 "MBBS",
@@ -252,7 +252,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided by B.P. Koirala Institute of Health Sciences",
-            "info": "<b>B.P. Koirala Institute of Health Sciences, Nepal a wide range of facilities to its students which can help you with studies as well as refreshment :</b>",
+            "info": "B.P. Koirala Institute of Health Sciences, Nepal a wide range of facilities to its students which can help you with studies as well as refreshment :",
             "data": [
                 "Canteen",
                 "hostel",
@@ -276,7 +276,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "table",
             "title": "B.P. Koirala Institute of Health Sciences - Ranking 2022",
-            "info": "<b>According to unipage.net, the country & world ranking of B.P. Koirala Institute of Health Sciences is as follows:</b>",
+            "info": "According to unipage.net, the country & world ranking of B.P. Koirala Institute of Health Sciences is as follows:",
             "col": [
                 "Country",
                 "World"
@@ -291,7 +291,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "table",
             "title": "B.P. Koirala Institute of Health Sciences: FMGE Performance 2021",
-            "info": "<b>By seeing passing percent and appearing students in 2021 for B.P. Koirala Institute of Health Sciences you will get idea about what the universities produce, so here is the table below:</b>",
+            "info": "By seeing passing percent and appearing students in 2021 for B.P. Koirala Institute of Health Sciences you will get idea about what the universities produce, so here is the table below:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -310,7 +310,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>B.P. Koirala Institute of Health Sciences is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "B.P. Koirala Institute of Health Sciences is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "Nepal Nursing Council",
                 "Nepal Health Professional Council",
@@ -322,7 +322,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Student's Life",
-            "info": "<b>This section may give you idea about what it would be living in BP Koirala so here is student’s life:</b>",
+            "info": "This section may give you idea about what it would be living in BP Koirala so here is student’s life:",
             "data": [
                 "Students get, many facilities such as spacious classrooms, hostels, library, laboratories, etc.",
                 "To prepare individuals, to face the outer job world, the college conducts workshops, seminars, and conferences, etc.",
@@ -333,7 +333,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "table",
             "title": "Cost of Living in Dharan",
-            "info": "<b>Knowing your expenses can help you manage your money properly so here is the cost of living in Dharan:</b>",
+            "info": "Knowing your expenses can help you manage your money properly so here is the cost of living in Dharan:",
             "col": [
                 "Activity",
                 "Cost (approx.)"
@@ -366,7 +366,7 @@ export const bpkoiralainstituteofhealthsciences = {
             "type": "list-bollet",
             "title": "About Dharan City",
             "img": "",
-            "info": "<b>Below are some noticeable things about Dharan city:</b>",
+            "info": "Below are some noticeable things about Dharan city:",
             "data": [
                 "Dharan is a major city in the estern Nepal.",
                 "On the foothills of the Mahabharat Range in the north, Dharan city is situated.",
@@ -395,9 +395,13 @@ export const bpkoiralainstituteofhealthsciences = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "B.P. Koirala Institute of Health Sciences, Nepal - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "B.P. Koirala Institute of Health Sciences - MBBS Fee Structure' - MBBS Fee Structure",
-            "info": "<b>BP Koirala offers MBBS course at an affordable price with an average sum per year be Rs 9 lacs and average sum of hostel be Rs 24k for detailed info have a look below:</b>",
+            "info": "BP Koirala offers MBBS course at an affordable price with an average sum per year be Rs 9 lacs and average sum of hostel be Rs 24k for detailed info have a look below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -445,7 +449,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             type: 'list-bollet',
             title: "Courses Offered at B.P. Koirala Institute of Health Sciences",
-            info: "<b>BP Koirala offers some of the main courses which are in demand among the medical aspirants have a look carefully:</b>",
+            info: "BP Koirala offers some of the main courses which are in demand among the medical aspirants have a look carefully:",
             data: [
                 "Dentistry",
                 "Public Health",
@@ -456,7 +460,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             type: 'list-bollet',
             title: "Total MBBS Duration at B. P. Koirala Institute of Health Sciences",
-            info: "<b>Below is the duration of MBBS course offered by BP Koirala have a look carefully</b>",
+            info: "Below is the duration of MBBS course offered by BP Koirala have a look carefully",
             data: [
                 "The duration of the MBBS program in B.P. Koirala Institute of Health Sciences is 4 and a half years and it is followed by a one-year of Compulsory Community Oriented Residential Rotating Internship, which is mandatory to be completed in BPKIHS’s Teaching District Hospitals and BPKIHS Central Teaching Hospital."
             ]
@@ -464,7 +468,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "table",
             "title": "B.P. Koirala Institute of Health Sciences - MBBS Syllabus (Semester wise)",
-            "info": "<b>The complete semester wise syllabus for studying MBBS at B.P. Koirala Institute of Health Sciences, have look carefully and prepare well:</b>",
+            "info": "The complete semester wise syllabus for studying MBBS at B.P. Koirala Institute of Health Sciences, have look carefully and prepare well:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -565,9 +569,14 @@ export const bpkoiralainstituteofhealthsciences = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "B.P. Koirala Institute of Health Sciences, Nepal - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria - for Applying MBBS Course in BPKIHS",
-            "info": "<b>If any student desires to study MBBS in BP Koirala institute of health sciences then they must have to satisfy the following admission requirements:</b>",
+            "info": "If any student desires to study MBBS in BP Koirala institute of health sciences then they must have to satisfy the following admission requirements:",
             "data": [
                 "The candidate must be over 17 on or before the date in which the admission is being taken.",
                 "The candidate should be a high-school graduate or he/she must hold a degree with Physics, Chemistry, Biology, and English as subjects.",
@@ -578,7 +587,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             type: 'step-list',
             title: 'How to take Admission in B.P. Koirala Institute of Health Sciences?',
-            info: '<b>On a round of counseling and academic progress, the Admission process for B.P. Koirala Institute of Health Sciences, Dharan is based. Students are advised to read the below mentioned points to avoid any kind of confusion:</b>',
+            info: 'On a round of counseling and academic progress, the Admission process for B.P. Koirala Institute of Health Sciences, Dharan is based. Students are advised to read the below mentioned points to avoid any kind of confusion:',
             data: [
                 "Step 1: You must fill the Application form of the desired institute with all the right points of interest.",
                 "Step 2: You will get an offer letter which you need to save for future use.",
@@ -592,7 +601,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Documents Required for MBBS Admission in BPKIHS",
-            "info": "<b>Before taking admission to BP Koirala Medical College keep in mind to hold all of the documents with you, all the details are mentioned below:</b>",
+            "info": "Before taking admission to BP Koirala Medical College keep in mind to hold all of the documents with you, all the details are mentioned below:",
             "data": [
                 "Passport (Minimum 18 months validity).",
                 "Class 10th Passing Certificate & Mark sheet.",
@@ -610,7 +619,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "table",
             "title": "BPKIHS UG and PG Entrance Exam 2022",
-            "info": "<b>Have look carefully as you can’t afford to miss any of these important date and time, following is the BPKIHS UG and PG entrance exam details:</b>",
+            "info": "Have look carefully as you can’t afford to miss any of these important date and time, following is the BPKIHS UG and PG entrance exam details:",
             "col": [
                 "Course",
                 "Normal Application Form Date",
@@ -695,7 +704,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             type: 'step-list',
             title: 'How to Apply for BPKIHS UG/PG Entrance Examination?',
-            info: '<b>The college carried out PG and UG courses medical/dental entrance examinations each year. Candidates, who are interested in getting admission in BPKIHS, need to score the eligible marks in entrance examination. following are the steps you can follow while seating for the examination:</b>',
+            info: 'The college carried out PG and UG courses medical/dental entrance examinations each year. Candidates, who are interested in getting admission in BPKIHS, need to score the eligible marks in entrance examination. following are the steps you can follow while seating for the examination:',
             data: [
                 "Step 1: Visit legitimate website",
                 'Step 2: Find and click the "submit online application" button.',
@@ -710,7 +719,7 @@ export const bpkoiralainstituteofhealthsciences = {
         {
             "type": "table",
             "title": "BPKIHS - Important Dates & Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at B.P. Koirala Institute of Health Sciences, Dharan and note it down:</b>",
+            "info": "Check out the Important dates regarding admission at B.P. Koirala Institute of Health Sciences, Dharan and note it down:",
             "col": [
                 "Events",
                 "Dates",
@@ -750,6 +759,11 @@ export const bpkoiralainstituteofhealthsciences = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "B.P. Koirala Institute of Health Sciences, Nepal - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "B.P. Koirala Institute of Health Sciences, Nepal - Reviews" },
@@ -769,8 +783,13 @@ export const bpkoiralainstituteofhealthsciences = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "B.P. Koirala Institute of Health Sciences, Nepal - Placement"
+
+        },
+        {
             "type": "list-bollet",
-            "title": "placement",
+            "title": "Placement",
             "info": "",
             "data": [
                 "The campus recruitment formulated through the medical university offers for brilliant profession possibilities for the budding professionals withinside the field of healthcare and medicine.",
@@ -798,6 +817,11 @@ export const bpkoiralainstituteofhealthsciences = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "B.P. Koirala Institute of Health Sciences, Nepal - Gallery "
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "B.P. Koirala Institute of Health Sciences, Nepal - Gallery" },
@@ -817,9 +841,14 @@ export const bpkoiralainstituteofhealthsciences = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "B.P. Koirala Institute of Health Sciences, Nepal - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>BP Koirala offers numerous scholarships which you can take advantage of so here is the information about scholarships offered:</b>",
+            "info": "BP Koirala offers numerous scholarships which you can take advantage of so here is the information about scholarships offered:",
             "data": [
                 "B.P. Koirala Institute of Health Sciences offers scholarships to deserving candidates.",
                 "To study further in any department of medical science like General Medicine, Ayurvedic, Allopathic, etc. candidates can get financial aid.",
@@ -847,8 +876,13 @@ export const bpkoiralainstituteofhealthsciences = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "B.P. Koirala Institute of Health Sciences, Nepal - Faculty"
+
+        },
+        {
             "type": "table-title",
-            "title": "faculty",
+            "title": "Faculty",
             "colTitle": "",
             "row": [
                 ["Professor & Head", "Dr. Satyendra Narayan Singh"],
@@ -876,6 +910,11 @@ export const bpkoiralainstituteofhealthsciences = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "B.P. Koirala Institute of Health Sciences, Nepal - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "B.P. Koirala Institute of Health Sciences, Nepal - News & Articles" },
@@ -895,9 +934,14 @@ export const bpkoiralainstituteofhealthsciences = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "B.P. Koirala Institute of Health Sciences, Nepal - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>At BPKIHS there luxurious rooms with all the needed amenities so here is all you need to know about hostel and accommodation:</b>",
+            "info": "At BPKIHS there luxurious rooms with all the needed amenities so here is all you need to know about hostel and accommodation:",
             "data": [
                 "The hostel accommodation facilities are provided by B.P. Koirala Institute of Health Sciences for students.",
                 "For all of the BPKIHS students, staying in the hostel is mandatory.",
@@ -936,50 +980,55 @@ export const bpkoiralainstituteofhealthsciences = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "B.P. Koirala Institute of Health Sciences - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. What are the infrastructural facilities provided by BPKIHS?",
-                    "ans": "For students and faculties, this is the best college. The institute provides following facilities:- Library, Classrooms, Workshops, Labs, Hostel, sports club, shops, canteen, ATM within the campus, etc."
-                },
-                {
-                    "ques": "Q. Where is the campus of the university located?",
-                    "ans": "B.P. Koirala institute of Health Sciences is located at buddha road, dharan, which is the city located in sunsari district in Eastern Nepal."
-                },
-                {
-                    "ques": "Q. How many colleges does the B.P. Koirala Institute of Health Sciences have?",
-                    "ans": "B.P. Koirala Institute of Health Sciences has four different colleges in the field of medicine: Medical, Dental, Nursing, School of Public Health and medicine"
-                },
-                {
-                    "ques": "Q. How is the library facility of BPKIHS?",
-                    "ans": "B.P. Koirala Institute of Health Sciences has a library that contains more than 14000 Medical Sciences Books, periodical journals, and reference books. The library holds a separate reading room for the Students and Faculties. For the benefit of college students, the library has computers with internet access, a Digital Library through e-journals."
-                },
-                {
-                    "ques": "Q. Which are the sports options provided to students at BPKIHS?",
-                    "ans": "B.P. Koirala Institute of Health Sciences has various kinds of Sports activities for its students, like football, volleyball, ball badminton, hockey, golf course, basketball, cricket, table tennis, chess, carrom. The campus also has sufficient playgrounds for the outdoor games and gym facilities at both, boys and girls hostel."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "B.P. Koirala Institute of Health Sciences, Nepal - FAQ" },
-                { name: "description", content: "B. P. Koirala Institute of Health Science ranks among the best colleges for medical; it's nepal's most exclusive medical school. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "B.P. Koirala Institute of Health Sciences, Nepal - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/b-p-koirala-institute-of-health-sciences/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "B.P. Koirala Institute of Health Sciences, Nepal - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "B.P. Koirala Institute of Health Sciences - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. What are the infrastructural facilities provided by BPKIHS?",
+                        "ans": "For students and faculties, this is the best college. The institute provides following facilities:- Library, Classrooms, Workshops, Labs, Hostel, sports club, shops, canteen, ATM within the campus, etc."
+                    },
+                    {
+                        "ques": "Q. Where is the campus of the university located?",
+                        "ans": "B.P. Koirala institute of Health Sciences is located at buddha road, dharan, which is the city located in sunsari district in Eastern Nepal."
+                    },
+                    {
+                        "ques": "Q. How many colleges does the B.P. Koirala Institute of Health Sciences have?",
+                        "ans": "B.P. Koirala Institute of Health Sciences has four different colleges in the field of medicine: Medical, Dental, Nursing, School of Public Health and medicine"
+                    },
+                    {
+                        "ques": "Q. How is the library facility of BPKIHS?",
+                        "ans": "B.P. Koirala Institute of Health Sciences has a library that contains more than 14000 Medical Sciences Books, periodical journals, and reference books. The library holds a separate reading room for the Students and Faculties. For the benefit of college students, the library has computers with internet access, a Digital Library through e-journals."
+                    },
+                    {
+                        "ques": "Q. Which are the sports options provided to students at BPKIHS?",
+                        "ans": "B.P. Koirala Institute of Health Sciences has various kinds of Sports activities for its students, like football, volleyball, ball badminton, hockey, golf course, basketball, cricket, table tennis, chess, carrom. The campus also has sufficient playgrounds for the outdoor games and gym facilities at both, boys and girls hostel."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "B.P. Koirala Institute of Health Sciences, Nepal - FAQ" },
+                    { name: "description", content: "B. P. Koirala Institute of Health Science ranks among the best colleges for medical; it's nepal's most exclusive medical school. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "B.P. Koirala Institute of Health Sciences, Nepal - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/b-p-koirala-institute-of-health-sciences/faq" }
+                ]
+            }
+        ]
 }

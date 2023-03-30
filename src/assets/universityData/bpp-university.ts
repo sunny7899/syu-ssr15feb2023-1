@@ -126,7 +126,10 @@ export const bppuniversity = {
         }
     ],
     "coursesandfees": [
-
+        {
+            type: 'title',
+            title: "BPP University, UK - courses & Fees"
+        },
         {
             "type": "table",
             "title": "BPP University - Fee Structure, Program Duration & other information",
@@ -254,6 +257,10 @@ export const bppuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "BPP University, UK - Admission 2023 "
+        },
+        {
             type: 'list-bollet',
             title: 'Entry Requirements',
             info: '<b>Undergraduate</b>',
@@ -344,6 +351,10 @@ export const bppuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "BPP University, UK - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "BPP University, UK - Reviews" },
@@ -362,6 +373,10 @@ export const bppuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "BPP University, UK - Placement"
+        },
         {
             type: 'list-bollet',
             title: 'Placement',
@@ -391,6 +406,10 @@ export const bppuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "BPP University, UK - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "BPP University, UK - Gallery" },
@@ -409,6 +428,10 @@ export const bppuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "BPP University, UK - Scholarship"
+        },
         {
             type: 'list-bollet',
             title: 'Scholarship & Funding',
@@ -516,6 +539,10 @@ export const bppuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "BPP University, UK - Faculty"
+        },
+        {
             "type": "table",
             "title": "faculty",
             "info": "",
@@ -570,6 +597,10 @@ export const bppuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "BPP University, UK - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "BPP University, UK - News & Articles" },
@@ -588,6 +619,10 @@ export const bppuniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "BPP University, UK - Hostel"
+        },
         {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
@@ -622,6 +657,11 @@ export const bppuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "BPP University, UK - FAQ"
+
+        },
         {
             "type": "question-list",
             "title": "BPP University most Important FAQs",

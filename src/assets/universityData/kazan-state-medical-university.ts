@@ -20,7 +20,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Kazan State Medical University - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick facts about Kazan State Medical University:</b>",
+            "info": "Given below is the table for quick facts about Kazan State Medical University:",
             "row": [
                 ["<b>Acronym</b>", "<b>KSMU</b>"],
                 ["<b>Intake for MBBS Course</b>", "<b>September</b>"],
@@ -38,7 +38,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Benefits of Studying MBBS at Kazan State Medical University',
-            "info": '<b>Below are the advantages of studying at Kazan State Medical University:</b>',
+            "info": 'Below are the advantages of studying at Kazan State Medical University:',
             "data": [
                 "After Moscow and St. Petersburg, Kazan State Medical University is the third oldest Medical University in Russia.",
                 "KSMU is recognized by the Ministry of Healthcare & Ministry of Education and Science of the Russian Federation and it is the only such university in Kazan.",
@@ -54,13 +54,13 @@ export const kazanstatemedicaluniversity = {
         {
             "type": 'text',
             "title": 'Medium of Teaching',
-            "info": '<b>Following is the medium of teaching at Kazan State Medical University:</b>',
+            "info": 'Following is the medium of teaching at Kazan State Medical University:',
             "data": "<p>At Kazan State Medical university, the medicine courses are taught in English language</p>"
         },
         {
             "type": "table",
             "title": "Kazan State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Kazan State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Kazan State Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -76,7 +76,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Accreditation and Recognition',
-            "info": '<b>Kazan State Medical University is recognized by many medical organizations across the world. Here is the list:</b>',
+            "info": 'Kazan State Medical University is recognized by many medical organizations across the world. Here is the list:',
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -91,7 +91,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Student Life at Kazan State Medical University',
-            "info": '<b>Below mentioned is how is the student life at Kazan State Medical University:</b>',
+            "info": 'Below mentioned is how is the student life at Kazan State Medical University:',
             "data": [
                 "Athletic programs are conducted by the Kazan State Medical University for students.",
                 "Located on the banks of the Volga river, the students are provided with relaxation in the camp ‘Medic’.",
@@ -125,7 +125,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Kazan",
-            "info": "<b>Following are the living expenses at Kazan city:</b>",
+            "info": "Following are the living expenses at Kazan city:",
             "col": [
                 "Particulars",
                 "In Rupees (approx. range)"
@@ -160,7 +160,7 @@ export const kazanstatemedicaluniversity = {
             type: 'text',
             title: 'About Kazan City',
             img: 'kazan-city.jpg',
-            info: '<b>Below are some noticeable things about Kazan city:</b>',
+            info: 'Below are some noticeable things about Kazan city:',
             data: "<p>Kazan is a city located on the Volga river and about 820 km east of Moscow. The city is the capital of the Tatarstan Republic. The city is one of the most important scientific, economic, and cultural centers of the country.</p><p>The population of the city Kazan is about 1,205,600 according to 2015 census, within the area of 425 sq. km. Kazan is known as the sports capital of Russia and it is also known as a University City.</p><p>The locals of Kazan City are very loving and hospitable. Kazan has gorgeous architecture, breathtaking scenery, magnificent palaces, and towering churches.</p><p>The city of Kazan is well connected by railways, buses, river port and an international airport. The public transport system is extensively developed in Kazan and it consists of trolleybuses, buses, trams and metro (subways). The average annual temperature in Kazan city is 11.0 °C. The rainfall here in the city is around 452 mm. The climate in the Kazan city is mild, warm, and temperate.</p>"
         },
 
@@ -185,9 +185,14 @@ export const kazanstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kazan State Medical University - courses & Fees",
+
+        },
+        {
             "type": "table",
             "title": "Kazan State Medical University - MBBS Fee Structure 2022",
-            "info": "<b>Following is the fees structure of Kazan State Medical University for MBBS course:</b>",
+            "info": "Following is the fees structure of Kazan State Medical University for MBBS course:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -246,7 +251,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at the Kazan State Medical University",
-            "info": "<b>Following are the faculties at Kazan State Medical University, Russia:</b>",
+            "info": "Following are the faculties at Kazan State Medical University, Russia:",
             "data": [
                 "General Medicine",
                 "Pharmacy",
@@ -261,7 +266,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Kazan State Medical University - MBBS Duration',
-            "info": '<b>Following is the duration for MBBS Course at the Kazan State Medical University:</b>',
+            "info": 'Following is the duration for MBBS Course at the Kazan State Medical University:',
             "data": [
                 "The duration of the MBBS course at the Kazan State Medical University is 6 years of which 5 years are allotted for classroom training and 1 year is mandatory for the Internship."
             ]
@@ -269,8 +274,8 @@ export const kazanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Kazan State Medical University - MBBS Syllabus",
-            "info": '<p><b>The complete syllabus for studying MBBS Kazan State Medical University is as follows:</b></p>',
-            "data": "<b>1st Year</b>",
+            "info": 'The complete syllabus for studying MBBS Kazan State Medical University is as follows:',
+            "data": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -286,7 +291,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -325,7 +330,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -349,7 +354,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th - 6th Year</b>",
+            "info": "4th - 6th Year",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["Oncology", "Internal medicine"],
@@ -381,9 +386,14 @@ export const kazanstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kazan State Medical University - Admission 2023"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria for studying MBBS at Kazan State Medical University',
-            "info": '<b>The eligibility criteria to study MBBS at Kazan State Medical University is as follows:</b>',
+            "info": 'The eligibility criteria to study MBBS at Kazan State Medical University is as follows:',
             "data": [
                 "The applicant must have completed his/her 12th Standard from a reputed board or organization and must have at least 50% aggregate marks in Physics, Chemistry, and Biology.",
                 "He/she must have completed 17 years of age on or before the 31st December of the year in which the admission is being taken.",
@@ -395,7 +405,7 @@ export const kazanstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process for MBBS Course',
-            info: '<b>The admission procedure at the Kazan State Medical University is as follows:</b><p>A prospective student can apply online as instructed below:-</p>',
+            info: 'The admission procedure at the Kazan State Medical University is as follows:<p>A prospective student can apply online as instructed below:-</p>',
             data: [
                 "Step 1: Open the application form.</b>",
                 "Step 2:Fill in the application form accurately.</b>",
@@ -409,7 +419,7 @@ export const kazanstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Required Documents at the Time of Admission',
-            info: '<b>Following documents are required for admission to Kazan State Medical University:</b>',
+            info: 'Following documents are required for admission to Kazan State Medical University:',
             data: [
                 "Transfer Certificate",
                 "6 Passport size photographs",
@@ -426,7 +436,7 @@ export const kazanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Kazan State Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Kazan State Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -475,6 +485,11 @@ export const kazanstatemedicaluniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Kazan State Medical University - Placement"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Placement',
             info: '',
@@ -504,6 +519,11 @@ export const kazanstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kazan State Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazan State Medical University - Gallery" },
@@ -523,9 +543,14 @@ export const kazanstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kazan State Medical University - Scholarship"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Scholarships offered at the Kazan State Medical University',
-            info: '<b>Kazan State Medical University offers different scholarships to its students for their benefit, some of them are:</b>',
+            info: 'Kazan State Medical University offers different scholarships to its students for their benefit, some of them are:',
             data: [
                 "Go clean Scholarship",
                 "Hani Zeini Scholarship",
@@ -553,6 +578,11 @@ export const kazanstatemedicaluniversity = {
             ]
         }],
     "faculty": [
+        {
+            type: 'title',
+            title: "Kazan State Medical University - Faculty"
+
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -593,6 +623,11 @@ export const kazanstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Kazan State Medical University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazan State Medical University - News & Articles" },
@@ -611,6 +646,11 @@ export const kazanstatemedicaluniversity = {
         }
     ],
     "review": [
+        {
+            type: 'title',
+            title: "Kazan State Medical University - Reviews"
+
+        },
         {
             type: "meta",
             meta: [
@@ -631,9 +671,14 @@ export const kazanstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kazan State Medical University - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Kazan State Medical University - Accommodation Facilities',
-            info: '<b>Following are the hostel facilities at Kazan State Medical Academy:</b>',
+            info: 'Following are the hostel facilities at Kazan State Medical Academy:',
             data: [
                 "There are 6 hostels at this university for the students. The hostels are very near to the university.",
                 "The hostels are very safe, asPolice protection is provided to these hostels.",
@@ -665,9 +710,14 @@ export const kazanstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kazan State Medical University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kazan State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How many Indian students are studying at Kazan State Medical University?",

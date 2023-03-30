@@ -20,7 +20,7 @@ export const cebuinstituteofmedicine = {
         {
             "type": "table-title",
             "title": "Cebu Institute of Medicine - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick facts about Cebu Institute of Medicine:</b>",
+            "info": "Given below is the table for quick facts about Cebu Institute of Medicine:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "July"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -37,7 +37,7 @@ export const cebuinstituteofmedicine = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Cebu Institute of Medicine?',
-            info: '<b>Below are some of the benefits of studying at Cebu Institute of Medicine:</b>',
+            info: 'Below are some of the benefits of studying at Cebu Institute of Medicine:',
             data: [
                 "Medio-Social Services of Cebu Institute of Medicine provides practical exposure and hands-on medical training to local health workers.",
                 "I.M. Clinical Epidemiology Unit of Cebu Institute of Medicine which is an affiliate of the Southeast Asian Clinical Epidemiology Network, emphasizes on medical practice through research.",
@@ -54,7 +54,7 @@ export const cebuinstituteofmedicine = {
         {
             "type": "table",
             "title": "Cebu Institute of Medicine - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Cebu Institute of Medicine:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Cebu Institute of Medicine:",
             "col": [
                 "Country",
                 "World",
@@ -70,7 +70,7 @@ export const cebuinstituteofmedicine = {
         {
             type: 'list-bollet',
             title: 'At Cebu Institute of Medicine, the medium of teaching is English. For easy understanding by all local as well as international students, all the lectures are delivered in the English language.',
-            info: '<b>Cebu Institute of Medicine is recognized and accredited by many important medical bodies in the field of medical education such as:</b>',
+            info: 'Cebu Institute of Medicine is recognized and accredited by many important medical bodies in the field of medical education such as:',
             data: [
                 "World Health Organization",
                 "National Medical Commission",
@@ -106,7 +106,7 @@ export const cebuinstituteofmedicine = {
         {
             type: 'list-bollet',
             title: 'Life of Students',
-            info: '<b>The life of students studying MBBS at Cebu Institute of Medicine is as follows:</b>',
+            info: 'The life of students studying MBBS at Cebu Institute of Medicine is as follows:',
             data: [
                 "The life of MBBS students at Cebu Institute of Medicine can be described as amazing.",
                 "At Cebu Institute of Medicine, while studying the course, students are not just given theoretical knowledge but are taught to apply their learning practically too.",
@@ -124,7 +124,7 @@ export const cebuinstituteofmedicine = {
         {
             "type": "table",
             "title": "Cost of Living at Cebu City",
-            "info": "<b>The cost of living at Cebu city is as follows:</b>",
+            "info": "The cost of living at Cebu city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -157,7 +157,7 @@ export const cebuinstituteofmedicine = {
             type: 'list-bollet',
             title: 'About Cebu City',
             img: 'cebu-city.jpg',
-            info: '<b>Some of the interesting facts about the Cebu city are as follows:</b>',
+            info: 'Some of the interesting facts about the Cebu city are as follows:',
             data: [
                 "Cebu city is officially known as City of Cebu.",
                 "It is located on Cebu Island’s eastern coast, and it is protected by offshore Mactan Island and by the inland Cordillera Central.",
@@ -189,18 +189,16 @@ export const cebuinstituteofmedicine = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/cebu-institute-of-medicine" }
             ]
         }
-
-
-
-
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Cebu Institute of Medicine - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Cebu Institute of Medicine for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Cebu Institute of Medicine for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -276,8 +274,8 @@ export const cebuinstituteofmedicine = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Cebu Institute of Medicine',
-            info: '<b>The various departments which offer specific specialty faculties at Cebu Institute of Medicine are :</b>',
-            textBelowInfo: "<b>1 Basic Biomedical Science Department</b>",
+            info: 'The various departments which offer specific specialty faculties at Cebu Institute of Medicine are :',
+            textBelowInfo: "1 Basic Biomedical Science Department",
             data: [
                 "Anatomy",
                 "Biochemistry",
@@ -289,7 +287,7 @@ export const cebuinstituteofmedicine = {
             type: 'list-bollet',
             title: '',
             info: '',
-            textBelowInfo: "<b>2 Integrated Clinical Science I Department</b>",
+            textBelowInfo: "2 Integrated Clinical Science I Department",
             data: [
                 "Medicine",
                 "Microbiology",
@@ -301,7 +299,7 @@ export const cebuinstituteofmedicine = {
             type: 'list-bollet',
             title: '',
             info: '',
-            textBelowInfo: "<b>3 Integrated Clinical Science II Department</b>",
+            textBelowInfo: "3 Integrated Clinical Science II Department",
             data: [
                 "Surgery",
                 "Internal Medicine",
@@ -314,7 +312,7 @@ export const cebuinstituteofmedicine = {
         {
             type: 'list-bollet',
             title: 'Cebu Institute of Medicine - MBBS Duration',
-            info: '<b>Mentioned below is the duration of MBBS course:</b>',
+            info: 'Mentioned below is the duration of MBBS course:',
             data: [
                 "The duration of MBBS course at Cebu Institute of Medicine is 6 yearswhich includes 1 year of internship.",
                 "The MBBS course in the Philippines is divided into BS, MD and internship. BS can take 1.5 to 2 years. MD is nothing but MBBS. Students can start with MD which takes 4 years after completing BS.",
@@ -323,7 +321,7 @@ export const cebuinstituteofmedicine = {
         {
             "type": "table",
             "title": "Cebu Institute of Medicine - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at Cebu Institute of Medicine is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Cebu Institute of Medicine is as follows:",
             "colTitle": "Syllabus For Pre-medical",
             "col": [
                 "First Term",
@@ -492,9 +490,13 @@ export const cebuinstituteofmedicine = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - Admission 2023"
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>The eligibility criteria to study MBBS at Cebu Institute of Medicine is as follows:</b>',
+            info: 'The eligibility criteria to study MBBS at Cebu Institute of Medicine is as follows:',
             data: [
                 "An MBBS aspirant (Indian students) must have obtained a minimum aggregate of 85% marks in Physics, Chemistry, and Biology. On an average, all the students who wish to take admission for an MBBS course at Cebu Institute of Medicine must have scored 70% in Physics, Chemistry, and Biology.",
                 "The student must have passed all subjects in his/her 12th standard and English is a compulsory subject.",
@@ -505,7 +507,7 @@ export const cebuinstituteofmedicine = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following is the admission procedure for applying to MBBS course at Cebu Institute of Medicine:</b>',
+            info: 'Following is the admission procedure for applying to MBBS course at Cebu Institute of Medicine:',
             data: [
                 "<b>Step 1:</b> Fill in the application form accurately.",
                 "<b>Step 2:</b><b> Attach the documents given below:</b><br>Scanned copy of marksheet of completion of higher secondary education / tertiary education<br>Results of NEET (Score card)<br>Scanned copy of your Passport",
@@ -518,7 +520,7 @@ export const cebuinstituteofmedicine = {
         {
             type: 'list-bollet',
             title: 'Required Documents',
-            info: '<b>Following documents are required at the time of admission to Cebu Institute of Medicine:</b>',
+            info: 'Following documents are required at the time of admission to Cebu Institute of Medicine:',
             data: [
                 "Passport size Photographs",
                 "10th Mark sheet & Certificate",
@@ -536,7 +538,7 @@ export const cebuinstituteofmedicine = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Cebu Institute of Medicine:</b>",
+            "info": "Check out the Important dates regarding admission at Cebu Institute of Medicine:",
             "col": [
                 "Events",
                 "Dates",
@@ -576,6 +578,10 @@ export const cebuinstituteofmedicine = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cebu Institute of Medicine, Philippines - Reviews" },
@@ -594,6 +600,10 @@ export const cebuinstituteofmedicine = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -614,6 +624,10 @@ export const cebuinstituteofmedicine = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cebu Institute of Medicine, Philippines - Gallery" },
@@ -632,6 +646,10 @@ export const cebuinstituteofmedicine = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - Scholarship"
+        },
         {
             type: 'list-bollet',
             title: 'Scholarships',
@@ -665,6 +683,10 @@ export const cebuinstituteofmedicine = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cebu Institute of Medicine, Philippines - Faculty" },
@@ -684,6 +706,10 @@ export const cebuinstituteofmedicine = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cebu Institute of Medicine, Philippines - News & Articles" },
@@ -702,6 +728,10 @@ export const cebuinstituteofmedicine = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - Hostel"
+        },
         {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
@@ -749,6 +779,10 @@ export const cebuinstituteofmedicine = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Cebu Institute of Medicine, Philippines - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Cebu Institute of Medicine - Important FAQs",

@@ -19,7 +19,7 @@ export const enammedicalcollegeandhospital = {
     {
       "type": "table-title",
       "title": "Enam Medical College and Hospital - Quick Overview",
-      "info": "<b>Get to know the quick highlights to know about studying MBBS in Enam Medical College and Hospital:</b>",
+      "info": "Get to know the quick highlights to know about studying MBBS in Enam Medical College and Hospital:",
       "col": [],
       "row": [
         ["<b>Affiliation</b>", "University of Dhaka"],
@@ -35,7 +35,7 @@ export const enammedicalcollegeandhospital = {
     {
       "type": 'list-bollet',
       "title": 'Why Study MBBS at Enam Medical College and Hospital?',
-      "info": '<b>Checkout the favourable reasons to pick Enam Medical College and Hospital to pursue an MBBS education:</b>',
+      "info": 'Checkout the favourable reasons to pick Enam Medical College and Hospital to pursue an MBBS education:',
       "data": [
         "Enam Medical College and Hospital also organize co-curricular activities apart from medical education for students.",
         "The university has the official recognition of BMDC, NMC and WHO etc.",
@@ -50,7 +50,7 @@ export const enammedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "Free Studentship",
-      "info": "<b>Enam Medical College and Hospital offers free studentship, get the details below:</b>",
+      "info": "Enam Medical College and Hospital offers free studentship, get the details below:",
       "data": [
         "The college offers free studentship for some meritorious and financially insolvent students.",
         "The candidates must send separate applications for this category.",
@@ -61,13 +61,13 @@ export const enammedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "Language of Instruction",
-      "info": "<b>The medium of teaching at the Enam Medical College and Hospital is the English language:</b>",
+      "info": "The medium of teaching at the Enam Medical College and Hospital is the English language:",
       "data": "<p>The entire MBBS course is taught in English medium at Enam Medical College and Hospital.</p>"
     },
     {
       "type": "list-bollet",
       "title": "Facilities Offered at Enam Medical College and Hospital",
-      "info": "<b>Enam Medical College and Hospital campus have modern facilities for the convenience of the students:</b>",
+      "info": "Enam Medical College and Hospital campus have modern facilities for the convenience of the students:",
       "data": [
         "Library",
         "hostel",
@@ -81,7 +81,7 @@ export const enammedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "Accreditation, Affiliation and Recognition",
-      "info": "<b>Enam Medical College Hospital has a significant amount of official recognition of many organizations over the past:</b>",
+      "info": "Enam Medical College Hospital has a significant amount of official recognition of many organizations over the past:",
       "data": [
         "National Medical Commission (NMC)",
         "BMDC",
@@ -94,7 +94,7 @@ export const enammedicalcollegeandhospital = {
     {
       "type": "table",
       "title": "Enam Medical College and Hospital - FMGE Performance 2021",
-      "info": "<b>The details about FMGE performance for Enam Medical College and Hospital of year 2021 with passing percent is as follows:</b>",
+      "info": "The details about FMGE performance for Enam Medical College and Hospital of year 2021 with passing percent is as follows:",
       "col": [
         "Name of University",
         "Appeared ",
@@ -131,9 +131,13 @@ export const enammedicalcollegeandhospital = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Enam Medical College & Hospital, Bangladesh - courses & Fees"
+    },
+    {
       "type": "table",
       "title": "Enam Medical College & Hospital - MBBS Fee Structure 2022",
-      "info": "<b>Enam Medical College and Hospital provides a reasonable fee to all students who seek MBBS admission:</b>",
+      "info": "Enam Medical College and Hospital provides a reasonable fee to all students who seek MBBS admission:",
       "col": [
         "Particular",
         "Amount in USD	",
@@ -166,7 +170,7 @@ export const enammedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "Courses offered at Enam Medical College and Hospital",
-      "info": "<b>Enam Medical College and Hospital has a wide range of departments in the MBBS course:</b>",
+      "info": "Enam Medical College and Hospital has a wide range of departments in the MBBS course:",
       "data": [
         "Anatomy",
         "Biochemistry",
@@ -181,7 +185,7 @@ export const enammedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "Enam Medical College and Hospital - MBBS Duration",
-      "info": "<b>MBBS course duration at Enam Medical College and Hospital is 5 years:</b>",
+      "info": "MBBS course duration at Enam Medical College and Hospital is 5 years:",
       "data": [
         "Enam Medical College and Hospital provides 5 years plus 1 year of rotating internship.",
         "The students will gain theoretical and practical aspects of knowledge in the English language.",
@@ -191,7 +195,7 @@ export const enammedicalcollegeandhospital = {
     {
       "type": "table",
       "title": "Enam Medical College and Hospital - MBBS Syllabus",
-      "info": "<b>Refer to the precise medical syllabus of Enam Medical College and Hospital mentioned below:</b>",
+      "info": "Refer to the precise medical syllabus of Enam Medical College and Hospital mentioned below:",
       "col": [
         "Duration",
         "Subjects",
@@ -240,9 +244,13 @@ export const enammedicalcollegeandhospital = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Enam Medical College & Hospital, Bangladesh - Admission 2023 "
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The medical aspirants must fit into the basic criteria to grab MBBS seats at Enam Medical College and Hospital:</b>",
+      "info": "The medical aspirants must fit into the basic criteria to grab MBBS seats at Enam Medical College and Hospital:",
       "data": [
         "The students must pass SSC or equivalent examination.",
         "The candidates pass HSC or equivalent examination from any recognized board or the University of Bangladesh obtaining a total GPA of 9 and having Biology with a minimum GPA of 3.5 in HSC.",
@@ -252,22 +260,22 @@ export const enammedicalcollegeandhospital = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>The students must carry essential documents during MBBS course admission time at Enam Medical College and Hospital:</b>',
+      info: 'The students must carry essential documents during MBBS course admission time at Enam Medical College and Hospital:',
       data: [
-          "Step 1: The candidates should fill and submit the application form to get admission to the MBBS course.",
-          "Step 2: The college conducts admission tests held on the same date and time for government and private medical colleges.",
-          "Step 3: Submit the important documents and the final selection for admission will be made based on the national merit position.",
-          "Step 4: The selected candidates will be examined by a medical board of the college to check the fitness.",
-          "Step 5: Enam Medical College and Hospital will provide an offer letter to the student as an admission confirmation. ",
-          "Step 6: The students and parents or guardians must sign bonds on non-judicial stamps regarding the terms and conditions of education, conduct, and discipline to be admitted into the medical course at Enam Medical College and Hospital.",
-          "Step 7: Every candidate must quickly start the visa process, as it could take a long period to generate a valid passport.",
-          "Step 8: Take the valid passport to fly to Bangladesh to pursue MBBS at Enam Medical College and Hospital."
+        "Step 1: The candidates should fill and submit the application form to get admission to the MBBS course.",
+        "Step 2: The college conducts admission tests held on the same date and time for government and private medical colleges.",
+        "Step 3: Submit the important documents and the final selection for admission will be made based on the national merit position.",
+        "Step 4: The selected candidates will be examined by a medical board of the college to check the fitness.",
+        "Step 5: Enam Medical College and Hospital will provide an offer letter to the student as an admission confirmation. ",
+        "Step 6: The students and parents or guardians must sign bonds on non-judicial stamps regarding the terms and conditions of education, conduct, and discipline to be admitted into the medical course at Enam Medical College and Hospital.",
+        "Step 7: Every candidate must quickly start the visa process, as it could take a long period to generate a valid passport.",
+        "Step 8: Take the valid passport to fly to Bangladesh to pursue MBBS at Enam Medical College and Hospital."
       ]
     },
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The students who are willing to take MBBS admission at Enam Medical College and Hospital must submit all documents mentioned below:</b>",
+      "info": "The students who are willing to take MBBS admission at Enam Medical College and Hospital must submit all documents mentioned below:",
       "data": [
         "Application form",
         "SSC certificate",
@@ -291,7 +299,7 @@ export const enammedicalcollegeandhospital = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>Enam Medical College and Hospital is a top medical institute, grab the MBBS seats by staying updated with the important dates regarding admissions:</b>",
+      "info": "Enam Medical College and Hospital is a top medical institute, grab the MBBS seats by staying updated with the important dates regarding admissions:",
       "col": [
         "Events",
         "Dates",
@@ -335,6 +343,10 @@ export const enammedicalcollegeandhospital = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Enam Medical College & Hospital, Bangladesh - Reviews"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Enam Medical College & Hospital, Bangladesh - Reviews" },
@@ -353,6 +365,10 @@ export const enammedicalcollegeandhospital = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Enam Medical College & Hospital, Bangladesh - Placement"
+    },
     {
       type: "meta",
       meta: [
@@ -373,6 +389,10 @@ export const enammedicalcollegeandhospital = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Enam Medical College & Hospital, Bangladesh - Gallery"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Enam Medical College & Hospital, Bangladesh - Gallery" },
@@ -391,6 +411,10 @@ export const enammedicalcollegeandhospital = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Enam Medical College & Hospital, Bangladesh - Scholarship"
+    },
     {
       type: "meta",
       meta: [
@@ -411,6 +435,10 @@ export const enammedicalcollegeandhospital = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Enam Medical College & Hospital, Bangladesh - Faculty"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Enam Medical College & Hospital, Bangladesh - Faculty" },
@@ -429,6 +457,10 @@ export const enammedicalcollegeandhospital = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Enam Medical College & Hospital, Bangladesh - News & Articles"
+    },
     {
       type: "meta",
       meta: [
@@ -449,9 +481,13 @@ export const enammedicalcollegeandhospital = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Enam Medical College & Hospital, Bangladesh - Hostel"
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>Enam Medical College and Hospital offers a fully furnished and comfortable hostel for the students at reasonable rates:</b>",
+      "info": "Enam Medical College and Hospital offers a fully furnished and comfortable hostel for the students at reasonable rates:",
       "data": [
         "Enam Medical College and Hospital provides convenient rooms for the students.",
         "The students get rooms on a sharing basis.",
@@ -490,9 +526,13 @@ export const enammedicalcollegeandhospital = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Enam Medical College & Hospital, Bangladesh - FAQ"
+      },
+      {
         "type": "question-list",
         "title": "Enam Medical College and Hospital - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. Is Enam Medical College and Hospital safe for worldwide students during MBBS?",

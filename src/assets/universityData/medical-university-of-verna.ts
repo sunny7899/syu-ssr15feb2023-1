@@ -19,7 +19,7 @@ export const medicaluniversityofverna = {
         {
             "type": "table-title",
             "title": "Medical University of Verna: Quick Highlights 2022",
-            "info": "<b>Refer to the table mentioned below for the main facts about Medical University of Verna:</b>",
+            "info": "Refer to the table mentioned below for the main facts about Medical University of Verna:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "December"],
@@ -34,7 +34,7 @@ export const medicaluniversityofverna = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at the Medical University of Verna?",
-            "info": "<b>Among the reasons international medical students choose Medical university of Varna for studying MBBS:</b>",
+            "info": "Among the reasons international medical students choose Medical university of Varna for studying MBBS:",
             "data": [
                 "The Medical University of Verna has the most modern technologies for better medical education.",
                 "The institute offers reasonable tuition fees to the worldwide medical aspirants coming to pursue medicine.",
@@ -60,7 +60,7 @@ export const medicaluniversityofverna = {
             "type": "list-bollet",
             "title": "About Varna City",
             "img": "",
-            "info": "<b>Let's talk about the Varna city where the institute is located:</b>",
+            "info": "Let's talk about the Varna city where the institute is located:",
             "data": [
                 "Varna city is situated near the seaside resort on Bulgaria's the Black Sea which is next to the coastal resorts of Golden Sands, St. Konstantin and Albena.",
                 "It has a total area of 238 km2 (92 sq mi)",
@@ -72,7 +72,7 @@ export const medicaluniversityofverna = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Varna has top sights for that attracts many tourists -</b>",
+            "info": "Varna has top sights for that attracts many tourists -",
             "col": [],
             "row": [
                 ["Aladzha Monastery", "Sea Garden"],
@@ -85,7 +85,7 @@ export const medicaluniversityofverna = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction at the Medical University of Verna in English:</b>",
+            "info": "The medium of instruction at the Medical University of Verna in English:",
             "data": [
                 "At the Medical University of Verna, the practical sessions, lectures and examinations are conducted in 100% English language.",
                 "Learning the Bulgarian language is also compulsory for the students during the first 3 years of the MBBS program.",
@@ -95,7 +95,7 @@ export const medicaluniversityofverna = {
         {
             "type": "table",
             "title": "Living Cost of Verna",
-            "info": "<b>Verna has affordable living expenses, The table below shows the average and approx cost of living in for a month which may vary from person to person and according to the living style of the students:</b>",
+            "info": "Verna has affordable living expenses, The table below shows the average and approx cost of living in for a month which may vary from person to person and according to the living style of the students:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -117,7 +117,7 @@ export const medicaluniversityofverna = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Medical University of Verna has been officially accredited and recognised by various medical bodies:</b>",
+            "info": "The Medical University of Verna has been officially accredited and recognised by various medical bodies:",
             "data": [
                 "The Medical University of Verna is recognised by the World Health Organization (WHO)",
                 "Varna Medical University is accredited by the National Agency for Evaluation",
@@ -129,7 +129,7 @@ export const medicaluniversityofverna = {
         {
             "type": "table",
             "title": "Medical University of Verna: Ranking 2022",
-            "info": "<b>Refer Uni Rank to find out the country & world ranking of Medical University of Verna:</b>",
+            "info": "Refer Uni Rank to find out the country & world ranking of Medical University of Verna:",
             "col": [
                 "Country",
                 "World",
@@ -145,7 +145,7 @@ export const medicaluniversityofverna = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Medical University of Verna",
-            "info": '<b>The Medical University of Verna is equipped with modern housings for international students on the university campus:</b>',
+            "info": 'The Medical University of Verna is equipped with modern housings for international students on the university campus:',
             "data": [
                 "Classrooms",
                 "Library",
@@ -228,9 +228,14 @@ export const medicaluniversityofverna = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Medical University of Verna: MBBS Fee Structure 2022",
-            "info": "<b>The Medical University of Verna is providing an affordable fee structure to all students:< /b>",
+            "info": "The Medical University of Verna is providing an affordable fee structure to all students:<",
             "col": [
                 "Particular",
                 "Annual Fees",
@@ -255,7 +260,7 @@ export const medicaluniversityofverna = {
         {
             "type": "list-bollet",
             "title": "Medical University of Verna: MBBS Duration",
-            "info": '<b>The Medical University of Verna will provide 6 years of MBBS course education to the students striving to pursue medical studies:</b>',
+            "info": 'The Medical University of Verna will provide 6 years of MBBS course education to the students striving to pursue medical studies:',
             "data": [
                 "The Medical studies at the Medical University of Verna last for six years (ten semesters and one-year of state clinical internships – 310 calendar days).",
                 "​​​​The 6-year MBBS program will allow medical aspirants to enroll in the medical school directly from high school.",
@@ -269,7 +274,7 @@ export const medicaluniversityofverna = {
         {
             "type": "table",
             "title": "Medical University of Verna: MBBS Fee Structure 2022",
-            "info": "<b>The Medical University of Verna is providing an affordable fee structure to all students:< /b>",
+            "info": "The Medical University of Verna is providing an affordable fee structure to all students:<",
             "col": [
                 "No",
                 "Subject",
@@ -1266,9 +1271,14 @@ export const medicaluniversityofverna = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": '<b>Students should fit into all criteria for MBBS program enrollment at Medical University of Verna:</b>',
+            "info": 'Students should fit into all criteria for MBBS program enrollment at Medical University of Verna:',
             "data": [
                 "The candidate must complete the age of 17 years old as on 31st December of the admission year.",
                 "The Indian students must score good marks in NEET examination.",
@@ -1282,7 +1292,7 @@ export const medicaluniversityofverna = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": '<b>Following are the steps to take admission for MBBS course at Medical University of Verna:</b>',
+            "info": 'Following are the steps to take admission for MBBS course at Medical University of Verna:',
             "data": [
                 "<b>Step 1:</b> Fill up the online application form available on a Medical University of Verna.",
                 "<b>Step 2:</b> The applicants must quickly upload the scanned copy of all important documents and submit the form.",
@@ -1295,7 +1305,7 @@ export const medicaluniversityofverna = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": '<b>The students striving to learn medicine at Medical University of Verna should submit all essential documents to carry out the admission process without any hassles:</b>',
+            "info": 'The students striving to learn medicine at Medical University of Verna should submit all essential documents to carry out the admission process without any hassles:',
             "data": [
                 "The candidate needs to submit their SSC mark sheet and HSC mark sheet during the MBBS course admission at the Medical University of Verna.",
                 "The candidates must submit the application form filled properly while applying for the MBBS course at the Medical University of Verna.",
@@ -1314,7 +1324,7 @@ export const medicaluniversityofverna = {
         {
             "type": "table",
             "title": "Important Dates: Intake 2022",
-            "info": "<b>Consider the important admission dates to enroll in the MBBS program at Medical University of Verna:</b>",
+            "info": "Consider the important admission dates to enroll in the MBBS program at Medical University of Verna:",
             "col": [
                 "Events",
                 "Dates"
@@ -1358,6 +1368,11 @@ export const medicaluniversityofverna = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Verna, Bulgaria - Reviews" },
@@ -1376,6 +1391,11 @@ export const medicaluniversityofverna = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -1396,6 +1416,11 @@ export const medicaluniversityofverna = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Verna, Bulgaria - Gallery" },
@@ -1415,9 +1440,14 @@ export const medicaluniversityofverna = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": '<b>Following are the scholarships offered by the Medical University of Verna for making full use of it have a look -</b>',
+            "info": 'Following are the scholarships offered by the Medical University of Verna for making full use of it have a look -',
             "data": [
                 "Euro Scholarships"
             ]
@@ -1442,8 +1472,13 @@ export const medicaluniversityofverna = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -1489,6 +1524,11 @@ export const medicaluniversityofverna = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Verna, Bulgaria - News & Articles" },
@@ -1508,9 +1548,14 @@ export const medicaluniversityofverna = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": '<b>The Medical University of Verna provides the top class hostel for the worldwide medical students at the university campus area:</b>',
+            "info": 'The Medical University of Verna provides the top class hostel for the worldwide medical students at the university campus area:',
             "data": [
                 "The institute has developed infrastructure where necessary conditions of students are fulfilled.",
                 "The faculties distribution by dormitories and also the date of commencement of settling into the hostel is approved by rector orders.",
@@ -1522,7 +1567,7 @@ export const medicaluniversityofverna = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": '<b>At some walking distance from the hostel, the students can access</b>',
+            "info": 'At some walking distance from the hostel, the students can access',
             "data": [
                 "Gymnasium",
                 "Cafes",
@@ -1537,7 +1582,7 @@ export const medicaluniversityofverna = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": '<b>Availability of modern amenities to the student -</b>',
+            "info": 'Availability of modern amenities to the student -',
             "data": [
                 "Pillow",
                 "Blanket",
@@ -1577,9 +1622,14 @@ export const medicaluniversityofverna = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Medical University of Verna, Bulgaria - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Medical University of Verna: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many years of medicine programs are offered by the Medical University of Verna?",

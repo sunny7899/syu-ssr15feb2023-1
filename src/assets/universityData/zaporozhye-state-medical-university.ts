@@ -19,7 +19,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Zaporozhye State Medical University - Quick Highlights",
-            "info": "<b>Let's have a quick look on some of the highlights and facts about the Zaporozhye state Medical University. </b>",
+            "info": "Let's have a quick look on some of the highlights and facts about the Zaporozhye state Medical University. ",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course </b>", "Twice in a year:February and September"],
@@ -36,7 +36,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying MBBS at Zaporozhye State Medical University",
-            "info": "<b>Each student who wish to study MBBS at Zaporozhye state medical university has the following benefits of studying medical degree at this university </b>",
+            "info": "Each student who wish to study MBBS at Zaporozhye state medical university has the following benefits of studying medical degree at this university ",
             "data": [
                 "Zaporozhye State Medical University is NMC approved and also recognized by WHO and many medical councils of other countries.",
                 "It offers an affordable fee structure for students.",
@@ -48,7 +48,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table",
             "title": "Zaporozhye State Medical University - FMGE Performance 2021",
-            "info": "<b>Zaporozhye State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same: </b>",
+            "info": "Zaporozhye State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same: ",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -68,7 +68,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table",
             "title": "Zaporozhye State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Zaporozhye State Medical University: </b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Zaporozhye State Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -83,7 +83,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Zaporozhye State Medical University is recognized & accreditation by: </b>",
+            "info": "Zaporozhye State Medical University is recognized & accreditation by:",
             "data": [
                 "4th level accreditation by the Ministry of Education and Science Ukraine",
                 "Medical Board of California",
@@ -124,7 +124,7 @@ export const zaporozhyestatemedicaluniversity = {
                     "Expense Range in RS": "1050-1120"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs.</p>'
         },
         {
             "type": "text",
@@ -152,9 +152,13 @@ export const zaporozhyestatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Zaporozhye State Medical University - MBBS Fee Structure",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "Particular",
                 "Year 1",
@@ -202,12 +206,12 @@ export const zaporozhyestatemedicaluniversity = {
                     "Year 6": "Rs. 3,83,400"
                 },
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> $1 = Rs.71 (It may vary)</p>  <p>India One Time Charges: Rs 1 Lac + GST (Visa & Flight Excluded)</p> <p>Extra charges of Insurance in Ukraine.</p> <p>Extra servicing and processing charges in Ukraine.</p> <p>All the fees to the university have to be paid in US $ only.</p> <p>All the above-mentioned living expenses are subject to the students lifestyle and university.</p> <p>Tuition & Hostel fees may increase every year.</p> <p>No hidden charges.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> $1 = Rs.71 (It may vary)</p>  <p>India One Time Charges: Rs 1 Lac + GST (Visa & Flight Excluded)</p> <p>Extra charges of Insurance in Ukraine.</p> <p>Extra servicing and processing charges in Ukraine.</p> <p>All the fees to the university have to be paid in US $ only.</p> <p>All the above-mentioned living expenses are subject to the students lifestyle and university.</p> <p>Tuition & Hostel fees may increase every year.</p> <p>No hidden charges.</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at Zaporozhye State Medical University",
-            "info": "<b>The student shall complete the age of 17 years on or before 31st December of the year of admission: </b>",
+            "info": "The student shall complete the age of 17 years on or before 31st December of the year of admission: ",
             "data": [
                 "General Medicine (MBBS)",
                 "Dentistry",
@@ -218,7 +222,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Zaporozhye State Medical University - MBBS Duration",
-            "info": "<b>The duration of studying MBBS in this university is of 6 years: </b>",
+            "info": "The duration of studying MBBS in this university is of 6 years: ",
             "data": [
                 "The MBBS course duration in Ukraine includes 5 years of course where the important subjects and theoretical knowledge is given to students. The course is followed by 1 year of an internship program where students are allowed to learn practical things in affiliated hospitals."
             ]
@@ -226,7 +230,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Zaporozhye State Medical University - MBBS Syllabus",
-            "info": "<b>Check what are the subjects included in the Syllabus of MBBS offered By ZSMU: </b><br><b>First Year</b>",
+            "info": "Check what are the subjects included in the Syllabus of MBBS offered By ZSMU: <br>First Year",
             "row": [
                 ["Foreign Language", "Business Ukrainian Language"],
                 ["Latin Language", "History Of Ukraine"],
@@ -241,7 +245,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Second Year</b>",
+            "info": "Second Year",
             "col": [],
             "row": [
                 ["Foreign Language", "Philosophy"],
@@ -256,7 +260,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Third Year</b>",
+            "info": "Third Year",
             "col": [],
             "row": [
                 ["Microbiology, Virology And Immunology", "Pathomorphology"],
@@ -270,7 +274,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Fourth Year</b>",
+            "info": "Fourth Year",
             "col": [],
             "row": [
                 ["Internal Diseases (And Endocrinology)", "Phthisiology"],
@@ -288,7 +292,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Fifth Year</b>",
+            "info": "Fifth Year",
             "col": [],
             "row": [
                 ["Internal Diseases", "Infectious Diseases"],
@@ -306,7 +310,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Sixth Year</b>",
+            "info": "Sixth Year",
             "col": [],
             "row": [
                 ["Internal Diseases With Infectious Diseases And Phthisiology", "Pediatrics With Infectious Diseases"],
@@ -335,9 +339,13 @@ export const zaporozhyestatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For MBBS course",
-            "info": "<b>Every student who wants to take admission to Zaporozhye State Medical University has to fit in these eligibility criteria. </b>",
+            "info": "Every student who wants to take admission to Zaporozhye State Medical University has to fit in these eligibility criteria. ",
             "data": [
                 "Applying for the MBBS course at Zaporozhye State Medical University, students should have a minimum aggregate of 50% in Physics, Chemistry & Biology.",
                 "Candidates must have applied for NEET exam.",
@@ -347,7 +355,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": 'step-list',
             "title": "Admission Process",
-            "info": "<b>Students must follow these simple steps to take admission to Zaporozhye State Medical Uiverstiy for MBBS degree: </b>",
+            "info": "Students must follow these simple steps to take admission to Zaporozhye State Medical Uiverstiy for MBBS degree: ",
             "data": [
                 "Step 1: Medical aspirants need to apply online through a portal available on a college website -http://int.zsmu.edu.ua/",
                 "Step 2: After registration, fill the application form with valid details.",
@@ -359,7 +367,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Keep all the documents mentioned below ready for the admission process to MBBS degree at Zaporozhye State Medical University: </b>",
+            "info": "Keep all the documents mentioned below ready for the admission process to MBBS degree at Zaporozhye State Medical University: ",
             "data": [
                 "Filled Application Form",
                 "Copy of 10th mark sheet",
@@ -374,7 +382,7 @@ export const zaporozhyestatemedicaluniversity = {
         {
             "type": "table",
             "title": "ZSMU - Academic Calendar & Deadlines 2022",
-            "info": "<b>Important dates to remember for admission to MBBS in Ukraine: </b>",
+            "info": "Important dates to remember for admission to MBBS in Ukraine: ",
             "col": [
                 "Events",
                 "Dates",
@@ -418,6 +426,10 @@ export const zaporozhyestatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Zaporozhye State Medical University - Reviews" },
@@ -436,6 +448,10 @@ export const zaporozhyestatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -456,6 +472,10 @@ export const zaporozhyestatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Zaporozhye State Medical University - Gallery" },
@@ -474,6 +494,10 @@ export const zaporozhyestatemedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -494,6 +518,10 @@ export const zaporozhyestatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Zaporozhye State Medical University - Faculty" },
@@ -512,6 +540,10 @@ export const zaporozhyestatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -532,6 +564,10 @@ export const zaporozhyestatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - Hostel'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Zaporozhye State Medical University - Hostel" },
@@ -551,9 +587,13 @@ export const zaporozhyestatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Zaporozhye State Medical University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Zaporozhye State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the cost of living in Zaporozhye city?",

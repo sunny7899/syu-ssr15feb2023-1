@@ -63,7 +63,7 @@ export const vinnitsanationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Vinnitsa National Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Vinnitsa National Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Vinnitsa National Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -142,7 +142,7 @@ export const vinnitsanationalmedicaluniversity = {
         {
             "type": "table",
             title: 'Vinnitsa National Medical University - FMGE Performance 2021',
-            info: '<b>Find the passing percent and appeared students in year 2021 for Vinnitsa National Medical University is here in the table below:</b>',
+            info: 'Find the passing percent and appeared students in year 2021 for Vinnitsa National Medical University is here in the table below:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -276,12 +276,12 @@ export const vinnitsanationalmedicaluniversity = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/vinnitsa-national-medical-university" }
             ]
         }
-
-
-
-
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - courses & Fees'
+        },
         {
             "type": "table",
             "title": "Vinnitsa National Medical University - Fee Structure 2022",
@@ -632,9 +632,13 @@ export const vinnitsanationalmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria: for MBBS at VNMU',
-            info: '<b>Students must have scored well and studied the following subjects at school:</b>',
+            info: 'Students must have scored well and studied the following subjects at school:',
             data: [
                 "Biology, Chemistry, Physics",
                 "Qualifying score in 10 + 2",
@@ -674,7 +678,7 @@ export const vinnitsanationalmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Vinnitsa National Medical University - Academic Calendar 2022',
-            info: '<b>Here are some Important dates to remember if you want to pursue medical career at Vinnitsa National Medical University:</b>',
+            info: 'Here are some Important dates to remember if you want to pursue medical career at Vinnitsa National Medical University:',
             "col": [
                 "Events",
                 "Dates",
@@ -718,6 +722,10 @@ export const vinnitsanationalmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Vinnitsa National Medical University, Ukraine - Reviews" },
@@ -736,6 +744,10 @@ export const vinnitsanationalmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -756,6 +768,10 @@ export const vinnitsanationalmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Vinnitsa National Medical University, Ukraine - Gallery" },
@@ -774,6 +790,10 @@ export const vinnitsanationalmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -794,6 +814,10 @@ export const vinnitsanationalmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Vinnitsa National Medical University, Ukraine - Faculty" },
@@ -812,6 +836,10 @@ export const vinnitsanationalmedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -832,6 +860,10 @@ export const vinnitsanationalmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - Hostel'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Vinnitsa National Medical University, Ukraine - Hostel" },
@@ -851,9 +883,13 @@ export const vinnitsanationalmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Vinnitsa National Medical University, Ukraine - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Vinnitsa National Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Vinnitsa National Medical University NMC approved?",

@@ -19,7 +19,7 @@ export const northcaucasusfederaluniversity = {
         {
             "type": "table-title",
             "title": "North-Caucasus Federal University - Quick Overview",
-            "info": "<b>Let’s get to know about the main highlights of North-Caucasus Federal University:</b>",
+            "info": "Let’s get to know about the main highlights of North-Caucasus Federal University:",
             "row": [
                 ["<b>Tuition Fees</b>", "Bachelor of Oil and Gas Engineering - 217,111 Rs<br>Bachelor of Nanoengineering - 195,400 Rs<br>Bachelor of Oil and Gas Engineering - 195,400 Rs<br>Bachelor of Electrical Power/Electrical Engineering - 191,781 Rs<br>Bachelor of Electronics and Nanoelectronics - 191,781 Rs"],
                 ["<b>Course Duration</b>", "4 years"],
@@ -30,7 +30,7 @@ export const northcaucasusfederaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Choose North-Caucasus Federal University?',
-            info: '<b>The students must go through the benefits of studying Engineering program at North-Caucasus Federal University:</b>',
+            info: 'The students must go through the benefits of studying Engineering program at North-Caucasus Federal University:',
             data: [
                 "NCFU receives more than 10 foreign experts and graduate students to participate in conferences and symposia annually.",
                 "North-Caucasus Federal University is proud of its strong faculty members and 75% of professors have academic degrees.",
@@ -50,13 +50,13 @@ export const northcaucasusfederaluniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>The teaching medium is English and Russian at North-Caucasus Federal University:</b>',
+            info: 'The teaching medium is English and Russian at North-Caucasus Federal University:',
             data: "<p>The students can choose to study an engineering course in either English or Russian at North-Caucasus Federal University.</p>"
         },
         {
             "type": "table",
             "title": "North-Caucasus Federal University - Ranking 2022",
-            "info": "<b>Know about the rankings of the university with the reference of Uni Rank:</b>",
+            "info": "Know about the rankings of the university with the reference of Uni Rank:",
             "col": [
                 "Country",
                 "World",
@@ -72,7 +72,7 @@ export const northcaucasusfederaluniversity = {
         {
             type: 'list-bollet',
             title: 'Facilities',
-            info: '<b>The institute offers amazing facilities that will make every student feel like a whole new experience during education at North-Caucasus Federal University:</b>',
+            info: 'The institute offers amazing facilities that will make every student feel like a whole new experience during education at North-Caucasus Federal University:',
             data: [
                 "Lecture rooms",
                 "Library",
@@ -88,7 +88,7 @@ export const northcaucasusfederaluniversity = {
         {
             type: 'list-bollet',
             title: 'North-Caucasus Federal University - Research Units',
-            info: '<b>North-Caucasus Federal University has various research units, have a look at them:</b>',
+            info: 'North-Caucasus Federal University has various research units, have a look at them:',
             data: [
                 "Clean Zones Research Laboratory",
                 "Photovoltaics & Nanotechnologies Research and Training Center",
@@ -106,7 +106,7 @@ export const northcaucasusfederaluniversity = {
         {
             "type": "table",
             "title": "Living Expenses - Stavropol, Russia",
-            "info": "<b>Stavropol has a low living expense that is affordable for the students, go through the table varying according to the individual needs:</b>",
+            "info": "Stavropol has a low living expense that is affordable for the students, go through the table varying according to the individual needs:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -146,9 +146,14 @@ export const northcaucasusfederaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "North-Caucasus Federal University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "North-Caucasus Federal University - Fee Structure 2022",
-            "info": "<b>North-Caucasus Federal University offers MBBS education at affordable prices allowing students to get an excellent education at the most reduced rates:</b>",
+            "info": "North-Caucasus Federal University offers MBBS education at affordable prices allowing students to get an excellent education at the most reduced rates:",
             "col": [
                 "Course",
                 "Amount"
@@ -179,7 +184,7 @@ export const northcaucasusfederaluniversity = {
         {
             type: 'list-bollet',
             title: 'North-Caucasus Federal University - Engineering Duration',
-            info: '<b>The course duration offered by North-Caucasus Federal University is of 4 years:</b>',
+            info: 'The course duration offered by North-Caucasus Federal University is of 4 years:',
             data: [
                 "The students willing to pursue Engineering from North-Caucasus Federal University must undergo 4 years in English and Russian medium."
             ]
@@ -187,7 +192,7 @@ export const northcaucasusfederaluniversity = {
         {
             type: 'list-bollet',
             title: 'Institute of Engineering',
-            info: '<b>North-Caucasus Federal University offers a wide range of programs under the Institute of Engineering:</b>',
+            info: 'North-Caucasus Federal University offers a wide range of programs under the Institute of Engineering:',
             data: [
                 "Construction Engineering",
                 "Electronics and Nanoelectronics",
@@ -205,7 +210,7 @@ export const northcaucasusfederaluniversity = {
         {
             type: 'list-bollet',
             title: 'Institute of Engineering - Departments',
-            info: '<b>North-Caucasus Federal University provides various departments under engineering course:</b>',
+            info: 'North-Caucasus Federal University provides various departments under engineering course:',
             data: [
                 "Automated Electric Power Systems & Power Supply",
                 "Construction Engineering",
@@ -237,9 +242,14 @@ export const northcaucasusfederaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "North-Caucasus Federal University, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The candidates should fit into the criteria for enrollment at North-Caucasus Federal University:</b>",
+            "info": "The candidates should fit into the criteria for enrollment at North-Caucasus Federal University:",
             "data": [
                 "The candidates who are seeking Engineering admission must pass higher secondary education.",
                 "Every student willing to study at North-Caucasus Federal University must have a valid passport."
@@ -248,7 +258,7 @@ export const northcaucasusfederaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Follow the steps carefully to complete the admission procedure to enroll in the Engineering course at Central Ukrainian National Technical University:</b>',
+            info: 'Follow the steps carefully to complete the admission procedure to enroll in the Engineering course at Central Ukrainian National Technical University:',
             data: [
                 "Step 1: The students must refer to the section 'Education' to choose the programme."
             ]
@@ -344,7 +354,7 @@ export const northcaucasusfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Looking to get enrolled in an MBBS course at North-Caucasus Federal University? Submit essential documents along with the application form:</b>",
+            "info": "Looking to get enrolled in an MBBS course at North-Caucasus Federal University? Submit essential documents along with the application form:",
             "data": [
                 "Application form",
                 "10th mark sheet",
@@ -366,7 +376,7 @@ export const northcaucasusfederaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The students must keep an eye on the important admission dates admit into the Engineering course at North-Caucasus Federal University:</b>",
+            "info": "The students must keep an eye on the important admission dates admit into the Engineering course at North-Caucasus Federal University:",
             "col": [
                 "Events",
                 "Dates",
@@ -410,6 +420,11 @@ export const northcaucasusfederaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "North-Caucasus Federal University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "North-Caucasus Federal University, Russia - Reviews" },
@@ -428,6 +443,11 @@ export const northcaucasusfederaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "North-Caucasus Federal University, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -448,6 +468,11 @@ export const northcaucasusfederaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "North-Caucasus Federal University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "North-Caucasus Federal University, Russia - Gallery" },
@@ -466,6 +491,11 @@ export const northcaucasusfederaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "North-Caucasus Federal University, Russia - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -486,6 +516,11 @@ export const northcaucasusfederaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "North-Caucasus Federal University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "North-Caucasus Federal University, Russia - Faculty" },
@@ -504,6 +539,11 @@ export const northcaucasusfederaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "North-Caucasus Federal University, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -524,9 +564,14 @@ export const northcaucasusfederaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "North-Caucasus Federal University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>North-Caucasus Federal University offers a well-equipped and safe hostel system for the students in the campus area:</b>",
+            "info": "North-Caucasus Federal University offers a well-equipped and safe hostel system for the students in the campus area:",
             "data": [
                 "The students can live in one of the 8 comfortable hostels located on the campus of the academic buildings.",
                 "The candidates at the hostel can access all the essential facilities for self-preparation and hassle-free living-"
@@ -553,7 +598,7 @@ export const northcaucasusfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The students must have the necessary documents for moving to a hostel-</b>",
+            "info": "The students must have the necessary documents for moving to a hostel-",
             "data": [
                 "Personally written application",
                 "Medical certificate",
@@ -609,54 +654,59 @@ export const northcaucasusfederaluniversity = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "North-Caucasus Federal University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Is the Engineering degree from North-Caucasus Federal University globally recognised?",
-                    "ans": "The North-Caucasus Federal University is fully Acknowledged and approved."
-                },
-                {
-                    "ques": "Q. Is doing Engineering from North-Caucasus Federal University a good choice for worldwide students?",
-                    "ans": "North-Caucasus Federal University offers a high-quality education at a reasonable price along with modern facilities in a comfortable zone for the students."
-                },
-                {
-                    "ques": "Q. Is North-Caucasus Federal University a safe place for girls?",
-                    "ans": "The university is the safest place for a girl student to live without worries, as the university has a highly developed security."
-                },
-                {
-                    "ques": "Q. Is there any entrance exam required for Engineering admissions at North-Caucasus Federal University?",
-                    "ans": "No, the North-Caucasus Federal University doesn’t demand any university entrance examination."
-                },
-                {
-                    "ques": "Q. Are there any hostel facilities available at North-Caucasus Federal University?",
-                    "ans": "Fully furnished and comfortable hostel with modern amenities at North-Caucasus Federal University"
-                },
-                {
-                    "ques": "Q. Is the North-Caucasus Federal University providing any holidays during education?",
-                    "ans": "The University provides summer vacation in July, August to the students."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "North-Caucasus Federal University, Russia - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "North-Caucasus Federal University, Russia - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/north-caucasus-federal-university/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "North-Caucasus Federal University, Russia - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "North-Caucasus Federal University - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+                "data": [
+                    {
+                        "ques": "Q. Is the Engineering degree from North-Caucasus Federal University globally recognised?",
+                        "ans": "The North-Caucasus Federal University is fully Acknowledged and approved."
+                    },
+                    {
+                        "ques": "Q. Is doing Engineering from North-Caucasus Federal University a good choice for worldwide students?",
+                        "ans": "North-Caucasus Federal University offers a high-quality education at a reasonable price along with modern facilities in a comfortable zone for the students."
+                    },
+                    {
+                        "ques": "Q. Is North-Caucasus Federal University a safe place for girls?",
+                        "ans": "The university is the safest place for a girl student to live without worries, as the university has a highly developed security."
+                    },
+                    {
+                        "ques": "Q. Is there any entrance exam required for Engineering admissions at North-Caucasus Federal University?",
+                        "ans": "No, the North-Caucasus Federal University doesn’t demand any university entrance examination."
+                    },
+                    {
+                        "ques": "Q. Are there any hostel facilities available at North-Caucasus Federal University?",
+                        "ans": "Fully furnished and comfortable hostel with modern amenities at North-Caucasus Federal University"
+                    },
+                    {
+                        "ques": "Q. Is the North-Caucasus Federal University providing any holidays during education?",
+                        "ans": "The University provides summer vacation in July, August to the students."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "North-Caucasus Federal University, Russia - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "North-Caucasus Federal University, Russia - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/north-caucasus-federal-university/faq" }
+                ]
+            }
+        ]
 }

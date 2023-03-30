@@ -20,7 +20,7 @@ export const vitebskstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Vitebsk State Medical University: Quick Highlights",
-            "info": "<b>Refer to the table below for quick highlights about Vitebsk State Medical University:</b>",
+            "info": "Refer to the table below for quick highlights about Vitebsk State Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Eligibility Criteria</b>", "10+2 with 60%"],
@@ -35,7 +35,7 @@ export const vitebskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Vitebsk State Medical University?',
-            info: '<b>Following are the advantages of studying MBBS in Vitebsk State Medical University:</b>',
+            info: 'Following are the advantages of studying MBBS in Vitebsk State Medical University:',
             data: [
                 "Vitebsk State Medical University is one of the top-ranked government universities.",
                 "It offers an attractive and affordable low-cost fee structure.",
@@ -54,7 +54,7 @@ export const vitebskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Vitebsk State Medical University - Ranking 2022",
-            "info": "<b>According to Unirank 4icu, the country & world ranking of Vitebsk State Medical University is as follows:</b>",
+            "info": "According to Unirank 4icu, the country & world ranking of Vitebsk State Medical University is as follows:",
             "col": [
                 "Country",
                 "World",
@@ -70,7 +70,7 @@ export const vitebskstatemedicaluniversity = {
         {
             "type": "table",
             title: 'Vitebsk State Medical University: FMGE Performance 2021',
-            info: '<b>Find the passing percent and appeared students in year 2021 for Vitebsk State Medical University is here in the table below:</b>',
+            info: 'Find the passing percent and appeared students in year 2021 for Vitebsk State Medical University is here in the table below:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -89,7 +89,7 @@ export const vitebskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Vitebsk State Medical University has the following accreditation and recognition:</b>',
+            info: 'Vitebsk State Medical University has the following accreditation and recognition:',
             data: [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -101,7 +101,7 @@ export const vitebskstatemedicaluniversity = {
             type: 'list-bollet',
             title: 'About Vitebsk City',
             img: 'belarus-universities/vitebsk-city.jpg',
-            info: '<b>Vitebsk is the Belarussian city and the capital of Vitebsk region:</b>',
+            info: 'Vitebsk is the Belarussian city and the capital of Vitebsk region:',
             data: [
                 "Vitebsk is a city in Belarus, which is the birthplace of the famous artist Marc Chagall.",
                 "Annunciation Church, which is the oldest building in Belarus is located in Vitebsk.",
@@ -131,9 +131,13 @@ export const vitebskstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Vitebsk State Medical University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Vitebsk State Medical University - MBBS Fee Structure 2022",
-            "info": "<b>Vitebsk State Medical University has an affordable fee structure:</b>",
+            "info": "Vitebsk State Medical University has an affordable fee structure:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -191,7 +195,7 @@ export const vitebskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Courses offered at Vitebsk State Medical University',
-            info: '<b>Following faculties are successfully working in Vitebsk State Medical University:</b>',
+            info: 'Following faculties are successfully working in Vitebsk State Medical University:',
             data: [
                 "Medicine",
                 "Dentistry",
@@ -202,12 +206,12 @@ export const vitebskstatemedicaluniversity = {
         {
             type: 'text',
             title: 'Vitebsk State Medical University - MBBS Duration',
-            info: '<b>The course duration of MBBS in Belarus is 6 years:</b><p>MBBS degree’s duration in Belarus is of 6 years, this includes 5 years’ course and 1 year of internship.</p>',
+            info: 'The course duration of MBBS in Belarus is 6 years:<p>MBBS degree’s duration in Belarus is of 6 years, this includes 5 years’ course and 1 year of internship.</p>',
         },
         {
             "type": "table",
             "title": "Vitebsk State Medical University - MBBS Syllabus",
-            "info": "<b>The syllabus for MBBS in Belarus is shown in the table below:</b>",
+            "info": "The syllabus for MBBS in Belarus is shown in the table below:",
             "col": [
                 "First Year",
                 "Second Year",
@@ -411,9 +415,13 @@ export const vitebskstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Vitebsk State Medical University - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>Students have to set in the following eligibility criteria to get admission to Belarus for MBBS:</b>',
+            info: 'Students have to set in the following eligibility criteria to get admission to Belarus for MBBS:',
             data: [
                 "who are above 17 years old on or before 31st December of admission year can take admission to MBBS in Belarus.",
                 "andidates who have scored more than 50% in HSC exam or in similar courses with Physics, Chemistry, Biology, and English as compulsory subjects can apply for the admission process for MBBS in Kyrgyzstan.",
@@ -424,7 +432,7 @@ export const vitebskstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Students need to follow these steps to take admission in Belarus for MBBS:</b>',
+            info: 'Students need to follow these steps to take admission in Belarus for MBBS:',
             data: [
                 "<b>Step 1:</b> Students need to follow these steps to take admission in Belarus for MBBS:",
                 "<b>Step 2:</b> Submit all the documents online or at the office of ‘Select Your University’.",
@@ -436,7 +444,7 @@ export const vitebskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Academic Calendar: Intake 2022",
-            "info": "<b>The students must check out some important admission dates for taking admission at Vitebsk State Medical University:</b>",
+            "info": "The students must check out some important admission dates for taking admission at Vitebsk State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -476,6 +484,10 @@ export const vitebskstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Vitebsk State Medical University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Vitebsk State Medical University - Reviews" },
@@ -494,6 +506,10 @@ export const vitebskstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Vitebsk State Medical University - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -514,6 +530,10 @@ export const vitebskstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Vitebsk State Medical University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Vitebsk State Medical University - Gallery" },
@@ -532,6 +552,10 @@ export const vitebskstatemedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Vitebsk State Medical University - Scholarship'
+        },
         {
             type: 'list-bollet',
             title: 'Scholarship',
@@ -564,6 +588,10 @@ export const vitebskstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Vitebsk State Medical University - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -626,6 +654,10 @@ export const vitebskstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Vitebsk State Medical University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Vitebsk State Medical University - News & Articles" },
@@ -645,9 +677,13 @@ export const vitebskstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Vitebsk State Medical University - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
-            info: '<b>Vitebsk State Medical University provides the facilities of accommodation and mess for students:</b>',
+            info: 'Vitebsk State Medical University provides the facilities of accommodation and mess for students:',
             data: [
                 "Students at Vitebsk State Medical University are provided with hostels on sharing basis rooms.",
                 "Rooms are provided with 2 and 3 beds sharing.",
@@ -678,7 +714,7 @@ export const vitebskstatemedicaluniversity = {
         {
             "type": "table",
             "title": 'Cost of Living',
-            "info": '<b>The lifestyle in Belarus is pretty much affordable and in Vitebsk city it is more cost efficient:</b>',
+            "info": 'The lifestyle in Belarus is pretty much affordable and in Vitebsk city it is more cost efficient:',
             "data": "<p>The table below shows the average and approx cost of living in Vitebsk, Belarus for a month. This may vary from person to person and according to the living style of the students.</p>",
             "col": [
                 "Particulars",
@@ -733,9 +769,13 @@ export const vitebskstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Vitebsk State Medical University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": 'Vitebsk State Medical University - Important FAQs',
-            "info": '<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>',
+            "info": 'Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:',
             "data": [
 
                 {

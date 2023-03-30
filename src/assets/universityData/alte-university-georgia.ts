@@ -1,7 +1,7 @@
 export const alteuniversitygeorgia = {
     "Title": "Alte University, Georgia",
     "shortTitle": "Alte University",
-    "location": "  Georgia",
+    "location": "Georgia",
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
@@ -14,7 +14,7 @@ export const alteuniversitygeorgia = {
 
         {
             type: 'text',
-            title: '',
+            //title: 'About Tbilisi Open Teaching University, Georgia',
             // img: 'https://www.selectyouruniversity.com/images/georgia-universities/tblisi-georgia.jpg',
             data: '<p><b>Alte University</b> is a Georgian university that was established in 2002. Alte University was formerly known as <b>"Tbilisi Open University"</b> before changing its name in 2021. For 20 years, Alte University has offered the top educational opportunities for MBBS in Georgia. It was founded in Georgias capital city of Tbilisi. Also, The university is known as the most common choice for Indian Students who are medical aspirants, students from about 15 nations come here to study MBBS at Alte University.</p><p>More than 2,100 students are now enrolled in MBBS programs, and more than 2,350 people have graduated from Alte University. The Medical Doctor (MD) program seeks to help students enhance their skills, values, and practical and theoretical knowledge</p><p>The entire medical program at Alte University School of Medicine lasts 6 years which costs around 5000 USD/Year, the program is fully conducted in the English language so the Indian students have no barrier.</p>'
         },
@@ -22,7 +22,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "table-title",
             "title": "Alte University International Medical School - Quick Highlights 2023",
-            "info": "<b>Interested candidates can quickly go through the highlights before getting enrolled in the Medical program:</b>",
+            "info": "Interested candidates can quickly go through the highlights before getting enrolled in the Medical program:",
             "col": [
             ],
             "row": [
@@ -33,12 +33,14 @@ export const alteuniversitygeorgia = {
                 ["<b>Recognition and Accreditations</b>", "NMC, WFME and ENQA"],
                 ["<b>Medium of Teaching</b>", "English"],
                 ["<b>University Ranking</b>", "Country Rank - 2<br>World Rank - 260"],
+
+
             ]
         },
         {
             "type": "list-bollet",
             "title": "Why Choose Alte State Medical University?",
-            "info": "<b>Interested candidates can quickly go through positives of the University:</b>",
+            "info": "Interested candidates can quickly go through positives of the University",
             "img": '',
             "data": [
                 "High-quality academic facilities, a library, and other amenities are available at the university.",
@@ -53,7 +55,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Medium of Instruction",
-            "info": "<b>With the intention to remove Language barrier university doesn't want anyone to be left behind:</b>",
+            "info": "With the intention to remove Language barrier university doesn't want anyone to be left behind:",
             "img": '',
             "data": [
                 "At Alte University, English is the medium of instruction for all Indian students.",
@@ -63,16 +65,16 @@ export const alteuniversitygeorgia = {
         {
             "type": "table",
             "title": "Alte University International Medical School Ranking 2023",
-            "info": "<b>Before applying for this university you should check ranking:</b>",
+            "info": "Before applying for this university you should check ranking -",
             "col": [
-                "World",
+                "World	",
                 "Country",
             ],
 
             "row": [
                 {
-                    "World": "260",
-                    "Country": "2",
+                    "World": "2",
+                    "Country": "260",
                 },
 
             ]
@@ -80,7 +82,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Recognition and Accreditations",
-            "info": "<b>Following are the accreditation university has:</b>",
+            "info": "Following are the accreditation university has:",
             "img": '',
             "data": [
                 "Recognized by World Federation for Medical Education (WFME)",
@@ -104,11 +106,11 @@ export const alteuniversitygeorgia = {
                 "The University also hosts annual welcome parties for new students, and Indian holidays are observed on campus.",
             ]
         },
-        
+
         {
             "type": "table",
             "title": "Cost of Living in Tbilisi, Georgia",
-            "info": "<b>The living expenses of Tbilisi, Georgia is affordable for worldwide students, Refer the table mentioned below according to monthly expenses:</b>",
+            "info": "The living expenses of Tbilisi, Georgia is affordable for worldwide students, Refer the table mentioned below according to monthly expenses:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -119,17 +121,17 @@ export const alteuniversitygeorgia = {
                 {
                     "Particular": "<b>Apartment Rent</b>",
                     "Approx Range in USD": "976 $",
-                    "Approx Range in RS":"80,000 Rs"
+                    "Approx Range in RS": "80,000 Rs"
                 },
                 {
                     "Particular": "<b>Meal Cost</b>",
                     "Approx Range in USD": "12 $",
-                    "Approx Range in RS":"980 Rs"
+                    "Approx Range in RS": "980 Rs"
                 },
                 {
                     "Particular": "<b>Transportation Cost</b>",
                     "Approx Range in USD": "16 $",
-                    "Approx Range in RS":"1,310 Rs"
+                    "Approx Range in RS": "1,310 Rs"
                 }
 
             ],
@@ -138,7 +140,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Facilities at Alte University",
-            "info": "<b>Following mentioned are the some of the notable facilities provided by the university:</b>",
+            "info": "Following mentioned are the some of the notable facilities provided by the university -",
             "img": '',
             "data": [
                 "Sports facilities",
@@ -147,18 +149,18 @@ export const alteuniversitygeorgia = {
                 "Best accommodation",
             ]
         },
-        
+
 
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Alte University - Study MBBS in Georgia" },
-                { name: "description", content: "If you want to study in Georgia, you can definitely think about Alte university which is previously known as Tbilisi Open University. Click here to know more" },
+                { name: "title", content: "Alte University, Georgia - Fees, Ranking, Eligibility" },
+                { name: "description", content: "If you want to study in Georgia, you can definitely think about Alte university which is previously known as Tbilisi Open University. Click here to know more." },
             ],
         },
         {
             type: "meta-title",
-            title: "Alte University - Study MBBS in Georgia"
+            title: "Alte University, Georgia - Fees, Ranking, Eligibility"
         },
         {
             type: "meta-links",
@@ -169,7 +171,6 @@ export const alteuniversitygeorgia = {
 
     ],
     "coursesandfees": [
-
         {
             type: 'title',
             title: 'Alte University - Courses & Fees'
@@ -177,12 +178,12 @@ export const alteuniversitygeorgia = {
         {
             "type": "table",
             "title": "Alte University School of Medicine Fee Structure 2023",
-            "info": "<b>For Indian students, the MBBS tuition fees at Alte University costs around INR 4.13 Lacs. The following provides the Alte University's complete MBBS fee schedule for the 2023 session:</b>",
+            "info": "For Indian students, the MBBS tuition fees at Alte University costs around INR 4.13 Lacs. The following provides the Alte University's complete MBBS fee schedule for the 2023 session:",
             "col": [
-                "Particular",
+                "Year",
                 "1st Year",
                 "2nd Year",
-                "3rd Year",
+                "3rd Yea",
                 "4th Year",
                 "5th Year",
                 "6th Year"
@@ -190,19 +191,19 @@ export const alteuniversitygeorgia = {
             ],
             "row": [
                 {
-                    "Particular": "<b>Tuition Fee in USD</b>",
+                    "Year": "<b>Tuition Fee</b>",
                     "1st Year": "5000$",
                     "2nd Year": "5000$",
-                    "3rd Year": "5000$",
+                    "3rd Yea": "5000$",
                     "4th Year": "5000$",
                     "5th Year": "5000$",
                     "6th Year": "5000$"
                 },
                 {
-                    "Particular": "<b>Tuition Fee in INR</b>",
+                    "Year": "<b>Hostel Fee</b>",
                     "1st Year": "INR 4.13 Lacs",
                     "2nd Year": "INR 4.13 Lacs",
-                    "3rd Year": "INR 4.13 Lacs",
+                    "3rd Yea": "INR 4.13 Lacs",
                     "4th Year": "INR 4.13 Lacs",
                     "5th Year": "INR 4.13 Lacs",
                     "6th Year": "INR 4.13 Lacs"
@@ -213,10 +214,10 @@ export const alteuniversitygeorgia = {
 
         },
         {
-            
+
             "type": "table",
             "title": "Syllabus at Alte University School of Medicine",
-            "info": "<b>The following is the full course schedule for the MBBS program at Alte State Medical University:</b>",
+            "info": "The following is the full course schedule for the MBBS program at Alte State Medical University:",
             "col": [
                 "1st Year",
                 "2nd Year",
@@ -368,7 +369,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Alte University School of Medicine",
-            "info": "<b>For Indian students, Alte University has the top medical programs. In addition, the university provides a range of programs for international students. The option of doing a medical course is widely available to students. These are some of the primary courses offered:</b>",
+            "info": "For Indian students, Alte University has the top medical programs. In addition, the university provides a range of programs for international students. The option of doing a medical course is widely available to students. These are some of the primary courses offered:",
             "data": [
                 "Dentistry",
                 "Pedagogy",
@@ -381,23 +382,23 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Duration of MBBS Course at Alte University",
-            "info": "<b>The Alte University School of Medicine's MBBS curriculum lasts six years. Have look on the detailed curriculum of the course:</b>",
+            "info": "The Alte University School of Medicine's MBBS curriculum lasts six years. Have look on the detailed curriculum of the course -",
             "data": [
                 "The MBBS curriculum at the Alte University lasts 5 years plus 1 year for Indian students.",
                 "Also, it outlines the clinical rotation and internship required to work as a doctor anywhere in the world, including Georgia. Students will study every theory and do laboratory experiments over the period of five years. The entire MBBS program's length complies with all current NMC rules.",
             ]
         },
-        
+
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Alte University School of Medicine - Courses & Fees 2023" },
+                { name: "title", content: "Alte University, Georgia - Courses & Fees 2023" },
                 { name: "description", content: "Alte University offers the MBBS in Georgia at a reasonable fee. This makes it the best to choose to study abroad. Click here to know the MBBS fee structure." },
             ],
         },
         {
             type: "meta-title",
-            title: "Alte University School of Medicine - Courses & Fees 2023"
+            title: "Alte University, Georgia - Courses & Fees 2023"
         },
         {
             type: "meta-links",
@@ -414,7 +415,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Alte University School of Medicine",
-            "info": "<b>The NMC regulations for Indian students who wish to study overseas are carefully followed by the MBBS eligibility at Alte University. Below mentioned are the criteria which you need to fit in:</b>",
+            "info": "The NMC regulations for Indian students who wish to study overseas are carefully followed by the MBBS eligibility at Alte University. Below mentioned are the criteria which you need to fit in:",
             "data": [
                 "A grade of 50% or higher in PCB in Class 12 is required for admission to Alte University.",
                 "The candidate must be at least 17 years old. ",
@@ -425,7 +426,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "step-list",
             "title": "How to Apply at Alte University?",
-            "info": "<b>Follow these simple steps to take admission to Alte State Medical University:</b>",
+            "info": "Follow these simple steps to take admission to Alte State Medical University:",
             "data": [
                 "<b>Step 1:</b> Students must complete out an online application form along with the necessary paperwork.",
                 "<b>Step 2:</b> As soon as the university receives the application, it issues an offer letter. Students can put their fees into the university's bank account.",
@@ -437,7 +438,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Documents Required at Alte University",
-            "info": "<b>Below is the list of important documents required to take admission to the Alte University:</b>",
+            "info": "Below is the list of important documents required to take admission to the Alte University:",
             "data": [
                 "10th mark sheet",
                 "12th mark sheet",
@@ -445,14 +446,14 @@ export const alteuniversitygeorgia = {
                 "A medical report",
                 "HIV/AIDS report",
                 "Passport size photos",
-                "Original Passport", 
+                "Original Passport",
                 "Covid-19 Report",
             ]
         },
         {
             "type": "table",
             "title": "Alte University - Important Dates & Intake 2023",
-            "info": "<b>To know the academic dates & process, check out the table:</b>",
+            "info": "To know the academic dates & process, check out the table:",
             "col": [
                 "Events",
                 "Date"
@@ -498,24 +499,31 @@ export const alteuniversitygeorgia = {
     "review": [
         {
             type: 'title',
-            title: 'Alte University, Georgia - Reviews'
+            title: 'Alte University, Georgia - Student Reviews'
         },
         {
-            "type": "list-bollet",
-            "title": "Reviews on Alte University",
-            "info": "<b>Here are some of the reviews by students studying at University at the moment:</b>",
-            "data": [
-                "<b>Neha Patel</b><p>I'm really enjoying my time at Alte University. The professors are knowledgeable and supportive, and the campus has a great community feel to it. I've learned a lot and made some great friends along the way</p>",
-                "<b>Arun kumar</b><p>Alte University has exceeded my expectations. The curriculum is challenging, but the professors are always there to help and provide guidance. The campus is beautiful and there are plenty of resources available to help students succeed.</p>",
-                "<b>Sneha Sharma</b><p>I highly recommend Alte University to anyone looking for a quality education. The professors are passionate about their subjects and it shows in their teaching. The campus is modern and well-maintained, and the staff is friendly and helpful. I've had a great experience here so far!</p>"
-            ]
+            "type": "text",
+            "title": "",
+            "info": "Neha Patel",
+            "data": "<p>I'm really enjoying my time at Alte University. The professors are knowledgeable and supportive, and the campus has a great community feel to it. I've learned a lot and made some great friends along the way</p>"
         },
-        
+        {
+            "type": "text",
+            "title": "",
+            "info": "Arun kumar",
+            "data": "<p>Alte University has exceeded my expectations. The curriculum is challenging, but the professors are always there to help and provide guidance. The campus is beautiful and there are plenty of resources available to help students succeed.</p>"
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Sneha Sharma",
+            "data": "<p>I highly recommend Alte University to anyone looking for a quality education. The professors are passionate about their subjects and it shows in their teaching. The campus is modern and well-maintained, and the staff is friendly and helpful. I've had a great experience here so far!</p>"
+        },
         {
             type: "meta",
             meta: [
                 { name: "title", content: "Alte University, Georgia - Student Reviews" },
-                { name: "description", content: "Get admission to Alte University to study MBBS in Georgia. Know what other students have to review about Alte University." },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
@@ -532,28 +540,18 @@ export const alteuniversitygeorgia = {
     "placement": [
         {
             type: 'title',
-            title: 'Alte University - Placements'
-        },
-        {
-            "type": "list-bollet",
-            "title": "Placement Required at Alte University",
-            "info": "<b>The University encourages jobs and internships with the division of student achievement with active participation from all the students. Following are the key points on the placement at Alte University:</b>",
-            "data": [
-                "The university offers platforms for student placements and internships because Alte University is committed to provide the ideal chances for its students.",
-                "For its students to study, the university offers student exchange programs which are set up on campus.",
-                "Students get to work as an intern in a reputable hospital which gives them the much needed exposure. ",
-            ]
+            title: 'Alte University, Georgia - Placement'
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Alte University, Georgia - Placements" },
-                { name: "description", content: "While studying MBBS in Georgia at Alte University, students need not worry about placement and internships as the university provides a strong base for it." },
+                { name: "title", content: "Alte University, Georgia - Placement" },
+                { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
             ],
         },
         {
             type: "meta-title",
-            title: "Alte University, Georgia - Placements"
+            title: "Alte University, Georgia - Placement"
         },
         {
             type: "meta-links",
@@ -567,69 +565,66 @@ export const alteuniversitygeorgia = {
             type: 'title',
             title: 'Alte University, Georgia - Gallery'
         },
-
-
         {
             "image": [
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-av-room.jpg",
-                    "alt": "alte university av room"
+                    "data": "../../assets/university_gallery/alte-university-av-room.jpg",
+                    "alt": "Alte University AV Room" },
+                {
+                    "type": "image",
+                    "data": "../../assets/university_gallery/alte-university-auditorium.jpg",
+                    "alt": "Alte University Auditorium"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-auditorium.jpg",
-                    "alt": "alte university auditorium"
+                    "data": "../../assets/university_gallery/alte-university-waiting-room.jpg",
+                    "alt": "Alte University Waiting Room"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-waiting-room.jpg",
-                    "alt": "alte university waiting room"
+                    "data": "../../assets/university_gallery/alte-university-function.jpg",
+                    "alt": "Alte University Function"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-function.jpg",
-                    "alt": "alte university function"
+                    "data": "../../assets/university_gallery/alte-university-conference.jpg",
+                    "alt": "Alte University Conference"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university-conference.jpg",
-                    "alt": "alte university conference"
-                },
-                {
-                    "type": "image",
-                    "data": "../../assets/img/university_gallery/alte-university.jpg",
-                    "alt": "alte university"
+                    "data": "../../assets/university_gallery/alte-university.jpg",
+                    "alt": "Alte University"
                 },
             ],
             "video": [
-                // {
-                //     "type": "video",
-                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
-                //     "alt": "Image 1"
-                // },
-                // {
-                //     "type": "video",
-                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
-                //     "alt": "Image 1"
-                // },
-                // {
-                //     "type": "video",
-                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
-                //     "alt": "Image 1"
-                // },
-                // {
-                //     "type": "video",
-                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
-                //     "alt": "Image 1"
-                // },
+                {
+                    // "type": "video",
+                    // "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                    // "alt": "Image 1"
+                },
+                {
+                    // "type": "video",
+                    // "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                    // "alt": "Image 1"
+                },
+                {
+                    // "type": "video",
+                    // "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                    // "alt": "Image 1"
+                },
+                {
+                    // "type": "video",
+                    // "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                    // "alt": "Image 1"
+                },
             ]
         },
         {
             type: "meta",
             meta: [
                 { name: "title", content: "Alte University, Georgia - Gallery" },
-                { name: "description", content: "Know about Alte University, Georgia here visibly. Check out the gallery section of the university here." },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
             ],
         },
         {
@@ -651,7 +646,7 @@ export const alteuniversitygeorgia = {
         {
             "type": "list-bollet",
             "title": "Scholarship Provided at Alte University",
-            "info": "<b>University provides some scholarships for the students on some conditions:</b>",
+            "info": "University provides some scholarships for the students on some conditions:",
             "data": [
                 "students with exceptional academic records",
                 "Entrants from underprivileged backgrounds who perform well on national exams; University Scholars",
@@ -662,7 +657,7 @@ export const alteuniversitygeorgia = {
             type: "meta",
             meta: [
                 { name: "title", content: "Alte University, Georgia - Scholarships" },
-                { name: "description", content: "Alte University, Georgia provides study funding to help Indian students study MBBS in Georgia. Here are the conditions to get a scholarship at Alte University." },
+                { name: "description", content: "Alte University, Georgia provides study funding to help Indian students study MBBS in Georgia. Here are the conditions to get scholarship at Alte University." },
             ],
         },
         {
@@ -679,45 +674,18 @@ export const alteuniversitygeorgia = {
     "faculty": [
         {
             type: 'title',
-            title: 'Alte University, Georgia - Faculties'
-        },
-        {
-            "type": "table",
-            "title": "Faculties at Alte University International Medical School",
-            "info": "<b>Below is the list of faculties at Alte University:</b>",
-            "col": [
-              "Name",
-              "Designation"
-            ],
-            "row": [
-              {
-                "Name":'<b>Kotiko Thordia</b>',
-                "Designation":"Invited personnel"
-              },
-              {
-                "Name":'<b>Sofo Khardzeishvili</b>',
-                "Designation":"Invited specialist"
-              },
-              {
-                "Name":'<b>Kakha Robakidze</b>',
-                "Designation":"Aassistant professor"
-              },
-              {
-                "Name":'<b>Tamar Mgeladze</b>',
-                "Designation":"Assistant professor"
-              }
-            ],
+            title: 'Alte University, Georgia - Faculty'
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Alte University International Medical School - Faculties" },
-                { name: "description", content: "Get to know the faculty of Alte University, Georgia for the MBBS course. One of the top universities of Georgia to study medicine course with top faculty." },
+                { name: "title", content: "Alte University - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
             ],
         },
         {
             type: "meta-title",
-            title: "Alte University International Medical School - Faculties"
+            title: "Alte University, Georgia - Faculty"
         },
         {
             type: "meta-links",
@@ -732,17 +700,43 @@ export const alteuniversitygeorgia = {
             title: 'Alte University, Georgia - News'
         },
 
-        
+        {
+            "type": "table",
+            "title": "Faculties at Alte University International Medical School",
+            "info": "Below is the list of faculties at Alte University :",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": '<b>Kotiko Thordia</b>',
+                    "Designation": "Invited personnel"
+                },
+                {
+                    "Name": '<b>Sofo Khardzeishvili</b>',
+                    "Designation": "Invited specialist"
+                },
+                {
+                    "Name": '<b>Kakha Robakidze</b>',
+                    "Designation": "Aassistant professor"
+                },
+                {
+                    "Name": '<b>Tamar Mgeladze</b>',
+                    "Designation": "Assistant professor"
+                }
+            ],
+        },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Alte University, Georgia - News" },
-                { name: "description", content: "Get all the alerts and notifications about studying abroad and getting your MBBS degree from Georgia's one of the top universities Alte University. Click here." },
+                { name: "title", content: "Alte University, Georgia - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
             ],
         },
         {
             type: "meta-title",
-            title: "Alte University, Georgia - News"
+            title: "Alte University, Georgia - News & Articles"
         },
         {
             type: "meta-links",
@@ -759,14 +753,14 @@ export const alteuniversitygeorgia = {
         {
             "type": "text",
             "title": "Hostel & Accommodation at Alte University",
-            "info": "<b>Look at the detailed review of accommodation facilities provided by Alte University:</b>",
+            "info": "Look at the detailed review of accommodation facilities provided by Alte University:",
             "data": "<p>There are so many students from different nations that come to study MBBS here. For international students joining the university, Alte University offers the greatest accommodation options. Students shouldn't worry their university offers reasonably priced, well-furnished housing options for international students.</p>"
         },
         {
             type: "meta",
             meta: [
                 { name: "title", content: " Alte University, Georgia - Hostel & Accommodation" },
-                { name: "description", content: "There is an accommodation facility for students studying MBBS at Alte University, Georgia. Know about the hostel here." },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
             ],
         },
         {
@@ -783,7 +777,7 @@ export const alteuniversitygeorgia = {
     "faq": [
         {
             type: 'title',
-            title: 'Alte University, Georgia - FAQs'
+            title: 'Alte University, Georgia - Important FAQs'
         },
         {
             "type": "question-list",
@@ -808,7 +802,7 @@ export const alteuniversitygeorgia = {
             type: "meta",
             meta: [
                 { name: "title", content: "Alte University, Georgia - Important FAQs" },
-                { name: "description", content: "Here are some of the frequently asked questions about MBBS in Georgia and Alte University. Get your answers here in FAQ section." },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
             ],
         },
         {

@@ -16,11 +16,10 @@ export const universityofeconomicsinkatowice = {
             "title": "",
             "data": "<p>The <b>University of Economics in Katowice</b> is a public university, established in the year 1937 in Katowice, Poland. It is regarded as the biggest, oldest, and leading Polish University for the study of Business Administration. The aspirants willing for the top business programs in bachelor and master degree gather at the Katowice campus of the university.</p><p>The University of Economics in Katowice is also known for its teaching programs as studded with expert faculties, best professionals, and greater alumni network for the campus and recruitment for the university students.</p><p>The University offers special tutoring programs for its best and deserving students; provides rector’s scholarships for the exceptional grades among all students studying business courses in Poland.</p><p>The Katowice University of Economics comprises a huge infrastructure, a beautiful campus, modern classrooms, and a great environment for study, learning, sports, competitions, recognitions, etc. Apart from that university has a big sports area with a swimming pool, different playgrounds, state of art libraries, multimedia theatre, and room, gym, etc.</p>"
         },
-
         {
             "type": "table-title",
             "title": "University of Economics in Katowice - Quick Highlights 2022",
-            "info": "<b>Below table shows quick overview for the international applicants willing to study at University of Economics in Katowice:</b>",
+            "info": "Below table shows quick overview for the international applicants willing to study at University of Economics in Katowice:",
             "row": [
                 ["<b>Intake for Course</b>", "March"],
                 ["<b>Entrance Examination</b>", "No, language proficiency certificate proof only"],
@@ -36,7 +35,7 @@ export const universityofeconomicsinkatowice = {
         {
             type: 'list-bollet',
             title: 'Why Study at the University of Economics in Katowice?',
-            info: '<b>Some of the reasons are mentioned as under for the study of BBA at this Polish university:</b>',
+            info: 'Some of the reasons are mentioned as under for the study of BBA at this Polish university:',
             data: [
                 "The University is one of the leading public universities in Poland.",
                 "University of Economics in Katowice is measured among the top business Schools in Poland for English courses.",
@@ -49,7 +48,7 @@ export const universityofeconomicsinkatowice = {
         {
             type: 'list-bollet',
             title: 'Accreditation',
-            info: '<b>The University of Economics in Katowice is accredited with the following:</b>',
+            info: 'The University of Economics in Katowice is accredited with the following:',
             data: [
                 "The Katowice public University of Economics has officially achieved requirements accreditation of the Min. of Science and Higher Education of Poland.",
                 "Also, The University of Economics in Katowice city of Economics is a member of a prestigious renowned group of the European University Association(EUA)."
@@ -58,7 +57,7 @@ export const universityofeconomicsinkatowice = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>The teaching at the University of Economics in Katowice is in the following medium:</b>',
+            info: 'The teaching at the University of Economics in Katowice is in the following medium:',
             data: [
                 "The English Medium courses are available for Bachelor’s and Master’s Degrees for International students.",
                 "The curriculum and classroom teaching is also available in the same language for students with separate programs available in full English. But, Polish language courses are too facilitated for native students of Poland and interested candidates."
@@ -68,7 +67,7 @@ export const universityofeconomicsinkatowice = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living of the Katowice city for an individual is in the table:</b>",
+            "info": "The cost of living of the Katowice city for an individual is in the table:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -120,14 +119,16 @@ export const universityofeconomicsinkatowice = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-economics-in-katowice" }
             ]
         }
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Fee Structure (for BBA Course)",
-            "info": "<b>The table shows the approximate fee structure of the RISEBA BBA program:</b><p><b>1 BBA</b></p>",
+            "info": "The table shows the approximate fee structure of the RISEBA BBA program:<p>1 BBA</p>",
             "col": [
                 "Particular",
                 "Annual Fee",
@@ -155,7 +156,7 @@ export const universityofeconomicsinkatowice = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>PLN</b>",
+            "info": "PLN",
             "col": [
                 "Course/Fees",
                 "Semester Tuition Fees",
@@ -179,7 +180,7 @@ export const universityofeconomicsinkatowice = {
         {
             "type": "table",
             "title": "Fee Structure (for MIM Course)",
-            "info": "<b>The table shows the approximate fee structure of the University of Economics in Katowice program:</b><p><b>2 MIM</b></p>",
+            "info": "The table shows the approximate fee structure of the University of Economics in Katowice program:<p>2 MIM</p>",
             "col": [
                 "Course/Fees",
                 "Semester Tuition Fees",
@@ -202,7 +203,7 @@ export const universityofeconomicsinkatowice = {
         {
             type: 'list-bollet',
             title: 'Course Duration (for MIM)',
-            info: '<b>The course duration of the program is as below:</b>',
+            info: 'The course duration of the program is as below:',
             data: [
                 "The Course duration for the English Master’s program is 2 years in total, which concludes 4 semesters to complete MIM from the completed Katowice University of Economics.",
             ]
@@ -210,7 +211,7 @@ export const universityofeconomicsinkatowice = {
         {
             "type": "table-title",
             "title": "Courses Offered",
-            "info": "<b>The list of courses at the University of Economics in Katowice is:</b>",
+            "info": "The list of courses at the University of Economics in Katowice is:",
             "colTitle": "Bachelor Degree",
             "row": [
                 ["Finance and Accounting for Business-25 Seats", "International Business-75 Seats"]
@@ -249,9 +250,13 @@ export const universityofeconomicsinkatowice = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria (for BBA Course)',
-            info: '<b>The applicant must be completely fit in the below eligibility criteria:</b>',
+            info: 'The applicant must be completely fit in the below eligibility criteria:',
             data: [
                 "The applicant must complete his higher School from a Government recognized institute with original proof of it.",
                 "The applicant applying for the bachelor program of any Poland University must require a diploma/10+2 in English original in a relevant field.",
@@ -260,7 +265,7 @@ export const universityofeconomicsinkatowice = {
         {
             "type": "table",
             "title": "English Language Requirements (for BBA Course)",
-            "info": "<b>The applicant must be completely fit in the below eligibility criteria:</b>",
+            "info": "The applicant must be completely fit in the below eligibility criteria:",
             "col": [
                 "Exam Name",
                 "Exam Full Name",
@@ -303,7 +308,7 @@ export const universityofeconomicsinkatowice = {
         {
             type: 'list-bollet',
             title: 'Course Duration (for BBA Course)',
-            info: '<b>The course duration of the program is as below:</b>',
+            info: 'The course duration of the program is as below:',
             data: [
                 "The Course duration for the English Business BBA program is 3 years in total, which concludes 6 semesters to complete achieved requirements BBA from the Katowice University of Economics."
             ]
@@ -311,7 +316,7 @@ export const universityofeconomicsinkatowice = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria (for MIM)',
-            info: '<b>The applicant must be completely fit in the below eligibility criteria:</b>',
+            info: 'The applicant must be completely fit in the below eligibility criteria:',
             data: [
                 "The applicant must complete its higher School from a Government recognized institute with original proof of it.",
                 "The applicant applying for the master’s program of any Poland University must require a bachelor’s degree in English with a degree certificate originally in a relevant field.",
@@ -320,7 +325,7 @@ export const universityofeconomicsinkatowice = {
         {
             type: 'step-list',
             title: 'Admission Process For Bachelor’s and Master’s Program',
-            info: '<b>Below are the steps to be followed for the error-free online admission:</b>',
+            info: 'Below are the steps to be followed for the error-free online admission:',
             data: [
                 "<b>Step 1:</b> <b>Form Filling:</b> Study the information given on the admission portal of the University of Economics in Katowice about tuition fees, schedule of curriculum, rules into Dream Apply System.",
                 "<b>Step 2:</b> <b>Scanning Documents:</b> Scanning of all required documents like high school, academic copies, photographs, etc, and then submitting those. After uploading, forget not to click on the submit button at the portal.",
@@ -334,7 +339,7 @@ export const universityofeconomicsinkatowice = {
         {
             type: 'list-bollet',
             title: 'Documents Required (for MIM)',
-            info: '<b>The list of documents required for the admission of the MIM:</b>',
+            info: 'The list of documents required for the admission of the MIM:',
             data: [
                 "Application form",
                 "Birth certificate",
@@ -374,6 +379,10 @@ export const universityofeconomicsinkatowice = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Economics in Katowice, Poland - Reviews" },
@@ -392,6 +401,10 @@ export const universityofeconomicsinkatowice = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -412,6 +425,10 @@ export const universityofeconomicsinkatowice = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Economics in Katowice, Poland - Gallery" },
@@ -431,9 +448,13 @@ export const universityofeconomicsinkatowice = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - Scholarship'
+        },
+        {
             type: 'list-bollet',
             title: 'Scholarship',
-            info: '<b>Following are the scholarships offered by the University of Economics in Katowice for making full use of it have a look -</b>',
+            info: 'Following are the scholarships offered by the University of Economics in Katowice for making full use of it have a look -',
             data: [
                 "Rector’s scholarship",
                 "Disability scholarship",
@@ -461,6 +482,10 @@ export const universityofeconomicsinkatowice = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Economics in Katowice, Poland - Faculty" },
@@ -479,6 +504,10 @@ export const universityofeconomicsinkatowice = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -499,9 +528,13 @@ export const universityofeconomicsinkatowice = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Hostels & Accommodations at University of Economics in Katowice',
-            info: '<b>The following provides information and details about the hostel services offered by University of Economics in Katowice:</b>',
+            info: 'The following provides information and details about the hostel services offered by University of Economics in Katowice:',
             data: [
                 "BaseCamp Katowice",
                 "Akademik Polonia",
@@ -530,9 +563,13 @@ export const universityofeconomicsinkatowice = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Economics in Katowice, Poland - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Economics in Katowice - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What was the establishment year of the University of Economics in Katowice?",

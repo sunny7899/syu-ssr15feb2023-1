@@ -19,7 +19,7 @@ export const moscowaviationinstitute = {
         {
             "type": "table-title",
             "title": "Moscow Aviation Institute - Quick Highlights",
-            "info": "<b>The table shows the quick highlights for the students willing to study aviation at Russian MAI university:</b>",
+            "info": "The table shows the quick highlights for the students willing to study aviation at Russian MAI university:",
             "row": [
                 ["<b>Entrance Examination</b>", "Yes, by MAI"],
                 ["<b>Annual Tuition Fees (approx)</b>", "6000 USD/year"],
@@ -33,7 +33,7 @@ export const moscowaviationinstitute = {
         {
             type: 'list-bollet',
             title: 'Why Choose Moscow Aviation Institute?',
-            info: '<b>Some of the interesting features of the Moscow Aviation Institute is noted for students willing to study at MAI:</b>',
+            info: 'Some of the interesting features of the Moscow Aviation Institute is noted for students willing to study at MAI:',
             data: [
                 "MAI is one of the leading technical universities under the top 50 in Russia.",
                 "The university is renowned globally in the aviation sector.",
@@ -48,7 +48,7 @@ export const moscowaviationinstitute = {
         {
             "type": "table",
             "title": "Moscow Aviation Institute - Ranking 2022",
-            "info": "<b>UniRank has mentioned the following ranks for the Moscow Aviation Institute:</b>",
+            "info": "UniRank has mentioned the following ranks for the Moscow Aviation Institute:",
             "col": [
                 "Country",
                 "World",
@@ -63,19 +63,19 @@ export const moscowaviationinstitute = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>The medium of teaching for the students at the MAI are as follows:</b>',
-            data: "<p><b>The medium of teaching for the students at the MAI are as follows:</b></p><p>Both the aviation bachelor’s and master’s degree programs are available in English and Russian medium. While their medium of teaching is irrespective of their categories like English and Russian has chosen by the following students are provided.</p>"
+            info: 'The medium of teaching for the students at the MAI are as follows:',
+            data: "<p>Both the aviation bachelor’s and master’s degree programs are available in English and Russian medium. While their medium of teaching is irrespective of their categories like English and Russian has chosen by the following students are provided.</p>"
         },
         {
             type: 'text',
             title: 'Accreditation',
-            info: '<b>Moscow Aviation Institute is accredited with the followings:</b>',
-            data: "<p><b>Moscow Aviation Institute is accredited with the followings:</b></p><p>Min. Science and Higher Education of Russian Association and Min. of industry and trade of Russia.</p>"
+            info: 'Moscow Aviation Institute is accredited with the followings:',
+            data: "<p>Min. Science and Higher Education of Russian Association and Min. of industry and trade of Russia.</p>"
         },
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The table shows the general expenses and cost of living in Moscow city of Russia for one person:</b>",
+            "info": "The table shows the general expenses and cost of living in Moscow city of Russia for one person:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -130,9 +130,14 @@ export const moscowaviationinstitute = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Moscow Aviation Institute - Fee Structure",
-            "info": "<b>The table gives a basic idea of the fee structure of the Moscow Aviation Institute and its expenses of the foreign students:</b>",
+            "info": "The table gives a basic idea of the fee structure of the Moscow Aviation Institute and its expenses of the foreign students:",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -160,7 +165,7 @@ export const moscowaviationinstitute = {
         {
             "type": "table-title",
             "title": "Courses offered at MAI",
-            "info": "<b>Bachelor/Master</b>",
+            "info": "Bachelor/Master",
             "row": [
                 ["Aircraft Engineering", "Spacecraft Engineering"],
                 ["Control System <br>Computer Science Engineering", "Propulsion Engineering"]
@@ -208,9 +213,14 @@ export const moscowaviationinstitute = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>For seeking admission at the MAI, the applicant must be perfectly fit in the below eligibility criteria:</b>",
+            "info": "For seeking admission at the MAI, the applicant must be perfectly fit in the below eligibility criteria:",
             "data": [
                 "The applicant must be 17 or above for the bachelor’s program.",
                 "The applicant must have completed their bachelor’s degree for admission to a master’s course.",
@@ -221,7 +231,7 @@ export const moscowaviationinstitute = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following are the steps of the admission procedure for the international students seeking a seat at the MAI for the bachelors or masters as directed by the university:</b>',
+            info: 'Following are the steps of the admission procedure for the international students seeking a seat at the MAI for the bachelors or masters as directed by the university:',
             data: [
                 "Step 1: Sending of higher secondary documents to the university with transcript and waiting for approval.",
                 "Step 2: Once approved by the MAI, filling up the online application form and then signing for a contract.",
@@ -235,7 +245,7 @@ export const moscowaviationinstitute = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>List of documents is mentioned as under for the foreign students as per the official site of the MAI:</b>",
+            "info": "List of documents is mentioned as under for the foreign students as per the official site of the MAI:",
             "data": [
                 "Application form",
                 "Invitation and motivation letter",
@@ -271,6 +281,11 @@ export const moscowaviationinstitute = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow Aviation Institute, Russia - Reviews" },
@@ -289,6 +304,11 @@ export const moscowaviationinstitute = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -309,6 +329,11 @@ export const moscowaviationinstitute = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow Aviation Institute, Russia - Gallery" },
@@ -328,9 +353,14 @@ export const moscowaviationinstitute = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Following are the scholarships offered by the Moscow Aviation Institute -</b>",
+            "info": "Following are the scholarships offered by the Moscow Aviation Institute -",
             "data": [
                 "Education Future International Scholarship - USA & Non-USA",
                 "BP Scholarship",
@@ -358,6 +388,11 @@ export const moscowaviationinstitute = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow Aviation Institute, Russia - Faculty" },
@@ -376,6 +411,11 @@ export const moscowaviationinstitute = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -396,9 +436,14 @@ export const moscowaviationinstitute = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Some of the features of the hostel at MAI are:</b>",
+            "info": "Some of the features of the hostel at MAI are:",
             "data": [
                 "MAI has a total of 9 dormitories for its students having 7200 beds in total.",
                 "The dormitories are equipped with all basic facilities like beds, pillows, cushions, toilets, bathrooms, curtains, wardrobes, and study tables.",
@@ -448,9 +493,14 @@ export const moscowaviationinstitute = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Moscow Aviation Institute, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Moscow Aviation Institute - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What are the annual expenses at the MAI for foreign students?",

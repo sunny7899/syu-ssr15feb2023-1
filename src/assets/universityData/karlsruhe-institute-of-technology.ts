@@ -19,7 +19,7 @@ export const karlsruheinstituteoftechnology = {
         {
             "type": "table-title",
             "title": "Karlsruhe Institute of Technology - Quick Overview",
-            "info": "<b>The table mentions the quick highlights for the engineering study in Germany at Karlsruhe Institute of Technology university for International students:</b>",
+            "info": "The table mentions the quick highlights for the engineering study in Germany at Karlsruhe Institute of Technology university for International students:",
             "col": [],
             "row": [
                 ["<b>Intake</b>", "Summer - 15 Jan Winter - 15 July"],
@@ -38,7 +38,7 @@ export const karlsruheinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "Why Study Engineering at Karlsruhe Institute of Technology?",
-            "info": "<b>Some mesmerizing features about the KIT are noted below:</b>",
+            "info": "Some mesmerizing features about the KIT are noted below:",
             "data": [
                 "KIT is one of the leading technical universities to study engineering in Germany, which has its research center.",
                 "It ranks among the top educational universities in the country at 21st number.",
@@ -61,7 +61,7 @@ export const karlsruheinstituteoftechnology = {
         {
             "type": "table",
             "title": "Karlsruhe Institute of Technology - Ranking 2022",
-            "info": "<b>UniRank has represented Karlsruhe Institute of Technology at below ranks:</b>",
+            "info": "UniRank has represented Karlsruhe Institute of Technology at below ranks:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -76,7 +76,7 @@ export const karlsruheinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "Accreditation",
-            "info": "<p><b>KIT accreditation is mentioned in detail as under:</b></p><p><b>Karlsruhe Institute of Technology is accredited and a member of the following:<b></p>",
+            "info": "<p>KIT accreditation is mentioned in detail as under:</p><p>Karlsruhe Institute of Technology is accredited and a member of the following:</p>",
             "data": [
                 "CESAER - Conference of European Schools of Advanced Engg Edu and Research",
                 "Association of European-Member",
@@ -87,7 +87,7 @@ export const karlsruheinstituteoftechnology = {
         {
             "type": "table",
             "title": "Cost of Living in Aachen, Germany",
-            "info": "<b>Aachen has a low living expense that is affordable for the students, go through the table varying according to the individual needs:</b>",
+            "info": "Aachen has a low living expense that is affordable for the students, go through the table varying according to the individual needs:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -150,10 +150,15 @@ export const karlsruheinstituteoftechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Karlsruhe Institute of Technology - Fee Structure 2023",
-            "info": "<b>Bachelor Degree</b>",
-            "textBelowInfo": "<b>Master Degree</b>",
+            "info": "Bachelor Degree",
+            "textBelowInfo": "Master Degree",
             "col": [
                 "Particulars",
                 "Annual Fees",
@@ -197,7 +202,7 @@ export const karlsruheinstituteoftechnology = {
         {
             "type": "number-list",
             "title": "Courses Offered at Karlsruhe Institute of Technology",
-            "info": "<b>Following are the below list of courses offered by the Karlsruhe Institute of Technology in English Language:</b>",
+            "info": "Following are the below list of courses offered by the Karlsruhe Institute of Technology in English Language:",
             "data": [
                 "Bachelor Degree programs Mechanical Engineering",
                 " Master Degree programs Water Science and Engineering Geophysics Optics and photonics Financial Engineering Meteorology and Climate Physics Remote Sensing and Geoinformatics",
@@ -222,6 +227,11 @@ export const karlsruheinstituteoftechnology = {
         }
     ],
     "admission": [
+        {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - Admission 2023"
+
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -318,7 +328,7 @@ export const karlsruheinstituteoftechnology = {
         {
             "type": "table",
             "title": "Karlsruhe Institute of Technology - Important Dates 2022",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "col": [
                 "Events",
                 "Dates",
@@ -345,7 +355,7 @@ export const karlsruheinstituteoftechnology = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "col": [
                 "Events",
                 "Dates",
@@ -389,6 +399,11 @@ export const karlsruheinstituteoftechnology = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Karlsruhe Institute of Technology, Germany - Reviews" },
@@ -408,9 +423,14 @@ export const karlsruheinstituteoftechnology = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - Placement"
+
+        },
+        {
             "type": "table",
             "title": "placement",
-            "info": "<b>Below is the placement details of Karlsruhe Institute of Technology:</b>",
+            "info": "Below is the placement details of Karlsruhe Institute of Technology:",
             "col": [
                 "Programme",
                 "Average Annual Salary",
@@ -433,7 +453,7 @@ export const karlsruheinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Top Recruiter</b>",
+            "info": "Top Recruiter",
             "data": [
                 "Vector",
                 "Zeiss",
@@ -464,6 +484,11 @@ export const karlsruheinstituteoftechnology = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Karlsruhe Institute of Technology, Germany - Gallery" },
@@ -483,9 +508,14 @@ export const karlsruheinstituteoftechnology = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarship that is provided at Karlsruhe Institute of Technology are as follows:</b>",
+            "info": "The scholarship that is provided at Karlsruhe Institute of Technology are as follows:",
             "data": [
                 "Baden-Württemberg-Scholarship for Overseas",
                 "DAAD-Scholarship",
@@ -525,8 +555,13 @@ export const karlsruheinstituteoftechnology = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -575,6 +610,11 @@ export const karlsruheinstituteoftechnology = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Karlsruhe Institute of Technology, Germany - News & Articles" },
@@ -593,6 +633,11 @@ export const karlsruheinstituteoftechnology = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - Hostel"
+
+        },
         {
             type: "meta",
             meta: [
@@ -613,9 +658,14 @@ export const karlsruheinstituteoftechnology = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Karlsruhe Institute of Technology, Germany - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Karlsruhe Institute of Technology - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How old Karlsruhe Institute of Technology?",

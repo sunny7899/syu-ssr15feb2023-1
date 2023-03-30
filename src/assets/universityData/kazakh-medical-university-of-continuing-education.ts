@@ -19,7 +19,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "table-title",
             "title": "Kazakh Medical University of Continuing Education: Quick Highlights",
-            "info": "<b>Here are major highlights of the Kazakh Medical University of Continuing Education:</b>",
+            "info": "Here are major highlights of the Kazakh Medical University of Continuing Education:",
             "col": [
             ],
             "row": [
@@ -35,7 +35,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Kazakh Medical University of Continuing Education?",
-            "info": "<b>Check out the benefits of studying MBBS in Kazakh Medical University of Continuing Education:</b>",
+            "info": "Check out the benefits of studying MBBS in Kazakh Medical University of Continuing Education:",
             "data": [
                 "Kazakh Medical University of Continuing Education has highly educated professors, doctors and teachers.",
                 "Hassle-free admission procedure.",
@@ -56,7 +56,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "list-bollet",
             "title": "Recognitions and Accreditations",
-            "info": "<b>The Kazakh Medical University of Continuing Education has been accredited as well as recognised by:</b>",
+            "info": "The Kazakh Medical University of Continuing Education has been accredited as well as recognised by:",
             "data": [
                 "National Medical Commission (NMC)",
                 "Ministry of Education and Science of Kazakhstan",
@@ -66,7 +66,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "table",
             "title": "Kazakh Medical University - FMGE Performance 2021",
-            "info": "<b>Kazakh Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Kazakh Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -85,7 +85,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "table",
             "title": "Kazakh Medical University of Continuing Education: Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Kazakh Medical University of Continuing Education:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Kazakh Medical University of Continuing Education:",
             "col": [
                 "Country",
                 "World"
@@ -100,7 +100,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "table",
             "title": "Living Expenses",
-            "info": "<b>Almaty city has low Living cost which is affordable for global medical aspirants, and the monthly based expenses of Almaty are given below in the following table:</b>",
+            "info": "Almaty city has low Living cost which is affordable for global medical aspirants, and the monthly based expenses of Almaty are given below in the following table:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -138,7 +138,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Almaty is one of the top tourist destinations of Kazakhstan, so if someone is heading to Almaty city and wants to know the exploring places, Here are some sightseeing places of Almaty:</b>",
+            "info": "Almaty is one of the top tourist destinations of Kazakhstan, so if someone is heading to Almaty city and wants to know the exploring places, Here are some sightseeing places of Almaty:",
             "col": [
 
             ],
@@ -171,9 +171,14 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kazakh National Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Medical University of Lublin - MBBS Fee structure 2022",
-            "info": "<b>The Medical University of Lublin offers a cost-effective fee to worldwide medical aspirants for pursuing MBBS course:</b>",
+            "info": "The Medical University of Lublin offers a cost-effective fee to worldwide medical aspirants for pursuing MBBS course:",
             "col": [
                 "Particulars",
                 "Course Fee",
@@ -201,7 +206,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Kazakh Medical University of Continuing Education",
-            "info": "<b>The Kazakh Medical University of Continuing Education has a number of Medicine faculties:</b>",
+            "info": "The Kazakh Medical University of Continuing Education has a number of Medicine faculties:",
             "data": [
                 "General Medicine",
                 "Therapeutic",
@@ -216,7 +221,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "list-bollet",
             "title": "Kazakh Medical University of Continuing Education: MBBS Duration",
-            "info": "<b>Kazakh Medical University of Continuing Education offers 6 years of medicine program:</b>",
+            "info": "Kazakh Medical University of Continuing Education offers 6 years of medicine program:",
             "data": [
                 "Medical studies in the Kazakh Medical University of Continuing Education lasts for about 6 years with English medium of teaching.",
                 "During 5 years of MBBS education, the students will get theoretical & practical knowledge of medicine and after that, they need to complete a mandatory internship for 1 year."
@@ -226,7 +231,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "text",
             "title": "Kazakh Medical University of Continuing Education: MBBS Syllabus",
-            "info": '<b>Following table given below shows the syllabus of medicine program in Kazakh Medical University of Continuing Education:</b>'
+            "info": 'Following table given below shows the syllabus of medicine program in Kazakh Medical University of Continuing Education>'
         },
 
         {
@@ -335,9 +340,14 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kazakh National Medical University - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Only those students will be eligible for MBBS admission, who will fit in following criteria given below:</b>",
+            "info": "Only those students will be eligible for MBBS admission, who will fit in following criteria given below:",
             "data": [
                 "The candidate must have a minimum age of 17 years or before 31st December of the admission year.",
                 "The candidates must clear higher secondary education with 50% aggregate in PCB Subjects.",
@@ -349,7 +359,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Each student looking to pursue MBBS in this university needs to follow admission steps given below:</b>",
+            "info": "Each student looking to pursue MBBS in this university needs to follow admission steps given below:",
             "data": [
                 "<b>Step 1:</b> Fill the online application form available on the official website of the university.",
                 "<b>Step 2:</b> Fill up all detailed information in the form and check it once before submission.",
@@ -363,7 +373,7 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>All documents needed to submit at the time of the admission process:</b>",
+            "info": "All documents needed to submit at the time of the admission process:",
             "data": [
                 "Students must submit their fully-filled online application form of the university.",
                 "Matriculation passing certificate & mark sheet is required during the admission process.",
@@ -399,6 +409,11 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kazakh National Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazakh National Medical University - Reviews" },
@@ -417,6 +432,11 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kazakh National Medical University - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -437,6 +457,11 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kazakh National Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazakh National Medical University - Gallery" },
@@ -456,9 +481,14 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kazakh National Medical University - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Kazakh Medical University of Continuing Education offers scholarship to it’s deserving students, below mention is the scholarship provided -</b>",
+            "info": "Kazakh Medical University of Continuing Education offers scholarship to it’s deserving students, below mention is the scholarship provided -",
             "data": [
                 "Kazakhstan Government scholarship"
             ]
@@ -483,6 +513,11 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kazakh National Medical University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazakh National Medical University - Faculty" },
@@ -501,6 +536,11 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kazakh National Medical University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -521,9 +561,14 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kazakh National Medical University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The Kazakh Medical University of Continuing Education hostels is well-furnished and equipped with all requirements for comfortable living:</b>",
+            "info": "The Kazakh Medical University of Continuing Education hostels is well-furnished and equipped with all requirements for comfortable living:",
             "data": [
                 "Fully furnished hostel rooms are provided in the University campus.",
                 "Hostel rooms are highly hygienic as the cleaning services are provided from time to time.",
@@ -570,9 +615,14 @@ export const kazakhmedicaluniversityofcontinuingeducation = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kazakh National Medical University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kazakh Medical University of Continuing Education: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is the Kazakh Medical University of Continuing Education worth a place to pursue an MBBS Career?",

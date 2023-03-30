@@ -19,7 +19,7 @@ export const pacificstatemedicaluniversity = {
     {
       "type": "table-title",
       "title": "Pacific State Medical University - Quick Highlights 2022",
-      "info": "<b>Go through the quick information of the Pacific State Medical University:</b>",
+      "info": "Go through the quick information of the Pacific State Medical University:",
       "row": [
         ["Intake for MBBS Course", "September"],
         ["NEET Examination", "Yes, Required"],
@@ -33,7 +33,7 @@ export const pacificstatemedicaluniversity = {
     {
       type: 'list-bollet',
       title: 'Why Study MBBS at Pacific State Medical University?',
-      info: '<b>Following are the benefits to study MBBS Course in Pacific State Medical University:</b>',
+      info: 'Following are the benefits to study MBBS Course in Pacific State Medical University:',
       data: [
         "The Pacific State Medical University provides a high standard of education to global students.",
         "The students pursuing MBBS in Pacific State Medical University get an affordable fee structure.",
@@ -51,13 +51,13 @@ export const pacificstatemedicaluniversity = {
     {
       "type": "text",
       "title": "Medium of Teaching",
-      "info": "",
-      "data": "<p><b>The medium of instruction at the Pacific State Medical University is English:</b></p><p>The medium of instructions for all foreign students at Pacific State Medical University is an English language.</p>"
+      "info": "The medium of instruction at the Pacific State Medical University is English:",
+      "data": "<p>The medium of instructions for all foreign students at Pacific State Medical University is an English language.</p>"
     },
     {
       "type": "table",
       "title": "Pacific State Medical University - Ranking 2022",
-      "info": "<b>According to Uni rank Consider the country & world ranking of the Pacific State Medical University:</b>",
+      "info": "According to Uni rank Consider the country & world ranking of the Pacific State Medical University:",
       "col": [
         "Country",
         "World",
@@ -72,7 +72,7 @@ export const pacificstatemedicaluniversity = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>The Medical degree from the Pacific State Medical University is accredited and recognized by several medical bodies:</b>",
+      "info": "The Medical degree from the Pacific State Medical University is accredited and recognized by several medical bodies:",
       "data": [
         "World Health Organization (WHO)",
         "National Medical Commission (NMC)"
@@ -81,7 +81,7 @@ export const pacificstatemedicaluniversity = {
     {
       "type": "table",
       "title": "Living Cost in Vladivostok City",
-      "info": "<b>Vladivostok city has a very low cost of expenses given below in the following table:</b>",
+      "info": "Vladivostok city has a very low cost of expenses given below in the following table:",
       "col": [
         "Particulars",
         "Approx Range in USD",
@@ -145,9 +145,14 @@ export const pacificstatemedicaluniversity = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Pacific State Medical University, Russia - courses & Fees"
+
+    },
+    {
       "type": "table",
       "title": "Pacific State Medical University - MBBS Fee Structure 2022",
-      "info": "<b>Pacific State Medical University offers low fee structure to worldwide students to study MBBS at affordable cost:</b>",
+      "info": "Pacific State Medical University offers low fee structure to worldwide students to study MBBS at affordable cost:",
       "col": [
         "Particular",
         "Annual Fees"
@@ -175,7 +180,7 @@ export const pacificstatemedicaluniversity = {
     {
       "type": "list-bollet",
       "title": "Courses Offered by Pacific State Medical University",
-      "info": "<b>The medicine faculties of the Pacific State Medical University are:</b>",
+      "info": "The medicine faculties of the Pacific State Medical University are:",
       "data": [
         "General Medicine",
         "Dentistry",
@@ -190,13 +195,13 @@ export const pacificstatemedicaluniversity = {
     {
       "type": "list-bollet",
       "title": "Pacific State Medical University - MBBS Duration",
-      "info": "",
-      "data": "<p><b>The duration of MBBS Course in Russia is 6 years:</b></p><p>Pacific State Medical University serves 6 years of Medicine study in the English language which includes 5 years of MBBS course and 1 year of internship.</p>",
+      "info": "The duration of MBBS Course in Russia is 6 years:",
+      "data": "<p>Pacific State Medical University serves 6 years of Medicine study in the English language which includes 5 years of MBBS course and 1 year of internship.</p>",
     },
     {
       "type": "table",
       "title": "Pacific State Medical University - MBBS Syllabus",
-      "info": "<b>The MBBS syllabus of Pacific state medical University is shown in the table below:</b>",
+      "info": "The MBBS syllabus of Pacific state medical University is shown in the table below:",
       "data": "<p>1st Year</p>",
       "col": [
         "1st Semester",
@@ -305,9 +310,14 @@ export const pacificstatemedicaluniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Pacific State Medical University, Russia - Admission 2023 "
+
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>Students are eligible for the admission process if they fit in the following criteria given below:</b>",
+      "info": "Students are eligible for the admission process if they fit in the following criteria given below:",
       "data": [
         "The student should have completed the age of 17 years or shall complete 17 years before 31st December of the admission year.",
         "The students should obtain 50% in PCB in 12th standard for the general category.",
@@ -318,7 +328,7 @@ export const pacificstatemedicaluniversity = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>Admission procedure of Pacific State Medical University is given below to study MBBS course:</b>',
+      info: 'Admission procedure of Pacific State Medical University is given below to study MBBS course:',
       data: [
         "Step 1: Fill the Online Application form with all academic and other important details.",
         "Step 2: Upload the scan copies of Academic documents.",
@@ -331,7 +341,7 @@ export const pacificstatemedicaluniversity = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>Following are the essential documents which must be submitted by the students to take admission in Pacific State Medical University:</b>",
+      "info": "Following are the essential documents which must be submitted by the students to take admission in Pacific State Medical University:",
       "data": [
         " 10th and 12th Marksheet",
         " Passport copy",
@@ -345,7 +355,7 @@ export const pacificstatemedicaluniversity = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>The students must check out some important admission dates for taking admission at Pacific State Medical University:</b>",
+      "info": "The students must check out some important admission dates for taking admission at Pacific State Medical University:",
       "col": [
         "Events",
         "Dates",
@@ -385,6 +395,11 @@ export const pacificstatemedicaluniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Pacific State Medical University, Russia - Reviews"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Pacific State Medical University, Russia - Reviews" },
@@ -403,6 +418,11 @@ export const pacificstatemedicaluniversity = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Pacific State Medical University, Russia - Placement"
+
+    },
     {
       "type": "list-bollet",
       "title": "placement",
@@ -433,6 +453,11 @@ export const pacificstatemedicaluniversity = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Pacific State Medical University, Russia - Gallery"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Pacific State Medical University, Russia - Gallery" },
@@ -451,6 +476,11 @@ export const pacificstatemedicaluniversity = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Pacific State Medical University, Russia - Scholarship"
+
+    },
     {
       "type": "list-bollet",
       "title": "scholarship",
@@ -481,6 +511,11 @@ export const pacificstatemedicaluniversity = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Pacific State Medical University, Russia - Faculty"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Pacific State Medical University, Russia - Faculty" },
@@ -499,6 +534,11 @@ export const pacificstatemedicaluniversity = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Pacific State Medical University, Russia - News & Articles"
+
+    },
     {
       type: "meta",
       meta: [
@@ -519,9 +559,14 @@ export const pacificstatemedicaluniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Pacific State Medical University, Russia - Hostel"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation Facility",
-      "info": "<b>The Pacific State Medicine University provides world-class hostel facilities in the university campus to worldwide students:</b>",
+      "info": "The Pacific State Medicine University provides world-class hostel facilities in the university campus to worldwide students:",
       "data": [
         "Fully furnished hostel room available in the university campus.",
         "Attached washroom/bathroom in hostel system.",
@@ -573,9 +618,14 @@ export const pacificstatemedicaluniversity = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Pacific State Medical University, Russia - FAQ"
+
+      },
+      {
         "type": "question-list",
         "title": "Pacific State Medical University - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. Can we pursue MBBS in Pacific state medical University without appearing for IELTS & TOEFL examination?",

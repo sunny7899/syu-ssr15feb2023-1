@@ -20,7 +20,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Bukovinian State Medical University: Quick Highlights 2022",
-            "info": "<b>Refer to the below course overview for studying MBBS at Bukovinian State Medical University:</b>",
+            "info": "Refer to the below course overview for studying MBBS at Bukovinian State Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "Twice in a year: February and September"],
                 ["<b>Basic Eligibility</b>", "50% in PCB"],
@@ -35,7 +35,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Benefits of Studying MBBS in Bukovinian Medical University',
-            info: '<b>Medical education at Bukovinian State Medical University is cost-effective and internationally recognized. The benefits of pursuing an MD/MBBS education at University are:</b>',
+            info: 'Medical education at Bukovinian State Medical University is cost-effective and internationally recognized. The benefits of pursuing an MD/MBBS education at University are:',
             data: [
                 "Cultural exposure is provided for an international student who come to study MBBS at BSMU.",
                 "Snack bars and cafes are located in the campus of the university.",
@@ -56,7 +56,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Bukovinian State Medical University: Ranking 2022",
-            "info": "<b>As per UniRank (4icu), the Country and World Ranking of Bukovinian State Medical University:</b>",
+            "info": "As per UniRank (4icu), the Country and World Ranking of Bukovinian State Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -73,7 +73,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Language Used for Teaching',
-            info: '<b>English is a commonly taught language at Bukovinian State Medical University:</b>',
+            info: 'English is a commonly taught language at Bukovinian State Medical University:',
             data: [
                 "The medium of teaching provided to students is English and Ukrainian.",
                 "The faculty have a good command over foreign languages and abundant experience of training foreign students."
@@ -82,7 +82,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Quick Facts: About Bukovinian State Medical University",
-            "info": "<b>The facts of Bukovinian State Medical University has been listed below:",
+            "info": "The facts of Bukovinian State Medical University has been listed be",
             "row": [
                 ["<b>Acronym</b>", "BSMU"],
                 ["<b>Accreditation</b>", "4th Level of Accreditation"],
@@ -96,13 +96,13 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'text',
             title: 'Accreditation and Recognition',
-            info: '<b>The Bukovinian State Medical University, Ukraine is officially recognised by various medical bodies mentioned below:</b>',
+            info: 'The Bukovinian State Medical University, Ukraine is officially recognised by various medical bodies mentioned below:',
             data: "<p>Bukovinian State Medical University has 42th position in the country.</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>The BSMU highly stable and has high ratings of higher educational establishments:</b>',
+            info: 'The BSMU highly stable and has high ratings of higher educational establishments:',
             data: [
                 "Licensed Exams “KROK” in 2016–2018 indicates it is leading among medical universities of Ukraine.",
                 "“TOP – 200 Ukraine” (UNESKO) in 2019 – 36th position among all the higher educational establishments of Ukraine; In 2019, 2nd position in medical higher educational establishments of Ukraine according to “Webometrics Ranking of World’s Universities”."
@@ -112,7 +112,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             "type": "table",
             "title": 'Bukovinian State Medical University: FMGE Performance 2021',
-            "info": '<b>Find the passing percent and appeared students in year 2021 for Bukovinian State Medical University is here in the table below:</b>',
+            "info": 'Find the passing percent and appeared students in year 2021 for Bukovinian State Medical University is here in the table below:</b>',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -131,7 +131,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Scientific Research Programme',
-            info: '<b>With advanced scientific research, the university has developed practical researches for society:</b>',
+            info: 'With advanced scientific research, the university has developed practical researches for society:</b>',
             data: [
                 "The scientific research society works progressively at BSMU.",
                 "With the student’s area of interest, they will gain a practical and theoretical skill of working with scientific literature.",
@@ -147,7 +147,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Structure of Bukovinian State Medical University',
-            info: '<b>The Structure of Bukovinian State Medical University has a blend of academic buildings, complex, hospitals and a playground:</b>',
+            info: 'The Structure of Bukovinian State Medical University has a blend of academic buildings, complex, hospitals and a playground:</b>',
             data: [
                 "University includes a lyceum, Vashkivtsi, Chernivtsi, Novoselitsa and Kovel Medical Colleges, four medical faculties, the faculty of dentistry and pharmaceutical faculty, the scientific training institute of postgraduate education, preparatory departments for Ukrainian and foreign students.",
                 "Nowadays the University has 12 academic buildings, all the clinical departments are located in 32 medical and pharmaceutical institutions of Chernivtsi and are equipped with modern facilities.",
@@ -158,7 +158,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Innovative Teaching Technologies',
-            info: '<b>Bukovinian State Medical University launches innovative technologies for students to get wide exposure:</b>',
+            info: 'Bukovinian State Medical University launches innovative technologies for students to get wide exposure:</b>',
             data: [
                 "1 Distance learning server<br>Powerful platform for providing evaporative teaching material for a successful learning of Medical Discipline",
                 "2 Electronic Journal<br>Modern electronic system enhanced the method of learning and mastering practical skills. It shows attendance and grades of each student rated as per their academic records.",
@@ -167,7 +167,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Special Features of Bukovinian State Medical University',
-            info: '<b>The following are the topmost features of Bukovinian State Medical University:</b>',
+            info: 'The following are the topmost features of Bukovinian State Medical University:</b>',
             data: [
                 "Improve the quality of training of Medical students.",
                 "Training of foreign citizens is carried out in 44 departments by highly qualified and experienced faculty.",
@@ -181,7 +181,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Students life at BSMU',
-            info: '<b>Life of students at Bukovinian State Medical University has a wonderful experience with a great learning piece of baggage:</b>',
+            info: 'Life of students at Bukovinian State Medical University has a wonderful experience with a great learning piece of baggage:</b>',
             data: [
                 "Bukovinian State Medical University provides hostel and accommodation facilities for students with annual fees of 30-50 USD per month.",
                 "Students' hostels are located near to the principal building and clinics of the university with a distance of 10 to 15 minutes by walking.",
@@ -200,7 +200,7 @@ export const bukovinianstatemedicaluniversity = {
             type: 'text',
             title: 'About Chernivtsi City',
             // img: 'ukraine-universities/chernivtsi-city.jpg</b>',
-            info: '<b>The moderate climate at Chernivtsi influences human life to stay in a healthy environment:',
+            info: 'The moderate climate at Chernivtsi influences human life to stay in a healthy environm',
             data: [
                 "Chernivtsi is a city of western Ukraine, economic and political center of Northern Bukovina.",
                 "The city has one of the cultural and educational centers of Ukraine.",
@@ -229,16 +229,17 @@ export const bukovinianstatemedicaluniversity = {
             ]
         }
 
-
-
-
     ],
 
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Bukovinian State Medical University: MBBS Fee Structure",
-            "info": "<b>Bukovinian State Medical University offers world-class medical education at affordable prices. Here, we have given the detailed fee structure of MBBS course for the annual year:</b>",
+            "info": "Bukovinian State Medical University offers world-class medical education at affordable prices. Here, we have given the detailed fee structure of MBBS course for the annual year:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -296,7 +297,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Bukovinian State Medical University: MBBS Duration',
-            info: '<b>6-year medicine program at Bukovinian State Medical University consists of 20 weeks in each semester:</b>',
+            info: '6-year medicine program at Bukovinian State Medical University consists of 20 weeks in each semester:',
             data: [
                 "Bukovinian State Medical University offers a 6 year MD course which is equivalent to an MBBS degree in India.",
                 "The course of study comprises the study of a number of medical problems, cardiovascular system, tuberculosis, endocrine and immune system.",
@@ -305,7 +306,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Complete MBBS Course Syllabus at BSMU",
-            "info": "<b>Bukovinian State Medical University has an internationally recognized curriculum for the MBBS course:</b>",
+            "info": "Bukovinian State Medical University has an internationally recognized curriculum for the MBBS course:",
             "textBelowInfo": "<b>1st Year</b>",
             "col": [
                 "Semester-I",
@@ -552,7 +553,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Learning Process",
-            "info": "<b>The medical education at Bukovinian State Medical University is carried out according to the license issued by the Ministry of Education and Science of Ukraine:</b>",
+            "info": "The medical education at Bukovinian State Medical University is carried out according to the license issued by the Ministry of Education and Science of Ukraine:",
             "textBelowInfo": "<b>The students can undergo medical education in the following different faculties:</b>",
             "row": [
                 ["Medicine (Doctor of Philosophy)", "General Medicine (Specialist)"],
@@ -565,7 +566,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>The BSMU nurture medical education through:</b>',
+            info: 'The BSMU nurture medical education through:',
             data: [
                 "6 Faculties",
                 "49 Departments",
@@ -578,7 +579,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Courses offered at Bukovinian State Medical University',
-            info: '<b>Below are the faculties offered at Bukovinian State Medical University:</b>',
+            info: 'Below are the faculties offered at Bukovinian State Medical University:',
             data: [
                 "Medical",
                 "Pediatrics",
@@ -591,7 +592,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Faculties of Postgraduate Studies',
-            info: '<b>Bukovinian State Medical University offers Masters & Specialization program in the field of medicine:</b>',
+            info: 'Bukovinian State Medical University offers Masters & Specialization program in the field of medicine:',
             data: [
                 "Obtaining the degree of Master of Medicine in the certain specialist by physician and pharmacists",
                 "Inaugurating the high medical educational establishment with III-IV accreditation level in clinical residency.",
@@ -602,7 +603,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>List of specializations for Postgraduate studies:</b>",
+            "info": "List of specializations for Postgraduate studies:",
             "row": [
 
                 ["Internal medicine (Cardiology, Gastroenterology, Endocrinology)", "Neonatology"],
@@ -627,27 +628,31 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - courses & Fees" },
+                { name: "description", content: "Bukovinian State Medical University established in 1944, is one of the largest medical university in Ukraine. Study MBBS in BSMU with low tuition fees & no donation." },
             ],
         },
 
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - courses & Fees"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/courses-and-fees" }
             ]
         }
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - Admission 2023 "
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria: For MBBS Course',
-            info: '<b>For enrolling into the course of medicine at Bukovinian State Medical University, students needs to follow the eligibility criteria as given below:</b>',
+            info: 'For enrolling into the course of medicine at Bukovinian State Medical University, students needs to follow the eligibility criteria as given below:',
             data: [
                 "Students aspiring MBBS from BSMU must have appeared for the subjects Physics, Chemistry and Biology in 12th class and should have qualified with minimum 50% marks.",
                 "The medical aspirant should have to clear NEET entrance exam. No additional exams will be taken for admission to Bukovinian State Medical University",
@@ -659,7 +664,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'How to take MBBS Admission in BSMU?',
-            info: '<b>MBBS Admissions at Bukovinian State Medical University are completely on merit basis. The following are the basic steps required for admission to Bukovinian State Medical University:</b>',
+            info: 'MBBS Admissions at Bukovinian State Medical University are completely on merit basis. The following are the basic steps required for admission to Bukovinian State Medical University:',
             data: [
                 "<b>Step 1:</b> Follow the information about the academic curriculum on the official portal of the university.",
                 "<b>Step 2:</b> Select your course & language of instruction for your study.",
@@ -674,7 +679,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: '<b>Refer the below documents checklists for applying MBBS course at Bukovinian State Medical University:</b>',
+            info: 'Refer the below documents checklists for applying MBBS course at Bukovinian State Medical University:',
             data: [
                 "Copy of application form",
                 "Copy of higher secondary education marksheets & transcripts",
@@ -692,7 +697,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: 'table',
             title: 'Bukovinian State Medical University - Intake & Deadlines 2022',
-            info: '<b>Here are some Important dates to remember if you want to pursue medical career at Bukovinian State Medical University :</b>',
+            info: 'Here are some Important dates to remember if you want to pursue medical career at Bukovinian State Medical University :',
             "col": [
                 "Events",
                 "Dates",
@@ -719,102 +724,122 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - Admission 2023 " },
+                { name: "description", content: "Bukovinian State Medical University ; Tuition Fee with Hostel. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - Admission 2023 "
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/admission" }
             ]
         }
     ],
     "review": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - Reviews"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/reviews" }
             ]
         }
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - Placement"
+        },
+        {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - Placement" },
+                { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
             ],
         },
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - Placement"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/placement" }
             ]
         }
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - Gallery"
+        },
+        {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
             ],
         },
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - Gallery"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/gallery" }
             ]
         }
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - Scholarship"
+        },
+        {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - Scholarship" },
+                { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
             ],
         },
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - Scholarship"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/scholarship" }
             ]
         }
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - Faculty"
+        },
+        {
             "type": 'table',
             "title": 'Bukovinian State Medical University - Intake & Deadlines 2022',
-            "info": '<b>Here are some Important dates to remember if you want to pursue medical career at Bukovinian State Medical University :</b>',
+            "info": 'Here are some Important dates to remember if you want to pursue medical career at Bukovinian State Medical University :',
             "col": [
                 "Name",
                 "Designation",
@@ -858,45 +883,53 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
             ],
         },
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - Faculty"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/faculty" }
             ]
         }
     ],
     "news": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
             ],
         },
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - News & Articles"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/news-and-articles" }
             ]
         }
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - Hostel"
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel and Accommodation',
-            info: '<b>Hostel & Accommodation at Bukovinian State Medical University provided on the first come first serve basis:</b>',
+            info: 'Hostel & Accommodation at Bukovinian State Medical University provided on the first come first serve basis:',
             data: [
                 "The university has a 7 hostel with corridor type and block type buildings.",
                 "The rooms are assigned to students with capacity of 3-4 students in each room.",
@@ -911,7 +944,7 @@ export const bukovinianstatemedicaluniversity = {
         {
             "type": 'table',
             "title": 'Cost of Living',
-            "info": '<b>Living cost in Chernivtsi has been listed below:</b>',
+            "info": 'Living cost in Chernivtsi has been listed below:',
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -942,26 +975,30 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - Hostel" },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
             ],
         },
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - Hostel"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/hostel" }
             ]
         }
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Bukovinian State Medical University - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Bukovinian State Medical University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Where is the Bukovinian State Medical University located?",
@@ -1000,18 +1037,18 @@ export const bukovinianstatemedicaluniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "" },
-                { name: "description", content: "" },
+                { name: "title", content: "Bukovinian State Medical University - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
             ],
         },
         {
             type: "meta-title",
-            title: ""
+            title: "Bukovinian State Medical University - FAQ"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/faq" }
             ]
         }
     ]

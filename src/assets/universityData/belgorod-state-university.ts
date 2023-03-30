@@ -20,7 +20,7 @@ export const belgorodstateuniversity = {
         {
             "type": "table-title",
             "title": "Belgorod State University: Quick Highlights",
-            "info": "<b>Given below is the table for quick facts about Belgorod State University:</b>",
+            "info": "Given below is the table for quick facts about Belgorod State University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Processing Time for MBBS Admission</b>", "45 - 60 days"],
@@ -37,7 +37,7 @@ export const belgorodstateuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Why Study MBBS at Belgorod State University?',
-            "info": '<b>Below are some of the benefits of studying at Belgorod State University:</b>',
+            "info": 'Below are some of the benefits of studying at Belgorod State University:',
             "data": [
                 "Belgorod State University is a one among the top medical universities located in Russia.",
                 "The course is taught in English at Belgorod State University, and thus a large number of international students including Indian students currently pursue MBBS in Russia.",
@@ -54,7 +54,7 @@ export const belgorodstateuniversity = {
         {
             "type": "table",
             "title": "Belgorod State University: Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Belgorod State University:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Belgorod State University:",
             "col": [
                 "Country",
                 "World",
@@ -71,7 +71,7 @@ export const belgorodstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Belgorod State University is one of the finest Government MBBS University in Russia that is approved by:</b>',
+            info: 'Belgorod State University is one of the finest Government MBBS University in Russia that is approved by:',
             data: [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)"
@@ -80,7 +80,7 @@ export const belgorodstateuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Medium of Teaching',
-            "info": '<b>The medium of instruction at Belgorod State University is English:</b>',
+            "info": 'The medium of instruction at Belgorod State University is English:</b>',
             "data": [
                 "At Belgorod State University, the medium of teaching is English. For easy understanding by all local as well as international students, all the lectures are delivered in the English language.",
                 "For local students, the option of Russian language is also available"
@@ -89,7 +89,7 @@ export const belgorodstateuniversity = {
         {
             type: 'list-bollet',
             title: "Life of Student's",
-            info: '<b>While students study a course like Medicine, it is important to keep them physically and mentaly fit and healthy. Thus, each medical university in Russia takes utmost care of students’ health and happiness. The life of students studying MBBS at Belgorod State University is as follows:</b>',
+            info: 'While students study a course like Medicine, it is important to keep them physically and mentaly fit and healthy. Thus, each medical university in Russia takes utmost care of students’ health and happiness. The life of students studying MBBS at Belgorod State University is as follows:',
             data: [
                 "The Belgorod State University is the largest educational and cultural center in the region.",
                 "Other than the academic section the university also takes care of their students by encouraging them to participate in other co-curricular activities.",
@@ -110,7 +110,7 @@ export const belgorodstateuniversity = {
         {
             "type": "table",
             title: 'Belgorod State University - FMGE Performance 2021',
-            info: '<b>The details about FMGE performance for Belgorod State University of year 2021 with passing percent is as follows:</b>',
+            info: 'The details about FMGE performance for Belgorod State University of year 2021 with passing percent is as follows:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -129,7 +129,7 @@ export const belgorodstateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Belgorod City",
-            "info": "<b>The cost of living at Belgorod city is as follows:</b>",
+            "info": "The cost of living at Belgorod city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -162,7 +162,7 @@ export const belgorodstateuniversity = {
             type: 'list-bollet',
             title: 'About Belgorod City',
             img: 'belgorod-city.jpg',
-            info: '<b>Some of the interesting facts about the Belgorod city are as follows:</b>',
+            info: 'Some of the interesting facts about the Belgorod city are as follows:',
             data: [
                 "Belgorod is a city located about 700 km south of Moscow and 40 km from the Russian border with Ukraine, the administrative center of Belgorod Oblast and in the south-west of the central European part of Russia.",
                 "Belgorod is the administrative center of Belgorod Oblast, located on the right bank of the Northern Donets River.",
@@ -192,9 +192,13 @@ export const belgorodstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: "title",
+            title: "Belgorod State University, Russia - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Belgorod State University: MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Belgorod State University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Belgorod State University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -251,7 +255,7 @@ export const belgorodstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Belgorod State University',
-            info: '<b>Some of the interesting facts about the Belgorod city are as follows:</b>',
+            info: 'Some of the interesting facts about the Belgorod city are as follows:',
             data: [
                 "Medicine",
                 "Pharmacology",
@@ -276,8 +280,8 @@ export const belgorodstateuniversity = {
         {
             "type": "table",
             "title": "Belgorod State University: MBBS Course Syllabus",
-            "data": "<b>The complete syllabus for studying MBBS at Belgorod State University is as follows:</b>",
-            "info": "<b>1st Year</b>",
+            "data": "The complete syllabus for studying MBBS at Belgorod State University is as follows:",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -333,7 +337,7 @@ export const belgorodstateuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -359,7 +363,7 @@ export const belgorodstateuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th - 6th Year</b>",
+            "info": "4th - 6th Year",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["Oncology", "Internal medicine"],
@@ -392,9 +396,13 @@ export const belgorodstateuniversity = {
     ],
     "admission": [
         {
+            type: "title",
+            title: "Belgorod State University, Russia - Admission 2023"
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>The eligibility criteria to study MBBS at Belgorod State University is as follows:</b>',
+            "info": 'The eligibility criteria to study MBBS at Belgorod State University is as follows:',
             "data": [
                 "The applicant’s age should be between 17 and 25 years on or before the date of admission.",
                 "The applicant should be a high-school graduate with Physics, Chemistry, Biology, and English as subjects.",
@@ -406,7 +414,7 @@ export const belgorodstateuniversity = {
         {
             "type": 'step-list',
             "title": 'How to Take Admission at Belgorod State University?',
-            "info": "<b>Following is the admission process for applying to MBBS course at Belgorod State University:</b>",
+            "info": "Following is the admission process for applying to MBBS course at Belgorod State University:",
             "data": [
                 "<b>Step 1:</b> Applicants should fill the application form available online. They can send the documents via email.",
                 "<b>Step 2:</b> Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -419,7 +427,7 @@ export const belgorodstateuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Documents Required',
-            "info": '<b>Following documents are required at the time of admission to Belgorod State University:</b>',
+            "info": 'Following documents are required at the time of admission to Belgorod State University:',
             "data": [
                 "Education certificate’s (notarized copies) translated into Russian",
                 "Legalized education certificates’ Original copies",
@@ -438,7 +446,7 @@ export const belgorodstateuniversity = {
         {
             "type": 'table',
             "title": 'Important Dates: Intake 2022',
-            "info": "<b>Check out the Important dates regarding admission at Belgorod State University:</b>",
+            "info": "Check out the Important dates regarding admission at Belgorod State University:",
             "col": [
                 "Events",
                 "Dates"
@@ -480,6 +488,10 @@ export const belgorodstateuniversity = {
     ],
     "review": [
         {
+            type: "title",
+            title: "Belgorod State University, Russia - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Belgorod State University, Russia - Reviews" },
@@ -498,6 +510,10 @@ export const belgorodstateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: "title",
+            title: "Belgorod State University, Russia - Placement"
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -529,6 +545,10 @@ export const belgorodstateuniversity = {
 
     "gallery": [
         {
+            type: "title",
+            title: "Belgorod State University, Russia - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Belgorod State University, Russia - Gallery" },
@@ -548,9 +568,13 @@ export const belgorodstateuniversity = {
     ],
     "scholarship": [
         {
+            type: "title",
+            title: "Belgorod State University, Russia - Scholarship"
+        },
+        {
             "type": 'list-bollet',
             "title": 'Scholarships',
-            "info": '<b>Belgorod State University offers several scholarships to students which are given based on the below mentioned criterias:</b>',
+            "info": 'Belgorod State University offers several scholarships to students which are given based on the below mentioned criterias:',
             "data": [
                 "Based on the students merit and the financial background Scholarships are given.",
                 "Also on the basis of academic and personal achievements like academic performance, publication of scientific papers and participation in scientific conferences.",
@@ -577,6 +601,10 @@ export const belgorodstateuniversity = {
     ],
     "faculty": [
         {
+            type: "title",
+            title: "Belgorod State University, Russia - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Belgorod State University, Russia - Faculty" },
@@ -595,6 +623,10 @@ export const belgorodstateuniversity = {
         }
     ],
     "news": [
+        {
+            type: "title",
+            title: "Belgorod State University, Russia - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -615,9 +647,13 @@ export const belgorodstateuniversity = {
     ],
     "hostel": [
         {
+            type: "title",
+            title: "Belgorod State University, Russia - Hostel"
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel & Accommodation',
-            "info": '<b>Following are the hostel facilities at Belgorod State University:</b>',
+            "info": 'Following are the hostel facilities at Belgorod State University:',
             "data": [
                 "International students are given the option to stay in the hostels studying MBBS at Belgorod State National Research University that consists of all modern facilities",
                 "There are 4 dormitories in the city center.",
@@ -664,9 +700,13 @@ export const belgorodstateuniversity = {
     ],
     "faq": [
         {
+            type: "title",
+            title: "Belgorod State University, Russia - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Belgorod State University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How many international students study at Belgorod State University?",
@@ -712,7 +752,7 @@ export const belgorodstateuniversity = {
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/belgorod-state-university/faq" }
             ]
-        }                                                               
+        }
     ]
 
 }

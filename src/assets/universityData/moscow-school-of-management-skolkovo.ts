@@ -21,7 +21,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "table-title",
             "title": "Moscow School of Management SKOLKOVO - Quick Highlights",
-            "info": "<b>Go through the highlights to get assistance during MBA enrollment into Moscow School of Management SKOLKOVO:</b>",
+            "info": "Go through the highlights to get assistance during MBA enrollment into Moscow School of Management SKOLKOVO:",
             "col": [
             ],
             "row": [
@@ -36,7 +36,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "list-bollet",
             "title": "Why Choose Moscow School of Management SKOLKOVO?",
-            "info": "<b>Here are some of the beneficial reasons to know why global students urge to choose Moscow School of Management SKOLKOVO to pursue an MBA career:</b>",
+            "info": "Here are some of the beneficial reasons to know why global students urge to choose Moscow School of Management SKOLKOVO to pursue an MBA career:",
             "data": [
                 "Moscow School of Management SKOLKOVO offers the English language for teaching MBA and English & Russian medium for MBA executive courses.",
                 "The institute campus is very unique and architectural based with having a painting of the famous Russian avant-garde artist Kazimir Malevich Suprematism",
@@ -72,7 +72,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "list-bollet",
             "title": "Accreditation",
-            "info": "<b>Moscow School of Management SKOLKOVO has officially accredited by the organisation mentioned below:</b>",
+            "info": "Moscow School of Management SKOLKOVO has officially accredited by the organisation mentioned below:",
             "data": [
                 "The Business School received international accreditation EQUIS EFMD",
             ]
@@ -80,7 +80,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "list-bollet",
             "title": "Top Class Facilities",
-            "info": "<b>The students can enjoy essential facilities at the Moscow School of Management SKOLKOVO at affordable rates:</b>",
+            "info": "The students can enjoy essential facilities at the Moscow School of Management SKOLKOVO at affordable rates:",
             "data": [
                 "Classroom",
                 "Auditorium",
@@ -94,7 +94,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "table",
             "title": "Living Cost of Moscow, Russia",
-            "info": "<b>Moscow has lower expenses varying as per the individual's basic requirements, The students must check out the table is given below on monthly basis expenses:</b>",
+            "info": "Moscow has lower expenses varying as per the individual's basic requirements, The students must check out the table is given below on monthly basis expenses:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -133,6 +133,11 @@ export const moscowschoolofmanagementskolkovo = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Moscow School of Management SKOLKOVO, Russia - courses & Fees"
+
+        },
         {
             "type": "table",
             "title": "Moscow School of Management SKOLKOVO - Fee Structure",
@@ -176,7 +181,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "list-bollet",
             "title": "MBA Programs",
-            "info": "<b>Moscow School of Management SKOLKOVO offers 2 MBA programs to the students:</b>",
+            "info": "Moscow School of Management SKOLKOVO offers 2 MBA programs to the students:",
             "data": [
                 "MBA",
                 "Executive MBA"
@@ -185,7 +190,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "list-bollet",
             "title": "Moscow School of Management SKOLKOVO - MBA Duration",
-            "info": "<b>Complete the entire MBA and Executive MBA program in just 18 Months at Moscow School of Management SKOLKOVO:</b>",
+            "info": "Complete the entire MBA and Executive MBA program in just 18 Months at Moscow School of Management SKOLKOVO:",
             "data": [
                 "The entire course of the MBA program and MBA executive course will last for 18 years.",
                 "MBA course is for those students who want to gain management education and make a bright career in the business field.",
@@ -264,6 +269,11 @@ export const moscowschoolofmanagementskolkovo = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Moscow School of Management SKOLKOVO, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "Executive MBA",
@@ -301,7 +311,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Step 4: The candidates must pay the entrance fee in several ways like-</b>",
+            "info": "Step 4: The candidates must pay the entrance fee in several ways like-",
             "data": [
                 "Credit card after filling out the application for training",
                 "Bank transfer- download details",
@@ -352,7 +362,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "list-bollet",
             "title": "Important Documents",
-            "info": "<b>The candidates willing to study MBA at this place must submit essential documents at the Moscow School of Management- SKOLKOVO:</b>",
+            "info": "The candidates willing to study MBA at this place must submit essential documents at the Moscow School of Management- SKOLKOVO:",
             "data": [
                 "10th certificate",
                 "12th certificate",
@@ -376,7 +386,7 @@ export const moscowschoolofmanagementskolkovo = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Stay updated with the important dates to enroll in the MBA program at the Moscow School of Management SKOLKOVO:</b>",
+            "info": "Stay updated with the important dates to enroll in the MBA program at the Moscow School of Management SKOLKOVO:",
             "col": [
                 "Events",
                 "Dates"
@@ -420,6 +430,11 @@ export const moscowschoolofmanagementskolkovo = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Moscow School of Management SKOLKOVO, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow School of Management SKOLKOVO, Russia - Reviews" },
@@ -438,6 +453,11 @@ export const moscowschoolofmanagementskolkovo = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Moscow School of Management SKOLKOVO, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -458,6 +478,11 @@ export const moscowschoolofmanagementskolkovo = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Moscow School of Management SKOLKOVO, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow School of Management SKOLKOVO, Russia - Gallery" },
@@ -477,13 +502,18 @@ export const moscowschoolofmanagementskolkovo = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Moscow School of Management SKOLKOVO, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Following are the scholarships offered by the Moscow School of Management SKOLKOVO  -</b>",
+            "info": "Following are the scholarships offered by the Moscow School of Management SKOLKOVO  -",
             "data": [
                 "competitive scholarship",
                 "The IPship",
-                "The SKOLKOVO IPship "               
+                "The SKOLKOVO IPship "
             ]
         },
         {
@@ -506,6 +536,11 @@ export const moscowschoolofmanagementskolkovo = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Moscow School of Management SKOLKOVO, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Moscow School of Management SKOLKOVO, Russia - Faculty" },
@@ -524,6 +559,11 @@ export const moscowschoolofmanagementskolkovo = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Moscow School of Management SKOLKOVO, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -544,9 +584,14 @@ export const moscowschoolofmanagementskolkovo = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Moscow School of Management SKOLKOVO, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accomodation",
-            "info": "<b>The Moscow School of Management SKOLKOVO provides a spacious and comfortable stay at hostel rooms enjoying all required facilities at the doorstep:</b>",
+            "info": "The Moscow School of Management SKOLKOVO provides a spacious and comfortable stay at hostel rooms enjoying all required facilities at the doorstep:",
             "data": [
                 "Moscow School of Management SKOLKOVO offers fully- furnished, safe and comfortable hostel rooms for a convenient stay.",
                 "The hostel premises will provide hot & cold water for the students.",
@@ -577,54 +622,59 @@ export const moscowschoolofmanagementskolkovo = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Moscow School of Management SKOLKOVO - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. What are the other expenses apart from the MBA program fee at the Moscow School of Management SKOLKOVO?",
-                    "ans": "Moscow School of Management SKOLKOVO is quite an affordable place for students to spend on food, residential facility, transportation and clothes etc."
-                },
-                {
-                    "ques": "Q. Is there any language barrier during the MBA course at the Moscow School of Management SKOLKOVO?",
-                    "ans": "No, the students won’t be facing any language barriers during management education due to the friendly environment."
-                },
-                {
-                    "ques": "Q. Is there Indian food available in Moscow School of Management SKOLKOVO?",
-                    "ans": "Healthy and nutritious Indian food are available at affordable rates in the campus canteen of Moscow School of Management SKOLKOVO."
-                },
-                {
-                    "ques": "Q. Do we need to clear any English proficiency exams for MBA enrollment at Moscow School of Management SKOLKOVO?",
-                    "ans": "The students must score good marks in the English proficiency exam to enroll in the MBA program at the Moscow School of Management SKOLKOVO."
-                },
-                {
-                    "ques": "Q. Can we go for any vacations during MBA education at the Moscow School of Management SKOLKOVO?",
-                    "ans": "Yes, the students are allowed to go on vacations two times a year at Moscow School of Management SKOLKOVO."
-                },
-                {
-                    "ques": "Q. Is there any public transportation available at the Moscow School of Management SKOLKOVO?",
-                    "ans": "The students find it easy to reach the campus by public transport buses and minibuses run from the metro stations Kievskaya, Pobedy Park, Slavyansky Boulevard, Kuntsevskaya, Troparevo."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Moscow School of Management SKOLKOVO, Russia - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Moscow School of Management SKOLKOVO, Russia - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-school-of-management-skolkovo/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Moscow School of Management SKOLKOVO, Russia - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "Moscow School of Management SKOLKOVO - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. What are the other expenses apart from the MBA program fee at the Moscow School of Management SKOLKOVO?",
+                        "ans": "Moscow School of Management SKOLKOVO is quite an affordable place for students to spend on food, residential facility, transportation and clothes etc."
+                    },
+                    {
+                        "ques": "Q. Is there any language barrier during the MBA course at the Moscow School of Management SKOLKOVO?",
+                        "ans": "No, the students won’t be facing any language barriers during management education due to the friendly environment."
+                    },
+                    {
+                        "ques": "Q. Is there Indian food available in Moscow School of Management SKOLKOVO?",
+                        "ans": "Healthy and nutritious Indian food are available at affordable rates in the campus canteen of Moscow School of Management SKOLKOVO."
+                    },
+                    {
+                        "ques": "Q. Do we need to clear any English proficiency exams for MBA enrollment at Moscow School of Management SKOLKOVO?",
+                        "ans": "The students must score good marks in the English proficiency exam to enroll in the MBA program at the Moscow School of Management SKOLKOVO."
+                    },
+                    {
+                        "ques": "Q. Can we go for any vacations during MBA education at the Moscow School of Management SKOLKOVO?",
+                        "ans": "Yes, the students are allowed to go on vacations two times a year at Moscow School of Management SKOLKOVO."
+                    },
+                    {
+                        "ques": "Q. Is there any public transportation available at the Moscow School of Management SKOLKOVO?",
+                        "ans": "The students find it easy to reach the campus by public transport buses and minibuses run from the metro stations Kievskaya, Pobedy Park, Slavyansky Boulevard, Kuntsevskaya, Troparevo."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Moscow School of Management SKOLKOVO, Russia - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Moscow School of Management SKOLKOVO, Russia - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/moscow-school-of-management-skolkovo/faq" }
+                ]
+            }
+        ]
 }

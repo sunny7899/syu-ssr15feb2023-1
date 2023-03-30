@@ -19,23 +19,23 @@ export const kokshetaustateuniversity = {
         {
             "type": "table",
             "title": "Kokshetau State University - Quick Highlights 2022",
-            "info": "<b>Refer to the table below for quick highlights about Sh. Ualikhanov Kokshetau State University:</b>",
+            "info": "Refer to the table below for quick highlights about Sh. Ualikhanov Kokshetau State University:",
             "col": [],
             "row": [
-              ["<b>Intake for MBBS Course</b>","October"],
-              ["<b>Eligibility Criteria</b>","10+2 with 85%"],
-              ["<b>NEET Entrance Test</b>","Yes, it is compulsory"],
-              ["<b>Tuition Fee ( Annual )</b>","Rs. 2.56 Lakhs/Year"],
-              ["<b>Course Duration</b>","5 + 1 year internship"],
-              ["<b>University Ranking</b>","Country - 41,<br> World - 7940"],
-              ["<b>Medium of Education</b>","English Medium"],
-              ["<b>University’s Recognition</b>","NMC and WHO"],
+                ["<b>Intake for MBBS Course</b>", "October"],
+                ["<b>Eligibility Criteria</b>", "10+2 with 85%"],
+                ["<b>NEET Entrance Test</b>", "Yes, it is compulsory"],
+                ["<b>Tuition Fee ( Annual )</b>", "Rs. 2.56 Lakhs/Year"],
+                ["<b>Course Duration</b>", "5 + 1 year internship"],
+                ["<b>University Ranking</b>", "Country - 41,<br> World - 7940"],
+                ["<b>Medium of Education</b>", "English Medium"],
+                ["<b>University’s Recognition</b>", "NMC and WHO"],
             ]
         },
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Kokshetau State University?",
-            "info": "<b>The following are the benefits that students can get by studying MBBS at Kokshetau State University:</b>",
+            "info": "The following are the benefits that students can get by studying MBBS at Kokshetau State University:",
             "data": [
                 "The university is listed in top 75 colleges in Kazakhstan",
                 "The university has an international department that has an affiliation with world universities that organizes exchange programs for foreign students.",
@@ -47,13 +47,13 @@ export const kokshetaustateuniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>Following is the medium of teaching at Kokshetau State University:</b>",
+            "info": "Following is the medium of teaching at Kokshetau State University:",
             "data": "For international students studying at this university, the courses are taught in the English language."
         },
         {
             "type": "table",
             "title": "Kokshetau State University - Ranking 2022",
-            "info": "<b>According to 4icu.org, the following is the country & world ranking for Sh. Ualikhanov Kokshetau State University:</b>",
+            "info": "According to 4icu.org, the following is the country & world ranking for Sh. Ualikhanov Kokshetau State University:",
             "col": [
                 "World Rank",
                 "Country Rank"
@@ -68,7 +68,7 @@ export const kokshetaustateuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
-            "info": "<b>Sh. Ualikhanov Kokshetau State University is recognized by:</b>",
+            "info": "Sh. Ualikhanov Kokshetau State University is recognized by:",
             "data": [
                 "The Republic of Kazakhstan's Ministry of Education and Science",
                 "National Medical Commission.",
@@ -82,7 +82,7 @@ export const kokshetaustateuniversity = {
         {
             "type": "list-bollet",
             "title": "Student’s Life at Kokshetau State University",
-            "info": "<b>Kokshetau State University takes full care of students’ mental and physical health. It provides different activities to its students:</b>",
+            "info": "Kokshetau State University takes full care of students’ mental and physical health. It provides different activities to its students:",
             "data": [
                 "Kokshetau State University has a diverse mix of students from different nations, which makes the experience very engaging and exciting. It creates an interactive environment at the university for students, healthy for students of all nationalities which allows them to appreciate different cultures and values.",
                 "Students can also take part in international conferences, seminars, etc. as it has maintained relationships with many other medical universities of different countries.",
@@ -103,7 +103,7 @@ export const kokshetaustateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Kokshetau",
-            "info": "<b>The table below shows the approx cost of living for a month in Kokshetau City:</b>",
+            "info": "The table below shows the approx cost of living for a month in Kokshetau City:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -161,9 +161,14 @@ export const kokshetaustateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kokshetau State University - MBBS Fee Structure (2022-23)",
-            "info": "<b>The approx tuition fee and hostel fee structure for Sh. Ualikhanov Kokshetau State University is as follows:</b>",
+            "info": "The approx tuition fee and hostel fee structure for Sh. Ualikhanov Kokshetau State University is as follows:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -229,7 +234,7 @@ export const kokshetaustateuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Kokshetau State University",
-            "info": "<b>Faculties at Sh. Ualikhanov Kokshetau State University is as follows in which students can take their education:</b>",
+            "info": "Faculties at Sh. Ualikhanov Kokshetau State University is as follows in which students can take their education:",
             "data": [
                 "General Medicine",
                 "Dentistry",
@@ -241,7 +246,7 @@ export const kokshetaustateuniversity = {
         {
             "type": "list-bollet",
             "title": "Kokshetau State University - MBBS Duration",
-            "info": "<b>The course duration of MBBS at Sh. Ualikhanov Kokshetau State University is 6 years:</b>",
+            "info": "The course duration of MBBS at Sh. Ualikhanov Kokshetau State University is 6 years:",
             "data": [
                 "The MBBS course duration at Sh. Ualikhanov Kokshetau State University includes 5 years of course and 1 year of internship.",
                 "So the duration of the course is 6 years."
@@ -367,9 +372,14 @@ export const kokshetaustateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students must fulfill the below-mentioned eligibility criteria for admission to Kokshetau State University:</b>",
+            "info": "Students must fulfill the below-mentioned eligibility criteria for admission to Kokshetau State University:",
             "data": [
                 "Applicants must have cleared the 12th exam with an aggregate of 50% in Physics, Chemistry, and Biology subjects if they belong to the General category.",
                 "If students belong to other categories then they must have cleared the 12th exam with an aggregate of 40% in Physics, Chemistry, and Biology subjects.",
@@ -380,7 +390,7 @@ export const kokshetaustateuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process (2022-23)',
-            info: '<b>Following are the step by step admission rules for Sh. Ualikhanov Kokshetau State University:</b>',
+            info: 'Following are the step by step admission rules for Sh. Ualikhanov Kokshetau State University:',
             data: [
                 "Step 1: Admissions of international students are carried out on a competitive basis, results of the interviews and testing conducted by the department of the admission committee.",
                 "Step 2: For visa support, foreign students need to send an email to the university with a copy of passport, place of birth, exact home address, a religion of residence.",
@@ -393,7 +403,7 @@ export const kokshetaustateuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Entrance examinations Conducted by the Admission Committee are:</b>",
+            "info": "Entrance examinations Conducted by the Admission Committee are:",
             "data": [
                 "Unified National Testing (UNT)",
                 "Complex Testing of Applicants (CTA)"
@@ -402,7 +412,7 @@ export const kokshetaustateuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following is the order of enrollment of foreign students:</b>",
+            "info": "Following is the order of enrollment of foreign students:",
             "data": [
                 "Documents Submission",
                 "Interviews",
@@ -415,7 +425,7 @@ export const kokshetaustateuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The following are the documents required applying for the MBBS course at Sh. Ualikhanov Kokshetau State University:</b>",
+            "info": "The following are the documents required applying for the MBBS course at Sh. Ualikhanov Kokshetau State University:",
             "data": [
                 "Health Certificate",
                 "Photocopy of a valid passport",
@@ -431,7 +441,7 @@ export const kokshetaustateuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should take their admissions to Kokshetau State University before the dates mentioned below. Check out the Important dates regarding admission at Kokshetau State University:</b>",
+            "info": "Students should take their admissions to Kokshetau State University before the dates mentioned below. Check out the Important dates regarding admission at Kokshetau State University:",
             "col": [
                 "Events",
                 "Dates"
@@ -475,6 +485,11 @@ export const kokshetaustateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kokshetau State University, Kazakhstan - Reviews" },
@@ -493,6 +508,11 @@ export const kokshetaustateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -513,6 +533,11 @@ export const kokshetaustateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kokshetau State University, Kazakhstan - Gallery" },
@@ -531,6 +556,11 @@ export const kokshetaustateuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - Faculty"
+
+        },
         {
             type: "meta",
             meta: [
@@ -551,6 +581,11 @@ export const kokshetaustateuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kokshetau State University, Kazakhstan - News & Articles" },
@@ -570,9 +605,14 @@ export const kokshetaustateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Kokshetau State University provides scholarship programs for their students, have a look - </b>",
+            "info": "Kokshetau State University provides scholarship programs for their students, have a look - ",
             "data": [
                 "Kazakhstan Government Scholarship - th"
             ]
@@ -597,9 +637,14 @@ export const kokshetaustateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostels & Accommodation",
-            "info": "<b>Dormitories are provided to foreign students by Kokshetau State University. The procedure for admission to dormitories is as follows:</b>",
+            "info": "Dormitories are provided to foreign students by Kokshetau State University. The procedure for admission to dormitories is as follows:",
             "data": [
                 "Students should note that the admissions to dormitories begin in August.",
                 "Order for accommodation is issued in accordance with the approved norms and quotas of accommodation.",
@@ -678,9 +723,14 @@ export const kokshetaustateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kokshetau State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Where is the Sh.Ualikhanov Kokshetau State University is located?",

@@ -19,7 +19,7 @@ export const eotvosloranduniversity = {
         {
             "type": "table-title",
             "title": "Eotvos Lorand University - Quick Overview",
-            "info": "<b>Know the details given below before getting enrolled:</b>",
+            "info": "Know the details given below before getting enrolled:",
             "col": [
             ],
             "row": [
@@ -37,7 +37,7 @@ export const eotvosloranduniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose Eotvos Lorand University?",
-            "info": "<b>Here are some of the points which will clear the doubts that why Eotvos Lorand University is the best university in Hungary:</b>",
+            "info": "Here are some of the points which will clear the doubts that why Eotvos Lorand University is the best university in Hungary:",
             "data": [
                 "Eotvos Lorand University is one of the oldest & most private universities in Hungary.",
                 "It is one of the best universities in Hungary in terms of lecturer and student excellence.",
@@ -55,7 +55,7 @@ export const eotvosloranduniversity = {
         {
             "type": "table",
             "title": "Eotvos Lorand University - Ranking 2022",
-            "info": "<b>Eotvos Lorand University is one of the topmost university for doing MSc and BSc in Hungary, check out the ranking in the table:</b>",
+            "info": "Eotvos Lorand University is one of the topmost university for doing MSc and BSc in Hungary, check out the ranking in the table:",
             "col": [
                 "Country",
                 "World"
@@ -70,7 +70,7 @@ export const eotvosloranduniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities offered at Eotvos Lorand University",
-            "info": "<b>Eotvos Lorand University offers all the modern facilities to its students with a safe and carefree environment:</b>",
+            "info": "Eotvos Lorand University offers all the modern facilities to its students with a safe and carefree environment:",
             "data": [
                 "Security",
                 "Library",
@@ -84,13 +84,13 @@ export const eotvosloranduniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction at Eotvos Lorand University is:</b>",
+            "info": "The medium of instruction at Eotvos Lorand University is:",
             "data": "<p><b>The medium of instruction at Eotvos Lorand University is:</b></p><p>Eotvos Lorand University aims to educate the students internationally. Thus, the medium of teaching for foreign students is in English.</p>"
         },
         {
             "type": "table",
             "title": "Living Cost of Budapest, Hungary",
-            "info": "<b>Budapest is an affordable place for the students as well as the tourists:</b>",
+            "info": "Budapest is an affordable place for the students as well as the tourists:",
             "col": [
                 "Particulars",
                 "Approx Range in USD (approx.)",
@@ -130,10 +130,14 @@ export const eotvosloranduniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "1 Bachelor Programs",
             "info": "Fee Structure 2022 (Bachelor Programs)",
-            "textBelowInfo": "<b>Eotvos Lorand University fee’s structure and course duration for Bachelor programs are mentioned below in the table:</b>",
+            "textBelowInfo": "Eotvos Lorand University fee’s structure and course duration for Bachelor programs are mentioned below in the table:",
             "col": [
                 "Program",
                 "Course Duration",
@@ -328,9 +332,13 @@ export const eotvosloranduniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria (Bachelor Programs)",
-            "info": "<b>For applying in Eotvos Lorand University the candidate must possess these criteria:</b>",
+            "info": "For applying in Eotvos Lorand University the candidate must possess these criteria:",
             "data": [
                 "The candidate must finish the Higher Secondary exam with qualifying marks.",
                 "They should have sufficient good marks in Maths.",
@@ -343,7 +351,7 @@ export const eotvosloranduniversity = {
         {
             "type": "step-list",
             "title": "Admission Process (Bachelor Programs)",
-            "info": "<b>The admission process at Eotvos Lorand University are as follows:</b>",
+            "info": "The admission process at Eotvos Lorand University are as follows:",
             "data": [
                 "<b>Step 1:</b> Register in the online site of the university",
                 "<b>Step 2:</b> Fill the online application form",
@@ -358,7 +366,7 @@ export const eotvosloranduniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required (Bachelor Programs)",
-            "info": "<b>Here, is a list of documents for BSC at Eotvos Lorand University:</b>",
+            "info": "Here, is a list of documents for BSC at Eotvos Lorand University:",
             "data": [
                 "Online application form",
                 "Copy of Secondary school certificate",
@@ -424,7 +432,7 @@ export const eotvosloranduniversity = {
             "type": "table",
             "title": "2 MSC ( Master of Science)",
             "info": "Fee Structure 2022 (Master of Science)",
-            "textBelowInfo": "<b>Eotvos Lorand University fee’s structure and course duration for MSC are as follow:</b>",
+            "textBelowInfo": "Eotvos Lorand University fee’s structure and course duration for MSC are as follow:",
             "col": [
                 "Course",
                 "Fees in Euro/Semester",
@@ -491,7 +499,7 @@ export const eotvosloranduniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria (Master Programs)",
-            "info": "<b>For applying in Eotvos Lorand University the candidate must possess these criteria:</b>",
+            "info": "For applying in Eotvos Lorand University the candidate must possess these criteria:",
             "data": [
                 "The candidate must have a BSC Degree from the relevant field.",
                 "The candidate must finish the Higher Secondary exam with qualifying marks.",
@@ -503,7 +511,7 @@ export const eotvosloranduniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required (Master of Science)",
-            "info": "<b>Here, is a list of documents to study MSC at Eotvos Lorand University :</b>",
+            "info": "Here, is a list of documents to study MSC at Eotvos Lorand University :",
             "data": [
                 "Online application form",
                 "Copy of Secondary school certificate",
@@ -535,7 +543,7 @@ export const eotvosloranduniversity = {
         {
             "type": "list-bollet",
             "title": "Programme Structure",
-            "info": "<b>For applying in Eotvos Lorand University the candidate must possess these criteria:</b>",
+            "info": "For applying in Eotvos Lorand University the candidate must possess these criteria:",
             "textBelowInfo": "1 Master in Applied Mathematics (MSC)",
             "data": [
                 "This course has a total credit of 120. The course focuses on given areas, like statistical methods, financial mathematics, code theory, numerical methods, etc.",
@@ -1038,7 +1046,7 @@ export const eotvosloranduniversity = {
         {
             "type": "table",
             "title": "3 Doctoral Programs",
-            "info": "<b>Eotvos Lorand University also offers Ph.D. in the following faculties:</b>",
+            "info": "Eotvos Lorand University also offers Ph.D. in the following faculties:",
             "col": [
                 "Program",
                 "Course Duration",
@@ -1132,7 +1140,7 @@ export const eotvosloranduniversity = {
         {
             "type": "table",
             "title": "Eotvos Lorand University - Important Dates 2022",
-            "info": "<b>Check out the main dates related to admission at the Eotvos Lorand University:</b>",
+            "info": "Check out the main dates related to admission at the Eotvos Lorand University:",
             "col": [
                 "Events",
                 "Date",
@@ -1176,6 +1184,10 @@ export const eotvosloranduniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Eotvos Lorand University, Hungary - Reviews" },
@@ -1194,6 +1206,10 @@ export const eotvosloranduniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -1223,6 +1239,10 @@ export const eotvosloranduniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Eotvos Lorand University, Hungary - Gallery" },
@@ -1242,9 +1262,13 @@ export const eotvosloranduniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>Eotvos Lorand University provides 4 types of scholarships. Those are listed below:</b>",
+            "info": "Eotvos Lorand University provides 4 types of scholarships. Those are listed below:",
             "data": [
                 "Bachelor/Master/Doctoral partial/semester studies (3-10 months)",
                 "Full Bachelor/Master/Doctoral programme (36/24/36 months respectively)",
@@ -1272,6 +1296,10 @@ export const eotvosloranduniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -1332,6 +1360,10 @@ export const eotvosloranduniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Eotvos Lorand University, Hungary - News & Articles" },
@@ -1351,9 +1383,13 @@ export const eotvosloranduniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The ELTE Dormitory service provides well-maintained accommodation to international students:</b>",
+            "info": "The ELTE Dormitory service provides well-maintained accommodation to international students:",
             "data": [
                 "Eotvos Lorand University has many hostels in different parts of the city.",
                 "These are easily reachable from the university campus.",
@@ -1369,7 +1405,7 @@ export const eotvosloranduniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel has entertainment area like -</b>",
+            "info": "The hostel has entertainment area like -",
             "data": [
                 "Football",
                 "Table",
@@ -1397,9 +1433,13 @@ export const eotvosloranduniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Eotvos Lorand University, Hungary - FAQ"
+        },
+        {
             type: 'question-list',
             title: 'Eotvos Lorand University - Important FAQs',
-            info: "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            info: "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             data: [
                 {
                     "ques": "Q. Are there any Acts to Disable students during education at Eotvos Lorand University?",

@@ -22,7 +22,7 @@ export const pskovstateuniversity = {
         {
             "type": "table-title",
             "title": "Pskov State University: Quick Highlights",
-            "info": "<b>Refer the table below for quick facts about Pskov State University:</b>",
+            "info": "Refer the table below for quick facts about Pskov State University:",
             "col": [
             ],
             "row": [
@@ -41,7 +41,7 @@ export const pskovstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS Course at Pskov State University?",
-            "info": "<b>Find out the advantages of studying MBBS course at Pskov State University given below:</b>",
+            "info": "Find out the advantages of studying MBBS course at Pskov State University given below:",
             "img": '',
             "data": [
                 "The university has 4 research laboratories for students.",
@@ -60,7 +60,7 @@ export const pskovstateuniversity = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>Following is the medium of teaching at Pskov State University:</b>',
+            info: 'Following is the medium of teaching at Pskov State University:',
             img: '',
             data: '<p>At this university, the medicine courses are taught in the <strong>English</strong> language.</p> '
         },
@@ -68,7 +68,7 @@ export const pskovstateuniversity = {
         {
             "type": "table",
             "title": "Pskov State University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Pskov State University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Pskov State University:",
             "col": [
                 "World	",
                 "Country",
@@ -86,7 +86,7 @@ export const pskovstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Pskov State University is one of the finest Government MBBS University in Russia that is approved and accredited by:</b>",
+            "info": "Pskov State University is one of the finest Government MBBS University in Russia that is approved and accredited by:",
             "img": '',
             "data": [
                 "World Health Organization (WHO).",
@@ -101,7 +101,7 @@ export const pskovstateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The expenses of living in Pskov city, Russia is not much different than living in India:</b><br>The table below shows the average and approx cost of living in Pskov for a month. This may vary from person to person and according to the living style of the students.",
+            "info": "The expenses of living in Pskov city, Russia is not much different than living in India:<br>The table below shows the average and approx cost of living in Pskov for a month. This may vary from person to person and according to the living style of the students.",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -137,7 +137,7 @@ export const pskovstateuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Important Highlights:</b>",
+            "info": "Important Highlights:",
             "col": [
             ],
             "row": [
@@ -172,6 +172,10 @@ export const pskovstateuniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Pskov State University - courses & Fees'
+        },
         {
             "type": "table",
             "title": "Pskov State University - MBBS Fees Structure 2022",
@@ -233,7 +237,7 @@ export const pskovstateuniversity = {
         {
             "type": "text",
             "title": "Pskov State University - MBBS Syllabus",
-            "info": '<p><b>The syllabus for MBBS in Pskov State University is shown in the table below:</b></p>'
+            "info": '<p>The syllabus for MBBS in Pskov State University is shown in the table below:</p>'
         },
         {
             "type": "table",
@@ -338,13 +342,13 @@ export const pskovstateuniversity = {
         {
             "type": "text",
             "title": "Pskov State University - MBBS Duration",
-            "info": "<b>Following is the duration for MBBS Course at the Pskov State University:</b><p>The duration of the MBBS course at the Pskov State University is 6 years of which 5 years are for classroom training and 1 year is compulsory Internship for students.</p>",
+            "info": "Following is the duration for MBBS Course at the Pskov State University:<p>The duration of the MBBS course at the Pskov State University is 6 years of which 5 years are for classroom training and 1 year is compulsory Internship for students.</p>",
 
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at Pskov State University",
-            "info": "<b>The university offers many courses for the students such as:</b>",
+            "info": "The university offers many courses for the students such as:",
             "data": [
                 "Medical",
                 "Biochemistry",
@@ -372,9 +376,13 @@ export const pskovstateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Pskov State University - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For Pskov State University",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS:",
             "data": [
                 "The Applicant age should be 17 years as on or before 31st December of the year of the admission process.",
                 "Students must complete 12th examination with a course of subjects like Physics, Chemistry, Mathematics and Biology.",
@@ -386,7 +394,7 @@ export const pskovstateuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process (2022-23)",
-            "info": "<p><b>Following are the admission steps required for applying for MBBS programs at Pskov State University:</b></p><p>The admission of foreign students is conducted in order as prescribed by the international treaties of the Russian Federation and in accordance with the Ministry of Education and Science of the Russian Federation.</p><b>Following are the admission steps required for applying for MBBS programs at Pskov State University:</b>",
+            "info": "<p>Following are the admission steps required for applying for MBBS programs at Pskov State University:</p><p>The admission of foreign students is conducted in order as prescribed by the international treaties of the Russian Federation and in accordance with the Ministry of Education and Science of the Russian Federation.</p><b>Following are the admission steps required for applying for MBBS programs at Pskov State University:</b>",
             "data": [
                 "<b>Step 1:</b> Fill the online application form provided on the Pskov university website.",
                 "<b>Step 2:</b> Take a printout of the form. Sign on it & send a scanned copy of a form along with documents to the university.",
@@ -400,7 +408,7 @@ export const pskovstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required for MBBS Admission",
-            "info": "<b>Applicant must produce original copies of below documents:</b>",
+            "info": "Applicant must produce original copies of below documents:",
             "data": [
                 "Copy of original passport",
                 "Copy of 10+2 mark sheets",
@@ -415,7 +423,7 @@ export const pskovstateuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should take their admissions to Pskov State University before the dates mentioned below. Check out the Important dates regarding admission at Pskov State University:</b>",
+            "info": "Students should take their admissions to Pskov State University before the dates mentioned below. Check out the Important dates regarding admission at Pskov State University:",
             "col": [
                 "Events",
                 "Dates",
@@ -459,6 +467,10 @@ export const pskovstateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Pskov State University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pskov State University - Reviews" },
@@ -477,6 +489,10 @@ export const pskovstateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Pskov State University - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -506,7 +522,10 @@ export const pskovstateuniversity = {
             ]
         }
     ],
-    "gallery": [
+    "gallery": [ {
+        type: 'title',
+        title: 'Pskov State University - Gallery'
+    },
         {
             type: "meta",
             meta: [
@@ -527,9 +546,13 @@ export const pskovstateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Pskov State University - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships provided at Pskov State University are as follows:</b>",
+            "info": "The scholarships provided at Pskov State University are as follows:",
             "data": [
                 "Jared J. Davis Grant",
                 "QS Undergraduate Scholarship",
@@ -559,6 +582,10 @@ export const pskovstateuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Pskov State University - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -598,6 +625,10 @@ export const pskovstateuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Pskov State University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pskov State University - News & Articles" },
@@ -617,9 +648,13 @@ export const pskovstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Pskov State University - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Pskov State University provides the facilities of accommodation and mess for students:</b><p>12 dormitories are provided for the students with an accommodation of 544 beds. Out of which 10 dormitories are located in the city of Pskov and 2 are located in the Velikiye Luki. Hostels are provided with the facilities for living, studying and relaxing.</p>",
+            "info": "Pskov State University provides the facilities of accommodation and mess for students:<p>12 dormitories are provided for the students with an accommodation of 544 beds. Out of which 10 dormitories are located in the city of Pskov and 2 are located in the Velikiye Luki. Hostels are provided with the facilities for living, studying and relaxing.</p>",
             "data": [
                 "Reading Hall",
                 "Lounges",
@@ -652,9 +687,13 @@ export const pskovstateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Pskov State University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Pskov State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is the medical degree from Pskov State Medical University recognized worldwide?",

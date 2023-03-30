@@ -93,6 +93,50 @@ const routes: Routes = [
     component: UniversityConComponent
   },
   {
+    path: 'avicenna-tajik-state-medical-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/faq/.',
+    component: UniversityConComponent
+  },
+  {
     path: 'alte-university-georgia/.',
     component: UniversityConComponent
   },

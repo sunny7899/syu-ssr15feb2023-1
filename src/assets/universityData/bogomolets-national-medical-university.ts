@@ -325,7 +325,7 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Bogomolets National Medical University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Bogomolets National Medical University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Bogomolets National Medical University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -349,7 +349,7 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Documents Required: For Visa ProcessMedical schools consist of 4 faculties</b>",
+            "info": "Documents Required: For Visa ProcessMedical schools consist of 4 faculties",
             "data": [
                 "Invitation Letter confirmed by the Embassy of Ukraine.",
                 "Passport with a valid expiration date",
@@ -364,7 +364,7 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Bogomolets National Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Bogomolets National Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Bogomolets National Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -384,7 +384,7 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Medical schools consist of 4 faculties</b>",
+            "info": "Medical schools consist of 4 faculties",
             "data": [
                 "General Medicine",
                 "Pediatrics",
@@ -401,7 +401,7 @@ export const bogomoletsnationalmedicaluniversity = {
         {
             "type": "text",
             "title": "Cost of Teaching & Accommodation",
-            "data": "<p><b>University Expenditure</b></p>"
+            "data": "University Expenditure"
         },
 
         {
@@ -536,6 +536,10 @@ export const bogomoletsnationalmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Bogomolets National Medical University  - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Bogomolets National Medical University - Fee Structure 2022 (Tuition+Hostel)",
             "info": "",
@@ -608,6 +612,10 @@ export const bogomoletsnationalmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Bogomolets National Medical University  - Admission 2023"
+        },
+        {
             "type": "text",
             "title": "Admissions Process for Indian Students in Bogomolets National Medical University",
             "data": "<p>Bogomolets National Medical University is a highly ranked University in the city of Ukraine. For taking admission in Bogomolets National Medical University, We, At “Select Your University” guides you for an admission assistance through our online portal.</p>"
@@ -644,7 +652,7 @@ export const bogomoletsnationalmedicaluniversity = {
                 "Medical Certificate",
                 "NEET Score Card"
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> The documents mentioned in clause may vary from person to person and consulted to respective admission department.</p> <p>The acceptance of documents should not be finalized until it is revised and checked by the Admission Committee.</p>',
+            heading: '<p><b><u>Note:</u></b> The documents mentioned in clause may vary from person to person and consulted to respective admission department.</p> <p>The acceptance of documents should not be finalized until it is revised and checked by the Admission Committee.</p>',
         },
         {
             "type": "list-bollet",
@@ -677,6 +685,10 @@ export const bogomoletsnationalmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Bogomolets National Medical University  - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bogomolets National Medical University  - Reviews" },
@@ -695,6 +707,10 @@ export const bogomoletsnationalmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Bogomolets National Medical University  - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -715,6 +731,10 @@ export const bogomoletsnationalmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Bogomolets National Medical University  - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bogomolets National Medical University  - Gallery" },
@@ -733,6 +753,10 @@ export const bogomoletsnationalmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Bogomolets National Medical University  - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -753,6 +777,10 @@ export const bogomoletsnationalmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Bogomolets National Medical University  - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bogomolets National Medical University  - Faculty" },
@@ -772,6 +800,10 @@ export const bogomoletsnationalmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Bogomolets National Medical University  - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bogomolets National Medical University  - News & Articles" },
@@ -790,6 +822,10 @@ export const bogomoletsnationalmedicaluniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Bogomolets National Medical University  - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation for Medical Students",
@@ -822,9 +858,13 @@ export const bogomoletsnationalmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Bogomolets National Medical University  - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Bogomolets National University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the accommodation charges for Bogomolets NMU?",

@@ -19,7 +19,7 @@ export const wroclawuniversityoftechnology = {
         {
             "type": "table-title",
             "title": "Wroclaw University of Technology - Quick Highlights 2022",
-            "info": "<b>Following are the highlights of studying engineering in Wroclaw University of Technology:</b>",
+            "info": "Following are the highlights of studying engineering in Wroclaw University of Technology:",
             "col": [],
             "row": [
                 ["<b>Intake for Engineering Course</b>", "September"],
@@ -33,7 +33,7 @@ export const wroclawuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Why Study Engineering at Wroclaw University of Technology?",
-            "info": "<b>Following are the benefits of studying engineering course in Wroclaw University of Technology:</b>",
+            "info": "Following are the benefits of studying engineering course in Wroclaw University of Technology:",
             "data": [
                 "The Wroclaw University of Technology was recognized as the best university in Poland.",
                 "The university has been ranked first place in lower silesia as per the ranking of the universities of Perspektywy Foundation 2019.",
@@ -46,7 +46,7 @@ export const wroclawuniversityoftechnology = {
         {
             "type": "tabel",
             "title": "Wroclaw University of Technology - Ranking 2022",
-            "info": "<b>As per UniRank (4icu), Wroclaw University of Technology Ranking (Country & World):</b>",
+            "info": "As per UniRank (4icu), Wroclaw University of Technology Ranking (Country & World):",
             "col": [
                 "Country",
                 "World"
@@ -61,7 +61,7 @@ export const wroclawuniversityoftechnology = {
         {
             "type": "tabel",
             "title": "Cost of Living in Wroclaw",
-            "info": "<b>Following is the cost of living in dormitories and in the city of Wroclaw:</b>",
+            "info": "Following is the cost of living in dormitories and in the city of Wroclaw:",
             "col": [
                 "Particulars",
                 "Cost in Rs."
@@ -133,9 +133,13 @@ export const wroclawuniversityoftechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Wroclaw University of Technology, Poland - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Wroclaw University of Technology - Fee Structure 2022",
-            "info": "<b>Refer the annual fee structure for engineering course in Wroclaw University of Technology:</b>",
+            "info": "Refer the annual fee structure for engineering course in Wroclaw University of Technology:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -188,7 +192,7 @@ export const wroclawuniversityoftechnology = {
         {
             type: 'list-bollet',
             title: 'Programs Offered at Wroclaw University of Technology',
-            info: '<b>Following are the programs offered at Wroclaw University of Technology:</b><br><b>Bachelor Programs</b>',
+            info: 'Following are the programs offered at Wroclaw University of Technology:<br>Bachelor Programs',
             data: [
                 "<b>Electronic and Computer Engineering</b>",
                 "The program of Electronic and Computer engineering includes the study of modern electronics and software management required to enlarge the modern labor market. The program involves the knowledge of Information Technology, traditional electronics, industrial automation and robotics.",
@@ -203,7 +207,7 @@ export const wroclawuniversityoftechnology = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Master programs</b>",
+            "info": "Master programs",
             "col": [],
             "row": [
                 ["Architecture", "Spatial Management", "Civil Engineering"],
@@ -235,9 +239,13 @@ export const wroclawuniversityoftechnology = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Wroclaw University of Technology, Poland - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Students",
-            "info": "<b>Following is the admission criteria required for applying engineering course at Wroclaw University of Technology:</b>",
+            "info": "Following is the admission criteria required for applying engineering course at Wroclaw University of Technology:",
             "data": [
                 "Candidate needs to complete 12th level education or equivalent higher secondary education with the subjects of Physics, Chemistry and Biology.",
                 "Each application will proceed on a merit basis.",
@@ -248,7 +256,7 @@ export const wroclawuniversityoftechnology = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following are the step by step admission process that candidate need to follow to take admission in Wroclaw University of Technology to study engineering:</b>',
+            info: 'Following are the step by step admission process that candidate need to follow to take admission in Wroclaw University of Technology to study engineering:',
             data: [
                 "Step 1: Select the Program: Go to the online portal of website www.admission.pwr.edu.pl and know more about the deadlines of October and February intakes.",
                 "Step 2: Select the Program: Go to the online portal of website www.admission.pwr.edu.pl and know more about the deadlines of October and February intakes.",
@@ -263,7 +271,7 @@ export const wroclawuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following are documents required for applying engineering at Wroclaw University of Technology:</b>",
+            "info": "Following are documents required for applying engineering at Wroclaw University of Technology:",
             "data": [
                 "Certificates of higher secondary diploma/degree certificates legalized by the embassy or with Apostille.",
                 "IELTS or TOEFL certificate confirming the knowledge of English language",
@@ -294,6 +302,10 @@ export const wroclawuniversityoftechnology = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Wroclaw University of Technology, Poland - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wroclaw University of Technology, Poland - Reviews" },
@@ -312,6 +324,10 @@ export const wroclawuniversityoftechnology = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Wroclaw University of Technology, Poland - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -332,6 +348,10 @@ export const wroclawuniversityoftechnology = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Wroclaw Medical University, Poland - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wroclaw Medical University, Poland - Gallery" },
@@ -350,6 +370,10 @@ export const wroclawuniversityoftechnology = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Wroclaw University of Technology, Poland - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -370,6 +394,10 @@ export const wroclawuniversityoftechnology = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Wroclaw University of Technology, Poland - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wroclaw University of Technology, Poland - Faculty" },
@@ -388,6 +416,10 @@ export const wroclawuniversityoftechnology = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Wroclaw University of Technology, Poland - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -408,9 +440,13 @@ export const wroclawuniversityoftechnology = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Wroclaw University of Technology, Poland - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Amenities provided at the dormitories are:</b>",
+            "info": "Amenities provided at the dormitories are:",
             "data": [
                 "Wifi Facility",
                 "Sports Complex",
@@ -440,6 +476,10 @@ export const wroclawuniversityoftechnology = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Wroclaw University of Technology, Poland - FAQ'
+        },
         {
             type: "meta",
             meta: [

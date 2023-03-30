@@ -22,7 +22,7 @@ export const oshstateuniversity = {
         {
             "type": "table",
             "title": "Osh State University: Important Highlights 2022",
-            "info": "<b>For MBBS admission, one must explore some quick facts of the Osh State University:</b>",
+            "info": "For MBBS admission, one must explore some quick facts of the Osh State University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "	May"],
@@ -38,7 +38,7 @@ export const oshstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Osh State University?",
-            "info": "<b>Let's dive into the benefits to pursue a medical career in Osh State University:</b>",
+            "info": "Let's dive into the benefits to pursue a medical career in Osh State University:",
             "data": [
                 "Osh State University taught the medicine course in English language for Foreign Students",
                 "High standard professional Medical Education",
@@ -52,7 +52,7 @@ export const oshstateuniversity = {
         {
             "type": "table",
             "title": "Osh State University: Ranking 2022",
-            "info": "<b>Osh State Medical University is one of the top universities of Kyrgyzstan. According to 4icu.org, following is the country & world ranking for this university:</b>",
+            "info": "Osh State Medical University is one of the top universities of Kyrgyzstan. According to 4icu.org, following is the country & world ranking for this university:",
             "col": [
                 "World",
                 "Country",
@@ -68,7 +68,7 @@ export const oshstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Osh State Medical University offers an English medium of instructions during lectures:</b>",
+            "info": "Osh State Medical University offers an English medium of instructions during lectures:",
             "data": [
                 "For international students studying at this university the courses are taught in the English language.",
                 "Whereas local students always prefer studying in Russian language.So it would be easy for all local as well as international students.",
@@ -77,7 +77,7 @@ export const oshstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Osh State Medical University is registered and cooperates with many leading international institutions:</b>",
+            "info": "The Osh State Medical University is registered and cooperates with many leading international institutions:",
             "data": [
                 "World Health Organization (WHO)",
                 "FAIMER",
@@ -88,7 +88,7 @@ export const oshstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Students at Osh State Medical University",
-            "info": "<b>Students studying at Osh State Medical University live an excellent, healthy, and happy life. The university pays great attention towards mental and physical fitness of the students, along with studies:</b>",
+            "info": "Students studying at Osh State Medical University live an excellent, healthy, and happy life. The university pays great attention towards mental and physical fitness of the students, along with studies:",
             "data": [
                 "Students are actively engaged in a broad array of cultural, social, academic, and political organizations.",
                 "The University helps students to adjust to life in Osh as well as to the University.",
@@ -103,7 +103,7 @@ export const oshstateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Osh City",
-            "info": "<b>The approximate costs of the things of daily need and goods and services in the Osh city are given below:</b>",
+            "info": "The approximate costs of the things of daily need and goods and services in the Osh city are given below:",
             "col": [
                 "Activity",
                 "Cost",
@@ -136,7 +136,7 @@ export const oshstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Osh State University: International Relations",
-            "info": "<b>The Osh State Medical university provides training in a wide range of study areas including Law, Medicine, Education, Social Work, Economics, International Relations:</b>",
+            "info": "The Osh State Medical university provides training in a wide range of study areas including Law, Medicine, Education, Social Work, Economics, International Relations:",
             "data": [
                 "Osh State Medical university is a member of the International Association of Universities (1995, France) and European Association of International Education (1997, Netherlands).",
                 "OSU has also been active in networking projects of such programs as INTAS, CEP, TEMPUS-TACIS, NISSCUP, IREX, ACCELS, DAAD, and regarding international focus, it cooperates with more than 90 higher education institutions, public sectors, Embassies, various foundations, and Diplomatic Representatives of near and distant foreign countries.",
@@ -154,7 +154,7 @@ export const oshstateuniversity = {
         {
             "type": "list-bollet",
             "title": "About Osh City",
-            "info": "<b>Below are some noticeable things and facts about Osh city:</b>",
+            "info": "Below are some noticeable things and facts about Osh city:",
             "img": 'https://www.selectyouruniversity.com/images/kyrgyzstan-universities/osh-city.jpg',
             "data": [
                 "Osh is known as a student city, it is a center of education, technology, and science.",
@@ -184,9 +184,14 @@ export const oshstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Osh State Medical University, Kyrgyzstan - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Osh State University: MBBS Fee Structure 2022",
-            "info": "<b>Osh State Medical University is Kyrgyzstan’s one of the top medical universities which allow students to secure an MBBS degree at an affordable tuition fee structure:</b>",
+            "info": "Osh State Medical University is Kyrgyzstan’s one of the top medical universities which allow students to secure an MBBS degree at an affordable tuition fee structure:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -239,7 +244,7 @@ export const oshstateuniversity = {
         {
             "type": "table",
             "title": "Osh State University: MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at Osh State Medical University is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Osh State Medical University is as follows:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -326,7 +331,7 @@ export const oshstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Osh State University: MBBS Duration",
-            "info": "<strong>The duration for studying MBBS at Osh State Medical University is mentioned below:</strong>",
+            "info": "The duration for studying MBBS at Osh State Medical University is mentioned below:",
             "data": [
                 "The course duration for MBBS course at Osh State Medical University is <b>5-years. (From academic intake 2018 duration for the General Medicine program has been reduced to 5 years.)</b> The students are focused on basic medical sciences and clinical studies, throughout the program.",
                 "Along with theory, the students must focus on the hands-on training conducted at the hospitals or clinics affiliated to the Universities."
@@ -335,7 +340,7 @@ export const oshstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Osh State Medical University",
-            "info": "<b>Osh State Medical University, Kyrgyzstan offers following different faculties in the field of medicine to the students:</b>",
+            "info": "Osh State Medical University, Kyrgyzstan offers following different faculties in the field of medicine to the students:",
             "data": [
                 "General Medicine",
                 "Stomatology",
@@ -363,9 +368,14 @@ export const oshstateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Osh State Medical University, Kyrgyzstan - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students must fulfill the below mentioned eligibility criteria for studying MBBS at Osh State Medical University:</b>",
+            "info": "Students must fulfill the below mentioned eligibility criteria for studying MBBS at Osh State Medical University:",
             "data": [
                 "The mbbs aspirants must be over 17 and below 25 years old on or before the 31st December of the year in which the admission is being taken.",
                 "The students must clear the NEET exam as it is mandatory for those coming from India.",
@@ -375,8 +385,8 @@ export const oshstateuniversity = {
         },
         {
             type: 'step-list',
-            title: 'Admission Process',
-            info: '<b>To secure admission in one of the top medical universities in Kyrgyzstan like Osh State Medical University, students must follow the instructions given below:</b>',
+            title: 'Admission Pro',
+            info: 'To secure admission in one of the top medical universities in Kyrgyzstan like Osh State Medical University, students must follow the instructions given below:</b>',
             data: [
                 "Step 1: Students who want to secure admission at the Osh State Medical university must fill the online application form along with all the required documents.",
                 "Step 2: The applications sent by the students are reviewed by the university and then they need to deposit the fees into the university’s bank account.",
@@ -388,7 +398,7 @@ export const oshstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required from the students at the time of admission:</b>",
+            "info": "Following documents are required from the students at the time of admission:",
             "data": [
                 "Copies of 10th & 12th Education Certificates.",
                 "Birth Certificate.",
@@ -404,7 +414,7 @@ export const oshstateuniversity = {
         {
             "type": "table",
             "title": "Important Dates: Intake 2022",
-            "info": "<b>Students should take their admissions to Osh State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Osh State Medical University:</b>",
+            "info": "Students should take their admissions to Osh State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Osh State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -448,9 +458,14 @@ export const oshstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Osh State Medical University, Kyrgyzstan - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation and Hostel Facilities",
-            "info": "<b>Osh State Medical University advises choosing dormitory options for first years students, Additional information about hostel mentioned below:</b>",
+            "info": "Osh State Medical University advises choosing dormitory options for first years students, Additional information about hostel mentioned below:",
             "data": [
                 "For boys and girls, there are separate hostels. Basic services such as a dining room and a common room with entertainment options such as television, play areas, gym are available for all students.",
                 "Hostel rules are very strict and students must be within the established deadline. Without the previous permission of the principal, they are not allowed to leave the shelter during the weekly holidays",
@@ -479,6 +494,11 @@ export const oshstateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Osh State Medical University, Kyrgyzstan - Faculty"
+
+        },
+        {
             "type": "list-bollet",
             "title": "faculty",
             "info": "",
@@ -489,7 +509,7 @@ export const oshstateuniversity = {
                 "ALI ABBAS RAHAT, Physician<br> Anatomy,<br> Clinical Anatomy",
                 "URMAT A. ASHIMOV, Physician<br> Anatomy"
             ]
-        }, 
+        },
         {
             type: "meta",
             meta: [
@@ -510,6 +530,11 @@ export const oshstateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Osh State Medical University, Kyrgyzstan - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Osh State Medical University, Kyrgyzstan - Reviews" },
@@ -528,6 +553,11 @@ export const oshstateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Osh State Medical University, Kyrgyzstan - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -548,6 +578,11 @@ export const oshstateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Osh State Medical University, Kyrgyzstan - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Osh State Medical University, Kyrgyzstan - Gallery" },
@@ -566,6 +601,11 @@ export const oshstateuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Osh State Medical University, Kyrgyzstan - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -586,6 +626,11 @@ export const oshstateuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Osh State Medical University, Kyrgyzstan - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Osh State Medical University, Kyrgyzstan - News & Articles" },
@@ -604,58 +649,63 @@ export const oshstateuniversity = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Osh State Medical University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Has the National Medical Commission (NMC) recognized Osh State Medical University?",
-                    "ans": "The reason for the huge number of Indian population studying at OSMU is it’s recognition by the National Medical Commission (NMC) and World Health Organization (WHO)."
-                },
-                {
-                    "ques": "Q. When will the admission process of the MBBS course start at Osh State Medical University?",
-                    "ans": "The intake of MBBS admission at Osh State Medical University starts from the month of January every year."
-                },
-                {
-                    "ques": "Q. Which entrance exams will I have to clear to take admission for a medical course?",
-                    "ans": "NEET is the primary requirement for students who want to take admission for MBBS at Osh State Medical University."
-                },
-                {
-                    "ques": "Q. How is the experience of living in Osh city?",
-                    "ans": "The students have noted a magnificent experience while living in Kyrgyzstan. Osh city has a high standard of living with all the public infrastructural facilities."
-                },
-                {
-                    "ques": "Q. Is good quality of Indian food available in the university?",
-                    "ans": "Osh State Medical University provides tasty meals to the Indian students which are specially prepared by Indian cooks."
-                },
-                {
-                    "ques": "Q. Do faculty members and local people speak in English?",
-                    "ans": "Faculty staff of the Osh State Medical University speak fluent english. Major population of Osh city, where the university is located, also knows how to communicate in English."
-                },
-                {
-                    "ques": "Q. What is the scope of studying MBBS in Osh State Medical University?",
-                    "ans": "Students have a chance to pursue post graduation at foreign universities after passing from Osh State Medical University. They can also do internships or work as researchers at centers."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Osh State Medical University, Kyrgyzstan - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Osh State Medical University, Kyrgyzstan - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/osh-state-university/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Osh State Medical University, Kyrgyzstan - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "Osh State Medical University: Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+                "data": [
+                    {
+                        "ques": "Q. Has the National Medical Commission (NMC) recognized Osh State Medical University?",
+                        "ans": "The reason for the huge number of Indian population studying at OSMU is it’s recognition by the National Medical Commission (NMC) and World Health Organization (WHO)."
+                    },
+                    {
+                        "ques": "Q. When will the admission process of the MBBS course start at Osh State Medical University?",
+                        "ans": "The intake of MBBS admission at Osh State Medical University starts from the month of January every year."
+                    },
+                    {
+                        "ques": "Q. Which entrance exams will I have to clear to take admission for a medical course?",
+                        "ans": "NEET is the primary requirement for students who want to take admission for MBBS at Osh State Medical University."
+                    },
+                    {
+                        "ques": "Q. How is the experience of living in Osh city?",
+                        "ans": "The students have noted a magnificent experience while living in Kyrgyzstan. Osh city has a high standard of living with all the public infrastructural facilities."
+                    },
+                    {
+                        "ques": "Q. Is good quality of Indian food available in the university?",
+                        "ans": "Osh State Medical University provides tasty meals to the Indian students which are specially prepared by Indian cooks."
+                    },
+                    {
+                        "ques": "Q. Do faculty members and local people speak in English?",
+                        "ans": "Faculty staff of the Osh State Medical University speak fluent english. Major population of Osh city, where the university is located, also knows how to communicate in English."
+                    },
+                    {
+                        "ques": "Q. What is the scope of studying MBBS in Osh State Medical University?",
+                        "ans": "Students have a chance to pursue post graduation at foreign universities after passing from Osh State Medical University. They can also do internships or work as researchers at centers."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Osh State Medical University, Kyrgyzstan - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Osh State Medical University, Kyrgyzstan - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/osh-state-university/faq" }
+                ]
+            }
+        ]
 }

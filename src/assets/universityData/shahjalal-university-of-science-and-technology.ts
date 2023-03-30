@@ -19,7 +19,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "table-title",
             "title": "Shahjalal University of Science & Technology: Quick highlights",
-            "info": "<b>To take a quick overview of Shahjalal University of Science and Technology, refer the table given below:</b>",
+            "info": "To take a quick overview of Shahjalal University of Science and Technology, refer the table given below:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -47,7 +47,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying MBBS at Shahjalal University of Science Technology",
-            "info": "<b>Below are some of the reasons for studying MBBS course at Shahjalal University of Science and Technology:</b>",
+            "info": "Below are some of the reasons for studying MBBS course at Shahjalal University of Science and Technology:",
             "data": [
                 "Shahjalal University of Science and Technology Academy is one of the top-ranked universities.",
                 "The low cost fee structure offered by this university is very much affordable for MBBS admirers.",
@@ -66,7 +66,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "table",
             "title": "Shahjalal University of Science and Technology Academy - Ranking 2022",
-            "info": "<b>According to Unirank 4icu, the ranking of Shahjalal University of Science and Technology is as follows:</b>",
+            "info": "According to Unirank 4icu, the ranking of Shahjalal University of Science and Technology is as follows:",
             "col": [
                 "Country",
                 "World"
@@ -81,7 +81,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
-            "info": "<b>The Shahjalal University of Science and Technology has the following accreditation and recognition:</b>",
+            "info": "The Shahjalal University of Science and Technology has the following accreditation and recognition:",
             "data": [
                 "World Health Organization (WHO)",
                 "The National Medical Commission (NMC)",
@@ -95,7 +95,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "Campus Life at Shahjalal University of Technology",
-            "info": "<b>The campus life at Shahjalal University of Technology is very exciting:</b>",
+            "info": "The campus life at Shahjalal University of Technology is very exciting:",
             "data": [
                 "SUST has a beautiful campus area of 320 acres.",
                 "Many visitors visit Sylhet and Shahjalal University to visit the 'Shahid Minar' (Martyr's Memorial) of the university.",
@@ -113,7 +113,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The expenses of living in Bangladesh are not much different than living in India:</b><br>The table below shows the average and approx cost of living in Bangladesh for a month. This may vary from person to person and according to the living style of the students",
+            "info": "The expenses of living in Bangladesh are not much different than living in India:<br>The table below shows the average and approx cost of living in Bangladesh for a month. This may vary from person to person and according to the living style of the students",
             "col": [
                 "Particular",
                 "Approx Range in RS"
@@ -178,7 +178,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "About Sylhet City",
-            "info": "<b>Sylhet is the city of Bangladesh situated on the banks of the Suma river:</b>",
+            "info": "Sylhet is the city of Bangladesh situated on the banks of the Suma river:",
             "data": [
                 "Sylhet city is located in eastern Bangladesh and is well known for its Sufi shrines some of which belongs from the 14th century",
                 "The climate of Sylhet city is moderate and almost similar to the Indian climate.",
@@ -206,9 +206,13 @@ export const shahjalaluniversityofscienceandtechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Shahjalal University of Science & Technology Academy - Fee Structure 2022",
-            "info": "<b>Shahjalal University of Science and Technology has an affordable MBBS fee structure:</b>",
+            "info": "Shahjalal University of Science and Technology has an affordable MBBS fee structure:",
             "col": [
                 "Particular",
                 "Year  1",
@@ -251,7 +255,7 @@ export const shahjalaluniversityofscienceandtechnology = {
                     "Year  5": "Rs. 5,57,200"
                 },
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> $1 = Rs.70</p> <p>Application, visa, flight tickets, etc. will be extra up to Rs.1,00,000/- (or more approximately).</p> <p>The fees mentioned here may vary as per the change in currency.</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> $1 = Rs.70</p> <p>Application, visa, flight tickets, etc. will be extra up to Rs.1,00,000/- (or more approximately).</p> <p>The fees mentioned here may vary as per the change in currency.</p>',
         },
         {
             "type": "text",
@@ -262,7 +266,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Shahjalal University of Science and Technology",
-            "info": "<b>Apart from the MCS course, there are following courses taught in this university:</b>",
+            "info": "Apart from the MCS course, there are following courses taught in this university:",
             "data": [
                 "General medicine (MBBS)",
                 "Pediatrics",
@@ -279,7 +283,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Shahjalal University of Science and Technology",
-            "info": "<b>The course duration of MBBS in Bangladesh is 6 years:</b>",
+            "info": "The course duration of MBBS in Bangladesh is 6 years:",
             "data": [
                 "MBBS degree’s duration in Bangladesh is of 6 years, this includes 5 years’ course and 1 year of internship."
             ]
@@ -287,7 +291,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "Shahjalal University of Science and Technology - MBBS Syllabus",
-            "info": "<b>The syllabus for MBBS in Bangladesh is shown in the table below:</b>",
+            "info": "The syllabus for MBBS in Bangladesh is shown in the table below:",
             "data": [
                 "The MBBS course in Bangladesh is divided into 3 phases namely pre-clinical, para-clinical, and clinical phases.",
                 "MBBS in Bangladesh follows a semester pattern and a semester is of 6 months."
@@ -355,9 +359,13 @@ export const shahjalaluniversityofscienceandtechnology = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Bangladesh for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Bangladesh for MBBS:",
             "data": [
                 "Applicants should be at least 17 years old on or before 31st December of the admission year with no upper age limit.",
                 "Applicants from General category who have scored minimum 50% in HSC exam or in a similar course with Physics, Chemistry, Biology and English as compulsory subjects can apply for the admission process.",
@@ -368,7 +376,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Students need to follow these steps to take admission in Bangladesh for MBBS:</b>',
+            info: 'Students need to follow these steps to take admission in Bangladesh for MBBS:',
             data: [
                 "Step 1: tudents need to fill the admission form from the online portal of the university. They must also qualify the National Eligibility cum Entrance Test for admission",
                 "Step 2: Submit all the documents online or at the office of ‘Select Your University’.",
@@ -376,7 +384,7 @@ export const shahjalaluniversityofscienceandtechnology = {
                 "Step 4: After getting an invitation letter students have to pay the tuition fee of the academy.",
                 "Step 5: With the original receipt of fee payment and invitation letter of the university, students can apply for the student visa process."
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> Students must make a note that Admission will start from 4th January, 2022.</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> Students must make a note that Admission will start from 4th January, 2022.</p>',
         },
         {
             "type": "text",
@@ -419,7 +427,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should take their admissions to Shahjalal University of Science and technology before the dates mentioned below. Check out the Important dates regarding admission at Shahjalal University of Science and Technology:</b>",
+            "info": "Students should take their admissions to Shahjalal University of Science and technology before the dates mentioned below. Check out the Important dates regarding admission at Shahjalal University of Science and Technology:",
             "col": [
                 "Events",
                 "Dates",
@@ -459,6 +467,10 @@ export const shahjalaluniversityofscienceandtechnology = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Shahjalal University of Science & Technology - Reviews" },
@@ -478,6 +490,10 @@ export const shahjalaluniversityofscienceandtechnology = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - Placement'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Shahjalal University of Science & Technology - Placement" },
@@ -496,6 +512,10 @@ export const shahjalaluniversityofscienceandtechnology = {
         }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - Gallery'
+        },
         {
             "type": "text",
             "title": "Shahjalal University of Science and Technology (SUST) - Photo Gallery",
@@ -522,6 +542,10 @@ export const shahjalaluniversityofscienceandtechnology = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - Scholarship'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Shahjalal University of Science & Technology - Scholarship" },
@@ -540,6 +564,10 @@ export const shahjalaluniversityofscienceandtechnology = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - Faculty'
+        },
         {
             type: "meta",
             meta: [
@@ -560,6 +588,10 @@ export const shahjalaluniversityofscienceandtechnology = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Shahjalal University of Science & Technology - News & Articles" },
@@ -579,9 +611,13 @@ export const shahjalaluniversityofscienceandtechnology = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Shahjalal University of Science and Technology provides the facilities of accommodation and mess for students:</b>",
+            "info": "Shahjalal University of Science and Technology provides the facilities of accommodation and mess for students:",
             "data": [
                 "Students at Shahjalal University of Science and Technology are provided with hostels for students.",
                 "Currently, at Shahjalal University of Science and technology, there are 5 halls of residence. Near the university area of Sylhet metro, a significant number of students reside privately."
@@ -590,7 +626,7 @@ export const shahjalaluniversityofscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Halls of Residence at the university are:</b>",
+            "info": "Halls of Residence at the university are:",
             "data": [
                 "Shah Paran Hall",
                 "Bangabandhu Sheikh Mujibur Rahman Hall",
@@ -643,9 +679,13 @@ export const shahjalaluniversityofscienceandtechnology = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Shahjalal University of Science & Technology - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Shahjalal University of Science & Technology - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the enrollment range at Shahjalal University Of Science And Technology?",

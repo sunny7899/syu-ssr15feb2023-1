@@ -41,7 +41,7 @@ export const donetsknationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Advantages of Donetsk National Medical University",
-            "info": "<b></b>",
+            "info": "",
             "img": '',
             "data": [
                 "English as a medium of Teaching",
@@ -60,7 +60,7 @@ export const donetsknationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Donetsk National Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Donetsk National Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Donetsk National Medical University:",
             "col": [
                 "World",
                 "Country",
@@ -115,6 +115,10 @@ export const donetsknationalmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Donetsk National Medical University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Donetsk National Medical University - MBBS Fee Structure",
             "col": [
@@ -147,8 +151,8 @@ export const donetsknationalmedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Courses Offered by Donetsk National Medical University",
-            "info": "<b>Courses provided in Donetsk National Medical University</b>",
+            "title": "",
+            "info": "Courses provided in Donetsk National Medical University",
             "data": [
                 "Medicine",
                 "Pharmacy",
@@ -180,9 +184,13 @@ export const donetsknationalmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Donetsk National Medical University - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Admission Procedure of Donetsk National Medical University",
-            "info": "<b>Step 1: How to Get Invitation Letter</b>",
+            "info": "Step 1: How to Get Invitation Letter",
             "textBelowInfo": "<p>To get an invitation letter from Donetsk National Medical University (DNMU) we require the following documents:</p>",
             "data": [
                 "Copy of International passport",
@@ -194,7 +202,7 @@ export const donetsknationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Step 2: Visa</b>",
+            "info": "Step 2: Visa",
             "textBelowInfo": "<p>After getting invitation letter from <b>Donetsk National Medical University (DNMU)</b> students should contact to nearest Ukraine Embassy or Consulate.</p>",
             "data": [
                 "Original Invitation letter",
@@ -210,7 +218,7 @@ export const donetsknationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Step 3: Arrival</b>",
+            "info": "Step 3: Arrival",
             "data": [
                 "After getting visa from Ukraine embassy, students should inform us about his/her flight details with date and arrival time.",
                 "One of our representative shall receive the student at the airport.",
@@ -236,6 +244,10 @@ export const donetsknationalmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Donetsk National Medical University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Donetsk National Medical University - Reviews" },
@@ -254,6 +266,10 @@ export const donetsknationalmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Donetsk National Medical University - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -274,6 +290,10 @@ export const donetsknationalmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Donetsk National Medical University - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Donetsk National Medical University - Gallery" },
@@ -292,6 +312,10 @@ export const donetsknationalmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Donetsk National Medical University - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -312,6 +336,10 @@ export const donetsknationalmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Donetsk National Medical University - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Donetsk National Medical University - Faculty" },
@@ -331,6 +359,10 @@ export const donetsknationalmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Donetsk National Medical University - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Donetsk National Medical University - News & Articles" },
@@ -349,6 +381,10 @@ export const donetsknationalmedicaluniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Donetsk National Medical University - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Accommodation Facilities by Donetsk NMU",
@@ -379,6 +415,10 @@ export const donetsknationalmedicaluniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Donetsk National Medical University - FAQ"
+        },
         // {
         //     "ques": "Q. ",
         //     "ans": ""

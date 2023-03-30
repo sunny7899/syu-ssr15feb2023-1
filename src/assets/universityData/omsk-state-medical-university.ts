@@ -21,7 +21,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Omsk State Medical University - Quick Highlights",
-            "info": "<b>Given below is the table for quick overview about Omsk State Medical University:</b>",
+            "info": "Given below is the table for quick overview about Omsk State Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course	</b>", "September"],
@@ -39,7 +39,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Omsk State Medical Academy?",
-            "info": "<b>Advantages of studying MBBS at Omsk State Medical Academy are as given below:</b>",
+            "info": "Advantages of studying MBBS at Omsk State Medical Academy are as given below:",
             "data": [
                 "The medium of instruction for the MBBS course at Omsk State Medical University is English.",
                 "The cost of studying MBBS in Russia is very low at this university.",
@@ -56,7 +56,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Omsk State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Omsk State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Omsk State Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -71,7 +71,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Omsk State Medical Academy has following Accreditation and Recognition:</b>",
+            "info": "Omsk State Medical Academy has following Accreditation and Recognition:",
             "data": [
                 "The Ministry of Education and Science of the Russian Federation",
                 "National Medical Commission (NMC)",
@@ -81,7 +81,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Student Life at Omsk State Medical University",
-            "info": "<b>The life of students at the Omsk city is described below:</b>",
+            "info": "The life of students at the Omsk city is described below:",
             "data": [
                 "Omsk State Medical Academy believes that physical training is a significant part of the daily routine.",
                 "The University has well-equipped gyms, a sport and recreation center for the students, ski-centers, etc.",
@@ -95,7 +95,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Omsk",
-            "info": "<b>Following are the living expenses at Omsk city:</b>",
+            "info": "Following are the living expenses at Omsk city:",
             "col": [
                 "Activity",
                 "Cost",
@@ -128,7 +128,7 @@ export const omskstatemedicaluniversity = {
             "type": "list-bollet",
             "title": "About Omsk City",
             "img": 'https://www.selectyouruniversity.com/images/russia-universities/omsk-state-medical-university-city.jpg',
-            "info": "<b>Some of the highlights of the Omsk city are:</b>",
+            "info": "Some of the highlights of the Omsk city are:",
             "data": [
                 "The Omsk city is located on the Irtysh River in southwestern Siberia region. It is Russia’s seventh largest city.",
                 "In 1782, Omsk was granted the town status.",
@@ -159,9 +159,14 @@ export const omskstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Omsk State Medical University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Omsk State Medical University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Omsk State Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Omsk State Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -214,7 +219,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Omsk State Medical University",
-            "info": "<b>Following are the courses offered at Omsk State Medical University, Russia:</b>",
+            "info": "Following are the courses offered at Omsk State Medical University, Russia:",
             "data": [
                 "General Medicine(MBBS)",
                 "Pediatrics",
@@ -226,7 +231,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Omsk State Medical University - MBBS Course Syllabus",
-            "info": "<b>Omsk State Medical Universities syllabus for studying MBBS is as follows:</b>",
+            "info": "Omsk State Medical Universities syllabus for studying MBBS is as follows:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -318,7 +323,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Omsk State Medical University - MBBS Duration",
-            "info": "<b>The duration of MBBS course at Omsk State Medical University is mentioned below:</b>",
+            "info": "The duration of MBBS course at Omsk State Medical University is mentioned below:",
             "data": [
                 "The duration of MBBS course at Omsk State Medical University is 6 years, out of which 1 year is internship.",
                 "The medium of instruction is English for studying MBBS at this university."
@@ -344,9 +349,14 @@ export const omskstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Omsk State Medical University, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Omsk State Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Omsk State Medical University is as follows:",
             "data": [
                 "Students must have cleared NEET exam.",
                 "The student must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -358,7 +368,7 @@ export const omskstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following is the admission process for applying to MBBS course at Omsk State Medical University:</b>',
+            info: 'Following is the admission process for applying to MBBS course at Omsk State Medical University:',
             data: [
                 "Step 1: Applicants should fill the application form available online. They can send the documents via email.",
                 "Step 2: Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -371,7 +381,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Omsk State Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Omsk State Medical University:",
             "data": [
                 "Copy of International passport",
                 "Copy of School leaving certificate and 12th standard mark sheet",
@@ -390,7 +400,7 @@ export const omskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Omsk State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Omsk State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Omsk State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -430,6 +440,11 @@ export const omskstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Omsk State Medical University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Omsk State Medical University, Russia - Reviews" },
@@ -448,6 +463,11 @@ export const omskstatemedicaluniversity = {
         }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "Omsk State Medical University, Russia - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -468,6 +488,11 @@ export const omskstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Omsk State Medical University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Omsk State Medical University, Russia - Faculty" },
@@ -486,6 +511,11 @@ export const omskstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Omsk State Medical University, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -506,9 +536,14 @@ export const omskstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Omsk State Medical University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Food",
-            "info": "<b>Following are the hostel and food facilities at Omsk State Medical Academy:</b>",
+            "info": "Following are the hostel and food facilities at Omsk State Medical Academy:",
             "data": [
                 "At Omsk State Medical Academy, students are provided with accommodation facilities.",
                 "There are three dormitories that accommodate about 1,344 students studying at the University.",
@@ -555,9 +590,14 @@ export const omskstatemedicaluniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Omsk State Medical University, Russia - FAQ"
+
+            },
+            {
                 "type": "question-list",
                 "title": "Omsk State Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
                 "data": [
                     {
                         "ques": "Q. What is the duration of summer vacation at Omsk State Medical University?",
@@ -605,6 +645,11 @@ export const omskstatemedicaluniversity = {
         ],
     "placement": [
         {
+            type: 'title',
+            title: "Omsk State Medical University, Russia - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "placement",
             "info": "",
@@ -634,6 +679,11 @@ export const omskstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Omsk State Medical University, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
             "info": "",
@@ -660,5 +710,5 @@ export const omskstatemedicaluniversity = {
             ]
         }
     ]
-    
+
 }

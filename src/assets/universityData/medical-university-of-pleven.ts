@@ -22,7 +22,7 @@ export const medicaluniversityofpleven = {
         {
             "type": "table-title",
             "title": "Medical University of Pleven: Quick Highlights 2022",
-            "info": "<b>Take a look at some important facts of Medical University of Pleven:</b>",
+            "info": "Take a look at some important facts of Medical University of Pleven:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const medicaluniversityofpleven = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Medical University of Pleven?",
-            "info": "<b>The worldwide students looking to pursue MBBS must check out the advantages of studying MBBS at Medical University of Pleven:</b>",
+            "info": "The worldwide students looking to pursue MBBS must check out the advantages of studying MBBS at Medical University of Pleven:",
             "img": '',
             "data": [
                 "Medical University of Pleven offers affordable medical education for global students.",
@@ -61,7 +61,7 @@ export const medicaluniversityofpleven = {
         {
             "type": "table",
             "title": "Medical University of Pleven: Ranking 2022",
-            "info": "<b>According to Uni Rank, the country and world ranking of Medical University of Pleven is given below:</b>",
+            "info": "According to Uni Rank, the country and world ranking of Medical University of Pleven is given below:",
             "col": [
                 "World",
                 "Country",
@@ -79,7 +79,7 @@ export const medicaluniversityofpleven = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Medical University of Pleven has the accreditation and recognition of following medical bodies mentioned below:</b>",
+            "info": "Medical University of Pleven has the accreditation and recognition of following medical bodies mentioned below:",
             "img": '',
             "data": [
                 "World Health Organization (WHO)",
@@ -92,7 +92,7 @@ export const medicaluniversityofpleven = {
         {
             "type": 'list-bollet',
             "title": 'Facilities Provided at Medical University of Pleven',
-            "info": '<b>The Medical University of Pleven furnishes all basic facilities to the students during MBBS education:</b>',
+            "info": 'The Medical University of Pleven furnishes all basic facilities to the students during MBBS education:',
             "data": [
                 "Hospital",
                 "Library",
@@ -153,7 +153,7 @@ export const medicaluniversityofpleven = {
         {
             "type": "table",
             "title": "Living Expenses in Pleven",
-            "info": "<b>The table below shows the average and approx cost of living in Pleven for a month but it may vary according to the individual’s living:</b>",
+            "info": "The table below shows the average and approx cost of living in Pleven for a month but it may vary according to the individual’s living:",
             "col": [
                 "Particular",
                 "Amount in Euro",
@@ -205,7 +205,7 @@ export const medicaluniversityofpleven = {
         {
             "type": "list-bollet",
             "title": "About Pleven City",
-            "info": "<b>The students must go through the Pleven city information:</b>",
+            "info": "The students must go through the Pleven city information:",
             // "img": 'https://www.selectyouruniversity.com/images/bulgaria-universities/pleven-city.jpg',
             "data": [
                 "Pleven city is the seventh most populous city in the country of Bulgaria.",
@@ -238,9 +238,14 @@ export const medicaluniversityofpleven = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Medical University of Pleven: MBBS Fee Structure 2022",
-            "info": "<b>Medical University of Pleven providing an affordable fee structure to all students who look forward to medical education in this university:</b>",
+            "info": "Medical University of Pleven providing an affordable fee structure to all students who look forward to medical education in this university:",
             "textBelowInfo": "Bulgarian Students",
             "col": [
                 "Particular",
@@ -298,7 +303,7 @@ export const medicaluniversityofpleven = {
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at Medical University of Pleven',
-            "info": '<b>Currently Medical University of Pleven has a stable structure of four faculties:</b>',
+            "info": 'Currently Medical University of Pleven has a stable structure of four faculties:',
             "data": [
                 "Medicine",
                 "Health Care",
@@ -309,7 +314,7 @@ export const medicaluniversityofpleven = {
         {
             "type": 'list-bollet',
             "title": 'Medical University of Pleven: MBBS Duration',
-            "info": '<b>Here at Medical University of Pleven, the students can study MBBS program in 6 years:</b>',
+            "info": 'Here at Medical University of Pleven, the students can study MBBS program in 6 years:',
             "data": [
                 "The duration of a Medical program at Medical University of Pleven is 6 years.",
                 "The students must undergo an overall breakdown of Medicine course training includes -",
@@ -422,7 +427,7 @@ export const medicaluniversityofpleven = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>The medium of instruction at Medical University of Pleven is English:</b>',
+            info: 'The medium of instruction at Medical University of Pleven is English:',
             data: '<p><b>The medium of instruction at Medical University of Pleven is English:</b></p><p>The medium of instruction for all foreign students at Medical University of Pleven is an English medium.</p> '
         },
         {
@@ -445,9 +450,14 @@ export const medicaluniversityofpleven = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - Admission 2023"
+
+        },
+        {
             "type": "table",
             "title": "Academic Calendar: Intake 2022",
-            "info": "<b>The students must check out some important admission dates for taking admission at Medical University of Pleven:</b>",
+            "info": "The students must check out some important admission dates for taking admission at Medical University of Pleven:",
             "col": [
                 "Events",
                 "Dates",
@@ -471,7 +481,7 @@ export const medicaluniversityofpleven = {
         {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>The students wanted to start a medical career at Medical University of Pleven must fit into the following eligibility criteria:</b>',
+            "info": 'The students wanted to start a medical career at Medical University of Pleven must fit into the following eligibility criteria:',
             "data": [
                 "To get admitted to Medical University of Pleven, the students must pass in the entrance exam including Biology and Chemistry subjects.",
                 "The candidates must be at least age of 17 years old or above to enroll in the medicine course.",
@@ -483,7 +493,7 @@ export const medicaluniversityofpleven = {
         {
             "type": 'step-list',
             "title": 'Admission Process',
-            "info": '<b>The students strive to take MBBS admission at Medical University of Pleven must follow the steps mentioned below:</b>',
+            "info": 'The students strive to take MBBS admission at Medical University of Pleven must follow the steps mentioned below:',
             "data": [
                 "<b>Step 1:</b> The students must fill up the complete online admission form of The Medical University of Pleven.",
                 "<b>Step 2:</b> The applicants must submit all - important academic documents.",
@@ -496,7 +506,7 @@ export const medicaluniversityofpleven = {
         {
             "type": 'list-bollet',
             "title": 'Documents Required',
-            "info": '<b>There are some documents which are needed to be submitted by the students during the admission process:</b>',
+            "info": 'There are some documents which are needed to be submitted by the students during the admission process:',
             "data": [
                 "The candidates must submit the completed application form.",
                 "Indian candidates willing to pursue MBBS must have NEET examination results.",
@@ -538,6 +548,11 @@ export const medicaluniversityofpleven = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Pleven, Bulgaria - Reviews" },
@@ -556,6 +571,11 @@ export const medicaluniversityofpleven = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -576,6 +596,11 @@ export const medicaluniversityofpleven = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Pleven, Bulgaria - Gallery" },
@@ -594,6 +619,11 @@ export const medicaluniversityofpleven = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -614,6 +644,11 @@ export const medicaluniversityofpleven = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Pleven, Bulgaria - Faculty" },
@@ -632,6 +667,11 @@ export const medicaluniversityofpleven = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -652,9 +692,14 @@ export const medicaluniversityofpleven = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - Hostel"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel & Accommodation',
-            "info": '<b>Medical University of Pleven provides the students with the best hostel and accommodation facilities:</b>',
+            "info": 'Medical University of Pleven provides the students with the best hostel and accommodation facilities:',
             "data": [
                 "Medical University of Pleven provides fully furnished and convenient hostel rooms for the students.",
                 "The hostel offers a separate living space for boys and girls with the same facilities.",
@@ -713,9 +758,14 @@ export const medicaluniversityofpleven = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Medical University of Pleven, Bulgaria - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Medical University of Pleven: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
 
                 {

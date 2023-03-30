@@ -19,7 +19,7 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     {
       "type": "table-title",
       "title": "Gonoshasthaya Samaj Vittik Medical College - Quick Highlights",
-      "info": "<b>Have a look at the quick overview taken for Gonoshasthaya Samaj Vittik Medical College:</b>",
+      "info": "Have a look at the quick overview taken for Gonoshasthaya Samaj Vittik Medical College:",
       "col": [],
       "row": [
         ["<b>Intake for MBBS Course</b>", "September"],
@@ -37,7 +37,7 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     {
       type: 'list-bollet',
       title: 'Why Study MBBS at Gonoshasthaya Samaj Vittik Medical College?',
-      info: '<b>Given below are the benefits of studying at ‘Gonoshasthaya Samaj Vittik Medical College’ which you should be aware of:</b>',
+      info: 'Given below are the benefits of studying at ‘Gonoshasthaamaj Vittik Medical College’ which you should be aware of:</b>',
       data: [
         "The college has affiliated university hospitals where students can pursue their internships.",
         "The university has experienced staff with world-recognized specialties.",
@@ -59,7 +59,7 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     {
       "type": "table",
       "title": "Gonoshasthaya Samaj Vittik Medical College - Ranking 2022",
-      "info": "<b>According to 4icu.org, following is the country and world ranking for Gonoshasthaya Samaj Vittik Medical College:</b>",
+      "info": "According to 4icu.org, following is the country and world ranking for Gonoshasthaya Samaj Vittik Medical College:",
       "col": [
         "Country",
         "World",
@@ -75,7 +75,7 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>Medical Degree from Gonoshasthaya Samaj Vittik Medical College is fully recognized by different medical bodies given below, such as:</b>",
+      "info": "Medical Degree from Gonoshasthaya Samaj Vittik Medical College is fully recognized by different medical bodies given below, such as:",
       "data": [
         "World Health Organization (WHO)",
         "National Medical Commission (NMC)",
@@ -89,7 +89,7 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>Students should take their admissions to Gonoshasthaya Samaj Vittik Medical College before the dates mentioned below. Check out the Important dates regarding admission at Gonoshasthaya Samaj Vittik Medical College:</b>",
+      "info": "Students should take their admissions to Gonoshasthaya Samaj Vittik Medical College before the dates mentioned below. Check out the Important dates regarding admission at Gonoshasthaya Samaj Vittik Medical College:",
       "col": [
         "Events",
         "Dates",
@@ -112,7 +112,7 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Education System",
-      "info": "<b>Following is the education system of Gonoshasthaya Samaj Vittik Medical College:</b>",
+      "info": "Following is the education system of Gonoshasthaya Samaj Vittik Medical College:",
       "data": [
         "The curriculum is taught through advanced course structure, lecture, tutorial, practicals, small group discussions and community training provided by the Bangladesh Medical and Dental council. The language of teaching that is most commonly used to study medicine is English. Each academic year is divided into two equal 6 month semesters.",
         "Gonoshasthaya Samaj Vittik Medical College offers integrated courses in which students can learn dental, physiotherapy, ayurveda, homeopathy specialties."
@@ -121,7 +121,7 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     {
       "type": "table",
       "title": "Cost of living",
-      "info": "<b>The cost of living at ‘Dhaka city’ is as follows:</b>",
+      "info": "The cost of living at ‘Dhaka city’ is as follows:",
       "col": [
         "Particulars",
         "Cost in USD",
@@ -180,9 +180,14 @@ export const gonoshasthayasamajvittikmedicalcollege = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - courses & Fees"
+
+    },
+    {
       "type": "table",
       "title": "Gonoshasthaya Samaj Vittik Medical College - MBBS Fee Structure 2022",
-      "info": "<b>Following is the fees structure for Gonoshasthaya Samaj Vittik Medical College for MBBS:</b>",
+      "info": "Following is the fees structure for Gonoshasthaya Samaj Vittik Medical College for MBBS:",
       "col": [
         "Particular",
         "Sem 1(Year 1)",
@@ -263,12 +268,12 @@ export const gonoshasthayasamajvittikmedicalcollege = {
           "Sem 10(Year 5)": "Rs.1.75 Lakhs"
         }
       ],
-      heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p><p>Application, visa, flight tickets, etc. will be extra up to Rs.1,00,000/- (or more approximately).</p><p>The fees mentioned here are approximate and can change as per the change in currency.</p>'
+      heading: '<p><b><u>Note:</u></b> 1$ = 70 Rs.</p><p>Application, visa, flight tickets, etc. will be extra up to Rs.1,00,000/- (or more approximately).</p><p>The fees mentioned here are approximate and can change as per the change in currency.</p>'
     },
     {
       "type": "list-bollet",
       "title": "Courses Offered at Gonoshasthaya Samaj Vittik Medical College",
-      "info": "<b>Following are the different medicine courses in which students can take their education:</b>",
+      "info": "Following are the different medicine courses in which students can take their education:",
       "data": [
         "MBBS",
         "Pharmacy",
@@ -281,13 +286,13 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     {
       "type": "text",
       "title": "Gonoshasthaya Samaj Vittik Medical College - MBBS Duration",
-      "info": "",
-      "data": "<p><b>Following is the MBBS Course duration at the Gonoshasthaya Samaj Vittik Medical College:</b></p><p>The duration of the MBBS course at Gonoshasthaya Samaj Vittik Medical College is 5 years and students will have to complete an internship of 18 months which is mandatory for the students.</p>"
+      "info": "Following is the MBBS Course duration at the Gonoshasthaya Samaj Vittik Medical College:",
+      "data": "<p>The duration of the MBBS course at Gonoshasthaya Samaj Vittik Medical College is 5 years and students will have to complete an internship of 18 months which is mandatory for the students.</p>"
     },
     {
       "type": "table",
       "title": "Gonoshasthaya Samaj Vittik Medical College - MBBS Syllabus",
-      "info": "<b>The syllabus for studying MBBS at Gonoshasthaya Samaj Vittik Medical College is given below:</b>",
+      "info": "The syllabus for studying MBBS at Gonoshasthaya Samaj Vittik Medical College is given below:",
       "col": [
         "Phase and year",
         "Subject",
@@ -296,31 +301,31 @@ export const gonoshasthayasamajvittikmedicalcollege = {
       "row": [
         {
           "Phase and year1": "<b>First Phase_(1 and a half year)</b>",
-          " S1": "Anatomy",
-          " S2": "Physiology",
-          " S3": "Biochemistry",
-          " a": "",
-          " b": "",
-          " c": "",
+          "S1": "Anatomy",
+          "S2": "Physiology",
+          "S3": "Biochemistry",
+          "a": "",
+          "b": "",
+          "c": "",
           "Phase and year2": "<b>Second Phase(1 year)</b>",
-          " S4": "Community Medicine",
-          " S5": "Forensic Medicine",
-          " d": "Internal Medicine, Psychiatry, Paediatrics, Dermatology, Venereal diseases and Physical Medicine.",
-          " e": "",
+          "S4": "Community Medicine",
+          "S5": "Forensic Medicine",
+          "d": "Internal Medicine, Psychiatry, Paediatrics, Dermatology, Venereal diseases and Physical Medicine.",
+          "e": "",
           "Phase and year3": "<b>Third Phase(1 year)</b>",
-          " S6": "Pharmacology & Therapeutic",
-          " S7": "Pathology",
-          " S8": "Microbiology",
-          " f": "",
-          " g": "General Pathology, Systematic Pathology, Hematology, Clinical Pathology",
-          " h": "Bacteriology, Immunology, Parasitology, Mycology",
+          "S6": "Pharmacology & Therapeutic",
+          "S7": "Pathology",
+          "S8": "Microbiology",
+          "f": "",
+          "g": "General Pathology, Systematic Pathology, Hematology, Clinical Pathology",
+          "h": "Bacteriology, Immunology, Parasitology, Mycology",
           "Phase and year4": "<b>Fourth Phase(1 and a half year)</b>",
-          " S9": "Medicine and Allied Subjects",
-          " S10": "Surgery and Allied Subjects",
-          " S11": "Obstetrics and Gynaecology",
-          " i": "",
-          " j": "General and Regional Surgery, Orthopaedics and Traumatology, Ophthalmology, Otorhinolaryngology, Anaesthesiology, Radiology, Radiotherapy, Blood Transfusion and Dentistry.",
-          " k": "Neonatology & family planning",
+          "S9": "Medicine and Allied Subjects",
+          "S10": "Surgery and Allied Subjects",
+          "S11": "Obstetrics and Gynaecology",
+          "i": "",
+          "j": "General and Regional Surgery, Orthopaedics and Traumatology, Ophthalmology, Otorhinolaryngology, Anaesthesiology, Radiology, Radiotherapy, Blood Transfusion and Dentistry.",
+          "k": "Neonatology & family planning",
         },
       ]
     },
@@ -344,9 +349,14 @@ export const gonoshasthayasamajvittikmedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Admission 2023 "
+
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria Required for Applying MBBS Course",
-      "info": "<b>Students must fulfill the following eligibility criteria to secure admission at this university:</b>",
+      "info": "Students must fulfill the following eligibility criteria to secure admission at this university:",
       "data": [
         "Applicant’s ages should be 17 to 25 years.",
         "Applicants must have to clear NEET exam.",
@@ -355,8 +365,8 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     },
     {
       type: 'step-list',
-      title: 'Admission Process for MBBS Course',
-      info: '<b>Students must follow the below-mentioned steps to take Admission to Gonoshasthaya Samaj Vittik Medical College for doing MBBS:</b>',
+      title: 'Admission Process for MBBS Co',
+      info: 'Students must follow the below-mentioned steps to take Admission to Gonoshasthaya Samaj Vittik Medical College for doing MBBS:</b>',
       data: [
         "Step 1: Students have to fill the Application form available online.",
         "Step 2: Then, they should send the filled-in Application together with the copies of the documents, necessary for the acquisition of the student’s status.",
@@ -369,19 +379,19 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The following documents must be submitted by students to the university at the admission time:</b>",
+      "info": "The following documents must be submitted by students to the university at the admission time:",
       "data": [
-        " High School Mark sheets",
-        " Copy Of Passport",
-        " Guardian’s letter",
-        " Copy of Blood Group Certificate",
-        " Approved Visa Copy",
-        " Migration letter from the Medical Council",
-        " Passport size photographs - 3",
-        " School Leaving Certificate",
-        " Letters of Recommendation from School",
-        " Medical Board Certificate",
-        " Non-Criminal Certificate"
+        "High School Mark sheets",
+        "Copy Of Passport",
+        "Guardian’s letter",
+        "Copy of Blood Group Certificate",
+        "Approved Visa Copy",
+        "Migration letter from the Medical Council",
+        "Passport size photographs - 3",
+        "School Leaving Certificate",
+        "Letters of Recommendation from School",
+        "Medical Board Certificate",
+        "Non-Criminal Certificate"
       ]
     },
     {
@@ -404,6 +414,11 @@ export const gonoshasthayasamajvittikmedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Reviews"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Reviews" },
@@ -422,6 +437,11 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Placement"
+
+    },
     {
       type: "meta",
       meta: [
@@ -442,6 +462,11 @@ export const gonoshasthayasamajvittikmedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Gallery"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Gallery" },
@@ -461,9 +486,14 @@ export const gonoshasthayasamajvittikmedicalcollege = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Scholarship"
+
+    },
+    {
       "type": "table",
       "title": "Scholarships Offered at University",
-      "info": "<b>Below mentioned scholarships are offered to students at the Gonoshasthaya Samaj Vittik Medical College:</b>",
+      "info": "Below mentioned scholarships are offered to students at the Gonoshasthaya Samaj Vittik Medical College:",
       "col": [
         "Name of the scholarships",
         "Year Started",
@@ -522,6 +552,11 @@ export const gonoshasthayasamajvittikmedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Faculty"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Faculty" },
@@ -540,6 +575,11 @@ export const gonoshasthayasamajvittikmedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - News & Articles"
+
+    },
     {
       type: "meta",
       meta: [
@@ -560,9 +600,14 @@ export const gonoshasthayasamajvittikmedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - Hostel"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Hostels at Gonoshasthaya Samaj Vittik Medical College",
-      "info": "<b>The university offers excellent hostel facilities to its students:</b>",
+      "info": "The university offers excellent hostel facilities to its students:",
       "data": [
         "The college has a modernised hostel lodging.",
         "Separate hostels are allotted to boys and girls.",
@@ -603,9 +648,13 @@ export const gonoshasthayasamajvittikmedicalcollege = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Gonoshasthaya Samaj Vittik Medical College, Bangladesh - FAQ"
+      },
+      {
         "type": "question-list",
         "title": "Gonoshasthaya Samaj Vittik Medical College - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. Does the Gonoshasthaya Samaj Vittik Medical College hold NMC recognition?",

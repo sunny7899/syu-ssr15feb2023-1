@@ -22,7 +22,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "table-title",
             "title": "Corvinus University of Budapest - Quick Highlights",
-            "info": "<b>What are the important things that students need to keep in mind before proceeding with admission to the Corvinus University of Budapest?</b>",
+            "info": "What are the important things that students need to keep in mind before proceeding with admission to the Corvinus University of Budapest?",
             "col": [
             ],
             "row": [
@@ -43,7 +43,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "list-bollet",
             "title": "Why Study at Corvinus University of Budapest?",
-            "info": "<b>The advanced education program and the experienced educators are the few of the advantages of studying at Corvinus University:</b>",
+            "info": "The advanced education program and the experienced educators are the few of the advantages of studying at Corvinus University:",
             "img": '',
             "data": [
                 "Corvinus University provides first-class education.",
@@ -61,7 +61,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "table",
             "title": "Corvinus University of Budapest - Ranking 2022",
-            "info": "<b>The Ranking of the Corvinus University of Budapest shows that the university belongs to the top 10 Universities in the country:</b>",
+            "info": "The Ranking of the Corvinus University of Budapest shows that the university belongs to the top 10 Universities in the country:",
             "col": [
                 "World",
                 "Country",
@@ -83,7 +83,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>One of the important aspects of the Corvinus University of Budapest is the language that they use to teach students:</b>",
+            "info": "One of the important aspects of the Corvinus University of Budapest is the language that they use to teach students:",
             "img": '',
             "data": [
                 "At the Corvinus University of Budapest, the various courses are taught in English as well as Hungarian languages. But for foreign students the main medium of teaching is English.",
@@ -94,7 +94,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "list-bollet",
             "title": "Accreditation",
-            "info": "<b>The Corvinus University of Budapest has many Hungarian accreditations as well as international accreditations:</b>",
+            "info": "The Corvinus University of Budapest has many Hungarian accreditations as well as international accreditations:",
             "img": '',
             "data": [
                 "MAB",
@@ -109,7 +109,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The Corvinus University of Budapest also has the following networks:</b>",
+            "info": "The Corvinus University of Budapest also has the following networks:",
             "img": '',
             "data": [
                 "Community of European Management Schools (CEMS)",
@@ -125,7 +125,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "table",
             "title": "Cost of Living in Hungary",
-            "info": "<b>One should make sure to know the average and approximate cost of living in Budapest before taking admission at the Corvinus University of Budapest. It is always a good idea in order to have a plan of expenses:</b>",
+            "info": "One should make sure to know the average and approximate cost of living in Budapest before taking admission at the Corvinus University of Budapest. It is always a good idea in order to have a plan of expenses:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -184,9 +184,13 @@ export const corvinusuniversityofbudapest = {
 
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - courses & Fees"
+        },
+        {
             "type": "list-bollet",
             "title": "Courses offered at Corvinus University of Budapest",
-            "info": "<b>The Corvinus University offers different Bachelor’s and Masters’s as well as Doctorate level courses:</b>",
+            "info": "The Corvinus University offers different Bachelor’s and Masters’s as well as Doctorate level courses:",
             "img": '',
             "data": [
                 "BA/BSc",
@@ -197,7 +201,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "table",
             "title": "Corvinus University of Budapest - Fee Structure and Course Duration",
-            "info": "<b>BA/BSc</b>",
+            "info": "BA/BSc",
             "textBelowInfo": "<b>The tuition fee for different programs of BA/BSc is different at Corvinus University. It is affordable for foreign students as well:</b>",
             "col": [
                 "Programmes",
@@ -314,7 +318,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>MA/MSc</b>",
+            "info": "MA/MSc",
             "textBelowInfo": "<b>The different programs of MA/MSc have different fee structures. There are total 13 programs in MA/MSc. Here is the list of course duration and fee structure of the same.</b>",
             "col": [
                 "Programmes",
@@ -487,7 +491,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>MBA</b>",
+            "info": "MBA",
             "textBelowInfo": "<b>The Corvinus University of Budapest provides high-quality MBA programs and double degree programs. The MBA fee for various programs is as below:</b>",
             "col": [
                 "Programmes",
@@ -544,9 +548,13 @@ export const corvinusuniversityofbudapest = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>BA/BSc</b>",
+            "info": "BA/BSc",
             "data": [
                 "The student should have completed secondary education.",
                 "Language Proficiency: to take admission to Corvinus University, students need to submit any of the following language test reports with the given eligible score",
@@ -594,7 +602,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MA/MSc</b>",
+            "info": "MA/MSc",
             "data": [
                 "Bachelor’s degree (must be completed before the deadline of application)",
                 "Minimum B2 knowledge in English, proven by a certificate.",
@@ -716,7 +724,7 @@ export const corvinusuniversityofbudapest = {
         {
             "type": "table",
             "title": "Corvinus University of Budapest - Important Dates",
-            "info": "<b>The admission process for the September batch is over. But students can apply for the 2022 batch now. Here are the important dates for the next batch at the Corvinus University of Budapest:</b>",
+            "info": "The admission process for the September batch is over. But students can apply for the 2022 batch now. Here are the important dates for the next batch at the Corvinus University of Budapest:",
             "col": [
                 "Events",
                 "Dates"
@@ -761,6 +769,10 @@ export const corvinusuniversityofbudapest = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Corvinus University of Budapest, Hungary - Reviews" },
@@ -779,6 +791,10 @@ export const corvinusuniversityofbudapest = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -808,6 +824,10 @@ export const corvinusuniversityofbudapest = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Corvinus University of Budapest, Hungary - Gallery" },
@@ -827,9 +847,13 @@ export const corvinusuniversityofbudapest = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>The scholarship that is provided at the Corvinus University of Budapest is as follows:</b>",
+            "info": "The scholarship that is provided at the Corvinus University of Budapest is as follows:",
             "data": [
                 "Stipendium Hungaricum",
                 "Diaspora scholarships",
@@ -854,6 +878,10 @@ export const corvinusuniversityofbudapest = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -906,6 +934,10 @@ export const corvinusuniversityofbudapest = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Corvinus University of Budapest, Hungary - News & Articles" },
@@ -925,9 +957,13 @@ export const corvinusuniversityofbudapest = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The accommodation service is provided to students by the Corvinus University of Budapest:</b>",
+            "info": "The accommodation service is provided to students by the Corvinus University of Budapest:",
             "data": [
                 "The hostel of Corvinus University can accommodate 1100 students.",
                 "There are rooms on a sharing basis with 2-3 beds or 4-5 beds in each room.",
@@ -956,9 +992,13 @@ export const corvinusuniversityofbudapest = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Corvinus University of Budapest, Hungary - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Corvinus University of Budapest - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is there any entrance exam needed to take admission to the Corvinus University of Budapest?",

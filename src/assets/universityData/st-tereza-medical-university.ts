@@ -19,7 +19,7 @@ export const stterezamedicaluniversity = {
         {
             "type": "table-title",
             "title": "St. Tereza Medical University - Quick Highlights",
-            "info": "<b>The medical aspirants looking to seek MBBS education in St. Tereza Medical University should go through some major highlights of University:</b>",
+            "info": "The medical aspirants looking to seek MBBS education in St. Tereza Medical University should go through some major highlights of University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>NEET Qualification</b>", "Yes, Along with good scores"],
@@ -33,7 +33,7 @@ export const stterezamedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at St. Tereza Medical University?',
-            info: '<b>Here are some reasons why Students coming across the globe choose to study MBBS in St. Tereza Medical University:</b>',
+            info: 'Here are some reasons why Students coming across the globe choose to study MBBS in St. Tereza Medical University:',
             data: [
                 "St. Tereza Medical University offers an excellent quality of education.",
                 "The University provides all basic facilities like library, hostel, mess, Computer labs, Auditorium, hospital, Medical and well-equipped classrooms etc. for the students.",
@@ -53,7 +53,7 @@ export const stterezamedicaluniversity = {
         {
             type: "table",
             title: 'St. Tereza Medical University: FMGE Performance 2021',
-            info: '<b>Find the passing percent and appeared students in year 2021 for St. Tereza Medical University is here in the table below:</b>',
+            info: 'Find the passing percent and appeared students in year 2021 for St. Tereza Medical University is here in the table below:',
             col: [
                 "Name of University",
                 "Appeared",
@@ -72,7 +72,7 @@ export const stterezamedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>St. Tereza Medical University is recognized worldwide by several medical bodies:</b>',
+            info: 'St. Tereza Medical University is recognized worldwide by several medical bodies:',
             data: [
                 "World health organization (WHO)",
                 "United Nation of educational, scientific and cultural organization (UNESCO)",
@@ -83,7 +83,7 @@ export const stterezamedicaluniversity = {
         {
             "type": "table",
             "title": "St. Tereza Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for St. Tereza Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for St. Tereza Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -99,7 +99,7 @@ export const stterezamedicaluniversity = {
         {
             type: "table",
             title: 'Living Cost in Yerevan',
-            info: '<b>Yerevan offers a very low cost of living expenses which may vary according to individual expenses, the table given below shows the monthly basis living expenses of the city:</b>',
+            info: 'Yerevan offers a very low cost of living expenses which may vary according to individual expenses, the table given below shows the monthly basis living expenses of the city:',
             col: [
                 "Particulars",
                 "Approx Range in USD",
@@ -122,7 +122,7 @@ export const stterezamedicaluniversity = {
                     "Approx Range in RS": "420 Rs"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs.</p>'
         },
         {
             type: 'text',
@@ -134,7 +134,7 @@ export const stterezamedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>There are lots of major attractions of Yerevan city</b>",
+            "info": "There are lots of major attractions of Yerevan city",
             "row": [
                 ["Republic Square, Yerevan", "Matenadaran"],
                 ["Yerevan Cascade", "Tsitsernakaberd"],
@@ -167,9 +167,13 @@ export const stterezamedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'St. Tereza Medical University, Armenia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "St. Tereza Medical University - MBBS Fee Structure 2022",
-            "info": "<b>St. Tereza Medical University offers low fee structure to worldwide medical aspirants to study medicine within affordable range:</b>",
+            "info": "St. Tereza Medical University offers low fee structure to worldwide medical aspirants to study medicine within affordable range:",
             "col": [
                 "Perticular",
                 "Course Fee",
@@ -192,12 +196,12 @@ export const stterezamedicaluniversity = {
                     "Course Fee": "4,06,000 INR"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (approx)</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (approx)</p>'
         },
         {
             "type": "table",
             "title": "St. Tereza Medical University - MBBS Syllabus",
-            "info": "<b>Before taking admission in St. Tereza medical university, the students must go through MBBS study pattern given below in the table:</b>",
+            "info": "Before taking admission in St. Tereza medical university, the students must go through MBBS study pattern given below in the table:",
             "Data": "1st Year",
             "col": [
                 "1st Semester",
@@ -283,7 +287,7 @@ export const stterezamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at St. Tereza Medical University",
-            "info": "<b>St. Tereza Medical University offers the following medical departments:</b>",
+            "info": "St. Tereza Medical University offers the following medical departments:",
             "data": [
                 "Obstetrics",
                 "Nursing",
@@ -295,7 +299,7 @@ export const stterezamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "St. Tereza Medical University - MBBS Duration",
-            "info": "<b>The St. Tereza Medical University provides 6 years of MBBS course:</b>",
+            "info": "The St. Tereza Medical University provides 6 years of MBBS course:",
             "data": [
                 "St. Tereza Medical University of Armenia offers a high quality of medicine program education under the supervision of qualified faculty members and it’s the first university to offer a 6 years of Medical doctor program in the Republic of Armenia.",
                 "All International students must undergo 5 years of MBBS education in which the students will acquire theoretical and practical knowledge.",
@@ -322,9 +326,13 @@ export const stterezamedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'St. Tereza Medical University, Armenia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>If you want to study MBBS in St. Tereza Medical University, Check out the eligibility below:</b>",
+            "info": "If you want to study MBBS in St. Tereza Medical University, Check out the eligibility below:",
             "data": [
                 "The candidate must have at least 17 years of age to apply for MBBS course education.",
                 "The candidate should complete the higher secondary with a minimum 50% score covering physics, chemistry and biology streams.",
@@ -336,7 +344,7 @@ export const stterezamedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The Admission process is based on counselling round and academic progress worldwide students looking for MBBS education in St. Tereza Medical University must read the mentioned points below:</b>',
+            info: 'The Admission process is based on counselling round and academic progress worldwide students looking for MBBS education in St. Tereza Medical University must read the mentioned points below:',
             data: [
                 "Step 1: The candidates must fill the online available application forms of the desired university with all right points of interest for taking Admission in St. Tereza Medical University.",
                 "Step 2: The candidates will get an offer letter within some days, save it for future use.",
@@ -348,7 +356,7 @@ export const stterezamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>For the admission process the Medical aspirants must carry all the following related documents given below:</b>",
+            "info": "For the admission process the Medical aspirants must carry all the following related documents given below:",
             "data": [
                 "The candidate must submit the online application form copy.",
                 "The candidate must submit a transfer certificate from the school.",
@@ -381,6 +389,10 @@ export const stterezamedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'St. Tereza Medical University, Armenia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "St. Tereza Medical University, Armenia - Reviews" },
@@ -399,6 +411,10 @@ export const stterezamedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'St. Tereza Medical University, Armenia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -430,6 +446,10 @@ export const stterezamedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'St. Tereza Medical University, Armenia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "St. Tereza Medical University, Armenia - Gallery" },
@@ -448,6 +468,10 @@ export const stterezamedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'St. Tereza Medical University, Armenia - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -468,6 +492,10 @@ export const stterezamedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'St. Tereza Medical University, Armenia - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "St. Tereza Medical University, Armenia - Faculty" },
@@ -486,6 +514,10 @@ export const stterezamedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'St. Tereza Medical University, Armenia - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -506,9 +538,13 @@ export const stterezamedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'St. Tereza Medical University, Armenia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Comfortable and spacious dormitories are significantly put forth for convenience of worldwide student St. Tereza Medical University:</b>",
+            "info": "Comfortable and spacious dormitories are significantly put forth for convenience of worldwide student St. Tereza Medical University:",
             "data": [
                 "The university provides a developed hostel management system.",
                 "Internet connection round the clock.",
@@ -523,7 +559,7 @@ export const stterezamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel is located in the university campus and surrounded by -</b>",
+            "info": "The hostel is located in the university campus and surrounded by -",
             "data": [
                 "Grocery Shop",
                 "Stationery Shop",
@@ -554,9 +590,13 @@ export const stterezamedicaluniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: 'St. Tereza Medical University, Armenia - FAQ'
+            },
+            {
                 "type": "question-list",
                 "title": "St. Tereza Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
                 "data": [
                     {
                         "ques": "Q. Is the hostel fee at St. Tereza Medical University affordable for international students?",

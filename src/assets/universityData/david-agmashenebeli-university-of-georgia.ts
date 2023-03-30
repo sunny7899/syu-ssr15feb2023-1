@@ -19,7 +19,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "table-title",
             "title": "David Agmashenebeli University of Georgia - Quick Highlights 2022",
-            "info": "<b>Given below is the table for major facts about David Agmashenebeli University of Georgia:</b>",
+            "info": "Given below is the table for major facts about David Agmashenebeli University of Georgia:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -37,7 +37,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at David Agmashenebeli University of Georgia?",
-            "info": "<b>Below are some of the benefits of studying MBBS at David Agmashenebeli University of Georgia:</b>",
+            "info": "Below are some of the benefits of studying MBBS at David Agmashenebeli University of Georgia:",
             "data": [
                 "The staff of the university use the newest technology for teaching and newest Manuals, USA Medical Textbooks, and other aids.",
                 "David Agmashenebeli University gives guarantee to its students to pass NMC and all international tests.",
@@ -52,7 +52,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "table",
             "title": "David Agmashenebeli University of Georgia - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Kazan Federal University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Kazan Federal University:",
             "col": [
                 "Country",
                 "World"
@@ -67,7 +67,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction used at David Agmashenebeli University for MBBS education is mentioned below:</b>",
+            "info": "The medium of instruction used at David Agmashenebeli University for MBBS education is mentioned below:",
             "data": [
                 "English language",
                 "Georgian language"
@@ -76,7 +76,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The David Agmashenebeli University of Georgia is recognized and accredited by many medical bodies such as:</b>",
+            "info": "The David Agmashenebeli University of Georgia is recognized and accredited by many medical bodies such as:",
             "data": [
                 "Georgian ministry of health",
                 "AMSE (Association of medical school in Europe)",
@@ -89,7 +89,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "list-bollet",
             "title": "Student's Life",
-            "info": "<b>For students, the atmosphere of the David Agmashenebeli University is very healthy and enjoyable:</b>",
+            "info": "For students, the atmosphere of the David Agmashenebeli University is very healthy and enjoyable:",
             "data": [
                 "The university offers various sports activities to the enrolled students like volleyball, table-tennis, chess, basketball, etc.",
                 "Students actively participate in all sports events organized by the University.",
@@ -102,7 +102,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "table",
             "title": "Cost of Living at Tbilisi City",
-            "info": "<b>The cost of living at Tbilisi city is as follows:</b>",
+            "info": "The cost of living at Tbilisi city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -134,7 +134,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "list-bollet",
             "title": "About Tbilisi City",
-            "info": "<b>Some of the interesting facts about the Tbilisi city are as follows:</b>",
+            "info": "Some of the interesting facts about the Tbilisi city are as follows:",
             "data": [
                 "Tbilisi is the capital of Georgia and it is the largest city in Georgia.",
                 "Earlier known as Tiflis, Tbilisi is situated on the banks of the Kura River.",
@@ -165,9 +165,13 @@ export const davidagmashenebeliuniversityofgeorgia = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "David Agmashenebeli University of Georgia - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for David Agmashenebeli University of Georgia for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for David Agmashenebeli University of Georgia for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -225,7 +229,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "list-bollet",
             "title": "Faculties Offered at David Agmashenebeli University of Georgia",
-            "info": "<b>Georgia’s David Agmashenebeli University has following courses:</b>",
+            "info": "Georgia’s David Agmashenebeli University has following courses:",
             "data": [
                 "General Medicine",
                 "Dentistry",
@@ -234,14 +238,14 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "text",
             "title": "David Agmashenebeli University of Georgia - MBBS Duration",
-            "info": "<b>The duration of MBBS course at David Agmashenebeli University of Georgia is mentioned below:</b>",
+            "info": "The duration of MBBS course at David Agmashenebeli University of Georgia is mentioned below:",
             "data": "<p>The duration of MBBS course at David Agmashenebeli University of Georgia is 6 years, out of which 1 year is internship.</p>",
         },
         {
             "type": "table",
             "title": "David Agmashenebeli University of Georgia - MBBS Syllabus",
-            "data": "<b>The complete syllabus for studying MBBS at David Agmashenebeli University of Georgia is as follows:</b>",
-            "info": "<b>1st Year</b>",
+            "data": "The complete syllabus for studying MBBS at David Agmashenebeli University of Georgia is as follows:",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -257,7 +261,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -286,7 +290,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -315,7 +319,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th - 6th Year</b>",
+            "info": "4th - 6th Year",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["General Surgery, Oncology, Internal Medicine, Gynecology, ENT, Neurology, Emergency Medicine, Psychology, and Cardiology."]
@@ -342,9 +346,13 @@ export const davidagmashenebeliuniversityofgeorgia = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at David Agmashenebeli University of Georgia is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at David Agmashenebeli University of Georgia is as follows:",
             "data": [
                 "The candidate must be over 17 and below 25 years old on or before the date in which the admission is being taken.",
                 "The candidate should be a high-school graduate or he/she must hold an equivalent degree with Physics, Chemistry, Biology, and English as subjects.",
@@ -356,7 +364,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following is the admission procedure for applying to MBBS course at David Agmashenebeli University of Georgia:</b>",
+            "info": "Following is the admission procedure for applying to MBBS course at David Agmashenebeli University of Georgia:",
             "data": [
                 "<b>Step 1:</b> Students should fill in the Application Form.",
                 "<b>Step 2:</b> Then, he/she should send the filled-in Application together with the copies of the documents, necessary for the acquisition of the student’s status.",
@@ -369,7 +377,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to David Agmashenebeli University of Georgia:</b>",
+            "info": "Following documents are required at the time of admission to David Agmashenebeli University of Georgia:",
             "data": [
                 "Birth Certificate (In English)",
                 "10th (SSLC) Mark sheet and Certificates",
@@ -390,7 +398,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at David Agmashenebeli University of Georgia:</b>",
+            "info": "Check out the Important dates regarding admission at David Agmashenebeli University of Georgia:",
             "col": [
                 "Events",
                 "Dates"
@@ -434,8 +442,10 @@ export const davidagmashenebeliuniversityofgeorgia = {
         }
     ],
     "review": [
-
-
+        {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -455,6 +465,10 @@ export const davidagmashenebeliuniversityofgeorgia = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -487,8 +501,10 @@ export const davidagmashenebeliuniversityofgeorgia = {
         }
     ],
     "gallery": [
-
-
+        {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -498,7 +514,7 @@ export const davidagmashenebeliuniversityofgeorgia = {
         },
         {
             type: "meta-title",
-            title: ""
+            title: "David Agmashenebeli University of Georgia - Gallery"
         },
         {
             type: "meta-links",
@@ -509,9 +525,13 @@ export const davidagmashenebeliuniversityofgeorgia = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>There are no specific scholarships for the students but Georgian government takes care of student’s MBBS course expenses in some amount:</b>",
+            "info": "There are no specific scholarships for the students but Georgian government takes care of student’s MBBS course expenses in some amount:",
             "textBelowInfo": "<p>The Georgian government provides a significant amount of the annual budget they have for medical education overall as there are no specific scholarships.</p><p>On the basis of performance of the students, they will get some stipends. The stipe cover the following: -</p>",
             "data": [
                 "Tuition fees",
@@ -540,8 +560,12 @@ export const davidagmashenebeliuniversityofgeorgia = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - Faculty"
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -595,8 +619,10 @@ export const davidagmashenebeliuniversityofgeorgia = {
     ],
 
     "news": [
-
-
+        {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -617,9 +643,13 @@ export const davidagmashenebeliuniversityofgeorgia = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation Facility",
-            "info": "<b>Following are the hostel facilities at David Agmashenebeli University of Georgia:</b>",
+            "info": "Following are the hostel facilities at David Agmashenebeli University of Georgia:",
             "data": [
                 "The university provides hostel facilities to its students.",
                 "The hostel rooms are properly maintained by hostel authorities and they are well furnished.",
@@ -652,9 +682,13 @@ export const davidagmashenebeliuniversityofgeorgia = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "David Agmashenebeli University of Georgia - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "David Agmashenebeli University of Georgia - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How is the infrastructure of the university?",

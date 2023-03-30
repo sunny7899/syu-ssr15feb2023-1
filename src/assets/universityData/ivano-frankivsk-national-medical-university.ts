@@ -19,7 +19,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Ivano Frankivsk National Medical University - Quick Overview",
-            "info": "<b>Check out the major points of Ivano Frankivsk National Medical University to pursue MBBS:</b>",
+            "info": "Check out the major points of Ivano Frankivsk National Medical University to pursue MBBS:",
             "col": [],
             "row": [
                 ["<b>Intake & Deadlines for MBBS Course</b>", "Twice in a year:February and September"],
@@ -40,7 +40,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose Ivano Frankivsk National Medical University to Study MBBS?",
-            "info": "<b>Here are some favorable reasons why students urge to choose Ivano Frankivsk National Medical University for doing MBBS course:</b>",
+            "info": "Here are some favorable reasons why students urge to choose Ivano Frankivsk National Medical University for doing MBBS course:",
             "data": [
                 "English as a medium of teaching.",
                 "Low cost tuition fees.",
@@ -57,7 +57,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Ivano Frankivsk National Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Frankivsk National Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Frankivsk National Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -70,7 +70,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
             ]
         },
         {
-            "type": "text",
+            "type": "list-bollet",
             "title": "Facilities Provided at Ivano Frankivsk National Medical University",
             "info": "<p><b>Ivano Frankivsk National Medical University furnishes all basic facilities to the students during MBBS education:</b></p>",
             "data": [
@@ -115,7 +115,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Ivano Frankivsk National Medical University is officially recognized & accredited by different medical bodies given below:</b>",
+            "info": "Ivano Frankivsk National Medical University is officially recognized & accredited by different medical bodies given below:",
             "data": [
                 "National Medical Commission",
                 "Ministry of Education & Science of Ukraine",
@@ -126,7 +126,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Ivano Frankivsk National Medical University - FMGE Performance 2021",
-            "info": "<b>Ivano Frankivsk National Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Ivano Frankivsk National Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -157,7 +157,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Ivano Frankivsk",
-            "info": "<b>The living cost of Ivano Frankivsk is quite affordable to the students to pursue MBBS, check out the table mentioned below for knowing monthly basis expenses of an individual:</b>",
+            "info": "The living cost of Ivano Frankivsk is quite affordable to the students to pursue MBBS, check out the table mentioned below for knowing monthly basis expenses of an individual:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -186,7 +186,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "International Cooperation",
-            "info": "<b>Ivano Frankivsk National Medical University provides students International cooperation with the world’s best scientific and educational partners:</b>",
+            "info": "Ivano Frankivsk National Medical University provides students International cooperation with the world’s best scientific and educational partners:",
             "textBelowInfo": "<p> The students and faculty of Ivano Frankivsk National Medical University participate regularly in international meets and symposiums just to keep in touch with the knowledge of the latest scientific developments.</p><p>The Ivano Frankivsk National Medical University has the scientific and international cooperation with some well known institutes. Following are the Scientific and Educational partners for Ivano Frankivsk National Medical University.</p>",
             "data": [
                 "Tajik State Medical University Abuali Ibn porch (Dushanbe, Tajikistan)",
@@ -213,7 +213,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
             "type": "list-bollet",
             "title": "About Ivano Frankivsk City",
             "img": "",
-            "info": "<b>Let's get to know about city of Ivano Frankivsk:</b>",
+            "info": "Let's get to know about city of Ivano Frankivsk:",
             "data": [
                 "Ivano Frankivsk National Medical University is located in Ivano-Frankivsk, which is a historic city situated in Western Ukraine.",
                 "Ivano-Frankivsk is known as a city of regional significance within the oblast, number of rural localities are living in the city."
@@ -222,7 +222,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>One must visit the top attractions of the Ivano Frankivsk mentioned below -</b>",
+            "info": "One must visit the top attractions of the Ivano Frankivsk mentioned below -",
             "col": [],
             "row": [
                 ["Ivano-Frankivsʹka Ratusha", "Misʹke Ozero"],
@@ -257,9 +257,14 @@ export const ivanofrankivsknationalmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Ivano Frankivsk National Medical University - Fee Structure 2022",
-            "info": "<b>Ivano Frankivsk National Medical University is quite affordable to pursue MBBS course for Indian students:</b>",
+            "info": "Ivano Frankivsk National Medical University is quite affordable to pursue MBBS course for Indian students:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -518,7 +523,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Ivano Frankivsk National Medical University",
-            "info": "<b>Below are the faculties Ivano Frankivsk National Medical University:</b>",
+            "info": "Below are the faculties Ivano Frankivsk National Medical University:",
             "data": [
                 "Dentistry",
                 "Medicine",
@@ -531,7 +536,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Ivano Frankivsk National Medical University",
-            "info": "<b>Ivano Frankivsk National Medical University provides 6 years of MBBS:</b>",
+            "info": "Ivano Frankivsk National Medical University provides 6 years of MBBS:",
             "data": [
                 "The worldwide medical aspirants across the globe looking forward to becoming a doctor must choose Ivano Frankivsk National Medical University for MBBS career and the where the students will get 6 years of medicine program course.",
                 "The MBBS course at Ivano Frankivsk National Medical University is taught in the English language through highly dedicated & experienced professors providing not only theoretical but as well as practical knowledge of medicine.",
@@ -559,9 +564,14 @@ export const ivanofrankivsknationalmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For MBBS Course",
-            "info": "<b>The worldwide medical aspirants must fit into the basic criteria to take MBBS admission at Ivano Frankivsk National Medical University:</b>",
+            "info": "The worldwide medical aspirants must fit into the basic criteria to take MBBS admission at Ivano Frankivsk National Medical University:",
             "data": [
                 "Medical Aspirants from India should be 12th passed with a minimum aggregate of 50% in Physics, Chemistry and Biology examination for general category students. (40% for reserved category)",
                 "Age of the medical aspirant must be in between 17 to 25 years.",
@@ -572,14 +582,14 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "text",
             "title": "Admission Process 2022 - For MBBS Course",
-            "data": "<b>The admission procedure at Ivano Frankivsk Medical University is very easy. You would just need to follow these below mentioned few steps:</b>",
+            "data": "The admission procedure at Ivano Frankivsk Medical University is very easy. You would just need to follow these below mentioned few steps:",
             "textBelowInfo": "<b>1 Apply Online</b>",
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Go through the details of the courses which the University offers and choose a course according to your preference. Students can fill the details online and can send the documents via email.</b>",
-            "textBelowInfo": "<b>Following documents are required for enrolling in University:</b>",
+            "info": "Go through the details of the courses which the University offers and choose a course according to your preference. Students can fill the details online and can send the documents via email.",
+            "textBelowInfo": "Following documents are required for enrolling in University:",
             "data": [
                 "Copies of 10th, 11th, and 12th mark sheets",
                 "Copy of School Leaving Certificate",
@@ -591,25 +601,25 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "text",
             "title": "",
-            "data": "<b>2 Invitation Letter</b>",
+            "data": "2 Invitation Letter",
             "textBelowInfo": "<p>After the documents are evaluated, the student will be notified about the acceptance or rejection of the application. The student will get admission confirmation letter within 2-3 working days if his/her application is accepted.</p>",
         },
         {
             "type": "text",
             "title": "",
-            "data": "<b>3 Pay Expenses</b>",
+            "data": "3 Pay Expenses",
             "textBelowInfo": "<p>Then the student should make the payment by bank transfer or by Western Union or by using other payment methods.</p>",
         },
         {
             "type": "text",
             "title": "",
-            "data": "<b>4 Apply for the Visa</b>",
+            "data": "4 Apply for the Visa",
             "textBelowInfo": "<p>Students will also get admission letter along with the invitation letter. As the visa process may take time, students should apply for the visa as soon as possible.</p>",
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Documents required for the visa:</b>",
+            "info": "Documents required for the visa:",
             "data": [
                 "Certificates of high school attested properly",
                 "Invitation letter from the University",
@@ -620,19 +630,19 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "text",
             "title": "",
-            "data": "<b>5 Arrival at Ukraine</b>",
+            "data": "5 Arrival at Ukraine",
             "textBelowInfo": "<p>It is mandatory for students to inform the University authorities about their flight details with date and arrival time. So that one of the university’s representatives will receive the student at the airport. In case, a student fails to inform the university about their arrival, then they will be deported back to the homeland by the authorities of immigration.</p>",
         },
         {
             "type": "text",
             "title": "",
-            "data": "<b>6 Commencement of classes</b>",
+            "data": "6 Commencement of classes",
             "textBelowInfo": "<p>For every student, it is compulsory to bring a complete set of original documents and receipt of payment of fees for the first year. Once the registration process and admission process is complete, then a student will be allowed to attend the classes.</p><p>Students should make sure that they apply to the university before the application deadline.</p>",
         },
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The candidates must submit all required documents at the time of MBBS admission:</b>",
+            "info": "The candidates must submit all required documents at the time of MBBS admission:",
             "data": [
                 "Copy of invitation letter",
                 "Copy of medical certificate",
@@ -645,7 +655,7 @@ export const ivanofrankivsknationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Ivano Frankivsk National Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Ivano Frankivsk National Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Ivano Frankivsk National Medical University:",
             "col": [
                 "Events",
                 "Date",
@@ -691,6 +701,11 @@ export const ivanofrankivsknationalmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ivano Frankivsk National Medical University (IFNMU) - Reviews" },
@@ -709,6 +724,11 @@ export const ivanofrankivsknationalmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -729,6 +749,11 @@ export const ivanofrankivsknationalmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ivano Frankivsk National Medical University (IFNMU) - Gallery" },
@@ -747,6 +772,11 @@ export const ivanofrankivsknationalmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -767,6 +797,11 @@ export const ivanofrankivsknationalmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ivano Frankivsk National Medical University (IFNMU) - Faculty" },
@@ -785,6 +820,11 @@ export const ivanofrankivsknationalmedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -805,9 +845,14 @@ export const ivanofrankivsknationalmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation Facilities at IFNMU",
-            "info": "<b>Admission to the hostel at Ivano Frankivsk National Medical University is based on a first come first serve basis:</b>",
+            "info": "Admission to the hostel at Ivano Frankivsk National Medical University is based on a first come first serve basis:",
             "data": [
                 "The institute has 3 hostel building with a capacity of 2000 students.",
                 "The hostel has well-furnished with 2 bedded or 3 bedded rooms.",
@@ -836,9 +881,14 @@ export const ivanofrankivsknationalmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Ivano Frankivsk National Medical University (IFNMU) - FAQ"
+
+        },
+        {
             type: 'question-list',
             title: 'Ivano Frankivsk National Medical University - Important FAQs',
-            info: "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            info: "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             data: [
                 {
                     "ques": "Q. What is the duration of the MBBS course at Ivano Frankivsk National Medical University?",
