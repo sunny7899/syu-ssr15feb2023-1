@@ -320,7 +320,7 @@ export const mbbsinczechrepublic = {
         {
             "type": "table",
             "title": "MBBS in Czech Republic: Tuition Fees for 2022-23",
-            "info": "<b>You can check out aggregate fee structure of popular universities in Czech Republic in the table given below:</b>",
+            "info": "You can check out aggregate fee structure of popular universities in Czech Republic in the table given below:",
             "col": [
                 "Name of the Universities",
                 "Tuition Fees/Year",
@@ -343,7 +343,7 @@ export const mbbsinczechrepublic = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b><u>Note:</u></b>",
+            "info": "<u>Note:</u>",
             "data": [
                 "Calculation rates: 1$ = 70 INR.",
                 "Education is free for international students if they study in public universities and in Czechn language."
@@ -354,7 +354,7 @@ export const mbbsinczechrepublic = {
         {
             "type": "table",
             "title": "Ranking of Top Medical Colleges in Czech Republic",
-            "info": "<b>You can see the ranking of NMC approved medical colleges in Czech:</b>",
+            "info": "You can see the ranking of NMC approved medical colleges in Czech:",
             "col": [
                 "Name of University",
                 "Country Ranking",
@@ -401,7 +401,7 @@ export const mbbsinczechrepublic = {
         {
             "type": "list-bollet",
             "title": "Medical Courses Offered in Czech Republic",
-            "info": "<b>These are the courses on medicine available studies in Czech Republic:</b>",
+            "info": "These are the courses on medicine available studies in Czech Republic:",
             "data": [
                 "Anaesthesiology",
                 "Internal Medicine",
@@ -417,7 +417,7 @@ export const mbbsinczechrepublic = {
         {
             "type": "table",
             "title": "A Detailed Course Syllabus of MBBS in Czech Republic",
-            "info": "<b>Here you can refer a syllabus of medicine in Czech as per each semester:<br>1st Year</b>",
+            "info": "Here you can refer a syllabus of medicine in Czech as per each semester:<br>1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester",
@@ -431,7 +431,7 @@ export const mbbsinczechrepublic = {
         },
         {
             "type": "table",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester",
@@ -457,7 +457,7 @@ export const mbbsinczechrepublic = {
         },
         {
             "type": "table",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester",
@@ -521,7 +521,7 @@ export const mbbsinczechrepublic = {
         {
             type: 'list-bollet',
             title: 'Future Career Opportunity After MBBS in Czech Republic',
-            info: '<b>Have a look at the opportunities students get after graduation in Czech Republic:</b>',
+            info: 'Have a look at the opportunities students get after graduation in Czech Republic:',
             data: [
                 "Students have a chance to do Post Graduation after completing MBBS, if they clear their respective county’s medical licence examination.",
                 "A full assistance for the preparation of USMLE is available in colleges.",

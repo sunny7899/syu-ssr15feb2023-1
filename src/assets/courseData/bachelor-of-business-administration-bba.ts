@@ -108,7 +108,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "Salary of BBA Graduates in India",
-            "info": "<b></b>",
+            "info": "",
             "img": '',
             "data": [
                 "Students can get a flying start to their professional career by a BBA degree.",
@@ -200,7 +200,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Dr.D.Y. Patil University, Navi Mumbai</b>",
+            "info": "Dr.D.Y. Patil University, Navi Mumbai",
             "img": '',
             "data": [
                 "With a vision to provide quality education in all spheres of high learning and health services in India, D.Y. Patil University was established in 2002.",
@@ -213,7 +213,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Shivaji University, Kolhapur</b>",
+            "info": "Shivaji University, Kolhapur",
             "img": '',
             "data": [
                 "In Kolhapur, Maharashtra, India, in the year 1962, Shivaji University was established.",
@@ -227,7 +227,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Symbiosis International University, Pune</b>",
+            "info": "Symbiosis International University, Pune",
             "img": '',
             "data": [
                 "It is a deemed to be university located in Pune, India. Spread over ten locations in Bangalore, Hyderabad, Nashik, Noida, and Pune, the university has 28 academic institutions.",
@@ -238,7 +238,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>FLAME University, Pune</b>",
+            "info": "FLAME University, Pune",
             "img": '',
             "data": [
                 "It is a coeducational and private, fully residential liberal education university located in Pune, India.",
@@ -249,7 +249,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MIT World Peace University, Pune</b>",
+            "info": "MIT World Peace University, Pune",
             "img": '',
             "data": [
                 "In the year 1983, MIT Pune, now known as MIT World Peace University (MIT WPU) was established.",
@@ -261,7 +261,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Mithibai College, Mumbai</b>",
+            "info": "Mithibai College, Mumbai",
             "img": '',
             "data": [
                 "Affiliated to the University of Mumbai, is a Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics.",
@@ -272,7 +272,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>St. Xavier's College, Mumbai</b>",
+            "info": "St. Xavier's College, Mumbai",
             "img": '',
             "data": [
                 "Founded by the Jesuits in 2006, Xavier Institute of Management & Research (XIMR) is the management school of St. Xavier's College, Mumbai.",
@@ -283,7 +283,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Deen Dayal Upadhyaya College, Delhi</b>",
+            "info": "Deen Dayal Upadhyaya College, Delhi",
             "img": '',
             "data": [
                 "It is a constituent college of the University of Delhi.",
@@ -295,7 +295,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Christ University, Bangalore</b>",
+            "info": "Christ University, Bangalore",
             "img": '',
             "data": [
                 "In 1969 it was established as Christ College, it undertook path-breaking initiatives in Indian higher education with the introduction of innovative and modern curricula, with the support of creative and dedicated staff.",
@@ -340,7 +340,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "table-title",
             "title": "All Subjects of a BBA Course in India",
-            "info": "<b>Students need to study below mentioned BBA (Bachelor of Business Administration) subjects when they opt for ‘BBA in India’:</b>",
+            "info": "Students need to study below mentioned BBA (Bachelor of Business Administration) subjects when they opt for ‘BBA in India’:",
             "col": [
             ],
             "row": [

@@ -24,7 +24,9 @@
 }
 
 #titles {
-    padding-top: 2vh;
+    padding-top: 0vh;
+    margin-top: 5%;
+    margin-bottom: -3%;
 }
 
 
@@ -52,6 +54,8 @@
     padding: 5px 16px;
     margin-top: 20px;
     margin-right: 20px;
+    margin-left: 20px;
+    font-size: 100%;
 }
 
 .btn-white-nav {
@@ -156,6 +160,11 @@
     #faq {
         width: 90%;
         margin-left: 5%;
+    }
+
+    #titles{
+        margin-bottom: -4%;
+        margin-top: 15%;
     }
 
     .college-content {
@@ -1602,7 +1611,7 @@ svg {
     }
 
     .talk-to-expert {
-        margin: 0 0 15px;
+        margin: 0 15px 15px;
     }
 
     .other-courses {
@@ -2119,6 +2128,8 @@ input.form-control:focus {
 .form2 {
     background-color: #d7d4d4;
     padding-bottom: 10px;
+    padding-left: 0%;
+    padding-right: 0%;
 }
 
 .center {

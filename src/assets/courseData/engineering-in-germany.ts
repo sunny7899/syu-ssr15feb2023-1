@@ -35,7 +35,7 @@ export const engineeringingermany = {
         {
             "type": "list-bollet",
             "title": "Why Study Engineering in Germany?",
-            "info": "<b>Is studying an engineering program in Germany really a good choice? Know some benefits about it here:</b>",
+            "info": "Is studying an engineering program in Germany really a good choice? Know some benefits about it here:",
             "img": "",
             "data": [
                 "<b>Free Education in Germany</b>or low tuition fees that are offered by public and private universities are the best benefits one can get.",
@@ -50,7 +50,7 @@ export const engineeringingermany = {
         {
             "type": "list-bollet",
             "title": "What are the Requirements to Study Engineering in Germany?",
-            "info": "<b>The students need to know that there is a slightly different process and the eligibility criteria to study in Germany:</b>",
+            "info": "The students need to know that there is a slightly different process and the eligibility criteria to study in Germany:",
             "img": "",
             "data": [
                 "The students who have completed 10+2 in India and want to go to Germany for further education need to complete the preparatory course.",
@@ -133,7 +133,7 @@ export const engineeringingermany = {
         {
             "type": "table",
             "title": "List of Top Engineering Universities of Germany",
-            "info": "<b>Which university to choose to study engineering in Germany? Choose from the following top universities:</b>",
+            "info": "Which university to choose to study engineering in Germany? Choose from the following top universities:",
             "col": [
                 "University",
                 "Tuition Fee Range approx",
@@ -229,7 +229,7 @@ export const engineeringingermany = {
         {
             "type": "text",
             "title": "Popular Courses Taught in Engineering in German Universities",
-            "info": "<b>Choose from the following courses to study Engineering in Germany. These are the popular courses in Germany with vast opportunities:</b>",
+            "info": "Choose from the following courses to study Engineering in Germany. These are the popular courses in Germany with vast opportunities:",
             "data": "<p>German universities have many technical courses. There are hundreds of courses taught in Germany to choose from. Following are some of the very famous courses that are taught in Engineering degree</p>"
         },
         {

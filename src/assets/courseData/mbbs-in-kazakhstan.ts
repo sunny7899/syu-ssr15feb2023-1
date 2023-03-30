@@ -1,12 +1,12 @@
-export const mbbsinkazakhstan= {
+export const mbbsinkazakhstan = {
     "Title": "MBBS in Kazakhstan",
     "shortTitle": "MBBS in Kazakhstan",
     "location": " ",
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
-    "Duration":"6 Years with internship",
-    "url":"mbbs-in-kazakhstan",
+    "Duration": "6 Years with internship",
+    "url": "mbbs-in-kazakhstan",
     "info": [
         {
             type: 'title',
@@ -23,7 +23,7 @@ export const mbbsinkazakhstan= {
         {
             "type": "table-title",
             "title": "MBBS in Kazakhstan - Quick Highlights 2022",
-            "info": "<b>Check the brief attributes of studying medical course in Kazakhstan:</b>",
+            "info": "Check the brief attributes of studying medical course in Kazakhstan:",
             "col": [
             ],
             "row": [
@@ -42,10 +42,10 @@ export const mbbsinkazakhstan= {
 
             ]
         },
-     {
+        {
             "type": "list-bollet",
             "title": "Why Should you Study Medicine in Kazakhstan?",
-            "info": "<b>These are the reasons for pursuing MBBS course in the Universities of Kazakhstan:</b>",
+            "info": "These are the reasons for pursuing MBBS course in the Universities of Kazakhstan:",
             //"img": 'https://www.selectyouruniversity.com/images/benefits-of-mbbs-in-kazakhstan.jpg',
             "data": [
                 "Affordable tuition fee structure.",
@@ -67,7 +67,7 @@ export const mbbsinkazakhstan= {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students taking admission in Kazakhstan must meet the following eligibility criteria:</b>",
+            "info": "Students taking admission in Kazakhstan must meet the following eligibility criteria:",
             //"img": 'https://www.selectyouruniversity.com/images/kazakhstan/eligibility-criteria-of-mbbs-in-kazakhstan.jpg',
             "data": [
                 "The student must have obtained a minimum of 50% marks in PCB (Physics, Chemistry & Biology) for general category & 40% for SC/ST and OBC as per NMC rule.",
@@ -83,7 +83,7 @@ export const mbbsinkazakhstan= {
         {
             type: 'step-list',
             title: 'Admission Procedure for Studying MBBS in Kazakhstan',
-            info: '<b>Here is an overview of the admission process followed in Kazakhstan:</b>',
+            info: 'Here is an overview of the admission process followed in Kazakhstan:',
             //img: 'https://www.selectyouruniversity.com/images/kazakhstan/admission-process-to-study-mbbs-in-kazakhstan.jpg',
             data: [
                 "<b>Step 1:</b> First, applicant should fill the application form with all the correct points of interest.",
@@ -95,11 +95,11 @@ export const mbbsinkazakhstan= {
                 "<b>Step 7:</b> Student will be accommodated to the university hostel. ",
                 "<b>Step 8:</b> Student will pay the balance tuition fee to the international student department and joins the MBBS course."
             ]
-          },
+        },
         {
             "type": "list-bollet",
             "title": "Required Document for MBBS Admission",
-            "info": "<b>Below are the points of documents required to study MBBS course in Kazakhstan:</b>",
+            "info": "Below are the points of documents required to study MBBS course in Kazakhstan:",
             //"img": 'https://www.selectyouruniversity.com/images/document-required-for-mbbs-admission-in-kazakhstan.jpg',
             "data": [
                 "Photocopy of Passport",
@@ -112,7 +112,7 @@ export const mbbsinkazakhstan= {
         {
             "type": "list-bollet",
             "title": "MBBS in Kazakhstan - Is it Safe for Indian Students?",
-            "info": "<b>Know why Kazakhstan is one of the safest countries for international studies:</b>",
+            "info": "Know why Kazakhstan is one of the safest countries for international studies:",
             "img": '',
             "data": [
                 "In a survey conducted by the Kazakhstan government - India ranked among the top 50 countries sending a large number of students to Kazakhstan.",
@@ -122,23 +122,25 @@ export const mbbsinkazakhstan= {
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "MBBS in Kazakhstan for Indian Students - Check Fees & Eligibility" },
-              { name: "description", content: "Study MBBS in Kazakhstan with top NMC approved medical universities at low fees & direct admission for Indian students. Check now for more details" },
+                { name: "title", content: "MBBS in Kazakhstan for Indian Students - Check Fees & Eligibility" },
+                { name: "description", content: "Study MBBS in Kazakhstan with top NMC approved medical universities at low fees & direct admission for Indian students. Check now for more details" },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "MBBS in Kazakhstan for Indian Students - Check Fees & Eligibility"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "MBBS in Kazakhstan for Indian Students - Check Fees & Eligibility"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan" }
+            ]
+        }
 
     ],
-    "syllabus":[
+    "syllabus": [
 
         {
             type: 'title',
@@ -149,7 +151,7 @@ export const mbbsinkazakhstan= {
             "type": "text",
             "title": "Total Duration of MBBS in Kazakhstan",
             "info": "Time required to earn the MBBS degree in Kazakhstan:",
-            "data":"<p>It takes <b>6 years</b> to complete the MBBS course in the universities of Kazakhstan. 1 year is reserved for the internship period at the end of the last semester."
+            "data": "<p>It takes <b>6 years</b> to complete the MBBS course in the universities of Kazakhstan. 1 year is reserved for the internship period at the end of the last semester."
         },
         {
             "type": "table",
@@ -351,157 +353,161 @@ export const mbbsinkazakhstan= {
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "MBBS in Kazakhstan 2023 - Syllabus" },
-              { name: "description", content: "Have a look at the detailed syllabus for the course listed by the country. Check on the link provided  for detailed information" },
+                { name: "title", content: "MBBS in Kazakhstan 2023 - Syllabus" },
+                { name: "description", content: "Have a look at the detailed syllabus for the course listed by the country. Check on the link provided  for detailed information" },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "MBBS in Kazakhstan 2023 - Syllabus"},
-            {
-            type:"meta-links",
-            link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/syllabus" }
-            ]}
-    ],
-        "topcolleges":[
-
-            {
-                type: 'title',
-                title: 'MBBS in Kazakhstan 2023 - Top Colleges in Kazakhstan'
-            },
-
-            {
-                "type": "table",
-                "title": "MBBS in Kazakhstan Fee Structure 2023",
-                "info": "Here are the average tuition fees and hostel fees of the top universities in Kazakhstan:",
-                "col": [
-                  "Name of the University",
-                  "Tuition Fees (For 1 Year)",
-                  "Hostel Fee (For 1 Year)"
-                ],
-                "row": [
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/kazakh-national-medical-university/ target=_blank><b>Kazakh National Medical University</b></a>",
-                    "Tuition Fees (For 1 Year)":"4500 USD",
-                    "Hostel Fee (For 1 Year)":"650 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/astana-medical-university/ target=_blank><b>Astana Medical University</b></a>",
-                    "Tuition Fees (For 1 Year)":"3200 USD",
-                    "Hostel Fee (For 1 Year)":"700 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/uib-international-medical-school/ target=_blank><b>UIB International Medical School</b></a>",
-                    "Tuition Fees (For 1 Year)":"3500 USD",
-                    "Hostel Fee (For 1 Year)":"700 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/ target=_blank><b>South Kazakhstan Medical Academy</b></a>",
-                    "Tuition Fees (For 1 Year)":"4250 USD",
-                    "Hostel Fee (For 1 Year)":"700 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/karaganda-state-medical-university/ target=_blank><b>Karaganda State Medical University</b></a>",
-                    "Tuition Fees (For 1 Year)":"3700 USD",
-                    "Hostel Fee (For 1 Year)":"600 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/kazakh-medical-university-of-continuing-education/ target=_blank><b>Kazakh Medical University of Continuing Education</b></a>",
-                    "Tuition Fees (For 1 Year)":"3500 USD",
-                    "Hostel Fee (For 1 Year)":"700 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/kazakh-russian-medical-university/ target=_blank><b>Kazakh Russian Medical University</b></a>",
-                    "Tuition Fees (For 1 Year)":"4000 USD",
-                    "Hostel Fee (For 1 Year)":"700 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/kokshetau-state-university/ target=_blank><b>Kokshetau State University</b></a>",
-                    "Tuition Fees (For 1 Year)":"3500 USD",
-                    "Hostel Fee (For 1 Year)":"500 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/north-kazakhstan-state-university/ target=_blank><b>North Kazakhstan State University</b></a>",
-                    "Tuition Fees (For 1 Year)":"3500 USD",
-                    "Hostel Fee (For 1 Year)":"500 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/semey-state-medical-university/ target=_blank><b>Semey State Medical University</b></a>",
-                    "Tuition Fees (For 1 Year)":"3200 USD",
-                    "Hostel Fee (For 1 Year)":"600 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/west-kazakhstan-marat-ospanov-state-medical-university/ target=_blank><b>West Kazakhstan Marat Ospanov State Medical University</b></a>",
-                    "Tuition Fees (For 1 Year)":"3500 USD",
-                    "Hostel Fee (For 1 Year)":"500 USD"
-                  },
-                  {
-                    "Name of the University":"<a href=https://www.selectyouruniversity.com/university/al-farabi-kazakh-national-university/ target=_blank><b>Al-Farabi Kazakh National University</b></a>",
-                    "Tuition Fees (For 1 Year)":"4200 USD",
-                    "Hostel Fee (For 1 Year)":"700 USD"
-                  }
-                ],
-                "heading":"<p>Tuition fees of the medical universities mentioned in the table are subject to fluctuation. Contact Select Your University for more details regarding tuition fees, hostel cost, and conversion of USD to INR.</p>"
-            },
-            {
-                "type": "table",
-                "title": "Top Medical Universities in Kazakhstan - Ranking 2023",
-                "info": "National & International ranking of all the top medical colleges in Kazakhstan:",
-                "col": [
-                  "Name of the University",
-                  "Country Ranking",
-                  "World Ranking"
-                ],
-                "row": [
-                  {
-                    "Name of the University":"<b>Kazakh National Medical University</b>",
-                    "Country Ranking":"6",
-                    "World Ranking":"4279"
-                  },
-                  {
-                    "Name of the University":"<b>Karaganda State Medical University</b>",
-                    "Country Ranking":"34",
-                    "World Ranking":"7540"
-                  },
-                  {
-                    "Name of the University":"<b>Semey State Medical University</b>",
-                    "Country Ranking":"15",
-                    "World Ranking":"6008"
-                  },
-                  {
-                    "Name of the University":"<b>South Kazakhstan State Medical Academy</b>",
-                    "Country Ranking":"21",
-                    "World Ranking":"6901"
-                  },
-                  {
-                    "Name of the University":"<b>West Kazakhstan State Medical Academy</b>",
-                    "Country Ranking":"54",
-                    "World Ranking":"9192"
-                  }
-                ],
-            },
+        },
         {
-            type:"meta",
-            meta: [
-              { name: "title", content: "MBBS in Kazakhstan 2023 - Top Colleges in Kazakhstan"
-             },
-              { name: "description", content: "Get all the details about the top colleges present in the country for your desirable education. Click on the link and  get access to the Information" },
+            type: "meta-title",
+            title: "MBBS in Kazakhstan 2023 - Syllabus"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/syllabus" }
+            ]
+        }
+    ],
+    "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Kazakhstan 2023 - Top Colleges in Kazakhstan'
+        },
+
+        {
+            "type": "table",
+            "title": "MBBS in Kazakhstan Fee Structure 2023",
+            "info": "Here are the average tuition fees and hostel fees of the top universities in Kazakhstan:",
+            "col": [
+                "Name of the University",
+                "Tuition Fees (For 1 Year)",
+                "Hostel Fee (For 1 Year)"
             ],
-            },
-            {
-            type:"meta-title",
+            "row": [
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kazakh-national-medical-university/ target=_blank><b>Kazakh National Medical University</b></a>",
+                    "Tuition Fees (For 1 Year)": "4500 USD",
+                    "Hostel Fee (For 1 Year)": "650 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/astana-medical-university/ target=_blank><b>Astana Medical University</b></a>",
+                    "Tuition Fees (For 1 Year)": "3200 USD",
+                    "Hostel Fee (For 1 Year)": "700 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/uib-international-medical-school/ target=_blank><b>UIB International Medical School</b></a>",
+                    "Tuition Fees (For 1 Year)": "3500 USD",
+                    "Hostel Fee (For 1 Year)": "700 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/ target=_blank><b>South Kazakhstan Medical Academy</b></a>",
+                    "Tuition Fees (For 1 Year)": "4250 USD",
+                    "Hostel Fee (For 1 Year)": "700 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/karaganda-state-medical-university/ target=_blank><b>Karaganda State Medical University</b></a>",
+                    "Tuition Fees (For 1 Year)": "3700 USD",
+                    "Hostel Fee (For 1 Year)": "600 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kazakh-medical-university-of-continuing-education/ target=_blank><b>Kazakh Medical University of Continuing Education</b></a>",
+                    "Tuition Fees (For 1 Year)": "3500 USD",
+                    "Hostel Fee (For 1 Year)": "700 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kazakh-russian-medical-university/ target=_blank><b>Kazakh Russian Medical University</b></a>",
+                    "Tuition Fees (For 1 Year)": "4000 USD",
+                    "Hostel Fee (For 1 Year)": "700 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kokshetau-state-university/ target=_blank><b>Kokshetau State University</b></a>",
+                    "Tuition Fees (For 1 Year)": "3500 USD",
+                    "Hostel Fee (For 1 Year)": "500 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/north-kazakhstan-state-university/ target=_blank><b>North Kazakhstan State University</b></a>",
+                    "Tuition Fees (For 1 Year)": "3500 USD",
+                    "Hostel Fee (For 1 Year)": "500 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/semey-state-medical-university/ target=_blank><b>Semey State Medical University</b></a>",
+                    "Tuition Fees (For 1 Year)": "3200 USD",
+                    "Hostel Fee (For 1 Year)": "600 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/west-kazakhstan-marat-ospanov-state-medical-university/ target=_blank><b>West Kazakhstan Marat Ospanov State Medical University</b></a>",
+                    "Tuition Fees (For 1 Year)": "3500 USD",
+                    "Hostel Fee (For 1 Year)": "500 USD"
+                },
+                {
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/al-farabi-kazakh-national-university/ target=_blank><b>Al-Farabi Kazakh National University</b></a>",
+                    "Tuition Fees (For 1 Year)": "4200 USD",
+                    "Hostel Fee (For 1 Year)": "700 USD"
+                }
+            ],
+            "heading": "<p>Tuition fees of the medical universities mentioned in the table are subject to fluctuation. Contact Select Your University for more details regarding tuition fees, hostel cost, and conversion of USD to INR.</p>"
+        },
+        {
+            "type": "table",
+            "title": "Top Medical Universities in Kazakhstan - Ranking 2023",
+            "info": "National & International ranking of all the top medical colleges in Kazakhstan:",
+            "col": [
+                "Name of the University",
+                "Country Ranking",
+                "World Ranking"
+            ],
+            "row": [
+                {
+                    "Name of the University": "<b>Kazakh National Medical University</b>",
+                    "Country Ranking": "6",
+                    "World Ranking": "4279"
+                },
+                {
+                    "Name of the University": "<b>Karaganda State Medical University</b>",
+                    "Country Ranking": "34",
+                    "World Ranking": "7540"
+                },
+                {
+                    "Name of the University": "<b>Semey State Medical University</b>",
+                    "Country Ranking": "15",
+                    "World Ranking": "6008"
+                },
+                {
+                    "Name of the University": "<b>South Kazakhstan State Medical Academy</b>",
+                    "Country Ranking": "21",
+                    "World Ranking": "6901"
+                },
+                {
+                    "Name of the University": "<b>West Kazakhstan State Medical Academy</b>",
+                    "Country Ranking": "54",
+                    "World Ranking": "9192"
+                }
+            ],
+        },
+        {
+            type: "meta",
+            meta: [
+                {
+                    name: "title", content: "MBBS in Kazakhstan 2023 - Top Colleges in Kazakhstan"
+                },
+                { name: "description", content: "Get all the details about the top colleges present in the country for your desirable education. Click on the link and  get access to the Information" },
+            ],
+        },
+        {
+            type: "meta-title",
             title: "MBBS in Kazakhstan 2023 - Top Colleges in Kazakhstan"
         },
-            {
-            type:"meta-links",
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/top-colleges" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/top-colleges" }
+            ]
+        }
     ],
-    "careeroptions":[
+    "careeroptions": [
 
         {
             type: 'title',
@@ -519,20 +525,22 @@ export const mbbsinkazakhstan= {
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "MBBS in Kazakhstan 2023 - Career Options" },
-              { name: "description", content: "See all the career options you can look upto after completing your education. Click at the link and have a look at all the options available" },
+                { name: "title", content: "MBBS in Kazakhstan 2023 - Career Options" },
+                { name: "description", content: "See all the career options you can look upto after completing your education. Click at the link and have a look at all the options available" },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "MBBS in Kazakhstan 2023 - Career Options"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "MBBS in Kazakhstan 2023 - Career Options"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/career-options" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/career-options" }
+            ]
+        }
     ],
     "faq": [
 
@@ -548,11 +556,12 @@ export const mbbsinkazakhstan= {
             "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
-                  "ques": "Q. How many Indian students are studying in Kazakhstan?",
-                  "ans": "There are more than 8000 Indian students studying in Kazakhstan out of these, 5000 students are pursuing medical degree."
+                    "ques": "Q. How many Indian students are studying in Kazakhstan?",
+                    "ans": "There are more than 8000 Indian students studying in Kazakhstan out of these, 5000 students are pursuing medical degree."
                 },
-                { "ques": "Q. Which are the highly recommended medical universities for Indian students?",
-                  "ans": "Kazakh National Medical University and Semey State Medical University have great infrastructure and a track record of successful alumni. These universities are more preferable for Indian students to build the foundation of their career in medicine."
+                {
+                    "ques": "Q. Which are the highly recommended medical universities for Indian students?",
+                    "ans": "Kazakh National Medical University and Semey State Medical University have great infrastructure and a track record of successful alumni. These universities are more preferable for Indian students to build the foundation of their career in medicine."
                 },
                 {
                     "ques": "Q. When does the MBBS course Start in Kazakhstan?",
@@ -585,23 +594,25 @@ export const mbbsinkazakhstan= {
                 {
                     "ques": "Q. What is the safety index of Kazakhstan for Indians?",
                     "ans": "It’s about 61% which is the huge percentile in terms of safety."
-                }, 
+                },
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "MBBS in Kazakhstan 2023 - FAQs" },
-              { name: "description", content: "Read all the FAQs asked by the students like you and clear all your doubts. Click here and read all the FAQs " },
+                { name: "title", content: "MBBS in Kazakhstan 2023 - FAQs" },
+                { name: "description", content: "Read all the FAQs asked by the students like you and clear all your doubts. Click here and read all the FAQs " },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "MBBS in Kazakhstan 2023 - FAQs"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "MBBS in Kazakhstan 2023 - FAQs"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/faq" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/faq" }
+            ]
+        }
     ]
 }

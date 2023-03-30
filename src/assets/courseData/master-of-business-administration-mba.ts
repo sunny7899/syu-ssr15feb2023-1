@@ -290,7 +290,7 @@ export const masterofbusinessadministrationmba = {
         {
             "type": "list-bollet",
             "title": "Job Positions for MBA Students",
-            "info": "<b>Students get the following job positions at reputed companies, after pursuing MBA in India:</b>",
+            "info": "Students get the following job positions at reputed companies, after pursuing MBA in India:",
             "data": [
                 "Management Consultant",
                 "Marketing Manager",

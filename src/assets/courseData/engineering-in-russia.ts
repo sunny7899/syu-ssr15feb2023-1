@@ -71,7 +71,7 @@ export const engineeringinrussia = {
         {
             "type": "number-list",
             "title": "Scholarships Programmes",
-            "info": "<b>Russia offers 3 types of scholarships for international students, those are:<b>",
+            "info": "Russia offers 3 types of scholarships for international students, those are:",
             "data": [
                 "<strong>Government Funded Russian Scholarships -</strong>To study in Russia, a set number of state scholarships are available for international students. It includes free tuition for the entire duration of the chosen programme, maintenance allowance, and dormitory accommodation. The scholarship amount is 1,500 rubles per month (or Rs.1,665/month). In 2018, 15,000 such spots for scholarships have been granted.",
                 "<strong>2.Non-government Russian Scholarships for international students-</strong><br>i)Open Doors: Russian Scholarship Project<br>ii) Benjamin A. Gilman Scholarships<<br>iii) The school of Russian and Asian scholarships (SRAS)<br>iv) American Councils Scholarships<br>v) BP in Russia Research Scholarships",
@@ -81,7 +81,7 @@ export const engineeringinrussia = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Some of such top engineering universities which provide engineering scholarships are:</b>",
+            "info": "Some of such top engineering universities which provide engineering scholarships are:",
             "data": [
                 "Moscow institute of Physics and Technology(MIPT),",
                 "National Research University,",
@@ -94,7 +94,7 @@ export const engineeringinrussia = {
         {
             "type": "list-bollet",
             "title": "Accommodation Facilities For Students in Russia",
-            "info": "<p>Students can find the best option for accommodation as per their budget in Russia.While studying Engineering in Russia, students can get 3 types of accommodation options which are a university’s hostel, a host family or a rental apartment. Most importantly, academic success of a student depends upon the choice of a place of a student where he/she would stay.</p>",
+            "info": "Students can find the best option for accommodation as per their budget in Russia.While studying Engineering in Russia, students can get 3 types of accommodation options which are a university’s hostel, a host family or a rental apartment. Most importantly, academic success of a student depends upon the choice of a place of a student where he/she would stay.",
             "data": [
                 "<b>University Hostel (Dormitory)</b><br>It is the most affordable option from a student’s point of view. At most of the top business schools in Russia, these dormitories are located on the campus or not far from the university. A room is shared by 2 to 4 number of students.<br>The accommodation fee can vary in between 500 to 5,000 roubles per month depending on the selected university and the city where the university is located in. But it is much cheaper option compared to a rental apartment.<br>A dormitory room typically consists of chairs, closets, beds and nightstands, bookshelves, writing desks etc.<br>Students can make the payment on a monthly basis or termwise or they can make full payment in advance for the whole academic year.",
                 "<b>Rental Apartment</b><br>The most expensive apartments in Russia are at Moscow and St. Petersburg. The rent of an apartment in a city depends upon the size of the city and its distance from the other major cities.<br>If the university which is selected by a student does not have dormitory facility then he/she can look for a rental apartment or a room.",
@@ -127,7 +127,7 @@ export const engineeringinrussia = {
         {
             "type": "list-bollet",
             "title": "Russian Student Visa",
-            "info": "<p>Through the Russian embassy or Russian Consulate in the country of residence of a student, student visas can be obtained.</p><p>A student visa which is valid for 3 months will be issued first. Students should apply for visa extension after this period of 3 months. At the time of extending a student visa, students will get a 1 year extension. This extension will be every time when students extend their visa. This process should be carried out for the duration of their academic programme.</p><p>International applicants who want to study Engineering in Russia or those who want to study any other courses, must get a passport and a visa.</p><p><b>Documents Required for Students Visa to Russia</b></p>",
+            "info": "Through the Russian embassy or Russian Consulate in the country of residence of a student, student visas can be obtained.A student visa which is valid for 3 months will be issued first. Students should apply for visa extension after this period of 3 months. At the time of extending a student visa, students will get a 1 year extension. This extension will be every time when students extend their visa. This process should be carried out for the duration of their academic programme.International applicants who want to study Engineering in Russia or those who want to study any other courses, must get a passport and a visa.Documents Required for Students Visa to Russia",
             "data": [
                 "Visa application form.",
                 "A latest passport size photograph (3.5 x 4.5 cm).",
@@ -191,7 +191,7 @@ export const engineeringinrussia = {
         {
             "type": "number-list",
             "title": "List of Top Engineering Colleges in Russia",
-            "info": "<b>Following is a list of top universities in Russia for Engineering:</b>",
+            "info": "Following is a list of top universities in Russia for Engineering:",
             "data": [
                 "<strong>Military Engineering Technical University -</strong>This college was established in the year of 1810. In this college, special rules are applied for foreign students. Per year, 1500-2000 students can be accommodated at the college. Sanitary Engineering, Military Power Engineering and Civil Engineering are some of the courses offered by the college.",
                 "<strong>Moscow Power Engineering Institute -</strong> In the year 1930, the college was established. Power Engineering, Electronics Engineering, Civil Engineering and Electrical Engineering are some of the courses offered by this college.",
@@ -303,7 +303,7 @@ export const engineeringinrussia = {
         {
             "type": "text",
             "title": "Course Duration of Engineering in Russia",
-            "info": "<p>A Bachelor’s program for ‘Engineering in Russia’ is of the <strong>duration 4 years</strong>. Students can further study a Masters program in Engineering for 2 years. There are also 5 years specialists programs offered by some of the Russian universities. Thus, the duration of Engineering courses in Russia is either 4 years, 2 years or 5 years.</p>",
+            "info": "A Bachelor’s program for ‘Engineering in Russia’ is of the duration 4 years. Students can further study a Masters program in Engineering for 2 years. There are also 5 years specialists programs offered by some of the Russian universities. Thus, the duration of Engineering courses in Russia is either 4 years, 2 years or 5 years.",
         },
         {
             type: "meta",
@@ -331,7 +331,7 @@ export const engineeringinrussia = {
         {
             "type": "list-bollet",
             "title": "Career Prospects (After Completion of Engineering from Russia)",
-            "info": "<p><b>Engineers are in high demand in Russia. Thus, many Russian universities are attracting foreign students and researchers across the world by offering scholarships:</b></p>",
+            "info": "Engineers are in high demand in Russia. Thus, many Russian universities are attracting foreign students and researchers across the world by offering scholarships:",
             "data": [
                 "A lot of career choices are offered by Russia to engineering graduates. Airlines, construction, Software, Shipping and mining are various industries where most of the foreigners and engineering graduates can get jobs.",
                 "Russia has a very <strong>bright future for engineering graduates</strong>. Many multinational companies in Russia are hiring Russian graduates from executive positions to blue collar jobs. Thus, Russia is not only a study destination, but it is also full of career opportunities.",
@@ -342,7 +342,7 @@ export const engineeringinrussia = {
         {
             "type": "list-bollet",
             "title": "How To Find Engineering Jobs in Russia?",
-            "info": "<p><p>For foreigners, finding jobs in Russia, might not be easy. Foreign experts are highly demanded in Moscow, but this demand is limited to specific sectors. Business development,IT, Human Resources and Finance are the sectors which have a huge demand of skilled people. Sales managers, sales people and engineers are in greatest demand.</p><p>In Russia, there are plenty of job websites and recruitment agencies which have job opportunities in Moscow and St. Petersburg. Highly qualified people, who have aim to hit big corporate companies are best suited for these kinds of opportunities.</p><p>Candidates can also directly contact international companies from their country and can ask if they have their business in Russia.</p><p>One more good channel to find jobs in Russia are Recruitment agencies. Lapa, g-nius, Texon, Target Jobs, Global Vision, Moscow city, St. Petersburg.com are some of the best recruitment agencies in Moscow and St. Petersburg.</p><b>Some useful websites for finding jobs in Russia are:</b></p>",
+            "info": "For foreigners, finding jobs in Russia, might not be easy. Foreign experts are highly demanded in Moscow, but this demand is limited to specific sectors. Business development,IT, Human Resources and Finance are the sectors which have a huge demand of skilled people. Sales managers, sales people and engineers are in greatest demand.</p><p>In Russia, there are plenty of job websites and recruitment agencies which have job opportunities in Moscow and St. Petersburg. Highly qualified people, who have aim to hit big corporate companies are best suited for these kinds of opportunities.</p><p>Candidates can also directly contact international companies from their country and can ask if they have their business in Russia.</p><p>One more good channel to find jobs in Russia are Recruitment agencies. Lapa, g-nius, Texon, Target Jobs, Global Vision, Moscow city, St. Petersburg.com are some of the best recruitment agencies in Moscow and St. Petersburg.</p><b>Some useful websites for finding jobs in Russia are:",
             "data": [
                 "SuperJob.ru",
                 "HeadHunter.ru",

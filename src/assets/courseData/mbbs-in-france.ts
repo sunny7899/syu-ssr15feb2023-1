@@ -20,7 +20,7 @@ export const mbbsinfrance = {
         {
             "type": "table-title",
             "title": "MBBS in France - At a glance",
-            "info": "<b>Given below is the table for quick facts about MBBS in France:</b>",
+            "info": "Given below is the table for quick facts about MBBS in France:",
             "row": [
                 ["<b>Duration of Course</b>", "8-11 years"],
                 ["<b>MBBS Fees</b>", "50-55 lakhs (for the complete course)"],
@@ -34,7 +34,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS in France?',
-            info: '<b>There are many reasons why students choose to study MBBS in France:</b>',
+            info: 'There are many reasons why students choose to study MBBS in France:',
             data: [
                 "The admission process for <b>studying MBBS in France</b> is very easy and smooth.",
                 "Duration of the MBBS course in France is more compared to other countries and it is 08-11 years.",
@@ -59,7 +59,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria: Applying For MBBS Course',
-            info: '<b>The eligibility criteria to study MBBS in France is as follows:</b>',
+            info: 'The eligibility criteria to study MBBS in France is as follows:',
             data: [
                 "The minimum age limit for MBBS in France is 17 years.",
                 "An Eligibility Certificate should be produced by students issued by the Medical Council of India.",
@@ -74,7 +74,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: 'MBBS in France (2022-23): Admission Process',
-            info: '<b>Following is the admission procedure for applying to MBBS course in France:</b>',
+            info: 'Following is the admission procedure for applying to MBBS course in France:',
             data: [
                 "Online applications made by students are accepted by most of the colleges and universities in France.",
                 "Students will have to make an account on the particular college’s website to provide their basic information, submit the scanned version of their documents, and pay application fees.",
@@ -85,7 +85,7 @@ export const mbbsinfrance = {
         {
             type: 'step-list',
             title: '',
-            info: '<b>Given below are some of the common steps to which students need to take to apply for admission:</b>',
+            info: 'Given below are some of the common steps to which students need to take to apply for admission:',
             data: [
                 "<b><u>Step 1</u>:</b> Students should search for colleges and courses.",
                 "<b><u>Step 2</u>:</b> Students should contact schools and visit websites for information.",
@@ -100,7 +100,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: 'Documents Required: Applying for MBBS in France',
-            info: '<b>The following documents are also needed to be submitted for admission to MBBS course in France:</b>',
+            info: 'The following documents are also needed to be submitted for admission to MBBS course in France:',
             data: [
                 "A copy of Statement of Purpose (SOP)",
                 "The latest copy of Resume",
@@ -123,7 +123,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: 'Health Insurance for Students studying MBBS in France',
-            info: '<b>Students studying MBBS in France are provided with a health insurance:</b>',
+            info: 'Students studying MBBS in France are provided with a health insurance:',
             data: [
                 "All the colleges and universities in France have made it mandatory for all international students to have either a public or private health insurance.",
                 "Though the universal health care coverage is dependent upon factors such as age, country of origin, and length of the degree program of the student, many international students can take part in this coverage."
@@ -157,7 +157,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: 'Exams Required For Studying MBBS in France',
-            info: '<b>Below are the exams that students are required to appear for studying MBBS in France:</b>',
+            info: 'Below are the exams that students are required to appear for studying MBBS in France:',
             data: [
                 "TCF (Test of knowledge of French) and Le TEF (French assessment test) are the standardized language tests required for getting admission to colleges in France.",
                 "Students can appear for these language tests, both the TCF and Le TEF, at a testing centre in India or in France.",
@@ -167,7 +167,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: 'Student Visa - Applying for MBBS in France',
-            info: '<b>Below given is the process for applying to the visa of France:</b>',
+            info: 'Below given is the process for applying to the visa of France:',
             data: [
                 "Students must create a Campus France registration file, before submitting an application for a student visa at the French Consulate.",
                 "Students can contact the closest CampusFrance office for assistance or they can also schedule an appointment through the online file or by calling the CampusFrance office.",
@@ -177,7 +177,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Students should provide two sets of application photocopies containing the following documents:</b>',
+            info: 'Students should provide two sets of application photocopies containing the following documents:',
             data: [
                 "Two photographs of passport size.",
                 "Long stay application form which is for duration of more than 90 days.",
@@ -194,7 +194,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: "Student's Life",
-            info: '<b>Students live an excellent, healthy life and an environment very much suitable for studying MBBS in France:</b>',
+            info: 'Students live an excellent, healthy life and an environment very much suitable for studying MBBS in France:',
             data: [
                 "The standard of living in France is remarkably high, and studying in France will be a great, life-changing experience for students.",
                 "Students will certainly enjoy living their life in France as a student.",
@@ -378,7 +378,7 @@ export const mbbsinfrance = {
         {
             "type": "list-bollet",
             "title": "Course Duration of MBBS in France",
-            "info": "<b>The MBBS course duration in France is 8 - 11 years. The details about the MBBS course durations are discussed below:</b>",
+            "info": "The MBBS course duration in France is 8 - 11 years. The details about the MBBS course durations are discussed below:",
             "data": [
                 "Students need 9 years to study general medicine in medical colleges of France.",
                 "The duration of MBBS in France is a minimum of 8 to a maximum of 11 years, for Domestic as well as international students. On the other hand, for other specialists such as surgeons or pediatricians, it takes 10 to 12 years.",
@@ -388,7 +388,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: 'MBBS in France - Course Syllabus',
-            info: '<b>The entire medical course in France is divided into three phases:</b> 1 First Cycle (PCEM)',
+            info: 'The entire medical course in France is divided into three phases: 1 First Cycle (PCEM)',
             data: [
                 "The first cycle is of two academic preparatory years, with the same course of study for all dentistry, nursing, medical, pharmacy, as well as physiotherapy students.",
                 "Students get only two chances to pass the first year. In order to pass for the second year, students must pass a competitive exam at the end of the first year. International students have to qualify the exam with good marks to enter into the second phase."
@@ -397,7 +397,7 @@ export const mbbsinfrance = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>The teaching of the first cycle and the first year of the second cycle must teach the following disciplines or disciplinary units to the medical students:</b>",
+            "info": "The teaching of the first cycle and the first year of the second cycle must teach the following disciplines or disciplinary units to the medical students:",
             "row": [
                 ["Physics, Biophysics and Image Processing", "Chemistry, Biochemistry, Cellular and Molecular Biology"],
                 ["Anatomy, Embryology, Developmental and Reproductive Biology", "Cytology, Histology and Pathological Anatomy"],
@@ -455,7 +455,7 @@ export const mbbsinfrance = {
         {
             type: 'list-bollet',
             title: 'Career Opportunities',
-            info: '<b>Students not only get the best medical education in France, but they also get excellent work opportunities after studying MBBS in France:</b>',
+            info: 'Students not only get the best medical education in France, but they also get excellent work opportunities after studying MBBS in France:',
             data: [
                 "Students generally find the French language as one of the larger hurdles if they plan to stay after their graduation from a Bachelor’s or Master’s degree in France.",
                 "To find a job in France, students must become fluent or at least near-fluent in French.",
@@ -492,7 +492,7 @@ export const mbbsinfrance = {
         {
             "type": "question-list",
             "title": "MBBS in France - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Do I need a visa to study MBBS in France?",

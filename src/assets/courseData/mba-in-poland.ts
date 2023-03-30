@@ -23,7 +23,7 @@ export const mbainpoland = {
         {
             "type": "table-title",
             "title": "MBA in Poland: Quick Highlights",
-            "info": "<b>Following are the quick highlights of studying MBA in Poland:</b>",
+            "info": "Following are the quick highlights of studying MBA in Poland:",
             "col": [
             ],
             "row": [
@@ -42,7 +42,7 @@ export const mbainpoland = {
         {
             "type": "list-bollet",
             "title": "Why Study MBA in Poland?",
-            "info": "<b>Here are the top benefits for studying MBA in Poland:</b>",
+            "info": "Here are the top benefits for studying MBA in Poland:",
             "img": '',
             "data": [
                 "Poland universities incorporate high rated management courses in various disciplines.",
@@ -59,7 +59,7 @@ export const mbainpoland = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Below is the eligibility criteria required for applying MBA in Poland:</b>",
+            "info": "Below is the eligibility criteria required for applying MBA in Poland:",
             "img": '',
             "data": [
                 "Candidates should have a bachelor’s degree in any respective field like engineering, science, economics, etc.",
@@ -77,7 +77,7 @@ export const mbainpoland = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following are the basic & simple admission steps for international students for applying MBA in Poland:</b>',
+            info: 'Following are the basic & simple admission steps for international students for applying MBA in Poland:',
             data: [
                 "<b>Step 1:</b> Shortlist the university in which you want to take the admission.",
                 "<b>Step 2:</b> Go to the official portal of the university. Mark your registration on the portal.",
@@ -95,7 +95,7 @@ export const mbainpoland = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following is the documents checklist for applying MBA in Poland:</b>",
+            "info": "Following is the documents checklist for applying MBA in Poland:",
             "img": '',
             "data": [
                 "Certified copies of Bachelor and Master’s degrees",
@@ -114,7 +114,7 @@ export const mbainpoland = {
         {
             "type": "list-bollet",
             "title": "MBA in Poland: Admission Intakes 2023",
-            "info": "<b>MBA in Poland has two intakes annually:</b>",
+            "info": "MBA in Poland has two intakes annually:",
             "img": '',
             "data": [
                 "MBA admissions in Polish top universities are conducted twice in a year.",
@@ -132,7 +132,7 @@ export const mbainpoland = {
         {
             "type": "table",
             "title": "Cost of Living in Poland",
-            "info": "<b>Refer to the below table that estimates the cost of living in Poland:</b>",
+            "info": "Refer to the below table that estimates the cost of living in Poland:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -163,7 +163,7 @@ export const mbainpoland = {
         {
             "type": "list-bollet",
             "title": "About Poland",
-            "info": "<b>Poland is the place in central Europe where the MBA program taught in the English language:</b>",
+            "info": "Poland is the place in central Europe where the MBA program taught in the English language:",
             //"img": 'https://www.selectyouruniversity.com/images/poland-city.jpg',
             "data": [
                 "Poland is the country situated in the center of Europe with an area of 312,679 sq.km.",
@@ -206,7 +206,7 @@ export const mbainpoland = {
         {
             "type": "number-list",
             "title": "Types of MBA Programs in Poland",
-            "info": "<b>MBA programs in Poland are of two types:</b>",
+            "info": "MBA programs in Poland are of two types:",
             "data": [
                 "<b>Regular MBA</b><br>The program offers detailed knowledge and education in business and management areas in various disciplines. It is the full-time program that mainly focuses on core subjects including topics like marketing, finance etc.",
                 "<b>Executive MBA</b><br>The executive MBA program is only for working professionals who have work experience in desired fields. It is not a full-time program but the candidate applying to the Executive MBA program needs to have more than 5 years of work experience."
@@ -215,7 +215,7 @@ export const mbainpoland = {
         {
             "type": "list-bollet",
             "title": "MBA in Poland: Course Duration",
-            "info": "<b>MBA in Poland valid for a period of 2 years:</b>",
+            "info": "MBA in Poland valid for a period of 2 years:",
             "data": [
                 "The duration of course varies as per the university type.",
                 "For the Executive MBA, the course duration is about 1 or 2 years.",
@@ -252,7 +252,7 @@ export const mbainpoland = {
         {
             "type": "table",
             "title": "MBA in Poland: Fee Structure (2023-24)",
-            "info": "<b>Fee Structure for studying MBA in Poland as follows:</b>",
+            "info": "Fee Structure for studying MBA in Poland as follows:",
             "col": [
                 "Name of the Universities",
                 "Annual Tuition Fees (approx)"
@@ -332,7 +332,7 @@ export const mbainpoland = {
         {
             "type": "list-bollet",
             "title": "Career Opportunity after MBA in Poland",
-            "info": "<b>Job positions offered to students after the MBA in Poland are as follows:</b>",
+            "info": "Job positions offered to students after the MBA in Poland are as follows:",
             "data": [
                 "Finance Analyst",
                 "Operation Manager",
@@ -375,7 +375,7 @@ export const mbainpoland = {
         {
             "type": "question-list",
             "title": "MBA in Poland: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How much time does it take for the admission to MBA in Poland?",

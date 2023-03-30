@@ -69,7 +69,7 @@ export const mbbsinuk = {
         {
             "type": 'step-list',
             "title": 'MBBS Admission Procedure in UK',
-            "info": '<b>Following are the basics steps for admission in UK for MBBS course:</b>',
+            "info": 'Following are the basics steps for admission in UK for MBBS course:',
             //img: 'https://www.selectyouruniversity.com/images/uk/admission-process-in-uk.jpg',
             "data": [
                 "<b>Step 1:</b> “Select Your University” will help you with the choice of medical universities in UK.</p>",
@@ -84,7 +84,7 @@ export const mbbsinuk = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For MBBS in UK",
-            "info": "<b>All the Indian students have to fulfill these criteria to take admission for MBBS course in UK:</b>",
+            "info": "All the Indian students have to fulfill these criteria to take admission for MBBS course in UK:",
             //"img": 'https://www.selectyouruniversity.com/images/uk/eligibility-criteria-at-uk.jpg',
             "data": [
                 "The age of the candidate must be 18+ years.",
@@ -144,7 +144,7 @@ export const mbbsinuk = {
         {
             "type": "list-bollet",
             "title": "Post Graduation in UK after MBBS",
-            "info": "<p>If the Indian medical graduates want to pursue post graduation in UK then they have to understand the relevance and importance of medical PG in UK as it has worldwide recognition. One can gain professional experience while studying PG in United Kingdom.</p><p><b>Postgraduate courses available after MBBS in UK:</b></p>",
+            "info": "If the Indian medical graduates want to pursue post graduation in UK then they have to understand the relevance and importance of medical PG in UK as it has worldwide recognition. One can gain professional experience while studying PG in United Kingdom.Postgraduate courses available after MBBS in UK:",
             "data": [
                 "Doctor of Medicine",
                 "Gynecology",
@@ -158,12 +158,12 @@ export const mbbsinuk = {
         {
             "type": "text",
             "title": "MBBS in UK after BDS",
-            "info": "<p><strong>Dental Council of India</strong> has proposed a bridge course in association with the <strong>Medical Council of India</strong> to help the BDS students to get an <strong>MBBS</strong> degree.</p><p>The proposal was assigned to overcome the shortage of doctors and specialists across the nation. After the bridge course, graduates can practice medicine in India.</p>"
+            "data": "<p><strong>Dental Council of India</strong> has proposed a bridge course in association with the <strong>Medical Council of India</strong> to help the BDS students to get an <strong>MBBS</strong> degree.</p><p>The proposal was assigned to overcome the shortage of doctors and specialists across the nation. After the bridge course, graduates can practice medicine in India.</p>"
         },
         {
             "type": "list-bollet",
             "title": "MBBS in UK without UKCAT",
-            "info": "<p>UKCAT is the eligibility entrance exam for admission to top medical schools. It is the admission test used by a consortium of UK universities for medical and dental degree programs.</p><p>There are two universities in the UK offering admission to MBBS program without UKCAT.</p><b>The universities are:</b>",
+            "info": "UKCAT is the eligibility entrance exam for admission to top medical schools. It is the admission test used by a consortium of UK universities for medical and dental degree programs.There are two universities in the UK offering admission to MBBS program without UKCAT.The universities are:",
             "data": [
                 "Brighton and Sussex Medical School",
                 "University of Central Lancashire"
@@ -215,7 +215,7 @@ export const mbbsinuk = {
         {
             "type": "table",
             "title": "List of Top Universities for Medicine in UK",
-            "info": "<b>Below are some of the best medical universities in the United Kingdom (UK) with their world ranking:</b>",
+            "info": "Below are some of the best medical universities in the United Kingdom (UK) with their world ranking:",
             "col": [
                 "Type of University",
                 "City",
@@ -415,7 +415,7 @@ export const mbbsinuk = {
         {
             "type": "list-bollet",
             "title": "Career Opportunity after Studying MBBS in UK",
-            "info": "<p>There are a number of opportunities in the different areas of specializations that are opened after studying MBBS in the UK.<b>Here are some areas of specializations after studying medicine from UK:</b></p>",
+            "info": "There are a number of opportunities in the different areas of specializations that are opened after studying MBBS in the UK. Here are some areas of specializations after studying medicine from UK:",
             "data": [
                 "Anesthetics",
                 "Medicine",

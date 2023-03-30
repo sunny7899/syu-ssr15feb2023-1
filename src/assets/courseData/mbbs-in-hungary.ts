@@ -23,7 +23,7 @@ export const mbbsinhungary= {
         {
             "type": "table-title",
             "title": "MBBS in Hungary 2023 - Key Points",
-            "info": "<b>Some of the quick facts and important highlights about studying MBBS in the Hungary should be glanced here:</b>",
+            "info": "Some of the quick facts and important highlights about studying MBBS in the Hungary should be glanced here:",
             "col": [
             ],
             "row": [
@@ -45,7 +45,7 @@ export const mbbsinhungary= {
      {
             "type": "list-bollet",
             "title": "Why Study MBBS in Hungary?",
-            "info": "<b>Find out what attracts Indian students to choose Hungary as a country for study MBBS course:</b>",
+            "info": "Find out what attracts Indian students to choose Hungary as a country for study MBBS course:",
             //"img": 'https://www.selectyouruniversity.com/images/hungary/benifits-of-mbbs-in-hungary.jpg',
             "data": [
                 "Hungary gives standard medicine courses at inexpensive tuition fees structure and residing expenses. The average tuition prices may range close to about 10, 00,000 INR to 15, 00,000 INR relying upon the location and facilities supplied at that university.",
@@ -63,7 +63,7 @@ export const mbbsinhungary= {
         {
                 "type": "list-bollet",
                 "title": "What are the Eligibility Criteria for MBBS Admission in Hungary?",
-                "info": "<b>The entry requirements for MBBS in Hungary for Indian students show the relaxation in comparison with MBBS in India:</b>",
+                "info": "The entry requirements for MBBS in Hungary for Indian students show the relaxation in comparison with MBBS in India:",
                 //"img": 'https://www.selectyouruniversity.com/images/hungary/eligibility-criteria-to-study-mbbs-in-hungary.jpg',
                 "data": [
                     "Students who plan to study medicine in Hungary need to be at least 17 years old at the time of applying.",
@@ -82,7 +82,7 @@ export const mbbsinhungary= {
             {
                 type: 'step-list',
                 title: 'How to Apply for an MBBS Degree in Hungary?',
-                info: '<b>To get admission to the MBBS course in Hungary, students need to follow the simple steps:</b>',
+                info: 'To get admission to the MBBS course in Hungary, students need to follow the simple steps:',
                 data: [
                     "<p><b>Step 1:</b> Select any college totally based on your interest.</p>",
                     "<p><b>Step 2:</b> Apply online and Make ready all of the required documents.</p>",
@@ -95,7 +95,7 @@ export const mbbsinhungary= {
               {
                     "type": "list-bollet",
                     "title": "Documents Required to Study MBBS in Hungary",
-                    "info": "<b>Below are the list of documents required to study MBBS course in Hungary:</b>",
+                    "info": "Below are the list of documents required to study MBBS course in Hungary:",
                     //"img": 'https://www.selectyouruniversity.com/images/hungary/document-required-mbbs-admission-in-hungary.jpg',
                     "data": [
                         "An updated Resume",
@@ -157,7 +157,7 @@ export const mbbsinhungary= {
                 {
                     "type": "table",
                     "title": "MBBS Syllabus in Hungary",
-                    "info": "<b>The Medicine course syllabus in Hungary resembles so many similarities with the course syllabus in India:</b>",
+                    "info": "The Medicine course syllabus in Hungary resembles so many similarities with the course syllabus in India:",
                     "col": [
                         "1st Year",
                         "2nd Year",
@@ -350,7 +350,7 @@ export const mbbsinhungary= {
                 {
                     "type": "list-bollet",
                     "title": "Courses Offered in Hungarian Medical Universities",
-                    "info": "<b>In Hungary students get to learn about these courses while getting their medical degree:</b>",
+                    "info": "In Hungary students get to learn about these courses while getting their medical degree:",
                     "data": [
                         "MD Program / MBBS",
                         "Dentistry Program",
@@ -386,7 +386,7 @@ export const mbbsinhungary= {
                 {
                     "type": "table",
                     "title": "MBBS Fees in Hungary 2022-23",
-                    "info": "<b>The tuition fee for MBBS in Hungary costs approximately 70 to 80 lakhs in total. See which are the top affordable medical universities in Hungary:</b>",
+                    "info": "The tuition fee for MBBS in Hungary costs approximately 70 to 80 lakhs in total. See which are the top affordable medical universities in Hungary:",
                     "col": [
                         "Name of The University",
                         "Tuition Fees for whole course",
@@ -418,7 +418,7 @@ export const mbbsinhungary= {
                 {
                     "type": "table",
                     "title": "Top-Ranked Medical Universities in Hungary (NMC Approved)",
-                    "info": "<b>Following are the top ranked medical universities in Hungary with there ranking have a look:</b>",
+                    "info": "Following are the top ranked medical universities in Hungary with there ranking have a look:",
                     "col": [
                         "Medical Universities",
                         "Country Ranking",

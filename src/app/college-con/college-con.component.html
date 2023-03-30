@@ -2372,7 +2372,7 @@
         </div>
         <div class="col-lg-3 col-12">
           <!-- comment line is use to make this section sticky -->
-          <div class="row row-without-gutter " #stickyDiv [class.stickyDiv]="stickyDiv">
+          <div class="row row-without-gutter ">
             <div class="col-12">
               <div class="row row-without-gutter">
                 <div class="card talk-to-expert text-center">
@@ -2386,6 +2386,8 @@
                     </button>
                   </div>
                 </div>
+              </div>
+              </div>
               </div>
               <!-- <div class="row row-without-gutter">
                 <div class="card other-courses">
@@ -2450,6 +2452,7 @@
               </div> -->
               
               <!--form starts here-->
+              <div #stickyDiv [class.stickyDiv]="stickyDiv">
               <div class="form2">
     
                 <div class="container">
@@ -2580,10 +2583,9 @@
                   </div> 
                 </div>
                 </div>
+                </div>
             </div>
-          </div>
-
-        </div>
+          
         
       </div>
     </div>

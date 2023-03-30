@@ -45,7 +45,7 @@ export const mbbsinchina = {
         {
             "type": "list-bollet",
             "title": "Why should you choose China to study MBBS?",
-            "info": "<p>he entire world knows about the educational infrastructure of China. There are more reasons why students from other countries select universities in China to study medicine. Here we are mentioning the top 5 Reasons to Study Medicine in China.</p>",
+            "info": "he entire world knows about the educational infrastructure of China. There are more reasons why students from other countries select universities in China to study medicine. Here we are mentioning the top 5 Reasons to Study Medicine in China.",
             //"img": 'https://www.selectyouruniversity.com/images/china/benefits-of-mbbs-in-china.jpg',
             "data": [
                 "To enhance quality medical education, the <strong>NMC Approved universities in China</strong> promote international educational aspects.",
@@ -75,7 +75,7 @@ export const mbbsinchina = {
         {
             "type": "list-bollet",
             "title": "MBBS in China - Eligibility Criteria 2022",
-            "info": "<b>Here is a standard eligibility criteria for taking admission for MBBS course in the Medical Univerities of China:</b>",
+            "info": "Here is a standard eligibility criteria for taking admission for MBBS course in the Medical Univerities of China:",
             //"img": 'https://www.selectyouruniversity.com/images/china/mbbs-in-china-eligibility-criteria.jpg',
             "data": [
                 "Minimum age of the candidate must be 17 years as on or before 31st December of the year of the admission process.",
@@ -141,7 +141,7 @@ export const mbbsinchina = {
         {
             "type": "list-bollet",
             "title": "Some Facts About How China Is Winning The Race",
-            "info": "<b>Here are some facts about Ministry of Education in China that results in high-quality standard:</b>",
+            "info": "Here are some facts about Ministry of Education in China that results in high-quality standard:",
             //"img": '',
             "data": [
                 "China’s educational system is one of the largest in the world.",
@@ -156,7 +156,7 @@ export const mbbsinchina = {
         {
             type: 'list-bollet',
             title: 'MBBS Scholarship for Medical Students',
-            info: '<p>Scholarships are provided to the International students. To depend on the respective course of study, Indian students can get Scholarships based on their academic performance.</p><br><b>Here is the list of some of the Scholarships acclaimed by Chinese Government:</b>',
+            info: 'Scholarships are provided to the International students. To depend on the respective course of study, Indian students can get Scholarships based on their academic performance.</p><br><b>Here is the list of some of the Scholarships acclaimed by Chinese Government:',
             data: [
                 "University Scholarships (US)",
                 "Chinese Government Scholarships (CGS)",
@@ -330,7 +330,7 @@ export const mbbsinchina = {
         {
             "type": "table",
             "title": "Detailed Course Syllabus for MBBS in China",
-            "info": "<b>First Year</b>",
+            "info": "First Year",
             "col": [
                 "1nd Semester",
                 "2nd Semester",
@@ -357,7 +357,7 @@ export const mbbsinchina = {
         },
         {
             "type": "table",
-            "info": "<b>Second  Year</b>",
+            "info": "Second  Year",
             "col": [
                 "1nd Semester",
                 "2nd Semester",
@@ -384,7 +384,7 @@ export const mbbsinchina = {
         },
         {
             "type": "table",
-            "info": "<b>Third Yearr</b>",
+            "info": "Third Year",
             "col": [
                 "1nd Semester",
                 "2nd Semester",
@@ -411,7 +411,7 @@ export const mbbsinchina = {
         },
         {
             "type": "table",
-            "info": "<b>Fourth Year</b>",
+            "info": "Fourth Year",
             "col": [
                 "1nd Semester",
                 "2nd Semester",
@@ -446,7 +446,7 @@ export const mbbsinchina = {
         },
         {
             "type": "table",
-            "info": "<b>Fifth Year</b>",
+            "info": "Fifth Year",
             "col": [
                 "1nd Semester",
                 "2nd Semester",
@@ -507,7 +507,7 @@ export const mbbsinchina = {
         {
             "type": "table",
             "title": "MBBS in China Fee Structure 2023",
-            "info": "<b>The fee structure for China’s top medical universities are as follows:</b>",
+            "info": "The fee structure for China’s top medical universities are as follows:",
             "col": [
                 "Name of the universities",
                 "Tuition Fee (For 6 years)",
@@ -589,7 +589,7 @@ export const mbbsinchina = {
         {
             "type": "list-bollet",
             "title": "Affiliated Universities in China",
-            "info": "<b>Institutes in China are affiliated for acquiring quality education from all continent, to promote Medical Education nationally and internationally:</b>",
+            "info": "Institutes in China are affiliated for acquiring quality education from all continent, to promote Medical Education nationally and internationally:",
             "data": [
                 "National Tsing Hua University",
                 "National Chung Hsing University",

@@ -30,7 +30,9 @@
   }
 
 #titles {
-    padding-top: 1vh;
+    padding-top: 0vh;
+    margin-top: 5%;
+    margin-bottom: -3%;
 }
 
 #thankyouform {
@@ -1402,6 +1404,7 @@ nav ul li {
 
     #titles{
         padding-top: 4px;
+        margin-bottom: -4%;
     }
     #title{
         font-size: 220%;
@@ -1674,7 +1677,7 @@ svg {
     }
 
     .talk-to-expert {
-        margin: 0 0 15px;
+        margin: 0 15px 15px;
     }
 
     .other-courses {

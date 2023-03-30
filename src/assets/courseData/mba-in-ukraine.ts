@@ -23,7 +23,7 @@ export const mbainukraine = {
         {
             "type": "table-title",
             "title": "MBA in Ukraine: Quick Overview 2023",
-            "info": "<b>Here are the features of learning MBA course in the Universities of Ukraine:</b>",
+            "info": "Here are the features of learning MBA course in the Universities of Ukraine:",
             "col": [
             ],
             "row": [
@@ -43,7 +43,7 @@ export const mbainukraine = {
         {
             "type": "list-bollet",
             "title": "Why Should You Study MBA in Ukraine?",
-            "info": "<b>Important benefits of studying MBA courses in the Universities of Ukraine for Indian students:</b>",
+            "info": "Important benefits of studying MBA courses in the Universities of Ukraine for Indian students:",
             "img": '',
             "data": [
                 "MBA programs offered in Ukraine are quite affordable and budget-friendly compared to other international universities.",
@@ -60,7 +60,7 @@ export const mbainukraine = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Read about qualification criteria required for the admission of MBA in Ukraine:</b>",
+            "info": "Read about qualification criteria required for the admission of MBA in Ukraine:",
             "img": '',
             "data": [
                 "A bachelor’s course completed from a recognized board or university.",
@@ -74,7 +74,7 @@ export const mbainukraine = {
         {
             type: 'step-list',
             title: 'Admission Process of MBA in Ukraine (Step-by-Step)',
-            info: '<b>Refer the steps involved in the procedure of MBA admission in Ukraine:</b>',
+            info: 'Refer the steps involved in the procedure of MBA admission in Ukraine:',
             data: [
                 "<p><b>Step 1:</b> Admission starts with filling the online application form.</p>",
                 "<p><b>Step 2:</b> Documents are required to send with the admission form.</p>",
@@ -86,7 +86,7 @@ export const mbainukraine = {
         {
             "type": "list-bollet",
             "title": "List of All Important Documents Required for the Admission",
-            "info": "<b>Follow this list of documents required for the admission of MBA course in Ukraine:</b>",
+            "info": "Follow this list of documents required for the admission of MBA course in Ukraine:",
             "img": '',
             "data": [
                 "Application form.",
@@ -103,7 +103,7 @@ export const mbainukraine = {
         {
             "type": "list-bollet",
             "title": "System of Management Education in Ukraine",
-            "info": "<b>There are 11 types of MBA programs offered in the Ukrainian business schools:</b>",
+            "info": "There are 11 types of MBA programs offered in the Ukrainian business schools:",
             "img": '',
             "data": [
                 "The level of MBA curriculum depends on the type of MBA program.",
@@ -115,7 +115,7 @@ export const mbainukraine = {
         {
             "type": "list-bollet",
             "title": "Scholarship in Ukraine",
-            "info": "<b>Presented below is the information regarding scholarship opportunities in Ukraine:</b>",
+            "info": "Presented below is the information regarding scholarship opportunities in Ukraine:",
             "img": '',
             "data": [
                 "Ukraine supports international education with active participation in international conferences and their investment in the educational sector.",
@@ -130,7 +130,7 @@ export const mbainukraine = {
         {
             "type": "table",
             "title": "Ukraine: Safety Index Rank",
-            "info": "<b>See where does the Ukraine stands in the safety index ranking of the world:</b>",
+            "info": "See where does the Ukraine stands in the safety index ranking of the world:",
             "col": [
                 "Rank",
                 "Nation",
@@ -170,7 +170,7 @@ export const mbainukraine = {
         {
             "type": "list-bollet",
             "title": "Student's VISA",
-            "info": "<b>See the information about getting student’s VISA:</b>",
+            "info": "See the information about getting student’s VISA:",
             "img": '',
             "data": [
                 "It is mandatory to acquire a student’s VISA to study in Ukraine.",
@@ -199,7 +199,7 @@ export const mbainukraine = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>See the table below to understand the monthly living expenses in Ukraine:</b>",
+            "info": "See the table below to understand the monthly living expenses in Ukraine:",
             "col": [
                 "Particular",
                 "Amount (USD)",
@@ -244,7 +244,7 @@ export const mbainukraine = {
         {
             "type": "list-bollet",
             "title": "About Ukraine",
-            "info": "<b>  Read more data about Ukraine:</b>",
+            "info": "Read more data about Ukraine:",
             //"img": 'https://www.selectyouruniversity.com/images/about-ukraine.jpg',
             "data": [
                 "Ukraine is a country in the eastern European region famous for its production of manufacturing of vehicles and spacecraft.",
@@ -302,7 +302,7 @@ export const mbainukraine = {
         {
             "type": "table",
             "title": "MBA in Ukraine Fee Structure 2022",
-            "info": "<b>Average tuition fees of top business schools in Ukraine:</b>",
+            "info": "Average tuition fees of top business schools in Ukraine:",
             "col": [
                 "Name of University",
                 "Program",
@@ -382,7 +382,7 @@ export const mbainukraine = {
         {
             "type": "table-title",
             "title": "Syllabus of MBA Course in Ukraine",
-            "info": "<b>A detailed syllabus and the subjects listed in MBA curriculum in Ukraine:</b>",
+            "info": "A detailed syllabus and the subjects listed in MBA curriculum in Ukraine:",
             "col": [
             ],
             "row": [
@@ -404,7 +404,7 @@ export const mbainukraine = {
         {
             "type": "table",
             "title": "List of all MBA Specialization in Ukraine",
-            "info": "<b>Know the area of management specialization available for studies in Ukraine:</b>",
+            "info": "Know the area of management specialization available for studies in Ukraine:",
             "col": [
                 "Category",
                 "Specialization",
@@ -454,7 +454,7 @@ export const mbainukraine = {
         {
             "type": "table",
             "title": "Types of MBA Programs in Ukraine",
-            "info": "<b>These are the types of MBA courses offered in Universities of MBA:</b>",
+            "info": "These are the types of MBA courses offered in Universities of MBA:",
             "col": [
                 "Part-Time MBA",
                 "Executive MBA",
@@ -496,7 +496,7 @@ export const mbainukraine = {
         {
             type: 'text',
             title: 'Total Duration of MBA Course in Ukraine',
-            info: "<b>The details about the duration require to complete MBA course in Ukraine:</b>",
+            info: "The details about the duration require to complete MBA course in Ukraine:",
             data: '<p>The course duration of MBA degree depends on the chosen specialization. However, the general time required to do an MBA course in Ukraine is 2 years.</p>'
         },
         {
@@ -528,7 +528,7 @@ export const mbainukraine = {
         {
             "type": "list-bollet",
             "title": "Career Opportunities",
-            "info": "<b>Guide to future career opportunities after completing MBA course from Ukraine:</b>",
+            "info": "Guide to future career opportunities after completing MBA course from Ukraine:",
             "data": [
                 "Students have a career in all areas of management after their graduation in Ukraine.",
                 "Specialization is available in all the leading branches of business management.",
@@ -565,7 +565,7 @@ export const mbainukraine = {
         {
             "type": "question-list",
             "title": "MBA in Ukraine - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Ukraine a good option for studying MBA for Indian students?",
