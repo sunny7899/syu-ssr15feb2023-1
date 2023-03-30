@@ -23,8 +23,23 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./course-content.component.scss']
 })
 export class CourseContentComponent implements OnInit {
+
+  Course: any = ['Btech', 'Mtech', 'Bsc', 'Msc','Bca','Mca'];
+  registrationForm = this.fb.group({
+    cCourse: ['', [Validators.required]],
+  });
+  changeCourse(e: any) {
+    this.cCourse?.setValue(e.target.value, {
+      onlySelf: true,
+    });
+  }
+  // Access formcontrols getter
+  get cCourse() {
+    return this.registrationForm.get('cCourse');
+  }
+  
   isShowDivIf = true;  
-    
+  RegistrationForm1: FormGroup;
   toggleDisplayDivIf() {  
     this.isShowDivIf = !this.isShowDivIf;
   }  
@@ -51,6 +66,56 @@ export class CourseContentComponent implements OnInit {
     return this.RegistrationFrom1.controls;
   }
 
+  //second form
+  form5 = true;
+  form6 = false;
+  get m2() {
+    return this.RegistrationForm1.controls;
+  }
+
+  public submitFormS() {
+    if (this.RegistrationForm1.valid) {
+      this.form5 = false;
+      this.form6 = true;
+      this.form3 = false;
+      this.form4 = false;
+    }
+    let data = this.RegistrationForm1.value;
+    data['refNo'] = 777;
+    data['cAddressLine'] = 'Na';
+    data['cState'] = 'Na';
+    data['cPinCode'] = 'Na';
+    data['cParantNo'] = 'Na';
+    data['cDataFrom'] = 1;
+    data['AllocatedTo'] = 0;
+    data['CurrentStatus'] = 0;
+    //data['cRemarks'] = this.RegistrationFrom1.value.qeducation;
+    //data['cCountry'] = 'Na';
+    data['cWebsite'] = 'http://demo.mentebit.com/#/';
+    data['cCoutryCode'] = 'Na';
+    console.log('rom1', this.RegistrationForm1.value);
+    const {
+      //cCity,
+      //cCourse,
+      cCandidateName,
+      cEmail,
+      cMobile,
+      //qeducation,
+      //cLinkName,
+    } = this.RegistrationForm1.value;
+    this.http
+      .get(
+        `https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cLinkName=${this.currentUrl}&section=insertdetails`
+      )
+      .subscribe((res) => {
+        console.log('res', res);
+        this.nsrNo = res;
+      });
+    console.log('form 1', this.RegistrationForm1.value);
+    console.log('form 2', this.RegistrationFrom2.value);
+    console.log('form 3', this.RegistrationFrom3.value);
+  }
+
   public submitForm1() {
     if (this.RegistrationFrom1.valid) {
       this.form1 = false;
@@ -67,13 +132,13 @@ export class CourseContentComponent implements OnInit {
     data['cDataFrom']=1
     data['AllocatedTo']=0
     data['CurrentStatus']=0
-    data['cRemarks']=this.RegistrationFrom1.value.qeducation
+    //data['cRemarks']=this.RegistrationFrom1.value.qeducation
     data['cCountry']="Na"
     data['cWebsite']='http://demo.mentebit.com/#/'
     data['cCoutryCode']="Na"
     console.log('rom1', this.RegistrationFrom1.value)
     const {cCity, cCourse, cCandidateName, cEmail, cMobile, qeducation,cLinkName} = this.RegistrationFrom1.value;
-    this.http.get( `http://rohitnehra-001-site1.htempurl.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&qeducation=${qeducation}&cLinkName=${this.currentUrl}&section=insertdetails`)
+    this.http.get( `http://rohitnehra-001-site1.htempurl.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cLinkName=${this.currentUrl}&section=insertdetails`)
     .subscribe((res) => {
       console.log('res', res)
     this.nsrNo= res
@@ -363,9 +428,9 @@ export class CourseContentComponent implements OnInit {
       cCandidateName: ["", Validators.required],
       cEmail: ["",[ Validators.required , Validators.pattern("^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$")]],
       cMobile: ["", [Validators.required, Validators.pattern("^((\\+91-?)|0)?[0-9]{10}$")]],
-      cCity: ["", Validators.required],
+      cCity: [""],
       cCourse: ["", Validators.required],
-      qeducation: ["", Validators.required],
+      //qeducation: ["", Validators.required],
     });
     this.RegistrationFrom2 = this.fb.group({
       qgraduation: ["", Validators.required],
@@ -393,6 +458,12 @@ export class CourseContentComponent implements OnInit {
       fldValue3: ["", Validators.required],
       fldValue4: ["", Validators.required],
       fldValue5: ["", Validators.required],
+    });
+    //for second form
+    this.RegistrationForm1 = this.fb.group({
+      cCandidateName: ["", Validators.required],
+      cEmail: ["", [Validators.required, Validators.pattern("^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$")]],
+      cMobile: ["", [Validators.required, Validators.pattern("^((\\+91-?)|0)?[0-9]{10}$")]]
     });
     this.galleryOptions = [
       {

@@ -8,7 +8,7 @@ import { FooterModule } from '../footer/footer.module';
 import { OwlModule } from 'ngx-owl-carousel';
 import { NavModule } from '../nav/nav.module';
 import { ChatModule } from '../chat/chat.module';
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 @NgModule({
   declarations: [
     AboutUsComponent
@@ -20,7 +20,8 @@ import { ChatModule } from '../chat/chat.module';
     ChatModule,
     // HeaderInnerModule,
     OwlModule,
-    NavModule
+    NavModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class AboutUsModule { }

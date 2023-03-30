@@ -332,7 +332,7 @@ export const mbainrussia = {
         {
             "type": "table-title",
             "title": "All Subjects of a MBA Program in Russia",
-            "info": "<b>Below mentioned are the MBA (Master of Business Administration) subjects which students need to study when they opt for ‘MBA in Russia’:</b>",
+            "info": "Below mentioned are the MBA (Master of Business Administration) subjects which students need to study when they opt for ‘MBA in Russia’:",
             "row": [
                 ["Managerial Accounting", "Macro Economics"],
                 ["Human Research Management", "Organizational Behaviour"],
@@ -396,7 +396,7 @@ export const mbainrussia = {
         {
             "type": "table-title",
             "title": "Job Positions for MBA Students",
-            "info": "<b>After pursuing MBA in Russia, students get the following job positions at reputed companies:</b>",
+            "info": "After pursuing MBA in Russia, students get the following job positions at reputed companies:",
             "row": [
                 ["Business Intern", "Project Leader"],
                 ["Manager", "Accountant"],

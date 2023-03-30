@@ -9,6 +9,7 @@ import { CarouselModule  } from 'ngx-owl-carousel-o';
 import { AccordionModule } from 'primeng/accordion';
 // import { NgxGalleryModule } from 'ngx-gallery';
 import { ChatModule } from '../chat/chat.module';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [StudyContentComponent],
@@ -19,7 +20,8 @@ import { ChatModule } from '../chat/chat.module';
     FooterModule,
     CarouselModule,
     AccordionModule,
-    ChatModule
+    ChatModule,
+    FormsModule, ReactiveFormsModule
     // NgxGalleryModule
   ]
 })

@@ -108,23 +108,25 @@ export const internationalfoundationofmedicineifom = {
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "IFOM Exam 2023 - Registration, Score & Exam Dates" },
-              { name: "description", content: "International Foundation of Medicine exam conducted by the NBME offers the questions used by USMLE exam." },
+                { name: "title", content: "IFOM Exam 2023 - Registration, Score & Exam Dates" },
+                { name: "description", content: "International Foundation of Medicine exam conducted by the NBME offers the questions used by USMLE exam." },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "IFOM Exam 2023 - Registration, Score & Exam Dates"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "IFOM Exam 2023 - Registration, Score & Exam Dates"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/international-foundation-of-medicine-ifom" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/international-foundation-of-medicine-ifom" }
+            ]
+        }
 
 
     ],
-   
-    
+
+
 }

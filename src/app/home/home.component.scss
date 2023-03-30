@@ -13,6 +13,13 @@ a {
     padding-left: 20%;
     width: 80%;
 }
+.subscribe-row{
+    padding-bottom: 4%;
+}
+
+.trending{
+    padding-bottom: 50px;
+}
 
 .custom-width {
     flex: 0 0 31.333333%;
@@ -223,7 +230,6 @@ input.form-control:focus {
     width: 100%;
     text-align: center;
     background-color: aliceblue;
-    margin-bottom: 15px;
 }
 
 .signbtn:hover,
@@ -275,6 +281,19 @@ input.form-control:focus {
     border-bottom-left-radius: 0px !important;
     border-bottom-right-radius: 0px !important;
 }
+// @media screen and (min-width: 991px) and (max-width: 1618px) {
+//     .signbtn {
+//         width: 150%;
+//         transform: translateY(50%);
+//         margin-top: 8px;
+//     }
+// }
+
+@media screen and (min-width: 1431px) and (max-width: 2000px){
+     .subscribe-row{
+        padding-bottom: 2%;
+     }
+}
 
 @media screen and (min-width: 992px) and (max-width: 1400px) {
     .pt-4 {
@@ -283,14 +302,36 @@ input.form-control:focus {
     .pt-3 {
         padding-top: 4rem !important;
     }
-    .signbtn {
-        width: 200%;
+    // .signbtn {
+    //     width: 200%;
+    // }
+}
+@media screen and (min-width: 992px) and (max-width: 1199px){
+    .subscribe-text{
+        margin-top: -45px
+    }
+    .newsletter-icon {
+        
+        margin-left: -25px;
+        margin-top: -45px;
+        margin-right: 20px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1430px){
+    .subscribe-text{
+        margin-top: -45px
+    }
+    .newsletter-icon {
+        
+        margin-left: -25px;
+        margin-top: -45px;
+        margin-right: 20px;
     }
 }
 
-@media screen and (min-width: 992px) and (min-width: 1400px) {
+@media screen and (min-width: 992px) and (max-width: 2000px) {
     .signbtn {
-        width: 150%;
+        width: 180%;
         transform: translateY(50%);
         margin-top: 8px;
     }
@@ -330,6 +371,17 @@ input.form-control:focus {
     }
     .banner {
         padding-top: 40px !important;
+    }
+    .subscribe-row{
+        padding-bottom: 15%;
+    }
+}
+@media only screen and (min-width: 767px) and (max-width:991px){
+    .subscribe-text{
+        font-size: 39px;
+    }
+    .subscribe-row{
+        padding-bottom: 5%;
     }
 }
 

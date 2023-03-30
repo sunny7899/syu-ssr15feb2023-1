@@ -106,7 +106,7 @@ export const mbbsingermany = {
             "type": "list-bollet",
             "title": "Admission Procedure for MBBS Course in Germany",
             //"img": "",
-            "info": "<p>Germany is the destination for the best institutes of medicine in the world. Although, the MBBS admission procedure in Germany is quite hard as compared to other countries.</p><p>As they provide free education in Germany that is extremely challenging for the international students to get a MBBS seat with the top German medical universities.</p><p><b>Eligibility criteria to get admission with best medical universities:</b></p>",
+            "info": "Germany is the destination for the best institutes of medicine in the world. Although, the MBBS admission procedure in Germany is quite hard as compared to other countries.As they provide free education in Germany that is extremely challenging for the international students to get a MBBS seat with the top German medical universities.Eligibility criteria to get admission with best medical universities:",
             "data": [
                 "Students must have 90% in 12th standard",
                 "The candidate must have cleared the 1st year of graduation with over 58%.",
@@ -118,7 +118,7 @@ export const mbbsingermany = {
             "type": "list-bollet",
             "title": "Documents Required for Student Visa",
             //"img": "",
-            "info": "<p>After all the process done, you will have to submit all the required document to apply in German embassy.</p><p><b>Below are the list of documents required to study MBBS course in Germany:</b><p>",
+            "info": "After all the process done, you will have to submit all the required document to apply in German embassy.Below are the list of documents required to study MBBS course in Germany:",
             "data": [
                 "10 passport size photos",
                 "10 Photocopies of 10th, 12th and 1st year of graduation Mark sheet ( it should be attested by Gazetted Officer)",
@@ -250,13 +250,13 @@ export const mbbsingermany = {
         {
             "type": "text",
             "title": "MBBS Course Duration in Germany",
-            "data": "<p>The total course duration to complete the MBBS / MD in Germany with the best medical universities or schools in Germany is 7.5 Years (including internship with stipends)</p>",
+            "data": "The total course duration to complete the MBBS / MD in Germany with the best medical universities or schools in Germany is 7.5 Years (including internship with stipends)",
 
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered by Germany Medical Universities",
-            "info": "<p><b>Various courses covered under Medical and Public Health Services Program are:</b></p>",
+            "info": "Various courses covered under Medical and Public Health Services Program are:",
             "data": [
                 "General Medicine",
                 "Pharmacy",

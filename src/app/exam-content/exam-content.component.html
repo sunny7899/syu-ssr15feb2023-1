@@ -1,145 +1,120 @@
 <section class="exam-content">
   <div class="exam-content-banner">
-      <div class="row">
-          <!-- <div class="col-lg-12" *ngIf="isActive('info')">
+    <div class="row">
+      <!-- <div class="col-lg-12" *ngIf="isActive('info')">
               <div class="course-content-page-header text-center">
                   <h1 class="white-text-2" [innerHtml]="h1Title"></h1>
               </div>
           </div> -->
-          <div  class="col-lg-12" *ngIf="isActive('info')">
-            <h1 class="course-content-page-header text-center">
-              <h1 class="white-text-2" >{{ collegeData.Title }}</h1>
-            </h1></div>
-          <div  class="col-lg-12" *ngIf="isActive('exam-date')">
-            <div *ngFor="let item of collegeData.examdate" class="course-content-page-header text-center" id="titles">
-              <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
-              <h1 *ngIf="item.type == 'meta-title'"  class="white-text-2" id="title">
-                {{ item.title }}
-              </h1>
-        
-            </div>
-          </div>
-          <div  class="col-lg-12" *ngIf="isActive('syllabus')">
-            <div *ngFor="let item of collegeData.syllabus" class="course-content-page-header text-center" id="titles">
-              <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
-              <h1 *ngIf="item.type == 'meta-title'"  class="white-text-2" id="title">
-                {{ item.title }}
-              </h1>
-        
-            </div>
-          </div>
-          <div  class="col-lg-12" *ngIf="isActive('cut-off')">
-            <div *ngFor="let item of collegeData.cutoff" class="course-content-page-header text-center" id="titles">
-              <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
-              <h1 *ngIf="item.type == 'meta-title'"  class="white-text-2" id="title">
-                {{ item.title }}
-              </h1>
-        
-            </div>
-          </div>
-          <div  class="col-lg-12" *ngIf="isActive('faq')">
-            <div *ngFor="let item of collegeData.faq" class="course-content-page-header text-center" id="titles">
-              <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
-              <h1 *ngIf="item.type == 'meta-title'"  class="white-text-2" id="title">
-                {{ item.title }}
-              </h1>
-        
-            </div>
-          </div>
-          <div class="col-lg-12">
-              <div class="flex-hold">
-                  <img src="../../assets/img/Exam_Content_Icons/2.JEE_Main_2022_Exam/Exam On.png" alt="" width="30" />
-                  
-                  <h6 class="orange-text mb-0">Exam On:</h6>
-                  <h5 class="white-text-2 mb-0">23 Jun 22 - 29 Jun 22</h5>
-                </div>
-          </div>
-          <div class="col-lg-12">
-              <div class="flex-hold">
-                  <button class="btn btn-orange-nav white-text-2 btn-lg">
-                    Get More Info
-        <img
-          alt=""
-          src="../../assets/img/Exam_Content_Icons/2.JEE_Main_2022_Exam/Get-more-info.png.png"
-          width="30"
-        />
-      </button>
-                  <button class="btn white-text-2 btn-white-nav">
-                    Download Question Papers<img
-          alt=""
-          src="../../assets/img/Exam_Content_Icons/2.JEE_Main_2022_Exam/Download.png"
-          width="30"
-        />
-      </button>
-              </div>
-          </div>
+      <div class="col-lg-12" *ngIf="isActive('info')">
+        <h1 class="course-content-page-header text-center">
+          <h1 class="white-text-2">{{ collegeData.Title }}</h1>
+        </h1>
       </div>
+      <div class="col-lg-12" *ngIf="isActive('exam-date')">
+        <div *ngFor="let item of collegeData.examdate" class="course-content-page-header text-center" id="titles">
+          <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
+          <h1 *ngIf="item.type == 'title'" class="white-text-2" id="title">
+            {{ item.title }}
+          </h1>
+
+        </div>
+      </div>
+      <div class="col-lg-12" *ngIf="isActive('syllabus')">
+        <div *ngFor="let item of collegeData.syllabus" class="course-content-page-header text-center" id="titles">
+          <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
+          <h1 *ngIf="item.type == 'title'" class="white-text-2" id="title">
+            {{ item.title }}
+          </h1>
+
+        </div>
+      </div>
+      <div class="col-lg-12" *ngIf="isActive('cut-off')">
+        <div *ngFor="let item of collegeData.cutoff" class="course-content-page-header text-center" id="titles">
+          <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
+          <h1 *ngIf="item.type == 'title'" class="white-text-2" id="title">
+            {{ item.title }}
+          </h1>
+
+        </div>
+      </div>
+      <div class="col-lg-12" *ngIf="isActive('faq')">
+        <div *ngFor="let item of collegeData.faq" class="course-content-page-header text-center" id="titles">
+          <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
+          <h1 *ngIf="item.type == 'title'" class="white-text-2" id="title">
+            {{ item.title }}
+          </h1>
+
+        </div>
+      </div>
+      <div class="col-lg-12">
+        <div class="flex-hold">
+          <img src="../../assets/img/Exam_Content_Icons/2.JEE_Main_2022_Exam/Exam On.png" alt="" width="30" />
+
+          <h6 class="orange-text mb-0">Exam On:</h6>
+          <h5 class="white-text-2 mb-0">23 Jun 22 - 29 Jun 22</h5>
+        </div>
+      </div>
+      <div class="col-lg-12">
+        <div class="flex-hold">
+          <button class="btn btn-orange-nav white-text-2 btn-lg">
+            Get More Info
+            <img alt="" src="../../assets/img/Exam_Content_Icons/2.JEE_Main_2022_Exam/Get-more-info.png.png"
+              width="30" />
+          </button>
+          <button class="btn white-text-2 btn-white-nav">
+            Download Question Papers<img alt=""
+              src="../../assets/img/Exam_Content_Icons/2.JEE_Main_2022_Exam/Download.png" width="30" />
+          </button>
+        </div>
+      </div>
+    </div>
   </div>
   <div class="col-lg-12">
-      <div class="course-content-div">
-          <div class="row row-without-gutter">
-              <nav class="navbar navbar-expand-lg navbar-light full-width-tabs" #stickyNav [class.stickyNav]="stickyNav">
-                  <div class="collapse navbar-collapse bg-white" id="navbar">
-                      <ul class="nav nav-tabs nav-tabs-ul">
-                          <li class="nav-item">
-                              <a class="active" [ngClass]="{ 'nav-link': true, active: isActive('info') }" (click)="makeActive('info')">Info</a
-              >
-            </li>
-            <li class="nav-item">
-              <a
-                [ngClass]="{ 'nav-link': true, active: isActive('exam-date') }"
-                (click)="makeActive('exam-date')"
-                >Exam Date</a
-              >
-            </li>
-            <li class="nav-item">
-              <a
-                [ngClass]="{
+    <div class="course-content-div">
+      <div class="row row-without-gutter">
+        <nav class="navbar navbar-expand-lg navbar-light full-width-tabs" #stickyNav [class.stickyNav]="stickyNav">
+          <div class="collapse navbar-collapse bg-white" id="navbar">
+            <ul class="nav nav-tabs nav-tabs-ul">
+              <li class="nav-item">
+                <a class="active" [ngClass]="{ 'nav-link': true, active: isActive('info') }"
+                  (click)="makeActive('info')">Info</a>
+              </li>
+              <li class="nav-item">
+                <a [ngClass]="{ 'nav-link': true, active: isActive('exam-date') }"
+                  (click)="makeActive('exam-date')">Exam Date</a>
+              </li>
+              <li class="nav-item">
+                <a [ngClass]="{
                   'nav-link': true,
                   active: isActive('syllabus')
-                }"
-                (click)="makeActive('syllabus')"
-                >Syllabus</a
-              >
-            </li>
-            <li class="nav-item">
-              <a
-                [ngClass]="{ 'nav-link': true, active: isActive('cut-off') }"
-                (click)="makeActive('cut-off')"
-                >Cut Off</a
-              >
-            </li>
-            <li class="nav-item">
-              <a
-                [ngClass]="{ 'nav-link': true, active: isActive('faq') }"
-                (click)="makeActive('faq')"
-                >FAQ</a
-              >
-            </li> 
-          </ul>
-        </div>
-      </nav>
+                }" (click)="makeActive('syllabus')">Syllabus</a>
+              </li>
+              <li class="nav-item">
+                <a [ngClass]="{ 'nav-link': true, active: isActive('cut-off') }" (click)="makeActive('cut-off')">Cut
+                  Off</a>
+              </li>
+              <li class="nav-item">
+                <a [ngClass]="{ 'nav-link': true, active: isActive('faq') }" (click)="makeActive('faq')">FAQ</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
 
-      <div class="col-lg-9 col-12">
-        <div id="college-content-tab">
-          <div class="tabcontent">
-            <div *ngIf="isActive('info')">
-              <div
-                class="row row-without-gutter relative-row"
-                *ngFor="let item of collegeData.info"
-              >
-                <!-- {{item.title}} -->
-                <div class="col-12" *ngIf="item.type == 'text'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <div
-                    class="tab-text"
-                    [ngClass]="{ limitTextHeight: isReadMore }"
-                  >
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                    <p [innerHTML]="item.data"></p>
-                  </div>
+        <div class="col-lg-9 col-12">
+          <div id="college-content-tab">
+            <div class="tabcontent">
+              <div *ngIf="isActive('info')">
+                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.info">
+                  <!-- {{item.title}} -->
+                  <div class="col-12" *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                      <p [innerHTML]="item.data"></p>
+                    </div>
 
-                  <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
                   <div
                     class="row text-center p-relative"
                     *ngIf="item.seeMoreBtn"
@@ -152,155 +127,126 @@
                       {{ isReadMore ? "See More" : "See Less" }}
                     </button>
                   </div>-->
-                </div>
+                  </div>
 
-                <div
-                  class="row row-without-gutter"
-                  *ngIf="item.type === 'faq-list'"
-                >
-                  <p-accordion
-                    [multiple]="false"
-                    id="faq-collapse"
-                    expandIcon="pi pi-plus"
-                    collapseIcon="pi pi-minus"
-                  >
-                    <div class="col-lg-12 text-center">
-                      <h2 class="light-blue-text">{{ item.title }}</h2>
-                    </div>
-                    <p *ngFor="let qna of item.data">
-                      <p-accordionTab
-                        header="{{ qna.ques }}"
-                        [selected]="false"
-                        class="accordionTab"
-                      >
-                        <p>{{ qna.ans }}</p>
-                        <ul class="cust-padding">
-                          <li *ngFor="let checklists of qna.checklist" checklist >{{ checklists }}</li>
-                        </ul>
-                      </p-accordionTab>
-                    </p>
-                  </p-accordion>
-                </div>
-                <div id="quick" #quick></div>
-                <div  class="col-12" *ngIf="item.type == 'table'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <table
-                    class="table text-center table-hover table-responsive w-100 d-md-table"
-                    id="quick-table"
-                  >
-                    <thead>
-                      <tr>
-                        <th *ngFor="let TableItems of item.col">
-                          {{ TableItems }}
-                        </th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr *ngFor="let Tableitem of item.row">
-                        <td *ngFor="let TableItems of item.col">
-                          <p [innerHTML]="Tableitem[TableItems]"></p>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
+                  <div class="row row-without-gutter" *ngIf="item.type === 'faq-list'">
+                    <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus"
+                      collapseIcon="pi pi-minus">
+                      <div class="col-lg-12 text-center">
+                        <h2 class="light-blue-text">{{ item.title }}</h2>
+                      </div>
+                      <p *ngFor="let qna of item.data">
+                        <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
+                          <p>{{ qna.ans }}</p>
+                          <ul class="cust-padding">
+                            <li *ngFor="let checklists of qna.checklist" checklist>{{ checklists }}</li>
+                          </ul>
+                        </p-accordionTab>
+                      </p>
+                    </p-accordion>
+                  </div>
+                  <div id="quick" #quick></div>
+                  <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let TableItems of item.col">
+                            <p [innerHTML]="Tableitem[TableItems]"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
 
-                <div class="col-12" *ngIf="item.type == 'table-title'">
-                  <h2  class="size" [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <div class="row" *ngIf="item.colTitle">
-                    <div class="col-lg-12">
-                      <div class="text-center light-bg-blue">
-                        <h6 class="white-text py-2 mb-0">
-                          {{ item.colTitle }}
-                        </h6>
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
                       </div>
                     </div>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            <p [innerHTML]="Tableitems"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
                   </div>
-                  <table
-                    class="table text-center table-hover table-responsive w-100 d-md-table"
-                    id="quick-table" 
-                  >
-                    <thead>
-                      <tr>
-                        <th *ngFor="let TableItems of item.col">
-                          {{ TableItems }}
-                        </th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr *ngFor="let Tableitem of item.row">
-                        <td *ngFor="let Tableitems of Tableitem">
-                          <p [innerHTML]="Tableitems"></p>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
 
-                <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <ul class="cust-padding">
-                    <li *ngFor="let Listitem of item.data"><p [innerHTML]="Listitem"></p></li>
-                  </ul>
-                </div>
+                  <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
+                      <li *ngFor="let Listitem of item.data">
+                        <p [innerHTML]="Listitem"></p>
+                      </li>
+                    </ul>
+                  </div>
 
-                <div class="col-12" *ngIf="item.type == 'number-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
+                  <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
 
-                  <ol style="margin-bottom: 0px" type="1">
-                    <li *ngFor="let numbetList of item.data">
+                    <ol style="margin-bottom: 0px" type="1">
+                      <li *ngFor="let numbetList of item.data">
+                        <p [innerHTML]="numbetList"></p>
+                      </li>
+                    </ol>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                       <p [innerHTML]="numbetList"></p>
-                    </li>
-                  </ol>
-                </div>
-
-                <div class="col-12" *ngIf="item.type == 'step-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-
-                  <ol
-                    style="margin-bottom: 0px"
-                    type="1"
-                    *ngFor="let numbetList of item.data"
-                  >
-                  <p [innerHTML]="numbetList"></p>
-                  </ol>
-                </div>
-                <div *ngIf="item.type == 'img'">
-                  <img
-                    [src]="item.data"
-                    alt=""
-                    class="review-img custome-img"
-                  />
+                    </ol>
+                  </div>
+                  <div *ngIf="item.type == 'img'">
+                    <img [src]="item.data" alt="" class="review-img custome-img" />
+                  </div>
                 </div>
               </div>
-            </div>
 
-            <div *ngIf="isActive('exam-date')">
-              <div
-                class="row row-without-gutter relative-row"
-                *ngFor="let item of collegeData?.examdate"
-              >
-                <div class="col-12" *ngIf="item.type == 'text'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <div
-                    class="tab-text"
-                    [ngClass]="{ limitTextHeight: isReadMore }"
-                  >
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                    <p [innerHTML]="item.data"></p>
-                  </div>
+              <div *ngIf="isActive('exam-date')">
+                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData?.examdate">
+                  <div class="col-12" *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                      <p [innerHTML]="item.data"></p>
+                    </div>
 
-                  <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
                   <div
                     class="row text-center p-relative"
                     *ngIf="item.seeMoreBtn"
@@ -313,356 +259,201 @@
                       {{ isReadMore ? "See More" : "See Less" }}
                     </button>
                   </div>-->
-                </div>
+                  </div>
 
-                <div
-                  class="row row-without-gutter"
-                  *ngIf="item.type === 'faq-list'"
-                >
-                  <p-accordion
-                    [multiple]="false"
-                    id="faq-collapse"
-                    expandIcon="pi pi-plus"
-                    collapseIcon="pi pi-minus"
-                  >
-                    <div class="col-lg-12 text-center">
-                      <h2 class="light-blue-text">{{ item.title }}</h2>
-                    </div>
-                    <p *ngFor="let qna of item.data">
-                      <p-accordionTab
-                        header="{{ qna.ques }}"
-                        [selected]="false"
-                        class="accordionTab"
-                      >
-                        <p>{{ qna.ans }}</p>
-                      </p-accordionTab>
-                    </p>
-                  </p-accordion>
-                </div>
-                <div id="quick" #quick></div>
-                <div class="col-12" *ngIf="item.type == 'table'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <table
-                    class="table text-center table-hover table-responsive w-100 d-md-table"
-                    id="quick-table"
-                  >
-                    <thead>
-                      <tr>
-                        <th *ngFor="let TableItems of item.col">
-                          {{ TableItems }}
-                        </th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr *ngFor="let Tableitem of item.row">
-                        <td *ngFor="let TableItems of item.col">
-                          <p [innerHTML]="Tableitem[TableItems]"></p>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                  <p [innerHTML]="item.heading"></p>
-                  <button class="btn btn-blue white-text-2">
-                    Apply Now<img
-                      alt=""
-                      src="../../assets/img/College_Icons/2.IIT_Delhi/apply.png"
-                    />
-                  </button>
-                </div>
+                  <div class="row row-without-gutter" *ngIf="item.type === 'faq-list'">
+                    <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus"
+                      collapseIcon="pi pi-minus">
+                      <div class="col-lg-12 text-center">
+                        <h2 class="light-blue-text">{{ item.title }}</h2>
+                      </div>
+                      <p *ngFor="let qna of item.data">
+                        <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
+                          <p>{{ qna.ans }}</p>
+                        </p-accordionTab>
+                      </p>
+                    </p-accordion>
+                  </div>
+                  <div id="quick" #quick></div>
+                  <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let TableItems of item.col">
+                            <p [innerHTML]="Tableitem[TableItems]"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                    <button class="btn btn-blue white-text-2">
+                      Apply Now<img alt="" src="../../assets/img/College_Icons/2.IIT_Delhi/apply.png" />
+                    </button>
+                  </div>
 
-                <div class="col-12" *ngIf="item.type == 'table-title'">
-                  <h2  class="size" [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <div class="row" *ngIf="item.colTitle">
-                    <div class="col-lg-12">
-                      <div class="text-center light-bg-blue">
-                        <h6 class="white-text py-2 mb-0">
-                          {{ item.colTitle }}
-                        </h6>
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
                       </div>
                     </div>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            <p [innerHTML]="Tableitems"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
-                  <table
-                    class="table text-center table-hover table-responsive w-100 d-md-table"
-                    id="quick-table" 
-                  >
-                    <thead>
-                      <tr>
-                        <th *ngFor="let TableItems of item.col">
-                          {{ TableItems }}
-                        </th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr *ngFor="let Tableitem of item.row">
-                        <td *ngFor="let Tableitems of Tableitem">
-                          <p [innerHTML]="Tableitems"></p>
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                  <p [innerHTML]="item.heading"></p>
-                </div>
 
-                <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <ul class="cust-padding">
-                    <li *ngFor="let Listitem of item.data"><p [innerHTML]="Listitem"></p></li>
-                  </ul>
-                </div>
+                  <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
+                      <li *ngFor="let Listitem of item.data">
+                        <p [innerHTML]="Listitem"></p>
+                      </li>
+                    </ul>
+                  </div>
 
-                <div class="col-12" *ngIf="item.type == 'number-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
+                  <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
 
-                  <ol style="margin-bottom: 0px" type="1">
-                    <li *ngFor="let numbetList of item.data">
-                      <p [innerHTML]="numbetList"></p>
-                    </li>
-                  </ol>
-                </div>
+                    <ol style="margin-bottom: 0px" type="1">
+                      <li *ngFor="let numbetList of item.data">
+                        <p [innerHTML]="numbetList"></p>
+                      </li>
+                    </ol>
+                  </div>
 
-                <div class="col-12" *ngIf="item.type == 'step-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
+                  <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
 
-                  <ol
-                    style="margin-bottom: 0px"
-                    type="1"
-                    *ngFor="let numbetList of item.data"
-                  >
-                    <a>{{ numbetList }}</a>
-                              </ol>
+                    <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
+                      <a>{{ numbetList }}</a>
+                    </ol>
                   </div>
                   <div class="col-12" *ngIf="item.type == 'img'">
-                      <img [src]="item.data" alt="" class="review-img custome-img" />
+                    <img [src]="item.data" alt="" class="review-img custome-img" />
                   </div>
                   <div id="quick" #quick></div>
                   <div *ngIf="item.type == 'api-table'">
-                      <table *ngFor="let data of CoursesFees; let i = index" class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
-                          <h2 [innerHTML]="CoursesFees[i][0]?.cCourse" style="display: flex"></h2>
-                          <tr>
-                              <th>Course Name</th>
-                              <th>Duration</th>
-                              <th>Annual Fees</th>
-                              <th>Program Type</th>
-                              <th>Seat Intake</th>
-                              <th>Action</th>
-                          </tr>
-                          <tr *ngFor="let item of data">
-                              <td>{{ item.cSpecialzation }}</td>
-                              <td>{{ item.cDuration }}</td>
-                              <td>{{ item.cFees }}</td>
-                              <td>{{ item.cCourse }}</td>
-                              <td>{{ item.cProgrammeType }}</td>
-                              <td>
-                                  <button class="btn btn-orange white-text-2 btn-lg">
-                          Apply Now
-                        </button>
-                              </td>
-                          </tr>
-                      </table>
-                  </div>
-          </div>
-      </div>
-
-      <div *ngIf="isActive('syllabus')">
-          <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.syllabus">
-              <!-- {{item.title}} -->
-
-              <div id="quick" #quick></div>
-
-              <div *ngIf="item.type == 'api-table' && item.useOf == 'Event'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
-                      <thead>
-                          <tr>
-                              <th *ngFor="let TableItems of item.col">
-                                  {{ TableItems }}
-                              </th>
-                          </tr>
-                      </thead>
-                      <tbody>
-                          <tr *ngFor="let Tableitem of eventaddmission">
-                              <td *ngFor="let TableItems of item.col">
-                                  {{ Tableitem[TableItems] }}
-                              </td>
-                          </tr>
-                      </tbody>
-                  </table>
-              </div>
-
-              <div *ngIf="item.type == 'api-table' && item.useOf == 'Course'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
-                      <thead>
-                          <tr>
-                              <th *ngFor="let TableItems of item.col">
-                                  {{ TableItems }}
-                              </th>
-                          </tr>
-                      </thead>
-                      <tbody>
-                          <tr *ngFor="let Tableitem of courseaddmission">
-                              <td *ngFor="let TableItems of item.col">
-                                  {{ Tableitem[TableItems] }}
-                              </td>
-                          </tr>
-                      </tbody>
-                  </table>
-              </div>
-
-              <div class="col-12" *ngIf="item.type == 'text'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                      <p [innerHTML]="item.data"></p>
-                  </div>
-
-                  <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
-                  <div
-                    class="row text-center p-relative"
-                    *ngIf="item.seeMoreBtn"
-                  >
-                    <button
-                      type="button"
-                      (click)="showText()"
-                      class="read-more-btn btn"
-                    >
-                      {{ isReadMore ? "See More" : "See Less" }}
-                    </button>
-                  </div>-->
-              </div>
-
-              <div class="row row-without-gutter" *ngIf="item.type === 'faq-list'">
-                  <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus" collapseIcon="pi pi-minus">
-                      <div class="col-lg-12 text-center">
-                          <h2 class="light-blue-text">{{ item.title }}</h2>
-                      </div>
-                      <p *ngFor="let qna of item.data">
-                          <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
-                              <p>{{ qna.ans }}</p>
-                          </p-accordionTab>
-                      </p>
-                  </p-accordion>
-              </div>
-              <div id="quick" #quick></div>
-              <div class="col-12" *ngIf="item.type == 'table'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
-                      <thead>
-                          <tr>
-                              <th *ngFor="let TableItems of item.col">
-                                  {{ TableItems }}
-                              </th>
-                          </tr>
-                      </thead>
-                      <tbody>
-                          <tr *ngFor="let Tableitem of item.row">
-                              <td *ngFor="let TableItems of item.col">
-                                  <p [innerHTML]="Tableitem[TableItems]"></p>
-                              </td>
-                          </tr>
-                      </tbody>
-                  </table>
-                  <p [innerHTML]="item.heading"></p>
-                </div>
-
-                <div class="col-12" *ngIf="item.type == 'table-title'">
-                  <h2  class="size" [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <div class="row" *ngIf="item.colTitle">
-                    <div class="col-lg-12">
-                      <div class="text-center light-bg-blue">
-                        <h6 class="white-text py-2 mb-0">
-                          {{ item.colTitle }}
-                        </h6>
-                      </div>
-                    </div>
-                  </div>
-                  <table
-                    class="table text-center table-hover table-responsive w-100 d-md-table"
-                    id="quick-table" 
-                  >
-                    <thead>
+                    <table *ngFor="let data of CoursesFees; let i = index"
+                      class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <h2 [innerHTML]="CoursesFees[i][0]?.cCourse" style="display: flex"></h2>
                       <tr>
-                        <th *ngFor="let TableItems of item.col">
-                          {{ TableItems }}
-                        </th>
+                        <th>Course Name</th>
+                        <th>Duration</th>
+                        <th>Annual Fees</th>
+                        <th>Program Type</th>
+                        <th>Seat Intake</th>
+                        <th>Action</th>
                       </tr>
-                    </thead>
-                    <tbody>
-                      <tr *ngFor="let Tableitem of item.row">
-                        <td *ngFor="let Tableitems of Tableitem">
-                          <p [innerHTML]="Tableitems"></p>
+                      <tr *ngFor="let item of data">
+                        <td>{{ item.cSpecialzation }}</td>
+                        <td>{{ item.cDuration }}</td>
+                        <td>{{ item.cFees }}</td>
+                        <td>{{ item.cCourse }}</td>
+                        <td>{{ item.cProgrammeType }}</td>
+                        <td>
+                          <button class="btn btn-orange white-text-2 btn-lg">
+                            Apply Now
+                          </button>
                         </td>
                       </tr>
-                    </tbody>
-                  </table>
-                  <p [innerHTML]="item.heading"></p>
+                    </table>
+                  </div>
+                </div>
               </div>
 
-              <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <ul class="cust-padding">
-                      <li *ngFor="let Listitem of item.data">
-                          <p [innerHTML]="Listitem"></p>
-                      </li>
-                  </ul>
-              </div>
+              <div *ngIf="isActive('syllabus')">
+                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.syllabus">
+                  <!-- {{item.title}} -->
 
-              <div class="col-12" *ngIf="item.type == 'number-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
+                  <div id="quick" #quick></div>
 
-                  <ol style="margin-bottom: 0px" type="1">
-                      <li *ngFor="let numbetList of item.data">
-                          <p [innerHTML]="numbetList"></p>
-                      </li>
-                  </ol>
-              </div>
-
-              <div class="col-12" *ngIf="item.type == 'step-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-
-                  <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
-                      <a>{{ numbetList }}</a>
-                  </ol>
-              </div>
-              <div class="col-12" *ngIf="item.type == 'img'">
-                  <img [src]="item.data" alt="" class="review-img custome-img" />
-              </div>
-          </div>
-      </div>
-
-      <div *ngIf="isActive('cut-off')">
-          <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.cutoff">
-              <!-- {{item.title}} -->
-              <div class="col-12" *ngIf="item.type == 'text'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                  <div *ngIf="item.type == 'api-table' && item.useOf == 'Event'">
+                    <h2 [innerHTML]="item.title"></h2>
                     <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                      <p [innerHTML]="item.data"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of eventaddmission">
+                          <td *ngFor="let TableItems of item.col">
+                            {{ Tableitem[TableItems] }}
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
                   </div>
 
-                  <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                  <div *ngIf="item.type == 'api-table' && item.useOf == 'Course'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of courseaddmission">
+                          <td *ngFor="let TableItems of item.col">
+                            {{ Tableitem[TableItems] }}
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                      <p [innerHTML]="item.data"></p>
+                    </div>
+
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
                   <div
                     class="row text-center p-relative"
                     *ngIf="item.seeMoreBtn"
@@ -675,128 +466,126 @@
                       {{ isReadMore ? "See More" : "See Less" }}
                     </button>
                   </div>-->
-              </div>
+                  </div>
 
-              <div class="row row-without-gutter" *ngIf="item.type === 'faq-list'">
-                  <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus" collapseIcon="pi pi-minus">
+                  <div class="row row-without-gutter" *ngIf="item.type === 'faq-list'">
+                    <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus"
+                      collapseIcon="pi pi-minus">
                       <div class="col-lg-12 text-center">
-                          <h2 class="light-blue-text">{{ item.title }}</h2>
+                        <h2 class="light-blue-text">{{ item.title }}</h2>
                       </div>
                       <p *ngFor="let qna of item.data">
-                          <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
-                              <p>{{ qna.ans }}</p>
-                          </p-accordionTab>
+                        <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
+                          <p>{{ qna.ans }}</p>
+                        </p-accordionTab>
                       </p>
-                  </p-accordion>
-              </div>
-              <div id="quick" #quick></div>
-              <div class="col-12" *ngIf="item.type == 'table'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                    </p-accordion>
+                  </div>
+                  <div id="quick" #quick></div>
+                  <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
-                          <tr>
-                              <th *ngFor="let TableItems of item.col">
-                                  {{ TableItems }}
-                              </th>
-                          </tr>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
                       </thead>
                       <tbody>
-                          <tr *ngFor="let Tableitem of item.row">
-                              <td *ngFor="let TableItems of item.col">
-                                  <p [innerHTML]="Tableitem[TableItems]"></p>
-                              </td>
-                          </tr>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let TableItems of item.col">
+                            <p [innerHTML]="Tableitem[TableItems]"></p>
+                          </td>
+                        </tr>
                       </tbody>
-                  </table>
-              </div>
-              <div class="col-12" *ngIf="item.type == 'table-title'">
-                <h2  class="size" [innerHTML]="item.title"></h2>
-                <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                <p [innerHTML]="item.textBelowInfo"></p>
-                <div class="row" *ngIf="item.colTitle">
-                  <div class="col-lg-12">
-                    <div class="text-center light-bg-blue">
-                      <h6 class="white-text py-2 mb-0">
-                        {{ item.colTitle }}
-                      </h6>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
+                      </div>
                     </div>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            <p [innerHTML]="Tableitems"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
+                      <li *ngFor="let Listitem of item.data">
+                        <p [innerHTML]="Listitem"></p>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1">
+                      <li *ngFor="let numbetList of item.data">
+                        <p [innerHTML]="numbetList"></p>
+                      </li>
+                    </ol>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
+                      <a>{{ numbetList }}</a>
+                    </ol>
+                  </div>
+                  <div class="col-12" *ngIf="item.type == 'img'">
+                    <img [src]="item.data" alt="" class="review-img custome-img" />
                   </div>
                 </div>
-                <table
-                  class="table text-center table-hover table-responsive w-100 d-md-table"
-                  id="quick-table" 
-                >
-                  <thead>
-                    <tr>
-                      <th *ngFor="let TableItems of item.col">
-                        {{ TableItems }}
-                      </th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr *ngFor="let Tableitem of item.row">
-                      <td *ngFor="let Tableitems of Tableitem">
-                        <p [innerHTML]="Tableitems"></p>
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
-                <p [innerHTML]="item.heading"></p>
               </div>
 
-
-              <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <ul class="cust-padding">
-                      <li *ngFor="let Listitem of item.data">
-                          <p [innerHTML]="Listitem"></p>
-                      </li>
-                  </ul>
-              </div>
-
-              <div class="col-12" *ngIf="item.type == 'number-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-
-                  <ol style="margin-bottom: 0px" type="1">
-                      <li *ngFor="let numbetList of item.data">
-                          <p [innerHTML]="numbetList"></p>
-                      </li>
-                  </ol>
-              </div>
-
-              <div class="col-12" *ngIf="item.type == 'step-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-
-                  <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
-                      <a>{{ numbetList }}</a>
-                  </ol>
-              </div>
-              <div *ngIf="item.type == 'img'">
-                  <img [src]="item.data" alt="" class="review-img custome-img" />
-              </div>
-          </div>
-      </div>
-
-
-      <div *ngIf="isActive('faq')">
-          <div id="faq" class="row row-without-gutter relative-row" *ngFor="let item of collegeData.faq">
-              <!-- {{item.type}} -->
-              <div *ngIf="item.type == 'text'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
-                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+              <div *ngIf="isActive('cut-off')">
+                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.cutoff">
+                  <!-- {{item.title}} -->
+                  <div class="col-12" *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
-                  </div>
+                    </div>
 
-                  <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
                   <div
                     class="row text-center p-relative"
                     *ngIf="item.seeMoreBtn"
@@ -809,133 +598,383 @@
                       {{ isReadMore ? "See More" : "See Less" }}
                     </button>
                   </div>-->
-              </div>
-              <div class="row row-without-gutter" *ngIf="item.type === 'question-list'">
-                  <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus" collapseIcon="pi pi-minus">
+                  </div>
+
+                  <div class="row row-without-gutter" *ngIf="item.type === 'faq-list'">
+                    <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus"
+                      collapseIcon="pi pi-minus">
                       <div class="col-lg-12 text-center">
-                          <h2 class="light-blue-text">{{ item.title }}</h2>
+                        <h2 class="light-blue-text">{{ item.title }}</h2>
                       </div>
                       <p *ngFor="let qna of item.data">
-                          <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
-                              <p>{{ qna.ans }}</p>
-                          </p-accordionTab>
+                        <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
+                          <p>{{ qna.ans }}</p>
+                        </p-accordionTab>
                       </p>
-                  </p-accordion>
-              </div>
-              <div id="quick" #quick></div>
-              <div class="col-12" *ngIf="item.type == 'table'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                    </p-accordion>
+                  </div>
+                  <div id="quick" #quick></div>
+                  <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                       <thead>
-                          <tr>
-                              <th *ngFor="let TableItems of item.col">
-                                  {{ TableItems }}
-                              </th>
-                          </tr>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
                       </thead>
                       <tbody>
-                          <tr *ngFor="let Tableitem of item.row">
-                              <td *ngFor="let TableItems of item.col">
-                                  <p [innerHTML]="Tableitem[TableItems]"></p>
-                              </td>
-                          </tr>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let TableItems of item.col">
+                            <p [innerHTML]="Tableitem[TableItems]"></p>
+                          </td>
+                        </tr>
                       </tbody>
-                  </table>
-                  <p [innerHTML]="item.heading"></p>
-                </div>
-                <div class="col-12" *ngIf="item.type == 'table-title'">
-                  <h2 class="size" [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <div class="row" *ngIf="item.colTitle">
-                    <div class="col-lg-12">
-                      <div class="text-center light-bg-blue">
-                        <h6 class="white-text py-2 mb-0">
-                          {{ item.colTitle }}
-                        </h6>
+                    </table>
+                  </div>
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
                       </div>
                     </div>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            <p [innerHTML]="Tableitems"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
                   </div>
-                  <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
-                    <thead>
-                      <tr>
-                        <th *ngFor="let TableItems of item.col">
-                          {{ TableItems }}
-                        </th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      <tr *ngFor="let Tableitem of item.row">
-                        <td *ngFor="let Tableitems of Tableitem">
-                          {{ Tableitems }}
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                  <p [innerHTML]="item.heading"></p>
-              </div>
 
-              <div class="col-12" *ngIf="item.type == 'list-bollet'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
-                  <ul class="cust-padding">
+
+                  <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data">
-                          <p [innerHTML]="Listitem"></p>
+                        <p [innerHTML]="Listitem"></p>
                       </li>
-                  </ul>
-                  <p [innerHTML]="item.heading"></p>
-              </div>
+                    </ul>
+                  </div>
 
-              <div class="col-12" *ngIf="item.type == 'number-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
+                  <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
 
-                  <ol style="margin-bottom: 0px" type="1">
+                    <ol style="margin-bottom: 0px" type="1">
                       <li *ngFor="let numbetList of item.data">
-                          <p [innerHTML]="numbetList"></p>
+                        <p [innerHTML]="numbetList"></p>
                       </li>
-                  </ol>
-                  <p [innerHTML]="item.heading"></p>
+                    </ol>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
+                      <a>{{ numbetList }}</a>
+                    </ol>
+                  </div>
+                  <div *ngIf="item.type == 'img'">
+                    <img [src]="item.data" alt="" class="review-img custome-img" />
+                  </div>
+                </div>
               </div>
 
-              <div class="col-12" *ngIf="item.type == 'step-list'">
-                  <h2 [innerHTML]="item.title"></h2>
-                  <p style="font-weight:bold;" [innerHTML]="item.info"></p>
-                  <p [innerHTML]="item.textBelowInfo"></p>
 
-                  <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
-                      <a><p [innerHTML]="numbetList"></p></a>
-                  </ol>
-                  <p [innerHTML]="item.heading"></p>
+              <div *ngIf="isActive('faq')">
+                <div id="faq" class="row row-without-gutter relative-row" *ngFor="let item of collegeData.faq">
+                  <!-- {{item.type}} -->
+                  <div *ngIf="item.type == 'text'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                      <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                      <p [innerHTML]="item.data"></p>
+                    </div>
+
+                    <!--<div class="shade" *ngIf="isShade && item.seeMoreBtn"></div>
+                  <div
+                    class="row text-center p-relative"
+                    *ngIf="item.seeMoreBtn"
+                  >
+                    <button
+                      type="button"
+                      (click)="showText()"
+                      class="read-more-btn btn"
+                    >
+                      {{ isReadMore ? "See More" : "See Less" }}
+                    </button>
+                  </div>-->
+                  </div>
+                  <div class="row row-without-gutter" *ngIf="item.type === 'question-list'">
+                    <p-accordion [multiple]="false" id="faq-collapse" expandIcon="pi pi-plus"
+                      collapseIcon="pi pi-minus">
+                      <div class="col-lg-12 text-center">
+                        <h2 class="light-blue-text">{{ item.title }}</h2>
+                      </div>
+                      <p *ngFor="let qna of item.data">
+                        <p-accordionTab header="{{ qna.ques }}" [selected]="false" class="accordionTab">
+                          <p>{{ qna.ans }}</p>
+                        </p-accordionTab>
+                      </p>
+                    </p-accordion>
+                  </div>
+                  <div id="quick" #quick></div>
+                  <div class="col-12" *ngIf="item.type == 'table'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let TableItems of item.col">
+                            <p [innerHTML]="Tableitem[TableItems]"></p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+                  <div class="col-12" *ngIf="item.type == 'table-title'">
+                    <h2 class="size" [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <div class="row" *ngIf="item.colTitle">
+                      <div class="col-lg-12">
+                        <div class="text-center light-bg-blue">
+                          <h6 class="white-text py-2 mb-0">
+                            {{ item.colTitle }}
+                          </h6>
+                        </div>
+                      </div>
+                    </div>
+                    <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
+                      <thead>
+                        <tr>
+                          <th *ngFor="let TableItems of item.col">
+                            {{ TableItems }}
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let Tableitem of item.row">
+                          <td *ngFor="let Tableitems of Tableitem">
+                            {{ Tableitems }}
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+                    <ul class="cust-padding">
+                      <li *ngFor="let Listitem of item.data">
+                        <p [innerHTML]="Listitem"></p>
+                      </li>
+                    </ul>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'number-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1">
+                      <li *ngFor="let numbetList of item.data">
+                        <p [innerHTML]="numbetList"></p>
+                      </li>
+                    </ol>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+
+                  <div class="col-12" *ngIf="item.type == 'step-list'">
+                    <h2 [innerHTML]="item.title"></h2>
+                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p [innerHTML]="item.textBelowInfo"></p>
+
+                    <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
+                      <a>
+                        <p [innerHTML]="numbetList"></p>
+                      </a>
+                    </ol>
+                    <p [innerHTML]="item.heading"></p>
+                  </div>
+                  <div class="col-12" *ngIf="item.type == 'img'">
+                    <img [src]="item.data" alt="" class="review-img custome-img" />
+                  </div>
+                </div>
               </div>
-              <div class="col-12" *ngIf="item.type == 'img'">
-                  <img [src]="item.data" alt="" class="review-img custome-img" />
-              </div>
+            </div>
           </div>
-      </div>
-  </div>
-  </div>
-  </div>
-  <div class="col-lg-3 col-12">
-      <!-- comment line is use to make this section sticky -->
-      <!-- <div class="row row-without-gutter "  #stickyDiv  [class.stickyDiv] = "stickyDiv"> -->
-      <div id="talk" class="row row-without-gutter" #stickyDiv [class.stickyDiv]="stickyDiv">
-          <div class="card talk-to-expert text-center">
+        </div>
+        <div class="col-lg-3 col-12">
+          <!-- comment line is use to make this section sticky -->
+          <!-- <div class="row row-without-gutter "  #stickyDiv  [class.stickyDiv] = "stickyDiv"> -->
+          <div id="talk" class="row row-without-gutter">
+            <div class="card talk-to-expert text-center">
               <div class="card-body">
-                  <img src="../../assets/img/Course_Content_Icons/4.Talk to expert/talk-to-expert.png" alt="" width="30" />
-                  <h6>Are you Interested in this Course</h6>
-                  <a href="tel:180030700033"><button class="btn btn-orange white-text-2 btn-lg">
-                Talk to Expert
-              </button></a>
+                <img src="../../assets/img/Course_Content_Icons/4.Talk to expert/talk-to-expert.png" alt=""
+                  width="30" />
+                <h6>Are you Interested in this Course</h6>
+                <a href="tel:180030700033"><button class="btn btn-orange white-text-2 btn-lg">
+                    Talk to Expert
+                  </button></a>
               </div>
+            </div>
           </div>
-      </div>
+            <!--form starts here-->
+            <div #stickyDiv [class.stickyDiv]="stickyDiv">
+            <div class="form2 col-12">
 
-      <!-- <div class="row row-without-gutter">
+              <div class="container">
+                <!-- Left Card -->
+                <div class="row" id="row">
+
+
+                  <!-- Right Card Form 1-->
+                  <div class="col-lg-12 col-md-12" *ngIf="form5 === true">
+                    <div class="card form-card2">
+                      <h5 class="form-head2 text-center">Register Now To Apply</h5>
+                     
+                      <form [formGroup]="RegistrationForm1">
+                        <div class="form-div2">
+                          <div class="row">
+                            <div class="form-group col-lg-12 col-md-12 col-sm-6">
+                              <div class="input-group">
+                                <div class="input-group-text bg-transparent icon2">
+                                  <i class="fa fa-user"></i>
+                                </div>
+                                <input class="form-control py-2 border-right-0 border form-input2" type="text"
+                                  placeholder="Full Name*" id="name" formControlName="cCandidateName" />
+                              </div>
+                              <div *ngIf="m2['cCandidateName'].touched && m2['cCandidateName'].invalid"
+                                class="validation2">
+                                <div *ngIf="m2['cCandidateName'].errors['required']">Please Enter Full Name</div>
+                              </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-6">
+                              <div class="input-group">
+                                <div class="input-group-text bg-transparent icon2">
+                                  <i class="fa fa-envelope"></i>
+                                </div>
+                                <input class="form-control py-2 border-right-0 border form-input2" type="text"
+                                  placeholder="Email Address*" id="email" formControlName="cEmail" />
+                              </div>
+                              <div *ngIf="m2['cEmail'].touched && m2['cEmail'].invalid" class="validation2">
+                                <div *ngIf="m2['cEmail'].errors['required']">Please enter email address</div>
+                                <div *ngIf="m2['cEmail'].errors['pattern']">Please enter valid email address</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="form-div2">
+                          <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-6" id="phone">
+                              <div class="input-group">
+                                <div class="input-group-text bg-transparent icon2">
+                                  <i class="fa fa-phone flip2"></i>
+                                </div>
+                                <input class="form-control py-2 border-right-0 border form-input2" type="number"
+                                  step="0.01" placeholder="Mobile Number*" id="number" formControlName="cMobile" />
+                              </div>
+                              <div *ngIf="m2['cMobile'].touched && m2['cMobile'].invalid" class="validation2">
+                                <div *ngIf="m2['cMobile'].errors['required']">Please enter mobile number</div>
+                                <div *ngIf="m2['cMobile'].errors['pattern']">Mobile number is not 10 digit</div>
+                              </div>
+                            </div>
+
+                          </div>
+                        </div>
+                        <div class="form-div2">
+                          <div class="row">
+
+
+                            <div class="terms2">
+                              <p>
+                                By submitting this form, you accept and agree to our<span style="color: cornflowerblue">
+                                  Terms of use
+                                </span>
+                              </p>
+                            </div>
+                            <div class="row">
+                              <!-- <div class="col-lg-10 col-md-10 col-sm-10 login-block">
+                              Already Registered? Click Here To Login.
+                            </div> -->
+                              <div class="col-lg-2 col-md-2 col-sm-2">
+                                <button type="button" class="btn submit2" [disabled]="!RegistrationForm1.valid"
+                                  (click)="submitFormS()">
+                                  SUBMIT
+                                </button>
+
+                              </div>
+
+                            </div>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+
+                  <div class="col-12 vh-50 d-flex justify-content-center align-items-center" *ngIf="form6 === true"
+                    id="thankyouform2">
+                    <div>
+                      <div class="mb-4 text-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75"
+                          fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                          <path
+                            d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
+                        </svg>
+                      </div>
+                      <div class="text-center">
+                        <h1>Thank You !</h1>
+                        <p>Your submission has bees sent. </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- <div class="row row-without-gutter">
           <div class="card other-courses">
               <div class="card-header text-center">
                   <h5>{{studuentAlsoVisit?studuentAlsoVisit[0]['Right Side Subject']:""}}</h5>
@@ -955,7 +994,7 @@
               </div>
           </div>
       </div> -->
-      <!-- <div class="row row-without-gutter">
+        <!-- <div class="row row-without-gutter">
           <div class="card other-courses">
               <div class="card-header text-center">
                   <h5>Students also Visited1</h5>
@@ -975,7 +1014,7 @@
               </div>
           </div>
       </div> -->
-      <!-- <div class="row row-without-gutter">
+        <!-- <div class="row row-without-gutter">
           <div class="card other-courses">
               <div class="card-header text-center">
                   <h5>Students also Visited2</h5>
@@ -995,10 +1034,8 @@
               </div>
           </div>
       </div> -->
-
-  </div>
-  </div>
-  </div>
+      </div>
+    </div>
   </div>
 </section>
 <app-chat></app-chat>

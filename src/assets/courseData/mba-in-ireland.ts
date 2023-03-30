@@ -418,7 +418,7 @@ export const mbainireland = {
         {
             "type": "table-title",
             "title": "All Subjects of a MBA Course in Ireland",
-            "info": "<b>Below mentioned are the ‘MBA (Master of Business Administration) subjects:</b>",
+            "info": "Below mentioned are the ‘MBA (Master of Business Administration) subjects:",
             "row": [
                 ["Managerial economics", "Marketing management"],
                 ["Operations management", "Organizational behaviour"],

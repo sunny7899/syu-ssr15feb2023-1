@@ -7,7 +7,7 @@ import { HeaderInnerModule } from '../header-inner/header-inner.module';
 import { FooterModule } from '../footer/footer.module';
 import { ChatModule } from '../chat/chat.module';
 import { AccordionModule } from 'primeng/accordion';
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [DisclaimerComponent],
@@ -17,7 +17,8 @@ import { AccordionModule } from 'primeng/accordion';
     DisclaimerRoutingModule,
     HeaderInnerModule,
     FooterModule,
-    AccordionModule
+    AccordionModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class DisclaimerModule { }

@@ -9,6 +9,7 @@ import { TabViewModule } from 'primeng/tabview';
 import { AccordionModule } from 'primeng/accordion';
 import { NgbCollapseModule } from '@ng-bootstrap/ng-bootstrap';
 import { ChatModule } from '../chat/chat.module';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [ExamContentComponent],
@@ -21,6 +22,7 @@ import { ChatModule } from '../chat/chat.module';
     TabViewModule,
     AccordionModule,
     NgbCollapseModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class ExamContentModule { }

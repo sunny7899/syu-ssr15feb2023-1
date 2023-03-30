@@ -86,7 +86,7 @@ export const mbbsinireland = {
         {
             type: 'step-list',
             title: '',
-            info: '<b>We have already seen the eligibility criteria above, now we will look at the further procedure:</b>',
+            info: 'We have already seen the eligibility criteria above, now we will look at the further procedure:',
             //img: '',
             data: [
                 "<p><b>Step 1:</b> In Ireland, there is a centralized online enrollment system, known as Central Applications Office (CAO) through which students need to apply to undergraduate courses.</p>",
@@ -146,7 +146,7 @@ export const mbbsinireland = {
         {
             "type": "list-bollet",
             "title": "Required Documents for Students Visa to Ireland",
-            "info": "<b>The following documents are required for a study visa:</b>",
+            "info": "The following documents are required for a study visa:",
             //"img": 'https://www.selectyouruniversity.com/images/document-required-mbbs-admission-in-ireland.jpg',
             "data": [
                 "A latest passport size photograph",

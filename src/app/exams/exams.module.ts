@@ -7,7 +7,7 @@ import { ExamsComponent } from './exams.component';
 import { FooterModule } from '../footer/footer.module';
 import { ChatModule } from '../chat/chat.module';
 import {ScrollPanelModule} from 'primeng/scrollpanel';
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 
 @NgModule({
@@ -18,7 +18,8 @@ import {ScrollPanelModule} from 'primeng/scrollpanel';
     // HeaderModule,
     FooterModule,
     ChatModule,
-    ScrollPanelModule
+    ScrollPanelModule,
+    FormsModule, ReactiveFormsModule
   ],
   exports:[ExamsComponent]
 })

@@ -20,6 +20,11 @@
     margin-left: 5%;
 }
 
+#course{
+    padding-left: 2%;
+    cursor: pointer;
+  }
+
 .college-content {
     background-color: #d7d4d4;
     padding-bottom: 10px;
@@ -1241,7 +1246,7 @@ svg {
     }
 
     .talk-to-expert {
-        margin: 0 0 15px;
+        margin: 0 15px;
     }
 
     .other-courses {
@@ -2392,3 +2397,430 @@ input[type=number]::-webkit-inner-spin-button {
 input[type=number] {
     -moz-appearance: textfield;
 }
+
+//form css starts here
+.form2 {
+    background-color: #d7d4d4;
+    padding-bottom: 10px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  .form-input2 {
+    font-size: 12px;
+  }
+  
+  
+  #thankyouform2 {
+    margin-left: 0%;
+    margin-right: -55%;
+    padding: 50px;
+    margin-top: 1.5%;
+    --border-size: 3px;
+    --border-angle: 0turn;
+  
+    background-image: conic-gradient(from var(--border-angle),
+        rgb(238, 233, 243),
+        rgb(232, 232, 240) 50%,
+        rgb(243, 241, 245)),
+      conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
+      cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  
+    animation: bg-spin 3s linear infinite;
+  
+    @keyframes bg-spin {
+      to {
+        --border-angle: 1turn;
+      }
+    }
+  
+    &:hover {
+      animation-play-state: paused;
+    }
+  }
+  
+  @property --border-angle {
+    syntax: "<angle>";
+    inherits: true;
+    initial-value: 0turn;
+  
+  }
+  
+  svg {
+    color: green;
+  }
+  
+  .form-card2 {
+    padding: 27px;
+    line-height: 97%;
+    margin-left: -5%;
+    margin-right: -5%;
+
+    background-color: white;
+    padding: 20px;
+    line-height: 97%;
+    margin-top: 1.5%;
+    --border-size: 3px;
+    --border-angle: 0turn;
+  
+    background-image: conic-gradient(from var(--border-angle),
+        rgb(238, 233, 243),
+        rgb(232, 232, 240) 50%,
+        rgb(243, 241, 245)),
+      conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
+      cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+  
+    animation: bg-spin 3s linear infinite;
+  
+    @keyframes bg-spin {
+      to {
+        --border-angle: 1turn;
+      }
+    }
+  
+    &:hover {
+      animation-play-state: paused;
+    }
+  }
+  
+  @property --border-angle {
+    syntax: "<angle>";
+    inherits: true;
+    initial-value: 0turn;
+  }
+  
+  .form-head2 {
+    color: #0b4292;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+  }
+  
+  .sub-title2 {
+    font-weight: 400;
+  }
+  
+  .form-div2 {
+    margin-top: 15px;
+  }
+  
+  .form-input2 {
+    border-left: none !important;
+    border-right: 1px solid #8c8d91 !important;
+    border-top: 1px solid #8c8d91 !important;
+    border-bottom: 1px solid #8c8d91 !important;
+    border-radius: 0% !important;
+  }
+  
+  input.form-control:focus {
+    box-shadow: inset 0 -1px 0 #ddd;
+  }
+  
+  .icon2 {
+    border-right: none !important;
+    border-top: 1px solid #8c8d91 !important;
+    border-left: 1px solid #8c8d91 !important;
+    border-bottom: 1px solid #8c8d91 !important;
+    border-radius: 0% !important;
+  }
+  
+  .terms2 {
+    font-size: 10px;
+    margin-top: 10px;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .submit2 {
+    //margin-top: 40px;
+    background: #ffae47;
+    color: white;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .submit2:hover {
+    //margin-top: -5px;
+    background: #ffae47;
+    color: white;
+    font-weight: bold;
+  }
+  .img-size {
+    height: 50px;
+    width: 45px;
+  }
+ 
+  
+  .validation2 {
+    color: red;
+    font-size: 10px;
+  }
+  
+  @media all and (max-width: 600px) {
+    .submit2 {
+      margin-top: 9px;
+    }
+  
+    #thankyouform2 {
+        align-items: center;
+        margin-left: 0%;
+      }
+    
+      .form2 {
+        margin-top: 0%;
+      }
+    
+    
+    
+    
+  
+  }
+  
+  @media all and (min-width: 700px) and (max-width: 992px) {
+    .submit2 {
+      font-size: 10px;
+    }
+  }
+  
+  .form2 {
+    background-color: #d7d4d4;
+    padding-bottom: 10px;
+  }
+
+  .form-input {
+    font-size: 12px;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
+  .flip2 {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+//   .form-card {
+//     background-color: white;
+//     padding: 20px;
+//     line-height: 97%;
+//     margin-left: -36%;
+//     margin-right: -76%;
+//     // padding: 27px;
+//     // line-height: 97%;
+//     // margin-left: -56px;
+//     // margin-right: -109px;
+//   }
+  
+  .form-head2 {
+    color: #0b4292;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+  }
+  
+  
+  
+  .form-div2 {
+    margin-top: 8px;
+  }
+  
+  
+  input.form-control:focus {
+    box-shadow: inset 0 -1px 0 #ddd;
+  }
+  
+  .icon2 {
+    border-right: none !important;
+    border-top: 1px solid 8c8d91 !important;
+    border-left: 1px solid 8c8d91 !important;
+    border-bottom: 1px solid 8c8d91 !important;
+    border-radius: 0% !important;
+  }
+  
+ 
+  
+  .submit2 {
+    //margin-top: 40px;
+    background: #ffae47;
+    color: white;
+    // font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  .submit2:hover {
+    //margin-top: -5px;
+    background: #ffae47;
+    color: white;
+    // font-weight: bold;
+  }
+  
+  
+  @media all and (max-width: 600px) {
+    .submit2 {
+      margin-top: 9px;
+    }
+    .form-card2{
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+  }
+  
+  @media all and (min-width: 700px) and (max-width: 992px) {
+    .submit2 {
+      font-size: 10px;
+    }
+  }
+  
+  .form2 {
+    background-color: #d7d4d4;
+    padding-bottom: 10px;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
+  .flip2 {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+  
+  
+//   .form-card {
+//     background-color: white;
+//     padding: 20px;
+//     line-height: 97%;
+//     margin-left: -36%;
+//     margin-right: -76%;
+//     // padding: 27px;
+//     // line-height: 97%;
+//     // margin-left: -56px;
+//     // margin-right: -109px;
+//   }
+  
+  .form-head2 {
+    color: #0b4292;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+  }
+  
+  
+  
+  .form-div2 {
+    margin-top: 15px;
+  }
+  
+ 
+  .form-input2 {
+    border-left: none !important;
+    border-right: 1px solid #8c8d91 !important;
+    border-top: 1px solid #8c8d91 !important;
+    border-bottom: 1px solid #8c8d91 !important;
+    border-radius: 0% !important;
+    height: 30px;
+  }
+  
+  input.form-control:focus {
+    box-shadow: inset 0 -1px 0 #ddd;
+  }
+  
+  .icon2 {
+    border-right: none !important;
+    border-top: 1px solid #8c8d91 !important;
+    border-left: 1px solid #8c8d91 !important;
+    border-bottom: 1px solid #8c8d91 !important;
+    border-radius: 0% !important;
+  }
+  
+ 
+  
+  .submit2 {
+    //margin-top: 40px;
+    background: #ffae47;
+    color: white;
+    // font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  
+  
+  .submit2:hover {
+    //margin-top: -5px;
+    background: #ffae47;
+    color: white;
+    // font-weight: bold;
+  }
+  
+  
+  .validation2 {
+    color: red;
+    font-size: 10px;
+  }
+  
+  @media all and (max-width: 600px) {
+    .submit2 {
+      margin-top: 9px;
+    }
+  
+    .col-lg-8{
+      margin-left: 0%;
+    }
+    
+  
+//    #row{
+//     margin-left: 10px;
+//     margin-right: 10px;
+//    }
+  
+    #phone {
+      margin-bottom: 15px;
+    }
+  
+  
+    .modal-title {
+      display: none;
+    }
+  
+    .sub-title {
+      font-size: 10px;
+    }
+  
+  }
+  @media all and (max-width: 768px) {
+    .col-lg-8{
+      margin-left: 0%;
+    }
+  }
+  
+  @media all and (min-width: 700px) and (max-width: 992px) {
+    .submit2 {
+      font-size: 10px;
+    }
+  }
+  
+  input[type=number]::-webkit-outer-spin-button,
+  input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  
+  input[type=number] {
+    -moz-appearance: textfield;
+  }
+  

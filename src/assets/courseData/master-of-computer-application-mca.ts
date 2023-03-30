@@ -23,7 +23,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "table-title",
             "title": "MCA in India: Quick Highlights",
-            "info": "<b>Following are the quick highlights of the MCA course in India:</b>",
+            "info": "Following are the quick highlights of the MCA course in India:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "list-bollet",
             "title": "Why Choose MCA Course in India?",
-            "info": "<b>Following are the top benefits of studying MCA in India:</b>",
+            "info": "Following are the top benefits of studying MCA in India:",
             "img": '',
             "data": [
                 "Indian university offers a world-recognized MCA degree for graduate students.",
@@ -55,7 +55,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following is the eligibility criteria required applying for MCA course in India:</b>",
+            "info": "Following is the eligibility criteria required applying for MCA course in India:",
             "img": '',
             "data": [
                 "Any graduate can apply for the MCA course in India.",
@@ -68,7 +68,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "list-bollet",
             "title": "MCA in India: Admission Procedure",
-            "info": "<b>Follow the admission procedure for MCA course in India:</b>",
+            "info": "Follow the admission procedure for MCA course in India:",
             "img": '',
             "data": [
                 "Admissions to Master of Computer Applications (MCA) course is completely on merit basis and through entrance examinations.",
@@ -84,7 +84,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Refer the document checklists applying for MCA course in India:</b>",
+            "info": "Refer the document checklists applying for MCA course in India:",
             "img": '',
             "data": [
                 "10+2 mark sheets",
@@ -102,7 +102,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "list-bollet",
             "title": "Entrance Exam Required for Applying for MCA in India",
-            "info": "<b>Following are the entrance exams required to clear before applying for MCA course in India:</b>",
+            "info": "Following are the entrance exams required to clear before applying for MCA course in India:",
             "img": '',
             "data": [
                 "National Institute of Technology Common Entrance Test",
@@ -146,7 +146,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "table",
             "title": "Top MCA Colleges in India: Fees Structure (2022-23)",
-            "info": "<b>Following is the fee structure of top MCA colleges in India:</b>",
+            "info": "Following is the fee structure of top MCA colleges in India:",
             "col": [
                 "Name of the College",
                 "Tuition Fees Per Year"
@@ -220,7 +220,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "list-bollet",
             "title": "Duration of MCA Course in India",
-            "info": "<b>MCA Course in India lasts for a period of 3 years:</b>",
+            "info": "MCA Course in India lasts for a period of 3 years:",
             "data": [
                 "Master of Computer Applications is a master’s degree in computer science. The duration of the course is 3 years for full-time students and 2 years for part-time or the students who want to pursue distance education.",
                 "The graduates of any stream including engineering, science, arts & commerce are eligible to apply for the MCA course in India"
@@ -229,7 +229,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "list-bollet",
             "title": "MCA Course in India: Specializations",
-            "info": "<b>Following are the specializations in MCA course in India:</b>",
+            "info": "Following are the specializations in MCA course in India:",
             "data": [
                 "Application Software",
                 "System Management",
@@ -247,7 +247,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "table",
             "title": "MCA in India - Syllabus",
-            "info": "<b>Follow the MCA syllabus of universities in India:</b>",
+            "info": "Follow the MCA syllabus of universities in India:",
             "col": [
                 "Semester I",
                 "Semester II"
@@ -393,7 +393,7 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "list-bollet",
             "title": "Career Opportunities after MCA in India",
-            "info": "<p><b>MCA Program in India has successfully built a platform for IT professionals:</b><p>A number of top IT companies recruit MCA graduates with a high salary package. MCA graduates can opt the job opportunities in fields like IT software engineering, network engineering, and consultancy.</p></p><b>Following are the job positions offered to MCA graduates:</b>",
+            "info": "MCA Program in India has successfully built a platform for IT professionals:A number of top IT companies recruit MCA graduates with a high salary package. MCA graduates can opt the job opportunities in fields like IT software engineering, network engineering, and consultancy.</p></p><b>Following are the job positions offered to MCA graduates:",
             "data": [
                 "Software Developer",
                 "App Developer",
@@ -416,12 +416,12 @@ export const masterofcomputerapplicationmca = {
         {
             "type": "text",
             "title": "Salary of MCA Graduates in India",
-            "info": "<p><b>Following is the salary standard for MCA graduates in India:</b><p>The average salary of MCA graduates in India is around 3 to 4 lacs per year depending on the work profile of respective candidates. Salary may vary as per the experience in the respective field.</p></p>",
+            "info": "Following is the salary standard for MCA graduates in India: The average salary of MCA graduates in India is around 3 to 4 lacs per year depending on the work profile of respective candidates. Salary may vary as per the experience in the respective field.",
         },
         {
             "type": "list-bollet",
             "title": "Top Recruiters",
-            "info": "<b>The MCA graduates can work in private as well as government organizations:</b><p>Following are the top recruiters:</p>",
+            "info": "The MCA graduates can work in private as well as government organizations:</b><p>Following are the top recruiters:",
             "data": [
                 "BHEL",
                 "GAIL",

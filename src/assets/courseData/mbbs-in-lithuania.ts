@@ -20,7 +20,7 @@ export const mbbsinlithuania = {
         {
             "type": "table-title",
             "title": "MBBS in Lithuania: Quick Highlights",
-            "info": "<b>Following are the important overview of studying medicine in Lithuania:</b>",
+            "info": "Following are the important overview of studying medicine in Lithuania:",
             "row": [
                 ["<b>Degree Awarded</b>", "MBBS"],
                 ["<b>IELTS/TOEFL</b>", "Not Required"],
@@ -34,7 +34,7 @@ export const mbbsinlithuania = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS in Lithuania?',
-            info: '<b>Following are the top benefits of studying MBBS in Lithuania:</b>',
+            info: 'Following are the top benefits of studying MBBS in Lithuania:',
             data: [
                 "Lithuanian medical universities offer quality and high educational standards for medical students.",
                 "MBBS in Lithuania has low tuition fees and it is much affordable than any other country in the world.",
@@ -50,7 +50,7 @@ export const mbbsinlithuania = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria: Applying for MBBS in Lithuania',
-            info: '<b>Following is the admission criteria required for applying MBBS in Lithuania:</b>',
+            info: 'Following is the admission criteria required for applying MBBS in Lithuania:',
             data: [
                 "Applicants must have completed 10+2 level or equivalent education.",
                 "Applicants must have secured a minimum of 60% in Physics, Chemistry and Biology subjects.",
@@ -61,7 +61,7 @@ export const mbbsinlithuania = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Admissions to the MBBS course in Lithuania may start in the month of June. Subject choices and report acknowledgment take around 1 month to process:</b>',
+            info: 'Admissions to the MBBS course in Lithuania may start in the month of June. Subject choices and report acknowledgment take around 1 month to process:',
             data: [
                 "<b><u>Step 1</u>:</b> Firstly, select the program and send your applications until July.",
                 "<b><u>Step 2</u>:</b> The interviews are conducted and reports are generated as per the interviews. ",
@@ -76,7 +76,7 @@ export const mbbsinlithuania = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Amenities provided by the university are:</b>',
+            info: 'Amenities provided by the university are:',
             data: [
                 "Airport Pickup",
                 "Travel arrangements",
@@ -87,7 +87,7 @@ export const mbbsinlithuania = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: '<b>Following is the documents checklists required for applying MBBS in Lithuania:</b>',
+            info: 'Following is the documents checklists required for applying MBBS in Lithuania:',
             data: [
                 "Copy of mark sheets (10+2)",
                 "Statement of purpose (the mentioned clause should be your previous university has allowed you to study higher-level education)",
@@ -103,7 +103,7 @@ export const mbbsinlithuania = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Following is the cost of living in Lithuania:</b>",
+            "info": "Following is the cost of living in Lithuania:",
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -163,7 +163,7 @@ export const mbbsinlithuania = {
         {
             "type": "table",
             "title": "Top Medical Universities in Lithuania: Fee Structure 2022",
-            "info": "<b>Below is the fees structure of top medical universities in Lithuania:</b>",
+            "info": "Below is the fees structure of top medical universities in Lithuania:",
             "col": [
                 "Name of the universities",
                 "Annual Fees in INR",
@@ -211,7 +211,7 @@ export const mbbsinlithuania = {
         {
             "type": "tabel",
             "title": "MBBS Curriculum in Lithuania",
-            "info": "<b>Following is the MBBS syllabus of medical universities in Lithuania:</b>",
+            "info": "Following is the MBBS syllabus of medical universities in Lithuania:",
             "col": [
                 "First Year",
                 "Second Year"
@@ -332,7 +332,7 @@ export const mbbsinlithuania = {
         {
             "type": "list-bollet",
             "title": "Course Duration of MBBS in Lithuania",
-            "info": "<b>The MBBS course duration in Lithuania is 5 years. The details about the MBBS course durations are discussed below:</b>",
+            "info": "The MBBS course duration in Lithuania is 5 years. The details about the MBBS course durations are discussed below:",
             "data": [
                 "MBBS in Lithuania lasts for a duration of 5 years.",
                 "The courses taught in the English language.",
@@ -394,7 +394,7 @@ export const mbbsinlithuania = {
         {
             "type": "question-list",
             "title": "MBBS in Lithuania: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the course duration of studying medicine in Lithuania?",

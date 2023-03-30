@@ -5,7 +5,7 @@ export const puneinstituteofcomputertechnologypictpune = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "url": "pune-institute-of-computer-technology-pict-pune/.",
+    "url": "pune-institute-of-computer-technology-pict-pune",
     "info": [
         {
             "type": "title",

@@ -23,7 +23,7 @@ export const mbbsabroad = {
         {
             "type": "table-title",
             "title": "MBBS in Abroad 2022: Quick Highlights",
-            "info": "<b>Here is a brief overview on MBBS studies in foreign countries:</b>",
+            "info": "Here is a brief overview on MBBS studies in foreign countries:",
             "col": [
             ],
             "row": [
@@ -43,7 +43,7 @@ export const mbbsabroad = {
         {
             "type": "list-bollet",
             "title": "Some Benefits to take Admission to Study MBBS in Abroad",
-            "info": "<b>Studying MBBS abroad is a great opportunity for Indian students. There are a lot of advantages after choosing to complete your medical degree from foreign universities:</b>",
+            "info": "Studying MBBS abroad is a great opportunity for Indian students. There are a lot of advantages after choosing to complete your medical degree from foreign universities:",
             //"img": 'https://www.selectyouruniversity.com/images/benefits-of-mbbs-in-abroad.jpg',
             "data": [
                 "Students get to learn in the top medical colleges all over the world.",
@@ -67,7 +67,7 @@ export const mbbsabroad = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria to Study MBBS in Abroad",
-            "info": "<b>Indian students need to fit in the eligibility criteria set by the National Medical Commission and respective medical universities.</b>",
+            "info": "Indian students need to fit in the eligibility criteria set by the National Medical Commission and respective medical universities.",
             //"img": 'https://www.selectyouruniversity.com/images/eligibility-of-mbbs-in-abroad.jpg',
             "data": [
                 "The age of an Indian student willing to take admission to MBBS in Abroad should be at least of 17 years and maximum of 25 years old on or before the admission date or the 31st December of the admission year.",
@@ -92,7 +92,7 @@ export const mbbsabroad = {
         {
             "type": "list-bollet",
             "title": "Required Documents for NMC Eligibility Universities",
-            "info": "<b>Before taking admission to MBBS in any university of abroad, Indian students need to have these documents ready. Some countries also need these documents to be translated in their national languages. Ex. Ukraine, Poland.</b>",
+            "info": "Before taking admission to MBBS in any university of abroad, Indian students need to have these documents ready. Some countries also need these documents to be translated in their national languages. Ex. Ukraine, Poland.",
             //"img": 'https://www.selectyouruniversity.com/images/document-required-at-abroad.jpg',
             "data": [
                 "10th & 12th mark sheet",
@@ -113,7 +113,7 @@ export const mbbsabroad = {
         {
             "type": "list-bollet",
             "title": "Important Tips: Before Taking MBBS Admission in Abroad",
-            "info": "<b>Taking admission to MBBS degree is no less than a prestige. Therefore selecting a good medical university for the same is very much important. Keep these important points in mind before taking MBBS admission in Abroad:</b>",
+            "info": "Taking admission to MBBS degree is no less than a prestige. Therefore selecting a good medical university for the same is very much important. Keep these important points in mind before taking MBBS admission in Abroad:",
             "data": [
                 "Select the best overseas education consultant who guides you correctly for country and universities selection.",
                 "Never pay any kind of consultancy service charges in advance ( only pay fees for university application).",
@@ -394,7 +394,7 @@ export const mbbsabroad = {
         {
             "type": 'list-bollet',
             "title": 'Career Opportunities After MBBS in Abroad',
-            "info": '<p><b>MBBS in Abroad opens vast career opportunities for the students. Completing medical degree from foreign universities have a worldwide recognition:</b></p><p>Any student who completed medical degree from foreign universities can have a vast career opportunities. Students need to clear the screening tests of respective countries where they want to pursue their career.</p><p>Any student completing MBBS degree from abroad can :</p>',
+            "info": 'MBBS in Abroad opens vast career opportunities for the students. Completing medical degree from foreign universities have a worldwide recognition: Any student who completed medical degree from foreign universities can have a vast career opportunities. Students need to clear the screening tests of respective countries where they want to pursue their career. Any student completing MBBS degree from abroad can :',
             "data": [
                 "Practice medicine in India",
                 "Practice medicine in several other countries",

@@ -21,7 +21,7 @@ export const mbbsinnewzealand = {
         {
             "type": "table-title",
             "title": "MBBS in New Zealand: Quick Highlights",
-            "info": "<b>Following are the important highlights of studying medicine in New Zealand:</b>",
+            "info": "Following are the important highlights of studying medicine in New Zealand:",
             "col": [],
             "row": [
                 ["<b>Degree Awarded	</b>", "MBChB (MBBS)"],
@@ -37,7 +37,7 @@ export const mbbsinnewzealand = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS Course in New Zealand?",
-            "info": "<b>Following are the top benefits of studying MBBS in New Zealand:</b>",
+            "info": "Following are the top benefits of studying MBBS in New Zealand:",
             //"img": 'https://www.selectyouruniversity.com/images/benefits-of-mbbs-in-new-zealand.jpg',
             "data": [
                 "Medical universities in New Zealand have a well-structured curriculum & it is fully regulated by the Government of New Zealand.",
@@ -52,7 +52,7 @@ export const mbbsinnewzealand = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For Applying MBBS Course",
-            "info": "<b>Follow the below eligibility criteria for applying MBBS in New Zealand:</b>",
+            "info": "Follow the below eligibility criteria for applying MBBS in New Zealand:",
             //"img": 'https://www.selectyouruniversity.com/images/eligibility-criteria-to-study-mbbs-in-new-zealand.jpg',
             "data": [
                 "<b>Age criteria:</b> Applicant’s age should be minimum 17 years & maximum 25 years before the 31st December of the year of the admission process.",
@@ -65,7 +65,7 @@ export const mbbsinnewzealand = {
         {
             type: 'step-list',
             title: 'Step-by-Step Admission Process for MBBS Course',
-            info: '<b>The admission procedure for applying MBBS in New Zealand is based on round counseling and academic progress. Students need to follow the admission steps as given below:</b>',
+            info: 'The admission procedure for applying MBBS in New Zealand is based on round counseling and academic progress. Students need to follow the admission steps as given below:',
             //img:'https://www.selectyouruniversity.com/images/admission-process-to-study-mbbs-in-new-zealand.jpg',
             data: [
                 "Step 1: Fill the application form with valid details. After confirmation of filled documents, click on the submit button.",
@@ -78,7 +78,7 @@ export const mbbsinnewzealand = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following are the documents required applying for MBBS at New Zealand:</b>",
+            "info": "Following are the documents required applying for MBBS at New Zealand:",
             // "img": 'https://www.selectyouruniversity.com/images/document-required-mbbs-in-new-zealand.jpg',
             "data": [
                 "NEET Score Card",
@@ -97,7 +97,7 @@ export const mbbsinnewzealand = {
         {
             "type": "table",
             "title": "Scholarships Offered for Studying MBBS in New Zealand",
-            "info": "<b>Following are the scholarships offered to foreign students for studying MBBS in New Zealand in tabular form:</b>",
+            "info": "Following are the scholarships offered to foreign students for studying MBBS in New Zealand in tabular form:",
             "col": [
                 "Name of the Scholarships",
                 "Eligibility Criteria",
@@ -129,7 +129,7 @@ export const mbbsinnewzealand = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Following is the cost of living for studying medicine in New Zealand:</b>",
+            "info": "Following is the cost of living for studying medicine in New Zealand:",
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -188,7 +188,7 @@ export const mbbsinnewzealand = {
         {
             "type": "table",
             "title": "MBBS in New Zealand: Fee Structure(2022-23)",
-            "info": "<b>Following is the fee structure of top Medical universities in New Zealand:</b>",
+            "info": "Following is the fee structure of top Medical universities in New Zealand:",
             "col": [
                 "Name of the universities",
                 "Tuition Fees (approx)",
@@ -216,7 +216,7 @@ export const mbbsinnewzealand = {
         {
             "type": "table",
             "title": "MBBS Universities in New Zealand: Ranking (2022-23)",
-            "info": "<b>The country and world ranking of the medical universities of New Zealand are listed below:</b>",
+            "info": "The country and world ranking of the medical universities of New Zealand are listed below:",
             "col": [
                 "Name of the University",
                 "World Rank",
@@ -264,7 +264,7 @@ export const mbbsinnewzealand = {
         {
             "type": "list-bollet",
             "title": "Course Duration of MBBS in New Zealand",
-            "info": "<b>The MBBS course duration in New Zealand is 6 years. The details about the MBBS course durations are discussed below:</b>",
+            "info": "The MBBS course duration in New Zealand is 6 years. The details about the MBBS course durations are discussed below:",
             //"img": 'https://www.selectyouruniversity.com/images/eligibility-criteria-to-study-mbbs-in-new-zealand.jpg',
             "data": [
                 "MBBS in New Zealand lasts for a duration of 5 years. There is 1 year of the internship program which is compulsory for each medical student.",
@@ -275,7 +275,7 @@ export const mbbsinnewzealand = {
         {
             "type": "table",
             "title": "MBBS in New Zealand: Course Syllabus",
-            "info": "<b>The syllabus for the MBBS course in New Zealand’s medical colleges is described year wise:</b>",
+            "info": "The syllabus for the MBBS course in New Zealand’s medical colleges is described year wise:",
             "col": [
                 "First Year",
                 "Second Year"
@@ -442,7 +442,7 @@ export const mbbsinnewzealand = {
         {
             "type": "list-bollet",
             "title": "Career Opportunities after MBBS in New Zealand",
-            "info": "<b>MBBS in New Zealand is an effective career in terms of salary, opportunities and growth:</b>",
+            "info": "MBBS in New Zealand is an effective career in terms of salary, opportunities and growth:",
             "data": [
                 "After completing MBBS from New Zealand, initially, students can do a job as a medical practitioner. The average annual income of the doctor starts from INR 10 to 12 lakhs as per the work profile. Medical doctors can earn a high salary package in private as well as public sectors."
             ]
@@ -450,7 +450,7 @@ export const mbbsinnewzealand = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Following are the job positions offered to a medical doctor:</b>",
+            "info": "Following are the job positions offered to a medical doctor:",
             "col": [
                 "Job Positions",
                 "Annual Salary (approx)"
@@ -502,7 +502,7 @@ export const mbbsinnewzealand = {
         {
             "type": "question-list",
             "title": "MBBS in New Zealand: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is the MBBS degree from New Zealand accepted in India?",
