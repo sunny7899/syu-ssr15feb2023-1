@@ -1,4 +1,5 @@
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+
 .sticky {
     padding-left: 0px;
 }
@@ -13,12 +14,17 @@ a {
     padding-left: 20%;
     width: 80%;
 }
-.subscribe-row{
+
+.subscribe-row {
     padding-bottom: 4%;
 }
 
-.trending{
+.trending {
     padding-bottom: 50px;
+}
+
+#read-more-btn {
+    cursor: pointer;
 }
 
 .custom-width {
@@ -33,8 +39,8 @@ a {
     margin-right: 22px;
 }
 
-.img-text a{
-   color: black;
+.img-text a {
+    color: black;
 }
 
 .mr-3 {
@@ -252,17 +258,17 @@ input.form-control:focus {
 
 .success {
     color: rgb(241, 241, 241);
-    margin-left: 58%;
-    margin-top: -46px;
+    margin-left: 30%;
+    margin-top: -25px;
 }
 
 .study-div .border {
-    border-color: #57585a!important;
+    border-color: #57585a !important;
     border-radius: 5px;
 }
 
 .study-div .border-right {
-    border-color: #57585a!important;
+    border-color: #57585a !important;
 }
 
 .study-div hr {
@@ -281,6 +287,7 @@ input.form-control:focus {
     border-bottom-left-radius: 0px !important;
     border-bottom-right-radius: 0px !important;
 }
+
 // @media screen and (min-width: 991px) and (max-width: 1618px) {
 //     .signbtn {
 //         width: 150%;
@@ -289,40 +296,46 @@ input.form-control:focus {
 //     }
 // }
 
-@media screen and (min-width: 1431px) and (max-width: 2000px){
-     .subscribe-row{
-        padding-bottom: 2%;
-     }
+@media screen and (min-width: 1431px) and (max-width: 2000px) {
+    .subscribe-row {
+        padding-bottom: 1%;
+    }
 }
 
 @media screen and (min-width: 992px) and (max-width: 1400px) {
     .pt-4 {
         padding-top: 5.5rem !important;
     }
+
     .pt-3 {
         padding-top: 4rem !important;
     }
+
     // .signbtn {
     //     width: 200%;
     // }
 }
-@media screen and (min-width: 992px) and (max-width: 1199px){
-    .subscribe-text{
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .subscribe-text {
         margin-top: -45px
     }
+
     .newsletter-icon {
-        
+
         margin-left: -25px;
         margin-top: -45px;
         margin-right: 20px;
     }
 }
-@media screen and (min-width: 992px) and (max-width: 1430px){
-    .subscribe-text{
+
+@media screen and (min-width: 992px) and (max-width: 1430px) {
+    .subscribe-text {
         margin-top: -45px
     }
+
     .newsletter-icon {
-        
+
         margin-left: -25px;
         margin-top: -45px;
         margin-right: 20px;
@@ -334,6 +347,13 @@ input.form-control:focus {
         width: 180%;
         transform: translateY(50%);
         margin-top: 8px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .success {
+        margin-left: 0%;
+        margin-top: 12px;
     }
 }
 
@@ -366,21 +386,26 @@ input.form-control:focus {
     .banner h1 {
         font-size: 26px !important;
     }
+
     .para1 {
         font-size: 10pt;
     }
+
     .banner {
         padding-top: 40px !important;
     }
-    .subscribe-row{
-        padding-bottom: 15%;
+
+    .subscribe-row {
+        padding-bottom: 1%;
     }
 }
-@media only screen and (min-width: 767px) and (max-width:991px){
-    .subscribe-text{
+
+@media only screen and (min-width: 767px) and (max-width:991px) {
+    .subscribe-text {
         font-size: 39px;
     }
-    .subscribe-row{
+
+    .subscribe-row {
         padding-bottom: 5%;
     }
 }
@@ -389,9 +414,11 @@ input.form-control:focus {
     .banner h1 {
         font-size: 34px !important;
     }
+
     .para1 {
         font-size: 12pt;
     }
+
     .banner {
         padding-top: 130px !important;
     }
@@ -404,7 +431,7 @@ input.form-control:focus {
 .para3 {
     color: #1f7cf1bf !important;
     font-weight: bold;
-    margin-bottom: 1.5rem!important;
+    margin-bottom: 1.5rem !important;
 }
 
 marquee a {
@@ -434,14 +461,17 @@ marquee a {
     .title {
         width: 20%;
     }
+
     .title img {
         width: 125%;
         margin-left: -25px;
         margin-right: 0 !important;
     }
+
     .new h3 {
         font-size: 100%;
     }
+
     .marquee {
         margin-top: 0.1%;
     }
@@ -458,19 +488,24 @@ marquee a {
     .pt-4 {
         padding-top: 3.5rem !important;
     }
+
     .new {
         height: 40px;
         margin-top: -30px;
     }
+
     .title {
         margin-left: 50px;
     }
+
     .new h3 {
         margin-top: -18px;
     }
+
     .marquee {
         line-height: 2.5;
     }
+
     .signbtn {
         margin-bottom: 0;
     }

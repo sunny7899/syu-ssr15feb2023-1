@@ -58,14 +58,9 @@ export const mbainaustralia = {
             ]
         },
         {
-            "type": "text",
-            "title": "Step-by-Step Admission Process for MBA Course",
-            "data": '<p><b>Following is the admission process required for applying MBA in Australia:</b></p>'
-        },
-        {
             "type": "step-list",
-            "title": "",
-            "info": "MBA admissions in Australia are completely based on the grades and merit-based system. Follow the below admission steps for applying MBA in Australia:",
+            "title": "Step-by-Step Admission Process for MBA Course",
+            "info": '<p>Following is the admission process required for applying MBA in Australia:</p><p>MBA admissions in Australia are completely based on the grades and merit-based system. Follow the below admission steps for applying MBA in Australia:</p>',
             "data": [
                 "<b>Step 1:</b> Register on the university website and submit the required details.",
 
@@ -74,6 +69,7 @@ export const mbainaustralia = {
                 "<b>Step 3:</b> Non-native English speakers should apply for English proficiency tests."
             ]
         },
+        
         {
             "type": "list-bollet",
             "title": "",

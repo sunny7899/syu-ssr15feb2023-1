@@ -339,7 +339,7 @@
  }
  
  .submit2 {
-     margin-top: 40px;
+     margin-top: 0px;
      background: #ffae47;
      color: white;
      font-weight: bold;
@@ -452,7 +452,7 @@
  
  
  .submit2 {
-     margin-top: 40px;
+     margin-top: 0px;
      background: #ffae47;
      color: white;
      // font-weight: bold;
@@ -552,7 +552,7 @@
  
  
  .submit2 {
-     margin-top: 40px;
+     margin-top: 0px;
      background: #ffae47;
      color: white;
      // font-weight: bold;
@@ -625,3 +625,7 @@
  input[type=number] {
      -moz-appearance: textfield;
  }
+
+ #form-div2{
+    margin-left: 5%;
+  }

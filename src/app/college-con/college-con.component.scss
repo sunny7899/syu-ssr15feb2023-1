@@ -2455,8 +2455,8 @@ input[type=number] {
   .form-card2 {
     padding: 27px;
     line-height: 97%;
-    margin-left: -5%;
-    margin-right: -5%;
+    margin-left: -4%;
+    margin-right: -4%;
 
     background-color: white;
     padding: 20px;
@@ -2817,5 +2817,8 @@ input[type=number] {
   
   input[type=number] {
     -moz-appearance: textfield;
+  }
+  #form-div2{
+    margin-left: 5%;
   }
   

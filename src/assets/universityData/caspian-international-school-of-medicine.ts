@@ -618,6 +618,10 @@ export const caspianinternationalschoolofmedicine = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Caspian International School of Medicine - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Caspian International School of Medicine - News & Articles" },

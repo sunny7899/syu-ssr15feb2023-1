@@ -494,7 +494,7 @@ table {
    }
    
    .submit {
-     margin-top: 40px;
+     margin-top: 0px;
      background: #ffae47;
      color: white;
      font-weight: bold;
@@ -658,7 +658,7 @@ table {
    }
    
    .submit {
-     margin-top: 40px;
+     margin-top: 0px;
      background: #ffae47;
      color: white;
      // font-weight: bold;
@@ -832,7 +832,7 @@ table {
    }
    
    .submit {
-     margin-top: 40px;
+     margin-top: 0px;
      background: #ffae47;
      color: white;
      // font-weight: bold;
@@ -931,6 +931,10 @@ table {
    input[type=number] {
      -moz-appearance: textfield;
    }
+
+   #form-div2{
+    margin-left: 5%;
+  }
    //form css ends here
    
    
