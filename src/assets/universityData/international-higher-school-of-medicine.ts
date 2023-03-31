@@ -19,7 +19,7 @@ export const internationalhigherschoolofmedicine = {
         },
         {
             "type": "table",
-            "title": "International Higher School of Medicine: Ranking 2022",
+            "title": "International Higher School of Medicine: Ranking 2023",
             "info": "Check out the country & world rankings of International Higher School of Medicine:",
             "col": [
                 "Country",

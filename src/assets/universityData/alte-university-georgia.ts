@@ -569,31 +569,31 @@ export const alteuniversitygeorgia = {
             "image": [
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-av-room.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-av-room.jpg",
                     "alt": "Alte University AV Room" },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-auditorium.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-auditorium.jpg",
                     "alt": "Alte University Auditorium"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-waiting-room.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-waiting-room.jpg",
                     "alt": "Alte University Waiting Room"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-function.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-function.jpg",
                     "alt": "Alte University Function"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university-conference.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university-conference.jpg",
                     "alt": "Alte University Conference"
                 },
                 {
                     "type": "image",
-                    "data": "../../assets/university_gallery/alte-university.jpg",
+                    "data": "../../assets/img/university_gallery/alte-university.jpg",
                     "alt": "Alte University"
                 },
             ],
