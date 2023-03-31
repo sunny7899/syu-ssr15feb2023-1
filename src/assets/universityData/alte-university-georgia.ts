@@ -65,9 +65,9 @@ export const alteuniversitygeorgia = {
         {
             "type": "table",
             "title": "Alte University International Medical School Ranking 2023",
-            "info": "Before applying for this university you should check ranking -",
+            "info": "Before applying for this university you should check ranking:",
             "col": [
-                "World	",
+                "World",
                 "Country",
             ],
 
@@ -502,23 +502,16 @@ export const alteuniversitygeorgia = {
             title: 'Alte University, Georgia - Student Reviews'
         },
         {
-            "type": "text",
-            "title": "",
-            "info": "Neha Patel",
-            "data": "<p>I'm really enjoying my time at Alte University. The professors are knowledgeable and supportive, and the campus has a great community feel to it. I've learned a lot and made some great friends along the way</p>"
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "Arun kumar",
-            "data": "<p>Alte University has exceeded my expectations. The curriculum is challenging, but the professors are always there to help and provide guidance. The campus is beautiful and there are plenty of resources available to help students succeed.</p>"
-        },
-        {
-            "type": "text",
-            "title": "",
-            "info": "Sneha Sharma",
-            "data": "<p>I highly recommend Alte University to anyone looking for a quality education. The professors are passionate about their subjects and it shows in their teaching. The campus is modern and well-maintained, and the staff is friendly and helpful. I've had a great experience here so far!</p>"
-        },
+            "type": "list-bollet",
+            "title": "Reviews on Alte University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Neha Patel</b><p>I'm really enjoying my time at Alte University. The professors are knowledgeable and supportive, and the campus has a great community feel to it. I've learned a lot and made some great friends along the way</p>",
+              "<b>Arun kumar</b><p>Alte University has exceeded my expectations. The curriculum is challenging, but the professors are always there to help and provide guidance. The campus is beautiful and there are plenty of resources available to help students succeed.</p>",
+              "<b>Sneha Sharma</b><p>I highly recommend Alte University to anyone looking for a quality education. The professors are passionate about their subjects and it shows in their teaching. The campus is modern and well-maintained, and the staff is friendly and helpful. I've had a great experience here so far!</p>",
+            ]
+          },
+        
         {
             type: "meta",
             meta: [
@@ -677,30 +670,6 @@ export const alteuniversitygeorgia = {
             title: 'Alte University, Georgia - Faculty'
         },
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Alte University - Faculty" },
-                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Alte University, Georgia - Faculty"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/alte-university-georgia/faculty" }
-            ]
-        }
-    ],
-    "news": [
-        {
-            type: 'title',
-            title: 'Alte University, Georgia - News'
-        },
-
-        {
             "type": "table",
             "title": "Faculties at Alte University International Medical School",
             "info": "Below is the list of faculties at Alte University :",
@@ -727,6 +696,31 @@ export const alteuniversitygeorgia = {
                 }
             ],
         },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Alte University - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Alte University, Georgia - Faculty"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/alte-university-georgia/faculty" }
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: 'title',
+            title: 'Alte University, Georgia - News'
+        },
+
+        
         {
             type: "meta",
             meta: [

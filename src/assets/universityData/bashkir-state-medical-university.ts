@@ -14,7 +14,7 @@ export const bashkirstatemedicaluniversity = {
 
         {
             "type": 'text',
-            "title": 'About Bashkir State Medical University, Russia',
+            "title": '',
             // "img": 'https://www.selectyouruniversity.com/images/russia-universities/bashkir-state-medical-university-college.jpg',
             "data": '<p><b>Bashkir State Medical University</b> was established in 1932. It is one of the leading medical universities in the Russian Federation. With more than 8000 students from 40 different countries, it is the most suitable choice for MBBS in Russia.</p><p>Formerly introduced as Bashkortostan Institute in Ufa, Bashkir State Medical University is the top institution in the center of the medical and pharmaceutical sciences of the Republic of Bashkortostan.</p><p>It is a bilingual university of Russia where the first 3 years of the General Medicine course is taught in English language and then the maximum lectures of further years are taught in English but the Practicals are held in Russian language.</p>'
         },
@@ -73,7 +73,7 @@ export const bashkirstatemedicaluniversity = {
 
         {
             "type": "table",
-            "title": "Bashkir State Medical University - Ranking 2022",
+            "title": "Bashkir State Medical University - Ranking 2023",
             "info": "According to 4icu.org, following is the country and world ranking for Bashkir State Medical University:",
             "col": [
                 "World",
@@ -155,7 +155,7 @@ export const bashkirstatemedicaluniversity = {
                 },
 
             ],
-            "heading": "<p><b> Note:</b> 1$ = 70 Rs.</p>"
+            // "heading": "<p><b> Note:</b> 1$ = 70 Rs.</p>"
         },
         {
             "type": "list-bollet",
@@ -199,7 +199,7 @@ export const bashkirstatemedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Bashkir State Medical University - MBBS Fee Structure 2022",
+            "title": "Bashkir State Medical University - MBBS Fee Structure 2023",
             "info": "The fee structure for Bashkir State Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
@@ -243,16 +243,16 @@ export const bashkirstatemedicaluniversity = {
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year 1": "<b>4,46,774 INR</b>",
-                    "Year 2": "<b>4,46,774 INR</b>",
-                    "Year 3": "<b>4,46,774 INR</b>",
-                    "Year 4": "<b>4,46,774 INR</b>",
-                    "Year 5": "<b>4,46,774 INR</b>",
-                    "Year 6": "<b>4,46,774 INR</b>"
+                    "Year 1": "<b>3,26,607 INR</b>",
+                    "Year 2": "<b>3,26,607 INR</b>",
+                    "Year 3": "<b>3,26,607 INR</b>",
+                    "Year 4": "<b>3,26,607 INR</b>",
+                    "Year 5": "<b>3,26,607 INR</b>",
+                    "Year 6": "<b>3,26,607 INR</b>"
 
                 }
             ],
-            "heading": "<p><b>Note: </b>1 RUB = Rs. 1.45 (or calculation purpose.)</p>",
+            "heading": "<p><b>Note: </b>1 RUB = Rs. 1.06 (or calculation purpose.)</p>",
         },
         {
             "type": "list-bollet",
@@ -485,7 +485,7 @@ export const bashkirstatemedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Bashkir State Medical University - Academic Calendar 2022",
+            "title": "Bashkir State Medical University - Academic Calendar 2023",
             "info": "These are the important dates that you need to follow for the admission process:",
             "col": [
                 "Events",
@@ -568,7 +568,7 @@ export const bashkirstatemedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Placement",
+            "title": "Bashkir State Medical University Placement",
             "info": "",
             "data": [
                 "Bashkir State Medical University also encourages graduates to further their studies by providing the option.",
@@ -624,7 +624,7 @@ export const bashkirstatemedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "scholarship",
+            "title": "Bashkir State Medical University Scholarship",
             "info": "The scholarship provided at Bashkir State Medical University are as follows:",
             "data": [
                 "Badhte Kadam Scholarship",
@@ -661,7 +661,7 @@ export const bashkirstatemedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "faculty",
+            "title": "Bashkir State Medical University Faculty",
             "info": "",
             "col": [
                 "Name",

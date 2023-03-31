@@ -14,7 +14,7 @@ export const georgianamericanuniversity
         },
         {
             "type": "text",
-            "title": "About Georgian American University, Georgia",
+            "title": "",
             "data": "<p><b>Georgian American University</b> was established in 2001. The main emphasis of the university is on the importance of good quality education. Georgian American University consists of <b>qualified and highly experienced faculty</b> members.</p><p>To build a notable educational center in Georgia, the university aims to ensure the implementation of <b>international education standards in teaching and research</b>. Georgian American University is one of the best universities for studying MBBS in Georgia.</p><p>This is a co-educational institute located in Tbilisi. The MBBS course at this University is of 5 years. The <b>medium of education for foreign students is English</b> at this University. There are two semesters, spring and fall at the Georgian American University.</p>"
         },
         {
@@ -145,7 +145,6 @@ export const georgianamericanuniversity
                     "Cost": "cost between Rs. 14,000 - Rs. 25,000"
                 },
             ],
-            "heading": "<p><b>Note: </b>1$ = 70 Rs.</p>"
         },
         {
             "type": "list-bollet",
@@ -183,12 +182,12 @@ export const georgianamericanuniversity
     "coursesandfees": [
         {
             type: 'title',
-            title: "Georgian American University - courses & Fees"
+            title: "Georgian American University - Courses & Fees" 
 
         },
         {
             "type": "table",
-            "title": "Georgian American University - MBBS Fee Structure",
+            "title": "Georgian American University - MBBS Fee Structure 2023",
             "info": "Georgian American University offers world-class medical education at affordable prices. Here, we have given the detailed fee structure of MBBS course for the annual year:",
             "col": [
                 "Particular",
@@ -229,15 +228,15 @@ export const georgianamericanuniversity
                 },
                 {
                     "Particular": "Total Fee in Rs",
-                    "Year - 1": "<b>Rs. 4,04,700</b>",
-                    "Year - 2": "<b>Rs. 4,04,700</b>",
-                    "Year - 3": "<b>Rs. 4,04,700</b>",
-                    "Year - 4": "<b>Rs. 4,04,700</b>",
-                    "Year - 5": "<b>Rs. 4,04,700</b>",
-                    "Year - 6": "<b>Rs. 4,04,700</b>",
+                    "Year - 1": "<b>Rs. 4,56,000</b>",
+                    "Year - 2": "<b>Rs. 4,56,000</b>",
+                    "Year - 3": "<b>Rs. 4,56,000</b>",
+                    "Year - 4": "<b>Rs. 4,56,000</b>",
+                    "Year - 5": "<b>Rs. 4,56,000</b>",
+                    "Year - 6": "<b>Rs. 4,56,000</b>",
                 }
             ],
-            "heading": "<p><b>Note: </b>1$ = Rs.71 (approx.)</p>"
+            "heading": "<p><b>Note: </b>1$ = Rs.80 (approx.)</p>"
         },
         {
             "type": "list-bollet",
@@ -318,13 +317,13 @@ export const georgianamericanuniversity
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Georgian American University - courses & Fees" },
+                { name: "title", content: "Georgian American University - Courses & Fees 2023" },
                 { name: "description", content: "know about Georgian American University, Eligibility, Required documents, courses Duration. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "Georgian American University - courses & Fees"
+            title: "Georgian American University - Courses & Fees 2023"
         },
         {
             type: "meta-links",
@@ -432,6 +431,7 @@ export const georgianamericanuniversity
 
         },
 
+
         {
             "type": "list-bollet",
             "title": "Reviews on Georgian American University",
@@ -468,7 +468,7 @@ export const georgianamericanuniversity
         },
         {
             "type": "list-bollet",
-            "title": "Placements",
+            "title": "Georgian American University Placements",
             "info": "",
             "data": [
 
@@ -506,36 +506,36 @@ export const georgianamericanuniversity
 
         {
             "image": [
-                // {
-                //     "type": "image",
-                //     "data": "../../assets/img/university_gallery/east-european-university-building.jpg",
-                //     "alt": "East European University Building"
-                // },
-                // {
-                //     "type": "image",
-                //     "data": "../../assets/img/university_gallery/east-european-university-classroom.jpg",
-                //     "alt": "East European University Classroom"
-                // },
-                // {
-                //     "type": "image",
-                //     "data": "../../assets/img/university_gallery/east-european-university-graduated-students.jpg",
-                //     "alt": "East European University Graduated Students"
-                // },
-                // {
-                //     "type": "image",
-                //     "data": "../../assets/img/university_gallery/east-european-university-library.jpg",
-                //     "alt": "East European University Library"
-                // },
-                // {
-                //     "type": "image",
-                //     "data": "../../assets/img/university_gallery/east-european-university-practical-lab.jpg",
-                //     "alt": "East European University Lab"
-                // },
-                // {
-                //     "type": "image",
-                //     "data": "../../assets/img/university_gallery/east-european-university-students.jpg",
-                //     "alt": "East European University Students"
-                // },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/georgian-american-university-building.jpg",
+                    "alt": "Georgian American University Building"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/georgian-american-university-classroom.jpg",
+                    "alt": "Georgian American University Classroom"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/georgian-american-university-graduate-students.jpg",
+                    "alt": "Georgian American University Graduated Students"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/georgian-american-university-laboratory.jpg",
+                    "alt": "Georgian American University Laboratory"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/georgian-american-university-students.jpg",
+                    "alt": "Georgian American University Students"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/georgian-american-university-students-in-laboratory.jpg",
+                    "alt": "Georgian American University Students in Laboratory"
+                },
             ],
             "video": [
                 // {
@@ -573,7 +573,7 @@ export const georgianamericanuniversity
         },
         {
             "type": "list-bollet",
-            "title": "Scholarships",
+            "title": "Georgian American University Scholarships",
             "info": "",
             "data": [
                 "Slots for scholarships have been made available to Georgian American University various times from different scholarship providers.",
@@ -583,7 +583,7 @@ export const georgianamericanuniversity
         {
             "type": "number-list",
             "title": "",
-            "info": "World's top providers of scholarships -",
+            "info": "World's top providers of scholarships:",
             "data": [
                 "Australia Development Scholarships (ADS)",
                 "The German Academic Exchange Service (DAAD) Scholarships Programmes,",
@@ -628,6 +628,43 @@ export const georgianamericanuniversity
             title: "Georgian American University - Faculty"
 
         },
+
+        {
+            "type": "table",
+            "title": "Faculty of Georgian American University",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "Karlo Matitaishvili",
+                    "Designation": "Acting Dean of the Medical School"
+                },
+                {
+                    "Name": "Sopho Kakaliashvili",
+                    "Designation": "General Pathology, System-Based Pathology, Histology"
+                },
+                {
+                    "Name": "Giorgi Dugashvili",
+                    "Designation": "Professional Development"
+                },
+                {
+                    "Name": "Giorgi Kharebava)",
+                    "Designation": "Cell Biology"
+                },
+                {
+                    "Name": "Nino Tsiskarishvil)",
+                    "Designation": "Histology/Embryology"
+                },
+                {
+                    "Name": "Nino Kasradze",
+                    "Designation": "Clinical Skills"
+                },
+            ]
+        },
+
         {
             type: "meta",
             meta: [
