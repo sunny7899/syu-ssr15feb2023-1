@@ -15,13 +15,12 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
         {
             type: 'text',
             title: '',
-            img: 'https://www.selectyouruniversity.com/images/kazakhstan-universities/west-kazakhstan-marat-ospanov-state-medical-university.jpg',
-            data: '<p>The University of West Kazakhstan Marat Ospanov State Medical is a milestone in the development of medical education and science in Kazakhstan. This university has more than 25 thousand students in higher medical education, the aluminis are successfully working in different locations.</p><p>With the enormous growth of the institute, WKSMU is the major educational, scientific and medical institution of Kazakhstan. Being the leading research medical centres of Kazakhstan the best option for the students looking to seek MBBS education.</p><p>Admission forms are updated on the official website, which must be filled before July.</p>'
+            data: '<p>The University of <b>West Kazakhstan Marat Ospanov State Medical</b> is a milestone in the development of medical education and science in Kazakhstan. This university has more than 25 thousand students in higher medical education, the aluminis are successfully working in different locations.</p><p>With the enormous growth of the institute, WKSMU is the major educational, scientific and medical institution of Kazakhstan. Being the leading research medical centres of Kazakhstan the best option for the students looking to seek MBBS education.</p><p>Admission forms are updated on the official website, which must be filled before July.</p>'
         },
 
         {
-            "type": "table",
-            "title": "West Kazakhstan Marat Ospanov State Medical University: Quick Overview",
+            "type": "table-title",
+            "title": "West Kazakhstan Marat Ospanov State Medical University: Quick Overview 2023",
             "info": "Below mentioned are some quick highlights of West Kazakhstan Marat Ospanov State Medical University:",
             "col": [],
             "row": [
@@ -30,7 +29,7 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
                 ["<b>Annual Tuition Fees (approx)	</b>", "3800 USD"],
                 ["<b>Course Duration	</b>", "6 years (including 1 year internship)"],
                 ["<b>Medium of Instruction	</b>", "English Language"],
-                ["<b>University Ranking	</b>", "Country - 54<br> World Ranking - 9192"],
+                ["<b>University Ranking	</b>", "Country - 36<br> World Ranking - 7866"],
                 ["<b>University Recognition	</b>", "NMC and WHO"],
 
 
@@ -51,19 +50,17 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
                 "A multicultural environment is maintained in the university campus."
             ]
         },
+
         {
-            "type": "list-bollet",
+            "type": "table-title",
             "title": "",
-            "info": "The university provides several convenient facilities for students in the university campus which includes",
-            "img": '',
-            "data": [
-                "Canteen",
-                "Sports Complex",
-                "hostel",
-                "Gym",
-                "Cafeteria"
+            "info": "The university provides several convenient facilities for students in the university campus which includes:",
+            "col": [],
+            "row": [
+                ["Canteen", "Sports Complex","hostel", "Gym","Cafeteria"]
             ]
         },
+        
         {
             "type": "list-bollet",
             "title": "",
@@ -88,7 +85,7 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "West Kazakhstan Marat Ospanov State Medical University - Ranking 2022",
+            "title": "West Kazakhstan Marat Ospanov State Medical University - Ranking 2023",
             "info": "According to Uni rank country and world ranking of West Kazakhstan Marat Ospanov State Medical University is :",
             "col": [
                 "World",
@@ -96,8 +93,8 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
             ],
             "row": [
                 {
-                    "World": "54",
-                    "Country": "9192",
+                    "World": "36",
+                    "Country": "7866",
                 },
 
             ]
@@ -115,33 +112,37 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
             "row": [
                 {
                     "Particular": "<b>Hostel Charges</b>",
-                    "Approx Range  in USD": "300 USD",
-                    "Approx Range  in RS": "3,333 Rs",
+                    "Approx Range in USD": "300 USD",
+                    "Approx Range in RS": "24,000 Rs",
                 },
                 {
                     "Particular": "<b>Food Cost</b>",
-                    "Approx Range  in USD": "100 USD",
-                    "Approx Range  in RS": "13,440 Rs",
+                    "Approx Range in USD": "100 USD",
+                    "Approx Range in RS": "8,000 Rs",
                 },
                 {
                     "Particular": "<b>Transportation Cost</b>",
-                    "Approx Range  in USD": "5.4 USD",
-                    "Approx Range  in RS": "378 Rs",
+                    "Approx Range in USD": "5.4 USD",
+                    "Approx Range in RS": "432 Rs",
                 },
             ],
-            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1 USD = Rs. 70 Rs.</p>'
+            "heading": '<p><b><u>Note:</u></b> 1 USD = Rs. 80 Rs.</p>'
         },
         {
             type: 'text',
             title: 'About City',
-            info: '',
-            img: 'https://www.selectyouruniversity.com/images/kazakhstan-universities/west-kazakhstan-marat-ospanov-state-medical-university-city.jpg',
-            data: '<p><b>Lets get to know about the Aktobe city, Kazakhstan:</b></p><p>West Kazakhstan Marat Ospanov State Medical University is located in the city of Aktobe, Kazakhstan.</p><p>Aktobe city is situated in the western Kazakhstan, well known for its business, cultural, and industrial centre.</p><p>Aktobe city is well equipped with great infrastructure and has all the basic facilities for worldwide students.</p><p>The Population range of Almaty city is 50805 people.</p>'
+            info: 'Lets get to know about the Aktobe city, Kazakhstan:',
+            data: [
+                "West Kazakhstan Marat Ospanov State Medical University is located in the city of Aktobe, Kazakhstan.",
+                "Aktobe city is situated in the western Kazakhstan, well known for its business, cultural, and industrial centre.",
+                "Aktobe city is well equipped with great infrastructure and has all the basic facilities for worldwide students.",
+                "The Population range of Almaty city is 50805 people."
+            ]
         },
         {
-            "type": "table",
+            "type": "table-title",
             "title": "",
-            "info": "Top attractions of the Aktobe city will amaze you -",
+            "info": "Top attractions of the Aktobe city will amaze you:",
             "col": [],
             "row": [
                 ["Nurgast Regional Central Mosque", "Yurta Park"],
@@ -217,15 +218,15 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year 1": "Rs. 2,94,650",
-                    "Year 2": "Rs. 2,94,650",
-                    "Year 3": "Rs. 2,94,650",
-                    "Year 4": "Rs. 2,94,650",
-                    "Year 5": "Rs. 2,94,650",
-                    "Year 6": "Rs. 2,94,650"
+                    "Year 1": "Rs. 3,32,000",
+                    "Year 2": "Rs. 3,32,000",
+                    "Year 3": "Rs. 3,32,000",
+                    "Year 4": "Rs. 3,32,000",
+                    "Year 5": "Rs. 3,32,000",
+                    "Year 6": "Rs. 3,32,000"
                 },
             ],
-            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1 USD = Rs. 71 (It may Vary)</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1 USD = Rs. 80 (It may Vary)</p>',
         },
         {
             type: 'list-bollet',
@@ -358,7 +359,7 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates: Intake 2022",
+            "title": "Important Dates: Intake 2023",
             "info": "Stay updated with the important dates regarding MBBS admissions at West Kazakhstan Marat Ospanov State Medical University:",
             "col": [
                 "Events",
@@ -403,12 +404,12 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
             title: 'Admission Process',
             info: 'Follow the steps given below for taking admission in west Kazakh Marat Ospanov State Medical University:',
             data: [
-                "Step 1: The students must fill the online application form on the official website.",
-                "Step 2: Fill all important academic details on the application form.",
-                "Step 3: Scan all academic documents with passport copy and send it over mail.",
-                "Step 4: An offer letter will be sent from the university within a couple of days.",
-                "Step 5: The students must pay, first year MBBS Course fee.",
-                "Step 6: Apply for the visa process and get a valid visa."
+                "<b>Step 1:</b> The students must fill the online application form on the official website.",
+                "<b>Step 2:</b> Fill all important academic details on the application form.",
+                "<b>Step 3:</b> Scan all academic documents with passport copy and send it over mail.",
+                "<b>Step 4:</b> An offer letter will be sent from the university within a couple of days.",
+                "<b>Step 5:</b> The students must pay, first year MBBS Course fee.",
+                "<b>Step 6:</b> Apply for the visa process and get a valid visa."
             ]
         },
         {
@@ -433,13 +434,10 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
                 "Scientific and methodological works documents.",
                 "Valid passport copy.",
                 "Migration certificate."
-            ]
+            ],
+            "heading":"<b>Note: </b>Xerox copies and original documents must be brought by the students during the admission time for the verification process and all of the documents should be in a file folder."
         },
-        {
-            type: 'text',
-            title: '',
-            data: '<p>Xerox copies and original documents must be brought by the students during the admission time for the verification process and all of the documents should be in a file folder.</p>'
-        },
+        
         {
             type: "meta",
             meta: [
@@ -635,19 +633,13 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
                 "Electricity Supply",
                 "Hot & Cold Water",
                 "Phone",
-                "Cleaning Service"
-            ]
-        },
-        {
-            type: 'list-bollet',
-            title: '',
-            info: '',
-            data: [
+                "Cleaning Service",
                 "The rooms have a central heater.",
                 "The Hostel rooms are fully furniture-cupboard, study table and beds in one room.",
                 "Hostel rooms are also surrounded by outdoor sports activities."
             ]
         },
+        
         {
             type: "meta",
             meta: [

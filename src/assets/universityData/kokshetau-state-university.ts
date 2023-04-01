@@ -13,12 +13,12 @@ export const kokshetaustateuniversity = {
         },
         {
             "type": "text",
-            "title": "About Kokshetau State University, Kazakhstan",
-            "data": "<p>Sh. Ualikhanov Kokshetau State University is a modern education institution founded in 1962 located in the city of Kokshetau, Kazakhstan. The university offers multilevel programs in various specialties which include a bachelor’s degree (65 specialties), a master’s degree (30 specialties), a doctoral degree (6 specialties) in the areas of natural science and General Medicine.</p><p>The university was renamed after the Sh. Ualikhanov who was one of the great Kazakh scientists, historian, ethnographer, geographer, translator and traveler. Pursuing MBBS in Kazakhstan especially at Kokshetau State University brings great opportunities for medical students. The university offers theoretical and practical knowledge at affordable cost setting a great benchmark for international students.</p><p>Today, around 7000 medical students studying at the medical faculty in which 1000 are foreign students from different countries. The university has got the NAAR accreditation ratings for 60 educational programs providing quality education to medical students.</p>"
+            "title": "",
+            "data": "<p>Sh. Ualikhanov <b>Kokshetau State University</b> is a modern education institution founded in 1962 located in the city of Kokshetau, Kazakhstan. The university offers multilevel programs in various specialties which include a bachelor’s degree (65 specialties), a master’s degree (30 specialties), a doctoral degree (6 specialties) in the areas of natural science and General Medicine.</p><p>The university was renamed after the Sh. Ualikhanov who was one of the great Kazakh scientists, historian, ethnographer, geographer, translator and traveler. Pursuing MBBS in Kazakhstan especially at Kokshetau State University brings great opportunities for medical students. The university offers theoretical and practical knowledge at affordable cost setting a great benchmark for international students.</p><p>Today, around 7000 medical students studying at the medical faculty in which 1000 are foreign students from different countries. The university has got the NAAR accreditation ratings for 60 educational programs providing quality education to medical students.</p>"
         },
         {
-            "type": "table",
-            "title": "Kokshetau State University - Quick Highlights 2022",
+            "type": "table-title",
+            "title": "Kokshetau State University - Quick Highlights 2023",
             "info": "Refer to the table below for quick highlights about Sh. Ualikhanov Kokshetau State University:",
             "col": [],
             "row": [
@@ -52,7 +52,7 @@ export const kokshetaustateuniversity = {
         },
         {
             "type": "table",
-            "title": "Kokshetau State University - Ranking 2022",
+            "title": "Kokshetau State University - Ranking 2023",
             "info": "According to 4icu.org, the following is the country & world ranking for Sh. Ualikhanov Kokshetau State University:",
             "col": [
                 "World Rank",
@@ -94,12 +94,7 @@ export const kokshetaustateuniversity = {
                 "The university also provides a psychological service to its students and its goal is to provide psychological protection for students and staff, to support and strengthen their mental health, to create a favorable psychological, social and socio-pedagogical environment for learning activities and full socialization."
             ]
         },
-        {
-            "type": "text",
-            "title": "Rector's Message",
-            "img": "",
-            "data": ""
-        },
+        
         {
             "type": "table",
             "title": "Cost of Living in Kokshetau",
@@ -113,21 +108,21 @@ export const kokshetaustateuniversity = {
             "row": [
                 {
                     "Particular": "<b>Accommodation</b>",
-                    "Approx Range in USD": "286-357",
-                    "Approx Range in RS": "20,000-25,000"
+                    "Approx Range in USD": "286 - 357",
+                    "Approx Range in RS": "22,880 - 28,560"
                 },
                 {
                     "Particular": "<b>Food</b>",
-                    "Approx Range in USD": "28-86",
-                    "Approx Range in RS": "2000-6000"
+                    "Approx Range in USD": "28 - 86",
+                    "Approx Range in RS": "2,240 - 6,880"
                 },
                 {
                     "Particular": "<b>Transport</b>",
-                    "Approx Range in USD": "10-14",
-                    "Approx Range in RS": "700-1000"
+                    "Approx Range in USD": "10 - 14",
+                    "Approx Range in RS": "800 - 1,120"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>$1 = Rs.70</p>'
+            heading: '<p><strong><u>Note</u>: </strong>$1 = Rs.80</p>'
         },
         {
             "type": "list-bollet",
@@ -167,7 +162,7 @@ export const kokshetaustateuniversity = {
         },
         {
             "type": "table",
-            "title": "Kokshetau State University - MBBS Fee Structure (2022-23)",
+            "title": "Kokshetau State University - MBBS Fee Structure (2023-24)",
             "info": "The approx tuition fee and hostel fee structure for Sh. Ualikhanov Kokshetau State University is as follows:",
             "col": [
                 "Particular",
@@ -180,56 +175,65 @@ export const kokshetaustateuniversity = {
             "row": [
                 {
                     "Particular": "<b>Tuition Fee</b>",
-                    "Year  1": "$ 3500",
-                    "Year  2": "$ 3500",
-                    "Year  3": "$ 3500",
-                    "Year  4": "$ 3500",
-                    "Year  5": "$ 3500"
+                    "Year 1": "$ 3500",
+                    "Year 2": "$ 3500",
+                    "Year 3": "$ 3500",
+                    "Year 4": "$ 3500",
+                    "Year 5": "$ 3500"
                 },
                 {
                     "Particular": "<b>Hostel Fee</b>",
-                    "Year  1": "$ 500",
-                    "Year  2": "$ 500",
-                    "Year  3": "$ 500",
-                    "Year  4": "$ 500",
-                    "Year  5": "$ 500"
+                    "Year 1": "$ 500",
+                    "Year 2": "$ 500",
+                    "Year 3": "$ 500",
+                    "Year 4": "$ 500",
+                    "Year 5": "$ 500"
                 },
                 {
                     "Particular": "<b>Medical + Insurance + Registration Fee</b>",
-                    "Year  1": "$ 1000",
-                    "Year  2": "$ 100",
-                    "Year  3": "$ 100",
-                    "Year  4": "$ 100",
-                    "Year  5": "$ 100"
+                    "Year 1": "$ 1000",
+                    "Year 2": "$ 100",
+                    "Year 3": "$ 100",
+                    "Year 4": "$ 100",
+                    "Year 5": "$ 100"
                 },
                 {
                     "Particular": "<b>Mess Fee</b>",
-                    "Year  1": "$ 1200",
-                    "Year  2": "$ 1200",
-                    "Year  3": "$ 1200",
-                    "Year  4": "$ 1200",
-                    "Year  5": "$ 1200"
+                    "Year 1": "$ 1200",
+                    "Year 2": "$ 1200",
+                    "Year 3": "$ 1200",
+                    "Year 4": "$ 1200",
+                    "Year 5": "$ 1200"
                 },
                 {
                     "Particular": "<b>Total Fees in USD</b>",
-                    "Year  1": "$ 6200",
-                    "Year  2": "$ 5300",
-                    "Year  3": "$ 5300",
-                    "Year  4": "$ 5300",
-                    "Year  5": "$ 5300"
+                    "Year 1": "$ 6200",
+                    "Year 2": "$ 5300",
+                    "Year 3": "$ 5300",
+                    "Year 4": "$ 5300",
+                    "Year 5": "$ 5300"
 
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year  1": "Rs.4.34 Lakhs",
-                    "Year  2": "Rs.3.71 Lakhs",
-                    "Year  3": "Rs.3.71 Lakhs",
-                    "Year  4": "Rs.3.71 Lakhs",
-                    "Year  5": "Rs.3.71 Lakhs"
+                    "Year 1": "Rs. 4,96,000",
+                    "Year 2": "Rs. 4,24,000",
+                    "Year 3": "Rs. 4,24,000",
+                    "Year 4": "Rs. 4,24,000",
+                    "Year 5": "Rs. 4,24,000"
 
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>$1 = Rs.70</p><p>Application, visa, flight tickets, etc. will be extra up to Rs.1,00,000 /- (or more approximately).</p><p>The fees mentioned here are approximate and can vary as per the change in currency.</p>'
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Note:",
+            "data": [
+                "$1 = Rs.70",
+                "Application, visa, flight tickets, etc. will be extra up to Rs.1,00,000 /- (or more approximately).",
+                "The fees mentioned here are approximate and can vary as per the change in currency."
+            ]
         },
         {
             "type": "list-bollet",
@@ -389,15 +393,15 @@ export const kokshetaustateuniversity = {
         },
         {
             type: 'step-list',
-            title: 'Admission Process (2022-23)',
+            title: 'Admission Process (2023-24)',
             info: 'Following are the step by step admission rules for Sh. Ualikhanov Kokshetau State University:',
             data: [
-                "Step 1: Admissions of international students are carried out on a competitive basis, results of the interviews and testing conducted by the department of the admission committee.",
-                "Step 2: For visa support, foreign students need to send an email to the university with a copy of passport, place of birth, exact home address, a religion of residence.",
-                "Step 3: The visa to foreign students is issued by the Ministry of Foreign Affairs of the Republic of Kazakhstan on the basis of a letter of invitation from the university.",
-                "Step 4: Submitted documents must have a notarized translation into Kazakh and Russian language. Certification of translation is carried out in the territory of the Republic of Kazakhstan.",
-                "Step 5: Enrollment of candidates who clear the interviews and tests and satisfy the eligibility criteria are taken in accordance with direct contracts.",
-                "Step 6: The list of enrolled students published by the rector of the university based on the passing percentage of entrance examinations:"
+                "<b>Step 1:</b> Admissions of international students are carried out on a competitive basis, results of the interviews and testing conducted by the department of the admission committee.",
+                "<b>Step 2:</b> For visa support, foreign students need to send an email to the university with a copy of passport, place of birth, exact home address, a religion of residence.",
+                "<b>Step 3:</b> The visa to foreign students is issued by the Ministry of Foreign Affairs of the Republic of Kazakhstan on the basis of a letter of invitation from the university.",
+                "<b>Step 4:</b> Submitted documents must have a notarized translation into Kazakh and Russian language. Certification of translation is carried out in the territory of the Republic of Kazakhstan.",
+                "<b>Step 5:</b> Enrollment of candidates who clear the interviews and tests and satisfy the eligibility criteria are taken in accordance with direct contracts.",
+                "<b>Step 6:</b> The list of enrolled students published by the rector of the university based on the passing percentage of entrance examinations:"
             ]
         },
         {
@@ -440,7 +444,7 @@ export const kokshetaustateuniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2022",
+            "title": "Important Dates - Intake 2023",
             "info": "Students should take their admissions to Kokshetau State University before the dates mentioned below. Check out the Important dates regarding admission at Kokshetau State University:",
             "col": [
                 "Events",
@@ -537,6 +541,51 @@ export const kokshetaustateuniversity = {
             title: "Kokshetau State University, Kazakhstan - Gallery"
 
         },
+
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kokshetau-state-university-assignmnet-discussion.jpg",
+                    "alt": "Kokshetau State University Assignmnet Discussion"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kokshetau-state-university-classroom.jpg",
+                    "alt": "Kokshetau State University Classroom"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kokshetau-state-university-computer-lab.jpg",
+                    "alt": "Kokshetau State University Computer Lab"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kokshetau-state-university-conference-hall.jpg",
+                    "alt": "Kokshetau State University Conference Hall"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kokshetau-state-university-lecture.jpg",
+                    "alt": "Kokshetau State University Lecture"
+                },
+                {
+                  "type": "image",
+                  "data": "../../assets/img/university_gallery/kokshetau-state-university-medical-student.jpg",
+                  "alt": "Kokshetau State University Medical Student"
+              }
+            ],
+            "video": [
+                // {
+                //     "type": "video",
+                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                //     "alt": "Image 1"
+                // },
+                
+            ]
+        },
+
+
         {
             type: "meta",
             meta: [
@@ -611,11 +660,10 @@ export const kokshetaustateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "scholarship",
-            "info": "Kokshetau State University provides scholarship programs for their students, have a look - ",
-            "data": [
-                "Kazakhstan Government Scholarship - th"
-            ]
+            "title": "Kokshetau State University of Scholarship",
+            "info": "Kokshetau State University provides scholarship programs for their students, have a look: ",
+            "data": "Kazakhstan Government Scholarship - th"
+           
         },
         {
             type: "meta",

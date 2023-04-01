@@ -14,11 +14,11 @@ export const kyrgyzstatemedicalacademy = {
     {
       "type": "text",
       "title": "",
-      "data": "Kyrgyz State Medical Academy is the finest option to pursue MBBS in Kyrgyzstan. Established on september 1, 1939, they are one of the oldest and the first medical university in Kyrgyzstan. The full name of this university is I.K. Akhunbaev Kyrgyz State Medical Academy.<br>The Kyrgyz State Medical Academy has an A+ grade ranking. With its 80+ years of teaching experience, it is the best option to complete your MBBS degree at a low cost. The world-class education system of this college and the resources available right here attracts college students globally. Top Medical Colleges in Kyrgyzstan are globally praised for imparting a standard education and training college students to work at the world level.<br>KSMA is one of the largest universities in Kyrgyzstan with over 15000 student enrollment from which 1000+ are Indian students. It has secured its position in the top 10 universities of Kyrgyzstan. Every year lots of Indian students fly to study MBBS in Kyrgyzstan because of the better facilities provided through this college. Not only Indian Students however the college receives applications from various parts of the world.<br>KSMA is identified through worldwide organizations including the National Medical Commission, the world health organization, IMED as well as the FAIMER. This approval permits college students to work globally.<br>Also, the language of education there is English, so that Indian students will never feel a language barrier. On the other hand MBBS at Kyrgyz State Medical Academy is inexpensive as the average annual cost is 3 lacs, which is completed in 6 years including 1 year of internship."
+      "data": "<b>Kyrgyz State Medical Academy</b> is the finest option to pursue MBBS in Kyrgyzstan. Established on september 1, 1939, they are one of the oldest and the first medical university in Kyrgyzstan. The full name of this university is I.K. Akhunbaev Kyrgyz State Medical Academy. The Kyrgyz State Medical Academy has an A+ grade ranking. With its 80+ years of teaching experience, it is the best option to complete your MBBS degree at a low cost. The world-class education system of this college and the resources available right here attracts college students globally. Top Medical Colleges in Kyrgyzstan are globally praised for imparting a standard education and training college students to work at the world level.</p><p>KSMA is one of the largest universities in Kyrgyzstan with over 15000 student enrollment from which 1000+ are Indian students. It has secured its position in the top 10 universities of Kyrgyzstan. Every year lots of Indian students fly to study MBBS in Kyrgyzstan because of the better facilities provided through this college. Not only Indian Students however the college receives applications from various parts of the world.</p><p>KSMA is identified through worldwide organizations including the National Medical Commission, the world health organization, IMED as well as the FAIMER. This approval permits college students to work globally. Also, the language of education there is English, so that Indian students will never feel a language barrier. On the other hand MBBS at Kyrgyz State Medical Academy is inexpensive as the average annual cost is 3 lacs, which is completed in 6 years including 1 year of internship.</p>"
     },
     {
       "type": "table",
-      "title": "Kyrgyz State Medical Academy - Important Highlights",
+      "title": "Kyrgyz State Medical Academy - Important Highlights 2023",
       "info": "Refer the table below for quick overview about Kyrgyz State Medical Academy:",
       "col": [
         "Particular",
@@ -59,7 +59,7 @@ export const kyrgyzstatemedicalacademy = {
         },
         {
           "Particular": "<b>University Ranking</b>",
-          "Statistics": "Country Rank - 15,World Rank - 9706"
+          "Statistics": "Country Rank - 12,<br>World Rank - 8947"
         },
         {
           "Particular": "<b>Recognition</b>",
@@ -87,7 +87,7 @@ export const kyrgyzstatemedicalacademy = {
     },
     {
       "type": "table",
-      "title": "Kyrgyz State Medical Academy - Ranking 2022",
+      "title": "Kyrgyz State Medical Academy - Ranking 2023",
       "info": "According to Unirank 4icu, the country & world ranking of Kyrgyz State Medical Academy is as follows:",
       "col": [
         "Country",
@@ -95,8 +95,8 @@ export const kyrgyzstatemedicalacademy = {
       ],
       "row": [
         {
-          "Country": "15",
-          "World": "9706"
+          "Country": "12",
+          "World": "8947"
         }
       ]
     },
@@ -170,30 +170,30 @@ export const kyrgyzstatemedicalacademy = {
         {
           "Particulars": "Accommodation(other than a hostel)",
           "Approx Range in USD": "150-215",
-          "Approx Range in RS": "10,600 - 15300"
+          "Approx Range in RS": "12,000 - 17,200"
         },
         {
           "Particulars": "Food",
           "Approx Range in USD": "80-100",
-          "Approx Range in RS": "5700 - 7100"
+          "Approx Range in RS": "6,400 - 8000"
         },
         {
           "Particulars": "Transport",
           "Approx Range in USD": "10-14",
-          "Approx Range in RS": "710 - 1000"
+          "Approx Range in RS": "800 - 1,120"
         },
         {
           "Particulars": "Clothing",
           "Approx Range in USD": "25-43",
-          "Approx Range in RS": "1800 - 3000"
+          "Approx Range in RS": "2,000 - 3,440"
         },
         {
           "Particulars": "Other Expenses",
           "Approx Range in USD": "70-75",
-          "Approx Range in RS": "5000 - 5400"
+          "Approx Range in RS": "5,600 - 6,000"
         },
       ],
-      "heading": "<p><b>Note:</b> $1 = Rs.71 (for calculation purpose.)</p>"
+      "heading": "<p><b>Note:</b> $1 = Rs.80 (for calculation purpose.)</p>"
     },
     {
       "type": "list-bollet",
@@ -232,7 +232,7 @@ export const kyrgyzstatemedicalacademy = {
   "coursesandfees": [
     {
       type: 'title',
-      title: "Kyrgyz State Medical Academy, Kyrgyzstan - courses & Fees"
+      title: "Kyrgyz State Medical Academy, Kyrgyzstan - Courses & Fees"
 
     },
     {
@@ -278,15 +278,15 @@ export const kyrgyzstatemedicalacademy = {
         },
         {
           "Particular": "<b>Total Fees in Rs</b>",
-          "Year 1": "<b>Rs. 3,62,100</b>",
-          "Year 2": "<b>Rs. 3,62,100</b>",
-          "Year 3": "<b>Rs. 3,62,100</b>",
-          "Year 4": "<b>Rs. 3,62,100</b>",
-          "Year 5": "<b>Rs. 3,62,100</b>",
-          "Year 6": "<b>Rs. 3,62,100</b>"
+          "Year 1": "<b>Rs. 4,08,000</b>",
+          "Year 2": "<b>Rs. 4,08,000</b>",
+          "Year 3": "<b>Rs. 4,08,000</b>",
+          "Year 4": "<b>Rs. 4,08,000</b>",
+          "Year 5": "<b>Rs. 4,08,000</b>",
+          "Year 6": "<b>Rs. 4,08,000</b>"
         }
       ],
-      "heading": "<p><b>Note: </b>$1 = Rs.71 (for calculation purpose.)</p>"
+      "heading": "<p><b>Note: </b>$1 = Rs.80 (for calculation purpose.)</p>"
     },
     {
       "type": "table",
@@ -403,13 +403,13 @@ export const kyrgyzstatemedicalacademy = {
     {
       type: "meta",
       meta: [
-        { name: "title", content: "Kyrgyz State Medical Academy, Kyrgyzstan - courses & Fees" },
+        { name: "title", content: "Kyrgyz State Medical Academy, Kyrgyzstan - Courses & Fees 2023" },
         { name: "description", content: "Kyrgyz State Medical Academy is one of the best government universities to study MBBS in Kyrgyzstan ; Tuition Fee with Hostel. Check available courses and fees" },
       ],
     },
     {
       type: "meta-title",
-      title: "Kyrgyz State Medical Academy, Kyrgyzstan - courses & Fees"
+      title: "Kyrgyz State Medical Academy, Kyrgyzstan - Courses & Fees 2023"
     },
     {
       type: "meta-links",
@@ -443,15 +443,15 @@ export const kyrgyzstatemedicalacademy = {
       "title": "How to take Admission in Kyrgyz State Medical Academy?",
       "info": "Students need to follow these steps to take admission at Kyrgyz State Medical Academy for MBBS course:",
       "data": [
-        "Step 1: Students need to fill the admission form from the online portal of university",
-        "Step 2: Submit all the documents online or at the office of ‘Select Your University’.",
-        "Step 3: Students will get an invitation letter within 2 weeks if selected.",
-        "step 4: After getting an invitation letter students have to pay the tuition fee of the academy.",
-        "step 5: With the original receipt of fee payment and invitation letter of the university, students can apply for the student visa process."
+        "<b>Step 1:</b> Students need to fill the admission form from the online portal of university",
+        "<b>Step 2:</b> Submit all the documents online or at the office of ‘Select Your University’.",
+        "<b>Step 3:</b> Students will get an invitation letter within 2 weeks if selected.",
+        "<b>Step 4:</b> After getting an invitation letter students have to pay the tuition fee of the academy.",
+        "<b>Step 5:</b> With the original receipt of fee payment and invitation letter of the university, students can apply for the student visa process."
       ]
     },
     {
-      "type": "step-list",
+      "type": "list-bollet",
       "title": "What Documents are Required to Study MBBS in Kyrgyz State Medical Academy?",
       "info": "following documents essential in order to complete your admission process for the MBBS course at KSMA:",
       "data": [
@@ -472,20 +472,20 @@ export const kyrgyzstatemedicalacademy = {
       "title": "How to Apply for Visa? (Step by Step Process)",
       "info": "The easy steps you need to follow while you wish to pursue MBBS in Kyrgyzstan are as follows:",
       "data": [
-        "Step 1: Visit a legitimate internet site to apply for a Visa.",
-        "Step 2: The link is available click on it.",
-        "Step 3: It may be redirected to the next page, in which you need to agree to all of the terms and conditions.",
-        "step 4: After agreeing to all of the terms and conditions, fill out the visa application form and add all of the scanned files.",
-        "step 5: After importing all of the files, just submit the form.",
-        "step 6: Check out if you acquire the form for any rectification.",
-        "step 7: If there's no request received, wait for the duration till the application is confirmed.",
-        "step 8: After confirmation, you need to go to the nearby office for verification.",
-        "step 9: Visit the nearby office with all of the authentic files so that the process will be seamless and you could get the Visa."
+        "<b>Step 1:</b> Visit a legitimate internet site to apply for a Visa.",
+        "<b>Step 2:</b> The link is available click on it.",
+        "<b>Step 3:</b> It may be redirected to the next page, in which you need to agree to all of the terms and conditions.",
+        "<b>Step 4:</b> After agreeing to all of the terms and conditions, fill out the visa application form and add all of the scanned files.",
+        "<b>Step 5:</b> After importing all of the files, just submit the form.",
+        "<b>Step 6:</b> Check out if you acquire the form for any rectification.",
+        "<b>Step 7:</b> If there's no request received, wait for the duration till the application is confirmed.",
+        "<b>Step 8:</b> After confirmation, you need to go to the nearby office for verification.",
+        "<b>Step 9:</b> Visit the nearby office with all of the authentic files so that the process will be seamless and you could get the Visa."
       ],
       "heading": "<p>Kyrgyz State Medical Academy considers all those college students who've fulfilled their eligibility standards and all of the required documents. Among all documents, the visa is most important.</p>"
     },
     {
-      "type": "step-list",
+      "type": "list-bollet",
       "title": "",
       "info": "<b>Documents Required for applying Visa:</b>",
       "data": [
@@ -505,7 +505,7 @@ export const kyrgyzstatemedicalacademy = {
     },
     {
       "type": "table",
-      "title": "Kyrgyz State Medical Academy - Academic Dates 2022-23",
+      "title": "Kyrgyz State Medical Academy - Academic Dates 2023-24",
       "info": "Important dates to remember for admission to MBBS in Kyrgyz State Medical Academy:",
       "col": [
         "Events",
@@ -556,6 +556,17 @@ export const kyrgyzstatemedicalacademy = {
     },
 
     {
+      "type": "list-bollet",
+      "title": "Reviews on Kyrgyz State Medical University",
+      "info": "Here are some of the reviews by students studying at the university at the moment:",
+      "data": [
+        "<b>Pawan Desai</b><p>Kyrgyz State Medical University was a wonderful experience for me. The professors provided helpful information.</p>",
+        "<b>Nitish Pandey</b><p>Kyrgyz State Medical University is unquestionably a top choice for anyone seeking a top-notch medical education.</p>",
+        "<b>Tina Advani</b><p>At Kyrgyz State Medical University, you may find first-rate amenities and kind employees. There, I had fantastic care the entire time I was there.</p>",
+      ]
+    },
+
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Kyrgyz State Medical Academy, Kyrgyzstan - Reviews" },
@@ -578,6 +589,12 @@ export const kyrgyzstatemedicalacademy = {
       type: 'title',
       title: "Kyrgyz State Medical Academy, Kyrgyzstan - Placement"
 
+    },
+    {
+      "type": "text",
+      "title": "Placement on Kyrgyz State Medical Academy",
+      "info": "",
+      "data":"Kyrgyz State Medical Academy provides students with various options for the job fair. The students get opportunities of Internships as well as the job fair offers them residency practice positions after respective entrance exams."
     },
     {
       type: "meta",
@@ -605,6 +622,48 @@ export const kyrgyzstatemedicalacademy = {
 
     },
 
+    {
+      "image": [
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/kyrgyz-state-medical-academy-auditorium.jpg",
+              "alt": "Kyrgyz State Medical Academy Auditorium"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/kyrgyz-state-medical-academy-building.jpg",
+              "alt": "Kyrgyz State Medical Academy Building"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/kyrgyz-state-medical-academy-classroom.jpg",
+              "alt": "Kyrgyz State Medical Academy Classroom"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/kyrgyz-state-medical-academy-graduated-students.jpg",
+              "alt": "Kyrgyz State Medical Academy Graduated Students"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/kyrgyz-state-medical-academy-practical-session.jpg",
+              "alt": "Kyrgyz State Medical Academy Practical Session"
+          },
+          {
+            "type": "image",
+            "data": "../../assets/img/university_gallery/kyrgyz-state-medical-academy-students-in-laboratory.jpg",
+            "alt": "Kyrgyz State Medical Academy Students in Laboratory"
+        }
+      ],
+      "video": [
+          // {
+          //     "type": "video",
+          //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+          //     "alt": "Image 1"
+          // },
+          
+      ]
+  },
 
     {
       type: "meta",
@@ -632,6 +691,17 @@ export const kyrgyzstatemedicalacademy = {
       title: "Kyrgyz State Medical Academy, Kyrgyzstan - Scholarship"
 
     },
+
+    {
+      "type": "list-bollet",
+      "title": "Scholarship provided by Kyrgyz State Medical Academy",
+      "info": "",
+      "data": [
+        "There are different scholarship programs available at Kyrgyz State Medical Academy. International students can choose from merit-based scholarship programs as well as exchange program scholarships.",
+        "The programs fund up to full tuition fees support for some of the exchange program students."
+      ]
+    },
+
     {
       type: "meta",
       meta: [
@@ -657,6 +727,41 @@ export const kyrgyzstatemedicalacademy = {
 
     },
 
+    {
+      "type": "table",
+      "title": "Faculty of Kyrgyz State Medical Academy, Kyrgyzstan",
+      "info": "",
+      "col": [
+          "Name",
+          "Designation"
+      ],
+      "row": [
+          {
+              "Name": "Tagaev Tugolbai Zhumabekovich",
+              "Designation": "Dean"
+          },
+          {
+              "Name": "Tamara Abaeva",
+              "Designation": "Professor"
+          },
+          {
+              "Name": "Mambet kyzy Gulina",
+              "Designation": "Deputy Dean for junior courses"
+          },
+          {
+              "Name": "Nurzada Kasymdayirova Marsovna",
+              "Designation": "Secretary"
+          },
+          {
+              "Name": "Salayut Munira Erkintaevna",
+              "Designation": "Methodist"
+          },
+          {
+              "Name": "Shopokova Aijan Edilovna",
+              "Designation": "Secretary"
+          },
+      ]
+  },
 
     {
       type: "meta",
@@ -711,7 +816,7 @@ export const kyrgyzstatemedicalacademy = {
     {
       "type": "list-bollet",
       "title": "Hostel and Food",
-      "info": "Kyrgyz state medical academy provides the facilities of accommodation and mess for students:",
+      "info": "Kyrgyz State Medical Academy provides the facilities of accommodation and mess for students:",
       "data": [
         "Students at Kyrgyz state medical academy are provided with hostels on sharing basis rooms.",
         "Rooms are provided with 2 and 3 beds sharing.",
