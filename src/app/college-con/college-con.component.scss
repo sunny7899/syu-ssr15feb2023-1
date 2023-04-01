@@ -266,6 +266,7 @@ svg {
 .limitTextHeight {
     height: auto;
     overflow: hidden;
+    margin-top: -3%;
 }
 
 .read-more-btn {
@@ -652,7 +653,6 @@ svg {
     font-size: 1rem;
     line-height: 1.6;
 }
-
 .table {
     width: 100%;
     font-size: 16px !important;
@@ -1049,7 +1049,11 @@ nav ul li {
     // margin-right: 8px;
     border-radius: 10px;
     background-color: #fff !important;
-    padding: 2% 15px !important;
+    //padding: 2% 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 2%;
+    padding-top: 1%;
 }
 
 .stickyNav {
@@ -2820,5 +2824,13 @@ input[type=number] {
   }
   #form-div2{
     margin-left: 5%;
+  }
+
+  #checkrev a,p{
+    text-decoration: none;
+    color: black;
+  }
+  a{
+    text-decoration: none;
   }
   

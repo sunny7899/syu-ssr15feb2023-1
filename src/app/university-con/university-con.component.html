@@ -847,7 +847,7 @@
             <div class="row row-without-gutter add-info">
               <div class="flex-holder3">
                 <img src="../../assets/img/College_Icons/2.IIT_Delhi/rating2.png" alt="" class="rating-img" />
-                <p class="mb-0">Rating 4.6/5 (8 Review)</p>
+                <p class="mb-0">Rating 4.6/5</p>
                 <img src="../../assets/img/College_Icons/2.IIT_Delhi/share.png" alt=""
                   class="share-img cursor-pointer" />
                 <p class="mb-0 cursor-pointer" (click)="showBasicDialog()">
@@ -888,7 +888,7 @@
                                        </share-buttons> -->
                 </p-dialog>
                 <img src="../../assets/img/College_Icons/2.IIT_Delhi/review.png" alt="" class="review-img" />
-                <p>Check review</p>
+                <a id="checkrev" href='{{ "university/" + universityData.url + "/review/." }}'><p>Check Review</p></a>
               </div>
             </div>
           </div>
@@ -994,7 +994,7 @@
                   <!-- {{item.title}} -->
                   <div class="col-12" *ngIf="item.type == 'text'">
                     <h2 [innerHTML]="item.title"></h2>
-                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                    <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }" id="limitTextHeight">
                       <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                       <p [innerHTML]="item.textBelowInfo"></p>

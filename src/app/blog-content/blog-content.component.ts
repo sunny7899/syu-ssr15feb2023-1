@@ -25,6 +25,7 @@ export class BlogContentComponent implements OnInit {
   allBlog:any=[]
   latestBlog:any
   h1Title:any
+  posturl: any;
 
    //form starts here
    modalRef: BsModalRef;
@@ -38,6 +39,7 @@ export class BlogContentComponent implements OnInit {
    RegistrationFrom4: FormGroup;
    nsrNo: any
    showMsg: boolean = false;
+  displayBasic: boolean;
 
    get m() {
     return this.RegistrationFrom1.controls;
@@ -87,6 +89,10 @@ export class BlogContentComponent implements OnInit {
       this.form2 = true;
       this.form3 = false;
     }
+  }
+
+  showBasicDialog() {
+    this.displayBasic = true;
   }
  
  

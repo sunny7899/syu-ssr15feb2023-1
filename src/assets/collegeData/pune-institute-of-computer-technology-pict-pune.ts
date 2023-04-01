@@ -13,7 +13,7 @@ export const puneinstituteofcomputertechnologypictpune = {
         },
         {
             type: 'text',
-            title: 'About Pune Institute of Computer Technology (PICT), Pune',
+            title: '',
             // img: 'https://www.selectyouruniversity.com/images/pune-institute-of-computer-technology.jpeg',
             data: '<p>Engineering college at <strong>Pune Institute of Computer Technology</strong> established in 1983 by the Society for Computer Technology and Research.</p><p>It has been one of the leading institutes in information technology education and research. It is accredited by NAAC and AICTE and it is affiliated to the University of Pune.</p><p>The college is well known for its UG and PG programs in Computer Engineering, Information Technology, and Electronics and telecommunication engineering. Ph.D. programs are also available in Engineering, and Electronics and telecommunication engineering.</p><p>This college was the first institute to introduce a Computer Engineering branch among private colleges in the Maharashtra state.</p><p>Creating versatile engineers who can apply their knowledge and skills anywhere in the world is the main aim of PICT’s engineering college.</p>'
         },

@@ -533,6 +533,7 @@ svg {
     position: relative;
     padding-left: 17px;
     padding-right: 17px;
+   
 }
 
 .shade {
@@ -1054,7 +1055,11 @@ nav ul li {
     // margin-right: 8px;
     border-radius: 10px;
     background-color: #fff !important;
-    padding: 2% 15px !important;
+    //padding: 2% 15px !important;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 2%;
+    padding-top: 1%;
 }
 
 .stickyNav {
@@ -2826,4 +2831,12 @@ input[type=number] {
   
   #form-div2{
     margin-left: 5%;
+  }
+
+  #checkrev a,p{
+    text-decoration: none;
+    color: black;
+  }
+  a{
+    text-decoration: none;
   }

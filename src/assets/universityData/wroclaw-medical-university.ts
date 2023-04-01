@@ -13,12 +13,11 @@ export const wroclawmedicaluniversity = {
         },
         {
             "type": "text",
-            "title": "",
             "data": '<p>The history of <strong> Wroclaw Medical University</strong> was started in the year 1811. The institute has 5 faculties namely physiology, anatomy, internal medicine, obstetrics, surgery.</p><p>Today, faculties at Wroclaw Medical University are said to be a renowned European medical school in Poland.</p><p>Prof. <strong> Sigmund Albert</strong> was the first rector of university and prof.<strong> Tadeusz Marciniak</strong> was the first dean medical faculty.</p><p>Wroclaw Medical University has the 2 hospitals one is the Public Clinical Hospital and University Clinical hospital & both of them are diagnostic and health treatment center in Poland.</p>'
         },
         {
             "type": "table-title",
-            "title": "Wroclaw Medical University - Quick Overview 2022",
+            "title": "Wroclaw Medical University - Quick Overview 2023",
             "info": "If you want to pursue MBBS in this university for sure, then let’s walk through some main highlights of Wroclaw Medical University:",
             "col": [],
             "row": [
@@ -29,7 +28,7 @@ export const wroclawmedicaluniversity = {
                 ["<b>Annnual Tuition Fees</b>", "Rs. 9.05 Lakh/Year"],
                 ["<b>Course Duration</b>", "6 years including internship"],
                 ["<b>Medium of Education</b>", "English & Polish"],
-                ["<b>University Ranking</b>", "Country Rank - 55 World Rank - 4218"]
+                ["<b>University Ranking</b>", "Country Rank - 37<br>World Rank - 2692"]
             ]
         },
         {
@@ -56,7 +55,7 @@ export const wroclawmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Wroclaw Medical University - Ranking 2022",
+            "title": "Wroclaw Medical University - Ranking 2023",
             "info": "Unirank will show the exact ranking of Wroclaw Medical University, the students must go through the wold and country rankings mentioned below:",
             "col": [
                 "Country",
@@ -64,8 +63,8 @@ export const wroclawmedicaluniversity = {
             ],
             "row": [
                 {
-                    "Country": "55",
-                    "World": "4218"
+                    "Country": "37",
+                    "World": "2692"
                 }
             ]
         },
@@ -107,15 +106,15 @@ export const wroclawmedicaluniversity = {
                 {
                     "Particulars": "Meal Cost",
                     "Approx Range in USD": "195 USD",
-                    "Approx Range in RS": "13,650 Rs"
+                    "Approx Range in RS": "15,600 Rs"
                 },
                 {
                     "Particulars": "Transportation Cost",
                     "Approx Range in USD": "26.4 USD",
-                    "Approx Range in RS": "1848 Rs"
+                    "Approx Range in RS": "2112 Rs"
                 }
             ],
-            "heading": "<p><b><u>Note:</u></b> 1$ = 70 RS (approx.)</p>"
+            "heading": "<p><b><u>Note:</u></b> 1$ = 80 RS (approx.)</p>"
         },
         {
             "type": "list-bollet",
@@ -166,7 +165,7 @@ export const wroclawmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Wroclaw Medical University - MBBS Fee Structure 2022",
+            "title": "Wroclaw Medical University - MBBS Fee Structure 2023",
             "info": "The students can pay tuition fee into annual instalments according to the schedule mentioned below:",
             "col": [
                 "Particular",
@@ -206,8 +205,17 @@ export const wroclawmedicaluniversity = {
                     "Year 5": "<b>9,00,200 Rs.</b>",
                     "Year 6": "<b>9,00,200 Rs.</b>",
                 },
-            ],
-            "heading": "<p><b>Note:</b><br>PLN – the Polish Zloty currency<br>1 EURO - 4.4739 PLN<br>1 USD = 3.9666 PLN (average exchange rate for 09/07/2020)</p>"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Note:",
+            "data": [
+                "PLN – the Polish Zloty currency",
+                "1 EURO - 4.4739 PLN",
+                "1 USD = 3.9666 PLN (average exchange rate for 09/07/2020)"
+            ]
         },
         {
             "type": "list-bollet",
@@ -398,12 +406,12 @@ export const wroclawmedicaluniversity = {
             "title": "Admission Process (2022-23)",
             "info": "The students who seek to get MBBS at Wroclaw Medical University must follow the mentioned below steps:",
             "data": [
-                "Step 1: Fill the application form will correct details available on the official website of Wroclaw Medical University.",
-                "Step 2: The students should upload the scanned copies of important documents, pay the application form fees and submit it.",
-                "Step 3: The university will carry out document verification to shortlist final students.",
-                "Step 4: The Wroclaw Medical University will send an offer letter to the selected students for admission confirmation.",
-                "Step 5: The selected students must quickly pay the first year tuition fee of Wroclaw Medical University.",
-                "Step 6: The applicants must apply for the visa procedure to get a valid passport.",
+                "<b>Step 1:</b> Fill the application form will correct details available on the official website of Wroclaw Medical University.",
+                "<b>Step 2:</b> The students should upload the scanned copies of important documents, pay the application form fees and submit it.",
+                "<b>Step 3:</b> The university will carry out document verification to shortlist final students.",
+                "<b>Step 4:</b> The Wroclaw Medical University will send an offer letter to the selected students for admission confirmation.",
+                "<b>Step 5:</b> The selected students must quickly pay the first year tuition fee of Wroclaw Medical University.",
+                "<b>Step 6:</b> The applicants must apply for the visa procedure to get a valid passport.",
             ]
         },
         {
@@ -429,7 +437,7 @@ export const wroclawmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Wroclaw Medical University - Intake 2022",
+            "title": "Wroclaw Medical University - Intake 2023",
             "info": "The applicants must always keep an eye on the important dates regarding the MBBS course at Wroclaw Medical University:",
             "col": [
                 "Events",
@@ -520,6 +528,60 @@ export const wroclawmedicaluniversity = {
             title: 'Wroclaw Medical University, Poland - Gallery'
         },
         {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-auditorium.jpg",
+                    "alt": "wroclaw medical university auditorium"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-building.jpg",
+                    "alt": "wroclaw medical university building"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-classroom.jpg",
+                    "alt": "wroclaw medical university classroom"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-conference-room.jpg",
+                    "alt": "wroclaw medical university conference room"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-group-study.jpg",
+                    "alt": "wroclaw medical university group study"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-library.jpg",
+                    "alt": "wroclaw medical university library"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-medical-practice-room.jpg",
+                    "alt": "wroclaw medical university medical practice room"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-medical-student-group.jpg",
+                    "alt": "wroclaw medical university medical student group"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-student-practicing.jpg",
+                    "alt": "wroclaw medical university student practicing"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/wroclaw-medical-university-students.jpg",
+                    "alt": "wroclaw medical university students"
+                }
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wroclaw Medical University, Poland - Gallery" },
@@ -544,7 +606,7 @@ export const wroclawmedicaluniversity = {
         },
         {
             "type": "text",
-            "title": "scholarship",
+            "title": "Wroclaw Medical University, Poland - Scholarship",
             "data": "<p>A student at the University of Medicine and Pharmacy in. Piastów lskich in Wroclaw, who has excelled in academics, the arts, sports, or any other extracurricular endeavours, may be given the Rector Scholarship for the Best Students. No more than 10% of the students in each University-sponsored field of study are given Rector Scholarships, which are given to the brightest students. The top student's application for the Rector's Scholarship must be submitted no sooner than the end of the first academic year.</p>",
         },
         {
@@ -635,7 +697,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": '"Blizniak" room is well-equipped with the amenities -',
+            "info": '"Blizniak" room is well-equipped with the amenities:',
             "data": [
                 "Fridge",
                 "Chair",
@@ -652,7 +714,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "Accomodation Fee -",
+            "info": "Accomodation Fee:",
             "col": [
                 "Room",
                 "Person count",
@@ -674,7 +736,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": 'Jubilatka" Student Dormitory -',
+            "info": 'Jubilatka Student Dormitory:',
             "col": [
                 "Room",
                 "Person count",

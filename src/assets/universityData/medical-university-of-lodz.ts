@@ -13,12 +13,12 @@ export const medicaluniversityoflodz = {
         },
         {
             "type": "text",
-            "title": "About Medical University of Lodz, Poland",
+            "title": "",
             "data": "<p>The <strong>Medical University of Lodz</strong> was founded on <strong>27th July 2002</strong> by the Parliament of Poland. Today, over <strong>770 students</strong> from various countries study medicine at the Medical University of Lodz.</p><p>The programs are taught in English language and accepted internationally. The university has <strong>4 teaching hospitals</strong> with 1600 beds affiliated to constitute department for highly specialized diagnostic and treatment services.</p><p><strong>Professor Andrzej Lewinski</strong> was the first rector of Medical University of Lodz institutions by the agreement of Ministry of Health. The university also listed in the <strong>International Medical Education Directory</strong> (IMED) which provides information about international medical school.</p>"
         },
         {
             "type": "table-title",
-            "title": "Medical University of Lodz - Quick Highlights 2022",
+            "title": "Medical University of Lodz - Quick Highlights 2023",
             "info": "Consider the table given below to quickly know the information regarding the medical course admissions at The Medical University of Lodz:",
             "col": [
 
@@ -86,7 +86,7 @@ export const medicaluniversityoflodz = {
         },
         {
             "type": "table",
-            "title": "Medical University of Lodz - Ranking 2022",
+            "title": "Medical University of Lodz - Ranking 2023",
             "info": "The students must refer Unirank to country and world rankings of the Medical University of Lodz:",
             "col": [
                 "Country",
@@ -94,8 +94,8 @@ export const medicaluniversityoflodz = {
             ],
             "row": [
                 {
-                    "Country": "51",
-                    "World": "3310"
+                    "Country": "49",
+                    "World": "3150"
                 }
             ]
         },
@@ -123,15 +123,15 @@ export const medicaluniversityoflodz = {
                 {
                     "Particulars": "<b>Food Cost</b>",
                     "Per month amount in USD": "158 USD",
-                    "Per month amount in Rs": "11,109 Rs"
+                    "Per month amount in Rs": "12,640 Rs"
                 },
                 {
                     "Particulars": "<b>Transportation Cost</b>",
                     "Per month amount in USD": "23 USD",
-                    "Per month amount in Rs": "1659 Rs"
+                    "Per month amount in Rs": "1,840 Rs"
                 },
             ],
-            "heading": "<p><b>Note :</b>1$ = 70 Rs.</p>"
+            "heading": "<p><b>Note :</b>1$ = 80 Rs.</p>"
         },
         {
             "type": "list-bollet",
@@ -174,7 +174,7 @@ export const medicaluniversityoflodz = {
         },
         {
             "type": "table",
-            "title": "Medical University of Lodz - MBBS Fee Structure 2022",
+            "title": "Medical University of Lodz - MBBS Fee Structure 2023",
             "info": "The fee structure at The Medical University of Lodz is quite affordable for worldwide MBBS aspirants:",
             "col": [
                 "Particular",
@@ -218,16 +218,16 @@ export const medicaluniversityoflodz = {
                 },
                 {
                     "Particular": "<b>Fees in Rs</b>",
-                    "Year 1": "<b>Rs. 11,04,000</b>",
-                    "Year 2": "<b>Rs. 11,04,000</b>",
-                    "Year 3": "<b>Rs. 11,04,000</b>",
-                    "Year 4": "<b>Rs. 11,04,000</b>",
-                    "Year 5": "<b>Rs. 11,04,000</b>",
-                    "Year 6": "<b>Rs. 11,04,000</b>"
+                    "Year 1": "<b>Rs. 11,73,000</b>",
+                    "Year 2": "<b>Rs. 11,73,000</b>",
+                    "Year 3": "<b>Rs. 11,73,000</b>",
+                    "Year 4": "<b>Rs. 11,73,000</b>",
+                    "Year 5": "<b>Rs. 11,73,000</b>",
+                    "Year 6": "<b>Rs. 11,73,000</b>"
 
                 }
             ],
-            "heading": "<p><b>Note :</b>1 EUR = Rs. 80 (approx)</p>"
+            "heading": "<p><b>Note :</b>1 EUR = Rs. 85 (approx)</p>"
         },
         {
             "type": "table",
@@ -486,6 +486,108 @@ export const medicaluniversityoflodz = {
 
         },
         {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Medical University of Lodz - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Medical University of Lodz - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/medical-university-of-lodz/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: 'title',
+            title: "Medical University of Lodz - Gallery"
+
+        },
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-auditorium.jpg",
+                    "alt": "medical university of lodz auditorium"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-back-view.jpg",
+                    "alt": "medical university of lodz back view"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-building.jpg",
+                    "alt": "medical university of lodz building"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-campus.jpg",
+                    "alt": "medical university of lodz campus"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-enterence.jpg",
+                    "alt": "medical university of lodz enterence"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-hall.jpg",
+                    "alt": "medical university of lodz hall"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-hostel-room.jpg",
+                    "alt": "medical university of lodz hostel room"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-practice-room.jpg",
+                    "alt": "medical university of lodz practice room"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-practicing.jpg",
+                    "alt": "medical university of lodz practicing"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-lodz-students.jpg",
+                    "alt": "medical university of lodz students"
+                }
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Medical University of Lodz - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Medical University of Lodz - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/medical-university-of-lodz/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: 'title',
+            title: "Medical University of Lodz - Scholarship"
+
+        },
+        {
             "type": "table-title",
             "title": "",
             "info": "Following are the scholarships available while applying to Medical University of Lodz - ",
@@ -501,7 +603,7 @@ export const medicaluniversityoflodz = {
             "type": "table-title",
             "title": "",
             "info": "",
-            "colTitle": "<b>PROGRAMMES FOR GRADUATES AND POSTGRADUATE STUDENTS:</b>",
+            "colTitle": "PROGRAMMES FOR GRADUATES AND POSTGRADUATE STUDENTS:",
             "col": [
 
             ],
@@ -528,7 +630,7 @@ export const medicaluniversityoflodz = {
             "type": "table-title",
             "title": "",
             "info": "",
-            "colTitle": "<b>PROGRAMMES FOR POSTGRADUATE STUDENTS:</b>",
+            "colTitle": "PROGRAMMES FOR POSTGRADUATE STUDENTS:",
             "col": [
 
             ],
@@ -537,54 +639,6 @@ export const medicaluniversityoflodz = {
                 ["20 Polish – U.S. Fulbright Commission:", "<a>http://www.fulbright.edu.pl/</a>"],
                 ["21 Polish – U.S. Fulbright Commission:", "<a>http://www.fulbright.edu.pl/index.php?strona=39&wiecej=231</a><br><a>http://www.fulbright.edu.pl/index.php?strona=39&wiecej=208</a>"],
             ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Medical University of Lodz - Placement" },
-                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Medical University of Lodz - Placement"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/medical-university-of-lodz/placement" }
-            ]
-        }
-    ],
-    "gallery": [
-        {
-            type: 'title',
-            title: "Medical University of Lodz - Gallery"
-
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Medical University of Lodz - Gallery" },
-                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Medical University of Lodz - Gallery"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/medical-university-of-lodz/gallery" }
-            ]
-        }
-    ],
-    "scholarship": [
-        {
-            type: 'title',
-            title: "Medical University of Lodz - Scholarship"
-
         },
         {
             type: "meta",

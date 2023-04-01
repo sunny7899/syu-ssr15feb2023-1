@@ -59,7 +59,7 @@ export const neetugexam = {
         {
             "type": "text",
             "title": "",
-            "data": '<h3><a href="https://www.selectyouruniversity.com/neet-ug-rank-predictor.php" target="_blank">Click here to Check your NEET Rank</a></h3>'
+            "data": '<h3><a href="https://www.selectyouruniversity.com/neet-ug-rank-predictor/." target="_blank">Click here to Check your NEET Rank</a></h3>'
         },
         {
             "type": "table",

@@ -26,6 +26,7 @@ export class NewsContentComponent implements OnInit {
   latestBlog: any = []
   displayBasic: any
   h1Title: any
+  posturl: any;
 
   //form starts here
   modalRef: BsModalRef;

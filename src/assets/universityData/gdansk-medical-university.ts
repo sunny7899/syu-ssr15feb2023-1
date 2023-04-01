@@ -21,19 +21,19 @@ export const gdanskmedicaluniversity = {
 
         {
             "type": "table-title",
-            "title": "Gdańsk Medical University - Quick Highlights 2022",
+            "title": "Gdańsk Medical University - Quick Highlights 2023",
             "info": "Check out the important details of Gdańsk Medical University for doing MBBS course:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "	March"],
-                ["<b>Basic Eligibility	</b>", "50% in PCB"],
-                ["<b>NEET Exam	</b>", "Yes, it is compulsory"],
-                ["<b>IELTS/TOEFL	</b>", "Yes, It’s required"],
+                ["<b>Basic Eligibility</b>", "50% in PCB"],
+                ["<b>NEET Exam</b>", "Yes, it is compulsory"],
+                ["<b>IELTS/TOEFL</b>", "Yes, It’s required"],
                 ["<b>Annual Tuition Fee</b>", "	44000 PLN"],
-                ["<b>MBBS Duration	</b>", "6 years including internship"],
-                ["<b>Medium of Education	</b>", "English language"],
+                ["<b>MBBS Duration</b>", "6 years including internship"],
+                ["<b>Medium of Education</b>", "English language"],
                 ["<b>University Ranking</b>", "Country Rank - 33 <br> World Rank - 2513"],
-                ["<b>University Recognition	</b>", "NMC, WHO, TMC, NCFMEA, WFME and ARWU"]
+                ["<b>University Recognition</b>", "NMC, WHO, TMC, NCFMEA, WFME and ARWU"]
             ]
         },
         {
@@ -71,7 +71,7 @@ export const gdanskmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Gdańsk Medical University - Ranking 2022",
+            "title": "Gdańsk Medical University - Ranking 2023",
             "info": "The students should check out the country & world ranking of Gdańsk Medical University at Unirank:",
             "col": [
                 "World",
@@ -80,8 +80,8 @@ export const gdanskmedicaluniversity = {
 
             "row": [
                 {
-                    "World": "33",
-                    "Country": "2513",
+                    "World": "39",
+                    "Country": "2764",
                 },
             ]
         },
@@ -113,27 +113,27 @@ export const gdanskmedicaluniversity = {
                 {
                     "Particular": "<b>Hostel Charges</b>",
                     "Per month amount in USD": "141 USD",
-                    "Per month amount in Rs": "9916 Rs",
+                    "Per month amount in Rs": "11,280 Rs",
                 },
                 {
                     "Particular": "<b>Food Cost</b>",
                     "Per month amount in USD": "197 USD",
-                    "Per month amount in Rs": "	13,818 Rs",
+                    "Per month amount in Rs": "	15,760 Rs",
                 },
                 {
                     "Particular": "<b>Transportation Cost</b>",
                     "Per month amount in USD": "29 USD",
-                    "Per month amount in Rs": "	32,307 Rs",
+                    "Per month amount in Rs": "	2,320 Rs",
                 },
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> $1 = Rs.70</p>"
+            heading: "<p><strong style='color: red;'><u>Note:</u></strong> $1 = Rs.80</p>"
         },
-        {
-            "type": 'text',
-            "title": 'Rectors Message',
-            "img": 'https://www.selectyouruniversity.com/images/poland/rectors-message-of-gdansk-medical-university.jpg',
-            "data": ''
-        },
+        // {
+        //     "type": 'text',
+        //     "title": 'Rectors Message',
+        //     "img": 'https://www.selectyouruniversity.com/images/poland/rectors-message-of-gdansk-medical-university.jpg',
+        //     "data": ''
+        // },
 
         {
             "type": "list-bollet",
@@ -225,15 +225,15 @@ export const gdanskmedicaluniversity = {
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year 1": "Rs. 8,19,400",
-                    "Year 2": "Rs. 8,19,400",
-                    "Year 3": "Rs. 8,19,400",
-                    "Year 4": "Rs. 8,19,400",
-                    "Year 5": "Rs. 8,19,400",
-                    "Year 6": "Rs. 8,19,400",
+                    "Year 1": "Rs. 9,21,584",
+                    "Year 2": "Rs. 9,21,584",
+                    "Year 3": "Rs. 9,21,584",
+                    "Year 4": "Rs. 9,21,584",
+                    "Year 5": "Rs. 9,21,584",
+                    "Year 6": "Rs. 9,21,584",
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1 PLN = Rs. 17 (It may Vary)</p>'
+            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1 PLN = Rs. 19.12 (It may Vary)</p>'
         },
         {
             type: 'list-bollet',
@@ -459,12 +459,12 @@ export const gdanskmedicaluniversity = {
             title: 'Admission Pro',
             info: 'The candidates are requested to ho through the mentioned admission steps to get admission in MBBS course at Gdańsk Medical University:</b>',
             data: [
-                "Step 1: The students wishing to apply to the MBBS program must fill the application form available on the official website of Gdańsk Medical University.",
-                "Step 2: Submit copies of important documents to facilitate the recruitment process for MBBS.",
-                "Step 3: The admission team of Gdańsk Medical University will verify the important documents for the shortlisting of the students.",
-                "Step 4: Gdańsk Medical University will send an Invitation letter to the selected students.",
-                "Step 5: The candidate has to pay the 1st year MBBS tuition fee of Gdańsk Medical University.",
-                "Step 6: The applicants must apply for the visa process to get a valid passport. (foreign students)"
+                "<b>Step 1:</b> The students wishing to apply to the MBBS program must fill the application form available on the official website of Gdańsk Medical University.",
+                "<b>Step 2:</b> Submit copies of important documents to facilitate the recruitment process for MBBS.",
+                "<b>Step 3:</b> The admission team of Gdańsk Medical University will verify the important documents for the shortlisting of the students.",
+                "<b>Step 4:</b> Gdańsk Medical University will send an Invitation letter to the selected students.",
+                "<b>Step 5:</b> The candidate has to pay the 1st year MBBS tuition fee of Gdańsk Medical University.",
+                "<b>Step 6:</b> The applicants must apply for the visa process to get a valid passport. (foreign students)"
             ]
         },
         {
@@ -490,7 +490,7 @@ export const gdanskmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Gdańsk Medical University - Intake 2022",
+            "title": "Gdańsk Medical University - Intake 2023",
             "info": "Here are the important dates updated currently regarding MBBS admissions at Gdańsk Medical University:",
             "col": [
                 "Events",
@@ -586,7 +586,7 @@ export const gdanskmedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "placement",
+            "title": "Gdańsk Medical University Placement",
             "info": "",
             "data": [
                 "If you obtained your diploma in an EU country and want to practice your profession in another EU country, this tool will help you to find all the necessary information. If you obtained your diploma outside the EU, you must first obtain its recognition in the EU country.",
@@ -617,6 +617,65 @@ export const gdanskmedicaluniversity = {
             type: 'title',
             title: "Gdańsk Medical University - Gallery"
 
+        },
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-building.jpg",
+                    "alt": "gdansk medical university building"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-campus.jpg",
+                    "alt": "gdansk medical university campus"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-group-study.jpg",
+                    "alt": "gdansk medical university group study"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-hall.jpg",
+                    "alt": "gdansk medical university hall"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-hostel-room.jpg",
+                    "alt": "gdansk medical university hostel room"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-hostel-room-bathroom.jpg",
+                    "alt": "gdansk medical university hostel room bathroom"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-kitchen.jpg",
+                    "alt": "gdansk medical university kitchen"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-medical-student-group-discussion.jpg",
+                    "alt": "gdansk medical university medical student group discussion"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-practicing.jpg",
+                    "alt": "gdansk medical university practicing"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-students.jpg",
+                    "alt": "gdansk medical university students"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/gdansk-medical-university-washroom.jpg",
+                    "alt": "gdansk medical university washroom"
+                }
+            ]
         },
         {
             type: "meta",
@@ -688,7 +747,7 @@ export const gdanskmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Faculty",
+            "title": "Gdańsk Medical University Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -797,24 +856,15 @@ export const gdanskmedicaluniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table-title",
             "title": "",
-            "info": "The hostel provides all required amenities for the students including -",
-            "data": [
-                "Chair",
-                "Bed",
-                "Pillow",
-                "Blanket",
-                "Fan",
-                "Cupboard",
-                "Table",
-                "Bedsheet",
-                "Books Shelves",
-                "Lamp",
-                "Washing Basin",
-                "Mirror",
-                "Wardrobe",
-                "Attached Bathroom"
+            "info": "The hostel provides all required amenities for the students including:",
+            "col": [],
+            "row": [
+                ["Chair", "	Bed","Pillow", "Blanket"],
+                ["Fan", "Cupboard","Table", "Bedsheet"],
+                ["Books Shelves", "	Lamp","Washing Basin", "Mirror"],
+                ["Wardrobe", "Attached Bathroom","-","-"]
             ]
         },
         {

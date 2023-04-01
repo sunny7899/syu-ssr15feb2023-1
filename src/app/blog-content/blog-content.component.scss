@@ -233,7 +233,7 @@ table {
    }
    .size{
      font-size: 25px !important;
-     margin-left: -16px !important;
+     margin-left: 5px !important;
 }
 @media only screen  and (max-width:767px){
      .sectionMobHide{
@@ -297,7 +297,7 @@ table {
 }
 @media only screen and  (max-width:500px) and  (min-width:100px){
      #medical{
-     margin-left: -30px;
+     margin-left: -20px;
    }
    .blog-details{
      width: 109%;
@@ -975,5 +975,82 @@ table {
     margin-left: 5%;
   }
    //form css ends here
+
+   .flex-holder {
+    display: flex;
+    //justify-content: center;
+    margin-top: 3%;
+}
+
+.flex-holder img.rating-img {
+    height: 50%;
+}
+
+.flex-holder img.share-img {
+    height: 50%;
+}
+
+.flex-holder img.review-img {
+    height: 50%;
+}
+
+.flex-holder p {
+  padding: 0px 10px;
+  padding-bottom: 0px;
+  margin-right: 6%;
+}
+
+.social-share-dialog {
+  left: 20%
+}
+
+.social-icon {
+  padding: 10px;
+  width: 20%;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+@media only screen and (max-width:767px) {
+  .flex-holder {
+    margin: 2% 0%;
+    // padding-left: 3%
+    padding: 0 15px;
+}
+
+// .dl-btn,
+// .btn-blue {
+//     display: inline;
+// }
+.flex-holder img.rating-img,
+.flex-holder img.share-img,
+.flex-holder img.review-img {
+    height: 60%;
+}
+.flex-holder p {
+  margin-right: 0%;
+  font-size: 11px;
+  margin-bottom: 0px;
+  line-height: normal;
+}
+.flex-holder .img-div img {
+  width: 100%
+}
+}
+
+@media only screen and (max-width:1024px) and (min-width:768px) {
+  .flex-holder {
+    padding-left: 8%
+}
+
+.flex-holder img.rating-img {
+    height: 50%;
+}
+.flex-holder .img-div img {
+  width: 70%
+}
+}
    
    

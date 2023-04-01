@@ -19,7 +19,7 @@ export const poznanuniversityofmedicalscience = {
 
         {
             "type": "table-title",
-            "title": "Poznan Medical University - Quick Overview 2022",
+            "title": "Poznan Medical University - Quick Overview 2023",
             "info": "Candidates must walk through the major points mentioned below in the table before going in the detailed information of Poznan Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March"],
@@ -59,13 +59,13 @@ export const poznanuniversityofmedicalscience = {
             ]
         },
         {
-            type: 'list-bollet',
+            type: 'text',
             title: 'Medium of Teaching',
             info: 'Poznan Medical University offers top education system in the English language:',
             data: "<p>The students acquire quality medical education in 100% English language without facing any language barriers at Poznan medical university.</p>"
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: 'Facilities Provided at Poznan Medical University',
             info: "Poznan medical university delivers the latest facilities required for better education experience at the comfort zone of students:",
             // img: 'Library.png',
@@ -124,7 +124,7 @@ export const poznanuniversityofmedicalscience = {
         // },
         {
             "type": "table",
-            "title": "Poznan Medical University - Ranking 2022",
+            "title": "Poznan Medical University - Ranking 2023",
             "info": "According to Uni Rank here is the world and country of Poznan Medical University:",
             "col": [
                 "Country",
@@ -179,21 +179,21 @@ export const poznanuniversityofmedicalscience = {
                 {
                     "Particulars": "<b>Food Cost</b>",
                     "Approx range in USD": "198 USD",
-                    "Approx range in RS": "13,860 Rs"
+                    "Approx range in RS": "15,840 Rs"
                 },
                 {
                     "Particulars": "<b>Transportation Cost</b>",
                     "Approx range in USD": "35.7 USD",
-                    "Approx range in RS": "2,499 Rs"
+                    "Approx range in RS": "2,856 Rs"
                 }
             ],
-            "heading": "<p><b><u>Note:</u></b> 1$ = 70 Rs.</p>"
+            "heading": "<p><b><u>Note:</u></b> 1$ = 80 Rs.</p>"
         },
-        {
-            type: 'text',
-            title: "Rector's Message",
-            img: 'rectors-message-of-poznan-university-of-medical-science.jpg',
-        },
+        // {
+        //     type: 'text',
+        //     title: "Rector's Message",
+        //     img: 'rectors-message-of-poznan-university-of-medical-science.jpg',
+        // },
         {
             type: 'list-bollet',
             title: 'About Poznan City',
@@ -237,7 +237,7 @@ export const poznanuniversityofmedicalscience = {
         },
         {
             "type": "table",
-            "title": "Poznan Medical University - MBBS Fee Structure 2022",
+            "title": "Poznan Medical University - MBBS Fee Structure 2023",
             "info": "The fee structure for Tula State University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
@@ -281,16 +281,16 @@ export const poznanuniversityofmedicalscience = {
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year 1": "Rs. 10,99,900",
-                    "Year 2": "Rs. 10,99,900",
-                    "Year 3": "Rs. 10,99,900",
-                    "Year 4": "Rs. 10,99,900",
-                    "Year 5": "Rs. 10,99,900",
-                    "Year 6": "Rs. 10,99,900"
+                    "Year 1": "Rs. 12,37,064",
+                    "Year 2": "Rs. 12,37,064",
+                    "Year 3": "Rs. 12,37,064",
+                    "Year 4": "Rs. 12,37,064",
+                    "Year 5": "Rs. 12,37,064",
+                    "Year 6": "Rs. 12,37,064"
 
                 }
             ],
-            "heading": "<p><b>Note:</b><b>1PLN = Rs. 17 (It may Vary)</b></p>",
+            "heading": "<p><b>Note:</b> 1PLN = Rs. 19.12 (It may Vary)</p>",
 
         },
         {
@@ -578,7 +578,7 @@ export const poznanuniversityofmedicalscience = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2022",
+            "title": "Important Dates - Intake 2023",
             "info": "Every candidate should check the important dates before taking MBBS admission at Poznan medical university:",
             "col": [
                 "Events",
@@ -650,8 +650,8 @@ export const poznanuniversityofmedicalscience = {
         },
         {
             type: 'text',
-            title: '',
-            info: "<p>Doctor of Medicine (M.D.) qualification awarded by PUMS is recognized worldwide and can be used to apply for a local medical licence in most countries in the world. In order to do so a medical graduate has to fulfil the destination country's national or state medical board requirements, usually involving an examination or a series of examinations and an internship period.</p>",
+            title: 'Poznan Medical University Placement',
+            data: "<p>Doctor of Medicine (M.D.) qualification awarded by PUMS is recognized worldwide and can be used to apply for a local medical licence in most countries in the world. In order to do so a medical graduate has to fulfil the destination country's national or state medical board requirements, usually involving an examination or a series of examinations and an internship period.</p>",
         },
         {
             type: "meta",
@@ -676,6 +676,45 @@ export const poznanuniversityofmedicalscience = {
             type: 'title',
             title: "Poznan Medical University - Gallery"
 
+        },
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-group-discussion.jpg",
+                    "alt": "poznan university of medical science group discussion"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-medical-practice.jpg",
+                    "alt": "poznan university of medical science medical practice"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-practicals.jpg",
+                    "alt": "poznan university of medical science practicals"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-practical-sessions.jpg",
+                    "alt": "poznan university of medical science practical sessions"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-practice-in-group.jpg",
+                    "alt": "poznan university of medical science practice in group"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-practicing.jpg",
+                    "alt": "poznan university of medical science practicing"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-preperation.jpg",
+                    "alt": "poznan university of medical science preperation"
+                }
+            ]
         },
         {
             type: "meta",

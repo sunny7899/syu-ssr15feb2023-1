@@ -19,7 +19,7 @@ export const medicaluniversityofwarsaw = {
 
         {
             "type": "table-title",
-            "title": "Medical University of Warsaw - Quick Highlights 2022",
+            "title": "Medical University of Warsaw - Quick Highlights 2023",
             "info": "The students from different parts of the world looking for MBBS degree from Ideal university must consider all important mentioned below in the table:",
             "row": [
                 ["Intake for MBBS Course", "March"],
@@ -54,7 +54,7 @@ export const medicaluniversityofwarsaw = {
         },
         {
             "type": "table",
-            "title": "Medical University of Warsaw - Ranking 2022",
+            "title": "Medical University of Warsaw - Ranking 2023",
             "info": "According to 4icu.org, following is the country and world ranking for Medical University of Warsaw is:",
             "col": [
                 "Country",
@@ -62,8 +62,8 @@ export const medicaluniversityofwarsaw = {
             ],
             "row": [
                 {
-                    "Country": "25",
-                    "World": "1991"
+                    "Country": "34",
+                    "World": "2454"
                 },
 
             ]
@@ -78,7 +78,7 @@ export const medicaluniversityofwarsaw = {
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: 'Facilities Provided at Medical University of Warsaw',
             info: 'Top-class of facilities are provided at the comfort zone of the students who are studying at Medical University of Warsaw:',
             data: [
@@ -158,24 +158,24 @@ export const medicaluniversityofwarsaw = {
             ],
             "row": [
                 {
-                    "Particulars": "Accommodation",
+                    "Particulars": "<b>Accommodation</b>",
                     "Food Cost": "198.6 USD",
-                    "Transportation Cost": "13,692 Rs"
+                    "Transportation Cost": "15,888 Rs"
                 },
                 {
-                    "Particulars": "Food",
+                    "Particulars": "<b>Food</b>",
                     "Food Cost": "34.8 USD",
-                    "Transportation Cost": "2,436 Rs"
+                    "Transportation Cost": "2,784 Rs"
                 }
             ],
-            "heading": "<p><b><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>"
+            "heading": "<p><b><u>Note:</u></b> 1$ = 80 Rs. (for calculation purpose)</p>"
         },
-        {
-            type: 'text',
-            title: 'Rectors Message',
-            info: '',
-            img: 'rectors-message-of-medical-university-of-warsaw.jpg',
-        },
+        // {
+        //     type: 'text',
+        //     title: 'Rectors Message',
+        //     info: '',
+        //     img: 'rectors-message-of-medical-university-of-warsaw.jpg',
+        // },
         {
             type: 'list-bollet',
             title: 'About Warsaw City',
@@ -231,7 +231,7 @@ export const medicaluniversityofwarsaw = {
         },
         {
             "type": "table",
-            title: 'Medical University of Warsaw - MBBS Fee Structure 2022',
+            title: 'Medical University of Warsaw - MBBS Fee Structure 2023',
             info: "If you are looking for a top medical college providing a reasonable fee structure to pursue a career in medicine, must go for Medical University of Warsaw:",
             "col": [
                 "Particular",
@@ -274,17 +274,17 @@ export const medicaluniversityofwarsaw = {
                 },
                 {
                     "Particular": "<b>Annual Fee in Rs</b>",
-                    "Year - 1": "12,72,000 Rs",
-                    "Year - 2": "12,56,000 Rs",
-                    "Year - 3": "12,56,000 Rs",
-                    "Year - 4": "12,56,000 Rs",
-                    "Year - 5": "12,56,000 Rs",
-                    "Year - 6": "12,56,000 Rs"
+                    "Year - 1": "13,51,500 Rs",
+                    "Year - 2": "13,34,500 Rs",
+                    "Year - 3": "13,34,500 Rs",
+                    "Year - 4": "13,34,500 Rs",
+                    "Year - 5": "13,34,500 Rs",
+                    "Year - 6": "13,34,500 Rs"
                 },
 
 
             ],
-            "heading": "<p><b>Note: </b>1 EUR = Rs. 80 (It may Vary)</p>"
+            "heading": "<p><b>Note: </b>1 EUR = Rs. 85 (It may Vary)</p>"
         },
         {
             type: 'list-bollet',
@@ -505,7 +505,16 @@ export const medicaluniversityofwarsaw = {
                 "<b>Step 8:</b> The candidate must pay the first-year tuition fee for the MBBS course at the Medical University of Warsaw.",
                 "<b>Step 9:</b> The foreign students must apply for the visa processing step to get a valid passport.",
             ],
-            "heading": "<p><b>Note: </b><br>The Medical University of Warsaw bank account will accept EUR currency only.<br>The students must make sure that the amount in a foreign currency is transferred to the required amount in EUR.<br>The University will not be responsible for an incorrect application form.</p>"
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: 'Note: ',
+            data: [
+                "The Medical University of Warsaw bank account will accept EUR currency only.",
+                "The students must make sure that the amount in a foreign currency is transferred to the required amount in EUR.",
+                "The University will not be responsible for an incorrect application form."
+            ]
         },
         {
             type: 'list-bollet',
@@ -527,8 +536,16 @@ export const medicaluniversityofwarsaw = {
                 "The students must submit COVID-19 reports for MBBS for admission.",
 
 
-            ],
-            "heading": "<p><b>Note: </b><br>All documents must be certified translated to English, it should be originals or copies certified by a notary.<br>Don't submit incomplete or incorrect documents, the students will not be admitted to the University.</p>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: 'Note: ',
+            data: [
+                "All documents must be certified translated to English, it should be originals or copies certified by a notary.",
+                "Don't submit incomplete or incorrect documents, the students will not be admitted to the University."
+            ]
         },
         {
             type: "meta",
@@ -600,6 +617,55 @@ export const medicaluniversityofwarsaw = {
             title: "Medical University of Warsaw - Gallery"
         },
         {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-warsaw-auditorium.jpg",
+                    "alt": "medical university of warsaw auditorium"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-warsaw-campus.jpg",
+                    "alt": "medical university of warsaw campus"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-warsaw-function-collag.jpg",
+                    "alt": "medical university of warsaw function collag"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-warsaw-hostel-room.jpg",
+                    "alt": "medical university of warsaw hostel room"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-warsaw-laboratory.jpg",
+                    "alt": "medical university of warsaw laboratory"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-warsaw-medical-practice.jpg",
+                    "alt": "medical university of warsaw medical practice"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-warsaw-play-ground.jpg",
+                    "alt": "medical university of warsaw play ground"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-warsaw-practical-laboratory.jpg",
+                    "alt": "medical university of warsaw practical laboratory"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/medical-university-of-warsaw-swimming-pool.jpg",
+                    "alt": "medical university of warsaw swimming pool"
+                }
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Warsaw - Gallery" },
@@ -624,8 +690,8 @@ export const medicaluniversityofwarsaw = {
         },
         {
             type: 'text',
-            title: 'Scholarship',
-            info: "<p>The Medical University of Warsaw offers no particular scholarships. However, students could search for different scholarships offered by their nations.</p>"
+            title: 'Medical University of Warsaw - Scholarship',
+            data: "<p>The Medical University of Warsaw offers no particular scholarships. However, students could search for different scholarships offered by their nations.</p>"
         },
         {
             type: "meta",

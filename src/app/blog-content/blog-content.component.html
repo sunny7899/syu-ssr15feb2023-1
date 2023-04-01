@@ -88,7 +88,42 @@
                     alt=""
                     width="20"
                   />
-                  <p class="mb-0">Share</p>
+                  <p class="mb-0 cursor-pointer" (click)="showBasicDialog()">Share</p>
+
+                  <p-dialog header="Share" [(visible)]="displayBasic" [baseZIndex]="10000" id="social-share-dialog"
+                  [responsive]="true" [transitionOptions]="'0ms'" [modal]="true" [dismissableMask]="true">
+                  <!--[style]="{ width: '20vw' }" -->
+                  <a href="https://api.whatsapp.com/send?text={{ posturl }}" target="_blank">
+                    <img src="../../assets/img/whatsapp.png" alt="" class="social-icon" />
+                  </a>
+                  <a href="https://www.facebook.com/sharer.php?u={{ posturl }}" target="_blank">
+                    <img src="../../assets/img/facebook1.png" alt="" class="social-icon" />
+                  </a>
+                  <a href="https://pinterest.com/pin/create/bookmarklet/?media=[post-img]&url={{
+                      posturl
+                    }}&is_video=[is_video]&description=[post-title]" target="_blank">
+                    <img src="../../assets/img/interest.png" alt="" class="social-icon" />
+                  </a>
+                  <a href="https://twitter.com/share?url={{
+                      posturl
+                    }}&text=[post-title]&via=[via]&hashtags=[hashtags]" target="_blank">
+                    <img src="../../assets/img/tw.png" alt="" class="social-icon" />
+                  </a>
+                  <a href="https://www.linkedin.com/shareArticle?url={{
+                      posturl
+                    }}" target="_blank">
+                    <img src="../../assets/img/linked.png" alt="" class="social-icon" />
+                  </a>
+                  <!-- <share-buttons theme="circles-dark"
+                                       [include]="['copy', 'facebook', 'email', 'messenger', 'mix', 'line', 'linkedin', 'pinterest', 'print', 'reddit', 'sms', 'telegram', 'tumblr', 'twitter', 'viber', 'vk', 'xing', 'whatsapp']"
+                                       [showIcon]="true"
+                                       [showText]="false"
+                                       url="https://rodrigo.kamada.com.br/"
+                                       description="Angular Share Buttons"
+                                       twitterAccount="rodrigokamada"
+                                       class="pt-5">
+                                     </share-buttons> -->
+                </p-dialog>
                 </div>
               </div>
             </div>
@@ -511,7 +546,7 @@
                   class="row border-bottom mb-2 pb-2"
                   *ngFor="let cat of data"
                 >
-                  <div class="col-lg-6 service-card-text" [routerLink]="['/blog/category/.' + cat[0].Categories ]">
+                  <div class="col-lg-6 service-card-text" [routerLink]="['/blog/category/' + cat[0].Categories + '/.']">
                     <div class="flex-holder">
                       <img
                         src="../../assets/img/Blog_Content_Icons/5.Category/Dropdown.png"

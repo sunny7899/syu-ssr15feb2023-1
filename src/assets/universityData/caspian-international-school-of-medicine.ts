@@ -22,7 +22,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "table-title",
             "title": "Caspian International School of Medicine - Quick Highlights 2023",
-            "info": "<b>Interested candidates can quickly go through the highlights before getting enrolled in the Medical program:</b>",
+            "info": "Interested candidates can quickly go through the highlights before getting enrolled in the Medical program:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Why Choose Caspian International School of Medicine?",
-            "info": "<b>Interested candidates can quickly go through positives of the University:</b>",
+            "info": "Interested candidates can quickly go through positives of the University:",
             "img": '',
             "data": [
                 "18 bachelor's degree specialties, 6 master's degree specialties, and 2 doctoral PhD specialties are all offered by Caspian University.",
@@ -68,7 +68,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Medium of Instruction",
-            "info": "<b>With the intention to remove Language barrier university doesn't want anyone to be left behind:</b>",
+            "info": "With the intention to remove Language barrier university doesn't want anyone to be left behind:",
             "img": '',
             "data": [
                 "All Indian students at Caspian International School of Medicine receive their education in English. For international students, all lessons, quizzes, and exams are delivered in English by highly qualified instructors, professors, and doctors.",
@@ -79,7 +79,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "table",
             "title": "Caspian International School of Medicine Ranking 2023",
-            "info": "<b>Before applying for this university you should check ranking -</b>",
+            "info": "Before applying for this university you should check ranking -",
             "col": [
                 "Country",
                 "World",
@@ -97,7 +97,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Recognition and Accreditations",
-            "info": "<b>Following are the accreditation university has:</b>",
+            "info": "Following are the accreditation university has:",
             "data": [
                 "WHO ( World Health Organization )",
                 "NMC ( National Medical Commission )"
@@ -115,7 +115,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "table",
             "title": "Cost of Living in Almaty, Kazakhstan",
-            "info": "<b>The living cost of Almaty, Kazakhstan is affordable for worldwide students, Refer the table mentioned below according to monthly expenses:</b>",
+            "info": "The living cost of Almaty, Kazakhstan is affordable for worldwide students, Refer the table mentioned below according to monthly expenses:",
             "col": [
                 "Particular",
                 "Approx Range in USD ",
@@ -169,7 +169,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "table",
             "title": "Caspian International School of Medicine Fee Structure 2023",
-            "info": "<b>The following provides the Caspian ISM's complete MBBS fee schedule for the 2023 session:</b>",
+            "info": "The following provides the Caspian ISM's complete MBBS fee schedule for the 2023 session:",
             "col": [
 
                 "Particular",
@@ -244,7 +244,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Caspian University International School of Medicine",
-            "info": "<b>Undergraduate, postgraduate, and doctorate medical education are all offered by the Caspian International School of Medicine. For students who want to study in the local language, there are other options than medical faculty, such as language/preparatory faculties. The Caspian ISM train both domestic and international students:</b>",
+            "info": "Undergraduate, postgraduate, and doctorate medical education are all offered by the Caspian International School of Medicine. For students who want to study in the local language, there are other options than medical faculty, such as language/preparatory faculties. The Caspian ISM train both domestic and international students:",
             "data": [
                 "Faculty of Medicine",
                 "Faculty of Pharmacy ",
@@ -260,7 +260,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             type: 'list-bollet',
             title: 'Duration of MBBS at Caspian International School of Medicine',
-            info: "<b>The Caspian University International School of Medicine's MBBS curriculum lasts six years. Have look on the detailed curriculum of the course:</b>",
+            info: "The Caspian University International School of Medicine's MBBS curriculum lasts six years. Have look on the detailed curriculum of the course:",
             data: [
                 "For Indian students, the MBBS program at the Caspian International School of Medicine lasts 5 years plus 1 year (for an internship in Kazakhstan).",
                 "It also covers the internship and clinical rotation that are necessary to work as a doctor anywhere in the world, including Kazakhstan.",
@@ -296,7 +296,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "step-list",
             "title": "How to Apply at Caspian International School of Medicine?",
-            "info": "<b>The procedure for Indian students to apply for MBBS admission to Caspian International School of Medicine is as follows:</b>",
+            "info": "The procedure for Indian students to apply for MBBS admission to Caspian International School of Medicine is as follows:",
             "data": [
                 "<b>Step 1:</b> Students upload scans of their 10th and 12th grade credentials as well as their NEET score (2023/2022/2021).",
                 "<b>Step 2:</b> Based on the provided documentation, Caspian International School of Medicine issues an admission letter.",
@@ -314,7 +314,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Below is the list of important documents required to take admission to the Caspian University:</b>",
+            "info": "Below is the list of important documents required to take admission to the Caspian University:",
             "data": [
                 "10th & 12th/Inter Marksheet ",
                 "NEET Qualification (2023/2022/2021)",
@@ -328,7 +328,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The following criteria must be met in order for Indian students to be admitted to Caspian International School of Medicine for the MBBS program:</b>",
+            "info": "The following criteria must be met in order for Indian students to be admitted to Caspian International School of Medicine for the MBBS program:",
             "data": [
                 "<b>50% Marks:</b> Pupils from the general category must obtain 50% of the total scores in their 12th, intermediate, or equivalent exams, while those from the reserved category must receive 40%.",
                 "<b>NEET Qualification:</b> The student must have passed the NEET exam this year or any of the two years prior, meaning they must have passed in 2023, 2022, or 2021.",
@@ -339,7 +339,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "table",
             "title": "Caspian International School of Medicine - Important Dates & Intake 2023",
-            "info": "<b>To know the important dates, the admission process, check out the table:</b>",
+            "info": "To know the important dates, the admission process, check out the table:",
             "col": [
                 "Events",
                 "Dates"
@@ -391,7 +391,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Reviews on Caspian International School of Medicine",
-            "info": "<b>Here are some of the reviews by students studying at the university at the moment -</b>",
+            "info": "Here are some of the reviews by students studying at the university at the moment -",
             "data": [
                 "<b>Rajesh Kumar</b><p>Caspian University International School of Medicine is really good! The teachers are super smart and helpful, and they give us lots of chances to practice what we learn.</p>",
                 "<b>Priya Patel </b><p>As an international student from India, I was a little nervous about studying at Caspian University. However, the friendly and welcoming environment made me feel right at home. The professors are excellent and the facilities are top-notch.</p>",
@@ -538,7 +538,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Scholarships at Caspian ISM",
-            "info": "<b>University also provide some scholarships for the students on some conditions:</b>",
+            "info": "University also provide some scholarships for the students on some conditions:",
             "data": [
                 "Many scholarships are available to eligible students at the Caspian International School of Medicine (CISM), Almaty. ",
                 "The students will be eligible for the scholarships based on their satisfactory performance at CISM, Almaty, and they even offer scholarships based on students' past academic success on a merit basis."
@@ -572,7 +572,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "table",
             "title": "Caspian International School of Medicine - Faculties",
-            "info": "<b>Below is the list of faculties at Caspian University International School of Medicine :</b>",
+            "info": "Below is the list of faculties at Caspian University International School of Medicine :",
             "col": [
                 "Name",
                 "Designation",
@@ -647,7 +647,7 @@ export const caspianinternationalschoolofmedicine = {
         {
             "type": "list-bollet",
             "title": "Accommodation at Caspian International School of Medicine",
-            "info": "<b>Look at the detailed review of accommodation facilities provided by Caspian University International School of Medicine -</b>",
+            "info": "Look at the detailed review of accommodation facilities provided by Caspian University International School of Medicine:",
             "data": [
                 "At the premises of the institution, there are hostels for the Caspian University International School of Medicine. ",
                 "The hostel offers students cozy quarters and wholesome food on a regular basis. All of the hostels have 24-hour security, Video surveillance, fire alarm safety systems, and sophisticated security features. ",

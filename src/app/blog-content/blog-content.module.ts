@@ -9,6 +9,7 @@ import { ChatModule } from '../chat/chat.module';
 import { AccordionModule } from 'primeng/accordion';
 import {Location} from '@angular/common';  
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { DialogModule } from 'primeng/dialog';
 
 @NgModule({
   declarations: [BlogContentComponent],
@@ -19,7 +20,8 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     FooterModule,
     AccordionModule,
     ChatModule,
-    FormsModule, ReactiveFormsModule
+    FormsModule, ReactiveFormsModule,
+    DialogModule
   ]
 })
 export class BlogContentModule { }
