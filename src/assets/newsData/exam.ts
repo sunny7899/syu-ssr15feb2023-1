@@ -72,15 +72,10 @@ export default[
                         "Qualified":"9,93,069",
                     },
                     
-                ]
+                ],
+                "heading":"<b>Source: </b><a href=https://twitter.com/DG_NTA/status/1567577488720822273 target=_blank>https://twitter.com/DG_NTA/status/1567577488720822273</a>"
             },
-            {
-                type: 'text',
-                title: '',
-                info: '',
-                img:"news/img/national-testing-agency-press-service.jpg",
-                data: '<p><b style="color:red">Souce: </b><a href="https://twitter.com/DG_NTA/status/1567577488720822273" target="_blank">https://twitter.com/DG_NTA/status/1567577488720822273</a></p>'
-            },
+            
             {
                 "type": "table",
                 "title": "NEET UG Exam Toppers List 2022",
@@ -357,7 +352,7 @@ export default[
             {
                 type: 'list-bollet',
                 title: 'How to Download the Answer Key?',
-                info: '<p><b>Students can check the NEET UG 2022 answer key on <a href="https://neet.nta.nic.in/" target=_blank>neet.nta.nic.in</a> and follow the simple steps to download the answer key:</b></p>',
+                info: '<p>Students can check the NEET UG 2022 answer key on <a href="https://neet.nta.nic.in/" target=_blank>neet.nta.nic.in</a> and follow the simple steps to download the answer key:</p>',
                 data: [
                     " Visit the website and search for the notification of release of the NEET UG 2022 answer key.",
                     " Click on the official link of the notification of the answer key.",

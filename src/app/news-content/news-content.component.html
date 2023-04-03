@@ -61,7 +61,7 @@
                   <p class="mb-0">Bhavesh Nimodiya</p>
                 </div>
               </div>
-              <div class="col-lg-3 col-4 col-sm-6" style="cursor: pointer;" (click)="routerParentPage(newsData.Categories)">
+              <div class="col-lg-3 col-4 col-sm-6" style="cursor: pointer;" (click)="routerParentPage(newsData.Categories+'/.')">
                 <div class="flex-holder blog-info"  id="medical">
                   <img
                     src="../../assets/img/Blog_Content_Icons/8.Medical/Medical.png"
@@ -93,24 +93,24 @@
                   <p-dialog header="Share" [(visible)]="displayBasic" [baseZIndex]="10000" id="social-share-dialog"
                   [responsive]="true" [transitionOptions]="'0ms'" [modal]="true" [dismissableMask]="true">
                   <!--[style]="{ width: '20vw' }" -->
-                  <a href="https://api.whatsapp.com/send?text={{ posturl }}" target="_blank">
+                  <a href="https://api.whatsapp.com/send?text={{ 'https://www.selectyouruniversity.com/news/'+newsData.url.replaceAll('.', ' ') }}" target="_blank">
                     <img src="../../assets/img/whatsapp.png" alt="" class="social-icon" />
                   </a>
-                  <a href="https://www.facebook.com/sharer.php?u={{ posturl }}" target="_blank">
+                  <a href="https://www.facebook.com/sharer.php?u={{ 'https://www.selectyouruniversity.com/news/'+newsData.url.replaceAll('.', ' ') }}" target="_blank">
                     <img src="../../assets/img/facebook1.png" alt="" class="social-icon" />
                   </a>
                   <a href="https://pinterest.com/pin/create/bookmarklet/?media=[post-img]&url={{
-                      posturl
+                      'https://www.selectyouruniversity.com/news/'+newsData.url.replaceAll('.', ' ')
                     }}&is_video=[is_video]&description=[post-title]" target="_blank">
                     <img src="../../assets/img/interest.png" alt="" class="social-icon" />
                   </a>
                   <a href="https://twitter.com/share?url={{
-                      posturl
+                      'https://www.selectyouruniversity.com/news/'+newsData.url.replaceAll('.', ' ')
                     }}&text=[post-title]&via=[via]&hashtags=[hashtags]" target="_blank">
                     <img src="../../assets/img/tw.png" alt="" class="social-icon" />
                   </a>
                   <a href="https://www.linkedin.com/shareArticle?url={{
-                      posturl
+                      'https://www.selectyouruniversity.com/news/'+newsData.url.replaceAll('.', ' ')
                     }}" target="_blank">
                     <img src="../../assets/img/linked.png" alt="" class="social-icon" />
                   </a>
@@ -142,7 +142,7 @@
                       class="tab-text"
                       [ngClass]="{ limitTextHeight: isReadMore }"
                     >
-                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p id="size" style="font-weight:bold;" [innerHTML]="item.info"></p>
                       <p [innerHTML]="item.data"></p>
                     </div>
 
@@ -189,7 +189,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2  class="size" [innerHTML]="item.title"></h2>
-                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p id="size" style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table
                       class="table text-center table-hover table-responsive w-100 d-md-table"
@@ -217,7 +217,7 @@
                     *ngIf="item.type == 'nested-table'"
                   >
                     <h2  class="size" [innerHTML]="item.title"></h2>
-                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p id="size" style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table
                       cellspacing="0"
@@ -243,7 +243,7 @@
                   </div>
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2  class="size" [innerHTML]="item.title"></h2>
-                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p id="size" style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -278,7 +278,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'list-bollet'">
                     <h2  class="size" [innerHTML]="item.title"></h2>
-                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p id="size" style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <ul class="cust-padding">
                       <li *ngFor="let Listitem of item.data"><p [innerHTML]="Listitem"></p></li>
@@ -287,7 +287,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'number-list'">
                     <h2  class="size" [innerHTML]="item.title"></h2>
-                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p id="size" style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol style="margin-bottom: 0px" type="1">
@@ -301,7 +301,7 @@
 
                   <div class="col-12" *ngIf="item.type == 'step-list'">
                     <h2  class="size" [innerHTML]="item.title"></h2>
-                    <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <p id="size" style="font-weight:bold;" [innerHTML]="item.info"></p>
                     <p [innerHTML]="item.textBelowInfo"></p>
 
                     <ol

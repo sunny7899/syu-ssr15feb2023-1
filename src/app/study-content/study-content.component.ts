@@ -19,7 +19,7 @@ export class StudyContentComponent implements OnInit {
   url: any
   h1Title:any
 
-  Course: any = ['Btech', 'Mtech', 'Bsc', 'Msc','Bca','Mca'];
+  Course: any = ['MBBS','BTech', 'MTech','MBA','PGDM','BCA','MCA', 'Bsc', 'Msc'];
   registrationForm = this.fb.group({
     cCourse: ['', [Validators.required]],
   });

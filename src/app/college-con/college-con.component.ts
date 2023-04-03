@@ -45,7 +45,7 @@ import { jsPDF } from 'jspdf';
 })
 export class CollegeConComponent implements OnInit {
 
-  Course: any = ['Btech', 'Mtech', 'Bsc', 'Msc','Bca','Mca'];
+  Course: any = ['MBBS','BTech', 'MTech','MBA','PGDM','BCA','MCA', 'Bsc', 'Msc'];
   registrationForm = this.fb.group({
     cCourse: ['', [Validators.required]],
   });

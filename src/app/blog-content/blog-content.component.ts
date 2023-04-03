@@ -180,6 +180,12 @@ export class BlogContentComponent implements OnInit {
           });
 
   }
+  routerParentPage(place: any) {
+    console.log('this.blogsData: ', this.blogsData);
+    console.log('place: ', place);
+    let url = place.replaceAll(' ', '-')
+    this.router.navigate([`blog/category/${url.toLowerCase()}/`]);
+  }
 
   showText() {
     this.isReadMore = !this.isReadMore

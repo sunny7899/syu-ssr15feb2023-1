@@ -9,7 +9,7 @@
           <div class="col-lg-5 col-12 col-sm-12">
             <div class="row row-without-gutter college-name">
               <div class="col-2 img text-lg-right">
-                <img src='{{ "https://www.selectyouruniversity.com/logo/" + collegeData.url + ".png" }}'  />
+                <img src='{{ "https://www.selectyouruniversity.com/logo/" + collegeData.url + ".png" }}' />
               </div>
 
 
@@ -276,8 +276,18 @@
                                   <div class="input-group-text bg-transparent icon">
                                     <i class="fa fa-graduation-cap"></i>
                                   </div>
-                                  <input class="form-control py-2 border-right-0 border form-input" type="text"
-                                    placeholder="Course Interested In*" id="course" formControlName="cCourse" />
+                                  <select 
+                                  class="form-control py-1 border-right-0 border form-input"
+                                  placeholder="Course Interested In*" 
+                                  id="course" 
+                                  (change)="changeCourse($event)"
+                                  formControlName="cCourse">
+                                    <option value="" id="course" class="form-control py-1 border-right-0  form-input">
+                                      Course Interested In*</option>
+                                    <option *ngFor="let course of Course" [ngValue]="course">
+                                      {{ course }}
+                                    </option>
+                                  </select>
                                 </div>
                                 <div *ngIf="m['cCourse'].touched && m['cCourse'].invalid" class="validation">
                                   <div *ngIf="m['cCourse'].errors['required']">Please enter Course</div>
@@ -320,21 +330,22 @@
                         </form>
                       </div>
                     </div>
-                    
+
                     <!--thank you message div-->
-                    <div class="vh-50 d-flex justify-content-center align-items-center" *ngIf="form2 === true" id="thankyouform">
+                    <div class="vh-50 d-flex justify-content-center align-items-center" *ngIf="form2 === true"
+                      id="thankyouform">
                       <div>
-                          <div class="mb-4 text-center">
-                              <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75"
-                                  fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
-                                  <path
-                                      d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
-                              </svg>
-                          </div>
-                          <div class="text-center">
-                              <h1>Thank You !</h1>
-                              <p>Your submission has bees sent. </p>
-                          </div>
+                        <div class="mb-4 text-center">
+                          <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75"
+                            fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                            <path
+                              d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
+                          </svg>
+                        </div>
+                        <div class="text-center">
+                          <h1>Thank You !</h1>
+                          <p>Your submission has bees sent. </p>
+                        </div>
                       </div>
                     </div>
 
@@ -344,11 +355,11 @@
                         <h5 class="form-head text-center">Register Now To Apply</h5>
                         <div> -->
 
-                          <!-- <p class="sub-title text-center">
+                    <!-- <p class="sub-title text-center">
                             IIT Gandhinagar - Indian Institute of Technology -[IITG]
                           </p> -->
 
-                        <!-- </div>
+                    <!-- </div>
                         <div>
                           <h5 class="edu-title text-center">Current Education Details</h5>
                         </div>
@@ -358,11 +369,11 @@
                               <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
                                 <div class="input-group"> -->
 
-                                  <!-- <div class="input-group-text bg-transparent icon"> -->
-                                  <!-- <i class="fa fa-user"></i> -->
-                                  <!-- </div> -->
+                    <!-- <div class="input-group-text bg-transparent icon"> -->
+                    <!-- <i class="fa fa-user"></i> -->
+                    <!-- </div> -->
 
-                                  <!-- <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                    <!-- <input class="form-control py-2 border-right-0 border form-input1" type="text"
                                     placeholder="Select Graduation College/Institue*" id="graduation"
                                     formControlName="qgraduation" />
                                 </div>
@@ -377,11 +388,11 @@
                               <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="input-group"> -->
 
-                                  <!-- <div class="input-group-text bg-transparent icon"> -->
-                                  <!-- <i class="fa fa-envelope"></i> -->
-                                  <!-- </div> -->
+                    <!-- <div class="input-group-text bg-transparent icon"> -->
+                    <!-- <i class="fa fa-envelope"></i> -->
+                    <!-- </div> -->
 
-                                  <!-- <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                    <!-- <input class="form-control py-2 border-right-0 border form-input1" type="text"
                                     placeholder="Which Course Did You Do?*" id="course" formControlName="qcourse" />
                                 </div>
                                 <div class="validation" *ngIf="
@@ -399,11 +410,11 @@
                               <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
                                 <div class="input-group"> -->
 
-                                  <!-- <div class="input-group-text bg-transparent icon"> -->
-                                  <!-- <i class="fa fa-phone flip"></i> -->
-                                  <!-- </div> -->
+                    <!-- <div class="input-group-text bg-transparent icon"> -->
+                    <!-- <i class="fa fa-phone flip"></i> -->
+                    <!-- </div> -->
 
-                                  <!-- <input class="form-control py-2 border-right-0 border form-input1" type="number"
+                    <!-- <input class="form-control py-2 border-right-0 border form-input1" type="number"
                                     placeholder="Graduation Percentage* " id="gradper" formControlName="qgradper" />
                                 </div>
                                 <div class="validation" *ngIf="
@@ -416,10 +427,10 @@
                               </div>
                               <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="input-group"> -->
-                                  <!-- <div class="input-group-text bg-transparent icon"> -->
-                                  <!-- <i class="fa fa-map-marker"></i> -->
-                                  <!-- </div> -->
-                                  <!-- <input class="form-control py-2 border-right-0 border form-input1" type="text"
+                    <!-- <div class="input-group-text bg-transparent icon"> -->
+                    <!-- <i class="fa fa-map-marker"></i> -->
+                    <!-- </div> -->
+                    <!-- <input class="form-control py-2 border-right-0 border form-input1" type="text"
                                     placeholder="Work Experience (in years)*" id="experience"
                                     formControlName="qexperience" />
                                 </div>
@@ -466,7 +477,7 @@
                                     placeholder="GATE(Optional)" id="name" formControlName="qgate" />
                                 </div> -->
 
-                                <!-- <div
+                    <!-- <div
                                   class="validation"
                                   *ngIf="
                                     RegistrationFrom2.get('qgate').invalid &&
@@ -477,14 +488,14 @@
                                   Enter GATE Score.
                                 </div> -->
 
-                              <!-- </div>
+                    <!-- </div>
                               <div class="col-lg-4">
                                 <div class="input-group">
                                   <input class="form-control py-2 border-right-0 border score-input" type="text"
                                     placeholder="GRE(Optional)" id="name" formControlName="qgre" />
                                 </div> -->
 
-                                <!-- <div
+                    <!-- <div
                                   class="validation"
                                   *ngIf="
                                     RegistrationFrom2.get('qgre').invalid &&
@@ -495,7 +506,7 @@
                                   Enter GRE Score.
                                 </div> -->
 
-                              <!-- </div>
+                    <!-- </div>
                               <div class="col-lg-2"></div>
                             </div>
                             <div class="row" style="margin-top: 12px">
@@ -522,11 +533,11 @@
                         <h5 class="form-head text-center">Register Now To Apply</h5>
                         <div> -->
 
-                          <!-- <p class="sub-title text-center">
+                    <!-- <p class="sub-title text-center">
                             IIT Gandhinagar - Indian Institute of Technology -[IITG]
                           </p> -->
 
-                        <!-- </div>
+                    <!-- </div>
                         <div>
                           <h5 class="edu-title text-center">Past Education Details</h5>
                         </div>
@@ -607,11 +618,11 @@
                         <h5 class="form-head text-center">Register Now To Apply</h5>
                         <div> -->
 
-                          <!-- <p class="sub-title text-center">
+                    <!-- <p class="sub-title text-center">
                             IIT Gandhinagar - Indian Institute of Technology -[IITG]
                           </p> -->
 
-                        <!-- </div>
+                    <!-- </div>
                         <div>
                           <h5 class="edu-title text-center">Past Education Details</h5>
                         </div>
@@ -720,24 +731,26 @@
                 <p-dialog header="Share" [(visible)]="displayBasic" [baseZIndex]="10000" id="social-share-dialog"
                   [responsive]="true" [transitionOptions]="'0ms'" [modal]="true" [dismissableMask]="true">
                   <!--[style]="{ width: '20vw' }" -->
-                  <a href="https://api.whatsapp.com/send?text={{ posturl }}" target="_blank">
+                  <a href="https://api.whatsapp.com/send?text={{ 'https://www.selectyouruniversity.com/college/'+collegeData.url+'/' }}"
+                    target="_blank">
                     <img src="../../assets/img/whatsapp.png" alt="" class="social-icon" />
                   </a>
-                  <a href="https://www.facebook.com/sharer.php?u={{ posturl }}" target="_blank">
+                  <a href="https://www.facebook.com/sharer.php?u={{ 'https://www.selectyouruniversity.com/college/'+collegeData.url+'/'  }}"
+                    target="_blank">
                     <img src="../../assets/img/facebook1.png" alt="" class="social-icon" />
                   </a>
                   <a href="https://pinterest.com/pin/create/bookmarklet/?media=[post-img]&url={{
-                      posturl
+                      'https://www.selectyouruniversity.com/college/'+collegeData.url+'/' 
                     }}&is_video=[is_video]&description=[post-title]" target="_blank">
                     <img src="../../assets/img/interest.png" alt="" class="social-icon" />
                   </a>
                   <a href="https://twitter.com/share?url={{
-                      posturl
+                      'https://www.selectyouruniversity.com/college/'+collegeData.url+'/' 
                     }}&text=[post-title]&via=[via]&hashtags=[hashtags]" target="_blank">
                     <img src="../../assets/img/tw.png" alt="" class="social-icon" />
                   </a>
                   <a href="https://www.linkedin.com/shareArticle?url={{
-                      posturl
+                      'https://www.selectyouruniversity.com/college/'+collegeData.url+'/' 
                     }}" target="_blank">
                     <img src="../../assets/img/linked.png" alt="" class="social-icon" />
                   </a>
@@ -752,7 +765,9 @@
                                      </share-buttons> -->
                 </p-dialog>
                 <img src="../../assets/img/College_Icons/2.IIT_Delhi/review.png" alt="" class="review-img" />
-                <a id="checkrev" href='{{ "college/" + collegeData.url + "/review/." }}'><p>Check review</p></a>
+                <a id="checkrev" href='{{ "college/" + collegeData.url + "/review/." }}'>
+                  <p>Check review</p>
+                </a>
               </div>
             </div>
 
@@ -771,8 +786,8 @@
 
                            </owl-carousel> -->
             <!-- <gallery [items]="images2" thumbPosition="left"></gallery> -->
-            
-                <!-- <div *ngFor="let itemtype of collegeData.gallery" id="slider">
+
+            <!-- <div *ngFor="let itemtype of collegeData.gallery" id="slider">
                   <figure>
                   <ng-container *ngFor="let item of itemtype.image">
                     <div *ngIf="item.type=='image'">
@@ -783,8 +798,8 @@
                   </ng-container>
                 </figure>
                 </div> -->
-              </div>
-          
+          </div>
+
         </div>
       </div>
 
@@ -1710,7 +1725,7 @@
                       <ng-container *ngFor="let item of itemtype.image">
                         <div *ngIf="item.type=='image'">
                           <div>
-                            <img src={{item.data}} alt={{item.alt}}/>
+                            <img src={{item.data}} alt={{item.alt}} />
                           </div>
                         </div>
                       </ng-container>
@@ -2387,9 +2402,9 @@
                   </div>
                 </div>
               </div>
-              </div>
-              </div>
-              <!-- <div class="row row-without-gutter">
+            </div>
+          </div>
+          <!-- <div class="row row-without-gutter">
                 <div class="card other-courses">
                   <div class="card-header text-center">
                     <h5>{{studuentAlsoVisit.length > 0 ? studuentAlsoVisit[0]['Right Side Subject']:''}}</h5>
@@ -2410,7 +2425,7 @@
                   </div>
                 </div>
               </div> -->
-              <!-- <div class="row row-without-gutter">
+          <!-- <div class="row row-without-gutter">
                 <div class="card other-courses">
                   <div class="card-header text-center">
                     <h5>Students also Visited1</h5>
@@ -2430,7 +2445,7 @@
                   </div>
                 </div>
               </div> -->
-              <!-- <div class="row row-without-gutter">
+          <!-- <div class="row row-without-gutter">
                 <div class="card other-courses">
                   <div class="card-header text-center">
                     <h5>Students also Visited2</h5>
@@ -2450,143 +2465,123 @@
                   </div>
                 </div>
               </div> -->
-              
-              <!--form starts here-->
-              <div #stickyDiv [class.stickyDiv]="stickyDiv">
-              <div class="form2">
-    
-                <div class="container">
-                  <!-- Left Card -->
-                  <div class="row" id="row">
-                    
-              
-                    <!-- Right Card Form 1-->
-                    <div class="col-lg-12 col-md-12" *ngIf="form5 === true">
-                      <div class="card form-card2">
-                        <h5 class="form-head2 text-center">Register Now To Apply</h5>
-                        
-                        <form [formGroup]="RegistrationForm1">
-                          <div class="form-div2">
-                            <div class="row">
-                              <div class="form-group col-lg-12 col-md-12 col-sm-6">
-                                <div class="input-group">
-                                  <div class="input-group-text bg-transparent icon2">
-                                    <i class="fa fa-user"></i>
-                                  </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input2"
-                                    type="text"
-                                    placeholder="Full Name*"
-                                    id="name"
-                                    formControlName="cCandidateName"
-                                  />
+
+          <!--form starts here-->
+          <div #stickyDiv [class.stickyDiv]="stickyDiv">
+            <div class="form2">
+
+              <div class="container">
+                <!-- Left Card -->
+                <div class="row" id="row">
+
+
+                  <!-- Right Card Form 1-->
+                  <div class="col-lg-12 col-md-12" *ngIf="form5 === true">
+                    <div class="card form-card2">
+                      <h5 class="form-head2 text-center">Register Now To Apply</h5>
+
+                      <form [formGroup]="RegistrationForm1">
+                        <div class="form-div2">
+                          <div class="row">
+                            <div class="form-group col-lg-12 col-md-12 col-sm-6">
+                              <div class="input-group">
+                                <div class="input-group-text bg-transparent icon2">
+                                  <i class="fa fa-user"></i>
                                 </div>
-                                <div *ngIf="m2['cCandidateName'].touched && m2['cCandidateName'].invalid" class="validation2">
-                                  <div *ngIf="m2['cCandidateName'].errors['required']">Please Enter Full Name</div>
-                                </div>
+                                <input class="form-control py-2 border-right-0 border form-input2" type="text"
+                                  placeholder="Full Name*" id="name" formControlName="cCandidateName" />
                               </div>
-                              <div class="col-lg-12 col-md-12 col-sm-6">
-                                <div class="input-group">
-                                  <div class="input-group-text bg-transparent icon2">
-                                    <i class="fa fa-envelope"></i>
-                                  </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input2"
-                                    type="text"
-                                    placeholder="Email Address*"
-                                    id="email"
-                                    formControlName="cEmail"
-                                  />
+                              <div *ngIf="m2['cCandidateName'].touched && m2['cCandidateName'].invalid"
+                                class="validation2">
+                                <div *ngIf="m2['cCandidateName'].errors['required']">Please Enter Full Name</div>
+                              </div>
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-6">
+                              <div class="input-group">
+                                <div class="input-group-text bg-transparent icon2">
+                                  <i class="fa fa-envelope"></i>
                                 </div>
-                                <div *ngIf="m2['cEmail'].touched && m2['cEmail'].invalid" class="validation2">
-                                  <div *ngIf="m2['cEmail'].errors['required']">Please enter email address</div>
-                                  <div *ngIf="m2['cEmail'].errors['pattern']">Please enter valid email address</div>
-                                </div>
+                                <input class="form-control py-2 border-right-0 border form-input2" type="text"
+                                  placeholder="Email Address*" id="email" formControlName="cEmail" />
+                              </div>
+                              <div *ngIf="m2['cEmail'].touched && m2['cEmail'].invalid" class="validation2">
+                                <div *ngIf="m2['cEmail'].errors['required']">Please enter email address</div>
+                                <div *ngIf="m2['cEmail'].errors['pattern']">Please enter valid email address</div>
                               </div>
                             </div>
                           </div>
-                          <div class="form-div2">
-                            <div class="row">
-                              <div class="col-lg-12 col-md-12 col-sm-6" id="phone">
-                                <div class="input-group">
-                                  <div class="input-group-text bg-transparent icon2">
-                                    <i class="fa fa-phone flip2"></i>
-                                  </div>
-                                  <input
-                                    class="form-control py-2 border-right-0 border form-input2"
-                                    type="number"
-                                    step="0.01"
-                                    placeholder="Mobile Number*"
-                                    id="number"
-                                    formControlName="cMobile"
-                                  />
+                        </div>
+                        <div class="form-div2">
+                          <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-6" id="phone">
+                              <div class="input-group">
+                                <div class="input-group-text bg-transparent icon2">
+                                  <i class="fa fa-phone flip2"></i>
                                 </div>
-                                <div *ngIf="m2['cMobile'].touched && m2['cMobile'].invalid" class="validation2">
-                                  <div *ngIf="m2['cMobile'].errors['required']">Please enter mobile number</div>
-                                  <div *ngIf="m2['cMobile'].errors['pattern']">Mobile number is not 10 digit</div>
-                                </div>
+                                <input class="form-control py-2 border-right-0 border form-input2" type="number"
+                                  step="0.01" placeholder="Mobile Number*" id="number" formControlName="cMobile" />
                               </div>
-                              
+                              <div *ngIf="m2['cMobile'].touched && m2['cMobile'].invalid" class="validation2">
+                                <div *ngIf="m2['cMobile'].errors['required']">Please enter mobile number</div>
+                                <div *ngIf="m2['cMobile'].errors['pattern']">Mobile number is not 10 digit</div>
+                              </div>
                             </div>
+
                           </div>
-                          <div class="form-div2" id="form-div2">
+                        </div>
+                        <div class="form-div2" id="form-div2">
+                          <div class="row">
+
+
+                            <div class="terms2">
+                              <p>
+                                By submitting this form, you accept and agree to our<span style="color: cornflowerblue">
+                                  Terms of use
+                                </span>
+                              </p>
+                            </div>
                             <div class="row">
-                              
-                              
-                              <div class="terms2">
-                                <p>
-                                  By submitting this form, you accept and agree to our<span
-                                    style="color: cornflowerblue"
-                                  >
-                                    Terms of use
-                                  </span>
-                                </p>
-                              </div>
-                              <div class="row">
-                                <!-- <div class="col-lg-10 col-md-10 col-sm-10 login-block">
+                              <!-- <div class="col-lg-10 col-md-10 col-sm-10 login-block">
                                   Already Registered? Click Here To Login.
                                 </div> -->
-                                <div class="col-lg-2 col-md-2 col-sm-2">
-                                  <button
-                                    type="button"
-                                    class="btn submit2"
-                                    [disabled]="!RegistrationForm1.valid"
-                                    (click)="submitFormS()"
-                                  >
-                                    SUBMIT
-                                  </button>
-                                  
-                                </div>
-                                
+                              <div class="col-lg-2 col-md-2 col-sm-2">
+                                <button type="button" class="btn submit2" [disabled]="!RegistrationForm1.valid"
+                                  (click)="submitFormS()">
+                                  SUBMIT
+                                </button>
+
                               </div>
+
                             </div>
                           </div>
-                        </form>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+
+                  <div class="col-12 vh-50 d-flex justify-content-center align-items-center" *ngIf="form6 === true"
+                    id="thankyouform2">
+                    <div>
+                      <div class="mb-4 text-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75"
+                          fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                          <path
+                            d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
+                        </svg>
+                      </div>
+                      <div class="text-center">
+                        <h1>Thank You !</h1>
+                        <p>Your submission has bees sent. </p>
                       </div>
                     </div>
-              
-                    <div class="col-12 vh-50 d-flex justify-content-center align-items-center" *ngIf="form6 === true" id="thankyouform2">
-                      <div>
-                          <div class="mb-4 text-center">
-                              <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75"
-                                  fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
-                                  <path
-                                      d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
-                              </svg>
-                          </div>
-                          <div class="text-center">
-                              <h1>Thank You !</h1>
-                              <p>Your submission has bees sent. </p>
-                          </div>
-                      </div>
-                      </div>
-                  </div> 
+                  </div>
                 </div>
-                </div>
-                </div>
+              </div>
             </div>
-          
-        
+          </div>
+        </div>
+
+
       </div>
     </div>
   </div>

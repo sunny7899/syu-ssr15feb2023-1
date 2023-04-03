@@ -856,24 +856,24 @@
                 <p-dialog header="Share" [(visible)]="displayBasic" [style]="{ width: '20vw' }" [baseZIndex]="10000"
                   id="social-share-dialog" [responsive]="true" [transitionOptions]="'0ms'" [modal]="true"
                   [dismissableMask]="true">
-                  <a href="https://api.whatsapp.com/send?text={{ posturl }}" target="_blank">
+                  <a href="https://api.whatsapp.com/send?text={{ 'https://www.selectyouruniversity.com/university/'+universityData.url+'/' }}" target="_blank">
                     <img src="../../assets/img/whatsapp.png" alt="" class="social-icon" />
                   </a>
-                  <a href="https://www.facebook.com/sharer.php?u={{ posturl }}" target="_blank">
+                  <a href="https://www.facebook.com/sharer.php?u={{ 'https://www.selectyouruniversity.com/university/'+universityData.url+'/' }}" target="_blank">
                     <img src="../../assets/img/facebook1.png" alt="" class="social-icon" />
                   </a>
                   <a href="https://pinterest.com/pin/create/bookmarklet/?media=[post-img]&url={{
-                        posturl
+                        'https://www.selectyouruniversity.com/university/'+universityData.url+'/'
                       }}&is_video=[is_video]&description=[post-title]" target="_blank">
                     <img src="../../assets/img/interest.png" alt="" class="social-icon" />
                   </a>
                   <a href="https://twitter.com/share?url={{
-                        posturl
+                        'https://www.selectyouruniversity.com/university/'+universityData.url+'/'
                       }}&text=[post-title]&via=[via]&hashtags=[hashtags]" target="_blank">
                     <img src="../../assets/img/tw.png" alt="" class="social-icon" />
                   </a>
                   <a href="https://www.linkedin.com/shareArticle?url={{
-                        posturl
+                        'https://www.selectyouruniversity.com/university/'+universityData.url+'/'
                       }}" target="_blank">
                     <img src="../../assets/img/linked.png" alt="" class="social-icon" />
                   </a>
