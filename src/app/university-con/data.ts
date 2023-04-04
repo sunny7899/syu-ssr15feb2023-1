@@ -1,6 +1,7 @@
 //import * as amityglobalbusinessschool from '../../assets/universityData/amity-global-business-school'
 //import * as amityinstituteofinformationtechnologymumbai from '../../assets/universityData/amity-institute-of-information-technology'
 import * as avicennatajikstatemedicaluniversity from '../../assets/universityData/avicenna-tajik-state-medical-university'
+import * as bridgetowninternationaluniversity from '../../assets/universityData/bridgetown-international-university'
 import * as alteuniversitygeorgia from '../../assets/universityData/alte-university-georgia'
 import * as caspianinternationalschoolofmedicine from '../../assets/universityData/caspian-international-school-of-medicine'
 import * as siberianstatemedicaluniversity from '../../assets/universityData/siberian-state-medical-university'
@@ -413,6 +414,7 @@ export {
     
     //amityglobalbusinessschool,
     //amityinstituteofinformationtechnologymumbai,
+    bridgetowninternationaluniversity,
     avicennatajikstatemedicaluniversity,
     alteuniversitygeorgia,
     caspianinternationalschoolofmedicine,

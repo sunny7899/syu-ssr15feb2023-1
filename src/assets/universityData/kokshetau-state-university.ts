@@ -157,7 +157,7 @@ export const kokshetaustateuniversity = {
     "coursesandfees": [
         {
             type: 'title',
-            title: "Kokshetau State University, Kazakhstan - courses & Fees"
+            title: "Kokshetau State University, Kazakhstan - Courses & Fees"
 
         },
         {
@@ -359,13 +359,13 @@ export const kokshetaustateuniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Kokshetau State University, Kazakhstan - courses & Fees" },
+                { name: "title", content: "Kokshetau State University, Kazakhstan - Courses & Fees 2023" },
                 { name: "description", content: "know about Kokshetau State University, Eligibility, Required documents, courses Duration. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "Kokshetau State University, Kazakhstan - courses & Fees"
+            title: "Kokshetau State University, Kazakhstan - Courses & Fees 2023"
         },
         {
             type: "meta-links",
@@ -494,6 +494,18 @@ export const kokshetaustateuniversity = {
 
         },
         {
+            "type": "list-bollet",
+            "title": "Kokshetau State University Reviews",
+            "info": "",
+            "data": [
+                "I am Mira, and I am pursuing my bachelor's degree at Kokshetau State University. The faculty members are well-versed in their subjects and provide excellent guidance to the students. The campus is beautiful, and the university provides various extracurricular activities for students to engage in. Overall, I am happy with my experience here. : Mira Rathod",
+                "Hi, I am Rohan, and I am currently studying at Kokshetau State University for my master's degree. The faculty here is very supportive, and the course curriculum is comprehensive. The university also provides great opportunities for students to participate in research activities. I would highly recommend this university to other Indian students. : Rohan Jaiswal.",
+                "My name is Aashi, and I am pursuing my MBBS at Kokshetau State University. The university has state-of-the-art facilities and a conducive environment for research. The professors are knowledgeable and provide great mentorship to students. I am grateful for the opportunities provided by the university to further my academic career.  : Aashi Tripathi.",
+                "Hello, I am Vishal, and I am currently enrolled in the MBBS program at Kokshetau State University. The language faculty is excellent, and the classes are interactive, which helps in learning the language faster. The university also provides cultural activities, which give students a glimpse into Kazakhstani culture. I am glad I chose this university for my language studies. : Vishal Jadhav.",
+                "I am Priya, and I am studying at Kokshetau State University. The university has a diverse student population, and the professors are approachable and helpful. The campus is safe, and the university provides excellent support services to international students. I would recommend this university to anyone looking for quality education in Kazakhstan. : Priya Deshmukh."
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kokshetau State University, Kazakhstan - Reviews" },
@@ -516,6 +528,15 @@ export const kokshetaustateuniversity = {
             type: 'title',
             title: "Kokshetau State University, Kazakhstan - Placement"
 
+        },
+        {
+            "type": "list-bollet",
+            "title": "Kokshetau State University Placement",
+            "info": "",
+            "data": [
+                "Kokshetau State University offers students a vast opportunities of careers and internships. The students get to practice their internship at various modern hospitals and university hospitals.",
+                "The students get to explore the roles of differnt career paths after completing their degree from Kokshetau State University"
+            ]
         },
         {
             type: "meta",
@@ -604,6 +625,37 @@ export const kokshetaustateuniversity = {
             ]
         }
     ],
+    "scholarship": [
+        {
+            type: 'title',
+            title: "Kokshetau State University, Kazakhstan - Scholarship"
+
+        },
+        {
+            "type": "text",
+            "title": "Kokshetau State University of Scholarship",
+            "info": "",
+            "data": "There is an option of funding and scholarship for Indian student to study at Kokshetau State University.You can check the official website of Kokshetau State University or contact the university's international office to inquire about any available scholarships for Indian students."
+           
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Kokshetau State University, Kazakhstan - Scholarship" },
+                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Kokshetau State University, Kazakhstan - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kokshetau-state-university/scholarship" }
+            ]
+        }
+    ],
     "faculty": [
         {
             type: 'title',
@@ -652,37 +704,7 @@ export const kokshetaustateuniversity = {
             ]
         }
     ],
-    "scholarship": [
-        {
-            type: 'title',
-            title: "Kokshetau State University, Kazakhstan - Scholarship"
-
-        },
-        {
-            "type": "list-bollet",
-            "title": "Kokshetau State University of Scholarship",
-            "info": "Kokshetau State University provides scholarship programs for their students, have a look: ",
-            "data": "Kazakhstan Government Scholarship - th"
-           
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kokshetau State University, Kazakhstan - Scholarship" },
-                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Kokshetau State University, Kazakhstan - Scholarship"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kokshetau-state-university/scholarship" }
-            ]
-        }
-    ],
+    
     "hostel": [
         {
             type: 'title',

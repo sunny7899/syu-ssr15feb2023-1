@@ -14,28 +14,25 @@ export const pskovstateuniversity = {
 
         {
             type: 'text',
-            title: 'About Pskov State University, Russia',
+            title: '',
             // img: 'https://www.selectyouruniversity.com/images/russia-universities/pskov-state-university-college.jpg',
             data: '<p><strong>Pskov State University</strong> was founded in 1932 which is one of the best MBBS institutes in the city of Pskov, Russia. The university offers well-developed MBBS programs for foreign students with the cult of knowledge, high scientific potential, a strong commitment to research and highly professional training programs.</p><p>The university has more than 20 training and laboratory buildings, 12 student dormitories, 6 assembly halls, 8 gyms, 7 reading halls and 2 electronic reading rooms. Faculty at the university offers proven academic excellence that encourages the students for participating in regional, national, international competitions, conferences and Olympiads.</p><p>The university trains the specialists at a different level for the benefit to the economic, political, social, cultural development of the society. </p>'
         },
 
         {
             "type": "table-title",
-            "title": "Pskov State University: Quick Highlights",
+            "title": "Pskov State University: Quick Highlights 2023",
             "info": "Refer the table below for quick facts about Pskov State University:",
-            "col": [
-            ],
+            "col": [],
             "row": [
-                ["<b>Intake for MBBS Course</b>", "September 2022"],
+                ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>NEET Exam</b>", "Required"],
                 ["<b>Annual Tuition Fees</b>", "3200 USD (approx)"],
                 ["<b>Duration of MBBS Course</b>", "6 years (with 1 year internship)"],
                 ["<b>Foreign Students</b>", "800 above from 41 countries"],
-                ["<b>University Ranking</b>", "Country Rank - 175<br>World Rank - 4540"],
+                ["<b>University Ranking</b>", "Country Rank - 155<br>World Rank - 5006"],
                 ["<b>Medium of Teaching</b>", "English Language"],
                 ["<b>Recognition of University</b>", "NMC & WHO approved"],
-
-
             ]
         },
         {
@@ -67,17 +64,17 @@ export const pskovstateuniversity = {
 
         {
             "type": "table",
-            "title": "Pskov State University - Ranking 2022",
+            "title": "Pskov State University - Ranking 2023",
             "info": "According to 4icu.org, following is the country and world ranking for Pskov State University:",
             "col": [
-                "World	",
+                "World",
                 "Country",
             ],
 
             "row": [
                 {
-                    "World": "175	",
-                    "Country": "4540",
+                    "World": "155",
+                    "Country": "5006",
                 },
 
             ]
@@ -93,8 +90,6 @@ export const pskovstateuniversity = {
                 "National Medical Commission (NMC).",
                 "The Ministry of Health of the Russian Federation.",
                 "The Ministry of Education and Science of the Russia",
-
-
             ]
         },
 
@@ -111,21 +106,21 @@ export const pskovstateuniversity = {
             "row": [
                 {
                     "Particulars": "<b>Accommodation (other than a hostel)</b>",
-                    "Approx Range in USD)": "214-257",
-                    "Approx Range in Rupees": "15,000-18,000",
+                    "Approx Range in USD)": "214 - 257",
+                    "Approx Range in Rupees": "17,120 - 20,560",
                 },
                 {
                     "Particulars": "<b>Food	</b>",
-                    "Approx Range in USD)": "71-114",
-                    "Approx Range in Rupees": "5000-8000",
+                    "Approx Range in USD)": "71 - 114",
+                    "Approx Range in Rupees": "5,680 - 9,120",
                 },
                 {
                     "Particulars": "<b>Transport</b>",
-                    "Approx Range in USD)": "10-14",
-                    "Approx Range in Rupees": "700-1000",
+                    "Approx Range in USD)": "10 - 14",
+                    "Approx Range in Rupees": "800 - 1,120",
                 },
             ],
-            "heading": "<p><b> Note:</b>1$ = Rs.70</p>"
+            "heading": "<p><b> Note:</b>1$ = Rs.80 (for calculation purpose)</p>"
         },
         {
             type: 'text',
@@ -135,7 +130,7 @@ export const pskovstateuniversity = {
         },
 
         {
-            "type": "table",
+            "type": "table-table",
             "title": "",
             "info": "Important Highlights:",
             "col": [
@@ -174,11 +169,11 @@ export const pskovstateuniversity = {
     "coursesandfees": [
         {
             type: 'title',
-            title: 'Pskov State University - courses & Fees'
+            title: 'Pskov State University - Courses & Fees'
         },
         {
             "type": "table",
-            "title": "Pskov State University - MBBS Fees Structure 2022",
+            "title": "Pskov State University - MBBS Fees Structure 2023",
             "info": "",
             "col": [
                 "Particular",
@@ -222,16 +217,16 @@ export const pskovstateuniversity = {
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year 1": "<b>Rs. 2,84,500</b>",
-                    "Year 2": "<b>Rs. 2,84,500</b>",
-                    "Year 3": "<b>Rs. 2,84,500</b>",
-                    "Year 4": "<b>Rs. 2,84,500</b>",
-                    "Year 5": "<b>Rs. 2,84,500</b>",
-                    "Year 6": "<b>Rs. 2,84,500</b>"
+                    "Year 1": "<b>Rs. 2,80,000</b>",
+                    "Year 2": "<b>Rs. 2,80,000</b>",
+                    "Year 3": "<b>Rs. 2,80,000</b>",
+                    "Year 4": "<b>Rs. 2,80,000</b>",
+                    "Year 5": "<b>Rs. 2,80,000</b>",
+                    "Year 6": "<b>Rs. 2,80,000</b>"
 
                 }
             ],
-            "heading": "<p><b>Note:</b>1 USD = Rs. 71 (approx)</p>",
+            "heading": "<p><b>Note:</b>1 USD = Rs. 80 (approx)</p>",
 
         },
         {
@@ -359,13 +354,13 @@ export const pskovstateuniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Pskov State University - courses & Fees" },
+                { name: "title", content: "Pskov State University - Courses & Fees 2023" },
                 { name: "description", content: "Pskov State University offers a range of courses across a variety of disciplines, including business, arts, humanities, and more. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "Pskov State University - courses & Fees"
+            title: "Pskov State University - Courses & Fees 2023"
         },
         {
             type: "meta-links",
@@ -393,7 +388,7 @@ export const pskovstateuniversity = {
         },
         {
             "type": "step-list",
-            "title": "Admission Process (2022-23)",
+            "title": "Admission Process (2023-24)",
             "info": "<p>Following are the admission steps required for applying for MBBS programs at Pskov State University:</p><p>The admission of foreign students is conducted in order as prescribed by the international treaties of the Russian Federation and in accordance with the Ministry of Education and Science of the Russian Federation.</p><b>Following are the admission steps required for applying for MBBS programs at Pskov State University:</b>",
             "data": [
                 "<b>Step 1:</b> Fill the online application form provided on the Pskov university website.",
@@ -422,7 +417,7 @@ export const pskovstateuniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2022",
+            "title": "Important Dates - Intake 2023",
             "info": "Students should take their admissions to Pskov State University before the dates mentioned below. Check out the Important dates regarding admission at Pskov State University:",
             "col": [
                 "Events",
@@ -495,7 +490,7 @@ export const pskovstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "placement",
+            "title": "Pskov State University Placement",
             "info": "",
             "data": [
                 "Pskov State University graduates can work at their own hospital. As a consequence, candidates can enroll at Pskov State University after finishing their degree.",
@@ -551,7 +546,7 @@ export const pskovstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "scholarship",
+            "title": "Pskov State University Scholarship",
             "info": "The scholarships provided at Pskov State University are as follows:",
             "data": [
                 "Jared J. Davis Grant",

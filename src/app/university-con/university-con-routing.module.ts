@@ -93,6 +93,50 @@ const routes: Routes = [
     component: UniversityConComponent
   },
   {
+    path: 'bridgetown-international-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/faq/.',
+    component: UniversityConComponent
+  },
+  {
     path: 'avicenna-tajik-state-medical-university/.',
     component: UniversityConComponent
   },

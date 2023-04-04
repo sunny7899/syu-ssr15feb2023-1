@@ -21,7 +21,7 @@ export const bashkirstatemedicaluniversity = {
 
         {
             "type": "table-title",
-            "title": "Bashkir State Medical University - Quick Highlights",
+            "title": "Bashkir State Medical University - Quick Highlights 2023",
             "info": "Given below is the table for quick overview about Bashkir State Medical University:",
             "col": [
             ],
@@ -32,7 +32,7 @@ export const bashkirstatemedicaluniversity = {
                 ["<b>Basic Eligibility</b>", "65% in PCB for General"],
                 ["<b>NEET Exam</b>", "Yes, it is compulsory"],
                 ["<b>Annual Tuition Fees (Approx.)</b>", "2,94,120 RUB"],
-                ["<b>University Ranking</b>", "Country - 179<br>World - 5319"],
+                ["<b>University Ranking</b>", "Country - 171<br>World - 5240"],
                 ["<b>Course Duration</b>", "6 Year (including Internship)"],
                 ["<b>Medium of Education</b>", "English"],
                 ["<b>University Recognition</b>", "Approved by NMC, WHO"],
@@ -82,8 +82,8 @@ export const bashkirstatemedicaluniversity = {
 
             "row": [
                 {
-                    "World": "179",
-                    "Country": "5319",
+                    "World": "171",
+                    "Country": "5240",
                 },
 
             ]
@@ -195,7 +195,7 @@ export const bashkirstatemedicaluniversity = {
     "coursesandfees": [
         {
             type: 'title',
-            title: "Bashkir State Medical University - courses & Fees"
+            title: "Bashkir State Medical University - Courses & Fees"
         },
         {
             "type": "table",
@@ -420,13 +420,13 @@ export const bashkirstatemedicaluniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Bashkir State Medical University - courses & Fees" },
+                { name: "title", content: "Bashkir State Medical University - Courses & Fees 2023" },
                 { name: "description", content: "Bashkir State Medical University Fee Structure ; Tuition Fee with Hostel.Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "Bashkir State Medical University - courses & Fees"
+            title: "Bashkir State Medical University - Courses & Fees 2023"
         },
         {
             type: "meta-links",

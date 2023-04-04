@@ -173,7 +173,7 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
     "coursesandfees": [
         {
             type: 'title',
-            title: 'West Kazakhstan Marat Ospanov State Medical University - courses & Fees'
+            title: 'West Kazakhstan Marat Ospanov State Medical University - Courses & Fees'
         },
         {
             "type": "table",
@@ -337,13 +337,13 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "West Kazakhstan Marat Ospanov State Medical University - courses & Fees" },
+                { name: "title", content: "West Kazakhstan Marat Ospanov State Medical University - Courses & Fees 2023" },
                 { name: "description", content: "West Kazakhstan Marat Ospanov State Medical University has over 25000 students. click here courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "West Kazakhstan Marat Ospanov State Medical University - courses & Fees"
+            title: "West Kazakhstan Marat Ospanov State Medical University - Courses & Fees 2023"
         },
         {
             type: "meta-links",
@@ -507,6 +507,44 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
             type: 'title',
             title: 'West Kazakhstan Marat Ospanov State Medical University - Gallery'
         },
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/west-kazakhstan-marat-ospanov-state-medical-university-building.jpg",
+                    "alt": "West Kazakhstan Marat Ospanov State Medical University Building"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/west-kazakhstan-marat-ospanov-state-medical-university-classroom.jpg",
+                    "alt": "West Kazakhstan Marat Ospanov State Medical University Classroom"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/west-kazakhstan-marat-ospanov-state-medical-university-hostel.jpg",
+                    "alt": "West Kazakhstan Marat Ospanov State Medical University Hostel"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/west-kazakhstan-marat-ospanov-state-medical-university-main-gate.jpg",
+                    "alt": "West Kazakhstan Marat Ospanov State Medical University Main Gate"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/west-kazakhstan-marat-ospanov-state-medical-university-students.jpg",
+                    "alt": "West Kazakhstan Marat Ospanov State Medical University Student"
+                }
+            ],
+            "video": [
+                // {
+                //     "type": "video",
+                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                //     "alt": "Image 1"
+                // },
+                
+            ]
+        },
+
         {
             type: "meta",
             meta: [

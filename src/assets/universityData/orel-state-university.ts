@@ -19,14 +19,14 @@ export const orelstateuniversity = {
 
     {
       "type": "table-title",
-      "title": "Orel State University: Important Highlights",
+      "title": "Orel State University: Important Highlights 2023",
       "info": "Refer the table below for quick overview about Orel State University:",
       "row": [
         ["Intake for MBBS Course", "September"],
         ["NEET Exam", "Yes Required"],
         ["Annual Tuition Fees", "3800 USD (approx)"],
         ["Duration of MBBS Course", "6 years (with internship)"],
-        ["University Ranking", "Country Rank - 145<br>World Rank - 4679"],
+        ["University Ranking", "Country Rank - 183<br>World Rank - 5490"],
         ["Total Foreign Students", "5000+"],
         ["Total Indian Students", "500+"],
         ["Medium of Teaching", "English Language"],
@@ -49,7 +49,7 @@ export const orelstateuniversity = {
     },
     {
       "type": "table",
-      "title": "Orel State University - Ranking 2022",
+      "title": "Orel State University - Ranking 2023",
       "info": "According to 4icu.org, following is the country and world ranking for Orel State University:",
       "col": [
         "Country",
@@ -57,8 +57,8 @@ export const orelstateuniversity = {
       ],
       "row": [
         {
-          "Country": "145",
-          "World": "4679",
+          "Country": "183",
+          "World": "5490",
         },
 
       ]
@@ -82,17 +82,12 @@ export const orelstateuniversity = {
         }
       ]
     },
-    {
-      "type": "text",
-      "title": "Cost of Living",
-      "info": "The expenses of living in Orel city, Russia is not much different than living in India:",
-      "data": "<p>The table below shows the average and approx cost of living in Orel for a month. This may vary from person to person and according to the living style of the students.</p>"
-    },
-
+    
     {
       "type": "table",
-      title: '',
-      info: '',
+      title: 'Cost of Living',
+      info: 'The expenses of living in Orel city, Russia is not much different than living in India:',
+      "textBelowInfo":"The table below shows the average and approx cost of living in Orel for a month. This may vary from person to person and according to the living style of the students.",
       "col": [
         "Particulars",
         "Cost in INR",
@@ -101,27 +96,26 @@ export const orelstateuniversity = {
       "row": [
         {
           "Particulars": "Accommodation (other than a hostel)	",
-          "Cost in INR": "30,000-40,000",
-          "Cost in USD": "428-571"
+          "Cost in INR": "34,240 - 45,680",
+          "Cost in USD": "428 - 571"
         },
         {
           "Particulars": "Food",
-          "Cost in INR": "5000-8000",
-          "Cost in USD": "71-114"
+          "Cost in INR": "5,680 - 9,120",
+          "Cost in USD": "71 - 114"
         },
         {
           "Particulars": "Transport",
-          "Cost in INR": "700-1000",
-          "Cost in USD": "10-14"
+          "Cost in INR": "800 - 1,120",
+          "Cost in USD": "10 - 14"
         },
       ],
-      "heading": "<p><b><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>"
+      "heading": "<p><b><u>Note:</u></b> 1$ = 80 Rs. (for calculation purpose)</p>"
 
     },
     {
       type: 'text',
       title: 'About Oryol City',
-      img: 'orel-city.jpg',
       data: "<p>Orel is the city located on the sides of Oka River in the European part of Russia and about 364 km south-west of Moscow. The city is the capital of the Oryol region which is the educational and cultural center of central Russia. The city was founded in 1566 in accordance with the southern borders of the state.</p><p>The Oryol city has a moderate continental climate. Winters are moderately cold and summers have extremely hot and cold weather. The average temperature in the mid of January is -6.7°C and the mid-temperature in July is 20.5°C.</p><>The city has a large number of parks and botanical gardens. Governor House, Fomichev’s House and the Rodina movie theatre are the centers of attractions of the city.</p>"
     },
     {
@@ -148,7 +142,7 @@ export const orelstateuniversity = {
   "coursesandfees": [
     {
       type: 'title',
-      title: "Orel State University, Russia - courses & Fees"
+      title: "Orel State University, Russia - Courses & Fees"
 
     },
     {
@@ -194,15 +188,15 @@ export const orelstateuniversity = {
         },
         {
           "Particulars": "<b>Total Fees in Rs</b>",
-          "Year 1": "<b>Rs. 2,91,100</b>",
-          "Year 2": "<b>Rs. 2,91,100</b>",
-          "Year 3": "<b>Rs. 2,91,100</b>",
-          "Year 4": "<b>Rs. 2,91,100</b>",
-          "Year 5": "<b>Rs. 2,91,100</b>",
-          "Year 6": "<b>Rs. 2,91,100</b>"
+          "Year 1": "<b>Rs. 3,28,000</b>",
+          "Year 2": "<b>Rs. 3,28,000</b>",
+          "Year 3": "<b>Rs. 3,28,000</b>",
+          "Year 4": "<b>Rs. 3,28,000</b>",
+          "Year 5": "<b>Rs. 3,28,000</b>",
+          "Year 6": "<b>Rs. 3,28,000</b>"
         },
       ],
-      "heading": "<p><b>Note:</b> 1 USD = Rs. 71 (approx)</p>"
+      "heading": "<p><b>Note:</b> 1 USD = Rs. 80 (approx)</p>"
     },
     {
       "type": "list-bollet",
@@ -320,13 +314,13 @@ export const orelstateuniversity = {
     {
       type: "meta",
       meta: [
-        { name: "title", content: "Orel State University, Russia - courses & Fees" },
+        { name: "title", content: "Orel State University, Russia - Courses & Fees 2023" },
         { name: "description", content: "Orel State University offers competitive fees for its courses, with a focus on providing high-quality education. Check available courses and fees" },
       ],
     },
     {
       type: "meta-title",
-      title: "Orel State University, Russia - courses & Fees"
+      title: "Orel State University, Russia - Courses & Fees 2023"
     },
     {
       type: "meta-links",
@@ -357,11 +351,11 @@ export const orelstateuniversity = {
       "title": "Admission Process (2022-23)",
       "info": "Following are the simple admission steps for MBBS course at Orel State University:",
       "data": [
-        "Step 1: Apply online on the official portal of the university.",
-        "Step 2: Fill the application form & send the scanned copies of documents.",
-        "Step 3: Wait for the application review process. It takes about 10 to 15 days for approval.",
-        "Step 4: An eligible candidate will get an official invitation letter from the institute.",
-        "step 5: After getting an invitation letter, apply for the visa."
+        "<b>Step 1:</b> Apply online on the official portal of the university.",
+        "<b>Step 2:</b> Fill the application form & send the scanned copies of documents.",
+        "<b>Step 3:</b> Wait for the application review process. It takes about 10 to 15 days for approval.",
+        "<b>Step 4:</b> An eligible candidate will get an official invitation letter from the institute.",
+        "<b>Step 5:</b> After getting an invitation letter, apply for the visa."
       ]
     },
     {
@@ -381,7 +375,7 @@ export const orelstateuniversity = {
     },
     {
       "type": "table",
-      "title": "Orel State University - Academic Calendar 2022",
+      "title": "Orel State University - Academic Calendar 2023",
       "info": "Here are some Important dates to remember if you want to pursue medical career at Orel State University:",
       "col": [
         "Events",
@@ -453,7 +447,7 @@ export const orelstateuniversity = {
     },
     {
       "type": "list-bollet",
-      "title": "",
+      "title": "Orel State University Placement",
       "info": "",
       "data": [
         "Graduates of Orel State University may work at their own hospital. As a result, people who have finished their degrees are eligible to study at Orel State University.",
@@ -513,7 +507,7 @@ export const orelstateuniversity = {
     },
     {
       "type": "list-bollet",
-      "title": "",
+      "title": "Orel State University Scholarship",
       "info": "Scholarships are provided for both domestic and foreign students. The scholarships provided at Orel State University are as follows:",
       "data": [
         "The Education Future International Scholarship 2021 is available to Indian students. There is some finance offered. This grant is open to both undergraduate and postgraduate students.",
@@ -618,19 +612,13 @@ export const orelstateuniversity = {
       ]
     },
     {
-      "type": "list-bollet",
+      "type": "table-title",
       "title": "",
       "info": "Following are the amenities provided by the university:",
       "data": [
-        "Reading hall",
-        "Cleaning & Washing rooms",
-        "Dining halls",
-        "Cafeteria",
-        "Mess",
-        "Laundry",
-        "Central heating",
-        "Water supply",
-        "Internet facility"
+        ["Reading hall","Cleaning & Washing rooms","Dining halls","Cafeteria","Internet facility"],
+       [ "Mess","Laundry", "Central heating","Water supply","-"]
+        
       ]
     },
     {

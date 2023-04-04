@@ -19,7 +19,7 @@ export const crimeanfederaluniversity = {
 
         {
             "type": "table-title",
-            "title": "Crimea Federal University - Quick Highlights 2022",
+            "title": "Crimea Federal University - Quick Highlights 202",
             "info": "If you are looking to study MBBS in Russia, then have a quick overview on some important points of Crimean Federal University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -31,7 +31,7 @@ export const crimeanfederaluniversity = {
                 ["<b>Processing Time for MBBS Admission</b>", "25-30 working days"],
                 ["<b>Duration of MBBS Course</b>", "6 years (including Internship)"],
                 ["<b>Medium of Teaching</b>", "English language"],
-                ["<b>University Ranking</b>", "Country Rank - 18<br>World Rank - 3748"],
+                ["<b>University Ranking</b>", "Country Rank - 17<br>World Rank - 3933"],
                 ["<b>International Students</b>", "3000+"],
                 ["<b>Accreditation</b>", "Russian Government & Ministry of Health and Education, NMC, MSHE, WDOMS, ECFMG"]
             ]
@@ -74,7 +74,7 @@ export const crimeanfederaluniversity = {
         },
         {
             "type": "table",
-            "title": "Crimean Federal University - Ranking 2022",
+            "title": "Crimean Federal University - Ranking 2023",
             "info": "According to 4icu.org, following is the country and world ranking for Crimean Federal University:",
             "col": [
                 "Country",
@@ -82,8 +82,8 @@ export const crimeanfederaluniversity = {
             ],
             "row": [
                 {
-                    "Country": "18",
-                    "World": "3748",
+                    "Country": "17",
+                    "World": "3933",
                 },
 
             ]
