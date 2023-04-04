@@ -190,6 +190,7 @@
                   <div class="col-12" *ngIf="item.type == 'table'">
                     <h2  class="size" [innerHTML]="item.title"></h2>
                     <p id="size" style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <div class="text-center"><img class="text-center img-responsive img-fluid" src={{item.img}} alt={{item.alt}} /></div>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <table
                       class="table text-center table-hover table-responsive w-100 d-md-table"
@@ -244,6 +245,7 @@
                   <div class="col-12" *ngIf="item.type == 'table-title'">
                     <h2  class="size" [innerHTML]="item.title"></h2>
                     <p id="size" style="font-weight:bold;" [innerHTML]="item.info"></p>
+                    <div class="text-center"><img class="text-center img-responsive img-fluid" src={{item.img}} alt={{item.alt}} /></div>
                     <p [innerHTML]="item.textBelowInfo"></p>
                     <div class="row" *ngIf="item.colTitle">
                       <div class="col-lg-12">
@@ -314,12 +316,14 @@
                     </a>
                     </ol>
                   </div>
-                  <div *ngIf="item.type == 'img'">
-                    <img
-                      [src]="item.data"
-                      alt=""
-                      class="review-img custome-img"
-                    />
+                  <div class="container-box">
+                    <ng-container>
+                      <div *ngIf="item.type=='image'">
+                        <div>
+                          <img src={{item.data}} alt={{item.alt}} />
+                        </div>
+                      </div>
+                    </ng-container>
                   </div>
                 </div>
               </div>

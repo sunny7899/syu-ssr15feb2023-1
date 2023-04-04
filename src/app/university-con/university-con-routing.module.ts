@@ -5,31 +5,31 @@ import { UniversityConComponent } from './university-con.component';
 
 const routes: Routes = [
   {
-    path: 'siberian-state-medical-university',
+    path: 'siberian-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/courses-and-fees',
+    path: 'siberian-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/admission',
+    path: 'siberian-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/review',
+    path: 'siberian-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/placement',
+    path: 'siberian-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/gallery',
+    path: 'siberian-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/scholarship',
+    path: 'siberian-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {

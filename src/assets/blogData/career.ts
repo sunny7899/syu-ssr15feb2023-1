@@ -27,6 +27,7 @@ export default [
             "type": "table",
             "title": "Quick Highlights of Studying MBBS in Uzbekistan",
             "info": "",
+            //"img": "../../assets/img/university_gallery/astana-medical-university.jpg",
             "col": [
                 "Name of the Course",
                 "MBBS"
