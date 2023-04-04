@@ -402,12 +402,13 @@ export default [{
             type: 'text',
             title: '',
             info: '',
-            data: '<p><b style="color: red;"><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-russia-to-study-mbbs.php" target="_blank">Why Choose Russia to Study MBBS?</a></p>'
+            data: '<p><b style="color: red;"><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-russia-to-study-mbbs/" target="_blank">Why Choose Russia to Study MBBS?</a></p>'
         },
         {
             type: 'table-title',
             title: 'Here is the list of Top-Ranked Russian Medical universities for Indian students to study MBBS in 2022',
             info: 'Samara State Medical University',
+            "img": "../../assets/img/university_gallery/astana-medical-university.jpg",
             "col": [],
             "row": [
                 ["Foundation Year", "1919"],
