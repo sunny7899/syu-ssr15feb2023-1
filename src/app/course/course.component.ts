@@ -24,6 +24,7 @@ export class CourseComponent implements OnInit {
    RegistrationFrom4: FormGroup;
    nsrNo: any
    showMsg: boolean = false;
+  currentUrl: any;
  
    get m() {
     return this.RegistrationFrom1.controls;
@@ -51,7 +52,7 @@ export class CourseComponent implements OnInit {
     data['cCoutryCode'] = "Na"
     console.log('rom1', this.RegistrationFrom1.value)
     const { cCandidateName, cEmail, cMobile } = this.RegistrationFrom1.value;
-    this.http.get(`https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&section=insertdetails`)
+    this.http.get(`https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cCity=Na&cCourse=Na&cLinkName=course&section=insertdetails`)
       .subscribe((res) => {
         console.log('res', res)
         this.nsrNo = res
