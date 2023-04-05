@@ -2370,28 +2370,49 @@ input.form-control:focus {
     }
 }
 
-body {
-    margin: 0;
-}
+// body {
+//     margin: 0;
+// }
 
-div#slider {
-    overflow: hidden;
-}
+// div#slider {
+//     overflow: hidden;
+// }
 
-div#slider figure img {
-    width: 20%;
-    float: left;
-}
+// div#slider figure img {
+//     width: 20%;
+//     float: right;
+// }
 
-div#slider figure {
-    position: relative;
-    width: 500%;
-    margin: 0;
-    left: 0;
-    text-align: left;
-    font-size: 0;
-    animation: 30s slidy infinite;
-}
+// div#slider figure {
+//     position: relative;
+//     width: 500%;
+//     margin: 0;
+//     left: 0;
+//     text-align: right;
+//     font-size: 0;
+//     animation: 30s slidy infinite;
+// }
+
+.slider {
+    width: 300px;
+    //height: 300px;
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;  
+  }
+  .slides {
+    width: 300px;
+    flex-shrink: 0;
+    //height: 100%;
+  }
+  .slides img{
+    width: 200%;
+ float: right;
+  }
+  .slides > div {
+    /* CURRENT way. */
+    scroll-snap-align: start;
+  }
 
 input[type=number]::-webkit-outer-spin-button,
 input[type=number]::-webkit-inner-spin-button {

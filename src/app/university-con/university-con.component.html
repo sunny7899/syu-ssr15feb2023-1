@@ -892,7 +892,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-7 col-12 col-sm-12" id="slider-div">
+          <div  class="col-lg-7 col-12 col-sm-12" id="slider-div">
             <ngx-gallery [options]="galleryOptions" [images]="galleryImages" class="ngx-gallery">
             </ngx-gallery>
             <!-- <p-galleria [value]="galleriaImages">
@@ -907,16 +907,16 @@
                               
                              </owl-carousel> -->
             <!-- <gallery [items]="images2" thumbPosition="left"></gallery> -->
-            <!-- <div *ngFor="let itemtype of universityData.gallery" id="slider">
-              <figure>
+            <!-- <div *ngFor="let itemtype of universityData.gallery" class="slider">
+              
               <ng-container *ngFor="let item of itemtype.image">
-                <div *ngIf="item.type=='image'">
+                <div *ngIf="item.type=='image'" class="slides">
                   <div>
                     <img src={{item.data}} />
                   </div>
                 </div>
               </ng-container>
-            </figure>
+            
             </div> -->
           </div>
         </div>
