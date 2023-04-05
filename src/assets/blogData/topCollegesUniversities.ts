@@ -208,13 +208,13 @@ export default [{
             type: 'text',
             title: '',
             info: '',
-            data: '<p>Welcome to another lucrative career guide of <b>SELECT YOUR UNIVERSITY</b>. We care about your yearning to explore more career-related information about your favorite courses, & as always we have the navigation ready to show you the direction.</p><p>You came here to seek the <b>best medical universities to study <a href="https://www.selectyouruniversity.com/mbbs-in-russia.php" target="_blank"> MBBS in Russia </a></b>, & we have over <b>25 Russian universities listed ahead</b> for you. </p><p>We have also given detailed information about these colleges in this entire article, so keep reading to not miss out on anything. </p>'
+            data: '<p>Welcome to another lucrative career guide of <b>SELECT YOUR UNIVERSITY</b>. We care about your yearning to explore more career-related information about your favorite courses, & as always we have the navigation ready to show you the direction.</p><p>You came here to seek the <b>best medical universities to study <a href="https://www.selectyouruniversity.com/blog/best-medical-universities-in-russia" target="_blank"> MBBS in Russia </a></b>, & we have over <b>30 Russian universities listed ahead</b> for you. </p><p>We have also given detailed information about these colleges in this entire article, so keep reading to not miss out on anything. </p>'
         },
         {
             type: 'text',
-            title: 'Why choose foreign universities to do MBBS in 2022?',
+            title: 'Why choose foreign universities to do MBBS in 2023?',
             info: '',
-            data: "<p>Looking at the current crisis of global pandemic caused by a coronavirus, the duties & responsibilities of medical professionals seem to go challenging & yet more demanding on the contrary. </p><p>The epidemic of COVID-19 had a sheer <a href=https://www.selectyouruniversity.com/blog/covid-19-impacts-on-indian-education-system.php target=_blank> impact on the Indian education system </a>. </p><p>In the midst of all, the need for doctors & localized clinics are often exponentially higher to supply immediate health care facilities to the national citizens who are still inaccessible to a lot of basic clinical services. </p><p>However, the following questions still emerge to doubt the national education system & their functionality in a student's career growth.</p>"
+            data: "<p>Looking at the current crisis of global pandemic caused by a coronavirus, the duties & responsibilities of medical professionals seem to go challenging & yet more demanding on the contrary. </p><p>The epidemic of COVID-19 had a sheer <a href=https://www.selectyouruniversity.com/blog/covid-19-impacts-on-indian-education-system/ target=_blank> impact on the Indian education system </a>. </p><p>In the midst of all, the need for doctors & localized clinics are often exponentially higher to supply immediate health care facilities to the national citizens who are still inaccessible to a lot of basic clinical services. </p><p>However, the following questions still emerge to doubt the national education system & their functionality in a student's career growth.</p>"
         },
         {
             "type": "list-bollet",
@@ -252,13 +252,8 @@ export default [{
                     bds1: "313",
                     bds2: "26,773"
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b><u>Note:</u></b> The stats of colleges in the given table are subjected to constant fluctuation, but it is observed that the average is static throughout the year.</p>'
+            ],
+            "heading":'<p><b><u>Note:</u></b> The stats of colleges in the given table are subjected to constant fluctuation, but it is observed that the average is static throughout the year.</p>'
         },
         {
             type: 'list-bollet',
@@ -271,10 +266,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: 'How studying MBBS in Russia is the wisest career decision for Indian medical aspirants?',
             info: '',
-            data: "<p>Russia consists of every single element that any foreign country must have to pull the attention of international students.</p><p>Name anything & Russian universities are capable enough to provide everything to fulfill your dreams of becoming a doctor.</p><p>If we look at the data of foreign students studying in Russia, then you find a huge percentage of the population from different countries learning courses which makes up to 3% of the total student population in Russia. </p><p>It's no surprising factor that a massive portion of these students is Indian.</p><p>Russian medical universities have secured over 30 positions in the world of medical schools.</p><p>Foreign Medical Graduate Exam (FMGE) is the primary requirement for students studying abroad to get a legal license for doing medical practice in India.</p><p>The role of any international university is very vital to help Indian students in clearing the FMGE exam. The good news is Russia is one of those countries that has a legitimate track record of successive passing rates.</p>"
+            data: [
+                "Russia consists of every single element that any foreign country must have to pull the attention of international students.",
+                "Name anything & Russian universities are capable enough to provide everything to fulfill your dreams of becoming a doctor.",
+                "If we look at the data of foreign students studying in Russia, then you find a huge percentage of the population from different countries learning courses which makes up to 3% of the total student population in Russia.",
+                "It's no surprising factor that a massive portion of these students is Indian.",
+                "Russian medical universities have secured over 30 positions in the world of medical schools.",
+                "Foreign Medical Graduate Exam (FMGE) is the primary requirement for students studying abroad to get a legal license for doing medical practice in India.",
+                "The role of any international university is very vital to help Indian students in clearing the FMGE exam. The good news is Russia is one of those countries that has a legitimate track record of successive passing rates."
+            ]
         },
         {
             type: 'table',
@@ -348,16 +351,11 @@ export default [{
                     "Passed (2015-18)": "143",
                     "Percentage": "10.27"
                 }
-            ]
+            ],
+            "heading":'<p>Currently, <b>more than 10,000 students belonging to India</b> have enrolled in various educational courses in Russian universities.</p><p>According to an estimate of the Indian embassy located in Russia, <b>80% of Indian students in Russia are exclusively studying courses on medicine</b>.</p>'
         },
+        
 
-
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p>Currently, <b>more than 10,000 students belonging to India</b> have enrolled in various educational courses in Russian universities.</p><p>According to an estimate of the Indian embassy located in Russia, <b>80% of Indian students in Russia are exclusively studying courses on medicine</b>.</p>'
-        },
         {
             type: 'table-title',
             title: 'Benefits of Studying MBBS in Medical Universities of Russia',
@@ -378,9 +376,10 @@ export default [{
                 ["Deadline of the Application", "September"],
                 ["Course Commence Date", "October"],
                 ["Common Institutional Accreditation", "Ministry of Science and Higher Education of the Russian Federation"],
-                ["Recommended University", "Lomonosov Moscow State University"]
+                ["Recommended University", "Bashkir State Medical University"]
             ]
         },
+        
         {
             type: 'list-bollet',
             title: '',
@@ -396,19 +395,15 @@ export default [{
                 "Universities have a special agenda for the leisure activities of the students.",
                 "You are allowed to participate in various contests, the competition to enhance your fullest potential.",
                 "All public universities of Russia provide well-furnished hostel rooms & convenient residences with essential arrangements for living."
-            ]
+            ],
+            "heading":'<p><b><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-russia-to-study-mbbs/" target="_blank">Why Choose Russia to Study MBBS?</a></p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b style="color: red;"><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-russia-to-study-mbbs/" target="_blank">Why Choose Russia to Study MBBS?</a></p>'
-        },
+        
         {
             type: 'table-title',
-            title: 'Here is the list of Top-Ranked Russian Medical universities for Indian students to study MBBS in 2022',
-            info: 'Samara State Medical University',
-            "img": "../../assets/img/university_gallery/astana-medical-university.jpg",
+            title: 'Here is the list of Top-Ranked Russian Medical universities for Indian students to study MBBS in 2023',
+            info: '<h3>1. <a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/ target=_blank>Samara State Medical University</a></h3>',
+            //"img": "../../assets/img/university_gallery/astana-medical-university.jpg",
             "col": [],
             "row": [
                 ["Foundation Year", "1919"],
@@ -416,23 +411,29 @@ export default [{
                 ["Location of University", "Samara"],
                 ["No. of Students Enrolled", "5,000+"],
                 ["No. of Academic Staff", "622"],
-                ["National Rank", "197"],
-                ["World Rank", "4826"],
-                ["Annual Tuition Fees", "6817$ [5,44,613.88 lakhs]"],
-                ["Annual Hostel Fees", "941$ [75,177k ]"],
+                ["National Rank", "178"],
+                ["World Rank", "5422"],
+                ["Annual Tuition Fees", "6817$ [5,45,360 lakhs]"],
+                ["Annual Hostel Fees", "941$ [75,280 K ]"],
                 ["Major Accreditation", "Ministry of Health of Russian Federation"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/courses-and-fees/ target=_blank>Samara State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/admission/ target=_blank>Samara State Medical University - Admission</a>"
+            ],
         },
+       
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Orel State University',
+            info: '<h3>2. <a href=https://www.selectyouruniversity.com/university/orel-state-university/ target=_blank>Orel State University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1931"],
@@ -440,23 +441,28 @@ export default [{
                 ["Location of University", "Oryol"],
                 ["No. of Students Enrolled", "18,000"],
                 ["No. of Academic Staff", "300+"],
-                ["National Rank", "143"],
-                ["World Rank", "4041"],
-                ["Annual Tuition Fees", "3800$ [3,03,492 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [23,960 K]"],
+                ["National Rank", "183"],
+                ["World Rank", "5490"],
+                ["Annual Tuition Fees", "3800$ [3,04,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/orel-state-university/courses-and-fees/ target=_blank>Orel State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/orel-state-university/admission/ target=_blank>Orel State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Volgograd State Medical University',
+            info: '<h3>3. <a href=https://www.selectyouruniversity.com/university/volgograd-state-medical-university/ target=_blank>Volgograd State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1935"],
@@ -464,23 +470,28 @@ export default [{
                 ["Location of University", "Volgograd"],
                 ["No. of Students Enrolled", "11,000 +"],
                 ["No. of Academic Staff", "1200 +"],
-                ["National Rank", "88"],
-                ["World Rank", "3112"],
-                ["Annual Tuition Fees", "5900$ [4,71,170 Lakhs]"],
-                ["Annual Hostel Fees", "500$ [39,927 K]"],
+                ["National Rank", "115"],
+                ["World Rank", "4252"],
+                ["Annual Tuition Fees", "5900$ [4,72,000 Lakhs]"],
+                ["Annual Hostel Fees", "500$ [40,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO and Russian Ministry of Education"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/volgograd-state-medical-university/courses-and-fees/ target=_blank>Volgograd State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/volgograd-state-medical-university/admission/ target=_blank>Volgograd State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Kursk State Medical University',
+            info: '<h3>4. <a href=https://www.selectyouruniversity.com/university/kursk-state-medical-university/ target=_blank>Kursk State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1935"],
@@ -488,23 +499,28 @@ export default [{
                 ["Location of University", "Kursk"],
                 ["No. of Students Enrolled", "7000"],
                 ["No. of Academic Staff", "633"],
-                ["National Rank", "180"],
-                ["World Rank", "4670"],
-                ["Annual Tuition Fees", "5580$ [4,45,538 Lakhs]"],
-                ["Annual Hostel Fees", "700$ [55,891 K]"],
+                ["National Rank", "204"],
+                ["World Rank", "5804"],
+                ["Annual Tuition Fees", "5580$ [4,46,400 Lakhs]"],
+                ["Annual Hostel Fees", "700$ [56,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO,USMLE,GMC and AMA"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kursk-state-medical-university/courses-and-fees/ target=_blank>Kursk State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kursk-state-medical-university/admission/ target=_blank>Kursk State Medical University - Admission</a>"
+            ],
         },
+       
         {
             type: 'table-title',
             title: '',
-            info: 'Orenburg State Medical University',
+            info: '<h3>5. <a href=https://www.selectyouruniversity.com/university/orenburg-state-medical-university/ target=_blank>Orenburg State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1944"],
@@ -512,23 +528,28 @@ export default [{
                 ["Location of University", "Orenburg"],
                 ["No. of Students Enrolled", "3,000 - 3,999"],
                 ["No. of Academic Staff", "555"],
-                ["National Rank", "246"],
-                ["World Rank", "5725"],
-                ["Annual Tuition Fees", "5000$ [3,99,062 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [23,943 K]"],
+                ["National Rank", "233"],
+                ["World Rank", "6369"],
+                ["Annual Tuition Fees", "5000$ [4,00,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, Ministry of Health of Russian Federation and Education Commission for Foreign Medical Graduates"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/orenburg-state-medical-university/courses-and-fees/ target=_blank>Orenburg State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/orenburg-state-medical-university/admission/ target=_blank>Orenburg State Medical University - Admission</a>"
+            ],
         },
+       
         {
             type: 'table-title',
             title: '',
-            info: 'Lomonosov Moscow State University (LMSU)',
+            info: '<h3>6. <a href=https://www.selectyouruniversity.com/university/lomonosov-moscow-state-university/ target=_blank>Lomonosov Moscow State University (LMSU)</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1755"],
@@ -537,22 +558,27 @@ export default [{
                 ["No. of Students Enrolled", "25,000 - 30,000"],
                 ["No. of Academic Staff", "4,500 - 5,000"],
                 ["National Rank", "1"],
-                ["World Rank", "123"],
+                ["World Rank", "218"],
                 ["Annual Tuition Fees", "5246$ [3.6 Lakhs]"],
                 ["Annual Hostel Fees", "1200$ [8.4 Lakhs]"],
                 ["Major Accreditation", "	NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/lomonosov-moscow-state-university/courses-and-fees/ target=_blank>Lomonosov Moscow State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/lomonosov-moscow-state-university/admission/ target=_blank>Lomonosov Moscow State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Kazan Federal University (KFU)',
+            info: '<h3>7. <a href=https://www.selectyouruniversity.com/university/kazan-federal-university/ target=_blank>Kazan Federal University (KFU)</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1804"],
@@ -560,23 +586,28 @@ export default [{
                 ["Location of University", "Kazan Oblast"],
                 ["No. of Students Enrolled", "45,000"],
                 ["No. of Academic Staff", "4,000 - 5,000"],
-                ["National Rank", "5"],
-                ["World Rank", "423"],
-                ["Annual Tuition Fees", "5585$ [3.9 Lakhs]"],
-                ["Annual Hostel Fees", "95$ [6650]"],
+                ["National Rank", "10"],
+                ["World Rank", "1016"],
+                ["Annual Tuition Fees", "5585$ [4,46,800 Lakhs]"],
+                ["Annual Hostel Fees", "95$ [7,600 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kazan-federal-university/courses-and-fees/ target=_blank>Kazan Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kazan-federal-university/admission/ target=_blank>Kazan Federal University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Novosibirsk National Research State University (NNRSU)',
+            info: '<h3>8. <a href=https://www.selectyouruniversity.com/university/novosibirsk-state-university/ target=_blank>Novosibirsk National Research State University (NNRSU)</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1959"],
@@ -584,23 +615,28 @@ export default [{
                 ["Location of University", "Novosibirsk Oblast"],
                 ["No. of Students Enrolled", "6,000 - 7,000"],
                 ["No. of Academic Staff", "2,000 - 2,500"],
-                ["National Rank", "11"],
-                ["World Rank", "819"],
-                ["Annual Tuition Fees", "5000$ [3.5 Lakhs]"],
-                ["Annual Hostel Fees", "1000$ [70,000]"],
+                ["National Rank", "9"],
+                ["World Rank", "959"],
+                ["Annual Tuition Fees", "5000$ [4,00,000 Lakhs]"],
+                ["Annual Hostel Fees", "1000$ [80,000]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/novosibirsk-state-university/courses-and-fees/ target=_blank>Novosibirsk National Research State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/novosibirsk-state-university/admission/ target=_blank>Novosibirsk National Research State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Belgorod State University (BSU)',
+            info: '<h3>9. <a href=https://www.selectyouruniversity.com/university/belgorod-state-university/ target=_blank>Belgorod State University (BSU)</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1976"],
@@ -608,23 +644,28 @@ export default [{
                 ["Location of University", "Belgorod Oblast"],
                 ["No. of Students Enrolled", "33,000 - 35,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "13"],
-                ["World Rank", "857"],
-                ["Annual Tuition Fees", "5000$ [3.5 Lakhs]"],
-                ["Annual Hostel Fees", "450$ [31,500]"],
+                ["National Rank", "22"],
+                ["World Rank", "1660"],
+                ["Annual Tuition Fees", "5000$ [4,00,000 Lakhs]"],
+                ["Annual Hostel Fees", "450$ [36,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/belgorod-state-university/courses-and-fees/ target=_blank>Belgorod State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/belgorod-state-university/admission/ target=_blank>Belgorod State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Peoples' Friendship University (PFU)",
+            info: "<h3>10. <a href=https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/ target=_blank>Peoples' Friendship University (PFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1960"],
@@ -633,22 +674,27 @@ export default [{
                 ["No. of Students Enrolled", "20,000 - 25,000"],
                 ["No. of Academic Staff", "15,000 - 2,000"],
                 ["National Rank", "14"],
-                ["World Rank", "650"],
-                ["Annual Tuition Fees", "7000$ [3.5 Lakhs]"],
-                ["Annual Hostel Fees", "1200$ [84,000]"],
+                ["World Rank", "1254"],
+                ["Annual Tuition Fees", "7000$ [5,60,000 Lakhs]"],
+                ["Annual Hostel Fees", "1200$ [96,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/courses-and-fees/ target=_blank>Peoples' Friendship University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/admission/ target=_blank>Peoples' Friendship University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Crimean Federal University (CFU)",
+            info: "<h3>11. <a href=https://www.selectyouruniversity.com/university/crimean-federal-university/ target=_blank>Crimean Federal University (CFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2014"],
@@ -656,23 +702,28 @@ export default [{
                 ["Location of University", "Moscow Oblast"],
                 ["No. of Students Enrolled", "30,000 - 35,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "19"],
-                ["World Rank", "3512"],
-                ["Annual Tuition Fees", "3700$ [2.5 Lakhs]"],
-                ["Annual Hostel Fees", "1000$ [70,000]"],
+                ["National Rank", "17"],
+                ["World Rank", "3933"],
+                ["Annual Tuition Fees", "3700$ [2,96,000 Lakhs]"],
+                ["Annual Hostel Fees", "1000$ [80,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/crimean-federal-university/courses-and-fees/ target=_blank>Crimean Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/crimean-federal-university/admission/ target=_blank>Crimean Federal University - Admission</a>"
+            ],
         },
+       
         {
             type: 'table-title',
             title: '',
-            info: "Ogarev Mordovia State University (OMSU)",
+            info: "<h3>12. <a href=https://www.selectyouruniversity.com/university/ogarev-mordovia-state-university/ target=_blank>Ogarev Mordovia State University (OMSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1931"],
@@ -680,23 +731,27 @@ export default [{
                 ["Location of University", "Saransk City"],
                 ["No. of Students Enrolled", "30,000 - 35,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "29"],
-                ["World Rank", "1931"],
-                ["Annual Tuition Fees", "4143$ [2.9 Lakhs]"],
-                ["Annual Hostel Fees", "700$ [50,000]"],
+                ["National Rank", "44"],
+                ["World Rank", "2488"],
+                ["Annual Tuition Fees", "4143$ [3,31,440 Lakhs]"],
+                ["Annual Hostel Fees", "700$ [56,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/ogarev-mordovia-state-university/courses-and-fees/ target=_blank>Ogarev Mordovia State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/ogarev-mordovia-state-university/admission/ target=_blank>Ogarev Mordovia State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Immanuel Kant Baltic Federal University (IKBFU)",
+            info: "<h3>13. <a href=https://www.selectyouruniversity.com/university/immanuel-kant-baltic-federal-university/ target=_blank>Immanuel Kant Baltic Federal University (IKBFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1967"],
@@ -704,23 +759,27 @@ export default [{
                 ["Location of University", "Kaliningrad Oblast"],
                 ["No. of Students Enrolled", "10,000 - 15,000"],
                 ["No. of Academic Staff", "900 - 1,000"],
-                ["National Rank", "56"],
-                ["World Rank", "2325"],
+                ["National Rank", "74"],
+                ["World Rank", "3344"],
                 ["Annual Tuition Fees", "5374$ [3.7 Lakhs]"],
                 ["Annual Hostel Fees", "500$ [35,000]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/immanuel-kant-baltic-federal-university/courses-and-fees/ target=_blank>Immanuel Kant Baltic Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/immanuel-kant-baltic-federal-university/admission/ target=_blank>Immanuel Kant Baltic Federal University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Far Eastern Federal University (FEFU)",
+            info: "<h3>14. <a href=https://www.selectyouruniversity.com/university/far-eastern-federal-university/ target=_blank>Far Eastern Federal University (FEFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1899"],
@@ -728,23 +787,27 @@ export default [{
                 ["Location of University", "Vladivostok Oblast"],
                 ["No. of Students Enrolled", "40,000 - 45,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "25"],
-                ["World Rank", "1338"],
-                ["Annual Tuition Fees", "3000$ [2.1 Lakhs]"],
-                ["Annual Hostel Fees", "650$ [45,500]"],
+                ["National Rank", "29"],
+                ["World Rank", "1834"],
+                ["Annual Tuition Fees", "3000$ [2,40,000 Lakhs]"],
+                ["Annual Hostel Fees", "650$ [52,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/far-eastern-federal-university/courses-and-fees/ target=_blank>Far Eastern Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/far-eastern-federal-university/admission/ target=_blank>Far Eastern Federal University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "North-Eastern Federal University (NEFU)",
+            info: "<h3>15. <a href=https://www.selectyouruniversity.com/university/north-eastern-federal-university/ target=_blank>North-Eastern Federal University (NEFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1956"],
@@ -752,23 +815,27 @@ export default [{
                 ["Location of University", "Yakutsk Oblast"],
                 ["No. of Students Enrolled", "10,000 - 15,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "36"],
-                ["World Rank", "1717"],
-                ["Annual Tuition Fees", "3250$ [2.7 Lakhs]"],
-                ["Annual Hostel Fees", "750$ [52,500]"],
+                ["National Rank", "31"],
+                ["World Rank", "1867"],
+                ["Annual Tuition Fees", "3250$ [2,60,000 Lakhs]"],
+                ["Annual Hostel Fees", "750$ [60,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/north-eastern-federal-university/courses-and-fees/ target=_blank>North-Eastern Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/north-eastern-federal-university/admission/ target=_blank>North-Eastern Federal University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "First Moscow State Medical University (MGMU)",
+            info: "<h3>16. <a href=https://www.selectyouruniversity.com/university/first-moscow-state-medical-university/ target=_blank>First Moscow State Medical University (MGMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2015"],
@@ -776,23 +843,28 @@ export default [{
                 ["Location of University", "Moscow Oblast"],
                 ["No. of Students Enrolled", "40,000 - 45,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "38"],
-                ["World Rank", "12060"],
-                ["Annual Tuition Fees", "9750$ [6.8 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "37"],
+                ["World Rank", "12271"],
+                ["Annual Tuition Fees", "9750$ [7,80,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/first-moscow-state-medical-university/courses-and-fees/ target=_blank>First Moscow State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/first-moscow-state-medical-university/admission/ target=_blank>First Moscow State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Perm State Medical University (PSMU)",
+            info: "<h3>17. <a href=https://www.selectyouruniversity.com/university/perm-state-medical-university/ target=_blank>Perm State Medical University (PSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1916"],
@@ -800,23 +872,28 @@ export default [{
                 ["Location of University", "Perm Krai"],
                 ["No. of Students Enrolled", "3,000 - 4,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "251"],
-                ["World Rank", "5426"],
-                ["Annual Tuition Fees", "4500$ [3.1 Lakhs]"],
-                ["Annual Hostel Fees", "1000$ [70,000]"],
+                ["National Rank", "269"],
+                ["World Rank", "7093"],
+                ["Annual Tuition Fees", "4500$ [3,60,000 Lakhs]"],
+                ["Annual Hostel Fees", "1000$ [80,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/perm-state-medical-university/courses-and-fees/ target=_blank>Perm State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/perm-state-medical-university/admission/ target=_blank>Perm State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Tyumen State Medical University (TSMU)",
+            info: "<h3>18. <a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/ target=_blank>Tyumen State Medical University (TSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1930"],
@@ -824,23 +901,28 @@ export default [{
                 ["Location of University", "Tyumen Oblast"],
                 ["No. of Students Enrolled", "15,000 - 20,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "46"],
-                ["World Rank", "2000"],
-                ["Annual Tuition Fees", "3600$ [2.5 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "50"],
+                ["World Rank", "2603"],
+                ["Annual Tuition Fees", "3600$ [2,88,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/courses-and-fees/ target=_blank>Tyumen State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/admission/ target=_blank>Tyumen State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Penza State Medical University (PSMU)",
+            info: "<h3>19. <a href=https://www.selectyouruniversity.com/university/penza-state-medical-university/ target=_blank>Penza State Medical University (PSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1943"],
@@ -848,23 +930,28 @@ export default [{
                 ["Location of University", "Penza Oblast"],
                 ["No. of Students Enrolled", "9,000 - 10,000"],
                 ["No. of Academic Staff", "700 - 800"],
-                ["National Rank", "51"],
-                ["World Rank", "2162"],
-                ["Annual Tuition Fees", "4000$ [2.8 Lakhs]"],
-                ["Annual Hostel Fees", "1000$ [70,000]"],
+                ["National Rank", "80"],
+                ["World Rank", "3619"],
+                ["Annual Tuition Fees", "4000$ [3,20,000 Lakhs]"],
+                ["Annual Hostel Fees", "1000$ [80,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/penza-state-medical-university/courses-and-fees/ target=_blank>Penza State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/penza-state-medical-university/admission/ target=_blank>Penza State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Siberian State Medical University (SSMU)",
+            info: "<h3>20. <a href=https://www.selectyouruniversity.com/university/siberian-state-medical-university/ target=_blank>Siberian State Medical University (SSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1888"],
@@ -872,23 +959,28 @@ export default [{
                 ["Location of University", "Tomsk Oblast"],
                 ["No. of Students Enrolled", "3,000 - 4,000"],
                 ["No. of Academic Staff", "6,00 - 7,00"],
-                ["National Rank", "107"],
-                ["World Rank", "3135"],
-                ["Annual Tuition Fees", "3803$ [2.6 Lakhs]"],
-                ["Annual Hostel Fees", "450$ [30,000]"],
+                ["National Rank", "116"],
+                ["World Rank", "4255"],
+                ["Annual Tuition Fees", "3803$ [3,04,240 Lakhs]"],
+                ["Annual Hostel Fees", "450$ [36,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/siberian-state-medical-university/courses-and-fees/ target=_blank>Siberian State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/siberian-state-medical-university/admission/ target=_blank>Siberian State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Russian National Research Medical University (RNRMU)",
+            info: "<h3>21. <a href=https://www.selectyouruniversity.com/university/russian-national-research-medical-university/ target=_blank>Russian National Research Medical University (RNRMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1906"],
@@ -896,23 +988,28 @@ export default [{
                 ["Location of University", "Moscow Oblast"],
                 ["No. of Students Enrolled", "9,000 - 10,000"],
                 ["No. of Academic Staff", "4,500 - 5,000"],
-                ["National Rank", "61"],
-                ["World Rank", "2433"],
-                ["Annual Tuition Fees", "7550$ [5.2 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "78"],
+                ["World Rank", "3559"],
+                ["Annual Tuition Fees", "7550$ [6,04,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [2,400]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/russian-national-research-medical-university/courses-and-fees/ target=_blank>Russian National Research Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/russian-national-research-medical-university/admission/ target=_blank>Russian National Research Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Kabardino Balkarian State University (KBSU)",
+            info: "<h3>22. <a href=https://www.selectyouruniversity.com/university/kabardino-balkarian-state-university/ target=_blank>Kabardino Balkarian State University (KBSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1832"],
@@ -920,23 +1017,28 @@ export default [{
                 ["Location of University", "Nalchik Region"],
                 ["No. of Students Enrolled", "8,000 - 9,000"],
                 ["No. of Academic Staff", "900 - 1,000"],
-                ["National Rank", "99"],
-                ["World Rank", "3034"],
-                ["Annual Tuition Fees", "5500$ [3.8 Lakhs]"],
-                ["Annual Hostel Fees", "	500$ [35,000]"],
+                ["National Rank", "87"],
+                ["World Rank", "3716"],
+                ["Annual Tuition Fees", "5500$ [4,40,000 Lakhs]"],
+                ["Annual Hostel Fees", "500$ [40,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kabardino-balkarian-state-university/courses-and-fees/ target=_blank>Kabardino Balkarian State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kabardino-balkarian-state-university/admission/ target=_blank>Kabardino Balkarian State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Ural State Medical University (USMU)",
+            info: "<h3>23. <a href=https://www.selectyouruniversity.com/university/ural-state-medical-university/ target=_blank>Ural State Medical University (USMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1930"],
@@ -944,23 +1046,28 @@ export default [{
                 ["Location of University", "Sverdlovsk Oblast"],
                 ["No. of Students Enrolled", "40,000 - 45,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "243"],
-                ["World Rank", "5267"],
-                ["Annual Tuition Fees", "4300$ [3.0 Lakhs]"],
-                ["Annual Hostel Fees", "500$ [35,000]"],
+                ["National Rank", "16"],
+                ["World Rank", "1401"],
+                ["Annual Tuition Fees", "4300$ [3,44,000 Lakhs]"],
+                ["Annual Hostel Fees", "500$ [40,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/ural-state-medical-university/courses-and-fees/ target=_blank>Ural State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/ural-state-medical-university/admission/ target=_blank>Ural State Medical University - Admission</a>"
+            ],
         },
+       
         {
             type: 'table-title',
             title: '',
-            info: "Tula State University (TSU)",
+            info: "<h3>24. <a href=https://www.selectyouruniversity.com/university/tula-state-university/ target=_blank>Tula State University (TSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1930"],
@@ -968,23 +1075,27 @@ export default [{
                 ["Location of University", "TulaOblast"],
                 ["No. of Students Enrolled", "20,000 - 25,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "83"],
-                ["World Rank", "2862"],
-                ["Annual Tuition Fees", "3200$ [2.2 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "229"],
+                ["World Rank", "6315"],
+                ["Annual Tuition Fees", "3200$ [2,56,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/tula-state-university/courses-and-fees/ target=_blank>Tula State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/tula-state-university/admission/ target=_blank>Tula State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Bashkir State Medical University (BSMU)",
+            info: "<h3>25. <a href=https://www.selectyouruniversity.com/university/bashkir-state-medical-university/ target=_blank>Bashkir State Medical University (BSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1932"],
@@ -992,23 +1103,27 @@ export default [{
                 ["Location of University", "Bashkortostan Oblast"],
                 ["No. of Students Enrolled", "7,000 - 9,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "136"],
-                ["World Rank", "3538"],
-                ["Annual Tuition Fees", "4300$ [3.0 Lakhs]"],
-                ["Annual Hostel Fees", "200$ [14,000]"],
+                ["National Rank", "171"],
+                ["World Rank", "5240"],
+                ["Annual Tuition Fees", "4300$ [3,44,000 Lakhs]"],
+                ["Annual Hostel Fees", "200$ [16,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/bashkir-state-medical-university/courses-and-fees/ target=_blank>Bashkir State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/bashkir-state-medical-university/admission/ target=_blank>Bashkir State Medical University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Kazan State Medical University (KSMU)",
+            info: "<h3>26. <a href=https://www.selectyouruniversity.com/university/kazan-state-medical-university/ target=_blank>Kazan State Medical University (KSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1814"],
@@ -1016,23 +1131,27 @@ export default [{
                 ["Location of University", "Tatarstan Oblast"],
                 ["No. of Students Enrolled", "4,000 - 5,000"],
                 ["No. of Academic Staff", "900 - 1,000"],
-                ["National Rank", "124"],
-                ["World Rank", "3358"],
-                ["Annual Tuition Fees", "5200$ [3.6 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "220"],
+                ["World Rank", "6143"],
+                ["Annual Tuition Fees", "5200$ [4,16,00 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kazan-state-medical-university/courses-and-fees/ target=_blank>Kazan State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kazan-state-medical-university/admission/ target=_blank>Kazan State Medical University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Pskov State University (PSU)",
+            info: "<h3>27. <a href=https://www.selectyouruniversity.com/university/pskov-state-university/ target=_blank>Pskov State University (PSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1932"],
@@ -1040,23 +1159,27 @@ export default [{
                 ["Location of University", "Pskov Oblast"],
                 ["No. of Students Enrolled", "2,000 - 3,000"],
                 ["No. of Academic Staff", "200 - 300"],
-                ["National Rank", "128"],
-                ["World Rank", "3457"],
-                ["Annual Tuition Fees", "4400$ [3.0 Lakhs]"],
-                ["Annual Hostel Fees", "450$ [31,500]"],
+                ["National Rank", "155"],
+                ["World Rank", "5006"],
+                ["Annual Tuition Fees", "4400$ [3,52,000 Lakhs]"],
+                ["Annual Hostel Fees", "450$ [36,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/pskov-state-university/courses-and-fees/ target=_blank>Pskov State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/pskov-state-university/admission/ target=_blank>Pskov State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Mari State University (MSU)",
+            info: "<h3>28. <a href=https://www.selectyouruniversity.com/university/mari-state-university/ target=_blank>Mari State University (MSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1972"],
@@ -1064,23 +1187,27 @@ export default [{
                 ["Location of University", "Mari El Region"],
                 ["No. of Students Enrolled", "5,000 - 6,000"],
                 ["No. of Academic Staff", "400 - 500"],
-                ["National Rank", "135"],
-                ["World Rank", "3520"],
-                ["Annual Tuition Fees", "5500$ [3.8 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "127"],
+                ["World Rank", "4486"],
+                ["Annual Tuition Fees", "5500$ [34,40,00 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/mari-state-university/courses-and-fees/ target=_blank>Mari State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/mari-state-university/admission/ target=_blank>Mari State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Chuvash State University (CSU)",
+            info: "<h3>29. <a href=https://www.selectyouruniversity.com/university/chuvash-state-university/ target=_blank>Chuvash State University (CSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1967"],
@@ -1088,23 +1215,27 @@ export default [{
                 ["Location of University", "Vladivostok Oblast"],
                 ["No. of Students Enrolled", "10,000 - 15,000"],
                 ["No. of Academic Staff", "1,000 - 1,500"],
-                ["National Rank", "120"],
-                ["World Rank", "3320"],
-                ["Annual Tuition Fees", "2600$ [1.8 Lakhs]"],
-                ["Annual Hostel Fees", "650$ [45,500]"],
+                ["National Rank", "90"],
+                ["World Rank", "3762"],
+                ["Annual Tuition Fees", "2600$ [2,08,00 Lakhs]"],
+                ["Annual Hostel Fees", "650$ [52,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/chuvash-state-university/courses-and-fees/ target=_blank>Chuvash State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/chuvash-state-university/admission/ target=_blank>Chuvash State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Ulyanovsk State University (USU)",
+            info: "<h3>30. <a href=https://www.selectyouruniversity.com/university/ulyanovsk-state-university/ target=_blank>Ulyanovsk State University (USU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1988"],
@@ -1112,18 +1243,22 @@ export default [{
                 ["Location of University", "Ulyanovsk Oblast"],
                 ["No. of Students Enrolled", "10,000 - 15,000"],
                 ["No. of Academic Staff", "900 - 1,000"],
-                ["National Rank", "64"],
-                ["World Rank", "2511"],
-                ["Annual Tuition Fees", "1190$ [83,300]"],
-                ["Annual Hostel Fees", "450$ [32,500]"],
+                ["National Rank", "109"],
+                ["World Rank", "4101"],
+                ["Annual Tuition Fees", "1190$ [95,200]"],
+                ["Annual Hostel Fees", "450$ [36,000]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/ulyanovsk-state-university/courses-and-fees/ target=_blank>Ulyanovsk State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/ulyanovsk-state-university/admission/ target=_blank>Ulyanovsk State University - Admission</a>"
+            ],
         },
         {
             type: 'text',
