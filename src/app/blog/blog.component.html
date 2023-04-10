@@ -50,7 +50,7 @@
                                         <div class="row row-without-gutter mb-2 service-card-text" [routerLink]="['/blog/'+image.url]">
                                             <div class="col-lg-5 col-sm-5">
                                                 <div class="holder">
-                                                    <div class="image-holder rounded-3" [style.backgroundImage]="'url(' + image.blogimg + ')'" >
+                                                    <div class="image-holder rounded-3" [style.backgroundImage]="'url(' + image.blogimg + ')'">
                                                         <img src={{image.blogimg}} alt="">
                                                     </div>
                                                     <!-- <img src="../../assets/img/Blog_Main_Icons/k.png" alt=""> -->
@@ -107,10 +107,10 @@
             </div>
             <div class="col-lg-12 border-bottom mb-4">
                 <div class="row">
-                    <div class="col-lg-6 col-6">
+                    <div class="col-lg-6 col-5">
                         <h4 class="light-blue-text">{{ item[0].Categories.replaceAll('-', ' ') | titlecase }}</h4>
                     </div>
-                    <div class="col-lg-6 col-6 text-right service-card-text">
+                    <div class="col-lg-6 col-7 text-right service-card-text">
                         <a class="light-blue-text d-inline pr-3" routerLinkActive="active" (click)="get(item)">
                 View More Posts
               </a>

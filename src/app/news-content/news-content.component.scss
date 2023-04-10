@@ -13,7 +13,7 @@
 }
 
 .blog-content-page-header {
-    padding-top: 5%;
+    // padding-top: 5%;
 }
 
 .service-card-text {
@@ -22,6 +22,10 @@
 
 .blog-text p {
     text-align: justify;
+}
+
+.blog-text a {
+    word-break: break-all;
 }
 
 .home-img {

@@ -1475,6 +1475,10 @@ nav.mobile-nav ul li {
     display: block !important;
 }
 
+.blog-text a {
+    word-break: break-all;
+}
+
 @media only screen and (min-width:992px) {
     .newsletter-icon {
         width: 160px;

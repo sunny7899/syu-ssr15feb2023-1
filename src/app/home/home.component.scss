@@ -242,8 +242,6 @@ input.form-control:focus {
 
 .success {
     color: rgb(241, 241, 241);
-    margin-left: 58%;
-    margin-top: -46px;
 }
 
 .study-div .border {
@@ -417,6 +415,10 @@ marquee a {
     }
     .signbtn {
         margin-bottom: 0;
+    }
+    .success {
+        margin-left: 58%;
+        margin-top: -30px;
     }
 }
 
