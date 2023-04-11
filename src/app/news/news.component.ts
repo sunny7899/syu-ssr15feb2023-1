@@ -178,7 +178,7 @@ export class NewsComponent implements OnInit {
     data['cCoutryCode'] = "Na"
     console.log('rom1', this.RegistrationFrom1.value)
     const { cCandidateName, cEmail, cMobile } = this.RegistrationFrom1.value;
-    this.http.get(`https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cCity=Na&cCourse=Na&cLinkName=news&section=insertdetails`)
+    this.http.get(`https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cCity=Na&cCourse=Na&cLinkName=https://www.selectyouruniversity.com/news&section=insertdetails`)
       .subscribe((res) => {
         console.log('res', res)
         this.nsrNo = res
