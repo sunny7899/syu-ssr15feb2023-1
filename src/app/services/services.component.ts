@@ -51,7 +51,7 @@ export class ServicesComponent implements OnInit {
    data['cCoutryCode'] = "Na"
    console.log('rom1', this.RegistrationFrom1.value)
    const { cCandidateName, cEmail, cMobile } = this.RegistrationFrom1.value;
-   this.http.get(`https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}cLinkName=services&cCity=Na&cCourse=Na&&section=insertdetails`)
+   this.http.get(`https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cLinkName=https://www.selectyouruniversity.com/services&cCity=Na&cCourse=Na&section=insertdetails`)
      .subscribe((res) => {
        console.log('res', res)
        this.nsrNo = res
