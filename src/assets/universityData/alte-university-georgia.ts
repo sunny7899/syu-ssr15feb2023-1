@@ -73,8 +73,8 @@ export const alteuniversitygeorgia = {
 
             "row": [
                 {
-                    "World": "2",
-                    "Country": "260",
+                    "World": "260",
+                    "Country": "2",
                 },
 
             ]

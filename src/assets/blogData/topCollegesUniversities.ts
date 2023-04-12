@@ -208,7 +208,7 @@ export default [{
             type: 'text',
             title: '',
             info: '',
-            data: '<p>Welcome to another lucrative career guide of <b>SELECT YOUR UNIVERSITY</b>. We care about your yearning to explore more career-related information about your favorite courses, & as always we have the navigation ready to show you the direction.</p><p>You came here to seek the <b>best medical universities to study <a href="https://www.selectyouruniversity.com/blog/best-medical-universities-in-russia" target="_blank"> MBBS in Russia </a></b>, & we have over <b>30 Russian universities listed ahead</b> for you. </p><p>We have also given detailed information about these colleges in this entire article, so keep reading to not miss out on anything. </p>'
+            data: '<p>Welcome to another lucrative career guide of <b>SELECT YOUR UNIVERSITY</b>. We care about your yearning to explore more career-related information about your favorite courses, & as always we have the navigation ready to show you the direction.</p><p>You came here to seek the <b>best medical universities to study <a href="https://www.selectyouruniversity.com/course/mbbs-in-russia/" target="_blank"> MBBS in Russia </a></b>, & we have over <b>30 Russian universities listed ahead</b> for you. </p><p>We have also given detailed information about these colleges in this entire article, so keep reading to not miss out on anything. </p>'
         },
         {
             type: 'text',
@@ -893,7 +893,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "<h3>18. <a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/ target=_blank>Tyumen State Medical University (TSMU)</a></h3>",
+            info: "<h3>18. <a href=https://www.selectyouruniversity.com/university/tyumen-state-medical-university/ target=_blank>Tyumen State Medical University (TSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1930"],
@@ -1292,22 +1292,22 @@ export default [{
     ]
 },
 {
-    title: "List of Top 20 Universities/Colleges for MBBS in Georgia (2022)",
+    title: "List of Top 20 Universities/Colleges for MBBS in Georgia (2023)",
     date: '10-07-2020',
     postedBy: "Saurabh Kale",
     Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-georgia.jpg',
-    url: 'top-medical-universities-in-georgia',
+    url: 'top-medical-universities-in-georgia/.',
     data: [
         {
             type: 'title',
-            title: 'List of Top 20 Universities/Colleges for MBBS in Georgia (2022)'
+            title: 'List of Top 20 Universities/Colleges for MBBS in Georgia (2023)'
         },
         {
             type: 'text',
             title: '',
             info: '',
-            data: "<p>Located in the crossroads of Europe and Asia, <a href=https://www.selectyouruniversity.com/mbbs-in-georgia.php target=_blank>Georgia is one of the most admirable destinations</a> for studying MBBS among international students. Tbilisi is the capital & largest city in the country, which is the definition of a high rich standard.</p><p>There are <b>too many private universities (NMC recognized) in Georgia</b> that offer a standard quality of education with a duration of five years. </p><p>Georgia is one of those 30 nations where the Indian Embassy is not present; therefore, you have to rely on the concurrent Embassy office in Yerevan, Capital of Armenia, which is 280 kilometers away from Tbilisi. </p><p>Students don't need to visit the embassy for at least 5 to 6 years. The Indian ambassador for the concurrent embassy in Georgia keeps attending the ceremonies organized in Georgia to interact with existing Indian students.</p><p>Apart from the main fee structure, the students' expenses are another factor to research before planning to study abroad. In Georgia, the average cost of living goes around 3000$ per annum (250$/ Month Approx.) that mostly consist of Food charges, Rates of Accommodation & Laundry services. <b>This cost is relatively cheaper than what students have to consider in other European countries</b>.</p><p>European Universities, including Georgia, are well aware of the <b>exponential growth in foreign education among Indian students</b>. Hence, taking this consideration to accounts, these universities have altered necessary changes that are more likely suitable for the Indian students. </p><p>Georgian Universities understand the relevance of NMC approval is crucial for Indian aspirants and that their colleges have been granted such <b>recognition from NMC, WHO & other global recognition committees</b>. Plenty of Private Institutes provides NMC coaching for Indian students & maintain above-average passing percentage.</p><p>In order to configure the supremacy of any foreign university, it is recommended to rely on the support system of the management more than the age of the college or university. You can clarify these aspects by analyzing the feedback by the students who are now part of either of these universities or graduated from there. </p><p><a href=https://www.selectyouruniversity.com/neet-exam.php target=_blank>National Entrance Examination Test (NEET)</a> is a mandatory qualification criterion demanded by any university in Georgia for their admission requirement and with a stipulated score. There are plenty of substantial characteristics of the universities that applicants can figure out to select the university of their choice.</p>"
+            data: "<p>Located in the crossroads of Europe and Asia, <a href=https://www.selectyouruniversity.com/course/mbbs-in-georgia/ target=_blank>Georgia is one of the most admirable destinations</a> for studying MBBS among international students. Tbilisi is the capital & largest city in the country, which is the definition of a high rich standard.</p><p>There are <b>too many private universities (NMC recognized) in Georgia</b> that offer a standard quality of education with a duration of five years. </p><p>Georgia is one of those 30 nations where the Indian Embassy is not present; therefore, you have to rely on the concurrent Embassy office in Yerevan, Capital of Armenia, which is 280 kilometers away from Tbilisi. </p><p>Students don't need to visit the embassy for at least 5 to 6 years. The Indian ambassador for the concurrent embassy in Georgia keeps attending the ceremonies organized in Georgia to interact with existing Indian students.</p><p>Apart from the main fee structure, the students' expenses are another factor to research before planning to study abroad. In Georgia, the average cost of living goes around 3000$ per annum (250$/ Month Approx.) that mostly consist of Food charges, Rates of Accommodation & Laundry services. <b>This cost is relatively cheaper than what students have to consider in other European countries</b>.</p><p>European Universities, including Georgia, are well aware of the <b>exponential growth in foreign education among Indian students</b>. Hence, taking this consideration to accounts, these universities have altered necessary changes that are more likely suitable for the Indian students. </p><p>Georgian Universities understand the relevance of NMC approval is crucial for Indian aspirants and that their colleges have been granted such <b>recognition from NMC, WHO & other global recognition committees</b>. Plenty of Private Institutes provides NMC coaching for Indian students & maintain above-average passing percentage.</p><p>In order to configure the supremacy of any foreign university, it is recommended to rely on the support system of the management more than the age of the college or university. You can clarify these aspects by analyzing the feedback by the students who are now part of either of these universities or graduated from there. </p><p><a href=https://www.selectyouruniversity.com/exams/neet-ug-exam/ target=_blank>National Entrance Examination Test (NEET)</a> is a mandatory qualification criterion demanded by any university in Georgia for their admission requirement and with a stipulated score. There are plenty of substantial characteristics of the universities that applicants can figure out to select the university of their choice.</p>"
         },
         {
             type: 'table-title',
@@ -1329,20 +1329,20 @@ export default [{
             type: 'text',
             title: '',
             info: '',
-            data: '<p><b style="color: red;"><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-georgia-for-mbbs-studies.php" target="_blank">Why Choose Georgia for MBBS Course in 2022?</a></p><p>In this article, we will take you through the list of top 20 NMC & WHO approved Universities/Colleges in Georgia that you should look up to if you want to pursue MBBS in Georgia in the year 2022.</p>'
+            data: '<p><b style="color: red;"><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-georgia-for-mbbs-studies/." target="_blank">Why Choose Georgia for MBBS Course in 2023?</a></p><p>In this article, we will take you through the list of top 20 NMC & WHO approved Universities/Colleges in Georgia that you should look up to if you want to pursue MBBS in Georgia in the year 2022.</p>'
         },
         {
             type: 'table-title',
             title: 'Top 20 Medical Universities/Colleges for Studying MBBS in Georgia',
-            info: 'University of Georgia',
+            info: '<h3>1. <a href="https://www.selectyouruniversity.com/university/university-of-georgia-tbilisi/" target=_blank>University of Georgia</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "2004"],
                 ["Type of University", "Private"],
                 ["Location of University", "Tbilisi"],
                 ["Number of Indian Students", "6000"],
-                ["National Rank", "4"],
-                ["World Rank", "4630"],
+                ["National Rank", "3"],
+                ["World Rank", "4083"],
                 ["Annual Tuition Fees", "5000 USD"],
                 ["University Accreditation", "ENIC-NARIC, NMC, ECFMG & many more"]
             ]
@@ -1350,15 +1350,15 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Ivane Javakhishvili Tbilisi State University",
+            info: "<h3>2. <a href=https://www.selectyouruniversity.com/university/ivane-javakhishvili-tbilisi-state-university/ target=_blank>Ivane Javakhishvili Tbilisi State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "8 February 1918"],
                 ["Type of University", "Govt. Research University"],
                 ["Location of University", "1 Ilia Chavchavadze Avenue, Tbilisi 0179, Georgia"],
                 ["Number of Indian Students", "800"],
-                ["National Rank", "2"],
-                ["World Rank", "3345"],
+                ["National Rank", "1"],
+                ["World Rank", "1984"],
                 ["Annual Tuition Fees", "6000 USD"],
                 ["University Accreditation", "NMC, WHO, WFME & many more"]
             ]
@@ -1367,15 +1367,15 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Batumi Shota Rustaveli State University",
+            info: "<h3>3. <a href=https://www.selectyouruniversity.com/university/batumi-shota-rustaveli-state-university/ target=_blank>Batumi Shota Rustaveli State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1895"],
                 ["Type of University", "Private University"],
                 ["Location of University", "35/32 Ninoshvili/Rustaveli str., Batumi 6010, Georgia"],
                 ["Number of Indian Students", "320"],
-                ["National Rank", "6"],
-                ["World Rank", "7923"],
+                ["National Rank", "11"],
+                ["World Rank", "7448"],
                 ["Annual Tuition Fees", "4000 USD"],
                 ["University Accreditation", "NMC, WHO & many more"]
             ]
@@ -1384,7 +1384,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Tbilisi State Medical University",
+            info: "<h3>4. <a href=https://www.selectyouruniversity.com/university/tbilisi-state-medical-university/ target=_blank>Tbilisi State Medical University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1918"],
@@ -1401,15 +1401,15 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Ilia State University",
+            info: "<h3>5. <a href=https://www.selectyouruniversity.com/university/ilia-state-university/ target=_blank>Ilia State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2006"],
                 ["Type of University", "Flagship Public Research"],
                 ["Location of University", "Tbilisi, Georgia"],
                 ["Number of Indian Students", "5000 every year"],
-                ["National Rank", "2"],
-                ["World Rank", "3424"],
+                ["National Rank", "5"],
+                ["World Rank", "3139"],
                 ["Annual Tuition Fees", "5300 USD"],
                 ["University Accreditation", "NMC/ WHO / ISU/ EHEA/ EUA & many more"]
             ]
@@ -1418,7 +1418,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Akaki Tsereteli State University",
+            info: "<h3>6. <a href=https://www.selectyouruniversity.com/university/akaki-tsereteli-state-university/ target=_blank>Akaki Tsereteli State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "July, 1930"],
@@ -1435,7 +1435,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "New Vision University",
+            info: "<h3>7. <a href=https://www.selectyouruniversity.com/university/new-vision-university/ target=_blank>New Vision University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2013"],
@@ -1452,7 +1452,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Caucasus International University",
+            info: "<h3>8. <a href=https://www.selectyouruniversity.com/university/caucasus-international-university/ target=_blank>Caucasus International University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1995"],
@@ -1469,7 +1469,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Georgian American University",
+            info: "<h3>8. <a href=https://www.selectyouruniversity.com/university/georgian-american-university/ target=_blank>Georgian American University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2001"],
@@ -1486,7 +1486,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Georgian National University SEU",
+            info: "<h3>10. <a href=https://www.selectyouruniversity.com/university/georgian-national-university-seu/ target=_blank>Georgian National University SEU</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2001"],
@@ -1503,7 +1503,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Petre Shotadze Tbilisi Medical Academy",
+            info: "<h3>11. <a href=https://www.selectyouruniversity.com/university/petre-shotadze-tbilisi-medical-academy/ target=_blank>Petre Shotadze Tbilisi Medical Academy</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1992"],
@@ -1520,7 +1520,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "European University Georgia",
+            info: "<h3>12. <a href=https://www.selectyouruniversity.com/university/european-university-georgia/ target=_blank>European University Georgia</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "31 December, 2012"],
@@ -1537,7 +1537,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "BAU International University Batumi",
+            info: "<h3>13. <a href=https://www.selectyouruniversity.com/university/bau-international-university-batumi/ target=_blank>BAU International University Batumi</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2015"],
@@ -1554,7 +1554,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "East European University, Georgia",
+            info: "<h3>14. <a href=https://www.selectyouruniversity.com/university/east-european-university/ target=_blank>East European University, Georgia</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2012"],
@@ -1571,7 +1571,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "David Agmashenebeli University of Georgia",
+            info: "<h3>15. <a href=https://www.selectyouruniversity.com/university/david-agmashenebeli-university-of-georgia/ target=_blank>David Agmashenebeli University of Georgia</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1991"],
@@ -1588,7 +1588,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Tbilisi Open Teaching University",
+            info: "<h4>16. <a href=https://www.selectyouruniversity.com/university/tbilisi-open-teaching-university/ target=_blank>Tbilisi Open Teaching University</a></h4>",
             "col": [],
             "row": [
                 ["Foundation Year", "2002"],
@@ -1605,7 +1605,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Geomedi State University",
+            info: "<h3>17. <a href=https://www.selectyouruniversity.com/university/geomedi-state-university/ target=_blank>Geomedi State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1998"],
@@ -1622,7 +1622,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Grigol Robakidze University",
+            info: "<h3>18. <a href=https://www.selectyouruniversity.com/university/grigol-robakidze-university/ target=_blank>Grigol Robakidze University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1992"],
@@ -1639,7 +1639,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Tbilisi Medical University 'Hippocrates'",
+            info: "<h3>19. <a href=https://www.selectyouruniversity.com/university/tbilisi-medical-university-hippocrates/ target=_blank>Tbilisi Medical University 'Hippocrates'</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2003"],
@@ -1656,7 +1656,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "David Tvildiani Medical University",
+            info: "<h3>20. <a href=https://www.selectyouruniversity.com/university/david-tvildiani-medical-university/ target=_blank>David Tvildiani Medical University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1989"],
@@ -1675,7 +1675,7 @@ export default [{
             type: 'text',
             title: 'Now What’s Next for students?',
             info: '',
-            data: '<p>These are the best universities in Georgia that are recommended for any international & Indian students to choose from if they have the ambition to study medicine under the qualitative educational circumstances. </p><p>Also looking at the situation of Ukraine, Georgia is the ray of hope as they have organized transfer programs from Ukraine to Georgia for more information you can check out our blog <a href="https://www.selectyouruniversity.com/blog/university-transfer-from-ukraine-to-georgia.php" target="_blank">University transfer from Ukraine to Georgia.</a></p><p>Now, if you need any additional details about these medical colleges in Georgia, then visit <a href=https://www.selectyouruniversity.com/ target=_blank>‘SELECT YOUR UNIVERSITY’</a> where you can access more in-depth data related to these universities/colleges. </p><p>You can check out important dates of admission, eligibility criteria, ranking, fee structure & other vital information essential for selecting the best university of your choice. Candidates can also seek personal guidance to choose the university that matches every individuals needs & expectations.</p>'
+            data: '<p>These are the best universities in Georgia that are recommended for any international & Indian students to choose from if they have the ambition to study medicine under the qualitative educational circumstances. </p><p>Also looking at the situation of Ukraine, Georgia is the ray of hope as they have organized transfer programs from Ukraine to Georgia for more information you can check out our blog <a href="https://www.selectyouruniversity.com/blog/university-transfer-from-ukraine-to-georgia/" target="_blank">University transfer from Ukraine to Georgia.</a></p><p>Now, if you need any additional details about these medical colleges in Georgia, then visit <a href=https://www.selectyouruniversity.com/ target=_blank>‘SELECT YOUR UNIVERSITY’</a> where you can access more in-depth data related to these universities/colleges. </p><p>You can check out important dates of admission, eligibility criteria, ranking, fee structure & other vital information essential for selecting the best university of your choice. Candidates can also seek personal guidance to choose the university that matches every individuals needs & expectations.</p>'
         },
         {
             type: "meta",
@@ -7496,6 +7496,10 @@ export default [{
     url: "best-bba-colleges/.",
     data: [
         {
+            type: 'title',
+            title: 'Best BBA Colleges in India'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -7746,6 +7750,10 @@ export default [{
     url: "list-of-top-mci-approved-universities-for-mbbs-in-belarus/.",
     data: [
         {
+            type: 'title',
+            title: 'List of Top NMC Approved Universities for MBBS in Belarus'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -7935,6 +7943,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-mci-recognized-medical-universities.jpg',
     url: "list-of-top-mci-recognized-medical-universities/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top NMC Recognized Medical Universities/Colleges (Country Wise)'
+        },
         {
             type: 'text',
             title: '',
@@ -9065,6 +9077,10 @@ export default [{
     url: "low-cost-medical-universities-in-poland/.",
     data: [
         {
+            type: 'title',
+            title: 'Top 10 Low-Cost Medical Universities in Poland for Indian Students'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -9986,6 +10002,10 @@ export default [{
     url: "top-btech-colleges-in-pune",
     data: [
         {
+            type: 'title',
+            title: 'Top B.Tech Colleges in Pune'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -10270,6 +10290,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-india.jpg',
     url: "top-engineering-universities-in-india/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of top 10 best universities for Engineering in India'
+        },
         {
             type: 'text',
             title: '',
@@ -10717,6 +10741,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-poland.jpg',
     url: "top-engineering-universities-in-poland/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top-Ranked 8 Engineering Universities in Poland (2022)'
+        },
         {
             type: 'text',
             title: '',
@@ -11413,6 +11441,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-russia.jpg',
     url: "top-engineering-universities-in-russia/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top 10 Engineering Universities in Russia (2022)'
+        },
         {
             type: 'text',
             title: '',
@@ -12251,6 +12283,10 @@ export default [{
     url: "top-mba-colleges-in-pune/.",
     data: [
         {
+            type: 'title',
+            title: 'Top 20 MBA Colleges in Pune 2022'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -12894,6 +12930,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-mca-universities-in-india.jpg',
     url: "top-mca-universities-in-india/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top MCA Universities in India 2022'
+        },
         {
             type: 'text',
             title: '',
@@ -13648,6 +13688,10 @@ export default [{
     url: "top-medical-colleges-in-the-world/.",
     data: [
         {
+            type: 'title',
+            title: 'Top 100 Medical Colleges in the World'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -13846,6 +13890,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-china.jpg',
     url: "top-medical-universities-in-china/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top Medical Colleges/Universities in China to Study MBBS'
+        },
         {
             type: 'text',
             title: '',
@@ -14513,10 +14561,14 @@ export default [{
     url: "top-medical-universities-in-kazakhstan/.",
     data: [
         {
+            type: 'title',
+            title: 'List of Top 10 Medical Universities in Kazakhstan (NMC Approved)'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
-            data: '<p> Kazakhstan, officially the Republic of Kazakhstan, is a Central Asian country that was formerly the part of the Soviet Republic. </p><p>It is one of the developed countries in Asia where one can avail of a better standard of living & a peaceful environment. </p><p>The country shows finesse in all areas of the standard, including lifestyle, roads, accommodation, transportation, GDP & other economic aspects. </p><p>Over the past few years, thousands of Indian students have relocated each year to get graduate degrees from its top-rated NMC approved universities.</p><p>There are certain factors that pull the attention of international students, so let us try to configure those important highlights of the educational culture of <a href=https://www.selectyouruniversity.com/mbbs-in-kazakhstan.php target=_blank> MBBS in Kazakhstan.</a></p>'
+            data: '<p> Kazakhstan, officially the Republic of Kazakhstan, is a Central Asian country that was formerly the part of the Soviet Republic. </p><p>It is one of the developed countries in Asia where one can avail of a better standard of living & a peaceful environment. </p><p>The country shows finesse in all areas of the standard, including lifestyle, roads, accommodation, transportation, GDP & other economic aspects. </p><p>Over the past few years, thousands of Indian students have relocated each year to get graduate degrees from its top-rated NMC approved universities.</p><p>There are certain factors that pull the attention of international students, so let us try to configure those important highlights of the educational culture of <a href=https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/ target=_blank> MBBS in Kazakhstan.</a></p>'
         },
         {
             "type": "table-title",
@@ -14539,68 +14591,62 @@ export default [{
         {
             type: 'text',
             title: 'Benefits to Study MBBS in Kazakhstan for Indian Students',
-            info: 'Weather condition is most suitable to the Indian Students',
+            info: '<h3>1. Weather condition is most suitable to the Indian Students</h3>',
             data: '<p>Weather is a prime relief for international students because the average condition of the atmosphere is 30° in summer & it reduces down to 20° during the wintertime. This weather is still fine compared to other countries & Indian students can easily cope with this environment</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Minimum years of course duration',
+            info: '<h3>2. Minimum years of course duration</h3>',
             data: '<p>The entire duration of the MBBS curriculum in Kazakhstan takes five years to complete, which is probably the best part of studying in this country. The majority of the international universities in the world provide six years of training programs on medicine; therefore, Aspirants can save a full year by studying in MBBS in Kazakhstan.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Course is taught in English language',
+            info: '<h3>3. Course is taught in English language</h3>',
             data: '<p>Another consolation for Indian students is the obstacle of learning the extra or native language of Kazakhstan. The entire curriculum of medicine is carried out in English as an official language for instruction medium.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Qualified professors in faculty who corporate their students',
+            info: '<h3>4. Qualified professors in faculty who corporate their students</h3>',
             data: '<p>Professors appointed in the universities of Kazakhstan are well qualified who have years of teaching experience in their respective subject. They coordinate with each & every student even after the class schedule to resolve their doubts & issues. These faculty members bring a practical perspective on medical education throughout the degree program.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Universities applaudable class management',
+            info: '<h3>5. Universities applaudable class management</h3>',
             data: '<p>The intake capacity of the MBBS seats in Kazakhstan is much larger than in Indian colleges. In India, the students capacity in a single classroom is 40 - 60 on average while on the other hand, Kazakhstan universities do not allow more than 20 students to attend the lectures in a single classroom.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Huge Infrastructure & quality of management',
+            info: '<h3>6. Huge Infrastructure & quality of management</h3>',
             data: '<p>Medical colleges in Kazakhstan contain well-stocked laboratories where students can access any books and use them for personal studies. Students can use them for a year without paying additional charges. Many universities have a global ranking below 1000 & they have NMC approval for the facilitation of Indian graduates.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Safety measure & strict rules & policies of country/ University',
+            info: '<h3>7. Safety measure & strict rules & policies of country/ University</h3>',
             data: '<p>The country is absolutely safe for international students & they don’t have to suffer from threats by the government or any extra-territorial organizations. Students offer positive feedback in respect of strict rules & policies regulated by their universities. The managerial departments of all colleges are highly concerned about the betterment of foreign students.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Availability of hostel with Indian food',
+            info: '<h3>8. Availability of hostel with Indian food</h3>',
             data: '<p>Fresh quality of Indian food is available for Indian students in all seasons. Hostel & accommodation facilities are also provided for the students either inside the campus or outside the university infrastructure. The expenses one has to pay for getting these services are under the budget. Students can also opt for separate accommodation or food services as per their convenience.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Limited cost of education in kazakhstan',
+            info: '<h3>9. Limited cost of education in kazakhstan</h3>',
             data: '<p>The single most significant characteristic of any university that international students often check to select the medical colleges with good infrastructure, better education, and an affordable range of fees. Most of the universities charge below 20 lakhs of rupees as tuition fees. If you want to combine the cost of hostel & food services, then the overall expense course reaches the range of 25 lakhs.</p>'
         },
-        {
-            type: 'text',
-            title: 'List of Top 10 Medical Universities/Colleges For Studying MBBS in Kazakhstan 2021',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/al-farabi-kazakh-national-university.php target=_blank><b>Al-Farabi Kazakh National University</b></a></h3>',
-            img: "img/al-farabi-kazakh-national-university.jpg",
-            data: ''
-        },
+        
         {
             "type": "table-title",
-            "title": "",
-            "info": "",
+            "title": "List of Top 10 Medical Universities/Colleges For Studying MBBS in Kazakhstan 2023",
+            info: '<h3>1. <a href=https://www.selectyouruniversity.com/university/al-farabi-kazakh-national-university/ target=_blank>Al-Farabi Kazakh National University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1934"],
@@ -14613,17 +14659,11 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/kazakh-national-medical-university.php target=_blank><b>Kazakh National Medical University</b></a></h3>',
-            img: "img/kazakh-national-medical-university.jpg",
-            data: ''
-        },
+        
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>2. <a href=https://www.selectyouruniversity.com/university/kazakh-national-medical-university/ target=_blank>Kazakh National Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1930"],
@@ -14637,16 +14677,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/north-kazakhstan-state-university.php target=_blank><b>North Kazakhstan State University</b></a></h3>',
-            img: "img/north-kazakhstan-state-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>3. <a href=https://www.selectyouruniversity.com/university/north-kazakhstan-state-university/ target=_blank>North Kazakhstan State University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1937"],
@@ -14660,16 +14693,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/karaganda-state-medical-university.php target=_blank><b>Karaganda State Medical University</b></a></h3>',
-            img: "img/karaganda-state-medical-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>4. <a href=https://www.selectyouruniversity.com/university/karaganda-state-medical-university/ target=_blank>Karaganda State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1950"],
@@ -14683,16 +14709,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/kokshetau-state-university.php target=_blank><b>Kokshetau State University</b></a></h3>',
-            img: "img/kokshetau-state-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>5. <a href=https://www.selectyouruniversity.com/university/kokshetau-state-university/ target=_blank>Kokshetau State University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1996"],
@@ -14706,16 +14725,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/astana-medical-university.php target=_blank><b>Astana Medical University</b></a></h3>',
-            img: "img/astana-medical-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>6. <a href=https://www.selectyouruniversity.com/university/astana-medical-university/ target=_blank>Astana Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1964"],
@@ -14729,16 +14741,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/semey-state-medical-university.php target=_blank><b>Semey State Medical University</b></a></h3>',
-            img: "img/semey-state-medical-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>7. <a href=https://www.selectyouruniversity.com/university/semey-state-medical-university/ target=_blank>Semey State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1952"],
@@ -14752,16 +14757,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/south-kazakhstan-state-medical-academy.php target=_blank><b>South Kazakhstan State Medical Academy</b></a></h3>',
-            img: "img/south-kazakhstan-state-medical-academy.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>8. <a href=https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/ target=_blank>South Kazakhstan State Medical Academy</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1979"],
@@ -14774,17 +14772,11 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/west-kazakhstan-marat-ospanov-state-medical-university.php target=_blank><b>West Kazakhstan Marat Ospanov State Medical University</b></a></h3>',
-            img: "img/west-kazakhstan-marat-ospanov-state-medical-university.jpg",
-            data: ''
-        },
+        
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>9. <a href=https://www.selectyouruniversity.com/university/west-kazakhstan-marat-ospanov-state-medical-university/ target=_blank>West Kazakhstan Marat Ospanov State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1957"],
@@ -14797,17 +14789,11 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/kazakh-russian-medical-university.php target=_blank><b>Kazakh Russian Medical University</b></a></h3>',
-            img: "img/kazakh-russian-medical-university.jpg",
-            data: ''
-        },
+        
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>10. <a href=https://www.selectyouruniversity.com/university/kazakh-russian-medical-university/ target=_blank>Kazakh Russian Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1992"],
@@ -14858,6 +14844,10 @@ export default [{
     url: "top-medical-universities-in-kyrgyzstan/.",
     data: [
         {
+            type: 'title',
+            title: 'List of Top 6 NMC Recognized Medical Universities in Kyrgyzstan'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -14870,19 +14860,15 @@ export default [{
             data: [
                 "Low cost education",
                 "Real case studies",
-                " Quality education",
-                " Medium of Instruction - English language",
-                " Scholarships programs",
-                " No entrance examination",
-                " Simple admission process"
-            ]
+                "Quality education",
+                "Medium of Instruction - English language",
+                "Scholarships programs",
+                "No entrance examination",
+                "Simple admission process"
+            ],
+            "heading":"<p class=page-content>These are the main reasons to <a href=https://www.selectyouruniversity.com/course/mbbs-in-kyrgyzstan/ target=_blank>study medicine in Kyrgyzstan</a>. If you really want to study abroad then Kyrgyzstan is the only option where you will get an affordable cost of education & accommodation/housing for international students.</p><p><strong>As per UniRank System</strong> (2021), being the standard ranking of top universities in the World has nominated <strong>Kyrgyzstan as a most desirable country</strong> which provides value-added education to foreign students. </p><p>While pursuing education abroad, the first lookout that drags the mind of students is about the country. </p>"
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p class=page-content>These are the main reasons to <a href=https://www.selectyouruniversity.com/mbbs-in-kyrgyzstan.php target=_blank>study medicine in Kyrgyzstan</a>. If you really want to study abroad then Kyrgyzstan is the only option where you will get an affordable cost of education & accommodation/housing for international students.</p><p><strong>As per UniRank System</strong> (2021), being the standard ranking of top universities in the World has nominated <strong>Kyrgyzstan as a most desirable country</strong> which provides value-added education to foreign students. </p><p>While pursuing education abroad, the first lookout that drags the mind of students is about the country. </p>'
-        },
+        
         {
             type: 'text',
             title: 'About Kyrgyzstan',
@@ -14898,8 +14884,8 @@ export default [{
         {
             type: 'text',
             title: '',
-            info: 'Osh State Medical University',
-            img: "blog/img/osh-state-medical-university.jpg",
+            info: '<h3>1. Osh State Medical University</h3>',
+           // img: "blog/img/osh-state-medical-university.jpg",
             data: '<p>It is the pedagogical institute offering specialty courses in General Medicine & Pediatrics. Osh State Medical University is a Public University that distinguished and prestigious of Kyrgyz Republic and one of the best universities in Central Asia.</p>'
         },
         {
@@ -14911,19 +14897,14 @@ export default [{
                 ["Establishment", "1992"],
                 ["Recognized by", "NMC, FAIMER, ECFMG(USA), IMED"],
                 ["Tuition Fees Per Year", "Rs.4,68,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/osh-state-university/ target=_blank>Read More</a>"
         },
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/osh-state-university.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'Jalal-Abad State University',
-            img: "blog/img/jalal-abad-state-university.jpg",
+            info: '<h3>2. Jalal-Abad State University</h3>',
+            //img: "blog/img/jalal-abad-state-university.jpg",
             data: '<p>The university is a public higher education institution with an enrollment of more than 4000 students offering professional programs in medicine. The programs last for 6 years with one year of internships.</p>'
         },
         {
@@ -14935,19 +14916,15 @@ export default [{
                 ["Establishment", "1993"],
                 ["Recognized by", "NMC, FAIMER, ECFMG, IMED"],
                 ["Tuition Fees Per Year", "Rs.5,40,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/jalalabad-state-university/ target=_blank>Read More</a>"
         },
+        
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/jalalabad-state-university.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'International School of Medicine',
-            img: "blog/img/international-school-of-medicine.jpg",
+            info: '<h3>3. International School of Medicine</h3>',
+            // img: "blog/img/international-school-of-medicine.jpg",
             data: '<p>International School of Medicine is the modern higher education institution with comprehensive infrastructure and experienced faculty members, specialists offering quality education in different areas of medicine.</p>'
         },
         {
@@ -14960,19 +14937,15 @@ export default [{
                 ["Certified by", "Ministry of Education and Science of Kyrgyz Republic"],
                 ["Recognized by", "IIME, ORPHEUS, NMC, IMED"],
                 ["Tuition Fees Per Year", "Rs.4,50,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/international-higher-school-of-medicine/ target=_blank>Read More</a>"
         },
+       
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/international-school-of-medicine.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'Kyrgyz Russian Slavic University',
-            img: "blog/img/kyrgyz-russian-slavic-university.jpg",
+            info: '<h3>4. Kyrgyz Russian Slavic University</h3>',
+            // img: "blog/img/kyrgyz-russian-slavic-university.jpg",
             data: '<p>Kyrgyz Russian Slavic University was founded in accordance with mutual assistance and cooperation between the Kyrgyz Republic and the Russian Federation.</p>'
         },
         {
@@ -14984,19 +14957,14 @@ export default [{
                 ["Establishment", "1993"],
                 ["Recognized by", "NMC, FAIMER, ECFMG"],
                 ["Tuition Fees Per Year", "Rs.4,64,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/kyrgyz-russian-slavic-university/ target=_blank>Read More</a>"
         },
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/kyrgyz-russian-slavic-university.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'Kyrgyz State Medical Academy',
-            img: "blog/img/kyrgyz-state-medical-academy.jpg",
+            info: '<h3>5. Kyrgyz State Medical Academy</h3>',
+            // img: "blog/img/kyrgyz-state-medical-academy.jpg",
             data: '<p>Kyrgyz State Medical Academy was laid by the experienced professors and teachers offering 6 years MD program for UG students. This year, around 250 doctors were graduated from the institute.</p>'
         },
         {
@@ -15008,19 +14976,14 @@ export default [{
                 ["Establishment", "April 16, 1939"],
                 ["Recognized by", "NMC, FAIMER, ECFMG, IMED"],
                 ["Tuition Fees Per Year", "Rs.4,80,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/kyrgyz-state-medical-academy/ target=_blank>Read More</a>"
         },
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/kyrgyz-state-medical-academy.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'Asian Medical Institute',
-            img: "blog/img/asian-medical-institute.jpg",
+            info: '<h3>6. Asian Medical Institute</h3>',
+            // img: "blog/img/asian-medical-institute.jpg",
             data: '<p>Asian Medical Institute was founded in the year of 2004 registered with the Ministry of Kyrgyz Republic recognized by NMC. More than 2000 Indian students studying medicine at the university.</p>'
         },
         {
@@ -15032,20 +14995,14 @@ export default [{
                 ["Establishment", "2004"],
                 ["Recognized by", "NMC and WHO"],
                 ["Tuition Fees Per Year", "Rs.4,20,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/asian-medical-institute/ target=_blank>Read More</a>"
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/asian-medical-institute.php target=_blank class=btn>Read More</a>'
-        },
-
         {
             type: 'text',
             title: 'Conclusion',
             info: '',
-            data: '<p>Medical universities in Kyrgyzstan have no confinement to only lectures and classrooms.</p><p>Furthermore, students who want to pursue MBBS in Kyrgyzstan will get an enclosure to experience a lot more. While studying at Kyrgyzstan Medical Universities, students get practical exposure through clinical rotations, projects and laboratory experiments.</p>'
+            data: '<Furthermore,>Medical universities in Kyrgyzstan have no confinement to only lectures and classrooms. Furthermore, students who want to pursue MBBS in Kyrgyzstan will get an enclosure to experience a lot more. While studying at Kyrgyzstan Medical Universities, students get practical exposure through clinical rotations, projects and laboratory experiments.</p>'
         },
 
         {
@@ -15076,6 +15033,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-philippines.jpg',
     url: "top-medical-universities-in-philippines/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top 15 Ranked Medical Colleges in Philippines (NMC Recognized)'
+        },
         {
             type: 'text',
             title: '',
@@ -15516,6 +15477,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-ukraine.jpg',
     url: "top-medical-universities-in-ukraine/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top Medical Universities in Ukraine to Study MBBS (NMC Recognized)'
+        },
         {
             type: 'text',
             title: '',
@@ -16481,6 +16446,10 @@ export default [{
     url: 'top-private-and-government-mba-universities-in-india/.',
     data: [
         {
+            type: 'title',
+            title: 'Top Private & Government MBA Universities in India'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -17143,6 +17112,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/ukraine-top-engineering-universities.jpg',
     url: "ukraine-top-engineering-universities/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top Engineering Universities in Ukraine'
+        },
         {
             type: 'text',
             title: '',
@@ -17916,6 +17889,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/world-ranking-of-medical-colleges-abroad.jpg',
     url: "world-ranking-of-medical-colleges-abroad/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top Medical Universities in Abroad - Country & World Ranking'
+        },
         {
             type: 'text',
             title: '',
@@ -19005,6 +18982,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-10-medical-universities-in-bangladesh.jpg',
     url: 'list-of-top-10-medical-universities-in-bangladesh/.',
     data: [
+        {
+            type: 'title',
+            title: 'List of Top 10 Medical Universities in Bangladesh'
+        },
         {
             type: 'text',
             title: '',

@@ -17,7 +17,7 @@ export const amecbicolchristiancollegeofmedicine = {
             title: 'About AMEC Bicol Christian College of Medicine, Philippines',
             info: '',
             // img:'https://www.selectyouruniversity.com/images/philippines-universities/amec-bicol-christian-college-of-medicine-college.jpg',
-            data: '<p><strong>Ago Medical and Educational Center Bicol Christian College of Medicine</strong> was established in 1975. The college was founded by Dr. Damaceno J. Ago. The college is located at Legazpi City.</p><p>Bicol christian College of Medicine (amec-bccm), Philippines is the pioneer medical school and it has gained number one in producing the best and brightest medical professionals in the Bicol Region of Philippines. This college is a member of the Association of Philippine Medical Colleges Foundation, it is also an accredited member of the Foundation of the Advancement of International Medical Education and Research. Bicol christian College of Medicine, Philippines, is also registered internationally with the World Health Organization.</p><p>Bicol Christian College provides hostel facilities to its students. It also has a very good library.</p>'
+            data: '<p><strong>Ago Medical and Educational Center Bicol Christian College of Medicine</strong> was established in 1975. The college was founded by Dr. Damaceno J. Ago. The college is located at Legazpi City. Bicol christian College of Medicine (amec-bccm), Philippines is the pioneer medical school and it has gained number one in producing the best and brightest medical professionals in the Bicol Region of Philippines.<p></p>This college is a member of the Association of Philippine Medical Colleges Foundation, it is also an accredited member of the Foundation of the Advancement of International Medical Education and Research. Bicol christian College of Medicine, Philippines, is also registered internationally with the World Health Organization. Bicol Christian College provides hostel facilities to its students. It also has a very good library.</p>'
         },
         {
             "type": "table-title",
@@ -148,7 +148,7 @@ export const amecbicolchristiancollegeofmedicine = {
                 },
 
             ],
-            "heading": "<p><b>Note: </b>1$ = 70 Rs.</p>"
+            // "heading": "<p><b>Note: </b>1$ = 80 Rs.</p>"
         },
         {
             "type": "list-bollet",
@@ -186,11 +186,11 @@ export const amecbicolchristiancollegeofmedicine = {
     "coursesandfees": [
         {
             type: 'title',
-            title: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, courses"
+            title: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, Courses"
         },
         {
             "type": "table",
-            "title": "AMEC Bicol Christian College of Medicine - Tuition Fee 2022",
+            "title": "AMEC Bicol Christian College of Medicine - Tuition Fee 2023",
             "info": "Following is the fee structure for Bicol Christian College of Medicine for MBBS program:",
             "textBelowInfo": "BS Program",
             "col": [
@@ -214,7 +214,8 @@ export const amecbicolchristiancollegeofmedicine = {
                     "Indian Rupee": "Rs 1,90,000",
                 },
 
-            ]
+            ],
+            "heading": "<p><strong>Note: </strong>1 Philippines Peso = Rs.1.44</p>"
         },
 
         {
@@ -384,13 +385,13 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, courses" },
+                { name: "title", content: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, Courses" },
                 { name: "description", content: "Medical colleges in Philippines are known to have affordable MBBS fee structure. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, courses"
+            title: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, Courses"
         },
         {
             type: "meta-links",
@@ -422,7 +423,7 @@ export const amecbicolchristiancollegeofmedicine = {
             img: '',
             data: [
                 "<b>Step 1:</b> Fill in the application form accurately.",
-                "<b>Step 2:</b> Attach the documents given below:<br>Scanned copy of marksheet of completion of higher secondary education / tertiary education<br>Results of NEET (Score card)<br>Scanned copy of your Passport",
+                "<b>Step 2:</b> Attach the documents given below:<br>- Scanned copy of marksheet of completion of higher secondary education / tertiary education<br>- Results of NEET (Score card)<br>- Scanned copy of your Passport",
                 "<b>Step 3:</b> After fulfilling all the conditions and upon acceptance students will be provided with a provisional admission letter (in electronic format) upon request.",
                 "<b>Step 4:</b> As soon as your visa invitation will be ready, the university will mail you your visa invitation.",
                 "<b>Step 5:</b> Stamp your visa in the Embassy, once you receive the visa invitation. <br>You can contact for admissions at:- Address: 85 Rizal St, Old Albay District, Legazpi City, 4500 Albay, Philippines Phone: +63 52 820 5877"
@@ -590,7 +591,7 @@ export const amecbicolchristiancollegeofmedicine = {
         },
         {
             "type": "list-bollet",
-            "title": "Scholarships",
+            "title": "AMEC Bicol Christian College of Medicine Scholarships",
             "info": "",
             "data": [
                 "HEST 2023- Higher Education Scholarship Test For Indian Students",
@@ -683,14 +684,11 @@ export const amecbicolchristiancollegeofmedicine = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table-title",
             "title": "",
             "info": "",
-            "data": [
-                "Mess",
-                "Dining Hall",
-                "Security",
-                "hostel",
+            "row": [
+                ["Mess","Dining Hall","Security","hostel",]
             ]
         },
         // {
