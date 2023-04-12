@@ -7496,6 +7496,10 @@ export default [{
     url: "best-bba-colleges/.",
     data: [
         {
+            type: 'title',
+            title: 'Best BBA Colleges in India'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -7746,6 +7750,10 @@ export default [{
     url: "list-of-top-mci-approved-universities-for-mbbs-in-belarus/.",
     data: [
         {
+            type: 'title',
+            title: 'List of Top NMC Approved Universities for MBBS in Belarus'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -7935,6 +7943,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-mci-recognized-medical-universities.jpg',
     url: "list-of-top-mci-recognized-medical-universities/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top NMC Recognized Medical Universities/Colleges (Country Wise)'
+        },
         {
             type: 'text',
             title: '',
@@ -9065,6 +9077,10 @@ export default [{
     url: "low-cost-medical-universities-in-poland/.",
     data: [
         {
+            type: 'title',
+            title: 'Top 10 Low-Cost Medical Universities in Poland for Indian Students'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -9986,6 +10002,10 @@ export default [{
     url: "top-btech-colleges-in-pune",
     data: [
         {
+            type: 'title',
+            title: 'Top B.Tech Colleges in Pune'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -10270,6 +10290,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-india.jpg',
     url: "top-engineering-universities-in-india/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of top 10 best universities for Engineering in India'
+        },
         {
             type: 'text',
             title: '',
@@ -10717,6 +10741,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-poland.jpg',
     url: "top-engineering-universities-in-poland/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top-Ranked 8 Engineering Universities in Poland (2022)'
+        },
         {
             type: 'text',
             title: '',
@@ -11413,6 +11441,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-russia.jpg',
     url: "top-engineering-universities-in-russia/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top 10 Engineering Universities in Russia (2022)'
+        },
         {
             type: 'text',
             title: '',
@@ -12251,6 +12283,10 @@ export default [{
     url: "top-mba-colleges-in-pune/.",
     data: [
         {
+            type: 'title',
+            title: 'Top 20 MBA Colleges in Pune 2022'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -12894,6 +12930,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-mca-universities-in-india.jpg',
     url: "top-mca-universities-in-india/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top MCA Universities in India 2022'
+        },
         {
             type: 'text',
             title: '',
@@ -13648,6 +13688,10 @@ export default [{
     url: "top-medical-colleges-in-the-world/.",
     data: [
         {
+            type: 'title',
+            title: 'Top 100 Medical Colleges in the World'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -13846,6 +13890,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-china.jpg',
     url: "top-medical-universities-in-china/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top Medical Colleges/Universities in China to Study MBBS'
+        },
         {
             type: 'text',
             title: '',
@@ -14513,6 +14561,10 @@ export default [{
     url: "top-medical-universities-in-kazakhstan/.",
     data: [
         {
+            type: 'title',
+            title: 'List of Top 10 Medical Universities in Kazakhstan (NMC Approved)'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -14792,6 +14844,10 @@ export default [{
     url: "top-medical-universities-in-kyrgyzstan/.",
     data: [
         {
+            type: 'title',
+            title: 'List of Top 6 NMC Recognized Medical Universities in Kyrgyzstan'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -14977,6 +15033,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-philippines.jpg',
     url: "top-medical-universities-in-philippines/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top 15 Ranked Medical Colleges in Philippines (NMC Recognized)'
+        },
         {
             type: 'text',
             title: '',
@@ -15417,6 +15477,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-ukraine.jpg',
     url: "top-medical-universities-in-ukraine/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top Medical Universities in Ukraine to Study MBBS (NMC Recognized)'
+        },
         {
             type: 'text',
             title: '',
@@ -16382,6 +16446,10 @@ export default [{
     url: 'top-private-and-government-mba-universities-in-india/.',
     data: [
         {
+            type: 'title',
+            title: 'Top Private & Government MBA Universities in India'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
@@ -17044,6 +17112,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/ukraine-top-engineering-universities.jpg',
     url: "ukraine-top-engineering-universities/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top Engineering Universities in Ukraine'
+        },
         {
             type: 'text',
             title: '',
@@ -17817,6 +17889,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/world-ranking-of-medical-colleges-abroad.jpg',
     url: "world-ranking-of-medical-colleges-abroad/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top Medical Universities in Abroad - Country & World Ranking'
+        },
         {
             type: 'text',
             title: '',
@@ -18906,6 +18982,10 @@ export default [{
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-10-medical-universities-in-bangladesh.jpg',
     url: 'list-of-top-10-medical-universities-in-bangladesh/.',
     data: [
+        {
+            type: 'title',
+            title: 'List of Top 10 Medical Universities in Bangladesh'
+        },
         {
             type: 'text',
             title: '',
