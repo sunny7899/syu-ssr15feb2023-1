@@ -14,12 +14,12 @@ export const liceocollegeofmedicine = {
         {
             "type": 'text',
             "title": 'About Liceo College of Medicine, Philippines',
-            "data": '<p>The <b>Liceo College of Medicine</b> is the right choice for Indian students to pursue MBBS in the Philippines, Founded in 1955 by Atty. Rodolfo N. Pelaez of Cagayan de Oro City and his wife Elsa Pelaez Pelaez of Cebu City located at Cagayan de Oro, Philippines.</p><p>It is among the largest medical universities in the Philippines with 12 colleges and 5 departments and has been awarded for academic excellence several times.</p><br><p>The University has a primary aim to impart relevant and quality education accessible to deserving and financially challenged students.</p><p>Liceo College of Medicine produces friendly, top-notch, professional and internationally recognised medical practitioners.</p>'
+            "data": '<p>The <b>Liceo College of Medicine</b> is the right choice for Indian students to pursue MBBS in the Philippines, Founded in 1955 by Atty. Rodolfo N. Pelaez of Cagayan de Oro City and his wife Elsa Pelaez Pelaez of Cebu City located at Cagayan de Oro, Philippines.</p><p>It is among the largest medical universities in the Philippines with 12 colleges and 5 departments and has been awarded for academic excellence several times. The University has a primary aim to impart relevant and quality education accessible to deserving and financially challenged students. Liceo College of Medicine produces friendly, top-notch, professional and internationally recognised medical practitioners.</p>'
         },
 
         {
             "type": "table-title",
-            "title": "Liceo College of Medicine - Quick Highlights 2021",
+            "title": "Liceo College of Medicine - Quick Highlights 2023",
             "info": "Find out the necessary information for taking admission in a medical course at Liceo College of Medicine:",
             "col": [
             ],
@@ -30,17 +30,17 @@ export const liceocollegeofmedicine = {
                 ["<b>Total Tuition Fees (approx)</b>", "13,75,000 Rs"],
                 ["<b>Course Duration</b>", "6 years"],
                 ["<b>Teaching Language</b>", "English"],
-                ["<b>Ranking</b>", "World - 10914<br>Country - 127"],
+                ["<b>Ranking</b>", "World - 10303<br>Country - 131"],
                 ["<b>Affiliations</b>", "FAAP and PACUCOA"],
             ]
         },
 
-        {
-            type: 'text',
-            title: 'Liceo College of Medicine - Official Admission Partner',
-            info: "Walgreens Consultancy and Services and Select Your University have shaken hands with Liceo College of Medicine for partnership and admission of Indian students:",
-            data: ''
-        },
+        // {
+        //     type: 'text',
+        //     title: 'Liceo College of Medicine - Official Admission Partner',
+        //     info: "Walgreens Consultancy and Services and Select Your University have shaken hands with Liceo College of Medicine for partnership and admission of Indian students:",
+        //     data: ''
+        // },
 
         {
             "type": "list-bollet",
@@ -63,7 +63,7 @@ export const liceocollegeofmedicine = {
 
         {
             "type": "table",
-            "title": "Liceo College of Medicine - Ranking 2022",
+            "title": "Liceo College of Medicine - Ranking 2023",
             "info": "The students must go through the country and world ranking of the Liceo College of Medicine:",
             "col": [
                 "Country",
@@ -71,8 +71,8 @@ export const liceocollegeofmedicine = {
             ],
             "row": [
                 {
-                    "Country": "127",
-                    "World": "10914",
+                    "Country": "131",
+                    "World": "10303",
                 },
             ]
         },
@@ -125,16 +125,16 @@ export const liceocollegeofmedicine = {
             "row": [
                 {
                     "Particulars": "<b>Food</b>",
-                    "Amount in USD": "6,800 Rs",
+                    "Amount in USD": "7,520 Rs",
                     "Amount in Rs": "94 USD",
                 },
                 {
                     "Particulars": "<b>Transport Cost</b>",
                     "Amount in USD": "6 USD",
-                    "Amount in Rs": "400 Rs",
+                    "Amount in Rs": "480 Rs",
                 },
             ],
-            "heading": "<b><u>Note: </u></b>1$ = 73 Rs ( for calculation purpose )"
+            "heading": "<b><u>Note: </u></b>1$ = 80 Rs ( for calculation purpose )"
 
         },
 
@@ -163,12 +163,12 @@ export const liceocollegeofmedicine = {
     "coursesandfees": [
         {
             type: 'title',
-            title: "Liceo College of Medicine, Philippines - courses & Fees"
+            title: "Liceo College of Medicine, Philippines - Courses & Fees"
 
         },
         {
             "type": "table",
-            "title": "Liceo College of Medicine Fee Structure 2022",
+            "title": "Liceo College of Medicine Fee Structure 2023",
             "info": "Liceo College of Medicine offers affordable MBBS education to all students coming from across the globe:",
             "col": [
                 "Particulars",
@@ -179,27 +179,27 @@ export const liceocollegeofmedicine = {
                 {
                     "Particulars": "<b>First-Year (Pre-medicine)</b>",
                     "1st Installment": "2,50,000 Rs",
-                    "2st Installment": "1,25,000 Rs",
+                    "2nd Installment": "1,25,000 Rs",
                 },
                 {
                     "Particulars": "<b>Second-Year (MD)</b>",
                     "1st Installment": "2,50,000 Rs",
-                    "2st Installment": "1,25,000 Rs",
+                    "2nd Installment": "1,25,000 Rs",
                 },
                 {
                     "Particulars": "<b>Third-Year (MD)</b>",
                     "1st Installment": "1,25,000 Rs",
-                    "2st Installment": "1,25,000 Rs",
+                    "2nd Installment": "1,25,000 Rs",
                 },
                 {
                     "Particulars": "<b>Fourth-Year (MD)</b>",
                     "1st Installment": "1,25,000 Rs ",
-                    "2st Installment": "1,25,000 Rs",
+                    "2nd Installment": "1,25,000 Rs",
                 },
                 {
                     "Particulars": "<b>Fifth-year (MD)</b>",
                     "1st Installment": "1,25,000 Rs",
-                    "2st Installment": "1,25,000 Rs",
+                    "2nd Installment": "1,25,000 Rs",
                 },
 
             ]
@@ -226,57 +226,58 @@ export const liceocollegeofmedicine = {
             "colTitle": "<b>Syllabus For Pre-Medical</b>",
             "col": [
                 "First Term",
-                "Second  Term",
-                "Third  Term",
-                "Fourth  Term",
+                "Second Term",
+                "Third Term",
+                "Fourth Term",
             ],
             "row": [
                 {
-                    "First Term": "-Calculus & Analytical",
-                    "Second  Term": "-Plant Physiology",
-                    "Third  Term": "-Ecology",
-                    "Fourth  Term": "-Rizal's Life, Works, And Writings"
+                    "First Term": "Calculus & Analytical",
+                    "Second Term": "Plant Physiology",
+                    "Third Term": "Ecology",
+                    "Fourth Term": "Rizal's Life, Works, And Writings"
                 },
                 {
-                    "First Term": "-Geometry",
-                    "Second  Term": "-Fundamentals Of Genetics",
-                    "Third  Term": "-Education For Sustainable",
-                    "Fourth  Term": "-Econ. / Taxation & Agrarian Reform"
+                    "First Term": "Geometry",
+                    "Second Term": "Fundamentals Of Genetics",
+                    "Third Term": "Education For Sustainable",
+                    "Fourth Term": "Econ. / Taxation & Agrarian Reform"
                 },
                 {
-                    "First Term": "-Biochemistry",
-                    "Second  Term": "-Animal Physiology",
-                    "Third  Term": "-Development",
-                    "Fourth  Term": "-Econ. / Taxation & Agrarian Reform"
+                    "First Term": "Biochemistry",
+                    "Second Term": "Animal Physiology",
+                    "Third Term": "Development",
+                    "Fourth Term": "Econ. / Taxation & Agrarian Reform"
                 },
                 {
-                    "First Term": "-Plant Morpho-anatomy",
-                    "Second  Term": "-Entomology",
-                    "Third  Term": "-Research Methodology",
-                    "Fourth  Term": "-Human Genetic"
+                    "First Term": "Plant Morpho-anatomy",
+                    "Second Term": "Entomology",
+                    "Third Term": "Research Methodology",
+                    "Fourth Term": "-Human Genetic"
                 },
                 {
-                    "First Term": "-Comparative Vertebrate Anatomy",
-                    "Second  Term": "-Freshwater Biology",
-                    "Third  Term": "-Systematic Biology",
-                    "Fourth  Term": "-Radiation Biology"
+                    "First Term": "Comparative Vertebrate Anatomy",
+                    "Second Term": "Freshwater Biology",
+                    "Third Term": "Systematic Biology",
+                    "Fourth Term": "Radiation Biology"
                 },
                 {
-                    "First Term": "-General Psychology",
-                    "Second  Term": "-General Microbiology",
-                    "Third  Term": "-Cell And Molecular Biology",
-                    "Fourth  Term": "-Histology & Micro-technique"
+                    "First Term": "General Psychology",
+                    "Second Term": "General Microbiology",
+                    "Third Term": "Cell And Molecular Biology",
+                    "Fourth Term": "Histology & Micro-technique"
                 },
                 {
-                    "First Term": "-Parasitology",
-                    "Second  Term": "-Philosophy Of Man",
-                    "Third  Term": "-Comparative Religion",
-                    "Fourth  Term": "-Research In Bio. Sc. (Thesis Writing) Immunology"
+                    "First Term": "Parasitology",
+                    "Second Term": "Philosophy Of Man",
+                    "Third Term": "Comparative Religion",
+                    "Fourth Term": "Research In Bio. Sc. (Thesis Writing) Immunology"
                 },
                 {
-                    "First Term": "-Plant Morpho-anatomy",
-                    "Second  Term": "-Developmental Biology",
-                    "Third  Term": "-Politics And Governance",
+                    "First Term": "Plant Morpho-anatomy",
+                    "Second Term": "Developmental Biology",
+                    "Third Term": "Politics And Governance",
+                    "Fourth Term": "-"
                 },
 
             ]
@@ -332,7 +333,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table",
             "title": "",
-            "info": "2st Year",
+            "info": "2nd Year",
             "col": [
                 "1st semester",
                 "2nd semester",
@@ -377,7 +378,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table",
             "title": "",
-            "info": "3st Year",
+            "info": "3rd Year",
             "col": [
                 "1st semester",
                 "2nd semester",
@@ -443,7 +444,7 @@ export const liceocollegeofmedicine = {
         {
             "type": "table-title",
             "title": "",
-            "info": "4st Year - Clerkship/ Internship",
+            "info": "4th Year - Clerkship/ Internship",
             "col": [
 
             ],
@@ -451,19 +452,19 @@ export const liceocollegeofmedicine = {
                 ["Medicine", "Neurology"],
                 ["Surgery", "Clinical Phychiasiaty"],
                 ["Obstetrics & Gynaecolog", "Otorhinolaryngology"],
-                ["Paediatrics"],
+                ["Paediatrics","-"],
             ]
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Liceo College of Medicine, Philippines - courses & Fees" },
+                { name: "title", content: "Liceo College of Medicine, Philippines - Courses & Fees 2023" },
                 { name: "description", content: "Liceo College of Medicine was established in 1955. It offers the quality education to study in Philippine ; Tuition Fee with Hostel. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "Liceo College of Medicine, Philippines - courses & Fees"
+            title: "Liceo College of Medicine, Philippines - Courses & Fees 2023"
         },
         {
             type: "meta-links",
@@ -476,7 +477,7 @@ export const liceocollegeofmedicine = {
     "admission": [
         {
             type: 'title',
-            title: "Liceo College of Medicine, Philippines - Admission 2023 "
+            title: "Liceo College of Medicine, Philippines - Admission 2023"
 
         },
         {
@@ -539,13 +540,13 @@ export const liceocollegeofmedicine = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Liceo College of Medicine, Philippines - Admission 2023 " },
+                { name: "title", content: "Liceo College of Medicine, Philippines - Admission 2023" },
                 { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
             ],
         },
         {
             type: "meta-title",
-            title: "Liceo College of Medicine, Philippines - Admission 2023 "
+            title: "Liceo College of Medicine, Philippines - Admission 2023"
         },
         {
             type: "meta-links",
