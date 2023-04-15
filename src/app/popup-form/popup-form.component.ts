@@ -8,6 +8,7 @@ import {
 } from "@angular/forms";
 import { BsModalRef, BsModalService } from "ngx-bootstrap/modal";
 import { ApiService } from "../api.service";
+import { Router } from "@angular/router";
 // import { PopupFormSecondComponent } from "../popup-form-second/popup-form-second.component";
 
 @Component({
@@ -46,7 +47,7 @@ export class PopupFormComponent implements OnInit {
     public bsModalRef: BsModalRef,
     public modalService: BsModalService,
     private fb: FormBuilder,
-    private http: HttpClient
+    private http: HttpClient,private router: Router
   ) {}
 
   ngOnInit(): void {
@@ -96,8 +97,8 @@ export class PopupFormComponent implements OnInit {
 
   public submitForm1() {
     if (this.RegistrationFrom1.valid) {
-      this.form1 = false;
-      this.form2 = true;
+      this.bsModalRef.hide();
+      this.router.navigate(['/thankyou-page/.']);
       // this.form3 = false
       // this.form4 = false
     }

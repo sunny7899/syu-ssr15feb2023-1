@@ -34,10 +34,10 @@ export class FaqComponent implements OnInit {
 
   public submitFormS() {
     if (this.RegistrationForm1.valid) {
-      this.form5 = false;
-      this.form6 = true;
-      this.form3 = false;
-      this.form4 = false;
+      this.bsModalRef.hide();
+      this.router.navigate(['/thankyou-page/.']);
+      // this.form3 = false
+      // this.form4 = false
     }
     let data = this.RegistrationForm1.value;
     data['refNo'] = 777;

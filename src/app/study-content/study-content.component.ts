@@ -65,12 +65,12 @@ export class StudyContentComponent implements OnInit {
  }
 
  public submitFormS() {
-   if (this.RegistrationForm1.valid) {
-     this.form5 = false;
-     this.form6 = true;
-     this.form3 = false;
-     this.form4 = false;
-   }
+  if (this.RegistrationForm1.valid) {
+    this.bsModalRef.hide();
+    this.router.navigate(['/thankyou-page/.']);
+    // this.form3 = false
+    // this.form4 = false
+  }
    let data = this.RegistrationForm1.value;
    data['refNo'] = 777;
    data['cAddressLine'] = 'Na';
@@ -109,10 +109,10 @@ export class StudyContentComponent implements OnInit {
 
  public submitForm1() {
   if (this.RegistrationFrom1.valid) {
-    this.form1 = false;
-    this.form2 = true;
-    this.form3 = false;
-    this.form4 = false;
+    this.modalRef.hide();
+    this.router.navigate(['/thankyou-page/.']);
+    // this.form3 = false
+    // this.form4 = false
   }
   let data = this.RegistrationFrom1.value;
   data['refNo'] = 777;
