@@ -865,7 +865,7 @@ export const studyinaustralia = {
         {
             type: 'img-card',
             title: '<h2 _ngcontent-wnj-c2="" class="black-text text-center py-3"><b _ngcontent-wnj-c2="">Explore More Destinations</b></h2>',
-            info: '<p>Testing </p>',
+            info: '',
             data: [
                 {
                     title: '<h6 _ngcontent-wnj-c2="">USA</h6>',
