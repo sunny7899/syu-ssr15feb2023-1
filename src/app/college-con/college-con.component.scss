@@ -1665,7 +1665,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {
@@ -1761,6 +1761,9 @@ input.form-control:focus {
     .modal-title {
         padding-left: 40px;
     }
+    #phone1{
+        margin-top: -4%;
+      }
 }
 
 @media all and (min-width: 700px) and (max-width: 992px) {
@@ -2175,7 +2178,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {

@@ -1017,6 +1017,11 @@ nav ul li {
         width: 10%;
     }
 }
+@media only screen and (max-width:600px){
+    #phone1{
+        margin-top: -4%;
+      }
+}
 
 @media only screen and (max-width:1024px) and (min-width:768px) {
     .need-assi-text {
@@ -1664,7 +1669,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {
@@ -2179,7 +2184,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {

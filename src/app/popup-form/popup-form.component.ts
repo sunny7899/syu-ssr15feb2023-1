@@ -116,8 +116,8 @@ export class PopupFormComponent implements OnInit {
     data['cWebsite']='http://demo.mentebit.com/#/'
     data['cCoutryCode']="Na"
     console.log('rom1', this.RegistrationFrom1.value)
-    const {cCity, cCourse, cCandidateName, cEmail, cMobile} = this.RegistrationFrom1.value;
-    this.http.get( `https://bizcallcrmforms.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cLinkName=index&section=insertdetails`)
+    const {cCity, cCourse, cCandidateName, cEmail, cMobile,cCode} = this.RegistrationFrom1.value;
+    this.http.get( `https://bizcallcrmforms.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cCode=${cCode}&cMobile=${cMobile}&cLinkName=index&section=insertdetails`)
     .subscribe((res) => {
       console.log('res', res)
     this.nsrNo= res
