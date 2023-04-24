@@ -104,10 +104,11 @@ export class UniversityConComponent implements OnInit {
       cMobile,
       //qeducation,
       //cLinkName,
+      cCode
     } = this.RegistrationForm1.value;
     this.http
       .get(
-        `https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cLinkName=https://www.selectyouruniversity.com/${this.url[1]}/${this.url[2]}/${this.url[3]}&cCity=Na&cCourse=Na&section=insertdetails`
+        `https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cCode=${cCode}&cMobile=${cMobile}&cLinkName=https://www.selectyouruniversity.com/${this.url[1]}/${this.url[2]}/${this.url[3]}&cCity=Na&cCourse=Na&section=insertdetails`
       )
       .subscribe((res) => {
         console.log('res', res);
