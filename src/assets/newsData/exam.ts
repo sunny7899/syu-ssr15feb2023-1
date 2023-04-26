@@ -477,7 +477,7 @@ export default[
                 "col":[ 
                             "Category",
                             "Minimum Qualifying/Eligibility Criteria",
-                            "Cut-off Score (out of 800"
+                            "Cut-off Score (out of 800)"
                      ],
                 "row": [
                     {

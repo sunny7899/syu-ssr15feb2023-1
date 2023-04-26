@@ -8,6 +8,7 @@
    
   </div>
   <div class="faq-div">
+    <div class="container-fluid">
     <div class="row row-without-gutter">
       <nav
         class="navbar navbar-expand-lg navbar-light full-width-tabs"
@@ -30,14 +31,11 @@
                       </div>
                       <div class="container-box">
                           <div class="item service-div" *ngFor="let image of data?data:allBLogs">
-                            <div class="mr-3 card blog-card">
+                            <div class="card blog-card">
                               <div (click)="makeActive(image.url)"> 
-                              <div
-                                class="blog-img rounded-3"
-                                [style.backgroundImage]="'url(' + image.blogimg + ')'"
-                              >
+                                <img class="blog-img rounded-3 img-fluid" src="{{image.blogimg}}">
                               <!--<img src={{image.blogimg}} alt="">-->
-                              </div>
+                             
                               <p class="service-card-text">{{ image.title | titlecase}}</p>
                             </div>
                               <div class="flex-holder">
@@ -60,6 +58,7 @@
         </div>
       </div>
     </div>
+  </div>
   </div>
 
   <div class="form col-12">
