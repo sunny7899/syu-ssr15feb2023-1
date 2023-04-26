@@ -19,7 +19,7 @@ export const szentistvanuniversity = {
         {
             "type": "table-title",
             "title": "Szent Istvan University - Quick Highlights",
-            "info": "<b>The applicants should go through the important points to study at the Szent Istvan University:</b>",
+            "info": "The applicants should go through the important points to study at the Szent Istvan University:",
             "row": [
                 ["<b>Acronym</b>", "SZIU"],
                 ["<b>NEET Examination</b>", "Yes, Required"],
@@ -34,7 +34,7 @@ export const szentistvanuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Choose Szent Istvan University?',
-            info: '<b>Let’s find out some of the main beneficial reasons why students prefer to study here:</b>',
+            info: 'Let’s find out some of the main beneficial reasons why students prefer to study here:',
             data: [
                 "The university consists of nationally and internationally acknowledged professors.",
                 "It offers degree programmes in a wide variety of subjects.",
@@ -54,7 +54,7 @@ export const szentistvanuniversity = {
         {
             "type": "table",
             "title": "Szent Istvan University - Ranking 2022",
-            "info": "<b>The students must find out the Country and World rankings of this university mentioned below in the table:</b>",
+            "info": "The students must find out the Country and World rankings of this university mentioned below in the table:",
             "col": [
                 "Country",
                 "World",
@@ -75,7 +75,7 @@ export const szentistvanuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation',
-            info: '<b>Szent Istvan University has various National and international accreditations as given below and it is accredited by:</b>',
+            info: 'Szent Istvan University has various National and international accreditations as given below and it is accredited by:',
             data: [
                 "Hungarian accreditation Committee",
                 "The European Quality Improvement System (EQUIS)",
@@ -87,7 +87,7 @@ export const szentistvanuniversity = {
         {
             type: 'list-bollet',
             title: 'Students Life',
-            info: '<b>Szent Istvan University organizes different events throughout the year for students:</b>',
+            info: 'Szent Istvan University organizes different events throughout the year for students:',
             data: [
                 "Cook and talk - This idea came before the pandemic, from the fact that cooking and chatting could work together well to get to know international students better.",
                 "Students enjoy celebrating poetry day at the university.",
@@ -101,7 +101,7 @@ export const szentistvanuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Godollo, Hungary",
-            "info": "<b>Given below are the living expenses of Godollo, Hungary which may vary according to the individual needs:</b>",
+            "info": "Given below are the living expenses of Godollo, Hungary which may vary according to the individual needs:",
             "col": [
                 "Activity",
                 "Cost"
@@ -148,6 +148,10 @@ export const szentistvanuniversity = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - courses & Fees'
+        },
         {
             "type": 'text',
             "title": 'Programmes at Szent Istvan University with their Duration & Fees',
@@ -422,7 +426,7 @@ export const szentistvanuniversity = {
         {
             "type": "list-bollet",
             "title": "Ph.D. Studies",
-            "info": "<b>The PhD degrees offered by this university are:</b>",
+            "info": "The PhD degrees offered by this university are:",
             "data": [
                 "Szent Istvan University offers PhD degrees that are internationally recognized.",
                 "The professional staff of the university has a good reputation all over the world.",
@@ -437,7 +441,7 @@ export const szentistvanuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>This university provides PhD programmes in the following subjects:</b>",
+            "info": "This university provides PhD programmes in the following subjects:",
             "data": [
                 "Animal Science",
                 "Biology Sciences",
@@ -454,7 +458,7 @@ export const szentistvanuniversity = {
         {
             "type": "list-bollet",
             "title": "Faculties or Institutes at Szent Istvan University",
-            "info": "<b>The students must have a look at the various faculties or institutes at the Szent Istvan University. There are no specific faculties at the university. But the new structure of the university consists of different campuses:</b>",
+            "info": "The students must have a look at the various faculties or institutes at the Szent Istvan University. There are no specific faculties at the university. But the new structure of the university consists of different campuses:",
             "data": [
                 "Budai Campus (Budapest)",
                 "Georgikon (Keszthely)",
@@ -466,7 +470,7 @@ export const szentistvanuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Faculties before 2022:</b>",
+            "info": "Faculties before 2022:",
             "data": [
                 "Agricultural and Environmental Sciences",
                 "Agricultural and Economics Studies",
@@ -498,6 +502,10 @@ export const szentistvanuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - Admission 2023'
+        },
+        {
             "type": 'text',
             "title": 'Eligibility Criteria',
             "data": '<p><b>Students must fit into the below mentioned eligibility criteria to take admission to Szent Istvan University:</b></p>'
@@ -505,7 +513,7 @@ export const szentistvanuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For a bachelor’s degree:</b>",
+            "info": "For a bachelor’s degree:",
             "data": [
                 "Students must also possess an English language proficiency certificate with a B2 level (i.e. TOEFL 61 on iBT; min. 500 on PBT, a 6.0 on IELTS or equivalent).",
                 "Students or applicants should possess a high school diploma.",
@@ -516,7 +524,7 @@ export const szentistvanuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For a master’s degree:</b>",
+            "info": "For a master’s degree:",
             "data": [
                 "Students must possess a Bachelor’s diploma (a four-year undergraduate degree is required if a student apply for a one-year Master’s)",
                 "Students’ university transcript of records",
@@ -526,7 +534,7 @@ export const szentistvanuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>To successfully apply for different courses of studies at MaTE students or applicants must complete all of the following steps:</b>",
+            "info": "To successfully apply for different courses of studies at MaTE students or applicants must complete all of the following steps:",
             "data": [
                 "Step 1: Complete all sections of the application form.",
                 "Step 2: Attach a letter of motivation that outlines your reasons for choosing the course",
@@ -543,7 +551,7 @@ export const szentistvanuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Each applicant must submit following documents along with application form in order to secure admission:</b>",
+            "info": "Each applicant must submit following documents along with application form in order to secure admission:",
             "data": [
                 "A letter of motivation",
                 "Recommendation letters, reference forms from at least two referees",
@@ -629,6 +637,10 @@ export const szentistvanuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Szent Istvan University, Hungary - Reviews" },
@@ -647,6 +659,10 @@ export const szentistvanuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -676,6 +692,10 @@ export const szentistvanuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Szent Istvan University, Hungary - Gallery" },
@@ -694,6 +714,10 @@ export const szentistvanuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -731,6 +755,10 @@ export const szentistvanuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - Faculty'
+        },
         {
             "type": "table",
             "title": "",
@@ -770,6 +798,10 @@ export const szentistvanuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Szent Istvan University, Hungary - News & Articles" },
@@ -789,9 +821,13 @@ export const szentistvanuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Szent Istvan University provides housing facilities to its students at different premises:</b>",
+            "info": "Szent Istvan University provides housing facilities to its students at different premises:",
             "data": [
                 "Szent Istvan University has many different places for housing.",
                 "The placement of students depends on when students get their application in, where they want to be and whether they are graduate or undergraduate students.",
@@ -820,9 +856,13 @@ export const szentistvanuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Szent Istvan University, Hungary - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Szent Istvan University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Does the university have international cooperations with other universities?",

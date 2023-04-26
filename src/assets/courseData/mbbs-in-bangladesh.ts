@@ -5,6 +5,7 @@ export const mbbsinbangladesh = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '5 + 1 Year Internship',
     "url": "mbbs-in-bangladesh",
     "info": [
         {
@@ -22,7 +23,7 @@ export const mbbsinbangladesh = {
         {
             "type": "table-title",
             "title": "MBBS in Bangladesh - Quick Highlights 2022",
-            "info": "<b>All the major information about studying scenario in Bangladesh:</b>",
+            "info": "All the major information about studying scenario in Bangladesh:",
             "col": [
             ],
             "row": [
@@ -44,7 +45,7 @@ export const mbbsinbangladesh = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying MBBS in Bangladesh (Indian Students)",
-            "info": "<b>Know all the advantages the students get while pursuing medicine in bangladesh:</b>",
+            "info": "Know all the advantages the students get while pursuing medicine in bangladesh:",
             //"img": 'https://www.selectyouruniversity.com/images/benefits-of-mbbs-in-bangladesh.jpg',
             "data": [
                 "In top private & medical colleges of Bangladesh, 25% of seats are reserved for Indian students, hence there are more opportunities for them in Bangladesh.                ",
@@ -63,14 +64,14 @@ export const mbbsinbangladesh = {
         {
             type: 'text',
             title: 'Eligibility Criteria',
-            info: '<b>Here is the criteria considered for MBBS admission in the Bangladesh:</b>',
+            info: 'Here is the criteria considered for MBBS admission in the Bangladesh:',
             //img: 'https://www.selectyouruniversity.com/images/eligibility-criteria-of-mbbs-in-bangladesh.jpg',
             data: '<p>We will take you through the simple admission procedure & on behalf of you we will perform every process of admission honestly. You just need to submit all the required documents to us.</p><br><p>Students scoring good marks in 10+2 exam will be given an opportunity to obtain scholarship in Bangladesh medical universities</p>'
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>We assure your admission to medical universities in Bangladesh, if you are eligible for below criteria:</b>",
+            "info": "We assure your admission to medical universities in Bangladesh, if you are eligible for below criteria:",
             //"img": '',
             "data": [
                 "There should not be gap of more than 2 years after completing 12th education.",
@@ -84,7 +85,7 @@ export const mbbsinbangladesh = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>A process of admission followed in Bangladesh involves the following steps:</b>',
+            info: 'A process of admission followed in Bangladesh involves the following steps:',
             //img: 'https://www.selectyouruniversity.com/images/admission-process-to-study-mbbs-in-bangladesh.jpg',
             data: [
                 "<p><b>Step 1:</b> Fill the application form/ or get it filled by online staff of institutes.</p>",
@@ -98,7 +99,7 @@ export const mbbsinbangladesh = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The list of documents students should organize for MBBS admission:</b>",
+            "info": "The list of documents students should organize for MBBS admission:",
             "img": '',
             "data": [
                 "Xerox of valid passport",
@@ -113,7 +114,7 @@ export const mbbsinbangladesh = {
         {
             "type": "table",
             "title": "MBBS in Bangladesh - Intake for 2022",
-            "info": "<b>Check all the important dates occurred while taking the MBBS admission in Bangladesh:</b>",
+            "info": "Check all the important dates occurred while taking the MBBS admission in Bangladesh:",
             "col": [
                 "Events",
                 "Dates",
@@ -139,7 +140,7 @@ export const mbbsinbangladesh = {
         {
             "type": "list-bollet",
             "title": "Recognition of Bangladesh MBBS Universities",
-            "info": "<b>The details of medical council who approved the colleges in bangladesh:</b>",
+            "info": "The details of medical council who approved the colleges in bangladesh:",
             "img": '',
             "data": [
                 "National Medical Commission (NMC)",
@@ -150,7 +151,7 @@ export const mbbsinbangladesh = {
         {
             "type": "list-bollet",
             "title": "What is the SAARC Quota Admission?",
-            "info": "<b>The concessions you get under SAARC quota while studying in bangladesh:</b>",
+            "info": "The concessions you get under SAARC quota while studying in bangladesh:",
             "img": '',
             "data": [
                 "The SAARC Quota Admission criteria state that if a student taking admission in Bangladesh for MBBS contains the SAARC nation’s nationality, then he/she can get admission without paying the tuition fees.",
@@ -181,6 +182,12 @@ export const mbbsinbangladesh = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bangladesh 2023 - Syllabus'
+        },
+
         {
             "type": 'text',
             "title": 'Study Pattern for MBBS in Bangladesh',
@@ -202,7 +209,7 @@ export const mbbsinbangladesh = {
         {
             "type": "list-bollet",
             "title": "Courses Offered by the Bangladesh Medical Universities",
-            "info": "<b>There are the courses related to medical science offered at the universities:</b>",
+            "info": "There are the courses related to medical science offered at the universities:",
             "img": '',
             "data": [
                 "General Medicine",
@@ -222,7 +229,7 @@ export const mbbsinbangladesh = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MBBS course structure in Bangladesh: Semester is divided into 3 phases:</b>",
+            "info": "MBBS course structure in Bangladesh: Semester is divided into 3 phases:",
             "img": '',
             "data": [
                 "Pre-clinical phase",
@@ -249,10 +256,16 @@ export const mbbsinbangladesh = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bangladesh 2023 - Top Colleges in Bangladesh'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Bangladesh Fees Structure 2022",
-            "info": "<b>All the NMC approved Bangladeshi Medical Universities and their fee structure:</b>",
+            "info": "All the NMC approved Bangladeshi Medical Universities and their fee structure:",
             "col": [
                 "Name of the Universities",
                 "Tuition Fees",
@@ -350,7 +363,7 @@ export const mbbsinbangladesh = {
         {
             "type": "table",
             "title": "Top Ranked Medical Colleges in Bangladesh 2022",
-            "info": "<b>These are the top medical colleges in Bangladesh to apply in 2022:</b>",
+            "info": "These are the top medical colleges in Bangladesh to apply in 2022:",
             "col": [
                 "University Name",
                 "Country Ranking",
@@ -391,22 +404,22 @@ export const mbbsinbangladesh = {
                     "University Name": "Gono Bishwabiddyalay (Gono University)",
                     "Country Ranking": "83",
                     "World Ranking": "11080"
-                },
-                {
-                    "type": "list-bollet",
-                    "title": "After Completing MBBS from Bangladesh",
-                    "info": "<b>About the career opportunities for students after doing graduation in Bangladesh:</b>",
-                    "img": '',
-                    "data": [
-                        "Do PG in India/abroad",
-                        "Practice as a surgeon in the hospital",
-                        "Practice in any Government hospital",
-                        "Practice as a private surgeon",
-                        "Give lectures in medical colleges in India and hospitals as a professor",
-                        "Join government health organizations for planning health issues of the country",
-                        "Various government jobs as health officers"
-                    ]
-                },
+                }
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "After Completing MBBS from Bangladesh",
+            "info": "About the career opportunities for students after doing graduation in Bangladesh:",
+            "img": '',
+            "data": [
+                "Do PG in India/abroad",
+                "Practice as a surgeon in the hospital",
+                "Practice in any Government hospital",
+                "Practice as a private surgeon",
+                "Give lectures in medical colleges in India and hospitals as a professor",
+                "Join government health organizations for planning health issues of the country",
+                "Various government jobs as health officers"
             ]
         },
         {
@@ -429,10 +442,15 @@ export const mbbsinbangladesh = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bangladesh 2023 - FAQs'
+        },
         {
             "type": "question-list",
             "title": "MBBS in Bangladesh: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                   "ques": "Q. How many Indian students are studying MBBS in Bangladesh?",
@@ -492,6 +510,11 @@ export const mbbsinbangladesh = {
       ]}
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - Career Options'
+        },
        
         {
             type: "meta",

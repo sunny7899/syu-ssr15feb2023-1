@@ -19,7 +19,7 @@ export const tambovstateuniversity = {
         {
             "type": "table-title",
             "title": "Tambov State University - Quick Highlights",
-            "info": "<b>Take a look at some important facts of Tambov State Medical University:</b>",
+            "info": "Take a look at some important facts of Tambov State Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -34,7 +34,7 @@ export const tambovstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Tambov State University?",
-            "info": "<b>Following are the advantages of studying MBBS at Tambov State University:</b>",
+            "info": "Following are the advantages of studying MBBS at Tambov State University:",
             "data": [
                 "Tambov State University offers affordable medical education for global students.",
                 "Tambov State University is having International cooperation with many nations.",
@@ -50,7 +50,7 @@ export const tambovstateuniversity = {
         {
             "type": "table",
             "title": "Tambov State University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking of Tambov State University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking of Tambov State University:",
             "col": [
                 "Country",
                 "World"
@@ -65,7 +65,7 @@ export const tambovstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditations and Recognitions",
-            "info": "<b>Following are the accreditation and recognition of Tambov State University:</b>",
+            "info": "Following are the accreditation and recognition of Tambov State University:",
             "data": [
                 "World health organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -76,7 +76,7 @@ export const tambovstateuniversity = {
         {
             "type": "table",
             "title": "Tambov State University - FMGE Performance 2021",
-            "info": "<b>Tambov State University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Tambov State University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -95,7 +95,7 @@ export const tambovstateuniversity = {
         {
             "type": "table",
             "title": "Living Cost of Tambov City",
-            "info": "<b>The table below shows the average and approx cost of living in Tambov for a month but it may vary according to Individual’s living:</b>",
+            "info": "The table below shows the average and approx cost of living in Tambov for a month but it may vary according to Individual’s living:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -128,7 +128,7 @@ export const tambovstateuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Explore the best places in Tambov city -</b>",
+            "info": "Explore the best places in Tambov city -",
             "row": [
                 ["Park Druzhby", "Aseev House"],
                 ["Tambovskiy Oblastnoy Krayevedcheskiy Muzey", "Spaso-Preobrazhensky Kafedral'nyy Sobor"],
@@ -157,9 +157,13 @@ export const tambovstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Tambov State University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Tambov State University - MBBS Fee Structure 2022",
-            "info": "<b>Tambov State University is providing an affordable fee structure to all students:</b>",
+            "info": "Tambov State University is providing an affordable fee structure to all students:",
             "col": [
                 "Particular",
                 "Annual Fee",
@@ -187,7 +191,7 @@ export const tambovstateuniversity = {
         {
             "type": "table-title",
             "title": "Courses Offered at Tambov State University",
-            "info": "<b>Tambov State University has following medical faculties:</b>",
+            "info": "Tambov State University has following medical faculties:",
             "row": [
                 ["Microbiology & Infectious Diseases", "Therapy", "Public Health & Safety"],
                 ["Physiology", "Surgery", "Eye & Nerve disease"],
@@ -199,12 +203,12 @@ export const tambovstateuniversity = {
         {
             "type": "text",
             "title": "Tambov State University - MBBS Course Duration",
-            "info": "<b>The MBBS course duration in Russia is given below:</b><p>The duration of a Medical degree in Russia is 6 years which includes 5 years of MBBS course and 1 year of internship.</p>"
+            "info": "The MBBS course duration in Russia is given below:<p>The duration of a Medical degree in Russia is 6 years which includes 5 years of MBBS course and 1 year of internship.</p>"
         },
         {
             "type": "text",
             "title": "Tambov State University - MBBS Syllabus",
-            "info": '<p><b>The syllabus for MBBS in Russia is shown in the table below:</b></p>'
+            "info": '<p>The syllabus for MBBS in Russia is shown in the table below:</p>'
         },
         {
             "type": "table",
@@ -319,9 +323,13 @@ export const tambovstateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Tambov State University - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS:",
             "data": [
                 "The Candidates must be 17 years above or take admission before 31st December to do MBBS in Russia.",
                 "Every candidate must score more than 50% in the HSC exam or in similar courses with Physics, Chemistry, Biology, and English as compulsory subjects can apply for the admission process for MBBS in Russia.",
@@ -331,7 +339,7 @@ export const tambovstateuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following are the steps to take admission for MBBS in Russia:</b>",
+            "info": "Following are the steps to take admission for MBBS in Russia:",
             "data": [
                 "<b>Step 1:</b> Fill up the online admission forms of Tambov State University.",
                 "<b>Step 2:</b> Applicants must submit all-important academic documents.",
@@ -343,7 +351,7 @@ export const tambovstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The global medical aspirants need to carry all the essential document mentioned below at the of MBBS admission:</b>",
+            "info": "The global medical aspirants need to carry all the essential document mentioned below at the of MBBS admission:",
             "data": [
                 "SSC mark sheet",
                 "HSC mark sheet",
@@ -359,7 +367,7 @@ export const tambovstateuniversity = {
         {
             "type": "table",
             "title": "Tambov State University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Tambov State University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Tambov State University:",
             "col": [
                 "Events",
                 "Dates",
@@ -400,6 +408,10 @@ export const tambovstateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Tambov State University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tambov State University - Reviews" },
@@ -418,6 +430,10 @@ export const tambovstateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Tambov State University - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -448,6 +464,10 @@ export const tambovstateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Tambov State University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tambov State University - Gallery" },
@@ -467,9 +487,13 @@ export const tambovstateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Tambov State University - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships that are provided at Tambov State University are as follows:</b>",
+            "info": "The scholarships that are provided at Tambov State University are as follows:",
             "data": [
                 "Arash Hadipour Niktarash Grant",
                 "The NextGen Scholarship",
@@ -498,6 +522,10 @@ export const tambovstateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Tambov State University - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tambov State University - Faculty" },
@@ -516,6 +544,10 @@ export const tambovstateuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Tambov State University - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -536,9 +568,13 @@ export const tambovstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Tambov State University - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facility",
-            "info": "<b>Tambov State University provides the students with the best hostel and accommodation facilities:</b>",
+            "info": "Tambov State University provides the students with the best hostel and accommodation facilities:",
             "data": [
                 "Fully furnished hostels separate for boys and girls both.",
                 "Students are provided beds on a sharing basis.",
@@ -570,9 +606,13 @@ export const tambovstateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Tambov State University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Tambov State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the pre-medical & paramedical phase at Tambov State University?",

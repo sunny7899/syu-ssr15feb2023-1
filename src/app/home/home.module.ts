@@ -14,13 +14,15 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { FooterModule } from '../footer/footer.module';
 //import {MatCardModule} from '@angular/material/card';
 import { ChatModule } from '../chat/chat.module';
+import { FormComponent } from '../form/form.component'
 
 
 
 @NgModule({
   declarations: [
     HomeComponent,
-    PopupFormComponent
+    PopupFormComponent,
+    FormComponent
   ],
   imports: [
     CommonModule,

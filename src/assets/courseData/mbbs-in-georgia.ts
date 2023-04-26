@@ -1,20 +1,21 @@
-export const mbbsingeorgia= {
+export const mbbsingeorgia = {
     "Title": "MBBS in Georgia",
     "shortTitle": "MBBS in Georgia",
     "location": "",
     "type": "",
     "rating": "",
     "shareLink": "",
-    "url":"mbbs-in-georgia",
-        "info": [
-            {
-                type: 'title',
-                title: 'MBBS in Georgia'
-            },
+    "Duration": "5 + 1 Year Internship",
+    "url": "mbbs-in-georgia",
+    "info": [
         {
-          "type": "text",
-          "title": "",
-          "data": "<p>‘<strong>MBBS in Georgia</strong>’ has always been an attraction for Indian students. Georgia is the most famous destination among students for medical education in abroad. MBBS in Georgia offers <strong>world class research infrastructure</strong>, quality education, and cross-cultural experience.</p><p>The experience of studying ‘MBBS in European Countries’ has always proved to be the best for Indian students and Georgia is famous for its <strong>medical education across the world</strong>.</p><p>There is a wish which every student studying medicine has is to add an international degree in their curriculum vitae. For students who wish to study MBBS in Europe, MBBS in Georgia is really worth noticeable.There are 25 NMC approved medical universities in Georgia.</p><p>At the intersection of Europe and Asia, situated is the small country known as Georgia. The Georgian medical colleges are governed by the National Medical Commission (NMC) and World Health Organization (WHO) and other medical bodies. <strong>Medical schools in Georgia</strong> offer best infrastructure and international standard of medical education.</p><p>The Ministry of Education and Science of Georgia has given accreditation to major institutions, colleges and universities in Georgia. MBBS in Georgia is also famous among medical students for its low cost medical education.Therefore, for Indian medical aspirants <strong>MBBS in Georgia</strong> could be the right choice.</p>"
+            type: 'title',
+            title: 'MBBS in Georgia'
+        },
+        {
+            "type": "text",
+            "title": "",
+            "data": "<p>‘<strong>MBBS in Georgia</strong>’ has always been an attraction for Indian students. Georgia is the most famous destination among students for medical education in abroad. MBBS in Georgia offers <strong>world class research infrastructure</strong>, quality education, and cross-cultural experience.</p><p>The experience of studying ‘MBBS in European Countries’ has always proved to be the best for Indian students and Georgia is famous for its <strong>medical education across the world</strong>.</p><p>There is a wish which every student studying medicine has is to add an international degree in their curriculum vitae. For students who wish to study MBBS in Europe, MBBS in Georgia is really worth noticeable.There are 25 NMC approved medical universities in Georgia.</p><p>At the intersection of Europe and Asia, situated is the small country known as Georgia. The Georgian medical colleges are governed by the National Medical Commission (NMC) and World Health Organization (WHO) and other medical bodies. <strong>Medical schools in Georgia</strong> offer best infrastructure and international standard of medical education.</p><p>The Ministry of Education and Science of Georgia has given accreditation to major institutions, colleges and universities in Georgia. MBBS in Georgia is also famous among medical students for its low cost medical education.Therefore, for Indian medical aspirants <strong>MBBS in Georgia</strong> could be the right choice.</p>"
         },
 
         {
@@ -22,21 +23,22 @@ export const mbbsingeorgia= {
             "title": "MBBS in Georgia - Key Features",
             "info": "This table below shows the important highlights of the MBBS course in Georgia:",
             "row": [
-                     ["Intake for MBBS Course","September - October"],
-                     ["Basic Eligibility Criteria","50% in PCB for General at 10+2 Science<br>40% for SC/ ST or reserve categories"],
-                     ["NEET Exam","Required, it is compulsory with qualifying marks"],
-                     ["Course Duration","5 + 1 year Internship"],
-                     ["NMC Approved Medical Universities","40,00,000 INR"],
-                     ["IELTS and TOEFL","Yes, Required"],
-                     ["Minimum Tuition Fee","Rs.2.52 Lacs/Year"],
-                     ["Maximum Tuition Fee","Rs.5 Lacs/Year"],
-                     ["Medium of Teaching","English Language"],
-                     ["Top Medical Universities","Batumi Shota Rustaveli State University,<br>Ivane Javakhishvili Tbilisi State University"],
-                     ["Living Expenses in Georgia","Rs.12-15 Thousand / Month"],
-                     ["Recognition of Universities","NMC, WHO, WFME & many more"]
-                    ]
+                ["Intake for MBBS Course", "September - October"],
+                ["Basic Eligibility Criteria", "50% in PCB for General at 10+2 Science<br>40% for SC/ ST or reserve categories"],
+                ["NEET Exam", "Required, it is compulsory with qualifying marks"],
+                ["Course Duration", "5 + 1 year Internship"],
+                ["NMC Approved Medical Universities", "25"],
+                ["IELTS and TOEFL", "Yes, Required"],
+                ["Minimum Tuition Fee", "Rs.2.52 Lacs/Year"],
+                ["Maximum Tuition Fee", "Rs.5 Lacs/Year"],
+                ["Medium of Teaching", "English Language"],
+                ["Top Medical Universities", "Batumi Shota Rustaveli State University,<br>Ivane Javakhishvili Tbilisi State University"],
+                ["Medium of Education", "English Language"],
+                ["Living Expenses in Georgia", "Rs.12-15 Thousand / Month"],
+                ["Recognition of Universities", "NMC, WHO, WFME & many more"]
+            ]
         },
-          {
+        {
             type: 'list-bollet',
             title: 'Why Choose Georgia to Study MBBS Course?',
             info: 'The advantages of studying MBBS in Georgia for Indian Students are explained below:',
@@ -48,6 +50,7 @@ export const mbbsingeorgia= {
                 "The universities in Georgia are well equipped with great technology and infrastructure.",
                 "All the medical universities in Georgia provide very good accommodation facilities to the students and they also make Indian food easily available for the students.",
                 "MBBS admission in Georgia is actually a very affordable option for Indian students as there are many universities which offer low cost MBBS in Georgia.",
+                "Georgia is an absolutely safe country. Students can easily travel in public transport like buses, trains etc. without any problems.",
                 "Outstanding international faculties.",
                 "Approximately, 50% discount on transportation for international students."
             ]
@@ -71,7 +74,7 @@ export const mbbsingeorgia= {
             data: [
                 "<b><u>Step 1</u>:</b>  Along with the required documents, students are required to fill the online application form.",
                 "<b><u>Step 2</u>:</b>  As soon as university receives the application form, it issues an offer letter. Students can deposit the fees in the bank account of the university.",
-                "<b><u>Step 3</u>:</b>  he Ministry of Education and Science of Georgia issues an accreditation letter to the students after 30 days, upon which a ministry order is received by the university and it issues an invitation letter to the students.",
+                "<b><u>Step 3</u>:</b>  The Ministry of Education and Science of Georgia issues an accreditation letter to the students after 30 days, upon which a ministry order is received by the university and it issues an invitation letter to the students.",
                 "<b><u>Step 4</u>:</b>  Once the above procedure is complete, it takes 30 days for visa approval.",
                 "<b><u>Step 5</u>:</b>  The process of departure gets finished, once the fees get cleared."
             ]
@@ -107,54 +110,54 @@ export const mbbsingeorgia= {
             ]
         },
         {
-        "type": "table",
-        title: 'What are the Intake Dates & Deadlines to Study Medicine in Georgia?',
-        info: 'Refer to the following table for the important timelines of the admission process and intake in Georgia for the MBBS course. Indian students must keep the dates in mind as they need to process the student visa accordingly:',
-        "col":[
-                    "Events",
-                    "Dates"
-             ],
-        "row": [
-            {
-                "Events": "Application Start Date",
-                "Dates": "January"
-            },
-            {
-                "Events": "Last Date of Application",
-                "Dates": "September - October"
-            },
-            {
-                "Events": "Course Commences From",
-                "Dates": "October"
-            }
-        ],
-        "heading":"<p><b><u>Note:</u></b> Above mentioned information is only for the reference. Information may vary as per the universities of Georgia.</p>"
-    },
-    
-    {
-        type: 'list-bollet',
-        title: 'What is the Medium of Teaching for MBBS in Georgia?',
-        info: 'The medium of teaching in NMC approved medical univeristies in Georgia is English. It helps the students from all over the world to understand the concepts very easily:',
-        data: [
-            "The number of Georgian medical universities is approved by the National Medical Commission & World Health Organization which follows the English as a medium of instruction for the MBBS course of study.",
-            "International students can get benefit to communicate with the professors, faculties in English in terms of any queries."
-        ]
-    },
-    {
-        type: 'text',
-        title: 'MBBS in Georgia - Is it Safe for Indian Students?',
-        info: '',
-        data: "<p>Studying MBBS in Georgia is much safer than any other country. According to <strong>Global Peace Index</strong>, Georgia stands on <strong>85th position</strong>, while India holds 141st rank and USA stands on 103rd position according to it.</p>"
-    },
-          {
+            "type": "table",
+            title: 'What are the Intake Dates & Deadlines to Study Medicine in Georgia?',
+            info: 'Refer to the following table for the important timelines of the admission process and intake in Georgia for the MBBS course. Indian students must keep the dates in mind as they need to process the student visa accordingly:',
+            "col": [
+                "Events",
+                "Dates"
+            ],
+            "row": [
+                {
+                    "Events": "Application Start Date",
+                    "Dates": "January"
+                },
+                {
+                    "Events": "Last Date of Application",
+                    "Dates": "September - October"
+                },
+                {
+                    "Events": "Course Commences From",
+                    "Dates": "October"
+                }
+            ],
+            "heading": "<p><b>Note:</b> Above mentioned information is only for the reference. Information may vary as per the universities of Georgia.</p>"
+        },
+
+        {
+            type: 'list-bollet',
+            title: 'What is the Medium of Teaching for MBBS in Georgia?',
+            info: 'The medium of teaching in NMC approved medical univeristies in Georgia is English. It helps the students from all over the world to understand the concepts very easily:',
+            data: [
+                "The number of Georgian medical universities is approved by the National Medical Commission & World Health Organization which follows the English as a medium of instruction for the MBBS course of study.",
+                "International students can get benefit to communicate with the professors, faculties in English in terms of any queries."
+            ]
+        },
+        {
+            type: 'text',
+            title: 'MBBS in Georgia - Is it Safe for Indian Students?',
+            info: '',
+            data: "<p>Studying MBBS in Georgia is much safer than any other country. According to <strong>Global Peace Index</strong>, Georgia stands on <strong>85th position</strong>, while India holds 141th rank and USA stands on 103rd position according to it.</p>"
+        },
+        {
             "type": "table",
             "title": "MBBS in Georgia vs Ukraine",
-            "info":"These are 2 of the top options for doing your MBBS degree. Let’s see the comparison:",
-            "col":[
-                        "Particulars",
-                        "Nation",
-                        "Ukraine"
-                 ],
+            "info": "These are 2 of the top options for doing your MBBS degree. Let’s see the comparison:",
+            "col": [
+                "Particulars",
+                "Georgia",
+                "Ukraine"
+            ],
             "row": [
                 {
                     "Particulars": "Degree",
@@ -195,9 +198,9 @@ export const mbbsingeorgia= {
                 "The Winter months in Georgia are freezing. Thus, during these freezing months, there is a heating facility in the classes and also in the hostel rooms.",
                 "24 hours supply of electricity and hot and cold water."
             ],
-            "heading":"<p><strong><u>Note</u></strong>: Students who don’t want to opt for hostel facility, can go for various off campus and other accommodation options. These options include rented flats or apartments, hotels, lodges, homestay with a host family, etc.</p><p>Students would need to check these options budget wise and comfort wise and would need to select the one which best suits their needs and living style.</p>"
+            "heading": "<p><strong><u>Note</u></strong>: Students who don’t want to opt for hostel facility, can go for various off campus and other accommodation options. These options include rented flats or apartments, hotels, lodges, homestay with a host family, etc.</p><p>Students would need to check these options budget wise and comfort wise and would need to select the one which best suits their needs and living style.</p>"
         },
-        
+
         {
             type: 'list-bollet',
             title: 'Things to Remember While Choosing an Accommodation in Georgia',
@@ -224,76 +227,84 @@ export const mbbsingeorgia= {
             info: 'Georgia Embassy',
             data: '<p><b>Georgia Embassy</b></p><p>169, Jor Bagh Colony Rd,</p><p>Jor Bagh, New Delhi,</p><p>Delhi 110003</p>',
         },
-      {
-        type: 'list-bollet',
-        title: 'About Georgia',
-        //img: 'about-georgia.jpg',
-        info:'Here are some interesting things about Georgia:',
-        data: [
-            "Georgia is a country located in the Caucasus region of Eurasia or at the crossroads or intersection of Europe and Asia. There are around 4 million people living in the country.",
-            "The country of Georgia is surrounded by Russia from North and Turkey and Armenia from South. The west boundary of Georgia is bounded by the black sea. From the southeast the country is bounded by the Azerbaijan.",
-            "The largest city of Georgia is Tbilisi which is the capital of Georgia.",
-            "Georgian (nationwide) and Abkhazian (Abkhazian AR) are the official language of Georgia. The Mingrelian, Svan and Bats are the recognised regional languages of Georgia."
-        ]
-    },
-    {
-        "type": "table-title",
-        "title": "",
-        "info": "",
-        "row": [
-                 ["Religion","Christianity"],
-                 ["Currency","Georgian Lari (GEL)"],
-                 ["Exchange Rate (as of December 2021)","1GEL= 25 INR approx"],
-                 ["Population","38 lakh"],
-                 ["Language","Georgian"],
-                 ["Climate","Winter minimum temp. 1-degree Celcius<br>Summer maximum temp. 33 degrees Celcius"],
-                 ["Time Difference","India is 1 hour 30 minutes ahead in time with Georgia"]
-                ]
-    },
-    {
-        type:"meta",
-        meta: [
-          { name: "title", content: "MBBS in Georgia for Indian Students 2023" },
-          { name: "description", content: "Want to study MBBS in Georgia? Georgia medical universities offer MBBS course for Indian student with low fees structure in some of the best NMC approved medical colleges." },
-        ],
+        {
+            type: 'list-bollet',
+            title: 'About Georgia',
+            //img: 'about-georgia.jpg',
+            info: 'Here are some interesting things about Georgia:',
+            data: [
+                "Georgia is a country located in the Caucasus region of Eurasia or at the crossroads or intersection of Europe and Asia. There are around 4 million people living in the country.",
+                "The country of Georgia is surrounded by Russia from North and Turkey and Armenia from South. The west boundary of Georgia is bounded by the black sea. From the southeast the country is bounded by the Azerbaijan.",
+                "The largest city of Georgia is Tbilisi which is the capital of Georgia.",
+                "Georgian (nationwide) and Abkhazian (Abkhazian AR) are the official language of Georgia. The Mingrelian, Svan and Bats are the recognised regional languages of Georgia."
+            ]
         },
         {
-        type:"meta-title",
-        title: "MBBS in Georgia for Indian Students 2023"},
+            "type": "table-title",
+            "title": "",
+            "info": "",
+            "row": [
+                ["Religion", "Christianity"],
+                ["Currency", "Georgian Lari (GEL)"],
+                ["Exchange Rate (as of December 2021)", "1GEL= 31 INR approx"],
+                ["Population", "38 lakh"],
+                ["Language", "Georgian"],
+                ["Climate", "Winter minimum temp. 1-degree Celcius<br>Summer maximum temp. 33 degrees Celcius"],
+                ["Time Difference", "India is 1 hour 30 minutes ahead in time with Georgia"]
+            ]
+        },
         {
-        type:"meta-links",
-        link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia" }
-        ]}
+            type: "meta",
+            meta: [
+                { name: "title", content: "MBBS in Georgia for Indian Students 2023" },
+                { name: "description", content: "Want to study MBBS in Georgia? Georgia medical universities offer MBBS course for Indian student with low fees structure in some of the best NMC approved medical colleges." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MBBS in Georgia for Indian Students 2023"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia" }
+            ]
+        }
 
 
     ],
-    "syllabus":[
+    "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Georgia 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "What are the Courses offered by Georgian Medical Universities?",
             "info": "Georgian medical universities offer different medical courses. There are 4 main medicinal courses that are offered in top medical universities:",
             "col": [
-              "Courses",
-              "Duration"
+                "Courses",
+                "Duration"
             ],
             "row": [
-              {
-                "Courses":'<b>MBBS/MD</b>',
-                "Duration":"6 Years"
-              },
-              {
-                "Courses":'<b>Dentistry</b>',
-                "Duration":"5 Years"
-              },
-              {
-                "Courses":'<b>Pharmacy</b>',
-                "Duration":"4 Years"
-              },
-              {
-                "Courses":'<b>Nursing</b>',
-                "Duration":"4 Years"
-              }
+                {
+                    "Courses": '<b>MBBS/MD</b>',
+                    "Duration": "6 Years"
+                },
+                {
+                    "Courses": '<b>Dentistry</b>',
+                    "Duration": "5 Years"
+                },
+                {
+                    "Courses": '<b>Pharmacy</b>',
+                    "Duration": "4 Years"
+                },
+                {
+                    "Courses": '<b>Nursing</b>',
+                    "Duration": "4 Years"
+                }
             ],
         },
         {
@@ -459,325 +470,342 @@ export const mbbsingeorgia= {
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "MBBS in Georgia 2023 - Syllabus" },
-              { name: "description", content: "Have a look at the detailed syllabus for the course listed by the country. Check on the link provided  for detailed information" },
+                { name: "title", content: "MBBS in Georgia 2023 - Syllabus" },
+                { name: "description", content: "Have a look at the detailed syllabus for the course listed by the country. Check on the link provided  for detailed information" },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "MBBS in Georgia 2023 - Syllabus"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "MBBS in Georgia 2023 - Syllabus"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia/syllabus" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia/syllabus" }
+            ]
+        }
     ],
-        "topcolleges":[
-            {
-                "type": "table",
-                "title": "Total Cost of MBBS in Georgia 2022",
-                "info": "Over 2000 Indian students take admission to MBBS in Georgia every year. The low fee structure is one of the main reasons behind it. Take a look at the low fee structured medical universities of Georgia:",
-                "col": [
-                  "Name of the Universities",
-                  "Tuition Fees/Year",
-                  "Hostel Fees/Year"
-                ],
-                "row": [
-                  {
-                    "Name of the Universities":"<b>University of Georgia</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,26,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 1,77,500"
-                  },
-                  {
-                    "Name of the Universities":"<b>Batumi Shota Rustaveli State University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,20,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 2,10,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>New Vision University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,90,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 2,00,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Akaki Tsereteli State University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,30,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Georgian National University SEU</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 1,05,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 70,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Tbilisi State Medical University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 5,94,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Ilia State University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,76,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 2,13,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Georgian American University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,19,200",
-                    "Hostel Fee (For 1 Year)":"Rs. 70,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>David Tvildiani Medical University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 7,34,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>European University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,50,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 70,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Ivane Javakhishvili Tbilisi State University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 2,80,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>LLC Caucasus International University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,94,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Geomedi Medical University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 2,40,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 40,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>East European University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,50,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 1,75,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>David Agmashenebeli University of Georgia</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 2,87,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 35,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>BAU International University, Batumi</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,55,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 35,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Grigol Robakidze University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,15,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 2,10,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Tbilisi Open Teaching University</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 3,15,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 1,75,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Tbilisi Medical University ‘Hippocrates’</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 5,00,833",
-                    "Hostel Fee (For 1 Year)":"Rs. 1,75,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Petre Shotadze Tbilisi Medical Academy</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,20,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 35,000"
-                  },
-                  {
-                    "Name of the Universities":"<b>Tbilisi Public University 'Metekhi'</b>",
-                    "Tuition Fees (For 1 Year)":"Rs. 4,55,000",
-                    "Hostel Fee (For 1 Year)":"Rs. 84,000"
-                  }
-                ],
-                "heading":"<p><b>Disclaimer:</b> Tuition fees of the medical universities mentioned in the table are subject to fluctuation. Contact Select Your University for more details regarding tuition fees, hostel cost, and conversion of USD to INR.</p>"
-            },
-            {
-                "type": "table-title",
-                "title": "Top Medical Universities in Georgia (NMC Recognized)",
-                "info": "<p>Take a look at the highlights of the top-ranked NMC approved medical universities of Georgia. More than 5000 Indian students are already studying their MBBS courses here:</p><h4>1. MBBS at University of Georgia, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "50% in PCB"],
-                    ["<b>Medium</b>", "English and Georgian"],
-                    ["<b>Ranking</b>", "Country Rank - 4<br>World Rank - 4630"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>2. MBBS at Batumi Shota Rustaveli State University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Batumi"],
-                    ["<b>Eligibility</b>", "English"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 6<br>World Rank - 6728"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>3. MBBS at New Vision University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 24<br>World Rank - 9700"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>4. MBBS at Akaki Tsereteli State University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 11<br>World Rank - 7734"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>5. MBBS at Ilia State University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 2<br>World Rank - 3424"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>6. MBBS at University of Georgia, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 32<br>World Rank - 10378"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>7. MBBS at European University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 26<br>World Rank - 10170"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>8. MBBS at Ivane Javakhishvili Tbilisi State University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 1<br>World Rank - 3128"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>9. MBBS at Caucasus International University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 20<br>World Rank - 9394"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>10. MBBS at Tbilisi State Medical University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 9<br>World Rank - 7562"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>11. MBBS at Geomedi Medical University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 29<br>World Rank - 10310"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                "type": "table-title",
-                "title": "",
-                "info": "<h4>12. MBBS at East European University, Georgia</h4>",
-                "col": [
-                ],
-                "row": [
-                    ["<b>Location</b>", "Tbilisi"],
-                    ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
-                    ["<b>Medium</b>", "English"],
-                    ["<b>Ranking</b>", "Country Rank - 39<br>World Rank - 10792"],
-                    ["<b>Deadline</b>", "October"]
-                ],
-            },
-            {
-                type:"meta",
-                meta: [
-                  { name: "title", content: "MBBS in Georgia 2023 - Top Colleges in Georgia" },
-                  { name: "description", content: "Get all the details about the top colleges present in the country for MBBS education. Click on the link and  get access to the Information" },
-                ],
+    "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Georgia 2023 - Top Colleges in Georgia'
+        },
+
+        {
+            "type": "table",
+            "title": "Total Cost of MBBS in Georgia 2023",
+            "info": "Over 2000 Indian students take admission to MBBS in Georgia every year. The low fee structure is one of the main reasons behind it. Take a look at the low fee structured medical universities of Georgia:",
+            "col": [
+                "Name of the Universities",
+                "Tuition Fees/Year",
+                "Hostel Fees/Year"
+            ],
+            "row": [
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/university-of-georgia-tbilisi/ target=_blank><b>University of Georgia</b></a>",
+                    "Tuition Fees/Year": "Rs. 4,26,000",
+                    "Hostel Fees/Year": "Rs. 1,77,500"
                 },
                 {
-                type:"meta-title",
-                title: "MBBS in Georgia 2023 - Top Colleges in Georgia"},
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/batumi-shota-rustaveli-state-university/ target=_blank><b>Batumi Shota Rustaveli State University</b></a>",
+                    "Tuition Fees/Year": "Rs. 4,20,000",
+                    "Hostel Fees/Year": "Rs. 2,10,000"
+                },
                 {
-                type:"meta-links",
-                link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia/top-colleges" }
-                ]}
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/new-vision-university/ target=_blank><b>New Vision University</b></a>",
+                    "Tuition Fees/Year": "Rs. 4,90,000",
+                    "Hostel Fees/Year": "Rs. 2,00,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/akaki-tsereteli-state-university/ target=_blank><b>Akaki Tsereteli State University</b></a>",
+                    "Tuition Fees/Year": "Rs. 4,30,000",
+                    "Hostel Fees/Year": "Rs. 40,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/georgian-national-university-seu/ target=_blank><b>Georgian National University SEU</b></a>",
+                    "Tuition Fees/Year": "Rs. 1,05,000",
+                    "Hostel Fees/Year": "Rs. 70,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/tbilisi-state-medical-university/ target=_blank><b>Tbilisi State Medical University</b></a>",
+                    "Tuition Fees/Year": "Rs. 5,94,000",
+                    "Hostel Fees/Year": "Rs. 40,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/ilia-state-university/ target=_blank><b>Ilia State University</b></a>",
+                    "Tuition Fees/Year": "Rs. 3,76,000",
+                    "Hostel Fees/Year": "Rs. 2,13,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/georgian-american-university/ target=_blank><b>Georgian American University</b></a>",
+                    "Tuition Fees/Year": "Rs. 3,19,200",
+                    "Hostel Fees/Year": "Rs. 70,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/david-tvildiani-medical-university/ target=_blank><b>David Tvildiani Medical University</b></a>",
+                    "Tuition Fees/Year": "Rs. 7,34,000",
+                    "Hostel Fees/Year": "Rs. 40,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/european-university-georgia/ target=_blank><b>European University</b></a>",
+                    "Tuition Fees/Year": "Rs. 3,50,000",
+                    "Hostel Fees/Year": "Rs. 70,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/ivane-javakhishvili-tbilisi-state-university/ target=_blank><b>Ivane Javakhishvili Tbilisi State University</b></a>",
+                    "Tuition Fees/Year": "Rs. 2,80,000",
+                    "Hostel Fees/Year": "Rs. 40,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/caucasus-international-university/ target=_blank><b>LLC Caucasus International University</b></a>",
+                    "Tuition Fees/Year": "Rs. 3,94,000",
+                    "Hostel Fees/Year": "Rs. 40,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/geomedi-state-university/ target=_blank><b>Geomedi Medical University</b></a>",
+                    "Tuition Fees/Year": "Rs. 2,40,000",
+                    "Hostel Fees/Year": "Rs. 40,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/east-european-university/ target=_blank><b>East European University</b></a>",
+                    "Tuition Fees/Year": "Rs. 3,50,000",
+                    "Hostel Fees/Year": "Rs. 1,75,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/david-agmashenebeli-university-of-georgia/ target=_blank><b>David Agmashenebeli University of Georgia</b></a>",
+                    "Tuition Fees/Year": "Rs. 2,87,000",
+                    "Hostel Fees/Year": "Rs. 35,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/bau-international-university-batumi/ target=_blank><b>BAU International University, Batumi</b></a>",
+                    "Tuition Fees/Year": "Rs. 4,55,000",
+                    "Hostel Fees/Year": "Rs. 35,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/grigol-robakidze-university/ target=_blank><b>Grigol Robakidze University</b></a>",
+                    "Tuition Fees/Year": "Rs. 3,15,000",
+                    "Hostel Fees/Year": "Rs. 2,10,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/tbilisi-open-teaching-university/ target=_blank><b>Tbilisi Open Teaching University</b></a>",
+                    "Tuition Fees/Year": "Rs. 3,15,000",
+                    "Hostel Fees/Year": "Rs. 1,75,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/tbilisi-medical-university-hippocrates// target=_blank><b>Tbilisi Medical University ‘Hippocrates’</b></a>",
+                    "Tuition Fees/Year": "Rs. 5,00,833",
+                    "Hostel Fees/Year": "Rs. 1,75,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/petre-shotadze-tbilisi-medical-academy/ target=_blank><b>Petre Shotadze Tbilisi Medical Academy</b></a>",
+                    "Tuition Fees/Year": "Rs. 4,20,000",
+                    "Hostel Fees/Year": "Rs. 35,000"
+                },
+                {
+                    "Name of the Universities": "<a href=https://www.selectyouruniversity.com/university/tbilisi-public-university-metekhi/ target=_blank><b>Tbilisi Public University 'Metekhi'</b></a>",
+                    "Tuition Fees/Year": "Rs. 4,55,000",
+                    "Hostel Fees/Year": "Rs. 84,000"
+                }
+            ],
+            "heading": "<p><b>Disclaimer:</b> Tuition fees of the medical universities mentioned in the table are subject to fluctuation. Contact Select Your University for more details regarding tuition fees, hostel cost, and conversion of USD to INR.</p>"
+        },
+        {
+            "type": "table-title",
+            "title": "Top Medical Universities in Georgia (NMC Recognized)",
+            "info": "Take a look at the highlights of the top-ranked NMC approved medical universities of Georgia. More than 5000 Indian students are already studying their MBBS courses here:",
+            "subtitle": "<h3>1. MBBS at University of Georgia, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "50% in PCB"],
+                ["<b>Medium</b>", "English and Georgian"],
+                ["<b>Ranking</b>", "Country Rank - 3<br>World Rank - 4083"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>2. MBBS at Batumi Shota Rustaveli State University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Batumi"],
+                ["<b>Eligibility</b>", "English"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 11<br>World Rank - 7448"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>3. MBBS at New Vision University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 24<br>World Rank - 9748"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>4. MBBS at Akaki Tsereteli State University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 9<br>World Rank - 6791"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>5. MBBS at Ilia State University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 2<br>World Rank - 3139"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>6. MBBS at University of Georgia, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 13<br>World Rank - 8911"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>7. MBBS at European University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 26<br>World Rank - 9958"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>8. MBBS at Ivane Javakhishvili Tbilisi State University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 1<br>World Rank - 1984"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>9. MBBS at Caucasus International University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 22<br>World Rank - 9623"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>10. MBBS at Tbilisi State Medical University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 8<br>World Rank - 6621"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>11. MBBS at Geomedi Medical University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 11<br>World Rank - 11551"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "subtitle": "<h3>12. MBBS at East European University, Georgia</h3>",
+            "col": [
+            ],
+            "row": [
+                ["<b>Location</b>", "Tbilisi"],
+                ["<b>Eligibility</b>", "Minimum 50% in HSC, NEET qualification"],
+                ["<b>Medium</b>", "English"],
+                ["<b>Ranking</b>", "Country Rank - 31<br>World Rank - 10695"],
+                ["<b>Deadline</b>", "October"]
+            ],
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "MBBS in Georgia 2023 - Top Colleges in Georgia" },
+                { name: "description", content: "Get all the details about the top colleges present in the country for MBBS education. Click on the link and  get access to the Information" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "MBBS in Georgia 2023 - Top Colleges in Georgia"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia/top-colleges" }
+            ]
+        }
     ],
-    "careeroptions":[
+    "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Georgia 2023 - Career Options'
+        },
+
         {
             "type": 'list-bollet',
             "title": 'What are the Career Opportunities after Completing MBBS Degree from Georgia?',
@@ -801,37 +829,46 @@ export const mbbsingeorgia= {
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "MBBS in Georgia 2023 - Career Options" },
-              { name: "description", content: "See all the career options you can look upto after completing your education. Click at the link and have a look at all the options available." },
+                { name: "title", content: "MBBS in Georgia 2023 - Career Options" },
+                { name: "description", content: "See all the career options you can look upto after completing your education. Click at the link and have a look at all the options available." },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "MBBS in Georgia 2023 - Career Options"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "MBBS in Georgia 2023 - Career Options"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia/career-options" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia/career-options" }
+            ]
+        }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Georgia 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Georgia - Important FAQs",
             "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
-                  "ques": "Q. Which are the top medical universities to study MBBS in Georgia?",
-                  "ans": "According to Select Your University, Batumi Shota Rustaveli State University and Ivane Javakhishvili Tbilisi State University these are the top medical universities to study MBBS in Georgia."
+                    "ques": "Q. Which are the top medical universities to study MBBS in Georgia?",
+                    "ans": "According to Select Your University, Batumi Shota Rustaveli State University and Ivane Javakhishvili Tbilisi State University these are the top medical universities to study MBBS in Georgia."
                 },
-                { "ques": "Q. How many Indian students are studying in Georgia?",
-                  "ans": "According to the previous records, there are around 2000 Indian students studying in Georgia and every year 500 students are taking admission for MBBS in various universities."
+                {
+                    "ques": "Q. How many Indian students are studying in Georgia?",
+                    "ans": "According to the previous records, there are around 2000 Indian students studying in Georgia and every year 500 students are taking admission for MBBS in various universities."
                 },
                 {
                     "ques": "Q. When does the MBBS course Start in Georgia?",
-                    "ans": "The Georgian medical universities offer the intake for the MBBS course in October. The admission process starts in August-Septembe"
+                    "ans": "The Georgian medical universities offer the intake for the MBBS course in October. The admission process starts in August-September."
                 },
                 {
                     "ques": "Q. Is an MBBS degree from the Georgia valid in India?",
@@ -844,53 +881,50 @@ export const mbbsingeorgia= {
                 {
                     "ques": "Q. How many semesters are there in MBBS in Georgia?",
                     "ans": "There are 12 semesters for MBBS in Georgia this is for a 6 years course duration."
-                  },
-                  {
+                },
+                {
                     "ques": "Q. Can I study MBBS in Georgia without NEET?",
                     "ans": "No, the NEET exam is compulsory for MBBS in Georgia. Students can not study MBBS in Georgia without NEET."
-                  },
-                  {
+                },
+                {
                     "ques": "Q. Can Indian students get education loan assistance for doing MBBS in Georgia?",
                     "ans": "Yes, there are various banks and government and private schemes that offer education loans for students who want to study abroad. They can assist and offer education loans for MBBS in Georgia too."
-                  },
-                  {
+                },
+                {
                     "ques": "Q. What is the cost of studying the MBBS course in Georgia?",
                     "ans": "The cost of the whole 6 years course of MBBS in Georgia including tuition fee and hostel fee sums up between Rs. 18,00,000 to Rs. 48,00,000 approximately."
-                  },
-                  {
+                },
+                {
                     "ques": "Q. What is the exam pattern for MBBS in Georgia, semester or yearly?",
                     "ans": "In Georgia, the exam pattern for the MBBS course is yearly based. Students have to attend exams yearly and the marking is based on a credit transfer system"
-                  },
-                  {
+                },
+                {
                     "ques": "Q. Is it compulsory to learn the Georgian language?",
                     "ans": "No, it is not compulsory to learn the Georgian language as the teaching medium is in English, but it would be a good idea if you learn the native language as it would help to simplify daily life and communicate with patients who don’t know the English language."
-                  },
-                  {
+                },
+                {
                     "ques": "Q. I heard the Indian embassy is not available in Georgia?",
                     "ans": "Yes, the Indian Embassy is not available in Georgia. The Indian Embassy at Yerevan, Armenia is allocated there to take care of problems, issues, documents, and every possible work for the Indians living in Georgia as well as Armenia. It is advised to students that as soon as they land in Georgia, they should register their names to the Indian Embassy in Armenia."
-                  }
+                }
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "MBBS in Georgia 2023 - FAQs" },
-              { name: "description", content: "Read all the FAQs asked by the students like you and clear all your doubts. Click here and read all the FAQs " },
+                { name: "title", content: "MBBS in Georgia 2023 - FAQs" },
+                { name: "description", content: "Read all the FAQs asked by the students like you and clear all your doubts. Click here and read all the FAQs " },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "MBBS in Georgia 2023 - FAQs"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "MBBS in Georgia 2023 - FAQs"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia/faq" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mbbs-in-georgia/faq" }
+            ]
+        }
     ],
-    "Gallery": {},
-    "Scholarship": {},
-    "Faculty": {},
-    "News & Articles": {},
-    "Hostel": {},
 
 }

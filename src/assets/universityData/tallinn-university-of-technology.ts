@@ -22,7 +22,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "table-title",
             "title": "Tallinn University of Technology - Quick Highlights",
-            "info": "<b>The applicants should go through the important points to study at the Tallinn University of Technology (TalTech):</b>",
+            "info": "The applicants should go through the important points to study at the Tallinn University of Technology (TalTech):",
             "col": [
             ],
             "row": [
@@ -39,7 +39,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Why Choose Tallinn University of Technology for Higher Studies?",
-            "info": "<b>Let’s find out some of the main beneficial reasons why students prefer to study here:</b>",
+            "info": "Let’s find out some of the main beneficial reasons why students prefer to study here:",
             "img": '',
             "data": [
                 "The school maintains constant interaction with universities around the world, and it brings together scientists, students, and entrepreneurs, as the university is a leader in science, technology, and innovation.",
@@ -58,7 +58,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b></b>",
+            "info": "",
             "img": '',
             "data": [
                 "Tallinn University of Technology offers education in Estonian and English mediums to all the students studying here.",
@@ -67,7 +67,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Accreditations",
-            "info": "<b>Tallinn University of Technology has various National and international accreditations as given below:</b>",
+            "info": "Tallinn University of Technology has various National and international accreditations as given below:",
             "img": '',
             "data": [
                 "Ministry of Education and Research of Estonia",
@@ -80,7 +80,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "table",
             "title": "Cost of Living at Tallinn, Estonia",
-            "info": "<b>Given below are the living expenses of Tallinn, Estonia which may vary according to the individual needs:</b>",
+            "info": "Given below are the living expenses of Tallinn, Estonia which may vary according to the individual needs:",
             "col": [
                 "Activity",
                 "Cost (approx.)",
@@ -132,9 +132,14 @@ export const tallinnuniversityoftechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Tallinn University of Technology - Fee Structure",
-            "info": "<b>Below given is the approximate fee structure for various courses at TalTech University:</b>",
+            "info": "Below given is the approximate fee structure for various courses at TalTech University:",
             "textBelowInfo": "1 Bachelor's",
             "col": [
                 "Study Programme",
@@ -343,7 +348,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "table",
             "title": "Course Duration",
-            "info": "<b>Below given is the duration of different courses at this college:</b>",
+            "info": "Below given is the duration of different courses at this college:",
             "textBelowInfo": "1 Bachelor's",
             "col": [
                 "Study of Programme",
@@ -528,7 +533,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Programmes at Tallinn University of Technology",
-            "info": "<b>Find below the list of programmes taught in English corresponding to Bachelor’s and Master’s studies:</b>",
+            "info": "Find below the list of programmes taught in English corresponding to Bachelor’s and Master’s studies:",
             "textBelowInfo": "<p>The 4 schools of TalTech university offer programmes in English medium of instruction. Those are:</p>",
             "data": [
                 "School of Information Technologies",
@@ -558,9 +563,14 @@ export const tallinnuniversityoftechnology = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students must fit into the below mentioned eligibility criteria to take admission to TalTech University:</b>",
+            "info": "Students must fit into the below mentioned eligibility criteria to take admission to TalTech University:",
             "data": [
                 "Candidates with at least 60% of the highest possible CGPA are eligible to apply for TalTech courses. In addition, country-specific requirements apply to all the candidates. Please note, candidates should refer to their country specific requirements while applying to Tallinn University of Technology.",
                 "Please note that for students or candidates who are applying for the Master's programmes, it is mandatory to upload a GRE test score report.",
@@ -573,7 +583,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Students should follow the below given process to take admission to TalTech University:</b>",
+            "info": "Students should follow the below given process to take admission to TalTech University:",
             "data": [
                 "<b>Step 1:</b> An application can only be considered if the electronic application form has been submitted by the candidate during the application period and all the required application documents of the candidate have been received by the given deadline.",
                 "<b>Step 2:</b> Students should create an application in DreamApply, and should upload it after filling personal details.",
@@ -593,7 +603,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Each applicant must submit following documents along with application form in order to secure admission:</b>",
+            "info": "Each applicant must submit following documents along with application form in order to secure admission:",
             "textBelowInfo": "<b>1 For Bachelor's Studies</b>",
             "data": [
                 "Officially certified copy of Higher secondary education certificate in the original languag.e",
@@ -607,7 +617,7 @@ export const tallinnuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>2 For Master's Studies</b>",
+            "info": "2 For Master's Studies",
             "data": [
                 "Officially certified or notarized copy of Bachelor's diploma in the original language.",
                 "Officially certified copy of academic transcripts in the original language.",
@@ -638,6 +648,11 @@ export const tallinnuniversityoftechnology = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tallinn University of Technology, Estonia - Reviews" },
@@ -656,6 +671,11 @@ export const tallinnuniversityoftechnology = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -684,6 +704,11 @@ export const tallinnuniversityoftechnology = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tallinn University of Technology, Estonia - Gallery" },
@@ -703,9 +728,14 @@ export const tallinnuniversityoftechnology = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>The scholarships that are provided at Tallinn University of Technology are as follows:Tallinn University of Technology (TalTech) provides housing facilities to its students at different premises:</b>",
+            "info": "The scholarships that are provided at Tallinn University of Technology are as follows:Tallinn University of Technology (TalTech) provides housing facilities to its students at different premises:",
             "data": [
                 "Performance Scholarship",
                 "Scholarship For Medal Winners Of International Subject Proficiency Olympiads",
@@ -733,9 +763,14 @@ export const tallinnuniversityoftechnology = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - Faculty"
+
+        },
+        {
             "type": "table-title",
             "title": "Faculties or Institutes at TalTech",
-            "info": "<b>The students must have a look at the various faculties or institutes at the Tallinn University of Technology:</b>",
+            "info": "The students must have a look at the various faculties or institutes at the Tallinn University of Technology:",
             "textBelowInfo": "<p>Under each faculty (or institute) there are different departments (or institutes). We will have a quick overview.</p>",
             "colTitle": "Faculty of Information Technology",
             "row": [
@@ -840,6 +875,11 @@ export const tallinnuniversityoftechnology = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tallinn University of Technology, Estonia - News & Articles" },
@@ -859,9 +899,14 @@ export const tallinnuniversityoftechnology = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation",
-            "info": "<b>Tallinn University of Technology (TalTech) provides housing facilities to its students at different premises:</b>",
+            "info": "Tallinn University of Technology (TalTech) provides housing facilities to its students at different premises:",
             "data": [
                 "The accommodation that the university offers is altogether known as a ‘Student village’. The hostels and dormitories in this village use most of the advanced technologies, such as digital locks to the doors everywhere inside the village premises, and provide full security to students.",
                 "The student village at TalTech has a total of approximately 2,200 accommodation places.",
@@ -893,9 +938,14 @@ export const tallinnuniversityoftechnology = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Tallinn University of Technology, Estonia - FAQ"
+
+        },
+        {
             type: 'question-list',
             title: 'Tallinn University of Technology - Important FAQs',
-            info: '<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>',
+            info: 'Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:',
             data: [
                 {
                     "ques": "Q. Is Tallinn University of Technology involved in distance education?",

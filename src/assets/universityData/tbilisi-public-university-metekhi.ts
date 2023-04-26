@@ -22,7 +22,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "table-title",
             "title": "Tbilisi Public University Metekhi: Quick Overview 2022",
-            "info": "<b>Here are some quick highlights which needed to be checked by students for MBBS admission at Tbilisi Public University Metekhi:</b>",
+            "info": "Here are some quick highlights which needed to be checked by students for MBBS admission at Tbilisi Public University Metekhi:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Tbilisi Public University Metekhi?",
-            "info": "<b>Check out some important benefits behind studying MBBS course from Tbilisi Public University Metekhi:</b>",
+            "info": "Check out some important benefits behind studying MBBS course from Tbilisi Public University Metekhi:",
             "img": '',
             "data": [
                 "Travel expenses and living cost of the city is affordable for the students.",
@@ -67,7 +67,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>The medium of instruction used at Tbilisi Public University Metekhi for MBBS education is mentioned below:</b>',
+            info: 'The medium of instruction used at Tbilisi Public University Metekhi for MBBS education is mentioned below:',
             data: '<p>Tbilisi Public University Metekhi offers medical education in <b>English</b> language. So students will never face any language problem at Tbilisi Public University Metekhi during medicine program education.</p>'
         },
 
@@ -75,7 +75,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "table",
             "title": "Tbilisi Public University Metekhi: Ranking 2022 ",
-            "info": "<b>When it comes to the country and world ranking of Tbilisi Public University Metekhi, check out the table mentioned below:</b>",
+            "info": "When it comes to the country and world ranking of Tbilisi Public University Metekhi, check out the table mentioned below:",
             "col": [
                 "Country Rank",
                 "World Rank",
@@ -94,7 +94,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "list-bollet",
             "title": "Recognition and Accreditations of Tbilisi Public University Metekhi",
-            "info": "<b>The university is affiliated, acknowledged and accredited by many authorities mentioned below:</b>",
+            "info": "The university is affiliated, acknowledged and accredited by many authorities mentioned below:",
             "img": '',
             "data": [
                 "National Medical Commission (NMC).",
@@ -111,7 +111,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Tbilisi Public University Metekhi",
-            "info": "<b>Well equipped facilities are furnished at the comfort zone of the worldwide students coming to learn medicine at Tbilisi Public University Metekhi:</b>",
+            "info": "Well equipped facilities are furnished at the comfort zone of the worldwide students coming to learn medicine at Tbilisi Public University Metekhi:",
             // "img": "https://www.selectyouruniversity.com/images/georgia-universities/well-equipped-laboratory.jpg",
             "data": [
                 "Well Equipped Laboratory",
@@ -181,7 +181,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "table",
             "title": "Cost of Living in Tbilisi, Georgia",
-            "info": "<b>The living cost of Tbilisi, Georgia is affordable for worldwide students, Refer the table mentioned below according to monthly expenses:</b>",
+            "info": "The living cost of Tbilisi, Georgia is affordable for worldwide students, Refer the table mentioned below according to monthly expenses:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -230,9 +230,14 @@ export const tbilisipublicuniversitymetekhi = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - courses & Fees'
+
+        },
+        {
             "type": "table",
             "title": "Tbilisi Public University Metekhi: MBBS Fee Structure 2022",
-            "info": "<b>The Fee structure of the Tbilisi Public University Metekhi is quite reasonable as compared to another university to pursue MBBS:</b>",
+            "info": "The Fee structure of the Tbilisi Public University Metekhi is quite reasonable as compared to another university to pursue MBBS:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -291,7 +296,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Tbilisi Public University Metekhi",
-            "info": "<b>Tbilisi Public University Metekhi serves 6 years MBBS course duration:</b>",
+            "info": "Tbilisi Public University Metekhi serves 6 years MBBS course duration:",
             "data": [
                 "The students should complete 6 years of medicine program at Tbilisi Public University Metekhi, which will be taught in English and Georgian language through highly experienced and dedicated faculty members and professors.",
                 "Tbilisi Public University Metekhi provides theoretical as well as practical classes for teaching basic medicine programs for 5 years. At the end of the MBBS program, the students must necessarily undergo a 1-year rotatory internship.",
@@ -300,7 +305,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "text",
             "title": "MBBS Syllabus: Tbilisi Public University Metekhi",
-            "info": '<p><b>The medical aspirants must check out the MBBS course study pattern at Tbilisi Public University Metekhi mentioned in the table:</b></p>'
+            "info": 'The medical aspirants must check out the MBBS course study pattern at Tbilisi Public University Metekhi mentioned in the table:'
         },
 
         {
@@ -406,9 +411,14 @@ export const tbilisipublicuniversitymetekhi = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - Admission 2023'
+
+        },
+        {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>The students who seek to get MBBS at Tbilisi Public University Metekhi must follow the mentioned below steps:</b>",
+            "info": "The students who seek to get MBBS at Tbilisi Public University Metekhi must follow the mentioned below steps:",
             "data": [
                 "<b>Step 1:</b> Candidates must submit the correctly filled application form.",
                 "<b>Step 2:</b> The candidates must submit the educational certificates and other essential documents required for MBBS admission.",
@@ -421,7 +431,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "list-bollet",
             "title": "Documents Required at The Time of Admission",
-            "info": "<b>The students must bring the important documents required during MBBS admission process at Tbilisi Public University Metekhi:</b>",
+            "info": "The students must bring the important documents required during MBBS admission process at Tbilisi Public University Metekhi:",
             "data": [
                 "The candidate must submit the correct filled application form.",
                 "The candidate must carry a transfer certificate/leaving certificate from the previous institution.",
@@ -440,7 +450,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>If the students strive to get admission in medicine program at Tbilisi Public University Metekhi, then the following requirements mentioned below have to be met:</b>",
+            "info": "If the students strive to get admission in medicine program at Tbilisi Public University Metekhi, then the following requirements mentioned below have to be met:",
             "data": [
                 "The age of the candidate must be 17 years old as on 31st December of the admission year.",
                 "The applicant must obtain at least 50% marks in the higher secondary examination or equivalent examination from the recognised board.",
@@ -451,7 +461,7 @@ export const tbilisipublicuniversitymetekhi = {
         {
             "type": "table",
             "title": "Important Dates: Intake 2022",
-            "info": "<b>Check out the Academic Calendar regarding admission at Tbilisi Public University Metekhi:</b>",
+            "info": "Check out the Academic Calendar regarding admission at Tbilisi Public University Metekhi:",
             "col": [
                 "Events",
                 "Dates",
@@ -496,6 +506,11 @@ export const tbilisipublicuniversitymetekhi = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - Reviews'
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: 'Tbilisi Public University "Metekhi" - Reviews' },
@@ -514,6 +529,11 @@ export const tbilisipublicuniversitymetekhi = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - Placement'
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -545,6 +565,11 @@ export const tbilisipublicuniversitymetekhi = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - Gallery'
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: 'Tbilisi Public University "Metekhi" - Gallery' },
@@ -563,6 +588,11 @@ export const tbilisipublicuniversitymetekhi = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - Scholarship'
+
+        },
         {
             type: "meta",
             meta: [
@@ -583,6 +613,11 @@ export const tbilisipublicuniversitymetekhi = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - Faculty'
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: 'Tbilisi Public University "Metekhi" - Faculty' },
@@ -601,6 +636,11 @@ export const tbilisipublicuniversitymetekhi = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - News & Articles'
+
+        },
         {
             type: "meta",
             meta: [
@@ -621,9 +661,14 @@ export const tbilisipublicuniversitymetekhi = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - Hostel'
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel Facility",
-            "info": "<b>Tbilisi Public University Metekhi offers its own accommodation facilities to the students which is well equipped with all amenities:</b>",
+            "info": "Tbilisi Public University Metekhi offers its own accommodation facilities to the students which is well equipped with all amenities:",
             "data": [
                 "Tbilisi Public University Metekhi offers comfortable residence in hostel rooms.",
                 "The hostel provides separate space for both the boys and girls.",
@@ -672,9 +717,14 @@ export const tbilisipublicuniversitymetekhi = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Tbilisi Public University "Metekhi" - FAQ'
+
+        },
+        {
             "type": "question-list",
             "title": 'Tbilisi Public University "Metekhi": Important FAQs',
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Is Tbilisi Public University Metekhi recognised?",

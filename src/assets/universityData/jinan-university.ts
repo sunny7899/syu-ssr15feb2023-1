@@ -20,7 +20,7 @@ export const jinanuniversity = {
         {
             "type": "table-title",
             "title": "Jinan University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Jinan Medical University:</b>",
+            "info": "Given below is the table for quick facts about Jinan Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September 2020"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -37,7 +37,7 @@ export const jinanuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Jinan University?',
-            info: '<b>Following are the advantages of studying at Jinan University:</b>',
+            info: 'Following are the advantages of studying at Jinan University:',
             data: [
                 "The safety of the students is very important for the administration of Jinan University and thus it pays great attention towards it and hence it does not appreciate any misbehavior from the students.",
                 "The admission process is a little easier, as students do not have to appear for any additional entrance exam.",
@@ -52,7 +52,7 @@ export const jinanuniversity = {
         {
             "type": "table",
             "title": "Jinan University - Ranking 20202",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Jinan University:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Jinan University:",
             "col": [
                 "Country",
                 "World",
@@ -68,7 +68,7 @@ export const jinanuniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>Following is the medium of teaching at Jinan University:</b>',
+            info: 'Following is the medium of teaching at Jinan University:',
             data: [
                 "At Jinan University, the medium of teaching is English, and thus language is not a barrier for non-chinese students while studying at this university.",
                 "Students receive Chinese language training in their first year of education which is compulsory and it can be extended."
@@ -77,7 +77,7 @@ export const jinanuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>China’s Jinan University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>',
+            info: 'China’s Jinan University is recognized and accredited by many important medical bodies in the field of medical education such as:',
             data: [
                 "Ministry of Education of the People’s Republic of China and Guangdong Province",
                 "World Health Organisation",
@@ -89,7 +89,7 @@ export const jinanuniversity = {
         {
             "type": "table",
             title: 'Cost of Living at Guangzhou City',
-            info: '<b>The Guangzhou city has cost of living as given below:</b>',
+            info: 'The Guangzhou city has cost of living as given below:',
             "col": [
                 "Activity",
                 "Cost"
@@ -123,7 +123,7 @@ export const jinanuniversity = {
             type: 'list-bollet',
             title: 'About Guangzhou City',
             img: 'guangzhou-city.jpg',
-            info: "<b>Below are some of the key points about the Guangzhou city:</b>",
+            info: "Below are some of the key points about the Guangzhou city:",
             data: [
                 "Guangzhou city has a population of 1.33 cr.",
                 "Guangzhou city is a cultural, and an economic center and also the capital and a political center of Guangdong Province.",
@@ -159,9 +159,14 @@ export const jinanuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Jinan University - courses & Fees"
+
+        },
+        {
             "type": "table",
             title: 'Jinan University - MBBS Fee Structure 2020',
-            info: '<b>The fee structure for Jinan University for MBBS program is given in the table below:</b>',
+            info: 'The fee structure for Jinan University for MBBS program is given in the table below:',
             "col": [
                 "Particular",
                 "1st Year",
@@ -277,7 +282,7 @@ export const jinanuniversity = {
         {
             type: 'list-bollet',
             title: 'MBBS Course Duration - Jinan University',
-            info: '<b>Mentioned below is the duration of MBBS course:</b>',
+            info: 'Mentioned below is the duration of MBBS course:',
             data: [
                 "The duration of MBBS course at Jinan Medical University is 6 years which includes 1 year of internship."
             ]
@@ -285,7 +290,7 @@ export const jinanuniversity = {
         {
             "type": "text",
             "title": "MBBS Syllabus - Jinan University",
-            "data": '<p><b>The complete syllabus for studying MBBS at Jinan University is as follows:</b></p>'
+            "data": 'The complete syllabus for studying MBBS at Jinan University is as follows:'
         },
 
         {
@@ -397,7 +402,7 @@ export const jinanuniversity = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Jinan University',
-            info: '<b>The various faculties and departments present at Jinan University are:< /b>',
+            info: 'The various faculties and departments present at Jinan University are:<',
             data: [
                 "Clinical Medicine",
                 "Pharmacy",
@@ -430,9 +435,14 @@ export const jinanuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Jinan University - Admission 2023"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>The eligibility criteria to study MBBS at Jinan University is as follows:</b>',
+            info: 'The eligibility criteria to study MBBS at Jinan University is as follows:',
             data: [
                 "The age of the applicant must be between 17 and 30 years.",
                 "Students must have completed their 12th standard or any equivalent education with minimum 60% aggregate marks.",
@@ -447,7 +457,7 @@ export const jinanuniversity = {
         {
             type: 'step-list',
             title: 'How to Apply for MBBS Admission at Jinan University?',
-            info: '<b>Following is the admission procedure for applying to MBBS course at Jinan University:</b>',
+            info: 'Following is the admission procedure for applying to MBBS course at Jinan University:',
             data: [
                 "<b>Step 1:</b> Along with the necessary attested documents, (as specified under documents section) students must fill the application form for studying medicine in China.",
                 "<b>Step 2:</b> Then students must pay application fees, admission fees and the processing fees. Students must make advance payment for the admission fees and the application fees, but the processing fees can be either sent to China or India whichever is earlier.",
@@ -459,7 +469,7 @@ export const jinanuniversity = {
         {
             type: 'list-bollet',
             title: 'Required Documents',
-            info: '<b>Following documents are required at the time of admission to Jinan University:</b>',
+            info: 'Following documents are required at the time of admission to Jinan University:',
             data: [
                 "Health Certificate",
                 "Photocopy of valid passport",
@@ -478,7 +488,7 @@ export const jinanuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Jinan University:</b>",
+            "info": "Check out the Important dates regarding admission at Jinan University:",
             "col": [
                 "Events",
                 "Dates"
@@ -524,6 +534,11 @@ export const jinanuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Jinan University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jinan University - Reviews" },
@@ -542,6 +557,11 @@ export const jinanuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Jinan University - Placement"
+
+        },
         {
             type: 'list-bollet',
             title: 'Placement',
@@ -573,6 +593,11 @@ export const jinanuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Jinan University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jinan University - Gallery" },
@@ -592,9 +617,14 @@ export const jinanuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Jinan University - Scholarship"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Scholarships',
-            info: '<b>Following various scholarships are offered at Jinan University for local and international students:</b>',
+            info: 'Following various scholarships are offered at Jinan University for local and international students:',
             data: [
                 "To sponsor international students, scholars, and teachers to study and conduct research in Chinese universities and in order to promote cooperation and exchanges, and mutual understanding in various fields between China and other countries, the Chinese government has set up a sequence of scholarship programs.",
                 "China Scholarship Council is responsible for the enrollment and the administration of Chinese Government Scholarship programs which is entrusted by the Ministry of Education of the People’s Republic of China.<br><b>The scholarship programs offered by Chinese Government are:</b>",
@@ -625,6 +655,11 @@ export const jinanuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Jinan University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jinan University - Faculty" },
@@ -643,6 +678,11 @@ export const jinanuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Jinan University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -663,9 +703,14 @@ export const jinanuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Jinan University - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
-            info: '<b>Following are the hostel facilities at Jinan University:</b>',
+            info: 'Following are the hostel facilities at Jinan University:',
             data: [
                 "The university has the best accommodation available for the students.",
                 "In order to help students adjust to the new university as soon as possible and get involved in a big and harmonious family School of Medicine of Jinan University persists in creating a comfortable living environment for foreign students.",
@@ -696,9 +741,14 @@ export const jinanuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Jinan University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Jinan University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Do I need to study Chinese language while studying MBBS at this university?",

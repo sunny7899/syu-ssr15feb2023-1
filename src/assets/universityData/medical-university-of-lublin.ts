@@ -20,7 +20,7 @@ export const medicaluniversityoflublin = {
         {
             "type": "table-title",
             "title": "Medical University of Lublin - Quick Highlights 2022",
-            "info": "<b>Go through some major facts related to the Medical University of Lublin for MBBS education:</b>",
+            "info": "Go through some major facts related to the Medical University of Lublin for MBBS education:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March"],
                 ["<b>Eligibility Criteria</b>", "50% in PCB"],
@@ -35,7 +35,7 @@ export const medicaluniversityoflublin = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Medical University of Lublin?',
-            info: '<b>Checkout the favourable reasons, Why students urge to choose the Medical University of Lublin for MBBS course education:</b>',
+            info: 'Checkout the favourable reasons, Why students urge to choose the Medical University of Lublin for MBBS course education:',
             data: [
                 "The best national university in Poland with 70 years of history and 28 years of experience in English teaching education.",
                 "Organized professional training programs based on European standards.",
@@ -47,13 +47,13 @@ export const medicaluniversityoflublin = {
         {
             type: 'text',
             title: 'Medium of Instruction',
-            info: '<b>The medium of teaching for medical education at Medical University of Lublin is English:</b>',
+            info: 'The medium of teaching for medical education at Medical University of Lublin is English:',
             data: "<p>The experienced and highly qualified faculty members at the Medical University of Lublin have been conducting MBBS education in English since 1995.</p>"
         },
         {
             "type": "table",
             "title": "Medical University of Lublin - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Medical University of Lublin:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Medical University of Lublin:",
             "col": [
                 "Country",
                 "World",
@@ -69,7 +69,7 @@ export const medicaluniversityoflublin = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognitions',
-            info: '<b>The Medical University of Lublin is officially recognised by the different medical organisation:</b>',
+            info: 'The Medical University of Lublin is officially recognised by the different medical organisation:',
             data: [
                 "Medical Board of New York and California",
                 "National Accreditation Committee",
@@ -79,7 +79,7 @@ export const medicaluniversityoflublin = {
         {
             type: 'list-bollet',
             title: 'Facilities Provided at Medical University of Lublin',
-            info: '<b>The Medical University of Lublin offers every basic facility at the convenient zone of students coming to pursue MBBS across the globe:</b>',
+            info: 'The Medical University of Lublin offers every basic facility at the convenient zone of students coming to pursue MBBS across the globe:',
             data: [
                 "The students pursuing MBBS also have free access to high-speed internet networks on the university campus.",
                 "The Medical University of Lublin provides sports facilities where the students can participate in a great number of sports including basketball, Hockey, Cricket, Volleyball, table-tennis, etc.",
@@ -92,7 +92,7 @@ export const medicaluniversityoflublin = {
         {
             "type": "table-title",
             "title": "Library",
-            "info": "<b>The Medical University of Lublin provides a spacious and air-conditioned library with large numbers of book collections:</b>",
+            "info": "The Medical University of Lublin provides a spacious and air-conditioned library with large numbers of book collections:",
             "row": [
                 ["Library Catalog", "E-Sources", "Databases"],
                 ["E-magazines<br>- Foreign magazine<br>-Polish magazine", "E-books", "Reading Room"]
@@ -116,7 +116,7 @@ export const medicaluniversityoflublin = {
             type: 'list-bollet',
             title: 'About Lublin City',
             // img: 'lublin-city.jpg',
-            info: "<b>Here's the Information about the Lublin city:</b>",
+            info: "Here's the Information about the Lublin city:",
             data: [
                 "Lublin is the biggest city in Poland located on the Bystrzyca river.",
                 "The city is an industrial and cultural center for southeastern Poland.",
@@ -142,17 +142,17 @@ export const medicaluniversityoflublin = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/medical-university-of-lublin" }
             ]
         }
-
-
-
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Medical University of Lublin - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Medical University of Lublin - MBBS Fee structure 2022",
-            "info": "<b>The Medical University of Lublin offers a cost-effective fee to worldwide medical aspirants for pursuing MBBS course:</b>",
+            "info": "The Medical University of Lublin offers a cost-effective fee to worldwide medical aspirants for pursuing MBBS course:",
             "col": [
                 "Particulars",
                 "Annual Fee",
@@ -180,7 +180,7 @@ export const medicaluniversityoflublin = {
         {
             type: 'list-bollet',
             title: 'Courses offered at Medical University of Lublin',
-            info: "<b>The students should check out the different medical faculties offered at The Medical University of Lublin:</b>",
+            info: "The students should check out the different medical faculties offered at The Medical University of Lublin:",
             data: [
                 "Medicine",
                 "Pharmacy",
@@ -190,7 +190,7 @@ export const medicaluniversityoflublin = {
         {
             type: 'list-bollet',
             title: 'Medical University of Lublin - MBBS Duration',
-            info: "<b>Mentioned below is the duration of medicine program at Medical University of Lublin:</b>",
+            info: "Mentioned below is the duration of medicine program at Medical University of Lublin:",
             data: [
                 "The medical aspirants who are willing to study MBBS program at the Medical University of Lublin must complete 6 years of MBBS course duration.",
                 "The global students will acquire theoretical as well as practical knowledge from renowned professors of the University in the English language.",
@@ -201,7 +201,7 @@ export const medicaluniversityoflublin = {
         {
             "type": "table",
             "title": "Medical University of Lublin - MBBS Syllabus",
-            "info": "<b>The study pattern of Medical University of Lublin is mentioned below in the table:</b>",
+            "info": "The study pattern of Medical University of Lublin is mentioned below in the table:",
             "col": [
                 "First Year",
                 "Second Year",
@@ -344,9 +344,14 @@ export const medicaluniversityoflublin = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Medical University of Lublin - Admission 2023"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria - For MBBS Course',
-            info: "<b>The students who are willing to pursue MBBS in Medical University of Lublin must fit in following eligibility criteria mentioned below:</b>",
+            info: "The students who are willing to pursue MBBS in Medical University of Lublin must fit in following eligibility criteria mentioned below:",
             data: [
                 "Candidate should be high school diploma graduate or matriculation necessary for admission to MBBS course at the Medical University of Lublin.",
                 "Candidate should have to obtain <b>English proficiency certificate</b> with the grade other than primary.",
@@ -357,7 +362,7 @@ export const medicaluniversityoflublin = {
         {
             type: 'step-list',
             title: 'Admission Process (2022-23) - For MBBS/MD Course',
-            info: "<b>The worldwide medical aspirants must follow the mentioned below steps to take admission in Medical University of Lublin:</b>",
+            info: "The worldwide medical aspirants must follow the mentioned below steps to take admission in Medical University of Lublin:",
             data: [
                 "<b>Step 1:</b> Firstly, the candidate needs to register on the university portal for enrolling MD course.",
                 "<b>Step 2:</b> Candidate should submit original or certified copies of documents signed by prescribed authorities.",
@@ -369,7 +374,7 @@ export const medicaluniversityoflublin = {
         {
             type: 'list-bollet',
             title: "Documents Required - For Enrolling MBBS Course",
-            info: "<b>Every candidate should submit all required documents to enroll in the medical program at Medical University of Lublin:</b>",
+            info: "Every candidate should submit all required documents to enroll in the medical program at Medical University of Lublin:",
             data: [
                 "Copy of high school diploma certificate",
                 "Copy of application form with an invitation letter",
@@ -385,7 +390,7 @@ export const medicaluniversityoflublin = {
         {
             "type": "table",
             "title": "Medical University of Lublin - Intake 2022",
-            "info": "<b>Candidates must check out the calendar mentioned below covering the most important dates and events related to MBBS admission at The Medical University of Lublin:</b>",
+            "info": "Candidates must check out the calendar mentioned below covering the most important dates and events related to MBBS admission at The Medical University of Lublin:",
             "col": [
                 "Events",
                 "Dates",
@@ -425,6 +430,11 @@ export const medicaluniversityoflublin = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Medical University of Lublin - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Lublin - Reviews" },
@@ -443,6 +453,11 @@ export const medicaluniversityoflublin = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Medical University of Lublin - Placement"
+
+        },
         {
             type: 'list-bollet',
             title: "placement",
@@ -473,6 +488,11 @@ export const medicaluniversityoflublin = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Medical University of Lublin - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Lublin - Gallery" },
@@ -491,6 +511,11 @@ export const medicaluniversityoflublin = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Medical University of Lublin - Scholarship"
+
+        },
         {
             type: 'list-bollet',
             title: "scholarship",
@@ -520,8 +545,13 @@ export const medicaluniversityoflublin = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Medical University of Lublin - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -566,6 +596,11 @@ export const medicaluniversityoflublin = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Medical University of Lublin - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Lublin - News & Articles" },
@@ -585,9 +620,14 @@ export const medicaluniversityoflublin = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Medical University of Lublin - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: "Hostel & Accommodation",
-            info: "<b>The Medical University of Lublin offers spacious and comfortable hostel rooms along with all basic amenities required to the students:</b>",
+            info: "The Medical University of Lublin offers spacious and comfortable hostel rooms along with all basic amenities required to the students:",
             data: [
                 "The Medical University of Lublin provides world - class accommodation facilities for the students coming to pursue MBBS across the globe.",
                 "The rooms are hygienic and spacious for a convenient stay of the students.",
@@ -602,7 +642,7 @@ export const medicaluniversityoflublin = {
         {
             type: 'list-bollet',
             title: "",
-            info: "<b>Nearest places at some distance are -</b>",
+            info: "Nearest places at some distance are -",
             data: [
                 "Restaurant",
                 "Grocery Shops",
@@ -616,7 +656,7 @@ export const medicaluniversityoflublin = {
         {
             type: 'list-bollet',
             title: "",
-            info: "<b>The hostel provides every basic amenities in the hostel premise mentioned below -</b>",
+            info: "The hostel provides every basic amenities in the hostel premise mentioned below -",
             data: [
                 "Bed",
                 "Pillow",
@@ -650,9 +690,14 @@ export const medicaluniversityoflublin = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Medical University of Lublin - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Medical University of Lublin - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is there any language barrier problem during MBBS education at the Medical University of Lublin?",

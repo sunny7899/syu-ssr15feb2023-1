@@ -5,6 +5,7 @@ export const mbbsinuk = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 to 6 Years",
     "url": "mbbs-in-uk",
     "info": [
         {
@@ -68,7 +69,7 @@ export const mbbsinuk = {
         {
             "type": 'step-list',
             "title": 'MBBS Admission Procedure in UK',
-            "info": '<b>Following are the basics steps for admission in UK for MBBS course:</b>',
+            "info": 'Following are the basics steps for admission in UK for MBBS course:',
             //img: 'https://www.selectyouruniversity.com/images/uk/admission-process-in-uk.jpg',
             "data": [
                 "<b>Step 1:</b> “Select Your University” will help you with the choice of medical universities in UK.</p>",
@@ -83,7 +84,7 @@ export const mbbsinuk = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For MBBS in UK",
-            "info": "<b>All the Indian students have to fulfill these criteria to take admission for MBBS course in UK:</b>",
+            "info": "All the Indian students have to fulfill these criteria to take admission for MBBS course in UK:",
             //"img": 'https://www.selectyouruniversity.com/images/uk/eligibility-criteria-at-uk.jpg',
             "data": [
                 "The age of the candidate must be 18+ years.",
@@ -143,7 +144,7 @@ export const mbbsinuk = {
         {
             "type": "list-bollet",
             "title": "Post Graduation in UK after MBBS",
-            "info": "<p>If the Indian medical graduates want to pursue post graduation in UK then they have to understand the relevance and importance of medical PG in UK as it has worldwide recognition. One can gain professional experience while studying PG in United Kingdom.</p><p><b>Postgraduate courses available after MBBS in UK:</b></p>",
+            "info": "If the Indian medical graduates want to pursue post graduation in UK then they have to understand the relevance and importance of medical PG in UK as it has worldwide recognition. One can gain professional experience while studying PG in United Kingdom.Postgraduate courses available after MBBS in UK:",
             "data": [
                 "Doctor of Medicine",
                 "Gynecology",
@@ -157,12 +158,12 @@ export const mbbsinuk = {
         {
             "type": "text",
             "title": "MBBS in UK after BDS",
-            "info": "<p><strong>Dental Council of India</strong> has proposed a bridge course in association with the <strong>Medical Council of India</strong> to help the BDS students to get an <strong>MBBS</strong> degree.</p><p>The proposal was assigned to overcome the shortage of doctors and specialists across the nation. After the bridge course, graduates can practice medicine in India.</p>"
+            "data": "<p><strong>Dental Council of India</strong> has proposed a bridge course in association with the <strong>Medical Council of India</strong> to help the BDS students to get an <strong>MBBS</strong> degree.</p><p>The proposal was assigned to overcome the shortage of doctors and specialists across the nation. After the bridge course, graduates can practice medicine in India.</p>"
         },
         {
             "type": "list-bollet",
             "title": "MBBS in UK without UKCAT",
-            "info": "<p>UKCAT is the eligibility entrance exam for admission to top medical schools. It is the admission test used by a consortium of UK universities for medical and dental degree programs.</p><p>There are two universities in the UK offering admission to MBBS program without UKCAT.</p><b>The universities are:</b>",
+            "info": "UKCAT is the eligibility entrance exam for admission to top medical schools. It is the admission test used by a consortium of UK universities for medical and dental degree programs.There are two universities in the UK offering admission to MBBS program without UKCAT.The universities are:",
             "data": [
                 "Brighton and Sussex Medical School",
                 "University of Central Lancashire"
@@ -183,7 +184,7 @@ export const mbbsinuk = {
             "type": "text",
             "title": "About UK",
             "img": "",
-            "info": "<p>The UK is located in northwestern Europe. It is commonly known as Britain or the United Kingdom since it comprises the island of Great Britain which contains Wales, England and Scotland. London is the capital of the UK which is the leading financial and commercial hub across the world.</p><p>UK has made significant contributions to the development of the world’s economy, especially in technology and industry. It is the most prominent cultural center including literature, theatre, film, television across all parts of the country.</p><p>Uk has a unitary parliamentary democracy and constitutional monarchy. The major cities in the UK include Manchester, Glasgow, Leeds and Liverpool. The UK is a member of the North Atlantic Treaty Organization (NATO) and the member of the European Union.</p><p>The climate of UK derives from atmospheric circulation patterns. The temperature from north to south run at 4-degree Celsius in January isotherm. The mean annual temperature ranges from 8-degree Celsius to 11-degree Celsius in southwestern England.</p>"
+            "data": "<p>The UK is located in northwestern Europe. It is commonly known as Britain or the United Kingdom since it comprises the island of Great Britain which contains Wales, England and Scotland. London is the capital of the UK which is the leading financial and commercial hub across the world.</p><p>UK has made significant contributions to the development of the world’s economy, especially in technology and industry. It is the most prominent cultural center including literature, theatre, film, television across all parts of the country.</p><p>Uk has a unitary parliamentary democracy and constitutional monarchy. The major cities in the UK include Manchester, Glasgow, Leeds and Liverpool. The UK is a member of the North Atlantic Treaty Organization (NATO) and the member of the European Union.</p><p>The climate of UK derives from atmospheric circulation patterns. The temperature from north to south run at 4-degree Celsius in January isotherm. The mean annual temperature ranges from 8-degree Celsius to 11-degree Celsius in southwestern England.</p>"
         },
         {
             type: "meta",
@@ -205,10 +206,16 @@ export const mbbsinuk = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in UK 2023 - Top Colleges in UK'
+        },
+
         {
             "type": "table",
             "title": "List of Top Universities for Medicine in UK",
-            "info": "<b>Below are some of the best medical universities in the United Kingdom (UK) with their world ranking:</b>",
+            "info": "Below are some of the best medical universities in the United Kingdom (UK) with their world ranking:",
             "col": [
                 "Type of University",
                 "City",
@@ -315,12 +322,18 @@ export const mbbsinuk = {
     ],
 
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in UK 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "MBBS Course Structure: For Studying Medicine in UK",
             "col": [
                 "Preclinical",
-                "Clinical",
+                " Clinical",
 
             ],
             "row": [
@@ -393,10 +406,16 @@ export const mbbsinuk = {
 
 
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in UK 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Opportunity after Studying MBBS in UK",
-            "info": "<p>There are a number of opportunities in the different areas of specializations that are opened after studying MBBS in the UK.<b>Here are some areas of specializations after studying medicine from UK:</b></p>",
+            "info": "There are a number of opportunities in the different areas of specializations that are opened after studying MBBS in the UK. Here are some areas of specializations after studying medicine from UK:",
             "data": [
                 "Anesthetics",
                 "Medicine",
@@ -440,7 +459,7 @@ export const mbbsinuk = {
         {
             "type": "text",
             "title": "MBBS Doctor Salary in UK",
-            "info": "<p>The BBC News, published on October 15, 2018, the basic salary for junior doctors in the UK starts from $ 28,331 and increases up to $34,484. For training to specialized doctors, the salary ranges from $ 36,949 to $ 57,886.</p><p>According to <strong>NHS Employers Organization</strong>, the average total salary of a doctor is <strong>$ 45,560.</strong></p>"
+            "data": "<p>The BBC News, published on October 15, 2018, the basic salary for junior doctors in the UK starts from $ 28,331 and increases up to $34,484. For training to specialized doctors, the salary ranges from $ 36,949 to $ 57,886.</p><p>According to <strong>NHS Employers Organization</strong>, the average total salary of a doctor is <strong>$ 45,560.</strong></p>"
         },
         {
             type: "meta",
@@ -461,6 +480,12 @@ export const mbbsinuk = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in UK 2023 - FAQs'
+        },
+
         {
             type: "meta",
             meta: [

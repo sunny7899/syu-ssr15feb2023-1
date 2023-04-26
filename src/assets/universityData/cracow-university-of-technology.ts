@@ -20,7 +20,7 @@ export const cracowuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Important Highlights",
-            "info": "<b>The Cracow University of Technology has been listed in the following ranking systems:</b>",
+            "info": "The Cracow University of Technology has been listed in the following ranking systems:",
             "data": [
                 "QS World University Ranking (#801-1000)",
                 "Central Asia University Rankings (#79)",
@@ -31,21 +31,21 @@ export const cracowuniversityoftechnology = {
         {
             "type": "table-title",
             "title": "Cracow University of Technology - Quick Overview 2022",
-            "info": "<b>Following are the highlights of studying engineering at Cracow University of Technology:</b>",
+            "info": "Following are the highlights of studying engineering at Cracow University of Technology:",
             "col": [],
             "row": [
-                ["<b>Intake for Engineering Course	</b>", "October"],
-                ["<b>Eligibility Criteria	</b>", "10+2 with 50% marks"],
-                ["<b>Course Duration	</b>", "4 Years"],
-                ["<b>Entrance Exams	</b>", "JEE Main/MHT-CET"],
-                ["<b>Average Tuition Fees(approx)	</b>", "INR. 2.48 lakhs (per year)"],
+                ["<b>Intake for Engineering Course</b>", "October"],
+                ["<b>Eligibility Criteria</b>", "10+2 with 50% marks"],
+                ["<b>Course Duration</b>", "4 Years"],
+                ["<b>Entrance Exams</b>", "JEE Main/MHT-CET"],
+                ["<b>Average Tuition Fees(approx)</b>", "INR. 2.48 lakhs (per year)"],
                 ["<b>University Ranking</b>", "Country - 16<br>  World - 1596"],
             ]
         },
         {
             "type": "list-bollet",
             "title": "Why to Study Engineering at Cracow University of Technology?",
-            "info": "<b>Following are the benefits of studying engineering at Cracow University of Technology:</b>",
+            "info": "Following are the benefits of studying engineering at Cracow University of Technology:",
             "data": [
                 "The university provides top employment and internship opportunities to students through international exchange programs.",
                 "The university has an affiliation with foreign universities that incorporate to develop advanced programs at the faculties.",
@@ -57,7 +57,7 @@ export const cracowuniversityoftechnology = {
         {
             "type": "table",
             "title": "Cracow University of Technology- Ranking 2022",
-            "info": "<b>As per the uniRank system, the country and world ranking of Cracow University of Technology is:</b>",
+            "info": "As per the uniRank system, the country and world ranking of Cracow University of Technology is:",
             "col": [
                 "World",
                 "Country",
@@ -73,7 +73,7 @@ export const cracowuniversityoftechnology = {
         {
             "type": "table",
             "title": "Cost of Living in Krakow",
-            "info": "<b>Following is the cost of living in the city of Krakow:</b>",
+            "info": "Following is the cost of living in the city of Krakow:",
             "col": [
                 "Particular",
                 "Cost in INR",
@@ -126,9 +126,14 @@ export const cracowuniversityoftechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Cracow University of Technology, Poland - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Cracow University of Technology - Fee Structure 2022",
-            "info": "<b>Refer the fee structure for engineering at Cracow University of Technology:</b><br>For Foreign Nationals",
+            "info": "Refer the fee structure for engineering at Cracow University of Technology:",
+            "textBelowInfo": "For Foreign Nationals",
             "col": [
                 "Particulars",
                 "Annual Tuition Fees",
@@ -156,7 +161,7 @@ export const cracowuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "courses Offered at Cracow University of Technology",
-            "info": "<b>Below are the programs offered at Cracow University of Technology:</b>",
+            "info": "Below are the programs offered at Cracow University of Technology:",
             "data": [
                 "<b>1 Chemical Engineering and Technology</b><br>The faculty was founded in 1966 and it was renamed as a Faculty of Chemical Engineering and technology in 1990. It conducts scientific research and development programs in the field of chemical engineering and technology.",
                 "<b>2 Civil Engineering</b><br>The faculty is one of the largest faculty of the university in terms of staff members and students. Around 4000 students study at the faculty for the full-time and part-time program in Civil engineering.",
@@ -168,7 +173,7 @@ export const cracowuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Other Faculties are:</b>",
+            "info": "Other Faculties are:",
             "data": [
                 "Architecture",
                 "Computer Science and Telecommunications",
@@ -195,9 +200,13 @@ export const cracowuniversityoftechnology = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Cracow University of Technology, Poland - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following is the admission criteria required for applying for an engineering course at Cracow University of Technology:</b>",
+            "info": "Following is the admission criteria required for applying for an engineering course at Cracow University of Technology:",
             "data": [
                 "Applicants must be the holder of a high school diploma/degree certificate with a percentage of 50% in academics.",
                 "Physics, Chemistry and Mathematics should be the mandatory subjects in their academics.",
@@ -207,7 +216,7 @@ export const cracowuniversityoftechnology = {
         {
             type: 'step-list',
             title: 'Admission Process: Applying for Engineering Course at Cracow University of Technology',
-            info: '<b>Following is the admission process that candidate need to follow while applying for the engineering course of study at Cracow University of Technology:</b>',
+            info: 'Following is the admission process that candidate need to follow while applying for the engineering course of study at Cracow University of Technology:',
             data: [
                 "Step 1: For the first cycle studies, the candidate needs to do online registrations on the official recruitment portal of the university.",
                 "Step 2: After completion of online registration, the candidate will receive the personal identification number (UID) and password through which he/she can access the application and make the changes whenever necessary.",
@@ -220,7 +229,7 @@ export const cracowuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following is the list of documents required for applying for an engineering course at Cracow University of Technology:</b>",
+            "info": "Following is the list of documents required for applying for an engineering course at Cracow University of Technology:",
             "data": [
                 "Original copy of secondary education/diploma certificate (sworn translation required)",
                 "Legalized copies of high school certificates",
@@ -254,6 +263,10 @@ export const cracowuniversityoftechnology = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Cracow University of Technology, Poland - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cracow University of Technology, Poland - Reviews" },
@@ -272,6 +285,10 @@ export const cracowuniversityoftechnology = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Cracow University of Technology, Poland - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -292,6 +309,10 @@ export const cracowuniversityoftechnology = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Cracow University of Technology, Poland - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cracow University of Technology, Poland - Gallery" },
@@ -310,6 +331,10 @@ export const cracowuniversityoftechnology = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Cracow University of Technology, Poland - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -330,6 +355,10 @@ export const cracowuniversityoftechnology = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Cracow University of Technology, Poland - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Cracow University of Technology, Poland - Faculty" },
@@ -348,6 +377,10 @@ export const cracowuniversityoftechnology = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Cracow University of Technology, Poland - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -368,9 +401,13 @@ export const cracowuniversityoftechnology = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Cracow University of Technology, Poland - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Cracow University of Technology offers accommodation to students at Skarzyńskiego street, in DS-4 Balon:</b>",
+            "info": "Cracow University of Technology offers accommodation to students at Skarzyńskiego street, in DS-4 Balon:",
             "data": [
                 "The applicant needs to make a room reservation first.",
                 "Admission to accommodation is only on a first come first serve basis."
@@ -379,7 +416,7 @@ export const cracowuniversityoftechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Amenities at the hostels:</b>",
+            "info": "Amenities at the hostels:",
             "data": [
                 "Internet Facility",
                 "Shared kitchen",
@@ -414,9 +451,13 @@ export const cracowuniversityoftechnology = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Cracow University of Technology, Poland - FAQ"
+            },
+            {
                 "type": "question-list",
                 "title": "Cracow University of Technology - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
                 "data": [
                     {
                         "ques": "Q. What is the flight time from India to Krakow city?",

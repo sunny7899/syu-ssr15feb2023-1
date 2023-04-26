@@ -5,7 +5,7 @@ export const aviationinukraine = {
     "type": "",
     "rating": "",
     "shareLink": "",
-    "Duration": '4Years',
+    "Duration": '1 to 4 Years',
     "url": 'aviation-in-ukraine/.',
     "info": [
         {
@@ -23,7 +23,7 @@ export const aviationinukraine = {
         {
             "type": "table-title",
             "title": "Aviation in Ukraine - Important Highlights",
-            "info": "<b>Find below quick details related to Aviation in Ukraine:</b>",
+            "info": "Find below quick details related to Aviation in Ukraine:",
             "col": [
             ],
             "row": [
@@ -43,7 +43,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying Aviation in Ukraine",
-            "info": "<b>There are many reasons which make Ukraine one of the best destinations to pursue Aviation:</b><br>Aviation universities of Ukraine are globally recognized and are accredited by the Government of Ukraine. Not only from India but students from different countries pursue Aviation in Ukraine. Here are some of the reasons -",
+            "info": "There are many reasons which make Ukraine one of the best destinations to pursue Aviation:<br>Aviation universities of Ukraine are globally recognized and are accredited by the Government of Ukraine. Not only from India but students from different countries pursue Aviation in Ukraine. Here are some of the reasons -",
             //"img": 'https://www.selectyouruniversity.com/images/benefits-of-studying-aviation-in-ukraine.jpg',
             "data": [
                 "Affordable Education.",
@@ -65,7 +65,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Indian students must meet the qualifying requirements in order to secure admission to one of the aviation universities in Ukraine:</b>",
+            "info": "Indian students must meet the qualifying requirements in order to secure admission to one of the aviation universities in Ukraine:",
             //"img": 'https://www.selectyouruniversity.com/images/eligibility-criteria-for-aviation-in-ukraine.jpg',
             "data": [
                 "Applicants must have completed higher secondary to enroll for a BachBachelor'sree course in Aviation.",
@@ -98,7 +98,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The applicants will need these documents to secure admission to the Aviation Program in Ukraine:</b>",
+            "info": "The applicants will need these documents to secure admission to the Aviation Program in Ukraine:",
             //"img": 'https://www.selectyouruniversity.com/images/document-required-for-aviation-course-in-ukraine.jpg',
             "data": [
                 "Document of Higher Secondary",
@@ -117,7 +117,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Universities of Ukraine follow 2 Mediums for Teaching Aviation:</b>",
+            "info": "Universities of Ukraine follow 2 Mediums for Teaching Aviation:",
             "img": '',
             "data": [
                 "Aviation courses in Ukraine are taught in Ukrainian and English Language.",
@@ -127,7 +127,7 @@ export const aviationinukraine = {
         {
             "type": "table",
             "title": "Aviation in Ukraine - Academic Calendar 2022",
-            "info": "<b>Important Dates to remember for taking admission in Aviation university:</b>",
+            "info": "Important Dates to remember for taking admission in Aviation university:",
             "col": [
                 "Events",
                 "Dates",
@@ -154,7 +154,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognitions",
-            "info": "<b>The Aviation course from the recognized university of Ukraine is accepted world-wide as it has the following recognitions and accreditations:</b>",
+            "info": "The Aviation course from the recognized university of Ukraine is accepted world-wide as it has the following recognitions and accreditations:",
             "data": [
                 "Observatory Magna Charta Universitatum",
                 "IAU - International Association of Universities",
@@ -166,7 +166,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Students will get accommodation in university hostels while studying aviation in Ukraine:</b>",
+            "info": "Students will get accommodation in university hostels while studying aviation in Ukraine:",
             "data": [
                 "Aviation Universities in Ukraine provide hostel facilities to international students.",
                 "The hostels are available on a shared basis with all the basic amenities.",
@@ -178,7 +178,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Visa Requirement",
-            "info": "<b>Applicants willing to pursue Aviation In Ukraine must fulfill these requirements to get a visa:</b>",
+            "info": "Applicants willing to pursue Aviation In Ukraine must fulfill these requirements to get a visa:",
             "data": [
                 "Students may apply for a visa at the nearest Ukrainian Embassy after obtaining an invitation letter from the university.",
                 "The Ukraine Embassy accepts visa applications of studstudent'soughout the year. Students can apply according to their convenience."
@@ -203,7 +203,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Education System in Ukraine",
-            "info": "<b>All Ukrainian Aviation Universities follow a certain education system:</b>",
+            "info": "All Ukrainian Aviation Universities follow a certain education system:",
             "data": [
                 "Universities of Aviation in Ukraine follows a semester system, and some credits are decided for each semester.",
                 "Students have to earn those credits to clear the semester.",
@@ -215,7 +215,7 @@ export const aviationinukraine = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Find below the average cost of living in Ukraine (per month):</b>",
+            "info": "Find below the average cost of living in Ukraine (per month):",
             "col": [
                 "Particular",
                 "Expenses (In USD)",
@@ -243,7 +243,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "How Safe is Ukraine for Students?",
-            "info": "<b>Ukraine is the second largest continent after Russia and is also a safe place to live:</b>",
+            "info": "Ukraine is the second largest continent after Russia and is also a safe place to live:",
             "data": [
                 "It is one of the ideal and most lively nations to live in.",
                 "Students get a friendly environment to live during their study",
@@ -253,7 +253,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Places to Explore in Ukraine",
-            "info": "<b>Foreign students during their stay in Ukraine can explore these places:</b><p>Ukraine holds second position of being the largest country in the eastern part of Europe. Ukraine has it all, from dynamic architecture to sandy beaches and exuberant vegetation.</p>",
+            "info": "Foreign students during their stay in Ukraine can explore these places:<p>Ukraine holds second position of being the largest country in the eastern part of Europe. Ukraine has it all, from dynamic architecture to sandy beaches and exuberant vegetation.</p>",
             "data": [
                 "<b>Kiev</b> - Medieval structures and majestic architecture in the Soviet style.",
                 "<b>Odessa</b> - Popular for sandy beaches and pleasing weather.",
@@ -297,9 +297,13 @@ export const aviationinukraine = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'Aviation in Ukraine 2023 - Top Colleges in Ukraine'
+        },
+        {
             "type": "table",
             "title": "Aviation in Ukraine Fee Structure 2022",
-            "info": "<b>The tuition Fee of Aviation universities in Ukraine is affordable, and every year, thousands of students enroll in different programs and specialties:</b>",
+            "info": "The tuition Fee of Aviation universities in Ukraine is affordable, and every year, thousands of students enroll in different programs and specialties:",
             "textBelowInfo": "1 Kharkiv National Aerospace University",
             "col": [
                 "Courses",
@@ -419,7 +423,7 @@ export const aviationinukraine = {
         {
             "type": "table",
             "title": "Ukrainian Aviation Universities Ranking 2022",
-            "info": "<b>The following are the rankings of Ukrainian Universities of Aviation approved by the Ministry of Education and Research:</b>",
+            "info": "The following are the rankings of Ukrainian Universities of Aviation approved by the Ministry of Education and Research:",
             "col": [
                 "Name of the University",
                 "World Rank",
@@ -427,7 +431,7 @@ export const aviationinukraine = {
             ],
             "row": [
                 {
-                    "Name of the University": "<b>National Aviation University</b>",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/national-aviation-university/ target=_blank><b><b>National Aviation University</b></a>",
                     "World Rank": "2672",
                     "Country Rank": "10",
                 },
@@ -469,9 +473,13 @@ export const aviationinukraine = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'Aviation in Ukraine 2023 - Syllabus'
+        },
+        {
             "type": "table-title",
             "title": "Courses Offered by Aviation Universities of Ukraine",
-            "info": "<b>Ukrainian Aviation Universities offers various Engineering and Management courses to train students and enhance their skills:</b>",
+            "info": "Ukrainian Aviation Universities offers various Engineering and Management courses to train students and enhance their skills:",
             "col": [
             ],
             "row": [
@@ -486,7 +494,7 @@ export const aviationinukraine = {
         {
             "type": "list-bollet",
             "title": "Duration of Aviation Course in Ukraine",
-            "info": "<b>The duration of Aviation programs in Ukraine is given below:</b>",
+            "info": "The duration of Aviation programs in Ukraine is given below:",
             "data": [
                 "The course duration of the Bachelors' program of Aviation degree is 3.5 - 4 years, and Masters' course is 1.5-2 years."
             ]
@@ -512,9 +520,13 @@ export const aviationinukraine = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'Aviation in Ukraine 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Opportunities after Completing Degree in Aviation",
-            "info": "<b>A promising career is waiting for Indian students after getting a Degree in Aviation from Ukraine:</b><p>Indian students can plan and choose from different career options -</p>",
+            "info": "A promising career is waiting for Indian students after getting a Degree in Aviation from Ukraine:<p>Indian students can plan and choose from different career options -</p>",
             "data": [
                 "Commercial Pilot",
                 "Designing or Repairing Airplanes",
@@ -544,9 +556,13 @@ export const aviationinukraine = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Aviation in Ukraine 2023 - FAQ'
+        },
+        {
             "type": "question-list",
             "title": " Aviation in Ukraine - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Do the students have to give any entrance exam to secure admission to the Aviation course in Ukraine?",

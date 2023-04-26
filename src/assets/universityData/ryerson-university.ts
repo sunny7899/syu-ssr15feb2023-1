@@ -20,7 +20,7 @@ export const ryersonuniversity = {
     {
       "type": "table-title",
       "title": "Ryerson University - Main Highlights",
-      "info": "<b>Students can check out the important points of Ryerson university before taking admission:</b>",
+      "info": "Students can check out the important points of Ryerson university before taking admission:",
       "row": [
         ["<b>Institute Type</b>", "Public"],
         ["<b>Students</b>", "45,000+"],
@@ -38,7 +38,7 @@ export const ryersonuniversity = {
     {
       type: 'list-bollet',
       title: 'Top Reasons to Study at Ryerson University',
-      info: '<b>Ryerson University is the top research institute in Canada, Some of the notable features are mentioned below:</b>',
+      info: 'Ryerson University is the top research institute in Canada, Some of the notable features are mentioned below:',
       data: [
         "Ryerson University is the fourth largest city in North America.",
         "More than 217,000 Ryerson graduates live all throughout the world, making up the university's alumni network.",
@@ -53,7 +53,7 @@ export const ryersonuniversity = {
     {
       "type": "table",
       "title": "Ryerson University - Ranking 2022",
-      "info": "<b>Check out the satisfactory ranking of the Ryerson University:</b>",
+      "info": "Check out the satisfactory ranking of the Ryerson University:",
       "col": [
         "Country",
         "World",
@@ -69,7 +69,7 @@ export const ryersonuniversity = {
     {
       "type": "list-bollet",
       "title": "Facilities",
-      "info": "<b>Ryerson University is providing world class facilities to students apart from academics:</b>",
+      "info": "Ryerson University is providing world class facilities to students apart from academics:",
       "data": [
         "Audio-visual viewing space",
         "Digital Media experience Lab",
@@ -117,7 +117,7 @@ export const ryersonuniversity = {
     {
       type: 'list-bollet',
       title: 'Affiliations & Recognitions',
-      info: '<b>Some of the international organizations that are affiliated to Ryerson University are mentioned below:</b>',
+      info: 'Some of the international organizations that are affiliated to Ryerson University are mentioned below:',
       data: [
         "Ontario University Procurement Management Association (OUPMA)",
         "Canadian Association of University Business Officers (CAUBO)"
@@ -127,7 +127,7 @@ export const ryersonuniversity = {
     {
       "type": "table",
       "title": "Monthly Cost of Living",
-      "info": "<b>Following are the approx monthly expenses for the calculation purpose of the students:</b>",
+      "info": "Following are the approx monthly expenses for the calculation purpose of the students:",
       "col": [
         "Particular",
         "Approx Range(CAD)",
@@ -177,16 +177,17 @@ export const ryersonuniversity = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ryerson-university" }
       ]
     }
-
-
-
   ],
 
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'Ryerson University, Canada - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "University of Ryerson - Fee Structure & Course Duration",
-      "info": "<b>Undergraduate</b>",
+      "info": "Undergraduate",
       "textBelowinfo": "Engineering",
       "col": [
         "Course",
@@ -474,7 +475,7 @@ export const ryersonuniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>Postgraduate Courses</b>",
+      "info": "Postgraduate Courses",
       "textBelowInfo": "Engineering",
       "col": [
         "Course",
@@ -679,7 +680,7 @@ export const ryersonuniversity = {
     {
       type: 'list-bollet',
       title: 'Faculties provided at Ryerson University',
-      info: '<b>The university is providing highly skilled faculty experts in various departments:</b>',
+      info: 'The university is providing highly skilled faculty experts in various departments:',
       data: [
 
         "Arts",
@@ -712,9 +713,13 @@ export const ryersonuniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'Ryerson University, Canada - Admission 2023'
+    },
+    {
       type: 'list-bollet',
       title: 'Eligibility Criteria',
-      info: '<b>Students must satisfy the following eligibility criteria according to their program before enrolling in the University:</b>',
+      info: 'Students must satisfy the following eligibility criteria according to their program before enrolling in the University:',
       textBelowInfo: "Undergraduate Programs:",
       data: [
         "High school and post-secondary transcripts.",
@@ -747,7 +752,7 @@ export const ryersonuniversity = {
     {
       type: 'step-list',
       title: 'How to Apply at Ryerson University?',
-      info: '<b>Before starting the application process, look at the following steps to have a clear idea of the Admission procedure:</b>',
+      info: 'Before starting the application process, look at the following steps to have a clear idea of the Admission procedure:',
       data: [
         "<b>Step 1:</b> When you start the application, make sure to allocate at least 1 hour to complete the online application",
         "<b>Step 2:</b> It is advised to submit your application prior to the deadline",
@@ -761,7 +766,7 @@ export const ryersonuniversity = {
     {
       type: 'list-bollet',
       title: 'Documents Required at the time of Admission',
-      info: '<b>Applicants are necessary to submit the documents at the time of the admission:</b>',
+      info: 'Applicants are necessary to submit the documents at the time of the admission:',
       data: [
         "Transcripts/Grading scales",
         "Ryerson OUAC Application form",
@@ -790,7 +795,7 @@ export const ryersonuniversity = {
     {
       "type": "table",
       "title": "Ryerson University - Admission Dates & Intake 2021",
-      "info": "<b>Students can check the important deadlines of the admission from the following table:</b>",
+      "info": "Students can check the important deadlines of the admission from the following table:",
       "col": [
         "Events",
         "Date",
@@ -837,6 +842,10 @@ export const ryersonuniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'Ryerson University, Canada - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Ryerson University, Canada - Reviews" },
@@ -855,6 +864,10 @@ export const ryersonuniversity = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'Ryerson University, Canada - Placement'
+    },
     {
       type: 'list-bollet',
       title: '',
@@ -897,6 +910,10 @@ export const ryersonuniversity = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'Ryerson University, Canada - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Ryerson University, Canada - Gallery" },
@@ -916,9 +933,13 @@ export const ryersonuniversity = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'Ryerson University, Canada - Scholarship'
+    },
+    {
       "type": "table",
       "title": "Scholarships Provided to International Students",
-      "info": "<b>Here is a list of scholarships available to international students based on their eligibility:</b>",
+      "info": "Here is a list of scholarships available to international students based on their eligibility:",
       "textBelowInfo": "<p><b>Guaranteed and Renewable Scholarships:</b></p><p><b>Those students who complete their studies at Canadian secondary school are eligible for the scholarship if they fulfill the criteria with an average of 80% or above.</b></p>",
       "col": [
         "Final Admission Average",
@@ -952,7 +973,7 @@ export const ryersonuniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>Prestigious Entrance Award:</b>",
+      "info": "Prestigious Entrance Award:",
       "col": [
         "Scholarship",
         "Value",
@@ -987,7 +1008,7 @@ export const ryersonuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Scholarships for Ryerson Students:</b>',
+      info: 'Scholarships for Ryerson Students:',
       data: [
         "Geoff Boyes International Entrance Award",
         "Geoff Boyes International Student Leadership Award",
@@ -1020,9 +1041,13 @@ export const ryersonuniversity = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'Ryerson University, Canada - Faculty'
+    },
+    {
       "type": "table",
       "title": "",
-      "info": "<b>Prestigious Entrance Award:</b>",
+      "info": "Prestigious Entrance Award:",
       "col": [
         "Name",
         "Designation",
@@ -1060,6 +1085,10 @@ export const ryersonuniversity = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'Ryerson University, Canada - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Ryerson University, Canada - News & Articles" },
@@ -1079,9 +1108,13 @@ export const ryersonuniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'Ryerson University, Canada - Hostel'
+    },
+    {
       type: 'list-bollet',
       title: 'Hostel and Accommodation Facility',
-      info: '<b>Ryerson University provides a great opportunity to meet different people inside campus residences:</b>',
+      info: 'Ryerson University provides a great opportunity to meet different people inside campus residences:',
       data: [
         "Ryerson University is arranged with four residences including Pitman Hall Residence, HI Toronto hostel, The Clarence Park, Chestnut Residence.",
         "Living on-campus residence simplifies your life to feel like a home.",
@@ -1113,6 +1146,10 @@ export const ryersonuniversity = {
     }
   ],
   "faq": [
+    {
+      type: 'title',
+      title: 'Ryerson University, Canada - FAQ'
+    },
     {
       type: 'question-list',
       title: 'Ryerson University - Important FAQs',

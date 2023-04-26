@@ -21,7 +21,7 @@ export const uralstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Ural State Medical University - Quick Highlights",
-            "info": "<b>Given below is the table for quick facts about Ural State Medical University:</b>",
+            "info": "Given below is the table for quick facts about Ural State Medical University:",
             "col": [],
             "row": [
                 ["<b>MBBS Intake	</b>", "September"],
@@ -39,7 +39,7 @@ export const uralstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Ural State Medical University?",
-            "info": "<b>Below are some of the benefits of studying MBBS at Ural State Medical University:</b>",
+            "info": "Below are some of the benefits of studying MBBS at Ural State Medical University:",
             "data": [
                 "The university offers courses that are in Full English Medium of instruction.",
                 "The university offers good clinical practice, as more focus is given on practical knowledge than theoretical one.",
@@ -56,7 +56,7 @@ export const uralstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Ural State Medical University - Ranking 2022",
-            "info": "<b>According to unipage.net, following is the country and world ranking for Ural State Medical University:</b>",
+            "info": "According to unipage.net, following is the country and world ranking for Ural State Medical University:",
             "col": [
                 "World",
                 "Country",
@@ -72,7 +72,7 @@ export const uralstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Following are the accreditation and recognition of Ural State Medical University:</b>",
+            "info": "Following are the accreditation and recognition of Ural State Medical University:",
             "data": [
                 "WHO (World Health Organization)",
                 "NMC (National Medical Commission)",
@@ -83,7 +83,7 @@ export const uralstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Yekaterinburg",
-            "info": "<b>The cost of living at Yekaterinburg city is as follows:</b><br>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.",
+            "info": "The cost of living at Yekaterinburg city is as follows:<br>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.",
             "col": [
                 "Activity",
                 "Cost",
@@ -139,9 +139,13 @@ export const uralstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Ural State Medical University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Ural State Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Ural State Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -189,12 +193,12 @@ export const uralstatemedicaluniversity = {
                     "Year  6": "3,96,836 INR"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1 RUB = Rs. 1.45 (approx)</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1 RUB = Rs. 1.45 (approx)</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at Ural State Medical University",
-            "info": "<b>Ural State Medical University has following faculties:</b>",
+            "info": "Ural State Medical University has following faculties:",
             "data": [
                 "General Medicine",
                 "Dental/Stomatology",
@@ -215,7 +219,7 @@ export const uralstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Ural State Medical University - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at Ural State Medical University is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Ural State Medical University is as follows:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -320,9 +324,13 @@ export const uralstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Ural State Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Ural State Medical University is as follows:",
             "data": [
                 "Students must have cleared NEET exam.",
                 "The student must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -333,7 +341,7 @@ export const uralstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following is the admission process for applying to MBBS course at Ural State Medical University:</b>',
+            info: 'Following is the admission process for applying to MBBS course at Ural State Medical University:',
             data: [
                 "Step 1: Applicants should fill the application form available online. They can send the documents via email.",
                 "Step 2: Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -346,7 +354,7 @@ export const uralstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required at the time of admission to Ural State Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Ural State Medical University:",
             "data": [
                 "Certificate of recognition of a student (recognition means granting the document holder the right to continue education)",
                 "Academic transcript (if transferring from another Russian university)",
@@ -368,7 +376,7 @@ export const uralstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Ural State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Ural State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Ural State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -408,6 +416,10 @@ export const uralstatemedicaluniversity = {
     ],
     "Review": [
         {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ural State Medical University, Russia - Reviews" },
@@ -425,124 +437,11 @@ export const uralstatemedicaluniversity = {
             ]
         }
     ],
-    "gallery": [
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Ural State Medical University, Russia - Gallery" },
-                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Ural State Medical University, Russia - Gallery"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ural-state-medical-university/gallery" }
-            ]
-        }
-    ],
-    "hostel": [
-        {
-            "type": "list-bollet",
-            "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Ural State Medical University:</b>",
-            "data": [
-                "The Ural State Medical University provides international students with hostel facilities.",
-                "In a single room, maximum 3 students can get accommodated.",
-                "Block no 3 and block no 8 are residential type dormitories that are close to the academic buildings and present within the university campus.",
-                "Every student gets spacious rooms with bed, desks, side tables, and a refrigerator.",
-                "Students also get irons, ironing boards, vacuum cleaners, dryer racks, washing machines, etc. on a sharing basis.",
-                "In dormitory buildings, rest rooms are available for students on each floor.",
-                "There is a student canteen available at a reasonable rate near the hostel and also a cafe.",
-                "Students can also cook their own food.",
-                "Dormitories have 24x7 security for students’ safety."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "hostel",
-                "Cafeteria",
-                "Accommodation",
-                "Table",
-                "Washing Machine"
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Ural State Medical University, Russia - Hostel" },
-                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Ural State Medical University, Russia - Hostel"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ural-state-medical-university/hostel" }
-            ]
-        }
-    ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Ural State Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. Which are the courses that the Ural State Medical University offers?",
-                        "ans": "The courses offered by the Ural State Medical University are Dentistry, Medicine, Health, Applied sciences and professions, Nursing and Pharmacy."
-                    },
-                    {
-                        "ques": "Q. Does the university provide Ph.D. courses?",
-                        "ans": "Yes, the university provides Ph.D. courses in subjects such as Dentistry, Health, and Pharmacy."
-                    },
-                    {
-                        "ques": "Q. What documents are needed to apply for a visa in Russia?",
-                        "ans": "Following documents are needed to apply for a visa in Russia: 1) Original Passport (with 2 years minimum validity) 2) Passport Size Photographs - 2 (3.5 x 4.5 cm) with white background 3) Invitation Letter (provided by the university) 4) HIV report with student’s name and passport number included in it with signature + stamp from a diagnostic center 5) 12th mark sheet + certificate (these should be original with apostille on it) 6) Filled visa application form"
-                    },
-                    {
-                        "ques": "Q. What other facilities are available at the hostels of the Ural State Medical University?",
-                        "ans": "Students get beds, desks, chairs, wardrobes, etc. in their rooms. Also, they get appliances on a sharing basis such as irons, ironing boards, washing machines, vacuum cleaners, dryer racks, etc"
-                    },
-                    {
-                        "ques": "Q. Are students allowed to cook their own food?",
-                        "ans": "Yes, students who are enthusiastic about cooking and who want to eat the food of their choice can prepare their own food."
-                    },
-                    {
-                        "ques": "Q. How many faculties and departments are there at the Ural State Medical University?",
-                        "ans": "There are 9 faculties and 78 departments at the Ural State Medical University."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Ural State Medical University, Russia - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Ural State Medical University, Russia - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ural-state-medical-university/faq" }
-                ]
-            }
-        ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -571,7 +470,34 @@ export const uralstatemedicaluniversity = {
             ]
         }
     ],
+    "gallery": [
+        {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - Gallery'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Ural State Medical University, Russia - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Ural State Medical University, Russia - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ural-state-medical-university/gallery" }
+            ]
+        }
+    ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -591,6 +517,10 @@ export const uralstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -648,6 +578,10 @@ export const uralstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ural State Medical University, Russia - News & Articles" },
@@ -665,4 +599,109 @@ export const uralstatemedicaluniversity = {
             ]
         }
     ],
+    "hostel": [
+        {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - Hostel'
+        },
+        {
+            "type": "list-bollet",
+            "title": "Hostel & Accommodation",
+            "info": "Following are the hostel facilities at Ural State Medical University:",
+            "data": [
+                "The Ural State Medical University provides international students with hostel facilities.",
+                "In a single room, maximum 3 students can get accommodated.",
+                "Block no 3 and block no 8 are residential type dormitories that are close to the academic buildings and present within the university campus.",
+                "Every student gets spacious rooms with bed, desks, side tables, and a refrigerator.",
+                "Students also get irons, ironing boards, vacuum cleaners, dryer racks, washing machines, etc. on a sharing basis.",
+                "In dormitory buildings, rest rooms are available for students on each floor.",
+                "There is a student canteen available at a reasonable rate near the hostel and also a cafe.",
+                "Students can also cook their own food.",
+                "Dormitories have 24x7 security for students’ safety."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "hostel",
+                "Cafeteria",
+                "Accommodation",
+                "Table",
+                "Washing Machine"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Ural State Medical University, Russia - Hostel" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Ural State Medical University, Russia - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ural-state-medical-university/hostel" }
+            ]
+        }
+    ],
+    "faq": [
+        {
+            type: 'title',
+            title: 'Ural State Medical University, Russia - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Ural State Medical University - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+            "data": [
+                {
+                    "ques": "Q. Which are the courses that the Ural State Medical University offers?",
+                    "ans": "The courses offered by the Ural State Medical University are Dentistry, Medicine, Health, Applied sciences and professions, Nursing and Pharmacy."
+                },
+                {
+                    "ques": "Q. Does the university provide Ph.D. courses?",
+                    "ans": "Yes, the university provides Ph.D. courses in subjects such as Dentistry, Health, and Pharmacy."
+                },
+                {
+                    "ques": "Q. What documents are needed to apply for a visa in Russia?",
+                    "ans": "Following documents are needed to apply for a visa in Russia: 1) Original Passport (with 2 years minimum validity) 2) Passport Size Photographs - 2 (3.5 x 4.5 cm) with white background 3) Invitation Letter (provided by the university) 4) HIV report with student’s name and passport number included in it with signature + stamp from a diagnostic center 5) 12th mark sheet + certificate (these should be original with apostille on it) 6) Filled visa application form"
+                },
+                {
+                    "ques": "Q. What other facilities are available at the hostels of the Ural State Medical University?",
+                    "ans": "Students get beds, desks, chairs, wardrobes, etc. in their rooms. Also, they get appliances on a sharing basis such as irons, ironing boards, washing machines, vacuum cleaners, dryer racks, etc"
+                },
+                {
+                    "ques": "Q. Are students allowed to cook their own food?",
+                    "ans": "Yes, students who are enthusiastic about cooking and who want to eat the food of their choice can prepare their own food."
+                },
+                {
+                    "ques": "Q. How many faculties and departments are there at the Ural State Medical University?",
+                    "ans": "There are 9 faculties and 78 departments at the Ural State Medical University."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Ural State Medical University, Russia - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Ural State Medical University, Russia - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/ural-state-medical-university/faq" }
+            ]
+        }
+    ]   
 }

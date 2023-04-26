@@ -173,7 +173,7 @@ export const kharkivnationaluniversityofarts = {
         {
             "type": "table-title",
             "title": "Kharkiv National University of Arts - Quick Highlights",
-            "info": "<b>Here is some quick information that every student must know to take admission at Kharkiv National University of Arts:</b>",
+            "info": "Here is some quick information that every student must know to take admission at Kharkiv National University of Arts:</b>",
             "col": [
             ],
             "row": [
@@ -190,7 +190,7 @@ export const kharkivnationaluniversityofarts = {
         {
             "type": "list-bollet",
             "title": "Why Choose Kharkiv National University of Arts for Higher Studies?",
-            "info": "<b>Everything at one place for the convenience of the students, check out the benefits to study at Kharkiv National University of Arts:</b>",
+            "info": "Everything at one place for the convenience of the students, check out the benefits to study at Kharkiv National University of Arts:</b>",
             "img": '',
             "data": [
                 "The Kharkiv National University of Arts provides a high standard of education and improves their professional knowledge and skills to the students coming from different countries. ",
@@ -214,7 +214,7 @@ export const kharkivnationaluniversityofarts = {
         {
             "type": "table",
             "title": "Kharkiv National University of Arts - Ranking 2021",
-            "info": "<b>According to Uni rank, check out the country & world ranking of the Kharkiv National University of Arts:</b>",
+            "info": "According to Uni rank, check out the country & world ranking of the Kharkiv National University of Arts:</b>",
             "col": [
                 "World",
                 "Country",
@@ -233,15 +233,15 @@ export const kharkivnationaluniversityofarts = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            //img: '<b>The university offers quality education in English medium to provide Arts education:</b>',
-            data: '<p><b>The university offers quality education in English medium to provide Arts education:</b></p><p>The medium of instruction for all foreign students at the Kharkiv National University of Arts in the English language.</p> '
+            info: 'The university offers quality education in English medium to provide Arts education:</b>',
+            data: '<p>The medium of instruction for all foreign students at the Kharkiv National University of Arts in the English language.</p> '
         },
 
         {
             type: 'text',
             title: 'Accreditation and Recognition',
-            //info: '<b>The Arts degree from the Kharkiv National University of Arts is accredited and recognized by several Arts bodies:</b>',
-            data: '<p><b>The Arts degree from the Kharkiv National University of Arts is accredited and recognized by several Arts bodies:</b></p><p>The Kharkiv National University of Arts is accredited with the status of IV level and has a license from the Ministry of Education and Science of Ukraine</p> '
+            info: 'The Arts degree from the Kharkiv National University of Arts is accredited and recognized by several Arts bodies:</b>',
+            data: '<p>The Kharkiv National University of Arts is accredited with the status of IV level and has a license from the Ministry of Education and Science of Ukraine</p> '
         },
 
 
@@ -249,7 +249,7 @@ export const kharkivnationaluniversityofarts = {
         {
             "type": "table",
             "title": "Living Cost of Kharkiv",
-            "info": "<b>Kharkiv has a very low cost of monthly expenses given below in the table:</b>",
+            "info": "Kharkiv has a very low cost of monthly expenses given below in the table:</b>",
             "col": [
                 "Particular",
                 "Amount in USD",
@@ -297,9 +297,14 @@ export const kharkivnationaluniversityofarts = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kharkiv National University of Arts - Fee Structure",
-            "info": "<b>The Kharkiv National University of Arts offers a low fee structure to worldwide students to study Arts:</b>",
+            "info": "The Kharkiv National University of Arts offers a low fee structure to worldwide students to study Arts:</b>",
             "col": [
                 "Particular",
                 "Fee in USD",
@@ -331,7 +336,7 @@ export const kharkivnationaluniversityofarts = {
         {
             "type": "table-title",
             "title": "Departments at Kharkiv National University of Arts",
-            "info": "<b>The Kharkiv National University of Arts has a wide range of departments offered to the global students coming here to pursue arts stream:</b>",
+            "info": "The Kharkiv National University of Arts has a wide range of departments offered to the global students coming here to pursue arts stream:</b>",
             "textBelowInfo": "1 The Faculty of Performing and Musicology",
             "col": [
 
@@ -397,9 +402,14 @@ export const kharkivnationaluniversityofarts = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>According to Uni rank, check out the country & world ranking of the Kharkiv National University of Arts:</b>",
+            "info": "According to Uni rank, check out the country & world ranking of the Kharkiv National University of Arts:</b>",
             "data": [
                 "The candidates applying for the Arts course must have at least 17 years of age or shall complete 17 years before 31st December of the admission year.",
                 "The students should pass the higher secondary exam with an aggregate of 50% marks.",
@@ -409,7 +419,7 @@ export const kharkivnationaluniversityofarts = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>To apply at Kharkiv State Kotlyarevsky University of Arts, the candidates must follow these admission steps:</b>",
+            "info": "To apply at Kharkiv State Kotlyarevsky University of Arts, the candidates must follow these admission steps:</b>",
             "data": [
                 "<b>Step 1:</b> The students must fill the online application form soon with all the important details.",
                 "<b>Step 2:</b> The global students should upload the scan copies of academic documents.",
@@ -422,7 +432,7 @@ export const kharkivnationaluniversityofarts = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The candidates enrolling in college must kindly make sure of submitting all documents at the time of physical reporting:</b>",
+            "info": "The candidates enrolling in college must kindly make sure of submitting all documents at the time of physical reporting:</b>",
             "data": [
                 "Higher secondary education certificates",
                 "Birth certificate",
@@ -443,7 +453,7 @@ export const kharkivnationaluniversityofarts = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2021",
-            "info": "<b>The students must check out some important admission dates of Kharkiv National University of Arts:</b>",
+            "info": "The students must check out some important admission dates of Kharkiv National University of Arts:</b>",
             "col": [
                 "Events",
                 "Dates",
@@ -471,7 +481,7 @@ export const kharkivnationaluniversityofarts = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Kharkiv National University of Arts",
-            "info": "<b>Top-class facilities are furnished at Kharkiv National University of Arts:</b>",
+            "info": "Top-class facilities are furnished at Kharkiv National University of Arts:</b>",
             "data": [
                 "Kharkiv National University of Arts are well equipped and modern classrooms with good seating arrangements.",
                 "The Kharkiv National University of Arts has a spacious, well-furnished library with a comfortable sitting arrangement and collection of textbooks.",
@@ -513,6 +523,11 @@ export const kharkivnationaluniversityofarts = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv National University of Arts, Ukraine - Reviews" },
@@ -531,6 +546,11 @@ export const kharkivnationaluniversityofarts = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -551,6 +571,11 @@ export const kharkivnationaluniversityofarts = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv National University of Arts, Ukraine - Gallery" },
@@ -569,6 +594,11 @@ export const kharkivnationaluniversityofarts = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -589,6 +619,11 @@ export const kharkivnationaluniversityofarts = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kharkiv National University of Arts, Ukraine - Faculty" },
@@ -607,6 +642,11 @@ export const kharkivnationaluniversityofarts = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -627,9 +667,14 @@ export const kharkivnationaluniversityofarts = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The University provides world-class hostel facilities in the university campus to worldwide students:</b>",
+            "info": "The University provides world-class hostel facilities in the university campus to worldwide students:</b>",
             "data": [
                 "Accommodation charges for every year are 1000 USD",
                 "The hostel has twin sharing and newly renovated rooms with furniture and utensils for better stay away from.",
@@ -679,9 +724,14 @@ export const kharkivnationaluniversityofarts = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kharkiv National University of Arts, Ukraine - FAQ"
+
+        },
+        {
             type: 'question-list',
             title: 'Kharkiv National University of Arts - Important FAQs',
-            info: '<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>',
+            info: 'Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>',
             data: [
                 {
                     "ques": "Q. Can we pursue Arts in the Kharkiv National University of Arts without appearing for IELTS & TOEFL examination?",

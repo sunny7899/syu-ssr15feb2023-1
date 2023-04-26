@@ -19,7 +19,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": "table-title",
       "title": "President Abdul Hamid Medical College: Quick Overview 2022",
-      "info": "<b>The students striving to pursue MBBS must go through the main highlights of President Abdul Hamid Medical College:</b>",
+      "info": "The students striving to pursue MBBS must go through the main highlights of President Abdul Hamid Medical College:",
       "col": [],
       "row": [
         ["<b>Intake for MBBS Course</b>", "September"],
@@ -33,7 +33,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": 'list-bollet',
       "title": 'Why Study MBBS at President Abdul Hamid Medical College?',
-      "info": '<b>The students must check out the favourable reasons to choose President Abdul Hamid Medical College to pursue an MBBS:</b>',
+      "info": 'The students must check out the favourable reasons to choose President Abdul Hamid Medical College to pursue an MBBS:',
       "data": [
         "President Abdul Hamid Medical College also organises co-curricular activities apart from medical education for students.",
         "President Abdul Hamid Medical College has the official recognition of NMC, BMDC, NMC and WHO.",
@@ -48,7 +48,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Language of Instruction",
-      "info": "<b>The medium of teaching at the President Abdul Hamid Medical College is the English language:</b>",
+      "info": "The medium of teaching at the President Abdul Hamid Medical College is the English language:",
       "data": [
         "The entire MBBS course is taught in English medium at President Abdul Hamid Medical College.",
         "And if the international students can speak a little Bengali then it will be a benefit to that student."
@@ -57,7 +57,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Facilities Provided at President Abdul Hamid Medical College",
-      "info": "<b>President Abdul Hamid Medical College campus has modern facilities for the convenience of the students:</b>",
+      "info": "President Abdul Hamid Medical College campus has modern facilities for the convenience of the students:",
       "data": [
         " The infrastructure of President Abdul Hamid Medical College has all the latest educational equipment for a better learning experience.",
         " The laboratories of President Abdul Hamid Medical College are well-equipped with all modern apparatus.",
@@ -74,7 +74,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>President Abdul Hamid Medical College is officially acknowledged by various medical organisations:</b>",
+      "info": "President Abdul Hamid Medical College is officially acknowledged by various medical organisations:",
       "data": [
         " National Medical Commission(NMC)",
         " Recognised by BMDC",
@@ -93,7 +93,7 @@ export const presidentabdulhamidmedicalcollege = {
       type: 'list-bollet',
       title: '',
       img: '',
-      info: '<b>Top tourist places -</b>',
+      info: 'Top tourist places -',
       data: [
         " Swadhinata Stambha",
         " Nikli haor",
@@ -122,9 +122,13 @@ export const presidentabdulhamidmedicalcollege = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "President Abdul Hamid Medical College: MBBS Fee Structure 2022",
-      "info": "<b>President Abdul Hamid Medical College provides a reasonable fee to all students who seek MBBS admission:</b>",
+      "info": "President Abdul Hamid Medical College provides a reasonable fee to all students who seek MBBS admission:",
       "col": [
         "Particular",
         "Fee in USD",
@@ -158,12 +162,12 @@ export const presidentabdulhamidmedicalcollege = {
         },
 
       ],
-      heading: '<p><b style=color: red;><u>Note:</u></b> 1 USD = 70 Rs</p>'
+      "heading": '<p><b style=color: red;><u>Note:</u></b> 1 USD = 70 Rs</p>'
     },
     {
       "type": "list-bollet",
       "title": "President Abdul Hamid Medical College: MBBS Duration",
-      "info": "<b>MBBS course duration at President Abdul Hamid Medical College is 5 years:</b>",
+      "info": "MBBS course duration at President Abdul Hamid Medical College is 5 years:",
       "data": [
         "President Abdul Hamid Medical College provides 5 years plus 1 year of rotating internship.",
         "During medicine education, the students will gain theoretical as well as the practical aspect of knowledge in the English language."
@@ -172,7 +176,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": "table",
       "title": "President Abdul Hamid Medical College: MBBS Syllabus",
-      "info": "<b>Refer to the precise medical syllabus of President Abdul Hamid Medical College mentioned below:</b>",
+      "info": "Refer to the precise medical syllabus of President Abdul Hamid Medical College mentioned below:",
       "col": [
         "Phase",
         "Duration",
@@ -226,9 +230,13 @@ export const presidentabdulhamidmedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The medical aspirants must fit into the basic criteria to grab MBBS seats at President Abdul Hamid Medical College:</b>",
+      "info": "The medical aspirants must fit into the basic criteria to grab MBBS seats at President Abdul Hamid Medical College:",
       "data": [
         "The candidate must have passed 12th standard and obtained 50% aggregate marks in Physics, Chemistry and Biology with English as one of the compulsory subjects.",
         "The candidates seeking medical admission should have completed 17 years of the ongoing admission year.",
@@ -238,7 +246,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>The students must carry essential documents during MBBS course admission time at President Abdul Hamid Medical College:</b>',
+      info: 'The students must carry essential documents during MBBS course admission time at President Abdul Hamid Medical College:',
       data: [
         "Step 1: The candidates willing to pursue MBBS need to fill the application form available on the official website.",
         "Step 2: Candidates must submit all important documents.",
@@ -250,7 +258,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The students are willing to take MBBS admission at President Abdul Hamid Medical College must submit all documents mentioned below:</b>",
+      "info": "The students are willing to take MBBS admission at President Abdul Hamid Medical College must submit all documents mentioned below:",
       "data": [
         "The candidates must submit the correct-filled application form to President Abdul Hamid Medical College.",
         "Candidates should submit the passing certificate at the time of MBBS enrollment at President Abdul Hamid Medical College.",
@@ -269,7 +277,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>President Abdul Hamid Medical College is a top medical institute, grab the MBBS seats by staying updated with the important dates regarding admissions:</b>",
+      "info": "President Abdul Hamid Medical College is a top medical institute, grab the MBBS seats by staying updated with the important dates regarding admissions:",
       "col": [
         "Events",
         "Dates",
@@ -310,6 +318,10 @@ export const presidentabdulhamidmedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "President Abdul Hamid Medical College, Bangladesh - Reviews" },
@@ -328,6 +340,10 @@ export const presidentabdulhamidmedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - Placement'
+    },
     {
       type: "meta",
       meta: [
@@ -348,6 +364,10 @@ export const presidentabdulhamidmedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "President Abdul Hamid Medical College, Bangladesh - Gallery" },
@@ -366,6 +386,10 @@ export const presidentabdulhamidmedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - Scholarship'
+    },
     {
       type: "meta",
       meta: [
@@ -386,6 +410,10 @@ export const presidentabdulhamidmedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - Faculty'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "President Abdul Hamid Medical College, Bangladesh - Faculty" },
@@ -404,6 +432,10 @@ export const presidentabdulhamidmedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - News & Articles'
+    },
     {
       type: "meta",
       meta: [
@@ -424,9 +456,13 @@ export const presidentabdulhamidmedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>President Abdul Hamid Medical College offers fully furnished and comfortable hostel for the students at reasonable rates:</b>",
+      "info": "President Abdul Hamid Medical College offers fully furnished and comfortable hostel for the students at reasonable rates:",
       "data": [
         "President Abdul Hamid Medical College provides convenient rooms for the students.",
         "The hostel rooms are attached with a bathroom and toilet.",
@@ -440,7 +476,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The students can easily access every facilities nearby hostel -</b>",
+      "info": "The students can easily access every facilities nearby hostel -",
       "data": [
         "Library",
         "Lecture Theatr"
@@ -449,7 +485,7 @@ export const presidentabdulhamidmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>All modern amenities are available to the students in hostel premises -</b>",
+      "info": "All modern amenities are available to the students in hostel premises -",
       "data": [
         "Bed",
         "Bedsheet",
@@ -499,9 +535,13 @@ export const presidentabdulhamidmedicalcollege = {
 
   "faq": [
     {
+      type: 'title',
+      title: 'President Abdul Hamid Medical College, Bangladesh - FAQ'
+    },
+    {
       "type": "question-list",
       "title": "President Abdul Hamid Medical College: Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. When does the medical course begin at President Abdul Hamid Medical College?",

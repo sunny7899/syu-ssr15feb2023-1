@@ -21,7 +21,7 @@ export const patanacademyofhealthsciences = {
         {
             "type": "table",
             "title": "Patan Academy of Health Sciences - Quick Highlights",
-            "info": "<b>Given below is the table for quick highlights about Patan Academy of Health Sciences, Nepal:</b>",
+            "info": "Given below is the table for quick highlights about Patan Academy of Health Sciences, Nepal:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "	September"],
@@ -38,7 +38,7 @@ export const patanacademyofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Patan Academy of Health Sciences?",
-            "info": "<b>Given below are the benefits of studying MBBS at Patan Academy of Health Sciences:</b>",
+            "info": "Given below are the benefits of studying MBBS at Patan Academy of Health Sciences:",
             "data": [
                 "Patan Academy of Health Sciences has nice study rooms and laboratories.",
                 "Library has nice study material, students can gather notes from periodicals, journals, and other study materials.",
@@ -51,7 +51,7 @@ export const patanacademyofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Patan Academy of Health Sciences has following Accreditation and Recognition:-</b>",
+            "info": "Patan Academy of Health Sciences has following Accreditation and Recognition:-",
             "data": [
                 "Nepal Medical Council and affiliated to Kathmandu University",
                 "National Medical Commission (NMC)",
@@ -61,7 +61,7 @@ export const patanacademyofhealthsciences = {
         {
             "type": "table",
             "title": "Patan Academy of Health Sciences - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Patan Academy of Health Sciences:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Patan Academy of Health Sciences:",
             "col": [
                 "World	",
                 "Country",
@@ -76,7 +76,7 @@ export const patanacademyofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Student Life at Patan Academy of Health Sciences",
-            "info": "<b>Following is the life of students at Patan Academy of Health Sciences:</b>",
+            "info": "Following is the life of students at Patan Academy of Health Sciences:",
             "data": [
                 "At this university, there are super specialized, digitalized, laboratories.",
                 "Students can also carry out investigations in Biochemistry, Radiology, Anesthesiology, Microbiology, etc. in operation theatres.",
@@ -89,7 +89,7 @@ export const patanacademyofhealthsciences = {
         {
             "type": "table",
             "title": "Cost of Living at Lalitpur",
-            "info": "<b>The cost of living at Lalitpur city is as follows:</b>",
+            "info": "The cost of living at Lalitpur city is as follows:",
             "col": [
                 "Activity",
                 "Cost",
@@ -156,9 +156,14 @@ export const patanacademyofhealthsciences = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Patan Academy of Health Science, Nepal - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Patan Academy of Health Sciences - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Patan Academy of Health Sciences for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Patan Academy of Health Sciences for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -206,7 +211,7 @@ export const patanacademyofhealthsciences = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Patan Academy of Health Sciences, Nepal',
-            info: '<b>Following are the courses at Patan Academy of Health Science:</b><br>The education of international students and health professionals is carried out at the following faculties at Patan Academy of Health Sciences:',
+            info: 'Following are the courses at Patan Academy of Health nce:</b><br>The education of international students and health professionals is carried out at the following faculties at Patan Academy of Health Sciences:',
             data: [
                 "Medicine",
                 "Nursing"
@@ -215,7 +220,7 @@ export const patanacademyofhealthsciences = {
         {
             "type": "table",
             "title": "GPatan Academy of Health Sciences - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at Patan Academy of Health Sciences is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Patan Academy of Health Sciences is as follows:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -336,9 +341,14 @@ export const patanacademyofhealthsciences = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Patan Academy of Health Science, Nepal - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Patan Academy of Health Sciences is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Patan Academy of Health Sciences is as follows:",
             "data": [
                 "Students must have passed 12th examination or equivalent qualifications recognized by Universities/ Board of Nepal.",
                 "Students must have English, Physics, Chemistry, Biology (PCB) at their 10+2.",
@@ -349,7 +359,7 @@ export const patanacademyofhealthsciences = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following is the complete admission process for applying to MBBS course at Patan Academy of Health Sciences:</b>',
+            info: 'Following is the complete admission process for applying to MBBS course at Patan Academy of Health Sciences:',
             data: [
                 "Step 1: Applicants should fill the application form available online. They can send the documents via email.",
                 "Step 2: Students will have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -362,7 +372,7 @@ export const patanacademyofhealthsciences = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required at the time of admission to Patan Academy of Health Sciences:</b>",
+            "info": "Following documents are required at the time of admission to Patan Academy of Health Sciences:",
             "data": [
                 "Invitation charges",
                 "Duly filled application form (online or onsite)",
@@ -400,6 +410,11 @@ export const patanacademyofhealthsciences = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Patan Academy of Health Science, Nepal - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Patan Academy of Health Science, Nepal - Reviews" },
@@ -418,6 +433,11 @@ export const patanacademyofhealthsciences = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Patan Academy of Health Science, Nepal - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -449,6 +469,11 @@ export const patanacademyofhealthsciences = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Patan Academy of Health Science, Nepal - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Patan Academy of Health Science, Nepal - Gallery" },
@@ -467,6 +492,11 @@ export const patanacademyofhealthsciences = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Patan Academy of Health Science, Nepal - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -496,6 +526,11 @@ export const patanacademyofhealthsciences = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Patan Academy of Health Science, Nepal - Faculty"
+
+        },
         {
             "type": "table-title",
             "title": "faculty",
@@ -529,6 +564,11 @@ export const patanacademyofhealthsciences = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Patan Academy of Health Science, Nepal - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Patan Academy of Health Science, Nepal - News & Articles" },
@@ -548,9 +588,14 @@ export const patanacademyofhealthsciences = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Patan Academy of Health Science, Nepal - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Below given are the hostel facilities at the Patan Academy of Health Sciences:</b>",
+            "info": "Below given are the hostel facilities at the Patan Academy of Health Sciences:",
             "data": [
                 "The Patan Academy of Health Sciences, Nepal, provides students with a hostel facility.",
                 "There are separate hostels for girls and boys with mess and canteen facilities that provide hygienic food, sufficient number of beds, cupboards, chairs, and other facilities.",
@@ -590,9 +635,14 @@ export const patanacademyofhealthsciences = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Patan Academy of Health Science, Nepal - FAQ"
+
+            },
+            {
                 "type": "question-list",
                 "title": "Patan Academy of Health Science - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. Which are the entrance exams whose scores are accepted by Patan Academy of Health Sciences?",

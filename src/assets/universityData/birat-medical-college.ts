@@ -22,15 +22,15 @@ export const biratmedicalcollege = {
             "info": "If you are looking to study MBBS in Nepal, then have a quick overview on some important points of Birat Medical College:",
             "col": [],
             "row": [
-                ["Establishment Year", "2014"],
-                ["Acronym", "BMC"],
-                ["Eligibility Criteria", "A minimum of 50% in 10+2 or HSE, with PCB as the primary subject."],
-                ["NEET Exam", "Yes, passing the NEET exam with the appropriate score is necessary"],
-                ["Entrance Examination", "No exam is necessary as a prerequisite."],
-                ["Approved By", "National Medical commission Medical council of Nepal World health organisation"],
-                ["Medium of Education", "English and Nepali language"],
-                ["Course Duration", "6 years (including internship)"],
-                ["University Ranking", "Country - 15 World - 5960"]
+                ["<b>Establishment Year</b>", "2014"],
+                ["<b>Acronym</b>", "BMC"],
+                ["<b>Eligibility Criteria</b>", "A minimum of 50% in 10+2 or HSE, with PCB as the primary subject."],
+                ["<b>NEET Exam</b>", "Yes, passing the NEET exam with the appropriate score is necessary"],
+                ["<b>Entrance Examination</b>", "No exam is necessary as a prerequisite."],
+                ["<b>Approved By</b>", "National Medical commission Medical council of Nepal World health organisation"],
+                ["<b>Medium of Education</b>", "English and Nepali language"],
+                ["<b>Course Duration</b>", "6 years (including internship)"],
+                ["<b>University Ranking</b>", "Country - 15<br>World - 5960"]
             ]
         },
         {
@@ -55,7 +55,7 @@ export const biratmedicalcollege = {
             "data": "<p><b>The medium for teaching at Birat Medical College, Nepal:</b></p><p>At Birat Medical College, the medium of teaching is English, and thus language is not a barrier for students from all over the world while studying at this university.</p>"
         },
         {
-            "type": "tabel",
+            "type": "table",
             "title": "Birat Medical College Ranking 2022-23",
             "info": "The Birat Medical College have a great reputation and following is the country and world ranking which describe these:",
             "col": [
@@ -81,8 +81,8 @@ export const biratmedicalcollege = {
             ]
         },
         {
-            "type": "tabel",
-            "title": "Birat Medical College - FMGE Performance 2021            ",
+            "type": "table",
+            "title": "Birat Medical College - FMGE Performance 2021",
             "info": "The details about FMGE performance for Birat Medical College in the year 2021 with passing percentage are as follows:",
             "col": [
                 "Name of College",
@@ -92,15 +92,15 @@ export const biratmedicalcollege = {
             ],
             "row": [
                 {
-                    "Name of College": "Birat Medical College",
+                    "Name of College": "<b>Birat Medical College</b>",
                     "Appeared": "4",
                     "Total Pass": "4",
-                    "Pass %":"100%"
+                    "Pass %": "100%"
                 }
             ]
         },
         {
-            "type": "tabel",
+            "type": "table",
             "title": "Cost of Living in Nepal            ",
             "info": "Following are the living expenses in Nepal:",
             "col": [
@@ -109,47 +109,52 @@ export const biratmedicalcollege = {
             ],
             "row": [
                 {
-                    "Activity": "Things of Daily Need (Milk, Groceries, Bread, etc.)",
+                    "Activity": "<b>Things of Daily Need (Milk, Groceries, Bread, etc.)</b>",
                     "Cost": "Rs.55 - Rs.120"
                 },
                 {
-                    "Activity": "Eating at a Mid-range Restaurant (for 2 people)",
+                    "Activity": "<b>Eating at a Mid-range Restaurant (for 2 people)</b>",
                     "Cost": "Rs.5000"
                 },
                 {
-                    "Activity": "One Way Ticket of Any Local Transport",
+                    "Activity": "<b>One Way Ticket of Any Local Transport</b>",
                     "Cost": "Rs.25"
                 },
                 {
-                    "Activity": "A Monthly Pass for Local Transport",
+                    "Activity": "<b>A Monthly Pass for Local Transport</b>",
                     "Cost": "Rs.600"
                 },
                 {
-                    "Activity": "Monthly Rent for a 1 Bedroom Apartment",
+                    "Activity": "<b>Monthly Rent for a 1 Bedroom Apartment</b>",
                     "Cost": "Rs.2000 - Rs. 7000"
                 }
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Birat Medical College, Nepal - Fees, Courses, Ranking" },
                 { name: "description", content: "Birat Medical College, founded in 2014 is an extended program of Kathmandu University. Approved by NMC & WHO it is the best choice to study MBBS in Nepal." },
             ],
         },
         {
-            type:"meta-title",
-            title: "Birat Medical College, Nepal - Fees, Courses, Ranking"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - Fees, Courses, Ranking"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college" }
-        ]}
+            ]
+        }
 
     ],
-   
+
     "coursesandfees": [
-            
+        {
+            type: 'title',
+            title: "Birat Medical College, Nepal - courses & Fees"
+        },
         {
             "type": "table",
             "title": "Birat Medical College Fee Structure 2022-23",
@@ -166,18 +171,18 @@ export const biratmedicalcollege = {
                 {
                     "Particular": "<b>Tuition Fees (approx.)</b>",
                     "Year 1": "INR 25,00,000",
-                    "Year 2":"INR 25,00,000",
-                    "Year 3":"INR 25,00,000",
-                    "Year 4":"INR 25,00,000",
-                    "Year 5":"INR 25,00,000"
+                    "Year 2": "INR 25,00,000",
+                    "Year 3": "INR 25,00,000",
+                    "Year 4": "INR 25,00,000",
+                    "Year 5": "INR 25,00,000"
                 },
                 {
                     "Particular": "<b>Hostel Fee (approx.)</b>",
                     "Year 1": "INR 90,000",
-                    "Year 2":"INR 90,000",
-                    "Year 3":"INR 90,000",
-                    "Year 4":"INR 90,000",
-                    "Year 5":"INR 90,000"
+                    "Year 2": "INR 90,000",
+                    "Year 3": "INR 90,000",
+                    "Year 4": "INR 90,000",
+                    "Year 5": "INR 90,000"
                 },
             ]
         },
@@ -187,8 +192,8 @@ export const biratmedicalcollege = {
             "info": "",
             "colTitle": "Pre clinical Science",
             "row": [
-                ["Anatomy", "Pharmacology","Pathology","Microbiology"],
-                ["Biochemistry", "Physiology","Community medicine","Forensic medicine"]
+                ["Anatomy", "Pharmacology", "Pathology", "Microbiology"],
+                ["Biochemistry", "Physiology", "Community medicine", "Forensic medicine"]
             ]
         },
         {
@@ -197,8 +202,8 @@ export const biratmedicalcollege = {
             "info": "",
             "colTitle": "Clinical science",
             "row": [
-                ["General medicine", "Paediatrics & Neonatology","Surgery","Ophthalmology","ENT","Psychiatry","Anaesthesia & Critical Care"],
-                ["Obstetrics & Gynaecology", "Orthopaedics","Dental (Clinical Dentistry)","Dermatology","General Practice & Emergen","Radiology","-"]
+                ["General medicine", "Paediatrics & Neonatology", "Surgery", "Ophthalmology", "ENT", "Psychiatry", "Anaesthesia & Critical Care"],
+                ["Obstetrics & Gynaecology", "Orthopaedics", "Dental (Clinical Dentistry)", "Dermatology", "General Practice & Emergen", "Radiology", "-"]
             ]
         },
         {
@@ -214,19 +219,19 @@ export const biratmedicalcollege = {
                 {
                     "Phase": "<b>Phase 1</b>",
                     "Duration": "2 years",
-                    "Syllabus":"- Integrated basic medicine incorporates community medicine<br>- Pharmacology<br>- Microbiology<br>- Anatomy<br>- Physiology<br>- Biochemistry"
+                    "Syllabus": "- Integrated basic medicine incorporates community medicine<br>- Pharmacology<br>- Microbiology<br>- Anatomy<br>- Physiology<br>- Biochemistry"
                 },
                 {
                     "Phase": "<b>Phase 2</b>",
                     "Duration": "1 year",
-                    "Syllabus":"- Applied epidemiology<br>- Forensic medicine<br>- Internal medicine for family health<br>- Surgery<br>- Obstetrics<br>- Paediatrics"
+                    "Syllabus": "- Applied epidemiology<br>- Forensic medicine<br>- Internal medicine for family health<br>- Surgery<br>- Obstetrics<br>- Paediatrics"
                 },
                 {
                     "Phase": "<b>Phase 3</b>",
                     "Duration": "1.5 years",
-                    "Syllabus":"- ENT<br>- Eyes<br>- Orthopaedic<br>- Dentistry<br>- Radiology<br>- Psychiatry<br>- Anesthesiology<br>- Accident<br>- Emergency medicine"
+                    "Syllabus": "- ENT<br>- Eyes<br>- Orthopaedic<br>- Dentistry<br>- Radiology<br>- Psychiatry<br>- Anesthesiology<br>- Accident<br>- Emergency medicine"
                 }
-                
+
             ]
         },
         {
@@ -238,27 +243,31 @@ export const biratmedicalcollege = {
                 "The 6 years of study includes 5 years of MBBS course and 1 year of internship."
             ]
         },
-        
+
         {
-            type:"meta",
+            type: "meta",
             meta: [
                 { name: "title", content: "Birat Medical College, Nepal - courses & Fees" },
                 { name: "description", content: "Birat Medical College ; Tuition Fee with Hostel. Check available courses and fees" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Birat Medical College, Nepal - courses & Fees"},
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - courses & Fees"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/courses-and-fees" }
-        ]}
-        ],
-      
-      "admission":[
-        
-    
+            ]
+        }
+    ],
+
+    "admission": [
+        {
+            type: 'title',
+            title: "Birat Medical College, Nepal - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Birat Medical College - Eligibility Criteria",
@@ -269,23 +278,23 @@ export const biratmedicalcollege = {
                 "The applicant's primary 10+2 subjects are chemistry, physics, and biology.",
                 "The applicant must receive a minimum score of 50% on the 10+2 examination or upper secondary examination.",
                 "To get admitted and enrol in the MBBS programme in Nepal, the applicant must receive a passing score on the NEET entrance exam."
-    
+
             ]
         },
-        
+
         {
-            "type": "text",
+            "type": "step-list",
             "title": "How to Take Admission in Birat Medical College?",
-            "info":"If applicants take the procedures outlined below, it will be easier to understand their eligibility and requirements for the admissions process:",
+            "info": "If applicants take the procedures outlined below, it will be easier to understand their eligibility and requirements for the admissions process:",
             "data": [
-              "<b>Step 1: </b>The applicant must have reached the age of 17 by July 31 of the current admission year to be considered for admission to a medical college",
-              "<b>Step 2: </b>The students should have received at least a 50% grade in English, Physics, Chemistry, and Biology in their 10+2 exams.",
-              "<b>Step 3: </b>Students who receive 50% or higher in all subjects are eligible to apply for Admission Direct Quota seats",
-              "<b>Step 4: </b>As part of the selection process, students must participate in an interview."
-          ],
-          "heading":"<p>In addition to applying directly to Birat Medical College in Nepal, candidates can also apply through the Management Quota Admission process. Candidates who may have missed the application submission deadline or fallen short of the requisite percentage of marks are eligible for a Management Quota Seat.</p><p>Admission may be requested through the Birat Medical College, Nepal NRI Quota Admission for international or Indian students from overseas bases. Additionally, entries are made to the medical college under the Payment Seat or Management Seat quota.</p>"
-          },
-          {
+                "<b>Step 1: </b>The applicant must have reached the age of 17 by July 31 of the current admission year to be considered for admission to a medical college",
+                "<b>Step 2: </b>The students should have received at least a 50% grade in English, Physics, Chemistry, and Biology in their 10+2 exams.",
+                "<b>Step 3: </b>Students who receive 50% or higher in all subjects are eligible to apply for Admission Direct Quota seats",
+                "<b>Step 4: </b>As part of the selection process, students must participate in an interview."
+            ],
+            "heading": "<p>In addition to applying directly to Birat Medical College in Nepal, candidates can also apply through the Management Quota Admission process. Candidates who may have missed the application submission deadline or fallen short of the requisite percentage of marks are eligible for a Management Quota Seat.</p><p>Admission may be requested through the Birat Medical College, Nepal NRI Quota Admission for international or Indian students from overseas bases. Additionally, entries are made to the medical college under the Payment Seat or Management Seat quota.</p>"
+        },
+        {
             "type": "list-bollet",
             "title": "Documents Required",
             "info": "The crucial papers needed for the admissions procedure at Birat Medical College in Biratnagar are listed below:",
@@ -300,7 +309,7 @@ export const biratmedicalcollege = {
                 "The candidate's medical certificate and documentation of their HIV test."
             ]
         },
-        
+
         {
             "type": "table",
             "title": "Birat Medical College - Admission Dates & Deadlines 2023",
@@ -320,272 +329,304 @@ export const biratmedicalcollege = {
                 }
             ],
         },
-       
+
         {
-            type:"meta",
+            type: "meta",
             meta: [
                 { name: "title", content: "Birat Medical College, Nepal - Admission 2023 " },
                 { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process. Click Here TO REGISTER" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Birat Medical College, Nepal - Admission 2023 "},
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - Admission 2023 "
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/admission" }
-        ]}
-        ],
-        "review":[
-              
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Birat Medical College, Nepal - Reviews" },
-                  { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Birat Medical College, Nepal - Reviews"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/reviews" }
-              ]
-          }
-        ],
-        "placement":[
-    
-            
-            {
-              "type": "list-bollet",
-              "title": "",
-              "info": "",
-              "data": [
-                  "After the courses are duly completed, the Birat Medical College placement cell guarantees that the deserving applicants are provided accurate employment opportunities. ",
-                  "Aspiring doctors are established in their respective specializations within a short time with the assistance of right guidance and possibility from Birat Medical College placement."
-              ]
-          },
-         
-    
+            ]
+        }
+    ],
+    "review": [
         {
-            type:"meta",
+            type: 'title',
+            title: "Birat Medical College, Nepal - Reviews"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Birat Medical College, Nepal - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            type: 'title',
+            title: "Birat Medical College, Nepal - Placement"
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "After the courses are duly completed, the Birat Medical College placement cell guarantees that the deserving applicants are provided accurate employment opportunities. ",
+                "Aspiring doctors are established in their respective specializations within a short time with the assistance of right guidance and possibility from Birat Medical College placement."
+            ]
+        },
+
+
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Birat Medical College, Nepal - Placement" },
                 { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
             ],
-          },
-          {
-            type:"meta-title",
-            title: "Birat Medical College, Nepal - Placement"},
-          {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - Placement"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/placement" }
-          ]}
-          ],
-          "gallery":[
-          
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Birat Medical College, Nepal - Gallery" },
-                    { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Birat Medical College, Nepal - Gallery"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/gallery" }
-                ]
-            }
-          ],
-          "scholarship": [
-    
-            {
-                "type": "list-bollet",
-                "title": "Scholarships offered by Birat Medical College",
-                "info": "",
-                "data": [
-                    "Both the federal government and state governments give government scholarships to eligible and needy prospective medical students.",
-                    "One scholarship scheme for students pursuing medical degrees in India is the North-South foundation college Scholarship for Indian medical students.",
-                    "Scholarships are given based on talent and financial need, and applicants must pass an admission exam.",
-                    "As long as they maintain high academic standards, recipients are supported throughout their studies."
-                ]
-            },
-           
-    
-            {
-              type:"meta",
-              meta: [
-                  { name: "title", content: "Birat Medical College, Nepal - Scholarship" },
-                  { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
-              ],
-          },
-          {
-              type:"meta-title",
-              title: "Birat Medical College, Nepal - Scholarship"},
-          {
-              type:"meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/scholarship" }
-          ]}
-          ],
-          "faculty": [
-            
-            {
-                "type": "table",
-                "title": "",
-                "info": "",
-                "col": [
-                    "Name",
-                    "Designation"
-                ],
-                "row": [
-                    {
-                        "Name": "Dr. Rajneesh Jha",
-                        "Designation": "MBBS, MD Lecturer"
-                    },
-                    {
-                        "Name": "Dr. Satish Kumar Singh ",
-                        "Designation": "MBBS, MD Lecturer"
-                    },
-                    {
-                        "Name": "Dr. Suresh Prasad",
-                        "Designation": "MBBS, MD Lecturer"
-                    },
-                    {
-                        "Name": "Dr. Ram Kumar Mehta",
-                        "Designation": "MBBS, MD Lecturer"
-                    }
-                ]
-            },
-    
-            {
-              type:"meta",
-              meta: [
-                  { name: "title", content: "Birat Medical College, Nepal - Faculty" },
-                  { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
-              ],
-          },
-          {
-              type:"meta-title",
-              title: "Birat Medical College, Nepal - Faculty"},
-          {
-              type:"meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/faculty" }
-          ]}
-          ],
-          "news":[
-          
-          
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Birat Medical College, Nepal - News & Articles" },
-                    { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Birat Medical College, Nepal - News & Articles"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/news-and-articles" }
-                ]
-            }
-          ],
-          "hostel": [
-    
-            {
-                "type": "list-bollet",
-                "title": "Hostels & Accommodations at Birat Medical College",
-                "info": "The following provides information and details about the hostel services offered by Biratnagar Medical College Nepal:",
-                "data": [
-                    "The Birat Medical College Biratnagar offers dormitory housing to all enrolled students.",
-                    "The hostel provides separate lodging for men and women.",
-                    "The hostel offers available mess amenities.",
-                    "The hostels offer internet access and a well-stocked library.",
-                    "The university offers museums and a well-equipped auditorium.",
-                    "The accommodations provide amenities, including electricity and a laundry facility."
-                ]
-            },
-            
-              
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: 'title',
+            title: "Birat Medical College, Nepal - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Birat Medical College, Nepal - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: 'title',
+            title: "Birat Medical College, Nepal - Scholarship"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Scholarships offered by Birat Medical College",
+            "info": "",
+            "data": [
+                "Both the federal government and state governments give government scholarships to eligible and needy prospective medical students.",
+                "One scholarship scheme for students pursuing medical degrees in India is the North-South foundation college Scholarship for Indian medical students.",
+                "Scholarships are given based on talent and financial need, and applicants must pass an admission exam.",
+                "As long as they maintain high academic standards, recipients are supported throughout their studies."
+            ]
+        },
+
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Birat Medical College, Nepal - Scholarship" },
+                { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/scholarship" }
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            type: 'title',
+            title: "Birat Medical College, Nepal - Faculty"
+        },
+        {
+            "type": "table",
+            "title": "Faculty",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
                 {
-                  type:"meta",
-                  meta: [
-                      { name: "title", content: "Birat Medical College, Nepal - Hostel" },
-                      { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
-                  ],
-              },
-              {
-                  type:"meta-title",
-                  title: "Birat Medical College, Nepal - Hostel"},
-              {
-                  type:"meta-links",
-                  link: [
-                      { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/hostel" }
-              ]}
-          ],
-          
-          "faq": [
-              
-    
-          {
-              "type": "question-list",
-              "title": "Birat Medical College - Important FAQs",
-              "info": "",
-              "data": [
-                  {
-                      "ques": "How long does it take to complete an MBBS in Nepal?",
-                      "ans": "Any medical university in Nepal offers an MBBS programme that lasts five years."
-                  },
-                  {
-                      "ques": "What are the requirements for admission to Birat Medical College in Biratnagar?",
-                      "ans": "The candidate must have PCB as their primary subject in their 10 + 2 or comparable examinations and obtain a minimum score to meet the entrance eligibility requirements for admission to Birat Medical College Biratnagar. The overall result of 50%"
-                  },
-                  {
-                      "ques": "Which entrance exam must be passed to enrol and study for the MBBS at Birat Medical College in Biratnagar?",
-                      "ans": "The candidate must achieve a high score on the NEET entrance examination to enrol in the MBBS programme at Birat Medical College in Biratnagar."
-                  },
-                  {
-                      "ques": "Does the Birat Medical College in Biratnagar have dorm rooms?",
-                      "ans": "All its students have access to hostel accommodations at the Birat Medical College in Biratnagar; there are separate dorms for males and ladies."
-                  }
-              ]
-          },
-          {
-      type:"meta",
-      meta: [
-          { name: "title", content: "Birat Medical College, Nepal - FAQ" },
-          { name: "description", content: "The college is present among top university present in the country. Click here to see FAQs" },
-      ],
-    },
-    {
-      type:"meta-title",
-      title: "Birat Medical College, Nepal - FAQ"},
-    {
-      type:"meta-links",
-      link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/faq" }
-    ]}
-    
-      ],
-    
-    }
-    
-        
-    
-    
-    
+                    "Name": "Dr. Rajneesh Jha",
+                    "Designation": "MBBS, MD Lecturer"
+                },
+                {
+                    "Name": "Dr. Satish Kumar Singh ",
+                    "Designation": "MBBS, MD Lecturer"
+                },
+                {
+                    "Name": "Dr. Suresh Prasad",
+                    "Designation": "MBBS, MD Lecturer"
+                },
+                {
+                    "Name": "Dr. Ram Kumar Mehta",
+                    "Designation": "MBBS, MD Lecturer"
+                }
+            ]
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Birat Medical College, Nepal - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - Faculty"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/faculty" }
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: 'title',
+            title: "Birat Medical College, Nepal - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Birat Medical College, Nepal - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: 'title',
+            title: "Birat Medical College, Nepal - Hostel"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Hostels & Accommodations at Birat Medical College",
+            "info": "The following provides information and details about the hostel services offered by Biratnagar Medical College Nepal:",
+            "data": [
+                "The Birat Medical College Biratnagar offers dormitory housing to all enrolled students.",
+                "The hostel provides separate lodging for men and women.",
+                "The hostel offers available mess amenities.",
+                "The hostels offer internet access and a well-stocked library.",
+                "The university offers museums and a well-equipped auditorium.",
+                "The accommodations provide amenities, including electricity and a laundry facility."
+            ]
+        },
+
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Birat Medical College, Nepal - Hostel" },
+                { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/hostel" }
+            ]
+        }
+    ],
+
+    "faq": [
+        {
+            type: 'title',
+            title: "Birat Medical College, Nepal - FAQ"
+        },
+        {
+            "type": "question-list",
+            "title": "Birat Medical College - Important FAQs",
+            "info": "",
+            "data": [
+                {
+                    "ques": "How long does it take to complete an MBBS in Nepal?",
+                    "ans": "Any medical university in Nepal offers an MBBS programme that lasts five years."
+                },
+                {
+                    "ques": "What are the requirements for admission to Birat Medical College in Biratnagar?",
+                    "ans": "The candidate must have PCB as their primary subject in their 10 + 2 or comparable examinations and obtain a minimum score to meet the entrance eligibility requirements for admission to Birat Medical College Biratnagar. The overall result of 50%"
+                },
+                {
+                    "ques": "Which entrance exam must be passed to enrol and study for the MBBS at Birat Medical College in Biratnagar?",
+                    "ans": "The candidate must achieve a high score on the NEET entrance examination to enrol in the MBBS programme at Birat Medical College in Biratnagar."
+                },
+                {
+                    "ques": "Does the Birat Medical College in Biratnagar have dorm rooms?",
+                    "ans": "All its students have access to hostel accommodations at the Birat Medical College in Biratnagar; there are separate dorms for males and ladies."
+                }
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Birat Medical College, Nepal - FAQ" },
+                { name: "description", content: "The college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Birat Medical College, Nepal - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/birat-medical-college/faq" }
+            ]
+        }
+
+    ],
+
+}
+
+
+
+

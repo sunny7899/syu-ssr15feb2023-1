@@ -19,7 +19,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table-title",
             "title": "Middlesex University - Quick Overview",
-            "info": "<b>These are the highlights a student should know before applying for Bachelor, Masters or Ph.D. courses at Middlesex University:</b>",
+            "info": "These are the highlights a student should know before applying for Bachelor, Masters or Ph.D. courses at Middlesex University:",
             "col": [],
             "row": [
                 ["<b>Intake for Course</b>", "January, September"],
@@ -36,7 +36,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "Why Choose Middlesex University, London?",
-            "info": "<b>London is voted as the best student city in the world for studying abroad. And, the following points will clear the confusion why to choose Middlesex University of London:</b>",
+            "info": "London is voted as the best student city in the world for studying abroad. And, the following points will clear the confusion why to choose Middlesex University of London:",
             "data": [
                 "London is full of culture and heritage. Middlesex University students get cheap tickets to see music, theatre, and dance and free visits to its galleries and museum.",
                 "Middlesex University provides placement to its students after completion of studies.",
@@ -53,7 +53,7 @@ export const middlesexuniversitylondon = {
         },
         {
             "type": "list-bollet",
-            "title": "<b>International Students’ Life at Middlesex University</b>",
+            "title": "International Students’ Life at Middlesex University",
             "info": "",
             "data": [
                 "Middlesex University is one of the most famous Universities among international students.",
@@ -63,7 +63,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "Middlesex University - Ranking 2022",
-            "info": "<b>The rankings of Middlesex University are as below:</b>",
+            "info": "The rankings of Middlesex University are as below:",
             "col": [
                 "Country",
                 "World"
@@ -78,7 +78,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Middlesex university focuses on native students and foreign equally. It uses a language that will be understandable by all:</b>",
+            "info": "Middlesex university focuses on native students and foreign equally. It uses a language that will be understandable by all:",
             "data": [
                 "The medium of teaching for international students is in English."
             ]
@@ -86,7 +86,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "Living Cost of London",
-            "info": "<b>Living cost depends upon the students’ expenditures. The below table will give an estimated living cost of a student studying in London:</b>",
+            "info": "Living cost depends upon the students’ expenditures. The below table will give an estimated living cost of a student studying in London:",
             "col": [
                 "Particulars",
                 "Monthly amount in Pound (approx.)",
@@ -126,9 +126,14 @@ export const middlesexuniversitylondon = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Middlesex University, London - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Business",
-            "info": "<b>Accounting and Finance</b>",
+            "info": "Accounting and Finance",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -185,7 +190,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Business and Management</b>",
+            "info": "Business and Management",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -264,7 +269,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Fast-Track, Top-up and Final Year Entry courses</b>",
+            "info": "Fast-Track, Top-up and Final Year Entry courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -331,7 +336,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Economics</b>",
+            "info": "Economics",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -368,7 +373,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Human Resource Management</b>",
+            "info": "Human Resource Management",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -399,7 +404,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Marketing</b>",
+            "info": "Marketing",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -437,7 +442,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Tourism And Hospitality Management</b>",
+            "info": "Tourism And Hospitality Management",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -474,7 +479,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Computer Science, Engineering and MathsComputer and communications engineering courses</b>",
+            "info": "Computer Science, Engineering and MathsComputer and communications engineering courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -517,7 +522,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Computer science and informatics courses</b>",
+            "info": "Computer science and informatics courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -584,7 +589,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Course Design Engineering courses</b>",
+            "info": "Course Design Engineering courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -645,7 +650,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "Business",
-            "info": "<b>Mathematics courses</b>",
+            "info": "Mathematics courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -670,7 +675,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Law CourseLaw</b>",
+            "info": "Law CourseLaw",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -743,8 +748,8 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "Masters Programs",
-            "info": "<b>A Business</b>",
-            "textBelowInfo": "<b>Accounting and finance courses</b>",
+            "info": "A Business",
+            "textBelowInfo": "Accounting and finance courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -775,7 +780,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Business and Management courses</b>",
+            "info": "Business and Management courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -872,7 +877,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Economics courses</b>",
+            "info": "Economics courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -891,7 +896,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Human Resource Management courses</b>",
+            "info": "Human Resource Management courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -910,7 +915,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Marketing courses</b>",
+            "info": "Marketing courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -941,7 +946,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Tourism and Hospitality Management courses</b>",
+            "info": "Tourism and Hospitality Management courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -960,7 +965,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Computer science, Engineering and MathsComputer and Communications Engineering courses</b>",
+            "info": "Computer science, Engineering and MathsComputer and Communications Engineering courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -1003,7 +1008,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Computer Science and Informatics courses</b>",
+            "info": "Computer Science and Informatics courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -1064,7 +1069,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Design Engineering courses</b>",
+            "info": "Design Engineering courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -1113,7 +1118,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Engineering Project Management courses</b>",
+            "info": "Engineering Project Management courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -1146,7 +1151,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Mathematics courses</b>",
+            "info": "Mathematics courses",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -1178,7 +1183,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "Law Course",
-            "info": "<b>Law</b>",
+            "info": "Law",
             "col": [
                 "Course",
                 "Fees in Pound for International students",
@@ -1263,9 +1268,14 @@ export const middlesexuniversitylondon = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Middlesex University, London - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria (For Bachelor Programs)",
-            "info": "<b>For applying to Middlesex University the students should have the following eligibilities:</b>",
+            "info": "For applying to Middlesex University the students should have the following eligibilities:",
             "data": [
                 "The candidate must finish the Higher Secondary exam with qualifying marks.",
                 "The candidate should have English language ability: IELTS 6.0 (with minimum a 5.5 in all components).",
@@ -1275,7 +1285,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "step-list",
             "title": "Eligibility Criteria (For Bachelor Programs)",
-            "info": "<b>The admission process at Middlesex University are as follows:</b>",
+            "info": "The admission process at Middlesex University are as follows:",
             "data": [
 
                 "<b>Step 1:</b> Register in the online site of the university",
@@ -1291,7 +1301,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "Documents Required (For Bachelor Programs)",
-            "info": "<b>Here, is a list of documents for the Bachelor program at Middlesex University:</b>",
+            "info": "Here, is a list of documents for the Bachelor program at Middlesex University:",
             "data": [
                 "Online application form",
                 "Copy of Secondary school certificate",
@@ -1320,7 +1330,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria (For Master Programs)",
-            "info": "<b>For applying Masters in Middlesex University, the candidate must possess these criteria:</b>",
+            "info": "For applying Masters in Middlesex University, the candidate must possess these criteria:",
             "data": [
                 "The candidate must have a Bachelor’s Degree in the relevant field.",
                 "The candidate must finish the Higher Secondary exam with qualifying marks.",
@@ -1332,7 +1342,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "step-list",
             "title": "Eligibility Criteria (For Master Programs)",
-            "info": "<b>The admission process at Middlesex University are as follows:</b>",
+            "info": "The admission process at Middlesex University are as follows:",
             "data": [
 
                 "<b>Step 1:</b> Register in the online site of the university",
@@ -1348,7 +1358,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "Documents Required (For Bachelor Programs)",
-            "info": "<b>Here, is a list of documents for the Masters program at Middlesex University:</b>",
+            "info": "Here, is a list of documents for the Masters program at Middlesex University:",
             "data": [
                 "Online application form",
                 "Copy of Secondary school certificate",
@@ -1380,7 +1390,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "table",
             "title": "Middlesex University - Important Dates 2022",
-            "info": "<b>These are the important dates a student must go through while applying to Middlesex University</b>",
+            "info": "These are the important dates a student must go through while applying to Middlesex University",
             "col": [
                 "Events",
                 "Date",
@@ -1426,6 +1436,11 @@ export const middlesexuniversitylondon = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Middlesex University, London - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Middlesex University, London - Reviews" },
@@ -1445,6 +1460,11 @@ export const middlesexuniversitylondon = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Middlesex University, London - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Placement",
             "data": [
@@ -1456,7 +1476,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Top Recruiter</b>",
+            "info": "Top Recruiter",
             "data": [
                 "America,",
                 "Barclays,",
@@ -1467,7 +1487,7 @@ export const middlesexuniversitylondon = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Job roles that were assigned</b>",
+            "info": "Job roles that were assigned",
             "data": [
                 "Consultant,",
                 "Finance Manager",
@@ -1496,6 +1516,11 @@ export const middlesexuniversitylondon = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Middlesex University, London - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Middlesex University, London - Gallery" },
@@ -1515,6 +1540,11 @@ export const middlesexuniversitylondon = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Middlesex University, London - Scholarship"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Middlesex University, London - Scholarship" },
@@ -1533,6 +1563,11 @@ export const middlesexuniversitylondon = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Middlesex University, London - Faculty"
+
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -1581,6 +1616,11 @@ export const middlesexuniversitylondon = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Middlesex University, London - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Middlesex University, London - News & Articles" },
@@ -1600,9 +1640,14 @@ export const middlesexuniversitylondon = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Middlesex University, London - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Middlesex University provides a 100% accommodation guarantee for international students. To know more check out the following points:</b>",
+            "info": "Middlesex University provides a 100% accommodation guarantee for international students. To know more check out the following points:",
             "data": [
                 "The university provides accommodation in its halls, and also halls shared with other universities as well as a privately rented place in London.",
                 "The hostels have a strong student community.",
@@ -1638,9 +1683,14 @@ export const middlesexuniversitylondon = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Middlesex University, London - FAQ"
+
+        },
+        {
             type: 'question-list',
             title: 'Middlesex University - Important FAQs',
-            info: "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            info: "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             data: [
                 {
                     "ques": "Q. What are the programs that Middlesex University provides?",

@@ -10,7 +10,7 @@ export const dhakacentralinternationalmedicalcollege = {
     {
       type: 'title',
       title: 'Dhaka Central International Medical College, Bangladesh'
-  },
+    },
     {
       "type": "text",
       "title": "",
@@ -165,7 +165,7 @@ export const dhakacentralinternationalmedicalcollege = {
       type: 'list-bollet',
       title: 'About Dhaka City',
       img: 'images/bangladesh/dhaka-city.jpg',
-      info: '<p><b>Some of the noticeable facts about Dhaka city are given below:</b></p>',
+      info: 'Some of the noticeable facts about Dhaka city are given below:',
       data: [
         "Dhaka is a megacity of Bangladesh with a population of 16 million people, and with an area of about 1353 sq. km.",
         "Dhaka is the geographic center of Bangladesh.",
@@ -175,21 +175,23 @@ export const dhakacentralinternationalmedicalcollege = {
         "Dhaka city has an annual average temperature of 25 degrees Celsius."
       ],
     },
-    { 
-      type:"meta",
+    {
+      type: "meta",
       meta: [
-          { name: "title", content: "Dhaka Central International Medical College, Bangladesh" },
-          { name: "description", content: "Dhaka Central International Medical College is located in Dhaka city of Bangladesh. It is a private medical college." },
+        { name: "title", content: "Dhaka Central International Medical College, Bangladesh" },
+        { name: "description", content: "Dhaka Central International Medical College is located in Dhaka city of Bangladesh. It is a private medical college." },
       ],
-  },
-  {
-      type:"meta-title",
-      title: "Dhaka Central International Medical College, Bangladesh"},
-  { 
-      type:"meta-links",
+    },
+    {
+      type: "meta-title",
+      title: "Dhaka Central International Medical College, Bangladesh"
+    },
+    {
+      type: "meta-links",
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college" }
-  ]}
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college" }
+      ]
+    }
   ],
 
   "coursesandfees": [
@@ -267,7 +269,7 @@ export const dhakacentralinternationalmedicalcollege = {
         {
           "Particular": "Development Fee",
           "Pre - Clinical Class (18 months)": "$ 20500",
-         
+
         },
 
       ]
@@ -348,21 +350,23 @@ export const dhakacentralinternationalmedicalcollege = {
       "img": "images/bangladesh/gynaecology.jpg",
       "data": "<h3>Gynaecology</h3>"
     },
-    { 
-      type:"meta",
+    {
+      type: "meta",
       meta: [
-          { name: "title", content: "Dhaka Central International Medical College, Bangladesh" },
-          { name: "description", content: "Dhaka Central International Medical College is located in Dhaka city of Bangladesh. It is a private medical college." },
+        { name: "title", content: "Dhaka Central International Medical College, Bangladesh - courses & Fees" },
+        { name: "description", content: "Dhaka Central International Medical College ; Tuition Fee with Hostel. Check available courses and fees" },
       ],
-  },
-  {
-      type:"meta-title",
-      title: "Dhaka Central International Medical College, Bangladesh"},
-  { 
-      type:"meta-links",
+    },
+    {
+      type: "meta-title",
+      title: "Dhaka Central International Medical College, Bangladesh - courses & Fees"
+    },
+    {
+      type: "meta-links",
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college" }
-  ]}
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/courses-and-fees" }
+      ]
+    }
 
   ],
   "admission": [
@@ -373,17 +377,23 @@ export const dhakacentralinternationalmedicalcollege = {
       "info": "Candidates who want to take admission at Dhaka Central International Medical College & Hospital must ensure that they fit in the following eligibility criteria:",
       "data": [
         "The candidate’s age must be between 17 and 25 years on or before the date on which the admission is being taken.",
-        " The candidates should have scored at least 60% aggregate in all the above-mentioned subjects in 10+2 and 50% if the applicant falls under the reserved category.",
+        "The candidates should have scored at least 60% aggregate in all the above-mentioned subjects in 10+2 and 50% if the applicant falls under the reserved category.",
         "The applicants must have cleared the NEET exam for admission into this university of Bangladesh.",
         "The students must have completed high-school education or he/she must hold an equivalent degree with Physics, Chemistry, Biology, and English as main subjects.",
         "The students must have cleared both the exams, IELTS, and TOEFL."
       ]
     },
     {
-      "type": "text",
+      "type": "list-bollet",
       "title": "Admission Process",
       "info": "Below given is the admission procedure which students need to follow to take admission at Dhaka Central International Medical College & Hospital:",
-      "data": "<p><strong>Below given is the admission procedure which students need to follow to take admission at Dhaka Central International Medical College & Hospital:</strong></p><p><strong style=color:red><u>Step 1</u>:</strong>   Students should fill the Application form available on the website of the college.</p><p><strong style=color:red><u>Step 2</u>:</strong>  Then, the applicant should send the filled-in Application form together with the copies of the documents, necessary for the acquisition of the student’s status.</p><p><strong style=color:red><u>Step 3</u>:</strong>  After receiving the student's application, the university will send a conditional offer letter.</p><p><strong style=color:red><u>Step 4</u>:</strong>  The candidates first should pay the initial tuition fee, after receiving a conditional offer letter. Then the students will receive a Fee Acknowledgement letter from the university.</p><p><strong style=color:red><u>Step 5</u>:</strong> Candidates should then fulfill the required procedures for granting student visas.</p>"
+      "data": [
+        "<strong>Step 1:</strong>Students should fill the Application form available on the website of the college.",
+        "<strong>Step 2:</strong>  Then, the applicant should send the filled-in Application form together with the copies of the documents, necessary for the acquisition of the student’s status.",
+        "<strong>Step 3:</strong>  After receiving the student's application, the university will send a conditional offer letter.",
+        "<strong>Step 4:</strong>  The candidates first should pay the initial tuition fee, after receiving a conditional offer letter. Then the students will receive a Fee Acknowledgement letter from the university.",
+        "<strong>Step 5:</strong> Candidates should then fulfill the required procedures for granting student visas."
+      ]
     },
     {
       "type": "list-bollet",
@@ -392,12 +402,12 @@ export const dhakacentralinternationalmedicalcollege = {
       "data": [
         "High School Mark sheets (10th and 12th, xerox and original)",
         "NEET Scorecard",
-        " Copy Of Passport (having minimum validity of 18 months)",
+        "Copy Of Passport (having minimum validity of 18 months)",
         "Letters of Recommendation from School",
-        " Guardian’s letter",
-        " Color photographs",
-        " Approved Visa Copy",
-        " Non-Criminal Certificate",
+        "Guardian’s letter",
+        "Color photographs",
+        "Approved Visa Copy",
+        "Non-Criminal Certificate",
         "Copy of Blood Group Certificate",
         "Migration letter from the Medical Council",
         "Medical Board Certificate",
@@ -405,23 +415,62 @@ export const dhakacentralinternationalmedicalcollege = {
         "Invitation letter from the college"
       ]
     },
-    { 
-      type:"meta",
+    {
+      type: "meta",
       meta: [
-          { name: "title", content: "Dhaka Central International Medical College, Bangladesh" },
-          { name: "description", content: "Dhaka Central International Medical College is located in Dhaka city of Bangladesh. It is a private medical college." },
+        { name: "title", content: "Dhaka Central International Medical College, Bangladesh - Admission 2023" },
+        { name: "description", content: "Admission step by step. Choose the appropriate section in the system of Internet Recruitment of Candidates.Click Here TO REGISTER" },
       ],
-  },
-  {
-      type:"meta-title",
-      title: "Dhaka Central International Medical College, Bangladesh"},
-  { 
-      type:"meta-links",
+    },
+    {
+      type: "meta-title",
+      title: "Dhaka Central International Medical College, Bangladesh - Admission 2023"
+    },
+    {
+      type: "meta-links",
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college" }
-  ]}
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/admission" }
+      ]
+    }
   ],
-
+  "review": [
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Dhaka Central International Medical College, Bangladesh - Reviews" },
+        { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Dhaka Central International Medical College, Bangladesh - Reviews"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/reviews" }
+      ]
+    }
+  ],
+  "placement": [
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "Dhaka Central International Medical College, Bangladesh - Placement" },
+        { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "Dhaka Central International Medical College, Bangladesh - Placement"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/placement" }
+      ]
+    }
+  ],
   "scholarship": [
     {
       "type": "list-bollet",
@@ -432,21 +481,23 @@ export const dhakacentralinternationalmedicalcollege = {
         "The Dhaka Central International Medical College also grants scholarships on the basis of merit of the students."
       ]
     },
-    { 
-      type:"meta",
+    {
+      type: "meta",
       meta: [
-          { name: "title", content: "Dhaka Central International Medical College, Bangladesh" },
-          { name: "description", content: "Dhaka Central International Medical College is located in Dhaka city of Bangladesh. It is a private medical college." },
+        { name: "title", content: "Dhaka Central International Medical College, Bangladesh - Scholarship" },
+        { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
       ],
-  },
-  {
-      type:"meta-title",
-      title: "Dhaka Central International Medical College, Bangladesh"},
-  { 
-      type:"meta-links",
+    },
+    {
+      type: "meta-title",
+      title: "Dhaka Central International Medical College, Bangladesh - Scholarship"
+    },
+    {
+      type: "meta-links",
       link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college" }
-  ]}
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/scholarship" }
+      ]
+    }
 
   ],
   "hostel": [
@@ -456,11 +507,11 @@ export const dhakacentralinternationalmedicalcollege = {
       "info": "Following are the hostel facilities at Dhaka Central International Medical College & Hospital:",
       "data": [
         "The university provides separate hostel facilities for male as well as female students.",
-        " The hostel rooms for both boys and girls are spacious, large, and air-conditioned.",
-        " There is also a facility of Indian food for the students.",
-        " The campus of the university contains common rooms, a sports zone, cultural clubs, for the benefit of the students.",
-        " The campus also has a WIFI facility.",
-        " The hostels are provided with full security and each hostel has a separate hostel supervisor."
+        "The hostel rooms for both boys and girls are spacious, large, and air-conditioned.",
+        "There is also a facility of Indian food for the students.",
+        "The campus of the university contains common rooms, a sports zone, cultural clubs, for the benefit of the students.",
+        "The campus also has a WIFI facility.",
+        "The hostels are provided with full security and each hostel has a separate hostel supervisor."
       ]
     },
     {
@@ -487,26 +538,76 @@ export const dhakacentralinternationalmedicalcollege = {
       "img": "images/bangladesh/security.png",
       "data": "<p class=text-center>Security</p>"
     },
-    { 
-      type:"meta",
+    {
+      type: "meta",
       meta: [
-          { name: "title", content: "Dhaka Central International Medical College, Bangladesh" },
-          { name: "description", content: "Dhaka Central International Medical College is located in Dhaka city of Bangladesh. It is a private medical college." },
+        { name: "title", content: "Dhaka Central International Medical College, Bangladesh - Hostel" },
+        { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
       ],
+    },
+    {
+      type: "meta-title",
+      title: "Dhaka Central International Medical College, Bangladesh - Hostel"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/hostel" }
+      ]
+    }
+  ],
+  "gallery": [{
+    type: "meta",
+    meta: [
+      { name: "title", content: "Dhaka Central International Medical College, Bangladesh - Gallery" },
+      { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+    ],
   },
   {
-      type:"meta-title",
-      title: "Dhaka Central International Medical College, Bangladesh"},
-  { 
-      type:"meta-links",
-      link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college" }
-  ]}
-  ],
-  "gallery": {},
-  "faculty": {},
-  "News & Articles": {},
-  "qna":
+    type: "meta-title",
+    title: "Dhaka Central International Medical College, Bangladesh - Gallery"
+  },
+  {
+    type: "meta-links",
+    link: [
+      { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/gallery" }
+    ]
+  }],
+  "faculty": [{
+    type: "meta",
+    meta: [
+      { name: "title", content: "Dhaka Central International Medical College, Bangladesh - Faculty" },
+      { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+    ],
+  },
+  {
+    type: "meta-title",
+    title: "Dhaka Central International Medical College, Bangladesh - Faculty"
+  },
+  {
+    type: "meta-links",
+    link: [
+      { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/faculty" }
+    ]
+  }],
+  "news": [{
+    type: "meta",
+    meta: [
+      { name: "title", content: "Dhaka Central International Medical College, Bangladesh - News & Articles" },
+      { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
+    ],
+  },
+  {
+    type: "meta-title",
+    title: "Dhaka Central International Medical College, Bangladesh - News & Articles"
+  },
+  {
+    type: "meta-links",
+    link: [
+      { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/news-and-articles" }
+    ]
+  }],
+  "faq":
     [
       {
         "type": "question-list",
@@ -532,20 +633,22 @@ export const dhakacentralinternationalmedicalcollege = {
 
         ]
       },
-      { 
-        type:"meta",
+      {
+        type: "meta",
         meta: [
-            { name: "title", content: "Dhaka Central International Medical College, Bangladesh" },
-            { name: "description", content: "Dhaka Central International Medical College is located in Dhaka city of Bangladesh. It is a private medical college." },
+          { name: "title", content: "Dhaka Central International Medical College, Bangladesh - FAQ" },
+          { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
         ],
-    },
-    {
-        type:"meta-title",
-        title: "Dhaka Central International Medical College, Bangladesh"},
-    { 
-        type:"meta-links",
+      },
+      {
+        type: "meta-title",
+        title: "Dhaka Central International Medical College, Bangladesh - FAQ"
+      },
+      {
+        type: "meta-links",
         link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college" }
-    ]}
+          { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-central-international-medical-college/faq" }
+        ]
+      }
     ],
 }

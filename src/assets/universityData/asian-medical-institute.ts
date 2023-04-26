@@ -22,7 +22,7 @@ export const asianmedicalinstitute = {
         {
             "type": "table-title",
             "title": "Asian Medical Institute - Important Highlights 2022",
-            "info": "<b>Here is some important information about Asian Medical Institute at a glance. Check the duration, eligibility, and other things quickly:</b>",
+            "info": "Here is some important information about Asian Medical Institute at a glance. Check the duration, eligibility, and other things quickly:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const asianmedicalinstitute = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Asian Medical Institute?",
-            "info": "<b>The Asian Medical Institute offers some advantages of studying MBBS here. Choose to study in Kyrgyzstan after going through the following benefits:</b>",
+            "info": "The Asian Medical Institute offers some advantages of studying MBBS here. Choose to study in Kyrgyzstan after going through the following benefits:",
             "data": [
                 "Asian Medical Institute has an affordable fee structure for Indian students.",
                 "It is the top-ranked University with quality education.",
@@ -56,7 +56,7 @@ export const asianmedicalinstitute = {
         {
             "type": "table",
             "title": "Asian Medical Institute Ranking 2022 ",
-            "info": "<b>According to Unirank, the country & world ranking of Asian Medical Institute is as follows:                </b>",
+            "info": "According to Unirank, the country & world ranking of Asian Medical Institute is as follows:                ",
             "col": [
                 "Country Ranking",
                 "World Ranking",
@@ -83,7 +83,7 @@ export const asianmedicalinstitute = {
         {
             "type": "list-bollet",
             "title": "What are the Accreditation and Recognition of the Asian Medical Institute?",
-            "info": "<b>The Asian Medical Institute is recognized by the world’s well-known organizations and institutes:</b>",
+            "info": "The Asian Medical Institute is recognized by the world’s well-known organizations and institutes:",
             "data": [
                 "NMC",
                 "NMC",
@@ -106,7 +106,7 @@ export const asianmedicalinstitute = {
         {
             "type": "table",
             "title": "Asian Medical Institute - FMGE Performance 2021 ",
-            "info": "<b>Asian Medical Institute gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Asian Medical Institute gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -125,7 +125,7 @@ export const asianmedicalinstitute = {
         {
             "type": "table",
             "title": "Monthly Living Expenses in Kant City",
-            "info": "<b>The currency of Kyrgyzstan (KGS) is almost similar in rate with Indian Rupee. So the living cost in Kyrgyzstan is not that different from India:</b>",
+            "info": "The currency of Kyrgyzstan (KGS) is almost similar in rate with Indian Rupee. So the living cost in Kyrgyzstan is not that different from India:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -157,28 +157,14 @@ export const asianmedicalinstitute = {
                     "Approx Range in USD": "70-75",
                     "Approx Range in RS": "5000 - 5400",
                 },
-            ]
+            ],
+            "heading": "<p><b>Note:</b> $1 = Rs.71 (for calculation purpose.) </p>"
         },
-        {
-            type: 'text',
-            title: '',
-            img: '',
-            data: '<p><b>Note:</b> $1 = Rs.71 (for calculation purpose.) </p>'
-        },
-
-
-        {
-            type: 'text',
-            title: 'About the Kant City',
-            img: 'https://www.selectyouruniversity.com/images/kyrgyzstan-universities/asian-medical-institute-city.jpg',
-            data: ''
-        },
-
-
         {
             "type": "list-bollet",
-            "title": "",
-            "info": "<b>Here is some information about the Kant city:</b>",
+            "title": 'About the Kant City',
+            "img": 'https://www.selectyouruniversity.com/images/kyrgyzstan-universities/asian-medical-institute-city.jpg',
+            "info": "Here is some information about the Kant city:",
             "data": [
                 "Kant is the city in Kyrgyzstan which is situated just 20 KM away from the Bishkek city.",
                 "The establishment of the Kant city was done in 1928.",
@@ -204,17 +190,16 @@ export const asianmedicalinstitute = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/asian-medical-institute" }
             ]
         }
-
-
-
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Fee Structure of Asian Medical Institute",
-            "info": "<b>Have a look at one of the affordable fee structures for MBBS in Kyrgyzstan. Here is the total package for the MBBS course at Asian Medical Institute i.e. approximately Rs. 12.85 Lakh:</b>",
+            "info": "Have a look at one of the affordable fee structures for MBBS in Kyrgyzstan. Here is the total package for the MBBS course at Asian Medical Institute i.e. approximately Rs. 12.85 Lakh:",
             "col": [
                 "Particulars",
                 "Year 1",
@@ -261,17 +246,14 @@ export const asianmedicalinstitute = {
                     "Year 5": "Rs. 2,92,520",
                     "Year 6": "Rs. 2,92,520"
                 }
-            ]
+            ],
+            "heading": "<p><strong><u>Note</u>:</strong>  $1 = Rs.71 (for calculation purpose.)</p>"
         },
-        {
-            type: 'text',
-            title: '',
-            data: '<p><strong style="color: red;"><u>Note</u>:</strong>  $1 = Rs.71 (for calculation purpose.)</p>'
-        },
+
         {
             "type": "table",
             "title": "What is the Syllabus for MBBS at Asian Medical Institute?",
-            "info": "<b>While studying MBBS at Asian Medical Institute students come across the following syllabus for their course:</b>",
+            "info": "While studying MBBS at Asian Medical Institute students come across the following syllabus for their course:",
             "col": [
                 "1st Year",
                 "2nd Year"
@@ -314,7 +296,7 @@ export const asianmedicalinstitute = {
         {
             "type": "table",
             "title": "What is the Syllabus for MBBS at Asian Medical Institute?",
-            "info": "<b>While studying MBBS at Asian Medical Institute students come across the following syllabus for their course:</b>",
+            "info": "While studying MBBS at Asian Medical Institute students come across the following syllabus for their course:",
             "col": [
                 "3rd Year",
                 "4th-6th Year"
@@ -341,7 +323,7 @@ export const asianmedicalinstitute = {
         {
             "type": "table-title",
             "title": "What is the Syllabus for MBBS at Asian Medical Institute?",
-            "info": "<b>While studying MBBS at Asian Medical Institute students come across the following syllabus for their course:</b>",
+            "info": "While studying MBBS at Asian Medical Institute students come across the following syllabus for their course:",
             "colTitle": "Subjects added for Medical Practice",
             "row": [
                 ["Psychiatry", "Neurology"],
@@ -355,7 +337,7 @@ export const asianmedicalinstitute = {
         {
             "type": "list-bollet",
             "title": "Which Courses are offered at Asian Medical Institute?",
-            "info": "<b>Asian medical institute offers 4 different courses in the medical field:</b>",
+            "info": "Asian medical institute offers 4 different courses in the medical field:",
             "data": [
                 "Nursing",
                 "Medicine",
@@ -396,31 +378,29 @@ export const asianmedicalinstitute = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "What are the Eligibility Criteria for MBBS at Asian Medical Institute?",
-            "info": "<b>Indian students need to fit in the following discussed criteria for taking admission to Asian Medical Institute for MBBS course:</b>",
+            "info": "Indian students need to fit in the following discussed criteria for taking admission to Asian Medical Institute for MBBS course:",
             "data": [
                 "Applicants should be 12th passed with a course of subjects including Physics, Chemistry & Biology from a recognized university and institute. The aggregate of marks should be a minimum of 50% in course subjects (40% for SC/ST/OBC).",
                 "Age should be in between 17 to 25 years before the 31st December of the year of the admission process.",
                 "The NEET exam is mandatory for taking admission to Asian Medical Institute."
-
-
-
             ]
         },
         {
             "type": "step-list",
             "title": "How Can I Get Admission in Asian Medical College?",
-            "info": "<b>The Asian Medical Institute offers a simple admission process to get admission for medicinal courses. Follow these steps to complete the admission:</b>",
+            "info": "The Asian Medical Institute offers a simple admission process to get admission for medicinal courses. Follow these steps to complete the admission:",
             "data": [
                 "<b>Step 1:</b> Fill the application form along with all the documents and submit.",
                 "<b>Step 2:</b> When the university receives your form and documents, they send you an invitation/offer letter.",
                 "<b>Step 3:</b> After receiving the offer letter, the student needs to pay the course fee.",
                 "<b>Step 4:</b> Once you paid the fees, with that original receipt you can start the process for the student visa.",
                 "<b>Step 5:</b> It takes around 60 days to complete the Visa process for Kyrgyzstan. Once you get your student visa, you are good to go to achieve your dream. Getting a visa for Kyrgyzstan takes longer than any other countries like Ukraine, Russia, Poland, so we recommend students to start the process as early as possible."
-
-
-
             ]
         },
         {
@@ -444,10 +424,6 @@ export const asianmedicalinstitute = {
                 "Flight tickets To and Fro",
                 "Medical Health Certificate showing Mental and",
                 "Physical Fitness (attested by Ministry of Foreign Affairs)"
-
-
-
-
             ]
         },
         {
@@ -458,11 +434,6 @@ export const asianmedicalinstitute = {
                 "Filled Application Form",
                 "The passport which should be minimum valid for one year",
                 "Copy of School Leaving Certificate showing all subject details",
-
-
-
-
-
             ]
         },
         {
@@ -482,7 +453,7 @@ export const asianmedicalinstitute = {
         {
             "type": "table",
             "title": "Asian Medical Institute - Academic Calendar 2022",
-            "info": "<b>Students need to hurry as the application dates are close and it will be close very soon, so fill out your online application forms now:</b>",
+            "info": "Students need to hurry as the application dates are close and it will be close very soon, so fill out your online application forms now:",
             "col": [
                 "Events",
                 "Dates"
@@ -515,7 +486,7 @@ export const asianmedicalinstitute = {
         },
         {
             type: "meta-title",
-            title: "Asian Medical Institute, Kyrgyzstan - Admission 2023 "
+            title: "Asian Medical Institute, Kyrgyzstan - Admission 2023"
         },
         {
             type: "meta-links",
@@ -525,11 +496,84 @@ export const asianmedicalinstitute = {
         }
 
     ],
+    "review": [
+        {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - Reviews"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Asian Medical Institute, Kyrgyzstan - Reviews" },
+                { name: "description", content: "Find out what makes Asian Medical Institute so special by reading student reviews. click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Asian Medical Institute, Kyrgyzstan - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/asian-medical-institute/reviews" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Asian Medical Institute, Kyrgyzstan - Gallery" },
+                { name: "description", content: "Asian Medical Institute is considered within the top 10 for medical in country, Established in 2004. check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Asian Medical Institute, Kyrgyzstan - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/asian-medical-institute/gallery" }
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Asian Medical Institute, Kyrgyzstan - News & Articles" },
+                { name: "description", content: "Get complete details on Asian Medical Institute,Featured News; Recent News,Trending Articles; Recent Articles. Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Asian Medical Institute, Kyrgyzstan - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/asian-medical-institute/news-and-articles" }
+            ]
+        }
+    ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Is there any Hostel facility provided by the Asian Medical Institute?",
-            "info": "<b>The Asian Medical Institute provides students with a lavish stay at university accommodation facilities:</b>            ",
+            "info": "The Asian Medical Institute provides students with a lavish stay at university accommodation facilities:</b>        ",
             "data": [
                 "There are separate hostels for boys and girls with a 24*7 security guard service.",
                 "Each room is based on 3 person sharing. Hostels are provided with free wi-fi service.",
@@ -561,9 +605,13 @@ export const asianmedicalinstitute = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Asian Medical Institute - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Asian Medical Institute a good choice for Indian students?",
@@ -619,6 +667,10 @@ export const asianmedicalinstitute = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
             "info": "",
@@ -650,6 +702,10 @@ export const asianmedicalinstitute = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - Placement"
+        },
+        {
             "type": "list-bollet",
             "title": "Placements",
             "info": "",
@@ -680,11 +736,15 @@ export const asianmedicalinstitute = {
             ]
         }
     ],
-    "faculty":[
+    "faculty": [
+        {
+            type: 'title',
+            title: "Asian Medical Institute, Kyrgyzstan - Faculty"
+        },
         {
             "type": "list-bollet",
             "title": "faculty",
-            "info": "<b>Following is the faculty present at the Institute have a look -</b>",
+            "info": "Following is the faculty present at the Institute have a look -",
             "data": [
                 "Iyazaliev Kubat Toktosunovich, Head of the department,candidate of medical sciences, docent"
 

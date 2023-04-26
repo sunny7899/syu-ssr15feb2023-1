@@ -20,7 +20,7 @@ export const kalmykstateuniversity = {
         {
             "type": "table-title",
             "title": "Kalmyk State University - Quick Highlights",
-            "info": "<b>The applicants must go through the major highlights of Kalmyk State University before doing the engineering program:</b>",
+            "info": "The applicants must go through the major highlights of Kalmyk State University before doing the engineering program:",
             "col": [],
             "row": [
                 ["<b>Establishment Year</b>", "1970"],
@@ -32,7 +32,7 @@ export const kalmykstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study Engineering at Kalmyk State University?",
-            "info": "<b>Candidates willing to study at Kalmyk State University must check out the various benefits:</b>",
+            "info": "Candidates willing to study at Kalmyk State University must check out the various benefits:",
             "data": [
                 "Kalmyk State University is best, as the highly skilled faculty members making every effort for the students was prestigious and comfortable.",
                 "The institute also creates conditions for gaining wide experience in intercultural communication due to the students coming from various cultural backgrounds.",
@@ -50,7 +50,7 @@ export const kalmykstateuniversity = {
         {
             "type": "table",
             "title": "Kalmyk State University - Ranking 2022",
-            "info": "<b>According to Unirank, The candidates should check out the rankings of Kalmyk State University:</b>",
+            "info": "According to Unirank, The candidates should check out the rankings of Kalmyk State University:",
             "col": [
                 "Country",
                 "World",
@@ -66,7 +66,7 @@ export const kalmykstateuniversity = {
         {
             "type": "table",
             "title": "Living Expense of Elista",
-            "info": "<b>Elista, Russia having a low Living cost, The students must go through the table to know the monthly expenses of an Individual which can vary according to basic expenses:</b>",
+            "info": "Elista, Russia having a low Living cost, The students must go through the table to know the monthly expenses of an Individual which can vary according to basic expenses:",
             "col": [
                 "Particular",
                 "Amount in USD",
@@ -106,6 +106,11 @@ export const kalmykstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kalmyk State University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table-title",
             "title": "Courses Offered at Kalmyk State University",
             "info": "",
@@ -119,7 +124,7 @@ export const kalmykstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Kalmyk State University - Course Duration",
-            "info": "<b>Kalmyk State University offers 4 years of Engineering program:</b>",
+            "info": "Kalmyk State University offers 4 years of Engineering program:",
             "data": [
                 "Engineering studies at Kalmyk State University last for 4 years in the English medium of instruction.",
                 "The students will acquire theoretical as well as practical aspects of knowledge during the Engineering course."
@@ -146,9 +151,14 @@ export const kalmykstateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kalmyk State University, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students will be eligible for Engineering admission if they are fulfilling the basic criteria:</b>",
+            "info": "The students will be eligible for Engineering admission if they are fulfilling the basic criteria:",
             "data": [
                 "The student should be at least 17 years old while taking admission or complete this age before 31st December of the admission year.",
                 "The candidates applying for the program must clear the higher secondary education with 50% of marks in PCB Subjects.",
@@ -158,7 +168,7 @@ export const kalmykstateuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Rush to confirm your Engineering seats by following the detailed admission process to enroll at Kalmyk State University:</b>',
+            info: 'Rush to confirm your Engineering seats by following the detailed admission process to enroll at Kalmyk State University:',
             data: [
                 "Step 1: The first step is to fill the online application form with the correct information.",
                 "Step 2: The students should upload scanned copies of essential documents.",
@@ -171,7 +181,7 @@ export const kalmykstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following are the list of Important document needed to take admission in Kalmyk State University:</b>",
+            "info": "Following are the list of Important document needed to take admission in Kalmyk State University:",
             "data": [
                 "Application form",
                 "Birth certificate",
@@ -211,6 +221,11 @@ export const kalmykstateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kalmyk State University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kalmyk State University, Russia - Reviews" },
@@ -229,6 +244,11 @@ export const kalmykstateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kalmyk State University, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -249,6 +269,11 @@ export const kalmykstateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kalmyk State University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kalmyk State University, Russia - Gallery" },
@@ -267,6 +292,11 @@ export const kalmykstateuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Kalmyk State University, Russia - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -287,6 +317,11 @@ export const kalmykstateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kalmyk State University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kalmyk State University, Russia - Faculty" },
@@ -305,6 +340,11 @@ export const kalmykstateuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kalmyk State University, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -325,9 +365,14 @@ export const kalmykstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kalmyk State University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Kalmyk State University offers very comfortable student hostels at very nominal prices for comfortable living:</b>",
+            "info": "Kalmyk State University offers very comfortable student hostels at very nominal prices for comfortable living:",
             "data": [
                 "Kalmyk State University provides a comfortable space for better living in hostels situated near educational buildings.",
                 "The worldwide students are accommodated in modern hostels with all necessary facilities.",
@@ -372,9 +417,14 @@ export const kalmykstateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Kalmyk State University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Kalmyk State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is Kalmyk State University a worthy place to pursue an engineering education?",

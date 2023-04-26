@@ -5,6 +5,7 @@ export const mbbsinkyrgyzstan = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
+    "Duration":"6 Years (including internship)",
     "url": "mbbs-in-kyrgyzstan",
     "info": [
         {
@@ -22,7 +23,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "table-title",
             "title": "MBBS in Kyrgyzstan 2023 - Key Features",
-            "info": "<b>Here are some important points to remember for doing MBBS in Kyrgyzstan:</b>",
+            "info": "Here are some important points to remember for doing MBBS in Kyrgyzstan:",
             "col": [
             ],
             "row": [
@@ -44,7 +45,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "list-bollet",
             "title": "Why Choose Kyrgyzstan to Study MBBS Course?",
-            "info": "<b>Below are the few advantages of doing MBBS from Kyrgyzstan:</b>",
+            "info": "Below are the few advantages of doing MBBS from Kyrgyzstan:",
             //"img": 'https://www.selectyouruniversity.com/images/benefits-of-mbbs-in-kyrgyzstan.jpg',
             "data": [
                 "Teacher to students ratio in the universities of Kyrgyzstan is balanced and the classes are not overpopulated to establish learning harmony.",
@@ -73,7 +74,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "list-bollet",
             "title": "What is the Eligibility Criteria For MBBS Admission in Kyrgyzstan?",
-            "info": "<b>Below are the few elligibility criteria one should perfectly fit to study MBBS in Kyrgyzstan:</b>",
+            "info": "Below are the few elligibility criteria one should perfectly fit to study MBBS in Kyrgyzstan:",
             //"img": 'https://www.selectyouruniversity.com/images/eligibility-criteria-to-study-mbbs-in-kyrgyzstan.jpg',
             "data": [
                 "It is compulsory that the applicant has completed 17 years of age to be eligible for applying to the course.",
@@ -87,7 +88,7 @@ export const mbbsinkyrgyzstan = {
         {
             type: 'step-list',
             title: 'How to Apply for MBBS in Kyrgyzstan?',
-            info: '<b>Here are some easy steps to help you with the application procedure to study MBBS in Kyrgyzstan. Its our job to assist you at every step:</b>',
+            info: 'Here are some easy steps to help you with the application procedure to study MBBS in Kyrgyzstan. Its our job to assist you at every step:',
             data: [
                 "<p><b>Step 1:</b> The admission process of every medical college in Kyrgyzstan starts with the online application available at their respective official sites. </p>",
                 "<p><b>Step 2:</b>  Submission of the documents is the next step and those specifications of the documents are mentioned later.</p>",
@@ -100,7 +101,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "list-bollet",
             "title": "What are the Documents Required to Study MBBS in Kyrgyzstan?",
-            "info": "<b>Students need to have the notarized copy of the documents mentioned below for applying to MBBS in Kyrgyzstan:</b>",
+            "info": "Students need to have the notarized copy of the documents mentioned below for applying to MBBS in Kyrgyzstan:",
             //"img": 'https://www.selectyouruniversity.com/images/ukraine/document-required-mbbs-admission-in-ukraine.jpg',
             "data": [
                 "Valid passport with a blank page",
@@ -117,7 +118,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "list-bollet",
             "title": "what are the Requirements for Kyrgyzstan Students Visa?",
-            "info": "<b>The student visa is a must for every Indian student to study abroad:</b>",
+            "info": "The student visa is a must for every Indian student to study abroad:",
             "img": '',
             "data": [
                 "Kyrgyzstan student visa is necessary to take admission for MBBS course in any medical universities.",
@@ -128,7 +129,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "list-bollet",
             "title": "Scholarships For Studying MBBS in Kyrgyzstan",
-            "info": "<b>To apply for scholarships and for more information students need to contact the university:</b>",
+            "info": "To apply for scholarships and for more information students need to contact the university:",
             // "img": '',
             "data": [
                 "Kyrgyzstan medical universities offer scholarships to Indian students. Scholarships awarded to candidates on the basis of merit & academic performance.",
@@ -157,9 +158,14 @@ export const mbbsinkyrgyzstan = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'MBBS in Kyrgyzstan 2023 - Top Colleges in Kyrgyzstan'
+        },
+
+        {
             "type": "table",
             "title": "MBBS Fees in Kyrgyzstan 2023",
-            "info": "<b>Following are the fee structures for Kyrgyzstan’s top NMC approved medical universities:</b>",
+            "info": "Following are the fee structures for Kyrgyzstan’s top NMC approved medical universities:",
             "col": [
                 "Name of the University",
                 "Tuition Fees/Year",
@@ -167,37 +173,37 @@ export const mbbsinkyrgyzstan = {
             ],
             "row": [
                 {
-                    "Name of the University": "Kyrgyz Russian Slavic University",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kyrgyz-russian-slavic-university/ target=_blank><b>Kyrgyz Russian Slavic University</b></a>",
                     "Tuition Fees/Year": "2900 USD",
                     "Hostel Fees/Year": "600 USD"
                 },
                 {
-                    "Name of the University": "Asian Medical Institute",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/asian-medical-institute/ target=_blank><b>Asian Medical Institute</b></a>",
                     "Tuition Fees/Year": "3620 USD",
                     "Hostel Fees/Year": "500 USD"
                 },
                 {
-                    "Name of the University": "International School of Medicine",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/international-higher-school-of-medicine/ target=_blank><b>International School of Medicine</b></a>",
                     "Tuition Fees/Year": "4500 USD",
                     "Hostel Fees/Year": "650 USD"
                 },
                 {
-                    "Name of the University": "Jalal-Abad State Medical University",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/jalalabad-state-university/ target=_blank><b>Jalal-Abad State Medical University</b></a>",
                     "Tuition Fees/Year": "2950 USD",
                     "Hostel Fees/Year": "600 USD"
                 },
                 {
-                    "Name of the University": "Kyrgyz State Medical Academy",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kyrgyz-state-medical-academy/ target=_blank><b>Kyrgyz State Medical Academy</b></a>",
                     "Tuition Fees/Year": "4500 USD",
                     "Hostel Fees/Year": "600 USD"
                 },
                 {
-                    "Name of the University": "Osh State Medical University",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/osh-state-university/ target=_blank><b>Osh State Medical University</b></a>",
                     "Tuition Fees/Year": "3200 USD",
                     "Hostel Fees/Year": "400 USD"
                 },
                 {
-                    "Name of the University": "Kyrgyz National University",
+                    "Name of the University": "<a href=https://www.selectyouruniversity.com/university/kyrgyz-national-university/ target=_blank><b>Kyrgyz National University</b></a>",
                     "Tuition Fees/Year": "3200 USD",
                     "Hostel Fees/Year": "300 USD"
                 }
@@ -222,7 +228,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>1.  MBBS at Kyrgyz Russian Slavic University, Kyrgyzstan</b>",
+            "info": "1.  MBBS at Kyrgyz Russian Slavic University, Kyrgyzstan",
             "col": [
             ],
             "row": [
@@ -236,7 +242,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>2.  MBBS at Osh State Medical University, Kyrgyzstan</b>",
+            "info": "2.  MBBS at Osh State Medical University, Kyrgyzstan",
             "col": [
             ],
             "row": [
@@ -250,7 +256,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>3.  MBBS at Kyrgyz State Medical Academy, Kyrgyzstan</b>",
+            "info": "3.  MBBS at Kyrgyz State Medical Academy, Kyrgyzstan",
             "col": [
             ],
             "row": [
@@ -264,7 +270,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4.  MBBS at International School of Medicine, Kyrgyzstan</b>",
+            "info": "4.  MBBS at International School of Medicine, Kyrgyzstan",
             "col": [
             ],
             "row": [
@@ -278,7 +284,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>5.  MBBS at Asian Medical Institute, Kyrgyzstan</b>",
+            "info": "5.  MBBS at Asian Medical Institute, Kyrgyzstan",
             "col": [
             ],
             "row": [
@@ -292,7 +298,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>6. MBBS at Jalalabad State Medical University, Kyrgyzstan</b>",
+            "info": "6. MBBS at Jalalabad State Medical University, Kyrgyzstan",
             "col": [
             ],
             "row": [
@@ -308,7 +314,7 @@ export const mbbsinkyrgyzstan = {
             title: '',
             info: '',
             //img: '',
-            data: '<p style="margin-top:5px"><b style="color: red; "><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/top-medical-universities-in-kyrgyzstan.php" target="_blank">List of Top 6 NMC Recognized Medical Universities in Kyrgyzstan</a></p> '
+            data: '<p style="margin-top:5px"><b style="color: red; "><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/top-medical-universities-in-kyrgyzstan/" target="_blank">List of Top 6 NMC Recognized Medical Universities in Kyrgyzstan</a></p> '
         },
         {
             type: "meta",
@@ -331,10 +337,16 @@ export const mbbsinkyrgyzstan = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Kyrgyzstan 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "What are the Courses offered by Kyrgyzstan Medical Universities?",
-            "info": "<b>Kyrgyzstan medical universities offers various faculties listed below:</b>",
+            "info": "Kyrgyzstan medical universities offers various faculties listed below:",
             // "img": '',
             "data": [
                 "General Medicine",
@@ -346,7 +358,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration in Kyrgyzstan",
-            "info": "<b>The total duration of MBBS course in Kyrgyzstan includes the college period and internship:</b>",
+            "info": "The total duration of MBBS course in Kyrgyzstan includes the college period and internship:",
             // "img": '',
             "data": [
                 "The duration of MBBS course in Kyrgyzstan is of 6 years.",
@@ -358,7 +370,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "table",
             "title": "What is the MBBS Syllabus in Kyrgzystan?",
-            "info": "<b>Following are the subjects which MBBS students can study while completing their medical degree in Kyrgyzstan:</b>",
+            "info": "Following are the subjects which MBBS students can study while completing their medical degree in Kyrgyzstan:",
             "col": [
                 "1st Year",
                 "2nd Year"
@@ -401,7 +413,7 @@ export const mbbsinkyrgyzstan = {
         {
             "type": "table",
             "title": "What is the MBBS Syllabus in Kyrgzystan?",
-            "info": "<b>Following are the subjects which MBBS students can study while completing their medical degree in Kyrgyzstan:</b>",
+            "info": "Following are the subjects which MBBS students can study while completing their medical degree in Kyrgyzstan:",
             "col": [
                 "3rd Year",
                 "4th - 6th Year"
@@ -460,10 +472,16 @@ export const mbbsinkyrgyzstan = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Kyrgyzstan 2023 - Career Options'
+        },
+        
         {
             "type": "list-bollet",
             "title": "What are the Career Opportunities after Completing MBBS Degree from Kyrgyzstan?",
-            "info": "<b>Students can opt from several career options after their MBBS course in Kyrgyzstan:</b>",
+            "info": "Students can opt from several career options after their MBBS course in Kyrgyzstan:",
             // "img": '',
             "data": [
                 "After graduating from the Kyrgyzstan medical universities, students can choose to study in a particular medical domain or specialization.",
@@ -495,6 +513,13 @@ export const mbbsinkyrgyzstan = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Kyrgyzstan 2023 - FAQs'
+        },
+
+
         {
             "type": "question-list",
             "title": "MBBS in Kyrgyzstan - Important FAQs",

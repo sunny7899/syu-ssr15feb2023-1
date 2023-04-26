@@ -5,6 +5,7 @@ export const mbaincanada = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '1 or 2 Years',
     "url": "mba-in-canada",
     "info": [
         {
@@ -63,7 +64,7 @@ export const mbaincanada = {
         {
             type: 'step-list',
             title: '',
-            info: '<b>Following are the basic steps required for applying MBA in Canada:</b>',
+            info: 'Following are the basic steps required for applying MBA in Canada:',
             data: [
                 " <b>Step 1:</b> Select colleges and courses.",
 
@@ -194,6 +195,12 @@ export const mbaincanada = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Canada 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Course Duration of MBA in Canada",
@@ -238,7 +245,7 @@ export const mbaincanada = {
         {
             type: 'text',
             title: 'Types of MBA Program in Canada Offered',
-            info: '<b>Following are the programs offered for studying MBA in Canada:</b>',
+            info: 'Following are the programs offered for studying MBA in Canada:',
             data: '<p><b>1 Regular MBA</b><br> The period of the MBA program is 2 years. The course includes the study of business fundamentals such as accounting management, strategy analysis, management statistics and data analysis.</p>'
         },
         {
@@ -272,10 +279,16 @@ export const mbaincanada = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Canada 2023 - Top Colleges in Canada'
+        },
+
         {
             "type": "table",
             "title": "Top MBA Universities in Canada: Fee Structure (2022-23)",
-            "info": "<b>Following is the low fee structure of top MBA Universities in Canada:</b>",
+            "info": "Following is the low fee structure of top MBA Universities in Canada:",
             "col": [
                 "Name of the Institute/University",
                 "Fees Per Year"
@@ -342,6 +355,12 @@ export const mbaincanada = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Canada 2023 - Career Options'
+        },
+
         {
             type: 'text',
             title: "Career Opportunities for Studying MBA in Canada",
@@ -387,10 +406,16 @@ export const mbaincanada = {
     
     
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in Canada 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBA in Canada - FAQ",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Is the MBA degree from Canada accepted in India?",

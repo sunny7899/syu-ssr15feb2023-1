@@ -19,7 +19,7 @@ export const universityofstrathclyde = {
         {
             "type": "table-title",
             "title": "Quick Overview of University of Strathclyde",
-            "info": "<b>Check out the important highlights to take admission to the University of Strathclyde:</b>",
+            "info": "Check out the important highlights to take admission to the University of Strathclyde:",
             "col": [],
             "row": [
                 ["<b>Institute Type</b>", "Public"],
@@ -36,7 +36,7 @@ export const universityofstrathclyde = {
         {
             "type": "list-bollet",
             "title": "Why Should I Study at the University of Strathclyde?",
-            "info": "<b>There are loads of reasons to choose the University of Strathclyde for higher studies:</b>",
+            "info": "There are loads of reasons to choose the University of Strathclyde for higher studies:",
             "data": [
                 "The University of Strathclyde has a variety of places to eat all over campus.",
                 "The college offers various scholarships and funding opportunities to support students during their studies.",
@@ -52,7 +52,7 @@ export const universityofstrathclyde = {
         {
             "type": "table",
             "title": "University of Strathclyde Ranking 2022",
-            "info": "<b>Here is the world and country ranking of the University of Strathclyde:</b>",
+            "info": "Here is the world and country ranking of the University of Strathclyde:",
             "col": [
                 "World ",
                 "Country "
@@ -67,7 +67,7 @@ export const universityofstrathclyde = {
         {
             "type": "table-title",
             "title": "Recognition & Accreditation",
-            "info": "<b>The University of Strathclyde is officially affiliated by various organisations, have a look at all:</b>",
+            "info": "The University of Strathclyde is officially affiliated by various organisations, have a look at all:",
             "col": [],
             "row": [
                 ["ACU", "EQUIS"],
@@ -79,7 +79,7 @@ export const universityofstrathclyde = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at University of Strathclyde",
-            "info": "<b>The institute provides modern and dedicated facilities for the assistance of students:</b>",
+            "info": "The institute provides modern and dedicated facilities for the assistance of students:",
             "data": [
                 "Classrooms",
                 "Laboratories",
@@ -93,7 +93,7 @@ export const universityofstrathclyde = {
         {
             "type": "table",
             "title": "Cost of Living in Glasgow, Scotland",
-            "info": "<b>Get to know about how much you need to spend during pursuing studies at the University of Strathclyde:</b>",
+            "info": "Get to know about how much you need to spend during pursuing studies at the University of Strathclyde:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -173,13 +173,12 @@ export const universityofstrathclyde = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-strathclyde" }
             ]
         }
-
-
-
-
-
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University of Strathclyde, UK - courses & Fees'
+        },
         {
             "type": "table",
             "title": "University of Strathclyde - Fee Structure & Course Duration",
@@ -607,9 +606,13 @@ export const universityofstrathclyde = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Strathclyde, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria to get Admission in University of Strathclyde",
-            "info": "<b>Fit into basic criteria to enroll in all undergraduate and postgraduate programs in the UK:</b>",
+            "info": "Fit into basic criteria to enroll in all undergraduate and postgraduate programs in the UK:",
             "data": [
                 "Valid passport",
                 "Higher secondary education",
@@ -621,7 +624,7 @@ export const universityofstrathclyde = {
         {
             "type": "step-list",
             "title": "Step by Step Admission Process",
-            "info": "<b>Fit into basic criteria to enroll in all undergraduate and postgraduate programs in the UK:</b>",
+            "info": "Fit into basic criteria to enroll in all undergraduate and postgraduate programs in the UK:",
             "data": [
                 "<b>Step 1:</b> Fill the application form",
                 "<b>Step 2:</b> Submit documents by mail",
@@ -636,7 +639,7 @@ export const universityofstrathclyde = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Individuals must prepare all essential documents to study in UK at the University of Strathclyde:</b>",
+            "info": "Individuals must prepare all essential documents to study in UK at the University of Strathclyde:",
             "data": [
                 "Application form",
                 "10 th mark sheet",
@@ -678,6 +681,10 @@ export const universityofstrathclyde = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Strathclyde, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Strathclyde, UK - Reviews" },
@@ -697,6 +704,10 @@ export const universityofstrathclyde = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'University of Strathclyde, UK - Placement'
+        },
+        {
             "type": "list-bollet",
             "title": "Placement",
             "info": "",
@@ -709,7 +720,7 @@ export const universityofstrathclyde = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Below is the placement report of the University of Strathclyde:</b>",
+            "info": "Below is the placement report of the University of Strathclyde:",
             "col": [
                 "Programme",
                 "Average Salary",
@@ -769,6 +780,10 @@ export const universityofstrathclyde = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Strathclyde, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Strathclyde, UK - Gallery" },
@@ -787,6 +802,10 @@ export const universityofstrathclyde = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'University of Strathclyde, UK - Scholarship'
+        },
         {
             "type": "table",
             "title": "Scholarship",
@@ -890,6 +909,10 @@ export const universityofstrathclyde = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Strathclyde, UK - Faculty'
+        },
+        {
             "type": "text",
             "title": "Faculties & Departments",
             "data": "<p><b>The students acquire high-quality education through a diverse range of fields at the University of Strathclyde:</b></p>"
@@ -972,6 +995,10 @@ export const universityofstrathclyde = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Strathclyde, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Strathclyde, UK - News & Articles" },
@@ -991,9 +1018,13 @@ export const universityofstrathclyde = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Strathclyde, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>At this place every student will enjoy living in a home away from home along with the latest facilities:</b>",
+            "info": "At this place every student will enjoy living in a home away from home along with the latest facilities:",
             "data": [
                 "The college provides a secure and furnished residence hall for the students.",
                 "The accommodation places offer all required modern amenities at the convenience of students.",
@@ -1004,7 +1035,7 @@ export const universityofstrathclyde = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Here is the list of all residence halls-</b>",
+            "info": "Here is the list of all residence halls-",
             "col": [],
             "row": [
                 ["Chancellors Hall", "James Young Hall"],
@@ -1034,6 +1065,10 @@ export const universityofstrathclyde = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'University of Strathclyde, UK - FAQ'
+        },
         {
             "type": "question-list",
             "title": "FAQs for University of Strathclyde",

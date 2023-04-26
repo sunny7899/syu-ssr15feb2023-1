@@ -22,7 +22,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "table-title",
             "title": "Yerevan Haybusak University - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick highlights about Yerevan Haybusak University:</b>",
+            "info": "Given below is the table for quick highlights about Yerevan Haybusak University:",
             "col": [
             ],
             "row": [
@@ -43,7 +43,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Yerevan Haybusak University?",
-            "info": "<b>Below are some of the benefits of studying MBBS at Yerevan Haybusak University:</b>",
+            "info": "Below are some of the benefits of studying MBBS at Yerevan Haybusak University:",
             "img": '',
             "data": [
                 "The university follows no donation policy for the applicants.",
@@ -61,7 +61,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "table",
             "title": "Yerevan Haybusak University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Yerevan Haybusak University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Yerevan Haybusak University:",
             "col": [
                 "World",
                 "Country",
@@ -79,7 +79,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The medicine degrees of Yerevan Haybusak University have many recognitions. The university has its primary recognition of the Government of Armenia. Further years added the below mentioned accreditation certificates of the university.</b>",
+            "info": "The medicine degrees of Yerevan Haybusak University have many recognitions. The university has its primary recognition of the Government of Armenia. Further years added the below mentioned accreditation certificates of the university.",
             "img": '',
             "data": [
                 "World Health Organization (WHO)",
@@ -94,7 +94,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "table",
             "title": "Yerevan Haybusak University: FMGE Performance 2021",
-            "info": "<b>Find the passing percent and appeared students in year 2021 for Yerevan Haybusak University is here in the table below:</b>",
+            "info": "Find the passing percent and appeared students in year 2021 for Yerevan Haybusak University is here in the table below:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -115,7 +115,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Yerevan",
-            "info": "<b>The cost of living at Yerevan city is as follows:</b>",
+            "info": "The cost of living at Yerevan city is as follows:",
             "col": [
                 "Activity",
                 "Amount in RS",
@@ -149,7 +149,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "list-bollet",
             "title": "About Yerevan City",
-            "info": "<b>Interesting facts about the Yerevan city are as follows:-</b>",
+            "info": "Interesting facts about the Yerevan city are as follows:-",
             // "img": 'https://www.selectyouruniversity.com/images/armenia-universities/yerevan-haybusak-university-city.jpg',
             "data": [
                 "Yerevan city is the capital city of Armenia.",
@@ -188,9 +188,13 @@ export const yerevanhaybusakuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Yerevan Haybusak University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Yerevan Haybusak University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Yerevan Haybusak University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -258,7 +262,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Yerevan Haybusak University",
-            "info": "<b>Yerevan Haybusak University has following faculties:</b>",
+            "info": "Yerevan Haybusak University has following faculties:",
             "data": [
                 "Medicine",
                 "International relations",
@@ -272,7 +276,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "text",
             "title": "Yerevan Haybusak University - MBBS Syllabus",
-            "data": '<p><b>The complete syllabus for studying MBBS at Yerevan Haybusak University is as follows:</b></p>'
+            "data": '<p>The complete syllabus for studying MBBS at Yerevan Haybusak University is as follows:</p>'
         },
 
         {
@@ -364,7 +368,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "list-bollet",
             "title": "Yerevan Haybusak University - MBBS Duration",
-            "info": "<b>The duration of MBBS course at Yerevan Haybusak University is mentioned below:</b>",
+            "info": "The duration of MBBS course at Yerevan Haybusak University is mentioned below:",
             "data": [
                 "The duration of MBBS course at Yerevan Haybusak University is 6 years, out of which 1 year is internship.",
                 "The medium of instruction is English for studying MBBS at this university.",
@@ -391,9 +395,13 @@ export const yerevanhaybusakuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Yerevan Haybusak University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Yerevan Haybusak University is as follows:",
             "data": [
                 "Students must have more than 50% marks in 12th standard.",
                 "Students must have qualified for the NEET-UG examination.",
@@ -404,7 +412,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following is the admission process for applying to MBBS course at Yerevan Haybusak University:</b>",
+            "info": "Following is the admission process for applying to MBBS course at Yerevan Haybusak University:",
             "data": [
                 "<b>Step 1:</b> Open the application form.",
                 "<b>Step 2:</b> Fill in the application form accurately.",
@@ -416,7 +424,7 @@ export const yerevanhaybusakuniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Yerevan Haybusak University:</b>",
+            "info": "Following documents are required at the time of admission to Yerevan Haybusak University:",
             "data": [
                 "Application form of the university (Downloaded).",
                 "Scanned printouts or photocopies of mark sheets and certificates of students of class 10th and 12th from a recognized board.",
@@ -448,6 +456,10 @@ export const yerevanhaybusakuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yerevan Haybusak University, Armenia - Reviews" },
@@ -466,6 +478,10 @@ export const yerevanhaybusakuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -499,6 +515,10 @@ export const yerevanhaybusakuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yerevan Haybusak University, Armenia - Gallery" },
@@ -518,9 +538,13 @@ export const yerevanhaybusakuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships that are provided at Yerevan Haybusak University are as follows:</b>",
+            "info": "The scholarships that are provided at Yerevan Haybusak University are as follows:",
             "data": [
                 "Education Future International Scholarship - USA & Non-USA 2022",
                 "HEST 2023- Higher Education Scholarship Test For Indian Students",
@@ -549,6 +573,10 @@ export const yerevanhaybusakuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yerevan Haybusak University, Armenia - Faculty" },
@@ -567,6 +595,10 @@ export const yerevanhaybusakuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -587,9 +619,13 @@ export const yerevanhaybusakuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation & Hostel",
-            "info": "<b>Following are the hostel facilities at Yerevan Haybusak University:</b>",
+            "info": "Following are the hostel facilities at Yerevan Haybusak University:",
             "data": [
                 "The university provides students from abroad with facilities for accommodation. The university has comfortable and furnished hostels for students.",
                 "From the main campus of Yerevan Haybusak University, these hostels are located at a distance of 4-5km.",
@@ -630,9 +666,13 @@ export const yerevanhaybusakuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Yerevan Haybusak University, Armenia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Yerevan Haybusak University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. With which of the universities the Yerevan Haybusak University has affiliations?",

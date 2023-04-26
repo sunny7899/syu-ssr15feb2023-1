@@ -7,7 +7,7 @@ import { FooterModule } from '../footer/footer.module';
 import { ChatModule } from '../chat/chat.module';
 import { AccordionModule } from 'primeng/accordion';
 import { AllNewsComponent } from './all-news.component';
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [AllNewsComponent],
@@ -17,7 +17,8 @@ import { AllNewsComponent } from './all-news.component';
     HeaderInnerModule,
     FooterModule,
     AccordionModule,
-    ChatModule
+    ChatModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class AllNewsModule { }

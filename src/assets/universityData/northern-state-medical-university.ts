@@ -22,7 +22,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Northern State Medical University: Quick Highlights",
-            "info": "<b>Refer the table below for quick overview about Northern State Medical University:</b>",
+            "info": "Refer the table below for quick overview about Northern State Medical University:",
             "col": [
             ],
             "row": [
@@ -41,7 +41,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Northern State Medical University?",
-            "info": "<b>Following are the advantages of studying MBBS in Northern State Medical University:</b>",
+            "info": "Following are the advantages of studying MBBS in Northern State Medical University:",
             "img": '',
             "data": [
                 "Northern State Medical University is one of the top-ranked government universities.",
@@ -56,7 +56,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Northern State Medical University has the following accreditation and recognition:</b>",
+            "info": "Northern State Medical University has the following accreditation and recognition:",
             "img": '',
             "data": [
                 "National Medical Commission (NMC)",
@@ -68,7 +68,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Northern State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Northern State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Northern State Medical University:",
             "col": [
                 "World	",
                 "Country",
@@ -86,7 +86,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Arkhangelsk",
-            "info": "<b>The expenses of living in Russia are not much different than living in India:</b><p>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.</p>",
+            "info": "The expenses of living in Russia are not much different than living in India:</b><p>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.",
             "col": [
                 "Particulars",
                 "Approx Range in PY6",
@@ -134,7 +134,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Arkhangelsk",
-            "info": "<p>The city is located in the north-west region of Russia. It counts a total distance of 1258 km from Moscow to reach Arkhangelsk. Due to the geographic location in the direction of the north, the place mostly stays cooler throughout the year.</p><b>The city has a lot of tourism and has following places regarded as the center of attraction:</b>",
+            "info": "The city is located in the north-west region of Russia. It counts a total distance of 1258 km from Moscow to reach Arkhangelsk. Due to the geographic location in the direction of the north, the place mostly stays cooler throughout the year.</p><b>The city has a lot of tourism and has following places regarded as the center of attraction:",
             "img": '',
             "data": [
                 "Museum Small Karelians",
@@ -168,9 +168,14 @@ export const northernstatemedicaluniversity = {
 
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Northern State Medical University, Russia - courses & Fees"
+
+        },
+        {
             "type": "text",
             "title": "MBBS Syllabus - Northern State Medical University",
-            "info": '<p><b>The syllabus for MBBS in Russia is shown in the table below:</b></p>'
+            "info": 'The syllabus for MBBS in Russia is shown in the table below:'
         },
 
         {
@@ -269,7 +274,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered by Northern State Medical University",
-            "info": "<b>Apart from the MBBS course, there are following courses taught in this university:</b>",
+            "info": "Apart from the MBBS course, there are following courses taught in this university:",
             "data": [
                 "General Medicine",
                 "Pediatric",
@@ -283,7 +288,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Tbilisi Open Teaching University - MBBS Fee Structure 2022",
-            "info": "<b>Tbilisi Open Teaching University offers world-class medical education at affordable prices. Here, we have given the detailed fee structure of MBBS course for the annual year:</b>",
+            "info": "Tbilisi Open Teaching University offers world-class medical education at affordable prices. Here, we have given the detailed fee structure of MBBS course for the annual year:",
             "col": [
                 "Particular",
                 "First Year",
@@ -373,9 +378,14 @@ export const northernstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Northern State Medical University, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS:",
             "data": [
                 "You are at least 17 and maximum 25 years old on or before 31st December of the admission year.",
                 "You have passed class 12th with PCB and English subjects from a board recognized by the authorities in India.",
@@ -386,7 +396,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Students need to follow these simple steps to take admission in Russia for MBBS:</b><p>Following steps are involved in the process of admission to study MBBS in Northern State Medical University</p>",
+            "info": "Students need to follow these simple steps to take admission in Russia for MBBS:</b><p>Following steps are involved in the process of admission to study MBBS in Northern State Medical University",
             "data": [
                 "<b>Step 1:</b> The student should submit his/her admission form along with a scan copy of 10th & 12th standard certificate and mark sheet to their official website.",
                 "<b>Step 2:</b> Within two weeks the university will issue an admission letter confirming the reservation of the seat.",
@@ -398,7 +408,7 @@ export const northernstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following are the important documents which must be submitted during the admission procedure:</b>",
+            "info": "Following are the important documents which must be submitted during the admission procedure:",
             "data": [
                 "Scanned copy of the filled Application Form",
                 "Scanned copy of passing certificate and mark sheet of 12th",
@@ -448,6 +458,11 @@ export const northernstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Northern State Medical University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Northern State Medical University, Russia - Reviews" },
@@ -466,6 +481,11 @@ export const northernstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Northern State Medical University, Russia - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -496,6 +516,11 @@ export const northernstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Northern State Medical University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Northern State Medical University, Russia - Gallery" },
@@ -515,9 +540,14 @@ export const northernstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Northern State Medical University, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships provided at Northern State Medical University are as follows:</b>",
+            "info": "The scholarships provided at Northern State Medical University are as follows:",
             "data": [
                 "Saivian Eric Dalius Grant",
                 "Jared J. Davis Grant",
@@ -545,6 +575,11 @@ export const northernstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Northern State Medical University, Russia - Faculty"
+
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -603,6 +638,11 @@ export const northernstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Northern State Medical University, Russia - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Northern State Medical University, Russia - News & Articles" },
@@ -622,9 +662,14 @@ export const northernstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Northern State Medical University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Food",
-            "info": "<b>Northern State Medical University provides the facilities of accommodation and mess for students:</b>",
+            "info": "Northern State Medical University provides the facilities of accommodation and mess for students:",
             "data": [
                 "Students at Northern State Medical University university are provided with hostels on sharing basis rooms.",
                 "All the important amenities like a pillow, blanket, bedsheet, beds, tables and chairs are provided.",
@@ -668,9 +713,14 @@ export const northernstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Northern State Medical University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Northern State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is it worth studying MBBS at Northern State Medical University?",

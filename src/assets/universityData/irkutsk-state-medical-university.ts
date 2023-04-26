@@ -19,7 +19,7 @@ export const irkutskstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Irkutsk State Medical University - Quick Highlights",
-            "info": "<b>Refer the table below for quick facts about Irkutsk State Medical University:</b>",
+            "info": "Refer the table below for quick facts about Irkutsk State Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>NEET Examination</b>", "Yes, Required"],
@@ -33,7 +33,7 @@ export const irkutskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Irkutsk State Medical University?',
-            info: '<b>Following are the advantages of studying MBBS at Irkutsk State Medical University:</b>',
+            info: 'Following are the advantages of studying MBBS at Irkutsk State Medical University:',
             data: [
                 "Irkutsk State Medical University offers a cost-effective medical education.",
                 "The Irkutsk State Medical University is having International cooperation with many nations.",
@@ -49,7 +49,7 @@ export const irkutskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Following are the accreditation and recognition of Irkutsk State Medical University:</b>',
+            info: 'Following are the accreditation and recognition of Irkutsk State Medical University:',
             data: [
                 "World Health Organization (WHO)",
                 "The National Medical Commission (NMC)"
@@ -58,7 +58,7 @@ export const irkutskstatemedicaluniversity = {
         {
             "type": "table",
             title: 'Irkutsk State Medical University - FMGE Performance 2020',
-            info: '<b>The details about FMGE performance for Irkutsk State Medical University of year 2020 with passing percent is as follows:</b>',
+            info: 'The details about FMGE performance for Irkutsk State Medical University of year 2020 with passing percent is as follows:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -77,7 +77,7 @@ export const irkutskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Irkutsk State Medical University - Ranking 2022",
-            "info": "<b>According to uni ranking, The ranking of Irkutsk State Medical University is given below:</b>",
+            "info": "According to uni ranking, The ranking of Irkutsk State Medical University is given below:",
             "col": [
                 "Country",
                 "World",
@@ -93,8 +93,8 @@ export const irkutskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Irkutsk",
-            "info": "<b>Following are the living cost of Irkutsk city:</b>",
-            "data": "The table below shows the average and approx cost of living in Irkutsk for a month but it may vary according to Individual’s living",
+            "info": "Following are the living cost of Irkutsk city:</b>",
+            "data": "The table below shows the average and approx cost of living in Irkutsk for a month but it may vary according to Individual’s li",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -129,7 +129,7 @@ export const irkutskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>The best places to visit near the city are -</b>',
+            info: 'The best places to visit near the city are -',
             data: [
                 "Lake Bilal",
                 "Cathedral of the Kazan Icon of the Mother of God",
@@ -158,9 +158,14 @@ export const irkutskstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Irkutsk State Medical University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Irkutsk State Medical University - MBBS Fee Structure 2022",
-            "info": "<b>The Irkutsk State Medical University is providing an affordable fee structure to all students:</b>",
+            "info": "The Irkutsk State Medical University is providing an affordable fee structure to all students:",
             "col": [
                 "Particulars",
                 "Annual Fee"
@@ -188,7 +193,7 @@ export const irkutskstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Irkutsk State Medical University",
-            "info": "<b>The Irkutsk State Medical University has faculties given below:</b>",
+            "info": "The Irkutsk State Medical University has faculties given below:",
             "data": [
                 "Medicine",
                 "Pediatrics",
@@ -201,13 +206,13 @@ export const irkutskstatemedicaluniversity = {
         {
             type: 'text',
             title: 'Irkutsk State Medical University - MBBS Course Duration',
-            info: '<b>The MBBS course duration in Russia is given below:</b>',
+            info: 'The MBBS course duration in Russia is given below:',
             data: "<p>The duration of a Medical degree in Russia is <b>6 year</b> which includes 5 years of MBBS course and 1 year of internship.</p>"
         },
         {
             "type": "table",
             "title": "Irkutsk State Medical University - MBBS Syllabus",
-            "info": "<b>The syllabus for MBBS in Russia is shown in the table below:</b>",
+            "info": "The syllabus for MBBS in Russia is shown in the table below:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -312,9 +317,14 @@ export const irkutskstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Irkutsk State Medical University, Russia - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS:",
             "data": [
                 "The Candidates must be 17 years above or take admission before 31st December to do MBBS in Russia.",
                 "Every candidate must score more than 50% in HSC exam or in similar courses with Physics, Chemistry, Biology and English as compulsory subjects can apply for the admission process for MBBS in Russia.",
@@ -324,7 +334,7 @@ export const irkutskstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following are the steps to take admission for MBBS in Russia:</b>',
+            info: 'Following are the steps to take admission for MBBS in Russia:',
             data: [
                 "Step 1: Fill up the online admission forms of Irkutsk State Medical University.",
                 "Step 2: Applicants must submit all-important academic documents.",
@@ -336,7 +346,7 @@ export const irkutskstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students need to have the following documents for the admission process:</b>",
+            "info": "Students need to have the following documents for the admission process:",
             "data": [
                 "SSC mark sheet",
                 "HSC mark sheet",
@@ -352,7 +362,7 @@ export const irkutskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Irkutsk State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Irkutsk State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Irkutsk State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -392,6 +402,11 @@ export const irkutskstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Irkutsk State Medical University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Irkutsk State Medical University, Russia - Reviews" },
@@ -410,6 +425,11 @@ export const irkutskstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Irkutsk State Medical University, Russia - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -440,6 +460,11 @@ export const irkutskstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Irkutsk State Medical University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Irkutsk State Medical University, Russia - Gallery" },
@@ -459,9 +484,14 @@ export const irkutskstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Irkutsk State Medical University, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships provided at Irkutsk State Medical University are as follows:.</b>",
+            "info": "The scholarships provided at Irkutsk State Medical University are as follows:.",
             "data": [
                 "Saivian Eric Dalius Scholarship",
                 "Rizwan Ahmed CPA Grant",
@@ -489,6 +519,11 @@ export const irkutskstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Irkutsk State Medical University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Irkutsk State Medical University, Russia - Faculty" },
@@ -507,6 +542,11 @@ export const irkutskstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Irkutsk State Medical University, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -527,9 +567,14 @@ export const irkutskstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Irkutsk State Medical University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Food Facility",
-            "info": "<b>Irkutsk State Medical University providing the students best hostel and accommodation facilities:</b>",
+            "info": "Irkutsk State Medical University providing the students best hostel and accommodation facilities:",
             "data": [
                 "Fully furnished and aesthetically designed hostel facilities on the university campus on a sharing basis.",
                 "The International Students are provided beds on a sharing basis.",
@@ -560,50 +605,54 @@ export const irkutskstatemedicaluniversity = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Irkutsk State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. What is the local language in Irkutsk?",
-                    "ans": "Russian is the local language. The people used to speak English for common communication."
-                },
-                {
-                    "ques": "Q. What is the duration of the MBBS course at Irkutsk State Medical University?",
-                    "ans": "MBBS course at Irkutsk State Medical University lasts for a period of 6 years."
-                },
-                {
-                    "ques": "Q. Is the Irkutsk State Medical University a public university?",
-                    "ans": "Irkutsk State Medical University is a public university affiliated to the Ministry of Science and Education in Russia."
-                },
-                {
-                    "ques": "Q. What is the language of instruction at Irkutsk State Medical University?",
-                    "ans": "English is a commonly taught language at Irkutsk State Medical University."
-                },
-                {
-                    "ques": "Q. How many Indian students are there at Irkutsk State Medical University?",
-                    "ans": "Around 30-40 students are studying at Irkutsk State Medical University."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Irkutsk State Medical University, Russia - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Irkutsk State Medical University, Russia - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/irkutsk-state-medical-university/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Irkutsk State Medical University, Russia - FAQ"
+            },
+            {
+                "type": "question-list",
+                "title": "Irkutsk State Medical University - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. What is the local language in Irkutsk?",
+                        "ans": "Russian is the local language. The people used to speak English for common communication."
+                    },
+                    {
+                        "ques": "Q. What is the duration of the MBBS course at Irkutsk State Medical University?",
+                        "ans": "MBBS course at Irkutsk State Medical University lasts for a period of 6 years."
+                    },
+                    {
+                        "ques": "Q. Is the Irkutsk State Medical University a public university?",
+                        "ans": "Irkutsk State Medical University is a public university affiliated to the Ministry of Science and Education in Russia."
+                    },
+                    {
+                        "ques": "Q. What is the language of instruction at Irkutsk State Medical University?",
+                        "ans": "English is a commonly taught language at Irkutsk State Medical University."
+                    },
+                    {
+                        "ques": "Q. How many Indian students are there at Irkutsk State Medical University?",
+                        "ans": "Around 30-40 students are studying at Irkutsk State Medical University."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Irkutsk State Medical University, Russia - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Irkutsk State Medical University, Russia - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/irkutsk-state-medical-university/faq" }
+                ]
+            }
+        ]
 }

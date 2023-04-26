@@ -50,28 +50,15 @@ export const bmscollegeofengineeringbangalore = {
       ]
     },
     {
-      "type": "text",
-      "title": "Facilities at BMSCE",
-      "img": "images/india-universities/Library.png",
-      "data": "<p class=text-center>Library</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Accommodation.png",
-      "data": "<p class=text-center>Accommodation</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Hostel.png",
-      "data": "<p class=text-center>Hostel</p>"
-    },
-    {
-      "type": "text",
-      "title": "",
-      "img": "images/india-universities/Sport.png",
-      "data": "<p class=text-center>Sport</p>"
+      type: 'list-bollet',
+      title: 'Facilities at BMSCE',
+      info: '',
+      data: [
+        "Library",
+        "Accommodation",
+        "Hostel",
+        "Sport"
+      ]
     },
     {
       "type": "text",
@@ -132,10 +119,12 @@ export const bmscollegeofengineeringbangalore = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/college/bms-college-of-engineering-bangalore" }
       ]
     }
-
-
   ],
   "coursesandfees": [
+    {
+      "type": "title",
+      "title": "BMS College of Engineering - courses & Fees"
+    },
     {
       "type": "table",
       "title": "BMS College of Engineering- Fee Structure",
@@ -161,18 +150,13 @@ export const bmscollegeofengineeringbangalore = {
           "Annual Fee": "Rs.88,240"
         }
 
-      ]
-    },
-    {
-      type: 'text',
-      title: '',
-      info: '',
-      data: '<p><b style="color: red;"><u>Note</u></b>: 1$ = Rs.70</p>',
+      ],
+      heading: '<p><b style="color: red;"><u>Note</u></b>: 1$ = Rs.70</p>',
     },
     {
       "type": "list-bollet",
       "title": "Department Offered at BMSCOE",
-      "info": "<b>1. Chemical Engineering</b>",
+      "info": "1. Chemical Engineering",
       "data": [
         "Department of Chemical Engineering at BMS institute was established in 1995 which offers the 4-year undergraduate degree with an intake capacity of 60 students.",
         "Along with UG programmes, the department also runs postgraduate and Ph.D. programmes.",
@@ -185,7 +169,7 @@ export const bmscollegeofengineeringbangalore = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>2. Civil Engineering</b>",
+      "info": "2. Civil Engineering",
       "data": [
         "Department of Civil Engineering at BMS institute was established in 1946 which offers the 4-year undergraduate degree with an intake capacity of 120 students.",
         "In the year of 2008, UG program of the department has awarded autonomous status by VTU to enhance knowledge of students.",
@@ -195,7 +179,7 @@ export const bmscollegeofengineeringbangalore = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>3. Computer Science and Engineering</b>",
+      "info": "3. Computer Science and Engineering",
       "data": [
         "Department of Computer Science and Engineering at BMS institute was established in 1983 which offers the 4-year undergraduate degree with an intake capacity of 120 students.",
         "The students of the departments are provided with entrepreneurship and research projects through placement cell.",
@@ -206,7 +190,7 @@ export const bmscollegeofengineeringbangalore = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>4. Electronics and Telecommunication Engineering</b>",
+      "info": "4. Electronics and Telecommunication Engineering",
       "data": [
         "Department of Electronics and Telecommunication Engineering at BMS institute was established in 1971 which offers the 4-year undergraduate degree with an intake capacity of 120 students.",
         "The department also offers postgraduate programmes in digital communication, electronics VLSI and embedded systems.",
@@ -217,7 +201,7 @@ export const bmscollegeofengineeringbangalore = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>5. Electrical and Electronics Engineering</b>",
+      "info": "5. Electrical and Electronics Engineering",
       "data": [
         "Department of Electrical and Electronics Engineering at BMS institute was established in 1946 which offers the 4-year undergraduate degree with an intake capacity of 60 students.",
         "The department has got autonomous status in the year 2008 and has been accredited by NBA.",
@@ -228,7 +212,7 @@ export const bmscollegeofengineeringbangalore = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>6. Electronics and Instrumentation Engineering</b>",
+      "info": "6. Electronics and Instrumentation Engineering",
       "data": [
         "Department of Electronics and Instrumentation Engineering at BMS institute was established in 1991 which offers the 4-year undergraduate degree with an intake capacity of 30 students.",
         "The academic curriculum includes the study of engineering tools like MATLAB, Xilinx, Multisim, simulation tools, PCB design labs, PLCs applications.",
@@ -239,7 +223,7 @@ export const bmscollegeofengineeringbangalore = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>7. Mechanical Engineering</b>",
+      "info": "7. Mechanical Engineering",
       "data": [
         "Department of Mechanical Engineering at BMS institute was established in 1946 which offers the 4-year undergraduate degree with an intake capacity of 120 students.",
         "The department also started the postgraduate program in machine design and engineering science in the year 1986.",
@@ -251,7 +235,7 @@ export const bmscollegeofengineeringbangalore = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>8. Other departments offered by BMSCE are:</b>",
+      "info": "8. Other departments offered by BMSCE are:",
       "data": [
         "Biotechnology",
         "Chemistry",
@@ -282,6 +266,10 @@ export const bmscollegeofengineeringbangalore = {
 
   ],
   "admission": [
+    {
+      "type": "title",
+      "title": "BMS College of Engineering - Admission 2023"
+    },
     {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
@@ -391,7 +379,35 @@ export const bmscollegeofengineeringbangalore = {
     }
 
   ],
-  "Gallery": [
+  "review": [ 
+    {
+    "type": "title",
+    "title": "BMS College of Engineering - Reviews"
+  },
+  {
+    type: "meta",
+    meta: [
+      { name: "title", content: "BMS College of Engineering - Reviews" },
+      { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+    ],
+  },
+  {
+    type: "meta-title",
+    title: "BMS College of Engineering - Reviews"
+  },
+  {
+    type: "meta-links",
+    link: [
+      { rel: "canonical", href: "https://www.selectyouruniversity.com/college/bms-college-of-engineering-bangalore/reviews" }
+    ]
+  }
+],
+
+  "gallery": [
+    {
+      "type": "title",
+      "title": "BMS College of Engineering - Gallery"
+    },
     {
       type: "meta",
       meta: [
@@ -410,24 +426,28 @@ export const bmscollegeofengineeringbangalore = {
       ]
     }
   ],
-  "Scholarship": [
+  "scholarship": [
+    {
+      "type": "title",
+      "title": "BMS College of Engineering - Scholarship"
+    },
     {
       "type": "text",
       "title": "Scholarships Offered at BMSCE",
       "info": "",
-      "data": "<p><b>1. Class of 78 Scholarship</b></p><p>The scholarship is awarded by BMS Class of 78 Trusts Fund to the seventh-semester students of Electronics and Electronics-Communication department who have a first class with distinction for the first six semesters.</p>"
+      "data": "<p>1. Class of 78 Scholarship</p><p>The scholarship is awarded by BMS Class of 78 Trusts Fund to the seventh-semester students of Electronics and Electronics-Communication department who have a first class with distinction for the first six semesters.</p>"
     },
     {
       "type": "text",
       "title": "",
       "info": "",
-      "data": "<p><b>2. Government Scholarships</b></p><p>The scholarships are provided to students belonging to SC/ST/OBC backward class categories. The scholarship includes DSW, DBCM, freeship, National Merit, Defense scholarship etc.</p>"
+      "data": "<p>2. Government Scholarships</p><p>The scholarships are provided to students belonging to SC/ST/OBC backward class categories. The scholarship includes DSW, DBCM, freeship, National Merit, Defense scholarship etc.</p>"
     },
     {
       "type": "text",
       "title": "",
       "info": "",
-      "data": "<p><b>3. Huawei Scholarships for Excellence</b></p><p>Huawei Technologies in India has signed MOU with BMS college of engineering to provide Huawei scholarships for the engineering students. About Rs.50,000 are provided by Huawei scholarships annually to the engineering students. The Huawei scholarships are given to the 10 students who have high academic performance and require financial assistance for education.</p>"
+      "data": "<p>3. Huawei Scholarships for Excellence</p><p>Huawei Technologies in India has signed MOU with BMS college of engineering to provide Huawei scholarships for the engineering students. About Rs.50,000 are provided by Huawei scholarships annually to the engineering students. The Huawei scholarships are given to the 10 students who have high academic performance and require financial assistance for education.</p>"
     },
     {
       type: "meta",
@@ -446,10 +466,12 @@ export const bmscollegeofengineeringbangalore = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/college/bms-college-of-engineering-bangalore/scholarship" }
       ]
     }
-
-
   ],
-  "Placement": [
+  "placement": [
+    {
+      "type": "title",
+      "title": "BMS College of Engineering - Placement"
+    },
     {
       "type": "text",
       "title": "Placement at BMSCE",
@@ -459,7 +481,7 @@ export const bmscollegeofengineeringbangalore = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Following are the activities carried out by the placement cell:</b>",
+      "info": "Following are the activities carried out by the placement cell:",
       "data": [
         "Pre-placement training is provided to students related to soft skills, personality development, communication skills, aptitude tests during the final year of examination.",
         "Guest lectures are organized for all branches from industry experts.",
@@ -476,7 +498,7 @@ export const bmscollegeofengineeringbangalore = {
         ["Infosys", "Mercedes-Benz"],
         ["Huawei", "Nutanix"],
         ["Intel", "Amazon"],
-        ["Oracle","Rolls-Royce"]
+        ["Oracle", "Rolls-Royce"]
       ]
     },
     {
@@ -498,50 +520,119 @@ export const bmscollegeofengineeringbangalore = {
     }
 
   ],
-  "Faculty": {},
-  "News & Articles": {},
-  "Hostel": {},
-  "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "FAQs",
-                "info": "",
-                "data": [
-                    { "ques": "Q. Does BMSCE offer admission via Management category?", "ans": "Yes, college students can seek admission in BMS College of Engineering based on the Management category. This quota is authorised through VTU." },
-                    { "ques": "Q. What is the entire fee for BTech at BMS College of Engineering?", "ans": " The general fee for BTech at BMS College of Engineering is between INR 3 lakh and INR 9 lakh depending upon the specialisation." },
-                    {
-                        "ques": "Q. Which BMSCE branch observes the best placement opportunities?",
-                        "ans": "Out of all of the BMS College of Engineering departments, the IT department manages to draw the best opportunities. In the placement drive 2021, the best package of INR 48 LPA was drawn through an IT student."
-                    },
-                    {
-                        "ques": "Q.Does BMS College of Engineering offer internship opportunities?",
-                        "ans": "BMSCE does not provide internship exposure to its college students. But, college students are especially prompted to take the summer internship experience. As per statistics, in 2019 over 242 UG and 113 PG college students went up for the internship."
-                    },
-                    {
-                        "ques": "Q.  Is BMSCE application manner performed in online or offline mode?",
-                        "ans": "BMS College of Engineering application procedure is performed in each online and offline modes. Candidates should send the application form along side the demand draft to the respectable address of BMS Educational Trust, Bull Temple Road, Bangalore."
-                    },
-                ]
-            },
-            {
-              type: "meta",
-              meta: [
-                { name: "title", content: "BMS College of Engineering - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-              ],
-            },
-            {
-              type: "meta-title",
-              title: "BMS College of Engineering - FAQ"
-            },
-            {
-              type: "meta-links",
-              link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/bms-college-of-engineering-bangalore/faq" }
-              ]
-            }
-        ]
+  "faculty": [
+    {
+      "type": "title",
+      "title": "BMS College of Engineering - Faculty"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "BMS College of Engineering - Faculty" },
+        { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "BMS College of Engineering - Faculty"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/bms-college-of-engineering-bangalore/faculty" }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "type": "title",
+      "title": "BMS College of Engineering - News & Articles"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "BMS College of Engineering - News & Articles" },
+        { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "BMS College of Engineering - News & Articles"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/bms-college-of-engineering-bangalore/news-and-articles" }
+      ]
+    }
+  ],
+  "hostel": [
+    {
+      "type": "title",
+      "title": "BMS College of Engineering - Hostel"
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "BMS College of Engineering - Hostel" },
+        { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "BMS College of Engineering - Hostel"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/bms-college-of-engineering-bangalore/hostel" }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "type": "title",
+      "title": "BMS College of Engineering - FAQ"
+    },
+    {
+      "type": "question-list",
+      "title": "FAQs",
+      "info": "",
+      "data": [
+        { "ques": "Q. Does BMSCE offer admission via Management category?", "ans": "Yes, college students can seek admission in BMS College of Engineering based on the Management category. This quota is authorised through VTU." },
+        { "ques": "Q. What is the entire fee for BTech at BMS College of Engineering?", "ans": " The general fee for BTech at BMS College of Engineering is between INR 3 lakh and INR 9 lakh depending upon the specialisation." },
+        {
+          "ques": "Q. Which BMSCE branch observes the best placement opportunities?",
+          "ans": "Out of all of the BMS College of Engineering departments, the IT department manages to draw the best opportunities. In the placement drive 2021, the best package of INR 48 LPA was drawn through an IT student."
+        },
+        {
+          "ques": "Q.Does BMS College of Engineering offer internship opportunities?",
+          "ans": "BMSCE does not provide internship exposure to its college students. But, college students are especially prompted to take the summer internship experience. As per statistics, in 2019 over 242 UG and 113 PG college students went up for the internship."
+        },
+        {
+          "ques": "Q.  Is BMSCE application manner performed in online or offline mode?",
+          "ans": "BMS College of Engineering application procedure is performed in each online and offline modes. Candidates should send the application form along side the demand draft to the respectable address of BMS Educational Trust, Bull Temple Road, Bangalore."
+        },
+      ]
+    },
+    {
+      type: "meta",
+      meta: [
+        { name: "title", content: "BMS College of Engineering - FAQ" },
+        { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+      ],
+    },
+    {
+      type: "meta-title",
+      title: "BMS College of Engineering - FAQ"
+    },
+    {
+      type: "meta-links",
+      link: [
+        { rel: "canonical", href: "https://www.selectyouruniversity.com/college/bms-college-of-engineering-bangalore/faq" }
+      ]
+    }
+  ]
 
 
 }

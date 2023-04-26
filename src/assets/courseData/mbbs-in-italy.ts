@@ -5,11 +5,12 @@ export const mbbsinitaly = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"6 Years",
     "url": "mbbs-in-italy",
     "info": [
         {
             type: 'title',
-            title: 'Mbbs in Italy'
+            title: 'MBBS in Italy'
         },
         {
             "type": "text",
@@ -226,6 +227,12 @@ export const mbbsinitaly = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Italy 2023 - Top Colleges in Italy'
+        },
+
         {
             "type": "table",
             "title": "Top Medical Universities in Italy: Fees Structure(2022-23)",
@@ -283,6 +290,12 @@ export const mbbsinitaly = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Italy 2023 - Syllabus'
+        },
+
         {
             type: 'list-bollet',
             title: 'Course Duration of MBBS in Italy',
@@ -316,7 +329,7 @@ export const mbbsinitaly = {
                     "Syllabus": "Microbiology, Pharmacology, Pathology, Path Physiology"
                 },
                 {
-                    "Year": "",
+                    "Year": "-",
                     "Syllabus": "Clinical Subjects and Clinical Posting"
                 },
                 {
@@ -345,6 +358,12 @@ export const mbbsinitaly = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Italy 2023 - Career Options'
+        },
+
         {
             type: "meta",
             meta: [
@@ -364,6 +383,12 @@ export const mbbsinitaly = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Italy 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Italy: Important FAQs",

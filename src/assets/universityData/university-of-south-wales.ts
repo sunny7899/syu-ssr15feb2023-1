@@ -19,7 +19,7 @@ export const universityofsouthwales = {
         {
             "type": "table-title",
             "title": "University of South Wales - Quick Glance",
-            "info": "<b>Before we discuss the University of South Wales in the UK, let us have a look at the Overview: </b>",
+            "info": "Before we discuss the University of South Wales in the UK, let us have a look at the Overview: ",
             "col": [],
             "row": [
                 ["<b>Acronym</b>", "USW"],
@@ -34,7 +34,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "Why Choose to Study at the University of South Wales?",
-            "info": "<b>Following are some of the reasons why the students are attracted to study at the University of south wales: </b>",
+            "info": "Following are some of the reasons why the students are attracted to study at the University of south wales: ",
             "data": [
                 "The University of South Wales is one of the largest universities in the UK and provides a wide range of programs designed with industry partners.",
                 "Students are studying varieties of courses at this place more than earning a degree.",
@@ -68,7 +68,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "Affiliations",
-            "info": "<b>Get to know about all official affiliations of the college mentioned below: </b>",
+            "info": "Get to know about all official affiliations of the college mentioned below: ",
             "data": [
                 "University Alliance",
                 "Universities UK"
@@ -77,7 +77,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at USW",
-            "info": "<b>Following are the modern facilities offered by the University of south wales to cater to the needs of the students and staff: </b>",
+            "info": "Following are the modern facilities offered by the University of south wales to cater to the needs of the students and staff: ",
             "data": [
                 "Canteen",
                 "Classrooms",
@@ -90,7 +90,7 @@ export const universityofsouthwales = {
         {
             "type": "table",
             "title": "Cost of Living in Pontypridd",
-            "info": "<b>Make your dream come true by studying at the University of South Wales in the UK, Checkout monthly cost of living of Pontypridd: </b>",
+            "info": "Make your dream come true by studying at the University of South Wales in the UK, Checkout monthly cost of living of Pontypridd: ",
             "col": [
                 "Particulars",
                 "Approx in USD",
@@ -108,7 +108,7 @@ export const universityofsouthwales = {
                     "Approx in Rs": "8,400"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>1 USD = 71 Rs ( for calculation purpose )</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>1 USD = 71 Rs ( for calculation purpose )</p>'
         },
         {
             type: "meta",
@@ -130,6 +130,10 @@ export const universityofsouthwales = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - courses & Fees'
+        },
+        {
             "type": "text",
             "title": "University of South Wales - Program & Course Duration",
             "info": "",
@@ -138,7 +142,7 @@ export const universityofsouthwales = {
         {
             "type": "table",
             "title": "",
-            "info": "<b> Art</b>",
+            "info": "Art",
             "col": [
                 "Programs",
                 "Study Mode",
@@ -299,7 +303,7 @@ export const universityofsouthwales = {
         {
             "type": "table",
             "title": "",
-            "info": "<b> Engineering</b>",
+            "info": "Engineering",
             "col": [
                 "Programs",
                 "Study Mode",
@@ -533,12 +537,12 @@ export const universityofsouthwales = {
                     "Fees": "TBC"
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b> Business</b>",
+            "info": " Business",
             "col": [
                 "Programs",
                 "Study Mode",
@@ -611,12 +615,12 @@ export const universityofsouthwales = {
                     "Fees": "TBC"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b> Law</b>",
+            "info": "Law",
             "col": [
                 "Programs",
                 "Study Mode",
@@ -689,12 +693,12 @@ export const universityofsouthwales = {
                     "Fees": "TBC"
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
         },
         {
             "type": "table",
             "title": "Post graduate",
-            "info": "<b> Art</b>",
+            "info": "Art",
             "col": [
                 "Programs",
                 "Study Mode",
@@ -781,12 +785,12 @@ export const universityofsouthwales = {
                     "Fees": "TBC"
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b>Engineering</b>",
+            "info": "Engineering",
             "col": [
                 "Programs",
                 "Study Mode",
@@ -838,12 +842,12 @@ export const universityofsouthwales = {
                     "Fees": "TBC"
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b>Business</b>",
+            "info": "Business",
             "col": [
                 "Programs",
                 "Study Mode",
@@ -895,12 +899,12 @@ export const universityofsouthwales = {
                     "Fees": "TBC"
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b>Law</b>",
+            "info": "Law",
             "col": [
                 "Programs",
                 "Study Mode",
@@ -952,7 +956,7 @@ export const universityofsouthwales = {
                     "Fees": "TBC"
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>TBC = To be confirmed</p>'
         },
         {
             "type": "text",
@@ -962,7 +966,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Computing, Engineering And Science Schools- </b>",
+            "info": "Computing, Engineering And Science Schools-",
             "data": [
                 "Computing and Mathematics",
                 "Engineering",
@@ -972,7 +976,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Creative Industries Schools- </b>",
+            "info": "Creative Industries Schools-",
             "data": [
                 "Design and Digital",
                 "Production and Performance",
@@ -982,7 +986,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Life Sciences And Education Schools- </b>",
+            "info": "Life Sciences And Education Schools-",
             "data": [
                 "School of Psychology and Therapeutic Studies",
                 "School of Health, Sport and Professional Practice",
@@ -1010,6 +1014,10 @@ export const universityofsouthwales = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
             "info": "Undergraduate",
@@ -1031,7 +1039,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "English Qualifications",
-            "info": "<b>English Proficiency is essential for education at the University of South Wales: </b>",
+            "info": "English Proficiency is essential for education at the University of South Wales: ",
             "data": [
                 "12th standard 65-70% or above, depending on board.",
                 "Overall IELTS scores with at least 5.5 in each band or equivalent (Some courses require higher IELTS scores)",
@@ -1042,7 +1050,7 @@ export const universityofsouthwales = {
         {
             type: 'step-list',
             title: "How to Apply at the University of South Wales?",
-            info: '<b>Detailed information about the admission procedure is needed to know before applying for admission: </b>',
+            info: 'Detailed information about the admission procedure is needed to know before applying for admission: ',
             data: [
                 "Step 1: The University is accepting applications from UK, EU and International students, applying through UCAS or applying to us directly.",
                 "Step 2: The students must complete the application form with the correct details.",
@@ -1056,7 +1064,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "Documents Required at the Time of Admission",
-            "info": "<b>Applicants looking to study in Uk must submit the important documents for successful admission: </b>",
+            "info": "Applicants looking to study in Uk must submit the important documents for successful admission: ",
             "data": [
                 "Application form",
                 "Bachelor's degree (for postgraduate courses)",
@@ -1080,7 +1088,7 @@ export const universityofsouthwales = {
         {
             "type": "table",
             "title": "University of South Wales - Academic Dates 2022-23",
-            "info": "<b>Check the table below and note the important dates</b>",
+            "info": "Check the table below and note the important dates",
             "col": [
                 "Terms",
                 "Dates"
@@ -1120,6 +1128,10 @@ export const universityofsouthwales = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of South Wales (USW), UK - Reviews" },
@@ -1138,6 +1150,10 @@ export const universityofsouthwales = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -1168,6 +1184,10 @@ export const universityofsouthwales = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of South Wales (USW), UK - Gallery" },
@@ -1187,9 +1207,13 @@ export const universityofsouthwales = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "International Scholarship",
-            "info": "<b>International Office Scholarship </b>",
+            "info": "International Office Scholarship ",
             "data": [
                 "£2,000.",
                 "Undergraduate (including top-ups): up to £1,500",
@@ -1199,7 +1223,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Chancellors International Development Scholarships </b>",
+            "info": "Chancellors International Development Scholarships ",
             "data": [
                 "£2,500",
                 "Regions- Africa, Latin America, South Asia, South East Asia, Central Asia and Turkey, Caribbean, Lebanon and Norway",
@@ -1209,7 +1233,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>USW international students progressing to Masters </b>",
+            "info": "USW international students progressing to Masters ",
             "data": [
                 "Fee Discount of £6,000.",
                 "Early Bird Discount is not available",
@@ -1220,7 +1244,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Chevening Scholarships </b>",
+            "info": "Chevening Scholarships ",
             "data": [
                 "Awards are typically for a 1 year Master’s degree at universities across the UK.",
                 "Chevening Award– There is no cap on the number of awards available.",
@@ -1230,7 +1254,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Commonwealth Scholarships </b>",
+            "info": "Commonwealth Scholarships ",
             "data": [
                 "900 scholarships are awarded in the UK each year.",
                 "Includes airfare from home country to the UK, full tuition fees and living costs, thesis grant and warm clothing allowance"
@@ -1239,7 +1263,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Global Wales Postgraduate Scholarship </b>",
+            "info": "Global Wales Postgraduate Scholarship ",
             "data": [
                 "Scholarship Amount- £10,000",
                 "Number of Scholarships-3",
@@ -1250,7 +1274,7 @@ export const universityofsouthwales = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The Global Wales British Council India Scholarship </b>",
+            "info": "The Global Wales British Council India Scholarship ",
             "data": [
                 "Scholarship Amount- £5000. Payment will be via a tuition fee discount.",
                 "Number of Scholarships: 2",
@@ -1276,6 +1300,10 @@ export const universityofsouthwales = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -1327,6 +1355,10 @@ export const universityofsouthwales = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of South Wales (USW), UK - News & Articles" },
@@ -1346,9 +1378,13 @@ export const universityofsouthwales = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation Facility at USW",
-            "info": "<b>The students will get a spacious and comfy home away from home on the campus of the university: </b>",
+            "info": "The students will get a spacious and comfy home away from home on the campus of the university: ",
             "data": [
                 "Find a new home away from home with various accommodation options and get help with private sector renting.",
                 "The students who want to live on campus can stay at USW Pontypridd (Treforest) or in the city (Cardiff or Newport).",
@@ -1381,9 +1417,13 @@ export const universityofsouthwales = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of South Wales (USW), UK - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "FAQs for University of South Wales",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360: </b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360: ",
             "data": [
                 {
                     "ques": "Q. Are there residential facilities available for students at the University of south wales?",

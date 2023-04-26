@@ -19,8 +19,8 @@ export const kazakhrussianmedicaluniversity = {
 
         {
             "type": "table-title",
-            "title": "Kazakh Russian Medical University - Quick Highlights 2022",
-            "info": "<b>Given below are some important and quick points to note about Kazakh Russian Medical University:</b>",
+            "title": "Kazakh Russian Medical University - Quick Highlights 2023",
+            "info": "Given below are some important and quick points to note about Kazakh Russian Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "October"],
                 ["<b>Processing Time for MBBS Admission</b>", "25-35 days"],
@@ -28,7 +28,7 @@ export const kazakhrussianmedicaluniversity = {
                 ["<b>Eligibility Criteria</b>", "50% in PCB"],
                 ["<b>Tuition Fee ( Annual )</b>", "Rs.4.20 Lacs / Year"],
                 ["<b>NEET Exam</b>", "Yes, it is compulsory"],
-                ["<b>University Ranking</b>", "Country - 59<br>World - 9406"],
+                ["<b>University Ranking</b>", "Country - 61<br>World - 10267"],
                 ["<b>Course Duration</b>", "5 years + 1 year of internship"],
                 ["<b>University Recognition</b>", "NMC, WHO"],
                 ["<b>Medium of Education</b>", "English"],
@@ -37,7 +37,7 @@ export const kazakhrussianmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Kazakh Russian Medical University?',
-            info: '<b>Below are some of the benefits of studying MBBS at Kazakh Russian Medical University:</b>',
+            info: 'Below are some of the benefits of studying MBBS at Kazakh Russian Medical University:',
             data: [
                 "At the Kazakh Russian Medical University, the medical faculty consists of 200 instructors in which a large portion of them are reputed and well-known doctors, outside researchers, etc.",
                 "Kazakh Russian Medical University has maintained relations with the Universities in the nation and abroad.",
@@ -51,16 +51,16 @@ export const kazakhrussianmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Kazakh Russian Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Kazakh Russian Medical University:</b>",
+            "title": "Kazakh Russian Medical University - Ranking 2023",
+            "info": "According to 4icu.org, following is the country and world ranking for Kazakh Russian Medical University:",
             "col": [
                 "Country",
                 "World",
             ],
             "row": [
                 {
-                    "Country": "59",
-                    "World": "9406",
+                    "Country": "61",
+                    "World": "10267",
                 },
 
             ]
@@ -68,7 +68,7 @@ export const kazakhrussianmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>Following is the medium of teaching at Kazakh Russian Medical University:</b>',
+            info: 'Following is the medium of teaching at Kazakh Russian Medical University:',
             data: [
                 "For international students studying at this university, the courses are taught in the <b>English</b> language.",
                 "Whereas local students mostly prefer studying in Kazakh or Russian language. So it would be easy for all students, local as well as international."
@@ -77,7 +77,7 @@ export const kazakhrussianmedicaluniversity = {
         {
             type: "table",
             title: 'Kazakh Russian Medical University: FMGE Performance 2021',
-            info: '<b>Find the passing percent and appeared students in year 2021 for Kazakh Russian Medical University is here in the table below:</b>',
+            info: 'Find the passing percent and appeared students in year 2021 for Kazakh Russian Medical University is here in the table below:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -96,7 +96,7 @@ export const kazakhrussianmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Students are provided with excellent hostel facilities at Kazakh Russian Medical University:</b>',
+            info: 'Students are provided with excellent hostel facilities at Kazakh Russian Medical University:',
             data: [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -107,7 +107,7 @@ export const kazakhrussianmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Students Life',
-            info: '<b>Kazakh Russian Medical University takes full care of students’ mental and physical health. It provides different activities to its students:</b>',
+            info: 'Kazakh Russian Medical University takes full care of students’ mental and physical health. It provides different activities to its students:',
             data: [
                 "In this University, there are various organizations that will appeal to any student.",
                 "Here students will find various organizations from “NSC of clinical anatomy and operative surgery” to KVN and eSports teams.",
@@ -122,7 +122,7 @@ export const kazakhrussianmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Almaty",
-            "info": "<b>The cost of living at Almaty city is as follows:</b>",
+            "info": "The cost of living at Almaty city is as follows:",
             "col": [
                 "Activity",
                 "Cost (approx.)",
@@ -149,19 +149,20 @@ export const kazakhrussianmedicaluniversity = {
                     "Cost (approx.)": "Cost between Rs.14500 - Rs.22800"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>'
         },
+       
         {
-            type: 'text',
-            title: 'Rectors Message',
-            img: 'rectors-message-of-kazakh-russian-medical-university.jpg',
-            data: '',
-        },
-        {
-            type: 'text',
+            type: 'list-bollet',
             title: 'About Almaty City',
-            img: 'kazakh-russian-medical-university-city.jpg',
-            data: "<p><b>Interesting facts about the Almaty city are given below:</b></p><p>Almaty is the busiest and the biggest city in Kazakhstan. The city is arranged in the uneven locale in the lower regions of the Trans-ili Alatau Mountains of the southern part of Kazakhstan.</p><p>With cold winters and sweltering summers, the normal atmosphere in the city is named as a damp mainland atmosphere.</p><p>Fund areas are accepted to be probably the biggest business in the city</p><p>The city has historical centers, parks, a few significant landmarks, engineering locales, and so on. A portion of the significant attractions incorporates Big Almaty Lake, Zenkov Cathedral, the Museum of National Musical Instruments, and so forth.</p><p>Almaty city has 80 sq.m. of green plantations for each of its million-odd residents and it is called a garden city.</p><p>Almaty has an area of 339 sq. km. with a population of about 1,404,000 (2010).</p>",
+            info: "Interesting facts about the Almaty city are given below:",
+            data: [
+                "Almaty is the busiest and the biggest city in Kazakhstan. The city is arranged in the uneven locale in the lower regions of the Trans-ili Alatau Mountains of the southern part of Kazakhstan.",
+                "With cold winters and sweltering summers, the normal atmosphere in the city is named as a damp mainland atmosphere.",
+                "Fund areas are accepted to be probably the biggest business in the city",
+                "The city has historical centers, parks, a few significant landmarks, engineering locales, and so on. A portion of the significant attractions incorporates Big Almaty Lake, Zenkov Cathedral, the Museum of National Musical Instruments, and so forth.",
+                "Almaty city has 80 sq.m. of green plantations for each of its million-odd residents and it is called a garden city.",
+                "Almaty has an area of 339 sq. km. with a population of about 1,404,000 (2010)."
+            ]
         },
         {
             type: "meta",
@@ -183,9 +184,14 @@ export const kazakhrussianmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kazakh Russian Medical University, Kazakhstan - Courses & Fees"
+
+        },
+        {
             "type": "table",
-            "title": "Kazakh Russian Medical University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Kazakh Russian Medical University for MBBS program is given in the table below:</b>",
+            "title": "Kazakh Russian Medical University - MBBS Fee Structure 2023",
+            "info": "The fee structure for Kazakh Russian Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -197,59 +203,68 @@ export const kazakhrussianmedicaluniversity = {
             "row": [
                 {
                     "Particular": "<b>Tuition Fee</b>",
-                    "Year  1": "$4000",
-                    "Year  2": "$4000",
-                    "Year  3": "$4000",
-                    "Year  4": "$4000",
-                    "Year  5": "$4000"
+                    "Year 1": "$4000",
+                    "Year 2": "$4000",
+                    "Year 3": "$4000",
+                    "Year 4": "$4000",
+                    "Year 5": "$4000"
                 },
                 {
                     "Particular": "<b>Hostel Fee</b>",
-                    "Year  1": "$700",
-                    "Year  2": "$700",
-                    "Year  3": "$700",
-                    "Year  4": "$700",
-                    "Year  5": "$700"
+                    "Year 1": "$700",
+                    "Year 2": "$700",
+                    "Year 3": "$700",
+                    "Year 4": "$700",
+                    "Year 5": "$700"
                 },
                 {
                     "Particular": "<b>Medical + Insurance + Registration Fee</b>",
-                    "Year  1": "$1000",
-                    "Year  2": "$100",
-                    "Year  3": "$100",
-                    "Year  4": "$100",
-                    "Year  5": "$100"
+                    "Year 1": "$1000",
+                    "Year 2": "$100",
+                    "Year 3": "$100",
+                    "Year 4": "$100",
+                    "Year 5": "$100"
                 },
                 {
                     "Particular": "<b>Mess Fee</b>",
-                    "Year  1": "$1200",
-                    "Year  2": "$1200",
-                    "Year  3": "$1200",
-                    "Year  4": "$1200",
-                    "Year  5": "$1200"
+                    "Year 1": "$1200",
+                    "Year 2": "$1200",
+                    "Year 3": "$1200",
+                    "Year 4": "$1200",
+                    "Year 5": "$1200"
                 },
                 {
                     "Particular": "<b>Total Fees in USD</b>",
-                    "Year  1": "$6900",
-                    "Year  2": "$6000",
-                    "Year  3": "$6000",
-                    "Year  4": "$6000",
-                    "Year  5": "$6000"
+                    "Year 1": "$6900",
+                    "Year 2": "$6000",
+                    "Year 3": "$6000",
+                    "Year 4": "$6000",
+                    "Year 5": "$6000"
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year  1": "Rs.4.83 Lakhs",
-                    "Year  2": "Rs.4.20 Lakhs",
-                    "Year  3": "Rs.4.20 Lakhs",
-                    "Year  4": "Rs.4.20 Lakhs",
-                    "Year  5": "Rs.4.20 Lakhs"
+                    "Year 1": "Rs. 5,52,00",
+                    "Year 2": "Rs. 4,80,000",
+                    "Year 3": "Rs. 4,80,000",
+                    "Year 4": "Rs. 4,80,000",
+                    "Year 5": "Rs. 4,80,000"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> $1 = Rs.70<br>Application, visa, flight tickets, etc. will be extra up to Rs.80,000/- to Rs.1,00,000/- (or more approximately).<br>The fees mentioned here are approximate and can vary as per the change in currency.</p>'
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: 'Note:',
+            data: [
+                "$1 = Rs.80",
+                "Application, visa, flight tickets, etc. will be extra up to Rs.80,000/- to Rs.1,00,000/- (or more approximately).",
+                "The fees mentioned here are approximate and can vary as per the change in currency."
+            ]
         },
         {
             type: 'list-bollet',
             title: 'Courses Offered at Kazakh Russian Medical University',
-            info: '<b>Following are the different faculties of medicine in which Kazakh Russian Medical University provides education to its students:</b>',
+            info: 'Following are the different faculties of medicin which Kazakh Russian Medical University provides education to its students:</b>',
             data: [
                 "Dentistry",
                 "General Medicine",
@@ -263,7 +278,7 @@ export const kazakhrussianmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Kazakh Russian Medical University - MBBS Duration',
-            info: '<b>The duration of MBBS course at Kazakh Russian Medical University is mentioned below:</b>',
+            info: 'The duration of MBBS course at Kazakh Russian Medical University is mentioned below:',
             data: [
                 "The duration of MBBS course at Kazakh Russian Medical University is <b>6 years</b>, out of which <b>1 year is internship</b>.",
                 "The medium of instruction is English for studying MBBS at this university."
@@ -272,8 +287,8 @@ export const kazakhrussianmedicaluniversity = {
         {
             "type": "table",
             "title": "Kazakh Russian Medical University - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at Kazakh Russian Medical University is as follows:</b>",
-            "data": "<p>1st Year</p>",
+            "info": "The complete syllabus for studying MBBS at Kazakh Russian Medical University is as follows:",
+            "textBelowInfo": "<b>1st Year</b>",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -363,13 +378,13 @@ export const kazakhrussianmedicaluniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Kazakh Russian Medical University, Kazakhstan - courses & Fees" },
+                { name: "title", content: "Kazakh Russian Medical University, Kazakhstan - Courses & Fees 2023" },
                 { name: "description", content: "know about Kazakh Russian Medical University, Navi Mumbai, Eligibility, Required documents, courses Duration. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "Kazakh Russian Medical University, Kazakhstan - courses & Fees"
+            title: "Kazakh Russian Medical University, Kazakhstan - Courses & Fees 2023"
         },
         {
             type: "meta-links",
@@ -380,9 +395,14 @@ export const kazakhrussianmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kazakh Russian Medical University, Kazakhstan - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students need to fulfill the below-given eligibility criteria to study MBBS at Kazakh Russian Medical University:</b>",
+            "info": "Students need to fulfill the below-given eligibility criteria to study MBBS at Kazakh Russian Medical University:",
             "data": [
                 "The age of a student or applicant must be more than 17 years and less than 25 years.",
                 "A student must have chemistry, physics, and Biology as the main subject in 12th standard.",
@@ -393,19 +413,19 @@ export const kazakhrussianmedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following is the admission process for applying to the MBBS course at Kazakh Russian Medical University which students need to follow:</b>',
+            info: 'Following is the admission process for applying to the MBBS course at Kazakh Russian Medical University which students need to follow:',
             data: [
-                "Step 1: Students who want to secure admission at Kazakh Russian Medical University must fill the online application form along with all the required documents.",
-                "Step 2: The applications sent by the students are reviewed by the university and then they need to deposit the fees into the university’s bank account.",
-                "Step 3: Once the admission of students is confirmed, their immigration procedure will begin. After this, a ministry order will be received by the university and it issues an invitation letter to the students as well.",
-                "Step 4: The visa approval takes nearly 30 days after all the above procedures are completed.",
-                "Step 5: Once the fee is cleared, students can then apply for the student visa. After the arrival of a visa, the day and date of departure of applicants are planned and finalized."
+                "<b>Step 1:</b> Students who want to secure admission at Kazakh Russian Medical University must fill the online application form along with all the required documents.",
+                "<b>Step 2:</b> The applications sent by the students are reviewed by the university and then they need to deposit the fees into the university’s bank account.",
+                "<b>Step 3:</b> Once the admission of students is confirmed, their immigration procedure will begin. After this, a ministry order will be received by the university and it issues an invitation letter to the students as well.",
+                "<b>Step 4:</b> The visa approval takes nearly 30 days after all the above procedures are completed.",
+                "<b>Step 5:</b> Once the fee is cleared, students can then apply for the student visa. After the arrival of a visa, the day and date of departure of applicants are planned and finalized."
             ]
         },
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The following documents are required at the time of admission to Kazakh Russian Medical University from the students:</b>",
+            "info": "The following documents are required at the time of admission to Kazakh Russian Medical University from the students:",
             "data": [
                 "10th and 12th mark sheets",
                 "Transfer certificate",
@@ -426,8 +446,8 @@ export const kazakhrussianmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should take their admissions to Kazakh Russian Medical University before the dates mentioned below. Check out the Important dates regarding admission at Kazakh Russian Medical University:</b>",
+            "title": "Important Dates - Intake 2023",
+            "info": "Students should take their admissions to Kazakh Russian Medical University before the dates mentioned below. Check out the Important dates regarding admission at Kazakh Russian Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -471,6 +491,23 @@ export const kazakhrussianmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kazakh Russian Medical University, Kazakhstan - Reviews"
+
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "Reviews on Kazakh Russian Medical University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Kunal Dethe</b><p>At East European University, I had a great time. The professors were helpful and instructive.</p>",
+              "<b>Ayush Dongarkar</b><p>Kazakh Russian Medical University should be seriously considered by anyone looking for a top-notch medical education.</p>",
+              "<b>Aditi Kela</b><p>Kazakh Russian Medical University has top-notch facilities and a friendly staff. I received amazing care the entire time I was there.</p>",
+            ]
+          },
+
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazakh Russian Medical University, Kazakhstan - Reviews" },
@@ -489,6 +526,11 @@ export const kazakhrussianmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kazakh Russian Medical University, Kazakhstan - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -509,6 +551,55 @@ export const kazakhrussianmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kazakh Russian Medical University, Kazakhstan - Gallery"
+
+        },
+
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kazakh-russian-medical-university-lab.jpg",
+                    "alt": "Kazakh Russian Medical University Lab"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kazakh-russian-medical-university-classroom.jpg",
+                    "alt": "Kazakh Russian Medical University Classroom"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kazakh-russian-medical-university-playing-chess.jpg",
+                    "alt": "Kazakh Russian Medical University Playing Chess"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kazakh-russian-medical-university-discussion-on-topic.jpg",
+                    "alt": "Kazakh Russian Medical University Discussion on Topic"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kazakh-russian-medical-university-library.jpg",
+                    "alt": "Kazakh Russian Medical University Library"
+                },
+                {
+                  "type": "image",
+                  "data": "../../assets/img/university_gallery/kazakh-russian-medical-university-toper-medical-student.jpg",
+                  "alt": "Kazakh Russian Medical University Toper Medical Student"
+              }
+            ],
+            "video": [
+                // {
+                //     "type": "video",
+                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                //     "alt": "Image 1"
+                // },
+                
+            ]
+        },
+
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazakh Russian Medical University, Kazakhstan - Gallery" },
@@ -528,8 +619,13 @@ export const kazakhrussianmedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kazakh Russian Medical University, Kazakhstan - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
-            "title": "scholarship",
+            "title": "Scholarship of Kazakh Russian Medical University",
             "info": "",
             "data": [
                 "Ritchie-Jennings Memorial Scholarship Program, 2023",
@@ -559,6 +655,49 @@ export const kazakhrussianmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Kazakh Russian Medical University, Kazakhstan - Faculty"
+
+        },
+
+        // {
+        //     "type": "table",
+        //     "title": "Faculty of Kazakh Russian Medical University",
+        //     "info": "",
+        //     "col": [
+        //         "Name",
+        //         "Designation"
+        //     ],
+        //     "row": [
+        //         {
+        //             "Name": "Tagaev Tugolbai Zhumabekovich",
+        //             "Designation": "Dean"
+        //         },
+        //         {
+        //             "Name": "Tamara Abaeva",
+        //             "Designation": "Professor"
+        //         },
+        //         {
+        //             "Name": "Mambet kyzy Gulina",
+        //             "Designation": "Deputy Dean for junior courses"
+        //         },
+        //         {
+        //             "Name": "Nurzada Kasymdayirova Marsovna",
+        //             "Designation": "Secretary"
+        //         },
+        //         {
+        //             "Name": "Salayut Munira Erkintaevna",
+        //             "Designation": "Methodist"
+        //         },
+        //         {
+        //             "Name": "Shopokova Aijan Edilovna",
+        //             "Designation": "Secretary"
+        //         },
+        //     ]
+        // },
+
+        
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kazakh Russian Medical University, Kazakhstan - Faculty" },
@@ -577,6 +716,11 @@ export const kazakhrussianmedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Kazakh Russian Medical University, Kazakhstan - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -597,9 +741,14 @@ export const kazakhrussianmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kazakh Russian Medical University, Kazakhstan - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Students are provided with excellent hostel facilities at Kazakh Russian Medical University:</b>",
+            "info": "Students are provided with excellent hostel facilities at Kazakh Russian Medical University:",
             "data": [
                 "Kazakh Russian Medical University has a system of well furnished, safe, and comfortable hostels for both local and international students in separate buildings.",
                 "Resident students are provided rooms on a shared basis in two or three bedrooms.",
@@ -616,18 +765,16 @@ export const kazakhrussianmedicaluniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table-title",
             "title": "",
             "info": "",
-            "data": [
-                "hostel",
-                "Internet",
-                "Library",
-                "Security",
-                "Sports Complex",
-                "Gym"
+            "col": [],
+            "row": [
+                ["hostel", "Internet","Library"],
+                ["Security", "Sports Complex","Gym"]
             ]
         },
+        
         {
             type: "meta",
             meta: [
@@ -647,56 +794,61 @@ export const kazakhrussianmedicaluniversity = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Kazakh Russian Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Is Indian food available in Kazakhstan at Kazakh-Russian Medical University?",
-                    "ans": "Yes, Indian food is available at Kazakh-Russian Medical University for Indian students and it is also examined by the Food & Drug Enforcement Department, Health Ministry of Kazakhstan."
-                },
-                {
-                    "ques": "Q. How many Indian students are studying at the university currently?",
-                    "ans": "Currently, more than 400 Indian students are studying at the university."
-                },
-                {
-                    "ques": "Q. Is NMC training available at the Kazakh Russian Medical University?",
-                    "ans": "Yes, NMC training is available for students in the campus by Indian teachers."
-                },
-                {
-                    "ques": "Q. Apart from English, will students get any language options to study the course?",
-                    "ans": "Students will have the option to pick their learning language as Kazakh or Russian apart from English."
-                },
-                {
-                    "ques": "Q. Does the university have tie ups with other universities?",
-                    "ans": "The Kazakh Russian Medical University has tie ups with the Federal Center of Heart, Kyrgyz-Russian Slavic University, Bashkir State Medical University, Omsk State Medical Academy, etc."
-                },
-                {
-                    "ques": "Q. How is the student life at Kazakh Russian Medical University?",
-                    "ans": "At the Kazakh Russian Medical University, there are different clubs and departments to give encouragement to students’ extracurricular activities like healing voice (singing), the debate club, Morphine for dance, NAMYS for sports, Media Avengers (Photo and video hunters of all student events) etc."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Kazakh Russian Medical University, Kazakhstan - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Kazakh Russian Medical University, Kazakhstan - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kazakh-russian-medical-university/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Kazakh Russian Medical University, Kazakhstan - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "Kazakh Russian Medical University - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. Is Indian food available in Kazakhstan at Kazakh-Russian Medical University?",
+                        "ans": "Yes, Indian food is available at Kazakh-Russian Medical University for Indian students and it is also examined by the Food & Drug Enforcement Department, Health Ministry of Kazakhstan."
+                    },
+                    {
+                        "ques": "Q. How many Indian students are studying at the university currently?",
+                        "ans": "Currently, more than 400 Indian students are studying at the university."
+                    },
+                    {
+                        "ques": "Q. Is NMC training available at the Kazakh Russian Medical University?",
+                        "ans": "Yes, NMC training is available for students in the campus by Indian teachers."
+                    },
+                    {
+                        "ques": "Q. Apart from English, will students get any language options to study the course?",
+                        "ans": "Students will have the option to pick their learning language as Kazakh or Russian apart from English."
+                    },
+                    {
+                        "ques": "Q. Does the university have tie ups with other universities?",
+                        "ans": "The Kazakh Russian Medical University has tie ups with the Federal Center of Heart, Kyrgyz-Russian Slavic University, Bashkir State Medical University, Omsk State Medical Academy, etc."
+                    },
+                    {
+                        "ques": "Q. How is the student life at Kazakh Russian Medical University?",
+                        "ans": "At the Kazakh Russian Medical University, there are different clubs and departments to give encouragement to students’ extracurricular activities like healing voice (singing), the debate club, Morphine for dance, NAMYS for sports, Media Avengers (Photo and video hunters of all student events) etc."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Kazakh Russian Medical University, Kazakhstan - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Kazakh Russian Medical University, Kazakhstan - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/kazakh-russian-medical-university/faq" }
+                ]
+            }
+        ]
 
 
 }

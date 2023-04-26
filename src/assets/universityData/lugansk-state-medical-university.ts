@@ -20,7 +20,7 @@ export const luganskstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Lugansk State Medical University - Quick Glance",
-            "info": "<b>Every applicant seeking to take admission in MBBS course, first have to go through some main key facts of Lugansk State Medical University:</b>",
+            "info": "Every applicant seeking to take admission in MBBS course, first have to go through some main key facts of Lugansk State Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "Twice in a year:<br>February and September"],
                 ["<b>Basic Eligibility</b>", "50% in PCB"],
@@ -35,7 +35,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Lugansk State Medical University?',
-            info: '<b>If the students think why should we pick Lugansk State Medical University University for MBBS course, find the reasons behind the success story of the university:</b>',
+            info: 'If the students think why should we pick Lugansk State Medical University University for MBBS course, find the reasons behind the success story of the university:</b>',
             data: [
                 "Top leading university with recognition of the National Medical Commission(NMC) and the World Health Organisation(WHO).",
                 "Lugansk State Medical University has about 6,827 students currently studying on the campus.",
@@ -58,7 +58,7 @@ export const luganskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Lugansk State Medical University: Ranking 2022",
-            "info": "<b>Refer to Uni rank to find out the country & world ranking of Lugansk State Medical University:</b>",
+            "info": "Refer to Uni rank to find out the country & world ranking of Lugansk State Medical University:</b>",
             "col": [
                 "Country",
                 "World",
@@ -74,13 +74,13 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'text',
             title: 'Medium of Instruction',
-            info: '<b>Lugansk State Medical University offers medical education in the English language:</b>',
+            info: 'Lugansk State Medical University offers medical education in the English language:',
             data: "<p><b>Lugansk State Medical University offers medical education in the English language:</b></p><p>The worldwide students acquire top-quality medical education in the <b>English</b> language under the guidance of renowned professors at University.</p>"
         },
         {
             "type": "table-title",
             "title": "Internships offered at LSMU",
-            "info": "<b>Lugansk State Medical University offers an internship to the students:</b>",
+            "info": "Lugansk State Medical University offers an internship to the students:",
             "row": [
                 ["Clinical oncology", "Neurology", "Traumatology", "Dentistry"],
                 ["Radiology", "Psychiatry", "Emergency medicine", "Dermatology"],
@@ -91,7 +91,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Lugansk State Medical University is acknowledged by renowned medical organisations across the globe:</b>',
+            info: 'Lugansk State Medical University is acknowledged by renowned medical organisations across the globe:',
             data: [
                 "The institute is recognised by Foundation for Advancement of International Medical Education and Research (FAIMER)",
                 "World Health Organization (WHO)",
@@ -102,7 +102,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Facilities offered at LSMU',
-            info: '<b>Experience stress-free and convenient education with the modern facility at Lugansk State Medical University:</b>',
+            info: 'Experience stress-free and convenient education with the modern facility at Lugansk State Medical University:',
             data: [
                 "A spacious library with an electronic catalog of information search and free wifi access to the students.",
                 "The students have access to the free internet connection in the campus, hostel and Library area.",
@@ -166,7 +166,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Immigration and Visa Information',
-            info: '<b>A valid visa is very important to get an entry in Ukraine:</b>',
+            info: 'A valid visa is very important to get an entry in Ukraine:',
             data: [
                 "Apply for Visa",
                 "Send original Invitation and admission letter to the Ukraine embassy",
@@ -188,7 +188,7 @@ export const luganskstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>While mailing the scanned documents as mentioned above, it should also contain respective information -</b>",
+            "info": "While mailing the scanned documents as mentioned above, it should also contain respective information -",
             "row": [
                 ["Nationality", "Name, Middle name and Surname", "Date & place of birth"],
                 ["Sex", "Passport number", "The passport validity date of issue & expiry"],
@@ -211,7 +211,7 @@ export const luganskstatemedicaluniversity = {
         {
             "type": "table",
             title: 'Lugansk State Medical University: FMGE Performance 2021',
-            info: '<b>Lugansk State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>',
+            info: 'Lugansk State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -236,7 +236,7 @@ export const luganskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost of Lugansk",
-            "info": "<b>The living expenses of Lugansk city is cost-effective, go through the monthly basis living cost which may vary as per individual's needs:</b>",
+            "info": "The living expenses of Lugansk city is cost-effective, go through the monthly basis living cost which may vary as per individual's needs:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -265,7 +265,7 @@ export const luganskstatemedicaluniversity = {
             type: 'list-bollet',
             title: 'About Luhansk City',
             img: 'luhansk-city.jpg',
-            info: '<b>The university is situated in Luhansk city, here is the detailed information about:</b>',
+            info: 'The university is situated in Luhansk city, here is the detailed information about:',
             data: [
                 "Luhansk city is also known as Voroshilovgrad.",
                 "Located in the eastern part of Ukraine near the border area at Donbas Region.",
@@ -282,7 +282,7 @@ export const luganskstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Top visiting places at Lugansk city -</b>",
+            "info": "Top visiting places at Lugansk city -",
             "row": [
                 ["Lugansk Regional Museum of Art", "Kraevedcheskyy Muzey, Luhanskyy Oblastnoy"],
                 ["Budynok Vasnʹova", "Dahl Street"],
@@ -316,9 +316,14 @@ export const luganskstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Lugansk State Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Lugansk State Medical University: MBBS Fee Structure 2022",
-            "info": "<b>Lugansk State Medical University offers a reasonable fee structure as compared to other countries which are quite affordable for students to pursue MBBS career:</b>",
+            "info": "Lugansk State Medical University offers a reasonable fee structure as compared to other countries which are quite affordable for students to pursue MBBS career:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -371,7 +376,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at LSMU',
-            info: '<b>Lugansk State Medical University is offering a wide range of medical faculties:</b>',
+            info: 'Lugansk State Medical University is offering a wide range of medical faculties:',
             data: [
 
                 "Medicine",
@@ -384,7 +389,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Lugansk State Medical University: MBBS Duration',
-            info: '<b>Complete 6 years of medicine program at Lugansk State Medical University:</b>',
+            info: 'Complete 6 years of medicine program at Lugansk State Medical University:',
             data: [
 
                 "Lugansk State Medical University provides 6 years of medicine program to the global students seeking to pursue MBBS education at top medical universities.",
@@ -399,7 +404,7 @@ export const luganskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Lugansk State Medical University: MBBS Syllabus",
-            "info": "<b>The entire syllabus is mentioned below in the table, the students must refer it for better understanding the MBBS course:</b>",
+            "info": "The entire syllabus is mentioned below in the table, the students must refer it for better understanding the MBBS course:",
             "textBelowInfo": "1st Year",
             "col": [
                 "Semester-I",
@@ -656,9 +661,14 @@ export const luganskstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Lugansk State Medical University - Admission 2023"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>Candidates must fit into the basic criteria to grab MBBS seats at Lugansk State Medical University:</b>',
+            info: 'Candidates must fit into the basic criteria to grab MBBS seats at Lugansk State Medical University:',
             data: [
                 "The candidate must be 17 years old on or before 31st December of the year in which the admission is being taken.",
                 "The applicants must have cleared NEET exam.",
@@ -670,7 +680,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process at LSMU: Applying for MBBS Course',
-            info: '<b>Every candidate needs to follow the steps to carry out the MBBS Admission procedure at Lugansk State Medical University University:</b>',
+            info: 'Every candidate needs to follow the steps to carry out the MBBS Admission procedure at Lugansk State Medical University University:',
             data: [
                 "<b>Step 1:</b> To apply for MBBS, the candidates must fill the application form on the official website.",
                 "<b>Step 2:</b> Further, send important scanned documents to evaluate the eligibility of students.",
@@ -684,7 +694,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required: For MBBS admissions at LSMU',
-            info: '<b>Here is the list of every important the document the selected students must carry to experience hassle-free MBBS admission:</b>',
+            info: 'Here is the list of every important the document the selected students must carry to experience hassle-free MBBS admission:',
             data: [
                 "Take the print out of the correctly filled application form and submit on the website along with all important documents.",
                 "All candidates should submit their 10th & 12th mark sheets.",
@@ -706,7 +716,7 @@ export const luganskstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Academic Calendar - Intake Dates 2022",
-            "info": "<b>Check out important dates related to admissions and intake at Lugansk State Medical University:</b>",
+            "info": "Check out important dates related to admissions and intake at Lugansk State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -753,6 +763,11 @@ export const luganskstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Lugansk State Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lugansk State Medical University - Reviews" },
@@ -771,6 +786,11 @@ export const luganskstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Lugansk State Medical University - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -791,6 +811,11 @@ export const luganskstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Lugansk State Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lugansk State Medical University - Gallery" },
@@ -809,6 +834,11 @@ export const luganskstatemedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Lugansk State Medical University - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -829,6 +859,11 @@ export const luganskstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Lugansk State Medical University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lugansk State Medical University - Faculty" },
@@ -847,6 +882,11 @@ export const luganskstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Lugansk State Medical University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -867,9 +907,14 @@ export const luganskstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Lugansk State Medical University - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel and Accommodation',
-            info: '<b>The top class of accommodation facilities are provided to the students in their comfort zone at Lugansk State Medical University:</b>',
+            info: 'The top class of accommodation facilities are provided to the students in their comfort zone at Lugansk State Medical University:',
             data: [
                 "Well- organised hostel facilities are provided near the University campus with required amenities at the comfort zone of the students.",
                 "The hostel provides separate places for comfortable staying of both the boys and girls.",
@@ -885,7 +930,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>The hostel rooms include many essential places nearby -</b>',
+            info: 'The hostel rooms include many essential places nearby -',
             data: [
                 "Dining Room",
                 "Reading Room",
@@ -896,7 +941,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>The hostel provides different rooms for students -</b>',
+            info: 'The hostel provides different rooms for students -',
             data: [
                 "Cafe",
                 "Restaurant",
@@ -908,7 +953,7 @@ export const luganskstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>All basic required things are available at the convenience of the students -</b>',
+            info: 'All basic required things are available at the convenience of the students -',
             data: [
                 "Bedsheet",
                 "pillow",
@@ -940,9 +985,14 @@ export const luganskstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Lugansk State Medical University - FAQ"
+
+        },
+        {
             type: 'question-list',
             title: 'Lugansk State Medical University: Important FAQs',
-            info: '<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>',
+            info: 'Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:',
             data: [
                 {
                     "ques": "Q. I heard that the NEET exam is not compulsory, why are you showing it mandatory in eligibility criteria?",

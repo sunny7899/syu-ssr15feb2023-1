@@ -19,7 +19,7 @@ export const universityofmanchester = {
         {
             "type": "table-title",
             "title": "University of Manchester - Quick Highlights",
-            "info": "<b>Check out the table below for a quick overview of the university:</b>",
+            "info": "Check out the table below for a quick overview of the university:",
             "col": [],
             "row": [
                 ["<b>Course Intake</b>", "Spring,Fall"],
@@ -37,7 +37,7 @@ export const universityofmanchester = {
         {
             "type": "list-bollet",
             "title": "Why Choose the University of Manchester?",
-            "info": "<b>This university gives you many reasons to enroll:</b>",
+            "info": "This university gives you many reasons to enroll:",
             "data": [
                 "Students from all over the world attend this university, which fosters a multicultural atmosphere.",
                 "A fee structure that doesn't burn holes in your pocket.",
@@ -57,7 +57,7 @@ export const universityofmanchester = {
         {
             "type": "list-bollet",
             "title": "Recognitions and Accreditations",
-            "info": "<b>The university is recognized and accredited thus proves its genuineness:</b>",
+            "info": "The university is recognized and accredited thus proves its genuineness:",
             "data": [
                 "Recognized by the Privy Council",
                 "Received NUS Responsible Futures accreditation",
@@ -67,7 +67,7 @@ export const universityofmanchester = {
         {
             "type": "table",
             "title": "University of Manchester - Ranking 2022",
-            "info": "<b>The latest rankings of the university can be found below:</b>",
+            "info": "The latest rankings of the university can be found below:",
             "col": [
                 "World",
                 "Country"
@@ -82,7 +82,7 @@ export const universityofmanchester = {
         {
             "type": "table",
             "title": "Living Expenses in Manchester, UK",
-            "info": "<b>Learn the basic expenses of living in Manchester, the costs may vary depending upon the basic needs of the person:</b>",
+            "info": "Learn the basic expenses of living in Manchester, the costs may vary depending upon the basic needs of the person:",
             "col": [
                 "Particulars",
                 "Approx in USD",
@@ -100,12 +100,12 @@ export const universityofmanchester = {
                     "Approx in Rs": "Rs 8,900"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 74 INR (It may vary)</p> <p>A single persons estimated monthly costs are 939.47$ (693.36£) without rent and tuition fees</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 74 INR (It may vary)</p> <p>A single persons estimated monthly costs are 939.47$ (693.36£) without rent and tuition fees</p>'
         },
         {
             "type": "list-bollet",
             "title": "Facilities offered University of Manchester",
-            "info": "<b>Students at the university have access to these services:</b>",
+            "info": "Students at the university have access to these services:",
             "data": [
                 "Cafeteria",
                 "Conference Facilities",
@@ -134,6 +134,10 @@ export const universityofmanchester = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University of Manchester, UK - courses & Fees'
+        },
         {
             "type": "table",
             "title": "University of Manchester - Program & Course Duration",
@@ -427,9 +431,13 @@ export const universityofmanchester = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Manchester, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The basic criteria set by the university for the students are easy to meet:</b>",
+            "info": "The basic criteria set by the university for the students are easy to meet:",
             "data": [
                 "Must have language proficiency test score (IELTS and TOEFL)",
                 "Must hold 12th/ graduation degree from a reputed university/institution",
@@ -441,7 +449,7 @@ export const universityofmanchester = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Undergraduate</b>",
+            "info": "Undergraduate",
             "data": [
                 "Step 1: For undergraduate courses apply via UCAS, (Code for UCAS is M20 MANU)",
                 "Step 2: Fill in the correct details in the online application form and pay the application fee, GBP 20",
@@ -453,7 +461,7 @@ export const universityofmanchester = {
         {
             "type": "step-list",
             "title": "",
-            "info": "<b>Postgraduate</b>",
+            "info": "Postgraduate",
             "data": [
                 "Step 1: For postgraduate courses apply via the University of Manchester PG application",
                 "Step 2: Fill in the correct details in the online application form and pay the application fee, GBP 20",
@@ -465,7 +473,7 @@ export const universityofmanchester = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Note down the list of documents required to be submitted:</b>",
+            "info": "Note down the list of documents required to be submitted:",
             "data": [
                 "Transcript of records and Grade Point Average.",
                 "Proof of English language.",
@@ -496,7 +504,7 @@ export const universityofmanchester = {
         {
             "type": "table",
             "title": "University of Manchester - Admission Deadlines 2022",
-            "info": "<b>The table below will assist you with the semester & term dates:</b>",
+            "info": "The table below will assist you with the semester & term dates:",
             "col": [
                 "Events",
                 "Dates"
@@ -536,6 +544,10 @@ export const universityofmanchester = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Manchester, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Manchester, UK - Reviews" },
@@ -554,6 +566,10 @@ export const universityofmanchester = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Manchester, UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -603,6 +619,10 @@ export const universityofmanchester = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Manchester, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Manchester, UK - Gallery" },
@@ -621,6 +641,10 @@ export const universityofmanchester = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'University of Manchester, UK - Scholarship'
+        },
         {
             "type": "table",
             "title": "Scholarship",
@@ -716,6 +740,10 @@ export const universityofmanchester = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Manchester, UK - Faculty'
+        },
+        {
             "type": "table",
             "title": "",
             "info": "",
@@ -766,6 +794,10 @@ export const universityofmanchester = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Manchester, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Manchester, UK - News & Articles" },
@@ -785,9 +817,13 @@ export const universityofmanchester = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Manchester, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The university helps students with spacious housing facilities:</b>",
+            "info": "The university helps students with spacious housing facilities:",
             "data": [
                 "The university has provisions of 8,000 rooms in 19 halls for the international students to accommodate. These accommodations are near the university’s buildings.",
                 "It has modern self-catering flats, college-style traditional Halls of residence.",
@@ -815,9 +851,13 @@ export const universityofmanchester = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Manchester, UK - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Manchester - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Which English proficiency test score is accepted by the university?",

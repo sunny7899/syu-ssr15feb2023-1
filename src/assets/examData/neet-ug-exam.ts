@@ -59,7 +59,7 @@ export const neetugexam = {
         {
             "type": "text",
             "title": "",
-            "data": '<h3><a href="https://www.selectyouruniversity.com/neet-ug-rank-predictor.php" target="_blank">Click here to Check your NEET Rank</a></h3>'
+            "data": '<h3><a href="neet-rank-predictor/." target="_blank">Click here to Check your NEET Rank</a></h3>'
         },
         {
             "type": "table",
@@ -170,7 +170,7 @@ export const neetugexam = {
         {
             "type": "text",
             "title": "",
-            "data": '<h3 id="blink_me"><a href="https://www.selectyouruniversity.com/neet-ug-rank-predictor.php" target="_blank" style="color: #fff;" >Click here to Check your NEET Rank</a></h3>'
+            "data": '<h3 id="blink_me"><a href="neet-rank-predictor/." target="_blank" style="color: #fff;" >Click here to Check your NEET Rank</a></h3>'
         },
         {
             "type": "list-bollet",
@@ -210,7 +210,7 @@ export const neetugexam = {
         {
             "type": "step-list",
             "title": "How to Apply for NEET UG Exam 2022?",
-            "info":"The application process for the NEET Entrance Test is submitted through the online portal on the official website of NEET. There is no other mode for online application process of NEET entrance exam.",
+            "info": "The application process for the NEET Entrance Test is submitted through the online portal on the official website of NEET. There is no other mode for online application process of NEET entrance exam.",
             "data": [
                 "<b>Step 1:</b>Go to the website of <a href=https://nta.ac.in/medicalexam target=_blank>NTA Exam</a>",
                 "<b>Step 2:</b>There are 5 options are available on the website: (Engineering, Medical, Management, College/University, Teaching).",
@@ -423,24 +423,30 @@ export const neetugexam = {
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "NEET UG Exam 2023: Answer Key (Released), Cutoff, Analysis, Paper Pattern" },
-              { name: "description", content: "NEET exam is a national-level medical entrance exam in India. Learn more about the Eligibility, Syllabus, Exam pattern, Important dates, Rules & Regulations." },
+                { name: "title", content: "NEET UG Exam 2023: Answer Key (Released), Cutoff, Analysis, Paper Pattern" },
+                { name: "description", content: "NEET exam is a national-level medical entrance exam in India. Learn more about the Eligibility, Syllabus, Exam pattern, Important dates, Rules & Regulations." },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "NEET UG Exam 2023: Answer Key (Released), Cutoff, Analysis, Paper Pattern"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "NEET UG Exam 2023: Answer Key (Released), Cutoff, Analysis, Paper Pattern"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam" }
+            ]
+        }
 
     ],
-    "examdate":[
-        
+    "examdate": [
+        {
+            type: 'title',
+            title: 'NEET UG Exam 2023 - Exam Date'
+        },
+
         {
             "type": "list-bollet",
             "title": "About NEET Syllabus",
@@ -611,43 +617,54 @@ export const neetugexam = {
         },
 
         {
-          type:"meta",
-          meta: [
-            { name: "title", content: "NEET UG Exam 2023 - Exam Date" },
-            { name: "description", content: "Get latest updates on the NEET UG Exam date. Get all the details including registration, eligibility, syllabus and more on our website." },
-          ],
-          },
-          {
-          type:"meta-title",
-          title: "NEET UG Exam 2023 - Exam Date"},
-          {
-          type:"meta-links",
-          link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam/exam-date" }
-          ]}
-          ],
-    "syllabus":[
-        
+            type: "meta",
+            meta: [
+                { name: "title", content: "NEET UG Exam 2023 - Exam Date" },
+                { name: "description", content: "Get latest updates on the NEET UG Exam date. Get all the details including registration, eligibility, syllabus and more on our website." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "NEET UG Exam 2023 - Exam Date"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam/exam-date" }
+            ]
+        }
+    ],
+    "syllabus": [
+        {
+            type: 'title',
+            title: 'NEET UG Exam 2023 - Syllabus'
+        },
 
-      
-    {
-      type:"meta",
-      meta: [
-        { name: "title", content: "NEET UG Exam 2023 - Syllabus" },
-        { name: "description", content: "Prepare for the NEET UG Exam with the complete and updated syllabus. Find the detailed subject-wise syllabus, exam pattern and more on our website." },
-      ],
-      },
-      {
-      type:"meta-title",
-      title: "NEET UG Exam 2023 - Syllabus"},
-      {
-      type:"meta-links",
-      link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam/syllabus" }
-      ]}
-      ],
-      "cutoff":[
-        
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "NEET UG Exam 2023 - Syllabus" },
+                { name: "description", content: "Prepare for the NEET UG Exam with the complete and updated syllabus. Find the detailed subject-wise syllabus, exam pattern and more on our website." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "NEET UG Exam 2023 - Syllabus"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam/syllabus" }
+            ]
+        }
+    ],
+    "cutoff": [
+        {
+            type: 'title',
+            title: 'NEET UG Exam 2023 - Cut Off'
+        },
+
         {
             "type": "table",
             "title": "NEET Cut-Off 2021: Number of Category Wise Qualified Candidates",
@@ -662,50 +679,50 @@ export const neetugexam = {
                 {
                     "Category": "<b>UR/EWS</b>",
                     "NEET Percentile": "50th Percentile",
-                    "NEET Cut off Score":"720-138",
-                    "NEET Qualified Candidates":"770857"
+                    "NEET Cut off Score": "720-138",
+                    "NEET Qualified Candidates": "770857"
                 },
                 {
                     "Category": "<b>OBC</b>",
                     "NEET Percentile": "40th Percentile",
-                    "NEET Cut off Score":"137-108",
-                    "NEET Qualified Candidates":"66978"
+                    "NEET Cut off Score": "137-108",
+                    "NEET Qualified Candidates": "66978"
                 },
                 {
                     "Category": "<b>SC</b>",
                     "NEET Percentile": "40th Percentile",
-                    "NEET Cut off Score":"137-108",
-                    "NEET Qualified Candidates":"22384"
+                    "NEET Cut off Score": "137-108",
+                    "NEET Qualified Candidates": "22384"
                 },
                 {
                     "Category": "<b>ST</b>",
                     "NEET Percentile": "40th Percentile",
-                    "NEET Cut off Score":"137-108",
-                    "NEET Qualified Candidates":"9312"
+                    "NEET Cut off Score": "137-108",
+                    "NEET Qualified Candidates": "9312"
                 },
                 {
                     "Category": "<b>UR/EWS & PwD</b>",
                     "NEET Percentile": "45th Percentile",
-                    "NEET Cut off Score":"137-108",
-                    "NEET Qualified Candidates":"313"
+                    "NEET Cut off Score": "137-108",
+                    "NEET Qualified Candidates": "313"
                 },
                 {
                     "Category": "<b>OBC & PwD</b>",
                     "NEET Percentile": "40th Percentile",
-                    "NEET Cut off Score":"137-108",
-                    "NEET Qualified Candidates":"157"
+                    "NEET Cut off Score": "137-108",
+                    "NEET Qualified Candidates": "157"
                 },
                 {
                     "Category": "<b>SC & PwD</b>",
                     "NEET Percentile": "40th Percentile",
-                    "NEET Cut off Score":"137-108",
-                    "NEET Qualified Candidates":"59"
+                    "NEET Cut off Score": "137-108",
+                    "NEET Qualified Candidates": "59"
                 },
                 {
                     "Category": "<b>SC & PwD</b>",
                     "NEET Percentile": "40th Percentile",
-                    "NEET Cut off Score":"137-108",
-                    "NEET Qualified Candidates":"14"
+                    "NEET Cut off Score": "137-108",
+                    "NEET Qualified Candidates": "14"
                 }
             ]
         },
@@ -726,158 +743,167 @@ export const neetugexam = {
                 {
                     "Category": "<b>UR/EWS</b>",
                     "Qualifying Criteria": "50th Percentile",
-                    "Marks Range (NEET(UG) 2021)":"720-138",
-                    "No. of Candidates":"770881",
-                    "Marks Range1 (NEET(UG) 2022)":"715-117",
-                    "No. of Candidates1":"881402"
+                    "Marks Range (NEET(UG) 2021)": "720-138",
+                    "No. of Candidates": "770881",
+                    "Marks Range1 (NEET(UG) 2022)": "715-117",
+                    "No. of Candidates1": "881402"
                 },
                 {
                     "Category": "<b>OBC</b>",
                     "Qualifying Criteria": "40th Percentile",
-                    "Marks Range (NEET(UG) 2021)":"137 - 108",
-                    "No. of Candidates":"66907",
-                    "Marks Range1 (NEET(UG) 2022)":"116-93",
-                    "No. of Candidates1":"74458"
+                    "Marks Range (NEET(UG) 2021)": "137 - 108",
+                    "No. of Candidates": "66907",
+                    "Marks Range1 (NEET(UG) 2022)": "116-93",
+                    "No. of Candidates1": "74458"
                 },
                 {
                     "Category": "<b>UR/EWS</b>",
                     "Qualifying Criteria": "40th Percentile",
-                    "Marks Range (NEET(UG) 2021)":"137 - 108",
-                    "No. of Candidates":"22384",
-                    "Marks Range1 (NEET(UG) 2022)":"116-93",
-                    "No. of Candidates1":"26087"
+                    "Marks Range (NEET(UG) 2021)": "137 - 108",
+                    "No. of Candidates": "22384",
+                    "Marks Range1 (NEET(UG) 2022)": "116-93",
+                    "No. of Candidates1": "26087"
                 },
                 {
                     "Category": "<b>UR/EWS</b>",
                     "Qualifying Criteria": "40th Percentile",
-                    "Marks Range (NEET(UG) 2021)":"137 - 108",
-                    "No. of Candidates":"9310",
-                    "Marks Range1 (NEET(UG) 2022)":"116-93",
-                    "No. of Candidates1":"10565"
+                    "Marks Range (NEET(UG) 2021)": "137 - 108",
+                    "No. of Candidates": "9310",
+                    "Marks Range1 (NEET(UG) 2022)": "116-93",
+                    "No. of Candidates1": "10565"
                 },
                 {
                     "Category": "<b>URI EWS& PH</b>",
                     "Qualifying Criteria": "45th Percentile",
-                    "Marks Range (NEET(UG) 2021)":"137- 122",
-                    "No. of Candidates":"132",
-                    "Marks Range1 (NEET(UG) 2022)":"116-105",
-                    "No. of Candidates1":"328"
+                    "Marks Range (NEET(UG) 2021)": "137- 122",
+                    "No. of Candidates": "132",
+                    "Marks Range1 (NEET(UG) 2022)": "116-105",
+                    "No. of Candidates1": "328"
                 },
                 {
                     "Category": "<b>OBC & PH</b>",
                     "Qualifying Criteria": "40th Percentile",
-                    "Marks Range (NEET(UG) 2021)":"137 - 108",
-                    "No. of Candidates":"288",
-                    "Marks Range1 (NEET(UG) 2022)":"715-117",
-                    "No. of Candidates1":"881402"
+                    "Marks Range (NEET(UG) 2021)": "137 - 108",
+                    "No. of Candidates": "288",
+                    "Marks Range1 (NEET(UG) 2022)": "715-117",
+                    "No. of Candidates1": "881402"
                 },
                 {
                     "Category": "<b>UR,EWS</b>",
                     "Qualifying Criteria": "50th Percentile",
-                    "Marks Range (NEET(UG) 2021)":"137 - 108",
-                    "No. of Candidates":"98",
-                    "Marks Range1 (NEET(UG) 2022)":"104-93",
-                    "No. of Candidates1":"160"
+                    "Marks Range (NEET(UG) 2021)": "137 - 108",
+                    "No. of Candidates": "98",
+                    "Marks Range1 (NEET(UG) 2022)": "104-93",
+                    "No. of Candidates1": "160"
                 },
                 {
                     "Category": "<b>UR,EWS</b>",
                     "Qualifying Criteria": "50th Percentile",
-                    "Marks Range (NEET(UG) 2021)":"137 - 108",
-                    "No. of Candidates":"21",
-                    "Marks Range1 (NEET(UG) 2022)":"104-93",
-                    "No. of Candidates1":"56"
+                    "Marks Range (NEET(UG) 2021)": "137 - 108",
+                    "No. of Candidates": "21",
+                    "Marks Range1 (NEET(UG) 2022)": "104-93",
+                    "No. of Candidates1": "56"
                 },
                 {
                     "Category": "<b>UR,EWS</b>",
                     "Qualifying Criteria": "50th Percentile",
-                    "Marks Range (NEET(UG) 2021)":"720- 138",
-                    "No. of Candidates":"770881",
-                    "Marks Range1 (NEET(UG) 2022)":"104-93",
-                    "No. of Candidates1":"13"
+                    "Marks Range (NEET(UG) 2021)": "720- 138",
+                    "No. of Candidates": "770881",
+                    "Marks Range1 (NEET(UG) 2022)": "104-93",
+                    "No. of Candidates1": "13"
                 },
                 {
                     "Category": "",
                     "Qualifying Criteria": "",
-                    "Marks Range (NEET(UG) 2021)":"<b>Total</b>",
-                    "No. of Candidates":"87007",
-                    "Marks Range1 (NEET(UG) 2022)":"",
-                    "No. of Candidates1":"993069"
+                    "Marks Range (NEET(UG) 2021)": "<b>Total</b>",
+                    "No. of Candidates": "87007",
+                    "Marks Range1 (NEET(UG) 2022)": "",
+                    "No. of Candidates1": "993069"
                 }
             ]
         },
 
-      
-    {
-      type:"meta",
-      meta: [
-        { name: "title", content: "NEET UG Exam 2023 - Cut Off" },
-        { name: "description", content: "Get latest NEET UG Exam cut off marks for top medical colleges. Find the cut off for previous years, expected cut off and more on our website." },
-      ],
-      },
-      {
-      type:"meta-title",
-      title: "NEET UG Exam 2023 - Cut Off"},
-      {
-      type:"meta-links",
-      link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam/cut-off" }
-      ]}
-      ],
-      
-        "faq": [
-            {
-                "type": "question-list",
-                "title": "Important FAQs about NEET Exam 2023",
-                "info": "Following are the most frequently asked questions on quora:",
-                "data": [
-                    {
-                      "ques": "Q. Is NEET UG end result out 2022?",
-                      "ans": "Yes, NTA introduced the NEET UG end result 2022 on September 7. A total of 9,93,069 applicants have qualified the examination."
-                    },
-                    { "ques": "Q. Who is the topper of NEET this year?",
-                      "ans": "Tanishka who secured 715 marks is the topper of NEET UG this year."
-                    },
-                    {
-                        "ques": "Q. What are the overall marks of NEET?",
-                        "ans": "The National Testing Agency has specified the overall marks of NEET is 720. NEET 2020 overall marks include 360 marks from Biology, 180 marks for Physics, and 180 marks for Chemistry."
-                    },
-                    {
-                        "ques": "Q. What should be the minimum aggregate marks to become eligible for exam?",
-                        "ans": "At least 50% in PCB for General Category Students and 40% for Reserved Category Students."
-                    },
-                    {
-                        "ques": "Q. Is the Mental Health issues are included in the ph quota of NEET Exam?",
-                        "ans": "Depend upon severity and Intensity of the issue, the application is granted for those students"
-                    },
-                    {
-                        "ques": "Q. Will Overseas Citizens are eligible to apply for the exam?",
-                        "ans": "Yes, Overseas Citizens are eligible to apply for the exam."
-                    },
-                    {
-                        "ques": "Q. How many questions are there for NEET Exam?",
-                        "ans": "NEET exam has a total no. of 180 questions."
-                    }
-                ]
-            },
-        
-      {
-        type:"meta",
-        meta: [
-          { name: "title", content: "NEET UG Exam 2023 - FAQ" },
-          { name: "description", content: "Find answers to all your NEET UG Exam queries like information on registration, eligibility, exam pattern, syllabus & many more." },
-        ],
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "NEET UG Exam 2023 - Cut Off" },
+                { name: "description", content: "Get latest NEET UG Exam cut off marks for top medical colleges. Find the cut off for previous years, expected cut off and more on our website." },
+            ],
         },
         {
-        type:"meta-title",
-        title: "NEET UG Exam 2023 - FAQ"},
+            type: "meta-title",
+            title: "NEET UG Exam 2023 - Cut Off"
+        },
         {
-        type:"meta-links",
-        link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam/faq" }
-        ]}
-        ],
-    
-    
-    
-}    
-    
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam/cut-off" }
+            ]
+        }
+    ],
+
+    "faq": [
+        {
+            type: 'title',
+            title: 'NEET UG Exam 2023 - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Important FAQs about NEET Exam 2023",
+            "info": "Following are the most frequently asked questions on quora:",
+            "data": [
+                {
+                    "ques": "Q. Is NEET UG end result out 2022?",
+                    "ans": "Yes, NTA introduced the NEET UG end result 2022 on September 7. A total of 9,93,069 applicants have qualified the examination."
+                },
+                {
+                    "ques": "Q. Who is the topper of NEET this year?",
+                    "ans": "Tanishka who secured 715 marks is the topper of NEET UG this year."
+                },
+                {
+                    "ques": "Q. What are the overall marks of NEET?",
+                    "ans": "The National Testing Agency has specified the overall marks of NEET is 720. NEET 2020 overall marks include 360 marks from Biology, 180 marks for Physics, and 180 marks for Chemistry."
+                },
+                {
+                    "ques": "Q. What should be the minimum aggregate marks to become eligible for exam?",
+                    "ans": "At least 50% in PCB for General Category Students and 40% for Reserved Category Students."
+                },
+                {
+                    "ques": "Q. Is the Mental Health issues are included in the ph quota of NEET Exam?",
+                    "ans": "Depend upon severity and Intensity of the issue, the application is granted for those students"
+                },
+                {
+                    "ques": "Q. Will Overseas Citizens are eligible to apply for the exam?",
+                    "ans": "Yes, Overseas Citizens are eligible to apply for the exam."
+                },
+                {
+                    "ques": "Q. How many questions are there for NEET Exam?",
+                    "ans": "NEET exam has a total no. of 180 questions."
+                }
+            ]
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "NEET UG Exam 2023 - FAQ" },
+                { name: "description", content: "Find answers to all your NEET UG Exam queries like information on registration, eligibility, exam pattern, syllabus & many more." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "NEET UG Exam 2023 - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-ug-exam/faq" }
+            ]
+        }
+    ],
+
+
+
+}
+

@@ -21,7 +21,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Gomel State Medical University - Quick Highlights 2022",
-            "info": "<b>The students must go through a brief overview of the major attributes of the Gomel State Medical University:</b>",
+            "info": "The students must go through a brief overview of the major attributes of the Gomel State Medical University:",
             "col": [
             ],
             "row": [
@@ -38,7 +38,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Gomel State Medical University?",
-            "info": "<b>There are several favourable reasons, why students urge to choose Gomel State Medical University to study MBBS course:</b>",
+            "info": "There are several favourable reasons, why students urge to choose Gomel State Medical University to study MBBS course:",
             "img": '',
             "data": [
                 "The MBBS degree offered by Gomel State Medical University will have official recognition by many known organisations.",
@@ -63,7 +63,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The MBBS degree awarded from the Gomel State Medical University is fully recognized by different organisations:</b>",
+            "info": "The MBBS degree awarded from the Gomel State Medical University is fully recognized by different organisations:",
             "img": '',
             "data": [
                 "World Health Organization (WHO)",
@@ -79,7 +79,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Gomel State Medical University - Ranking 2022",
-            "info": "<b>According to Unirank 4icu, the country & world ranking of Gomel State Medical University is as follows:</b>",
+            "info": "According to Unirank 4icu, the country & world ranking of Gomel State Medical University is as follows:",
             "col": [
                 "World	",
                 "Country",
@@ -96,7 +96,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost of Gomel",
-            "info": "<b>The living expenses of Gomel is cost-effective, the students must refer to the table mentioned below to know about the monthly based cost varying according to the individual needs:</b>",
+            "info": "The living expenses of Gomel is cost-effective, the students must refer to the table mentioned below to know about the monthly based cost varying according to the individual needs:",
             "col": [
                 "Particular	",
                 "Amount in USD",
@@ -120,7 +120,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Gomel City",
-            "info": "<b>Let’s get to know about Gomel city:</b>",
+            "info": "Let’s get to know about Gomel city:",
             "img": 'https://www.selectyouruniversity.com/images/belarus-universities/gomel-city.jpg',
             "data": [
                 "Founded in 1142, Gomel is the largest regional city in Belarus.",
@@ -151,9 +151,14 @@ export const gomelstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Gomel State Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Gomel State Medical University - MBBS Fee Structure",
-            "info": "<b>Gomel State Medical University offers MBBS education at affordable prices that allow the students to get an excellent education at the most reduced rates:</b>",
+            "info": "Gomel State Medical University offers MBBS education at affordable prices that allow the students to get an excellent education at the most reduced rates:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -206,7 +211,7 @@ export const gomelstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Courses offered at Gomel State Medical University',
-            info: '<b>Gomel State Medical University offers multiple courses to achieve quality education and an exciting career:</b>',
+            info: 'Gomel State Medical University offers multiple courses to achieve quality education and an exciting career:',
             data: [
                 "Diagnostic",
                 "Medicine",
@@ -217,7 +222,7 @@ export const gomelstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Gomel State Medical University - MBBS Duration',
-            info: '<b>The entire MBBS program takes 5 years of duration including a 1-year of internship at Gomel State Medical University:</b>',
+            info: 'The entire MBBS program takes 5 years of duration including a 1-year of internship at Gomel State Medical University:',
             data: [
                 "Gomel State Medical University offers 5 years of MBBS program in the English medium.",
                 "It has renowned and dedicated professors providing the students with basic medical knowledge by conducting theoretical as well as practical classes.",
@@ -228,7 +233,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Gomel State Medical University - MBBS Syllabus",
-            "info": "<b>The candidates should check out the organized syllabus of the MBBS course at Gomel State Medical University:</b>",
+            "info": "The candidates should check out the organized syllabus of the MBBS course at Gomel State Medical University:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -332,9 +337,14 @@ export const gomelstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Gomel State Medical University - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria must be kept in mind while applying for the MBBS program at Gomel State Medical University:</b>",
+            "info": "The eligibility criteria must be kept in mind while applying for the MBBS program at Gomel State Medical University:",
             "data": [
                 "The age of the candidate should not be below 17 years and not more than 25 years old.",
                 "The students must complete SSC and HSC examinations with good scores for getting admission at GSMU.",
@@ -347,7 +357,7 @@ export const gomelstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Here is the step-to-step guide about the MBBS admission at Gomel State Medical University:</b>',
+            info: 'Here is the step-to-step guide about the MBBS admission at Gomel State Medical University',
             data: [
                 "Step 1: Fill out the online application form of the Gomel State Medical University.",
                 "Step 2: Submit the important documents with the application form and submit it.",
@@ -360,7 +370,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The students who dream to pursue MBBS in Gomel State Medical University must submit the following documents:</b>",
+            "info": "The students who dream to pursue MBBS in Gomel State Medical University must submit the following documents:",
             "data": [
                 "Application form",
                 "SSC certificate",
@@ -385,7 +395,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Academic Calendar: Intake 2022",
-            "info": "<b>The students must check out some important admission dates for taking admission at Gomel State Medical University:</b>",
+            "info": "The students must check out some important admission dates for taking admission at Gomel State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -425,6 +435,11 @@ export const gomelstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Gomel State Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Gomel State Medical University - Reviews" },
@@ -443,6 +458,11 @@ export const gomelstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Gomel State Medical University - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -463,6 +483,11 @@ export const gomelstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Gomel State Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Gomel State Medical University - Gallery" },
@@ -482,9 +507,14 @@ export const gomelstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Gomel State Medical University - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Gomel State Medical University believe that money should not roadblock for the student with innovative ideas for a better future:</b>",
+            "info": "Gomel State Medical University believe that money should not roadblock for the student with innovative ideas for a better future:",
             "data": [
                 "Gomel State Medical University offers a scholarship program for the students during medicine course education.",
                 "The deserving candidates will get a scholarship based on certain criteria that usually accounts for the academic record of the students."
@@ -493,7 +523,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Gomel State Medical University",
-            "info": "<b>The Gomel State Medical University furnishes all basic facilities to the students during MBBS education:</b>",
+            "info": "The Gomel State Medical University furnishes all basic facilities to the students during MBBS education:",
             "data": [
                 "hostel",
                 "Security",
@@ -523,6 +553,11 @@ export const gomelstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Gomel State Medical University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Gomel State Medical University - Faculty" },
@@ -541,6 +576,11 @@ export const gomelstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Gomel State Medical University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -561,9 +601,14 @@ export const gomelstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Gomel State Medical University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Gomel State Medical University offers convenient accommodation with all basic amenities for worldwide students looking for MBBS education:</b>",
+            "info": "Gomel State Medical University offers convenient accommodation with all basic amenities for worldwide students looking for MBBS education:",
             "data": [
                 "Gomel State Medical University offers 4 developed hostels at a reasonable price.",
                 "The hostel is well-organized and fully furnished.",
@@ -575,7 +620,7 @@ export const gomelstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The rooms are well-equipped with all the modern amenities fulfilling the basic requirements -</b>",
+            "info": "The rooms are well-equipped with all the modern amenities fulfilling the basic requirements -",
             "data": [
                 "TV",
                 "Pillow",
@@ -616,58 +661,63 @@ export const gomelstatemedicaluniversity = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Gomel State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Are there any other expenses than medicine fees while doing MBBS at the Gomel State Medical University?",
-                    "ans": "Yes, there are a lot of other expenses while doing MBBS at the Gomel State Medical University, which is quite affordable to students including hostel fees, transportation costs, clothes costs, and meal costs, etc."
-                },
-                {
-                    "ques": "Q. How many years of the medical program offered by the Gomel State Medical University",
-                    "ans": "The Gomel State Medical University offers 5 years of medical studies and 1 year of mandatory internship."
-                },
-                {
-                    "ques": "Q. What is the medium of teaching for medicine programs at the Gomel State Medical University?",
-                    "ans": "The Gomel State Medical University offers an English medium of teaching for studying MBBS."
-                },
-                {
-                    "ques": "Q. What will be the transportation cost of the city during MBBS Education at the Gomel State Medical University?",
-                    "ans": "560 Rs is required for transportation during medicine education at Gomel State Medical University."
-                },
-                {
-                    "ques": "Q. Is there Indian food available at the Gomel State Medical University?",
-                    "ans": "Yes, healthy and fresh Indian food is available in the university canteen of the Gomel State Medical University."
-                },
-                {
-                    "ques": "Q. Do we require to sit for any English proficiency test to enroll in the medicine program at Gomel State Medical University?",
-                    "ans": "No, the students don't need English proficiency exam clearance to study medicine at Gomel State Medical University."
-                },
-                {
-                    "ques": "Q. Can we take holidays in between MBBS education at Gomel State Medical University?",
-                    "ans": "No, The students are allowed to take leave only in emergency cases."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Gomel State Medical University - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Gomel State Medical University - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gomel-state-medical-university/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Gomel State Medical University - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "Gomel State Medical University - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. Are there any other expenses than medicine fees while doing MBBS at the Gomel State Medical University?",
+                        "ans": "Yes, there are a lot of other expenses while doing MBBS at the Gomel State Medical University, which is quite affordable to students including hostel fees, transportation costs, clothes costs, and meal costs, etc."
+                    },
+                    {
+                        "ques": "Q. How many years of the medical program offered by the Gomel State Medical University",
+                        "ans": "The Gomel State Medical University offers 5 years of medical studies and 1 year of mandatory internship."
+                    },
+                    {
+                        "ques": "Q. What is the medium of teaching for medicine programs at the Gomel State Medical University?",
+                        "ans": "The Gomel State Medical University offers an English medium of teaching for studying MBBS."
+                    },
+                    {
+                        "ques": "Q. What will be the transportation cost of the city during MBBS Education at the Gomel State Medical University?",
+                        "ans": "560 Rs is required for transportation during medicine education at Gomel State Medical University."
+                    },
+                    {
+                        "ques": "Q. Is there Indian food available at the Gomel State Medical University?",
+                        "ans": "Yes, healthy and fresh Indian food is available in the university canteen of the Gomel State Medical University."
+                    },
+                    {
+                        "ques": "Q. Do we require to sit for any English proficiency test to enroll in the medicine program at Gomel State Medical University?",
+                        "ans": "No, the students don't need English proficiency exam clearance to study medicine at Gomel State Medical University."
+                    },
+                    {
+                        "ques": "Q. Can we take holidays in between MBBS education at Gomel State Medical University?",
+                        "ans": "No, The students are allowed to take leave only in emergency cases."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Gomel State Medical University - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Gomel State Medical University - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/gomel-state-medical-university/faq" }
+                ]
+            }
+        ]
 }

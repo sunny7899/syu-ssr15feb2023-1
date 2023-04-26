@@ -19,7 +19,7 @@ export const poloniauniversity = {
         {
             "type": "table-title",
             "title": "Polonia University - Quick Overview",
-            "info": "<b>The table shows the quick highlights of the Polonia University for the BBA study at Poland Czestochowa:</b>",
+            "info": "The table shows the quick highlights of the Polonia University for the BBA study at Poland Czestochowa:",
             "col": [
 
             ],
@@ -37,7 +37,7 @@ export const poloniauniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose Polonia University?",
-            "info": "<b>Some of the many features of Polonia University are:</b>",
+            "info": "Some of the many features of Polonia University are:",
             "data": [
                 "Polonia is one of the leading business universities in Poland in the Czestochowa region.",
                 "Polonia University is also one of the top private universities known for its teaching and ERASMUS programs.",
@@ -50,7 +50,7 @@ export const poloniauniversity = {
         {
             "type": "table",
             "title": "Polonia University - Ranking 2022",
-            "info": "<b>The applicants must check out the world and country ranking of Polonia University:</b>",
+            "info": "The applicants must check out the world and country ranking of Polonia University:",
             "col": [
                 "Country",
                 "World"
@@ -65,13 +65,13 @@ export const poloniauniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The Polonia University serves the BBA degrees in the following medium for international students only:</b>",
+            "info": "The Polonia University serves the BBA degrees in the following medium for international students only:",
             "data": "<p><b>The Polonia University serves the BBA degrees in the following medium for international students only:</b></p><p>The Polonia University offers bachelor’s and Master’s courses in the English language especially for foreign students studying BBA in Poland.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Accreditation",
-            "info": "<b>The following accreditation is obtained to the Polonia:</b>",
+            "info": "The following accreditation is obtained to the Polonia:",
             "data": [
                 "The Private University of Polonia is officially accredited by the Ministry of Science and Higher Education of Poland."
             ]
@@ -79,7 +79,7 @@ export const poloniauniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living of Heidelberg city is mentioned in the table:</b>",
+            "info": "The cost of living of Heidelberg city is mentioned in the table:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -135,9 +135,14 @@ export const poloniauniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Polonia University, Poland - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Polonia University - Fee Structure 2022",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "col": [
                 "Particulars",
                 "Annual Fee",
@@ -165,7 +170,7 @@ export const poloniauniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "col": [
                 "Particulars",
                 "Annual Fee",
@@ -193,7 +198,7 @@ export const poloniauniversity = {
         {
             "type": "list-bollet",
             "title": "Course Duration",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "data": [
                 "The duration of the Bachelor Degree course at the Polonia University of Poland for international students as well as native students is 3 years program. Which consists of 6 semesters of the curriculum in an English classroom medium."
             ]
@@ -201,7 +206,7 @@ export const poloniauniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "data": [
                 "The duration of the Master Degree course at the Polonia University of Poland for international students as well as native students is 2 years program. Which consists of 4 semesters of the curriculum in English classroom medium."
             ]
@@ -209,7 +214,7 @@ export const poloniauniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Polonia University",
-            "info": "<b>The list of degree programs offered at the Polonia University is elaborated as under:</b>",
+            "info": "The list of degree programs offered at the Polonia University is elaborated as under:",
             "data": [
                 "Medicine",
                 "Business administration",
@@ -237,6 +242,11 @@ export const poloniauniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Polonia University, Poland - Admission 2023"
+
+        },
+        {
             "type": "text",
             "title": "Admission Process",
             "data": "<p>Information regarding “How to Apply” is elaborated by the Polonia University only after the applicant request to the university on the given mail address given below: kancelaria@ap.edu.pl</p>"
@@ -244,7 +254,7 @@ export const poloniauniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "data": [
                 "The applicant must be between 18 to 25 age group for seeking admission to bachelor degree BBA at Polonia Poland University.<br><b>The applicant who is applying for the Bachelor degree programs at the Polonia University must be eligible with:</b>",
                 "High school diploma/10+2 from a government-recognized university or institute.",
@@ -261,7 +271,7 @@ export const poloniauniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "data": [
                 "The applicant must be below 30 years of age for seeking admission to a master’s degree at Polonia Poland University.<br><b>The applicant who is applying for the Master degree programs at the Polonia University must be eligible with:</b>",
                 "Bachelor’s degree from a government-recognized university or institute.",
@@ -278,7 +288,7 @@ export const poloniauniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "data": [
                 "Fee payment bank receipt",
                 "Secondary school leaving certificate/10th class(translation in Polish/English)",
@@ -298,7 +308,7 @@ export const poloniauniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "data": [
                 "Fee payment bank receipt",
                 "Secondary school leaving certificate/10th class(translation in Polish/English)",
@@ -319,7 +329,7 @@ export const poloniauniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The admission schedule of the university of Polonia is noted in the below table:</b>",
+            "info": "The admission schedule of the university of Polonia is noted in the below table:",
             "col": [
                 "Events",
                 "Dates",
@@ -364,6 +374,11 @@ export const poloniauniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Polonia University, Poland - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Polonia University, Poland - Reviews" },
@@ -382,6 +397,11 @@ export const poloniauniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Polonia University, Poland - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -402,6 +422,11 @@ export const poloniauniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Polonia University, Poland - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Polonia University, Poland - Gallery" },
@@ -421,9 +446,14 @@ export const poloniauniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Polonia University, Poland - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following are the scholarships offered by the Polonia University  -</b>",
+            "info": "Following are the scholarships offered by the Polonia University  -",
             "data": [
                 "Asylum Seekers and Refugees Scholarship",
                 "Saint Patrick's Day Greening Scholarship",
@@ -451,6 +481,11 @@ export const poloniauniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Polonia University, Poland - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Polonia University, Poland - Faculty" },
@@ -469,6 +504,11 @@ export const poloniauniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Polonia University, Poland - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -489,9 +529,14 @@ export const poloniauniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Polonia University, Poland - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The Polonia University hostel features as noted below:</b>",
+            "info": "The Polonia University hostel features as noted below:",
             "data": [
                 "The Polonia University is studded with the on-campus facility at a walking distance of not more than 5 mins.",
                 "The University of Polonia arranged residence for international students and their guest’s comfortable stay.",
@@ -532,9 +577,14 @@ export const poloniauniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Polonia University, Poland - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Polonia University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the significance of Polonia University?",

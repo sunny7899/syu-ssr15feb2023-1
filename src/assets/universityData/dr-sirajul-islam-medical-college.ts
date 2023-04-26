@@ -19,7 +19,7 @@ export const drsirajulislammedicalcollege = {
     {
       "type": "table-title",
       "title": "Dr. Sirajul Islam Medical College - Quick Highlights",
-      "info": "<b>Given below is the table for quick overview about Dr. Sirajul Islam Medical College & Hospital Ltd.:</b>",
+      "info": "Given below is the table for quick overview about Dr. Sirajul Islam Medical College & Hospital Ltd.:",
       "col": [],
       "row": [
         ["<b>Intake for MBBS Course</b>", "September"],
@@ -36,7 +36,7 @@ export const drsirajulislammedicalcollege = {
     {
       "type": 'list-bollet',
       "title": 'Why Study MBBS at Dr. Sirajul Islam Medical College?',
-      "info": '<b>Students must read the below-given benefits which will make you realize that your decision of studying at this university is correct:</b>',
+      "info": 'Students must read the below-given benefits which will make you realize that your decision of studying at this university is correct:',
       "data": [
         "The college believes in the overall development of every student and thus it encourages students to take part in various activities such as student exchange programs, seminars, conferences, debates, etc.",
         "There is a sports club at the university where students can get themselves enrolled and enjoy various sports such as football, table tennis, basketball, etc.",
@@ -49,13 +49,13 @@ export const drsirajulislammedicalcollege = {
     {
       "type": "text",
       "title": "Medium of Teaching",
-      "info": "",
-      "data": "<p><b>The medium of teaching at Dr.Sirajul Islam Medical College is mentioned below:</b></p><p>At Dr.Sirajul Islam Medical College, the medium of teaching is English. It would be beneficial for both local as well as international students.</p>"
+      "info": "The medium of teaching at Dr.Sirajul Islam Medical College is mentioned below:",
+      "data": "<p>At Dr.Sirajul Islam Medical College, the medium of teaching is English. It would be beneficial for both local as well as international students.</p>"
     },
     {
       "type": "list-bollet",
       "title": "Life of Students",
-      "info": "<b>Students are offered plenty of facilities at Dr. Sirajul Islam Medical College and the university takes care of the physical and mental health of the students:</b>",
+      "info": "Students are offered plenty of facilities at Dr. Sirajul Islam Medical College and the university takes care of the physical and mental health of the students:",
       "data": [
         "Dr. Sirajul Islam Medical College offers hostel facilities to its students.",
         "The university has modern hostel accommodation with fully furnished rooms with all the necessary facilities. Indian food is also easily available at the hostel mess of the university.",
@@ -67,7 +67,7 @@ export const drsirajulislammedicalcollege = {
     {
       "type": "table",
       "title": "Cost of Living in Dhaka",
-      "info": "<b>Find below the approximate living cost of city Dhaka:</b>",
+      "info": "Find below the approximate living cost of city Dhaka:",
       "col": [
         "Activity",
         "Cost",
@@ -100,7 +100,7 @@ export const drsirajulislammedicalcollege = {
       "type": 'list-bollet',
       "title": 'About Dhaka City',
       "img": 'images/bangladesh/dhaka-city.jpg',
-      "info": '<b>Some of the interesting and noticeable things about Dhaka city are given below:</b>',
+      "info": 'Some of the interesting and noticeable things about Dhaka city are given below:',
       "data": [
         "Dhaka is a megacity of Bangladesh with about 16 million people, and with an area of about 1353 sq. km.",
         "Dhaka is the geographic center of the country of Bangladesh.",
@@ -130,9 +130,13 @@ export const drsirajulislammedicalcollege = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Dr. Sirajul Islam Medical College, Bangladesh - courses & Fees"
+    },
+    {
       "type": "table",
       "title": "Dr. Sirajul Islam Medical College - MBBS Fee Structure 2022",
-      "info": "<b>Following is the fee structure for Dr. Sirajul Islam Medical College & Hospital Ltd. for MBBS:</b>",
+      "info": "Following is the fee structure for Dr. Sirajul Islam Medical College & Hospital Ltd. for MBBS:",
       "col": [
         "Particular",
         "Year 1",
@@ -180,7 +184,7 @@ export const drsirajulislammedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Courses Offered at Dr.Sirajul Islam Medical College",
-      "info": "<b>Below given are the various courses offered at Dr.Sirajul Islam Medical college:</b>",
+      "info": "Below given are the various courses offered at Dr.Sirajul Islam Medical college:",
       "data": [
         "General medicine (MBBS)",
         "Physical Medicine",
@@ -193,7 +197,7 @@ export const drsirajulislammedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Dr. Sirajul Islam Medical College - MBBS Duration",
-      "info": "<b>The duration for studying MBBS at Dr.Sirajul Islam Medical College is mentioned below:</b>",
+      "info": "The duration for studying MBBS at Dr.Sirajul Islam Medical College is mentioned below:",
       "data": [
         "The MBBS course in Bangladesh in all medical universities has a fixed duration and it is for 5 years and 6 months.",
         "The course in Bangladesh is divided into 3 phases which are pre-clinical, para-clinical, and clinical phases.",
@@ -203,7 +207,7 @@ export const drsirajulislammedicalcollege = {
     {
       "type": "table",
       "title": "Dr.Sirajul Islam Medical College - MBBS Syllabus",
-      "info": "<b>The syllabus for studying MBBS in Bangladesh at Dr. Sirajul Islam Medical College & Hospital Ltd. is given below:</b>",
+      "info": "The syllabus for studying MBBS in Bangladesh at Dr. Sirajul Islam Medical College & Hospital Ltd. is given below:",
       "col": [
         "Phase",
         "Duration",
@@ -257,9 +261,13 @@ export const drsirajulislammedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Dr. Sirajul Islam Medical College, Bangladesh - Admission 2023 "
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>Applicants must ensure that they fit in the following eligibility criteria to take admission to Dr.Sirajul Islam Medical College:</b>",
+      "info": "Applicants must ensure that they fit in the following eligibility criteria to take admission to Dr.Sirajul Islam Medical College:",
       "data": [
         "The candidate must be between 17 and 25 years old on or before the date on which the admission is being taken.",
         "The applicant should have scored at least 60% aggregate in all the above-mentioned subjects in 10+2 and 40% if the applicant falls under the reserved category.",
@@ -271,7 +279,7 @@ export const drsirajulislammedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>Below given is the admission process which students need to follow to take admission at Dr.Sirajul Islam Medical College:</b>',
+      info: 'Below given is the admission process which students need to follow to take admission at Dr.Sirajul Islam Medical College:',
       data: [
         "Step 1: Students should fill in the Application form available on the website or online.",
         "Step 2: Then, he/she should send the filled-in Application form together with the copies of the documents, necessary for the acquisition of the student’s status.",
@@ -283,7 +291,7 @@ export const drsirajulislammedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>Students must be ready with the below-mentioned documents at the time of admission to Dr.Sirajul Islam Medical College:</b>",
+      "info": "Students must be ready with the below-mentioned documents at the time of admission to Dr.Sirajul Islam Medical College:",
       "data": [
         "Copy Of Passport",
         "High School Mark sheet",
@@ -303,7 +311,7 @@ export const drsirajulislammedicalcollege = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>Check out the Important dates regarding admission at Dr.Sirajul Islam Medical college, Bangladesh:</b>",
+      "info": "Check out the Important dates regarding admission at Dr.Sirajul Islam Medical college, Bangladesh:",
       "col": [
         "Events",
         "Dates",
@@ -343,6 +351,10 @@ export const drsirajulislammedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Dr. Sirajul Islam Medical College, Bangladesh - Reviews"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Dr. Sirajul Islam Medical College, Bangladesh - Reviews" },
@@ -361,6 +373,10 @@ export const drsirajulislammedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Dr. Sirajul Islam Medical College, Bangladesh - Placement"
+    },
     {
       type: "meta",
       meta: [
@@ -381,6 +397,10 @@ export const drsirajulislammedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Dr. Sirajul Islam Medical College, Bangladesh - Gallery"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Dr. Sirajul Islam Medical College, Bangladesh - Gallery" },
@@ -399,6 +419,10 @@ export const drsirajulislammedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Dr. Sirajul Islam Medical College, Bangladesh - Scholarship"
+    },
     {
       type: "meta",
       meta: [
@@ -419,6 +443,10 @@ export const drsirajulislammedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Dr. Sirajul Islam Medical College, Bangladesh - Faculty"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Dr. Sirajul Islam Medical College, Bangladesh - Faculty" },
@@ -437,6 +465,10 @@ export const drsirajulislammedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Dr. Sirajul Islam Medical College, Bangladesh - News & Articles"
+    },
     {
       type: "meta",
       meta: [
@@ -457,19 +489,23 @@ export const drsirajulislammedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Dr. Sirajul Islam Medical College, Bangladesh - Hostel"
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>Following are the hostel facilities at Dr. Sirajul Islam Medical College:</b>",
+      "info": "Following are the hostel facilities at Dr. Sirajul Islam Medical College:",
       "data": [
-        " There are separate hostel facilities for both local and international students.",
-        " At a short walking distance from the college campus, the hostel building for foreign students is located.",
-        " There is a 5 storied hostel complex for foreign students which can accommodate 50 students.",
-        " To ensure the safety and security of students, especially girl students, special 24x7 security is provided to the hostels. The hostel is under the supervision of wardens.",
-        " With a separate kitchen on each floor, the building has well-furnished rooms for the students.",
-        " Thus, the university offers a safe, excellent, and peaceful environment for the students to study.",
-        " The hostel also provides recreational facilities for students indoors and outdoor.",
-        " At these hostels, the facility of central heating and cooling along with laundry facilities is available for all students.",
-        " On every floor of the hostel, there is a common room with a TV so that students can enjoy their leisure time."
+        "There are separate hostel facilities for both local and international students.",
+        "At a short walking distance from the college campus, the hostel building for foreign students is located.",
+        "There is a 5 storied hostel complex for foreign students which can accommodate 50 students.",
+        "To ensure the safety and security of students, especially girl students, special 24x7 security is provided to the hostels. The hostel is under the supervision of wardens.",
+        "With a separate kitchen on each floor, the building has well-furnished rooms for the students.",
+        "Thus, the university offers a safe, excellent, and peaceful environment for the students to study.",
+        "The hostel also provides recreational facilities for students indoors and outdoor.",
+        "At these hostels, the facility of central heating and cooling along with laundry facilities is available for all students.",
+        "On every floor of the hostel, there is a common room with a TV so that students can enjoy their leisure time."
       ]
     },
     {
@@ -505,9 +541,13 @@ export const drsirajulislammedicalcollege = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Dr. Sirajul Islam Medical College, Bangladesh - FAQ"
+      },
+      {
         "type": "question-list",
         "title": "Dr. Sirajul Islam Medical College - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. How is the infrastructure of Dr.Sirajul Islam Medical college?",

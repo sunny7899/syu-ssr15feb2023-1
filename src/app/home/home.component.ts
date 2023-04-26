@@ -6,6 +6,7 @@ import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { ApiService } from '../api.service';
 import { OwlOptions } from 'ngx-owl-carousel-o';
 import { PopupFormComponent } from '../popup-form/popup-form.component';
+import { FormComponent } from '../form/form.component';
 import * as blogData from "../blog/blogData";
 // import * as newsData from "../news/newsData"
 

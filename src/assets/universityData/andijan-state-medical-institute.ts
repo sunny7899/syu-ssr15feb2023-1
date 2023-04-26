@@ -13,13 +13,13 @@ export const andijanstatemedicalinstitute = {
         },
         {
             "type": "text",
-            "title": "About Andijan State Medical Institute, Uzbekistan",
+            "title": "",
             "data": "<p><b>Andijan State Medical Institute</b> was founded in 1955. It is located in one of the ancient cities of Fergana valley, ‘Andijan’ city. The Andijan State Medical Institute keeps the leading positions amongst higher education facilities of the Republic.</p><p>Andijan State Medical Institute has all the necessary prerequisites for research work and training process on a high level. The best part about Andijan State Medical Institute is that it is known to offer students education in 56 multiple departments. For students looking for MBBS in Uzbekistan, this institute is the right option.</p>"
         },
         {
             "type": "table-title",
-            "title": "Andijan State Medical Institute - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick highlights about Andijan State Medical Institute:</b>",
+            "title": "Andijan State Medical Institute - Quick Highlights 2023",
+            "info": "Given below is the table for quick highlights about Andijan State Medical Institute:",
             "col": [
 
             ],
@@ -32,14 +32,14 @@ export const andijanstatemedicalinstitute = {
                 ["<b>Annual Tuition Fees (Approx.)</b>", "3400 USD"],
                 ["<b>Course Duration</b>", "6 years (including Internship)"],
                 ["<b>Medium of Education</b>", "English"],
-                ["<b>University Ranking</b>", "Country - 11<br>World - 7883",],
+                ["<b>University Ranking</b>", "Country - 15<br>World - 7896",],
                 ["<b>University Recognition</b>", "Approved by NMC, WHO"],
             ]
         },
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Andijan State Medical Institute?",
-            "info": "<b>Below are some of the benefits of studying MBBS at Andijan State Medical Institute:</b>",
+            "info": "Below are some of the benefits of studying MBBS at Andijan State Medical Institute:",
             "data": [
                 "Study programs at Andijan State Medical Institute include practical training along with theoretical knowledge which allows students to understand the concepts.",
                 "All the medical programs at this university are available in English medium, which allows the students to pick up the concepts easily.",
@@ -51,23 +51,23 @@ export const andijanstatemedicalinstitute = {
         },
         {
             "type": "table",
-            "title": "Andijan State Medical Institute - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Andijan State Medical Institute:</b>",
+            "title": "Andijan State Medical Institute - Ranking 2023",
+            "info": "According to 4icu.org, following is the country and world ranking for Andijan State Medical Institute:",
             "col": [
                 "Country",
                 "World"
             ],
             "row": [
                 {
-                    "Country": "11",
-                    "World": "7883"
+                    "Country": "15",
+                    "World": "7896"
                 }
             ]
         },
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Andijan State Medical Institute is accredited by many medical bodies such as:</b>",
+            "info": "Andijan State Medical Institute is accredited by many medical bodies such as:",
             "data": [
                 "WHO (World Health Organization)",
                 "NMC (National Medical Commission)",
@@ -77,7 +77,7 @@ export const andijanstatemedicalinstitute = {
         {
             "type": "table",
             "title": "Cost of Living at Andijan",
-            "info": "<b>The cost of living at Andijan city is as follows:</b>",
+            "info": "The cost of living at Andijan city is as follows:",
             "col": [
                 "Particulars",
                 "Cost"
@@ -104,7 +104,6 @@ export const andijanstatemedicalinstitute = {
                     "Cost": "cost between Rs.10,000 - Rs.12,000"
                 },
             ],
-            "heading": "<p><b>Note: </b>1$ = 70 Rs.</p>"
         },
         {
             "type": "list-bollet",
@@ -138,9 +137,13 @@ export const andijanstatemedicalinstitute = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Andijan State Medical Institute - Duration, Fees & Courses"
+        },
+        {
             "type": "table",
-            "title": "Andijan State Medical Institute - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Andijan State Medical Institute for MBBS program is given in the table below:</b>",
+            "title": "Andijan State Medical Institute - MBBS Fee Structure 2023",
+            "info": "The fee structure for Andijan State Medical Institute for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -181,21 +184,21 @@ export const andijanstatemedicalinstitute = {
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year 1": "<b>Rs. 2,76,900</b>",
-                    "Year 2": "<b>Rs. 2,76,900</b>",
-                    "Year 3": "<b>Rs. 2,76,900</b>",
-                    "Year 4": "<b>Rs. 2,76,900</b>",
-                    "Year 5": "<b>Rs. 2,76,900</b>",
-                    "Year 6": "<b>Rs. 2,76,900</b>",
+                    "Year 1": "<b>Rs. 3,12,000</b>",
+                    "Year 2": "<b>Rs. 3,12,000</b>",
+                    "Year 3": "<b>Rs. 3,12,000</b>",
+                    "Year 4": "<b>Rs. 3,12,000</b>",
+                    "Year 5": "<b>Rs. 3,12,000</b>",
+                    "Year 6": "<b>Rs. 3,12,000</b>",
 
                 },
             ],
-            "heading": "<p><b>Note: </b>1 USD = Rs. 71 (It may Vary)</p>"
+            "heading": "<p><b>Note: </b>1 USD = Rs. 80 (It may Vary)</p>"
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at Andijan State Medical Institute",
-            "info": "<b>Andijan State Medical Institute has following faculties:</b>",
+            "info": "Andijan State Medical Institute has following faculties:",
             "data": [
                 "Pedagogy",
                 "Dentistry",
@@ -209,7 +212,7 @@ export const andijanstatemedicalinstitute = {
         {
             "type": "list-bollet",
             "title": "Andijan State Medical Institute - MBBS Duration",
-            "info": "<b>The duration of MBBS course at Andijan State Medical Institute is mentioned below:</b>",
+            "info": "The duration of MBBS course at Andijan State Medical Institute is mentioned below:",
             "data": [
                 "The duration of MBBS course at Andijan State Medical Institute is 6 years, out of which 1 year is internship.",
                 "The medium of instruction is English for studying MBBS at this university.",
@@ -219,10 +222,10 @@ export const andijanstatemedicalinstitute = {
         {
             "type": "table",
             "title": "Andijan State Medical Institute - MBBS Course Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at Andijan State Medical Institute is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Andijan State Medical Institute is as follows:",
             "col": [
-                "First Year",
-                "Second Year",
+                "1st Year",
+                "2nd Year",
             ],
             "row": [
                 {
@@ -264,8 +267,8 @@ export const andijanstatemedicalinstitute = {
             "title": "",
             "info": "",
             "col": [
-                "Third Year",
-                "Fourth Year",
+                "3rd Year",
+                "4th Year",
             ],
             "row": [
                 {
@@ -315,8 +318,8 @@ export const andijanstatemedicalinstitute = {
             "title": "",
             "info": "",
             "col": [
-                "Fifth Year",
-                "Sixth Year",
+                "5th Year",
+                "6th Year",
             ],
             "row": [
                 {
@@ -361,13 +364,13 @@ export const andijanstatemedicalinstitute = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Andijan State Medical Institute - Duration, Fees & courses" },
+                { name: "title", content: "Andijan State Medical Institute - Duration, Fees & Courses 2023" },
                 { name: "description", content: "" },
             ],
         },
         {
             type: "meta-title",
-            title: "Andijan State Medical Institute - Duration, Fees & courses"
+            title: "Andijan State Medical Institute - Duration, Fees & Courses 2023"
         },
         {
             type: "meta-links",
@@ -378,9 +381,13 @@ export const andijanstatemedicalinstitute = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Andijan State Medical Institute - MBBS Admission, Eligibility Criteria"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Andijan State Medical Institute is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Andijan State Medical Institute is as follows:",
             "data": [
                 "Students must have cleared NEET exam.",
                 "The student must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -392,20 +399,20 @@ export const andijanstatemedicalinstitute = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following is the admission process for applying to MBBS course at Andijan State Medical Institute:</b>",
+            "info": "Following is the admission process for applying to MBBS course at Andijan State Medical Institute:",
             "data": [
-                "Step 1: At the beginning, a student needs to scan all the documents.",
-                "Step 2: Now he/she must look forward to the application form available on the official website.",
-                "Step 3: Then, he/she should fill the application form and submit.",
-                "Step 4: After three to four days, they will get an offer letter after verification of documents.",
-                "Step 5: Once students get the offer letter, they are supposed to pay the fees.",
-                "Step 6: After paying the fees, students can apply for a visa. After getting the visa, they are ready to travel for MBBS in Uzbekistan.",
+                "<b>Step 1:</b> At the beginning, a student needs to scan all the documents.",
+                "<b>Step 2:</b> Now he/she must look forward to the application form available on the official website.",
+                "<b>Step 3:</b> Then, he/she should fill the application form and submit.",
+                "<b>Step 4:</b> After three to four days, they will get an offer letter after verification of documents.",
+                "<b>Step 5:</b> Once students get the offer letter, they are supposed to pay the fees.",
+                "<b>Step 6:</b> After paying the fees, students can apply for a visa. After getting the visa, they are ready to travel for MBBS in Uzbekistan.",
             ]
         },
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Andijan State Medical Institute:</b>",
+            "info": "Following documents are required at the time of admission to Andijan State Medical Institute:",
             "data": [
                 "Birth certificate",
                 "Passport copy (validity minimum 2 years)",
@@ -439,6 +446,22 @@ export const andijanstatemedicalinstitute = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Andijan State Medical Institute, Uzbekistan - Reviews"
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "Reviews on Andijan State Medical University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+                "<b>Rajeshwari Bhirad</b><p>I really enjoyed my time at Andijan State Medical University. The instructors were beneficial and instructive.</p>",
+                "<b>Saurabh Yadgire</b><p>Everyone looking for a top-notch medical education should give the Andijan State Medical University some serious thought.</p>",
+                "<b>Rhythm Chandak</b><p>The Andijan State Medical University provides excellent amenities and a welcoming staff. Throughout my entire stay, I received wonderful care.</p>",
+            ]
+        },
+
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Andijan State Medical Institute, Uzbekistan - Reviews" },
@@ -457,6 +480,21 @@ export const andijanstatemedicalinstitute = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Andijan State Medical Institute, Uzbekistan - Placements"
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "Andijan State Medical Institute Placements",
+            "info": "",
+            "data": [
+                "Graduates might return to India and seek work after completing their various degrees.",
+                "Internships and jobs in and around Uzbekistan are encouraged for students at the Andijan State Medical University.",
+            ]
+        },
+
         {
             type: "meta",
             meta: [
@@ -477,6 +515,50 @@ export const andijanstatemedicalinstitute = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Andijan State Medical Institute, Uzbekistan - Gallery"
+        },
+
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/andijan-state-medical-institute-building.jpg",
+                    "alt": "Andijan State Medical Institute Building"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/andijan-state-medical-institute-computer-lab.jpg",
+                    "alt": "Andijan State Medical Institute Computer Lab"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/andijan-state-medical-institute-conferencce-hall.jpg",
+                    "alt": "Andijan State Medical Institute Conferencce Hall"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/andijan-state-medical-institute-sports-activities.jpg",
+                    "alt": "Andijan State Medical Institute Sports Activities"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/andijan-state-medical-institute-students.jpg",
+                    "alt": "Andijan State Medical Institute Students"
+                }
+            ],
+            "video": [
+                // {
+                //     "type": "video",
+                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                //     "alt": "Image 1"
+                // },
+                
+            ]
+        },
+      
+
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Andijan State Medical Institute, Uzbekistan - Gallery" },
@@ -495,6 +577,21 @@ export const andijanstatemedicalinstitute = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Andijan State Medical Institute - Scholarships Details"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Andijan State Medical Institute Scholarships",
+            "info": "",
+            "data": [
+                "Scholarships for Indians - International Scholarships",
+                "UWA International Scholarships",
+                "Entrance Scholarship for Board Courses",
+            ]
+        },
+
         {
             type: "meta",
             meta: [
@@ -515,6 +612,31 @@ export const andijanstatemedicalinstitute = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Andijan State Medical Institute, Uzbekistan - Faculties"
+        },
+
+        {
+            "type": "table",
+            "title": "Andijan State Medical Institute Faculty",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "Madazimov Madamin Muminovich",
+                    "Designation": "Rector and Professor"
+                },
+                {
+                    "Name": "Salakhidinov Kamoliddin Zukhriddinovich",
+                    "Designation": "Pro-Rector and Professor"
+                }
+            ]
+        },
+
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Andijan State Medical Institute, Uzbekistan - Faculties" },
@@ -533,6 +655,10 @@ export const andijanstatemedicalinstitute = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Andijan State Medical Institute - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -553,9 +679,13 @@ export const andijanstatemedicalinstitute = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Andijan State Medical Institute - Hostel & Accommodation"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Andijan State Medical Institute:</b>",
+            "info": "Following are the hostel facilities at Andijan State Medical Institute:",
             "data": [
                 "The rooms of the hostels of Andijan State Medical Institute are well furnished, comfortable with excellent security facilities.",
                 "Each dormitory has its own study and computer rooms, kitchen, and restrooms.",
@@ -588,9 +718,13 @@ export const andijanstatemedicalinstitute = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Andijan State Medical Institute - Important FAQs"
+        },
+        {
             "type": "question-list",
             "title": "Andijan State Medical Institute - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How are the library facilities at the Andijan State Medical Institute?",

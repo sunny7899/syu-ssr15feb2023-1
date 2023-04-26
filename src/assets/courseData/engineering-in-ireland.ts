@@ -5,6 +5,7 @@ export const engineeringinireland= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '2 - 4 Years',
     "url":"engineering-in-ireland",
     "info": [
         {
@@ -56,7 +57,7 @@ export const engineeringinireland= {
         {
             type: 'step-list',
             title: 'Engineering Degree: Admission Procedure',
-            info: '<b>Following are some criterias which students should fulfill for Engineering admission in Ireland:</b>',
+            info: 'Following are some criterias which students should fulfill for Engineering admission in Ireland:',
             img:'',
             data: [
                 "<b>Step 1:</b> To study in Ireland, students should fit in the given eligibility criteria for education plus any student whose first language is not English need to prove his/her proficiency in English language by giving exams like IELTS or TOEFL.",
@@ -89,7 +90,7 @@ export const engineeringinireland= {
         {
             "type": "list-bollet",
             "title": "Scholarships for Students",
-            "info": "<b>Government of Ireland, the Irish higher education institution and other organizations are wide variety of sources through which international students can get hundreds of scholarships:</b><br><b>Following are some of the programmes for Engineering Scholarships:</b>",
+            "info": "Government of Ireland, the Irish higher education institution and other organizations are wide variety of sources through which international students can get hundreds of scholarships:<br>Following are some of the programmes for Engineering Scholarships:",
             "img": '',
             "data": [
                 "DIT Centenary Scholarship Programme",
@@ -140,7 +141,7 @@ export const engineeringinireland= {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The following documents are required for a study visa:</b>",
+            "info": "The following documents are required for a study visa:",
             "img": '',
             "data": [
                 "Good scores in either of the IELTS or TOEFL.",
@@ -214,6 +215,10 @@ export const engineeringinireland= {
                 ]}
     ],
     "syllabus": [
+        {
+            type: 'title',
+            title: 'Engineering in Ireland 2023 - Syllabus'
+        },
         {
             "type": "list-bollet",
             "title": "Engineering Course in Ireland: Core Subjects",
@@ -290,6 +295,10 @@ export const engineeringinireland= {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'Engineering in Ireland 2023 - Top Colleges in Ireland'
+        },
+        {
             "type": "list-bollet",
             "title": "List of Top 7 Engineering Universities in Ireland",
             "info": "Following are the best universities in ireland for engineering:",
@@ -306,7 +315,7 @@ export const engineeringinireland= {
         {
             "type": "table",
             "title": "7 Top-Ranked Engineering Colleges in Ireland and their Annual Fee",
-            "info": "<b>Engineering fees at the top engineering universities in Ireland are as follows:</b>",
+            "info": "Engineering fees at the top engineering universities in Ireland are as follows:",
             "col": [
                 "Name of the Universities",
                 "Fee for the Complete Course (approx.)"
@@ -368,6 +377,10 @@ export const engineeringinireland= {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'Engineering in Ireland 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Prospects (After Completion of Engineering from Ireland)",
             "info": "",
@@ -424,6 +437,10 @@ export const engineeringinireland= {
         }
     ],
     "faq":[
+        {
+            type: 'title',
+            title: 'Engineering in Ireland 2023 - FAQs'
+        },
         {
             type: "meta",
             meta: [

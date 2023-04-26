@@ -23,10 +23,28 @@
     margin-left: 4%;
 }
 
-#titles {
-    padding-top: 5px;
+#course {
+    padding-left: 2%;
+    cursor: pointer;
 }
 
+#titles {
+    padding-top: 0vh;
+    margin-top: 5%;
+    margin-bottom: -3%;
+}
+
+#thankyouform {
+    margin-left: 16%;
+}
+
+svg {
+    color: green;
+}
+
+// #title{
+//     padding-top: 10vh;
+// }
 .course-content-page-header {
     padding-top: 8vh;
 }
@@ -54,6 +72,11 @@
     font-size: 14px;
 }
 
+#duration {
+    margin-left: 20px;
+    margin-right: 17px;
+}
+
 .btn-white-nav {
     background-color: transparent;
     color: #fff !important;
@@ -69,6 +92,15 @@
 .btn-orange-nav img,
 .btn-white-nav img {
     padding-left: 10px;
+}
+
+.talk-to-expert {
+    margin-bottom: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 10px;
+    padding: 1%;
+    margin-top: 10px;
 }
 
 .course-content-div {
@@ -122,7 +154,7 @@
 }
 
 .talk-to-expert .card-body img {
-    width: 60% !important
+    width: 40%
 }
 
 .other-courses .card-body p {
@@ -157,7 +189,7 @@
         width: 500px !important;
     }
     #number {
-        margin-left: 1%;
+        margin-left: 0%;
     }
     .overflow-x-auto {
         overflow-x: auto;
@@ -201,7 +233,7 @@
         padding: 3% 8%;
     }
     .talk-to-expert .card-body img {
-        width: 50%
+        width: 50% !important
     }
     #course-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px
@@ -212,9 +244,6 @@
     .course-content-banner {
         height: auto;
         padding-bottom: 5%;
-    }
-    .talk-to-expert .card-body img {
-        width: 30% !important;
     }
     .table-of-content {
         margin-left: 0px;
@@ -521,8 +550,10 @@
     // margin-left: 15px;
     // margin-right: 15px; 
     border-radius: 10px;
-    padding: 1%;
+    padding: 0%;
     padding-bottom: 0px;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 #college-content-tab {
@@ -755,7 +786,7 @@
         text-align: left !important;
         margin-left: 5%
     }
-    .college-content-div {
+    .course-content-div {
         margin-right: 0px;
         margin-left: 0px;
         padding: 0;
@@ -906,7 +937,7 @@
 }
 
 .table {
-    width: 100%;
+    //width: 100%;
     font-size: 16px !important;
     border: none !important;
     margin-bottom: 1rem;
@@ -962,10 +993,21 @@
 #college-content-tab h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font-size: 18px !important;
+    // font-size: 24px !important;
     line-height: 1.3;
     color: rgb(54, 54, 54);
-    font-weight: 700;
+    //  font-weight: 600;
+}
+
+@media only screen and (min-width:450px) and (max-width:600px) {
+    #college-content-tab h2 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: 24px !important;
+        line-height: 1.3;
+        color: rgb(54, 54, 54);
+        font-weight: 600;
+    }
 }
 
 #college-content-tab p,
@@ -1280,6 +1322,24 @@ nav ul li {
     .faq-page-breadcrumb a.arrow {
         width: 10%;
     }
+    #titles {
+        padding-top: 4px;
+        margin-bottom: -4%;
+    }
+    #title {
+        font-size: 220%;
+    }
+    .course-content-div {
+        margin-right: 0;
+        margin-left: 0;
+        padding-top: 10px;
+    }
+}
+
+@media only screen and (max-width:350px) {
+    #talk {
+        width: 110%;
+    }
 }
 
 @media only screen and (max-width:1024px) and (min-width:768px) {
@@ -1336,7 +1396,7 @@ nav ul li {
     z-index: 11;
     height: auto;
     width: 100%;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .stickyDiv {
@@ -1514,6 +1574,24 @@ svg {
     }
 }
 
+@media only screen and (min-width:351px) and (max-width:455px) {
+    #talk {
+        width: 108%;
+    }
+}
+
+@media only screen and (min-width:456px) and (max-width:600px) {
+    #talk {
+        width: 106%;
+    }
+}
+
+@media only screen and (min-width:456px) and (max-width:991px) {
+    #talk {
+        width: 104%;
+    }
+}
+
 @media only screen and (min-width:992px) {
     .stickyDiv {
         position: sticky;
@@ -1525,7 +1603,7 @@ svg {
         margin-left: 0;
     }
     .talk-to-expert {
-        margin: 0 0 15px;
+        margin: 0 15px 15px;
     }
     .other-courses {
         margin: 0 0 15px;
@@ -1639,7 +1717,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -1650,7 +1728,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     font-weight: bold;
@@ -1658,7 +1736,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     font-weight: bold;
@@ -1787,7 +1865,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -1799,7 +1877,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -1821,7 +1899,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -1935,7 +2013,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {
@@ -1961,7 +2039,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -1973,7 +2051,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -1995,7 +2073,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2028,6 +2106,9 @@ input.form-control:focus {
     }
     .modal-title {
         padding-left: 40px;
+    }
+    #phone1 {
+        margin-top: -4%;
     }
 }
 
@@ -2142,7 +2223,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -2153,7 +2234,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     font-weight: bold;
@@ -2161,7 +2242,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     font-weight: bold;
@@ -2293,7 +2374,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -2305,7 +2386,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2327,7 +2408,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2360,6 +2441,10 @@ input.form-control:focus {
 @media all and (max-width: 600px) {
     .submit {
         margin-top: 9px;
+    }
+    .container #thankyouform {
+        align-items: center;
+        margin-left: 0%;
     }
 }
 
@@ -2441,7 +2526,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {
@@ -2467,7 +2552,7 @@ input.form-control:focus {
     border: none;
     font-size: 28px;
     height: 22px;
-    margin-top: -3px;
+    margin-top: 5px;
     margin-right: 12px;
 }
 
@@ -2479,7 +2564,7 @@ input.form-control:focus {
 }
 
 .submit {
-    margin-top: -5px;
+    margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2501,7 +2586,7 @@ input.form-control:focus {
 }
 
 .submit:hover {
-    margin-top: -5px;
+    //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
@@ -2551,7 +2636,7 @@ input.form-control:focus {
         -moz-box-align: start;
         -ms-flex-align: start;
         -webkit-align-items: flex-start;
-        align-items: flex-start;
+        align-items: center;
     }
     .container #hide {
         display: none;
@@ -2572,10 +2657,427 @@ input.form-control:focus {
     .sub-title {
         font-size: 10px;
     }
+    .form {
+        margin-top: 25%;
+    }
 }
 
 @media all and (min-width: 700px) and (max-width: 992px) {
     .submit {
         font-size: 10px;
     }
+}
+
+h3 {
+    margin-top: 20px !important;
+    margin-bottom: 10px !important;
+    font-size: 18px !important;
+    line-height: 1.3 !important;
+    color: rgb(54, 54, 54);
+    font-weight: 700 !important;
+}
+
+@media only screen and (min-width:450px) and (max-width:600px) {
+    h3 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: 18px !important;
+        line-height: 1.3;
+        color: rgb(54, 54, 54);
+        font-weight: 700;
+    }
+}
+
+// h3 {
+//     font-size: 20px;
+//     font-weight: 600;
+// }
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+//form css starts here
+.form2 {
+    background-color: #d7d4d4;
+    padding-bottom: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.form-input2 {
+    font-size: 12px;
+}
+
+#thankyouform2 {
+    margin-left: 0%;
+    margin-right: -55%;
+    padding: 50px;
+    margin-top: 1.5%;
+    --border-size: 3px;
+    --border-angle: 0turn;
+    background-image: conic-gradient(from var(--border-angle), rgb(238, 233, 243), rgb(232, 232, 240) 50%, rgb(243, 241, 245)), conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)), cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    animation: bg-spin 3s linear infinite;
+    @keyframes bg-spin {
+        to {
+            --border-angle: 1turn;
+        }
+    }
+    &:hover {
+        animation-play-state: paused;
+    }
+}
+
+@property --border-angle {
+    syntax: "<angle>";
+    inherits: true;
+    initial-value: 0turn;
+}
+
+svg {
+    color: green;
+}
+
+.form-card2 {
+    padding: 27px;
+    line-height: 97%;
+    margin-left: -5%;
+    margin-right: -5%;
+    background-color: white;
+    padding: 20px;
+    line-height: 97%;
+    margin-top: 1.5%;
+    --border-size: 3px;
+    --border-angle: 0turn;
+    background-image: conic-gradient(from var(--border-angle), rgb(238, 233, 243), rgb(232, 232, 240) 50%, rgb(243, 241, 245)), conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)), cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    animation: bg-spin 3s linear infinite;
+    @keyframes bg-spin {
+        to {
+            --border-angle: 1turn;
+        }
+    }
+    &:hover {
+        animation-play-state: paused;
+    }
+}
+
+@property --border-angle {
+    syntax: "<angle>";
+    inherits: true;
+    initial-value: 0turn;
+}
+
+.form-head2 {
+    color: #0b4292;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.sub-title2 {
+    font-weight: 400;
+}
+
+.form-div2 {
+    margin-top: 15px;
+}
+
+.form-input2 {
+    border-left: none !important;
+    border-right: 1px solid #8c8d91 !important;
+    border-top: 1px solid #8c8d91 !important;
+    border-bottom: 1px solid #8c8d91 !important;
+    border-radius: 0% !important;
+}
+
+input.form-control:focus {
+    box-shadow: inset 0 -1px 0 #ddd;
+}
+
+.icon2 {
+    border-right: none !important;
+    border-top: 1px solid #8c8d91 !important;
+    border-left: 1px solid #8c8d91 !important;
+    border-bottom: 1px solid #8c8d91 !important;
+    border-radius: 0% !important;
+}
+
+.terms2 {
+    font-size: 10px;
+    margin-top: 10px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.submit2 {
+    //margin-top: 40px;
+    background: #ffae47;
+    color: white;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+.submit2:hover {
+    //margin-top: -5px;
+    background: #ffae47;
+    color: white;
+    font-weight: bold;
+}
+
+.img-size {
+    height: 50px;
+    width: 45px;
+}
+
+.validation2 {
+    color: red;
+    font-size: 10px;
+}
+
+@media all and (max-width: 600px) {
+    .submit2 {
+        margin-top: 9px;
+    }
+    #thankyouform2 {
+        align-items: center;
+        margin-left: 0%;
+    }
+    .form2 {
+        margin-top: 0%;
+    }
+}
+
+@media all and (min-width: 700px) and (max-width: 992px) {
+    .submit2 {
+        font-size: 10px;
+    }
+}
+
+.form2 {
+    background-color: #d7d4d4;
+    padding-bottom: 10px;
+}
+
+.form-input {
+    font-size: 12px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.flip2 {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+//   .form-card {
+//     background-color: white;
+//     padding: 20px;
+//     line-height: 97%;
+//     margin-left: -36%;
+//     margin-right: -76%;
+//     // padding: 27px;
+//     // line-height: 97%;
+//     // margin-left: -56px;
+//     // margin-right: -109px;
+//   }
+.form-head2 {
+    color: #0b4292;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.form-div2 {
+    margin-top: 8px;
+}
+
+input.form-control:focus {
+    box-shadow: inset 0 -1px 0 #ddd;
+}
+
+.icon2 {
+    border-right: none !important;
+    border-top: 1px solid 8c8d91 !important;
+    border-left: 1px solid 8c8d91 !important;
+    border-bottom: 1px solid 8c8d91 !important;
+    border-radius: 0% !important;
+}
+
+.submit2 {
+    // margin-top: 40px;
+    background: #ffae47;
+    color: white;
+    // font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+.submit2:hover {
+    //margin-top: -5px;
+    background: #ffae47;
+    color: white;
+    // font-weight: bold;
+}
+
+@media all and (max-width: 600px) {
+    .submit2 {
+        margin-top: 9px;
+    }
+    .form-card2 {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+}
+
+@media all and (min-width: 700px) and (max-width: 992px) {
+    .submit2 {
+        font-size: 10px;
+    }
+}
+
+.form2 {
+    background-color: #d7d4d4;
+    padding-bottom: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.flip2 {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+//   .form-card {
+//     background-color: white;
+//     padding: 20px;
+//     line-height: 97%;
+//     margin-left: -36%;
+//     margin-right: -76%;
+//     // padding: 27px;
+//     // line-height: 97%;
+//     // margin-left: -56px;
+//     // margin-right: -109px;
+//   }
+.form-head2 {
+    color: #0b4292;
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.form-div2 {
+    margin-top: 15px;
+}
+
+.form-input2 {
+    border-left: none !important;
+    border-right: 1px solid #8c8d91 !important;
+    border-top: 1px solid #8c8d91 !important;
+    border-bottom: 1px solid #8c8d91 !important;
+    border-radius: 0% !important;
+    height: 32px;
+}
+
+input.form-control:focus {
+    box-shadow: inset 0 -1px 0 #ddd;
+}
+
+.icon2 {
+    border-right: none !important;
+    border-top: 1px solid #8c8d91 !important;
+    border-left: 1px solid #8c8d91 !important;
+    border-bottom: 1px solid #8c8d91 !important;
+    border-radius: 0% !important;
+}
+
+.submit2 {
+    //margin-top: 40px;
+    background: #ffae47;
+    color: white;
+    // font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+.submit2:hover {
+    //margin-top: -5px;
+    background: #ffae47;
+    color: white;
+    // font-weight: bold;
+}
+
+.validation2 {
+    color: red;
+    font-size: 10px;
+}
+
+@media all and (max-width: 600px) {
+    .submit2 {
+        margin-top: 9px;
+    }
+    .col-lg-8 {
+        margin-left: 0%;
+    }
+    //    #row{
+    //     margin-left: 10px;
+    //     margin-right: 10px;
+    //    }
+    #phone {
+        margin-bottom: 15px;
+    }
+    .modal-title {
+        display: none;
+    }
+    .sub-title {
+        font-size: 10px;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .col-lg-8 {
+        margin-left: 0%;
+    }
+}
+
+@media all and (min-width: 700px) and (max-width: 992px) {
+    .submit2 {
+        font-size: 10px;
+    }
+}
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+#form-div2 {
+    margin-left: 5%;
 }

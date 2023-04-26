@@ -20,7 +20,7 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Nizhny Novgorod State Technical University - Quick Highlights",
-            "info": "<b>Below table shows some highlighting features about the NNSTU for studying engineering in Russia:</b>",
+            "info": "Below table shows some highlighting features about the NNSTU for studying engineering in Russia:",
             "row": [
                 ["<b>Intake for Engineering Course</b>", "August"],
                 ["<b>Annual Tuition Fees (approx)</b>", "Rs. 30,925"],
@@ -35,7 +35,7 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Why Study at Nizhny Novgorod State Technical University?',
-            "info": '<b>Some interesting features of the Nizhny Novgorod State Technical University:</b>',
+            "info": 'Some interesting features of the Nizhny Novgorod State Technical University:',
             "data": [
                 "NNSTU is one of the leading technical universities for engineering study in Russia.",
                 "It is the oldest and biggest university in Russia.",
@@ -52,20 +52,20 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         {
             "type": 'text',
             "title": 'Medium of Teaching',
-            "info": '<b>University provides courses in dual language and engineering program too, for foreign students there are special classes at NNSTU:</b>',
+            "info": 'University provides courses in dual language and engineering program too, for foreign students there are special classes at NNSTU:',
             "data": "<p>Nizhny Novgorod State technical university gives an engineering program for undergraduates in English as well as the Russian language.</p>"
         },
         {
             "type": 'text',
             "title": 'Accreditation & Recognitions',
-            "info": '<b>NNSTU is accredited with the following:</b>',
+            "info": 'NNSTU is accredited with the following:',
             "data": "<p>Nizhny Novgorod State technical university is recognized by the Ministry of Science and Higher Education of the Russian Federation.</p>"
         },
 
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living of the Nizhny Novgorod city in Russia is noted in the given below table:</b>",
+            "info": "The cost of living of the Nizhny Novgorod city in Russia is noted in the given below table:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -123,9 +123,14 @@ export const nizhnynovgorodstatetechnicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Nizhny Novgorod State Technical University - Fee Structure 2022",
-            "info": "<b>The fee structure of the NNSTU for studying engineering in Russian university is shown as under in the below table:</b>",
+            "info": "The fee structure of the NNSTU for studying engineering in Russian university is shown as under in the below table:",
             "col": [
                 "Particulars",
                 "Annual Fee",
@@ -148,7 +153,7 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at Nizhny Novgorod State Technical University',
-            "info": '<b>Below dates in the given table are noted as per the official site of the NNSTU website :</b>',
+            "info": 'Below dates in the given table are noted as per the official site of the NNSTU website :',
             "data": [
                 "Petroleum Engineering",
                 "Radio Engineering",
@@ -161,7 +166,7 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         {
             "type": 'text',
             "title": 'Nizhny Novgorod State Technical University - Course Duration',
-            "info": '<b>NNSTU has the following years of engineering program scheduled for the students as below:</b>',
+            "info": 'NNSTU has the following years of engineering program scheduled for the students as below:',
             "data": "<p>Nizhny Novgorod STU takes the engineering program for 4 years and it is a full-time program for the students studying.</p>"
         },
         {
@@ -184,9 +189,14 @@ export const nizhnynovgorodstatetechnicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - Admission 2023"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>The eligibility criteria for the applicants at the NNSTU is mentioned below and the applicant must be fit in an under criteria for seeking admission to this Russian university:</b>',
+            "info": 'The eligibility criteria for the applicants at the NNSTU is mentioned below and the applicant must be fit in an under criteria for seeking admission to this Russian university:',
             "data": [
                 "The applicant must be above or 17 years of age for the bachelor's degree to study engineering in Russia.",
                 "The applicant must have completed previous high school education or diploma from government-recognized universities or boards.",
@@ -196,7 +206,7 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         {
             "type": 'step-list',
             "title": 'Admission Process',
-            "info": '<b>Following are the steps mentioned for seeking admission to Russian universities in general:</b>',
+            "info": 'Following are the steps mentioned for seeking admission to Russian universities in general:',
             "data": [
                 "<b>Step 1:</b> Consultation about the course willing to pursue and getting details about the same.",
                 "<b>Step 2:</b> Getting consulted, filling up the online application form, and completing the registration process by then.",
@@ -209,7 +219,7 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Documents Required',
-            "info": '<b>The list of documents is as shown under is required for the registration process followed by admission and confirmation of admission after the arrival of candidates to the NNSTU:</b><p><b>Before Arrival</b></p>',
+            "info": 'The list of documents is as shown under is required for the registration process followed by admission and confirmation of admission after the arrival of candidates to the NNSTU:</b><p><b>Before Arrival</b>',
             "data": [
                 "Birth certificate",
                 "Identity proof",
@@ -229,7 +239,7 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>After Arrival</b>',
+            "info": 'After Arrival',
             "data": [
                 "Migration Letter",
                 "International Passport",
@@ -243,7 +253,7 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Below dates in the given table are noted as per the official site of the NNSTU website:</b>",
+            "info": "Below dates in the given table are noted as per the official site of the NNSTU website:",
             "col": [
                 "Events",
                 "Dates",
@@ -287,6 +297,11 @@ export const nizhnynovgorodstatetechnicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nizhny Novgorod State Technical University, Russia - Reviews" },
@@ -305,6 +320,11 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -325,6 +345,11 @@ export const nizhnynovgorodstatetechnicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nizhny Novgorod State Technical University, Russia - Gallery" },
@@ -343,6 +368,11 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -363,6 +393,11 @@ export const nizhnynovgorodstatetechnicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nizhny Novgorod State Technical University, Russia - Faculty" },
@@ -381,6 +416,11 @@ export const nizhnynovgorodstatetechnicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -401,9 +441,14 @@ export const nizhnynovgorodstatetechnicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - Hostel"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel & Accommodation',
-            "info": '<b>Following are the features of the dormitories facilitated for the students by the NNSTU:</b>',
+            "info": 'Following are the features of the dormitories facilitated for the students by the NNSTU:',
             "data": [
                 "NNSTU is awarded best dormitories for students several times in recent years.",
                 "The hostel is 7200 meters which are designed for 535 living places for students.",
@@ -446,9 +491,14 @@ export const nizhnynovgorodstatetechnicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Nizhny Novgorod State Technical University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Nizhny Novgorod State Technical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What awards the did university receive recently?",

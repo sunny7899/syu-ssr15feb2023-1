@@ -34,7 +34,7 @@ export const stavropolstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Stavropol State Medical University?',
-            info: '<b>It is worth studying MBBS at Stavropol State Medical University due to uncountable reason:</b>',
+            info: 'It is worth studying MBBS at Stavropol State Medical University due to uncountable reason:',
             data: [
                 "Stavropol State Medical University is officially recognized by the National Medical Commission (NMC) and listed in the World Directory of Medical Schools published by the World Health Organization.",
                 "Due to the global recognition of medical degrees, the graduated students from Stavropol State Medical University are enabled to practice in any country across the globe.",
@@ -51,7 +51,7 @@ export const stavropolstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>The medium of instruction at Stavropol State Medical University is English:</b>',
+            info: 'The medium of instruction at Stavropol State Medical University is English:',
             data: [
                 "The English Medium of teaching was opened at Stavropol State Medical University in 2005.",
                 "And the medical training of worldwide students is conducted in the English language."
@@ -60,7 +60,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Stavropol State Medical University- Ranking 2022",
-            "info": "<b>The country and world ranking of Stavropol State Medical University according to Uni rank is given below:</b>",
+            "info": "The country and world ranking of Stavropol State Medical University according to Uni rank is given below:",
             "col": [
                 "Country",
                 "World",
@@ -76,7 +76,7 @@ export const stavropolstatemedicaluniversity = {
         {
             type: 'number-list',
             title: 'Facilities Provided at Stavropol State Medical University',
-            info: '<b>Stavropol State Medical University offers all basic facilities to International students on the university campus:</b>',
+            info: 'Stavropol State Medical University offers all basic facilities to International students on the university campus:',
             data: [
                 "<b>Lecture Rooms</b><br>The students are provided with theoretical classes in spacious classrooms at Stavropol State Medical University.",
                 "<b>Laboratories</b><br>Stavropol State Medical University is equipped with well-organized laboratories along with all modern educational equipment used to provide practical knowledge to the students.",
@@ -93,7 +93,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": "table",
             title: 'Stavropol State Medical University - FMGE Performance 2021',
-            info: '<b>The details about FMGE performance for Stavropol State Medical University of year 2021 with passing percent is as follows:</b>',
+            info: 'The details about FMGE performance for Stavropol State Medical University of year 2021 with passing percent is as follows:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -112,7 +112,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Accreditation and Recognition',
-            "info": '<b>Stavropol State Medical University is fully recognized by several medical bodies:</b>',
+            "info": 'Stavropol State Medical University is fully recognized by several medical bodies:',
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -125,7 +125,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost of Stavropol",
-            "info": "<b>Apart from the MBBS tuition fee, the living cost of Stavropol is very cheap as compared to other countries and the table given below shows monthly basis expenses which may vary according to individual requirements:</b>",
+            "info": "Apart from the MBBS tuition fee, the living cost of Stavropol is very cheap as compared to other countries and the table given below shows monthly basis expenses which may vary according to individual requirements:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -154,7 +154,7 @@ export const stavropolstatemedicaluniversity = {
             "type": 'text',
             "title": 'About Stavropol City',
             // "img": 'stavropol-state-medical-university-city.jpg',
-            "info": '<b>Let’s know about the city in which Stavropol State Medical University is located:</b>',
+            "info": 'Let’s know about the city in which Stavropol State Medical University is located:',
             "data": "<p>The university is located in Stavropol city, well known for it’s the large administrative, industrial, agricultural, scientific and cultural centre.</p><p>Stavropol city is considered as a pearl of the South of Russia.</p><p>Hundreds of nationalities with different cultures and traditions are staying in Stavropol from several centuries.</p><p><b>Best places to visit in Stavropol city are -</b></p>",
             "row": [
                 ["Park Pobedy", "Stavropol Botanical Garden"],
@@ -185,9 +185,13 @@ export const stavropolstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Stavropol State Medical University - MBBS Fee Structure",
-            "info": "<b>Stavropol State Medical University offers quite a reasonable fee structure affordable to international students seeking MBBS education:</b>",
+            "info": "Stavropol State Medical University offers quite a reasonable fee structure affordable to international students seeking MBBS education:",
             "col": [
                 "Particulars",
                 "Annual Fee",
@@ -215,7 +219,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at Stavropol State Medical University',
-            "info": '<b>Stavropol State Medical University serves different types of faculties for basic medicine course education:</b>',
+            "info": 'Stavropol State Medical University serves different types of faculties for basic medicine course education:',
             "data": [
                 "General Medicine",
                 "Pediatrics",
@@ -231,7 +235,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Stavropol State Medical University - MBBS Duration',
-            "info": '<b>Stavropol State Medical University provides an MBBS course duration of 6 years:</b>',
+            "info": 'Stavropol State Medical University provides an MBBS course duration of 6 years:',
             "data": [
                 "The students across the globe looking to become a doctor and fulfill their dreams must choose Stavropol State Medical University, and the university provides 6 years of medicine program course.",
                 "The MBBS course at Stavropol State Medical University is taught in the English language through highly dedicated & experienced professors providing not only theoretical but as well as practical knowledge of medicine.",
@@ -241,7 +245,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": "text",
             "title": "Stavropol State Medical University - MBBS Syllabus",
-            "info": '<p><b>The table given below shows the MBBS syllabus of Stavropol State Medical University:</b></p>'
+            "info": '<p>The table given below shows the MBBS syllabus of Stavropol State Medical University:</p>'
         },
 
         {
@@ -351,9 +355,13 @@ export const stavropolstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - Admission 2023'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>To take admission in MBBS course at Stavropol State Medical University, one must fit into the criteria given below:</b>',
+            "info": 'To take admission in MBBS course at Stavropol State Medical University, one must fit into the criteria given below:',
             "data": [
                 "The applicant should secure at least 50% in Physics, Chemistry and Biology subjects in 12th standard.",
                 "All Reserved category(ST/SC/OBC) students must have an aggregate 40% marks for admission purpose.",
@@ -364,7 +372,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": 'step-list',
             "title": 'Admission Process',
-            "info": '<b>The students must strictly follow the admission steps to take admission in MBBS course at Stavropol State Medical University:</b>',
+            "info": 'The students must strictly follow the admission steps to take admission in MBBS course at Stavropol State Medical University:',
             "data": [
                 "<b>Step 1:</b> The candidate must submit the application form at the Dean's office.",
                 "<b>Step 2:</b> The candidate must submit original and xerox copies of higher secondary education certificates.",
@@ -377,7 +385,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Required Documents',
-            "info": '<b>Check out the list of all essential documents needed to enter in Stavropol State Medical University for MBBS education:</b>',
+            "info": 'Check out the list of all essential documents needed to enter in Stavropol State Medical University for MBBS education:',
             "data": [
                 "Correctly filled application form of Stavropol State Medical University.",
                 "The candidate should submit a transfer/leaving certificate from the previous institution.",
@@ -396,7 +404,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The students must check out some important admission dates for taking admission at Stavropol State Medical University:</b>",
+            "info": "The students must check out some important admission dates for taking admission at Stavropol State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -437,6 +445,10 @@ export const stavropolstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Stavropol State Medical University, Russia - Reviews" },
@@ -455,6 +467,10 @@ export const stavropolstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - Placement'
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -485,6 +501,10 @@ export const stavropolstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Stavropol State Medical University, Russia - Gallery" },
@@ -504,9 +524,13 @@ export const stavropolstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - Scholarship'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Scholarship',
-            "info": '<b>The scholarship provided at Stavropol State Medical University are as follows:</b>',
+            "info": 'The scholarship provided at Stavropol State Medical University are as follows:',
             "data": [
                 "Novus Biologicals Scholarship",
                 "Mawista Scholarships",
@@ -535,6 +559,10 @@ export const stavropolstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Stavropol State Medical University, Russia - Faculty" },
@@ -553,6 +581,10 @@ export const stavropolstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -573,9 +605,13 @@ export const stavropolstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - Hostel'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel and Accommodation Facility',
-            "info": '<b>Stavropol State Medical University offers fully furnished and organized hostel facilities into the university campus at the comfort zone of students:</b>',
+            "info": 'Stavropol State Medical University offers fully furnished and organized hostel facilities into the university campus at the comfort zone of students:',
             "data": [
                 "The Stavropol State Medical University provides 4 dormitories consisting of rooms which are designed for temporary staying of students during MBBS education.",
                 "Hostels are like home for the students at an affordable cost.",
@@ -591,7 +627,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>The main areas of work of dormitories are:</b>',
+            "info": 'The main areas of work of dormitories are:',
             "data": [
                 "Creation of social conditions for living and leisure activities for students",
                 "Improvement and revitalization of the activities of self-government bodies",
@@ -603,7 +639,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Hostel no.1</b>",
+            "info": "Hostel no.1",
             "col": [
                 "Number of places",
                 "Total area",
@@ -634,7 +670,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Hostel no.2</b>",
+            "info": "Hostel no.2",
             "col": [
                 "Number of places",
                 "Total area",
@@ -667,7 +703,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Hostel no.3</b>",
+            "info": "Hostel no.3",
             "col": [
                 "Number of places",
                 "Total area",
@@ -701,7 +737,7 @@ export const stavropolstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Hostel no.4</b>",
+            "info": "Hostel no.4",
             "col": [
                 "Number of places",
                 "Total area",
@@ -755,11 +791,14 @@ export const stavropolstatemedicaluniversity = {
         }
     ],
     "faq": [
-
+        {
+            type: 'title',
+            title: 'Stavropol State Medical University, Russia - FAQ'
+        },
         {
             "type": "question-list",
             "title": "Stavropol State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. What is the medium of instruction at Stavropol State Medical University?",

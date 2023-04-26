@@ -5,6 +5,7 @@ export const mbainuk = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
+    "Duration": '1 to 2 Years',
     "url": "mba-in-uk",
     "info": [
         {
@@ -22,7 +23,7 @@ export const mbainuk = {
         {
             "type": "table-title",
             "title": "MBA in UK: Quick Highlights",
-            "info": "<b>Follow the quick highlights for MBA in UK:</b>",
+            "info": "Follow the quick highlights for MBA in UK:",
             "col": [
             ],
             "row": [
@@ -40,7 +41,7 @@ export const mbainuk = {
         {
             "type": "list-bollet",
             "title": "Why Study MBA in UK?",
-            "info": "<b>Following are the top benefits of studying MBA in UK:</b>",
+            "info": "Following are the top benefits of studying MBA in UK:",
             "img": '',
             "data": [
                 "MBA universities in the UK offer globally recognized management degrees.",
@@ -56,7 +57,7 @@ export const mbainuk = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Follow the below eligibility criteria required applying for MBA in UK:</b>",
+            "info": "Follow the below eligibility criteria required applying for MBA in UK:",
             "img": '',
             "data": [
                 "Management degree or a diploma in business is not mandatory for applying for an MBA in the UK.",
@@ -70,7 +71,7 @@ export const mbainuk = {
         {
             "type": "step-list",
             "title": "Admission Procedure: for MBA Course in UK",
-            "info": "<p><b>Following is the admission procedure required for applying MBA in UK:</b></p><p>An MBA in the UK is a great opportunity for foreign students to pursue a degree in the management field.</p>",
+            "info": "Following is the admission procedure required for applying MBA in UK: An MBA in the UK is a great opportunity for foreign students to pursue a degree in the management field.</p>",
             "data": [
                 "<b>Step 1:</b> MBA universities in the UK accept the application from the students who have completed a 3-year diploma or a bachelor’s degree from any recognized university.",
                 "<b>Step 2:</b> The degrees like B.Com/B.E./B,Sc are also acceptable for applying for an MBA in the UK.",
@@ -79,7 +80,7 @@ export const mbainuk = {
         },
         {
             type: 'text',
-            info: '<b>The application procedure is as follows:</b>',
+            info: 'The application procedure is as follows:',
            // img: 'https://www.selectyouruniversity.com/images/admission-procedur-for-mba-in-uk.jpeg',
             // data: '            '
         },
@@ -87,7 +88,7 @@ export const mbainuk = {
         {
             "type": "list-bollet",
             "title": "Documents Required: Applying for an MBA in UK",
-            "info": "<b>Following are the documents required applying for MBA in UK:</b>",
+            "info": "Following are the documents required applying for MBA in UK:",
             "img": '',
             "data": [
                 "Academic Scores: It includes the transcripts of the certificates of marks sheets of Xth. XIIth and bachelor’s degree.",
@@ -107,7 +108,7 @@ export const mbainuk = {
         {
             type: 'number-list',
             title: 'Scholarships offered during MBA in UK',
-            info: '<b>MBA universities in the UK offer scholarships to foreign students:</b><p>There are two types of MBA scholarships offered by MBA schools in the UK:</p>',
+            info: 'MBA universities in the UK offer scholarships to foreign students: There are two types of MBA scholarships offered by MBA schools in the UK:',
             data: [
                 "<b>Internal Scholarship</b><br>The scholarship is offered by the respective business schools.",
                 "<b>External Scholarship</b><br>The scholarship is offered by other organizations.",
@@ -120,7 +121,7 @@ export const mbainuk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Other Scholarships are:</b>",
+            "info": "Other Scholarships are:",
             "img": '',
             "data": [
                 "Commonwealth Scholarship and Fellowship",
@@ -144,7 +145,7 @@ export const mbainuk = {
         {
             "type": "table",
             "title": "Cost of Living in UK",
-            "info": "<b>Following is the cost of living in UK:</b>",
+            "info": "Following is the cost of living in UK:",
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -212,10 +213,16 @@ export const mbainuk = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in UK 2023 - Top Colleges in UK'
+        },
+
         {
             "type": "table",
             "title": "TOP MBA Universities in UK: Fee Structure (2022-23)",
-            "info": "<b>Refer the below fee structure of top MBA Universities in UK:</b>",
+            "info": "Refer the below fee structure of top MBA Universities in UK:",
             "col": [
                 "Name of the Universities",
                 "Name of exams",
@@ -271,7 +278,7 @@ export const mbainuk = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>There are some universities who offer low-cost MBA programs in the UK:</b>",
+            "info": "There are some universities who offer low-cost MBA programs in the UK:",
             "data": [
                 "Universities of Boston",
                 "University of Bedfordshire",
@@ -301,16 +308,22 @@ export const mbainuk = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in UK 2023 - Syllabus'
+        },
+
         {
             "type": "text",
             "title": "MBA in UK: Course Duration",
-            "info": "<b>Following is the course duration for MBA in UK</b>",
+            "info": "Following is the course duration for MBA in UK",
             "data": "<p>The MBA universities in the UK take 1 year to complete the MBA program. Some universities taught MBA programs for a period of 2 years. The cost and quality of education vary as per the type of universities.</p>"
         },
         {
             "type": 'number-list',
             "title": 'Modes of Study: Applying for MBA in UK',
-            "info": '<p>MBA program in UK has been taught in the following modes:</p>',
+            "info": 'MBA program in UK has been taught in the following modes:',
             "data": [
                 "<b>Full-Time MBA Program</b><br>The program is designed for full-time MBA students having a course duration of 1 year. The program is applicable for those students who want to pursue a career in the core management areas.",
                 "<b>Executive MBA Program</b><br>The program is designed for those MBA aspirants who are having professional work experience in the management field. The part-time MBA program lasts for a period of 2 years.",
@@ -322,7 +335,7 @@ export const mbainuk = {
         {
             "type": 'list-bollet',
             "title": 'Types of MBA Programs Offered in UK',
-            "info": "<b>Following are the MBA programs offered in the UK:</b>",
+            "info": "Following are the MBA programs offered in the UK:",
             "data": [
                 "Accountancy",
                 "Marketing",
@@ -352,10 +365,16 @@ export const mbainuk = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in UK 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career opportunities after MBA in UK",
-            "info": "<b>Management is the degree that encompasses the various areas of fields and has a high range of career options. The career sectors after MBA in UK are as follows:</b>",
+            "info": "Management is the degree that encompasses the various areas of fields and has a high range of career options. The career sectors after MBA in UK are as follows:",
             "data": [
                 "Advertising",
                 "Banking",
@@ -386,10 +405,16 @@ export const mbainuk = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in UK 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBA in UK: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. What is the course duration of an MBA in the UK?",

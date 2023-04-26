@@ -21,7 +21,7 @@ export const maristateuniversity = {
         {
             "type": "table-title",
             "title": "Mari State University - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick facts about Mari State University:</b>",
+            "info": "Given below is the table for quick facts about Mari State University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -38,7 +38,7 @@ export const maristateuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Mari State University?',
-            info: '<b>Students choose medicine course at Mari State University because of the following reasons:</b>',
+            info: 'Students choose medicine course at Mari State University because of the following reasons:</b>',
             data: [
                 "The quality of education in Mari State University is excellent and thus it is comparable to the European standards.",
                 "Mari State University follows the international curriculum.",
@@ -56,7 +56,7 @@ export const maristateuniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>Following is the medium of teaching at Mari State University:</b>',
+            info: 'Following is the medium of teaching at Mari State University:</b>',
             data: [
                 "At Mari State University, the medium of instruction is English.",
                 "For the excellent quality of education and medium of instruction being English, local as well as International students prefer this university."
@@ -65,7 +65,7 @@ export const maristateuniversity = {
         {
             "type": "table",
             "title": "Mari State University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Mari State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Mari State Medical University:</b>",
             "col": [
                 "Country",
                 "World",
@@ -83,7 +83,7 @@ export const maristateuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Mari State Medical University in Russia is accredited by many medical bodies such as:</b>',
+            info: 'Mari State Medical University in Russia is accredited by many medical bodies such as:',
             data: [
                 "Ministry of Education and Science, Russia",
                 "NMC",
@@ -94,7 +94,7 @@ export const maristateuniversity = {
         {
             type: 'list-bollet',
             title: 'Life of Students',
-            info: '<b>Life of Students at Mari State University is filled with enjoyment along with studies as the university provides many facilities, and great environment to its students:</b>',
+            info: 'Life of Students at Mari State University is filled with enjoyment along with studies as the university provides many facilities, and great environment to its students:',
             data: [
                 "In Mari State University, the students have ample of options to do along with studies.",
                 "There are scientific communities, sports schools, volunteering charity work, Interest clubs, public work, cultural events and much more.",
@@ -107,7 +107,7 @@ export const maristateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Yoshkar-Ola City",
-            "info": "<b>The cost of living at Yoshkar-ola city is as follows:</b>",
+            "info": "The cost of living at Yoshkar-ola city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -139,7 +139,7 @@ export const maristateuniversity = {
         {
             type: 'list-bollet',
             title: 'About Yoshkar-Ola City',
-            info: '<b>Let us try to find some interesting things about Yoshkar-Ola city:</b>',
+            info: 'Let us try to find some interesting things about Yoshkar-Ola city:',
             img: 'yoshkar-ola-city.jpg',
             data: [
                 "Yoshkar-Ola is the capital city of the Mari El Republic region of Russia.",
@@ -169,9 +169,13 @@ export const maristateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Mari State University, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Mari State University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Mari State University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Mari State University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -224,7 +228,7 @@ export const maristateuniversity = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Mari State University',
-            info: '<b>Russia’s Mari State University has following faculties:</b>',
+            info: 'Russia’s Mari State University has following faculties:',
             data: [
                 "General Medicine",
                 "Pharmacy",
@@ -234,7 +238,7 @@ export const maristateuniversity = {
         {
             type: 'list-bollet',
             title: 'Mari State University - MBBS Duration',
-            info: '<b>Mentioned below is the duration of MBBS course:</b>',
+            info: 'Mentioned below is the duration of MBBS course:',
             data: [
                 "The duration of MBBS course at Mari State University is 6 years, out of which 1 year is internship or apprenticeship, 5 years are classroom learning.",
                 "The internship can either be done at the university hospitals or in the home country of students in a hospital recognized by the Ministry of Health of the concerned country."
@@ -243,7 +247,7 @@ export const maristateuniversity = {
         {
             "type": "table",
             "title": "Mari State University: MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS Course at Mari State University is as follows:</b><br>1st Year",
+            "info": "The complete syllabus for studying MBBS Course at Mari State University is as follows:</b><br>1st ",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -351,9 +355,13 @@ export const maristateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Mari State University, Russia - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>The eligibility criteria to study MBBS at Mari State Medical University is as follows:</b>',
+            info: 'The eligibility criteria to study MBBS at Mari State Medical University is as follows:</b>',
             data: [
                 "Students must have cleared NEET exam.",
                 "Students must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -365,7 +373,7 @@ export const maristateuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following is the admission process for applying to MBBS course at Mari State Medical University:</b>',
+            info: 'Following is the admission process for applying to MBBS course at Mari State Medical University:</b>',
             data: [
                 "Step 1: Applicants should fill the application form available online. They can send the documents via email.",
                 "Step 2: Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -378,7 +386,7 @@ export const maristateuniversity = {
         {
             type: 'step-list',
             title: 'Documents Required',
-            info: '<b>Following documents are required at the time of admission to Mari State University:</b>',
+            info: 'Following documents are required at the time of admission to Mari State University:</b>',
             data: [
                 "Birth Certificate",
                 "10th & 12th Mark sheet",
@@ -394,7 +402,7 @@ export const maristateuniversity = {
         {
             "type": "table",
             "title": "Mari State University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Mari State University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Mari State University:</b>",
             "col": [
                 "Events",
                 "Dates"
@@ -434,6 +442,10 @@ export const maristateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Mari State University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Mari State University, Russia - Reviews" },
@@ -453,13 +465,17 @@ export const maristateuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'Mari State University, Russia - Placement'
+        },
+        {
             type: 'list-bollet',
-            title: '',
+            title: 'Placement',
             info: '',
             data: [
-               "Graduates of Mari State University may work at their own hospital. As a result, people who have finished their degrees are eligible to study at Mari State University.",
-               "Mari State University encourages graduates to continue their studies by providing them with higher education options.",
-               "After completing their degree, young graduates may seek employment as doctors in India."
+                "Graduates of Mari State University may work at their own hospital. As a result, people who have finished their degrees are eligible to study at Mari State University.",
+                "Mari State University encourages graduates to continue their studies by providing them with higher education options.",
+                "After completing their degree, young graduates may seek employment as doctors in India."
             ]
         },
         {
@@ -482,6 +498,10 @@ export const maristateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Mari State University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Mari State University, Russia - Gallery" },
@@ -501,15 +521,19 @@ export const maristateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Mari State University, Russia - Scholarship'
+        },
+        {
             type: 'list-bollet',
             title: 'Scholarships',
-            info: '<b>Scholarships are offered at Mari State University for local and international students:</b><br><b>Mari State University offers financial and other aids to international students. The scholarships are offered to students based on:</b>',
+            info: 'Scholarships are offered at Mari State University for local and international students:</b><br><b>Mari State University offers financial and other aids to international students. The scholarships are offered to students based on:',
             data: [
                 "The percentage of marks",
                 "Marks, attendance and conduct",
                 "Top performers of the university get scholarships",
                 "Scholarships on merit basis",
-                "Performance based scholarships"           
+                "Performance based scholarships"
             ]
         },
         {
@@ -531,6 +555,10 @@ export const maristateuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Mari State University, Russia - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -582,6 +610,10 @@ export const maristateuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Mari State University, Russia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Mari State University, Russia - News & Articles" },
@@ -601,9 +633,13 @@ export const maristateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Mari State University, Russia - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
-            info: '<b>Following are the hostel facilities at Mari State Medical University:</b>',
+            info: 'Following are the hostel facilities at Mari State Medical University:',
             data: [
                 "Mari State University has its own hostels.",
                 "The hostels are separate for girls and boys.",
@@ -649,9 +685,13 @@ export const maristateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Mari State University, Russia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Mari State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Does Mari State University provide Indian food at its hostel?",

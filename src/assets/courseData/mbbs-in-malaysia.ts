@@ -5,6 +5,7 @@ export const mbbsinmalaysia = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 - 6 Years",
     "url": "mbbs-in-malaysia",
     "info": [
         {
@@ -20,7 +21,7 @@ export const mbbsinmalaysia = {
         {
             "type": "table-title",
             "title": "MBBS in Malaysia 2022- Quick Facts",
-            "info": "<b>Watch the complete overview of MBBS courses in Malaysia to get a brief idea about the structure of course & qualification requirements:</b>",
+            "info": "Watch the complete overview of MBBS courses in Malaysia to get a brief idea about the structure of course & qualification requirements:",
             "row": [
                 ["<b>Eligibility Criteria</b>", "50% - 70% in PCB (Depends on University)"],
                 ["<b>NEET Entrance Test</b>", "Yes, it is compulsory"],
@@ -38,7 +39,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'Important Benefits of Studying MBBS in Malaysia',
-            info: '<b>Advantages of learning medicine at Malaysia are here:</b>',
+            info: 'Advantages of learning medicine at Malaysia are here:',
             data: [
                 "It hardly takes more than 4.5 hrs to land in Malaysia from India & add up another 30 - 45 minutes to reach the location of Universities.",
                 "Flight tickets are extremely cheaper in cost that easily makes it affordable for students & their parents to travel quite often, especially for holidays.",
@@ -57,7 +58,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria: For MBBS Course',
-            info: '<b>Qualification criteria for Indian students to study MBBS in Malaysia is the same as other Asian & European countries:</b>',
+            info: 'Qualification criteria for Indian students to study MBBS in Malaysia is the same as other Asian & European countries:',
             data: [
                 "The minimum age of the candidate should be under 17 years.",
                 "Academic score of PCB (Physics, Chemistry, Biology) of the student must be 50% with English & Math as compulsory subjects.",
@@ -71,7 +72,7 @@ export const mbbsinmalaysia = {
         {
             type: 'step-list',
             title: 'How to Get MBBS Admission in Malaysia?',
-            info: '<b>There is a common procedure to secure admission for medical seats in the universities of the Malaysia which is as follows:</b>',
+            info: 'There is a common procedure to secure admission for medical seats in the universities of the Malaysia which is as follows:',
             data: [
                 "<b>Step 1:</b>  The first step starts with filling an online application form on the website.",
                 "<b>Step 2:</b>  After successful submission of the admission form, an invitation letter is issued by the university.",
@@ -83,7 +84,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'Documents Required to Study in Malaysia',
-            info: '<b>Students are required to organize the following documents for admission procedure in Malaysian Universities for MBBS course:</b>',
+            info: 'Students are required to organize the following documents for admission procedure in Malaysian Universities for MBBS course:',
             data: [
                 "Marksheet of Xth & XIIth from recognized board of education",
                 "Migration certificate of the student",
@@ -96,7 +97,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'Is an MBBS Degree in Malaysia Valid in India?',
-            info: '<b>The foremost assessment factor for Indian student to look up in foreign education is the validity of degree:</b>',
+            info: 'The foremost assessment factor for Indian student to look up in foreign education is the validity of degree:',
             data: [
                 "All the NMC approved universities in Malaysia offer an MBBS degree which is valid in India, so that the students can practice their studies.",
                 "Indian students may continue their housemanship in Indian hospitals.",
@@ -106,7 +107,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching in Malaysia',
-            info: '<b>English is the teaching language for MBBS course offered by the universities in Malaysia:</b>',
+            info: 'English is the teaching language for MBBS course offered by the universities in Malaysia:',
             data: [
                 "The entire course of MBBS taught in the colleges of Malaysia is in English.",
                 "English proficiency tests like IELTS/ TOEFL are not required for admission."
@@ -115,7 +116,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'USMLE after Completing MBBS from Malaysia',
-            info: '<b>USMLE is a license exam mandatory to make career in the USA:</b>',
+            info: 'USMLE is a license exam mandatory to make career in the USA:',
             data: [
                 "Indian students who want to do specialization in the USA after MBBS or practice their knowledge have eyes set on USMLE preparation since the first year.",
                 "United States Medical License Examination (USMLE) is conducted in the three stages given below:",
@@ -130,7 +131,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
-            info: '<b>Accomodation facilities is made available by the university or private service providers for the convenience of foreign students:</b>',
+            info: 'Accomodation facilities is made available by the university or private service providers for the convenience of foreign students:',
             data: [
                 "You can either opt for college accommodation or off-campus rooms.",
                 "Monthly rent of private rooms cost between 300 RM - 500 RM Approx.",
@@ -142,7 +143,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'The Education System in Malaysia',
-            info: '<b>Following pattern is followed in medical education in Malaysia:</b>',
+            info: 'Following pattern is followed in medical education in Malaysia:',
             data: [
                 "Medical universities in Malaysia offer five years of MBBS program which is known as M.D. (Doctor in Medicine).",
                 "Five years of M.D program is divided into two phases: Phase one is basic medical science & second is clinical experiences & practices.",
@@ -153,7 +154,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'PG Options after MBBS from Malaysia',
-            info: '<b>Students can pursue post graduation anywhere in the world after completing MBBS in Malaysia:</b>',
+            info: 'Students can pursue post graduation anywhere in the world after completing MBBS in Malaysia:',
             data: [
                 "MBBS degree available in Malaysia has a worldwide accreditation that opens the door for learning P.G in any country or starting a career as a doctor of surgeon.",
                 "There are some colleges in Malaysia where you have options of post graduation, however European or American colleges are highly recommended for doing P.G.",
@@ -163,7 +164,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'MBBS in Malaysia: Age Limit',
-            info: '<b>The candidates applying for MBBS course in Malaysia have to fulfill certain age criteria to get admission:</b>',
+            info: 'The candidates applying for MBBS course in Malaysia have to fulfill certain age criteria to get admission:',
             data: [
                 "Students should be 17 years old before the 31st december of the respective admission year.",
                 "The maximum age limitation to become eligible for studying medicine in Malaysia is 25 years."
@@ -172,7 +173,7 @@ export const mbbsinmalaysia = {
         {
             type: 'text',
             title: 'How Safe is Malaysia for Indian Students?',
-            info: '<b>Malaysia is the most safest Asian country for international students:</b>',
+            info: 'Malaysia is the most safest Asian country for international students:',
             data: "<p>According to the <b>Global Peace Index (2015):</b> Malaysia is the fifth safest region after New Zealand, Japan, Australia, & Singapore. Malaysia is also good for the safety of women. Any type of violence like bullying or ragging against the students is rare in the country.</p>"
         },
         {
@@ -217,10 +218,16 @@ export const mbbsinmalaysia = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malayasia 2023 - Top Colleges in Malayasia'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Malaysia Fee Structure 2022",
-            "info": "<b>The amount of fees for medical course in Malaysia is exceptionally lower and they are presented in the chart given below:</b>",
+            "info": "The amount of fees for medical course in Malaysia is exceptionally lower and they are presented in the chart given below:",
             "col": [
                 "Name of the Universities",
                 "Tuition Fees/ Year",
@@ -283,7 +290,7 @@ export const mbbsinmalaysia = {
         {
             "type": "table",
             "title": "Ranking of Best Malaysian Medical Universities",
-            "info": "<b>The top ranked medical universities in Malaysia are presented in the following table:</b>",
+            "info": "The top ranked medical universities in Malaysia are presented in the following table:",
             "col": [
                 "Name of the University",
                 "World Ranking",
@@ -360,10 +367,16 @@ export const mbbsinmalaysia = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malayasia 2023 - Syllabus'
+        },
+
         {
             type: 'list-bollet',
             title: 'Courses Offered by the Malaysian Medical Universities',
-            info: '<b>The universities in Malaysia delivers top-notch quality of medical program that mainly consist of following types of courses:</b>',
+            info: 'The universities in Malaysia delivers top-notch quality of medical program that mainly consist of following types of courses:',
             data: [
                 "Anaesthesiology",
                 "Internal Medicine",
@@ -378,7 +391,7 @@ export const mbbsinmalaysia = {
         {
             type: 'list-bollet',
             title: 'Duration of MBBS Course in Malaysia',
-            info: '<b>The total duration for pursuing an MBBS course in Malaysia is generally upto 5 years:< /b>',
+            info: 'The total duration for pursuing an MBBS course in Malaysia is generally upto 5 years:',
             data: [
                 "It takes five straight years for any student to finish their MBBS degree in the medical universities of Malaysia.",
                 "Internship period adds up another year until you are officially certified as a doctor once you successfully complete housestaffship."
@@ -388,7 +401,7 @@ export const mbbsinmalaysia = {
         {
             "type": "table-title",
             "title": "Complete Syllabus of MBBS in Malaysia (Year Wise)",
-            "info": "<b>Students learning MBBS degree in Malaysia has following syllabus pattern in their academic curriculum:</b>",
+            "info": "Students learning MBBS degree in Malaysia has following syllabus pattern in their academic curriculum:",
             "colTitle": "Year - I",
             "row": [
                 ["Basic Medical Science", "Cardiovascular System"],
@@ -466,10 +479,16 @@ export const mbbsinmalaysia = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malayasia 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Career Options: After Completing MBBS Degree From Malaysia',
-            info: '<b>Students graduating with MBBS degree in Malaysia have numerous career opportunities:< /b>',
+            info: 'Students graduating with MBBS degree in Malaysia have numerous career opportunities:',
             data: [
                 "The first advantage students get after taking their degrees from the colleges of Malaysia is it’s eligibility for appearing in FMGE examination.",
                 "They can also go for post graduation in the USA or European countries.",
@@ -496,10 +515,16 @@ export const mbbsinmalaysia = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malayasia 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Malaysia: Important FAQs",
-            "info": "<b>Following are the most frequently asked questions on Quora and Careers360 are answered below:</b>",
+            "info": "Following are the most frequently asked questions on Quora and Careers360 are answered below:",
             "data": [
                 {
                     "ques": "Q. Which are the top medical universities to study MBBS program in Malaysia?",

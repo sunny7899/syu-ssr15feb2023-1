@@ -21,7 +21,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "table",
             "title": "Manipal College of Medical Sciences: Quick Overview",
-            "info": "<b>Just go through the Quick highlights of the Manipal College of Medical Sciences and get to know more about the University:</b>",
+            "info": "Just go through the Quick highlights of the Manipal College of Medical Sciences and get to know more about the University:",
             "col": [
             ],
             "row": [
@@ -40,7 +40,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "list-bollet",
             "title": "Why Manipal College of Medical Sciences is the Best for Medicine Studies?",
-            "info": "<b>Now let’s walk down to the advantages that allow worldwide medical aspirants to choose Manipal College of Medical Sciences:</b>",
+            "info": "Now let’s walk down to the advantages that allow worldwide medical aspirants to choose Manipal College of Medical Sciences:",
             "data": [
                 "The Manipal College of Medical Sciences provides a modern university campus with all conveniences.",
                 "The university offers state of art teaching aids and with well-equipped laboratories for all students.",
@@ -73,7 +73,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "table",
             "title": "Manipal College of Medical Sciences: FMGE Performance 2021",
-            "info": "<b>Find the passing percent and appeared students in year 2021 for Manipal College of Medical Sciences is here in the table below:</b>",
+            "info": "Find the passing percent and appeared students in year 2021 for Manipal College of Medical Sciences is here in the table below:",
             "col": [
                 "Name of University ",
                 "Appeared",
@@ -94,7 +94,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             type: 'text',
             title: 'Affiliations, Accreditations and Recognitions',
-            info: '<b>The medical degree from the Manipal College of Medical Sciences is fully accredited and recognized by several medical bodies:</b>',
+            info: 'The medical degree from the Manipal College of Medical Sciences is fully accredited and recognized by several medical bodies:',
             data: '<p>For taking admission in any university, one must be confirmed about the affiliations, accreditations and recognition of the specific university.</p>'
         },
 
@@ -102,7 +102,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Manipal College of Medical Sciences is having following recognitions-</b>",
+            "info": "Manipal College of Medical Sciences is having following recognitions-",
             "data": [
                 "Institution of Manipal Education and Medical Group (MEMG), Nepal",
                 "Affiliated to Kathmandu University, Dhulikhel, Nepal",
@@ -116,7 +116,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "table",
             "title": "Living Cost in Pokhara",
-            "info": "<b>The living expense of the Pokhara city, Nepal is much cheaper than other countries and the table given below shows the living costs per month:</b>",
+            "info": "The living expense of the Pokhara city, Nepal is much cheaper than other countries and the table given below shows the living costs per month:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -179,10 +179,15 @@ export const manipalcollegeofmedicalsciences = {
 
     ],
     "coursesandfees": [
+
+        {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - courses & Fees'
+        },
         {
             "type": "table",
             "title": "Manipal College of Medical Sciences - MBBS Fee Structure 2022",
-            "info": "<b>Manipal College of Medical Sciences offers low fee structure to students to study MBBS at affordable cost:</b>",
+            "info": "Manipal College of Medical Sciences offers low fee structure to students to study MBBS at affordable cost:",
             "col": [
                 "Particulars",
                 "Course Fee",
@@ -210,7 +215,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "list-bollet",
             "title": "Course Offered at Manipal College of Medical Sciences",
-            "info": "<b>The medicine program of Manipal College of Medical Sciences includes numerous faculties:</b>",
+            "info": "The medicine program of Manipal College of Medical Sciences includes numerous faculties:",
             "data": [
                 "Medicine",
                 "PG Programs (MD/MS/MSc)",
@@ -221,7 +226,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "list-bollet",
             "title": "Manipal College of Medical Sciences - MBBS Duration",
-            "info": "<b>To pursue MBBS career in Manipal College of Medical Sciences the students must complete 4.5 year duration:</b>",
+            "info": "To pursue MBBS career in Manipal College of Medical Sciences the students must complete 4.5 year duration:",
             "data": [
                 "Manipal College of Medical Sciences offers 4 and a half year of Medicine program in preclinical subjects and selected clinical subjects.",
                 "The four and half year is divided into 9 semesters of 6 months each with the English medium of teaching.",
@@ -231,7 +236,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "table",
             "title": "Manipal College of Medical Sciences - MBBS Syllabus",
-            "info": "<b>The Syllabus for Medicine program of Manipal College of Medical Sciences, Nepal:</b><p><b>1st Year</b></p>",
+            "info": "The Syllabus for Medicine program of Manipal College of Medical Sciences, Nepal:</b><p><b>1st Year</b>",
             "col": [
                 "1st Year",
                 "2nd Year",
@@ -334,11 +339,15 @@ export const manipalcollegeofmedicalsciences = {
         }
     ],
     "admission": [
+        {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - Admission 2023'
+        },
 
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Consider the following eligibility for selection in the MBBS program at Manipal College of Medical Sciences:</b>",
+            "info": "Consider the following eligibility for selection in the MBBS program at Manipal College of Medical Sciences:",
             "data": [
                 "The student must have qualified 10+2 in physics, chemistry and biology subjects.",
                 "The students coming under general category must secure 50% in PCB",
@@ -349,7 +358,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "list-bollet",
             "title": "Admission Process",
-            "info": "<b>To study MBBS course from Manipal College of Medical Sciences the students must follow the following admission process:</b>",
+            "info": "To study MBBS course from Manipal College of Medical Sciences the students must follow the following admission process:",
             "data": [
                 "Apply on the official website of the university and fill all the essential academic details in the Online Application form."
             ]
@@ -357,7 +366,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>While applying online the students must upload following documents (in PDF or Image format)</b>",
+            "info": "While applying online the students must upload following documents (in PDF or Image format)",
             "data": [
                 "10th standard mark sheet",
                 "12th standard mark sheet",
@@ -368,7 +377,7 @@ export const manipalcollegeofmedicalsciences = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following are the essential documents which must be submitted at the time of admission:</b>",
+            "info": "Following are the essential documents which must be submitted at the time of admission:",
             "data": [
                 "The students must submit academic Mark Sheets (SSC and HSC) during admission time.",
                 "Copy of School certificate examination must be submitted.",
@@ -397,6 +406,10 @@ export const manipalcollegeofmedicalsciences = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Manipal College of Medical Sciences, Nepal - Reviews" },
@@ -415,6 +428,10 @@ export const manipalcollegeofmedicalsciences = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placements",
@@ -446,6 +463,10 @@ export const manipalcollegeofmedicalsciences = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Manipal College of Medical Sciences, Nepal - Gallery" },
@@ -465,9 +486,13 @@ export const manipalcollegeofmedicalsciences = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "MBBS Scholarship",
-            "info": "<b>The Manipal College of Medical Sciences offers scholarship program:</b>",
+            "info": "The Manipal College of Medical Sciences offers scholarship program:",
             "data": [
                 "MCOMS is a financing Institution where 20% seats for MBBS program reserved for the government of Nepal nominated candidates",
                 "The university doesn’t charge any fees from these students and supports other Nepalese students tuition fees.",
@@ -493,8 +518,12 @@ export const manipalcollegeofmedicalsciences = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - Faculty'
+        },
+        {
             "type": "list-bollet",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "data": [
                 "<b>Dr Aashika Shrestha</b><br>Lecturer<br>Obstetrics & Gynaecology",
@@ -524,6 +553,10 @@ export const manipalcollegeofmedicalsciences = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Manipal College of Medical Sciences, Nepal - News & Articles" },
@@ -543,9 +576,13 @@ export const manipalcollegeofmedicalsciences = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facility",
-            "info": "<b>The hostel facility of Manipal College of Medical Sciences is fully residential and separate for both men and women:</b>",
+            "info": "The hostel facility of Manipal College of Medical Sciences is fully residential and separate for both men and women:",
             "data": [
                 "All Hostel rooms are on twin sharing basis.",
                 "The room has furniture and other important amenities",
@@ -591,6 +628,10 @@ export const manipalcollegeofmedicalsciences = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Manipal College of Medical Sciences, Nepal - FAQ'
+        },
         {
             "type": "question-list",
             "title": "FAQs",

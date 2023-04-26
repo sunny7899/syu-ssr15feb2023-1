@@ -19,7 +19,7 @@ export const universityofsantotomas = {
         {
             "type": "table-title",
             "title": "University of Santo Tomas - Quick Overview",
-            "info": "<b>The Following table given below are the quick highlights of the University of Santo Tomas:</b>",
+            "info": "The Following table given below are the quick highlights of the University of Santo Tomas:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "July"],
@@ -35,7 +35,7 @@ export const universityofsantotomas = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at the University of Santo Tomas?",
-            "info": "<b>Following are the benefits to pursue MBBS in University of Santo Tomas:</b>",
+            "info": "Following are the benefits to pursue MBBS in University of Santo Tomas:",
             "data": [
                 "Students are now moving to the University of Santo Tomas to pursue a degree in medicine as the university is providing an affordable fee structure.",
                 "The University of Santo Tomas has a huge network of international relations and partnership with different universities.",
@@ -49,7 +49,7 @@ export const universityofsantotomas = {
         {
             "type": "table",
             "title": "University of Santo Tomas - Ranking 2022",
-            "info": "<b>As per Unirank ranking system, the following are country & world ranking of the University of Santo Tomas:</b>",
+            "info": "As per Unirank ranking system, the following are country & world ranking of the University of Santo Tomas:",
             "col": [
                 "Country",
                 "World"
@@ -64,7 +64,7 @@ export const universityofsantotomas = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Following are the accreditation and recognition of University of Santo Tomas:</b>",
+            "info": "Following are the accreditation and recognition of University of Santo Tomas:",
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)"
@@ -73,7 +73,7 @@ export const universityofsantotomas = {
         {
             "type": "table",
             "title": "Cost of Living in Manila",
-            "info": "<b>The expenses of living in the Manila city are given below:</b>",
+            "info": "The expenses of living in the Manila city are given below:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -96,7 +96,7 @@ export const universityofsantotomas = {
                     "Approx Range in RS": "Rs 1,820"
                 }
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
         },
         {
             "type": "text",
@@ -106,7 +106,7 @@ export const universityofsantotomas = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Here are some tourist spots and attracting places of the Philippines:</b>",
+            "info": "Here are some tourist spots and attracting places of the Philippines:",
             "data": [
                 "Rizal Park",
                 "Fort Santiago",
@@ -138,9 +138,13 @@ export const universityofsantotomas = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Santo Tomas - MBBS Fee Structure 2022",
-            "info": "<b>The following table shows the fee structure of Universities of Santo Tomas, BS+MD course:</b>",
+            "info": "The following table shows the fee structure of Universities of Santo Tomas, BS+MD course:",
             "col": [
                 "Perticular",
                 "Annual Fees",
@@ -175,12 +179,12 @@ export const universityofsantotomas = {
                     "Annual Fees": "14,70,000 INR"
                 },
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at University of Santo Tomas",
-            "info": "<b>Following are the medical faculties in the University of Santo Tomas:</b>",
+            "info": "Following are the medical faculties in the University of Santo Tomas:",
             "data": [
                 "Nursing",
                 "Pharmacy",
@@ -190,7 +194,7 @@ export const universityofsantotomas = {
         {
             "type": "list-bollet",
             "title": "University of Santo Tomas - MBBS Duration",
-            "info": "<b>The course duration of MBBS in the Philippines is 6 years:</b>",
+            "info": "The course duration of MBBS in the Philippines is 6 years:",
             "data": [
                 "MBBS degree’s duration at the University of Santo Tomas is <b>6 years</b>, First 2 years of MBBS course includes a Bachelor of Science(BS) course leading to the NMAT (National Medical Aptitude Test) and after clearing the NMAT you will be eligible for Doctor of Medicine(MD) course."
             ]
@@ -198,7 +202,7 @@ export const universityofsantotomas = {
         {
             "type": "table",
             "title": "University of Santo Tomas - MBBS Syllabus",
-            "info": "<b>The syllabus for MBBS course in University of Santo Tomas is shown in the table below:</b><br>Syllabus For Pre-Medical",
+            "info": "The syllabus for MBBS course in University of Santo Tomas is shown in the table below:<br>Syllabus For Pre-Medical",
             "col": [
                 "First Term",
                 "Second Term",
@@ -361,9 +365,13 @@ export const universityofsantotomas = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following are the eligibility criteria for admission into the MD program:</b>",
+            "info": "Following are the eligibility criteria for admission into the MD program:",
             "data": [
                 "The applicant must have completed a bachelor’s degree in Arts or Science.",
                 "Applicants must clear the National Medical Admissions Test.",
@@ -378,7 +386,7 @@ export const universityofsantotomas = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Follow these steps to take admission in the University of Santo Tomas for MBBS course:</b>',
+            info: 'Follow these steps to take admission in the University of Santo Tomas for MBBS course:',
             data: [
                 "Step 1: You should fill in the Application form available online.",
                 "Step 2: Then, he/she should send the filled-in Application together with the copies of the documents, necessary for the acquisition of the student’s status.",
@@ -390,7 +398,7 @@ export const universityofsantotomas = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The eligible candidate is required to submit an application form along with the following documents:</b>",
+            "info": "The eligible candidate is required to submit an application form along with the following documents:",
             "data": [
                 "Certificate of graduation",
                 "Certificate of English Proficiency test",
@@ -405,7 +413,7 @@ export const universityofsantotomas = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at University of Santo Tomas:</b>",
+            "info": "Check out the Important dates regarding admission at University of Santo Tomas:",
             "col": [
                 "Events",
                 "Dates"
@@ -445,6 +453,10 @@ export const universityofsantotomas = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Santo Tomas, Philippines - Reviews" },
@@ -463,6 +475,10 @@ export const universityofsantotomas = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -483,6 +499,10 @@ export const universityofsantotomas = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Santo Tomas, Philippines - Gallery" },
@@ -501,6 +521,10 @@ export const universityofsantotomas = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
@@ -532,6 +556,10 @@ export const universityofsantotomas = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - Faculty'
+        },
+        {
             "type": "list-bollet",
             "title": "faculty",
             "info": "",
@@ -560,6 +588,10 @@ export const universityofsantotomas = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Santo Tomas, Philippines - News & Articles" },
@@ -579,9 +611,13 @@ export const universityofsantotomas = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The University of Santo Tomas provides the hostel of accommodation facilities for students:</b>",
+            "info": "The University of Santo Tomas provides the hostel of accommodation facilities for students:",
             "data": [
                 "The University of Santo Tomas has a great infrastructure with all facilities.",
                 "Hostels provide homely comfort to all medical aspirants coming from different parts of the world to pursue their dreams.",
@@ -591,7 +627,7 @@ export const universityofsantotomas = {
                 "24×7 hostel security.",
                 "Common kitchen room.",
                 "Reading rooms and gyms are available in the hostel.",
-                "Different hostels are provided to Indian students and Indian food is prepared by an Indian cook."                
+                "Different hostels are provided to Indian students and Indian food is prepared by an Indian cook."
             ]
         },
         {
@@ -623,12 +659,15 @@ export const universityofsantotomas = {
             ]
         }
     ],
-    "faq":
-    [
+    "faq": [
+        {
+            type: 'title',
+            title: 'University of Santo Tomas, Philippines - FAQ'
+        },
         {
             "type": "question-list",
             "title": "University of Santo Tomas - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many international students are studying at the university currently?",

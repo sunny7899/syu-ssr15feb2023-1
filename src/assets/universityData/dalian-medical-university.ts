@@ -19,7 +19,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Dalian Medical University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Dalian Medical University:</b>",
+            "info": "Given below is the table for quick facts about Dalian Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September, 2020"],
@@ -37,7 +37,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS Course at Dalian Medical University?",
-            "info": "<b>Below are some of the advantages of studying MBBS at Dalian Medical University:</b>",
+            "info": "Below are some of the advantages of studying MBBS at Dalian Medical University:",
             "data": [
                 "The medium of study at Dalian Medical University is English and it is very compatible with the international students.",
                 "The University offers direct admission to the medical aspirants without any entrance examination and donation fees.",
@@ -53,7 +53,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "table",
             "title": "Dalian Medical University - Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Dalian Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Dalian Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -68,7 +68,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of teaching at Dalian Medical University is:</b>",
+            "info": "The medium of teaching at Dalian Medical University is:",
             "data": [
                 "At Dalian Medical University, the medium of teaching is English, and thus language is not a barrier for non-chinese students while studying at this university."
             ]
@@ -76,7 +76,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>China’s Dalian Medical University is recognized and accredited by many important medical bodies in the field of medical education thereby providing successful career opportunities in the path of success for students :</b>",
+            "info": "China’s Dalian Medical University is recognized and accredited by many important medical bodies in the field of medical education thereby providing successful career opportunities in the path of success for students :",
             "data": [
                 "Chinese Education Ministry",
                 "Medical Council of India or MCI",
@@ -88,7 +88,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Student’s at Dalian Medical University",
-            "info": "<b>Students live an excellent life at Dalian medical university as it provides many facilities to its students:</b>",
+            "info": "Students live an excellent life at Dalian medical university as it provides many facilities to its students:",
             "data": [
                 "The student life in the university is simply great with fantastic ambience as well as atmosphere which are perfectly suited for studies.",
                 "Studying MBBS at Dalian Medical University would be the ideal decision for students as the university has highly qualified and friendly faculty members.",
@@ -102,7 +102,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Dalian City",
-            "info": "<b>The cost of living at Dalian city is as follows:</b>",
+            "info": "The cost of living at Dalian city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -133,7 +133,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Dalian City",
-            "info": "<b>Some interesting facts about Dalian city are as follows:</b>",
+            "info": "Some interesting facts about Dalian city are as follows:",
             "data": [
                 "After Shenyang, which is the provincial capital, Dalian is the second largest city of Liaoning Province.",
                 "Dalian City is governed by the Mayor of the city and its Dalian Municipal People's Government. On the northern east corner of China, on the seashore, Dalian city is located.",
@@ -168,9 +168,13 @@ export const dalianmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Dalian Medical University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Dalian Medical University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Dalian Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Dalian Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "1st Year",
@@ -242,7 +246,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Dalian Medical University - MBBS Course Duration",
-            "info": "<b>Mentioned below is the duration of MBBS course:</b>",
+            "info": "Mentioned below is the duration of MBBS course:",
             "data": [
                 "The duration of MBBS course at Dalian Medical University is 6 years which includes 1 year of internship."
             ]
@@ -250,7 +254,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "text",
             "title": "Tula State University - MBBS Syllabus",
-            "data": '<p><b>The complete syllabus for studying MBBS course at Tula State University is as follows:</b></p>'
+            "data": 'The complete syllabus for studying MBBS course at Tula State University is as follows:'
         },
 
         {
@@ -384,9 +388,13 @@ export const dalianmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Dalian Medical University - Admission 2023"
+        },
+        {
             "type": "table",
             "title": "Important Dates - Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Dalian Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Dalian Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -413,7 +421,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Dalian Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Dalian Medical University is as follows:",
             "data": [
                 "Students must have completed 12th standard of their education or any equivalent education with a minimum of 70% aggregate marks.",
                 "Students must have studied Physics, Chemistry, and Biology as their main subjects.",
@@ -428,7 +436,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "step-list",
             "title": "How to Apply for MBBS Admission at Dalian Medical University?",
-            "info": "<b>Following is the admission procedure for applying to MBBS course at Dalian Medical University:</b>",
+            "info": "Following is the admission procedure for applying to MBBS course at Dalian Medical University:",
             "data": [
                 "<b>Step 1:</b> Students who fit in the required eligibility criteria for Dalian Medical University must fill the application form of the university.",
                 "<b>Step 2:</b> Students must upload the required application documents.",
@@ -442,7 +450,7 @@ export const dalianmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Dalian Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Dalian Medical University:",
             "data": [
                 "Application form",
                 "Passport size photo - One",
@@ -474,6 +482,10 @@ export const dalianmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Dalian Medical University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Dalian Medical University - Reviews" },
@@ -492,6 +504,10 @@ export const dalianmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Dalian Medical University - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -523,6 +539,10 @@ export const dalianmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Dalian Medical University - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Dalian Medical University - Gallery" },
@@ -541,10 +561,15 @@ export const dalianmedicaluniversity = {
         }
     ],
     "scholarship": [
+
+        {
+            type: 'title',
+            title: "Dalian Medical University - Scholarship"
+        },
         {
             "type": "number-list",
             "title": "Scholarships",
-            "info": "<b>Following scholarships are offered at Dalian Medical University:</b>",
+            "info": "Following scholarships are offered at Dalian Medical University:",
             "textBelowInfo": "<p>Dalian Medical University provides a variety of scholarship programs to international students that includes, Dalian Medical University Scholarship program and Dalian Government Scholarship program.</p>",
             "data": [
                 "<b>1 Dalian Government Scholarship</b><br>In 2008, Dalian municipal government has set up the government scholarship for international students to support and encourage more excellent international students to study at Dalian.",
@@ -570,10 +595,15 @@ export const dalianmedicaluniversity = {
         }
     ],
     "faculty": [
+
+        {
+            type: 'title',
+            title: "Dalian Medical University - News & Articles"
+        },
         {
             "type": "list-bollet",
             "title": "Faculties at Dalian Medical University",
-            "info": "<b>The different faculties and departments at Dalian Medical University are as follows:</b>",
+            "info": "The different faculties and departments at Dalian Medical University are as follows:",
             "data": [
                 "The First Affiliated Hospital",
                 "The Second Affiliated Hospital",
@@ -609,6 +639,11 @@ export const dalianmedicaluniversity = {
         }
     ],
     "news": [
+
+        {
+            type: 'title',
+
+        },
         {
             type: "meta",
             meta: [
@@ -628,10 +663,15 @@ export const dalianmedicaluniversity = {
         }
     ],
     "hostel": [
+
+        {
+            type: 'title',
+            title: "Dalian Medical University - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Dalian Medical University:</b>",
+            "info": "Following are the hostel facilities at Dalian Medical University:",
             "data": [
                 "According to the demands of international students, Dalian Medical University (DMU) offers accommodation.",
                 "The accommodation of Dalian Medical University consists of four dorms of 680 rooms.",
@@ -661,10 +701,15 @@ export const dalianmedicaluniversity = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: "Dalian Medical University - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Dalian Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Are there any affiliated hospitals of the university?",

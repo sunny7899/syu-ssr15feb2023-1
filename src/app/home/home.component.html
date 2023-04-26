@@ -127,7 +127,7 @@
                     <h3><img src="../../assets/img/Home Page/1. Header/News/News.png" alt="news" width="100" class="mr-3" /></h3>
                 </div>
                 <marquee onmouseover="this.stop();" onmouseout="this.start();" class="marquee">
-                    <h3> <a href="/news/neet-ug-exam-result-declared/."> Neet Ug Exam Released: Check Result At Neet.nta.nic.in</a> <a href="/news/neet-ug-exam-answer-key/.">Neet Ug Exam 2022 Answer Key To Be Released Soon </a> <a href="/neet-pg-result-declared/."> Neet Pg 2022 Results Out: How To Check Your Rank & Cutoff Score</a>
+                    <h3> <a href="/news/neet-ug-exam-result-declared/."> Neet Ug Exam Released: Check Result At Neet.nta.nic.in</a> <a href="/news/neet-ug-exam-answer-key/.">Neet Ug Exam 2022 Answer Key To Be Released Soon </a> <a href="/news/neet-pg-result-declared/."> Neet Pg 2022 Results Out: How To Check Your Rank & Cutoff Score</a>
                         <!-- <span  *ngFor="let news of latestNews; let i = index"><a href="#/news-content/{{news.url}}">{{news.title}}</a>
               </span> -->
                     </h3>
@@ -438,7 +438,7 @@
             </div>
         </div>
     </div>
-
+<div><app-form></app-form></div>
     <div class="university">
         <div class="container">
             <hr />
@@ -636,8 +636,8 @@
               </div> -->
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <div class="text-center light-bg-blue">
-                                        <h6 class="white-text py-2 mb-0" [routerLink]="['/study-in-'+image.cCountryName.toLowerCase()]">Read more</h6>
+                                    <div class="text-center light-bg-blue" id="read-more-btn">
+                                        <h6 class="white-text py-2 mb-0" [routerLink]="['/study-in-'+image.cCountryName.toLowerCase()+'/.']">Read more</h6>
                                     </div>
                                 </div>
                             </div>
@@ -673,8 +673,8 @@
                                 <div class="text-center">
                                     <img src="{{ image.blogimg }}" class="pt-3 mx-auto d-block" />
                                     <div class="img-text">
-                                        <h6 [innerHtml]="image.title"></h6>
-                                        <p class="light-blue-text">Explore More</p>
+                                        <a [routerLink]="['/blog/'+image.url]"><h6 [innerHtml]="image.title"></h6>
+                                        <p class="light-blue-text">Explore More</p></a>
                                     </div>
                                 </div>
                             </div>
@@ -716,12 +716,14 @@
                         <button class="btn signbtn" (click)="singinUp()">Sign Up</button>
 
                         <!-- <input type="button btn " value=" Sign Up" class="d-inline p-2 signbtn black-text"> -->
+                        
                     </div>
-                    <div class="success">
-                        <p *ngIf="signUp">You have successfully subscribed to our news letter</p>
-                    </div>
+                    
                 </div>
             </div>
+            <div class="success col-lg-12 text-center">
+              <p *ngIf="signUp">You have successfully subscribed to our news letter</p>
+          </div>
         </div>
     </div>
     <app-chat></app-chat>

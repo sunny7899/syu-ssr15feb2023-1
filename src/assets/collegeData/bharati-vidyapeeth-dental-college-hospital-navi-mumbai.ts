@@ -102,9 +102,13 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Fee Structure of Bharati Vidyapeeth Dental College and Hospital, Navi Mumbai",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -173,9 +177,13 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria For BDS Course",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "The candidate must be an Indian national.",
                 "Age of candidate must be <b>17 years on or before 31st December 2000.</b>",
@@ -188,7 +196,7 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
         {
             type: 'step-list',
             title: 'Admission Procedure',
-            info: '<b></b>',
+            info: '',
             data: [
                 "Step 1: Candidates should have to register themselves on <b>the DMER</b> portal for applying NEET entrance test.",
                 "Step 2: The candidate will get a call for the <b>counseling process.</b>",
@@ -203,7 +211,7 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "NEET Admit card & NEET Scorecard",
                 "Proof of Date of Birth",
@@ -245,6 +253,10 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
     ],
     "review": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Reviews" },
@@ -263,6 +275,10 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
         }
     ],
     "placement": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -283,6 +299,10 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
     ],
     "gallery": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Gallery" },
@@ -301,6 +321,10 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
         }
     ],
     "scholarship": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -321,6 +345,10 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
     ],
     "faculty": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Faculty" },
@@ -339,6 +367,10 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
         }
     ],
     "news": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -359,9 +391,13 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
     ],
     "hostel": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation Facilities for Students",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "Separate hostels are provided for boys and girls.",
                 "All the rooms are clean and fully furnished.",
@@ -390,6 +426,10 @@ export const bharatividyapeethdentalcollegehospitalnavimumbai = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Navi Mumbai - FAQ"
+        },
         {
             type: "meta",
             meta: [

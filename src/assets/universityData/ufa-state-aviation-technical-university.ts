@@ -19,7 +19,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Ufa State Aviation Technical University - Quick Highlights",
-            "info": "<b>Take a look at some important points to be considered during medicine admission at Ufa State Aviation Technical University:</b>",
+            "info": "Take a look at some important points to be considered during medicine admission at Ufa State Aviation Technical University:",
             "row": [
                 ["<b>Tuition Fees (approx)</b>", "Aircraft engine manufacturing - Rs. 35900<br> Automation of technological processes and production - Rs. 30750"],
                 ["<b>Course Duration</b>", "4 years"],
@@ -31,7 +31,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study at Ufa State Aviation Technical University?',
-            info: '<b>The candidate must know the various benefits of studying Aviation at Ufa State Aviation Technical University:</b>',
+            info: 'The candidate must know the various benefits of studying Aviation at Ufa State Aviation Technical University:',
             data: [
                 "The cost of studying at Ufa State Aviation Technical University is less which is affordable for many students coming from different countries.",
                 "The graduated students will get a degree with global acceptance at USATU.",
@@ -52,7 +52,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "table",
             "title": "Ufa State Aviation Technical University - Ranking 2022",
-            "info": "<b>The students must refer to Uni rank, to know about the country & world ranking of Ufa State Aviation Technical University:</b>",
+            "info": "The students must refer to Uni rank, to know about the country & world ranking of Ufa State Aviation Technical University:",
             "col": [
                 "Country",
                 "World",
@@ -79,7 +79,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "table",
             "title": "Living Expenses of Ufa, Russia",
-            "info": "<b>Let's get to know about the average and approx living expenses of Ufa city for a month which may vary according to the individual’s living:</b>",
+            "info": "Let's get to know about the average and approx living expenses of Ufa city for a month which may vary according to the individual’s living:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -97,7 +97,7 @@ export const ufastateaviationtechnicaluniversity = {
                     "Approx range in RS": "700 Rs"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>'
         },
         {
             type: "meta",
@@ -119,9 +119,13 @@ export const ufastateaviationtechnicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Ufa State Aviation Technical University, Russia - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Ufa State Aviation Technical University - Fee Structure 2022",
-            "info": "<b>Ufa State Aviation Technical University providing an affordable fee structure to all students:</b>",
+            "info": "Ufa State Aviation Technical University providing an affordable fee structure to all students:",
             "col": [
                 "Course",
                 "Tuition fees in the first half of the year",
@@ -143,7 +147,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Ufa State Aviation Technical University - Course Duration",
-            "info": "<b>Ufa State Aviation Technical University offers 4 years of Aviation program to the students:</b>",
+            "info": "Ufa State Aviation Technical University offers 4 years of Aviation program to the students:",
             "data": [
                 "The Aviation course is for 4 years and the students will learn the entire education in English literature."
             ]
@@ -151,7 +155,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Institutions and Faculties",
-            "info": "<b>Ufa State Aviation Technical University has various institutions providing quality education to the students:</b>",
+            "info": "Ufa State Aviation Technical University has various institutions providing quality education to the students:",
             "col": [],
             "row": [
                 ["Aircraft Engines", "Energy and Transport", "Avionics"],
@@ -163,7 +167,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Faculties and Departments",
-            "info": "<b>The following is the list of faculties and departments offered at Ufa State Aviation Technical University to the students:</b>",
+            "info": "The following is the list of faculties and departments offered at Ufa State Aviation Technical University to the students:",
             "data": [
                 "Aerospace Technology and Material Science (IATMS)",
                 "Aircraft Engine Design, Energy and Transportation Engineering (FAEDETE)",
@@ -194,9 +198,13 @@ export const ufastateaviationtechnicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Ufa State Aviation Technical University, Russia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The candidate wishing to study at Ufa State Aviation Technical University must be eligible for admission:</b>",
+            "info": "The candidate wishing to study at Ufa State Aviation Technical University must be eligible for admission:",
             "data": [
                 "The candidates must have finished their entire higher secondary education.",
                 "The students willing to study Aviation at Ufa State Aviation Technical University must have a valid passport."
@@ -205,7 +213,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Check out the detailed admission process to enroll at Ufa State Aviation Technical University:</b>",
+            "info": "Check out the detailed admission process to enroll at Ufa State Aviation Technical University:",
             "data": [
                 "Step 1:The applicant should fill the application form and submit the required documents.",
                 "Step 2: Enrollment of students recommended by the admissions committee.",
@@ -218,7 +226,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The students must submit the application form along with the necessary documents attached:</b>",
+            "info": "The students must submit the application form along with the necessary documents attached:",
             "data": [
                 "HSC mark sheet",
                 "SSC mark sheet",
@@ -240,7 +248,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The students must keep themself updated with the important admission dates to enroll in Ufa State Aviation Technical University:</b>",
+            "info": "The students must keep themself updated with the important admission dates to enroll in Ufa State Aviation Technical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -284,6 +292,10 @@ export const ufastateaviationtechnicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Ufa State Aviation Technical University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ufa State Aviation Technical University, Russia - Reviews" },
@@ -302,6 +314,10 @@ export const ufastateaviationtechnicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Ufa State Aviation Technical University, Russia - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -322,6 +338,10 @@ export const ufastateaviationtechnicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Ufa State Aviation Technical University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ufa State Aviation Technical University, Russia - Gallery" },
@@ -341,9 +361,13 @@ export const ufastateaviationtechnicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Ufa State Aviation Technical University, Russia - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Following are the scholarships offered by Ufa State Aviation Technical University</b>",
+            "info": "Following are the scholarships offered by Ufa State Aviation Technical University",
             "data": [
                 "Academic scholarships",
                 "social scholarships",
@@ -369,6 +393,10 @@ export const ufastateaviationtechnicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Ufa State Aviation Technical University, Russia - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -432,6 +460,10 @@ export const ufastateaviationtechnicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Ufa State Aviation Technical University, Russia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ufa State Aviation Technical University, Russia - News & Articles" },
@@ -451,9 +483,13 @@ export const ufastateaviationtechnicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Ufa State Aviation Technical University, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Ufa State Aviation Technical University provides the students with the best hostel facilities along with modern amenities:</b>",
+            "info": "Ufa State Aviation Technical University provides the students with the best hostel facilities along with modern amenities:",
             "data": [
                 "Lomonosov has hostel facilities arranged for foreign students and is well equipped with all necessary needs.",
                 "The University has its own hostel facility on the campus for the students.",
@@ -463,7 +499,7 @@ export const ufastateaviationtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel has the following facilities-</b>",
+            "info": "The hostel has the following facilities-",
             "data": [
                 "Kitchen",
                 "Bed",
@@ -503,9 +539,13 @@ export const ufastateaviationtechnicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Ufa State Aviation Technical University, Russia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Ufa State Aviation Technical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is the Aviation course from Ufa State Aviation Technical University globally recognized?",

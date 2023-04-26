@@ -6,6 +6,7 @@ import { BlogComponent } from './blog.component';
 import { FooterModule } from '../footer/footer.module';
 import { ChatModule } from '../chat/chat.module';
 import { CarouselModule } from 'ngx-owl-carousel-o';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 // import { HeaderInnerModule } from '../header-inner/header-inner.module';
 //import {Location} from '@angular/common';  
 
@@ -19,7 +20,8 @@ import { CarouselModule } from 'ngx-owl-carousel-o';
     FooterModule,
     // HeaderInnerModule,
     CarouselModule,
-    ChatModule
+    ChatModule,
+    FormsModule, ReactiveFormsModule
   ],
   exports:[BlogComponent]
 })

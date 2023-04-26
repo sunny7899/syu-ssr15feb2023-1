@@ -20,7 +20,7 @@ export const northkazakhstanstateuniversity = {
         {
             "type": "table-title",
             "title": "North Kazakhstan State University - Quick Highlights 2022",
-            "info": "<b>Go through some major points of North Kazakhstan State University:</b>",
+            "info": "Go through some major points of North Kazakhstan State University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "October"],
                 ["<b>Acronym</b>", "NKSU"],
@@ -37,7 +37,7 @@ export const northkazakhstanstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at North Kazakhstan State University?',
-            info: '<b>Here are some benefits of North Kazakhstan State University:</b>',
+            info: 'Here are some benefits of North Kazakhstan State University:',
             data: [
                 "Computers",
                 "Interactive boards",
@@ -63,7 +63,7 @@ export const northkazakhstanstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>English is the most taught language for teaching MBBS course at North Kazakhstan State University:</b>',
+            info: 'English is the most taught language for teaching MBBS course at North Kazakhstan State University:',
             data: [
                 "English is the commonly taught language at North Kazakhstan State University.",
                 "Students need to complete the internship program after the final year of the course."
@@ -72,7 +72,7 @@ export const northkazakhstanstateuniversity = {
         {
             "type": "table",
             "title": "North Kazakhstan State University - Ranking 2022",
-            "info": "<b>According to Uni Rank following given below is the ranking of M. Kozybayev North Kazakhstan State University:</b>",
+            "info": "According to Uni Rank following given below is the ranking of M. Kozybayev North Kazakhstan State University:",
             "col": [
                 "Country",
                 "World",
@@ -88,7 +88,7 @@ export const northkazakhstanstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>North Kazakhstan State University is recognized worldwide by several medical bodies:</b>',
+            info: 'North Kazakhstan State University is recognized worldwide by several medical bodies:',
             data: [
                 "World health organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -98,7 +98,7 @@ export const northkazakhstanstateuniversity = {
         {
             type: 'list-bollet',
             title: "Student's Life",
-            info: '<b>The North Kazakhstan State University offers diverse culture to the international students belonging to the different foreign countries:</b>',
+            info: 'The North Kazakhstan State University offers diverse culture to the international students belonging to the different foreign countries:',
             data: [
                 "The university encourages the students to participate in sports activities, extracurricular activities, and research-based projects.",
                 "The facilities like the gymnasium, swimming pools, shooting galleries are provided by the university for a sake of student's amusement.",
@@ -108,7 +108,7 @@ export const northkazakhstanstateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Petropavl",
-            "info": "<b>Petropavl city has a very affordable living cost which varies according to individual expenses, the table given below shows the monthly basis living expenses of the city:</b>",
+            "info": "Petropavl city has a very affordable living cost which varies according to individual expenses, the table given below shows the monthly basis living expenses of the city:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -143,13 +143,13 @@ export const northkazakhstanstateuniversity = {
             type: 'text',
             title: 'About Petropavl City',
             img: 'north-kazakhstan-state-university-city.jpg',
-            info: "",
-            data: "<p><b>Let's dive into the city information:</b></p><p>M. Kozybayev North Kazakhstan State University is situated in Petropavl, Kazakhstan.</p><p>Petropavl city is also called as Petropavlovsk, it's situated on the Ishim River in northern Kazakhstan, which is close to the border with Russia.</p><p>Petropavl is the capital of North Kazakhstan with a population of nearly about 218, 956.</p>"
+            info: "Let's dive into the city information:",
+            data: "<p>M. Kozybayev North Kazakhstan State University is situated in Petropavl, Kazakhstan.</p><p>Petropavl city is also called as Petropavlovsk, it's situated on the Ishim River in northern Kazakhstan, which is close to the border with Russia.</p><p>Petropavl is the capital of North Kazakhstan with a population of nearly about 218, 956.</p>"
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>There are lots of exploring places in Petropavl city:</b>",
+            "info": "There are lots of exploring places in Petropavl city:",
             "row": [
                 ["Neptun Water Park", "Oblastnoy Istoriko-Krayevedcheskiy Muzey"],
                 ["Muzeynyy Kompleks Rezidentsiya Abylay Khana", "Botanicheskiy Sad"],
@@ -179,9 +179,14 @@ export const northkazakhstanstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "North Kazakhstan State University, Kazakhstan - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "North Kazakhstan State University - MBBS Fee Structure",
-            "info": "<b>The fee structure of North Kazakhstan State University is affordable for students coming to learn medicine across the globe:</b>",
+            "info": "The fee structure of North Kazakhstan State University is affordable for students coming to learn medicine across the globe:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -229,7 +234,7 @@ export const northkazakhstanstateuniversity = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at North Kazakhstan State University',
-            info: '<b>Below are the courses offered at North Kazakhstan State University:</b>',
+            info: 'Below are the courses offered at North Kazakhstan State University:',
             data: [
                 "Department of Fundamental Medicine",
                 "Department of Clinical Disciplines",
@@ -240,12 +245,13 @@ export const northkazakhstanstateuniversity = {
         {
             "type": "text",
             "title": "North Kazakhstan State University - MBBS Duration",
-            "data": "<p><b>The North Kazakhstan State University serves 6 years of Medical Education:</b></p><p>The medical aspirants need to undergo 6 years of Medical science education where they will be provided with a high standard of medical in 5 years and after that, the students must complete 1 year of a compulsory Internship.</p>"
+            "info": "The North Kazakhstan State University serves 6 years of Medical Education:",
+            "data": "<p>The medical aspirants need to undergo 6 years of Medical science education where they will be provided with a high standard of medical in 5 years and after that, the students must complete 1 year of a compulsory Internship.</p>"
         },
         {
             "type": "table",
             "title": "North Kazakhstan State University - MBBS Syllabus",
-            "info": "<b>Following given below is the syllabus of North Kazakhstan State University:</b>",
+            "info": "Following given below is the syllabus of North Kazakhstan State University:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -353,9 +359,14 @@ export const northkazakhstanstateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "North Kazakhstan State University, Kazakhstan - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The medical aspirants must fit into the following eligibility criteria for doing MBBS course:</b>",
+            "info": "The medical aspirants must fit into the following eligibility criteria for doing MBBS course:",
             "data": [
                 "The applicant must finish 17 years of age to apply for MBBS course education.",
                 "The applicants needs to score an aggregate of 50% in higher secondary class with physics, chemistry and biology subjects.",
@@ -363,11 +374,11 @@ export const northkazakhstanstateuniversity = {
                 "And other backward classes must score an aggregate of 50% in PCB subjects.",
                 "The applicants must apply for admission after qualifying NEET examination."
             ]
-          },
-          {
+        },
+        {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following given below are admission steps, one must follow it to take admission in North Kazakhstan State University:</b>',
+            info: 'Following given below are admission steps, one must follow it to take admission in North Kazakhstan State University:',
             data: [
                 "Step 1: Applicants must fill online available application forms for taking Admission in NKSU.",
                 "Step 2: Fill up the correct details in the application form.",
@@ -376,55 +387,55 @@ export const northkazakhstanstateuniversity = {
                 "Step 5: After the offer letter comes, the very first thing you need to do is to pay the first year tuition fee of the MBBS course.",
                 "Step 6: Apply for the visa process and fly to make your dreams come true."
             ]
-          },
-          {
+        },
+        {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Below are the documents checklists required for applying MBBS at North Kazakhstan State University:</b>",
+            "info": "Below are the documents checklists required for applying MBBS at North Kazakhstan State University:",
             "data": [
-             "The candidates must submit an application form with the correct details.",
-             "Carry the academic mark sheets (original and copy) during medicine course admission.",
-             "Candidates must have a transfer certificate from the previous school/ institute.",
-             "Applicants must submit HIV reports and original medical reports.",
-             "A caste certificate must be submitted by candidates during MBBS admission time.",
-             "A valid passport copy is essential to carry during admission.",
-             "Passport size photos are required for admission.",
-             "Submit the birth certificate for medical admission at University.",
-             "The students must carry medical reports and HIV reports for MBBS enrollment.",
-             "The Applicants must carry the COVID-19 report for admission.",
-             "The candidates should submit their NEET scorecard.",
-             "Submit Invitation letter that students got from the institute.",
-             "Carry identity proof like Aadhaar card or pan card while admission time."
+                "The candidates must submit an application form with the correct details.",
+                "Carry the academic mark sheets (original and copy) during medicine course admission.",
+                "Candidates must have a transfer certificate from the previous school/ institute.",
+                "Applicants must submit HIV reports and original medical reports.",
+                "A caste certificate must be submitted by candidates during MBBS admission time.",
+                "A valid passport copy is essential to carry during admission.",
+                "Passport size photos are required for admission.",
+                "Submit the birth certificate for medical admission at University.",
+                "The students must carry medical reports and HIV reports for MBBS enrollment.",
+                "The Applicants must carry the COVID-19 report for admission.",
+                "The candidates should submit their NEET scorecard.",
+                "Submit Invitation letter that students got from the institute.",
+                "Carry identity proof like Aadhaar card or pan card while admission time."
             ]
-          },
-          {
+        },
+        {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Program intake for the MBBS course at North Kazakhstan State University:</b>",
+            "info": "Program intake for the MBBS course at North Kazakhstan State University:",
             "col": [
-              "Events",
-              "Dates",
+                "Events",
+                "Dates",
             ],
             "row": [
-              {
-                "Events": "<b>Application Start Date</b>",
-                "Dates": "April",
-              },
-              {
-                "Events": "<b>Invitation Letter</b>",
-                "Dates": "Within 2 weeks",
-              },
-              {
-                "Events": "<b>Admission Start Date</b>",
-                "Dates": "October",
-              },
-              {
-                "Events": "<b>Last Date of Admission Form</b>",
-                "Dates": "October",
-              },
+                {
+                    "Events": "<b>Application Start Date</b>",
+                    "Dates": "April",
+                },
+                {
+                    "Events": "<b>Invitation Letter</b>",
+                    "Dates": "Within 2 weeks",
+                },
+                {
+                    "Events": "<b>Admission Start Date</b>",
+                    "Dates": "October",
+                },
+                {
+                    "Events": "<b>Last Date of Admission Form</b>",
+                    "Dates": "October",
+                },
             ]
-          },
-          {
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "North Kazakhstan State University, Kazakhstan - Admission 2023 " },
@@ -443,6 +454,11 @@ export const northkazakhstanstateuniversity = {
         }
     ],
     "review": [
+        {
+            type: 'title',
+            title: "North Kazakhstan State University, Kazakhstan - Reviews"
+
+        },
         {
             type: "meta",
             meta: [
@@ -463,6 +479,11 @@ export const northkazakhstanstateuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "North Kazakhstan State University, Kazakhstan - Placement"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "North Kazakhstan State University, Kazakhstan - Placement" },
@@ -481,6 +502,11 @@ export const northkazakhstanstateuniversity = {
         }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "North Kazakhstan State University, Kazakhstan - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -501,14 +527,19 @@ export const northkazakhstanstateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "North Kazakhstan State University, Kazakhstan - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>North Kazakhstan State University provides some scholarship programs which can be beneficial for you have a look - </b>",
+            "info": "North Kazakhstan State University provides some scholarship programs which can be beneficial for you have a look - ",
             "data": [
-             "Kazakhstan Government Scholarship- A monthly allowance is offered to applicants, depending on their academic progress"
+                "Kazakhstan Government Scholarship- A monthly allowance is offered to applicants, depending on their academic progress"
             ]
-          },
-          {
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "North Kazakhstan State University, Kazakhstan - Scholarship" },
@@ -527,6 +558,11 @@ export const northkazakhstanstateuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "North Kazakhstan State University, Kazakhstan - Faculty"
+
+        },
         {
             type: "meta",
             meta: [
@@ -547,6 +583,11 @@ export const northkazakhstanstateuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "North Kazakhstan State University, Kazakhstan - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "North Kazakhstan State University, Kazakhstan - News & Articles" },
@@ -566,9 +607,14 @@ export const northkazakhstanstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "North Kazakhstan State University, Kazakhstan - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Comfortable living hostel rooms are provided by M. Kozybayev North Kazakhstan State University in campus area:</b>",
+            "info": "Comfortable living hostel rooms are provided by M. Kozybayev North Kazakhstan State University in campus area:",
             "data": [
                 "NKSU offers a well-developed hostel system",
                 "Separated room for both men and women.",
@@ -581,23 +627,23 @@ export const northkazakhstanstateuniversity = {
                 "All basic amenities like water supply, electricity, bedding, cupboard, table hot&cold water and food available in the hostel system.",
                 "The hostel rooms are surrounded by grocery shops, stationery, cafes, restaurants, sports club, gym and laundry etc."
             ]
-          },
-          {
+        },
+        {
             "type": "list-bollet",
             "title": "",
             "info": "",
             "data": [
-             "hostel",
-             "Bed",
-             "Grocery Store",
-             "Attached Bathroom",
-             "Gym",
-             "Cafeteria",
-             "Security",
-             "AC"
+                "hostel",
+                "Bed",
+                "Grocery Store",
+                "Attached Bathroom",
+                "Gym",
+                "Cafeteria",
+                "Security",
+                "AC"
             ]
-          },
-          {
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "North Kazakhstan State University, Kazakhstan - Hostel" },
@@ -616,50 +662,55 @@ export const northkazakhstanstateuniversity = {
         }
     ],
     "faq":
-    [
-      {
-        "type": "question-list",
-        "title": "North Kazakhstan State University - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-        "data": [
-          {
-            "ques": "Q. Is it possible to practice medicine in India after completing MBBS from North Kazakh State Medical University?",
-            "ans": "Yes, students have to pass the NMC screening test in India after completing their degree from North Kazakh State Medical University to get the license for practicing medicine in India."
-          },
-          {
-            "ques": "Q. What do I have to do if I want to practice in the USA?",
-            "ans": "Students need to clear the USMLE the licensing exam for getting a medical license to practice in the USA."
-          },
-          {
-            "ques": "Q. Are there any Indian students at this university?",
-            "ans": "Yes, every year a number of Indian students get admission to North Kazakhstan State University."
-          },
-          {
-            "ques": "Q. Is an MBBS degree from the North Kazakh State University valid in India?",
-            "ans": "Yes, it is valid in India, provided as the degree is from the university which is recognized by the National Medical Commission."
-          },
-          {
-            "ques": "Q. What is the syllabus for the NMC screening test?",
-            "ans": "The syllabus of the NMC screening test is based on the medical education taught during the degree period. The basics and deep knowledge of the same are recommended to study for FMGE."
-          },
+        [
+            {
+                type: 'title',
+                title: "North Kazakhstan State University, Kazakhstan - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "North Kazakhstan State University - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. Is it possible to practice medicine in India after completing MBBS from North Kazakh State Medical University?",
+                        "ans": "Yes, students have to pass the NMC screening test in India after completing their degree from North Kazakh State Medical University to get the license for practicing medicine in India."
+                    },
+                    {
+                        "ques": "Q. What do I have to do if I want to practice in the USA?",
+                        "ans": "Students need to clear the USMLE the licensing exam for getting a medical license to practice in the USA."
+                    },
+                    {
+                        "ques": "Q. Are there any Indian students at this university?",
+                        "ans": "Yes, every year a number of Indian students get admission to North Kazakhstan State University."
+                    },
+                    {
+                        "ques": "Q. Is an MBBS degree from the North Kazakh State University valid in India?",
+                        "ans": "Yes, it is valid in India, provided as the degree is from the university which is recognized by the National Medical Commission."
+                    },
+                    {
+                        "ques": "Q. What is the syllabus for the NMC screening test?",
+                        "ans": "The syllabus of the NMC screening test is based on the medical education taught during the degree period. The basics and deep knowledge of the same are recommended to study for FMGE."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "North Kazakhstan State University, Kazakhstan - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "North Kazakhstan State University, Kazakhstan - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/north-kazakhstan-state-university/faq" }
+                ]
+            }
         ]
-    },
-    {
-        type: "meta",
-        meta: [
-            { name: "title", content: "North Kazakhstan State University, Kazakhstan - FAQ" },
-            { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "North Kazakhstan State University, Kazakhstan - FAQ"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/north-kazakhstan-state-university/faq" }
-        ]
-    }
-]
 }

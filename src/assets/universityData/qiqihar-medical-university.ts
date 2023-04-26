@@ -91,6 +91,10 @@ export const qiqiharmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Qiqihar Medical University - MBBS Fee Structure 2022",
             "info": "",
@@ -159,7 +163,7 @@ export const qiqiharmedicaluniversity = {
                     "Year  6": "Rs.2.78 Lakhs"
                 },
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> The average cost of MBBS at Qiqihar Medical University is around <b>Rs.2.78 Lakhs per year</b></p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> The average cost of MBBS at Qiqihar Medical University is around <b>Rs.2.78 Lakhs per year</b></p>'
         },
         {
             "type": "text",
@@ -198,6 +202,10 @@ export const qiqiharmedicaluniversity = {
         }
     ],
     "admission": [
+        {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - Admission 2023 '
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
@@ -262,6 +270,10 @@ export const qiqiharmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Qiqihar Medical University, China - Reviews" },
@@ -280,6 +292,10 @@ export const qiqiharmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -311,6 +327,10 @@ export const qiqiharmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Qiqihar Medical University, China - Gallery" },
@@ -330,6 +350,10 @@ export const qiqiharmedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
             "info": "",
@@ -341,7 +365,7 @@ export const qiqiharmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The following are scholarship programs offered by the Qiqihar Medical University :</b>",
+            "info": "The following are scholarship programs offered by the Qiqihar Medical University :",
             "data": [
                 "1. Qiqihar University Heilongjiang Government Scholarship for International Students.",
                 "2. Heilongjiang University of Chinese Medicine scholarship in Qiqihar University.",
@@ -370,6 +394,10 @@ export const qiqiharmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Qiqihar Medical University, China - Faculty" },
@@ -389,6 +417,10 @@ export const qiqiharmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Qiqihar Medical University, China - News & Articles" },
@@ -407,6 +439,10 @@ export const qiqiharmedicaluniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - Hostel'
+        },
         {
             "type": "list-bollet",
             "title": "Accommodation for Indian Students",
@@ -456,9 +492,13 @@ export const qiqiharmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Qiqihar Medical University, China - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Qiqihar Medical University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What are the different facilities provided at the university?",

@@ -19,7 +19,7 @@ export const lambtoncollege = {
         {
             "type": "table-title",
             "title": "Lambton College at a Glance",
-            "info": "<b>Applicants can have an eye on the important points of Lambton College before getting admission:</b>",
+            "info": "Applicants can have an eye on the important points of Lambton College before getting admission:",
             "row": [
                 ["<b>Established</b>", "1969"],
                 ["<b>Institute Type</b>", "Public"],
@@ -37,7 +37,7 @@ export const lambtoncollege = {
         {
             type: 'list-bollet',
             title: 'Why Choose Lambton College?',
-            info: '<b>These are some of the top reasons that why students are attracted to study at Lambton College:</b>',
+            info: 'These are some of the top reasons that why students are attracted to study at Lambton College:',
             data: [
                 " Lambton College provides international students with a world-class education at an affordable price.",
                 " College offers various opportunities for the students to get involved in part-time, volunteer, internships, and on-campus employment to gain work experience.",
@@ -52,7 +52,7 @@ export const lambtoncollege = {
         {
             "type": "table",
             "title": "Ranking of Lambton College 2022",
-            "info": "<b>Take a peek at Lambton College's global and national rankings:</b>",
+            "info": "Take a peek at Lambton College's global and national rankings:",
             "col": [
                 "World ",
                 "Country",
@@ -67,7 +67,7 @@ export const lambtoncollege = {
         {
             "type": "list-bollet",
             "title": "Affiliations & Recognitions",
-            "info": "<b>Lambton College is affiliated with the following international organizations:</b>",
+            "info": "Lambton College is affiliated with the following international organizations:",
             "data": [
                 "Canadian Collegiate Athletic Association (CCAA)",
                 "Colleges and Institutes Canada (ACCC)",
@@ -78,7 +78,7 @@ export const lambtoncollege = {
         {
             "type": "list-bollet",
             "title": "Facilities provided in Lambton College",
-            "info": "<b>Lambton College students have access to sophisticated amenities:</b>",
+            "info": "Lambton College students have access to sophisticated amenities:",
             "data": [
                 "Laboratories",
                 "Fitness Studio",
@@ -93,7 +93,7 @@ export const lambtoncollege = {
         {
             "type": "table",
             "title": "Cost of Living in Lambton College",
-            "info": "<b>The following are the students estimated monthly costs for calculating purposes:</b>",
+            "info": "The following are the students estimated monthly costs for calculating purposes:",
             "col": [
                 "Particulars",
                 "Approx Range (CAD)",
@@ -133,9 +133,14 @@ export const lambtoncollege = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Lambton College, Canada - courses & Fees"
+
+        },
+        {
             "type": "text",
             "title": "Lambton College - Program & Course Duration",
-            "data": "<p>Undergraduate</p>"
+            "data": "Undergraduate"
         },
         {
             "type": "table",
@@ -409,6 +414,11 @@ export const lambtoncollege = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Lambton College, Canada - Admission 2023 "
+
+        },
+        {
             "type": "text",
             "title": "Eligibility Criteria",
             "data": "<p><b>Students are eligible to participate in the admission if they match the following criteria:</b></p>"
@@ -416,7 +426,7 @@ export const lambtoncollege = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Bachelor Degree Programs</b>",
+            "info": "Bachelor Degree Programs",
             "data": [
                 "The minimum final average should be 65% based on their High school Grade/University/College."
             ]
@@ -424,7 +434,7 @@ export const lambtoncollege = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Post-Secondary Certificate Programs</b>",
+            "info": "Post-Secondary Certificate Programs",
             "data": [
                 "A college diploma or a university degree is required.",
                 "A minimum average of 'C+' or a cumulative grade point average of 2.5",
@@ -434,7 +444,7 @@ export const lambtoncollege = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>English Language Requirements</b>",
+            "info": "English Language Requirements",
             "data": [
                 "TOEFL - Minimum score of 69(iBT)",
                 "IELTS - overall score should be 6.0 ",
@@ -444,7 +454,7 @@ export const lambtoncollege = {
         {
             type: 'step-list',
             title: 'How to take Admission in Lambton College?',
-            info: '<b>To have a better grasp of the Admissions procedure, take note of the following phases before commencing the application process:</b>',
+            info: 'To have a better grasp of the Admissions procedure, take note of the following phases before commencing the application process:',
             data: [
                 "Step 1: Visit the official site to start the online application.",
                 "Step 2: Kindly confirm that you have electronic copies of the necessary documents before initiating the application process.",
@@ -458,7 +468,7 @@ export const lambtoncollege = {
         {
             "type": "list-bollet",
             "title": "Documents Required at the Time of Admission",
-            "info": "<b>Students must present the following documents at the time of registration:</b>",
+            "info": "Students must present the following documents at the time of registration:",
             "data": [
                 "Academic Transcripts (High school/college/diploma)",
                 "Application form",
@@ -485,7 +495,7 @@ export const lambtoncollege = {
         {
             "type": "table",
             "title": "Lambton College - Intake Dates & Deadlines",
-            "info": "<b>Students can view the relevant entrance deadlines in the table below:</b>",
+            "info": "Students can view the relevant entrance deadlines in the table below:",
             "col": [
                 "Events",
                 "Dates",
@@ -530,6 +540,11 @@ export const lambtoncollege = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Lambton College, Canada - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lambton College, Canada - Reviews" },
@@ -548,6 +563,11 @@ export const lambtoncollege = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Lambton College, Canada - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -577,6 +597,11 @@ export const lambtoncollege = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Lambton College, Canada - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lambton College, Canada - Gallery" },
@@ -596,6 +621,11 @@ export const lambtoncollege = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Lambton College, Canada - Scholarship"
+
+        },
+        {
             "type": "text",
             "title": "International Scholarships",
             "data": "<p><b>Lambton College provides financial assistance to international students in the form of scholarships:</b></p>"
@@ -603,7 +633,7 @@ export const lambtoncollege = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Entrance scholarships:</b>",
+            "info": "Entrance scholarships:",
             "data": [
                 "The application is to be submitted at Lambton College.",
                 "The total scholarship is worth $3,000 CAD.",
@@ -634,26 +664,31 @@ export const lambtoncollege = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Lambton College, Canada - Faculty"
+
+        },
+        {
             "type": "table",
             "title": "Faculty",
             "info": "",
             "col": [
-              "Name",
-              "Designation",
+                "Name",
+                "Designation",
             ],
             "row": [
-              {
-                "Name": "Laurie Grant",
-                "Designation": "Field Clinical Coordinator"
-              },
-              {
-                "Name": "Lisa Veenendaal",
-                "Designation": "CICE Field Placement Liaison"
-              },
-              {
-                "Name": "Steve Knight",
-                "Designation": "Pre-Service Firefighter Education & Training Placement Liaison"
-              },
+                {
+                    "Name": "Laurie Grant",
+                    "Designation": "Field Clinical Coordinator"
+                },
+                {
+                    "Name": "Lisa Veenendaal",
+                    "Designation": "CICE Field Placement Liaison"
+                },
+                {
+                    "Name": "Steve Knight",
+                    "Designation": "Pre-Service Firefighter Education & Training Placement Liaison"
+                },
             ]
         },
         {
@@ -676,6 +711,11 @@ export const lambtoncollege = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Lambton College, Canada - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lambton College, Canada - News & Articles" },
@@ -695,9 +735,14 @@ export const lambtoncollege = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Lambton College, Canada - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Students have a plethora of alternatives when it comes to residences while studying at Lambton College:</b>",
+            "info": "Students have a plethora of alternatives when it comes to residences while studying at Lambton College:",
             "data": [
                 "Sarnia provides a range of off-campus housing choices, such as single-family houses and apartments.",
                 "The on-campus residence is located very near to the college campus, about a five-minute walk from courses.",
@@ -710,7 +755,7 @@ export const lambtoncollege = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Each room is characterized by the following features: </b>",
+            "info": "Each room is characterized by the following features: ",
             "row": [
                 ['Two beds – with wide and queen long (54" x 80")', "Two desks with chairs and desk lamps"],
                 ["Two closets with shelving", "Three-piece washroom with bathtub and shower"],
@@ -741,9 +786,14 @@ export const lambtoncollege = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Lambton College, Canada - FAQ"
+
+            },
+            {
                 "type": "question-list",
                 "title": "Lambton College - Important FAQ",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360",
                 "data": [
                     {
                         "ques": "Q. What courses are available at Lambton College?",

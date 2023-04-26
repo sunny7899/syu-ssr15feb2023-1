@@ -7,7 +7,6 @@ export const ternamedicalcollegenavimumbai = {
     "shareLink": "",
     "url": "terna-medical-college-navi-mumbai",
     "info": [
-
         {
             "type": "title",
             "title": "Terna Medical College, India"
@@ -21,7 +20,7 @@ export const ternamedicalcollegenavimumbai = {
         {
             "type": "table",
             "title": "Terna Medical College: Quick Highlights",
-            "info": "<b>Let us have a look at the important details of Terna Medical College for doing MBBS course:</b>",
+            "info": "Let us have a look at the important details of Terna Medical College for doing MBBS course:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March"],
@@ -35,7 +34,7 @@ export const ternamedicalcollegenavimumbai = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Terna Medical College?",
-            "info": "<b>Here are some favourable reasons why the medical aspirants all over the world choose Terna Medical College to study MBBS:</b>",
+            "info": "Here are some favourable reasons why the medical aspirants all over the world choose Terna Medical College to study MBBS:",
             "data": [
                 "Terna Medical College is officially recognized by the National Medical Commission and the World Health Organization.",
                 "Terna Medical College provides wifi connectivity round the clock for students.",
@@ -52,7 +51,7 @@ export const ternamedicalcollegenavimumbai = {
         {
             "type": "list-bollet",
             "title": "Affiliation & Recognitions",
-            "info": "<b>Terna Medical College offers officially recognised and accredited degree:</b>",
+            "info": "Terna Medical College offers officially recognised and accredited degree:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -67,7 +66,7 @@ export const ternamedicalcollegenavimumbai = {
         {
             "type": "table",
             "title": "Living Cost",
-            "info": "<b>The living cost of Navi Mumbai is low as compared to other cities which may vary according to individual expenses, the table shows month basis expenses:</b>",
+            "info": "The living cost of Navi Mumbai is low as compared to other cities which may vary according to individual expenses, the table shows month basis expenses:",
             "col": [
                 "Particulars",
                 "Approx Range in Rs",
@@ -89,7 +88,7 @@ export const ternamedicalcollegenavimumbai = {
 
                 },
             ],
-            heading: '<p><b>Note:</b> 1$ = 70 Rs</p>'
+            "heading": '<p><b>Note:</b> 1$ = 70 Rs</p>'
         },
         {
             type: "meta",
@@ -111,9 +110,13 @@ export const ternamedicalcollegenavimumbai = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Terna Medical College - MBBS Fee Structure",
-            "info": "<b>The fee structure of Terna Medical College is mentioned below in the table, the students must checkout before doing MBBS:</b>",
+            "info": "The fee structure of Terna Medical College is mentioned below in the table, the students must checkout before doing MBBS:",
             "col": [
                 "Particular",
                 "General category",
@@ -138,12 +141,12 @@ export const ternamedicalcollegenavimumbai = {
                     "OBC/SEBC/VJ/NT/SBC/EWS/EBC Category": "3,83,182 Rs",
                 },
             ],
-            heading: '<p><b>Note:</b> 1$ = 70 Rs</p>'
+            "heading": '<p><b>Note:</b> 1$ = 70 Rs</p>'
         },
         {
             "type": "list-bollet",
             "title": "Terna Medical College - MBBS Duration",
-            "info": "<b>Terna Medical College offers 5.5-year MBBS course to worldwide medical aspirants:</b>",
+            "info": "Terna Medical College offers 5.5-year MBBS course to worldwide medical aspirants:",
             "data": [
                 "Students get the English medium teaching from highly dedicated and experienced staff members and teachers of the college providing a high quality of detailed knowledge of medicine, here students will achieve basic education of MBBS course with theoretical and practical skills.",
                 "At the end of the MBBS course, students must involve 1 year of the internship program which is compulsory for every student."
@@ -152,7 +155,7 @@ export const ternamedicalcollegenavimumbai = {
         {
             "type": "table",
             "title": "Terna Medical College - MBBS Syllabus",
-            "info": "<b>The students must refer to study pattern given below in the table to pursue MBBS education at Terna Medical College:</b>",
+            "info": "The students must refer to study pattern given below in the table to pursue MBBS education at Terna Medical College:",
             "col": [
                 "Phase",
                 "Subject",
@@ -200,12 +203,12 @@ export const ternamedicalcollegenavimumbai = {
                     " s": "Behavioural Sciences, Emotion and its application to health, Cognitive process and memory, psychiatric disorders, personality disorders, Schizophrenia, Bipolar disorders, Depression, Anxiety neurosis, phobia and OCD",
                     " t": "Skin, Head and Neck region, Arteries, Veins, Breast, Oesophagus, Stomach and duodenum, Small intestine, Colon and rectum, Appendix, Acute abdomen, Urology",
                 },
-            ]       
+            ]
         },
         {
             "type": "table",
             "title": "Terna Medical College - Faculties",
-            "info": "<b>Terna Medical College offers a wide range of medical faculties:</b>",
+            "info": "Terna Medical College offers a wide range of medical faculties:",
             "col": [
                 "Preclinical departments",
                 "Paraclinical department",
@@ -289,9 +292,13 @@ export const ternamedicalcollegenavimumbai = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students must fit the criteria given below for taking medical education at Terna Medical College:</b>",
+            "info": "The students must fit the criteria given below for taking medical education at Terna Medical College:",
             "data": [
                 "The medical aspirants should have completed minimum age of 17 years at the time of admission or complete that age on or before 31st December of the year of admission to MBBS course.",
                 "The medical aspirants must pass a higher secondary examination from the central board of secondary education (CBSE) or equivalent exam conducted by any state board.",
@@ -304,7 +311,7 @@ export const ternamedicalcollegenavimumbai = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The students who seek to get MBBS admission at Terna Medical College need to follow the mentioned below steps:</b>',
+            info: 'The students who seek to get MBBS admission at Terna Medical College need to follow the mentioned below steps:',
             data: [
                 "Step 1 : The applicants must appear for NEET-UG examination to pursue an MBBS career.",
                 "Step 2: Fill up the college application form available online on the official website for taking admission in Terna Medical College.",
@@ -317,7 +324,7 @@ export const ternamedicalcollegenavimumbai = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>The candidates must submit the essential documents in the following sequence mentioned below for MBBS admission at Terna Medical College:</b><br>Submit 1 original set + 3 sets of attested xerox copies of each original document should be scanned separately in a pen drive.",
+            "info": "The candidates must submit the essential documents in the following sequence mentioned below for MBBS admission at Terna Medical College:<br>Submit 1 original set + 3 sets of attested xerox copies of each original document should be scanned separately in a pen drive.",
             "data": [
                 "Indian Nationality Certificate",
                 "Maharashtra Domicile Certificate",
@@ -354,11 +361,181 @@ export const ternamedicalcollegenavimumbai = {
             ]
         }
     ],
-    "Hostel": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - Reviews"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Terna Medical College, Navi Mumbai - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Terna Medical College, Navi Mumbai - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - Placement"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Placement",
+            "info": " ",
+            "data": [
+                "Young graduates may pursue jobs as doctors in India after obtaining their degree.",
+                "Terna Medical College graduates may work at their own hospital. Consequently, those with completed degrees are entitled to work at Terna Medical College.",
+                "By offering further education choices, Terna Medical College encourages graduates to continue their studies.",
+                "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE)."
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Terna Medical College, Navi Mumbai - Placement" },
+                { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Terna Medical College, Navi Mumbai - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - Gallery"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Terna Medical College, Navi Mumbai - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Terna Medical College, Navi Mumbai - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/gallery" }
+            ]
+        }
+    ],
+    "sholarship": [
+        {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - Scholarship"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Scholarship",
+            "info": "The scholarships provided by Terna Medical College are listed below:",
+            "data": [
+                "Academic Scholarship",
+                "Government Scholarships",
+                "PMSSS Scholarship",
+                "AICTE Prerana Scheme for SC/ST Students of TEC, Nerul, Navi Mumbai"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Terna Medical College, Navi Mumbai - Scholarship" },
+                { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Terna Medical College, Navi Mumbai - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/scholarship" }
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - Faculty"
+        },
+        {
+            type: 'text',
+            title: 'Faculty',
+            img: '',
+            data: '<p> Professor Dr. Dilip Govindrao Mhaisekar <br> Vice Chancellor </p><br><p>Dr. S.D. Gangane <br>Professor, Department Of Anatomy</p><br><p>Dr. V. S.Bhat<br> Professor, Department Of Physiology</p><br><p>Dr. S. S. Deshpande<br>Professor, Department Of Biochemistry</p><br><p>Dr. Sunil Petkar<br>Professor, Department Of Skin And V.D</p>'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Terna Medical College, Navi Mumbai - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Terna Medical College, Navi Mumbai - Faculty"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/faculty" }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Terna Medical College, Navi Mumbai - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Terna Medical College, Navi Mumbai - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - Hostel"
+        },
         {
             "type": "table",
             "title": "Accommodation & Hostel",
-            "info": "<b>Terna Medical College provides hostel facilities fulfilling all basic requirement of students:</b><br>Accommodation facility in university campus are like Home-Away-From-Home, ensures the comfortable living of students with a congenial environment for study purpose -",
+            "info": "Terna Medical College provides hostel facilities fulfilling all basic requirement of students:<br>Accommodation facility in university campus are like Home-Away-From-Home, ensures the comfortable living of students with a congenial environment for study purpose -",
             "col": [
                 "Sr No",
                 "Particulars",
@@ -393,7 +570,7 @@ export const ternamedicalcollegenavimumbai = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel rooms are well equipped with basic facilities -</b>",
+            "info": "The hostel rooms are well equipped with basic facilities -",
             "data": [
                 "Well Lighted",
                 "Ventilated",
@@ -415,7 +592,7 @@ export const ternamedicalcollegenavimumbai = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Important requirements are fulfilled which includes-</b>",
+            "info": "Important requirements are fulfilled which includes-",
             "data": [
                 "Bedding",
                 "Study Table",
@@ -431,7 +608,7 @@ export const ternamedicalcollegenavimumbai = {
                 "Students are provided with 24*7 Internet connectivity.",
                 "Nearby grocery shops, cafes, restaurants, sports complexes are available."
             ],
-            heading: '<p><b>Note:</b> Rs 65,000/- per year plus Rs 15,000/- deposit (refundable) to be paid by Demand Draft in favour of “terna public charitable trust Nerul, Navi Mumbai”.</p>'
+            "heading": '<p><b>Note:</b> Rs 65,000/- per year plus Rs 15,000/- deposit (refundable) to be paid by Demand Draft in favour of “terna public charitable trust Nerul, Navi Mumbai”.</p>'
         },
         {
             type: "meta",
@@ -453,9 +630,13 @@ export const ternamedicalcollegenavimumbai = {
     ],
     "faq": [
         {
+            "type": "title",
+            "title": "Terna Medical College, Navi Mumbai - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Terna Medical College - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "What are the annual MBBS fees of Terna Medical College?",
@@ -504,147 +685,5 @@ export const ternamedicalcollegenavimumbai = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/faq" }
             ]
         }
-    ],
-    "Placement": [
-        {
-            "type": "list-bollet",
-            "title": "Placement",
-            "info": " ",
-            "data": [
-                "Young graduates may pursue jobs as doctors in India after obtaining their degree.",
-                "Terna Medical College graduates may work at their own hospital. Consequently, those with completed degrees are entitled to work at Terna Medical College.",
-                "By offering further education choices, Terna Medical College encourages graduates to continue their studies.",
-                "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE)."
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Terna Medical College, Navi Mumbai - Placement" },
-                { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Terna Medical College, Navi Mumbai - Placement"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/placement" }
-            ]
-        }
-    ],
-    "Scholarship": [
-        {
-            "type": "list-bollet",
-            "title": "Scholarship",
-            "info": " <b>The scholarships provided by Terna Medical College are listed below:</b>",
-            "data": [
-                "Academic Scholarship",
-                "Government Scholarships",
-                "PMSSS Scholarship",
-                "AICTE Prerana Scheme for SC/ST Students of TEC, Nerul, Navi Mumbai"
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Terna Medical College, Navi Mumbai - Scholarship" },
-                { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Terna Medical College, Navi Mumbai - Scholarship"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/scholarship" }
-            ]
-        }
-    ],
-    "Faculty": [
-        {
-            type: 'text',
-            title: 'Faculty',
-            img: '',
-            data: '<p> Professor Dr. Dilip Govindrao Mhaisekar <br> Vice Chancellor </p><br><p>Dr. S.D. Gangane <br>Professor, Department Of Anatomy</p><br><p>Dr. V. S.Bhat<br> Professor, Department Of Physiology</p><br><p>Dr. S. S. Deshpande<br>Professor, Department Of Biochemistry</p><br><p>Dr. Sunil Petkar<br>Professor, Department Of Skin And V.D</p>'
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Terna Medical College, Navi Mumbai - Faculty" },
-                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Terna Medical College, Navi Mumbai - Faculty"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/faculty" }
-            ]
-        }
-    ],
-"Reviews": [
-    {
-        type: "meta",
-        meta: [
-            { name: "title", content: "Terna Medical College, Navi Mumbai - Reviews" },
-            { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "Terna Medical College, Navi Mumbai - Reviews"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/reviews" }
-        ]
-    }
-],
-"Gallery": [
-    {
-        type: "meta",
-        meta: [
-            { name: "title", content: "Terna Medical College, Navi Mumbai - Gallery" },
-            { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "Terna Medical College, Navi Mumbai - Gallery"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/gallery" }
-        ]
-    }
-],
-"News": [
-    {
-        type: "meta",
-        meta: [
-            { name: "title", content: "Terna Medical College, Navi Mumbai - News & Articles" },
-            { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "Terna Medical College, Navi Mumbai - News & Articles"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/college/terna-medical-college-navi-mumbai/news-and-articles" }
-        ]
-    }
-],
+    ]
 }

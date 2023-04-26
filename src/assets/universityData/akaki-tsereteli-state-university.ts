@@ -20,7 +20,7 @@ export const akakitseretelistateuniversity = {
     {
       "type": "table-title",
       "title": "Akaki Tsereteli State University - Important Highlights",
-      "info": "<b>Some of the quick overview to be glanced at are mentioned here in the table below for Akaki Tsereteli State University:</b>",
+      "info": "Some of the quick overview to be glanced at are mentioned here in the table below for Akaki Tsereteli State University:",
       "row": [
         ["<b>Last Date to Apply</b>", "September"],
         ["<b>Basic Eligibility</b>", "50% in PCB"],
@@ -35,7 +35,7 @@ export const akakitseretelistateuniversity = {
     {
       "type": 'list-bollet',
       "title": 'Benefits of Studying MBBS in Akaki Tsereteli State University',
-      "info": '<b>There are several advantages of studying MBBS in Akaki Tsereteli State University. These points mentioned below will let you know whether any student should choose Akaki Tsereteli State University for an MBBS course:<b></b>',
+      "info": 'There are several advantages of studying MBBS in Akaki Tsereteli State University. These points mentioned below will let you know whether any student should choose Akaki Tsereteli State University for an MBBS course:<b>',
       "data": [
         "University approved / recognized by NMC.",
         "Without TOEFL / IELTS.",
@@ -50,13 +50,13 @@ export const akakitseretelistateuniversity = {
     {
       "type": 'text',
       "title": 'Medium of Teaching',
-      "info": '<b>Akaki Tsereteli State University takes care of all the students including foreign nationality students who do not know the Georgian language. Therefore they have a separate course medium for foreign students:</b>',
+      "info": 'Akaki Tsereteli State University takes care of all the students including foreign nationality students who do not know the Georgian language. Therefore they have a separate course medium for foreign students:',
       "data": "<p>Akaki Tsereteli State University offers an MBBS course in English language for foreign students.</p>"
     },
     {
       "type": "table",
       "title": "Akaki Tsereteli State University - Ranking 2022",
-      "info": "<b>According to 4icu.org, following is the country and world ranking for Akaki Tsereteli State University:</b>",
+      "info": "According to 4icu.org, following is the country and world ranking for Akaki Tsereteli State University:",
       "col": [
         "Country",
         "World",
@@ -70,9 +70,9 @@ export const akakitseretelistateuniversity = {
       ]
     },
     {
-      "type": "text",
+      "type": "list-bollet",
       "title": "Facilities Provided at Akaki Tsereteli State University",
-      "info": "<b>Akaki Tsereteli State University provides students the following facilities regarding their stay and educational purposes:</b>",
+      "info": "Akaki Tsereteli State University provides students the following facilities regarding their stay and educational purposes:",
       "data": [
         "Library",
         "Sports Complex",
@@ -86,7 +86,7 @@ export const akakitseretelistateuniversity = {
     {
       "type": 'list-bollet',
       "title": 'Accreditation and Recognition',
-      "info": '<b>The degree from Akaki Tsereteli State University is worldwide recognized and accepted as the university is recognized worldwide. This university :has the following Accreditation and Recognition:</b>',
+      "info": 'The degree from Akaki Tsereteli State University is worldwide recognized and accepted as the university is recognized worldwide. This university :has the following Accreditation and Recognition:',
       "data": [
         "World Health Organization (WHO)",
         "NMC (National Medical Commission)",
@@ -98,7 +98,7 @@ export const akakitseretelistateuniversity = {
     {
       "type": "table",
       "title": 'Cost of Living in Kutaisi',
-      "info": '<b>The students should take a look at these living expenses of Kutaisi city so that they can manage the financial activities accordingly. The costs below are the average shown for the expenses of a month:</b>',
+      "info": 'The students should take a look at these living expenses of Kutaisi city so that they can manage the financial activities accordingly. The costs below are the average shown for the expenses of a month:',
       "col": [
         "Particulars",
         "Approx Range in USD",
@@ -128,7 +128,7 @@ export const akakitseretelistateuniversity = {
       "type": 'text',
       "title": 'About Kutaisi City',
       "img": "kutaisi-city.jpeg",
-      "info": '<b>Lets know some "info"rmation about the Kutaisi city where this university is located:</b>',
+      "info": 'Lets know some "info"rmation about the Kutaisi city where this university is located:',
       "data": '<p>Kutaisi city is located along the banks of the river Rioni River. The northeast and northwest regions of the city are surrounded by beautiful forest.</p><p>Kutaisi city has a humid subtropical climate. For an average Indian student it is like a winter there. The average temperature of the city is 14 degree celsius. January being the coldest month with average temperature of 5.4 degree celsius and August being the hottest month with 24.7 degree celsius average temperature.</p><p>Kutaisi has an ancient cultural tradition. Some of the ancient museums and theatres are attractions for tourism.</p>',
     },
     {
@@ -160,17 +160,16 @@ export const akakitseretelistateuniversity = {
         { rel: "canonical", href: "https://www.selectyouruniversity.com/university/akaki-tsereteli-state-university" }
       ]
     }
-
-
-
-
-
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Akaki Tsereteli State University - courses & Fees Details"
+    },
+    {
       "type": "table",
       "title": "Аkаkі Тsеrеtеlі Ѕtаtе Unіvеrsіtу - MBBS Fee Structure 2023",
-      "info": "<b>Studying MBBS in Akaki Tsereteli State University is very much affordable for an Indian student. The following figures for tuition fees and hostel fees will surely tell you this fact:</b>",
+      "info": "Studying MBBS in Akaki Tsereteli State University is very much affordable for an Indian student. The following figures for tuition fees and hostel fees will surely tell you this fact:",
       "col": [
         "Particular",
         "Year 1",
@@ -229,7 +228,7 @@ export const akakitseretelistateuniversity = {
     {
       "type": "text",
       "title": "Courses Offered at Akaki Tsereteli State University",
-      "info": "<b>Akaki Tsereteli State University offers the following Faculties for foreign students:</b>",
+      "info": "Akaki Tsereteli State University offers the following Faculties for foreign students:",
       "data": [
         "Medicine",
         "Pediatrics",
@@ -240,7 +239,7 @@ export const akakitseretelistateuniversity = {
     {
       "type": 'list-bollet',
       "title": 'Course Duration for MBBS at Akaki Tsereteli State University',
-      "info": '<b>The total course duration of the MBBS course contains the actual lectures of theoretical lessons and practical studies with the time period of internship:</b>',
+      "info": 'The total course duration of the MBBS course contains the actual lectures of theoretical lessons and practical studies with the time period of internship:',
       "data": [
         "The total course duration for the MBBS course in Georgia is <strong>6 years.</strong>",
         "Akaki Tsereteli State University offers 5 years of theoretical lectures and practical lessons followed by the compulsory internship of 1 year.",
@@ -250,7 +249,7 @@ export const akakitseretelistateuniversity = {
     {
       "type": "text",
       "title": "MBBS Syllabus at Akaki Tsereteli State University",
-      "info": '<p><b>The subjects which are taught under the MBBS course in Akaki Tsereteli State University are mentioned in the syllabus table below:</b></p>'
+      "info": 'The subjects which are taught under the MBBS course in Akaki Tsereteli State University are mentioned in the syllabus table below:'
     },
     {
       "type": "table",
@@ -430,9 +429,13 @@ export const akakitseretelistateuniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Akaki Tsereteli State University - Admission, Eligibility Criteria"
+    },
+    {
       "type": 'list-bollet',
       "title": 'Eligibility Criteria for MBBS Program',
-      "info": '<b>Any student with Indian nationality can take admission to Akaki Tsereteli State University if they fit in the following eligibility criteria:</b>',
+      "info": 'Any student with Indian nationality can take admission to Akaki Tsereteli State University if they fit in the following eligibility criteria:',
       "data": [
         "A student should have obtained 50% of the qualifications in Physics, Chemistry and Biology at the level of Class XII (Sciences) for the general category.",
         "Students from the reserved category can apply for the MBBS course with a minimum of 40% marks in HSC.",
@@ -443,7 +446,7 @@ export const akakitseretelistateuniversity = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>Students who wish to take admission to Akaki Tsereteli State University need to follow the simple admission process. This admission process for Akaki Tsereteli is explained step by step below:</b>',
+      info: 'Students who wish to take admission to Akaki Tsereteli State University need to follow the simple admission process. This admission process for Akaki Tsereteli is explained step by step below:',
       data: [
         "Step 1:Students need to fill the application form for admission. Make sure you fill all the details without any mistakes.</b>",
         "Step 2:Submit all the necessary documents on the online portal of the university.</b>",
@@ -454,7 +457,7 @@ export const akakitseretelistateuniversity = {
     {
       type: 'list-bollet',
       title: 'Documents Required to Study MBBS/MD in Georgia',
-      info: '<b>Candidates make sure that all the documents mentioned below are ready before starting the admission process:</b>',
+      info: 'Candidates make sure that all the documents mentioned below are ready before starting the admission process:',
       data: [
         "10th and 12th mark sheet",
         "Transfer certificate/ leaving Certificate",
@@ -469,7 +472,7 @@ export const akakitseretelistateuniversity = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>Students need to keep these important dates in mind for applying to the MBBS course in Akaki Tsereteli State University:</b>",
+      "info": "Students need to keep these important dates in mind for applying to the MBBS course in Akaki Tsereteli State University:",
       "col": [
         "Events",
         "Dates"
@@ -520,6 +523,10 @@ export const akakitseretelistateuniversity = {
   ],
   "placement": [
     {
+      type: 'title',
+      title: "Akaki Tsereteli State University, Georgia - Placements"
+    },
+    {
       type: 'list-bollet',
       title: 'Placement',
       info: '',
@@ -551,6 +558,10 @@ export const akakitseretelistateuniversity = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Akaki Tsereteli State University - Gallery"
+    },
+    {
       type: 'meta',
       meta: [
         { name: "title", content: "Akaki Tsereteli State University - Gallery" },
@@ -569,6 +580,10 @@ export const akakitseretelistateuniversity = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Akaki Tsereteli State University - Scholarships & Bursaries"
+    },
     {
       type: 'meta',
       meta: [
@@ -589,6 +604,10 @@ export const akakitseretelistateuniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Akaki Tsereteli State University - Reviews"
+    },
+    {
       type: 'meta',
       meta: [
         { name: "title", content: "Akaki Tsereteli State University - Reviews" },
@@ -607,6 +626,10 @@ export const akakitseretelistateuniversity = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: "Akaki Tsereteli State University - Faculties & Departments"
+    },
     {
       "type": "table-title",
       "title": "faculty",
@@ -641,6 +664,10 @@ export const akakitseretelistateuniversity = {
   ],
   "news": [
     {
+      type: 'title',
+      title: "Akaki Tsereteli State University - News & Articles"
+    },
+    {
       type: 'meta',
       meta: [
         { name: "title", content: "Akaki Tsereteli State University - News & Articles" },
@@ -660,9 +687,13 @@ export const akakitseretelistateuniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Akaki Tsereteli State University - Hostel & Accommodation"
+    },
+    {
       type: 'list-bollet',
       title: 'Accommodation & Hostel Facilities',
-      info: '<b>Akaki Tsereteli State University provides a lavish and well furnished hostel system for students:</b>',
+      info: 'Akaki Tsereteli State University provides a lavish and well furnished hostel system for students:',
       data: [
         "The accommodation system for students is provided on a sharing basis. Each room consists of 2-3 beds for students."
       ]
@@ -670,7 +701,7 @@ export const akakitseretelistateuniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Every room is provided with essential things like:</b>',
+      info: 'Every room is provided with essential things like:',
       data: [
         "Bed",
         "Pillow",
@@ -710,9 +741,13 @@ export const akakitseretelistateuniversity = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: "Akaki Tsereteli State University, Georgia - FAQs"
+    },
+    {
       "type": "question-list",
       "title": "Akaki Tsereteli State University - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
       "data": [
         {
           "ques": "Q. What is the duration of the MBBS program in Georgia at Akaki Tsereteli State University?",

@@ -17,11 +17,10 @@ export const symbiosisinstituteoftechnologysitpune = {
             // "img": 'https://www.selectyouruniversity.com/images/symbiosis-institute-of-technology.jpg',
             "data": '<p><b>Symbiosis Institute of Technology, Pune</b> was established in 2008 which offers 4-year B.Tech programme in computer engineering, electronics, and telecommunication, Information technology, Mechanical Engineering etc.</p><p>The institute has well-equipped labs including CAD/CAM software, multimedia classrooms, modern library with national and international journals, highly qualified and competent faculty members.</p><p>Symbiosis Institute of Technology, Pune collaborated with international universities of Singapore, Germany, USA, France for enhancing student and faculty exchange programs.</p><p>The institute has a vibrant culture with diverse teaching-learning environment implemented by organizing cultural programmes, tech fests, guest lectures, sports competition by renowned personalities.</p>'
         },
-
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The vision of the Institute</b>",
+            "info": "The vision of the Institute",
             "data": [
                 "To develop global competencies amongst students",
                 "To promote value-based and ethical learning",
@@ -46,7 +45,6 @@ export const symbiosisinstituteoftechnologysitpune = {
                 ["<b>Top Recruiters</b>", "Bizmatics India PVT LTD., Syntel PVT LTD, Cummins, Infos Force Motors, Bharat Forge, Tata Consultancy Services"],
             ]
         },
-
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
@@ -54,10 +52,8 @@ export const symbiosisinstituteoftechnologysitpune = {
             "data": [
                 "NAAC Accreditation with ‘A’ Grade",
                 "AICTE Approved",
-
             ]
         },
-
         {
             "type": "list-bollet",
             "title": "Merits of Studying B.Tech at SIT",
@@ -69,7 +65,6 @@ export const symbiosisinstituteoftechnologysitpune = {
                 "<b>Global Immersion Programs</b> are assembled for the students with foreign universities of Singapore, Canada, Germany and many more.",
                 "The exposure to liberal and performing arts are given to students to develop soft skills and to become skilled professional engineers.",
                 "The SIT institute has a well-established training and placement cell who organized campus interviews for UG and PG students.",
-
             ]
         },
         {
@@ -150,6 +145,10 @@ export const symbiosisinstituteoftechnologysitpune = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Symbiosis Institute of Technology - Fee Structure",
             "info": "",
@@ -185,28 +184,21 @@ export const symbiosisinstituteoftechnologysitpune = {
             "info": "",
             "col": [
                 "Courses",
-                "Duration",
-
-
+                "Duration"
             ],
             "row": [
                 {
                     "Courses": "<b>B.Tech</b>",
                     "Duration": "4",
-
                 },
                 {
                     "Courses": "<b>M.Tech</b>",
                     "Duration": "2 or 3",
-
                 },
                 {
                     "Courses": "<b>Ph.D.</b>",
                     "Duration": "2",
-
-                },
-
-
+                }
             ]
         },
         {
@@ -265,26 +257,27 @@ export const symbiosisinstituteoftechnologysitpune = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Admission Process at Symbiosis Institute of Technology:",
-            "info": "<b>Admission through SIT EEE entrance exam</b>",
+            "info": "Admission through SIT EEE entrance exam",
             "data": [
                 "If the candidate wants to apply through SIT entrance exam then he/she will have to register themselves for SIT-EEE examination with a fee of Rs.1750",
                 "The candidate needs to report to the Institute for admission round depend on SIT EEE merit.",
                 "The candidate can apply for SIT EEE entrance exam on website https://www.set.-testorg/",
-
             ]
         },
-
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Admission through JEE Main/CET entrance exam</b>",
+            "info": "Admission through JEE Main/CET entrance exam",
             "data": [
                 "If the candidate wants to apply through JEE Main/CET entrance exam then he/she needs to apply online by filling the online application form with a payment of Rs. 750",
                 "The candidate needs to report to the Institute for admission round depend on JEE Main/MHT-CET merit.",
                 "The candidate should have to visit www.sitpune.edu.in for online application.",
-
             ]
         },
         {
@@ -303,9 +296,7 @@ export const symbiosisinstituteoftechnologysitpune = {
                 "Leaving Certificate",
                 "Address Proof",
                 "Caste Certificate",
-                "Gap Certificate",
-
-
+                "Gap Certificate"
             ]
         },
         {
@@ -336,10 +327,7 @@ export const symbiosisinstituteoftechnologysitpune = {
                 {
                     "Name of the branch	": "<b>Civil Engineering</b>",
                     "Intake": "60",
-                },
-
-
-
+                }
             ]
         },
         {
@@ -360,7 +348,11 @@ export const symbiosisinstituteoftechnologysitpune = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -379,11 +371,15 @@ export const symbiosisinstituteoftechnologysitpune = {
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - Placement"
+        },
         {
             "type": "table-title",
             "title": "Placement at Symbiosis Institute of Technology",
-            "info": "<p>SIT offerers the campus placements in reputed companies with attractive salary package.</p><b>Following are the top recruiters of SIT:</b>",
+            "info": "<p>SIT offerers the campus placements in reputed companies with attractive salary package.</p>Following are the top recruiters of SIT:",
             "col": [
             ],
             "row": [
@@ -391,8 +387,7 @@ export const symbiosisinstituteoftechnologysitpune = {
                 ["L&T Infotech Pvt Ltd.", "TATA Motors Ltd."],
                 ["Thermax Pvt Ltd.", "TBK India Pvt Ltd."],
                 ["Siemens Ltd.", "BSNL"],
-                ["ONGC", "-"],
-
+                ["ONGC", "-"]
             ]
         },
         {
@@ -413,7 +408,11 @@ export const symbiosisinstituteoftechnologysitpune = {
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -432,11 +431,15 @@ export const symbiosisinstituteoftechnologysitpune = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships -",
-            "info": "<p>With the objective of encouraging meritorious students and academic excellence, Scholarships/ Awards are offered to deserving students of the University by the Symbiosis Society Foundation.</p><b>Please see the following for details on scholarships/awards available:</b>",
+            "info": "<p>With the objective of encouraging meritorious students and academic excellence, Scholarships/ Awards are offered to deserving students of the University by the Symbiosis Society Foundation.</p>Please see the following for details on scholarships/awards available:",
             "data": [
                 "Central Scholarship Scheme",
                 "Global Immersion Programme",
@@ -469,7 +472,11 @@ export const symbiosisinstituteoftechnologysitpune = {
             ]
         }
     ],
-    "Faculty": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty -",
@@ -515,7 +522,11 @@ export const symbiosisinstituteoftechnologysitpune = {
             ]
         }
     ],
-    "News": [
+    "news": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -534,7 +545,11 @@ export const symbiosisinstituteoftechnologysitpune = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -554,6 +569,10 @@ export const symbiosisinstituteoftechnologysitpune = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Symbiosis Institute of Technology - FAQ"
+        },
         {
             "type": "question-list",
             "title": "FAQs",

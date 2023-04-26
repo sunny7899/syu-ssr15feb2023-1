@@ -19,7 +19,7 @@ export const glasgowcaledonianuniversity = {
         {
             "type": "table-title",
             "title": "Glasgow Caledonian University - Quick Glance",
-            "info": "<b>The table shows the quick highlights for the international applicants willing to study at the Glasgow Caledonian University: </b>",
+            "info": "The table shows the quick highlights for the international applicants willing to study at the Glasgow Caledonian University: ",
             "col": [],
             "row": [
                 ["<b>Intake for Course</b>", "August"],
@@ -37,7 +37,7 @@ export const glasgowcaledonianuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study at Glasgow Caledonian University?",
-            "info": "<b>Reasons are mentioned below about the Glasgow Caledonian University‌: </b>",
+            "info": "Reasons are mentioned below about the Glasgow Caledonian University‌: ",
             "data": [
                 "The University of Glasgow is among the top universities in the UK with excellence in all areas.",
                 "The institute has impressive global rankings with top accreditations.",
@@ -50,7 +50,7 @@ export const glasgowcaledonianuniversity = {
         {
             "type": "table",
             "title": "Glasgow Caledonian University - Ranking 2021",
-            "info": "<b>UniRank has mentioned the Glasgow Caledonian University‌ in the following positions: </b>",
+            "info": "UniRank has mentioned the Glasgow Caledonian University‌ in the following positions: ",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -65,7 +65,7 @@ export const glasgowcaledonianuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The Glasgow Caledonian University is Accredited as Under for the Following Associations: </b>",
+            "info": "The Glasgow Caledonian University is Accredited as Under for the Following Associations: ",
             "data": [
                 "Association of Commonwealth Universities (ACU)",
                 "European University Association (EUA)",
@@ -77,7 +77,7 @@ export const glasgowcaledonianuniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Here the candidates will learn all courses in 100% English language: </b>",
+            "info": "Here the candidates will learn all courses in 100% English language: ",
             "data": [
                 "The Glasgow Caledonian University of England offered various bachelor, Master and doctorate courses in the English language. The courses offered have a classroom and curriculum in English medium for international students."
             ]
@@ -85,7 +85,7 @@ export const glasgowcaledonianuniversity = {
         {
             "type": "table",
             "title": "Monthly Living Expenses in Glasgow",
-            "info": "<b>The cost of living in Glasgow City for an individual estimated for a month: </b>",
+            "info": "The cost of living in Glasgow City for an individual estimated for a month: ",
             "col": [
                 "Particulars",
                 "Approx Range in GBP",
@@ -140,9 +140,14 @@ export const glasgowcaledonianuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Glasgow Caledonian University Courses & Fee Structure",
-            "info": "<b>Engineering </b>",
+            "info": "Engineering ",
             "col": [
                 "Course",
                 "Degree",
@@ -281,7 +286,7 @@ export const glasgowcaledonianuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>MBA and Business Courses </b>",
+            "info": "MBA and Business Courses ",
             "col": [
                 "Course",
                 "Degree",
@@ -536,9 +541,14 @@ export const glasgowcaledonianuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - Admission 2023 "
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>Undergraduate </b>',
+            info: 'Undergraduate ',
             data: [
                 "The applicant must have completed the high school that is 10+2/12th or diploma.",
                 "The applicant possesses a good percentage in the 11th and 12th exams with relevant subjects."
@@ -547,7 +557,7 @@ export const glasgowcaledonianuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Postgraduate </b>',
+            info: 'Postgraduate ',
             data: [
                 "The recognized Bachelor’s degree from any Indian University/college/Institute.",
                 "The applicant must have a degree with good marks.",
@@ -557,7 +567,7 @@ export const glasgowcaledonianuniversity = {
         {
             type: 'step-list',
             title: 'How to Apply at Glasgow Caledonian University? <br> Undergraduate',
-            info: '<b>Undergraduate Admission Steps for International Students: </b> <b>Thus, below are given UCAS application process for undergraduate admission : </b>',
+            info: 'Undergraduate Admission Steps for International Students: </b> <b>Thus, below are given UCAS application process for undergraduate admission : ',
             data: [
                 "Step1: Registering at the UCAS portal is necessary for international applicants.",
                 "Step2: After successful profile creation of the applicant, and filling in essential details the candidate can successfully proceed with an application form.",
@@ -573,7 +583,7 @@ export const glasgowcaledonianuniversity = {
         {
             type: 'list-bollet',
             title: 'Postgraduate',
-            info: '<b>Postgraduate Admission Steps: </b>',
+            info: 'Postgraduate Admission Steps: ',
             data: [
                 "The international applicants who are willing to apply for the postgraduate study in the UK, Glasgow Caledonian University need to follow the sole step of filling the application form correctly with all precise details."
             ]
@@ -581,7 +591,7 @@ export const glasgowcaledonianuniversity = {
         {
             type: 'list-bollet',
             title: 'English Language Criteria',
-            info: '<b></b>',
+            info: '',
             data: [
                 "The applicant who is in need of a Tier 4 visa must be qualified with IELTS/ PTE/TOEFL exam certificates.",
                 "IELTS- max courses required band 6 & above.",
@@ -592,7 +602,7 @@ export const glasgowcaledonianuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: '<b>The documents required for admission at GCU are listed as under: </b>',
+            info: 'The documents required for admission at GCU are listed as under: ',
             data: [
                 "Application form",
                 "CV/portfolio",
@@ -618,7 +628,7 @@ export const glasgowcaledonianuniversity = {
         {
             "type": "table",
             "title": "Glasgow Caledonian University - Admission Dates 2021",
-            "info": "<b>The below table gives admission dates & deadlines of the Glasgow Caledonian University for international applicants:</b>",
+            "info": "The below table gives admission dates & deadlines of the Glasgow Caledonian University for international applicants:",
             "col": [
                 "Events",
                 "Dates",
@@ -662,6 +672,11 @@ export const glasgowcaledonianuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Glasgow Caledonian University, UK - Reviews" },
@@ -680,10 +695,16 @@ export const glasgowcaledonianuniversity = {
         }
     ],
     "placement": [
+
+        {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "Graduates might return to India and seek work after completing their various degrees.",
                 "Internships and jobs in and around the UK are encouraged for students at the Glasgow Caledonian University."
@@ -692,7 +713,7 @@ export const glasgowcaledonianuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Top Recruiter</b>",
+            "info": "Top Recruiter",
             "data": [
                 "Ernst & Young",
                 "WEIR",
@@ -722,6 +743,11 @@ export const glasgowcaledonianuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Glasgow Caledonian University, UK - Gallery" },
@@ -741,9 +767,14 @@ export const glasgowcaledonianuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>The scholarships that are provided at Glasgow Caledonian University are as follows:</b>",
+            "info": "The scholarships that are provided at Glasgow Caledonian University are as follows:",
             "data": [
                 "GSBS Scholarship",
                 "RUK (Rest of the UK) and Ireland Common Good Bursary",
@@ -752,7 +783,7 @@ export const glasgowcaledonianuniversity = {
                 "US federal loans",
                 "Funding for full-time students",
                 "Funding for part-time students",
-                "Funding for nursing students"               
+                "Funding for nursing students"
             ]
         },
         {
@@ -774,6 +805,11 @@ export const glasgowcaledonianuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - Faculty"
+
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -831,6 +867,11 @@ export const glasgowcaledonianuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Glasgow Caledonian University, UK - News & Articles" },
@@ -850,9 +891,14 @@ export const glasgowcaledonianuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The features of the GCU, accommodation(hostel) are mentioned: </b>",
+            "info": "The features of the GCU, accommodation(hostel) are mentioned: ",
             "data": [
                 "Glasgow Caledonian University offered the best accommodation residential stay by the name “village within a city” at the Caledonian Court.",
                 "The university assures a home-friendly environment for the students to avoid homesickness.",
@@ -883,9 +929,14 @@ export const glasgowcaledonianuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Glasgow Caledonian University, UK - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Glasgow Caledonian University - FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Does the GCU provide residential on-campus stay?",

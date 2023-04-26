@@ -19,7 +19,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "table-title",
             "title": "IU International University of Applied Sciences - Quick Highlights",
-            "info": "<b>Want to take admission at IU International University of Applied Sciences, have a glance at the highlights:</b>",
+            "info": "Want to take admission at IU International University of Applied Sciences, have a glance at the highlights:",
             "col": [],
             "row": [
                 ["<b>Tuition Fees</b>", "12.3 - 13 Lacs"],
@@ -33,7 +33,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "list-bollet",
             "title": "Why Choose IU University of Applied Sciences for an MBA Program?",
-            "info": "<b>If you want to enroll in one of the MBA programs offered by IUBH university, have a look below to explore its advantages:</b>",
+            "info": "If you want to enroll in one of the MBA programs offered by IUBH university, have a look below to explore its advantages:",
             "data": [
                 "IU International University of Applied Sciences is Germany’s largest university which strongly focuses on quality faculty, courses, and other facilities to assure students of a promising career.",
                 "The university strives hard to improve the quality of its services and achieve professional goals.",
@@ -50,7 +50,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>All the courses offered by IU International University of Applied Sciences, Erfurt, Germany are in the English language:</b>",
+            "info": "All the courses offered by IU International University of Applied Sciences, Erfurt, Germany are in the English language:",
             "data": [
                 "To prepare students to deal at the international level all the courses offered by this university are in the English language.",
                 "Having English as a sole mode of instruction helps students to improve their language skills and express themselves without any difficulty."
@@ -59,7 +59,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at IU International University of Applied Sciences",
-            "info": '<b>IU International University of Applied Sciences, Erfurt, Germany offers everything that students need for their studies and well-being. Check out below and know more:</b>',
+            "info": 'IU International University of Applied Sciences, Erfurt, Germany offers everything that students need for their studies and well-being. Check out below and know more:',
             "data": [
                 "Library",
                 "Classroom",
@@ -104,7 +104,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "table",
             "title": "IU International University of Applied Sciences - Ranking 2022",
-            "info": "<b>According to, Unirank, the students can check out and learn about the rankings of IU International University of Applied Sciences:</b>",
+            "info": "According to, Unirank, the students can check out and learn about the rankings of IU International University of Applied Sciences:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -119,7 +119,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "list-bollet",
             "title": "Recognition and Accreditations",
-            "info": "<b>Find out the recognitions and accreditations of IU International University of Applied Sciences below:</b>",
+            "info": "Find out the recognitions and accreditations of IU International University of Applied Sciences below:",
             "data": [
                 "German Accreditation Council",
                 "FIBAA Premium Seal"
@@ -128,7 +128,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "table",
             "title": "Living Expenses in Erfurt, Germany",
-            "info": "<b>If you are looking forward to taking admission in IU university, have a look below to know the monthly expenses of an individual approximately considering their basic expenditures:</b>",
+            "info": "If you are looking forward to taking admission in IU university, have a look below to know the monthly expenses of an individual approximately considering their basic expenditures:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -168,9 +168,14 @@ export const iuinternationaluniversityofappliedsciences = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "IU International University of Applied Sciences - Fee Structure 2022",
-            "info": "<b>The fee structure of IU International University of Applied Sciences is relatively moderate as compared to others:</b>",
+            "info": "The fee structure of IU International University of Applied Sciences is relatively moderate as compared to others:",
             "col": [
                 "Course",
                 "Total Amount",
@@ -185,7 +190,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "list-bollet",
             "title": "Programs offered at IU International University of Applied Sciences",
-            "info": "<b>Applied Sciences, Germany offers five MBA programs, have a look below:</b>",
+            "info": "Applied Sciences, Germany offers five MBA programs, have a look below:",
             "data": [
                 "MBA - Big Data Management",
                 "MBA - Engineering Project Management",
@@ -197,7 +202,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "list-bollet",
             "title": "IU International University of Applied Sciences - MBA Duration",
-            "info": "<b>IU International University of Applied Sciences offers 1-1.5 years of MBA courses. The duration depends upon what the candidate chooses:</b>",
+            "info": "IU International University of Applied Sciences offers 1-1.5 years of MBA courses. The duration depends upon what the candidate chooses:",
             "data": [
                 "All kinds of MBA courses are presented and explained in the English language.",
                 "The course duration of MBA courses is 1 - 1.5 years. All the queries regarding the same and few others will be resolved at the time of admission."
@@ -224,9 +229,14 @@ export const iuinternationaluniversityofappliedsciences = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>To get admission at IU International University of Applied Sciences check below to know and consider the basic criteria needed:</b>",
+            "info": "To get admission at IU International University of Applied Sciences check below to know and consider the basic criteria needed:",
             "data": [
                 "Should hold a Bachelor's degree from an accredited university.",
                 "Final year records should at least be “satisfactory”.",
@@ -240,7 +250,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>To know the admission process at IU International University of Applied Sciences, have a look below for the details:</b>",
+            "info": "To know the admission process at IU International University of Applied Sciences, have a look below for the details:",
             "data": [
                 "<b>Step 1:</b> Prepare documents for the application. A tabular CV is required.",
                 "<b>Step 2:</b> Attach a current copy of the transcript, letter of motivation, proof of ELP scores, copy of identity card and a passport photo.",
@@ -253,7 +263,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Have a look below to know the checklist of the documents required to take admission at IU International University of Applied Sciences:</b>",
+            "info": "Have a look below to know the checklist of the documents required to take admission at IU International University of Applied Sciences:",
             "data": [
                 "current copy of transcript",
                 "Birth certificate",
@@ -279,7 +289,7 @@ export const iuinternationaluniversityofappliedsciences = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Want to know the important dates during admission process, check out below:</b>",
+            "info": "Want to know the important dates during admission process, check out below:",
             "col": [
                 "Events",
                 "Dates"
@@ -323,6 +333,11 @@ export const iuinternationaluniversityofappliedsciences = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "IU International University of Applied Sciences, Germany - Reviews" },
@@ -341,6 +356,11 @@ export const iuinternationaluniversityofappliedsciences = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -369,6 +389,11 @@ export const iuinternationaluniversityofappliedsciences = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "IU International University of Applied Sciences, Germany - Gallery" },
@@ -388,9 +413,14 @@ export const iuinternationaluniversityofappliedsciences = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>The scholarships that are provided at the IU International University of Applied Sciences are as follows:</b>",
+            "info": "The scholarships that are provided at the IU International University of Applied Sciences are as follows:",
             "data": [
                 "Superior scholarship",
                 "Engagement scholarship",
@@ -418,62 +448,73 @@ export const iuinternationaluniversityofappliedsciences = {
             ]
         }
     ],
-    "faculty": [{
-        "type": "table",
-        "title": "Faculty",
-        "col": [
-            "Name",
-            "Designation",
-        ],
-        'row': [
-            {
-                "Name": "Prof. Dr. Florian Hummel",
-                "Designation": "Head of Faculty"
-            },
-            {
-                "Name": "Prof. Dr.-Ing. habil. Matthias Eifler",
-                "Designation": "Professor of: B.Eng. Robotics"
-            },
-            {
-                "Name": "Prof. Dr. Alexander Lawall",
-                "Designation": "Professor of: B.Sc. + M.Sc. Cyber Security"
-            },
-            {
-                "Name": "Prof. Dr. Thomas Zöller",
-                "Designation": "Professor of: B.Sc. Data Science"
-            },
-            {
-                "Name": "Prof. Dr. Ralf Kneuper",
-                "Designation": "Professor of: B.Sc. Computer Science"
-            },
-            {
-                "Name": "Prof. Dr. Tobias Brückmann",
-                "Designation": "Professor of: B.Sc. Business & IT"
-            },
+    "faculty": [
+        {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - Faculty"
+
+        },
+        {
+            "type": "table",
+            "title": "Faculty",
+            "col": [
+                "Name",
+                "Designation",
+            ],
+            'row': [
+                {
+                    "Name": "Prof. Dr. Florian Hummel",
+                    "Designation": "Head of Faculty"
+                },
+                {
+                    "Name": "Prof. Dr.-Ing. habil. Matthias Eifler",
+                    "Designation": "Professor of: B.Eng. Robotics"
+                },
+                {
+                    "Name": "Prof. Dr. Alexander Lawall",
+                    "Designation": "Professor of: B.Sc. + M.Sc. Cyber Security"
+                },
+                {
+                    "Name": "Prof. Dr. Thomas Zöller",
+                    "Designation": "Professor of: B.Sc. Data Science"
+                },
+                {
+                    "Name": "Prof. Dr. Ralf Kneuper",
+                    "Designation": "Professor of: B.Sc. Computer Science"
+                },
+                {
+                    "Name": "Prof. Dr. Tobias Brückmann",
+                    "Designation": "Professor of: B.Sc. Business & IT"
+                },
 
 
-        ]
+            ]
 
-    },
-    {
-        type: "meta",
-        meta: [
-            { name: "title", content: "IU International University of Applied Sciences, Germany - Faculty" },
-            { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
-        ],
-    },
-    {
-        type: "meta-title",
-        title: "IU International University of Applied Sciences, Germany - Faculty"
-    },
-    {
-        type: "meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/iu-international-university-of-applied-sciences/faculty" }
-        ]
-    }
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "IU International University of Applied Sciences, Germany - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "IU International University of Applied Sciences, Germany - Faculty"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/iu-international-university-of-applied-sciences/faculty" }
+            ]
+        }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -494,9 +535,14 @@ export const iuinternationaluniversityofappliedsciences = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>IU International University of Applied Sciences has excellent hostels and accommodations facility at low costs:</b>",
+            "info": "IU International University of Applied Sciences has excellent hostels and accommodations facility at low costs:",
             "data": [
                 "IU International University of Applied Sciences provides a spacious area to live by on your own or a sharing basis. These accommodations are available on a short-term or long-term basis.",
                 "These hostels provide hygienic meals at affordable prices without compromising with its quality.",
@@ -535,9 +581,14 @@ export const iuinternationaluniversityofappliedsciences = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "IU International University of Applied Sciences, Germany - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "IU International University of Applied Sciences - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Are the study programs at IU International University of Applied Sciences accredited?",

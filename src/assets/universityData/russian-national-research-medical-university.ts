@@ -21,7 +21,7 @@ export const russiannationalresearchmedicaluniversity = {
         {
             "type": "table",
             "title": "Russian National Research Medical University - Quick Highlights",
-            "info": "<b>Given below is the table for quick overview about Russian National Research Medical University:</b>",
+            "info": "Given below is the table for quick overview about Russian National Research Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "	September"],
@@ -39,7 +39,7 @@ export const russiannationalresearchmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Russian National Research Medical University?",
-            "info": "<b>Below are the benefits of studying MBBS at Russian National Research Medical University:</b>",
+            "info": "Below are the benefits of studying MBBS at Russian National Research Medical University:",
             "data": [
                 "This university is accredited by the Medical Council of India and approved by the World Health Organization.",
                 "This is one of the top rated medical universities in Russia.",
@@ -66,7 +66,7 @@ export const russiannationalresearchmedicaluniversity = {
         {
             "type": "table",
             "title": "Russian National Research Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Russian National Research Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Russian National Research Medical University:",
             "col": [
                 "World",
                 "Country",
@@ -82,7 +82,7 @@ export const russiannationalresearchmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Moscow",
-            "info": "<b>The expenses of living in Russia are not much different than living in India:</b><br>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.",
+            "info": "The expenses of living in Russia are not much different than living in India:<br>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.",
             "col": [
                 "Activity",
                 "Cost",
@@ -110,12 +110,12 @@ export const russiannationalresearchmedicaluniversity = {
                     "Cost": "Cost between Rs.14000 - Rs.25,000",
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>  1$ = 70 Rs.</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong>  1$ = 70 Rs.</p>'
         },
         {
             "type": "list-bollet",
             "title": "About Moscow City",
-            "info": "<b>Below are some noticeable things about Moscow city:</b>",
+            "info": "Below are some noticeable things about Moscow city:",
             "img": 'https://www.selectyouruniversity.com/images/russia-universities/russian-national-research-medical-university-about.jpg',
             "data": [
                 "Moscow, being Russia’s capital city, is home to over 10 million residents and countless non-residents.",
@@ -147,9 +147,13 @@ export const russiannationalresearchmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Russian National Research Medical University - Fee Structure 2022",
-            "info": "<b>Following is the complete fee structure for Russian National Research Medical University for MBBS program:</b>",
+            "info": "Following is the complete fee structure for Russian National Research Medical University for MBBS program:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -197,12 +201,12 @@ export const russiannationalresearchmedicaluniversity = {
                     "Year  6": "Rs. 6,17,700"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1 USD = Rs. 71 (approx)</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1 USD = Rs. 71 (approx)</p>'
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered at the Russian National Research Medical University",
-            "info": "<b>Following are the faculties at Russian National Research Medical University:</b>",
+            "info": "Following are the faculties at Russian National Research Medical University:",
             "data": [
                 "General Medicine",
                 "Biomedicine",
@@ -215,7 +219,7 @@ export const russiannationalresearchmedicaluniversity = {
         {
             "type": "table",
             "title": "Russian National Research Medical University - MBBS Syllabus",
-            "info": "<b>The complete syllabus for studying MBBS at Russian National Research Medical University is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Russian National Research Medical University is as follows:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -328,9 +332,13 @@ export const russiannationalresearchmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - Admission 2023 '
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Russian National Research Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Russian National Research Medical University is as follows:",
             "data": [
                 "The applicant must have completed his/her 12th Standard from a reputed board or organization and must have Physics, Chemistry, and Biology as subjects in their 12th standard.",
                 "He/she must have completed 17 years of age on or before the 31st December of the year in which the admission is being taken.",
@@ -340,7 +348,7 @@ export const russiannationalresearchmedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process for MBBS Course',
-            info: '<b>The admission procedure at the Russian National Research Medical University is as follows:</b><br>A prospective student can apply online as instructed below:',
+            info: 'The admission procedure at the Russian National Research Medical University is as follows:<br>A prospective student can apply online as instructed below:',
             data: [
                 "Step 1: Open the application form.",
                 "Step 2: Fill in the application form accurately.",
@@ -369,7 +377,7 @@ export const russiannationalresearchmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents at the Time of Admission",
-            "info": "<b>Following documents are required for admission to Russian National Research Medical University:</b>",
+            "info": "Following documents are required for admission to Russian National Research Medical University:",
             "data": [
                 "Transfer Certificate",
                 "6 Passport size photographs",
@@ -390,7 +398,7 @@ export const russiannationalresearchmedicaluniversity = {
         {
             "type": "table",
             "title": "Russian National Research Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Russian National Research Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Russian National Research Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -430,6 +438,10 @@ export const russiannationalresearchmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Russian National Research Medical University, Russia - Reviews" },
@@ -447,7 +459,44 @@ export const russiannationalresearchmedicaluniversity = {
             ]
         }
     ],
+    "placement": [
+        {
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - Placement'
+        },
+        {
+            "type": "list-bollet",
+            "title": "placement",
+            "info": "",
+            "data": [
+                "Russian National Research Medical University encourages graduates to continue their studies by providing them with higher education options.",
+                "After completing their degree, young graduates may seek employment as doctors in India.",
+                "Graduates of the Russian National Research Medical University may work at their own hospital. As a result, people who have finished their degrees are eligible to study at Russian National Research Medical University."
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Russian National Research Medical University, Russia - Placement" },
+                { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Russian National Research Medical University, Russia - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/russian-national-research-medical-university/placement" }
+            ]
+        }
+    ],
     "gallery": [
+        {
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - Gallery'
+        },
         {
             type: "meta",
             meta: [
@@ -466,7 +515,49 @@ export const russiannationalresearchmedicaluniversity = {
             ]
         }
     ],
+    "scholarship": [
+        {
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - Scholarship'
+        },
+        {
+            "type": "list-bollet",
+            "title": "scholarship",
+            "info": "The scholarships provided at Russian National Research Medical University are as follows:",
+            "data": [
+                "NCI Master’s Edge Scholarship",
+                "Algoma University Chancellor’s Award",
+                "JGC-S Scholarship Foundation",
+                "Pearl International Award",
+                "Sato Yo International Scholarship Foundation",
+                "The government of Russian Federation Scholarships",
+                "Benjamin A. Gilman Scholarships",
+                "SRAS (The school of Russian and Asian Studies)"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Russian National Research Medical University, Russia - Scholarship" },
+                { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Russian National Research Medical University, Russia - Scholarship"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/russian-national-research-medical-university/scholarship" }
+            ]
+        }
+    ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - Faculty'
+        },
         {
             type: "meta",
             meta: [
@@ -487,6 +578,10 @@ export const russiannationalresearchmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Russian National Research Medical University, Russia - News & Articles" },
@@ -506,9 +601,13 @@ export const russiannationalresearchmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation & Hostel",
-            "info": "<b>Following are the hostel facilities for International students at Russian National Research Medical University:</b>",
+            "info": "Following are the hostel facilities for International students at Russian National Research Medical University:",
             "data": [
                 "At Russian National Research Medical University, there is а comfortable dormitory for students.",
                 "Students live in blocks of two rooms where 2 or 3 people can stay with a shared bathroom.",
@@ -547,114 +646,55 @@ export const russiannationalresearchmedicaluniversity = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Russian National Research Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. How many Indian students are studying at the Russian National Research Medical University?",
-                        "ans": "Around 200 Indian students are studying at Russian National Research Medical University."
-                    },
-                    {
-                        "ques": "Q. Can I pay the course fees upon arrival?",
-                        "ans": "You need to pay the course fees in Russia only."
-                    },
-                    {
-                        "ques": "Q. How much does it take to complete MBBS from Russian National Research Medical University?",
-                        "ans": "The MBBS from Russian National Research Medical University takes 6 years to complete."
-                    },
-                    {
-                        "ques": "Q. Is the Russian National Research Medical University NMC approved?",
-                        "ans": "Russian National Research Medical University is approved by the National Medical Commission."
-                    },
-                    {
-                        "ques": "Q. Can I get direct admission to the Russian National Research Medical University?",
-                        "ans": "Admission at Russian National Research Medical University is completely on merit basis. Students need to clear NEET exam before enrolling in the course."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Russian National Research Medical University, Russia - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Russian National Research Medical University, Russia - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/russian-national-research-medical-university/faq" }
-                ]
-            }
-        ],
-    "placement": [
+    "faq": [
         {
-            "type": "list-bollet",
-            "title": "placement",
-            "info": "",
+            type: 'title',
+            title: 'Russian National Research Medical University, Russia - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Russian National Research Medical University - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
-                "Russian National Research Medical University encourages graduates to continue their studies by providing them with higher education options.",
-                "After completing their degree, young graduates may seek employment as doctors in India.",
-                "Graduates of the Russian National Research Medical University may work at their own hospital. As a result, people who have finished their degrees are eligible to study at Russian National Research Medical University."
+                {
+                    "ques": "Q. How many Indian students are studying at the Russian National Research Medical University?",
+                    "ans": "Around 200 Indian students are studying at Russian National Research Medical University."
+                },
+                {
+                    "ques": "Q. Can I pay the course fees upon arrival?",
+                    "ans": "You need to pay the course fees in Russia only."
+                },
+                {
+                    "ques": "Q. How much does it take to complete MBBS from Russian National Research Medical University?",
+                    "ans": "The MBBS from Russian National Research Medical University takes 6 years to complete."
+                },
+                {
+                    "ques": "Q. Is the Russian National Research Medical University NMC approved?",
+                    "ans": "Russian National Research Medical University is approved by the National Medical Commission."
+                },
+                {
+                    "ques": "Q. Can I get direct admission to the Russian National Research Medical University?",
+                    "ans": "Admission at Russian National Research Medical University is completely on merit basis. Students need to clear NEET exam before enrolling in the course."
+                },
             ]
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Russian National Research Medical University, Russia - Placement" },
-                { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
+                { name: "title", content: "Russian National Research Medical University, Russia - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
             ],
         },
         {
             type: "meta-title",
-            title: "Russian National Research Medical University, Russia - Placement"
+            title: "Russian National Research Medical University, Russia - FAQ"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/russian-national-research-medical-university/placement" }
-            ]
-        }
-    ],
-    "scholarship": [
-        {
-            "type": "list-bollet",
-            "title": "scholarship",
-            "info": "<b>The scholarships provided at Russian National Research Medical University are as follows:</b>",
-            "data": [
-                "NCI Master’s Edge Scholarship",
-                "Algoma University Chancellor’s Award",
-                "JGC-S Scholarship Foundation",
-                "Pearl International Award",
-                "Sato Yo International Scholarship Foundation",
-                "The government of Russian Federation Scholarships",
-                "Benjamin A. Gilman Scholarships",
-                "SRAS (The school of Russian and Asian Studies)"
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Russian National Research Medical University, Russia - Scholarship" },
-                { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Russian National Research Medical University, Russia - Scholarship"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/russian-national-research-medical-university/scholarship" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/russian-national-research-medical-university/faq" }
             ]
         }
     ]
+   
 }

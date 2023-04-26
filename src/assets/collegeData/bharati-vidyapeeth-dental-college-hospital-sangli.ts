@@ -94,9 +94,13 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Bharati Dental College and Hospital, Sangli: (Fee Structure)",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -173,9 +177,13 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b><u>Indian Candidates </u></b>",
+            "info": "<u>Indian Candidates </u>",
             "data": [
                 "Age of <b>candidate must be 17 years</b> on or before 31st december 2000.",
                 "Candidate must be Indian national.",
@@ -188,7 +196,7 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b><u>International Candidates </u></b>",
+            "info": "<u>International Candidates </u>",
             "data": [
                 "10+2 or equivalent examination eg. CBSE, ISC, STPM, SAM, OSSD etc. having minimum 50% of marks in physics, chemistry and biology subjects."
             ]
@@ -196,7 +204,7 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
         {
             "type": "list-bollet",
             "title": "Admission Procedure",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "There are total <b>100 seats</b> available for <b>BDS course</b> in Bharati Vidyapeeth Dental College and Hospital.",
                 "Candidates should register themselves on the <b>DMER</b> portal for applying NEET entrance test.",
@@ -211,7 +219,7 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "NEET Score Card",
                 "Class 10th Certificate",
@@ -247,6 +255,10 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
     ],
     "review": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Dental College & Hospital, Sangli - Reviews" },
@@ -265,6 +277,10 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
         }
     ],
     "placement": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -285,6 +301,10 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
     ],
     "gallery": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Dental College & Hospital, Sangli - Gallery" },
@@ -303,6 +323,10 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
         }
     ],
     "scholarship": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -323,6 +347,10 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
     ],
     "faculty": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bharati Vidyapeeth Dental College & Hospital, Sangli - Faculty" },
@@ -341,6 +369,10 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
         }
     ],
     "news": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -361,9 +393,13 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
     ],
     "hostel": [
         {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation: (Undergraduates/Postgraduates)",
-            "info": "<b>Here are the some of hostel facilities provided by the Institute:</b>",
+            "info": "Here are the some of hostel facilities provided by the Institute:",
             "data": [
                 "The campus have 3 boys hostels and 5 girls hostels.",
                 "Semi-furnished rooms with attached washrooms.",
@@ -403,6 +439,10 @@ export const bharatividyapeethdentalcollegehospitalsangli = {
         }
     ],
     "faq": [
+        {
+            "type": "title",
+            "title": "Bharati Vidyapeeth Dental College & Hospital, Sangli - FAQ"
+        },
         {
             type: "meta",
             meta: [

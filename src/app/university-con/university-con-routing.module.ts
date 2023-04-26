@@ -5,31 +5,31 @@ import { UniversityConComponent } from './university-con.component';
 
 const routes: Routes = [
   {
-    path: 'siberian-state-medical-university',
+    path: 'siberian-state-medical-university/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/courses-and-fees',
+    path: 'siberian-state-medical-university/courses-and-fees/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/admission',
+    path: 'siberian-state-medical-university/admission/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/review',
+    path: 'siberian-state-medical-university/review/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/placement',
+    path: 'siberian-state-medical-university/placement/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/gallery',
+    path: 'siberian-state-medical-university/gallery/.',
     component: UniversityConComponent
   },
   {
-    path: 'siberian-state-medical-university/scholarship',
+    path: 'siberian-state-medical-university/scholarship/.',
     component: UniversityConComponent
   },
   {
@@ -90,6 +90,138 @@ const routes: Routes = [
   },
   {
     path: 'saint-petersburg-state-institute-of-technology/faq/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'bridgetown-international-university/faq/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'avicenna-tajik-state-medical-university/faq/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'alte-university-georgia/faq/.',
     component: UniversityConComponent
   },
   {
@@ -18478,6 +18610,51 @@ const routes: Routes = [
   },
   {
     path: 'all-india-institute-of-medical-sciences-aiims-new-delhi/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'caspian-international-school-of-medicine/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'caspian-international-school-of-medicine/faq/.',
     component: UniversityConComponent
   },
 ];

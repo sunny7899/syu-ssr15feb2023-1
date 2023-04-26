@@ -5,6 +5,7 @@ export const mbainrussia = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '1 to 2 Years',
     "url": "mba-in-russia",
     "info": [
         {
@@ -245,6 +246,11 @@ export const mbainrussia = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Russia 2023 - Top Colleges in Russia'
+        },
         {
             "type": "table",
             "title": "Top MBA Universities/Colleges in Russia (with Fee Structure)",
@@ -304,9 +310,16 @@ export const mbainrussia = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/course/mba-in-russia/top-colleges" }
             ]
         }
+        
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Russia 2023 - Syllabus'
+        },
+
         {
             type: 'list-bollet',
             title: 'MBA Course Duration in Russia',
@@ -319,7 +332,7 @@ export const mbainrussia = {
         {
             "type": "table-title",
             "title": "All Subjects of a MBA Program in Russia",
-            "info": "<b>Below mentioned are the MBA (Master of Business Administration) subjects which students need to study when they opt for ‘MBA in Russia’:</b>",
+            "info": "Below mentioned are the MBA (Master of Business Administration) subjects which students need to study when they opt for ‘MBA in Russia’:",
             "row": [
                 ["Managerial Accounting", "Macro Economics"],
                 ["Human Research Management", "Organizational Behaviour"],
@@ -350,6 +363,12 @@ export const mbainrussia = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Russia 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'MBA - Career Prospects',
@@ -377,7 +396,7 @@ export const mbainrussia = {
         {
             "type": "table-title",
             "title": "Job Positions for MBA Students",
-            "info": "<b>After pursuing MBA in Russia, students get the following job positions at reputed companies:</b>",
+            "info": "After pursuing MBA in Russia, students get the following job positions at reputed companies:",
             "row": [
                 ["Business Intern", "Project Leader"],
                 ["Manager", "Accountant"],
@@ -410,6 +429,11 @@ export const mbainrussia = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in Russia 2023 - FAQs'
+        },
         
         {
             type: "meta",

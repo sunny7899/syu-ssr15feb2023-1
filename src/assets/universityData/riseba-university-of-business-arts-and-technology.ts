@@ -19,7 +19,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "table-title",
             "title": "RISEBA University - Quick Highlights",
-            "info": "<b>The table below gives the quick highlights for the international studies in Latvia at RISEBA: </b>",
+            "info": "The table below gives the quick highlights for the international studies in Latvia at RISEBA: ",
             "row": [
                 ["<b>Intake for Course</b>", "July"],
                 ["<b>University Type</b>", "Private"],
@@ -36,7 +36,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             type: 'list-bollet',
             title: 'Why Study at RISEBA University?',
-            info: '<b>Below are some of the many reasons for studying BBA, Arts, and Engineering at RISEBA University of Latvia: </b>',
+            info: 'Below are some of the many reasons for studying BBA, Arts, and Engineering at RISEBA University of Latvia: ',
             data: [
                 "One of the leading private universities for business, arts, engineering, and economics programs study in Latvia.",
                 "The RISEBA offers all its programs in English in the majority with quality education and teaching.",
@@ -49,7 +49,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "table",
             "title": "RISEBA University of Business, Arts and Technology - Ranking 2022",
-            "info": "<b>Unirank mentioned RISEBA at the following ranked: </b>",
+            "info": "Unirank mentioned RISEBA at the following ranked: ",
             "col": [
                 "Country",
                 "World",
@@ -64,7 +64,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>The medium of teaching at the RUSEBA for the international students is elaborated as under: </b>',
+            info: 'The medium of teaching at the RUSEBA for the international students is elaborated as under: ',
             data: [
                 "The classroom language and medium of teaching for the Bachelor’s, Masters, and all other programs in the English language.",
                 "Due to the large number of international student enrollment all programs are available separately in the English curriculum."
@@ -98,7 +98,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             type: "table",
             title: 'Cost of Living',
-            info: '<b>The cost of living of Riga city of Latvia is as under: </b>',
+            info: 'The cost of living of Riga city of Latvia is as under: ',
             col: [
                 "Particulars",
                 "Approx Range in USD",
@@ -131,7 +131,7 @@ export const risebauniversityofbusinessartsandtechnology = {
                     "Approx Range in RS": "Rs.8400"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1 USD - 70 Rs (approx)</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1 USD - 70 Rs (approx)</p>',
         },
         {
             type: "meta",
@@ -153,6 +153,10 @@ export const risebauniversityofbusinessartsandtechnology = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - courses & Fees'
+        },
+        {
             "type": "text",
             "title": "1 Bachelor Degree",
             "data": ""
@@ -160,7 +164,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "table",
             "title": "Fee Structure ( for Bachelors Program )",
-            "info": "<b>The table mentioned the fee structure for the bachelor of engineering program: </b>",
+            "info": "The table mentioned the fee structure for the bachelor of engineering program: ",
             "col": [
                 "Courses",
                 "Fees in Euro"
@@ -196,7 +200,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "table",
             "title": "Fee Structure ( for Master's Program )",
-            "info": "<b>The table mentioned the fee structure for the Master of engineering program: </b>",
+            "info": "The table mentioned the fee structure for the Master of engineering program: ",
             "col": [
                 "Courses",
                 "Fees in Euro"
@@ -265,7 +269,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "table",
             "title": "Fee Structure ( for Arts Program )",
-            "info": "<b>The table gives fee structure details: </b>",
+            "info": "The table gives fee structure details: ",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -288,12 +292,12 @@ export const risebauniversityofbusinessartsandtechnology = {
                     "Annual Fee": "Rs. 3,21,000"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> 1$=70 Rs for calculation purpose.</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$=70 Rs for calculation purpose.</p>',
         },
         {
             "type": "list-bollet",
             "title": "Arts Courses",
-            "info": "<b>The list of courses offered at RISEBA with English curriculum, the medium is as under: </b>",
+            "info": "The list of courses offered at RISEBA with English curriculum, the medium is as under: ",
             "data": [
                 "Bachelor Degree-Audiovisual Media arts",
                 "Master degree-New Audiovisual Media arts"
@@ -302,7 +306,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Course Duration ( for Arts Program )",
-            "info": "<b></b>",
+            "info": "",
             "data": [
                 "The course duration of the Bachelor of Arts at the RISEBA is 4 years in total for the full-time program in English. While those who are willing to pursue arts part-time require 4.5 years for completion.",
                 "The duration of the course of the master’s in Arts at the RISEBA is 2 years in total for completion."
@@ -311,7 +315,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Courses offered at RISEBA University",
-            "info": "<b>The list of courses for the different degree are listed category wise as in the below tables: </b> <br>1 Bachelor Degree",
+            "info": "The list of courses for the different degree are listed category wise as in the below tables:  <br>1 Bachelor Degree",
             "data": [
                 "Architecture",
                 "Audiovisual Media arts",
@@ -361,9 +365,13 @@ export const risebauniversityofbusinessartsandtechnology = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - Admission 2023'
+        },
+        {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Below are given about the detailed steps to be followed for error-free online admission: </b>',
+            info: 'Below are given about the detailed steps to be followed for error-free online admission:',
             data: [
                 "Step 1: Choosing the program <br> The official site of RISEBA offers 13 English language programs, thus choosing the right program with the applicant’s choice.",
                 "Step 2: Checking all Requirements and Eligibility <br> Also, check the eligibility criteria, special requirements of the particular programs, fee structure, language, and course duration, with the application date and deadline of admission.",
@@ -394,12 +402,12 @@ export const risebauniversityofbusinessartsandtechnology = {
                 "Step 9: hostel and Accommodation <br> The students have to be booked into dormitories and hostels via phone or email, just after the admission confirmation by the university.",
                 "Step 10: Scholarships and discounts application <br> Also, check the eligibility for the scholarship."
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> All admission process is fully conducted online via Email communication and interview is done via skype.</p>',
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> All admission process is fully conducted online via Email communication and interview is done via skype.</p>',
         },
         {
             "type": "list-bollet",
             "title": "Documents Required ",
-            "info": "<b>The list of documents required for the admission and seat confirmation with visa procedure: </b>",
+            "info": "The list of documents required for the admission and seat confirmation with visa procedure:",
             "data": [
                 "Application form",
                 "Birth certificate",
@@ -422,7 +430,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria ( for Bachelors Program )",
-            "info": "<b>The applicant must be completely fit in the below eligibility criteria of RISEBA: </b>",
+            "info": "The applicant must be completely fit in the below eligibility criteria of RISEBA:",
             "data": [
                 "The applicant must submit all the required documents during the admission procedure of RISEBA with original and translated copies in either English/Latvian.",
                 "CIS passport for international applicants is necessary.",
@@ -449,7 +457,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria ( for Master’s Program )",
-            "info": "<b>The applicant must be completely fit in the below eligibility criteria of RISEBA: </b>",
+            "info": "The applicant must be completely fit in the below eligibility criteria of RISEBA: ",
             "data": [
                 "The applicant must submit all the required documents during the admission procedure of RISEBA with original and translated copies in either English/Latvian.",
                 "CIS passport for international applicants is necessary.",
@@ -469,7 +477,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria ( for Arts Program )",
-            "info": "<b>The applicant must be completely fit in the below eligibility criteria of RISEBA: </b>",
+            "info": "The applicant must be completely fit in the below eligibility criteria of RISEBA: ",
             "data": [
                 "The applicant must submit all the required documents during the admission procedure of RISEBA with original and translated copies in either English/Latvian.",
                 "CIS passport for international applicants is necessary.",
@@ -487,7 +495,7 @@ export const risebauniversityofbusinessartsandtechnology = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2021",
-            "info": "<b>The important dates and admission scheduled disclosed by the RISEBA at the official site are in the table below: </b>",
+            "info": "The important dates and admission scheduled disclosed by the RISEBA at the official site are in the table below:",
             "col": [
                 "Events",
                 "Dates",
@@ -531,6 +539,10 @@ export const risebauniversityofbusinessartsandtechnology = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "RISEBA University of Business, Arts and Technology, Latvia - Reviews" },
@@ -549,6 +561,10 @@ export const risebauniversityofbusinessartsandtechnology = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -578,6 +594,10 @@ export const risebauniversityofbusinessartsandtechnology = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "RISEBA University of Business, Arts and Technology, Latvia - Gallery" },
@@ -596,6 +616,10 @@ export const risebauniversityofbusinessartsandtechnology = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "Scholarship",
@@ -626,6 +650,10 @@ export const risebauniversityofbusinessartsandtechnology = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -677,6 +705,10 @@ export const risebauniversityofbusinessartsandtechnology = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "RISEBA University of Business, Arts and Technology, Latvia - News & Articles" },
@@ -695,6 +727,10 @@ export const risebauniversityofbusinessartsandtechnology = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - Hostel'
+        },
         {
             "type": "list-bollet",
             "title": "Hostel",
@@ -728,9 +764,13 @@ export const risebauniversityofbusinessartsandtechnology = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'RISEBA University of Business, Arts and Technology, Latvia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "RISEBA University of Business, Arts, and Technology - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What other courses are offered at RISEBA?",

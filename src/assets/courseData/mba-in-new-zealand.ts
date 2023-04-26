@@ -5,6 +5,7 @@ export const mbainnewzealand = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '1 or 2 Years',
     "url": "mba-in-new-zealand",
     "info": [
         {
@@ -19,7 +20,7 @@ export const mbainnewzealand = {
         {
             "type": "table-title",
             "title": "MBA in New Zealand 2022: Key Features",
-            "info": "<b>Follow the quick facts for MBA course in New Zealand:</b>",
+            "info": "Follow the quick facts for MBA course in New Zealand:",
             "col": [],
             "row": [
                 ["<b>Degree Awarded</b>", "MBA"],
@@ -34,7 +35,7 @@ export const mbainnewzealand = {
         {
             "type": "list-bollet",
             "title": "Why Study MBA in New Zealand?",
-            "info": "<b>Following are the top benefits of studying MBA Program in New Zealand for Indian students:</b>",
+            "info": "Following are the top benefits of studying MBA Program in New Zealand for Indian students:",
             "data": [
                 "MBA Universities in New Zealand offers a globally recognized degree.",
                 "New Zealand is the world-renowned business education destination that provides a wide range of MBA opportunities and career prospects.",
@@ -46,7 +47,7 @@ export const mbainnewzealand = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following is the eligibility criteria required for applying MBA in New Zealand:</b>",
+            "info": "Following is the eligibility criteria required for applying MBA in New Zealand:",
             "data": [
                 "Applicants must have a bachelor’s degree or equivalent graduate degree certificate.",
                 "Candidates are required to have 2 to 3 years of work experience in the relevant field.",
@@ -57,7 +58,7 @@ export const mbainnewzealand = {
         {
             "type": "step-list",
             "title": "Step-by-Step Admission Process for MBA Course",
-            "info": "<b>Students need to follow the simple & easy guidelines for applying MBA in New Zealand:</b>",
+            "info": "Students need to follow the simple & easy guidelines for applying MBA in New Zealand:",
             "data": [
                 "<b>Step 1:</b> Complete the application form available online on the website.",
 
@@ -76,7 +77,7 @@ export const mbainnewzealand = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following is the document checklists required for applying MBA in New Zealand:</b>",
+            "info": "Following is the document checklists required for applying MBA in New Zealand:",
             "data": [
                 "Original transcripts of schools or college",
                 "Letter of Recommendation",
@@ -153,6 +154,12 @@ export const mbainnewzealand = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in New Zealand 2023 - Top Colleges in New Zealand'
+        },
+
         {
             "type": "table",
             "title": "MBA in New Zealand: Fee Structure (2022-23)",
@@ -205,7 +212,7 @@ export const mbainnewzealand = {
         {
             "type": "number-list",
             "title": "Scholarships Offered for Studying MBA in New Zealand",
-            "info": "<b>Following are the scholarships offered for studying MBA in New Zealand:</b>",
+            "info": "Following are the scholarships offered for studying MBA in New Zealand:",
             "data": [
                 "<strong>Richard A. Freund International Scholarship (PG)</strong><br>The scholarship is awarded to graduate and master degree programs by the American Society in accordance with quality control, quality assurance, quality improvement and quality management.",
                 "<strong>The VaudeVille Future Technology Scholarship 2017</strong><br>The scholarship is awarded to undergraduate and postgraduate students studying in VaudeVille Future Technology. The value of the scholarship is around $1000.",
@@ -233,10 +240,16 @@ export const mbainnewzealand = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in New Zealand 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Course Duration of MBA in New Zealand",
-            "info": "<b>The MBA course duration in New Zealand is of 1 or 2 years. The details about the MBA course durations are discussed below:</b>",
+            "info": "The MBA course duration in New Zealand is of 1 or 2 years. The details about the MBA course durations are discussed below:",
             "data": [
                 "MBA in New Zealand lasts for a duration of 1-2 years.",
                 "The courses taught in the English language.",
@@ -246,7 +259,7 @@ export const mbainnewzealand = {
         {
             "type": "table",
             "title": "MBA in New Zealand: Course Syllabus",
-            "info": "<b>Following is the MBA syllabus taught while studying MBA in New Zealand :</b>",
+            "info": "Following is the MBA syllabus taught while studying MBA in New Zealand :",
             "col": [
                 "1st Semester",
                 "2nd Semester",
@@ -311,7 +324,7 @@ export const mbainnewzealand = {
         {
             "type": "list-bollet",
             "title": "MBA in New Zealand: Specialization Courses",
-            "info": "<b>Take a look at some of the most popular specialized MBA programs in New Zealand:</b>",
+            "info": "Take a look at some of the most popular specialized MBA programs in New Zealand:",
             "data": [
                 "Finance",
                 "Account",
@@ -338,6 +351,12 @@ export const mbainnewzealand = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in New Zealand 2023 - Career Options'
+        },
+
         {
             type: "meta",
             meta: [
@@ -357,10 +376,16 @@ export const mbainnewzealand = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in New Zealand 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBA in New Zealand - Important FAQs",
-            "info": "<b>What will happen when I am not able to attend the MBA studies for a forecast period of time due to reasons like illness or any physical ability? Would the university allow me to continue thereafter?</b>",
+            "info": "What will happen when I am not able to attend the MBA studies for a forecast period of time due to reasons like illness or any physical ability? Would the university allow me to continue thereafter?",
             "data": [
                 {
                     "ques": "Q. What is the duration of an MBA program in New Zealand?",

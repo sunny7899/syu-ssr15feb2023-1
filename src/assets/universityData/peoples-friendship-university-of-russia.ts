@@ -19,7 +19,7 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             "type": "table-title",
             "title": "Peoples' Friendship University - Quick Highlights",
-            "info": "<b>The students should keep the following major facts in the mind for taking admission at Peoples' Friendship University:</b>",
+            "info": "The students should keep the following major facts in the mind for taking admission at Peoples' Friendship University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -34,7 +34,7 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Peoples' Friendship University?",
-            "info": "<b>Go through the favourable reasons why students urge to study MBBS at Peoples' Friendship University:</b>",
+            "info": "Go through the favourable reasons why students urge to study MBBS at Peoples' Friendship University:",
             "data": [
                 "Peoples' Friendship University offers a cost-effective fee structure to worldwide medical aspirants.",
                 "The Peoples' Friendship University is ‘A’ Graded by WHO and among the top medical universities of Moscow.",
@@ -53,7 +53,7 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Following are the accreditation and recognition of Peoples' Friendship University:</b>",
+            "info": "Following are the accreditation and recognition of Peoples' Friendship University:",
             "data": [
                 "World health organization (WHO)",
                 "National Medical Commission (NMC)"
@@ -62,7 +62,7 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             "type": "table",
             "title": "Peoples' Friendship University - Ranking 2022",
-            "info": "<b>According to Uni Rank mentioned below are the country and world ranking of Peoples' Friendship University:</b>",
+            "info": "According to Uni Rank mentioned below are the country and world ranking of Peoples' Friendship University:",
             "col": [
                 "Country",
                 "World"
@@ -83,7 +83,7 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.</b>",
+            "info": "The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -125,7 +125,7 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Here are some best attractions of Moscow city, one must visit-</b>",
+            "info": "Here are some best attractions of Moscow city, one must visit-",
             "data": [
                 "State Historical Museum’s comprehensive collection",
                 "St. Basil’s Cathedral",
@@ -139,7 +139,7 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             "type": "table",
             "title": "Peoples' Friendship University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Peoples' Friendship University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Peoples' Friendship University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -151,33 +151,39 @@ export const peoplesfriendshipuniversityofrussia = {
                     "Name of University": "<b>Peoples' Friendship University</b>",
                     "Appeared": "11",
                     "Total Pass": "4",
-                    "Pass %":"36.36%"
+                    "Pass %": "36.36%"
                 },
             ]
         },
 
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - Hostel, Fees, Rankings" },
                 { name: "description", content: "Established in 1960, The Peoples' Friendship University is Russia's best medical university. It ranks 14th in the country & proven to be a top-ranked university." },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - Hostel, Fees, Rankings"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - Hostel, Fees, Rankings"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia" }
-        ]
-    }
+            ]
+        }
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Peoples' Friendship University in Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Peoples' Friendship University - MBBS Fee Structure 2022",
-            "info": "<b>The Peoples' Friendship University is providing an affordable fee structure to all students:</b>",
+            "info": "The Peoples' Friendship University is providing an affordable fee structure to all students:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -230,7 +236,7 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             type: 'list-bollet',
             title: "Courses offered at Peoples' Friendship University",
-            info: "<b>The Medicine courses available in Peoples' Friendship University are listed below:</b>",
+            info: "The Medicine courses available in Peoples' Friendship University are listed below:",
             data: [
                 "Dentistry",
                 "Medical Business",
@@ -241,17 +247,17 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             type: 'list-bollet',
             title: "Peoples' Friendship University - MBBS Duration",
-            info: "<b>The MBBS course duration mentioned below:</b>",
+            info: "The MBBS course duration mentioned below:",
             data: [
-           "The duration of the medical degree at Peoples' Friendship University is 6 years.",
-           "The students must undergo theoretical and practical classes during 5 years of MBBS course in English language of instruction.",
-           "After successfully completing the medical course the students are involved In 1 year of internship compulsory."
+                "The duration of the medical degree at Peoples' Friendship University is 6 years.",
+                "The students must undergo theoretical and practical classes during 5 years of MBBS course in English language of instruction.",
+                "After successfully completing the medical course the students are involved In 1 year of internship compulsory."
             ]
         },
         {
             "type": "table",
             "title": "Peoples' Friendship University - MBBS Syllabus",
-            "info": "<b>Here is the syllabus pattern for MBBS course in People's friendship University mentioned below in the table:</b><br>1st Year",
+            "info": "Here is the syllabus pattern for MBBS course in People's friendship University mentioned below in the table:</b><br>1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -336,28 +342,34 @@ export const peoplesfriendshipuniversityofrussia = {
                 ["Emergency Medicine", "Cardiology"]
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - courses & Fees" },
                 { name: "description", content: "The Peoples' Friendship University offers a range of courses across a variety of disciplines, including business, arts, humanities, and more. Check available courses and fees" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - courses & Fees"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - courses & Fees"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/courses-and-fees" }
-        ]
-    }
+            ]
+        }
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Peoples' Friendship University in Russia - Admission 2023 "
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>Students have to set in the following eligibility criteria to get admission in MBBS:</b>',
+            info: 'Students have to set in the following eligibility criteria to get admission in MBBS:',
             data: [
                 "The candidates must be 17 years above or take admission before 31st December to do MBBS in Russia.",
                 "Every candidate must score more than 50% in HSC exam or in similar courses with Physics, Chemistry, Biology and English as compulsory subjects can apply for the admission process for MBBS in Russia.",
@@ -367,20 +379,20 @@ export const peoplesfriendshipuniversityofrussia = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: "<b>The students must follow the steps mentioned below to take admission for MBBS course at Peoples' Friendship University:</b>",
+            info: "The students must follow the steps mentioned below to take admission for MBBS course at Peoples' Friendship University:",
             data: [
-               "Step 1: Fill up the online admission forms on the official website of Peoples' Friendship University.",
-               "Step 2: The Applicants must submit all important academic documents.",
-               "Step 3: Candidates will get the invitation letter within 2 weeks of time.",
-               "Step 4:After getting an invitation letter students have to pay the tuition fee of the academy.",
-               "Step 5: With the original receipt of fee payment and invitation letter of the university, students can apply for the student visa process.",
-               "Step 6: Get the valid passport and fly for your dreams"
+                "Step 1: Fill up the online admission forms on the official website of Peoples' Friendship University.",
+                "Step 2: The Applicants must submit all important academic documents.",
+                "Step 3: Candidates will get the invitation letter within 2 weeks of time.",
+                "Step 4:After getting an invitation letter students have to pay the tuition fee of the academy.",
+                "Step 5: With the original receipt of fee payment and invitation letter of the university, students can apply for the student visa process.",
+                "Step 6: Get the valid passport and fly for your dreams"
             ]
         },
         {
             type: 'step-list',
             title: 'Documents Required',
-            info: '<b>Students need to have the following documents for the admission process:</b>',
+            info: 'Students need to have the following documents for the admission process:',
             data: [
                 "SSC mark sheet",
                 "HSC mark sheet",
@@ -390,13 +402,13 @@ export const peoplesfriendshipuniversityofrussia = {
                 "Valid Student Visa",
                 "7 Passport size photos",
                 "Tuition fee payment receipt",
-                "Medical certificate"               
+                "Medical certificate"
             ]
         },
         {
             "type": "table",
             "title": "Peoples' Friendship University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Peoples' Friendship University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Peoples' Friendship University:",
             "col": [
                 "Events",
                 "Dates"
@@ -416,100 +428,130 @@ export const peoplesfriendshipuniversityofrussia = {
                 },
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - Admission 2023 " },
                 { name: "description", content: "Admission Procedure (2023-24) · After registration, it takes 1 to 15 days for the review process. Click Here TO REGISTER" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - Admission 2023 "},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - Admission 2023 "
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/admission" }
-        ]
-    }
+            ]
+        }
     ],
     "review": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Peoples' Friendship University in Russia - Reviews"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - Reviews" },
                 { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - Reviews"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - Reviews"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/reviews" }
-        ]
-    }
+            ]
+        }
     ],
     "gallery": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Peoples' Friendship University in Russia - Gallery"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - Gallery" },
                 { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - Gallery"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - Gallery"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/gallery" }
-        ]
-    }
+            ]
+        }
     ],
     "faculty": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Peoples' Friendship University in Russia - Faculty"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - Faculty" },
                 { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - Faculty"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - Faculty"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/faculty" }
-        ]
-    }
+            ]
+        }
     ],
     "news": [
-        { 
-            type:"meta",
+        {
+            type: 'title',
+            title: "Peoples' Friendship University in Russia - News & Articles"
+
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - News & Articles" },
                 { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - News & Articles"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - News & Articles"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/news-and-articles" }
-        ]
-    }
+            ]
+        }
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Peoples' Friendship University in Russia - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accommodation Facility',
-            info: "<b>Peoples' Friendship university providing offers the best accommodation facilities along with basic amenities required for International Students:</b>",
+            info: "Peoples' Friendship university providing offers the best accommodation facilities along with basic amenities required for International Students:",
             data: [
                 "Fully furnished and aesthetically designed hostel facilities on the university campus on a sharing basis.",
                 "The international students are provided beds on a sharing basis.",
@@ -537,28 +579,34 @@ export const peoplesfriendshipuniversityofrussia = {
                 "hostel"
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - Hostel" },
                 { name: "description", content: "This college provides an excellent Hostel and Accommodation facilities, students can take advantage of it. Check detailed accomodation" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - Hostel"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - Hostel"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/hostel" }
-        ]
-    }
+            ]
+        }
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Peoples' Friendship University in Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Peoples' Friendship University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the annual cost of MBBS study at Peoples' Friendship University?",
@@ -586,22 +634,23 @@ export const peoplesfriendshipuniversityofrussia = {
                 },
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - FAQ" },
                 { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - FAQ"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - FAQ"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/faq" }
-        ]
-    }
+            ]
+        }
     ],
     "placement": [
         {
@@ -614,22 +663,23 @@ export const peoplesfriendshipuniversityofrussia = {
                 "Graduates of Peoples' Friendship University may work at its own hospital. As a result, people who have finished their degrees are eligible to study at Peoples' Friendship University."
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - Placement" },
                 { name: "description", content: "Placement in the college is best because it has a record of 100% placement, Check top recruiters " },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - Placement"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - Placement"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/placement" }
-        ]
-    }
+            ]
+        }
     ],
     "scholarship": [
         {
@@ -641,21 +691,22 @@ export const peoplesfriendshipuniversityofrussia = {
                 "Scholarship from the Russian Federation: This scholarship covers tuition for the whole period of study."
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Peoples' Friendship University in Russia - Scholarship" },
                 { name: "description", content: "college has a partnership with Siemens they provide scholarships who come from lower economical backgrounds. Check scholarship and bursary" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Peoples' Friendship University in Russia - Scholarship"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Peoples' Friendship University in Russia - Scholarship"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/scholarship" }
-        ]
-    }
+            ]
+        }
     ]
 }

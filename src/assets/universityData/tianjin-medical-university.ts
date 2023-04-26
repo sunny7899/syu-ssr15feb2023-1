@@ -16,11 +16,10 @@ export const tianjinmedicaluniversity = {
             "title": "",
             "data": "<p>In 1951, <b>Tianjin Medical University</b> was founded. Tianjin Medical University is among some of the best and top universities in China. Tianjin Medical University consists of highly experienced and well-trained faculty members.</p><p>At this university, not just the students but the teachers, are encouraged to develop out of the box approach to the various medical problems that arise from time to time. Tianjin Medical University is recognized by the World Health Organization and the Medical Council of India. The MBBS course at Tianjin Medical University is of six years and the medium of instruction for all foreign students at this university is English.</p>"
         },
-
         {
             "type": "table-title",
             "title": "Tianjin Medical University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Tianjin Medical University:</b>",
+            "info": "Given below is the table for quick facts about Tianjin Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September, 2020"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -37,7 +36,7 @@ export const tianjinmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS Course at Tianjin Medical University?',
-            info: '<b>Below are some of the benefits of studying at Tianjin Medical University:</b>',
+            info: 'Below are some of the benefits of studying at Tianjin Medical University:',
             data: [
                 "Tianjin Medical University’s administration pays great attention to the safety of the students and hence holds them accountable for any misbehavior.",
                 "The students neither have to appear for any additional entrance exam nor they are required to pay any donation, which makes the admission process a little easier.",
@@ -51,7 +50,7 @@ export const tianjinmedicaluniversity = {
         {
             "type": "table",
             "title": "Tianjin Medical University - Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Tianjin Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Tianjin Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -73,7 +72,7 @@ export const tianjinmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Tianjin Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>',
+            info: 'Tianjin Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:',
             data: [
                 "World Health Organization",
                 "State Council of the People’s Republic of China",
@@ -85,7 +84,7 @@ export const tianjinmedicaluniversity = {
             type: 'list-bollet',
             title: 'About Tianjin City',
             img: 'tianjin-medical-university-city.jpg',
-            info: '<b>Below are some noticeable things about Kazan city:</b>',
+            info: 'Below are some noticeable things about Kazan city:',
             data: [
                 "Tianjin is a city located in China along the northern coast.",
                 "It is one of the four municipalities in China.",
@@ -116,17 +115,17 @@ export const tianjinmedicaluniversity = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/tianjin-medical-university" }
             ]
         }
-
-
-
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Tianjin Medical University - courses & Fees'
+        },
+        {
+            
             "type": "table",
             "title": "Tianjin Medical University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Tianjin Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Tianjin Medical University for MBBS program is given in the table below:",
             "col": [
 
                 "Particular",
@@ -203,7 +202,7 @@ export const tianjinmedicaluniversity = {
         {
             "type": 'text',
             "title": 'Tianjin Medical University - MBBS Syllabus',
-            "data": '<b>The complete syllabus for studying MBBS at Tianjin Medical University is as follows:</b>',
+            "data": 'The complete syllabus for studying MBBS at Tianjin Medical University is as follows:',
         },
         {
             "type": "table",
@@ -320,7 +319,7 @@ export const tianjinmedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Faculties at Tianjin Medical University',
-            "info": '<b>Below are the courses at Tianjin Medical University, China:</b>',
+            "info": 'Below are the courses at Tianjin Medical University, China:',
             "data": [
                 "Clinical Medicine",
                 "Medical",
@@ -352,9 +351,13 @@ export const tianjinmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Tianjin Medical University - Admission 2023'
+        },
+        {
             "type": "table",
             "title": "Important Dates - Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Tianjin Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Tianjin Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -382,7 +385,7 @@ export const tianjinmedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>The eligibility criteria to study MBBS at Tianjin Medical University is as follows:</b>',
+            "info": 'The eligibility criteria to study MBBS at Tianjin Medical University is as follows:',
             "data": [
                 "Students must have completed 12th standard of their education or any equivalent education with a minimum of 50% aggregate marks.",
                 "Students must have studied Physics, Chemistry, and Biology as their main subjects.",
@@ -396,7 +399,7 @@ export const tianjinmedicaluniversity = {
         {
             "type": 'step-list',
             "title": 'How to Apply for MBBS Admission at Tianjin Medical University?',
-            "info": '<b>Following is the admission procedure for applying to MBBS course at Tianjin Medical University:</b>',
+            "info": 'Following is the admission procedure for applying to MBBS course at Tianjin Medical University:',
             "data": [
                 "<b>Step 1:</b> Students who fit in the required eligibility criteria for Tianjin Medical University must fill the application form of the university.",
                 "<b>Step 2:</b> Students must upload the required application documents.",
@@ -411,7 +414,7 @@ export const tianjinmedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Required Documents',
-            "info": '<b>Following documents are required at the time of admission to Tianjin Medical University:</b>',
+            "info": 'Following documents are required at the time of admission to Tianjin Medical University:',
             "data": [
                 "Health Certificate of students",
                 "Passport size photos",
@@ -450,6 +453,10 @@ export const tianjinmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Tianjin Medical University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tianjin Medical University - Reviews" },
@@ -468,6 +475,10 @@ export const tianjinmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Tianjin Medical University - Placement'
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -498,6 +509,10 @@ export const tianjinmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Tianjin Medical University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tianjin Medical University - Gallery" },
@@ -517,9 +532,13 @@ export const tianjinmedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Tianjin Medical University - Scholarship'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Scholarships',
-            "info": "<b>Following scholarships are offered at Tianjin Medical University:</b>",
+            "info": "Following scholarships are offered at Tianjin Medical University:",
             "data": [
                 "To further improve the talent cultivation, cultural exchange, scientific research, and social service, and in order to promote the development of higher education of International students in Tianjin, Tianjin Government has set up the Scholarship named ‘Tianjin Government Scholarship’ (TGS) for International students.",
             ]
@@ -527,7 +546,7 @@ export const tianjinmedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Tianjin Government Scholarship',
-            "info": "<b>There are some eligibility criterias for this scholarship:</b>",
+            "info": "There are some eligibility criterias for this scholarship:",
             "data": [
                 "Applicants for undergraduate programs must have senior high school diploma with good academic performance and their age must be under 30.",
                 "Applicants for master’s degree programs must have a bachelor degree and their age must be under 35 with two letters of recommendation from professors or associate professors.",
@@ -554,6 +573,10 @@ export const tianjinmedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Tianjin Medical University - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -617,6 +640,10 @@ export const tianjinmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Tianjin Medical University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tianjin Medical University - News & Articles" },
@@ -636,9 +663,13 @@ export const tianjinmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Tianjin Medical University - Hostel'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel & Accommodation',
-            "info": "<b>Following are the hostel facilities at Tianjin Medical University:</b>",
+            "info": "Following are the hostel facilities at Tianjin Medical University:",
             "data": [
                 "In order to make the international students adapt to the new environment and for their safety's sake, they must reside in the International Students' Building Dormitory for the first academic year.",
                 "International students can freely make their choices of either staying on-campus or off-campus after one year.",
@@ -651,7 +682,7 @@ export const tianjinmedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Life of Students at Tianjin Medical University',
-            "info": "<b>Students live an excellent life at Tianjin medical university as it provides many facilities to its students:</b>",
+            "info": "Students live an excellent life at Tianjin medical university as it provides many facilities to its students:",
             "data": [
                 "At Tianjin Medical University, there are over 20,000 students studying medicine.",
                 "From over 40 countries, till now, over 750 students have taken admission in Tianjin Medical University.",
@@ -668,7 +699,7 @@ export const tianjinmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Tianjin City",
-            "info": "<b>The cost of living at Tianjin city is as follows:</b>",
+            "info": "The cost of living at Tianjin city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -716,9 +747,13 @@ export const tianjinmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Tianjin Medical University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What documents are required for a visa to China to study MBBS at Tianjin Medical University?",

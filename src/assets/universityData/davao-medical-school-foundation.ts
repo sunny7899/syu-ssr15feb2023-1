@@ -14,14 +14,14 @@ export const davaomedicalschoolfoundation = {
 
         {
             "type": 'text',
-            "title": 'About Davao Medical School Foundation, Philippines',
+            "title": '',
             "data": '<p><b>Davao Medical School Foundation</b> was the first medical college located in the city of Mindanao and was established in the year of 1976. Davao Medical School Foundation is the best choice for MBBS as the medical aspirants in this university receive clinical training at the southern Philippines medical center, the Brokenshire Memorial hospital, and San Pedro hospital with 4000 beds.</p><p>The admission process of the Davao Medical School Foundation has started accepting the applications for admission.</p>'
         },
 
         {
             "type": "table-title",
-            "title": "Davao Medical School Foundation - Quick Highlights 2022",
-            "info": "<b>Refer to the table below for quick facts about Davao Medical School Foundation:</b>",
+            "title": "Davao Medical School Foundation - Quick Highlights 2023",
+            "info": "Refer to the table below for quick facts about Davao Medical School Foundation:",
             "col": [
             ],
             "row": [
@@ -32,7 +32,7 @@ export const davaomedicalschoolfoundation = {
                 ["<b>Admission Fees	</b>", "2900 USD"],
                 ["<b>Duration Of MBBS Course</b>", "6 Years"],
                 ["<b>Medium Of Teaching</b>", "English"],
-                ["<b>University Ranking</b>", "Country Rank - 162<>br> World Rank - 11629"],
+                ["<b>University Ranking</b>", "Country Rank - 87<>br> World Rank - 9016"],
                 ["<b>University Recognition</b>", "NMC & WHO"],
             ]
         },
@@ -40,7 +40,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Davao Medical School Foundation?",
-            "info": "<b>Following are the benefits of Davao Medical School Foundation:</b>",
+            "info": "Following are the benefits of Davao Medical School Foundation:",
             "data": [
                 "Davao Medical School University ranked at 134th position among top medical universities of the Philippines.",
                 "NMC & WHO recognized medical colleges.",
@@ -56,7 +56,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "table",
             "title": "Davao Medical School Foundation - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Davao Medical School Foundatione of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Davao Medical School Foundatione of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -77,16 +77,16 @@ export const davaomedicalschoolfoundation = {
 
         {
             "type": "table",
-            "title": "Davao Medical School Foundation - Ranking 2022",
-            "info": "<b>As per ranking web of universities the country and world ranking are given below:</b>",
+            "title": "Davao Medical School Foundation - Ranking 2023",
+            "info": "As per ranking web of universities the country and world ranking are given below:",
             "col": [
                 "Country",
                 "World",
             ],
             "row": [
                 {
-                    "Country": "162",
-                    " World": "11629",
+                    "Country": "87",
+                    " World": "9016",
                 },
             ]
         },
@@ -94,27 +94,27 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "table",
             "title": "Cost of Living in Mindanao",
-            "info": "<b>The expenses of living in Mindanao are given below: </b>",
+            "info": "The expenses of living in Mindanao are given below: ",
             "col": [
                 "Particulars",
-                "Approx Range in USD",
+                "Approx Range in Peso",
                 "Approx Range in INR",
             ],
             "row": [
                 {
                     "Particulars": "<b>Accommodation (other than a hostel)</b>",
-                    " Approx Range in USD": "12,825.00 ₱",
-                    " Approx Range in INR": "rs 17,500",
+                    "Approx Range in Peso": "12,825.00 ₱",
+                    "Approx Range in INR": "rs 17,500",
                 },
                 {
                     "Particulars": "<b>Food</b>",
-                    " Approx Range in USD": "147.50 ₱",
-                    " Approx Range in INR": "rs 140",
+                    "Approx Range in Peso": "147.50 ₱",
+                    "Approx Range in INR": "rs 140",
                 },
                 {
                     "Particulars": "<b>Transport</b>",
-                    " Approx Range in USD": "8.00 ₱",
-                    " Approx Range in INR": "rs 11.2",
+                    "Approx Range in Peso": "8.00 ₱",
+                    "Approx Range in INR": "rs 11.2",
                 },
             ],
             "heading": "<p><b>Note:</b>Philippino peso = inr 1.41</p>"
@@ -128,7 +128,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Here are some best places near Davao city:</b>",
+            "info": "Here are some best places near Davao city:",
             "data": [
                 "Manila",
                 "Boracay",
@@ -162,9 +162,13 @@ export const davaomedicalschoolfoundation = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Davao Medical School Foundation - MBBS Fee Structure",
-            "info": "<b>Following table shows the fee structure of studying MBBS at Davao Medical School Foundation, Philippines: </b>",
+            "info": "Following table shows the fee structure of studying MBBS at Davao Medical School Foundation, Philippines: ",
             "col": [
                 "Particulars",
                 "1st Year",
@@ -209,12 +213,23 @@ export const davaomedicalschoolfoundation = {
                 },
 
             ],
-            "heading": "<p><b>Note: </b><br>The tuition fee should be paid only in US dollars.<br>usd to peso and inr to usd will be calculated as per bank actual rate real-time<br>indian students can also apply for premium hostel facilities<br>1 USD = 70 INR (approx)</p>"
         },
         {
             "type": "list-bollet",
+            "title": "",
+            "info": "Note:",
+            "data": [
+                "The tuition fee should be paid only in US dollars.",
+                "usd to peso and inr to usd will be calculated as per bank actual rate real-time",
+                "indian students can also apply for premium hostel facilities",
+                "1 USD = 70 INR (approx)",
+            ]
+        },
+        
+        {
+            "type": "list-bollet",
             "title": "Courses Offered at Davao Medical School Foundation",
-            "info": "<b>Following are faculties of medicine of Davao Medical School Foundation:</b>",
+            "info": "Following are faculties of medicine of Davao Medical School Foundation:",
             "data": [
                 "Biology",
                 "Dentistry",
@@ -230,12 +245,12 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "text",
             "title": "Davao Medical School Foundation - MBBS Syllabus",
-            "info": "<b>Syllabus of md program at Davao Medical School Foundation is given below:</b>",
+            "info": "Syllabus of md program at Davao Medical School Foundation is given below:",
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b>Syllabus For Pre-Medical</b>",
+            "info": "Syllabus For Pre-Medical",
             "col": [
                 "First Term",
                 "Second  Term",
@@ -244,134 +259,137 @@ export const davaomedicalschoolfoundation = {
             ],
             "row": [
                 {
-                    "First Term": "-Calculus & Analytical",
-                    "Second  Term": "-Plant Physiology",
-                    "Third  Term": "-Ecology",
-                    "Fourth  Term": "-Rizal's Life, Works, And Writings"
+                    "First Term": "Calculus & Analytical",
+                    "Second  Term": "Plant Physiology",
+                    "Third  Term": "Ecology",
+                    "Fourth  Term": "Rizal's Life, Works, And Writings"
                 },
                 {
-                    "First Term": "-Geometry",
-                    "Second  Term": "-Fundamentals Of Genetics",
-                    "Third  Term": "-Education For Sustainable",
-                    "Fourth  Term": "-Econ. / Taxation & Agrarian Reform"
+                    "First Term": "Geometry",
+                    "Second  Term": "Fundamentals Of Genetics",
+                    "Third  Term": "Education For Sustainable",
+                    "Fourth  Term": "Econ. / Taxation & Agrarian Reform"
                 },
                 {
-                    "First Term": "-Biochemistry",
-                    "Second  Term": "-Animal Physiology",
-                    "Third  Term": "-Development",
-                    "Fourth  Term": "-Econ. / Taxation & Agrarian Reform"
+                    "First Term": "Biochemistry",
+                    "Second  Term": "Animal Physiology",
+                    "Third  Term": "Development",
+                    "Fourth  Term": "Econ. / Taxation & Agrarian Reform"
                 },
                 {
-                    "First Term": "-Plant Morpho-anatomy",
-                    "Second  Term": "-Entomology",
-                    "Third  Term": "-Research Methodology",
-                    "Fourth  Term": "-Human Genetic"
+                    "First Term": "Plant Morpho-anatomy",
+                    "Second  Term": "Entomology",
+                    "Third  Term": "Research Methodology",
+                    "Fourth  Term": "Human Genetic"
                 },
                 {
-                    "First Term": "-Comparative Vertebrate Anatomy",
-                    "Second  Term": "-Freshwater Biology",
-                    "Third  Term": "-Systematic Biology",
-                    "Fourth  Term": "-Radiation Biology"
+                    "First Term": "Comparative Vertebrate Anatomy",
+                    "Second  Term": "Freshwater Biology",
+                    "Third  Term": "Systematic Biology",
+                    "Fourth  Term": "Radiation Biology"
                 },
                 {
-                    "First Term": "-General Psychology",
-                    "Second  Term": "-General Microbiology",
-                    "Third  Term": "-Cell And Molecular Biology",
-                    "Fourth  Term": "-Histology & Micro-technique"
+                    "First Term": "General Psychology",
+                    "Second  Term": "General Microbiology",
+                    "Third  Term": "Cell And Molecular Biology",
+                    "Fourth  Term": "Histology & Micro-technique"
                 },
                 {
-                    "First Term": "-Parasitology",
-                    "Second  Term": "-Philosophy Of Man",
-                    "Third  Term": "-Comparative Religion",
-                    "Fourth  Term": "-Research In Bio. Sc. (Thesis Writing) Immunology"
+                    "First Term": "Parasitology",
+                    "Second  Term": "Philosophy Of Man",
+                    "Third  Term": "Comparative Religion",
+                    "Fourth  Term": "Research In Bio. Sc. (Thesis Writing) Immunology"
                 },
                 {
-                    "First Term": "-Plant Morpho-anatomy",
-                    "Second  Term": "-Developmental Biology",
-                    "Third  Term": "-Politics And Governance",
+                    "First Term": "Plant Morpho-anatomy",
+                    "Second  Term": "Developmental Biology",
+                    "Third  Term": "Politics And Governance",
                 },
             ]
         },
         {
             "type": "table",
-            "title": "<b>MBBS (MD) Syllabus</b>",
+            "title": "MBBS (MD) Syllabus",
             "info": "",
             "col": [
                 "1st semester",
                 "2nd semester",
-                "3nd semester",
-                "4nd semester",
+                "3rd semester",
+                "4th semester",
             ],
             "row": [
                 {
-                    "First Term": "Anatomy",
-                    "Second  Term": "Pharmacology",
-                    "Third  Term": "-Pediatrics-2",
-                    "Fourth  Term": "-Surgery"
+                    "1st semester": "Anatomy",
+                    "2nd semester": "Pharmacology",
+                    "3rd semester": "Pediatrics-2",
+                    "4th semester": "Surgery"
                 },
                 {
-                    "First Term": "Histology",
-                    "Second  Term": "General and -Clinical ",
-                    "Third  Term": "-Surgery-2",
-                    "Fourth  Term": "-Medicine"
+                    "1st semester": "Histology",
+                    "2nd semester": "General and -Clinical ",
+                    "3rd semester": "Surgery-2",
+                    "4th semester": "Medicine"
                 },
                 {
-                    "First Term": "Biochemistry",
-                    "Second  Term": "Pathology",
-                    "Third  Term": "-Medicine-2",
-                    "Fourth  Term": "-Psychiatry"
+                    "1st semester": "Biochemistry",
+                    "2nd semester": "Pathology",
+                    "3rd semester": "Medicine-2",
+                    "4th semester": "Psychiatry"
                 },
                 {
-                    "First Term": "Psychiatry",
-                    "Second  Term": "Parasitology",
-                    "Third  Term": "-Internal medicine",
-                    "Fourth  Term": "-Ophthalmology"
+                    "1st semester": "Psychiatry",
+                    "2nd semester": "Parasitology",
+                    "3rd semester": "Internal medicine",
+                    "4th semester": "Ophthalmology"
                 },
                 {
-                    "First Term": "Physiology",
-                    "Second  Term": "-Medicine-1",
-                    "Third  Term": "-Legal medicine",
-                    "Fourth  Term": "-Paediatrics"
+                    "1st semester": "Physiology",
+                    "2nd semester": "Medicine-1",
+                    "3rd semester": "Legal medicine",
+                    "4th semester": "Paediatrics"
                 },
 
                 {
-                    "First Term": "Neuroscience",
-                    "Second  Term": "-Epidemiology",
-                    "Third  Term": "-Dermatology",
-                    "Fourth  Term": "-Obstetrics and Gynecology"
+                    "1st semester": "Neuroscience",
+                    "2nd semester": "Epidemiology",
+                    "3rd semester": "Dermatology",
+                    "4th semester": "Obstetrics and Gynecology"
                 },
                 {
-                    "First Term": "-History of medicine",
-                    "Second  Term": "Microbiology",
-                    "Third  Term": "-Radiology",
+                    "1st semester": "History of medicine",
+                    "2nd semester": "Microbiology",
+                    "3rd semester": "Radiology",
+                    "4th semester": "-"
                 },
                 {
-                    "First Term": "-Preventive and Communicative ",
-                    "Second  Term": "Pharmacology",
-                    "Third  Term": "-Neuroscience-3",
+                    "1st semester": "Preventive and Communicative ",
+                    "2nd semester": "Pharmacology",
+                    "3rd semester": "Neuroscience-3",
+                    "4th semester": "-"
                 },
                 {
-                    "First Term": "Medicine -Bioethics",
-                    "Second  Term": "-Pediatrics-1",
-                    "Third  Term": "-Cardiology",
+                    "1st semester": "Medicine -Bioethics",
+                    "2nd semester": "Pediatrics-1",
+                    "3rd semester": "Cardiology",
+                    "4th semester": "-"
                 },
                 {
-                    "First Term": "",
-                    "Second  Term": "-Neuroscience 2",
-                    "Third  Term": "-Advanced pathology",
-                    "Fourth  Term": ""
+                    "1st semester": "-",
+                    "2nd semester": "Neuroscience 2",
+                    "3rd semester": "Advanced pathology",
+                    "4th semester": "-"
                 },
                 {
-                    "First Term": "",
-                    "Second  Term": "-Psychiatry",
-                    "Third  Term": "-Ophthalmology",
-                    "Fourth  Term": ""
+                    "1st semester": "-",
+                    "2nd semester": "Psychiatry",
+                    "3rd semester": "Ophthalmology",
+                    "4th semester": "-"
                 },
                 {
-                    "First Term": "",
-                    "Second  Term": "",
-                    "Third  Term": "-Obstetrics and Gynecology",
-                    "Fourth  Term": ""
+                    "1st semester": "-",
+                    "2nd semester": "-",
+                    "3rd semester": "Obstetrics and Gynecology",
+                    "Fourth  Term": "-"
                 },
             ]
         },
@@ -381,13 +399,13 @@ export const davaomedicalschoolfoundation = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Davao Medical School Foundation, Philippines - courses & Fees" },
+                { name: "title", content: "Davao Medical School Foundation, Philippines - Courses & Fees 2023" },
                 { name: "description", content: "Davao Medical College is Philippines' NMC and WHO approved medical college  ; Tuition Fee with Hostel. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "Davao Medical School Foundation, Philippines - courses & Fees"
+            title: "Davao Medical School Foundation, Philippines - Courses & Fees 2023"
         },
         {
             type: "meta-links",
@@ -398,9 +416,13 @@ export const davaomedicalschoolfoundation = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission in Davao Medical School Foundation for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission in Davao Medical School Foundation for MBBS:",
             "data": [
                 "The age of students must be 18 years.",
                 "Should have passing marks in all subjects in 12th grade.",
@@ -415,7 +437,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>follow these steps to take admission in Philippines for MBBS:</b>",
+            "info": "follow these steps to take admission in Philippines for MBBS:",
             "data": [
                 "<b>Step 1:</b>The student should submit the application to the chairman of the committee with the above documents to the secretary.",
                 "<b>Step 2:</b>An orientation program is conducted for the applicants and their parents/guardian.",
@@ -426,7 +448,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students need to have the following documents for the admission process:</b>",
+            "info": "Students need to have the following documents for the admission process:",
             "data": [
                 "Academic documents of 11th and 12th",
                 "Birth certificate",
@@ -459,6 +481,20 @@ export const davaomedicalschoolfoundation = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Reviews"
+        },
+        {
+            "type": "list-bollet",
+            "title": "Reviews on Davao Medical School Foundation",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+                "<b>Dipali SIngh</b><p>I had a fantastic experience at the Davao Medical School Foundation. The teachers were instructive and helpful.</p>",
+                "<b>Aryan Shahu</b><p>Anybody looking for a top-notch medical education should give the Davao Medical School Foundation significant consideration.</p>",
+                "<b>Sankesh Shah</b><p>The facilities at Davao Medical School Foundation are excellent, and the staff is welcoming. The entire time I was there, I got fantastic care.</p>",
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Davao Medical School Foundation, Philippines - Reviews" },
@@ -477,6 +513,21 @@ export const davaomedicalschoolfoundation = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Placement"
+        },
+
+        {
+            "type": "list-bollet",
+            "title": "Davao Medical School Foundation Placements",
+            "info": "",
+            "data": [
+                "Graduates might return to India and seek work after completing their various degrees.",
+                "Internships and jobs in and around the Philippines are encouraged for students at the Davao Medical School Foundation.",
+            ]
+        },
+
         {
             type: "meta",
             meta: [
@@ -497,6 +548,49 @@ export const davaomedicalschoolfoundation = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Gallery"
+        },
+
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/davao-medical-school-foundation-building.jpg",
+                    "alt": "Davao Medical School Foundation Building"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/davao-medical-school-foundation-classroom.jpg",
+                    "alt": "Davao Medical School Foundation Classroom"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/davao-medical-school-foundation-hospital.jpg",
+                    "alt": "Davao Medical School Foundation Hospital"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/davao-medical-school-foundation-library.jpg",
+                    "alt": "Davao Medical School Foundation Library"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/davao-medical-school-foundation-students.jpg",
+                    "alt": "Davao Medical School Foundation Students"
+                }
+            ],
+            "video": [
+                // {
+                //     "type": "video",
+                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                //     "alt": "Image 1"
+                // },
+                
+            ]
+        },
+
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Davao Medical School Foundation, Philippines - Gallery" },
@@ -516,6 +610,10 @@ export const davaomedicalschoolfoundation = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Davao Medical School Foundation, Philippines - News & Articles" },
@@ -524,7 +622,7 @@ export const davaomedicalschoolfoundation = {
         },
         {
             type: "meta-title",
-            title: "Davao Medical School Foundation, Philippines - Admission 2023 "
+            title: "Davao Medical School Foundation, Philippines - News & Articles"
         },
         {
             type: "meta-links",
@@ -535,6 +633,10 @@ export const davaomedicalschoolfoundation = {
     ],
 
     "scholarship": [
+        {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Scholarship "
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -564,9 +666,13 @@ export const davaomedicalschoolfoundation = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Faculty"
+        },
+        {
             "type": "number-list",
             "title": "Faculty ",
-            "info": "<b>Department of Physiology</b>",
+            "info": "Department of Physiology",
             "data": [
                 "Hontiveros Erwin Rommel Dr Lab Instructor/Lecturer",
                 "Lim Ma. Victoria Dr Lab Instructor/Lecturer",
@@ -575,7 +681,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "number-list",
             "title": " ",
-            "info": "<b>Department of Biochemistry</b>",
+            "info": "Department of Biochemistry",
             "data": [
                 "Amor Mayen Dr Lab Instructor/Lecturer",
                 "Bañes Charlotte Dr Lab Instructor/Lecturer",
@@ -584,7 +690,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "number-list",
             "title": " ",
-            "info": "<b>Gross Anatomy Section</b>",
+            "info": "Gross Anatomy Section",
             "data": [
                 "Ababon Fides Dr Lab Instructor/Lecturer",
                 "Ababon Myles Clement Dr Lab Instructor/Lecturer",
@@ -593,7 +699,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "number-list",
             "title": " ",
-            "info": "<b>Neuro-Anatomy Section</b>",
+            "info": "Neuro-Anatomy Section",
             "data": [
                 "Ababon Fides Dr Lab Instructor/Lecturer",
                 "Ababon Myles Clement Dr Lab Instructor/Lecturer",
@@ -619,9 +725,13 @@ export const davaomedicalschoolfoundation = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Davao Medical School Foundation provides the facilities of accommodation and mess for students:</b>",
+            "info": "Davao Medical School Foundation provides the facilities of accommodation and mess for students:",
             "data": [
                 "Hostels provide homely comfort to all medical aspirants coming from different parts of the world to pursue their dreams.",
                 "Affordable hostel system with fully furnished rooms.",
@@ -667,9 +777,13 @@ export const davaomedicalschoolfoundation = {
 
     "faq": [
         {
+            type: 'title',
+            title: "Davao Medical School Foundation, Philippines - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Davao Medical School Foundation - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q.What is the degree offered at Davao Medical School Foundation?",

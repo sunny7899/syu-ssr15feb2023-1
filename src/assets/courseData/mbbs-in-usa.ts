@@ -5,6 +5,7 @@ export const mbbsinusa = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
+    "Duration":"4.5 + 1 Year Internship",
     "url": "mbbs-in-usa",
     "info": [
         {
@@ -64,7 +65,7 @@ export const mbbsinusa = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria for MBBS Admission in USA",
-            "info": "<b>Students who want to get an admission in a top medical college in USA, students should fit in the following eligibility criteria:</b>",
+            "info": "Students who want to get an admission in a top medical college in USA, students should fit in the following eligibility criteria:",
             //"img": 'https://www.selectyouruniversity.com/images/USA/eligibility-criteria-to-study-mbbs-in-usa.jpg',
             "data": [
                 "He/she should have obtained minimum <strong>50% marks in 12th standard</strong> from any recognized Indian central or State Board with Biology, Physics and Chemistry as compulsory subjects.",
@@ -80,7 +81,7 @@ export const mbbsinusa = {
         {
             "type": 'step-list',
             "title": 'Application Procedure to Study Medicine in USA',
-            "info": '<b>Universities and medical institutions in USA have a streamlined admission process:</b>',
+            "info": 'Universities and medical institutions in USA have a streamlined admission process:',
             "data": [
                 "<b>Step 1:</b> The first step is students need to fill out the forms and send the application to as many universities they wish to so that the chances of responses are higher.",
                 "<b>Step 2:</b> At the same time, students must keep this in mind that, the intake rate of international students in medical universities of USA is very low.",
@@ -95,7 +96,7 @@ export const mbbsinusa = {
             "type": 'list-bollet',
             "title": 'Required Documents to get USA Student Visa',
             //img: 'https://www.selectyouruniversity.com/images/USA/document-required-for-mbbs-admission-in-usa.jpg',
-            "info": '<p>There are many different rules including governmental or legal interface to provide the Student Visa to USA, as USA is a Superpower nation and the world’s best country. Students would get F-Class USA student visa who want to pursue MBBS in USA.</p><br><b>To get the USA student visa, following are the general requirements:</b>',
+            "info": 'There are many different rules including governmental or legal interface to provide the Student Visa to USA, as USA is a Superpower nation and the world’s best country. Students would get F-Class USA student visa who want to pursue MBBS in USA.</p><br><b>To get the USA student visa, following are the general requirements:',
             "data": [
                 "Passport.",
                 "Visa application fee receipt.",
@@ -212,7 +213,7 @@ export const mbbsinusa = {
             "type": 'list-bollet',
             "title": 'Accommodation Facilities for Indian Students in USA',
             //img: '',
-            "info": '<p>After completing the admission process for MBBS in USA successfully, the next job is finding a good accommodation. Most of the top medical universities in USA will help students in finding accommodation.</p><p>There are 2 types of accommodations available: <strong>On-campus (Hostels or Dormitories) and Off-campus (Home stay or Apartments-flats)</strong></p><p>The students who are going abroad to study for the first time, for them</p>',
+            "info": 'After completing the admission process for MBBS in USA successfully, the next job is finding a good accommodation. Most of the top medical universities in USA will help students in finding accommodation.There are 2 types of accommodations available: On-campus (Hostels or Dormitories) and Off-campus (Home stay or Apartments-flats)The students who are going abroad to study for the first time, for them',
             "data": [
                 "<strong>On campus</strong> option is better as all the facilities like food, laundry etc. are easily accessible and within the reach of a student. Due to the events organized at the hostel premises, students can get the feel of American culture and can get to know students from different cultures and backgrounds.",
                 "<strong>Off-campus</strong> option is comparatively cheaper and students can get a chance to explore American lifestyle closely without any time deadlines. The off-campus housing office at the medical college selected by the student will guide them to select a place for them to live, give them information about their neighbours, popular restaurants, parks, public transportation, shopping areas etc.",
@@ -249,7 +250,7 @@ export const mbbsinusa = {
         {
             "type": "table-title",
             "title": "Career Options Available for MBBS Students are:",
-            "info": "<b>The 4 different seasons in America are as follows:</b>",
+            "info": "The 4 different seasons in America are as follows:",
             "row": [
                 ["<b>Winter</b>", "January to March"],
                 ["<b>Spring</b>", "April to June"],
@@ -277,10 +278,16 @@ export const mbbsinusa = {
     ],
 
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in USA 2023 - Top Colleges in USA'
+        },
+
         {
             "type": "table",
             "title": "MBBS in USA Fees Structure 2022",
-            "info": "<b>Following are some of the most prestigious and renowned universities for MBBS in USA, which are:</b>",
+            "info": "Following are some of the most prestigious and renowned universities for MBBS in USA, which are:",
             "col": [
                 "Name of the University",
                 "Course Fee (Per year)"
@@ -446,10 +453,16 @@ export const mbbsinusa = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in USA 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration in USA",
-            "info": "<p><b>The duration of the MBBS course in USA is different than the standard course duration in other countries:</b></p>",
+            "info": "The duration of the MBBS course in USA is different than the standard course duration in other countries:",
             "data": [
                 "In USA, MBBS is known as MD (Doctor of medicine).",
                 "After completing a 4 years bachelor degree a student gets qualified as MD.",
@@ -460,7 +473,7 @@ export const mbbsinusa = {
         {
             "type": "list-bollet",
             "title": "Syllabus for Studying MBBS in USA",
-            "info": "<p><b>USMLE approved curriculum</b> is followed by most of the top medical colleges in USA. A USMLE approved medical college always proves to be better than other medical colleges in USA. Thus, medical students should always find USMLE recognized medical college.</p>",
+            "info": "USMLE approved curriculum is followed by most of the top medical colleges in USA. A USMLE approved medical college always proves to be better than other medical colleges in USA. Thus, medical students should always find USMLE recognized medical college.",
             "data": [
                 "The basic science course is <strong>USMLE Step 1.</strong> Its curriculum covers the subjects such as Skin and Related Connective Tissue, Respiratory System, Central and Peripheral Nervous Systems, Gastrointestinal System, Musculoskeletal System, Cardiovascular System, Renal/Urinary System, Endocrine System, Reproductive System etc.",
                 "The combination of clinical knowledge (CK) and clinical skills (CS) is the USMLE Step 2. At this stage, hands on experience can be gained by the students on clinical rotation. <strong>USMLE Step 2</strong> subjects include like - Gynaecological Disorders, Nutritional, Abdominal, Digestive Disorders, Congenital Abnormalities and many more along with mental disorder.",
@@ -486,6 +499,12 @@ export const mbbsinusa = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in USA 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Options in USA (After Completion of MBBS Degree)",
@@ -516,6 +535,12 @@ export const mbbsinusa = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in USA 2023 - FAQs'
+        },
+
         {
             type: "meta",
             meta: [

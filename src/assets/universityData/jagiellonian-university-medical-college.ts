@@ -19,7 +19,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             "type": "table-title",
             "title": "Jagiellonian University Medical College - Quick Highlights",
-            "info": "<b>Before knowing the detailed information about the university, the applicants must go through the important points:</b>",
+            "info": "Before knowing the detailed information about the university, the applicants must go through the important points:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March"],
                 ["<b>Accepted Examination</b>", "NEET exam"],
@@ -33,7 +33,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Jagiellonian University Medical College?',
-            info: '<b>Lets have a deep dive into the advantages of studying MBBS at Jagiellonian University Medical College for better understanding:</b>',
+            info: 'Lets have a deep dive into the advantages of studying MBBS at Jagiellonian University Medical College for better understanding:',
             data: [
                 "The infrastructure is constantly improving and expanding day by day and equipped with all modern facilities to fulfill students’ basic requirements.",
                 "The environment is friendly and learning at a comfort zone of students at Jagiellonian University Medical College.",
@@ -53,7 +53,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             "type": "table",
             "title": "Jagiellonian University Medical College - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Jagiellonian University Medical College is:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Jagiellonian University Medical College is:",
             "col": [
                 "Country",
                 "World",
@@ -69,7 +69,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>MBBS Teaching by expertise professors is done in the English language:</b>',
+            info: 'MBBS Teaching by expertise professors is done in the English language:',
             data: [
                 "The Jagiellonian University Medical College gives English teaching to the global students coming to pursue an MBBS course.",
                 "Students never face any language barrier during medical education."
@@ -78,7 +78,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             type: 'list-bollet',
             title: 'Accreditation & Recognition',
-            info: '<b>Jagiellonian University Medical College is acknowledged by various medical bodies:</b>',
+            info: 'Jagiellonian University Medical College is acknowledged by various medical bodies:',
             data: [
                 "Ministry of Science and Higher Education, Poland.",
                 "European Economic Union.",
@@ -99,7 +99,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             "type": "table",
             "title": "Living Cost of Krakow",
-            "info": "<b>The living expense of Krakow city is mentioned below in the table, varies according to the individual’s basic needs:</b>",
+            "info": "The living expense of Krakow city is mentioned below in the table, varies according to the individual’s basic needs:",
             "col": [
                 "Particulars",
                 "Amount in USD",
@@ -129,7 +129,7 @@ export const jagiellonianuniversitymedicalcollege = {
             type: 'list-bollet',
             title: 'About Krakow city',
             img: "krakow-city.jpg",
-            info: '<b>Go through the detailed information about Krakow city:</b>',
+            info: 'Go through the detailed information about Krakow city:',
             data: [
                 "Krakow city is the capital of Poland situated on the banks of Wisla river located in the southern part of Poland.",
                 "It has deep roots of Polish traditions and culture.",
@@ -160,9 +160,14 @@ export const jagiellonianuniversitymedicalcollege = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Jagiellonian University Medical College - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Jagiellonian University Medical College - MBBS Fee structure",
-            "info": "<b>Jagiellonian University Medical College delivers affordable and economical price for pursuing MBBS education:</b>",
+            "info": "Jagiellonian University Medical College delivers affordable and economical price for pursuing MBBS education:",
             "col": [
                 "Particular",
                 "Amount per annum"
@@ -190,7 +195,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Jagiellonian University Medical College',
-            info: '<b>There are three medical faculties available at Jagiellonian University Medical College:</b>',
+            info: 'There are three medical faculties available at Jagiellonian University Medical College:',
             data: [
                 "Medicine",
                 "Pharmacy",
@@ -200,7 +205,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             type: 'list-bollet',
             title: 'Jagiellonian University Medical College - MBBS Duration',
-            info: '<b>6 years of full Medicine program served at Jagiellonian University Medical College:</b>',
+            info: '6 years of full Medicine program served at Jagiellonian University Medical College:',
             data: [
                 "The medical aspirants at Jagiellonian University Medical College must undergo the 6 years of entire medicine course.",
                 "Along with theoretical classes, the student will also acquire the practical aspect of medical education.",
@@ -211,7 +216,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             "type": "table",
             "title": "Jagiellonian University Medical College - MBBS Syllabus",
-            "info": "<b>Checkout the MBBS curriculum of Jagiellonian University Medical College mentioned below in the table:</b>",
+            "info": "Checkout the MBBS curriculum of Jagiellonian University Medical College mentioned below in the table:",
             "data": "",
             "col": [
                 "1st Year",
@@ -354,9 +359,14 @@ export const jagiellonianuniversitymedicalcollege = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Jagiellonian University Medical College - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>For being eligible for MBBS admission, one must satisfy all criteria mentioned below in a detailed manner:</b>",
+            "info": "For being eligible for MBBS admission, one must satisfy all criteria mentioned below in a detailed manner:",
             "data": [
                 "The applicant should be at least 17 years old as on 31st December of the year in which the admission is being taken.",
                 "The candidates should score a minimum of 50 % marks in their 10+2 standard in Physics, Chemistry, Biology and English as a compulsory subject from a recognized board.",
@@ -370,7 +380,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             type: 'step-list',
             title: 'Admission Process (2022-23) - How to Apply for MBBS Course',
-            info: '<b>The admission procedure is quite simple at Jagiellonian University Medical College, Let’s move towards step by step:</b>',
+            info: 'The admission procedure is quite simple at Jagiellonian University Medical College, Let’s move towards step by step:',
             data: [
                 "Step 1: For applying MBBS course at Jagiellonian University Medical College, a candidate need to fill the online application form available on the website www.erk.uj.edu.p",
                 "Step 2: Read the information regarding qualification criteria and required documents carefully & fill the form with valid details.",
@@ -385,7 +395,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Documents Required - Applying for MBBS Course",
-            "info": "<b>If you dream to pursue MBBS studies at Jagiellonian University Medical College, take care of the documents to carry during the admission process:</b>",
+            "info": "If you dream to pursue MBBS studies at Jagiellonian University Medical College, take care of the documents to carry during the admission process:",
             "data": [
                 "The candidate must submit the application form filled with correct details during applying for MBBS admission at Jagiellonian University Medical College.",
                 "Candidates must have NEET examination scorecard and NEET admit card to get admission in MBBS course.",
@@ -406,7 +416,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Keep an eye on the important dates regarding Medical course admission at Jagiellonian University Medical College:</b>",
+            "info": "Keep an eye on the important dates regarding Medical course admission at Jagiellonian University Medical College:",
             "col": [
                 "Events",
                 "Dates",
@@ -446,6 +456,11 @@ export const jagiellonianuniversitymedicalcollege = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Jagiellonian University Medical College - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jagiellonian University Medical College - Reviews" },
@@ -464,6 +479,11 @@ export const jagiellonianuniversitymedicalcollege = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Jagiellonian University Medical College - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -484,6 +504,11 @@ export const jagiellonianuniversitymedicalcollege = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Jagiellonian University Medical College - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jagiellonian University Medical College - Gallery" },
@@ -502,6 +527,11 @@ export const jagiellonianuniversitymedicalcollege = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Jagiellonian University Medical College - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -531,8 +561,13 @@ export const jagiellonianuniversitymedicalcollege = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Jagiellonian University Medical College - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -572,6 +607,11 @@ export const jagiellonianuniversitymedicalcollege = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Jagiellonian University Medical College - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jagiellonian University Medical College - News & Articles" },
@@ -591,9 +631,14 @@ export const jagiellonianuniversitymedicalcollege = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Jagiellonian University Medical College - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Enjoy every basic requisite while staying in well-developed accommodation at university campus:</b>",
+            "info": "Enjoy every basic requisite while staying in well-developed accommodation at university campus:",
             "data": [
                 "Jagiellonian University Medical College provides fully-furnished, hygienic and spacious dormitories at the comfort zone of students during medical education.",
                 "The dormitory is located within walking distance from the Main Market Square (about 10-minute walk) in a central part of the city.",
@@ -607,7 +652,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Each hostel room is equipped with important things like -</b>",
+            "info": "Each hostel room is equipped with important things like -",
             "row": [
                 ["Internet socket", "TV socket", "Telephone socket"],
                 ["Furniture", "Duvet", "Pillow"],
@@ -618,7 +663,7 @@ export const jagiellonianuniversitymedicalcollege = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Each room has divided units equipped with -</b>",
+            "info": "Each room has divided units equipped with -",
             "row": [
                 ["Electric cooker", "Electric kettle", "Refrigerator"],
                 ["Dinner plates", "Bathroom with toilet", "Hallway with a wardrobe"],
@@ -634,9 +679,9 @@ export const jagiellonianuniversitymedicalcollege = {
             title: 'Important Documents to be submitted for a hostel -',
             info: '',
             data: [
-               "Identity card or passport copy",
-               "Covid-19 test reports (The Covid-19 results should be negative and the test must have been performed no more than 72h before checking in)",
-               "This does not apply to the students who are already residing in dormitories (that has already checked in)"
+                "Identity card or passport copy",
+                "Covid-19 test reports (The Covid-19 results should be negative and the test must have been performed no more than 72h before checking in)",
+                "This does not apply to the students who are already residing in dormitories (that has already checked in)"
             ]
         },
         {
@@ -658,59 +703,64 @@ export const jagiellonianuniversitymedicalcollege = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Jagiellonian University Medical College - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Is the Medical degree from Jagiellonian University Medical College valid in other countries?",
-                    "ans": "The MBBS degree acquired from Jagiellonian University Medical College is valid in another country of your choice but after clearing the NMC screening test."
-                },
-                {
-                    "ques": "Q. Is it worth pursuing MBBS at Jagiellonian University Medical College?",
-                    "ans": "Pursuing medical education from Jagiellonian University Medical College is the right decision as the university caters all required things in the comfort zone of students."
-                },
-                {
-                    "ques": "Q. What is the per annum fee for doing an MBBS program at Jagiellonian University Medical College?",
-                    "ans": "The students looking to pursue MBBS from Jagiellonian University Medical College should pay 16000 USD."
-                },
-                {
-                    "ques": "Q. Is Jagiellonian University Medical College a secure place?",
-                    "ans": "Jagiellonian University Medical College offers full security round the clock, as it has CCTV cameras in campus and hostel premises for the security of students."
-                },
-                {
-                    "ques": "Q. What will be the food cost during MBBS education at Jagiellonian University Medical College?",
-                    "ans": "561 USD is the normal meal cost of the city while pursuing MBBS at Jagiellonian University Medical College."
-                },
-                {
-                    "ques": "Q. Are there any accommodation facilities available at Jagiellonian University Medical College?",
-                    "ans": "Top-class hostel with the arrangements of all latest facilities is available at Jagiellonian University Medical College."
-                },
-                {
-                    "ques": "Q. Can I get the Admission in Jagiellonian University Medical College without Clearing NEET examination?",
-                    "ans": "No, The students must clear the NEET exam to pursue medicine course at Jagiellonian University Medical College."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Jagiellonian University Medical College - FAQ" },
-                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Jagiellonian University Medical College - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/jagiellonian-university-medical-college/faq" }
-            ]
-        }
-    ]
+        [
+            {
+                type: 'title',
+                title: "Jagiellonian University Medical College - FAQ"
+
+            },
+            {
+                "type": "question-list",
+                "title": "Jagiellonian University Medical College - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. Is the Medical degree from Jagiellonian University Medical College valid in other countries?",
+                        "ans": "The MBBS degree acquired from Jagiellonian University Medical College is valid in another country of your choice but after clearing the NMC screening test."
+                    },
+                    {
+                        "ques": "Q. Is it worth pursuing MBBS at Jagiellonian University Medical College?",
+                        "ans": "Pursuing medical education from Jagiellonian University Medical College is the right decision as the university caters all required things in the comfort zone of students."
+                    },
+                    {
+                        "ques": "Q. What is the per annum fee for doing an MBBS program at Jagiellonian University Medical College?",
+                        "ans": "The students looking to pursue MBBS from Jagiellonian University Medical College should pay 16000 USD."
+                    },
+                    {
+                        "ques": "Q. Is Jagiellonian University Medical College a secure place?",
+                        "ans": "Jagiellonian University Medical College offers full security round the clock, as it has CCTV cameras in campus and hostel premises for the security of students."
+                    },
+                    {
+                        "ques": "Q. What will be the food cost during MBBS education at Jagiellonian University Medical College?",
+                        "ans": "561 USD is the normal meal cost of the city while pursuing MBBS at Jagiellonian University Medical College."
+                    },
+                    {
+                        "ques": "Q. Are there any accommodation facilities available at Jagiellonian University Medical College?",
+                        "ans": "Top-class hostel with the arrangements of all latest facilities is available at Jagiellonian University Medical College."
+                    },
+                    {
+                        "ques": "Q. Can I get the Admission in Jagiellonian University Medical College without Clearing NEET examination?",
+                        "ans": "No, The students must clear the NEET exam to pursue medicine course at Jagiellonian University Medical College."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Jagiellonian University Medical College - FAQ" },
+                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Jagiellonian University Medical College - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/jagiellonian-university-medical-college/faq" }
+                ]
+            }
+        ]
 
 }

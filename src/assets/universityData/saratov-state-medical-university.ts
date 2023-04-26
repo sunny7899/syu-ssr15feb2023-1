@@ -37,7 +37,7 @@ export const saratovstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Saratov State Medical University?',
-            info: '<b>Given below are the benefits of studying MBBS at Saratov State Medical University:</b>',
+            info: 'Given below are the benefits of studying MBBS at Saratov State Medical University:',
             data: [
                 "The degree awarded by Saratov State Medical University to students is recognized globally.",
                 "Great attention to the safety of the students is paid by the administration of Saratov State Medical University and it does not appreciate any misbehavior from the students.",
@@ -53,7 +53,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>At Saratov Medical University, all the medical degrees are approved by:</b>",
+            "info": "At Saratov Medical University, all the medical degrees are approved by:",
             "data": [
                 "WHO (World Health Organization)",
                 "NMC (National Medical Commission)",
@@ -81,7 +81,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Student Life at Saratov State Medical University",
-            "info": "<b>The life of students at Saratov State Medical University is as follows:</b>",
+            "info": "The life of students at Saratov State Medical University is as follows:",
             "data": [
                 "Students at Saratov State Medical University can study in a conducive environment as the University offers a lively and vibrant environment.",
                 "For the overall development of students, the university organizes various cultural, sports and personality development programs such as student exchange programs, debates, conferences, and other.",
@@ -113,7 +113,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Saratov",
-            "info": "<b>Following are the living expenses at Saratov city:</b><p>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.</p>",
+            "info": "Following are the living expenses at Saratov city:</b><p>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.",
             "col": [
                 "Activity",
                 "Cost"
@@ -146,7 +146,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Saratov City",
-            "info": "<strong>Below are some noticeable things about Saratov city:-</strong>",
+            "info": "Below are some noticeable things about Saratov city:-",
             "data": [
                 "Saratov is a large city located on the right bank of the Volga River in the southeast of the European part of Russia.",
                 "The city is an important cultural, economic and educational center of the Volga region.",
@@ -180,6 +180,10 @@ export const saratovstatemedicaluniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Saratov State Medical University, Russia - courses & Fees'
+        },
         {
             "type": "table",
             "title": "Saratov State Medical University - MBBS Fee Structure 2022",
@@ -248,7 +252,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>1st Year</b>",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -264,7 +268,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -300,7 +304,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -328,7 +332,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th - 6th Year</b>",
+            "info": "4th - 6th Year",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["Neurology and Psychiatry", "Internal Medicine"],
@@ -343,7 +347,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Saratov State Medical University",
-            "info": "<strong>The education of international students and health professionals is carried out at the following faculties at Saratov State Medical University:</strong>",
+            "info": "The education of international students and health professionals is carried out at the following faculties at Saratov State Medical University:",
             "data": [
                 "General Medicine",
                 "Pharmacy",
@@ -361,7 +365,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Saratov State Medical University - MBBS Course Duration",
-            "info": "<b>The duration of MBBS course at Saratov State Medical University is mentioned below:</b>",
+            "info": "The duration of MBBS course at Saratov State Medical University is mentioned below:",
             "data": [
                 "The duration of MBBS course at Saratov State Medical University is 6 years, out of which 1 year is internship. The medium of instruction is English for studying MBBS at this university."
             ]
@@ -386,9 +390,13 @@ export const saratovstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Saratov State Medical University, Russia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Saratov State Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Saratov State Medical University is as follows:",
             "data": [
                 "Students must have cleared NEET exam",
                 "The student must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -399,7 +407,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following is the easy admission process for applying to MBBS course at Saratov State Medical University:</b>",
+            "info": "Following is the easy admission process for applying to MBBS course at Saratov State Medical University:",
             "data": [
                 "<b>>step 1:</b>Applicants should fill the application form available online. They can send the documents via email.",
                 "<b>>step 2:</b>Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -412,7 +420,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Saratov State Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Saratov State Medical University:",
             "data": [
                 "Copy of 12th standard mark sheet",
                 "Copy of NEET UG Result",
@@ -433,7 +441,7 @@ export const saratovstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Saratov State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Saratov State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Saratov State Medical University:",
             "colTitle": [
                 "Events",
                 "Dates"
@@ -474,6 +482,10 @@ export const saratovstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Saratov State Medical University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Saratov State Medical University, Russia - Reviews" },
@@ -492,6 +504,10 @@ export const saratovstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Saratov State Medical University, Russia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -522,6 +538,10 @@ export const saratovstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Saratov State Medical University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Saratov State Medical University - Gallery" },
@@ -542,9 +562,13 @@ export const saratovstatemedicaluniversity = {
 
     "scholarship": [
         {
+            type: 'title',
+            title: 'Saratov State Medical University, Russia - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<p>The scholarships provided at Saratov State Medical University are as<b> follows:</p></b>",
+            "info": "<p>The scholarships provided at Saratov State Medical University are as follows:</p>",
             "data": [
                 "GyanDhan Scholarship",
                 "Women Techmakers Scholars Program",
@@ -571,11 +595,11 @@ export const saratovstatemedicaluniversity = {
             ]
         }
     ],
-
-
-
-
     "faculty": [
+        {
+            type: 'title',
+            title: 'Saratov State Medical University, Russia - Faculty'
+        },
         {
             type: "meta",
             meta: [
@@ -596,6 +620,10 @@ export const saratovstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Saratov State Medical University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Saratov State Medical University, Russia - News & Articles" },
@@ -615,9 +643,13 @@ export const saratovstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Saratov State Medical University, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Food",
-            "info": "<b>Following are the hostel and food facilities at Saratov State Medical University:</b>",
+            "info": "Following are the hostel and food facilities at Saratov State Medical University:",
             "data": [
                 "The Saratov State Medical University offers cozy and comfortable accommodations to all international students.",
                 "The rooms of the hostel are allocated on a twin sharing basis of the same genders.",
@@ -660,64 +692,67 @@ export const saratovstatemedicaluniversity = {
         }
     ],
 
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Saratov State Medical University - Important FAQs",
-                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
-                "data": [
-                    {
-                        "ques": "Q. Do I need to qualify IELTS and TOFEL to study MBBS at Saratov State Medical University?",
-                        "ans": "No, IELTS or TOFEL is not required to study MBBS at Saratov State Medical University."
-                    },
-                    {
-                        "ques": "Q. How many students are studying currently at Saratov State Medical University?",
-                        "ans": "Currently, more than 1500 students from different foreign countries are studying MBBS at the University."
-                    },
-                    {
-                        "ques": "Which is the degree that I will get after completing my MBBS degree from Saratov State Medical University?",
-                        "ans": "After studying MBBS from Saratov State Medical University, you will get a degree of “MD Physician” which has been accepted and recognized as the primary medical qualification equivalent to MBBS."
-                    },
-                    {
-                        "ques": "Q. Do I need to give any entrance exam for joining the Saratov State Medical University?",
-                        "ans": "NO, you do not need to appear for any entrance examination. For Graduate courses, the admissions are based on the 12th standard marks. All admissions are strictly on a first come first served basis."
-                    },
-                    {
-                        "ques": "Q. Is there any international airport close to Saratov State Medical University?",
-                        "ans": "Yes, Saratov Gagarin Airport is present close to the Saratov State Medical University"
-                    },
-                    {
-                        "ques": "Q. Are there any facilities provided for the recreation of students?",
-                        "ans": "NO, you do not need to appear for any entrance examination. For Graduate courses, the admissions are based on the 12th standard marks. All admissions are strictly on a first come first served basis."
-                    },
-                    {
-                        "ques": "Q. Is there any international airport close to Saratov State Medical University?",
-                        "ans": "There are overall 9 medical faculties which are:-General Medicine,Preventive Medicine,Pharmacy,Nursing,Medical Psychology,Dental/Stomatology,Pediatrics,Economics and Health Care Management,Preparatory",
+    "faq": [
+        {
+            type: 'title',
+            title: 'Saratov State Medical University, Russia - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Saratov State Medical University - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+            "data": [
+                {
+                    "ques": "Q. Do I need to qualify IELTS and TOFEL to study MBBS at Saratov State Medical University?",
+                    "ans": "No, IELTS or TOFEL is not required to study MBBS at Saratov State Medical University."
+                },
+                {
+                    "ques": "Q. How many students are studying currently at Saratov State Medical University?",
+                    "ans": "Currently, more than 1500 students from different foreign countries are studying MBBS at the University."
+                },
+                {
+                    "ques": "Which is the degree that I will get after completing my MBBS degree from Saratov State Medical University?",
+                    "ans": "After studying MBBS from Saratov State Medical University, you will get a degree of “MD Physician” which has been accepted and recognized as the primary medical qualification equivalent to MBBS."
+                },
+                {
+                    "ques": "Q. Do I need to give any entrance exam for joining the Saratov State Medical University?",
+                    "ans": "NO, you do not need to appear for any entrance examination. For Graduate courses, the admissions are based on the 12th standard marks. All admissions are strictly on a first come first served basis."
+                },
+                {
+                    "ques": "Q. Is there any international airport close to Saratov State Medical University?",
+                    "ans": "Yes, Saratov Gagarin Airport is present close to the Saratov State Medical University"
+                },
+                {
+                    "ques": "Q. Are there any facilities provided for the recreation of students?",
+                    "ans": "NO, you do not need to appear for any entrance examination. For Graduate courses, the admissions are based on the 12th standard marks. All admissions are strictly on a first come first served basis."
+                },
+                {
+                    "ques": "Q. Is there any international airport close to Saratov State Medical University?",
+                    "ans": "There are overall 9 medical faculties which are:-General Medicine,Preventive Medicine,Pharmacy,Nursing,Medical Psychology,Dental/Stomatology,Pediatrics,Economics and Health Care Management,Preparatory",
 
-                    }
-                ]
-            },
+                }
+            ]
+        },
 
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Saratov State Medical University, Russia - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Saratov State Medical University, Russia - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/saratov-state-medical-university/faq" }
-                ]
-            }
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Saratov State Medical University, Russia - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Saratov State Medical University, Russia - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/saratov-state-medical-university/faq" }
+            ]
+        }
 
-        ],
+    ],
 
 
 

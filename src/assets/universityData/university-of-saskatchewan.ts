@@ -16,11 +16,10 @@ export const universityofsaskatchewan = {
             "title": "",
             "data": "<p><b>The University of Saskatchewan</b> is listed as a top of Canada's 15 premier research-intensive institutions, so it is certainly the right choice for International students. It is a public research university established in 1907 and located in Saskatoon, Saskatchewan.</p><p>Saskatoon is one of the most popular literate cities in Canada and ranked first for air and water quality. It is called a land of acclaimed arts and culture.</p><p>More than 25,000 students are enrolling from different countries all over the world. It is home to over 120 programs and each faculty is arranged to a ratio of only 17 students.</p><p>The university has 3 campuses namely Voyageur, College Quarter, and Graduate house. The main campus covers 2,425 acres with additional 500 acres reserved for the Innovation Place Research Park while Agriculture College has access to research lands nearby campus.</p>"
         },
-
         {
             "type": "table-title",
             "title": "University of Saskatchewan at a Glance",
-            "info": "<b>Some of the important points are mentioned below for the students to get an idea about the university:</b>",
+            "info": "Some of the important points are mentioned below for the students to get an idea about the university:",
             "row": [
                 ["<b>University Status</b>", "Public"],
                 ["<b>Students</b>", "25,700+"],
@@ -38,7 +37,7 @@ export const universityofsaskatchewan = {
         {
             type: 'list-bollet',
             title: 'Reasons to Choose the University of Saskatchewan for Higher Studies',
-            info: '<b>There is not only one reason to explain the university as the best but it is covered with countless opportunities:</b>',
+            info: 'There is not only one reason to explain the university as the best but it is covered with countless opportunities:',
             data: [
                 "is the place where every student can learn and get academic experience in and around the community.",
                 "Students who are living in residences get ongoing personal and academic assistance, and they cherish the comfort, security, and convenience of living near to courses and university resources.",
@@ -53,7 +52,7 @@ export const universityofsaskatchewan = {
         {
             "type": "table",
             "title": "University of Saskatchewan Ranking 2021",
-            "info": "<b>Check out the global and national rankings of the University of Saskatchewan according to its performance:</b>",
+            "info": "Check out the global and national rankings of the University of Saskatchewan according to its performance:",
             "col": [
                 "Country",
                 "World",
@@ -70,7 +69,7 @@ export const universityofsaskatchewan = {
         {
             type: 'list-bollet',
             title: 'Affiliations',
-            info: '<b>The University of Saskatchewan is affiliated with the reputed organizations mentioned below:</b>',
+            info: 'The University of Saskatchewan is affiliated with the reputed organizations mentioned below:',
             data: [
                 "Universities Canada",
                 "U15 Group of Canadian Research Universities (U15)",
@@ -84,7 +83,7 @@ export const universityofsaskatchewan = {
         {
             type: 'list-bollet',
             title: 'Facilities provided',
-            info: '<b>Henley Business School has a huge campus including all modern facilities offered to the students:</b>',
+            info: 'Henley Business School has a huge campus including all modern facilities offered to the students:',
             data: [
                 "Classrooms",
                 "Security",
@@ -135,7 +134,7 @@ export const universityofsaskatchewan = {
         {
             "type": "table-title",
             "title": "Faculties provided at USask",
-            "info": "<b>Below mentioned are different faculties in each department at the University of Saskatchewan:</b>",
+            "info": "Below mentioned are different faculties in each department at the University of Saskatchewan:",
             "col": [
 
             ],
@@ -173,9 +172,13 @@ export const universityofsaskatchewan = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Saskatchewan, Canada - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Simon Fraser University - Program, Fees & Course Duration",
-            "info": "<b>Undergraduate</b>",
+            "info": "Undergraduate",
             "dropSection": "Engineering",
             "col": [
                 "Course",
@@ -446,7 +449,7 @@ export const universityofsaskatchewan = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Postgraduate</b>",
+            "info": "Postgraduate",
             "dropSection": "Engineering",
             "col": [
                 "Course",
@@ -624,9 +627,13 @@ export const universityofsaskatchewan = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Saskatchewan, Canada - Admission 2023'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>Students must fulfill the eligibility criteria for each program before taking admissions to the University:</b>',
+            "info": 'Students must fulfill the eligibility criteria for each program before taking admissions to the University:',
             "textBelowInfo": "Undergraduate",
             "data": [
                 "Required scorecards of grades 10, 11, and 12.",
@@ -650,7 +657,7 @@ export const universityofsaskatchewan = {
         {
             "type": 'step-list',
             "title": 'Step by Step Admission Process in USask',
-            "info": '<b>Students must take the following steps in order to continue with the admissions procedure:</b>',
+            "info": 'Students must take the following steps in order to continue with the admissions procedure:',
             "data": [
                 "<b>Step 1:</b> Choose the desired program you wish to pursue on the University campus",
                 "<b>Step 2:</b> Be Prepared with the required documents before applying for admission.",
@@ -670,7 +677,7 @@ export const universityofsaskatchewan = {
         {
             "type": 'list-bollet',
             "title": 'Documents Required',
-            "info": '<b>Following are some of the documents to be submitted by the students at the time of university admission:</b>',
+            "info": 'Following are some of the documents to be submitted by the students at the time of university admission:',
             "data": [
                 "Official Transcript",
                 "Application form",
@@ -692,7 +699,7 @@ export const universityofsaskatchewan = {
         {
             "type": "table",
             "title": "University of Saskatchewan - Admission Dates 2021",
-            "info": "<b>Following are some of the important dates to the students to check before going for admission procedure:</b>",
+            "info": "Following are some of the important dates to the students to check before going for admission procedure:",
             "col": [
                 "Events",
                 "Dates",
@@ -739,6 +746,10 @@ export const universityofsaskatchewan = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Saskatchewan, Canada - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Saskatchewan, Canada - Reviews" },
@@ -758,9 +769,13 @@ export const universityofsaskatchewan = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'University of Saskatchewan, Canada - Placement'
+        },
+        {
             "type": "table",
             "title": "placement",
-            "info": "<b>Below is the placement report of University Of Saskatchewan:</b>",
+            "info": "Below is the placement report of University Of Saskatchewan:",
             "col": [
                 "Particulars",
                 "Statistics",
@@ -804,6 +819,10 @@ export const universityofsaskatchewan = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Saskatchewan, Canada - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Saskatchewan, Canada - Gallery" },
@@ -823,9 +842,13 @@ export const universityofsaskatchewan = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Saskatchewan, Canada - Scholarship'
+        },
+        {
             "type": "table",
             "title": "Scholarships provided to International Students",
-            "info": "<b>Students must check out the details of the scholarships before applying for the awards:</b>",
+            "info": "Students must check out the details of the scholarships before applying for the awards:",
             "col": [
                 "Scholarships",
                 "Value",
@@ -874,6 +897,10 @@ export const universityofsaskatchewan = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Saskatchewan, Canada - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -925,6 +952,10 @@ export const universityofsaskatchewan = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Saskatchewan, Canada - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Saskatchewan, Canada - News & Articles" },
@@ -944,9 +975,13 @@ export const universityofsaskatchewan = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Saskatchewan, Canada - Hostel'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel and Accommodation',
-            "info": '<b>The University offers a wide range of housing options at USask residences for the students’ convenience:</b>',
+            "info": 'The University offers a wide range of housing options at USask residences for the students’ convenience:',
             "data": [
                 "The university is providing different experiences with 4 residence halls including voyageur place, College Quarter, McEown Park, and Graduate house.",
                 "Off-campus program is specialized for international students as a homestay program where students get an opportunity to travel around the campus.",
@@ -961,7 +996,7 @@ export const universityofsaskatchewan = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Below mentioned cost range depends upon the residence halls and the building which students are going to opt:</b>",
+            "info": "Below mentioned cost range depends upon the residence halls and the building which students are going to opt:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",

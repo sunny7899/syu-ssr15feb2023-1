@@ -20,7 +20,7 @@ export const geomedistateuniversity = {
         {
             "type": "table-title",
             "title": "Geomedi State University - Important Highlights",
-            "info": "<b>Having an idea about some quick facts about Geomedi State Medical University would help to understand the standard of this university:</b>",
+            "info": "Having an idea about some quick facts about Geomedi State Medical University would help to understand the standard of this university:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "April 2022"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -36,7 +36,7 @@ export const geomedistateuniversity = {
         {
             type: 'list-bollet',
             title: 'Benefits of Studying MBBS at Geomedi State University',
-            info: '<b>The advantages of studying at Geomedi State University:</b>',
+            info: 'The advantages of studying at Geomedi State University:',
             data: [
                 "Students do not have to pay any fees during the last year of the course.",
                 "The Geomedi State Medical University provides students with NMC Preparation from the 4th Year itself.",
@@ -52,7 +52,7 @@ export const geomedistateuniversity = {
         {
             "type": "table",
             "title": "Geomedi State University - Ranking 2022",
-            "info": "<b>Geomedi Medical University is one of the top universities of Georgia. According to 4icu.org, following is the country & world ranking for this university:</b>",
+            "info": "Geomedi Medical University is one of the top universities of Georgia. According to 4icu.org, following is the country & world ranking for this university:",
             "col": [
                 "Country",
                 "World",
@@ -68,7 +68,7 @@ export const geomedistateuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition of Geomedi State University',
-            info: '<b>Geomedi Medical University is recognized by the following medical organizations:</b>',
+            info: 'Geomedi Medical University is recognized by the following medical organizations:',
             data: [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -80,13 +80,13 @@ export const geomedistateuniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>Geomedi Medical University is one of the top universities in Georgia. It offers its variety of courses in the English language:</b>',
+            info: 'Geomedi Medical University is one of the top universities in Georgia. It offers its variety of courses in the English language:',
             data: "<p>At Geomedi State Medical University, the medium of teaching is English. So it would be easy for all local as well as international students.</p>"
         },
         {
             type: 'list-bollet',
             title: 'Geomedi State University - Library Facility',
-            info: '<b>The Geomedi State Medical University provides a rich library to its staff and students:</b>',
+            info: 'The Geomedi State Medical University provides a rich library to its staff and students:',
             data: [
                 "The Geomedi Medical University has a library that has rich book and digital funds.",
                 "It has a Computer class with electronic equipment and an integrated library system known as “OpenBiblio”.",
@@ -99,7 +99,7 @@ export const geomedistateuniversity = {
         {
             type: 'list-bollet',
             title: 'Life of Students at Geomedi State University',
-            info: '<b>Students live an excellent, healthy and interesting life at Geomedi Medical University. They get following different facilities and amenities:</b>',
+            info: 'Students live an excellent, healthy and interesting life at Geomedi Medical University. They get following different facilities and amenities:',
             data: [
                 "Geomedi Medical University provides a very healthy environment with the best facilities for the international students.",
                 "The university provides students with the best hostel facilities.",
@@ -121,7 +121,7 @@ export const geomedistateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Tbilisi City",
-            "info": "<b>Tbilisi is a city in Georgia having average cost of living:</b>",
+            "info": "Tbilisi is a city in Georgia having average cost of living:",
             "col": [
                 "Activity",
                 "Cost"
@@ -154,7 +154,7 @@ export const geomedistateuniversity = {
             type: 'list-bollet',
             title: 'About Tbilisi City',
             img: 'georgia-universities/tbilisi-city.jpg',
-            info: '<b>Some of the interesting facts about the ‘Tbilisi’ city are as follows:</b>',
+            info: 'Some of the interesting facts about the ‘Tbilisi’ city are as follows:',
             data: [
                 "Tbilisi is the capital of Georgia and it is the largest city in Georgia.",
                 "Earlier known as Tiflis, Tbilisi is situated on the banks of the Kura River.",
@@ -191,9 +191,14 @@ export const geomedistateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Geomedi Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Geomedi State University - MBBS Fee Structure 2022",
-            "info": "<b>Geomedi Medical University is Georgia’s one of the top medical universities which allow students to learn an MBBS degree at an affordable tuition fee structure:</b>",
+            "info": "Geomedi Medical University is Georgia’s one of the top medical universities which allow students to learn an MBBS degree at an affordable tuition fee structure:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -260,7 +265,7 @@ export const geomedistateuniversity = {
         {
             type: 'list-bollet',
             title: 'Соursеs аnd Faculties at Geomedi State University',
-            info: '<b>Geomedi State Medical University offers students to learn their courses in the following varieties:</b>',
+            info: 'Geomedi State Medical University offers students to learn their courses in the following varieties:',
             data: [
                 "Dentistry",
                 "Medicine",
@@ -278,15 +283,15 @@ export const geomedistateuniversity = {
         {
             type: 'list-bollet',
             title: 'Geomedi State University - MBBS Course Duration',
-            info: '<b>The number of years which students have to spend to complete MBBS course at Geomedi Medical University are given below:</b>',
+            info: 'The number of years which students have to spend to complete MBBS course at Geomedi Medical University are given below:',
             data: '<p>The duration of MBBS course at Geomedi Medical University Georgia is 6 years which includes 1 year of internship.</p>'
 
         },
         {
             "type": "table",
             "title": "Geomedi State University - MBBS Syllabus",
-            "data": "<b>The complete syllabus for studying MBBS at Geomedi State Medical University, Georgia is as follows:</b>",
-            "info": "<b>1st Year</b>",
+            "data": "The complete syllabus for studying MBBS at Geomedi State Medical University, Georgia is as follows:",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -302,7 +307,7 @@ export const geomedistateuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -331,7 +336,7 @@ export const geomedistateuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -355,7 +360,7 @@ export const geomedistateuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th - 6th Year</b>",
+            "info": "4th - 6th Year</b>",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["General Surgery, Oncology, Internal Medicine, Gynecology, ENT, Neurology, Emergency Medicine, Psychology, and Cardiology."]
@@ -381,9 +386,14 @@ export const geomedistateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Geomedi Medical University - Admission 2023"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>Students must fulfill the below mentioned eligibility criteria for studying MBBS at Geomedi Medical University:</b>',
+            info: 'Students must fulfill the below mentioned eligibility criteria for studying MBBS at Geomedi Medical University:',
             data: [
                 "The mbbs aspirants must be over 17 and below 25 years old on or before the date in which the admission is being taken.",
                 "The students must clear the NEET exam as it is mandatory for those coming from India.",
@@ -394,7 +404,7 @@ export const geomedistateuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process in Geomedi State University',
-            info: '<b>To secure admission in one of the top medical universities in Georgia, like Geomedi Medical University, students must follow the instructions given below:</b>',
+            info: 'To secure admission in one of the top medical universities in Georgia, like Geomedi Medical University, students must follow the instructions given below:',
             data: [
                 "<b>Step 1:</b> Students who want to secure admission at the Geomedi university must fill the online application form along with all the required documents.",
                 "<b>Step 2:</b> The applications sent by the students are reviewed by the university and then they need to deposit the fees into the university’s bank account.",
@@ -406,7 +416,7 @@ export const geomedistateuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: '<b>Following documents are required from the students at the time of admission:</b>',
+            info: 'Following documents are required from the students at the time of admission:',
             data: [
                 "10th & 12th Education Certificates.",
                 "Birth Certificate.",
@@ -420,7 +430,7 @@ export const geomedistateuniversity = {
         {
             "type": "table",
             "title": "Geomedi State University - Intake 2022",
-            "info": "<b>Students should take their admissions to the Geomedi State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Geomedi Medical University:</b>",
+            "info": "Students should take their admissions to the Geomedi State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Geomedi Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -465,6 +475,11 @@ export const geomedistateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Geomedi Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Geomedi Medical University - Reviews" },
@@ -483,6 +498,11 @@ export const geomedistateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Geomedi Medical University - Placement"
+
+        },
         {
             type: 'list-bollet',
             title: 'Placements',
@@ -514,6 +534,11 @@ export const geomedistateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Geomedi Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Geomedi Medical University - Gallery" },
@@ -532,6 +557,11 @@ export const geomedistateuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Geomedi Medical University - Scholarship"
+
+        },
         {
             type: 'list-bollet',
             title: 'Scholarships',
@@ -562,6 +592,11 @@ export const geomedistateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Geomedi Medical University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Geomedi Medical University - Faculty" },
@@ -580,6 +615,11 @@ export const geomedistateuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Geomedi Medical University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -600,9 +640,14 @@ export const geomedistateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Geomedi Medical University - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel and Accommodation',
-            info: '<b>The Geomedi Medical University provides hostel facility to its students with following amenities:</b>',
+            info: 'The Geomedi Medical University provides hostel facility to its students with following amenities:',
             data: [
                 "The hostels are cornered within the campus premises.",
                 "The accommodation at this university provides very soothing weather to the students who come across to study in the Geomedi Medical University.",
@@ -632,9 +677,14 @@ export const geomedistateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Geomedi Medical University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Geomedi State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. When was the Geomedi State University established?",

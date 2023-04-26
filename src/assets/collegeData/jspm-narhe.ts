@@ -1,4 +1,3 @@
-
 export const jspmnarhe = {
     "Title": "JSPM’s Narhe Technical Campus",
     "shortTitle": "JSPM’s Narhe Technical Campus",
@@ -6,17 +5,18 @@ export const jspmnarhe = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
-    "url":"jspm-narhe",
-
+    "url": "jspm-narhe",
     "info": [
-
+        {
+            "type": "title",
+            "title": "JSPM’s Narhe Technical Campus"
+        },
         {
             type: 'text',
             title: '',
             info: '',
             data: '<p><b>JSPM’s Narhe Technical Campus</b>  also known as JSPM NTC is an autonomous private engineering college located in Taluka-Haveli, near Sanas Crane on the Pune-Bangalore Highway in Pune, Maharashtra. The institution was established in 2011.It is JSPM Institutes seventh college. Pune University has an affiliation with JSPM Narhe Technical Campus.</p><br><p>JSPM NTC is well-known for its undergraduate and graduate programmes in Mechanical Engineering, Civil Engineering, Electronics and Telecommunication Engineering. Apart from engineering, the institute also provides MBA and MCA programmes in the postgraduate programme.</p><br><p>JSPM NTC provides scholarships to candidates who are financially weak and to pursue higher education. If the yearly income of the family is less than or equivalent to INR 2,000,000, a 100% scholarship will be provided to the candidates including no maintenance fees will be provided to SC and ST.</p><br><p>During the JSPM NTC Placements 2020, 13 international deals from Japan were made with a salary package of INR 18 LPA. In 2020, JSPM placed 2500+ students, had the highest salary package of INR 18 LPA, and had an overall average salary package of INR 3.5 LPA.</p><br><p>JSPM NTC has a dynamic atmosphere and campus life, which includes sports and extracurricular activities, among other things. Civil Engineering, Computer Science, Electronics & Telecommunication, Mechanical Engineering, Computer Application, and Management studies are among the departments of JSPM NTC.</p><br><p>JSPM NTC features well-equipped labs with modern technology and highly skilled teaching professors in all disciplines. The facilities that are provided by JSPM NTC are Bank facilities, Digital Library, Hostel, etc.</p>'
         },
-
         {
             "type": "table",
             "title": "JSPM’s Narhe Technical Campus   - Quick Highlights 2022",
@@ -177,13 +177,11 @@ export const jspmnarhe = {
                 },
             ]
         },
-
         {
             "type": "table",
             "title": "Number of PG Seats at JSPM NTC",
             "info": "",
             "col": [
-               
             ],
             "row": [
                 {
@@ -544,32 +542,23 @@ export const jspmnarhe = {
             "type": "table",
             "title": "JSPM’s Narhe Technical Campus - Top Recruiters",
             "info": "",
-            "col": [ ],
+            "col": [],
             "row": [
-
-
-                ["Loreal  India Pvt Ltd.","Bitwise Solutions Inc.","Bajaj Allianz"],
-                ["R Systems","Reliance Fresh","Allscripts Healthcare Solutions Inc."],
-                ["Symphony Services","Cybage Software Pvt, Ltd.","Bharat Forge Ltd"],
-                ["Emerson","VIP Industries LTD.","Sakal Media Group"],
-                ["Weikfield Foods Pvt Ltd","Cossacks","Cotton Greaves Ltd"],
-                ["ICICI Prudential Life Insurance","Elite Thermal P Ltd.","Electronica Finance"],
-                ["IKSC knowledge bridge Pvt. LTD.","Gati Logistics","General Motors India P Ltd."],
-                ["Studio Selections","John Deere","Garware Wall Ropes"],
-                ["Lead Info IT","Vaishali Media Group","Honeywell Automation"],
-                ["Capstone Securities India Pvt. Ltd.","ICICI Prudential Life Insurance","HDFC Life Insurance"],
-                ["Pancard Clubs","Panoramic World","Finnova Advisory"],
-                ["Shruti Infotech Pvt. Ltd","Axis Capital","Revolution Infosystems"],
-                ["SKP e-solutions Pvt. Ltd","Eclerx Services","Calsoft"],
-                
-
-
-
-
-               
+                ["Loreal  India Pvt Ltd.", "Bitwise Solutions Inc.", "Bajaj Allianz"],
+                ["R Systems", "Reliance Fresh", "Allscripts Healthcare Solutions Inc."],
+                ["Symphony Services", "Cybage Software Pvt, Ltd.", "Bharat Forge Ltd"],
+                ["Emerson", "VIP Industries LTD.", "Sakal Media Group"],
+                ["Weikfield Foods Pvt Ltd", "Cossacks", "Cotton Greaves Ltd"],
+                ["ICICI Prudential Life Insurance", "Elite Thermal P Ltd.", "Electronica Finance"],
+                ["IKSC knowledge bridge Pvt. LTD.", "Gati Logistics", "General Motors India P Ltd."],
+                ["Studio Selections", "John Deere", "Garware Wall Ropes"],
+                ["Lead Info IT", "Vaishali Media Group", "Honeywell Automation"],
+                ["Capstone Securities India Pvt. Ltd.", "ICICI Prudential Life Insurance", "HDFC Life Insurance"],
+                ["Pancard Clubs", "Panoramic World", "Finnova Advisory"],
+                ["Shruti Infotech Pvt. Ltd", "Axis Capital", "Revolution Infosystems"],
+                ["SKP e-solutions Pvt. Ltd", "Eclerx Services", "Calsoft"]
             ]
         },
-
         {
             "type": "table",
             "title": "JSPM’s Narhe Technical Campus - Alumni",
@@ -651,8 +640,6 @@ export const jspmnarhe = {
             info: '',
             data: '<p>With a total capacity of 585 students, the institution includes two well-furnished and ventilated ladies hostels (Hostel A and Hostel B)</p><br><p>Facilities: Warm and cold water, purified drinking water, and electricity are available 24 hours. Two canteens serve sanitary and high-quality meals.</p><br><p>The hostel has a lady warden to look after the students and keep discipline. Ambulance service is available 24/7. MOU with "Bharati Family Clinic" in Wagholi for student medical care.</p>'
         },
-
-
         {
             "type": "table",
             "title": "The hostel fees details are mentioned below:",
@@ -672,7 +659,6 @@ export const jspmnarhe = {
                 },
             ]
         },
-
         {
             "type": "table",
             "title": "Cost of Living",
@@ -693,46 +679,35 @@ export const jspmnarhe = {
                 },
             ]
         },
-        
-
         {
             "type": "question-list",
             "title": "",
             "info": "<b>JSPM’s Narhe Technical Campus - Important FAQs</b>",
             "data": [
                 {
-                  "ques": " Q. How many seats are available for the ME course in JSPM NTC?                  ",
-                  "ans": "The number of seats available for the ME course in JSPM NTC is 72"
+                    "ques": " Q. How many seats are available for the ME course in JSPM NTC?                  ",
+                    "ans": "The number of seats available for the ME course in JSPM NTC is 72"
                 },
                 {
                     "ques": "Q. What are the eligibility criteria for BE?                    ",
                     "ans": "Candidates must have a minimum of 50% of marks in class XII and must qualify either JEE Mains or MAH CET.                    "
-                  },
-                  {
+                },
+                {
                     "ques": "Q. What are the facilities available at JSPM NTC?                    ",
                     "ans": "The facilities available at JSPM NTC are Bank facilities, Digital Library, Hostel, etc."
-                  },
-                  {
+                },
+                {
                     "ques": "Q. What is the average annual fee for the B. Tech course at JSPM NTC?                    ",
                     "ans": "The average annual fee for the B.Tech course at JSPM NTC is INR 3.5 lacs."
-                  },
-                  {
+                },
+                {
                     "ques": "Q. Does JSPM NTC provide scholarships? ",
                     "ans": "Yes, JSPM NTC provides scholarships."
-                  },
-                
-               
+                },
+
+
             ]
         }
-
-
-
-
-
-
-
-
-
     ],
 
     "Gallary": {},

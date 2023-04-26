@@ -200,7 +200,7 @@ export const manilacentraluniversity = {
         {
             "type": "table",
             "title": "Manila Central University - Ranking 2022",
-            "info": "<b>According to UniRank (4icu), the ranking of Manila Central University - is as follows:</b>",
+            "info": "According to UniRank (4icu), the ranking of Manila Central University - is as follows:",
             "col": [
                 "Country",
                 "World"
@@ -215,7 +215,7 @@ export const manilacentraluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Manila Central University is approved by several medical bodies given below:</b>",
+            "info": "Manila Central University is approved by several medical bodies given below:",
             "data": [
                 "Commission of higher education, Philippines",
                 "National Medical Commission (NMC)",
@@ -225,7 +225,7 @@ export const manilacentraluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Caloocan",
-            "info": "<b>The table given below shows the average and approx cost of living in the Philippines for a month but it may vary according to Individual’s living:</b>",
+            "info": "The table given below shows the average and approx cost of living in the Philippines for a month but it may vary according to Individual’s living:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -262,7 +262,7 @@ export const manilacentraluniversity = {
         {
             "type": "table-title",
             "title": "Cost of Living in Caloocan",
-            "info": "<p>Explore the major attractions of Caloocan City:</p>",
+            "info": "Explore the major attractions of Caloocan City:",
             "col": [
             ],
             "row": [
@@ -296,16 +296,20 @@ export const manilacentraluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Manila Central University, Philippines - courses & Fees'
+        },
+        {
             "type": "text",
             "title": "Manila Central University - MBBS Duration",
-            "info": "<b>The course duration of MBBS in Manila Central University is 6 years:</b>",
+            "info": "The course duration of MBBS in Manila Central University is 6 years:",
             "data": "<p>Manila Central University is providing all International and local students of the Philippines with 6 years.</p><p>The duration of a Medical degree in the Philippines is 6 years which includes 5 years of MBBS course and 1 year of internship.</p>"
 
         },
         {
             "type": "table",
             "title": "Manila Central University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure of Manila Central University is much affordable for students coming across the world to pursue MBBS career:</b>",
+            "info": "The fee structure of Manila Central University is much affordable for students coming across the world to pursue MBBS career:",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -346,9 +350,13 @@ export const manilacentraluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Manila Central University, Philippines - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission Manila Central University for doing MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission Manila Central University for doing MBBS:",
             "data": [
                 "The Candidates must be 17 years above or take admission before 31st December to do MBBS in the Philippines.",
                 "Every candidate must score more than 50% in the HSC exam or in similar courses with Physics, Chemistry, Biology, and English as compulsory subjects can apply for the admission process for MBBS in the Philippines.",
@@ -358,7 +366,7 @@ export const manilacentraluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following are the simple & easy steps to take admission for doing MBBS in Manila Central University:</b>",
+            "info": "Following are the simple & easy steps to take admission for doing MBBS in Manila Central University:",
             "data": [
                 "<b>Step 1:</b> Fill the Online Application form with Essential details.",
                 "<b>Step 2:</b> Upload the scan copies of Academic documents.",
@@ -371,7 +379,7 @@ export const manilacentraluniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following are the important documents which must be submitted during the admission procedure:</b>",
+            "info": "Following are the important documents which must be submitted during the admission procedure:",
             "data": [
                 "Academic documents of 11th and 12th",
                 "Government-approved Birth certificate",
@@ -387,7 +395,7 @@ export const manilacentraluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should consider the following important dates to follow the timetable of admission dates:</b>",
+            "info": "Students should consider the following important dates to follow the timetable of admission dates:",
             "col": [
                 "Events",
                 "Dates"
@@ -426,6 +434,11 @@ export const manilacentraluniversity = {
         }
     ],
     "review": [
+
+        {
+            type: 'title',
+            title: 'Manila Central University, Philippines - Reviews'
+        },
         {
             type: "meta",
             meta: [
@@ -446,6 +459,10 @@ export const manilacentraluniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'Manila Central University, Philippines - Placement'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Manila Central University, Philippines - Placement" },
@@ -465,6 +482,10 @@ export const manilacentraluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Manila Central University, Philippines - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Manila Central University, Philippines - Gallery" },
@@ -483,6 +504,10 @@ export const manilacentraluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Manila Central University, Philippines - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
@@ -518,6 +543,10 @@ export const manilacentraluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Manila Central University, Philippines - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Manila Central University, Philippines - Faculty" },
@@ -536,6 +565,10 @@ export const manilacentraluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Manila Central University, Philippines - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -556,9 +589,13 @@ export const manilacentraluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Manila Central University, Philippines - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Manila Central University providing the students best hostel and accommodation facilities</b>",
+            "info": "Manila Central University providing the students best hostel and accommodation facilities",
             "data": [
                 "Separate rooms for both boys and girls",
                 "Complete power back-up is provided in the hostel system.",
@@ -609,9 +646,13 @@ export const manilacentraluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Manila Central University, Philippines - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Manila Central University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q.What is the language of teaching at Manila University?",

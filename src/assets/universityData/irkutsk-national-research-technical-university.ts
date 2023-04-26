@@ -19,7 +19,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Irkutsk National Research Technical University - Quick Overview",
-            "info": "<b>Applicants who wants to make their career in Engineering can get information about Irkutsk National Research Technical University in brief here:</b>",
+            "info": "Applicants who wants to make their career in Engineering can get information about Irkutsk National Research Technical University in brief here:",
             "col": [
 
             ],
@@ -36,7 +36,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study Engineering at Irkutsk National Research Technical University?",
-            "info": "<b>International Students can know why here why Irkutsk National Research Technical University is an ideal option:</b>",
+            "info": "International Students can know why here why Irkutsk National Research Technical University is an ideal option:",
             "data": [
                 "Irkutsk National Research Technical University aims to provide quality education to graduate and undergraduate students.",
                 "Students will get to explore different aspects of the theory and practical training.",
@@ -51,7 +51,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "table",
             "title": "Irkutsk National Research Technical University - Ranking 2022",
-            "info": "<b>According to UniRank database, the country & world ranking of Irkutsk National Research Technical University is:</b>",
+            "info": "According to UniRank database, the country & world ranking of Irkutsk National Research Technical University is:",
             "col": [
                 "Country",
                 "World"
@@ -66,7 +66,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at INRTU",
-            "info": "<b>Irkutsk National Research Technical University provides various facilities to its students and professors:</b>",
+            "info": "Irkutsk National Research Technical University provides various facilities to its students and professors:",
             "data": [
                 "Library",
                 "Sports",
@@ -77,13 +77,13 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>Irkutsk National Research Technical University uses different languages as medium of teaching:</b>",
+            "info": "Irkutsk National Research Technical University uses different languages as medium of teaching:",
             "data": "The courses at Irkutsk National Research Technical University are taught in English and Russian."
         },
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Irkutsk National Research Technical University is situated at Irkutsk Oblast and the average cost of living is 314 $- 456 $ per month:</b>",
+            "info": "Irkutsk National Research Technical University is situated at Irkutsk Oblast and the average cost of living is 314 $- 456 $ per month:",
             "col": [
                 "Particular",
                 "Expenses (In USD)",
@@ -143,9 +143,14 @@ export const irkutsknationalresearchtechnicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Irkutsk National Research Technical University - Fee Structure",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "col": [
                 "Course",
                 "Yearly Tuition Fee (In USD)",
@@ -223,7 +228,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "table",
             "title": "Irkutsk National Research Technical University - Fee Structure",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "col": [
                 "Course",
                 "Yearly Tuition Fee (In USD)",
@@ -251,7 +256,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Courses offered at INRTU",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "col": [
 
             ],
@@ -278,7 +283,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Courses offered at INRTU",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "col": [
 
             ],
@@ -322,7 +327,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Irkutsk National Research Technical University - Course Duration",
-            "info": "<b>Irkutsk National Research Technical University offers various courses to students and applicant can find details of course duration below:</b>",
+            "info": "Irkutsk National Research Technical University offers various courses to students and applicant can find details of course duration below:",
             "data": [
                 "The course duration for bachelor degree program is 4 years.",
                 "And the course duration of the Master Degree Program is 2 Years.",
@@ -332,7 +337,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Departments at INRTU",
-            "info": "<b>Irkutsk National Research Technical University consists of various institutions to provide education to students in different specialities:</b>",
+            "info": "Irkutsk National Research Technical University consists of various institutions to provide education to students in different specialities:",
             "data": [
                 "Institute of Metallurgy and Chemical Technology",
                 "Aircraft Machine Engineering And Transport",
@@ -365,9 +370,14 @@ export const irkutsknationalresearchtechnicaluniversity = {
         }],
     "admission": [
         {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "data": [
                 "The students must have completed higher secondary",
                 "Must have studied Mathematics and Physics in higher secondary",
@@ -379,7 +389,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master Degree</b>",
+            "info": "Master Degree",
             "data": [
                 "The applicant must have completed Bachelor Degree / Diploma",
                 "High Academic scores",
@@ -390,7 +400,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Foreign students will have to follow these steps to get admission to Irkutsk National Research Technical University:</b>",
+            "info": "Foreign students will have to follow these steps to get admission to Irkutsk National Research Technical University:",
             "data": [
                 "<b>Step 1:</b> Submit an Application to Irkutsk National Research Technical University.",
                 "<b>Step 2:</b> The Applicant will have to submit all the necessary documents mentioned to the university.",
@@ -405,7 +415,7 @@ export const irkutsknationalresearchtechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Applicants will have to submit the following documents to Irkutsk National Research Technical University at the time of admission:</b>",
+            "info": "Applicants will have to submit the following documents to Irkutsk National Research Technical University at the time of admission:",
             "data": [
                 "Application for admission",
                 "Original copy of higher secondary",
@@ -442,6 +452,11 @@ export const irkutsknationalresearchtechnicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Irkutsk National Research Technical University, Russia - Reviews" },
@@ -460,6 +475,11 @@ export const irkutsknationalresearchtechnicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -480,6 +500,11 @@ export const irkutsknationalresearchtechnicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Irkutsk National Research Technical University, Russia - Gallery" },
@@ -498,6 +523,11 @@ export const irkutsknationalresearchtechnicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
@@ -529,6 +559,11 @@ export const irkutsknationalresearchtechnicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Irkutsk National Research Technical University, Russia - Faculty" },
@@ -547,6 +582,11 @@ export const irkutsknationalresearchtechnicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -567,9 +607,14 @@ export const irkutsknationalresearchtechnicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Irkutsk National Research Technical University consists of dormitories for foreign and stateless students:</b><p>The university consists of 19 dormitories, and all the dormitories are equipped with partial technical equipment.</p>",
+            "info": "Irkutsk National Research Technical University consists of dormitories for foreign and stateless students:</b><p>The university consists of 19 dormitories, and all the dormitories are equipped with partial technical equipment.",
             "data": [
                 "All applicants are provided with a hostel for the period of passing the entrance exams.",
                 "All applicants are provided with a hostel for the period of passing the entrance exams.",
@@ -595,9 +640,14 @@ export const irkutsknationalresearchtechnicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Irkutsk National Research Technical University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Irkutsk National Research Technical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is there any entrance exam for Irkutsk National Research Technical University?",

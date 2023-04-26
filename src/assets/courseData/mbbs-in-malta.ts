@@ -5,6 +5,7 @@ export const mbbsinmalta = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 Years",
     "url": 'mbbs-in-malta',
     "info": [
         {
@@ -21,7 +22,7 @@ export const mbbsinmalta = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Key Highlights: Studying MBBS in Malta</b>",
+            "info": "Key Highlights: Studying MBBS in Malta",
             //"img": '',
             "data": [
                 "The program has been taught in English.",
@@ -34,7 +35,7 @@ export const mbbsinmalta = {
         {
             "type": "table-title",
             "title": "MBBS in Malta: Quick Overview",
-            "info": "<b>Keep the following facts in mind for deciding to do MBBS in Malta:</b>",
+            "info": "Keep the following facts in mind for deciding to do MBBS in Malta:",
             "col": [
             ],
             "row": [
@@ -54,7 +55,7 @@ export const mbbsinmalta = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS in Malta?",
-            "info": "<b>Let’s have a look at some of the advantages of studying MBBS in Malta for Indian students:</b>",
+            "info": "Let’s have a look at some of the advantages of studying MBBS in Malta for Indian students:",
             //"img": '',
             "data": [
                 "MBBS in Malta is recognized by the National Medical Commission.",
@@ -72,7 +73,7 @@ export const mbbsinmalta = {
         {
             type: 'step-list',
             title: 'Admission Process (2022-23)',
-            info: '<b>Following is the basic step-by-step description of the admission process required for applying MBBS course in Malta:</b>',
+            info: 'Following is the basic step-by-step description of the admission process required for applying MBBS course in Malta:',
             //img: '',
             data: [
                 "<p><b>Step 1:</b> Registration - Fill the application form and submit the scan copies of documents.</p>",
@@ -89,7 +90,7 @@ export const mbbsinmalta = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Fitting in and fulfilling the following eligibility criteria for taking admission to MBBS in Malta is necessary:</b>",
+            "info": "Fitting in and fulfilling the following eligibility criteria for taking admission to MBBS in Malta is necessary:",
             //"img": '',
             "data": [
                 "The applicant should be 18 years old at the start of the MBBS course in Malta.",
@@ -104,7 +105,7 @@ export const mbbsinmalta = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students should make sure that they have all the necessary documents mentioned below before taking admission to MBBS in Malta:</b>",
+            "info": "Students should make sure that they have all the necessary documents mentioned below before taking admission to MBBS in Malta:",
             //"img": '',
             "data": [
                 "Letter of Recommendation from the previous institute",
@@ -123,7 +124,7 @@ export const mbbsinmalta = {
         {
             "type": "table",
             "title": "Cost of Living in Malta",
-            "info": "<b>Students need to take a look at the following table so that they can get an idea about the expenses and cost of living in Malta. Here the cost mentioned is an average range of expenses on basic needs and utilities for a month:</b>",
+            "info": "Students need to take a look at the following table so that they can get an idea about the expenses and cost of living in Malta. Here the cost mentioned is an average range of expenses on basic needs and utilities for a month:",
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -154,7 +155,7 @@ export const mbbsinmalta = {
         {
             type: 'list-bollet',
             title: 'About Malta',
-            info: '<b>Malta is a beautiful island, let’s know something more about Malta:</b>',
+            info: 'Malta is a beautiful island, let’s know something more about Malta:',
             //img: 'https://www.selectyouruniversity.com/images/malta-city.jpg',
             data: [
                 'Malta is the island located at the center of the Mediterranean sea. Malta is the largest island of emerging Europe and it is the commercial, cultural and administrative center characterized by fishing tourism, crafts and agriculture. Maltese society has been molded by the various powers of foreign rulers including Greek, Arabs, French, British, Romans, etc.',
@@ -182,10 +183,16 @@ export const mbbsinmalta = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malta 2023 - Top Colleges in Malta'
+        },
+
         {
             "type": "table",
             "title": "Top Medical Universities in Malta: Fee Structure (2022-23)",
-            "info": "<b>Here are the names of top medical universities in Malta. Students can do more research accordingly:</b>",
+            "info": "Here are the names of top medical universities in Malta. Students can do more research accordingly:",
             "col": [
                 "Name of the universities",
                 "Fees Per Year in INR (approx)",
@@ -226,9 +233,14 @@ export const mbbsinmalta = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'MBBS in Malta 2023 - Syllabus'
+        },
+
+        {
             type: 'list-bollet',
             title: 'Course Duration of MBBS in Malta',
-            info: '<b>The MBBS course duration in Malta is of 5 years. The details about the MBBS course durations are discussed below:</b>',
+            info: 'The MBBS course duration in Malta is of 5 years. The details about the MBBS course durations are discussed below:',
             data: [
                 "MBBS in Malta lasts for a duration of 5 years.The courses taught in the English language.",
                 "During the course of the study, students are subjected to an advanced training program as conducted by the Medical universities of Malta."
@@ -238,7 +250,7 @@ export const mbbsinmalta = {
         {
             "type": "table",
             "title": "MBBS Curriculum in Malta",
-            "info": "<b>The universities and medical colleges of Malta cover the following subjects and syllabus while teaching MBBS in Malta:</b>",
+            "info": "The universities and medical colleges of Malta cover the following subjects and syllabus while teaching MBBS in Malta:",
             "col": [
                 "First Year",
                 "Second Year",
@@ -335,10 +347,16 @@ export const mbbsinmalta = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malta 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Career Opportunity After MBBS in Malta',
-            info: '<b>When any student completes the MBBS course from medical universities of Malta, the vast career opportunities in Malta as well as in India open for them:</b>',
+            info: 'When any student completes the MBBS course from medical universities of Malta, the vast career opportunities in Malta as well as in India open for them:',
             data: [
                 "After completion of your MBBS in Malta, you can apply for a foundation doctor post in the Malta Medical Council. You should have a required qualification with good grades in your MBBS study.",
                 "Doctors at the Malta medical council are paid higher and get offered a renowned position in the council. You can also do the post graduation after completion of your MBBS course.",
@@ -365,10 +383,16 @@ export const mbbsinmalta = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Malta 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Malta - Important FAQs",
-            "info": "<b>Following are the most frequently asked questions on Quora and Careers360:</b>",
+            "info": "Following are the most frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Is there anything that we should have to be aware of while applying for MBBS in Malta?",

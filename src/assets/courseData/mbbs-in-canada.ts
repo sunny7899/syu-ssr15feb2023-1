@@ -5,6 +5,7 @@ export const mbbsincanada= {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 Years",
     "url":"mbbs-in-canada",
     "info": [
         {
@@ -22,7 +23,7 @@ export const mbbsincanada= {
         {
             "type": "table-title",
             "title": "MBBS in Canada: Quick Overview 2022",
-            "info": "<b>A Brief tabular representation of medical course in Canada:</b>",
+            "info": "A Brief tabular representation of medical course in Canada:",
             "col": [
             ],
             "row": [
@@ -43,7 +44,7 @@ export const mbbsincanada= {
      {
             "type": "list-bollet",
             "title": "What do Students Get for Pursuing an MBBS Career in Canadian Universities?",
-            "info": "<b>Indian students have multiple advantages while studying MBBS course in Canada:</b>",
+            "info": "Indian students have multiple advantages while studying MBBS course in Canada:",
             //"img": 'https://www.selectyouruniversity.com/images/canada/benefits-of-mbbs-in-canada.jpg',
             "data": [
                 "Number of Indian students studying MBBS courses in Canada has increased from 32,000 in 2015 to 1,07,000 in 2018.",
@@ -62,7 +63,7 @@ export const mbbsincanada= {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Eligibility criteria considered while accepting the applications for the MBBS course admission in Canada:</b>",
+            "info": "Eligibility criteria considered while accepting the applications for the MBBS course admission in Canada:",
             //"img": 'https://www.selectyouruniversity.com/images/canada/eligibility-criteria-to-study-mbbs-in-canada.jpg',
             "data": [
                 "The minimum age limit to enroll for a medical program is 17 years in Canada.",
@@ -78,7 +79,7 @@ export const mbbsincanada= {
         {
             type: 'step-list',
             title: 'Step-by-Step Admission Process of Medicine at Canada',
-            info: '<b>A step by step procedure involved in taking admission for medical course in canada:</b>',
+            info: 'A step by step procedure involved in taking admission for medical course in canada:',
             //img: 'https://www.selectyouruniversity.com/images/canada/admission-process-to-study-mbbs-in-canada.jpg',
             data: [
                 "<p><b>Step 1:</b> Submission of the admission form and documents for the admission.</p>",
@@ -94,7 +95,7 @@ export const mbbsincanada= {
         {
             "type": "list-bollet",
             "title": "Documents Required to be Attached With Application Form",
-            "info": "<b>Following documents are essential for medical admission procedure in Canada:</b>",
+            "info": "Following documents are essential for medical admission procedure in Canada:",
             //"img": 'https://www.selectyouruniversity.com/images/canada/document-required-at-canada.jpg',
             "data": [
                 "Copies of XI & XII & bachelor’s degree with backlog’s marksheet.",
@@ -111,7 +112,7 @@ export const mbbsincanada= {
         {
             "type": "list-bollet",
             "title": "A System of Medical Education in the Universities of Canada",
-            "info": "<b>The structure of medical curriculum for taking admission in canada is as follows:</b>",
+            "info": "The structure of medical curriculum for taking admission in canada is as follows:",
             //"img": '',
             "data": [
                 "The biggest difference between Canada and other countries offering MBBS programs is that they don't offer direct admission for undergraduate programs in medicine.",
@@ -126,7 +127,7 @@ export const mbbsincanada= {
         {
             "type": "list-bollet",
             "title": "A Scope in Future After Acquiring MBBS Degree From Canada",
-            "info": "<b>Students have unlimited career prospects after completing MBBS degree in Canada:</b>",
+            "info": "Students have unlimited career prospects after completing MBBS degree in Canada:",
             //"img": '',
             "data": [
                 "Students get full preparation support for the medical license examination.",
@@ -140,7 +141,7 @@ export const mbbsincanada= {
         {
             "type": "list-bollet",
             "title": "International Recognition Received For Medical Universities in Canada",
-            "info": "<b>Following is the list of medical councils that gave recognition to the Canadan Universities:</b>",
+            "info": "Following is the list of medical councils that gave recognition to the Canadan Universities:",
             //"img": '',
             "data": [
                 "National Medical Commission (NMC)",
@@ -172,6 +173,12 @@ export const mbbsincanada= {
             ]}
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Canada 2023 - Syllabus'
+        },
+
         {
             "type": "table-title",
             "title": "A Detailed Overview of MBBS Syllabus in Canada",
@@ -180,18 +187,18 @@ export const mbbsincanada= {
                 "Stages",
                 "Semesters",
                 "Subjects",
-                ""
+                "-"
             ],
             "row": [
-              ["<b>Pre-Clinical</b>", "1-2", "Anatomy, Biochemistry, Physiology",""],
-              ["<b>Para-Clinical</b>", "3 - 5", "Community Medicine, Pathology, Forensic Medicine, Microbiology, Pharmacology, Clinical Postings in Wards, OPD",""],
+              ["<b>Pre-Clinical</b>", "1-2", "Anatomy, Biochemistry, Physiology","-"],
+              ["<b>Para-Clinical</b>", "3 - 5", "Community Medicine, Pathology, Forensic Medicine, Microbiology, Pharmacology, Clinical Postings in Wards, OPD","-"],
               ["<b>Clinical</b>", "6 - 9", "Community Medicine, Medicine and Allied Subjects (Dermatology, Psychiatry), Gynecology, Obstetrics, and Pediatrics","Surgery and Allied subjects (Anesthesiology, Ophthalmology, ENT, Orthopedics), Clinical Postings"]
             ]
           },
           {
             "type": "list-bollet",
             "title": "Medical Courses Offered in Canada",
-            "info": "<p><b>These are the courses in medicine available for studies in the universities of Canada:</p>",
+            "info": "These are the courses in medicine available for studies in the universities of Canada:",
             "data":[
                 "Paediatrics",
                 "Surgery",
@@ -220,10 +227,16 @@ export const mbbsincanada= {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Canada 2023 - Top Colleges in Canada'
+        },
+
         {
             "type": "table",
             "title": "Fees for Medical Degrees in Canadian Universities",
-            "info": "<b>A list of some of the best medical universities for MBBS studies in Canada:</b>",
+            "info": "A list of some of the best medical universities for MBBS studies in Canada:",
             "col": [
                 "Name of the Universities",
                 "Tuition Fees (USD)",
@@ -318,6 +331,11 @@ export const mbbsincanada= {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'MBBS in Canada 2023 - FAQs'
+        },
+
+        {
             "type": "question-list",
             "title": "MBBS in Canada: Important FAQs",
             "info": "The most frequently asked questions on popular education forum sites like Quora & Careers 360 are answered below:",
@@ -375,6 +393,11 @@ export const mbbsincanada= {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Canada 2023 - Career Options'
+        },
        
         {
             type: "meta",

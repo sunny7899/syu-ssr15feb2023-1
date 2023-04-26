@@ -22,7 +22,7 @@ export const carletonuniversity = {
         {
             "type": "table-title",
             "title": "Carleton University - Quick Overview",
-            "info": "<b>Students must check out the important highlights of Carleton university before taking admission:</b>",
+            "info": "Students must check out the important highlights of Carleton university before taking admission:",
             "col": [
             ],
             "row": [
@@ -43,7 +43,7 @@ export const carletonuniversity = {
         {
             "type": "list-bollet",
             "title": "Top Reasons to Study at Carleton University",
-            "info": "<b>Some of the main features mentioned below regarding Carleton University:</b>",
+            "info": "Some of the main features mentioned below regarding Carleton University:",
             "img": '',
             "data": [
                 "Carleton University is the capital city of Canada, has a long history that extends back roughly 80 years.",
@@ -62,7 +62,7 @@ export const carletonuniversity = {
         {
             "type": "table",
             "title": "Carleton University - Ranking 2022",
-            "info": "<b> Check the global and national ranking of the Carleton University:</b>",
+            "info": " Check the global and national ranking of the Carleton University:",
             "col": [
                 "World",
                 "Country",
@@ -80,7 +80,7 @@ export const carletonuniversity = {
         {
             "type": "list-bollet",
             "title": "Affiliations & Accreditation",
-            "info": "<b>Below mentioned are international organizations that are affiliated to Carleton University:</b>",
+            "info": "Below mentioned are international organizations that are affiliated to Carleton University:",
             "img": '',
             "data": [
                 "Universities Canada (AUCC)",
@@ -100,7 +100,7 @@ export const carletonuniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Following are the approx monthly expenses for the calculation purpose of the students:</b>",
+            "info": "Following are the approx monthly expenses for the calculation purpose of the students:",
             "col": [
                 "Particular",
                 "Approx Range (CAD) ",
@@ -153,9 +153,13 @@ export const carletonuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Carleton University, Canada - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Carleton University - Program & Course Duration",
-            "info": "<b>Undergraduate</b>",
+            "info": "Undergraduate",
             "textBelowInfo": "Engineering",
             "col": [
 
@@ -741,9 +745,13 @@ export const carletonuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Carleton University, Canada - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students must satisfy the following eligibility criteria according to their program before enrolling in the University:</b>",
+            "info": "Students must satisfy the following eligibility criteria according to their program before enrolling in the University:",
             "textBelowInfo": "Undergraduate programs:",
             "data": [
                 "High school and post-secondary transcripts",
@@ -766,7 +774,7 @@ export const carletonuniversity = {
         {
             "type": "step-list",
             "title": "Admission Procedure",
-            "info": "<b>Before starting the application process, look at the following steps to have a clear idea of the Admission procedure:</b>",
+            "info": "Before starting the application process, look at the following steps to have a clear idea of the Admission procedure:",
             "data": [
                 "<b>Step 1:</b> It is important to check the deadlines before starting your application",
                 "<b>Step 2:</b> All Carleton applicants must apply online at ouac.on.ca, the website of the Ontario Universities Application Centre (OUAC).",
@@ -783,7 +791,7 @@ export const carletonuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Applicants are necessary to submit the documents at the time of the admission:</b>",
+            "info": "Applicants are necessary to submit the documents at the time of the admission:",
             "data": [
                 "Official Transcript",
                 "Application form",
@@ -808,7 +816,7 @@ export const carletonuniversity = {
         {
             "type": "table",
             "title": "Carleton University - Admission Dates 2022",
-            "info": "<b>Students can check the important deadlines of the admission from the following table:</b>",
+            "info": "Students can check the important deadlines of the admission from the following table:",
             "col": [
                 "Events",
                 "Dates"
@@ -854,6 +862,10 @@ export const carletonuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Carleton University, Canada - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Carleton University, Canada - Reviews" },
@@ -873,9 +885,13 @@ export const carletonuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Carleton University, Canada - Placement"
+        },
+        {
             "type": "list-bollet",
             "title": "Placement",
-            "info": "<b>Carleton University also provides international Internships. Candidates must meet the following requirements to be eligible for theInternational Internship  programme:</b>",
+            "info": "Carleton University also provides international Internships. Candidates must meet the following requirements to be eligible for theInternational Internship  programme:",
             "data": [
                 "Candidates must have a minimum CGPA of 7.0",
                 "The candidates must be in their third year of an undergraduate degree programme at Carleton by the time they move overseas",
@@ -901,6 +917,10 @@ export const carletonuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Carleton University, Canada - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Carleton University, Canada - Gallery" },
@@ -920,9 +940,13 @@ export const carletonuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Carleton University, Canada - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships Provided to International students",
-            "info": "<b>Here is a list of scholarships available to international students based on their eligibility:</b>",
+            "info": "Here is a list of scholarships available to international students based on their eligibility:",
             "textBelowInfo": "Entrance scholarship:",
             "data": [
                 "Carleton University offers this scholarship only to the students who are attending Carleton for the first time from high school with no previous enrollment at post-secondary educational institutions.",
@@ -943,7 +967,7 @@ export const carletonuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Additional Entrance scholarships:</b>",
+            "info": "Additional Entrance scholarships:",
             "col": [
                 "Scholarships",
                 "Value",
@@ -999,9 +1023,13 @@ export const carletonuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Carleton University, Canada - Faculty"
+        },
+        {
             "type": "table-title",
             "title": "Faculties provided at Carleton University",
-            "info": "<b>The university is providing highly skilled faculty in various departments:</b>",
+            "info": "The university is providing highly skilled faculty in various departments:",
             "col": [
 
             ],
@@ -1072,6 +1100,10 @@ export const carletonuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Carleton University, Canada - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Carleton University, Canada - News & Articles" },
@@ -1091,9 +1123,13 @@ export const carletonuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Carleton University, Canada - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Carleton University provides a great opportunity to meet different people inside campus residences:</b>",
+            "info": "Carleton University provides a great opportunity to meet different people inside campus residences:",
             "data": [
                 "Kanata Lakes Residence is the top choice for excellent living and is established in the Kanata Lakes area.",
                 "The well-designed mid-rise structure houses affording 105 rental units with one or two bedrooms that are ideal for a busy lifestyle.",
@@ -1125,6 +1161,10 @@ export const carletonuniversity = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Carleton University, Canada - FAQ"
+        },
         {
             "type": "question-list",
             "title": "Carleton University - Important FAQs",

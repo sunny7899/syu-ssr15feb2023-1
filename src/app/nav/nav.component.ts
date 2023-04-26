@@ -1006,9 +1006,9 @@ export class NavComponent implements OnInit {
   }
 
   mouseEnter25() {
-    this.showdiv1 = true;
+    this.showdiv1 = false;
     this.showdiv2 = false;
-    this.showdiv3 = false;
+    this.showdiv3 = true;
     this.showdiv4 = false;
     this.showdiv5 = false;
     this.showdiv6 = false;
@@ -1040,9 +1040,9 @@ export class NavComponent implements OnInit {
   }
 
   mouseEnter26() {
-    this.showdiv1 = true;
+    this.showdiv1 = false;
     this.showdiv2 = false;
-    this.showdiv3 = false;
+    this.showdiv3 = true;
     this.showdiv4 = false;
     this.showdiv5 = false;
     this.showdiv6 = false;

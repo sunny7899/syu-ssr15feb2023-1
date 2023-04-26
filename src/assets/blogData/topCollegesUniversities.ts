@@ -196,7 +196,7 @@ export default [{
     title: "Top 30 Best Medical Universities in Russia",
     date: '10-07-2020',
     postedBy: "Bhavesh Nimodiya",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/best-medical-universities-in-russia.jpg',
     url: 'best-medical-universities-in-russia/.',
     data: [
@@ -208,13 +208,13 @@ export default [{
             type: 'text',
             title: '',
             info: '',
-            data: '<p>Welcome to another lucrative career guide of <b>SELECT YOUR UNIVERSITY</b>. We care about your yearning to explore more career-related information about your favorite courses, & as always we have the navigation ready to show you the direction.</p><p>You came here to seek the <b>best medical universities to study <a href="https://www.selectyouruniversity.com/mbbs-in-russia.php" target="_blank"> MBBS in Russia </a></b>, & we have over <b>25 Russian universities listed ahead</b> for you. </p><p>We have also given detailed information about these colleges in this entire article, so keep reading to not miss out on anything. </p>'
+            data: '<p>Welcome to another lucrative career guide of <b>SELECT YOUR UNIVERSITY</b>. We care about your yearning to explore more career-related information about your favorite courses, & as always we have the navigation ready to show you the direction.</p><p>You came here to seek the <b>best medical universities to study <a href="https://www.selectyouruniversity.com/course/mbbs-in-russia/" target="_blank"> MBBS in Russia </a></b>, & we have over <b>30 Russian universities listed ahead</b> for you. </p><p>We have also given detailed information about these colleges in this entire article, so keep reading to not miss out on anything. </p>'
         },
         {
             type: 'text',
-            title: 'Why choose foreign universities to do MBBS in 2022?',
+            title: 'Why choose foreign universities to do MBBS in 2023?',
             info: '',
-            data: "<p>Looking at the current crisis of global pandemic caused by a coronavirus, the duties & responsibilities of medical professionals seem to go challenging & yet more demanding on the contrary. </p><p>The epidemic of COVID-19 had a sheer <a href=https://www.selectyouruniversity.com/blog/covid-19-impacts-on-indian-education-system.php target=_blank> impact on the Indian education system </a>. </p><p>In the midst of all, the need for doctors & localized clinics are often exponentially higher to supply immediate health care facilities to the national citizens who are still inaccessible to a lot of basic clinical services. </p><p>However, the following questions still emerge to doubt the national education system & their functionality in a student's career growth.</p>"
+            data: "<p>Looking at the current crisis of global pandemic caused by a coronavirus, the duties & responsibilities of medical professionals seem to go challenging & yet more demanding on the contrary. </p><p>The epidemic of COVID-19 had a sheer <a href=https://www.selectyouruniversity.com/blog/covid-19-impacts-on-indian-education-system/ target=_blank> impact on the Indian education system </a>. </p><p>In the midst of all, the need for doctors & localized clinics are often exponentially higher to supply immediate health care facilities to the national citizens who are still inaccessible to a lot of basic clinical services. </p><p>However, the following questions still emerge to doubt the national education system & their functionality in a student's career growth.</p>"
         },
         {
             "type": "list-bollet",
@@ -252,13 +252,8 @@ export default [{
                     bds1: "313",
                     bds2: "26,773"
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b><u>Note:</u></b> The stats of colleges in the given table are subjected to constant fluctuation, but it is observed that the average is static throughout the year.</p>'
+            ],
+            "heading":'<p><b><u>Note:</u></b> The stats of colleges in the given table are subjected to constant fluctuation, but it is observed that the average is static throughout the year.</p>'
         },
         {
             type: 'list-bollet',
@@ -271,10 +266,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: 'How studying MBBS in Russia is the wisest career decision for Indian medical aspirants?',
             info: '',
-            data: "<p>Russia consists of every single element that any foreign country must have to pull the attention of international students.</p><p>Name anything & Russian universities are capable enough to provide everything to fulfill your dreams of becoming a doctor.</p><p>If we look at the data of foreign students studying in Russia, then you find a huge percentage of the population from different countries learning courses which makes up to 3% of the total student population in Russia. </p><p>It's no surprising factor that a massive portion of these students is Indian.</p><p>Russian medical universities have secured over 30 positions in the world of medical schools.</p><p>Foreign Medical Graduate Exam (FMGE) is the primary requirement for students studying abroad to get a legal license for doing medical practice in India.</p><p>The role of any international university is very vital to help Indian students in clearing the FMGE exam. The good news is Russia is one of those countries that has a legitimate track record of successive passing rates.</p>"
+            data: [
+                "Russia consists of every single element that any foreign country must have to pull the attention of international students.",
+                "Name anything & Russian universities are capable enough to provide everything to fulfill your dreams of becoming a doctor.",
+                "If we look at the data of foreign students studying in Russia, then you find a huge percentage of the population from different countries learning courses which makes up to 3% of the total student population in Russia.",
+                "It's no surprising factor that a massive portion of these students is Indian.",
+                "Russian medical universities have secured over 30 positions in the world of medical schools.",
+                "Foreign Medical Graduate Exam (FMGE) is the primary requirement for students studying abroad to get a legal license for doing medical practice in India.",
+                "The role of any international university is very vital to help Indian students in clearing the FMGE exam. The good news is Russia is one of those countries that has a legitimate track record of successive passing rates."
+            ]
         },
         {
             type: 'table',
@@ -348,16 +351,11 @@ export default [{
                     "Passed (2015-18)": "143",
                     "Percentage": "10.27"
                 }
-            ]
+            ],
+            "heading":'<p>Currently, <b>more than 10,000 students belonging to India</b> have enrolled in various educational courses in Russian universities.</p><p>According to an estimate of the Indian embassy located in Russia, <b>80% of Indian students in Russia are exclusively studying courses on medicine</b>.</p>'
         },
+        
 
-
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p>Currently, <b>more than 10,000 students belonging to India</b> have enrolled in various educational courses in Russian universities.</p><p>According to an estimate of the Indian embassy located in Russia, <b>80% of Indian students in Russia are exclusively studying courses on medicine</b>.</p>'
-        },
         {
             type: 'table-title',
             title: 'Benefits of Studying MBBS in Medical Universities of Russia',
@@ -378,9 +376,10 @@ export default [{
                 ["Deadline of the Application", "September"],
                 ["Course Commence Date", "October"],
                 ["Common Institutional Accreditation", "Ministry of Science and Higher Education of the Russian Federation"],
-                ["Recommended University", "Lomonosov Moscow State University"]
+                ["Recommended University", "Bashkir State Medical University"]
             ]
         },
+        
         {
             type: 'list-bollet',
             title: '',
@@ -396,18 +395,15 @@ export default [{
                 "Universities have a special agenda for the leisure activities of the students.",
                 "You are allowed to participate in various contests, the competition to enhance your fullest potential.",
                 "All public universities of Russia provide well-furnished hostel rooms & convenient residences with essential arrangements for living."
-            ]
+            ],
+            "heading":'<p><b><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-russia-to-study-mbbs/" target="_blank">Why Choose Russia to Study MBBS?</a></p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><b style="color: red;"><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-russia-to-study-mbbs.php" target="_blank">Why Choose Russia to Study MBBS?</a></p>'
-        },
+        
         {
             type: 'table-title',
-            title: 'Here is the list of Top-Ranked Russian Medical universities for Indian students to study MBBS in 2022',
-            info: 'Samara State Medical University',
+            title: 'Here is the list of Top-Ranked Russian Medical universities for Indian students to study MBBS in 2023',
+            info: '<h3>1. <a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/ target=_blank>Samara State Medical University</a></h3>',
+            //"img": "../../assets/img/university_gallery/astana-medical-university.jpg",
             "col": [],
             "row": [
                 ["Foundation Year", "1919"],
@@ -415,23 +411,29 @@ export default [{
                 ["Location of University", "Samara"],
                 ["No. of Students Enrolled", "5,000+"],
                 ["No. of Academic Staff", "622"],
-                ["National Rank", "197"],
-                ["World Rank", "4826"],
-                ["Annual Tuition Fees", "6817$ [5,44,613.88 lakhs]"],
-                ["Annual Hostel Fees", "941$ [75,177k ]"],
+                ["National Rank", "178"],
+                ["World Rank", "5422"],
+                ["Annual Tuition Fees", "6817$ [5,45,360 lakhs]"],
+                ["Annual Hostel Fees", "941$ [75,280 K ]"],
                 ["Major Accreditation", "Ministry of Health of Russian Federation"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/courses-and-fees/ target=_blank>Samara State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/admission/ target=_blank>Samara State Medical University - Admission</a>"
+            ],
         },
+       
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Orel State University',
+            info: '<h3>2. <a href=https://www.selectyouruniversity.com/university/orel-state-university/ target=_blank>Orel State University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1931"],
@@ -439,23 +441,28 @@ export default [{
                 ["Location of University", "Oryol"],
                 ["No. of Students Enrolled", "18,000"],
                 ["No. of Academic Staff", "300+"],
-                ["National Rank", "143"],
-                ["World Rank", "4041"],
-                ["Annual Tuition Fees", "3800$ [3,03,492 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [23,960 K]"],
+                ["National Rank", "183"],
+                ["World Rank", "5490"],
+                ["Annual Tuition Fees", "3800$ [3,04,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/orel-state-university/courses-and-fees/ target=_blank>Orel State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/orel-state-university/admission/ target=_blank>Orel State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Volgograd State Medical University',
+            info: '<h3>3. <a href=https://www.selectyouruniversity.com/university/volgograd-state-medical-university/ target=_blank>Volgograd State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1935"],
@@ -463,23 +470,28 @@ export default [{
                 ["Location of University", "Volgograd"],
                 ["No. of Students Enrolled", "11,000 +"],
                 ["No. of Academic Staff", "1200 +"],
-                ["National Rank", "88"],
-                ["World Rank", "3112"],
-                ["Annual Tuition Fees", "5900$ [4,71,170 Lakhs]"],
-                ["Annual Hostel Fees", "500$ [39,927 K]"],
+                ["National Rank", "115"],
+                ["World Rank", "4252"],
+                ["Annual Tuition Fees", "5900$ [4,72,000 Lakhs]"],
+                ["Annual Hostel Fees", "500$ [40,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO and Russian Ministry of Education"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/volgograd-state-medical-university/courses-and-fees/ target=_blank>Volgograd State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/volgograd-state-medical-university/admission/ target=_blank>Volgograd State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Kursk State Medical University',
+            info: '<h3>4. <a href=https://www.selectyouruniversity.com/university/kursk-state-medical-university/ target=_blank>Kursk State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1935"],
@@ -487,23 +499,28 @@ export default [{
                 ["Location of University", "Kursk"],
                 ["No. of Students Enrolled", "7000"],
                 ["No. of Academic Staff", "633"],
-                ["National Rank", "180"],
-                ["World Rank", "4670"],
-                ["Annual Tuition Fees", "5580$ [4,45,538 Lakhs]"],
-                ["Annual Hostel Fees", "700$ [55,891 K]"],
+                ["National Rank", "204"],
+                ["World Rank", "5804"],
+                ["Annual Tuition Fees", "5580$ [4,46,400 Lakhs]"],
+                ["Annual Hostel Fees", "700$ [56,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO,USMLE,GMC and AMA"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kursk-state-medical-university/courses-and-fees/ target=_blank>Kursk State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kursk-state-medical-university/admission/ target=_blank>Kursk State Medical University - Admission</a>"
+            ],
         },
+       
         {
             type: 'table-title',
             title: '',
-            info: 'Orenburg State Medical University',
+            info: '<h3>5. <a href=https://www.selectyouruniversity.com/university/orenburg-state-medical-university/ target=_blank>Orenburg State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1944"],
@@ -511,23 +528,28 @@ export default [{
                 ["Location of University", "Orenburg"],
                 ["No. of Students Enrolled", "3,000 - 3,999"],
                 ["No. of Academic Staff", "555"],
-                ["National Rank", "246"],
-                ["World Rank", "5725"],
-                ["Annual Tuition Fees", "5000$ [3,99,062 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [23,943 K]"],
+                ["National Rank", "233"],
+                ["World Rank", "6369"],
+                ["Annual Tuition Fees", "5000$ [4,00,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, Ministry of Health of Russian Federation and Education Commission for Foreign Medical Graduates"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/orenburg-state-medical-university/courses-and-fees/ target=_blank>Orenburg State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/orenburg-state-medical-university/admission/ target=_blank>Orenburg State Medical University - Admission</a>"
+            ],
         },
+       
         {
             type: 'table-title',
             title: '',
-            info: 'Lomonosov Moscow State University (LMSU)',
+            info: '<h3>6. <a href=https://www.selectyouruniversity.com/university/lomonosov-moscow-state-university/ target=_blank>Lomonosov Moscow State University (LMSU)</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1755"],
@@ -536,22 +558,27 @@ export default [{
                 ["No. of Students Enrolled", "25,000 - 30,000"],
                 ["No. of Academic Staff", "4,500 - 5,000"],
                 ["National Rank", "1"],
-                ["World Rank", "123"],
+                ["World Rank", "218"],
                 ["Annual Tuition Fees", "5246$ [3.6 Lakhs]"],
                 ["Annual Hostel Fees", "1200$ [8.4 Lakhs]"],
                 ["Major Accreditation", "	NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/lomonosov-moscow-state-university/courses-and-fees/ target=_blank>Lomonosov Moscow State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/lomonosov-moscow-state-university/admission/ target=_blank>Lomonosov Moscow State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Kazan Federal University (KFU)',
+            info: '<h3>7. <a href=https://www.selectyouruniversity.com/university/kazan-federal-university/ target=_blank>Kazan Federal University (KFU)</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1804"],
@@ -559,23 +586,28 @@ export default [{
                 ["Location of University", "Kazan Oblast"],
                 ["No. of Students Enrolled", "45,000"],
                 ["No. of Academic Staff", "4,000 - 5,000"],
-                ["National Rank", "5"],
-                ["World Rank", "423"],
-                ["Annual Tuition Fees", "5585$ [3.9 Lakhs]"],
-                ["Annual Hostel Fees", "95$ [6650]"],
+                ["National Rank", "10"],
+                ["World Rank", "1016"],
+                ["Annual Tuition Fees", "5585$ [4,46,800 Lakhs]"],
+                ["Annual Hostel Fees", "95$ [7,600 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kazan-federal-university/courses-and-fees/ target=_blank>Kazan Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kazan-federal-university/admission/ target=_blank>Kazan Federal University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Novosibirsk National Research State University (NNRSU)',
+            info: '<h3>8. <a href=https://www.selectyouruniversity.com/university/novosibirsk-state-university/ target=_blank>Novosibirsk National Research State University (NNRSU)</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1959"],
@@ -583,23 +615,28 @@ export default [{
                 ["Location of University", "Novosibirsk Oblast"],
                 ["No. of Students Enrolled", "6,000 - 7,000"],
                 ["No. of Academic Staff", "2,000 - 2,500"],
-                ["National Rank", "11"],
-                ["World Rank", "819"],
-                ["Annual Tuition Fees", "5000$ [3.5 Lakhs]"],
-                ["Annual Hostel Fees", "1000$ [70,000]"],
+                ["National Rank", "9"],
+                ["World Rank", "959"],
+                ["Annual Tuition Fees", "5000$ [4,00,000 Lakhs]"],
+                ["Annual Hostel Fees", "1000$ [80,000]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/novosibirsk-state-university/courses-and-fees/ target=_blank>Novosibirsk National Research State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/novosibirsk-state-university/admission/ target=_blank>Novosibirsk National Research State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: 'Belgorod State University (BSU)',
+            info: '<h3>9. <a href=https://www.selectyouruniversity.com/university/belgorod-state-university/ target=_blank>Belgorod State University (BSU)</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1976"],
@@ -607,23 +644,28 @@ export default [{
                 ["Location of University", "Belgorod Oblast"],
                 ["No. of Students Enrolled", "33,000 - 35,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "13"],
-                ["World Rank", "857"],
-                ["Annual Tuition Fees", "5000$ [3.5 Lakhs]"],
-                ["Annual Hostel Fees", "450$ [31,500]"],
+                ["National Rank", "22"],
+                ["World Rank", "1660"],
+                ["Annual Tuition Fees", "5000$ [4,00,000 Lakhs]"],
+                ["Annual Hostel Fees", "450$ [36,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/belgorod-state-university/courses-and-fees/ target=_blank>Belgorod State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/belgorod-state-university/admission/ target=_blank>Belgorod State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Peoples' Friendship University (PFU)",
+            info: "<h3>10. <a href=https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/ target=_blank>Peoples' Friendship University (PFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1960"],
@@ -632,22 +674,27 @@ export default [{
                 ["No. of Students Enrolled", "20,000 - 25,000"],
                 ["No. of Academic Staff", "15,000 - 2,000"],
                 ["National Rank", "14"],
-                ["World Rank", "650"],
-                ["Annual Tuition Fees", "7000$ [3.5 Lakhs]"],
-                ["Annual Hostel Fees", "1200$ [84,000]"],
+                ["World Rank", "1254"],
+                ["Annual Tuition Fees", "7000$ [5,60,000 Lakhs]"],
+                ["Annual Hostel Fees", "1200$ [96,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/courses-and-fees/ target=_blank>Peoples' Friendship University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/peoples-friendship-university-of-russia/admission/ target=_blank>Peoples' Friendship University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Crimean Federal University (CFU)",
+            info: "<h3>11. <a href=https://www.selectyouruniversity.com/university/crimean-federal-university/ target=_blank>Crimean Federal University (CFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2014"],
@@ -655,23 +702,28 @@ export default [{
                 ["Location of University", "Moscow Oblast"],
                 ["No. of Students Enrolled", "30,000 - 35,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "19"],
-                ["World Rank", "3512"],
-                ["Annual Tuition Fees", "3700$ [2.5 Lakhs]"],
-                ["Annual Hostel Fees", "1000$ [70,000]"],
+                ["National Rank", "17"],
+                ["World Rank", "3933"],
+                ["Annual Tuition Fees", "3700$ [2,96,000 Lakhs]"],
+                ["Annual Hostel Fees", "1000$ [80,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/crimean-federal-university/courses-and-fees/ target=_blank>Crimean Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/crimean-federal-university/admission/ target=_blank>Crimean Federal University - Admission</a>"
+            ],
         },
+       
         {
             type: 'table-title',
             title: '',
-            info: "Ogarev Mordovia State University (OMSU)",
+            info: "<h3>12. <a href=https://www.selectyouruniversity.com/university/ogarev-mordovia-state-university/ target=_blank>Ogarev Mordovia State University (OMSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1931"],
@@ -679,23 +731,27 @@ export default [{
                 ["Location of University", "Saransk City"],
                 ["No. of Students Enrolled", "30,000 - 35,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "29"],
-                ["World Rank", "1931"],
-                ["Annual Tuition Fees", "4143$ [2.9 Lakhs]"],
-                ["Annual Hostel Fees", "700$ [50,000]"],
+                ["National Rank", "44"],
+                ["World Rank", "2488"],
+                ["Annual Tuition Fees", "4143$ [3,31,440 Lakhs]"],
+                ["Annual Hostel Fees", "700$ [56,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/ogarev-mordovia-state-university/courses-and-fees/ target=_blank>Ogarev Mordovia State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/ogarev-mordovia-state-university/admission/ target=_blank>Ogarev Mordovia State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Immanuel Kant Baltic Federal University (IKBFU)",
+            info: "<h3>13. <a href=https://www.selectyouruniversity.com/university/immanuel-kant-baltic-federal-university/ target=_blank>Immanuel Kant Baltic Federal University (IKBFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1967"],
@@ -703,23 +759,27 @@ export default [{
                 ["Location of University", "Kaliningrad Oblast"],
                 ["No. of Students Enrolled", "10,000 - 15,000"],
                 ["No. of Academic Staff", "900 - 1,000"],
-                ["National Rank", "56"],
-                ["World Rank", "2325"],
+                ["National Rank", "74"],
+                ["World Rank", "3344"],
                 ["Annual Tuition Fees", "5374$ [3.7 Lakhs]"],
                 ["Annual Hostel Fees", "500$ [35,000]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/immanuel-kant-baltic-federal-university/courses-and-fees/ target=_blank>Immanuel Kant Baltic Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/immanuel-kant-baltic-federal-university/admission/ target=_blank>Immanuel Kant Baltic Federal University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Far Eastern Federal University (FEFU)",
+            info: "<h3>14. <a href=https://www.selectyouruniversity.com/university/far-eastern-federal-university/ target=_blank>Far Eastern Federal University (FEFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1899"],
@@ -727,23 +787,27 @@ export default [{
                 ["Location of University", "Vladivostok Oblast"],
                 ["No. of Students Enrolled", "40,000 - 45,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "25"],
-                ["World Rank", "1338"],
-                ["Annual Tuition Fees", "3000$ [2.1 Lakhs]"],
-                ["Annual Hostel Fees", "650$ [45,500]"],
+                ["National Rank", "29"],
+                ["World Rank", "1834"],
+                ["Annual Tuition Fees", "3000$ [2,40,000 Lakhs]"],
+                ["Annual Hostel Fees", "650$ [52,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/far-eastern-federal-university/courses-and-fees/ target=_blank>Far Eastern Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/far-eastern-federal-university/admission/ target=_blank>Far Eastern Federal University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "North-Eastern Federal University (NEFU)",
+            info: "<h3>15. <a href=https://www.selectyouruniversity.com/university/north-eastern-federal-university/ target=_blank>North-Eastern Federal University (NEFU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1956"],
@@ -751,23 +815,27 @@ export default [{
                 ["Location of University", "Yakutsk Oblast"],
                 ["No. of Students Enrolled", "10,000 - 15,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "36"],
-                ["World Rank", "1717"],
-                ["Annual Tuition Fees", "3250$ [2.7 Lakhs]"],
-                ["Annual Hostel Fees", "750$ [52,500]"],
+                ["National Rank", "31"],
+                ["World Rank", "1867"],
+                ["Annual Tuition Fees", "3250$ [2,60,000 Lakhs]"],
+                ["Annual Hostel Fees", "750$ [60,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/north-eastern-federal-university/courses-and-fees/ target=_blank>North-Eastern Federal University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/north-eastern-federal-university/admission/ target=_blank>North-Eastern Federal University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "First Moscow State Medical University (MGMU)",
+            info: "<h3>16. <a href=https://www.selectyouruniversity.com/university/first-moscow-state-medical-university/ target=_blank>First Moscow State Medical University (MGMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2015"],
@@ -775,23 +843,28 @@ export default [{
                 ["Location of University", "Moscow Oblast"],
                 ["No. of Students Enrolled", "40,000 - 45,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "38"],
-                ["World Rank", "12060"],
-                ["Annual Tuition Fees", "9750$ [6.8 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "37"],
+                ["World Rank", "12271"],
+                ["Annual Tuition Fees", "9750$ [7,80,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/first-moscow-state-medical-university/courses-and-fees/ target=_blank>First Moscow State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/first-moscow-state-medical-university/admission/ target=_blank>First Moscow State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Perm State Medical University (PSMU)",
+            info: "<h3>17. <a href=https://www.selectyouruniversity.com/university/perm-state-medical-university/ target=_blank>Perm State Medical University (PSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1916"],
@@ -799,23 +872,28 @@ export default [{
                 ["Location of University", "Perm Krai"],
                 ["No. of Students Enrolled", "3,000 - 4,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "251"],
-                ["World Rank", "5426"],
-                ["Annual Tuition Fees", "4500$ [3.1 Lakhs]"],
-                ["Annual Hostel Fees", "1000$ [70,000]"],
+                ["National Rank", "269"],
+                ["World Rank", "7093"],
+                ["Annual Tuition Fees", "4500$ [3,60,000 Lakhs]"],
+                ["Annual Hostel Fees", "1000$ [80,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/perm-state-medical-university/courses-and-fees/ target=_blank>Perm State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/perm-state-medical-university/admission/ target=_blank>Perm State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Tyumen State Medical University (TSMU)",
+            info: "<h3>18. <a href=https://www.selectyouruniversity.com/university/tyumen-state-medical-university/ target=_blank>Tyumen State Medical University (TSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1930"],
@@ -823,23 +901,28 @@ export default [{
                 ["Location of University", "Tyumen Oblast"],
                 ["No. of Students Enrolled", "15,000 - 20,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "46"],
-                ["World Rank", "2000"],
-                ["Annual Tuition Fees", "3600$ [2.5 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "50"],
+                ["World Rank", "2603"],
+                ["Annual Tuition Fees", "3600$ [2,88,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/courses-and-fees/ target=_blank>Tyumen State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/admission/ target=_blank>Tyumen State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Penza State Medical University (PSMU)",
+            info: "<h3>19. <a href=https://www.selectyouruniversity.com/university/penza-state-medical-university/ target=_blank>Penza State Medical University (PSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1943"],
@@ -847,23 +930,28 @@ export default [{
                 ["Location of University", "Penza Oblast"],
                 ["No. of Students Enrolled", "9,000 - 10,000"],
                 ["No. of Academic Staff", "700 - 800"],
-                ["National Rank", "51"],
-                ["World Rank", "2162"],
-                ["Annual Tuition Fees", "4000$ [2.8 Lakhs]"],
-                ["Annual Hostel Fees", "1000$ [70,000]"],
+                ["National Rank", "80"],
+                ["World Rank", "3619"],
+                ["Annual Tuition Fees", "4000$ [3,20,000 Lakhs]"],
+                ["Annual Hostel Fees", "1000$ [80,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/penza-state-medical-university/courses-and-fees/ target=_blank>Penza State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/penza-state-medical-university/admission/ target=_blank>Penza State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Siberian State Medical University (SSMU)",
+            info: "<h3>20. <a href=https://www.selectyouruniversity.com/university/siberian-state-medical-university/ target=_blank>Siberian State Medical University (SSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1888"],
@@ -871,23 +959,28 @@ export default [{
                 ["Location of University", "Tomsk Oblast"],
                 ["No. of Students Enrolled", "3,000 - 4,000"],
                 ["No. of Academic Staff", "6,00 - 7,00"],
-                ["National Rank", "107"],
-                ["World Rank", "3135"],
-                ["Annual Tuition Fees", "3803$ [2.6 Lakhs]"],
-                ["Annual Hostel Fees", "450$ [30,000]"],
+                ["National Rank", "116"],
+                ["World Rank", "4255"],
+                ["Annual Tuition Fees", "3803$ [3,04,240 Lakhs]"],
+                ["Annual Hostel Fees", "450$ [36,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/siberian-state-medical-university/courses-and-fees/ target=_blank>Siberian State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/siberian-state-medical-university/admission/ target=_blank>Siberian State Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Russian National Research Medical University (RNRMU)",
+            info: "<h3>21. <a href=https://www.selectyouruniversity.com/university/russian-national-research-medical-university/ target=_blank>Russian National Research Medical University (RNRMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1906"],
@@ -895,23 +988,28 @@ export default [{
                 ["Location of University", "Moscow Oblast"],
                 ["No. of Students Enrolled", "9,000 - 10,000"],
                 ["No. of Academic Staff", "4,500 - 5,000"],
-                ["National Rank", "61"],
-                ["World Rank", "2433"],
-                ["Annual Tuition Fees", "7550$ [5.2 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "78"],
+                ["World Rank", "3559"],
+                ["Annual Tuition Fees", "7550$ [6,04,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [2,400]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/russian-national-research-medical-university/courses-and-fees/ target=_blank>Russian National Research Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/russian-national-research-medical-university/admission/ target=_blank>Russian National Research Medical University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Kabardino Balkarian State University (KBSU)",
+            info: "<h3>22. <a href=https://www.selectyouruniversity.com/university/kabardino-balkarian-state-university/ target=_blank>Kabardino Balkarian State University (KBSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1832"],
@@ -919,23 +1017,28 @@ export default [{
                 ["Location of University", "Nalchik Region"],
                 ["No. of Students Enrolled", "8,000 - 9,000"],
                 ["No. of Academic Staff", "900 - 1,000"],
-                ["National Rank", "99"],
-                ["World Rank", "3034"],
-                ["Annual Tuition Fees", "5500$ [3.8 Lakhs]"],
-                ["Annual Hostel Fees", "	500$ [35,000]"],
+                ["National Rank", "87"],
+                ["World Rank", "3716"],
+                ["Annual Tuition Fees", "5500$ [4,40,000 Lakhs]"],
+                ["Annual Hostel Fees", "500$ [40,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kabardino-balkarian-state-university/courses-and-fees/ target=_blank>Kabardino Balkarian State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kabardino-balkarian-state-university/admission/ target=_blank>Kabardino Balkarian State University - Admission</a>"
+            ],
         },
+        
         {
             type: 'table-title',
             title: '',
-            info: "Ural State Medical University (USMU)",
+            info: "<h3>23. <a href=https://www.selectyouruniversity.com/university/ural-state-medical-university/ target=_blank>Ural State Medical University (USMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1930"],
@@ -943,23 +1046,28 @@ export default [{
                 ["Location of University", "Sverdlovsk Oblast"],
                 ["No. of Students Enrolled", "40,000 - 45,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "243"],
-                ["World Rank", "5267"],
-                ["Annual Tuition Fees", "4300$ [3.0 Lakhs]"],
-                ["Annual Hostel Fees", "500$ [35,000]"],
+                ["National Rank", "16"],
+                ["World Rank", "1401"],
+                ["Annual Tuition Fees", "4300$ [3,44,000 Lakhs]"],
+                ["Annual Hostel Fees", "500$ [40,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/ural-state-medical-university/courses-and-fees/ target=_blank>Ural State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/ural-state-medical-university/admission/ target=_blank>Ural State Medical University - Admission</a>"
+            ],
         },
+       
         {
             type: 'table-title',
             title: '',
-            info: "Tula State University (TSU)",
+            info: "<h3>24. <a href=https://www.selectyouruniversity.com/university/tula-state-university/ target=_blank>Tula State University (TSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1930"],
@@ -967,23 +1075,27 @@ export default [{
                 ["Location of University", "TulaOblast"],
                 ["No. of Students Enrolled", "20,000 - 25,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "83"],
-                ["World Rank", "2862"],
-                ["Annual Tuition Fees", "3200$ [2.2 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "229"],
+                ["World Rank", "6315"],
+                ["Annual Tuition Fees", "3200$ [2,56,000 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/tula-state-university/courses-and-fees/ target=_blank>Tula State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/tula-state-university/admission/ target=_blank>Tula State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Bashkir State Medical University (BSMU)",
+            info: "<h3>25. <a href=https://www.selectyouruniversity.com/university/bashkir-state-medical-university/ target=_blank>Bashkir State Medical University (BSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1932"],
@@ -991,23 +1103,27 @@ export default [{
                 ["Location of University", "Bashkortostan Oblast"],
                 ["No. of Students Enrolled", "7,000 - 9,000"],
                 ["No. of Academic Staff", "1,500 - 2,000"],
-                ["National Rank", "136"],
-                ["World Rank", "3538"],
-                ["Annual Tuition Fees", "4300$ [3.0 Lakhs]"],
-                ["Annual Hostel Fees", "200$ [14,000]"],
+                ["National Rank", "171"],
+                ["World Rank", "5240"],
+                ["Annual Tuition Fees", "4300$ [3,44,000 Lakhs]"],
+                ["Annual Hostel Fees", "200$ [16,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/bashkir-state-medical-university/courses-and-fees/ target=_blank>Bashkir State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/bashkir-state-medical-university/admission/ target=_blank>Bashkir State Medical University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Kazan State Medical University (KSMU)",
+            info: "<h3>26. <a href=https://www.selectyouruniversity.com/university/kazan-state-medical-university/ target=_blank>Kazan State Medical University (KSMU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1814"],
@@ -1015,23 +1131,27 @@ export default [{
                 ["Location of University", "Tatarstan Oblast"],
                 ["No. of Students Enrolled", "4,000 - 5,000"],
                 ["No. of Academic Staff", "900 - 1,000"],
-                ["National Rank", "124"],
-                ["World Rank", "3358"],
-                ["Annual Tuition Fees", "5200$ [3.6 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "220"],
+                ["World Rank", "6143"],
+                ["Annual Tuition Fees", "5200$ [4,16,00 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kazan-state-medical-university/courses-and-fees/ target=_blank>Kazan State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kazan-state-medical-university/admission/ target=_blank>Kazan State Medical University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Pskov State University (PSU)",
+            info: "<h3>27. <a href=https://www.selectyouruniversity.com/university/pskov-state-university/ target=_blank>Pskov State University (PSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1932"],
@@ -1039,23 +1159,27 @@ export default [{
                 ["Location of University", "Pskov Oblast"],
                 ["No. of Students Enrolled", "2,000 - 3,000"],
                 ["No. of Academic Staff", "200 - 300"],
-                ["National Rank", "128"],
-                ["World Rank", "3457"],
-                ["Annual Tuition Fees", "4400$ [3.0 Lakhs]"],
-                ["Annual Hostel Fees", "450$ [31,500]"],
+                ["National Rank", "155"],
+                ["World Rank", "5006"],
+                ["Annual Tuition Fees", "4400$ [3,52,000 Lakhs]"],
+                ["Annual Hostel Fees", "450$ [36,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/pskov-state-university/courses-and-fees/ target=_blank>Pskov State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/pskov-state-university/admission/ target=_blank>Pskov State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Mari State University (MSU)",
+            info: "<h3>28. <a href=https://www.selectyouruniversity.com/university/mari-state-university/ target=_blank>Mari State University (MSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1972"],
@@ -1063,23 +1187,27 @@ export default [{
                 ["Location of University", "Mari El Region"],
                 ["No. of Students Enrolled", "5,000 - 6,000"],
                 ["No. of Academic Staff", "400 - 500"],
-                ["National Rank", "135"],
-                ["World Rank", "3520"],
-                ["Annual Tuition Fees", "5500$ [3.8 Lakhs]"],
-                ["Annual Hostel Fees", "300$ [21,000]"],
+                ["National Rank", "127"],
+                ["World Rank", "4486"],
+                ["Annual Tuition Fees", "5500$ [34,40,00 Lakhs]"],
+                ["Annual Hostel Fees", "300$ [24,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/mari-state-university/courses-and-fees/ target=_blank>Mari State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/mari-state-university/admission/ target=_blank>Mari State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Chuvash State University (CSU)",
+            info: "<h3>29. <a href=https://www.selectyouruniversity.com/university/chuvash-state-university/ target=_blank>Chuvash State University (CSU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1967"],
@@ -1087,23 +1215,27 @@ export default [{
                 ["Location of University", "Vladivostok Oblast"],
                 ["No. of Students Enrolled", "10,000 - 15,000"],
                 ["No. of Academic Staff", "1,000 - 1,500"],
-                ["National Rank", "120"],
-                ["World Rank", "3320"],
-                ["Annual Tuition Fees", "2600$ [1.8 Lakhs]"],
-                ["Annual Hostel Fees", "650$ [45,500]"],
+                ["National Rank", "90"],
+                ["World Rank", "3762"],
+                ["Annual Tuition Fees", "2600$ [2,08,00 Lakhs]"],
+                ["Annual Hostel Fees", "650$ [52,000 K]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/chuvash-state-university/courses-and-fees/ target=_blank>Chuvash State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/chuvash-state-university/admission/ target=_blank>Chuvash State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
             title: '',
-            info: "Ulyanovsk State University (USU)",
+            info: "<h3>30. <a href=https://www.selectyouruniversity.com/university/ulyanovsk-state-university/ target=_blank>Ulyanovsk State University (USU)</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1988"],
@@ -1111,18 +1243,22 @@ export default [{
                 ["Location of University", "Ulyanovsk Oblast"],
                 ["No. of Students Enrolled", "10,000 - 15,000"],
                 ["No. of Academic Staff", "900 - 1,000"],
-                ["National Rank", "64"],
-                ["World Rank", "2511"],
-                ["Annual Tuition Fees", "1190$ [83,300]"],
-                ["Annual Hostel Fees", "450$ [32,500]"],
+                ["National Rank", "109"],
+                ["World Rank", "4101"],
+                ["Annual Tuition Fees", "1190$ [95,200]"],
+                ["Annual Hostel Fees", "450$ [36,000]"],
                 ["Major Accreditation", "NMC, WHO, UNESCO"]
-            ]
+            ],
+            "heading":'<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 80 INR.</p>'
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '',
-            data: '<p><u><b>Note:</b></u> Fees mentioned in the given table are based on the following calculation rates: 1 USD = 70 INR.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/ulyanovsk-state-university/courses-and-fees/ target=_blank>Ulyanovsk State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/ulyanovsk-state-university/admission/ target=_blank>Ulyanovsk State University - Admission</a>"
+            ],
         },
         {
             type: 'text',
@@ -1156,22 +1292,22 @@ export default [{
     ]
 },
 {
-    title: "List of Top 20 Universities/Colleges for MBBS in Georgia (2022)",
+    title: "List of Top 20 Universities/Colleges for MBBS in Georgia (2023)",
     date: '10-07-2020',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-georgia.jpg',
-    url: 'top-medical-universities-in-georgia',
+    url: 'top-medical-universities-in-georgia/.',
     data: [
         {
             type: 'title',
-            title: 'List of Top 20 Universities/Colleges for MBBS in Georgia (2022)'
+            title: 'List of Top 20 Universities/Colleges for MBBS in Georgia (2023)'
         },
         {
             type: 'text',
             title: '',
             info: '',
-            data: "<p>Located in the crossroads of Europe and Asia, <a href=https://www.selectyouruniversity.com/mbbs-in-georgia.php target=_blank>Georgia is one of the most admirable destinations</a> for studying MBBS among international students. Tbilisi is the capital & largest city in the country, which is the definition of a high rich standard.</p><p>There are <b>too many private universities (NMC recognized) in Georgia</b> that offer a standard quality of education with a duration of five years. </p><p>Georgia is one of those 30 nations where the Indian Embassy is not present; therefore, you have to rely on the concurrent Embassy office in Yerevan, Capital of Armenia, which is 280 kilometers away from Tbilisi. </p><p>Students don't need to visit the embassy for at least 5 to 6 years. The Indian ambassador for the concurrent embassy in Georgia keeps attending the ceremonies organized in Georgia to interact with existing Indian students.</p><p>Apart from the main fee structure, the students' expenses are another factor to research before planning to study abroad. In Georgia, the average cost of living goes around 3000$ per annum (250$/ Month Approx.) that mostly consist of Food charges, Rates of Accommodation & Laundry services. <b>This cost is relatively cheaper than what students have to consider in other European countries</b>.</p><p>European Universities, including Georgia, are well aware of the <b>exponential growth in foreign education among Indian students</b>. Hence, taking this consideration to accounts, these universities have altered necessary changes that are more likely suitable for the Indian students. </p><p>Georgian Universities understand the relevance of NMC approval is crucial for Indian aspirants and that their colleges have been granted such <b>recognition from NMC, WHO & other global recognition committees</b>. Plenty of Private Institutes provides NMC coaching for Indian students & maintain above-average passing percentage.</p><p>In order to configure the supremacy of any foreign university, it is recommended to rely on the support system of the management more than the age of the college or university. You can clarify these aspects by analyzing the feedback by the students who are now part of either of these universities or graduated from there. </p><p><a href=https://www.selectyouruniversity.com/neet-exam.php target=_blank>National Entrance Examination Test (NEET)</a> is a mandatory qualification criterion demanded by any university in Georgia for their admission requirement and with a stipulated score. There are plenty of substantial characteristics of the universities that applicants can figure out to select the university of their choice.</p>"
+            data: "<p>Located in the crossroads of Europe and Asia, <a href=https://www.selectyouruniversity.com/course/mbbs-in-georgia/ target=_blank>Georgia is one of the most admirable destinations</a> for studying MBBS among international students. Tbilisi is the capital & largest city in the country, which is the definition of a high rich standard.</p><p>There are <b>too many private universities (NMC recognized) in Georgia</b> that offer a standard quality of education with a duration of five years. </p><p>Georgia is one of those 30 nations where the Indian Embassy is not present; therefore, you have to rely on the concurrent Embassy office in Yerevan, Capital of Armenia, which is 280 kilometers away from Tbilisi. </p><p>Students don't need to visit the embassy for at least 5 to 6 years. The Indian ambassador for the concurrent embassy in Georgia keeps attending the ceremonies organized in Georgia to interact with existing Indian students.</p><p>Apart from the main fee structure, the students' expenses are another factor to research before planning to study abroad. In Georgia, the average cost of living goes around 3000$ per annum (250$/ Month Approx.) that mostly consist of Food charges, Rates of Accommodation & Laundry services. <b>This cost is relatively cheaper than what students have to consider in other European countries</b>.</p><p>European Universities, including Georgia, are well aware of the <b>exponential growth in foreign education among Indian students</b>. Hence, taking this consideration to accounts, these universities have altered necessary changes that are more likely suitable for the Indian students. </p><p>Georgian Universities understand the relevance of NMC approval is crucial for Indian aspirants and that their colleges have been granted such <b>recognition from NMC, WHO & other global recognition committees</b>. Plenty of Private Institutes provides NMC coaching for Indian students & maintain above-average passing percentage.</p><p>In order to configure the supremacy of any foreign university, it is recommended to rely on the support system of the management more than the age of the college or university. You can clarify these aspects by analyzing the feedback by the students who are now part of either of these universities or graduated from there. </p><p><a href=https://www.selectyouruniversity.com/exams/neet-ug-exam/ target=_blank>National Entrance Examination Test (NEET)</a> is a mandatory qualification criterion demanded by any university in Georgia for their admission requirement and with a stipulated score. There are plenty of substantial characteristics of the universities that applicants can figure out to select the university of their choice.</p>"
         },
         {
             type: 'table-title',
@@ -1193,20 +1329,20 @@ export default [{
             type: 'text',
             title: '',
             info: '',
-            data: '<p><b style="color: red;"><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-georgia-for-mbbs-studies.php" target="_blank">Why Choose Georgia for MBBS Course in 2022?</a></p><p>In this article, we will take you through the list of top 20 NMC & WHO approved Universities/Colleges in Georgia that you should look up to if you want to pursue MBBS in Georgia in the year 2022.</p>'
+            data: '<p><b style="color: red;"><u>Read More:</u></b> <a href="https://www.selectyouruniversity.com/blog/why-choose-georgia-for-mbbs-studies/." target="_blank">Why Choose Georgia for MBBS Course in 2023?</a></p><p>In this article, we will take you through the list of top 20 NMC & WHO approved Universities/Colleges in Georgia that you should look up to if you want to pursue MBBS in Georgia in the year 2022.</p>'
         },
         {
             type: 'table-title',
             title: 'Top 20 Medical Universities/Colleges for Studying MBBS in Georgia',
-            info: 'University of Georgia',
+            info: '<h3>1. <a href="https://www.selectyouruniversity.com/university/university-of-georgia-tbilisi/" target=_blank>University of Georgia</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "2004"],
                 ["Type of University", "Private"],
                 ["Location of University", "Tbilisi"],
                 ["Number of Indian Students", "6000"],
-                ["National Rank", "4"],
-                ["World Rank", "4630"],
+                ["National Rank", "3"],
+                ["World Rank", "4083"],
                 ["Annual Tuition Fees", "5000 USD"],
                 ["University Accreditation", "ENIC-NARIC, NMC, ECFMG & many more"]
             ]
@@ -1214,15 +1350,15 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Ivane Javakhishvili Tbilisi State University",
+            info: "<h3>2. <a href=https://www.selectyouruniversity.com/university/ivane-javakhishvili-tbilisi-state-university/ target=_blank>Ivane Javakhishvili Tbilisi State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "8 February 1918"],
                 ["Type of University", "Govt. Research University"],
                 ["Location of University", "1 Ilia Chavchavadze Avenue, Tbilisi 0179, Georgia"],
                 ["Number of Indian Students", "800"],
-                ["National Rank", "2"],
-                ["World Rank", "3345"],
+                ["National Rank", "1"],
+                ["World Rank", "1984"],
                 ["Annual Tuition Fees", "6000 USD"],
                 ["University Accreditation", "NMC, WHO, WFME & many more"]
             ]
@@ -1231,15 +1367,15 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Batumi Shota Rustaveli State University",
+            info: "<h3>3. <a href=https://www.selectyouruniversity.com/university/batumi-shota-rustaveli-state-university/ target=_blank>Batumi Shota Rustaveli State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1895"],
                 ["Type of University", "Private University"],
                 ["Location of University", "35/32 Ninoshvili/Rustaveli str., Batumi 6010, Georgia"],
                 ["Number of Indian Students", "320"],
-                ["National Rank", "6"],
-                ["World Rank", "7923"],
+                ["National Rank", "11"],
+                ["World Rank", "7448"],
                 ["Annual Tuition Fees", "4000 USD"],
                 ["University Accreditation", "NMC, WHO & many more"]
             ]
@@ -1248,7 +1384,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Tbilisi State Medical University",
+            info: "<h3>4. <a href=https://www.selectyouruniversity.com/university/tbilisi-state-medical-university/ target=_blank>Tbilisi State Medical University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1918"],
@@ -1265,15 +1401,15 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Ilia State University",
+            info: "<h3>5. <a href=https://www.selectyouruniversity.com/university/ilia-state-university/ target=_blank>Ilia State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2006"],
                 ["Type of University", "Flagship Public Research"],
                 ["Location of University", "Tbilisi, Georgia"],
                 ["Number of Indian Students", "5000 every year"],
-                ["National Rank", "2"],
-                ["World Rank", "3424"],
+                ["National Rank", "5"],
+                ["World Rank", "3139"],
                 ["Annual Tuition Fees", "5300 USD"],
                 ["University Accreditation", "NMC/ WHO / ISU/ EHEA/ EUA & many more"]
             ]
@@ -1282,7 +1418,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Akaki Tsereteli State University",
+            info: "<h3>6. <a href=https://www.selectyouruniversity.com/university/akaki-tsereteli-state-university/ target=_blank>Akaki Tsereteli State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "July, 1930"],
@@ -1299,7 +1435,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "New Vision University",
+            info: "<h3>7. <a href=https://www.selectyouruniversity.com/university/new-vision-university/ target=_blank>New Vision University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2013"],
@@ -1316,7 +1452,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Caucasus International University",
+            info: "<h3>8. <a href=https://www.selectyouruniversity.com/university/caucasus-international-university/ target=_blank>Caucasus International University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1995"],
@@ -1333,7 +1469,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Georgian American University",
+            info: "<h3>8. <a href=https://www.selectyouruniversity.com/university/georgian-american-university/ target=_blank>Georgian American University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2001"],
@@ -1350,7 +1486,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Georgian National University SEU",
+            info: "<h3>10. <a href=https://www.selectyouruniversity.com/university/georgian-national-university-seu/ target=_blank>Georgian National University SEU</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2001"],
@@ -1367,7 +1503,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Petre Shotadze Tbilisi Medical Academy",
+            info: "<h3>11. <a href=https://www.selectyouruniversity.com/university/petre-shotadze-tbilisi-medical-academy/ target=_blank>Petre Shotadze Tbilisi Medical Academy</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1992"],
@@ -1384,7 +1520,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "European University Georgia",
+            info: "<h3>12. <a href=https://www.selectyouruniversity.com/university/european-university-georgia/ target=_blank>European University Georgia</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "31 December, 2012"],
@@ -1401,7 +1537,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "BAU International University Batumi",
+            info: "<h3>13. <a href=https://www.selectyouruniversity.com/university/bau-international-university-batumi/ target=_blank>BAU International University Batumi</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2015"],
@@ -1418,7 +1554,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "East European University, Georgia",
+            info: "<h3>14. <a href=https://www.selectyouruniversity.com/university/east-european-university/ target=_blank>East European University, Georgia</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2012"],
@@ -1435,7 +1571,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "David Agmashenebeli University of Georgia",
+            info: "<h3>15. <a href=https://www.selectyouruniversity.com/university/david-agmashenebeli-university-of-georgia/ target=_blank>David Agmashenebeli University of Georgia</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1991"],
@@ -1452,7 +1588,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Tbilisi Open Teaching University",
+            info: "<h4>16. <a href=https://www.selectyouruniversity.com/university/tbilisi-open-teaching-university/ target=_blank>Tbilisi Open Teaching University</a></h4>",
             "col": [],
             "row": [
                 ["Foundation Year", "2002"],
@@ -1469,7 +1605,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Geomedi State University",
+            info: "<h3>17. <a href=https://www.selectyouruniversity.com/university/geomedi-state-university/ target=_blank>Geomedi State University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1998"],
@@ -1486,7 +1622,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Grigol Robakidze University",
+            info: "<h3>18. <a href=https://www.selectyouruniversity.com/university/grigol-robakidze-university/ target=_blank>Grigol Robakidze University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1992"],
@@ -1503,7 +1639,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "Tbilisi Medical University 'Hippocrates'",
+            info: "<h3>19. <a href=https://www.selectyouruniversity.com/university/tbilisi-medical-university-hippocrates/ target=_blank>Tbilisi Medical University 'Hippocrates'</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2003"],
@@ -1520,7 +1656,7 @@ export default [{
         {
             type: 'table-title',
             title: '',
-            info: "David Tvildiani Medical University",
+            info: "<h3>20. <a href=https://www.selectyouruniversity.com/university/david-tvildiani-medical-university/ target=_blank>David Tvildiani Medical University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "1989"],
@@ -1539,7 +1675,7 @@ export default [{
             type: 'text',
             title: 'Now What’s Next for students?',
             info: '',
-            data: '<p>These are the best universities in Georgia that are recommended for any international & Indian students to choose from if they have the ambition to study medicine under the qualitative educational circumstances. </p><p>Also looking at the situation of Ukraine, Georgia is the ray of hope as they have organized transfer programs from Ukraine to Georgia for more information you can check out our blog <a href="https://www.selectyouruniversity.com/blog/university-transfer-from-ukraine-to-georgia.php" target="_blank">University transfer from Ukraine to Georgia.</a></p><p>Now, if you need any additional details about these medical colleges in Georgia, then visit <a href=https://www.selectyouruniversity.com/ target=_blank>‘SELECT YOUR UNIVERSITY’</a> where you can access more in-depth data related to these universities/colleges. </p><p>You can check out important dates of admission, eligibility criteria, ranking, fee structure & other vital information essential for selecting the best university of your choice. Candidates can also seek personal guidance to choose the university that matches every individuals needs & expectations.</p>'
+            data: '<p>These are the best universities in Georgia that are recommended for any international & Indian students to choose from if they have the ambition to study medicine under the qualitative educational circumstances. </p><p>Also looking at the situation of Ukraine, Georgia is the ray of hope as they have organized transfer programs from Ukraine to Georgia for more information you can check out our blog <a href="https://www.selectyouruniversity.com/blog/university-transfer-from-ukraine-to-georgia/" target="_blank">University transfer from Ukraine to Georgia.</a></p><p>Now, if you need any additional details about these medical colleges in Georgia, then visit <a href=https://www.selectyouruniversity.com/ target=_blank>‘SELECT YOUR UNIVERSITY’</a> where you can access more in-depth data related to these universities/colleges. </p><p>You can check out important dates of admission, eligibility criteria, ranking, fee structure & other vital information essential for selecting the best university of your choice. Candidates can also seek personal guidance to choose the university that matches every individuals needs & expectations.</p>'
         },
         {
             type: "meta",
@@ -1564,7 +1700,7 @@ export default [{
     title: "Top 15 MBBS Colleges in Maharashtra (Government & Private)",
     date: '10-07-2020',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-mbbs-colleges-in-maharashtra.jpg',
     url: 'top-mbbs-colleges-in-maharashtra/.',
     data: [
@@ -2075,7 +2211,7 @@ export default [{
     title: "Top 20 Medical Colleges in Madhya Pradesh",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-colleges-in-madhya-pradesh.jpg',
     url: 'top-medical-colleges-in-madhya-pradesh/.',
     data: [
@@ -2600,7 +2736,7 @@ export default [{
     title: "List of State Universities in India",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-state-universities-in-india.jpg',
     url: 'list-of-state-universities-in-india/.',
     data: [
@@ -5260,7 +5396,7 @@ export default [{
     title: "List of Private Universities in India",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-private-universities-in-india.jpg',
     url: 'list-of-private-universities-in-india/.',
     data: [
@@ -5886,7 +6022,7 @@ export default [{
     title: "List of Autonomous Higher Education Institutes in India",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/autonomous-higher-education-institutes-in-india.jpg',
     url: 'autonomous-higher-education-institutes-in-india/.',
     data: [
@@ -6218,7 +6354,7 @@ export default [{
     title: "List of Deemed Universities in India by UGC",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-deemed-universities-in-india.jpg',
     url: 'list-of-deemed-universities-in-india/.',
     data: [
@@ -6506,7 +6642,7 @@ export default [{
     title: " List of Central Universities in India (State-Wise)",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-central-universities-in-india.jpg',
     url: 'list-of-central-universities-in-india/.',
     data: [
@@ -6716,7 +6852,7 @@ export default [{
     title: "Types of Universities in India - Deemed, State, Central, Private",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/types-of-universities-in-india.jpg',
     url: 'types-of-universities-in-india/.',
     data: [
@@ -6907,7 +7043,7 @@ export default [{
     title: "Top Law Colleges in Mumbai",
     date: '10-07-2020',
     postedBy: "Vivek Wagh",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-law-colleges-in-mumbai.jpg',
     url: 'top-law-colleges-in-mumbai/.',
     data: [
@@ -7355,10 +7491,14 @@ export default [{
     title: "Best BBA Colleges in India",
     date: '3 rd Jan, 2022',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/best-bba-colleges.jpg',
     url: "best-bba-colleges/.",
     data: [
+        {
+            type: 'title',
+            title: 'Best BBA Colleges in India'
+        },
         {
             type: 'text',
             title: '',
@@ -7605,10 +7745,14 @@ export default [{
     title: "List of Top NMC Approved Universities for MBBS in Belarus ",
     date: '31st January, 2020',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-mci-recognized-medical-universities.jpg',
     url: "list-of-top-mci-approved-universities-for-mbbs-in-belarus/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top NMC Approved Universities for MBBS in Belarus'
+        },
         {
             type: 'text',
             title: '',
@@ -7795,10 +7939,14 @@ export default [{
     title: "List of Top NMC Recognized Medical Universities/Colleges (Country Wise) ",
     date: '13th Jan, 2022',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-mci-recognized-medical-universities.jpg',
     url: "list-of-top-mci-recognized-medical-universities/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top NMC Recognized Medical Universities/Colleges (Country Wise)'
+        },
         {
             type: 'text',
             title: '',
@@ -8924,10 +9072,14 @@ export default [{
     title: "Top 10 Low-Cost Medical Universities in Poland for Indian Students",
     date: '26th May, 2019',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/low-cost-medical-universities-in-poland.jpg',
     url: "low-cost-medical-universities-in-poland/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top 10 Low-Cost Medical Universities in Poland for Indian Students'
+        },
         {
             type: 'text',
             title: '',
@@ -9845,10 +9997,14 @@ export default [{
     title: "Top B.Tech Colleges in Pune",
     date: '19th Feb, 2022',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-btech-colleges-in-pune.jpg',
     url: "top-btech-colleges-in-pune",
     data: [
+        {
+            type: 'title',
+            title: 'Top B.Tech Colleges in Pune'
+        },
         {
             type: 'text',
             title: '',
@@ -10130,10 +10286,14 @@ export default [{
     title: "List of top 10 best universities for Engineering in India",
     date: '30th August, 2019',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-india.jpg',
     url: "top-engineering-universities-in-india/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of top 10 best universities for Engineering in India'
+        },
         {
             type: 'text',
             title: '',
@@ -10577,10 +10737,14 @@ export default [{
     title: "List of Top-Ranked 8 Engineering Universities in Poland (2022) ",
     date: '12th Jan, 2022',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-poland.jpg',
     url: "top-engineering-universities-in-poland/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top-Ranked 8 Engineering Universities in Poland (2022)'
+        },
         {
             type: 'text',
             title: '',
@@ -11273,10 +11437,14 @@ export default [{
     title: "Top 10 Engineering Universities in Russia (2022) ",
     date: '13th Jan, 2022',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-russia.jpg',
     url: "top-engineering-universities-in-russia/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top 10 Engineering Universities in Russia (2022)'
+        },
         {
             type: 'text',
             title: '',
@@ -12110,10 +12278,14 @@ export default [{
     title: "Top 20 MBA Colleges in Pune 2022",
     date: '4th Feb, 2022',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-mba-colleges-in-pune.jpg',
     url: "top-mba-colleges-in-pune/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top 20 MBA Colleges in Pune 2022'
+        },
         {
             type: 'text',
             title: '',
@@ -12754,10 +12926,14 @@ export default [{
     title: "Top MCA Universities in India 2022",
     date: '1 st Jan, 2022',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-mca-universities-in-india.jpg',
     url: "top-mca-universities-in-india/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top MCA Universities in India 2022'
+        },
         {
             type: 'text',
             title: '',
@@ -13507,10 +13683,14 @@ export default [{
     title: "Top 100 Medical Colleges in the World ",
     date: '10th Feb, 2022',
     postedBy: "Sapna Rangare",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-colleges-in-the-world.jpg',
     url: "top-medical-colleges-in-the-world/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top 100 Medical Colleges in the World'
+        },
         {
             type: 'text',
             title: '',
@@ -13706,10 +13886,14 @@ export default [{
     title: " List of Top Medical Colleges/Universities in China to Study MBBS",
     date: '26th December, 2018',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-china.jpg',
     url: "top-medical-universities-in-china/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top Medical Colleges/Universities in China to Study MBBS'
+        },
         {
             type: 'text',
             title: '',
@@ -14372,15 +14556,19 @@ export default [{
     title: "List of Top 10 Medical Universities in Kazakhstan (NMC Approved) ",
     date: '7 th Jan, 2022',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-kazakhstan.jpg',
     url: "top-medical-universities-in-kazakhstan/.",
     data: [
         {
+            type: 'title',
+            title: 'List of Top 10 Medical Universities in Kazakhstan (NMC Approved)'
+        },
+        {
             type: 'text',
             title: '',
             info: '',
-            data: '<p> Kazakhstan, officially the Republic of Kazakhstan, is a Central Asian country that was formerly the part of the Soviet Republic. </p><p>It is one of the developed countries in Asia where one can avail of a better standard of living & a peaceful environment. </p><p>The country shows finesse in all areas of the standard, including lifestyle, roads, accommodation, transportation, GDP & other economic aspects. </p><p>Over the past few years, thousands of Indian students have relocated each year to get graduate degrees from its top-rated NMC approved universities.</p><p>There are certain factors that pull the attention of international students, so let us try to configure those important highlights of the educational culture of <a href=https://www.selectyouruniversity.com/mbbs-in-kazakhstan.php target=_blank> MBBS in Kazakhstan.</a></p>'
+            data: '<p> Kazakhstan, officially the Republic of Kazakhstan, is a Central Asian country that was formerly the part of the Soviet Republic. </p><p>It is one of the developed countries in Asia where one can avail of a better standard of living & a peaceful environment. </p><p>The country shows finesse in all areas of the standard, including lifestyle, roads, accommodation, transportation, GDP & other economic aspects. </p><p>Over the past few years, thousands of Indian students have relocated each year to get graduate degrees from its top-rated NMC approved universities.</p><p>There are certain factors that pull the attention of international students, so let us try to configure those important highlights of the educational culture of <a href=https://www.selectyouruniversity.com/course/mbbs-in-kazakhstan/ target=_blank> MBBS in Kazakhstan.</a></p>'
         },
         {
             "type": "table-title",
@@ -14403,68 +14591,62 @@ export default [{
         {
             type: 'text',
             title: 'Benefits to Study MBBS in Kazakhstan for Indian Students',
-            info: 'Weather condition is most suitable to the Indian Students',
+            info: '<h3>1. Weather condition is most suitable to the Indian Students</h3>',
             data: '<p>Weather is a prime relief for international students because the average condition of the atmosphere is 30° in summer & it reduces down to 20° during the wintertime. This weather is still fine compared to other countries & Indian students can easily cope with this environment</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Minimum years of course duration',
+            info: '<h3>2. Minimum years of course duration</h3>',
             data: '<p>The entire duration of the MBBS curriculum in Kazakhstan takes five years to complete, which is probably the best part of studying in this country. The majority of the international universities in the world provide six years of training programs on medicine; therefore, Aspirants can save a full year by studying in MBBS in Kazakhstan.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Course is taught in English language',
+            info: '<h3>3. Course is taught in English language</h3>',
             data: '<p>Another consolation for Indian students is the obstacle of learning the extra or native language of Kazakhstan. The entire curriculum of medicine is carried out in English as an official language for instruction medium.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Qualified professors in faculty who corporate their students',
+            info: '<h3>4. Qualified professors in faculty who corporate their students</h3>',
             data: '<p>Professors appointed in the universities of Kazakhstan are well qualified who have years of teaching experience in their respective subject. They coordinate with each & every student even after the class schedule to resolve their doubts & issues. These faculty members bring a practical perspective on medical education throughout the degree program.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Universities applaudable class management',
+            info: '<h3>5. Universities applaudable class management</h3>',
             data: '<p>The intake capacity of the MBBS seats in Kazakhstan is much larger than in Indian colleges. In India, the students capacity in a single classroom is 40 - 60 on average while on the other hand, Kazakhstan universities do not allow more than 20 students to attend the lectures in a single classroom.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Huge Infrastructure & quality of management',
+            info: '<h3>6. Huge Infrastructure & quality of management</h3>',
             data: '<p>Medical colleges in Kazakhstan contain well-stocked laboratories where students can access any books and use them for personal studies. Students can use them for a year without paying additional charges. Many universities have a global ranking below 1000 & they have NMC approval for the facilitation of Indian graduates.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Safety measure & strict rules & policies of country/ University',
+            info: '<h3>7. Safety measure & strict rules & policies of country/ University</h3>',
             data: '<p>The country is absolutely safe for international students & they don’t have to suffer from threats by the government or any extra-territorial organizations. Students offer positive feedback in respect of strict rules & policies regulated by their universities. The managerial departments of all colleges are highly concerned about the betterment of foreign students.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Availability of hostel with Indian food',
+            info: '<h3>8. Availability of hostel with Indian food</h3>',
             data: '<p>Fresh quality of Indian food is available for Indian students in all seasons. Hostel & accommodation facilities are also provided for the students either inside the campus or outside the university infrastructure. The expenses one has to pay for getting these services are under the budget. Students can also opt for separate accommodation or food services as per their convenience.</p>'
         },
         {
             type: 'text',
             title: '',
-            info: 'Limited cost of education in kazakhstan',
+            info: '<h3>9. Limited cost of education in kazakhstan</h3>',
             data: '<p>The single most significant characteristic of any university that international students often check to select the medical colleges with good infrastructure, better education, and an affordable range of fees. Most of the universities charge below 20 lakhs of rupees as tuition fees. If you want to combine the cost of hostel & food services, then the overall expense course reaches the range of 25 lakhs.</p>'
         },
-        {
-            type: 'text',
-            title: 'List of Top 10 Medical Universities/Colleges For Studying MBBS in Kazakhstan 2021',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/al-farabi-kazakh-national-university.php target=_blank><b>Al-Farabi Kazakh National University</b></a></h3>',
-            img: "img/al-farabi-kazakh-national-university.jpg",
-            data: ''
-        },
+        
         {
             "type": "table-title",
-            "title": "",
-            "info": "",
+            "title": "List of Top 10 Medical Universities/Colleges For Studying MBBS in Kazakhstan 2023",
+            info: '<h3>1. <a href=https://www.selectyouruniversity.com/university/al-farabi-kazakh-national-university/ target=_blank>Al-Farabi Kazakh National University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1934"],
@@ -14477,17 +14659,11 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/kazakh-national-medical-university.php target=_blank><b>Kazakh National Medical University</b></a></h3>',
-            img: "img/kazakh-national-medical-university.jpg",
-            data: ''
-        },
+        
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>2. <a href=https://www.selectyouruniversity.com/university/kazakh-national-medical-university/ target=_blank>Kazakh National Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1930"],
@@ -14501,16 +14677,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/north-kazakhstan-state-university.php target=_blank><b>North Kazakhstan State University</b></a></h3>',
-            img: "img/north-kazakhstan-state-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>3. <a href=https://www.selectyouruniversity.com/university/north-kazakhstan-state-university/ target=_blank>North Kazakhstan State University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1937"],
@@ -14524,16 +14693,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/karaganda-state-medical-university.php target=_blank><b>Karaganda State Medical University</b></a></h3>',
-            img: "img/karaganda-state-medical-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>4. <a href=https://www.selectyouruniversity.com/university/karaganda-state-medical-university/ target=_blank>Karaganda State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1950"],
@@ -14547,16 +14709,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/kokshetau-state-university.php target=_blank><b>Kokshetau State University</b></a></h3>',
-            img: "img/kokshetau-state-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>5. <a href=https://www.selectyouruniversity.com/university/kokshetau-state-university/ target=_blank>Kokshetau State University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1996"],
@@ -14570,16 +14725,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/astana-medical-university.php target=_blank><b>Astana Medical University</b></a></h3>',
-            img: "img/astana-medical-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>6. <a href=https://www.selectyouruniversity.com/university/astana-medical-university/ target=_blank>Astana Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1964"],
@@ -14593,16 +14741,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/semey-state-medical-university.php target=_blank><b>Semey State Medical University</b></a></h3>',
-            img: "img/semey-state-medical-university.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>7. <a href=https://www.selectyouruniversity.com/university/semey-state-medical-university/ target=_blank>Semey State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1952"],
@@ -14616,16 +14757,9 @@ export default [{
             ]
         },
         {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/south-kazakhstan-state-medical-academy.php target=_blank><b>South Kazakhstan State Medical Academy</b></a></h3>',
-            img: "img/south-kazakhstan-state-medical-academy.jpg",
-            data: ''
-        },
-        {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>8. <a href=https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/ target=_blank>South Kazakhstan State Medical Academy</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1979"],
@@ -14638,17 +14772,11 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/west-kazakhstan-marat-ospanov-state-medical-university.php target=_blank><b>West Kazakhstan Marat Ospanov State Medical University</b></a></h3>',
-            img: "img/west-kazakhstan-marat-ospanov-state-medical-university.jpg",
-            data: ''
-        },
+        
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>9. <a href=https://www.selectyouruniversity.com/university/west-kazakhstan-marat-ospanov-state-medical-university/ target=_blank>West Kazakhstan Marat Ospanov State Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1957"],
@@ -14661,17 +14789,11 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3><a href=https://www.selectyouruniversity.com/kazakhstan/kazakh-russian-medical-university.php target=_blank><b>Kazakh Russian Medical University</b></a></h3>',
-            img: "img/kazakh-russian-medical-university.jpg",
-            data: ''
-        },
+        
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>10. <a href=https://www.selectyouruniversity.com/university/kazakh-russian-medical-university/ target=_blank>Kazakh Russian Medical University</a></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1992"],
@@ -14717,10 +14839,14 @@ export default [{
     title: "List of Top 6 NMC Recognized Medical Universities in Kyrgyzstan ",
     date: '7 th Jan, 2022',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-kyrgyzstan.jpg',
     url: "top-medical-universities-in-kyrgyzstan/.",
     data: [
+        {
+            type: 'title',
+            title: 'List of Top 6 NMC Recognized Medical Universities in Kyrgyzstan'
+        },
         {
             type: 'text',
             title: '',
@@ -14734,19 +14860,15 @@ export default [{
             data: [
                 "Low cost education",
                 "Real case studies",
-                " Quality education",
-                " Medium of Instruction - English language",
-                " Scholarships programs",
-                " No entrance examination",
-                " Simple admission process"
-            ]
+                "Quality education",
+                "Medium of Instruction - English language",
+                "Scholarships programs",
+                "No entrance examination",
+                "Simple admission process"
+            ],
+            "heading":"<p class=page-content>These are the main reasons to <a href=https://www.selectyouruniversity.com/course/mbbs-in-kyrgyzstan/ target=_blank>study medicine in Kyrgyzstan</a>. If you really want to study abroad then Kyrgyzstan is the only option where you will get an affordable cost of education & accommodation/housing for international students.</p><p><strong>As per UniRank System</strong> (2021), being the standard ranking of top universities in the World has nominated <strong>Kyrgyzstan as a most desirable country</strong> which provides value-added education to foreign students. </p><p>While pursuing education abroad, the first lookout that drags the mind of students is about the country. </p>"
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p class=page-content>These are the main reasons to <a href=https://www.selectyouruniversity.com/mbbs-in-kyrgyzstan.php target=_blank>study medicine in Kyrgyzstan</a>. If you really want to study abroad then Kyrgyzstan is the only option where you will get an affordable cost of education & accommodation/housing for international students.</p><p><strong>As per UniRank System</strong> (2021), being the standard ranking of top universities in the World has nominated <strong>Kyrgyzstan as a most desirable country</strong> which provides value-added education to foreign students. </p><p>While pursuing education abroad, the first lookout that drags the mind of students is about the country. </p>'
-        },
+        
         {
             type: 'text',
             title: 'About Kyrgyzstan',
@@ -14762,8 +14884,8 @@ export default [{
         {
             type: 'text',
             title: '',
-            info: 'Osh State Medical University',
-            img: "blog/img/osh-state-medical-university.jpg",
+            info: '<h3>1. Osh State Medical University</h3>',
+           // img: "blog/img/osh-state-medical-university.jpg",
             data: '<p>It is the pedagogical institute offering specialty courses in General Medicine & Pediatrics. Osh State Medical University is a Public University that distinguished and prestigious of Kyrgyz Republic and one of the best universities in Central Asia.</p>'
         },
         {
@@ -14775,19 +14897,14 @@ export default [{
                 ["Establishment", "1992"],
                 ["Recognized by", "NMC, FAIMER, ECFMG(USA), IMED"],
                 ["Tuition Fees Per Year", "Rs.4,68,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/osh-state-university/ target=_blank>Read More</a>"
         },
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/osh-state-university.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'Jalal-Abad State University',
-            img: "blog/img/jalal-abad-state-university.jpg",
+            info: '<h3>2. Jalal-Abad State University</h3>',
+            //img: "blog/img/jalal-abad-state-university.jpg",
             data: '<p>The university is a public higher education institution with an enrollment of more than 4000 students offering professional programs in medicine. The programs last for 6 years with one year of internships.</p>'
         },
         {
@@ -14799,19 +14916,15 @@ export default [{
                 ["Establishment", "1993"],
                 ["Recognized by", "NMC, FAIMER, ECFMG, IMED"],
                 ["Tuition Fees Per Year", "Rs.5,40,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/jalalabad-state-university/ target=_blank>Read More</a>"
         },
+        
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/jalalabad-state-university.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'International School of Medicine',
-            img: "blog/img/international-school-of-medicine.jpg",
+            info: '<h3>3. International School of Medicine</h3>',
+            // img: "blog/img/international-school-of-medicine.jpg",
             data: '<p>International School of Medicine is the modern higher education institution with comprehensive infrastructure and experienced faculty members, specialists offering quality education in different areas of medicine.</p>'
         },
         {
@@ -14824,19 +14937,15 @@ export default [{
                 ["Certified by", "Ministry of Education and Science of Kyrgyz Republic"],
                 ["Recognized by", "IIME, ORPHEUS, NMC, IMED"],
                 ["Tuition Fees Per Year", "Rs.4,50,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/international-higher-school-of-medicine/ target=_blank>Read More</a>"
         },
+       
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/international-school-of-medicine.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'Kyrgyz Russian Slavic University',
-            img: "blog/img/kyrgyz-russian-slavic-university.jpg",
+            info: '<h3>4. Kyrgyz Russian Slavic University</h3>',
+            // img: "blog/img/kyrgyz-russian-slavic-university.jpg",
             data: '<p>Kyrgyz Russian Slavic University was founded in accordance with mutual assistance and cooperation between the Kyrgyz Republic and the Russian Federation.</p>'
         },
         {
@@ -14848,19 +14957,14 @@ export default [{
                 ["Establishment", "1993"],
                 ["Recognized by", "NMC, FAIMER, ECFMG"],
                 ["Tuition Fees Per Year", "Rs.4,64,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/kyrgyz-russian-slavic-university/ target=_blank>Read More</a>"
         },
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/kyrgyz-russian-slavic-university.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'Kyrgyz State Medical Academy',
-            img: "blog/img/kyrgyz-state-medical-academy.jpg",
+            info: '<h3>5. Kyrgyz State Medical Academy</h3>',
+            // img: "blog/img/kyrgyz-state-medical-academy.jpg",
             data: '<p>Kyrgyz State Medical Academy was laid by the experienced professors and teachers offering 6 years MD program for UG students. This year, around 250 doctors were graduated from the institute.</p>'
         },
         {
@@ -14872,19 +14976,14 @@ export default [{
                 ["Establishment", "April 16, 1939"],
                 ["Recognized by", "NMC, FAIMER, ECFMG, IMED"],
                 ["Tuition Fees Per Year", "Rs.4,80,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/kyrgyz-state-medical-academy/ target=_blank>Read More</a>"
         },
         {
             type: 'text',
             title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/kyrgyz-state-medical-academy.php target=_blank class=btn>Read More</a>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: 'Asian Medical Institute',
-            img: "blog/img/asian-medical-institute.jpg",
+            info: '<h3>6. Asian Medical Institute</h3>',
+            // img: "blog/img/asian-medical-institute.jpg",
             data: '<p>Asian Medical Institute was founded in the year of 2004 registered with the Ministry of Kyrgyz Republic recognized by NMC. More than 2000 Indian students studying medicine at the university.</p>'
         },
         {
@@ -14896,20 +14995,14 @@ export default [{
                 ["Establishment", "2004"],
                 ["Recognized by", "NMC and WHO"],
                 ["Tuition Fees Per Year", "Rs.4,20,000/- (approx.)"]
-            ]
+            ],
+            "heading":"<a href=https://www.selectyouruniversity.com/university/asian-medical-institute/ target=_blank>Read More</a>"
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<a href=https://www.selectyouruniversity.com/kyrgyzstan/asian-medical-institute.php target=_blank class=btn>Read More</a>'
-        },
-
         {
             type: 'text',
             title: 'Conclusion',
             info: '',
-            data: '<p>Medical universities in Kyrgyzstan have no confinement to only lectures and classrooms.</p><p>Furthermore, students who want to pursue MBBS in Kyrgyzstan will get an enclosure to experience a lot more. While studying at Kyrgyzstan Medical Universities, students get practical exposure through clinical rotations, projects and laboratory experiments.</p>'
+            data: '<Furthermore,>Medical universities in Kyrgyzstan have no confinement to only lectures and classrooms. Furthermore, students who want to pursue MBBS in Kyrgyzstan will get an enclosure to experience a lot more. While studying at Kyrgyzstan Medical Universities, students get practical exposure through clinical rotations, projects and laboratory experiments.</p>'
         },
 
         {
@@ -14936,10 +15029,14 @@ export default [{
     title: "Top 15 Ranked Medical Colleges in Philippines (NMC Recognized) ",
     date: '9th October, 2021',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-philippines.jpg',
     url: "top-medical-universities-in-philippines/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top 15 Ranked Medical Colleges in Philippines (NMC Recognized)'
+        },
         {
             type: 'text',
             title: '',
@@ -15376,10 +15473,14 @@ export default [{
     title: "Top Medical Universities in Ukraine to Study MBBS (NMC Recognized)",
     date: '14th June, 2021',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-ukraine.jpg',
     url: "top-medical-universities-in-ukraine/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top Medical Universities in Ukraine to Study MBBS (NMC Recognized)'
+        },
         {
             type: 'text',
             title: '',
@@ -16340,10 +16441,14 @@ export default [{
     title: " Top Private & Government MBA Universities in India",
     date: '20th May, 2019',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-private-and-government-mba-universities-in-india.jpg',
     url: 'top-private-and-government-mba-universities-in-india/.',
     data: [
+        {
+            type: 'title',
+            title: 'Top Private & Government MBA Universities in India'
+        },
         {
             type: 'text',
             title: '',
@@ -16678,7 +16783,7 @@ export default [{
     title: "List of Top 10 Universities/Colleges for MBBS in Nepal (2022)",
     date: '06-01-2022',
     postedBy: "Smita Medhekar",
-    Categories: 'career',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-universities-for-mbbs-in-nepal.jpg',
     url: 'top-universities-for-mbbs-in-nepal/.',
     data: [
@@ -17003,10 +17108,14 @@ export default [{
     title: "Top Engineering Universities in Ukraine",
     date: '17 th October, 2020',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/ukraine-top-engineering-universities.jpg',
     url: "ukraine-top-engineering-universities/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top Engineering Universities in Ukraine'
+        },
         {
             type: 'text',
             title: '',
@@ -17776,10 +17885,14 @@ export default [{
     title: "Top Medical Universities in Abroad - Country & World Ranking",
     date: '20th January, 2020',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/world-ranking-of-medical-colleges-abroad.jpg',
     url: "world-ranking-of-medical-colleges-abroad/.",
     data: [
+        {
+            type: 'title',
+            title: 'Top Medical Universities in Abroad - Country & World Ranking'
+        },
         {
             type: 'text',
             title: '',
@@ -18865,10 +18978,14 @@ export default [{
     title: "List of Top 10 Medical Universities in Bangladesh ",
     date: '27th December, 2019',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-10-medical-universities-in-bangladesh.jpg',
     url: 'list-of-top-10-medical-universities-in-bangladesh/.',
     data: [
+        {
+            type: 'title',
+            title: 'List of Top 10 Medical Universities in Bangladesh'
+        },
         {
             type: 'text',
             title: '',

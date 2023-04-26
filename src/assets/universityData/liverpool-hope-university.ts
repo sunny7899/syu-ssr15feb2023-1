@@ -21,7 +21,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "table-title",
             "title": "Liverpool Hope University - Quick Highlights",
-            "info": "<b>Go through the table below to know the key details of the university:</b>",
+            "info": "Go through the table below to know the key details of the university:",
             "col": [
             ],
             "row": [
@@ -41,7 +41,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose Liverpool Hope University?",
-            "info": "<b>Know the advantages of getting enrolled at this well-known university:</b>",
+            "info": "Know the advantages of getting enrolled at this well-known university:",
             "data": [
                 "The university has a very supportive professional staff.",
                 "The university is ranked among the 20 top universities in the UK for its excellent teaching.",
@@ -63,7 +63,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "table",
             "title": "Liverpool Hope University - Ranking 2022",
-            "info": "<b>From the table below know the current rankings of the university:</b>",
+            "info": "From the table below know the current rankings of the university:",
             "col": [
                 "Country  Rank",
                 "World  Rank",
@@ -79,7 +79,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "text",
             "title": "Facilities offered at Liverpool Hope University",
-            "info": "<b>The university is known for the wide range of facilities it offers:</b>",
+            "info": "The university is known for the wide range of facilities it offers:",
             // "img": "https://www.selectyouruniversity.com/images/uk-universities/classroom.png",
             "data": [
                 // "<p class =text-center>Classrooms</p>"
@@ -136,7 +136,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "list-bollet",
             "title": "Recognitions and Accreditations",
-            "info": "<b>Find out below the recognitions and Accreditations of this university:</b>",
+            "info": "Find out below the recognitions and Accreditations of this university:",
             "data": [
                 "The university is recognized/chartered by the Privy Council.",
                 "It has also received professional accreditation from CIEEM.",
@@ -147,7 +147,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "table",
             "title": "Living Expenses in Liverpool, UK",
-            "info": "<b>Check out the table below and know the approximate basic living expenses in the city. The basic expenses may vary:</b>",
+            "info": "Check out the table below and know the approximate basic living expenses in the city. The basic expenses may vary:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -188,6 +188,11 @@ export const liverpoolhopeuniversity = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Liverpool Hope University, UK - courses & Fees"
+
+        },
         {
             "type": "table-title",
             "title": "Programs Offered at Liverpool Hope University",
@@ -558,9 +563,14 @@ export const liverpoolhopeuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Liverpool Hope University, UK - Admission 2023"
+
+        },
+        {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The admission process which students need to follow to take admission at Kharkiv State Academy of Design and Arts is mentioned here:</b>',
+            info: 'The admission process which students need to follow to take admission at Kharkiv State Academy of Design and Arts is mentioned here:',
             data: [
                 "<b>Step 1:</b> Create an account and fill in the correct details in the application form and apply through UCAS.",
                 "<b>Step 2:</b> Once the application gets approved, upload your required documents and send them along with the application fees and passport details (for international students).",
@@ -571,7 +581,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Note down the important documents required to submit during the admission process:</b>",
+            "info": "Note down the important documents required to submit during the admission process:",
             "data": [
                 "Transcript of records and Grade Point Average",
                 "Proof of English language",
@@ -601,7 +611,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria ( for Undergraduate Courses )",
-            "info": "<b>From the below, points know the basic criteria to enroll in undergraduate courses of this university:</b>",
+            "info": "From the below, points know the basic criteria to enroll in undergraduate courses of this university:",
             "data": [
                 "Must secure 75 - 85 percent in all subjects",
                 "If the candidate has a diploma degree, it must be from a (State Board of Technical Education)",
@@ -614,7 +624,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria ( for Postgraduate Courses )",
-            "info": "<b>Know the basic criteria to enroll in Postgraduate courses:</b>",
+            "info": "Know the basic criteria to enroll in Postgraduate courses:",
             "data": [
                 "Must hold a good undergraduate degree",
                 "Must be a minimum of 21 years of age",
@@ -626,7 +636,7 @@ export const liverpoolhopeuniversity = {
         {
             "type": "table",
             "title": "Academic Calendar - Intake 2022",
-            "info": "<b>Know the important dates for the Undergraduate study programs:</b>",
+            "info": "Know the important dates for the Undergraduate study programs:",
             "col": [
                 "Events",
                 "Dates",
@@ -670,6 +680,11 @@ export const liverpoolhopeuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Liverpool Hope University, UK - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Liverpool Hope University, UK - Reviews" },
@@ -689,9 +704,14 @@ export const liverpoolhopeuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Liverpool Hope University, UK - Placement"
+
+        },
+        {
             "type": "table",
-            "title": "placement",
-            "info": "<b>Below is the placement report of Liverpool Hope University:</b>",
+            "title": "Placement",
+            "info": "Below is the placement report of Liverpool Hope University:",
             "col": [
                 "Degree",
                 "Average Salary",
@@ -727,6 +747,11 @@ export const liverpoolhopeuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Liverpool Hope University, UK - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Liverpool Hope University, UK - Gallery" },
@@ -745,6 +770,11 @@ export const liverpoolhopeuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Liverpool Hope University, UK - Scholarship"
+
+        },
         {
             "type": "list-bollet",
             "title": "Scholarships",
@@ -787,8 +817,13 @@ export const liverpoolhopeuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Liverpool Hope University, UK - Faculty"
+
+        },
+        {
             "type": "table",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -837,6 +872,11 @@ export const liverpoolhopeuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Liverpool Hope University, UK - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Liverpool Hope University, UK - News & Articles" },
@@ -856,9 +896,14 @@ export const liverpoolhopeuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Liverpool Hope University, UK - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The university has comfortable living arrangements for the enrolled students:</b>",
+            "info": "The university has comfortable living arrangements for the enrolled students:",
             "data": [
                 "Liverpool city is undeniably a great place to stay.",
                 "The university has 12 halls of residence across three campuses for the enrolled students.",
@@ -892,9 +937,14 @@ export const liverpoolhopeuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Liverpool Hope University, UK - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Liverpool Hope University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What are the courses offered by Liverpool Hope University?",

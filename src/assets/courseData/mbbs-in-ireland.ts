@@ -5,11 +5,12 @@ export const mbbsinireland = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 + 1 Year with internship",
     "url": "mbbs-in-ireland",
     "info": [
         {
             type: 'title',
-            title: 'Mbbs in Ireland'
+            title: 'MBBS in Ireland'
         },
 
         {
@@ -85,7 +86,7 @@ export const mbbsinireland = {
         {
             type: 'step-list',
             title: '',
-            info: '<b>We have already seen the eligibility criteria above, now we will look at the further procedure:</b>',
+            info: 'We have already seen the eligibility criteria above, now we will look at the further procedure:',
             //img: '',
             data: [
                 "<p><b>Step 1:</b> In Ireland, there is a centralized online enrollment system, known as Central Applications Office (CAO) through which students need to apply to undergraduate courses.</p>",
@@ -145,7 +146,7 @@ export const mbbsinireland = {
         {
             "type": "list-bollet",
             "title": "Required Documents for Students Visa to Ireland",
-            "info": "<b>The following documents are required for a study visa:</b>",
+            "info": "The following documents are required for a study visa:",
             //"img": 'https://www.selectyouruniversity.com/images/document-required-mbbs-admission-in-ireland.jpg',
             "data": [
                 "A latest passport size photograph",
@@ -226,6 +227,12 @@ export const mbbsinireland = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ireland 2023 - Top Colleges in Ireland'
+        },
+
         {
             type: 'text',
             title: 'List of Top 6 Medical Universities or Schools in Ireland',
@@ -247,7 +254,7 @@ export const mbbsinireland = {
             ]
         },
         {
-            "type": "table-title",
+            "type": "table",
             "title": "",
             "info": "Fee Structure of Trinity College, Dublin :",
             "col": [
@@ -512,6 +519,12 @@ export const mbbsinireland = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ireland 2023 - Syllabus'
+        },
+
         
         {
             type: "meta",
@@ -532,6 +545,13 @@ export const mbbsinireland = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ireland 2023 - Career Options'
+        },
+
+
         {
             type: "meta",
             meta: [
@@ -551,6 +571,12 @@ export const mbbsinireland = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ireland 2023 - FAQs'
+        },
+
         {
             type: "meta",
             meta: [

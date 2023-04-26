@@ -20,7 +20,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "table-title",
             "title": "Lyceum Northwestern University - Quick Highlights",
-            "info": "<b>Refer the table below for quick overview about Lyceum Northwestern University:</b>",
+            "info": "Refer the table below for quick overview about Lyceum Northwestern University:",
             "col": [
             ],
             "row": [
@@ -37,7 +37,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Lyceum Northwestern University?",
-            "info": "<b>Following are the advantages of studying MBBS in Lyceum Northwestern University:</b>",
+            "info": "Following are the advantages of studying MBBS in Lyceum Northwestern University:",
             "data": [
                 "Low tuition fees.",
                 "No language barrier.",
@@ -49,7 +49,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of instruction at the Lyceum-Northwestern University is the English language:</b>",
+            "info": "The medium of instruction at the Lyceum-Northwestern University is the English language:",
             "data": "<p>The students coming from the corners of the world for medical education don't face any language barrier in university campus as Lyceum-Northwestern University conducts MBBS education in the English language.</p>"
 
 
@@ -57,7 +57,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "table",
             "title": "Lyceum Northwestern University - Ranking 2022",
-            "info": "<b>As per UniRank (4icu), following is the country and world ranking for Lyceum Northwestern University:</b>",
+            "info": "As per UniRank (4icu), following is the country and world ranking for Lyceum Northwestern University:",
             "col": [
                 "Country",
                 "World"
@@ -72,7 +72,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Lyceum-Northwestern University is officially accredited and recognised by several medical bodies:</b>",
+            "info": "Lyceum-Northwestern University is officially accredited and recognised by several medical bodies:",
             "data": [
                 "National Medical Commission (NMC)",
                 "IMED Directory",
@@ -83,7 +83,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "table",
             "title": "Lyceum-Northwestern University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Lyceum-Northwestern University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Lyceum-Northwestern University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -125,7 +125,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "list-bollet",
             "title": "About Dagupan City",
-            "info": "<b>Lyceum-Northwestern University is located in Dagupan City:</b>",
+            "info": "Lyceum-Northwestern University is located in Dagupan City:",
             "data": [
                 "Dagupan city is located in the Philippines.",
                 "The city is situated on the northwest-central part of the island of Luzon.",
@@ -137,7 +137,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>The Dagupan city is a great tourist attraction place, check out the top visiting places:</b>",
+            "info": "The Dagupan city is a great tourist attraction place, check out the top visiting places:",
 
             "col": [
             ],
@@ -168,12 +168,17 @@ export const lyceumnorthwesternuniversity = {
             ]
         },
     ],
-    "coursesandfees": [,
+    "coursesandfees": [
+
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - courses & Fees'
+        },
 
         {
             "type": "table",
             "title": "Lyceum Northwestern University - MBBS Fee Structure 2022",
-            "info": "<b>The reasonable cost for medicine course at Lyceum-Northwestern University will never make you sense distressed with an educational budget:</b>",
+            "info": "The reasonable cost for medicine course at Lyceum-Northwestern University will never make you sense distressed with an educational budget:",
             "col": [
                 "Academic year",
                 "Fee amount in PHP",
@@ -216,7 +221,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Lyceum Northwestern University",
-            "info": "<b>Lyceum Northwestern University offers a 4-year MD course which is equivalent to MBBS in India. The course covers subjects like:</b>",
+            "info": "Lyceum Northwestern University offers a 4-year MD course which is equivalent to MBBS in India. The course covers subjects like:",
             "data": [
                 "Biochemistry",
                 "Psychiatry",
@@ -235,7 +240,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "list-bollet",
             "title": "Lyceum Northwestern University - MBBS Duration",
-            "info": "<b>The duration of studying the entire medical program at Lyceum-Northwestern University is 5.6 years:</b>",
+            "info": "The duration of studying the entire medical program at Lyceum-Northwestern University is 5.6 years:",
             "data": [
                 "Candidates should complete 5 and half years of full-time MBBS education provided to all international students.",
                 "During medical course education the first 16 months are dedicated for the pre-medical course, focusing on building a foundation for a strong medical education.",
@@ -248,7 +253,7 @@ export const lyceumnorthwesternuniversity = {
             "type": "table",
             "title": "At Lyceum Northwestern University - MBBS Syllabus",
             "colTitle": "MBBS (MD) Syllabus",
-            "info": "<b>The MBBS syllabus for Lyceum Northwestern University is shown in the table below:</b>",
+            "info": "The MBBS syllabus for Lyceum Northwestern University is shown in the table below:",
             "col": [
                 "First Year",
                 "Second Year",
@@ -352,9 +357,13 @@ export const lyceumnorthwesternuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Admission 2023 '
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Applicant who wants to study medicine at Lyceum Northwestern University must follow the below eligibility criteria:</b>",
+            "info": "Applicant who wants to study medicine at Lyceum Northwestern University must follow the below eligibility criteria:",
             "data": [
                 "Applicant’s age must be in between 17 to 25 years.",
                 "Applicants must clear the higher secondary examinations like the 10+2 exam.",
@@ -365,7 +374,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following is the basic admission scenario required for MBBS admission to Lyceum Northwestern University:</b>",
+            "info": "Following is the basic admission scenario required for MBBS admission to Lyceum Northwestern University:",
             "data": [
                 "<b>Step 1:</b> Fill the application form online on the university’s portal.",
                 "<b>Step 2:</b> Submit the required documents & wait for the application review process.",
@@ -377,7 +386,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Before MBBS admission to Lyceum Northwestern University, applicants need to produce notarized copies of the following documents:</b>",
+            "info": "Before MBBS admission to Lyceum Northwestern University, applicants need to produce notarized copies of the following documents:",
             "data": [
                 "Copy of passport",
                 "Copy of Mark Sheets",
@@ -391,7 +400,7 @@ export const lyceumnorthwesternuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Every candidate must consider important admission dates that will assist them for admission at the Lyceum-Northwestern University:</b>",
+            "info": "Every candidate must consider important admission dates that will assist them for admission at the Lyceum-Northwestern University:",
             "col": [
                 "Events",
                 "Dates",
@@ -431,6 +440,10 @@ export const lyceumnorthwesternuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lyceum Northwestern University, Philippines - Reviews" },
@@ -449,6 +462,10 @@ export const lyceumnorthwesternuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placements",
@@ -478,6 +495,10 @@ export const lyceumnorthwesternuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lyceum Northwestern University, Philippines - Gallery" },
@@ -496,6 +517,10 @@ export const lyceumnorthwesternuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Scholarship'
+        },
         {
             "type": "number-list",
             "title": "scholarship",
@@ -534,6 +559,10 @@ export const lyceumnorthwesternuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Lyceum Northwestern University, Philippines - Faculty" },
@@ -552,6 +581,10 @@ export const lyceumnorthwesternuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -572,9 +605,13 @@ export const lyceumnorthwesternuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Lyceum Northwestern University offers accommodation to international students which include the following amenities:</b>",
+            "info": "Lyceum Northwestern University offers accommodation to international students which include the following amenities:",
             "data": [
                 "Well equipped Air Conditioned Rooms.",
                 "Mess & Cafeteria",
@@ -605,9 +642,13 @@ export const lyceumnorthwesternuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Lyceum Northwestern University, Philippines - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Lyceum Northwestern University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
 
                 {

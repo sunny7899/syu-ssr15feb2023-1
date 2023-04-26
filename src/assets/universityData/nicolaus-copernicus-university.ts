@@ -20,7 +20,7 @@ export const nicolauscopernicusuniversity = {
         {
             "type": "table-title",
             "title": "Nicolaus Copernicus University - Quick Highlights",
-            "info": "<b>Check out the mentioned below university highlights given in the table:</b>",
+            "info": "Check out the mentioned below university highlights given in the table:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March"],
                 ["<b>Eligibility Criteria", "50% in PCB"],
@@ -35,7 +35,7 @@ export const nicolauscopernicusuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Nicolaus Copernicus University?',
-            info: '<b>The benefits of studying MBBS at Nicolaus Copernicus University states simply whether students should choose to study at this university:</b>',
+            info: 'The benefits of studying MBBS at Nicolaus Copernicus University states simply whether students should choose to study at this university:',
             data: [
                 "Nicolaus Copernicus University offers students the education in English medium.",
                 "Students are offered an optional preparatory course before starting of the semesters so that students can prepare for the upcoming syllabus and get a perfect prevision of the studies.",
@@ -47,7 +47,7 @@ export const nicolauscopernicusuniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>There are different courses according to the medium of teaching at Nicolaus Copernicus University, Poland:</b>',
+            info: 'There are different courses according to the medium of teaching at Nicolaus Copernicus University, Poland:',
             data: [
                 "Students are given options to choose between the English medium teaching programs and Polish language teaching programs.",
                 "However, for Indian students, the MBBS course is taught in English medium."
@@ -55,8 +55,8 @@ export const nicolauscopernicusuniversity = {
         },
         {
             "type": "table",
-            "title": "Nicolaus Copernicus University - Ranking 2022",
-            "info": "<b>Refer Uni Rank, for the country & world ranking of Nicolaus Copernicus University:</b>",
+            "title": "Nicolaus Copernicus University - Ranking 2023",
+            "info": "Refer Uni Rank, for the country & world ranking of Nicolaus Copernicus University:",
             "col": [
                 "Country",
                 "World",
@@ -64,7 +64,7 @@ export const nicolauscopernicusuniversity = {
             "row": [
                 {
                     "Country": "6",
-                    "World": "618",
+                    "World": "671",
                 },
 
             ]
@@ -72,7 +72,7 @@ export const nicolauscopernicusuniversity = {
         {
             type: 'list-bollet',
             title: 'Recognition & Accreditations',
-            info: '<b>The Nicolaus Copernicus University is officially recognized and accredited by:</b>',
+            info: 'The Nicolaus Copernicus University is officially recognized and accredited by:',
             data: [
                 "Ministry of Science and Higher Education, Poland.",
                 "ABET- USE",
@@ -83,7 +83,7 @@ export const nicolauscopernicusuniversity = {
         {
             "type": "table",
             title: 'Cost of Living in Torun',
-            info: '<b>The city living cost is affordable for medical aspirants than as compared to another university, here is the monthly expense:</b>',
+            info: 'The city living cost is affordable for medical aspirants than as compared to another university, here is the monthly expense:',
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -93,30 +93,30 @@ export const nicolauscopernicusuniversity = {
                 {
                     "Particular": "<b>Accommodation (1BHK)</b>",
                     "Approx Range in USD": "350 - 550",
-                    "Approx Range in RS": "24,500 - 38,500"
+                    "Approx Range in RS": "28,000 - 44,000"
                 },
                 {
                     "Particular": "<b>Food</b>",
                     "Approx Range in USD": "60 - 65",
-                    "Approx Range in RS": "4200 - 4550"
+                    "Approx Range in RS": "4800 - 5200"
                 },
                 {
                     "Particular": "<b>Transport</b>",
                     "Approx Range in USD": "45 - 70",
-                    "Approx Range in RS": "3150 - 4900"
+                    "Approx Range in RS": "3600 - 5600"
                 },
                 {
                     "Particular": "<b>Clothing</b>",
                     "Approx Range in USD": "70 - 100",
-                    "Approx Range in RS": "4900 - 7000"
+                    "Approx Range in RS": "5600 - 8000"
                 },
                 {
                     "Particular": "<b>Other Expenses</b>",
                     "Approx Range in USD": "100 - 150",
-                    "Approx Range in RS": "7000 - 10000"
+                    "Approx Range in RS": "8000 - 12000"
                 }
             ],
-            "heading": "<p><b><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>"
+            "heading": "<p><b><u>Note:</u></b> 1$ = 80 Rs. (for calculation purpose)</p>"
         },
         {
             type: 'list-bollet',
@@ -151,9 +151,14 @@ export const nicolauscopernicusuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - courses & Fees"
+
+        },
+        {
             "type": "table",
-            "title": "Nicolaus Copernicus University - MBBS Fee Structure 2022",
-            "info": "<b>Nicolaus Copernicus University Poland Offers an MBBS course with the option of semester wise fee payment:</b>",
+            "title": "Nicolaus Copernicus University - MBBS Fee Structure 2023",
+            "info": "Nicolaus Copernicus University Poland Offers an MBBS course with the option of semester wise fee payment:",
             "col": [
                 "Particulars",
                 "Annual Fee",
@@ -176,13 +181,24 @@ export const nicolauscopernicusuniversity = {
                     "Annual Fee": "9,17,210"
                 },
 
-            ],
-            "heading": "<b>Note</b><br>1$ = Rs.70 approx for the approx calculations.<br>Students have to pay the fees every semester.<br>The deadlines for paying fees per semester are 30th September and 15th August prior to every semester.<br>Food charges, etc. can be extra up to Rs.70,000/- to Rs.80,000/- (or more approximately).<br>The fees mentioned above are approximate and may vary as per the change in currency."
+            ]
+        },
+        {
+            "type": 'list-bollet',
+            "title": '',
+            "info": "Note:",
+            "data": [
+                "1$ = Rs.80 approx for the approx calculations.",
+                "Students have to pay the fees every semester.",
+                "The deadlines for paying fees per semester are 30th September and 15th August prior to every semester.",
+                "Food charges, etc. can be extra up to Rs.70,000/- to Rs.80,000/- (or more approximately).",
+                "The fees mentioned above are approximate and may vary as per the change in currency."
+            ]
         },
         {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": "<b>The students must fit within the eligibility criteria at Nicolaus Copernicus University given below:</b>",
+            "info": "The students must fit within the eligibility criteria at Nicolaus Copernicus University given below:",
             "data": [
                 "The student applying for the MBBS course in Nicolaus Copernicus University must have cleared the TOEFL iBT exam with a minimum of 72 points or TOEFL CBT with a minimum of 180 points and/or IELTS exam with a minimum of 5.5 points.",
                 "The candidate must have scored at least 50% in HSC level exam with Physics, Chemistry, Biology, and English as compulsory subjects.",
@@ -192,7 +208,7 @@ export const nicolauscopernicusuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at Nicolaus Copernicus University',
-            "info": "<b>Nicolaus Copernicus University offers a wide range of medical faculties mentioned below:</b>",
+            "info": "Nicolaus Copernicus University offers a wide range of medical faculties mentioned below:",
             "data": [
                 "Medicine",
                 "Nursing",
@@ -208,7 +224,7 @@ export const nicolauscopernicusuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Nicolaus Copernicus University - MBBS Duration',
-            "info": "<b>The duration of the medicine program at Nicolaus Copernicus University is given below:</b>",
+            "info": "The duration of the medicine program at Nicolaus Copernicus University is given below:",
             "data": [
                 "The English medium degree of MBBS takes place in 6 years of course duration.",
                 "This 6 years course includes a compulsory internship of 1 year at the affiliated hospitals of the university.",
@@ -217,7 +233,7 @@ export const nicolauscopernicusuniversity = {
         {
             "type": "table-title",
             "title": "Nicolaus Copernicus University - MBBS Syllabus",
-            "info": "<b>The detailed information and year-wise syllabus is given in the table below. Students should refer to this syllabus to prepare:</b>",
+            "info": "The detailed information and year-wise syllabus is given in the table below. Students should refer to this syllabus to prepare:",
             "colTitle": "1st Year Course",
             "col": [
             ],
@@ -260,7 +276,7 @@ export const nicolauscopernicusuniversity = {
                 ["Pharmacology and Toxicology", "Introduction to Oncology", "Epidemiology"],
                 ["Laboratory Diagnostics", "Introduction to Surgery", "Clinical Nutrition"],
                 ["Introduction to Internal Medicine 2", "Psychiatry 1", "Elective subjects"],
-                ["Summer Elective Programme: 2 weeks of pediatrics in a hospital, 2 weeks of internal medicine in a hospital"]
+                ["Summer Elective Programme: 2 weeks of pediatrics in a hospital, 2 weeks of internal medicine in a hospital","-","-"]
 
             ]
         },
@@ -279,7 +295,7 @@ export const nicolauscopernicusuniversity = {
                 ["Cardiac Surgery", "Introduction to Gynaecology and Obstetrics", "Radiology 1"],
                 ["Vascular Surgery", "Internal Medicine (Cardiology) 1", "Nuclear Medicine"],
                 ["Anesthesiology and Intensive Therapy", "Internal Medicine (Nephrology)", "Elective subjects"],
-                ["Summer Elective Programme: 2 weeks of surgery in a hospital, 2 weeks of internal medicine in a hospital"],
+                ["Summer Elective Programme: 2 weeks of surgery in a hospital, 2 weeks of internal medicine in a hospital","-","-"],
                 ["suhel", "suhel", "suhel"],
 
             ]
@@ -326,9 +342,14 @@ export const nicolauscopernicusuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - Admission 2023"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": "<b>The students must fit within the eligibility criteria at Nicolaus Copernicus University given below:</b>",
+            "info": "The students must fit within the eligibility criteria at Nicolaus Copernicus University given below:",
             "data": [
                 "The student applying for the MBBS course in Nicolaus Copernicus University must have cleared the TOEFL iBT exam with a minimum of 72 points or TOEFL CBT with a minimum of 180 points and/or IELTS exam with a minimum of 5.5 points.",
                 "The candidate must have scored at least 50% in HSC level exam with Physics, Chemistry, Biology, and English as compulsory subjects.",
@@ -337,8 +358,8 @@ export const nicolauscopernicusuniversity = {
         },
         {
             "type": 'step-list',
-            "title": 'Admission Process (2022-23)',
-            "info": "<b>The students must follow the admission steps given below for taking admission in MBBS course at Nicolaus Copernicus University, Poland:</b>",
+            "title": 'Admission Process (2023-24)',
+            "info": "The students must follow the admission steps given below for taking admission in MBBS course at Nicolaus Copernicus University, Poland:",
             "data": [
                 "<b>Step 1:</b> Students have to create an account on the online portal of the university first for applying and choosing the program.",
                 "<b>Step 2:</b> Upload the scanned copies of the documents mentioned in the document section.",
@@ -351,7 +372,7 @@ export const nicolauscopernicusuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Document Required',
-            "info": "<b>All important documents are needed to be submitted by candidates during admission time and to be translated into either Polish or English language:</b>",
+            "info": "All important documents are needed to be submitted by candidates during admission time and to be translated into either Polish or English language:",
             "data": [
                 "Secondary school certificate",
                 "HSC certificate",
@@ -364,8 +385,8 @@ export const nicolauscopernicusuniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the academic calendar regarding admission at Nicolaus Copernicus University:</b>",
+            "title": "Important Dates - Intake 2023",
+            "info": "Check out the academic calendar regarding admission at Nicolaus Copernicus University:",
             "col": [
                 "Events",
                 "Dates",
@@ -406,6 +427,11 @@ export const nicolauscopernicusuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nicolaus Copernicus University - Reviews" },
@@ -425,10 +451,15 @@ export const nicolauscopernicusuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - Placement"
+
+        },
+        {
             "type": 'text',
             "title": 'Placement',
-            "info": "<p>All NCU Faculty of Earth Sciences courses include practical training as a crucial component of the educational process. The placements are chosen by the graduate profile of a particular field of study, which requires 40 to 160 hours. Most students enrol in institutions that offer surveying & mapping, hydrogeological services, or spatial management (commune and municipal offices, district administration offices). Internships are frequently provided in tourist bureaus or lodging establishments. National parks, landscape parks, forest district agencies, and consulates are selected as intriguing possibilities.</p>",
-            "data": ""
+            "info": "",
+            "data": "<p>All NCU Faculty of Earth Sciences courses include practical training as a crucial component of the educational process. The placements are chosen by the graduate profile of a particular field of study, which requires 40 to 160 hours. Most students enrol in institutions that offer surveying & mapping, hydrogeological services, or spatial management (commune and municipal offices, district administration offices). Internships are frequently provided in tourist bureaus or lodging establishments. National parks, landscape parks, forest district agencies, and consulates are selected as intriguing possibilities.</p>"
         },
         {
             type: "meta",
@@ -451,6 +482,55 @@ export const nicolauscopernicusuniversity = {
 
     "gallery": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - Gallery"
+
+        },
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/nicolaus-copernicus-university-group-study.jpg",
+                    "alt": "nicolaus copernicus university group study"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/nicolaus-copernicus-university-medical-student-group.jpg",
+                    "alt": "nicolaus copernicus university medical student group"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/nicolaus-copernicus-university-christmas-celebration.jpg",
+                    "alt": "nicolaus copernicus university christmas celebration"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/nicolaus-copernicus-university-swimming-pool.jpg",
+                    "alt": "nicolaus copernicus university swimming pool"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/nicolaus-copernicus-university-hostel-rooms.jpg",
+                    "alt": "nicolaus copernicus university hostel rooms"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/nicolaus-copernicus-university-campus.jpg",
+                    "alt": "nicolaus copernicus university campus"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/nicolaus-copernicus-university-auditorium.jpg",
+                    "alt": "nicolaus copernicus university auditorium"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/nicolaus-copernicus-university-building.jpg",
+                    "alt": "nicolaus copernicus university building"
+                }
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nicolaus Copernicus University - Gallery" },
@@ -471,9 +551,14 @@ export const nicolauscopernicusuniversity = {
 
     "scholarship": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - Scholarship"
+
+        },
+        {
             "type": 'list-bollet',
-            "title": 'Scholarship',
-            "info": "<b>Nicolaus Copernicus University provides scholarship to the students:</b>",
+            "title": 'Nicolaus Copernicus University - Scholarship',
+            "info": "Nicolaus Copernicus University provides scholarship to the students:",
             "data": [
                 "The scholarship provided by the Nicolaus Copernicus University to support the students for MBBS education, lasting for one year.",
                 "The scholarship may be awarded to the students multiple times to the students’ undergraduate or graduate degree course during the MBBS course.",
@@ -501,9 +586,14 @@ export const nicolauscopernicusuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - Faculty"
+
+        },
+        {
             "type": 'table',
-            "title": '',
-            "info": "<b>The rent for the houses on per month basis is mentioned below:</b>",
+            "title": 'Nicolaus Copernicus University - Faculty',
+            "info": "The rent for the houses on per month basis is mentioned below:",
             "col": [
                 "Name",
                 "Designation",
@@ -558,6 +648,11 @@ export const nicolauscopernicusuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nicolaus Copernicus University - News & Articles" },
@@ -577,9 +672,14 @@ export const nicolauscopernicusuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - Hostel"
+
+        },
+        {
             "type": 'list-bollet',
             "title": 'Accommodation & Hostel',
-            "info": "<b>Nicolaus Copernicus University offers best hostel facilities to students with all important amenities:</b><p>Students from all over the world are offered very lavish accommodation options at Nicolaus Copernicus University. There are options for students like temporary stays in university hotels renting rooms per night as well as living for a long time in university student’s houses renting rooms on a per month basis.</p>",
+            "info": "Nicolaus Copernicus University offers best hostel facilities to students with all important amenities:</b><p>Students from all over the world are offered very lavish accommodation options at Nicolaus Copernicus University. There are options for students like temporary stays in university hotels renting rooms per night as well as living for a long time in university student’s houses renting rooms on a per month basis.",
             "data": [
                 "Students can choose from 3 students’ houses in different areas.",
                 "The students’ houses are provided with every need and necessary things for students.",
@@ -588,7 +688,7 @@ export const nicolauscopernicusuniversity = {
         {
             "type": 'table',
             "title": '',
-            "info": "<b>The rent for the houses on per month basis is mentioned below:</b>",
+            "info": "The rent for the houses on per month basis is mentioned below:",
             "col": [
                 "Room",
                 "Student House no. 1",
@@ -621,7 +721,7 @@ export const nicolauscopernicusuniversity = {
                     "Student House no. 3": "-"
                 },
             ],
-            "heading": "<p><b>Note</b>Price per person per month (in PLN)</p>"
+            "heading": "<p><b>Note:</b> Price per person per month (in PLN)</p>"
         },
 
         {
@@ -644,9 +744,14 @@ export const nicolauscopernicusuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Nicolaus Copernicus University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Nicolaus Copernicus University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Do I need to study for the Polish language to study MBBS in Poland at Nicolaus Copernicus University?",

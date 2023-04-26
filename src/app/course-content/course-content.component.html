@@ -15,7 +15,7 @@
                 <div class="col-lg-12" *ngIf="isActive('top-colleges')">
                     <div *ngFor="let item of collegeData.topcolleges" class="course-content-page-header text-center" id="titles">
                         <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
-                        <h1 *ngIf="item.type == 'meta-title'" class="white-text-2" id="title">
+                        <h1 *ngIf="item.type == 'title'" class="white-text-2" id="title">
                             {{ item.title }}
                         </h1>
 
@@ -24,7 +24,7 @@
                 <div class="col-lg-12" *ngIf="isActive('syllabus')">
                     <div *ngFor="let item of collegeData.syllabus" class="course-content-page-header text-center" id="titles">
                         <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
-                        <h1 *ngIf="item.type == 'meta-title'" class="white-text-2" id="title">
+                        <h1 *ngIf="item.type == 'title'" class="white-text-2" id="title">
                             {{ item.title }}
                         </h1>
 
@@ -33,7 +33,7 @@
                 <div class="col-lg-12" *ngIf="isActive('career-options')">
                     <div *ngFor="let item of collegeData.careeroptions" class="course-content-page-header text-center" id="titles">
                         <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
-                        <h1 *ngIf="item.type == 'meta-title'" class="white-text-2" id="title">
+                        <h1 *ngIf="item.type == 'title'" class="white-text-2" id="title">
                             {{ item.title }}
                         </h1>
 
@@ -42,14 +42,14 @@
                 <div class="col-lg-12" *ngIf="isActive('faq')">
                     <div *ngFor="let item of collegeData.faq" class="course-content-page-header text-center" id="titles">
                         <!-- <h2 class="iit-header">{{universityData.shortTitle}}</h2> -->
-                        <h1 *ngIf="item.type == 'meta-title'" class="white-text-2" id="title">
+                        <h1 *ngIf="item.type == 'title'" class="white-text-2" id="title">
                             {{ item.title }}
                         </h1>
 
                     </div>
                 </div>
                 <div class="col-lg-12">
-                    <div class="flex-hold">
+                    <div class="flex-hold" id="duration">
                         <img src="../../assets/img/Course_Content_Icons/2.MBA_Project_Management/Duration.png" alt="" width="30" />
                         <h5 class="orange-text mb-0">Duration:{{" "+ collegeData.Duration}}</h5>
                     </div>
@@ -60,7 +60,7 @@
             Apply Now
             <img alt="" src="../../assets/img/Course_Content_Icons/2.MBA_Project_Management/Apply-Now.png" width="30" />
           </button>
-                        <button class="btn white-text-2 btn-white-nav">
+                        <button class="btn white-text-2 btn-white-nav" (click)="openModalWithClass(template)">
             Check Eligibility<img alt=""
               src="../../assets/img/Course_Content_Icons/2.MBA_Project_Management/Check-Eligibility.png" width="30" />
           </button>
@@ -164,55 +164,342 @@
                                             </div>
                                             <div class="form-div">
                                                 <div class="row">
-                                                    <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
+                                                    <div class="form-group col-lg-6 col-md-6 col-sm-6" id="phone">
                                                         <div class="input-group">
                                                             <div class="input-group-text bg-transparent icon">
                                                                 <i class="fa fa-phone flip"></i>
                                                             </div>
-                                                            <input class="form-control py-2 border-right-0 border form-input" type="number" placeholder="Mobile Number*" id="number" formControlName="cMobile" />
+                                                            <!-- <input class="form-control py-2 border-right-0 border form-input" type="number" step="0.01"
+                              placeholder="Mobile Number*" id="number" formControlName="cMobile" /> -->
+                                                            <!-- Country names and Phone Code -->
+                                                            <select class="form-control py-2 border-right-0 border form-input" name="phone">
+                              <option value="91">India +91</option>
+                              <option value="93">Afghanistan +93</option>
+                              <option value="358">Aland Islands +358</option>
+                              <option value="355">Albania +355</option>
+                              <option value="213">Algeria +213</option>
+                              <option value="1684">American Samoa +1684</option>
+                              <option value="376">Andorra +376</option>
+                              <option value="244">Angola +244</option>
+                              <option value="1264">Anguilla +1264</option>
+                              <option value="672">Antarctica +672</option>
+                              <option value="1268">Antigua and Barbuda +1268</option>
+                              <option value="54">Argentina +54</option>
+                              <option value="374">Armenia +374</option>
+                              <option value="297">Aruba +297</option>
+                              <option value="61">Australia +61</option>
+                              <option value="43">Austria +43</option>
+                              <option value="994">Azerbaijan +994</option>
+                              <option value="1242">Bahamas +1242</option>
+                              <option value="973">Bahrain +973</option>
+                              <option value="880">Bangladesh +880</option>
+                              <option value="1246">Barbados +1246</option>
+                              <option value="375">Belarus +375</option>
+                              <option value="32">Belgium +32</option>
+                              <option value="501">Belize +501</option>
+                              <option value="229">Benin +229</option>
+                              <option value="1441">Bermuda +1441</option>
+                              <option value="975">Bhutan +975</option>
+                              <option value="591">Bolivia +591</option>
+                              <option value="599">Bonaire, Sint Eustatius and Saba +599</option>
+                              <option value="387">Bosnia and Herzegovina +387</option>
+                              <option value="267">Botswana +267</option>
+                              <option value="55">Bouvet Island +55</option>
+                              <option value="55">Brazil +55</option>
+                              <option value="246">British Indian Ocean Territory +246</option>
+                              <option value="673">Brunei Darussalam +673</option>
+                              <option value="359">Bulgaria +359</option>
+                              <option value="226">Burkina Faso +226</option>
+                              <option value="257">Burundi +257</option>
+                              <option value="855">Cambodia +855</option>
+                              <option value="237">Cameroon +237</option>
+                              <option value="1">Canada +1</option>
+                              <option value="238">Cape Verde +238</option>
+                              <option value="1345">Cayman Islands +1345</option>
+                              <option value="236">Central African Republic +236</option>
+                              <option value="235">Chad +235</option>
+                              <option value="56">Chile +56</option>
+                              <option value="86">China +86</option>
+                              <option value="61">Christmas Island +61</option>
+                              <option value="672">Cocos (Keeling) Islands +672</option>
+                              <option value="57">Colombia +57</option>
+                              <option value="269">Comoros +269</option>
+                              <option value="242">Congo +242</option>
+                              <option value="242">Congo, Democratic Republic of the Congo +242</option>
+                              <option value="682">Cook Islands +682</option>
+                              <option value="506">Costa Rica +506</option>
+                              <option value="225">Cote D'Ivoire +225</option>
+                              <option value="385">Croatia +385</option>
+                              <option value="53">Cuba +53</option>
+                              <option value="599">Curacao +599</option>
+                              <option value="357">Cyprus +357</option>
+                              <option value="420">Czech Republic +420</option>
+                              <option value="45">Denmark +45</option>
+                              <option value="253">Djibouti +253</option>
+                              <option value="1767">Dominica +1767</option>
+                              <option value="1809">Dominican Republic +1809</option>
+                              <option value="593">Ecuador +593</option>
+                              <option value="20">Egypt +20</option>
+                              <option value="503">El Salvador +503</option>
+                              <option value="240">Equatorial Guinea +240</option>
+                              <option value="291">Eritrea +291</option>
+                              <option value="372">Estonia +372</option>
+                              <option value="251">Ethiopia +251</option>
+                              <option value="500">Falkland Islands (Malvinas) +500</option>
+                              <option value="298">Faroe Islands +298</option>
+                              <option value="679">Fiji +679</option>
+                              <option value="358">Finland +358</option>
+                              <option value="33">France +33</option>
+                              <option value="594">French Guiana +594</option>
+                              <option value="689">French Polynesia +689</option>
+                              <option value="262">French Southern Territories +262</option>
+                              <option value="241">Gabon +241</option>
+                              <option value="220">Gambia +220</option>
+                              <option value="995">Georgia +995</option>
+                              <option value="49">Germany +49</option>
+                              <option value="233">Ghana +233</option>
+                              <option value="350">Gibraltar +350</option>
+                              <option value="30">Greece +30</option>
+                              <option value="299">Greenland +299</option>
+                              <option value="1473">Grenada +1473</option>
+                              <option value="590">Guadeloupe +590</option>
+                              <option value="1671">Guam +1671</option>
+                              <option value="502">Guatemala +502</option>
+                              <option value="44">Guernsey +44</option>
+                              <option value="224">Guinea +224</option>
+                              <option value="245">Guinea-Bissau +245</option>
+                              <option value="592">Guyana +592</option>
+                              <option value="509">Haiti +509</option>
+                              <option value="39">Holy See (Vatican City State) +39</option>
+                              <option value="504">Honduras +504</option>
+                              <option value="852">Hong Kong +852</option>
+                              <option value="36">Hungary +36</option>
+                              <option value="354">Iceland +354</option>
+                              <option value="91">India +91</option>
+                              <option value="62">Indonesia +62</option>
+                              <option value="98">Iran, Islamic Republic of +98</option>
+                              <option value="964">Iraq +964</option>
+                              <option value="353">Ireland +353</option>
+                              <option value="44">Isle of Man +44</option>
+                              <option value="972">Israel +972</option>
+                              <option value="39">Italy +39</option>
+                              <option value="1876">Jamaica +1876</option>
+                              <option value="81">Japan +81</option>
+                              <option value="44">Jersey +44</option>
+                              <option value="962">Jordan +962</option>
+                              <option value="7">Kazakhstan +7</option>
+                              <option value="254">Kenya +254</option>
+                              <option value="686">Kiribati +686</option>
+                              <option value="850">Korea, Democratic People's Republic of +850</option>
+                              <option value="82">Korea, Republic of +82</option>
+                              <option value="381">Kosovo +381</option>
+                              <option value="965">Kuwait +965</option>
+                              <option value="996">Kyrgyzstan +996</option>
+                              <option value="856">Lao People's Democratic Republic +856</option>
+                              <option value="371">Latvia +371</option>
+                              <option value="961">Lebanon +961</option>
+                              <option value="266">Lesotho +266</option>
+                              <option value="231">Liberia +231</option>
+                              <option value="218">Libyan Arab Jamahiriya +218</option>
+                              <option value="423">Liechtenstein +423</option>
+                              <option value="370">Lithuania +370</option>
+                              <option value="352">Luxembourg +352</option>
+                              <option value="853">Macao +853</option>
+                              <option value="389">Macedonia, the Former Yugoslav Republic of +389</option>
+                              <option value="261">Madagascar +261</option>
+                              <option value="265">Malawi +265</option>
+                              <option value="60">Malaysia +60</option>
+                              <option value="960">Maldives +960</option>
+                              <option value="223">Mali +223</option>
+                              <option value="356">Malta +356</option>
+                              <option value="692">Marshall Islands +692</option>
+                              <option value="596">Martinique +596</option>
+                              <option value="222">Mauritania +222</option>
+                              <option value="230">Mauritius +230</option>
+                              <option value="262">Mayotte +262</option>
+                              <option value="52">Mexico +52</option>
+                              <option value="691">Micronesia, Federated States of +691</option>
+                              <option value="373">Moldova, Republic of +373</option>
+                              <option value="377">Monaco +377</option>
+                              <option value="976">Mongolia +976</option>
+                              <option value="382">Montenegro +382</option>
+                              <option value="1664">Montserrat +1664</option>
+                              <option value="212">Morocco +212</option>
+                              <option value="258">Mozambique +258</option>
+                              <option value="95">Myanmar +95</option>
+                              <option value="264">Namibia +264</option>
+                              <option value="674">Nauru +674</option>
+                              <option value="977">Nepal +977</option>
+                              <option value="31">Netherlands +31</option>
+                              <option value="599">Netherlands Antilles +599</option>
+                              <option value="687">New Caledonia +687</option>
+                              <option value="64">New Zealand +64</option>
+                              <option value="505">Nicaragua +505</option>
+                              <option value="227">Niger +227</option>
+                              <option value="234">Nigeria +234</option>
+                              <option value="683">Niue +683</option>
+                              <option value="672">Norfolk Island +672</option>
+                              <option value="1670">Northern Mariana Islands +1670</option>
+                              <option value="47">Norway +47</option>
+                              <option value="968">Oman +968</option>
+                              <option value="92">Pakistan +92</option>
+                              <option value="680">Palau +680</option>
+                              <option value="970">Palestinian Territory, Occupied +970</option>
+                              <option value="507">Panama +507</option>
+                              <option value="675">Papua New Guinea +675</option>
+                              <option value="595">Paraguay +595</option>
+                              <option value="51">Peru +51</option>
+                              <option value="63">Philippines +63</option>
+                              <option value="64">Pitcairn +64</option>
+                              <option value="48">Poland +48</option>
+                              <option value="351">Portugal +351</option>
+                              <option value="1787">Puerto Rico +1787</option>
+                              <option value="974">Qatar +974</option>
+                              <option value="262">Reunion +262</option>
+                              <option value="40">Romania +40</option>
+                              <option value="7">Russian Federation +7</option>
+                              <option value="250">Rwanda +250</option>
+                              <option value="590">Saint Barthelemy +590</option>
+                              <option value="290">Saint Helena +290</option>
+                              <option value="1869">Saint Kitts and Nevis +1869</option>
+                              <option value="1758">Saint Lucia +1758</option>
+                              <option value="590">Saint Martin +590</option>
+                              <option value="508">Saint Pierre and Miquelon +508</option>
+                              <option value="1784">Saint Vincent and the Grenadines +1784</option>
+                              <option value="684">Samoa +684</option>
+                              <option value="378">San Marino +378</option>
+                              <option value="239">Sao Tome and Principe +239</option>
+                              <option value="966">Saudi Arabia +966</option>
+                              <option value="221">Senegal +221</option>
+                              <option value="381">Serbia +381</option>
+                              <option value="381">Serbia and Montenegro +381</option>
+                              <option value="248">Seychelles +248</option>
+                              <option value="232">Sierra Leone +232</option>
+                              <option value="65">Singapore +65</option>
+                              <option value="721">Sint Maarten +721</option>
+                              <option value="421">Slovakia +421</option>
+                              <option value="386">Slovenia +386</option>
+                              <option value="677">Solomon Islands +677</option>
+                              <option value="252">Somalia +252</option>
+                              <option value="27">South Africa +27</option>
+                              <option value="500">South Georgia and the South Sandwich Islands +500</option>
+                              <option value="211">South Sudan +211</option>
+                              <option value="34">Spain +34</option>
+                              <option value="94">Sri Lanka +94</option>
+                              <option value="249">Sudan +249</option>
+                              <option value="597">Suriname +597</option>
+                              <option value="47">Svalbard and Jan Mayen +47</option>
+                              <option value="268">Swaziland +268</option>
+                              <option value="46">Sweden +46</option>
+                              <option value="41">Switzerland +41</option>
+                              <option value="963">Syrian Arab Republic +963</option>
+                              <option value="886">Taiwan, Province of China +886</option>
+                              <option value="992">Tajikistan +992</option>
+                              <option value="255">Tanzania, United Republic of +255</option>
+                              <option value="66">Thailand +66</option>
+                              <option value="670">Timor-Leste +670</option>
+                              <option value="228">Togo +228</option>
+                              <option value="690">Tokelau +690</option>
+                              <option value="676">Tonga +676</option>
+                              <option value="1868">Trinidad and Tobago +1868</option>
+                              <option value="216">Tunisia +216</option>
+                              <option value="90">Turkey +90</option>
+                              <option value="7370">Turkmenistan +7370</option>
+                              <option value="1649">Turks and Caicos Islands +1649</option>
+                              <option value="688">Tuvalu +688</option>
+                              <option value="256">Uganda +256</option>
+                              <option value="380">Ukraine +380</option>
+                              <option value="971">United Arab Emirates +971</option>
+                              <option value="44">United Kingdom +44</option>
+                              <option value="1">United States +1</option>
+                              <option value="1">United States Minor Outlying Islands +1</option>
+                              <option value="598">Uruguay +598</option>
+                              <option value="998">Uzbekistan +998</option>
+                              <option value="678">Vanuatu +678</option>
+                              <option value="58">Venezuela +58</option>
+                              <option value="84">Viet Nam +84</option>
+                              <option value="1284">Virgin Islands, British +1284</option>
+                              <option value="1340">Virgin Islands, U.s. +1340</option>
+                              <option value="681">Wallis and Futuna +681</option>
+                              <option value="212">Western Sahara +212</option>
+                              <option value="967">Yemen +967</option>
+                              <option value="260">Zambia +260</option>
+                              <option value="263">Zimbabwe +263</option>
+                            </select>
+                                                        </div>
+                                                        <!-- <div *ngIf="m['cMobile'].touched && m['cMobile'].invalid" class="validation">
+                            <div *ngIf="m['cMobile'].errors['required']">Please enter mobile number</div>
+                            <div *ngIf="m['cMobile'].errors['pattern']">Mobile number is not 10 digit</div>
+                          </div> -->
+                                                    </div>
+                                                    <div class="form-group col-lg-6 col-md-6 col-sm-6" id="desktop">
+                                                        <div class="input-group">
+                                                            <div class="input-group-text bg-transparent icon">
+                                                                <i class="fa fa-phone flip"></i>
+                                                            </div>
+                                                            <input class="form-control py-2 border-right-0 border form-input" type="number" step="0.01" placeholder="Mobile Number*" id="number" formControlName="cMobile" />
                                                         </div>
                                                         <div *ngIf="m['cMobile'].touched && m['cMobile'].invalid" class="validation">
                                                             <div *ngIf="m['cMobile'].errors['required']">Please enter mobile number</div>
                                                             <div *ngIf="m['cMobile'].errors['pattern']">Mobile number is not 10 digit</div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-6 col-md-6 col-sm-6" id="desktop">
-                                                        <div class="input-group">
-                                                            <div class="input-group-text bg-transparent icon">
-                                                                <i class="fa fa-map-marker"></i>
-                                                            </div>
-                                                            <input class="form-control py-2 border-right-0 border form-input" type="text" placeholder="City You Live In*" id="city" formControlName="cCity" />
-                                                        </div>
-                                                        <div *ngIf="m['cCity'].touched && m['cCity'].invalid" class="validation">
-                                                            <div *ngIf="m['cCity'].errors['required']">Please enter city</div>
-                                                        </div>
-                                                    </div>
+                                                    <!-- <div class="col-lg-6 col-md-6 col-sm-6" id="desktop">
+                          <div class="input-group">
+                            <div class="input-group-text bg-transparent icon">
+                              <i class="fa fa-map-marker"></i>
+                            </div>
+                            <input class="form-control py-2 border-right-0 border form-input" type="text"
+                              placeholder="City You Live In" id="city" formControlName="cCity" />
+                          </div>
+                          <div *ngIf="m['cCity'].touched && m['cCity'].invalid" class="validation"> -->
+                                                    <!-- <div *ngIf="m['cCity'].errors['required']">Please enter city</div> -->
+                                                    <!-- </div>
+                        </div> -->
                                                 </div>
                                             </div>
                                             <div class="form-div">
                                                 <div class="row">
-                                                    <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
+                                                    <div class="col-lg-6 col-md-6 col-sm-6" id="phone1">
                                                         <div class="input-group">
                                                             <div class="input-group-text bg-transparent icon">
                                                                 <i class="fa fa-graduation-cap"></i>
                                                             </div>
-                                                            <input class="form-control py-2 border-right-0 border form-input" type="text" placeholder="Course Interested In*" id="course" formControlName="cCourse" />
+                                                            <!-- <input
+                              class="form-control py-2 border-right-0 border form-input"
+                              type="text"
+                              placeholder="Course Interested In*"
+                              id="course"
+                              formControlName="cCourse"
+                            /> -->
+                                                            <select class="form-control py-1 border-right-0 border form-input" placeholder="Course Interested In*" id="course" (change)="changeCourse($event)" formControlName="cCourse">
+                            <option value=""  id="course" class="form-control py-1 border-right-0  form-input">Course Interested In*</option>
+                            <option *ngFor="let course of Course" [ngValue]="course">
+                              {{ course }}
+                            </option>
+                          </select>
                                                         </div>
                                                         <div *ngIf="m['cCourse'].touched && m['cCourse'].invalid" class="validation">
                                                             <div *ngIf="m['cCourse'].errors['required']">Please enter Course</div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-6 col-md-6 col-sm-6">
-                                                        <div class="input-group">
-                                                            <div class="input-group-text bg-transparent icon">
-                                                                <i class="fa fa-graduation-cap"></i>
-                                                            </div>
-                                                            <input class="form-control py-2 border-right-0 border form-input" type="text" placeholder="Select Highest Education*" id="education" formControlName="qeducation" />
-                                                        </div>
-                                                        <div *ngIf="m['qeducation'].touched && m['qeducation'].invalid" class="validation">
-                                                            <div *ngIf="m['qeducation'].errors['required']">Please enter Education</div>
-                                                        </div>
-                                                    </div>
+                                                    <!-- <div class="col-lg-6 col-md-6 col-sm-6">
+                          <div class="input-group">
+                            <div class="input-group-text bg-transparent icon">
+                              <i class="fa fa-graduation-cap"></i>
+                            </div>
+                            <input
+                              class="form-control py-2 border-right-0 border form-input"
+                              type="text"
+                              placeholder="Select Highest Education*"
+                              id="education"
+                              formControlName="qeducation"
+                            />
+                          </div>
+                          <div *ngIf="m['qeducation'].touched && m['qeducation'].invalid" class="validation">
+                            <div *ngIf="m['qeducation'].errors['required']">Please enter Education</div>
+                          </div>
+                        </div> -->
                                                     <div class="terms">
                                                         <p>
                                                             By submitting this form, you accept and agree to our<span style="color: cornflowerblue">
@@ -221,9 +508,9 @@
                                                         </p>
                                                     </div>
                                                     <div class="row">
-                                                        <div class="col-lg-10 col-md-10 col-sm-10 login-block">
-                                                            Already Registered? Click Here To Login.
-                                                        </div>
+                                                        <!-- <div class="col-lg-10 col-md-10 col-sm-10 login-block">
+                            Already Registered? Click Here To Login.
+                          </div> -->
                                                         <div class="col-lg-2 col-md-2 col-sm-2">
                                                             <button type="button" class="btn submit" [disabled]="!RegistrationFrom1.valid" (click)="submitForm1()">
                               SUBMIT
@@ -236,113 +523,184 @@
                                     </div>
                                 </div>
 
+                                <!--thank you message div-->
+                                <div class="vh-50 d-flex justify-content-center align-items-center" *ngIf="form2 === true" id="thankyouform">
+                                    <div>
+                                        <div class="mb-4 text-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                            <path
+                                d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
+                        </svg>
+                                        </div>
+                                        <div class="text-center">
+                                            <h1>Thank You !</h1>
+                                            <p>Your submission has bees sent. </p>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <!-- Right Card Form 2-->
-                                <div class="col-lg-8 col-md-8" *ngIf="form2 === true">
-                                    <div class="card form-card">
-                                        <h5 class="form-head text-center">Register Now To Apply</h5>
-                                        <div>
-                                            <!-- <p class="sub-title text-center">
+                                <!-- <div class="col-lg-8 col-md-8" *ngIf="form2 === true">
+                <div class="card form-card">
+                  <h5 class="form-head text-center">Register Now To Apply</h5>
+                  <div> -->
+
+                                <!-- <p class="sub-title text-center">
                       IIT Gandhinagar - Indian Institute of Technology -[IITG]
                     </p> -->
-                                        </div>
-                                        <div>
-                                            <h5 class="edu-title text-center">Current Education Details</h5>
-                                        </div>
-                                        <form [formGroup]="RegistrationFrom2">
-                                            <div class="form-div">
-                                                <div class="row">
-                                                    <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                                        <div class="input-group">
-                                                            <!-- <div class="input-group-text bg-transparent icon"> -->
-                                                            <!-- <i class="fa fa-user"></i> -->
-                                                            <!-- </div> -->
-                                                            <input class="form-control py-2 border-right-0 border form-input1" type="text" placeholder="Select Graduation College/Institue*" id="graduation" formControlName="qgraduation" />
-                                                        </div>
-                                                        <div class="validation" *ngIf="
+
+                                <!-- </div>
+                  <div>
+                    <h5 class="edu-title text-center">Current Education Details</h5>
+                  </div>
+                  <form [formGroup]="RegistrationFrom2">
+                    <div class="form-div">
+                      <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
+                          <div class="input-group"> -->
+
+                                <!-- <div class="input-group-text bg-transparent icon"> -->
+                                <!-- <i class="fa fa-user"></i> -->
+                                <!-- </div> -->
+
+                                <!-- <input
+                              class="form-control py-2 border-right-0 border form-input1"
+                              type="text"
+                              placeholder="Select Graduation College/Institue*"
+                              id="graduation"
+                              formControlName="qgraduation"
+                            />
+                          </div>
+                          <div
+                            class="validation"
+                            *ngIf="
                               RegistrationFrom2.get('qgraduation').invalid &&
                               (RegistrationFrom2.get('qgraduation').dirty ||
                                 RegistrationFrom2.get('qgraduation').touched)
-                            ">
-                                                            Enter graduation.
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-6 col-md-6 col-sm-6">
-                                                        <div class="input-group">
-                                                            <!-- <div class="input-group-text bg-transparent icon"> -->
-                                                            <!-- <i class="fa fa-envelope"></i> -->
-                                                            <!-- </div> -->
-                                                            <input class="form-control py-2 border-right-0 border form-input1" type="text" placeholder="Which Course Did You Do?*" id="course" formControlName="qcourse" />
-                                                        </div>
-                                                        <div class="validation" *ngIf="
+                            "
+                          >
+                            Enter graduation.
+                          </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                          <div class="input-group"> -->
+
+                                <!-- <div class="input-group-text bg-transparent icon"> -->
+                                <!-- <i class="fa fa-envelope"></i> -->
+                                <!-- </div> -->
+
+                                <!-- <input
+                              class="form-control py-2 border-right-0 border form-input1"
+                              type="text"
+                              placeholder="Which Course Did You Do?*"
+                              id="course"
+                              formControlName="qcourse"
+                            />
+                          </div>
+                          <div
+                            class="validation"
+                            *ngIf="
                               RegistrationFrom2.get('qcourse').invalid &&
                               (RegistrationFrom2.get('qcourse').dirty ||
                                 RegistrationFrom2.get('qcourse').touched)
-                            ">
-                                                            Enter course.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="form-div">
-                                                <div class="row">
-                                                    <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                                        <div class="input-group">
-                                                            <!-- <div class="input-group-text bg-transparent icon"> -->
-                                                            <!-- <i class="fa fa-phone flip"></i> -->
-                                                            <!-- </div> -->
-                                                            <input class="form-control py-2 border-right-0 border form-input1" type="number" placeholder="Graduation Percentage* " id="gradper" formControlName="qgradper" />
-                                                        </div>
-                                                        <div class="validation" *ngIf="
+                            "
+                          >
+                            Enter course.
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="form-div">
+                      <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
+                          <div class="input-group"> -->
+
+                                <!-- <div class="input-group-text bg-transparent icon"> -->
+                                <!-- <i class="fa fa-phone flip"></i> -->
+                                <!-- </div> -->
+
+                                <!-- <input
+                              class="form-control py-2 border-right-0 border form-input1"
+                              type="number"
+                              placeholder="Graduation Percentage* "
+                              id="gradper"
+                              formControlName="qgradper"
+                            />
+                          </div>
+                          <div
+                            class="validation"
+                            *ngIf="
                               RegistrationFrom2.get('qgradper').invalid &&
                               (RegistrationFrom2.get('qgradper').dirty ||
                                 RegistrationFrom2.get('qgradper').touched)
-                            ">
-                                                            Enter gradper.
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-lg-6 col-md-6 col-sm-6">
-                                                        <div class="input-group">
-                                                            <!-- <div class="input-group-text bg-transparent icon"> -->
-                                                            <!-- <i class="fa fa-map-marker"></i> -->
-                                                            <!-- </div> -->
-                                                            <input class="form-control py-2 border-right-0 border form-input1" type="text" placeholder="Work Experience (in years)*" id="experience" formControlName="qexperience" />
-                                                        </div>
-                                                        <div class="validation" *ngIf="
+                            "
+                          >
+                            Enter gradper.
+                          </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6">
+                          <div class="input-group"> -->
+
+                                <!-- <div class="input-group-text bg-transparent icon"> -->
+                                <!-- <i class="fa fa-map-marker"></i> -->
+                                <!-- </div> -->
+                                <!-- <input
+                              class="form-control py-2 border-right-0 border form-input1"
+                              type="text"
+                              placeholder="Work Experience (in years)*"
+                              id="experience"
+                              formControlName="qexperience"
+                            />
+                          </div>
+                          <div
+                            class="validation"
+                            *ngIf="
                               RegistrationFrom2.get('qexperience').invalid &&
                               (RegistrationFrom2.get('qexperience').dirty ||
                                 RegistrationFrom2.get('qexperience').touched)
-                            ">
-                                                            Enter experience.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="form-div">
-                                                <div class="terms">
-                                                    <p class="exam">
-                                                        Have you appeared or scheduled for any Entrance Exam?
-                                                    </p>
-                                                    <div class="form-check-inline">
-                                                        <input type="radio" id="html" name="fav_language" value="Yes" formControlName='qextraExam'>   <label for="html">Yes</label><br>
-                                                    </div>
-                                                    <div class="form-check-inline">
-                                                        <input type="radio" id="css" name="fav_language" value="No" formControlName='qextraExam'>   <label for="css">No</label><br>
+                            "
+                          >
+                            Enter experience.
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="form-div">
+                      <div class="terms">
+                        <p class="exam">
+                          Have you appeared or scheduled for any Entrance Exam?
+                        </p>
+                        <div class="form-check-inline">
+                            <input type="radio" id="html" name="fav_language" value="Yes" formControlName='qextraExam'>
+                            <label for="html">Yes</label><br>
+                        </div>
+                        <div class="form-check-inline">
+                            <input type="radio" id="css" name="fav_language" value="No"formControlName='qextraExam'>
+                            <label for="css">No</label><br>
+           
+                        </div>
+                        <div class="form-check-inline">
+                            <input type="radio" id="javascript" name="fav_language" value="Booked"formControlName='qextraExam'>
+                            <label for="javascript">Booked</label>
+                        </div>
+                      </div>
+                      <div>
+                        <h5 class="edu-title text-center">Please Enter Your Score</h5>
+                      </div>
+                      <div class="row">
+                        <div class="col-lg-2"></div>
+                        <div class="col-lg-4" id="phone">
+                          <div class="input-group">
+                            <input
+                              class="form-control py-2 border-right-0 border score-input"
+                              type="text"
+                              placeholder="GATE(Optional)"
+                              id="name"
+                              formControlName="qgate"
+                            />
+                          </div> -->
 
-                                                    </div>
-                                                    <div class="form-check-inline">
-                                                        <input type="radio" id="javascript" name="fav_language" value="Booked" formControlName='qextraExam'>   <label for="javascript">Booked</label>
-                                                    </div>
-                                                </div>
-                                                <div>
-                                                    <h5 class="edu-title text-center">Please Enter Your Score</h5>
-                                                </div>
-                                                <div class="row">
-                                                    <div class="col-lg-2"></div>
-                                                    <div class="col-lg-4" id="phone">
-                                                        <div class="input-group">
-                                                            <input class="form-control py-2 border-right-0 border score-input" type="text" placeholder="GATE(Optional)" id="name" formControlName="qgate" />
-                                                        </div>
-                                                        <!-- <div
+                                <!-- <div
                             class="validation"
                             *ngIf="
                               RegistrationFrom2.get('qgate').invalid &&
@@ -352,12 +710,20 @@
                           >
                             Enter GATE Score.
                           </div> -->
-                                                    </div>
-                                                    <div class="col-lg-4">
-                                                        <div class="input-group">
-                                                            <input class="form-control py-2 border-right-0 border score-input" type="text" placeholder="GRE(Optional)" id="name" formControlName="qgre" />
-                                                        </div>
-                                                        <!-- <div
+
+                                <!-- </div>
+                        <div class="col-lg-4">
+                          <div class="input-group">
+                            <input
+                              class="form-control py-2 border-right-0 border score-input"
+                              type="text"
+                              placeholder="GRE(Optional)"
+                              id="name"
+                              formControlName="qgre"
+                            />
+                          </div> -->
+
+                                <!-- <div
                             class="validation"
                             *ngIf="
                               RegistrationFrom2.get('qgre').invalid &&
@@ -367,12 +733,13 @@
                           >
                             Enter GRE Score.
                           </div> -->
-                                                    </div>
-                                                    <div class="col-lg-2"></div>
-                                                </div>
-                                                <div class="row" style="margin-top: 12px">
-                                                    <div class="col-lg-3">
-                                                        <button class="btn back" type="button" (click)="back1()">
+
+                                <!-- </div>
+                        <div class="col-lg-2"></div>
+                      </div>
+                      <div class="row" style="margin-top: 12px">
+                        <div class="col-lg-3">
+                          <button class="btn back" type="button" (click)="back1()">
                             BACK
                           </button>
                                                     </div>
@@ -381,32 +748,42 @@
                                                         <button class="btn submit" type="button" [disabled]="!RegistrationFrom2.valid" (click)="submitForm2()">
                             SUBMIT
                           </button>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
+                        </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div> -->
                                 <!-- Right Card Form 3-->
-                                <div class="col-lg-8 col-md-8" *ngIf="form3 === true">
-                                    <div class="card form-card">
-                                        <h5 class="form-head text-center">Register Now To Apply</h5>
-                                        <div>
-                                            <!-- <p class="sub-title text-center">
+                                <!-- <div class="col-lg-8 col-md-8" *ngIf="form3 === true">
+                <div class="card form-card">
+                  <h5 class="form-head text-center">Register Now To Apply</h5>
+                  <div> -->
+
+                                <!-- <p class="sub-title text-center">
                       IIT Gandhinagar - Indian Institute of Technology -[IITG]
                     </p> -->
-                                        </div>
-                                        <div>
-                                            <h5 class="edu-title text-center">Past Education Details</h5>
-                                        </div>
-                                        <p class="tenth text-center">10th Standard Details</p>
-                                        <form [formGroup]="RegistrationFrom3">
-                                            <div class="form-div">
-                                                <div class="row">
-                                                    <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                                        <input class="form-control py-2 border-right-0 border form-input1" type="text" placeholder="Select 10th Board*" id="tenthBoard" formControlName="qtenthBoard" />
-                                                    </div>
-                                                    <div class="validation" *ngIf="
+
+                                <!-- </div>
+                  <div>
+                    <h5 class="edu-title text-center">Past Education Details</h5>
+                  </div>
+                  <p class="tenth text-center">10th Standard Details</p>
+                  <form [formGroup]="RegistrationFrom3">
+                    <div class="form-div">
+                      <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
+                          <input
+                            class="form-control py-2 border-right-0 border form-input1"
+                            type="text"
+                            placeholder="Select 10th Board*"
+                            id="tenthBoard"
+                            formControlName="qtenthBoard"
+                          />
+                        </div>
+                        <div
+                          class="validation"
+                          *ngIf="
                             RegistrationFrom3.get('qtenthBoard').invalid &&
                             (RegistrationFrom3.get('qtenthBoard').dirty ||
                               RegistrationFrom3.get('qtenthBoard').touched)
@@ -460,30 +837,40 @@
                                                     <button class="btn submit" type="button" (click)="submitForm3()">
                           SUBMIT
                         </button>
-                                                </div>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                                <div class="col-lg-8 col-md-8" *ngIf="form4 === true">
-                                    <div class="card form-card">
-                                        <h5 class="form-head text-center">Register Now To Apply</h5>
-                                        <div>
-                                            <!-- <p class="sub-title text-center">
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+              <div class="col-lg-8 col-md-8" *ngIf="form4 === true">
+                <div class="card form-card">
+                  <h5 class="form-head text-center">Register Now To Apply</h5>
+                  <div> -->
+
+                                <!-- <p class="sub-title text-center">
                       IIT Gandhinagar - Indian Institute of Technology -[IITG]
                     </p> -->
-                                        </div>
-                                        <div>
-                                            <h5 class="edu-title text-center">Past Education Details</h5>
-                                        </div>
-                                        <p class="twelve text-center">12th Standard Details</p>
-                                        <form [formGroup]="RegistrationFrom4">
-                                            <div class="form-div">
-                                                <div class="row">
-                                                    <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
-                                                        <input class="form-control py-2 border-right-0 border form-input1" type="text" placeholder="Select 12th Board* " id="twelvethBoard" formControlName="fldValue1" />
-                                                    </div>
-                                                    <div class="validation" *ngIf="
+
+                                <!-- </div>
+                  <div>
+                    <h5 class="edu-title text-center">Past Education Details</h5>
+                  </div>
+                  <p class="twelve text-center">12th Standard Details</p>
+                  <form [formGroup]="RegistrationFrom4">
+                    <div class="form-div">
+                      <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6" id="phone">
+                          <input
+                            class="form-control py-2 border-right-0 border form-input1"
+                            type="text"
+                            placeholder="Select 12th Board* "
+                            id="twelvethBoard"
+                            formControlName="fldValue1"
+                          />
+                        </div>
+                        <div
+                          class="validation"
+                          *ngIf="
                             RegistrationFrom4.get('fldValue1').invalid &&
                             (RegistrationFrom4.get('fldValue1').dirty ||
                               RegistrationFrom4.get('fldValue1').touched)
@@ -551,11 +938,11 @@
                                                     <button class="btn submit" type="button" (click)="submitFrom4()">
                           SUBMIT
                         </button>
-                                                </div>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div> -->
                             </div>
                         </div>
                     </section>
@@ -564,45 +951,44 @@
 
             </div>
         </div>
-    </div>
-    <div class="col-12">
-        <div class="course-content-div">
-            <div class="row">
-                <nav class="navbar navbar-expand-lg navbar-light full-width-tabs" #stickyNav [class.stickyNav]="stickyNav">
-                    <div class="collapse navbar-collapse bg-white" id="navbar">
-                        <ul class="nav nav-tabs nav-tabs-ul">
-                            <li class="nav-item">
-                                <a class="active" [ngClass]="{ 'nav-link': true, active: isActive('info') }" (click)="makeActive('info')">Info</a>
-                            </li>
-                            <li class="nav-item">
-                                <a [ngClass]="{ 'nav-link': true, active: isActive('top-colleges') }" (click)="makeActive('top-colleges')">Top Colleges</a>
-                            </li>
-                            <li class="nav-item">
-                                <a [ngClass]="{
+        <div class="col-lg-12">
+            <div class="course-content-div">
+                <div class="row row-without-gutter">
+                    <nav class="navbar navbar-expand-lg navbar-light full-width-tabs" #stickyNav [class.stickyNav]="stickyNav">
+                        <div class="collapse navbar-collapse bg-white" id="navbar">
+                            <ul class="nav nav-tabs nav-tabs-ul">
+                                <li class="nav-item">
+                                    <a class="active" [ngClass]="{ 'nav-link': true, active: isActive('info') }" (click)="makeActive('info')">Info</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a [ngClass]="{ 'nav-link': true, active: isActive('top-colleges') }" (click)="makeActive('top-colleges')">Top Colleges</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a [ngClass]="{
                     'nav-link': true,
                     active: isActive('syllabus')
                   }" (click)="makeActive('syllabus')">Syllabus</a>
-                            </li>
-                            <li class="nav-item">
-                                <a [ngClass]="{ 'nav-link': true, active: isActive('career-options') }" (click)="makeActive('career-options')">Career Options</a>
-                            </li>
-                            <li class="nav-item">
-                                <a [ngClass]="{ 'nav-link': true, active: isActive('faq') }" (click)="makeActive('faq')">FAQ</a>
-                            </li>
-                        </ul>
-                    </div>
-                </nav>
+                                </li>
+                                <li class="nav-item">
+                                    <a [ngClass]="{ 'nav-link': true, active: isActive('career-options') }" (click)="makeActive('career-options')">Career Options</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a [ngClass]="{ 'nav-link': true, active: isActive('faq') }" (click)="makeActive('faq')">FAQ</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
 
-                <div class="col-lg-9 col-12">
-                    <div id="college-content-tab">
-                        <div class="tabcontent">
-                            <div *ngIf="isActive('info')">
-                                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.info">
-                                    <div class="col-12">
+                    <div class="col-lg-9 col-12">
+                        <div id="college-content-tab">
+                            <div class="tabcontent">
+                                <div *ngIf="isActive('info')">
+                                    <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.info">
                                         <!-- {{item.title}} -->
-                                        <div *ngIf="item.type == 'text'">
-                                            <h2 [innerHTML]="item.title"></h2>
+                                        <div class="col-12" *ngIf="item.type == 'text'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                                             <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                                                <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                                 <p [innerHTML]="item.data"></p>
                                             </div>
 
@@ -637,10 +1023,11 @@
                                             </p-accordion>
                                         </div>
                                         <div id="quick" #quick></div>
-                                        <div *ngIf="item.type == 'table'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                                                 <thead>
                                                     <tr>
@@ -657,12 +1044,14 @@
                                                     </tr>
                                                 </tbody>
                                             </table>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'table-title'">
-                                            <h2 class="size" [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table-title'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <div class="row" *ngIf="item.colTitle">
                                                 <div class="col-lg-12">
                                                     <div class="text-center light-bg-blue">
@@ -688,36 +1077,40 @@
                                                     </tr>
                                                 </tbody>
                                             </table>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'list-bollet'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ul class="cust-padding">
                                                 <li *ngFor="let Listitem of item.data">
                                                     <p [innerHTML]="Listitem"></p>
                                                 </li>
                                             </ul>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'number-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'number-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1">
                                                 <li *ngFor="let numbetList of item.data">
                                                     <p [innerHTML]="numbetList"></p>
                                                 </li>
                                             </ol>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'step-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'step-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                                                 <p [innerHTML]="numbetList"></p>
                                             </ol>
@@ -727,13 +1120,13 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div *ngIf="isActive('top-colleges')">
-                                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData?.topcolleges">
-                                    <div class="col-12">
-                                        <div *ngIf="item.type == 'text'">
-                                            <h2 [innerHTML]="item.title"></h2>
+                                <div *ngIf="isActive('top-colleges')">
+                                    <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData?.topcolleges">
+                                        <div class="col-12" *ngIf="item.type == 'text'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
                                                 <p [innerHTML]="item.data"></p>
                                             </div>
@@ -766,10 +1159,10 @@
                                             </p-accordion>
                                         </div>
                                         <div id="quick" #quick></div>
-                                        <div *ngIf="item.type == 'table'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
-                                            <p [innerHTML]="item.textBelowInfo"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                                                 <thead>
                                                     <tr>
@@ -789,10 +1182,12 @@
                                             <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'table-title'">
-                                            <h2 class="size" [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table-title'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <div class="row" *ngIf="item.colTitle">
                                                 <div class="col-lg-12">
                                                     <div class="text-center light-bg-blue">
@@ -821,39 +1216,42 @@
                                             <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'list-bollet'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ul class="cust-padding">
                                                 <li *ngFor="let Listitem of item.data">
                                                     <p [innerHTML]="Listitem"></p>
                                                 </li>
                                             </ul>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'number-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'number-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1">
                                                 <li *ngFor="let numbetList of item.data">
                                                     <p [innerHTML]="numbetList"></p>
                                                 </li>
                                             </ol>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'step-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'step-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                                                 <a>{{ numbetList }}</a>
                                             </ol>
                                         </div>
-                                        <div *ngIf="item.type == 'img'">
+                                        <div class="col-12" *ngIf="item.type == 'img'">
                                             <img [src]="item.data" alt="" class="review-img custome-img" />
                                         </div>
                                         <div id="quick" #quick></div>
@@ -894,8 +1292,8 @@
                                         <div id="quick" #quick></div>
 
                                         <div *ngIf="item.type == 'api-table' && item.useOf == 'Event'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                                                 <thead>
                                                     <tr>
@@ -915,8 +1313,9 @@
                                         </div>
 
                                         <div *ngIf="item.type == 'api-table' && item.useOf == 'Course'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                                                 <thead>
                                                     <tr>
@@ -935,9 +1334,10 @@
                                             </table>
                                         </div>
 
-                                        <div *ngIf="item.type == 'text'">
-                                            <h2 [innerHTML]="item.title"></h2>
+                                        <div class="col-12" *ngIf="item.type == 'text'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                                             <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                                                <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                                 <p [innerHTML]="item.data"></p>
                                             </div>
 
@@ -969,10 +1369,11 @@
                                             </p-accordion>
                                         </div>
                                         <div id="quick" #quick></div>
-                                        <div *ngIf="item.type == 'table'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                                                 <thead>
                                                     <tr>
@@ -992,10 +1393,11 @@
                                             <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'table-title'">
-                                            <h2 class="size" [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table-title'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <div class="row" *ngIf="item.colTitle">
                                                 <div class="col-lg-12">
                                                     <div class="text-center light-bg-blue">
@@ -1024,52 +1426,54 @@
                                             <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'list-bollet'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ul class="cust-padding">
                                                 <li *ngFor="let Listitem of item.data">
                                                     <p [innerHTML]="Listitem"></p>
                                                 </li>
                                             </ul>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'number-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'number-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1">
                                                 <li *ngFor="let numbetList of item.data">
                                                     <p [innerHTML]="numbetList"></p>
                                                 </li>
                                             </ol>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'step-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'step-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                                                 <a>{{ numbetList }}</a>
                                             </ol>
                                         </div>
-                                        <div *ngIf="item.type == 'img'">
+                                        <div class="col-12" *ngIf="item.type == 'img'">
                                             <img [src]="item.data" alt="" class="review-img custome-img" />
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
-                            <div *ngIf="isActive('career-options')">
-                                <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.careeroptions">
-                                    <!-- {{item.title}} -->
-                                    <div class="col-12">
-                                        <div *ngIf="item.type == 'text'">
-                                            <h2 [innerHTML]="item.title"></h2>
+                                <div *ngIf="isActive('career-options')">
+                                    <div class="row row-without-gutter relative-row" *ngFor="let item of collegeData.careeroptions">
+                                        <!-- {{item.title}} -->
+                                        <div class="col-12" *ngIf="item.type == 'text'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                                             <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                                                <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                                 <p [innerHTML]="item.data"></p>
                                             </div>
 
@@ -1101,10 +1505,11 @@
                                             </p-accordion>
                                         </div>
                                         <div id="quick" #quick></div>
-                                        <div *ngIf="item.type == 'table'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                                                 <thead>
                                                     <tr>
@@ -1121,11 +1526,13 @@
                                                     </tr>
                                                 </tbody>
                                             </table>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
-                                        <div *ngIf="item.type == 'table-title'">
-                                            <h2 class="size" [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table-title'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <div class="row" *ngIf="item.colTitle">
                                                 <div class="col-lg-12">
                                                     <div class="text-center light-bg-blue">
@@ -1155,34 +1562,37 @@
                                         </div>
 
 
-                                        <div *ngIf="item.type == 'list-bollet'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ul class="cust-padding">
                                                 <li *ngFor="let Listitem of item.data">
                                                     <p [innerHTML]="Listitem"></p>
                                                 </li>
                                             </ul>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'number-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'number-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1">
                                                 <li *ngFor="let numbetList of item.data">
                                                     <p [innerHTML]="numbetList"></p>
                                                 </li>
                                             </ol>
+                                            <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'step-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'step-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                                                 <a>{{ numbetList }}</a>
                                             </ol>
@@ -1192,16 +1602,15 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
 
-                            <div *ngIf="isActive('faq')">
-                                <div id="faq" class="row row-without-gutter relative-row" *ngFor="let item of collegeData.faq">
-                                    <!-- {{item.type}} -->
-                                    <div class="col-12">
+                                <div *ngIf="isActive('faq')">
+                                    <div id="faq" class="row row-without-gutter relative-row" *ngFor="let item of collegeData.faq">
+                                        <!-- {{item.type}} -->
                                         <div *ngIf="item.type == 'text'">
-                                            <h2 [innerHTML]="item.title"></h2>
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
                                             <div class="tab-text" [ngClass]="{ limitTextHeight: isReadMore }">
+                                                <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                                 <p [innerHTML]="item.data"></p>
                                             </div>
 
@@ -1232,10 +1641,11 @@
                                             </p-accordion>
                                         </div>
                                         <div id="quick" #quick></div>
-                                        <div *ngIf="item.type == 'table'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <table class="table text-center table-hover table-responsive w-100 d-md-table" id="quick-table">
                                                 <thead>
                                                     <tr>
@@ -1254,10 +1664,11 @@
                                             </table>
                                             <p [innerHTML]="item.heading"></p>
                                         </div>
-                                        <div *ngIf="item.type == 'table-title'">
-                                            <h2 class="size" [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'table-title'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <div class="row" *ngIf="item.colTitle">
                                                 <div class="col-lg-12">
                                                     <div class="text-center light-bg-blue">
@@ -1286,10 +1697,11 @@
                                             <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'list-bollet'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'list-bollet'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ul class="cust-padding">
                                                 <li *ngFor="let Listitem of item.data">
                                                     <p [innerHTML]="Listitem"></p>
@@ -1298,11 +1710,11 @@
                                             <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'number-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'number-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1">
                                                 <li *ngFor="let numbetList of item.data">
                                                     <p [innerHTML]="numbetList"></p>
@@ -1311,11 +1723,11 @@
                                             <p [innerHTML]="item.heading"></p>
                                         </div>
 
-                                        <div *ngIf="item.type == 'step-list'">
-                                            <h2 [innerHTML]="item.title"></h2>
-                                            <p [innerHTML]="item.info"></p>
+                                        <div class="col-12" *ngIf="item.type == 'step-list'">
+                                            <h2 class="size light-blue-text" [innerHTML]="item.title"></h2>
+                                            <p style="font-weight:bold;" [innerHTML]="item.info"></p>
                                             <p [innerHTML]="item.textBelowInfo"></p>
-
+                                            <h3 [innerHTML]="item.subtitle"></h3>
                                             <ol style="margin-bottom: 0px" type="1" *ngFor="let numbetList of item.data">
                                                 <a>
                                                     <p [innerHTML]="numbetList"></p>
@@ -1323,7 +1735,7 @@
                                             </ol>
                                             <p [innerHTML]="item.heading"></p>
                                         </div>
-                                        <div *ngIf="item.type == 'img'">
+                                        <div class="col-12" *ngIf="item.type == 'img'">
                                             <img [src]="item.data" alt="" class="review-img custome-img" />
                                         </div>
                                     </div>
@@ -1331,25 +1743,408 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-12">
-                    <!-- comment line is use to make this section sticky -->
-                    <!-- <div class="row row-without-gutter "  #stickyDiv  [class.stickyDiv] = "stickyDiv"> -->
-                    <div id="talk" class="row row-without-gutter" #stickyDiv [class.stickyDiv]="stickyDiv">
-                        <div class="col-12 pr-md-0">
+                    <div class="col-lg-3 col-12">
+                        <!-- comment line is use to make this section sticky -->
+                        <!-- <div class="row row-without-gutter "  #stickyDiv  [class.stickyDiv] = "stickyDiv"> -->
+                        <div id="talk" class="row row-without-gutter">
                             <div class="card talk-to-expert text-center">
                                 <div class="card-body">
                                     <img src="../../assets/img/Course_Content_Icons/4.Talk to expert/talk-to-expert.png" alt="" width="30" />
-                                    <h6>Are you Interested in this Course</h6>
-                                    <a href="tel:180030700033"><button class="btn btn-orange white-text-2 btn-lg">
+                                    <h6>Are you Interested?</h6>
+                                    <button class="btn btn-orange white-text-2 btn-lg" (click)="openModalWithClass(template)">
                     Talk to Expert
-                  </button></a>
+                  </button>
                                 </div>
                             </div>
                         </div>
-                    </div>
 
-                    <!-- <div class="row row-without-gutter">
+                        <!--form starts here-->
+                        <div #stickyDiv [class.stickyDiv]="stickyDiv">
+                            <div class="form2 col-12">
+
+                                <div class="container">
+                                    <!-- Left Card -->
+                                    <div class="row" id="row">
+
+
+                                        <!-- Right Card Form 1-->
+                                        <div class="col-lg-12 col-md-12" *ngIf="form5 === true">
+                                            <div class="card form-card2">
+                                                <h5 class="form-head2 text-center">Register Now To Apply</h5>
+
+                                                <form [formGroup]="RegistrationForm1">
+                                                    <div class="form-div2">
+                                                        <div class="row">
+                                                            <div class="form-group col-lg-12 col-md-12 col-sm-6">
+                                                                <div class="input-group">
+                                                                    <div class="input-group-text bg-transparent icon2">
+                                                                        <i class="fa fa-user"></i>
+                                                                    </div>
+                                                                    <input class="form-control py-2 border-right-0 border form-input2" type="text" placeholder="Full Name*" id="name" formControlName="cCandidateName" />
+                                                                </div>
+                                                                <div *ngIf="m2['cCandidateName'].touched && m2['cCandidateName'].invalid" class="validation2">
+                                                                    <div *ngIf="m2['cCandidateName'].errors['required']">Please Enter Full Name</div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-lg-12 col-md-12 col-sm-6">
+                                                                <div class="input-group">
+                                                                    <div class="input-group-text bg-transparent icon2">
+                                                                        <i class="fa fa-envelope"></i>
+                                                                    </div>
+                                                                    <input class="form-control py-2 border-right-0 border form-input2" type="text" placeholder="Email Address*" id="email" formControlName="cEmail" />
+                                                                </div>
+                                                                <div *ngIf="m2['cEmail'].touched && m2['cEmail'].invalid" class="validation2">
+                                                                    <div *ngIf="m2['cEmail'].errors['required']">Please enter email address</div>
+                                                                    <div *ngIf="m2['cEmail'].errors['pattern']">Please enter valid email address</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="form-div2">
+                                                        <div class="row">
+                                                            <div class="form-group col-lg-12 col-md-12 col-sm-6" id="phone">
+                                                                <div class="input-group">
+                                                                    <div class="input-group-text bg-transparent icon">
+                                                                        <i class="fa fa-phone flip"></i>
+                                                                    </div>
+                                                                    <!-- <input class="form-control py-2 border-right-0 border form-input" type="number" step="0.01"
+                                placeholder="Mobile Number*" id="number" formControlName="cMobile" /> -->
+                                                                    <!-- Country names and Phone Code -->
+                                                                    <select class="form-control py-2 border-right-0 border form-input2" name="cCode">
+                                <option value="91">India +91</option>
+                                <option value="93">Afghanistan +93</option>
+                                <option value="358">Aland Islands +358</option>
+                                <option value="355">Albania +355</option>
+                                <option value="213">Algeria +213</option>
+                                <option value="1684">American Samoa +1684</option>
+                                <option value="376">Andorra +376</option>
+                                <option value="244">Angola +244</option>
+                                <option value="1264">Anguilla +1264</option>
+                                <option value="672">Antarctica +672</option>
+                                <option value="1268">Antigua and Barbuda +1268</option>
+                                <option value="54">Argentina +54</option>
+                                <option value="374">Armenia +374</option>
+                                <option value="297">Aruba +297</option>
+                                <option value="61">Australia +61</option>
+                                <option value="43">Austria +43</option>
+                                <option value="994">Azerbaijan +994</option>
+                                <option value="1242">Bahamas +1242</option>
+                                <option value="973">Bahrain +973</option>
+                                <option value="880">Bangladesh +880</option>
+                                <option value="1246">Barbados +1246</option>
+                                <option value="375">Belarus +375</option>
+                                <option value="32">Belgium +32</option>
+                                <option value="501">Belize +501</option>
+                                <option value="229">Benin +229</option>
+                                <option value="1441">Bermuda +1441</option>
+                                <option value="975">Bhutan +975</option>
+                                <option value="591">Bolivia +591</option>
+                                <option value="599">Bonaire, Sint Eustatius and Saba +599</option>
+                                <option value="387">Bosnia and Herzegovina +387</option>
+                                <option value="267">Botswana +267</option>
+                                <option value="55">Bouvet Island +55</option>
+                                <option value="55">Brazil +55</option>
+                                <option value="246">British Indian Ocean Territory +246</option>
+                                <option value="673">Brunei Darussalam +673</option>
+                                <option value="359">Bulgaria +359</option>
+                                <option value="226">Burkina Faso +226</option>
+                                <option value="257">Burundi +257</option>
+                                <option value="855">Cambodia +855</option>
+                                <option value="237">Cameroon +237</option>
+                                <option value="1">Canada +1</option>
+                                <option value="238">Cape Verde +238</option>
+                                <option value="1345">Cayman Islands +1345</option>
+                                <option value="236">Central African Republic +236</option>
+                                <option value="235">Chad +235</option>
+                                <option value="56">Chile +56</option>
+                                <option value="86">China +86</option>
+                                <option value="61">Christmas Island +61</option>
+                                <option value="672">Cocos (Keeling) Islands +672</option>
+                                <option value="57">Colombia +57</option>
+                                <option value="269">Comoros +269</option>
+                                <option value="242">Congo +242</option>
+                                <option value="242">Congo, Democratic Republic of the Congo +242</option>
+                                <option value="682">Cook Islands +682</option>
+                                <option value="506">Costa Rica +506</option>
+                                <option value="225">Cote D'Ivoire +225</option>
+                                <option value="385">Croatia +385</option>
+                                <option value="53">Cuba +53</option>
+                                <option value="599">Curacao +599</option>
+                                <option value="357">Cyprus +357</option>
+                                <option value="420">Czech Republic +420</option>
+                                <option value="45">Denmark +45</option>
+                                <option value="253">Djibouti +253</option>
+                                <option value="1767">Dominica +1767</option>
+                                <option value="1809">Dominican Republic +1809</option>
+                                <option value="593">Ecuador +593</option>
+                                <option value="20">Egypt +20</option>
+                                <option value="503">El Salvador +503</option>
+                                <option value="240">Equatorial Guinea +240</option>
+                                <option value="291">Eritrea +291</option>
+                                <option value="372">Estonia +372</option>
+                                <option value="251">Ethiopia +251</option>
+                                <option value="500">Falkland Islands (Malvinas) +500</option>
+                                <option value="298">Faroe Islands +298</option>
+                                <option value="679">Fiji +679</option>
+                                <option value="358">Finland +358</option>
+                                <option value="33">France +33</option>
+                                <option value="594">French Guiana +594</option>
+                                <option value="689">French Polynesia +689</option>
+                                <option value="262">French Southern Territories +262</option>
+                                <option value="241">Gabon +241</option>
+                                <option value="220">Gambia +220</option>
+                                <option value="995">Georgia +995</option>
+                                <option value="49">Germany +49</option>
+                                <option value="233">Ghana +233</option>
+                                <option value="350">Gibraltar +350</option>
+                                <option value="30">Greece +30</option>
+                                <option value="299">Greenland +299</option>
+                                <option value="1473">Grenada +1473</option>
+                                <option value="590">Guadeloupe +590</option>
+                                <option value="1671">Guam +1671</option>
+                                <option value="502">Guatemala +502</option>
+                                <option value="44">Guernsey +44</option>
+                                <option value="224">Guinea +224</option>
+                                <option value="245">Guinea-Bissau +245</option>
+                                <option value="592">Guyana +592</option>
+                                <option value="509">Haiti +509</option>
+                                <option value="39">Holy See (Vatican City State) +39</option>
+                                <option value="504">Honduras +504</option>
+                                <option value="852">Hong Kong +852</option>
+                                <option value="36">Hungary +36</option>
+                                <option value="354">Iceland +354</option>
+                                <option value="91">India +91</option>
+                                <option value="62">Indonesia +62</option>
+                                <option value="98">Iran, Islamic Republic of +98</option>
+                                <option value="964">Iraq +964</option>
+                                <option value="353">Ireland +353</option>
+                                <option value="44">Isle of Man +44</option>
+                                <option value="972">Israel +972</option>
+                                <option value="39">Italy +39</option>
+                                <option value="1876">Jamaica +1876</option>
+                                <option value="81">Japan +81</option>
+                                <option value="44">Jersey +44</option>
+                                <option value="962">Jordan +962</option>
+                                <option value="7">Kazakhstan +7</option>
+                                <option value="254">Kenya +254</option>
+                                <option value="686">Kiribati +686</option>
+                                <option value="850">Korea, Democratic People's Republic of +850</option>
+                                <option value="82">Korea, Republic of +82</option>
+                                <option value="381">Kosovo +381</option>
+                                <option value="965">Kuwait +965</option>
+                                <option value="996">Kyrgyzstan +996</option>
+                                <option value="856">Lao People's Democratic Republic +856</option>
+                                <option value="371">Latvia +371</option>
+                                <option value="961">Lebanon +961</option>
+                                <option value="266">Lesotho +266</option>
+                                <option value="231">Liberia +231</option>
+                                <option value="218">Libyan Arab Jamahiriya +218</option>
+                                <option value="423">Liechtenstein +423</option>
+                                <option value="370">Lithuania +370</option>
+                                <option value="352">Luxembourg +352</option>
+                                <option value="853">Macao +853</option>
+                                <option value="389">Macedonia, the Former Yugoslav Republic of +389</option>
+                                <option value="261">Madagascar +261</option>
+                                <option value="265">Malawi +265</option>
+                                <option value="60">Malaysia +60</option>
+                                <option value="960">Maldives +960</option>
+                                <option value="223">Mali +223</option>
+                                <option value="356">Malta +356</option>
+                                <option value="692">Marshall Islands +692</option>
+                                <option value="596">Martinique +596</option>
+                                <option value="222">Mauritania +222</option>
+                                <option value="230">Mauritius +230</option>
+                                <option value="262">Mayotte +262</option>
+                                <option value="52">Mexico +52</option>
+                                <option value="691">Micronesia, Federated States of +691</option>
+                                <option value="373">Moldova, Republic of +373</option>
+                                <option value="377">Monaco +377</option>
+                                <option value="976">Mongolia +976</option>
+                                <option value="382">Montenegro +382</option>
+                                <option value="1664">Montserrat +1664</option>
+                                <option value="212">Morocco +212</option>
+                                <option value="258">Mozambique +258</option>
+                                <option value="95">Myanmar +95</option>
+                                <option value="264">Namibia +264</option>
+                                <option value="674">Nauru +674</option>
+                                <option value="977">Nepal +977</option>
+                                <option value="31">Netherlands +31</option>
+                                <option value="599">Netherlands Antilles +599</option>
+                                <option value="687">New Caledonia +687</option>
+                                <option value="64">New Zealand +64</option>
+                                <option value="505">Nicaragua +505</option>
+                                <option value="227">Niger +227</option>
+                                <option value="234">Nigeria +234</option>
+                                <option value="683">Niue +683</option>
+                                <option value="672">Norfolk Island +672</option>
+                                <option value="1670">Northern Mariana Islands +1670</option>
+                                <option value="47">Norway +47</option>
+                                <option value="968">Oman +968</option>
+                                <option value="92">Pakistan +92</option>
+                                <option value="680">Palau +680</option>
+                                <option value="970">Palestinian Territory, Occupied +970</option>
+                                <option value="507">Panama +507</option>
+                                <option value="675">Papua New Guinea +675</option>
+                                <option value="595">Paraguay +595</option>
+                                <option value="51">Peru +51</option>
+                                <option value="63">Philippines +63</option>
+                                <option value="64">Pitcairn +64</option>
+                                <option value="48">Poland +48</option>
+                                <option value="351">Portugal +351</option>
+                                <option value="1787">Puerto Rico +1787</option>
+                                <option value="974">Qatar +974</option>
+                                <option value="262">Reunion +262</option>
+                                <option value="40">Romania +40</option>
+                                <option value="7">Russian Federation +7</option>
+                                <option value="250">Rwanda +250</option>
+                                <option value="590">Saint Barthelemy +590</option>
+                                <option value="290">Saint Helena +290</option>
+                                <option value="1869">Saint Kitts and Nevis +1869</option>
+                                <option value="1758">Saint Lucia +1758</option>
+                                <option value="590">Saint Martin +590</option>
+                                <option value="508">Saint Pierre and Miquelon +508</option>
+                                <option value="1784">Saint Vincent and the Grenadines +1784</option>
+                                <option value="684">Samoa +684</option>
+                                <option value="378">San Marino +378</option>
+                                <option value="239">Sao Tome and Principe +239</option>
+                                <option value="966">Saudi Arabia +966</option>
+                                <option value="221">Senegal +221</option>
+                                <option value="381">Serbia +381</option>
+                                <option value="381">Serbia and Montenegro +381</option>
+                                <option value="248">Seychelles +248</option>
+                                <option value="232">Sierra Leone +232</option>
+                                <option value="65">Singapore +65</option>
+                                <option value="721">Sint Maarten +721</option>
+                                <option value="421">Slovakia +421</option>
+                                <option value="386">Slovenia +386</option>
+                                <option value="677">Solomon Islands +677</option>
+                                <option value="252">Somalia +252</option>
+                                <option value="27">South Africa +27</option>
+                                <option value="500">South Georgia and the South Sandwich Islands +500</option>
+                                <option value="211">South Sudan +211</option>
+                                <option value="34">Spain +34</option>
+                                <option value="94">Sri Lanka +94</option>
+                                <option value="249">Sudan +249</option>
+                                <option value="597">Suriname +597</option>
+                                <option value="47">Svalbard and Jan Mayen +47</option>
+                                <option value="268">Swaziland +268</option>
+                                <option value="46">Sweden +46</option>
+                                <option value="41">Switzerland +41</option>
+                                <option value="963">Syrian Arab Republic +963</option>
+                                <option value="886">Taiwan, Province of China +886</option>
+                                <option value="992">Tajikistan +992</option>
+                                <option value="255">Tanzania, United Republic of +255</option>
+                                <option value="66">Thailand +66</option>
+                                <option value="670">Timor-Leste +670</option>
+                                <option value="228">Togo +228</option>
+                                <option value="690">Tokelau +690</option>
+                                <option value="676">Tonga +676</option>
+                                <option value="1868">Trinidad and Tobago +1868</option>
+                                <option value="216">Tunisia +216</option>
+                                <option value="90">Turkey +90</option>
+                                <option value="7370">Turkmenistan +7370</option>
+                                <option value="1649">Turks and Caicos Islands +1649</option>
+                                <option value="688">Tuvalu +688</option>
+                                <option value="256">Uganda +256</option>
+                                <option value="380">Ukraine +380</option>
+                                <option value="971">United Arab Emirates +971</option>
+                                <option value="44">United Kingdom +44</option>
+                                <option value="1">United States +1</option>
+                                <option value="1">United States Minor Outlying Islands +1</option>
+                                <option value="598">Uruguay +598</option>
+                                <option value="998">Uzbekistan +998</option>
+                                <option value="678">Vanuatu +678</option>
+                                <option value="58">Venezuela +58</option>
+                                <option value="84">Viet Nam +84</option>
+                                <option value="1284">Virgin Islands, British +1284</option>
+                                <option value="1340">Virgin Islands, U.s. +1340</option>
+                                <option value="681">Wallis and Futuna +681</option>
+                                <option value="212">Western Sahara +212</option>
+                                <option value="967">Yemen +967</option>
+                                <option value="260">Zambia +260</option>
+                                <option value="263">Zimbabwe +263</option>
+                              </select>
+                                                                </div>
+                                                                <!-- <div *ngIf="m['cMobile'].touched && m['cMobile'].invalid" class="validation">
+                              <div *ngIf="m['cMobile'].errors['required']">Please enter mobile number</div>
+                              <div *ngIf="m['cMobile'].errors['pattern']">Mobile number is not 10 digit</div>
+                            </div> -->
+                                                            </div>
+                                                            <div class="form-group col-lg-12 col-md-12 col-sm-6" id="desktop">
+                                                                <div class="input-group">
+                                                                    <div class="input-group-text bg-transparent icon">
+                                                                        <i class="fa fa-phone flip"></i>
+                                                                    </div>
+                                                                    <input class="form-control py-2 border-right-0 border form-input2" type="number" step="0.01" placeholder="Mobile Number*" id="number" formControlName="cMobile" />
+                                                                </div>
+                                                                <div *ngIf="m['cMobile'].touched && m['cMobile'].invalid" class="validation">
+                                                                    <div *ngIf="m['cMobile'].errors['required']">Please enter mobile number</div>
+                                                                    <div *ngIf="m['cMobile'].errors['pattern']">Mobile number is not 10 digit</div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- <div class="col-lg-6 col-md-6 col-sm-6" id="desktop">
+                            <div class="input-group">
+                              <div class="input-group-text bg-transparent icon">
+                                <i class="fa fa-map-marker"></i>
+                              </div>
+                              <input class="form-control py-2 border-right-0 border form-input" type="text"
+                                placeholder="City You Live In" id="city" formControlName="cCity" />
+                            </div>
+                            <div *ngIf="m['cCity'].touched && m['cCity'].invalid" class="validation"> -->
+                                                            <!-- <div *ngIf="m['cCity'].errors['required']">Please enter city</div> -->
+                                                            <!-- </div>
+                          </div> -->
+                                                        </div>
+                                                    </div>
+                                                    <div class="form-div2" id="form-div2">
+                                                        <div class="row">
+
+
+                                                            <div class="terms2">
+                                                                <p>
+                                                                    By submitting this form, you accept and agree to our<span style="color: cornflowerblue">
+                                Terms of use
+                              </span>
+                                                                </p>
+                                                            </div>
+                                                            <div class="row">
+                                                                <!-- <div class="col-lg-10 col-md-10 col-sm-10 login-block">
+                              Already Registered? Click Here To Login.
+                            </div> -->
+                                                                <div class="col-lg-2 col-md-2 col-sm-2">
+                                                                    <button type="button" class="btn submit2" [disabled]="!RegistrationForm1.valid" (click)="submitFormS()">
+                                SUBMIT
+                              </button>
+
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-12 vh-50 d-flex justify-content-center align-items-center" *ngIf="form6 === true" id="thankyouform2">
+                                            <div>
+                                                <div class="mb-4 text-center">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" class="text-success" width="75" height="75" fill="currentColor" class="bi bi-check-circle-fill" viewBox="0 0 16 16">
+                              <path
+                                  d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z" />
+                          </svg>
+                                                </div>
+                                                <div class="text-center">
+                                                    <h1>Thank You !</h1>
+                                                    <p>Your submission has bees sent. </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- <div class="row row-without-gutter">
             <div class="card other-courses">
                 <div class="card-header text-center">
                     <h5>{{studuentAlsoVisit?studuentAlsoVisit[0]['Right Side Subject']:""}}</h5>
@@ -1369,7 +2164,7 @@
                 </div>
             </div>
         </div> -->
-                    <!-- <div class="row row-without-gutter">
+                        <!-- <div class="row row-without-gutter">
             <div class="card other-courses">
                 <div class="card-header text-center">
                     <h5>Students also Visited1</h5>
@@ -1389,7 +2184,7 @@
                 </div>
             </div>
         </div> -->
-                    <!-- <div class="row row-without-gutter">
+                        <!-- <div class="row row-without-gutter">
             <div class="card other-courses">
                 <div class="card-header text-center">
                     <h5>Students also Visited2</h5>
@@ -1410,10 +2205,10 @@
             </div>
         </div> -->
 
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 </section>
 <app-chat></app-chat>
 <app-footer></app-footer>

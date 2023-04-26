@@ -48,7 +48,7 @@ export const ningxiauniversity
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>For this, they require the following documents:</b>",
+            "info": "For this, they require the following documents:",
             "data": [
                 "Valid passport",
                 "Original JW202 Study Visa Form",
@@ -87,7 +87,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - Low Fees, World Ranking, Scholarship"
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -96,6 +96,11 @@ export const ningxiauniversity
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Ningxia University, China - courses & Fees"
+
+        },
         {
             "type": "table",
             "title": "Ningxia University: MBBS Fee Structure 2020",
@@ -155,7 +160,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - courses & Fees"
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -165,9 +170,14 @@ export const ningxiauniversity
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Ningxia University, China - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For MBBS Course",
-            "info": "<b>Below are the few elligibility criteria one should perfectly fit to study MBBS in Yangzhou University :</b>",
+            "info": "Below are the few elligibility criteria one should perfectly fit to study MBBS in Yangzhou University :",
             "data": [
                 "Candidates must have a foreign nationality with access to a foreign passport.",
                 "Students or candidates must have taken education in 10+2 pattern, with a minimum of 50% as an aggregate score in major subjects like Physics, Chemistry, and Biology.",
@@ -211,7 +221,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - Admission 2023 "
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -220,6 +230,11 @@ export const ningxiauniversity
         }
     ],
     "review": [
+        {
+            type: 'title',
+            title: "Ningxia University, China - Reviews"
+
+        },
         {
             type: "meta",
             meta: [
@@ -230,7 +245,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - Reviews"
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -240,6 +255,11 @@ export const ningxiauniversity
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Ningxia University, China - Placement"
+
+        },
+        {
             "type": "list-bollet",
             "title": "placement",
             "info": "",
@@ -247,7 +267,7 @@ export const ningxiauniversity
                 "Ningxia Medical University graduates may work at their own hospitals. Consequently, those with completed degrees are entitled to work at Ningxia Medical University.",
                 "Ningxia Medical University encourages graduates to continue their studies by offering further education choices.",
                 "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE).",
-                "Young graduates may pursue jobs as doctors in India after obtaining their degree."                
+                "Young graduates may pursue jobs as doctors in India after obtaining their degree."
             ]
         },
         {
@@ -260,7 +280,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - Placement"
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -269,6 +289,11 @@ export const ningxiauniversity
         }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "Ningxia University, China - Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -279,7 +304,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - Gallery"
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -289,6 +314,11 @@ export const ningxiauniversity
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Ningxia University, China - Scholarship"
+
+        },
+        {
             "type": "text",
             "title": "Scholarships at Ningxia University",
             "data": "<p>The university offers full scholarships for students who are enrolled in one of the undergraduate, graduate or doctoral level programs.</p>"
@@ -296,7 +326,7 @@ export const ningxiauniversity
         {
             "type": "list-bollets",
             "title": "",
-            "info": "<b>Following are the application requirements for MBBS at Ningxia University scholarships</b>",
+            "info": "Following are the application requirements for MBBS at Ningxia University scholarships",
             "data": [
                 "Candidates must have a foreign nationality with access to a foreign passport.",
                 "Candidate must be physically and mentally healthy.",
@@ -307,7 +337,7 @@ export const ningxiauniversity
         {
             "type": "list-bollets",
             "title": "",
-            "info": "<b>These scholarships can include tuition, living, and accommodation expenses. The set amounts for scholarships are:</b>",
+            "info": "These scholarships can include tuition, living, and accommodation expenses. The set amounts for scholarships are:",
             "data": [
                 "Undergraduate students: 2500 RMB per Month",
                 "Graduate students: 3000 RMB per Month",
@@ -317,7 +347,7 @@ export const ningxiauniversity
         {
             "type": "list-bollets",
             "title": "",
-            "info": "<b>The school can also provide comprehensive medical insurance for all international students.</b>",
+            "info": "The school can also provide comprehensive medical insurance for all international students.",
             "data": [
                 "According to one’s duration of study on the letter of admission, the duration of the scholarship can be 4-5 years for undergraduate-level students, 2-3 academic years for graduate-level students, 3-4 academic years for doctoral-level students etc."
             ],
@@ -332,7 +362,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - Scholarship"
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -341,6 +371,11 @@ export const ningxiauniversity
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Ningxia University, China - Faculty"
+
+        },
         {
             type: "meta",
             meta: [
@@ -351,7 +386,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - Faculty"
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -360,6 +395,11 @@ export const ningxiauniversity
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Ningxia University, China - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -370,7 +410,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - News & Articles"
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -379,6 +419,11 @@ export const ningxiauniversity
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Ningxia University, China - Hostel"
+
+        },
         {
             "type": "list-bollet",
             "title": "Accommodation Facilities at Ningxia University",
@@ -403,7 +448,7 @@ export const ningxiauniversity
         {
             type: "meta-title",
             title: "Ningxia University, China - Hostel"
-            },
+        },
         {
             type: "meta-links",
             link: [
@@ -414,9 +459,14 @@ export const ningxiauniversity
     "faq":
         [
             {
+                type: 'title',
+                title: "Ningxia University, China - FAQ"
+
+            },
+            {
                 "type": "question-list",
                 "title": "Ningxia University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q.What are the facilities provided at Ningxia University?",
@@ -454,7 +504,7 @@ export const ningxiauniversity
             {
                 type: "meta-title",
                 title: "Ningxia University, China - FAQ"
-                },
+            },
             {
                 type: "meta-links",
                 link: [
@@ -464,5 +514,5 @@ export const ningxiauniversity
         ],
 }
 
-   
-  
+
+

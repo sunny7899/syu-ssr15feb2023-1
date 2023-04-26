@@ -16,11 +16,10 @@ export const universityoflatvia = {
             "title": "",
             "data": "<p>The <b>University of Latvia</b> is the leading state-run public university in Latvia, established in 1919 in the capital city of Riga, Latvia. This university is amongst the top Latvian University and is a national, leading, most influential educational center. The University has the highest enrollment of a number of students in Latvia studying BBA and Engineering, also has admitted more than 15000 students for programs in economics, maths, doctoral, languages, business, law, science, biology, technology, etc.</p><p>Earlier this institute was referred to by the names like Higher School of Latvia, University of Riga, and Latvian State University. This higher education institute has more than 13 faculties with expertise in each field for its bachelor’s, master’s, and doctoral programs for international students. The University of Riga has 7 regional branches, 17 scientific institutes, and  3 colleges. This place has more than 25 % of the population of international students in Latvia pursuing BBA, Engineering, 3000+ employees, 2000+ scientific publications, 150 study programs, etc.</p><p>Latvian State University has a great infrastructure and buildings with smart classrooms, sports and games regions, cultural and social activities areas, theatre, and others. Placements and internships have also been provided to its students and thus great records of it as well. Accommodations are too available by the University of Latvia for all its students with all facilities and furnished rooms.</p>"
         },
-
         {
             "type": "table-title",
             "title": "University of Latvia - Quick Overview",
-            "info": "<b>The below table shows the quick highlights of the University of Latvia for international aspirants:</b>",
+            "info": "The below table shows the quick highlights of the University of Latvia for international aspirants:",
             "row": [
                 ["<b>Intake for Course</b>", "January"],
                 ["<b>Programs offered</b>", "Bachelor, Master, Engineering, BBA"],
@@ -36,7 +35,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: 'Why Study at the University of Latvia?',
-            info: '<b>Some features of the University of Latvia that attracts international students are:</b>',
+            info: 'Some features of the University of Latvia that attracts international students are:',
             data: [
                 "The University of Latvia is the #1 university in the country.",
                 "The University is in the highest position for the total number of students and the most influential institute.",
@@ -49,7 +48,7 @@ export const universityoflatvia = {
         {
             "type": "table",
             "title": "University of Latvia - Ranking 2022",
-            "info": "<b>The UniRank has marked the University of Latvia in the following positions:</b>",
+            "info": "The UniRank has marked the University of Latvia in the following positions:",
             "col": [
                 "Country",
                 "World",
@@ -65,7 +64,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>The medium of teaching at the University of Latvia is:',
+            info: 'The medium of teaching at the University of Latvia is:',
             data: [
                 "The medium of teaching for the Bachelor and Master degree programs at the University of Latvia is available in the English language for international students. While their curriculum is also planned in the same language as classroom teaching too.",
                 "The University of Latvia allows native students to study in both Latvian and English."
@@ -74,13 +73,13 @@ export const universityoflatvia = {
         {
             type: 'text',
             title: 'Accreditation',
-            info: '<b>The accreditation and memberships associated with the University of Latvia are:</b>',
+            info: 'The accreditation and memberships associated with the University of Latvia are:',
             data: "<p><b>The accreditation and memberships associated with the University of Latvia are:</b></p><p>The leading University of Latvia is officially accredited with the Min of Higher education and Science of the Republic of the Latvian state.</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Also, the University of Latvia is a member and affiliated with the following associations:</b>',
+            info: 'Also, the University of Latvia is a member and affiliated with the following associations:',
             data: [
                 "European Union Associations(EUA)",
                 "Network of Universities from the capital of Europe(UNICA)",
@@ -94,7 +93,7 @@ export const universityoflatvia = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living of the Riga city for an individual to live:</b>",
+            "info": "The cost of living of the Riga city for an individual to live:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -149,15 +148,17 @@ export const universityoflatvia = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-latvia" }
             ]
         }
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "1 Engineering",
-            "info": "<b>Fee Structure (for Engineering)</b>",
-            "textBelowInfo": "<b>The table gives a brief idea about the fee structure programs of the University of Latvia:</b>",
+            "info": "Fee Structure (for Engineering)",
+            "textBelowInfo": "The table gives a brief idea about the fee structure programs of the University of Latvia:",
             "col": [
                 "Particular",
                 "Annual Fee",
@@ -224,7 +225,7 @@ export const universityoflatvia = {
         {
             "type": "table-title",
             "title": "Courses Offered (for Engineering)",
-            "info": "<b>The list of courses offered at the University of Latvia:</b>",
+            "info": "The list of courses offered at the University of Latvia:",
             "colTitle": "Bachelor Degree Programs",
             "row": [
                 ["Computer Science", "Business Administration", "Russian Philosophy", "BioEngineering"],
@@ -236,7 +237,7 @@ export const universityoflatvia = {
         {
             "type": "table-title",
             "title": "Courses Offered (for Engineering)",
-            "info": "<b>The list of courses offered at the University of Latvia:</b>",
+            "info": "The list of courses offered at the University of Latvia:",
             "colTitle": "Master Degree Programs",
             "row": [
                 ["Russian Philology", "Epidemiology and Medical Statistics", "German Philology", "International Business with specialization in Export Management"],
@@ -248,7 +249,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: 'Course Duration (for Engineering)',
-            info: '<b>The course duration is noted below for the programs at the University of Latvia:</b>',
+            info: 'The course duration is noted below for the programs at the University of Latvia:',
             data: [
                 "The duration of the course for the Industrial Engineering and Computer Science bachelor’s degree program takes 4 years to complete, which includes 8 semesters in total.",
                 "The Course duration of the Bio-Engineering bachelor’s is of 3 years in total including 6 semesters curriculum.",
@@ -259,7 +260,7 @@ export const universityoflatvia = {
             "type": "table",
             "title": "2 MIM",
             "info": "Fee Structure (for MIM)",
-            "textBeloeInfo": "<b>The table gives a brief idea about the fee structure programs of the University of Latvia:</b>",
+            "textBeloeInfo": "The table gives a brief idea about the fee structure programs of the University of Latvia:",
             "col": [
                 "Particular",
                 "Annual Fee",
@@ -291,7 +292,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: 'Course Duration (for MIM)',
-            info: '<b>The course duration is noted below for the programs at the University of Latvia:</b>',
+            info: 'The course duration is noted below for the programs at the University of Latvia:',
             data: [
                 "The duration of the International Business Administration course having a master’s degree takes 2 years to complete.",
 
@@ -301,7 +302,7 @@ export const universityoflatvia = {
             "type": "table",
             "title": "3 BBA (Bachelor Degree in Business Administration)",
             "info": "Fee Structure (for BBA)",
-            "textBeloeInfo": "<b>The table gives a brief idea about the fee structure programs of the University of Latvia:</b>",
+            "textBeloeInfo": "The table gives a brief idea about the fee structure programs of the University of Latvia:",
             "col": [
                 "Particular",
                 "Annual Fee",
@@ -325,7 +326,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: 'Course Duration (for BBA)',
-            info: '<b>The course duration is noted below for the programs at the University of Latvia:</b>',
+            info: 'The course duration is noted below for the programs at the University of Latvia:',
             data: [
 
                 'The duration of the Business Administration course having a bachelor’s degree takes 3 years to complete, which includes 6 semesters in total.'
@@ -351,9 +352,13 @@ export const universityoflatvia = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria (for Engineering)',
-            info: '<b>The eligibility criteria for the international aspirants for the University of Latvia are:</b>',
+            info: 'The eligibility criteria for the international aspirants for the University of Latvia are:',
             data: [
 
                 "Diploma /10+2th higher secondary school completion from the government-recognized institute.",
@@ -363,8 +368,8 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: "",
-            info: '<b>English Language proficiency proof is also another important factor of eligibility criteria as noted below:</b>',
-            textBelowInfo: "<b>English Language Requirements:</b>",
+            info: "English Language proficiency proof is also another important factor of eligibility criteria as noted below:",
+            textBelowInfo: "English Language Requirements:",
             data: [
                 "TOEFL IBT-at least 72 score",
                 "IELTS-at least 5.5 score",
@@ -378,7 +383,7 @@ export const universityoflatvia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Courses & Degree Name</b>",
+            "info": "Courses & Degree Name",
             "col": [
 
                 "Name of Course",
@@ -411,7 +416,7 @@ export const universityoflatvia = {
         {
             type: 'step-list',
             title: 'Admission Process (for Engineering)',
-            info: '<b>Below are the general steps noted for the error admission of international students at the University of Latvia:</b>',
+            info: 'Below are the general steps noted for the error admission of international students at the University of Latvia:',
             data: [
                 "<b>Step 1:</b> Initially the applicant must gather all the important details about the Program chosen and do consultation.",
                 "<b>Step 2:</b> Thus, after selecting the suitable course, the applicant completes the registration process and fills the application form available on the University website.",
@@ -425,7 +430,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: 'Documents Required (for Engineering)',
-            info: '<b>The list of documents required for the admission procedure:</b>',
+            info: 'The list of documents required for the admission procedure:',
             data: [
                 "Application form",
                 "Birth certificate",
@@ -449,7 +454,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria (for MIM)',
-            info: '<b>The eligibility criteria for the international aspirants for the University of Latvia are:</b>',
+            info: 'The eligibility criteria for the international aspirants for the University of Latvia are:',
             data: [
                 "Mandatory experience of 2 years in the field of Business or Economics.",
                 "Experience details would be mentioned and elaborated in detail in the CV uploaded.",
@@ -459,7 +464,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Bachelor degree/Master degree/diploma in the following domain:</b>',
+            info: 'Bachelor degree/Master degree/diploma in the following domain:',
             data: [
                 "Economics or Business Administration or",
                 "Social Sciences or",
@@ -470,7 +475,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>English Language Requirements:</b>',
+            info: 'English Language Requirements:',
             data: [
                 "TOEFL IBT-at least 72 score",
                 "IELTS-at least 5.5 score",
@@ -484,7 +489,7 @@ export const universityoflatvia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Courses & Degree Name</b>",
+            "info": "Courses & Degree Name",
             "col": [
 
                 "Name of Course",
@@ -509,7 +514,7 @@ export const universityoflatvia = {
         {
             type: 'step-list',
             title: 'Admission Process (for MIM)',
-            info: '<b>Below are the general steps noted for the error admission of international students at the University of Latvia:</b>',
+            info: 'Below are the general steps noted for the error admission of international students at the University of Latvia:',
             data: [
                 "<b>Step 1:</b> Initially the applicant must gather all the important details about the Program chosen and do consultation.",
                 "<b>Step 2:</b> Thus, after selecting the suitable course, the applicant completes the registration process and fills the application form available on the University website.",
@@ -523,7 +528,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: 'Documents Required (for MIM)',
-            info: '<b>The list of documents required for the admission procedure:</b>',
+            info: 'The list of documents required for the admission procedure:',
             data: [
                 "Application form",
                 "Birth certificate",
@@ -541,13 +546,12 @@ export const universityoflatvia = {
                 "SSC mark sheet",
                 "Passport size photos",
                 "ID proof",
-
             ]
         },
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria (for BBA)',
-            info: '<b>The eligibility criteria for the international aspirants for the University of Latvia are:</b>',
+            info: 'The eligibility criteria for the international aspirants for the University of Latvia are:',
             data: [
                 "Diploma /10+2th higher secondary school completion from the government-recognized institute.",
                 "The score in Mathematics must not be less than passing marks of 4 out of 10 points in an average which is more than 40% in total",
@@ -557,8 +561,8 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>English Language proficiency proof is also another important factor of eligibility criteria as noted below:</b>',
-            textBelowInfo: '<b>English Language Requirements:</b>',
+            info: 'English Language proficiency proof is also another important factor of eligibility criteria as noted below:',
+            textBelowInfo: 'English Language Requirements:',
             data: [
                 "TOEFL IBT-at least 72 score",
                 "IELTS-at least 5.5 score",
@@ -572,15 +576,13 @@ export const universityoflatvia = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Courses & Degree Name</b>",
+            "info": "Courses & Degree Name",
             "col": [
 
                 "Name of Course",
                 "Specialization",
                 "Scope and achieved",
                 "Credits",
-
-
             ],
             "row": [
 
@@ -590,16 +592,12 @@ export const universityoflatvia = {
                     "Scope and achieved": "180 ECTS/120 ECTS",
                     "Credits": "-"
                 },
-
-
-
-
             ]
         },
         {
             type: 'step-list',
             title: 'Admission Process (for BBA)',
-            info: '<b>Below are the general steps noted for the error admission of international students at the University of Latvia:</b>',
+            info: 'Below are the general steps noted for the error admission of international students at the University of Latvia:',
             data: [
                 "<b>Step 1:</b> Initially the applicant must gather all the important details about the Program chosen and do consultation.",
                 "<b>Step 2:</b> Thus, after selecting the suitable course, the applicant completes the registration process and fills the application form available on the University website.",
@@ -613,7 +611,7 @@ export const universityoflatvia = {
         {
             type: 'list-bollet',
             title: 'Documents Required (for BBA)',
-            info: '<b>The list of documents required for the admission procedure:</b>',
+            info: 'The list of documents required for the admission procedure:',
             data: [
                 "Application form",
                 "Birth certificate",
@@ -637,7 +635,7 @@ export const universityoflatvia = {
         {
             "type": "table",
             "title": "Lviv Business School of Ukrainian Catholic University - Academic Calendar 2022",
-            "info": "<b>Always keep yourself updated with the important dates regarding admissions at Lviv Business School:</b>",
+            "info": "Always keep yourself updated with the important dates regarding admissions at Lviv Business School:",
             "col": [
                 "Events",
                 "Date",
@@ -659,9 +657,6 @@ export const universityoflatvia = {
                     "Events": "Session starts on",
                     "Date": "September"
                 },
-
-
-
             ]
         },
         {
@@ -684,6 +679,10 @@ export const universityoflatvia = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Latvia, Latvia - Reviews" },
@@ -702,6 +701,10 @@ export const universityoflatvia = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Placement'
+        },
         {
             type: 'list-bollet',
             title: 'Placement',
@@ -730,6 +733,10 @@ export const universityoflatvia = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Latvia, Latvia - Gallery" },
@@ -748,6 +755,10 @@ export const universityoflatvia = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -768,6 +779,10 @@ export const universityoflatvia = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Latvia, Latvia - Faculty" },
@@ -786,6 +801,10 @@ export const universityoflatvia = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'University of Latvia, Latvia - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -806,9 +825,13 @@ export const universityoflatvia = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel',
-            info: "<b>The University of Latvia’s hostel and accommodation are explained below:</b>",
+            info: "The University of Latvia’s hostel and accommodation are explained below:",
             data: [
                 "The University of Latvia accommodation includes two hostels for its international students named ‘Prima’ and ‘Azenas’.",
                 "The hostel is 20 minutes from the university and city center with all types of public transportation available.",
@@ -840,9 +863,13 @@ export const universityoflatvia = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - FAQ'
+        },
+        {
             type: 'question-list',
             title: 'University of Latvia - Important FAQs',
-            info: "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            info: "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             data: [
                 {
                     "ques": "Q. Is the University of Latvia worth its fees and expenses?",

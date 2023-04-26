@@ -19,7 +19,7 @@ export const universityofsurrey = {
         {
             "type": "table-title",
             "title": "University of Surrey - Quick Overview",
-            "info": "<b>Every applicant who wants to study in the UK at the University of Surrey must know the main details:</b>",
+            "info": "Every applicant who wants to study in the UK at the University of Surrey must know the main details:",
             "col": [],
             "row": [
                 ["<b>Type</b>", "Public"],
@@ -37,7 +37,7 @@ export const universityofsurrey = {
         {
             "type": "list-bollet",
             "title": "Why Choose University of Surrey?",
-            "info": "<b>Here are some beneficial reasons to pursue higher education at the University of Surrey:</b>",
+            "info": "Here are some beneficial reasons to pursue higher education at the University of Surrey:",
             "data": [
                 "The University of Surrey provides study and work options in more than 30 countries across the globe.",
                 "96% of undergraduates are in employment (or studying) within 15 months of graduating from the University of Surrey.",
@@ -55,7 +55,7 @@ export const universityofsurrey = {
         {
             "type": "table",
             "title": "University of Surrey - Ranking 2022",
-            "info": "<b>Check out the world and country ranking of the University of Surrey mentioned below in the table:</b>",
+            "info": "Check out the world and country ranking of the University of Surrey mentioned below in the table:",
             "col": [
                 "Country",
                 "World"
@@ -71,7 +71,7 @@ export const universityofsurrey = {
         {
             "type": "list-bollet",
             "title": "Facilities provided at University of Surrey",
-            "info": "<b>The university is known for the wide range of facilities it offers:</b>",
+            "info": "The university is known for the wide range of facilities it offers:",
             "data": [
                 "Campus canteen",
                 "Laboratories",
@@ -141,7 +141,7 @@ export const universityofsurrey = {
         {
             "type": "list-bollet",
             "title": "Affiliations",
-            "info": "<b>The candidates must go through all affiliations of the University of Surrey:</b>",
+            "info": "The candidates must go through all affiliations of the University of Surrey:",
             "data": [
                 "Association of MBAs",
                 "ACU",
@@ -154,7 +154,7 @@ export const universityofsurrey = {
         {
             "type": "table",
             "title": "Cost of Living in Guildford, England",
-            "info": "<b>The students pursuing education at the University of Surrey must know the city living cost:</b>",
+            "info": "The students pursuing education at the University of Surrey must know the city living cost:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -193,16 +193,17 @@ export const universityofsurrey = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-surrey" }
             ]
         }
-
-
-
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University of Surrey, UK - courses & Fees'
+        },
         {
             "type": "table",
             "title": "Fee Structure, Program Duration & other information",
             "info": "Engineering",
-            "textBelowInfo": "<b>Here is the list of all undergraduate and postgraduate engineering courses with all details:</b>",
+            "textBelowInfo": "Here is the list of all undergraduate and postgraduate engineering courses with all details:",
             "col": [
                 "Courses",
                 "Degree type",
@@ -325,7 +326,7 @@ export const universityofsurrey = {
             "type": "table",
             "title": "",
             "info": "Law",
-            "textBelowInfo": "<b>The students must know all law courses offered at the University of Surrey:</b>",
+            "textBelowInfo": "The students must know all law courses offered at the University of Surrey:",
             "col": [
                 "Courses",
                 "Start Date",
@@ -373,7 +374,7 @@ export const universityofsurrey = {
             "type": "table",
             "title": "",
             "info": "MBA",
-            "textBelowInfo": "<b>The students can study 2 MBA programmes at the University of Surrey:</b>",
+            "textBelowInfo": "The students can study 2 MBA programmes at the University of Surrey:",
             "col": [
                 "Courses",
                 "Start Date",
@@ -419,9 +420,13 @@ export const universityofsurrey = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Surrey, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria - Law & Engineering courses",
-            "info": "<b>Here are the basic admission requirements to admit in Law and Engineering courses:</b>",
+            "info": "Here are the basic admission requirements to admit in Law and Engineering courses:",
             "textBelowinfo": "BEng (Hons)- BBB",
             "data": [
                 "The required subjects for admission include Mathematics and Physics."
@@ -460,7 +465,7 @@ export const universityofsurrey = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Follow the detailed steps provided below to admit in undergraduate and postgraduate courses:</b>",
+            "info": "Follow the detailed steps provided below to admit in undergraduate and postgraduate courses:",
             "data": [
                 "<b>Step 1:</b> The applicants should go to the official website to apply for the undergraduate course of choice.",
                 "<b>Step 2:</b> Fill the application form with correct details and upload all required documents online.",
@@ -475,7 +480,7 @@ export const universityofsurrey = {
         {
             "type": "list-bollet",
             "title": "Entry Requirements for MBA Courses",
-            "info": "<b>Find out the basic requirements to pursue MBA in UK at the University of Surrey:</b>",
+            "info": "Find out the basic requirements to pursue MBA in UK at the University of Surrey:",
             "data": [
                 "The students must have a 2:2 UK honours degree, or a recognised equivalent international qualification for admission.",
                 "The candidates should also have at least 3 years of postgraduate experience for an MBA and at least 5 years of postgraduate experience for an Executive (part-time) MBA in a managerial role to apply for MBA.",
@@ -485,7 +490,7 @@ export const universityofsurrey = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The students willing to study an undergraduate and postgraduate course in UK must submit all required documents on time:</b>",
+            "info": "The students willing to study an undergraduate and postgraduate course in UK must submit all required documents on time:",
             "data": [
                 "Application form",
                 "10th mark sheet",
@@ -527,6 +532,10 @@ export const universityofsurrey = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Surrey, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Surrey, UK - Reviews" },
@@ -545,6 +554,10 @@ export const universityofsurrey = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Surrey, UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -575,6 +588,10 @@ export const universityofsurrey = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Surrey, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Surrey, UK - Gallery" },
@@ -594,9 +611,13 @@ export const universityofsurrey = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Surrey, UK - Scholarship'
+        },
+        {
             "type": "table",
             "title": "Scholarships offered at University of Surrey",
-            "info": "<b>The University of Surrey is providing various scholarships to international students during education:</b>",
+            "info": "The University of Surrey is providing various scholarships to international students during education:",
             "col": [
                 "Scholarship",
                 "Information",
@@ -643,6 +664,10 @@ export const universityofsurrey = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Surrey, UK - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -696,6 +721,10 @@ export const universityofsurrey = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Surrey, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Surrey, UK - News & Articles" },
@@ -715,9 +744,13 @@ export const universityofsurrey = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Surrey, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The institute is providing top-class accommodation facilities at the comfort zone of the students:</b>",
+            "info": "The institute is providing top-class accommodation facilities at the comfort zone of the students:",
             "data": [
                 "The college offers a wide range of accommodation options for students.",
                 "The right place to live on or off-campus at reasonable rent during education.",
@@ -755,9 +788,13 @@ export const universityofsurrey = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Surrey, UK - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Surrey - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Which exams are required for admission in courses at the University of Surrey?",

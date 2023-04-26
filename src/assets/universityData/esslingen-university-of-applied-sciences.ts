@@ -19,7 +19,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "table-title",
       "title": "Esslingen University of Applied Sciences - Quick Highlights",
-      "info": "<b>If you are looking forward to getting admission in this top-class university, have a look below to know more:</b>",
+      "info": "If you are looking forward to getting admission in this top-class university, have a look below to know more:",
       "col": [
 
       ],
@@ -36,7 +36,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "list-bollet",
       "title": "Why Choose Esslingen University of Applied Sciences?",
-      "info": "<b>If you are willing to pursue MBA or Engineering from this top-class university, have a glance below to know the advantages:</b>",
+      "info": "If you are willing to pursue MBA or Engineering from this top-class university, have a glance below to know the advantages:",
       "data": [
         "Esslingen university is one of the leading universities in Germany having top-class faculty and other staff.",
         "The university has a good network in business and society, giving enough opportunities to the enrolled students to explore at the international level and complete their practical semester at Daimler, Porsche, Bosch, Festo, Caritas, or Diakonie.",
@@ -52,8 +52,8 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "list-bollet",
       "title": "Accreditations",
-      "info": "<b>The University is well recognized and accredited:</b>",
-      "textBelowInfo": "<b>Institutional Accreditation</b>",
+      "info": "The University is well recognized and accredited:",
+      "textBelowInfo": "Institutional Accreditation",
       "data": [
         "Ministerium fur Wissenschaft, Forschung und Kunst Baden - Wurttemberg",
       ]
@@ -61,7 +61,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "list-bollet",
       "title": "",
-      "textBelowInfo": "<b>Other Specialized or Programmatic Accreditations</b>",
+      "textBelowInfo": "Other Specialized or Programmatic Accreditations",
       "data": [
         "Foundation for International Business Administration Accreditation (FIBAA)",
         "Accreditation Agency for Degree Programmes in Engineering, Informatics/Computer Science, the Natural Sciences and Mathematics (ASIIN)"
@@ -70,7 +70,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "table",
       "title": "Living Expenses in Esslingen am Neckar",
-      "info": "<b>Find out monthly based expenses of London city, if you are willing to study in UK at City University of London:</b>",
+      "info": "Find out monthly based expenses of London city, if you are willing to study in UK at City University of London:",
       "col": [
         "Particulars",
         "Approx range in USD",
@@ -110,10 +110,14 @@ export const esslingenuniversityofappliedsciences = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - courses & Fees"
+    },
+    {
       "type": "table",
       "title": "Esslingen University of Applied Sciences - MBA Fee Structure 2022",
-      "info": "<b>1 MBA</b>",
-      "textBelowInfo": "<b>The fee Structure of this university is comparatively moderate to the other universities:</b>",
+      "info": "1 MBA",
+      "textBelowInfo": "The fee Structure of this university is comparatively moderate to the other universities:",
       "col": [
         "Course",
         "Total Amount",
@@ -139,8 +143,8 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "table",
       "title": "Esslingen University of Applied Sciences - Fee Structure 2022",
-      "info": "<b>2 Engineering</b>",
-      "textBelowInfo": "<b>The fee Structure for Engineering of this university is affordable compared to the other universities:</b>",
+      "info": "2 Engineering",
+      "textBelowInfo": "The fee Structure for Engineering of this university is affordable compared to the other universities:",
       "col": [
         "Course",
         "Total Amount",
@@ -166,7 +170,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "list-bollet",
       "title": "Programs Offered",
-      "info": "<b>Esslingen University offers Engineering programs as below:</b>",
+      "info": "Esslingen University offers Engineering programs as below:",
       "data": [
         "M.Eng Design and Development for Automotive and Mechanical Engineering",
         "M.Eng. in Automotive systems - Vehicle Dynamics",
@@ -195,9 +199,13 @@ export const esslingenuniversityofappliedsciences = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - Admission 2023"
+    },
+    {
       "type": "list-bollet",
       "title": "Mode of Instruction",
-      "info": "<b>To avoid language barrier the Esslingen University instructs the courses in English language:</b>",
+      "info": "To avoid language barrier the Esslingen University instructs the courses in English language:",
       "data": [
         "Considering the possible difficulties faced by the students and professors this university instructs MBA and Engineering programs in English Language.",
         "Qualified and well-trained professors are sure to help the students all through the course.",
@@ -206,7 +214,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>To know the important dates of the admission process, check the table below:</b>",
+      "info": "To know the important dates of the admission process, check the table below:",
       "col": [
         "Events",
         "Dates"
@@ -234,7 +242,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "list-bollet",
       "title": "Eligibility Criteria ( For MBA & Engineering Course )",
-      "info": "<b>In Order to apply for MBA course in this university know the basic criterias:</b>",
+      "info": "In Order to apply for MBA course in this university know the basic criterias:",
       "data": [
         "To enroll in this top-class university the candidate must be at least 21 years of age.",
         "Must have a minimum 2 years of relevant work experience.",
@@ -248,7 +256,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "step-list",
       "title": "Admission Process (For MBA & Engineering Course)",
-      "info": "<b>Check out the steps below to know the admission process at Esslingen University of Applied Sciences, Germany:</b>",
+      "info": "Check out the steps below to know the admission process at Esslingen University of Applied Sciences, Germany:",
       "data": [
         "<b>Step 1:</b> Check the Requirements. Before proceeding with the admission process look for the details and requirements.",
         "<b>Step 2:</b> Fill out the online application form with correct details, true to your knowledge. There are different portals for various MBA and Engineering programs. Select one that you want to get admission in.",
@@ -260,7 +268,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "list-bollet",
       "title": "Documents Required (For MBA & Engineering Course)",
-      "info": "<b>Check out important documents required to get enrolled in Esslingen University of Applied Sciences:</b>",
+      "info": "Check out important documents required to get enrolled in Esslingen University of Applied Sciences:",
       "data": [
         "Birth certificate",
         "Transcript evaluation form",
@@ -306,6 +314,10 @@ export const esslingenuniversityofappliedsciences = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - Reviews"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Esslingen University of Applied Sciences, Germany - Reviews" },
@@ -324,6 +336,10 @@ export const esslingenuniversityofappliedsciences = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - Placement"
+    },
     {
       "type": "list-bollet",
       "title": "Placement",
@@ -352,6 +368,10 @@ export const esslingenuniversityofappliedsciences = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - Gallery"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Esslingen University of Applied Sciences, Germany - Gallery" },
@@ -371,9 +391,13 @@ export const esslingenuniversityofappliedsciences = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - Scholarship"
+    },
+    {
       "type": "list-bollet",
       "title": "Scholarship",
-      "info": "<b>The scholarship that is provided at Esslingen University of Applied Sciences are as follows:</b>",
+      "info": "The scholarship that is provided at Esslingen University of Applied Sciences are as follows:",
       "data": [
         "Hani Zeini Scholarship",
         "Jared J. Davis Grant",
@@ -402,6 +426,10 @@ export const esslingenuniversityofappliedsciences = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - Faculty"
+    },
     {
       "type": "table",
       "title": "Faculty",
@@ -454,6 +482,10 @@ export const esslingenuniversityofappliedsciences = {
   ],
   "news": [
     {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - News & Articles"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Esslingen University of Applied Sciences, Germany - News & Articles" },
@@ -473,9 +505,13 @@ export const esslingenuniversityofappliedsciences = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - Hostel"
+    },
+    {
       "type": "list-bollet",
       "title": "Hostels and Accomodation",
-      "info": "<b>Esslingen University provides living spaces to the students at affordable prices:</b>",
+      "info": "Esslingen University provides living spaces to the students at affordable prices:",
       "data": [
         "The university has ASta that provides students with the available rooms and helps them find one that suits their preferences.",
         "This university also has a Stuttgart students union that assists students in getting a flat and gives information on all the available flats in Esslingen and Goeppingen campus.",
@@ -488,7 +524,7 @@ export const esslingenuniversityofappliedsciences = {
     {
       "type": "list-bollet",
       "title": "Facilities Provided at Esslingen University of Applied Sciences",
-      "info": "<b>Esslingen University offers various facilities to the students and other staff members. To learn more, have a look below:</b>",
+      "info": "Esslingen University offers various facilities to the students and other staff members. To learn more, have a look below:",
       "data": [
         "Classroom",
         "Internet",
@@ -519,9 +555,13 @@ export const esslingenuniversityofappliedsciences = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: "Esslingen University of Applied Sciences, Germany - FAQ"
+    },
+    {
       "type": "question-list",
       "title": "Esslingen University of Applied Sciences - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. With foreign Bachelor/Diploma degree can I apply for the Masters study program?",

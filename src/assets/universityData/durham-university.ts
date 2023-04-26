@@ -19,7 +19,7 @@ export const durhamuniversity = {
     {
       "type": "table-title",
       "title": "Durham University: Quick Overview",
-      "info": "<b>Below is the quick overview of MBA at Durham University in tabular form:</b>",
+      "info": "Below is the quick overview of MBA at Durham University in tabular form:",
       "row": [
         ["<b>Degree Awarded</b>", "MBA"],
         ["<b>Course Duration</b>", "1 Years"],
@@ -34,7 +34,7 @@ export const durhamuniversity = {
     {
       type: 'list-bollet',
       title: 'Why Pursue an MBA at Durham University?',
-      info: '<b>MBA at Durham University is worthful and well-featured education for the PG students and working professionals. Some of its foremost course benefits are as follows:</b>',
+      info: 'MBA at Durham University is worthful and well-featured education for the PG students and working professionals. Some of its foremost course benefits are as follows:',
       data: [
         "The university has got 90% of student’s satisfaction ratings in the university league rankings.",
         "Durham University is well-known as a social hub offering top-notch facilities to international students.",
@@ -47,7 +47,7 @@ export const durhamuniversity = {
     {
       "type": "table",
       "title": "Durham University: Ranking (2021-22)",
-      "info": "<b>Below is the ranking of the Durham University as per the uniRank standard ranking system:</b>",
+      "info": "Below is the ranking of the Durham University as per the uniRank standard ranking system:",
       "col": [
         "Country",
         "World",
@@ -80,9 +80,13 @@ export const durhamuniversity = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Durham University - courses & Fees"
+    },
+    {
       "type": "table",
       "title": "Durham University: Fee Structure (2021-22)",
-      "info": "<b>Durham University is the top business school in the UK offering the 12 months MBA program for PG students at an efficient price:</b>",
+      "info": "Durham University is the top business school in the UK offering the 12 months MBA program for PG students at an efficient price:",
       "col": [
         "Particulars",
         "Fees in Rupees",
@@ -110,7 +114,7 @@ export const durhamuniversity = {
     {
       "type": "list-bollet",
       "title": "Duration of MBA Course at the Durham University",
-      "info": "<b>1 year MBA program at Durham University escalates your knowledge and skills at a professional level:</b>",
+      "info": "1 year MBA program at Durham University escalates your knowledge and skills at a professional level:",
       "data": [
         "Durham University is a renowned business school in the UK & has been ranked top in the QS university ranking. The MBA program taught in the university lasts for a period of 12 months contributing to the quality education for the working professionals and entrepreneurs.",
         "You can find a full-time & part-time MBA program at Durham university & will get employed in the top organizations with a high salary package."
@@ -136,9 +140,13 @@ export const durhamuniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Durham University - Admission 2023"
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>Refer the below admission prerequisites for enrolling into MBA course at Durham University:</b> <br>Subject requirements, levels & grades:",
+      "info": "Refer the below admission prerequisites for enrolling into MBA course at Durham University:<p>Subject requirements, levels & grades:</p>",
       "data": [
         "For the Non-UK students, they should have a bachelor’s degree with the upper second class in the respective discipline.",
         "Applicants must have at least 3 years of professional experience in areas of the applied field.",
@@ -150,7 +158,7 @@ export const durhamuniversity = {
     {
       type: 'step-list',
       title: 'Admission Process (2021-22)',
-      info: '<b>The application process for the MBA course at Durham University will start in the month of June/July 2020. Follow the below admission steps to apply for the course:</b>',
+      info: 'The application process for the MBA course at Durham University will start in the month of June/July 2020. Follow the below admission steps to apply for the course:',
       data: [
         "Step 1 Applicants should apply to the online application system for the course enrollment.",
         "Step 2: Applicants need to check the entry requirements before applying for the course.",
@@ -168,7 +176,7 @@ export const durhamuniversity = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>Get the complete document checklists required for admission to the MBA program at Durham University:</b>",
+      "info": "Get the complete document checklists required for admission to the MBA program at Durham University:",
       "data": [
         "Degree level qualification certificates (Applicant can produce the transcripts of given documents)",
         "Copy of passport",
@@ -203,6 +211,10 @@ export const durhamuniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Durham University - Reviews"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Durham University - Reviews" },
@@ -222,14 +234,18 @@ export const durhamuniversity = {
   ],
   "placement": [
     {
+      type: 'title',
+      title: "Durham University - Placement"
+    },
+    {
       "type": "text",
       "title": "Career Opportunity at Durham University",
-      "data": "<p><b>Durham University enables an outstanding career for international students:</b></p> <p>The career and placement cell at the university supports the students to fulfill their career & entrepreneurial ambitions. Employment at Durham University has been ranked 39th offering a wide range of job roles in national and international organizations.</p>"
+      "data": "Durham University enables an outstanding career for international students:<p>The career and placement cell at the university supports the students to fulfill their career & entrepreneurial ambitions. Employment at Durham University has been ranked 39th offering a wide range of job roles in national and international organizations.</p>"
     },
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Below are the services offered by the career cell of the university:</b>",
+      "info": "Below are the services offered by the career cell of the university:",
       "data": [
         "To provide expert advice",
         "To organize employ-networking events",
@@ -267,6 +283,10 @@ export const durhamuniversity = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Durham University - Gallery"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Durham University - Gallery" },
@@ -286,9 +306,13 @@ export const durhamuniversity = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: "Durham University - Scholarship"
+    },
+    {
       "type": "list-bollet",
       "title": "Scholarships Offered at Durham University",
-      "info": "<b>Durham University offers a wide range of funding opportunities for current and prospective postgraduate students:</b>",
+      "info": "Durham University offers a wide range of funding opportunities for current and prospective postgraduate students:",
       "data": [
         "The scholarship awarded to students covers the tuition fees & maintenance support with a range of awards & prizes.",
         "The applicant needs to consider the eligibility conditions prior to the application of the respective course.",
@@ -298,7 +322,7 @@ export const durhamuniversity = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The scholarships offered by Durham University are listed below:</b>",
+      "info": "The scholarships offered by Durham University are listed below:",
       "data": [
         "Chevening Scholarships",
         "Choral and Organ Scholarships",
@@ -331,8 +355,12 @@ export const durhamuniversity = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Durham University - Faculty"
+    },
+    {
       "type": "table",
-      "title": "faculty",
+      "title": "Faculty",
       "info": "",
       "col": [
         "Name",
@@ -377,6 +405,10 @@ export const durhamuniversity = {
   ],
   "news": [
     {
+      type: 'title',
+      title: "Durham University - News & Articles"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Durham University - News & Articles" },
@@ -396,14 +428,19 @@ export const durhamuniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Durham University - Hostel"
+    },
+    {
       "type": "text",
       "title": "Hostel & Accommodation at Durham University",
-      "data": "<p><b>Durham University offers guaranteed accommodation to international students:</b></p> <p>The types of accommodation may vary as per the choice of students who want single or shared accommodation. Accommodation cost depends on the catered or self-catered accommodation & types of rooms allocated to the students.</p>"
+      "data": "Durham University offers guaranteed accommodation to international students:<p>The types of accommodation may vary as per the choice of students who want single or shared accommodation. Accommodation cost depends on the catered or self-catered accommodation & types of rooms allocated to the students.</p>"
     },
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Following are some of the distinctive characteristics of the hostel:</b> <br>Live & Study",
+      "info": "Following are some of the distinctive characteristics of the hostel:",
+      "textBelowInfo": "Live & Study",
       "data": [
         "TV",
         "Laundry",
@@ -456,9 +493,13 @@ export const durhamuniversity = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: "Durham University - FAQ"
+    },
+    {
       "type": "question-list",
       "title": "Durham University: Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. Can I stay with my parents at the hostel?",

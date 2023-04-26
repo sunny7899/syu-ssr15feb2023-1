@@ -9,7 +9,7 @@ import { RouterModule } from '@angular/router';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 import { ChatModule } from '../chat/chat.module';
 import {Location} from '@angular/common';  
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -22,7 +22,8 @@ import {Location} from '@angular/common';
     // HeaderInnerModule,
     RouterModule,
     CarouselModule ,
-    ChatModule
+    ChatModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class NewsModule { }

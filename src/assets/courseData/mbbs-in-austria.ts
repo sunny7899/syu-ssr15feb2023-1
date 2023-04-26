@@ -5,6 +5,7 @@ export const mbbsinaustria = {
     "type": "bb",
     "rating": "vv",
     "shareLink": "www.google.com",
+    "Duration": '6 Years with internship',
     "url": "mbbs-in-austria",
     "info": [
         {
@@ -43,7 +44,7 @@ export const mbbsinaustria = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying MBBS in Austria For Indian Students",
-            "info": "<b>Studying medicine in Austria is an excellent choice for Indians due to following benefits:</b>",
+            "info": "Studying medicine in Austria is an excellent choice for Indians due to following benefits:",
             //"img": 'https://www.selectyouruniversity.com/images/benefits-of-mbbs-in-austria.jpg',
             "data": [
                 "The curriculum of the MBBS course is informative & practice oriented in Austria.",
@@ -63,7 +64,7 @@ export const mbbsinaustria = {
         {
             "type": "list-bollet",
             "title": "Qualification Criteria For MBBS Admission in Austria",
-            "info": "<b>Following eligibility criteria is considered while accepting the applications of the admission:</b>",
+            "info": "Following eligibility criteria is considered while accepting the applications of the admission:",
             "data": [
                 "Students of science stream with minimum of 50% score in PCB (Physics, Chemistry, & Biology) subjects are applicable for the admission.",
                 "The eligible age of the candidate should be between 17 - 25 years old.",
@@ -77,7 +78,7 @@ export const mbbsinaustria = {
         {
             "type": 'step-list',
             "title": 'Admission Process For MBBS Course in Austria',
-            "info": '<b>Here are the steps involved in the admission process for medical course:</b>',
+            "info": 'Here are the steps involved in the admission process for medical course:',
             //"img":'https://www.selectyouruniversity.com/images/admission-process-to-study-mbbs-in-kyrgyzstan.jpg',
             "data": [
                 "<p><b>Step 1:</b> Fill up the online application form of the respective university.</p>",
@@ -91,7 +92,7 @@ export const mbbsinaustria = {
             "type": 'list-bollet',
             "title": 'Documents Required For Students to Study in Austria',
             "img": "",
-            "info": '<b>Following documents are essential for medical admission procedure in Austria:</b>',
+            "info": 'Following documents are essential for medical admission procedure in Austria:',
             "data": [
                 "Duly filled online application",
                 "A valid passport of the candidate",
@@ -114,7 +115,7 @@ export const mbbsinaustria = {
         {
             "type": "list-bollet",
             "title": "Medical Education System in Austria",
-            "info": "<b>Check out these details about the system of MBBS education in the universities of Austria:</b><p>The medical curriculum in Austria is a combination of theoretical and clinical practices. In every module, students learn different components with its function as well as common diseases and therapies.</p>",
+            "info": "Check out these details about the system of MBBS education in the universities of Austria: The medical curriculum in Austria is a combination of theoretical and clinical practices. In every module, students learn different components with its function as well as common diseases and therapies.",
             "data": [
                 "A course called ‘Lines’ is conducted throughout the year that focuses on clinical skills.",
                 "PBL (Problem based learning) & CBL (Case based learning) training methodologies.",
@@ -127,7 +128,7 @@ export const mbbsinaustria = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Dividation of the phases of medical program is as follows:</b>",
+            "info": "Dividation of the phases of medical program is as follows:",
             "data": [
                 "Phase 1 is for two semesters.",
                 "Phase 2 is for six semesters.",
@@ -138,7 +139,7 @@ export const mbbsinaustria = {
         {
             "type": "table",
             "title": "MBBS in Austria - Academic Calendar 2022",
-            "info": "<b>Notice down the important dates for admission of MBBS course in Austria:</b>",
+            "info": "Notice down the important dates for admission of MBBS course in Austria:",
             "col": [
                 "Events",
                 "Dates",
@@ -165,7 +166,7 @@ export const mbbsinaustria = {
         {
             "type": "list-bollet",
             "title": "Recognition of MBBS Universities in Austria",
-            "info": "<b>Following is the list of medical councils that gave recognition to the Austrian Universities:</b>",
+            "info": "Following is the list of medical councils that gave recognition to the Austrian Universities:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -177,7 +178,7 @@ export const mbbsinaustria = {
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facility in Austria",
-            "info": "<b>Specifications about the hostel arrangement where students live during studies in Austria:</b><p>All the medical universities located in Austria which have an approval from NMC offer the services of inbuilt accommodation for the international students.</p><b>Following services are the part of hostel available in Austrian universities:</b>",
+            "info": "Specifications about the hostel arrangement where students live during studies in Austria: All the medical universities located in Austria which have an approval from NMC offer the services of inbuilt accommodation for the international students.Following services are the part of hostel available in Austrian universities:",
             "data": [
                 "Clean and ventilated rooms - Single or shared",
                 "Shared washrooms with Geyser installation",
@@ -198,7 +199,7 @@ export const mbbsinaustria = {
 
             "type": "list-bollet",
             "title": "Documents Required for VISA Acquisition for Indian Students",
-            "info": "<b>The list of documents required for the VISA procedure are given below:</b>",
+            "info": "The list of documents required for the VISA procedure are given below:",
             "data": [
                 "Online application of the admission",
                 "Letter of confirmation (Invitation Letter)",
@@ -214,7 +215,7 @@ export const mbbsinaustria = {
         {
             "type": "table",
             "title": "Safety Index of Austria",
-            "info": "<p><b>Austria is one of the safest european countries for travelling and education:</b><p>As per the survey of Global Finance Safety Index Score (2019) - Austria is in the top 5 list of world’s most peaceful and safest countries with number 5 position</p></p>",
+            "info": "Austria is one of the safest european countries for travelling and education:</b><p>As per the survey of Global Finance Safety Index Score (2019) - Austria is in the top 5 list of world’s most peaceful and safest countries with number 5 position",
             "col": [
                 "Rank",
                 "Nation",
@@ -251,7 +252,7 @@ export const mbbsinaustria = {
         {
             "type": "table",
             "title": "Cost of Living in Austria for Indian Students",
-            "info": "<b>We have given average monthly expenses required for Indian students in Austria:</b>",
+            "info": "We have given average monthly expenses required for Indian students in Austria:",
             "col": [
                 "Particulars",
                 "Amount (USD)",
@@ -295,7 +296,7 @@ export const mbbsinaustria = {
             "type": "table-title",
             "title": "About Austria",
             "img": "",
-            "info": "<p><b>Read some interesting things about Austria: </b><p>A typical perception of Austria is associated with crisp fried schnitzel, sugary strudel, or it’s symphony of classical music. To get your mind beyond this conventional picture, keep reading to explore more about the country.</p><p>A survey shows that Vienna, A capital city of Austria has the highest quality of life in the world. The stability of the country can be projected throughout it’s politics, healthcare, food, culture, education, crime, transportation, crecration, etc. Situated alongside Germany, the place is environment-friendly as it recycles 63% of the waste.</p><p>Austria is the origin of consequences that lead to the first world war, provided the fact that Hitler once lived here when he was rejected from the Academy of Fine Arts in Vienna. Apart from these historic and cultural attributes, experiences of living in Austria are well received by the international students studied here.</p></p>",
+            "info": "Read some interesting things about Austria: A typical perception of Austria is associated with crisp fried schnitzel, sugary strudel, or it’s symphony of classical music. To get your mind beyond this conventional picture, keep reading to explore more about the country.</p><p>A survey shows that Vienna, A capital city of Austria has the highest quality of life in the world. The stability of the country can be projected throughout it’s politics, healthcare, food, culture, education, crime, transportation, crecration, etc. Situated alongside Germany, the place is environment-friendly as it recycles 63% of the waste.</p><p>Austria is the origin of consequences that lead to the first world war, provided the fact that Hitler once lived here when he was rejected from the Academy of Fine Arts in Vienna. Apart from these historic and cultural attributes, experiences of living in Austria are well received by the international students studied here.",
             "col": [
             ],
             "row": [
@@ -329,10 +330,16 @@ export const mbbsinaustria = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - Syllabus'
+        },
+
         {
             "type": "table-title",
             "title": "A Detailed Course Syllabus of MBBS in Austria",
-            "info": "<b>A complete syllabus of MBBS is given below that consist of 6 years including internship: </b>",
+            "info": "A complete syllabus of MBBS is given below that consist of 6 years including internship: ",
             "colTitle": "Phase - I[2 Semesters]",
             "col": [
             ],
@@ -349,10 +356,10 @@ export const mbbsinaustria = {
             "col": [
             ],
             "row": [
-                ["3 Sem", "Science & Medicine (SSM 1)", "Disease: Origins & Symptoms", "Diseases: Manifestation & Perception, General Pharmacotherapy", "Medical Interview A",""],
-                ["", "Basic Medical Skills", "Problem Based Learning (PBL)", "Optional Subjects", "-",""],
-                ["4 Sem", "Endocrinology, and Metabolism", "Cardiovascular System and Blood", "Respiratory System", "Physical Examination Techniques",""],
-                ["", "Clerkship Preparation", "Organ Morphology 1", "Case Based Learning(CBL)", "Optional Subjects",""],
+                ["3 Sem", "Science & Medicine (SSM 1)", "Disease: Origins & Symptoms", "Diseases: Manifestation & Perception, General Pharmacotherapy", "Medical Interview A","-"],
+                ["", "Basic Medical Skills", "Problem Based Learning (PBL)", "Optional Subjects", "-","-"],
+                ["4 Sem", "Endocrinology, and Metabolism", "Cardiovascular System and Blood", "Respiratory System", "Physical Examination Techniques","-"],
+                ["", "Clerkship Preparation", "Organ Morphology 1", "Case Based Learning(CBL)", "Optional Subjects","-"],
                 ["5 Sem", "Nutrition & Digestion", "The kidneys & Homeostasis", "Sexuality, Reproduction, Pregnancy, & Birth", "Infants, Childhood, Adolescence", "Case Based Systel (CBS)"],
                 ["", "Organ Morphology II", "Specific Examination Techniques I", "Resuscitation Techniques I", "Clerkship", "Optional Subjects"],
                 ["6 Sem", "Medical Research Methods - SSM2", "The Skin & Sensory Organ", "The Brain & Nervous System", "Neurological Status", "Medical Interview B"],
@@ -387,7 +394,7 @@ export const mbbsinaustria = {
         {
             "type": "list-bollet",
             "title": "Medical Courses Offered in the Universities of Austria",
-            "info": "<b>These are the courses related to medicine available for studies in Austria:</b>",
+            "info": "These are the courses related to medicine available for studies in Austria:",
             "data": [
                 "General Medicine (MD/MBBS)",
                 "Pharmacy",
@@ -417,10 +424,16 @@ export const mbbsinaustria = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - Top Colleges in Austria'
+        }, 
+
         {
             "type": "table",
             "title": "MBBS in Austria: Tuition Fees for 2022",
-            "info": "<b>There are total four NMC approved universities that offers MBBS degrees in Austria:</b>",
+            "info": "There are total four NMC approved universities that offers MBBS degrees in Austria:",
             "col": [
                 "Name of the universities",
                 "Tuition Fees (USD)",
@@ -453,7 +466,7 @@ export const mbbsinaustria = {
         {
             "type": "table",
             "title": "Ranking of Top Medical Colleges in Austria",
-            "info": "<b>Refer the national & global ranking of all the four medical universities in Austria:</b>",
+            "info": "Refer the national & global ranking of all the four medical universities in Austria:",
             "col": [
                 "Name of the universities",
                 "Tuition Fees (USD)",
@@ -502,11 +515,17 @@ export const mbbsinaustria = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - Career Options'
+        },
+
         {
 
             "type": "list-bollet",
             "title": "Career Opportunities After Completion of MBBS in Austria",
-            "info": "<b>Students have all chances to work or study anywhere in the world after studying in Austria:</b>",
+            "info": "Students have all chances to work or study anywhere in the world after studying in Austria:",
             "data": [
                 "Preparation of medical license examination is provided in Austrian colleges",
                 "Coaching for PLAB, USMLE, NEXT, etc is available for the students studies.",
@@ -519,7 +538,7 @@ export const mbbsinaustria = {
 
             "type": "list-bollet",
             "title": "Job Opportunities For International Students Studying in Austria",
-            "info": "<b>Most of the MBBS aspirants usually fo for post graduation right after getting bachelors degree, however if that’s not the case, then you have abundance of woking scope in Austria:Students have all chances to work or study anywhere in the world after studying in Austria:</b>",
+            "info": "Most of the MBBS aspirants usually fo for post graduation right after getting bachelors degree, however if that’s not the case, then you have abundance of woking scope in Austria:Students have all chances to work or study anywhere in the world after studying in Austria:",
             "data": [
                 "Students can begin their practice in pvt r govt hospital as Doctor.",
                 "Students can also work as a lecturer in public/private institutions.",
@@ -546,10 +565,16 @@ export const mbbsinaustria = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Austria 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Austria: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. What is the duration for completing an MBBS course in Austria?",

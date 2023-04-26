@@ -21,7 +21,7 @@ export const aberystwythuniversity = {
         {
             "type": "table-title",
             "title": "Aberystwyth University - Quick Highlight",
-            "info": "<b>The students must know some important points about Aberystwyth University before taking admission:</b>",
+            "info": "The students must know some important points about Aberystwyth University before taking admission:",
             "row": [
                 ["<b>Institute Type</b>", "Public"],
                 ["<b>Mode of Programme</b>", "Full time, online and distance learning"],
@@ -37,7 +37,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study at Aberystwyth University?',
-            info: '<b>Let’s get to know why Indian students urge to study at Aberystwyth University:</b>',
+            info: 'Let’s get to know why Indian students urge to study at Aberystwyth University:',
             data: [
                 "Aberystwyth University is providing the opportunity for a lifetime to study, volunteer or work in different countries.",
                 "The students also explore different cultures and get experiences that help to build a career.",
@@ -56,7 +56,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Facilities',
-            info: '<b>Aberystwyth University provides hassle-free education experience with modern facilities:</b>',
+            info: 'Aberystwyth University provides hassle-free education experience with modern facilities:',
             data: [
                 "Aberystwyth Arts Centre",
                 "Hospitality Services Cafés and Restaurants",
@@ -70,14 +70,14 @@ export const aberystwythuniversity = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>The students will get all education in the Welsh and English language during graduation and post-graduation education:</b>',
+            info: 'The students will get all education in the Welsh and English language during graduation and post-graduation education:',
             data: "<p><b>The students will get all education in the Welsh and English language during graduation and post-graduation education:</b></p><p>For students dreaming of pursuing their career in the Uk, Aberystwyth University is the right option as it offers a whole education in the Welsh and English language.</p>"
         },
 
         {
             "type": "table",
             "title": "Aberystwyth University - Ranking 2022",
-            "info": "<b>Aberystwyth University is an ideal choice for higher education, Checkout the rankings:</b>",
+            "info": "Aberystwyth University is an ideal choice for higher education, Checkout the rankings:",
             "col": [
                 "Country",
                 "World",
@@ -93,7 +93,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Affiliations',
-            info: '<b>Aberystwyth University is affiliated by many known organisations across the globe:</b>',
+            info: 'Aberystwyth University is affiliated by many known organisations across the globe:',
             data: [
                 "University of Wales",
                 "AMBA",
@@ -107,7 +107,7 @@ export const aberystwythuniversity = {
         {
             "type": "table",
             "title": "Living Cost of Aberystwyth, Wales",
-            "info": "<b>The candidates willing to study in Uk must go through the monthly living cost of Aberystwyth:</b>",
+            "info": "The candidates willing to study in Uk must go through the monthly living cost of Aberystwyth:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -130,13 +130,13 @@ export const aberystwythuniversity = {
         {
             type: 'meta',
             meta: [
-                { name: "title", content: "Aberystwyth University, UK - Courses & Fees 2023" },
+                { name: "title", content: "Aberystwyth University, UK" },
                 { name: "description", content: "Established in 1872, Aberystwyth University is a public university in the UK. Check Courses & Fees in detail here." },
             ],
         },
         {
             type: 'meta-title',
-            title: "Aberystwyth University, UK - Courses & Fees 2023"
+            title: "Aberystwyth University, UK"
         },
         {
             type: 'meta-links',
@@ -144,18 +144,17 @@ export const aberystwythuniversity = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/aberystwyth-university" }
             ]
         }
-
-
-
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Aberystwyth University, UK - courses & Fees 2023'
+        },
+        {
             "type": "table",
             "title": "Tuition Fees (Undergraduate Programs)",
-            "info": "<b>1. Undergraduate Programs</b>",
-            "textBelowInfo": "<b>Aberystwyth University will provide affordable fees for International Students (including applicants from the EU):</b>",
+            "info": "1. Undergraduate Programs",
+            "textBelowInfo": "Aberystwyth University will provide affordable fees for International Students (including applicants from the EU):",
             "col": [
                 "Type",
                 "Amount (£)"
@@ -325,7 +324,7 @@ export const aberystwythuniversity = {
         {
             "type": "table",
             "title": "Aberystwyth University - Important Dates 2022 (Undergraduate Programs)",
-            "info": "<b>Go through the important dates to enroll in undergraduate programmes:</b>",
+            "info": "Go through the important dates to enroll in undergraduate programmes:",
             "col": [
                 "Events",
                 "Dates"
@@ -353,7 +352,7 @@ export const aberystwythuniversity = {
         {
             "type": "table",
             "title": "Fee Structure 2022 (Masters Programs)",
-            "info": "<b>2. Masters Programs</b>",
+            "info": "2. Masters Programs",
             "textBelowInfo": "<b>Aberystwyth University will provide affordable fees for International Students (including applicants from the EU):</b>",
             "col": [
                 "Type of Course",
@@ -398,7 +397,7 @@ export const aberystwythuniversity = {
         {
             "type": "table-title",
             "title": "Departments",
-            "info": "<b>Check out the wide spectrum of departments offered at Aberystwyth University:</b>",
+            "info": "Check out the wide spectrum of departments offered at Aberystwyth University:",
             "row": [
                 ["Art", "Biological, Environmental & Rural Sciences (IBERS)", "Business"],
                 ["Computer Science", "Education", "English & Creative Writing"],
@@ -429,9 +428,13 @@ export const aberystwythuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Aberystwyth University, UK - Admission Process'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria (Undergraduate Programs)',
-            info: '<b>Eligibility criteria must be fulfilled by the applicants wishing to study in the UK at Aberystwyth University:</b>',
+            info: 'Eligibility criteria must be fulfilled by the applicants wishing to study in the UK at Aberystwyth University:',
             data: [
                 "The candidates should have higher secondary education",
                 "The applicants must have a valid passport",
@@ -449,7 +452,7 @@ export const aberystwythuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process (Undergraduate Programs)',
-            info: '<b>To admit to undergraduate programs the candidates must follow admission procedure:</b>',
+            info: 'To admit to undergraduate programs the candidates must follow admission procedure:',
             data: [
                 "<b>Step 1:</b> Apply on the website of Aberystwyth University.",
                 "<b>Step 2:</b> Fill the application form with personal details.",
@@ -465,7 +468,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required (Undergraduate Programs)',
-            info: '<b>Before taking admission to Aberystwyth University, don’t forget to carry all these related documents:</b>',
+            info: 'Before taking admission to Aberystwyth University, don’t forget to carry all these related documents:',
             data: [
                 "Application form",
                 "Passport copy",
@@ -486,7 +489,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria (Masters Programs)',
-            info: '<b>The students must check the eligibility criteria to study the master’s program at Aberystwyth University:</b>',
+            info: 'The students must check the eligibility criteria to study the master’s program at Aberystwyth University:',
             data: [
                 "The students must have English language proficiency for masters admission.",
                 "The students should have a valid passport copy for doing their masters courses in the UK.",
@@ -497,7 +500,7 @@ export const aberystwythuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process (Masters Programs)',
-            info: '<b>Check out the admission steps to enroll in masters programs at Aberystwyth University:</b>',
+            info: 'Check out the admission steps to enroll in masters programs at Aberystwyth University:',
             data: [
                 "<b>Step 1:</b> Fill the online application form",
                 "<b>Step 2:</b> Submit the documents",
@@ -511,7 +514,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required (Masters Programs)',
-            info: '<b>Every candidate must submit the essential documents for Masters admission at this place:</b>',
+            info: 'Every candidate must submit the essential documents for Masters admission at this place:',
             data: [
                 "Application form",
                 "Higher secondary certificates",
@@ -538,13 +541,10 @@ export const aberystwythuniversity = {
         {
             "type": "table",
             "title": "Aberystwyth University - Important Dates 2022 (Masters Programs)",
-            "info": "<b>Here are the main dates to keep in mind for masters courses enrollment in Uk at Aberystwyth University:</b>",
+            "info": "Here are the main dates to keep in mind for masters courses enrollment in Uk at Aberystwyth University:",
             "col": [
                 "Events",
                 "Dates",
-
-
-
             ],
             "row": [
                 {
@@ -600,6 +600,10 @@ export const aberystwythuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Aberystwyth University, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Aberystwyth University, UK - Reviews" },
@@ -618,6 +622,10 @@ export const aberystwythuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Aberystwyth University, UK  - Placement Details'
+        },
         {
             type: "meta",
             meta: [
@@ -638,6 +646,10 @@ export const aberystwythuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Aberystwyth University, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Aberystwyth University, UK - Gallery" },
@@ -657,9 +669,13 @@ export const aberystwythuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Aberystwyth University, UK - Scholarships & Bursaries'
+        },
+        {
             type: 'number-list',
             title: 'Scholarship',
-            info: '<b>The institute provides scholarships, bursaries and departmental awards that are separate from any other loans or grants and are, in essence, free money. No need to be repaid and by combining selected packages, it’s possible to receive £40,000. These extra sources of income fund education.</b>',
+            info: 'The institute provides scholarships, bursaries and departmental awards that are separate from any other loans or grants and are, in essence, free money. No need to be repaid and by combining selected packages, it’s possible to receive £40,000. These extra sources of income fund education.',
             data: [
                 "<b>Entrance Scholarships and Merit Awards</b><br>£2,000 annually and a chance to get an unconditional offer and this is open to undergraduate candidates.",
                 "<b>Academic Excellence Scholarships</b><br>£2,000 annually and a chance to get an unconditional offer and this is open to undergraduate candidates.",
@@ -698,15 +714,16 @@ export const aberystwythuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Aberystwyth University, UK - Faculties & Departments'
+        },
+        {
             "type": "table",
             "title": "Faculty",
             "info": "",
             "col": [
                 "Name",
                 "Designation",
-
-
-
             ],
             "row": [
                 {
@@ -762,6 +779,10 @@ export const aberystwythuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Aberystwyth University, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Aberystwyth University, UK - News & Articles" },
@@ -780,6 +801,10 @@ export const aberystwythuniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: 'Aberystwyth University, UK - Hostel & Accommodation'
+        },
         {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
@@ -800,7 +825,7 @@ export const aberystwythuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Accommodation -</b>',
+            info: 'Accommodation -',
             data: [
                 "Fferm Penglais",
                 "Studio Flat",
@@ -833,9 +858,13 @@ export const aberystwythuniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: 'Aberystwyth University, UK - Important FAQs'
+            },
+            {
                 "type": "question-list",
                 "title": "Aberystwyth University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. Are there accommodation facilities available for students at Aberystwyth University?",

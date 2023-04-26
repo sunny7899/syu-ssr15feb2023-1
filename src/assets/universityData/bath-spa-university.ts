@@ -19,7 +19,7 @@ export const bathspauniversity = {
         {
             "type": "table-title",
             "title": "Bath Spa University - Quick Highlights 2022",
-            "info": "<b>A look at the table below will help you learn the key details </b>",
+            "info": "A look at the table below will help you learn the key details ",
             "col": [],
             "row": [
                 ["<b>Intake for Course</b>", "January"],
@@ -35,7 +35,7 @@ export const bathspauniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose Bath Spa University?",
-            "info": "<b>Know the advantages of choosing Bath Spa University before you enroll: </b>",
+            "info": "Know the advantages of choosing Bath Spa University before you enroll: ",
             "data": [
                 "Offers scholarships and other financial aids such as awards, bursary, funds to the enrolled students.",
                 "It provides internship opportunities to its students.",
@@ -54,7 +54,7 @@ export const bathspauniversity = {
         {
             "type": "table",
             "title": "Bath Spa University - Ranking 2022",
-            "info": "<b>From the table below know the current rankings of this university: </b>",
+            "info": "From the table below know the current rankings of this university: ",
             "col": [
                 "Country",
                 "World"
@@ -69,7 +69,7 @@ export const bathspauniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>The university has adopted the English language to instruct: </b>",
+            "info": "The university has adopted the English language to instruct: ",
             "data": [
                 "All the study programs/courses are instructed in the English language.",
                 "It helps students in improvising their language skills and enhances better prospects."
@@ -78,7 +78,7 @@ export const bathspauniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities offered at Bath Spa University",
-            "info": "<b>The university offers top-class modern facilities to the students: </b>",
+            "info": "The university offers top-class modern facilities to the students: ",
             "data": [
                 "Classrooms",
                 "Cafeteria",
@@ -92,7 +92,7 @@ export const bathspauniversity = {
         {
             "type": "list-bollet",
             "title": "Recognitions and Accreditations",
-            "info": "<b>The University is well-accredited and its courses are recognized at the international level: </b>",
+            "info": "The University is well-accredited and its courses are recognized at the international level: ",
             "data": [
                 "The university is accredited/chartered by Privy Council.",
                 "It is accredited with Bronze by the Hedgehog Preservation Society.",
@@ -102,7 +102,7 @@ export const bathspauniversity = {
         {
             "type": "table",
             "title": "Living Expenses in Bath, UK",
-            "info": "<b>Check out the table below to calculate the approximate basic living expenses in Bath, UK: </b>",
+            "info": "Check out the table below to calculate the approximate basic living expenses in Bath, UK: ",
             "col": [
                 "Particulars",
                 "Approx in USD",
@@ -120,7 +120,7 @@ export const bathspauniversity = {
                     "Approx in Rs": "Rs 7,636.8"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong>1$ = 74 INR (It may vary). A single persons estimated monthly costs are 1,083.76$ (787.88£) without rent and tuition fees.</p>'
+            heading: '<p><strong><u>Note</u>:</strong>1$ = 74 INR (It may vary). A single persons estimated monthly costs are 1,083.76$ (787.88£) without rent and tuition fees.</p>'
         },
         {
             type: "meta",
@@ -142,9 +142,13 @@ export const bathspauniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Bath Spa University, UK  - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Courses Offered at Bath Spa University",
-            "info": "<b>Undergraduate Courses</b>",
+            "info": "Undergraduate Courses",
             "col": [
                 "Courses",
                 "Sub-courses",
@@ -291,7 +295,7 @@ export const bathspauniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Postgraduate Courses</b>",
+            "info": "Postgraduate Courses",
             "col": [
                 "Courses",
                 "Sub-courses",
@@ -371,7 +375,7 @@ export const bathspauniversity = {
                     "Tuition Fees/ EUR/Per year": "EUR 15,070 - EUR 15,580 (It may vary for all courses)"
                 },
             ]
-        },             
+        },
         {
             type: "meta",
             meta: [
@@ -392,9 +396,13 @@ export const bathspauniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Bath Spa University, UK  - Admission 2023 "
+        },
+        {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Know in detail the admission process for the undergraduate courses: </b>',
+            info: 'Know in detail the admission process for the undergraduate courses: ',
             data: [
                 "Step 1: Apply online. Fill in the details with correct information in the application form online.",
                 "Step 2: Once the application is approved, the candidate has to submit the required documents (notarized).",
@@ -405,7 +413,7 @@ export const bathspauniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria (For Undergraduate Courses)",
-            "info": "<b>To enroll in the undergraduate study programs know the basic criteria given below: </b>",
+            "info": "To enroll in the undergraduate study programs know the basic criteria given below: ",
             "data": [
                 "Must have a good passing grade from a renowned institute/university.",
                 "Must have at least 65% with Grade C in at least five subjects.",
@@ -420,7 +428,7 @@ export const bathspauniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Given below are the list of documents mandatory to submit during the admission process: </b>",
+            "info": "Given below are the list of documents mandatory to submit during the admission process: ",
             "data": [
                 "Transcript of records and Grade Point Average",
                 "Proof of English language",
@@ -448,7 +456,7 @@ export const bathspauniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria (For Postgraduate Courses)",
-            "info": "<b>Know the basic criteria for enrolling in Postgraduate courses: </b>",
+            "info": "Know the basic criteria for enrolling in Postgraduate courses: ",
             "data": [
                 "Candidate must be of 21 years of age",
                 "Must hold a Bachelor’s degree with honours from a recognized university/institution Or Must have international qualifications equivalent to the standard of the course applied for.",
@@ -459,7 +467,7 @@ export const bathspauniversity = {
         {
             "type": "table",
             "title": "Academic Calendar - Intake 2022",
-            "info": "<b>Check the table below and note the important dates</b>",
+            "info": "Check the table below and note the important dates",
             "col": [
                 "Events",
                 "Dates"
@@ -503,6 +511,10 @@ export const bathspauniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Bath Spa University, UK  - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bath Spa University, UK  - Reviews" },
@@ -522,8 +534,12 @@ export const bathspauniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Bath Spa University, UK  - Placement"
+        },
+        {
             "type": "list-bollet",
-            "title": "placement",
+            "title": "Placement",
             "info": "",
             "data": [
                 "Graduates might return to India and seek work after completing their various degrees.",
@@ -535,13 +551,13 @@ export const bathspauniversity = {
             "title": "",
             "info": "Top Recuiter",
             "data": [
-                "IBM", 
-                "Zara", 
-                "American Express", 
-                "French Connection", 
-                "Marks and Spencer", 
-                "Espirit", 
-                "Liberty"                
+                "IBM",
+                "Zara",
+                "American Express",
+                "French Connection",
+                "Marks and Spencer",
+                "Espirit",
+                "Liberty"
             ]
         },
         {
@@ -564,6 +580,10 @@ export const bathspauniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Bath Spa University, UK  - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bath Spa University, UK  - Gallery" },
@@ -583,9 +603,13 @@ export const bathspauniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Bath Spa University, UK  - Scholarship"
+        },
+        {
             "type": "text",
             "title": "Scholarships",
-            "data": "<p><b>The university offers various international and external scholarships to the students as mentioned below: </b></p>"
+            "data": "The university offers various international and external scholarships to the students as mentioned below:"
         },
         {
             "type": "list-bollet",
@@ -640,6 +664,10 @@ export const bathspauniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Bath Spa University, UK  - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bath Spa University, UK  - Faculty" },
@@ -658,6 +686,10 @@ export const bathspauniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Bath Spa University, UK  - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -678,9 +710,13 @@ export const bathspauniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Bath Spa University, UK  - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation Facility",
-            "info": "<b>The university provides safe and secured hostel, accommodation facilities to the enrolled students: </b>",
+            "info": "The university provides safe and secured hostel, accommodation facilities to the enrolled students:",
             "data": [
                 "The university provided self-catered accommodation options to the students.",
                 "The university has on-campus accommodation facilities and affordable prices.",
@@ -713,9 +749,13 @@ export const bathspauniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Bath Spa University, UK  - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Bath Spa University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360: </b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Is the university accredited and its courses recognized?",

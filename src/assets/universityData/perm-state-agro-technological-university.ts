@@ -19,7 +19,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "table-title",
             "title": "Perm State Agro - Technological University: Quick Highlights",
-            "info": "<b>The applicants must go through the major highlights of the Perm State Agro - Technological University:</b>",
+            "info": "The applicants must go through the major highlights of the Perm State Agro - Technological University:",
             "col": [
             ],
             "row": [
@@ -34,7 +34,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study at Perm State Agro - Technological University?",
-            "info": "<b>Following are some of the reasons why Indian students are attracted to study at Perm State Agro - Technological University:</b>",
+            "info": "Following are some of the reasons why Indian students are attracted to study at Perm State Agro - Technological University:",
             "data": [
                 "Perm State Agro - Technological University has highly skilled and ethical professionals professors providing top-quality knowledge.",
                 "The University implements modern higher school development tendencies in its activities to the fullest extent for the students.",
@@ -51,7 +51,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities at Perm State Agro - Technological University",
-            "info": "<b>Perm State Agro - Technological University is providing modern facilities at the convenient zone of students:</b>",
+            "info": "Perm State Agro - Technological University is providing modern facilities at the convenient zone of students:",
             "data": [
                 "Classroom",
                 "Cafeteria",
@@ -64,7 +64,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "table",
             "title": "Perm State Agro - Technological University: Ranking 2022",
-            "info": "<b>According to Uni Rank mentioned below are the country and world ranking of Peoples' Friendship University:</b>",
+            "info": "According to Uni Rank mentioned below are the country and world ranking of Peoples' Friendship University:",
             "col": [
                 "Country",
                 "World"
@@ -79,13 +79,13 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>Perm State Agro - Technological University has an English medium of teaching for Engineering course:</b>",
+            "info": "Perm State Agro - Technological University has an English medium of teaching for Engineering course:",
             "data": "<p><b>Perm State Agro - Technological University has an English medium of teaching for Engineering course:</b></p><p>Perm State Agro - Technological University offers the English language for teaching to the students striving to study Engineering course and coming from different parts of the countries.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Recognitions and Accreditations",
-            "info": "<b>The Perm State Agro - Technological University has been accredited as well as recognized by organizations:</b>",
+            "info": "The Perm State Agro - Technological University has been accredited as well as recognized by organizations:",
             "data": [
                 "The institute is recognized by the Ministry of Education and Science of the Russian Federation."
             ]
@@ -93,7 +93,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost of Perm, Russia",
-            "info": "<b>Perm city having a low Living cost, Go through the table to know the monthly expenses of an Individual:</b>",
+            "info": "Perm city having a low Living cost, Go through the table to know the monthly expenses of an Individual:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -137,10 +137,16 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "coursesandfees": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- courses & Fees"
+
+        },
         {
             "type": "table",
             "title": "Perm State Agro - Technological University: Fee Structure 2022",
-            "info": "<b>Perm State Agro - Technological University offers a reasonable and economical fee for education that makes it an ideal choice for worldwide students:</b>",
+            "info": "Perm State Agro - Technological University offers a reasonable and economical fee for education that makes it an ideal choice for worldwide students:",
             "col": [
                 "Engineering faculty",
                 "1st year (Approx)",
@@ -188,7 +194,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Perm State Agro - Technological University - Course Duration",
-            "info": "<b>The whole Engineering studies takes 4 years to complete:</b>",
+            "info": "The whole Engineering studies takes 4 years to complete:",
             "data": [
                 "Engineering education at Perm State Agro- Technological University will last for <b>4 years</b> in the English medium of instruction.",
                 "The students will acquire theoretical as well as practical aspects of knowledge during the Engineering course.",
@@ -213,10 +219,16 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "admission": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- Admission 2023"
+
+        },
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Before applying for an Engineering course at Perm State Agro - Technological University, the candidates must keep the important admission dates in mind:</b>",
+            "info": "Before applying for an Engineering course at Perm State Agro - Technological University, the candidates must keep the important admission dates in mind:",
             "col": [
                 "Events",
                 "Dates"
@@ -244,7 +256,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students must know some eligibility criteria set for Engineering admission at Perm State Agro - Technological University:</b>",
+            "info": "The students must know some eligibility criteria set for Engineering admission at Perm State Agro - Technological University:",
             "data": [
                 "The students should be at least 17 years old while taking admission or complete this age before 31st December of the admission year.",
                 "The candidates applying for the program must clear the higher secondary education with 50% of marks in PCB Subjects.",
@@ -255,7 +267,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Follow the detailed admission process mentioned below to enroll at Perm State Agro - Technological University:</b>",
+            "info": "Follow the detailed admission process mentioned below to enroll at Perm State Agro - Technological University:",
             "data": [
                 "<b>Step 1:</b> First the students must prepare the essential documents for the enrollment process at Perm State Agro - Technological University. The essential documents should be translated into Russian and certified by a Russian notary for admission.<br>International Identification Document (Passport)<br>Original education certificate of Higher Secondary School level + Original academic transcript of subjects passed and marks<br>Legalized Original education certificate of Higher Secondary School level<br>Certificate of recognition and equivalency determination (if needed)<br>8 matte photos 3x4 cm<br>Health documents must be submitted after admission. All required medical tests are available in Perm, Russia<br>Medical health certificate: 086<br>HIV absence test<br>Chest x-ray<br>Vaccination card",
                 "<b>Step 2:</b> Create your account on the portal of Perm State Agro - Technological University.",
@@ -268,7 +280,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Mandatory documents submitted by the students at the time of the Engineering admission at Perm State Agro - Technological University:</b>",
+            "info": "Mandatory documents submitted by the students at the time of the Engineering admission at Perm State Agro - Technological University:",
             "data": [
                 "Application form",
                 "HSC certificate",
@@ -310,6 +322,12 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "review": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- Reviews"
+
+        },
         {
             type: "meta",
             meta: [
@@ -329,6 +347,12 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "placement": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -348,6 +372,12 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "gallery": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- Gallery"
+
+        },
         {
             type: "meta",
             meta: [
@@ -367,6 +397,12 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "scholarship": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -386,10 +422,16 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "faculty": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- Faculty"
+
+        },
         {
             "type": "table-title",
             "title": "Faculties at Perm State Agro - Technological University",
-            "info": "<b>Perm State Agro - Technological University offers a selection of undergraduate, postgraduate, and research degrees through its 9 faculties:</b>",
+            "info": "Perm State Agro - Technological University offers a selection of undergraduate, postgraduate, and research degrees through its 9 faculties:",
             "col": [
             ],
             "row": [
@@ -401,7 +443,7 @@ export const permstateagrotechnologicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Engineering Faculty",
-            "info": "<b>The institute has an Engineering offering various courses to the students:</b>",
+            "info": "The institute has an Engineering offering various courses to the students:",
             "data": [
                 "Machine Parts",
                 "Health Safety",
@@ -431,6 +473,12 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "news": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -450,10 +498,16 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "hostel": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- Hostel"
+
+        },
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Perm State Agro - Technological University offers comfortable student hostels at a very low price for comfortable living:</b>",
+            "info": "Perm State Agro - Technological University offers comfortable student hostels at a very low price for comfortable living:",
             "data": [
                 "The institute offers 4 comfortable hostels with all facilities (kitchen, showers, and internet).",
                 "2 and 3-place accommodation in one room.",
@@ -496,10 +550,16 @@ export const permstateagrotechnologicaluniversity = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: "Perm State Agro - Technological University, Russia- FAQ"
+
+        },
         {
             "type": "question-list",
             "title": "Perm State Agro - Technological University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is the Perm State Agro - Technological University a worthy place to pursue Engineering education?",

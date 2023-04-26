@@ -20,7 +20,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Yaroslavl State Medical University - Quick Highlights",
-            "info": "<b>Given below is the table for quick facts about Yaroslavl State Medical University:</b>",
+            "info": "Given below is the table for quick facts about Yaroslavl State Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Processing Time for MBBS Admission</b>", "45 - 60 days"],
@@ -37,7 +37,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Yaroslavl State Medical University?',
-            info: '<b>Below are some of the benefits of studying MBBS at Yaroslavl State Medical University:</b>',
+            info: 'Below are some of the benefits of studying MBBS at Yaroslavl State Medical University:',
             data: [
                 "The staff of this university consists of foreign international societies well-known scientists and clinicians from not only Russia but all over the world.",
                 "Yaroslavl university is the big regional center of excellent quality medical education and biomedical research.",
@@ -53,7 +53,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Yaroslavl State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Yaroslavl State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Yaroslavl State Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -70,7 +70,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Accreditation and Recognition',
-            "info": '<b>Yaroslavl State Medical University in Russia is accredited by many medical bodies such as:</b>',
+            "info": 'Yaroslavl State Medical University in Russia is accredited by many medical bodies such as:',
             "data": [
                 "WHO (World Health Organization)",
                 "NMC (National Medical Commission)",
@@ -80,7 +80,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": "table",
             "title": 'Yaroslavl State Medical University - FMGE Performance 2021',
-            "info": '<b>The details about FMGE performance for Yaroslavl State Medical University of year 2021 with passing percent is as follows:</b>',
+            "info": 'The details about FMGE performance for Yaroslavl State Medical University of year 2021 with passing percent is as follows:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -99,7 +99,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Yaroslavl",
-            "info": "<b>The cost of living at Yaroslavl city is as follows:</b>",
+            "info": "The cost of living at Yaroslavl city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -156,9 +156,13 @@ export const yaroslavlstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Yaroslavl State Medical University - MBBS Fee Structure",
-            "info": "<b>The fee structure for Yaroslavl State Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Yaroslavl State Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -226,7 +230,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": "text",
             "title": "Yaroslavl State Medical University - MBBS Syllabus",
-            "info": '<p><b>The complete syllabus for studying MBBS at Yaroslavl State Medical University is as follows:</b></p>'
+            "info": '<p>The complete syllabus for studying MBBS at Yaroslavl State Medical University is as follows:</p>'
         },
         {
             "type": "table",
@@ -325,7 +329,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at Yaroslavl State Medical University',
-            "info": '<b>Russia’s Yaroslavl State Medical University has following faculties:</b>',
+            "info": 'Russia’s Yaroslavl State Medical University has following faculties:',
             "data": [
                 "General Medicine",
                 "Pediatrics",
@@ -338,7 +342,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": 'text',
             "title": "Yaroslavl State Medical University - MBBS Course Duration",
-            "info": '<b>The duration of MBBS course at Yaroslavl State Medical University is mentioned below:</b><p>The duration of MBBS course at Yaroslavl State Medical University is <strong>6 years</strong>, out of which 1 year is internship. The medium of instruction is English for studying MBBS at this university.</p>'
+            "info": 'The duration of MBBS course at Yaroslavl State Medical University is mentioned below:<p>The duration of MBBS course at Yaroslavl State Medical University is <strong>6 years</strong>, out of which 1 year is internship. The medium of instruction is English for studying MBBS at this university.</p>'
         },
         {
             type: "meta",
@@ -360,9 +364,13 @@ export const yaroslavlstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - Admission 2023'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Eligibility Criteria',
-            "info": '<b>The eligibility criteria to study MBBS at Yaroslavl State Medical University is as follows:</b>',
+            "info": 'The eligibility criteria to study MBBS at Yaroslavl State Medical University is as follows:',
             "data": [
                 "Students must have cleared NEET exam.",
                 "The student must have completed 17 years of age on 31st December of the year in which the admission is being taken.",
@@ -373,7 +381,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": 'step-list',
             "title": 'Admission Process',
-            "info": '<b>Following is the admission process for applying to MBBS course at Yaroslavl State Medical University:</b>',
+            "info": 'Following is the admission process for applying to MBBS course at Yaroslavl State Medical University:',
             "data": [
                 "<b>Step 1:</b> Applicants should fill the application form available online. They can send the documents via email.",
                 "<b>Step 2:</b> Then they have to submit a school leaving certificate, a birth certificate, a copy of passport, and transcripts of records and other necessary documents.",
@@ -386,7 +394,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Yaroslavl State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Yaroslavl State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Yaroslavl State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -412,7 +420,7 @@ export const yaroslavlstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Documents Required',
-            "info": '<b>Following documents are required at the time of admission to Yaroslavl State Medical University:</b>',
+            "info": 'Following documents are required at the time of admission to Yaroslavl State Medical University:',
             "data": [
                 "Copy of the filled admission form (Scanned)",
                 "Copy of passing mark sheet and certificate of class 10th (scanned)",
@@ -443,6 +451,10 @@ export const yaroslavlstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yaroslavl State Medical University - Reviews" },
@@ -461,6 +473,10 @@ export const yaroslavlstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - Placement'
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -491,6 +507,10 @@ export const yaroslavlstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yaroslavl State Medical University - Gallery" },
@@ -510,9 +530,13 @@ export const yaroslavlstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - Scholarship'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Scholarship',
-            "info": '<b>The scholarship provided at Yaroslavl State Medical University are as follows:</b>',
+            "info": 'The scholarship provided at Yaroslavl State Medical University are as follows:',
             "data": [
                 "QS Undergraduate Scholarship",
                 "Jared J. Davis Grant",
@@ -541,6 +565,10 @@ export const yaroslavlstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yaroslavl State Medical University - Faculty" },
@@ -559,6 +587,10 @@ export const yaroslavlstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -579,9 +611,13 @@ export const yaroslavlstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - Hostel'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Hostel & Accommodation',
-            "info": '<b>Following are the hostel facilities at Yaroslavl State Medical University:</b>',
+            "info": 'Following are the hostel facilities at Yaroslavl State Medical University:',
             "data": [
                 "Yaroslavl State Medical University provides accommodation facilities to students.",
                 "The college has five hostel buildings.",
@@ -611,9 +647,13 @@ export const yaroslavlstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Yaroslavl State Medical University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Yaroslavl State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Do I need to clear IELTS or TOEFL to take admission into Yaroslavl State Medical University?",

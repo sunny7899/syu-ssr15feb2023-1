@@ -5,6 +5,7 @@ export const mbainireland = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '1 or 2 Years',
     "url": "mba-in-ireland",
     "info": [
         {
@@ -292,6 +293,11 @@ export const mbainireland = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Ireland 2023 - Top Colleges in Ireland'
+        },
         {
             "type": "table",
             title: 'Top Business Universities/Colleges in Ireland (with Fee Structure)',
@@ -394,6 +400,12 @@ export const mbainireland = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Ireland 2023 - Syllabus'
+        },
+
         {
             type: 'list-bollet',
             title: 'Syllabus for MBA in Ireland',
@@ -406,7 +418,7 @@ export const mbainireland = {
         {
             "type": "table-title",
             "title": "All Subjects of a MBA Course in Ireland",
-            "info": "<b>Below mentioned are the ‘MBA (Master of Business Administration) subjects:</b>",
+            "info": "Below mentioned are the ‘MBA (Master of Business Administration) subjects:",
             "row": [
                 ["Managerial economics", "Marketing management"],
                 ["Operations management", "Organizational behaviour"],
@@ -460,6 +472,10 @@ export const mbainireland = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'MBA in Ireland 2023 - Career Options'
+        },
+        {
             type: 'list-bollet',
             title: 'MBA - Career Prospects',
             info: 'There are various opportunities for students who study MBA in Ireland. Education in Ireland is valued everywhere across the world. MBA professionals have high demand in various sectors:',
@@ -490,6 +506,10 @@ export const mbainireland = {
 
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'MBA in Ireland 2023 - FAQs'
+        },
 
         {
             type: "meta",

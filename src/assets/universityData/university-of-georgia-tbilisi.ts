@@ -20,7 +20,7 @@ export const universityofgeorgiatbilisi = {
         {
             "type": "table-title",
             "title": "University of Georgia, Tbilisi - Quick Overview 2022",
-            "info": "<b>Refer the course highlights of University of Georgia for MBBS study in tabular form:</b>",
+            "info": "Refer the course highlights of University of Georgia for MBBS study in tabular form:",
             "row": [
                 ["<b>Intakes</b>", "Spring and fall"],
                 ["<b>University Type</b>", "Private"],
@@ -37,7 +37,7 @@ export const universityofgeorgiatbilisi = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at the University of Georgia, Tbilisi?',
-            info: '<b>The students across the globe seeking to pursue their career in the university of Georgia must go through the below mentioned points:</b>',
+            info: 'The students across the globe seeking to pursue their career in the university of Georgia must go through the below mentioned points:',
             data: [
                 "Simulation Hospital is one of the exceptional multi-profile simulation laboratories in Georgia.",
                 "Cooperates with the European and US main universities and gives trade programs of numerous European Universities to the students for one semester or a year.",
@@ -59,7 +59,7 @@ export const universityofgeorgiatbilisi = {
         {
             "type": "table",
             "title": "University of Georgia - Country & World Ranking 2022",
-            "info": "<b>Before applying for this university you should check ranking:</b>",
+            "info": "Before applying for this university you should check ranking:",
             "col": [
                 "Country",
                 "World",
@@ -75,7 +75,7 @@ export const universityofgeorgiatbilisi = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>English & Georgian is the commonly taught language at University of Georgia:</b>',
+            info: 'English & Georgian is the commonly taught language at University of Georgia:',
             data: [
                 "English is the commonly taught language at University of Georgia.",
                 "The faculty also teaches the Georgian language so that foreign students are able to treat the local patients."
@@ -84,7 +84,7 @@ export const universityofgeorgiatbilisi = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>The university is affiliated, acknowledged and accredited by many authorities mentioned below:</b>',
+            info: 'The university is affiliated, acknowledged and accredited by many authorities mentioned below:',
             data: [
                 "ENIC-NARIC [ European Network of Information Centers ]",
                 "YOK/CoHE",
@@ -98,7 +98,7 @@ export const universityofgeorgiatbilisi = {
         {
             "type": "table",
             "title": "Monthly Cost of Living in Tbilisi",
-            "info": "<b>You can get an idea of how your monthly expenses can be while living in Tbilisi:</b>",
+            "info": "You can get an idea of how your monthly expenses can be while living in Tbilisi:",
             "col": [
                 "Particulars",
                 "In USD (approx. range)	",
@@ -150,15 +150,17 @@ export const universityofgeorgiatbilisi = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-of-georgia-tbilisi" }
             ]
         }
-
-
     ],
 
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "The University of Georgia, Tbilisi - MBBS Fee Structure 2022",
-            "info": "<b>Fee structure of the university of Georgia is low as compared to other institutions mentioned below:</b>",
+            "info": "Fee structure of the university of Georgia is low as compared to other institutions mentioned below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -215,7 +217,7 @@ export const universityofgeorgiatbilisi = {
         {
             type: 'list-bollet',
             title: 'University of Georgia, Tbilisi - MBBS Duration',
-            info: '<b>Mentioned below is the duration of MBBS course offered by University of Georgia:</b>',
+            info: 'Mentioned below is the duration of MBBS course offered by University of Georgia:',
             data: [
                 "University of Georgia offers <strong>6 years</strong> of MBBS education in English and Georgian medium of instruction to the students.",
                 "During the 5 years of MBBS course, the students acquire huge knowledge from the best faculty members of University and provide theoretical and practical skills of general medicine.",
@@ -225,7 +227,7 @@ export const universityofgeorgiatbilisi = {
         {
             "type": "table",
             "title": "University of Georgia, Tbilisi - MBBS Syllabus",
-            "data": "<b>The syllabus for MBBS in University of Georgia, Tbilisi covers a lot of different subjects. Here is the syllabus for 12 semesters of MBBS degree in Tbilisi, Georgia:</b>",
+            "data": "The syllabus for MBBS in University of Georgia, Tbilisi covers a lot of different subjects. Here is the syllabus for 12 semesters of MBBS degree in Tbilisi, Georgia:",
             "info": "",
             "col": [
                 "First Year",
@@ -380,7 +382,7 @@ export const universityofgeorgiatbilisi = {
         {
             type: 'list-bollet',
             title: 'What are the Faculties offered at the University of Georgia?',
-            info: '<b>University offers 6 different faculties which can enhance your skills:</b>',
+            info: 'University offers 6 different faculties which can enhance your skills:',
             data: [
                 "The School of Arts and Humanities",
                 "The School of Informatics, Engineering and Mathematics",
@@ -411,9 +413,13 @@ export const universityofgeorgiatbilisi = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'University of Georgia, Tbilisi - Admission Requirement 2022',
-            info: '<b>The students must fit the eligibility criteria given below for taking medical education at University of Georgia:</b>',
+            info: 'The students must fit the eligibility criteria given below for taking medical education at University of Georgia:',
             data: [
                 "The year in which the admission is being taken, the student must be 17 years plus as on 31st December of that particular year.",
                 "The students must have completed class 12th from a recognized university or board and they must have qualified for the NEET exam.",
@@ -425,7 +431,7 @@ export const universityofgeorgiatbilisi = {
         {
             type: "step-list",
             title: 'How to Apply for MBBS in University of Georgia, Tbilisi?',
-            info: '<b>The students who seek to get MBBS admission to need to follow the mentioned below steps:</b>',
+            info: 'The students who seek to get MBBS admission to need to follow the mentioned below steps:',
             data: [
                 "<b>Step 1:</b> First, an applicant should fill the online university application form",
                 "<b>Step 2:</b> Then applicants need to fill the required details correctly.",
@@ -440,7 +446,7 @@ export const universityofgeorgiatbilisi = {
         {
             type: 'list-bollet',
             title: 'Documents Required for MBBS Admission in University of Georgia, Tbilisi',
-            info: '<b>Students must bring the original documents during admission process:</b>',
+            info: 'Students must bring the original documents during admission process:',
             data: [
                 "Scanned version of the passport.",
                 "Academic certificates (SSC, HSC, NEET)",
@@ -454,7 +460,7 @@ export const universityofgeorgiatbilisi = {
         {
             "type": "table",
             "title": "University of Georgia, Tbilisi - Academic Dates 2022-23",
-            "info": "<b>The University of Georgia has a limited number of seats for international students to pursue a course of medicine in Georgia. Usually there is no deadline for admission but there two intake in every academic year, which are as follows :</b>",
+            "info": "The University of Georgia has a limited number of seats for international students to pursue a course of medicine in Georgia. Usually there is no deadline for admission but there two intake in every academic year, which are as follows :",
             "col": [
                 "Events",
                 "Month"
@@ -491,6 +497,10 @@ export const universityofgeorgiatbilisi = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "The University of Georgia, Tbilisi - Reviews" },
@@ -509,6 +519,10 @@ export const universityofgeorgiatbilisi = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -529,6 +543,10 @@ export const universityofgeorgiatbilisi = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "The University of Georgia, Tbilisi - Gallery" },
@@ -547,6 +565,10 @@ export const universityofgeorgiatbilisi = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -567,6 +589,10 @@ export const universityofgeorgiatbilisi = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "The University of Georgia, Tbilisi - Faculty" },
@@ -585,6 +611,10 @@ export const universityofgeorgiatbilisi = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -605,9 +635,13 @@ export const universityofgeorgiatbilisi = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel and Accommodation Facility',
-            info: '<b>University of Georgia provides fewer cost hostels for students:</b>',
+            info: 'University of Georgia provides fewer cost hostels for students:',
             data: [
                 "The University of Georgia welcomes college students from everywhere in the world bringing exclusive cultures and customs.",
                 "The college offers them an entire security, well-geared up hostel with an excellent atmosphere.",
@@ -638,6 +672,10 @@ export const universityofgeorgiatbilisi = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'The University of Georgia, Tbilisi - FAQ'
+        },
         {
             "type": "question-list",
             "title": "The University of Georgia, Tbilisi - Most Important FAQs",

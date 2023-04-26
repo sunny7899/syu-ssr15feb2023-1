@@ -17,12 +17,12 @@ export const amecbicolchristiancollegeofmedicine = {
             title: 'About AMEC Bicol Christian College of Medicine, Philippines',
             info: '',
             // img:'https://www.selectyouruniversity.com/images/philippines-universities/amec-bicol-christian-college-of-medicine-college.jpg',
-            data: '<p><strong>Ago Medical and Educational Center Bicol Christian College of Medicine</strong> was established in 1975. The college was founded by Dr. Damaceno J. Ago. The college is located at Legazpi City.</p><p>Bicol christian College of Medicine (amec-bccm), Philippines is the pioneer medical school and it has gained number one in producing the best and brightest medical professionals in the Bicol Region of Philippines. This college is a member of the Association of Philippine Medical Colleges Foundation, it is also an accredited member of the Foundation of the Advancement of International Medical Education and Research. Bicol christian College of Medicine, Philippines, is also registered internationally with the World Health Organization.</p><p>Bicol Christian College provides hostel facilities to its students. It also has a very good library.</p>'
+            data: '<p><strong>Ago Medical and Educational Center Bicol Christian College of Medicine</strong> was established in 1975. The college was founded by Dr. Damaceno J. Ago. The college is located at Legazpi City. Bicol christian College of Medicine (amec-bccm), Philippines is the pioneer medical school and it has gained number one in producing the best and brightest medical professionals in the Bicol Region of Philippines.<p></p>This college is a member of the Association of Philippine Medical Colleges Foundation, it is also an accredited member of the Foundation of the Advancement of International Medical Education and Research. Bicol christian College of Medicine, Philippines, is also registered internationally with the World Health Organization. Bicol Christian College provides hostel facilities to its students. It also has a very good library.</p>'
         },
         {
-            "type": "table",
+            "type": "table-title",
             "title": "AMEC Bicol Christian College of Medicine - Quick Highlights",
-            "info": "<b>Given below is the table for quick facts of Ago Medical and Educational Center Bicol Christian College of Medicine :</b>",
+            "info": "Given below is the table for quick facts of Ago Medical and Educational Center Bicol Christian College of Medicine :",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS course</b>", "July"],
@@ -41,7 +41,7 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at AMEC Bicol Christian College of Medicine?",
-            "info": "<b>Following are some of the benefits of studying at the Bicol Christian College of Medicine:</b>",
+            "info": "Following are some of the benefits of studying at the Bicol Christian College of Medicine:",
             "data": [
                 "The college has a vast and rich collection of medical books, journals, and research papers which is most beneficial for the students.",
                 "The faculties at the college are highly experienced and supportive.",
@@ -55,7 +55,7 @@ export const amecbicolchristiancollegeofmedicine = {
         }, {
             "type": "table",
             "title": "AMEC Bicol Christian College of Medicine - FMGE Performance 2021",
-            "info": "<b>Below are the details about FMGE performance for AMEC Bicol Christian College of Medicine of year 2021:</b>",
+            "info": "Below are the details about FMGE performance for AMEC Bicol Christian College of Medicine of year 2021:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -76,7 +76,7 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             "type": "table",
             "title": "AMEC Bicol Christian College of Medicine - Ranking 2022",
-            "info": "<b>According to 4icu.org, the country and world ranking of Bicol Christian College of Medicine is as follows:</b>",
+            "info": "According to 4icu.org, the country and world ranking of Bicol Christian College of Medicine is as follows:",
             "col": [
                 "Country",
                 "World",
@@ -92,7 +92,7 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Sports Facilities at AMEC Bicol Christian College of Medicine",
-            "info": "<b>Students get excellent sports facilities at the university. Have a look:</b>",
+            "info": "Students get excellent sports facilities at the university. Have a look:",
             "data": [
                 "The Bicol University’s Swimming Pool is situated in Bicol University’s Main Campus, in Legazpi City.",
                 "The Bicol university’s swimming pool has 10 lanes and is 8 feet deep.",
@@ -108,7 +108,7 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Student Life at AMEC Bicol Christian College of Medicine",
-            "info": "<b>Students enjoy their life at Bicol Christian College of Medicine:</b>",
+            "info": "Students enjoy their life at Bicol Christian College of Medicine:",
             "data": [
                 "The AMEC-BCCM University fulfills the basic amenities & other facilities required and it has modern infrastructure.",
                 "The university’s library has a total collection of thirty thousand volumes of books ranging from general works to history.",
@@ -120,7 +120,7 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             "type": "table",
             "title": "Cost of Living at Legazpi",
-            "info": "<b>The cost of living at Legazpi city is as follows:</b>",
+            "info": "The cost of living at Legazpi city is as follows:",
             "col": [
                 "Activity",
                 "Cost",
@@ -148,12 +148,12 @@ export const amecbicolchristiancollegeofmedicine = {
                 },
 
             ],
-            "heading": "<p><b>Note: </b>1$ = 70 Rs.</p>"
+            // "heading": "<p><b>Note: </b>1$ = 80 Rs.</p>"
         },
         {
             "type": "list-bollet",
             "title": "About Legazpi City",
-            "info": "<b>Some things to consider about Legazpi city:</b>",
+            "info": "Some things to consider about Legazpi city:",
             // "img": "https://www.selectyouruniversity.com/images/philippines-universities/amec-bicol-christian-college-of-medicine-city.jpg",
             "data": [
                 "The Legazpi city is located at the southeastern Luzon, Philippines, near an inlet on Albay Gulf.",
@@ -185,10 +185,14 @@ export const amecbicolchristiancollegeofmedicine = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, Courses"
+        },
+        {
             "type": "table",
-            "title": "AMEC Bicol Christian College of Medicine - Tuition Fee 2022",
-            "info": "<p><strong>Following is the fee structure for Bicol Christian College of Medicine for MBBS program:</strong></p>",
-            "textBelowInfo": "<b>BS Program</b>",
+            "title": "AMEC Bicol Christian College of Medicine - Tuition Fee 2023",
+            "info": "Following is the fee structure for Bicol Christian College of Medicine for MBBS program:",
+            "textBelowInfo": "BS Program",
             "col": [
                 "Year",
                 "Peso-PHP",
@@ -210,14 +214,15 @@ export const amecbicolchristiancollegeofmedicine = {
                     "Indian Rupee": "Rs 1,90,000",
                 },
 
-            ]
+            ],
+            "heading": "<p><strong>Note: </strong>1 Philippines Peso = Rs.1.44</p>"
         },
 
         {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>MD Program</b>",
+            "textBelowInfo": "MD Program",
             "col": [
                 "Year",
                 "Peso-PHP",
@@ -264,8 +269,8 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Bicol University Graduate School Courses offered",
-            "info": "<b>Below are the different medical and health care courses offered at Bicol University Graduate School:</b>",
-            "textBelowInfo": "<b>Bachelor’s Courses:</b>",
+            "info": "Below are the different medical and health care courses offered at Bicol University Graduate School:",
+            "textBelowInfo": "Bachelor’s Courses:",
             "data": [
                 "BS in Medical Technology",
                 "BS in Midwifery"
@@ -276,7 +281,7 @@ export const amecbicolchristiancollegeofmedicine = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Master’s Courses:</b>",
+            "textBelowInfo": "Master’s Courses:",
             "data": [
                 "MS in Health Education",
                 "MS in Public Health"
@@ -287,7 +292,7 @@ export const amecbicolchristiancollegeofmedicine = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Doctorate Courses:</b>",
+            "textBelowInfo": "Doctorate Courses:",
             "data": [
                 "Doctor of Dental Medicine"
             ]
@@ -295,7 +300,7 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             "type": "table",
             "title": "AMEC Bicol Christian College of Medicine - MBBS Syllabus",
-            "info": "<b>The syllabus for studying MBBS in Philippines is as follows:</b>",
+            "info": "The syllabus for studying MBBS in Philippines is as follows:",
             "col": [
                 "I year",
                 "II Year",
@@ -380,13 +385,13 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, courses" },
+                { name: "title", content: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, Courses" },
                 { name: "description", content: "Medical colleges in Philippines are known to have affordable MBBS fee structure. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, courses"
+            title: "AMEC Bicol Christian College of Medicine - Syllabus, Fees, Courses"
         },
         {
             type: "meta-links",
@@ -397,9 +402,13 @@ export const amecbicolchristiancollegeofmedicine = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine - Admission Process, Eligibility Criteria"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following is the eligibility criteria for studying MBBS at AMEC-BCCM:</b>",
+            "info": "Following is the eligibility criteria for studying MBBS at AMEC-BCCM:",
             "data": [
                 "An MBBS aspirant must have obtained a minimum aggregate of 50% marks in Physics, Chemistry, and Biology.",
                 "The student must have passed all subjects in his/her 12th standard and English is a compulsory subject.",
@@ -410,11 +419,11 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following is the admission procedure for MBBS course at AMEC-BCCM:</b>',
+            info: 'Following is admission procedure for MBBS course at AMEC-BCCM:</b>',
             img: '',
             data: [
                 "<b>Step 1:</b> Fill in the application form accurately.",
-                "<b>Step 2:</b> Attach the documents given below:<br>Scanned copy of marksheet of completion of higher secondary education / tertiary education<br>Results of NEET (Score card)<br>Scanned copy of your Passport",
+                "<b>Step 2:</b> Attach the documents given below:<br>- Scanned copy of marksheet of completion of higher secondary education / tertiary education<br>- Results of NEET (Score card)<br>- Scanned copy of your Passport",
                 "<b>Step 3:</b> After fulfilling all the conditions and upon acceptance students will be provided with a provisional admission letter (in electronic format) upon request.",
                 "<b>Step 4:</b> As soon as your visa invitation will be ready, the university will mail you your visa invitation.",
                 "<b>Step 5:</b> Stamp your visa in the Embassy, once you receive the visa invitation. <br>You can contact for admissions at:- Address: 85 Rizal St, Old Albay District, Legazpi City, 4500 Albay, Philippines Phone: +63 52 820 5877"
@@ -423,7 +432,7 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Required Documents at the Time of Admission",
-            "info": "<b>Following documents are required for admission into Bicol Christian Medical College:</b>",
+            "info": "Following documents are required for admission into Bicol Christian Medical College:",
             "data": [
                 "Passport (Having minimum 18 months validity).",
                 "Birth Certificate.",
@@ -442,7 +451,7 @@ export const amecbicolchristiancollegeofmedicine = {
         {
             "type": "list-bollet",
             "title": "Faculties at AMEC Bicol Christian College of Medicine",
-            "info": "<b>Below are the faculties at Bicol Christian College of Medicine:</b>",
+            "info": "Below are the faculties at Bicol Christian College of Medicine:",
             // "img": "https://www.selectyouruniversity.com/images/philippines-universities/labortory.jpg",
             "data": [
                 "Laboratory Techniques",
@@ -508,6 +517,10 @@ export const amecbicolchristiancollegeofmedicine = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine, Philippines - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "AMEC Bicol Christian College of Medicine, Philippines - Reviews" },
@@ -526,6 +539,10 @@ export const amecbicolchristiancollegeofmedicine = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine, Philippines - Placements"
+        },
         {
             type: "meta",
             meta: [
@@ -546,6 +563,10 @@ export const amecbicolchristiancollegeofmedicine = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine, Philippines - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "AMEC Bicol Christian College of Medicine, Philippines - Gallery" },
@@ -565,8 +586,12 @@ export const amecbicolchristiancollegeofmedicine = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine, Philippines - Scholarships"
+        },
+        {
             "type": "list-bollet",
-            "title": "Scholarships",
+            "title": "AMEC Bicol Christian College of Medicine Scholarships",
             "info": "",
             "data": [
                 "HEST 2023- Higher Education Scholarship Test For Indian Students",
@@ -596,6 +621,10 @@ export const amecbicolchristiancollegeofmedicine = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine - Faculty & Departments"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "AMEC Bicol Christian College of Medicine - Faculty & Departments" },
@@ -614,6 +643,10 @@ export const amecbicolchristiancollegeofmedicine = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -634,9 +667,13 @@ export const amecbicolchristiancollegeofmedicine = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine - Hostel & Accommodation"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation Facilities at AMEC Bicol Christian College of Medicine",
-            "info": "<b>The hostel facility at Bicol Christian College of Medicine is as follows:</b>",
+            "info": "The hostel facility at Bicol Christian College of Medicine is as follows:",
             "data": [
                 "For both local and foreign students, student dormitories serve as the residence throughout their academic life at Bicol Christian College of Medicine.",
                 "The dormitories are equipped with well ventilated, furnished and spacious rooms and the hostel is situated on the University campus.",
@@ -647,14 +684,11 @@ export const amecbicolchristiancollegeofmedicine = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table-title",
             "title": "",
             "info": "",
-            "data": [
-                "Mess",
-                "Dining Hall",
-                "Security",
-                "hostel",
+            "row": [
+                ["Mess","Dining Hall","Security","hostel",]
             ]
         },
         // {
@@ -712,9 +746,13 @@ export const amecbicolchristiancollegeofmedicine = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "AMEC Bicol Christian College of Medicine - Important FAQs"
+        },
+        {
             "type": "question-list",
             "title": "AMEC - Bicol Christian College of Medicine - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Can I work in the Philippines after completing MBBS in Ago Medical Education Center Bicol Christian College of Medicine (AMEC-BCCM)?",

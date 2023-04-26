@@ -7,6 +7,10 @@ export const awadheshpratapsinghuniversity= {
     "shareLink": "",
     "info": [
         {
+            "type": "title",
+            "title": "Awadhesh Pratap Singh University - [APSU], Rewa"
+        },
+        {
           "type": "text",
           "title": "Awadhesh Pratap Singh University - [APSU], Rewa",
           "data": "<p><b>Awadhesh Pratap Singh University</b> commonly known as APSU is a government university in the Madhya Pradesh city of Rewa. Captain Awadhesh Pratap Singh, a politician and activist, was honored with the name of the university. The institution was founded on July 20, 1968 and received UGC accreditation in February 1972. It belongs to the Association of Indian Universities (AIU) and the All Commonwealth Association of Universities (ACAU).</p><p>APSU Rewa provides diploma degrees in D.Y.Ed. and UG programmes in B.Sc., BA, B.P.Ed., BBA, B.com, B.S.W., B.Ed., and BCA and PG programmes M.Phil., M.Sc., MBA, M.Tech., PGDGC, PGDRS, MSW, MCA, M.A., M.com., M.P.Ed., LLM, and PGDCA.</p><p>The various departments at APSU Rewa are Adult & Continuing Education, Computer Application, Computer Science, Ancient Indian History, Business Administration, Business, Economics, Chemistry, Computer Science, English, Environmental Biology, Hindi, JN Centre for, Policy Research, Mathematical Science, Philosophy, Physics, Psychology, Russian Language, and Sports.</p><p>APSU Rewa has an eco-friendly atmosphere and campus life, which includes sports and extracurricular activities, among other things. The University is well-equipped with highly skilled staff in all disciplines. The facilities provided by APSU Rewa are Auditorium, Bank facilities, Library, Hostel, Pre-placement training, etc.</p>"

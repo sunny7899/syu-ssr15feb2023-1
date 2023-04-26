@@ -20,7 +20,7 @@ export const universityoflincoln = {
     {
       "type": "table-title",
       "title": "University of Lincoln - Quick Overview",
-      "info": "<b>The University of Lincoln comes under the category of top universities in the UK, Let’s see some important Kokshetau State University Highlights:</b>",
+      "info": "The University of Lincoln comes under the category of top universities in the UK, Let’s see some important Kokshetau State University Highlights:",
       "row": [
         ["<b>University Status</b>", "Public"],
         ["<b>Students</b>", "16,425"],
@@ -37,7 +37,7 @@ export const universityoflincoln = {
     {
       type: 'list-bollet',
       title: 'Why Study at University of Lincoln?',
-      info: '<b>The number of students opting for education in the UK has been rapidly increasing every year, one might have been wondering about the reasons behind it:</b>',
+      info: 'The number of students opting for education in the UK has been rapidly increasing every year, one might have been wondering about the reasons behind it:',
       data: [
         "The University of Lincoln offers specialist laboratories and modern equipment for physiological and biomechanical assessment.",
         "Laboratories are well-equipped for both teaching, academic research.",
@@ -54,7 +54,7 @@ export const universityoflincoln = {
     {
       "type": "table",
       "title": "University of Lincoln - Ranking 2021",
-      "info": "<b>Mentioned below is the world and country ranking of the University of Lincoln:</b>",
+      "info": "Mentioned below is the world and country ranking of the University of Lincoln:",
       "col": [
         "Country",
         "World",
@@ -70,7 +70,7 @@ export const universityoflincoln = {
     {
       type: 'list-bollet',
       title: 'Affiliations',
-      info: '<b>All degrees provided by the University of Lincoln are officially recognised by top organisations:</b>',
+      info: 'All degrees provided by the University of Lincoln are officially recognised by top organisations:',
       data: [
         "ACU",
         "Santander Network",
@@ -80,7 +80,7 @@ export const universityoflincoln = {
     {
       "type": "list-bollet",
       "title": "Facilities provided",
-      "info": "<b>Top-class facilities at the comfort zone of students to experience hassle-free studies in the Uk:</b>",
+      "info": "Top-class facilities at the comfort zone of students to experience hassle-free studies in the Uk:",
       "data": [
         "Classrooms",
         "Security",
@@ -127,7 +127,7 @@ export const universityoflincoln = {
     {
       "type": "table",
       "title": "Living Expenses in Lincoln",
-      "info": "<b>The students must check out the monthly living cost of Lincoln while studying at the University of Lincoln:</b>",
+      "info": "The students must check out the monthly living cost of Lincoln while studying at the University of Lincoln:",
       "col": [
         "Particulars",
         "Approx Range in USD",
@@ -169,10 +169,14 @@ export const universityoflincoln = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'University of Lincoln, UK - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "University of Lincoln - Fee Structure & Course Duration",
-      "info": "<b>Undergraduate</b>",
-      "textBelowInfo": "<b>Art's</b>",
+      "info": "Undergraduate",
+      "textBelowInfo": "Art's",
       "col": [
         "Programs",
         "Type",
@@ -294,7 +298,7 @@ export const universityoflincoln = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Business</b>",
+      "textBelowInfo": "Business",
       "col": [
         "Programs",
         "Type",
@@ -416,7 +420,7 @@ export const universityoflincoln = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Engineering</b>",
+      "textBelowInfo": "Engineering",
       "col": [
         "Programs",
         "Type",
@@ -530,7 +534,7 @@ export const universityoflincoln = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Law</b>",
+      "textBelowInfo": "Law",
       "col": [
         "Programs",
         "Type",
@@ -652,7 +656,7 @@ export const universityoflincoln = {
       "type": "table",
       "title": "",
       "info": "Postgraduate Courses",
-      "textBelowInfo": "<b>Arts</b>",
+      "textBelowInfo": "Arts",
       "col": [
         "Programs",
         "Type",
@@ -734,7 +738,7 @@ export const universityoflincoln = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Business</b>",
+      "textBelowInfo": "Business",
       "col": [
         "Programs",
         "Type",
@@ -814,7 +818,7 @@ export const universityoflincoln = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Engineering</b>",
+      "textBelowInfo": "Engineering",
       "col": [
         "Programs",
         "Type",
@@ -910,7 +914,7 @@ export const universityoflincoln = {
       "type": "table",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Law</b>",
+      "textBelowInfo": "Law",
       "col": [
         "Programs",
         "Type",
@@ -998,10 +1002,14 @@ export const universityoflincoln = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'University of Lincoln, UK - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "University of Lincoln - Eligibility Criteria",
-      "info": "<b>The students fit into the admission eligibility criteria for studying all courses:</b>",
-      "textBelowInfo": "<b>Undergraduate</b>",
+      "info": "The students fit into the admission eligibility criteria for studying all courses:",
+      "textBelowInfo": "Undergraduate",
       "data": [
         "The applicants require one of the following qualifications to study undergraduate course-At least 70% in the 12th class which is awarded by ICSE or CBSE board.",
         "The students should have A-level qualifications.",
@@ -1014,7 +1022,7 @@ export const universityoflincoln = {
       "type": "list-bollet",
       "title": "",
       "info": "",
-      "textBelowInfo": "<b>Postgraduate</b>",
+      "textBelowInfo": "Postgraduate",
       "data": [
         "The students must have an honour's degree or equivalent qualification from a recognised institute.",
         "The applicants must obtain a specific grade to study any course.",
@@ -1051,7 +1059,7 @@ export const universityoflincoln = {
     {
       "type": "list-bollet",
       "title": "Admission Steps",
-      "info": "<b>Follow the steps given below for taking admission in postgraduate programs at the University of Lincoln:</b>",
+      "info": "Follow the steps given below for taking admission in postgraduate programs at the University of Lincoln:",
       "data": [
         "Choose the course and apply on the official website to study the postgraduate courses at the University of Lincoln",
         "Check the entry requirements and closing date as some of our postgraduate courses have no specific closing date for applications.",
@@ -1065,7 +1073,7 @@ export const universityoflincoln = {
     {
       "type": "list-bollet",
       "title": "Documents",
-      "info": "<b>Submit the Required Documents to Initiate the Enrollment Process Quickly:</b>",
+      "info": "Submit the Required Documents to Initiate the Enrollment Process Quickly:",
       "data": [
         "Application form",
         "10 th mark sheet",
@@ -1107,6 +1115,10 @@ export const universityoflincoln = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'University of Lincoln, UK - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Lincoln, UK - Reviews" },
@@ -1125,6 +1137,10 @@ export const universityoflincoln = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'University of Lincoln, UK - Placement'
+    },
     {
       "type": "list-bollet",
       "title": "Placement",
@@ -1168,6 +1184,10 @@ export const universityoflincoln = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'University of Lincoln, UK - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Lincoln, UK - Gallery" },
@@ -1187,9 +1207,13 @@ export const universityoflincoln = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'University of Lincoln, UK - Scholarship'
+    },
+    {
       "type": "list-bollet",
       "title": "Scholarship",
-      "info": "<b>The scholarships that are provided at the University of Lincoln are as follows:</b>",
+      "info": "The scholarships that are provided at the University of Lincoln are as follows:",
       "data": [
         "Africa Scholarship",
         "Alumni Scholarship for Postgraduate Study",
@@ -1225,6 +1249,10 @@ export const universityoflincoln = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: 'University of Lincoln, UK - Faculty'
+    },
     {
       "type": "table",
       "title": "Faculty",
@@ -1278,6 +1306,10 @@ export const universityoflincoln = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'University of Lincoln, UK - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Lincoln, UK - News & Articles" },
@@ -1297,9 +1329,13 @@ export const universityoflincoln = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'University of Lincoln, UK - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Accommodation",
-      "info": "<b>The college will provide top class accommodation options on the campus:</b>",
+      "info": "The college will provide top class accommodation options on the campus:",
       "data": [
         "Most student accommodation is either on Brayford Pool Campus or just a short distance away.",
         "The college offers a variety of options according to student needs and budgets.",
@@ -1329,6 +1365,10 @@ export const universityoflincoln = {
     }
   ],
   "faq": [
+    {
+      type: 'title',
+      title: 'University of Lincoln, UK - FAQ'
+    },
     {
       "type": "question-list",
       "title": "FAQs - University of Lincoln",

@@ -19,7 +19,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "table-title",
             "title": "Dhaka National Medical College - Quick Highlights",
-            "info": "<b>Given below is the table for quick overview about Dhaka National Medical College:</b>",
+            "info": "Given below is the table for quick overview about Dhaka National Medical College:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -37,7 +37,7 @@ export const dhakanationalmedicalcollege = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Dhaka National Medical College?',
-            info: '<b>Students must read the below-given benefits which will make you realize that your decision of studying at Dhaka National Medical College is correct:</b>',
+            info: 'Students must read the below-given benefits h will make you realize that your decision of studying at Dhaka National Medical College is correct:</b>',
             data: [
                 "The college has a vast campus available for students.",
                 "The library of Dhaka National Medical College is huge and has a collection of more than 6000 books.",
@@ -54,13 +54,13 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>Students must carry the below-mentioned documents with them at the time of admission to Dhaka National Medical College:</b>",
-            "data": "<p><b>Students must carry the below-mentioned documents with them at the time of admission to Dhaka National Medical College:</b></p><p>At Dhaka National Medical College, the medium of teaching is English. Thus, local as well as international students can both benefit from this.</p>"
+            "info": "Students must carry the below-mentioned documents with them at the time of admission to Dhaka National Medical College:",
+            "data": "<p>At Dhaka National Medical College, the medium of teaching is English. Thus, local as well as international students can both benefit from this.</p>"
         },
         {
             "type": "table",
             "title": "Dhaka National Medical College - Ranking 2022",
-            "info": "<b>According to 4icu.org, the country & world ranking of Dhaka National Medical College is as follows:</b>",
+            "info": "According to 4icu.org, the country & world ranking of Dhaka National Medical College is as follows:",
             "col": [
                 "Country",
                 "World",
@@ -76,7 +76,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Dhaka National Medical College is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "Dhaka National Medical College is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -88,7 +88,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "table",
             "title": 'Dhaka National Medical College - FMGE Performance 2021',
-            "info": '<b>The details about FMGE performance for Dhaka National Medical College of year 2021 with passing percent is as follows:</b>',
+            "info": 'The details about FMGE performance for Dhaka National Medical College of year 2021 with passing percent is as follows:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -107,7 +107,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Life of Students",
-            "info": "<b>Students are offered a healthy physical and mental life and plenty of facilities at Dhaka National Medical College:</b>",
+            "info": "Students are offered a healthy physical and mental life and plenty of facilities at Dhaka National Medical College:",
             "data": [
                 "The Dhaka National Medical University provides many facilities and services to its students. It offers accommodation to all its enrolled students.",
                 "The college and the attached hospital campus everything is accommodated in one 11 storied building.",
@@ -124,7 +124,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "table",
             "title": "Cost of Living in Dhaka",
-            "info": "<b>Find below the approximate cost of living in the city Dhaka:</b>",
+            "info": "Find below the approximate cost of living in the city Dhaka:",
             "col": [
                 "Activity",
                 "Cost"
@@ -158,7 +158,7 @@ export const dhakanationalmedicalcollege = {
             "type": "list-bollet",
             "title": "About Dhaka City",
             "img": "dhaka-city.jpg",
-            "info": "<b>Some of the noticeable facts about Dhaka city are given below:</b>",
+            "info": "Some of the noticeable facts about Dhaka city are given below:",
             "data": [
                 "Dhaka is a megacity of Bangladesh with a population of 16 million people, anith an area of about 1353 sq. km.",
                 "Dhaka is the geographic center of Bangladesh.",
@@ -190,9 +190,13 @@ export const dhakanationalmedicalcollege = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Dhaka National Medical College, Bangladesh - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Dhaka National Medical College - MBBS Fee Structure 2022",
-            "info": "<b>Following is the fee structure for Dhaka National Medical College for MBBS:</b>",
+            "info": "Following is the fee structure for Dhaka National Medical College for MBBS:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -240,7 +244,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Dhaka National Medical College",
-            "info": "<b>Below given are the various courses offered at Dhaka National Medical college:</b>",
+            "info": "Below given are the various courses offered at Dhaka National Medical college:",
             "data": [
                 "General medicine (MBBS)",
                 "Dentistry"
@@ -249,7 +253,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>The college also has different departments:</b>",
+            "info": "The college also has different departments:",
             "col": [],
             "row": [
                 ["Biochemistry", "Community Medicine"],
@@ -267,7 +271,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "table",
             "title": "Dhaka National Medical College - MBBS Syllabus",
-            "info": "<b>The syllabus for studying MBBS in Bangladesh at Dhaka National Medical College is given below:</b>",
+            "info": "The syllabus for studying MBBS in Bangladesh at Dhaka National Medical College is given below:",
             "col": [
                 "Phase",
                 "Duration of the Phase",
@@ -304,7 +308,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Dhaka National Medical College - MBBS Duration",
-            "info": "<b>The duration for studying MBBS at Dhaka National Medical College is mentioned below:</b>",
+            "info": "The duration for studying MBBS at Dhaka National Medical College is mentioned below:",
             "data": [
                 "The MBBS course in Bangladesh has a fixed duration of 5.6 years.",
                 "The medicine course in Bangladesh is divided into 3 phases which are pre-clinical, para-clinical, and clinical phases.",
@@ -332,9 +336,13 @@ export const dhakanationalmedicalcollege = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Dhaka National Medical College, Bangladesh - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Candidates who want to take admission at Dhaka National Medical College must ensure that they fit in the following eligibility criteria:</b>",
+            "info": "Candidates who want to take admission at Dhaka National Medical College must ensure that they fit in the following eligibility criteria:",
             "data": [
                 "The candidate’s age must be between 17 and 25 years on or before the date on which the admission is being taken.",
                 "The applicant should have scored at least 60% aggregate in all the above-mentioned subjects in 10+2 and 50% if the applicant falls under the reserved category.",
@@ -345,8 +353,8 @@ export const dhakanationalmedicalcollege = {
         },
         {
             type: 'step-list',
-            title: 'Admission Process',
-            info: '<b>Below given is the admission process which students need to follow to take admission at Dhaka National Medical College:</b>',
+            title: 'Admission Pro',
+            info: 'Below given is the admission process which students need to follow to take admission at Dhaka National Medical College:</b>',
             data: [
                 "Step 1: Students should fill the Application form available on the website of the college.",
                 "Step 2: Then, the applicant should send the filled-in Application form together with the copies of the documents, necessary for the acquisition of the student’s status.",
@@ -358,7 +366,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students must carry the below-mentioned documents with them at the time of admission to Dhaka National Medical College:</b>",
+            "info": "Students must carry the below-mentioned documents with them at the time of admission to Dhaka National Medical College:",
             "data": [
                 "Copy Of Passport (having minimum validity of 18 months)",
                 "High School Mark sheets (10th and 12th, xerox and original)",
@@ -378,7 +386,7 @@ export const dhakanationalmedicalcollege = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Dhaka National Medical College, Bangladesh:</b>",
+            "info": "Check out the Important dates regarding admission at Dhaka National Medical College, Bangladesh:",
             "col": [
                 "Events",
                 "Dates",
@@ -419,6 +427,10 @@ export const dhakanationalmedicalcollege = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Dhaka National Medical College, Bangladesh - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Dhaka National Medical College, Bangladesh - Reviews" },
@@ -438,6 +450,10 @@ export const dhakanationalmedicalcollege = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Dhaka National Medical College, Bangladesh - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -459,6 +475,10 @@ export const dhakanationalmedicalcollege = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Dhaka National Medical College, Bangladesh - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Dhaka National Medical College, Bangladesh - Gallery" },
@@ -479,9 +499,13 @@ export const dhakanationalmedicalcollege = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Dhaka National Medical College, Bangladesh - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Students studying medicine courses often need to pay higher bills.</b><br> <b>And, hence, Dhaka National Medical College offers several scholarships to students which are given based on the below-mentioned criteria:</b>",
+            "info": "Students studying medicine courses often need to pay higher bills.</b><br> <b>And, hence, Dhaka National Medical College offers several scholarships to students which are given based on the below-mentioned criteria:",
             "data": [
                 "Students with physical disabilities, or students who have financial problems and are certainly needy get scholarships from the Dhaka national college.",
                 "The Dhaka National Medical College also grants scholarships on the basis of merit of the students. "
@@ -508,8 +532,12 @@ export const dhakanationalmedicalcollege = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Dhaka National Medical College, Bangladesh - Faculty"
+        },
+        {
             "type": "list-bollet",
-            "title": "faculty",
+            "title": "Faculty",
             "info": "",
             "data": [
                 "Dr. Nahid Sultana MBBS MPH - Profesor",
@@ -540,6 +568,10 @@ export const dhakanationalmedicalcollege = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Dhaka National Medical College, Bangladesh - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Dhaka National Medical College, Bangladesh - News & Articles" },
@@ -560,9 +592,13 @@ export const dhakanationalmedicalcollege = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Dhaka National Medical College, Bangladesh - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Dhaka National Medical College:</b>",
+            "info": "Following are the hostel facilities at Dhaka National Medical College:",
             "data": [
                 "The 3rd floor of the college building is assigned for a hostel on the college campus.",
                 "It is assigned for foreign female students with arrangements for 226 inpatients.",
@@ -572,7 +608,7 @@ export const dhakanationalmedicalcollege = {
                 "Thus, the university offers a safe, and peaceful environment for the students to study.",
                 "The hostel also provides recreational facilities for students indoors and outdoors.",
                 "At these hostels, the facility of central heating and cooling along with laundry facilities, basic furniture such as chairs, tables, cupboards, etc. are also provided for all students.",
-                "The approximate accommodation fee is the US $100 per month."                
+                "The approximate accommodation fee is the US $100 per month."
             ]
         },
         {
@@ -580,10 +616,10 @@ export const dhakanationalmedicalcollege = {
             "title": "",
             "info": "",
             "data": [
-               "hostel",
-               "Laundry",
-               "Security",
-               "Accommodation"
+                "hostel",
+                "Laundry",
+                "Security",
+                "Accommodation"
             ]
         },
         {
@@ -606,55 +642,59 @@ export const dhakanationalmedicalcollege = {
         }
     ],
     "faq":
-    [
-        {
-            "type": "question-list",
-            "title": "Dhaka National Medical College - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-            "data": [
-                {
-                    "ques": "Q. Is there any affiliated hospital to Dhaka National Medical College?",
-                    "ans": "Dhaka National Medical College has 2 associated hospitals consisting of 650 beds."
-                },
-                {
-                    "ques": "Q. How is the infrastructure of Dhaka National Medical College?",
-                    "ans": "Dhaka National Medical College has an 11 storied centrally air-conditioned teaching building, with a total floor space of 1.54 lakh sqft. The building has 8 departments, 1 library, 5 lecture halls, a large exam hall, one conference room and one seminar room, and one teacher’s lounge, etc."
-                },
-                {
-                    "ques": "Q. What are the different facilities provided at the hospitals?",
-                    "ans": "The hospital has different facilities like a laboratory for all kinds of investigations, outpatient departments (OPD), a well-equipped operation theatre, and residential quarters for doctors and nurses."
-                },
-                {
-                    "ques": "Q. How many international students are studying at the Dhaka National Medical college?",
-                    "ans": "More than 100 international students are studying at Dhaka National Medical College."
-                },
-                {
-                    "ques": "Q. How is the library of Dhaka National Medical college?",
-                    "ans": "The Dhaka National Medical college has a rich library with a collection of more than 6000 textbooks and reference books, 25 local journals, and 3 international journals, etc.Over 100 students can be accommodated at a time in a library."
-                },
-                {
-                    "ques": "Q. What facilities does the college offer to students?",
-                    "ans": "The college provides the best facilities in different areas to students like hostel facility, clean and neat cafeteria with hygiene food, advanced library, vast auditorium, transport facilities, well-equipped labs, and many more."
-                },
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Dhaka National Medical College, Bangladesh - FAQ" },
-                { name: "description", content: "Dhaka National Medical College  click here for more faq" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Dhaka National Medical College, Bangladesh - FAQ"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-national-medical-college/faq" }
-            ]
+        [
+            {
+                type: 'title',
+                title: "Dhaka National Medical College, Bangladesh - FAQ"
+            },
+            {
+                "type": "question-list",
+                "title": "Dhaka National Medical College - Important FAQs",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+                "data": [
+                    {
+                        "ques": "Q. Is there any affiliated hospital to Dhaka National Medical College?",
+                        "ans": "Dhaka National Medical College has 2 associated hospitals consisting of 650 beds."
+                    },
+                    {
+                        "ques": "Q. How is the infrastructure of Dhaka National Medical College?",
+                        "ans": "Dhaka National Medical College has an 11 storied centrally air-conditioned teaching building, with a total floor space of 1.54 lakh sqft. The building has 8 departments, 1 library, 5 lecture halls, a large exam hall, one conference room and one seminar room, and one teacher’s lounge, etc."
+                    },
+                    {
+                        "ques": "Q. What are the different facilities provided at the hospitals?",
+                        "ans": "The hospital has different facilities like a laboratory for all kinds of investigations, outpatient departments (OPD), a well-equipped operation theatre, and residential quarters for doctors and nurses."
+                    },
+                    {
+                        "ques": "Q. How many international students are studying at the Dhaka National Medical college?",
+                        "ans": "More than 100 international students are studying at Dhaka National Medical College."
+                    },
+                    {
+                        "ques": "Q. How is the library of Dhaka National Medical college?",
+                        "ans": "The Dhaka National Medical college has a rich library with a collection of more than 6000 textbooks and reference books, 25 local journals, and 3 international journals, etc.Over 100 students can be accommodated at a time in a library."
+                    },
+                    {
+                        "ques": "Q. What facilities does the college offer to students?",
+                        "ans": "The college provides the best facilities in different areas to students like hostel facility, clean and neat cafeteria with hygiene food, advanced library, vast auditorium, transport facilities, well-equipped labs, and many more."
+                    },
+                ]
+            },
+            {
+                type: "meta",
+                meta: [
+                    { name: "title", content: "Dhaka National Medical College, Bangladesh - FAQ" },
+                    { name: "description", content: "Dhaka National Medical College  click here for more faq" },
+                ],
+            },
+            {
+                type: "meta-title",
+                title: "Dhaka National Medical College, Bangladesh - FAQ"
+            },
+            {
+                type: "meta-links",
+                link: [
+                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/dhaka-national-medical-college/faq" }
+                ]
 
-        }
-    ]
+            }
+        ]
 }

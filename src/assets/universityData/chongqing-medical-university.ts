@@ -19,7 +19,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Chongqing Medical University: Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Chongqing Medical University:</b>",
+            "info": "Given below is the table for quick facts about Chongqing Medical University:",
             "col": [
 
             ],
@@ -40,7 +40,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Chongqing Medical University?",
-            "info": "<b>Students choose Medicine course at Chongqing Medical University because of the following reasons:</b>",
+            "info": "Students choose Medicine course at Chongqing Medical University because of the following reasons:",
             "data": [
                 "The MBBS degrees from this university are recognized worldwide.",
                 "The admission process of this university is easy and simple.",
@@ -55,7 +55,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "table",
             "title": "Chongqing Medical University: Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Chongqing Medical University:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Chongqing Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -70,7 +70,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Following is the medium of teaching at Chongqing Medical University:</b>",
+            "info": "Following is the medium of teaching at Chongqing Medical University:",
             "data": [
                 "At Chongqing Medical University, the medium of instruction is English.",
                 "For the excellent quality of education and medium of instruction being English, local as well as International students prefer this university."
@@ -79,7 +79,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>China’s Chongqing Medical University is approved and accredited by the below mentioned bodies in the field of medical education so as to ensure that the MBBS degree is accepted worldwide after the completion of studying MBBS in China:</b>",
+            "info": "China’s Chongqing Medical University is approved and accredited by the below mentioned bodies in the field of medical education so as to ensure that the MBBS degree is accepted worldwide after the completion of studying MBBS in China:",
             "data": [
                 "Medical Council of India or MCI",
                 "World Health Organisation or WHO",
@@ -90,7 +90,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Student's",
-            "info": "<b>Life of Students at Chongqing Medical University is filled with joy, excitement and knowledge as the university provides many facilities, fun and great environment to its students:</b>",
+            "info": "Life of Students at Chongqing Medical University is filled with joy, excitement and knowledge as the university provides many facilities, fun and great environment to its students:",
             "data": [
                 "The student life in Chongqing Medical University is very enriching and colorful.",
                 "As the location of the university is very good, students enjoy their stay in the university and they also get a lot of places and areas to explore.",
@@ -107,7 +107,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Chongqing City",
-            "info": "<b>The cost of living at Chongqing city is as follows:</b>",
+            "info": "The cost of living at Chongqing city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -138,7 +138,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Chongqing City",
-            "info": "<b>Let us try to find some interesting things about Chongqing city:</b>",
+            "info": "Let us try to find some interesting things about Chongqing city:",
             "data": [
                 "Chongqing city is located in Southwestern China where the Yangtze and Jialing Rivers meet.",
                 "This city is one of five principal cities, and the only municipality in Western China directly administered by the Central Government.",
@@ -174,9 +174,13 @@ export const chongqingmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Chongqing Medical University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Chongqing Medical University: MBBS Fee Structure",
-            "info": "<b>The fee structure for Chongqing Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Chongqing Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "1st Year",
@@ -292,7 +296,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration: Chongqing Medical University",
-            "info": "<b>Mentioned below is the duration of MBBS course:</b>",
+            "info": "Mentioned below is the duration of MBBS course:",
             "data": [
                 "The duration of MBBS course at Chongqing Medical University is 6 years which includes 1 year of internship.",
                 "The internship can either be done at the university hospitals or in the home country of students in a hospital recognized by the Ministry of Health of the concerned country.",
@@ -302,7 +306,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": 'text',
             "title": 'MBBS Syllabus: Chongqing Medical University',
-            "info": '<b>The complete syllabus for studying MBBS at Chongqing Medical University is as follows:</b>',
+            "info": 'The complete syllabus for studying MBBS at Chongqing Medical University is as follows:',
         },
         {
             "type": "table",
@@ -419,7 +423,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Chongqing Medical University",
-            "info": "<b>The various faculties and departments present at Chongqing University are:</b>",
+            "info": "The various faculties and departments present at Chongqing University are:",
             "data": [
                 "Medical Informatics",
                 "Nursing",
@@ -455,9 +459,13 @@ export const chongqingmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Chongqing Medical University - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Chongqing Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Chongqing Medical University is as follows:",
             "data": [
                 "The age of the candidate must be between 17 and 30 years.",
                 "Students must have completed their 12th standard or any equivalent education with minimum 70% aggregate marks.",
@@ -473,7 +481,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "step-list",
             "title": "How to Apply for MBBS Admission at Chongqing Medical University?",
-            "info": "<b>Following is the admission procedure for applying to MBBS course at Chongqing Medical University:</b>",
+            "info": "Following is the admission procedure for applying to MBBS course at Chongqing Medical University:",
             "data": [
                 "<b>Step 1:</b> Along with the necessary attested documents, students must fill the application form for studying medicine in Chongqing Medical University, China.",
                 "<b>Step 2:</b> After filling the application form, students must pay application fees, admission fees and the processing fees. For the admission fees and the application fees, students must make advance payment but the processing fees can be either sent to China or India whichever is earlier.",
@@ -486,7 +494,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Chongqing Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Chongqing Medical University:",
             "data": [
                 "Application Form",
                 "Passport (scanned copy)",
@@ -503,7 +511,7 @@ export const chongqingmedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Chongqing Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Chongqing Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -548,6 +556,10 @@ export const chongqingmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Chongqing Medical University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Chongqing Medical University - Reviews" },
@@ -566,6 +578,10 @@ export const chongqingmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Chongqing Medical University - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -596,6 +612,10 @@ export const chongqingmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Chongqing Medical University - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Chongqing Medical University - Gallery" },
@@ -615,9 +635,13 @@ export const chongqingmedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Chongqing Medical University - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Scholarships offered at Chongqing Medical University for local and international students are as given below:</b>",
+            "info": "Scholarships offered at Chongqing Medical University for local and international students are as given below:",
             "data": [
                 "Chinese Government Scholarship",
                 "Chongqing Municipal Government Mayor Scholarship",
@@ -643,6 +667,10 @@ export const chongqingmedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Chongqing Medical University - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -700,6 +728,10 @@ export const chongqingmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Chongqing Medical University - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Chongqing Medical University - News & Articles" },
@@ -719,9 +751,13 @@ export const chongqingmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Chongqing Medical University - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Chongqing Medical University:</b>",
+            "info": "Following are the hostel facilities at Chongqing Medical University:",
             "data": [
                 "On campus accommodation is available at the Chongqing university campus.",
                 "The accommodation is comfortable with single and double rooms.",
@@ -755,9 +791,13 @@ export const chongqingmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Chongqing Medical University - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Chongqing Medical University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many affiliated hospitals does this university have?",

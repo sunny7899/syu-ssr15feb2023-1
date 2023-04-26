@@ -20,7 +20,7 @@ export const tomskpolytechnicuniversity
         {
             "type": "table-title",
             "title": "TOMSK POLYTECHNIC UNIVERSITY - Quick Highlights",
-            "info": "<b>The table shows the highlights of Tomsk Polytechnic University for the foreign students willing to study engineering in Russia:</b>",
+            "info": "The table shows the highlights of Tomsk Polytechnic University for the foreign students willing to study engineering in Russia:",
             "col": [],
             "row": [
                 ["<b>Intake for Engineering Course</b>", "June"],
@@ -36,7 +36,7 @@ export const tomskpolytechnicuniversity
         {
             "type": "list-bollet",
             "title": "Why Choose Tomsk Polytechnic University?",
-            "info": "<b>Below are the interesting facts and features of the Tomsk Polytechnic University to Study Engineering in Russia:</b>",
+            "info": "Below are the interesting facts and features of the Tomsk Polytechnic University to Study Engineering in Russia:",
             "data": [
                 "TPU is one of the oldest Technical universities in Russia.",
                 "It is ranked at position 8 in the country.",
@@ -51,13 +51,13 @@ export const tomskpolytechnicuniversity
         {
             "type": "text",
             "title": "Accreditation",
-            "info": "<b>The university is accredited with the following organizations:</b>",
+            "info": "The university is accredited with the following organizations:",
             "data": "<p><b>The university is accredited with the following organizations:</b></p><p>The Tomsk Polytechnic University is recognized by the Ministry of Science and Higher education of the Russian Federation.</p>"
         },
         {
             "type": "table",
             "title": "Tomsk Polytechnic University - Ranking 2022",
-            "info": "<b>According to Unirank, The country & world ranking of the Tomsk Polytechnic University is:</b>",
+            "info": "According to Unirank, The country & world ranking of the Tomsk Polytechnic University is:",
             "col": [
                 "Country",
                 "World"
@@ -72,7 +72,7 @@ export const tomskpolytechnicuniversity
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The medium of the course at TPU and language of teaching details is as under:</b>",
+            "info": "The medium of the course at TPU and language of teaching details is as under:",
             "data": [
                 "As all the Bachelor’s and Engineering Graduate courses are available in Russian language, their medium of teaching is also in Russian.",
                 "Specialist courses are available in English language ,which can be pursued after Graduation engineering and technical niche are all taught in English."
@@ -81,7 +81,7 @@ export const tomskpolytechnicuniversity
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The cost of living expenses in Tomsk city, Russia is shown as below and approximate values are drafted:</b>",
+            "info": "The cost of living expenses in Tomsk city, Russia is shown as below and approximate values are drafted:",
             "col": [
                 "Particular",
                 "Expenses (In USD)",
@@ -133,9 +133,13 @@ export const tomskpolytechnicuniversity
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Tomsk Polytechnic University - Fee structure",
-            "info": "<b>The fee structure is shown under for the Tomsk PU for the session of one year and it may change and also prices may increase gradually:</b>",
+            "info": "The fee structure is shown under for the Tomsk PU for the session of one year and it may change and also prices may increase gradually:",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -158,7 +162,7 @@ export const tomskpolytechnicuniversity
                     "Annual Fee": "2,22,398"
                 }
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> 1 USD = 70 INR (For purpose of calculation)</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> 1 USD = 70 INR (For purpose of calculation)</p>"
         },
         {
             "type": "list-bollet",
@@ -175,11 +179,11 @@ export const tomskpolytechnicuniversity
         {
             "type": "list-bollet",
             "title": "Tomsk Polytechnic University - Course Duration",
-            "info": "<b>The duration of the course of engineering at the TPU in Russia is explained below:</b>",
+            "info": "The duration of the course of engineering at the TPU in Russia is explained below:",
             "data": [
                 "The course duration for the bachelor’s (Engineering) is of 4 years, while the specialist program is of 5 years."
             ],
-            heading: "<p><strong style='color: red;'><u>Note: </u></strong> For more details about courses click here</p>"
+            "heading": "<p><strong style='color: red;'><u>Note: </u></strong> For more details about courses click here</p>"
         },
         {
             type: "meta",
@@ -201,9 +205,13 @@ export const tomskpolytechnicuniversity
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicant must be fit in this below criteria for seeking the invitation letter from the university:</b>",
+            "info": "The applicant must be fit in this below criteria for seeking the invitation letter from the university:",
             "data": [
                 "The applicant must be passed with a good percentile in secondary school education(10+2).",
                 "The applicant must be good enough with the Russian language, as Engineering courses are available in this medium. Also, scores in Russian/English language proficiency.",
@@ -213,7 +221,7 @@ export const tomskpolytechnicuniversity
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>To apply for the bachelor’s program in Russia for TPU, following steps to be followed:</b>",
+            "info": "To apply for the bachelor’s program in Russia for TPU, following steps to be followed:",
             "data": [
                 "Step 1: Applying for the willing course and completing the online registration process.",
                 "Step 2: Next is the submission of all educational secondary school copies having marks or grades with a detailed subject list.",
@@ -227,7 +235,7 @@ export const tomskpolytechnicuniversity
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Below documents must be sent through fax/mail to the university for admission confirmation:</b>",
+            "info": "Below documents must be sent through fax/mail to the university for admission confirmation:",
             "data": [
                 "Application form and Migration letter",
                 "International passport copy",
@@ -244,7 +252,7 @@ export const tomskpolytechnicuniversity
         },
         {
             "type": "list-bollet",
-            "info": "<b>After students Arrival students must submit these documents:</b>",
+            "info": "After students Arrival students must submit these documents:",
             "data": [
                 "Original educational documents for verifying already submitted copies.",
                 "Notarised educational documents by Russia federation council.",
@@ -256,7 +264,7 @@ export const tomskpolytechnicuniversity
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>As per the official Site of Tomsk Polytechnic University, the scheduled mentioned for the bachelor program(Engineering) is as follow:</b>",
+            "info": "As per the official Site of Tomsk Polytechnic University, the scheduled mentioned for the bachelor program(Engineering) is as follow:",
             "col": [
                 "Events",
                 "Dates"
@@ -300,6 +308,10 @@ export const tomskpolytechnicuniversity
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tomsk Polytechnic University, Russia - Reviews" },
@@ -318,6 +330,10 @@ export const tomskpolytechnicuniversity
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -338,6 +354,10 @@ export const tomskpolytechnicuniversity
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tomsk Polytechnic University, Russia - Gallery" },
@@ -356,6 +376,10 @@ export const tomskpolytechnicuniversity
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -376,6 +400,10 @@ export const tomskpolytechnicuniversity
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tomsk Polytechnic University, Russia - Faculty" },
@@ -394,6 +422,10 @@ export const tomskpolytechnicuniversity
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -414,9 +446,13 @@ export const tomskpolytechnicuniversity
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Accommodation at TPU is explained below in detail and features of hostels also:</b>",
+            "info": "Accommodation at TPU is explained below in detail and features of hostels also:",
             "data": [
                 "In TPU, there are 15 halls of residence and special arrangements for international students.",
                 "The capacity of dormitories including the hall of residence of 8000 students.",
@@ -430,7 +466,7 @@ export const tomskpolytechnicuniversity
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Facilities at dormitories -</b>",
+            "info": "Facilities at dormitories -",
             "data": [
                 "Dormitories",
                 "Kitchen",
@@ -462,9 +498,13 @@ export const tomskpolytechnicuniversity
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Tomsk Polytechnic University, Russia - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Tomsk Polytechnic University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q.What is the average tuition fees cost for the bachelor’s program or engineering ?",

@@ -20,7 +20,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "table-title",
             "title": "Pskov State Polytechnic Institute - Quick Overview",
-            "info": "<b>Check out the main highlights before enrolling into the Pskov State Polytechnic Institute:</b>",
+            "info": "Check out the main highlights before enrolling into the Pskov State Polytechnic Institute:",
             "col": [],
             "row": [
                 ["<b>Intake Time</b>", "Autumn semester: September 1 - January 11<br> Spring semester: February 8 - June 7"],
@@ -34,7 +34,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "list-bollet",
             "title": "Why Choose Pskov State Polytechnic Institute?",
-            "info": "<b>Let’s dive into the advantages of studying Engineering at Pskov State Polytechnic Institute:</b>",
+            "info": "Let’s dive into the advantages of studying Engineering at Pskov State Polytechnic Institute:",
             "data": [
                 "Pskov Institute participates in international scientific and educational projects.",
                 "At Pskov State University, scientific research and development are also carried out for student development.",
@@ -53,13 +53,13 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>Pskov State Polytechnic Institute provides English teaching for Engineering course:</b>",
+            "info": "Pskov State Polytechnic Institute provides English teaching for Engineering course:",
             "data": "<p><b>Pskov State Polytechnic Institute provides English teaching for Engineering course:</b></p><p>Pskov State Polytechnic Institute offers <b>English</b> teaching to students coming to study from different parts of the world.</p>"
         },
         {
             "type": "table",
             "title": "Pskov State Polytechnic Institute - Ranking 2022",
-            "info": "<b>According to Unirank, check out the country & world rankings of Pskov State Polytechnic Institute:</b>",
+            "info": "According to Unirank, check out the country & world rankings of Pskov State Polytechnic Institute:",
             "col": [
                 "Country",
                 "World",
@@ -75,7 +75,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "list-bollet",
             "title": "Accreditation & Recognition",
-            "info": "<b>Pskov State Polytechnic Institute is officially accredited and recognized the known organizations:</b>",
+            "info": "Pskov State Polytechnic Institute is officially accredited and recognized the known organizations:",
             "data": [
                 "Pskov State Polytechnic Institute has the Accreditation Ministry of Education and Science of Russia."
             ]
@@ -83,7 +83,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "list-bollet",
             "title": "Facilities Offered at Pskov State Polytechnic Institute",
-            "info": "<b>At present the PskovSU has innovated infrastructure that fulfills all basic requirements:</b>",
+            "info": "At present the PskovSU has innovated infrastructure that fulfills all basic requirements:",
             "data": [
                 "Medical",
                 "Sports",
@@ -98,7 +98,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "table",
             "title": "Living Cost of Pskov Oblast",
-            "info": "<b>Pskov city provides reasonable living cost, the students have a look at monthly expenses given below which may vary according to individual requirements:</b>",
+            "info": "Pskov city provides reasonable living cost, the students have a look at monthly expenses given below which may vary according to individual requirements:",
             "col": [
                 "Activity",
                 "Amount in Euro",
@@ -131,7 +131,7 @@ export const pskovstatepolytechnicinstitute = {
                     "Amount in RS": "1,019.9 Rs",
                 },
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> 1$ = 70 Rs.</p>'
         },
         {
             type: "meta",
@@ -153,9 +153,13 @@ export const pskovstatepolytechnicinstitute = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Pskov State Polytechnic Institute - Course Duration",
-            "info": "<b>Pskov State Polytechnic Institute offers two engineering courses offering various programs, the students must go through the different program duration:</b>",
+            "info": "Pskov State Polytechnic Institute offers two engineering courses offering various programs, the students must go through the different program duration:",
             "data": "1 Faculty of Engineering and Construction Technologies",
             "col": [
                 "Program",
@@ -235,7 +239,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "table-title",
             "title": "Pskov State Polytechnic Institute - Programs",
-            "info": "<b>Pskov State Polytechnic Institute offers various programs to the students:</b>",
+            "info": "Pskov State Polytechnic Institute offers various programs to the students:",
             //"colTitle": [],
             "row": [
                 ["Architecture", "Construction and exploitation of roads and airfields"],
@@ -268,9 +272,13 @@ export const pskovstatepolytechnicinstitute = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The following eligibility criteria need to be fulfilled by the interested students to get a seat at the Pskov State Polytechnic Institute:</b>",
+            "info": "The following eligibility criteria need to be fulfilled by the interested students to get a seat at the Pskov State Polytechnic Institute:",
             "data": [
                 "The candidates must complete the 11th & 12th standards to study at Pskov State Polytechnic Institute.",
                 "The candidates must have a valid passport for engineering admission."
@@ -279,7 +287,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The candidates should follow the admission steps precisely for Engineering enrollment in Pskov State Polytechnic Institute:</b>',
+            info: 'The candidates should follow the admission steps precisely for Engineering enrollment in Pskov State Polytechnic Institute:',
             data: [
                 "Step 1: The application form should be filled correctly and sent to the Academic Mobility and Interuniversity Cooperation office of PskovSU through your home institution or independently. Please send your applications to mobility-pskgu@yandex.ru",
                 "Step 2: The candidates must submit important documents.",
@@ -291,7 +299,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Kindly make sure that at the time of admission you are having all important documents:</b>",
+            "info": "Kindly make sure that at the time of admission you are having all important documents:",
             "data": [
                 "Nomination letter from the home university",
                 "Learning agreement (Learning Agreement template here)",
@@ -320,7 +328,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The student should know the important dates for admission at Pskov State Polytechnic Institute:</b>",
+            "info": "The student should know the important dates for admission at Pskov State Polytechnic Institute:",
             "col": [
                 "Events",
                 "Dates",
@@ -372,6 +380,10 @@ export const pskovstatepolytechnicinstitute = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pskov State Polytechnic Institute, Russia - Reviews" },
@@ -390,6 +402,10 @@ export const pskovstatepolytechnicinstitute = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -410,6 +426,10 @@ export const pskovstatepolytechnicinstitute = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pskov State Polytechnic Institute, Russia - Gallery" },
@@ -428,6 +448,10 @@ export const pskovstatepolytechnicinstitute = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -448,6 +472,10 @@ export const pskovstatepolytechnicinstitute = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Pskov State Polytechnic Institute, Russia - Faculty" },
@@ -466,6 +494,10 @@ export const pskovstatepolytechnicinstitute = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -486,9 +518,13 @@ export const pskovstatepolytechnicinstitute = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The Pskov State Polytechnic Institute provides convenient dormitories to International students:</b>",
+            "info": "The Pskov State Polytechnic Institute provides convenient dormitories to International students:",
             "data": [
                 "Pskov State Polytechnic Institute has 12 comfortable dormitories designed to accommodate 3122 people.",
                 "10 dormitories in Pskov city and 2 are in Velikiye Luki.",
@@ -503,7 +539,7 @@ export const pskovstatepolytechnicinstitute = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Modern amenities are provided to the students during entry in a hostel -</b>",
+            "info": "Modern amenities are provided to the students during entry in a hostel -",
             "data": [
                 "Dormitory",
                 "hostel",
@@ -531,12 +567,15 @@ export const pskovstatepolytechnicinstitute = {
             ]
         }
     ],
-    "faq":
-    [
+    "faq": [
+        {
+            type: 'title',
+            title: 'Pskov State Polytechnic Institute, Russia - FAQ'
+        },
         {
             "type": "question-list",
             "title": "Pskov State Polytechnic Institute - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What are the other expenses during Engineering education at Pskov State Polytechnic Institute?",

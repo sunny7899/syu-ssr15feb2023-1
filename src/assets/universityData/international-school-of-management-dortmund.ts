@@ -19,7 +19,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "table-title",
             "title": "International School of Management: Quick Highlights",
-            "info": "<b>Get an overview of the important points to study MBA at the International School of Management:</b>",
+            "info": "Get an overview of the important points to study MBA at the International School of Management:",
             "col": [
 
             ],
@@ -37,7 +37,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "list-bollet",
             "title": "Why Study at the International School of Management?",
-            "info": "<b>These are the main reasons that make the International School of Management a perfect choice for worldwide students who are looking ahead to plan their better future:</b>",
+            "info": "These are the main reasons that make the International School of Management a perfect choice for worldwide students who are looking ahead to plan their better future:",
             "data": [
                 "The International School of Management offers a high standard of education to worldwide students who are willing to pursue an MBA career at a convenient cost.",
                 "The institute provides an organised curriculum that challenges and teaches the students to think creatively during MBA education.",
@@ -57,7 +57,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "table",
             "title": "International School of Management - Ranking 2022",
-            "info": "<b>The students must know about the country & world ranking of the International School of Management:</b>",
+            "info": "The students must know about the country & world ranking of the International School of Management:",
             "col": [
                 "Country",
                 "World"
@@ -72,13 +72,13 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>The International School of Management is offering the English language for MBA education:</b>",
-            "data": "<p><b>The International School of Management is offering the English language for MBA education:</b></p><p>All the candidates are studying the MBA program offered by the International School of Management in the English language.</p>"
+            "info": "The International School of Management is offering the English language for MBA education:",
+            "data": "<p>All the candidates are studying the MBA program offered by the International School of Management in the English language.</p>"
         },
         {
             "type": "list-bollet",
             "title": "Recognitions and Accreditations",
-            "info": "<b>International School of Management has been officially accredited as well as recognized by organizations:</b>",
+            "info": "International School of Management has been officially accredited as well as recognized by organizations:",
             "data": [
                 "The institute is recognized by the Ministry of Science of North Rhine-Westphalia.",
                 "The International School of Management gained accreditation from the German Council of Science and Humanities in 2004.",
@@ -88,7 +88,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "table",
             "title": "Living Cost of Dortmund, Germany",
-            "info": "<b>Dortmund city having an affordable Living cost for the students during MBA education, Go through the table to know the monthly expenses of an Individual:</b>",
+            "info": "Dortmund city having an affordable Living cost for the students during MBA education, Go through the table to know the monthly expenses of an Individual:",
             "col": [
                 "Particulars",
                 "Monthly Amount in USD",
@@ -128,9 +128,13 @@ export const internationalschoolofmanagementdortmund = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "International School of Management, Germany - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "International School of Management - Fee Structure 2022",
-            "info": "<b>International School of Management offers a quality education at a low budget to the students:</b>",
+            "info": "International School of Management offers a quality education at a low budget to the students:",
             "col": [
                 "MBA programs",
                 "Amount in Euro (Approx)",
@@ -161,7 +165,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "table",
             "title": "International School of Management - Course Duration",
-            "info": "<b>International School of Management offers full time and part-time MBA programs, The students must find out the course duration:</b>",
+            "info": "International School of Management offers full time and part-time MBA programs, The students must find out the course duration:",
             "col": [
                 "MBA programs",
                 "Duration",
@@ -183,8 +187,8 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "table",
             "title": "International School of Management - Syllabus",
-            "info": "<b>Have a look at the MBA course structure that includes a combination of business basics and functional knowledge:</b>",
-            'textBelowInfo': "<b>1 Full-time MBA</b>",
+            "info": "Have a look at the MBA course structure that includes a combination of business basics and functional knowledge:",
+            'textBelowInfo': "1 Full-time MBA",
             "col": [
                 "Semester",
                 "Subjects",
@@ -215,7 +219,7 @@ export const internationalschoolofmanagementdortmund = {
             "type": "table",
             "title": "",
             "info": "",
-            'textBelowInfo': "<b>2 Part-time MBA</b>",
+            'textBelowInfo': "2 Part-time MBA",
             "col": [
                 "Semester",
                 "Subjects",
@@ -245,7 +249,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "table-title",
             "title": "MBA Programs",
-            "info": "<b>International School of Management offers 2 MBA programs to worldwide students:</b>",
+            "info": "International School of Management offers 2 MBA programs to worldwide students:",
             "col": [
             ],
             "row": [
@@ -256,7 +260,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "list-bollet",
             "title": "Courses offered at International School of Management",
-            "info": "<b>There is an extensive range of courses provided by the International School of Management:</b>",
+            "info": "There is an extensive range of courses provided by the International School of Management:",
             "data": [
                 "Study business administration",
                 "Marketing degree",
@@ -279,8 +283,8 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "list-bollet",
             "title": "Study Programs at International School of Management",
-            "info": "<b>International School of Management provides many bachelor and master degrees including full-time, part-time, dual studies or distance learning:</b>",
-            "textBelowInfo": "<b>1 Bachelor- Full-time</b>",
+            "info": "International School of Management provides many bachelor and master degrees including full-time, part-time, dual studies or distance learning:",
+            "textBelowInfo": "1 Bachelor- Full-time",
             "data": [
                 "BSc. International management",
                 "BA Marketing & Communications Management",
@@ -299,7 +303,7 @@ export const internationalschoolofmanagementdortmund = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>2 Bachelor- Part-time</b>",
+            "textBelowInfo": "2 Bachelor- Part-time",
             "data": [
                 "BA Business Administration International Management",
                 "BA Business Administration Finance",
@@ -311,7 +315,7 @@ export const internationalschoolofmanagementdortmund = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>3 Master's Full-time</b>",
+            "textBelowInfo": "3 Master's Full-time",
             "data": [
                 "M.Sc. International management",
                 "MA Strategic Marketing Management",
@@ -335,7 +339,7 @@ export const internationalschoolofmanagementdortmund = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>4 Master's Part-time</b>",
+            "textBelowInfo": "4 Master's Part-time",
             "data": [
                 "MA Management International Management",
                 "MA Management Marketing, CRM & Sales",
@@ -352,7 +356,7 @@ export const internationalschoolofmanagementdortmund = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>5 Bachelor (Dual Degree)</b>",
+            "textBelowInfo": "5 Bachelor (Dual Degree)",
             "data": [
                 "B.Sc. Business Administration International Management",
                 "BA in Marketing & Communications Business Administration",
@@ -381,10 +385,14 @@ export const internationalschoolofmanagementdortmund = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "International School of Management, Germany - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>While applying for MBA course at ISM, the students must fulfill the eligibility requirements:</b>",
-            "textBelowInfo": "<b>1 Full-time MBA</b>",
+            "info": "While applying for MBA course at ISM, the students must fulfill the eligibility requirements:",
+            "textBelowInfo": "1 Full-time MBA",
             "data": [
                 "The students must successfully complete their degree with 210 ECTS points from a recognised university or college or a foreign college of the same rank for full-time MBA admission at ISM.",
                 "The candidates should have at least 2 to 3 years of professional experience after completing the first degree.",
@@ -398,7 +406,7 @@ export const internationalschoolofmanagementdortmund = {
             "type": "list-bollet",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>2 Part-time MBA</b>",
+            "textBelowInfo": "2 Part-time MBA",
             "data": [
                 "The candidates should first successfully complete at least 6 semesters of study at a university or College or of a corresponding rank from a foreign university.",
                 "The willing students must have at least 2 to 3 years of experience according to the first graduation.",
@@ -409,7 +417,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>The candidates should follow the actionable steps to submit a successful application form to enroll in the MBA program at the ISM:</b>",
+            "info": "The candidates should follow the actionable steps to submit a successful application form to enroll in the MBA program at the ISM:",
             "data": [
                 "<b>Step 1:</b> <b>Case Study:</b> After the online registration, ISM will send questions to prepare in the form of a presentation for the day of the job interview. The students must send the results of this case study by email at least 48 hours before the interview to pre-evaluation. In case the case study is not received, the students will unfortunately not be enrolled in the selection process and to pay the fees.",
                 "<b>Step 2:</b> <b>Application interview:</b> The university will conduct the personal interview in the English language, which include the assessment of the motivation and suitability of the professional and private living conditions and English skills. and also the course director can discuss the results of the case study as part of the conversation",
@@ -421,7 +429,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Before taking MBA admission to the International School of Management, The students must not forget to carry all these related documents:</b>",
+            "info": "Before taking MBA admission to the International School of Management, The students must not forget to carry all these related documents:",
             "data": [
                 "CV and two passport photos",
                 "Two letters of reference from a university",
@@ -450,7 +458,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>The students must be aware of the important dates for MBA admission at the International School of Management:</b>",
+            "info": "The students must be aware of the important dates for MBA admission at the International School of Management:",
             "col": [
                 "Events",
                 "Dates"
@@ -495,6 +503,10 @@ export const internationalschoolofmanagementdortmund = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "International School of Management, Germany - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "International School of Management, Germany - Reviews" },
@@ -513,6 +525,10 @@ export const internationalschoolofmanagementdortmund = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "International School of Management, Germany - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -542,6 +558,10 @@ export const internationalschoolofmanagementdortmund = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "International School of Management, Germany - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "International School of Management, Germany - Gallery" },
@@ -561,9 +581,13 @@ export const internationalschoolofmanagementdortmund = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "International School of Management, Germany - Scholarship"
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>The scholarships that are provided at the International School of Management are as follows:</b>",
+            "info": "The scholarships that are provided at the International School of Management are as follows:",
             "data": [
                 "Ph.D. Scholarship In Theoretical Chemistry",
                 "Charpak Master's Program, 2022",
@@ -592,6 +616,10 @@ export const internationalschoolofmanagementdortmund = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "International School of Management, Germany - Faculty"
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -648,6 +676,10 @@ export const internationalschoolofmanagementdortmund = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "International School of Management, Germany - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "International School of Management, Germany - News & Articles" },
@@ -667,9 +699,13 @@ export const internationalschoolofmanagementdortmund = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "International School of Management, Germany - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Facilities",
-            "info": "<b>The institute provides state-of-art Infrastructure which provides all modern facilities in the comfort zone of the students:</b>",
+            "info": "The institute provides state-of-art Infrastructure which provides all modern facilities in the comfort zone of the students:",
             "data": [
                 "Library",
                 "Classroom",
@@ -684,7 +720,7 @@ export const internationalschoolofmanagementdortmund = {
         {
             "type": "list-bollet",
             "title": "Hostel & Accomodation",
-            "info": "<b>The International School of Management provides well-furnished and comfortable hostel rooms in the comfort zone of students:</b>",
+            "info": "The International School of Management provides well-furnished and comfortable hostel rooms in the comfort zone of students:",
             "data": [
                 "The International School of Management offers comfortable and spacious hostel rooms for the students.",
                 "The hostel system provides separate floors for boys and girls students.",
@@ -717,9 +753,13 @@ export const internationalschoolofmanagementdortmund = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "International School of Management, Germany - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "International School of Management - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Does the International School of Management have official accreditations?",

@@ -20,7 +20,7 @@ export const universityofbonn = {
     {
       "type": "table-title",
       "title": "University of Bonn - Quick Highlights",
-      "info": "<b>Willing to take admission in this university then have a look below to know more about this university:</b>",
+      "info": "Willing to take admission in this university then have a look below to know more about this university:",
       "row": [
         ["<b>University Type</b>", "Public"],
         ["<b>Admission Intake</b>", "Winter - July<br>Summer - Jan"],
@@ -34,7 +34,7 @@ export const universityofbonn = {
     {
       "type": 'list-bollet',
       "title": 'Why Study Engineering at the University of Bonn?',
-      "info": '<b>If you are looking forward to getting admission at this university for an Engineering course, then read below to know its pros:</b>',
+      "info": 'If you are looking forward to getting admission at this university for an Engineering course, then read below to know its pros:',
       "data": [
         "The University of Bonn has a mission to deliver quality education to the students and the research group. Also, it offers an environment conducive to free academic discussion.",
         "The University has designed a fee structure affordable to all without compromising with the quality of education imparted.",
@@ -51,7 +51,7 @@ export const universityofbonn = {
     {
       "type": "table",
       "title": "University of Bonn - Ranking 2022",
-      "info": "<b>Considering the uniRank current rankings, the students can check out and learn about the university’s ranking:</b>",
+      "info": "Considering the uniRank current rankings, the students can check out and learn about the university’s ranking:",
       "col": [
         "Country",
         "World",
@@ -67,7 +67,7 @@ export const universityofbonn = {
     {
       "type": "list-bollet",
       "title": "Facilities Provided at University of Bonn",
-      "info": "<b>University of Bonn provides exclusive facilities to one and all to improve the learning and teaching process and to guarantee a safe stay:</b>",
+      "info": "University of Bonn provides exclusive facilities to one and all to improve the learning and teaching process and to guarantee a safe stay:",
       "data": [
         "Classroom",
         "Internet",
@@ -133,7 +133,7 @@ export const universityofbonn = {
     {
       "type": 'list-bollet',
       "title": 'Medium of Instruction',
-      "info": '<b>University of Bonn opts a medium of instruction to educate students to avoid language barrier:</b>',
+      "info": 'University of Bonn opts a medium of instruction to educate students to avoid language barrier:',
       "data": [
         "The university has adopted English language as a medium to instruct the complete course to the students.",
         "Usage of English language as a mode of instruction avoids language barrier and miscommunication."
@@ -142,7 +142,7 @@ export const universityofbonn = {
     {
       "type": 'list-bollet',
       "title": 'Recognition and Accreditations',
-      "info": '<b>The university is recognized worldwide, check below to know the recognition and accreditations:</b>',
+      "info": 'The university is recognized worldwide, check below to know the recognition and accreditations:',
       "data": [
         "University of Bonn is officially recognized by the Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen (Ministry of culture and science of North Rhine Westphalia)"
       ]
@@ -150,7 +150,7 @@ export const universityofbonn = {
     {
       "type": "table",
       "title": 'Living Expenses in North Rhine Westphalia, Germany',
-      "info": '<b>Are you looking forward to enroll in one of the offered programs by University of Bonn, Check below to know the basic monthly expenditures at North-Rhine Westphalia:</b>',
+      "info": 'Are you looking forward to enroll in one of the offered programs by University of Bonn, Check below to know the basic monthly expenditures at North-Rhine Westphalia:',
       "col": [
         "Particulars",
         "Approx Range in USD",
@@ -191,9 +191,13 @@ export const universityofbonn = {
 
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'University of Bonn, Germany - courses & Fees'
+    },
+    {
       "type": "table",
       "title": 'University of Bonn - Engineering Fee Structure 2021',
-      "info": '<b>To know the fee structure -2021 of this university check out the table below:</b>',
+      "info": 'To know the fee structure -2021 of this university check out the table below:',
       "col": [
         "Course",
         "Total Amount",
@@ -217,7 +221,7 @@ export const universityofbonn = {
     {
       "type": 'list-bollet',
       "title": 'University of Bonn - Engineering Course Duration',
-      "info": '<b>University of Bonn brings you exclusive Engineering programs, to know read below:</b>',
+      "info": 'University of Bonn brings you exclusive Engineering programs, to know read below:',
       "data": [
         "Geodetic Engineering",
         "Geodetic Engineering (Master of Science)",
@@ -245,9 +249,13 @@ export const universityofbonn = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'University of Bonn, Germany - Admission 2023'
+    },
+    {
       "type": 'list-bollet',
       "title": 'Eligibility Criteria',
-      "info": '<b>To admit yourself to the University of Bonn, have a glance below to know the basic criteria needed:</b>',
+      "info": 'To admit yourself to the University of Bonn, have a glance below to know the basic criteria needed:',
       "data": [
         "Academic degree in the relevant course of study",
         "Must have official university transcript",
@@ -261,7 +269,7 @@ export const universityofbonn = {
     {
       "type": 'step-list',
       "title": 'Admission Process',
-      "info": '<b>Check out the details below to the admission process at the University of Bonn:</b>',
+      "info": 'Check out the details below to the admission process at the University of Bonn:',
       "data": [
         "<b>Step 1:</b> Apply and get nominated by the study abroad coordinator from your home university to study at the University of Bonn.",
         "<b>Step 2:</b> Apply online. Go to the portal and fill in the required details correctly.",
@@ -272,7 +280,7 @@ export const universityofbonn = {
     {
       "type": 'list-bollet',
       "title": 'Documents Required',
-      "info": '<b>The applicants need to submit the essential documents to initiate the MBA admission process immediately:</b>',
+      "info": 'The applicants need to submit the essential documents to initiate the MBA admission process immediately:',
       "data": [
         "At Least three years bachelor’s certificate",
         "Transcript records of Bachelor’s degree",
@@ -293,7 +301,7 @@ export const universityofbonn = {
     {
       "type": "table",
       "title": 'University of Bonn - Important Dates 2021',
-      "info": '<b>Look below to know the important dates during the admission process:</b>',
+      "info": 'Look below to know the important dates during the admission process:',
       "col": [
         "Events",
         "Dates",
@@ -337,6 +345,10 @@ export const universityofbonn = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'University of Bradford, UK - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Bradford, UK - Reviews" },
@@ -356,9 +368,13 @@ export const universityofbonn = {
   ],
   "placement": [
     {
+      type: 'title',
+      title: 'University of Bonn, Germany - Placement'
+    },
+    {
       "type": "table",
       "title": '',
-      "info": '<b>Below is the details of the placement at University of Bonn:</b>',
+      "info": 'Below is the details of the placement at University of Bonn:',
       "col": [
         "Particulars",
         "Statistics",
@@ -398,6 +414,10 @@ export const universityofbonn = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'University of Bonn, Germany - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Bonn, Germany - Gallery" },
@@ -417,9 +437,13 @@ export const universityofbonn = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'University of Bonn, Germany - Scholarship'
+    },
+    {
       "type": 'list-bollet',
       "title": 'Scholarship',
-      "info": '<b>The scholarship provided at University of Bonn are as follows:</b>',
+      "info": 'The scholarship provided at University of Bonn are as follows:',
       "data": [
         "DAAD M.Sc and PhD Scholarships 2022-23 for Kenyans 2022",
         "DAAD Postgraduate Scholarship 2022 for Sub Saharan Country Students",
@@ -473,6 +497,10 @@ export const universityofbonn = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'University of Bonn, Germany - Faculty'
+    },
+    {
       "type": "table",
       "title": '',
       "info": '',
@@ -523,6 +551,10 @@ export const universityofbonn = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'University of Bonn, Germany - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "University of Bonn, Germany - News & Articles" },
@@ -542,9 +574,13 @@ export const universityofbonn = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'University of Bonn, Germany - Hostel'
+    },
+    {
       "type": 'list-bollet',
       "title": 'Hostels and Accomodation',
-      "info": '<b>University of Bonn facilitates students and other staff members with spacious and clean living spaces for stay:</b>',
+      "info": 'University of Bonn facilitates students and other staff members with spacious and clean living spaces for stay:',
       "data": [
         "The university-managed accommodation is well-maintained and safe to stay.",
         "These accommodations are arranged separately for girls and boys. Also, it is available for self or on a sharing basis whatever suits your needs.",
@@ -574,9 +610,13 @@ export const universityofbonn = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: 'University of Bonn, Germany - FAQ'
+    },
+    {
       "type": "question-list",
       "title": "University of Bonn - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. Do you think University of Bonn is an ideal place to pursue an Engineering course?",

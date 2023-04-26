@@ -19,8 +19,8 @@ export const poznanuniversityofmedicalscience = {
 
         {
             "type": "table-title",
-            "title": "Poznan Medical University - Quick Overview 2022",
-            "info": "<b>Candidates must walk through the major points mentioned below in the table before going in the detailed information of Poznan Medical University:</b>",
+            "title": "Poznan Medical University - Quick Overview 2023",
+            "info": "Candidates must walk through the major points mentioned below in the table before going in the detailed information of Poznan Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March"],
                 ["<b>Eligibility Criteria</b>", "50% in PCB"],
@@ -36,7 +36,7 @@ export const poznanuniversityofmedicalscience = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Poznan Medical University?',
-            info: '<b>Everyone should know the multifaceted advantages to study MBBS at Poznan Medical University:</b>',
+            info: 'Everyone should know the multifaceted advantages to study MBBS at Poznan Medical University:',
             data: [
                 "Poznan Medical University provides a high standard of the education system at a reasonable price to the students willing to pursue MBBS education.",
                 "It is officially approved by the National Medical Commission (NMC) & World Health Organization (WHO).",
@@ -59,15 +59,15 @@ export const poznanuniversityofmedicalscience = {
             ]
         },
         {
-            type: 'list-bollet',
+            type: 'text',
             title: 'Medium of Teaching',
             info: 'Poznan Medical University offers top education system in the English language:',
             data: "<p>The students acquire quality medical education in 100% English language without facing any language barriers at Poznan medical university.</p>"
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: 'Facilities Provided at Poznan Medical University',
-            info: "<b>Poznan medical university delivers the latest facilities required for better education experience at the comfort zone of students:</b>",
+            info: "Poznan medical university delivers the latest facilities required for better education experience at the comfort zone of students:",
             // img: 'Library.png',
             data: [
                 "Library",
@@ -124,8 +124,8 @@ export const poznanuniversityofmedicalscience = {
         // },
         {
             "type": "table",
-            "title": "Poznan Medical University - Ranking 2022",
-            "info": "<b>According to Uni Rank here is the world and country of Poznan Medical University:</b>",
+            "title": "Poznan Medical University - Ranking 2023",
+            "info": "According to Uni Rank here is the world and country of Poznan Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -141,7 +141,7 @@ export const poznanuniversityofmedicalscience = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Poznan Medical University is officially accredited and recognized by several medical bodies:</b>',
+            info: 'Poznan Medical University is officially accredited and recognized by several medical bodies:',
             data: [
                 "World health organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -169,7 +169,7 @@ export const poznanuniversityofmedicalscience = {
         {
             "type": "table",
             "title": "Living Cost of Poznan",
-            "info": "<b>Poznan Medical University is situated in Poznan city, provides low rate expenses varying according to individual requirements, the student must undergo through the table mentioned below on monthly basis:</b>",
+            "info": "Poznan Medical University is situated in Poznan city, provides low rate expenses varying according to individual requirements, the student must undergo through the table mentioned below on monthly basis:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -179,26 +179,26 @@ export const poznanuniversityofmedicalscience = {
                 {
                     "Particulars": "<b>Food Cost</b>",
                     "Approx range in USD": "198 USD",
-                    "Approx range in RS": "13,860 Rs"
+                    "Approx range in RS": "15,840 Rs"
                 },
                 {
                     "Particulars": "<b>Transportation Cost</b>",
                     "Approx range in USD": "35.7 USD",
-                    "Approx range in RS": "2,499 Rs"
+                    "Approx range in RS": "2,856 Rs"
                 }
             ],
-            "heading": "<p><b><u>Note:</u></b> 1$ = 70 Rs.</p>"
+            "heading": "<p><b><u>Note:</u></b> 1$ = 80 Rs.</p>"
         },
-        {
-            type: 'text',
-            title: "Rector's Message",
-            img: 'rectors-message-of-poznan-university-of-medical-science.jpg',
-        },
+        // {
+        //     type: 'text',
+        //     title: "Rector's Message",
+        //     img: 'rectors-message-of-poznan-university-of-medical-science.jpg',
+        // },
         {
             type: 'list-bollet',
             title: 'About Poznan City',
             img: 'poznan-city.jpg',
-            info: "<b>Now let's know about the Poznan city:</b>",
+            info: "Now let's know about the Poznan city:",
             data: [
                 "Poznan city is situated on the Warta river in the western part of Poland.",
                 "Poznan is well-known for its old town with styled homes in Old Market Square.",
@@ -231,9 +231,14 @@ export const poznanuniversityofmedicalscience = {
 
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Poznan Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
-            "title": "Poznan Medical University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Tula State University for MBBS program is given in the table below:</b>",
+            "title": "Poznan Medical University - MBBS Fee Structure 2023",
+            "info": "The fee structure for Tula State University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -276,22 +281,22 @@ export const poznanuniversityofmedicalscience = {
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year 1": "Rs. 10,99,900",
-                    "Year 2": "Rs. 10,99,900",
-                    "Year 3": "Rs. 10,99,900",
-                    "Year 4": "Rs. 10,99,900",
-                    "Year 5": "Rs. 10,99,900",
-                    "Year 6": "Rs. 10,99,900"
+                    "Year 1": "Rs. 12,37,064",
+                    "Year 2": "Rs. 12,37,064",
+                    "Year 3": "Rs. 12,37,064",
+                    "Year 4": "Rs. 12,37,064",
+                    "Year 5": "Rs. 12,37,064",
+                    "Year 6": "Rs. 12,37,064"
 
                 }
             ],
-            "heading": "<p><b>Note:</b><b>1PLN = Rs. 17 (It may Vary)</b></p>",
+            "heading": "<p><b>Note:</b> 1PLN = Rs. 19.12 (It may Vary)</p>",
 
         },
         {
             type: 'list-bollet',
             title: 'Poznan Medical University - MBBS Duration',
-            info: "<b>The medicine program duration offered by Poznan Medical University is of 6 years:</b>",
+            info: "The medicine program duration offered by Poznan Medical University is of 6 years:",
             data: [
                 "Poznan Medical University offers 6 years of MBBS course duration.",
                 "Students get theoretical as well as the practical aspect of knowledge.",
@@ -303,7 +308,7 @@ export const poznanuniversityofmedicalscience = {
         {
             "type": "table",
             "title": "Poznan Medical University - MBBS Syllabus",
-            "info": "<b>Applicants must go through the study pattern of Poznan medical university:</b>",
+            "info": "Applicants must go through the study pattern of Poznan medical university:",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -436,7 +441,7 @@ export const poznanuniversityofmedicalscience = {
         {
             type: 'list-bollet',
             title: 'Courses offered at Poznan Medical University',
-            info: "<b>Poznan Medical University is leading university offers various medical faculties mentioned below:</b>",
+            info: "Poznan Medical University is leading university offers various medical faculties mentioned below:",
             data: [
                 "Medicine",
                 "Pharmacy",
@@ -464,9 +469,14 @@ export const poznanuniversityofmedicalscience = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Poznan Medical University - Admission 2023 "
+
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: "<b>The candidates must fulfill eligibility criteria for MBBS admission at Poznan medical university:</b>",
+            info: "The candidates must fulfill eligibility criteria for MBBS admission at Poznan medical university:",
             data: [
                 "The candidates should complete the age of 17 years on or before the 31st December of the admission year.",
                 "The candidates must secure at least 50% marks in subjects in Physics, Chemistry, and Biology in 10+2 standard.",
@@ -482,7 +492,7 @@ export const poznanuniversityofmedicalscience = {
         {
             type: 'list-bollet',
             title: '',
-            info: "<b>The candidates should have good scores in the medical admission test mentioned below with minimum scores -</b>",
+            info: "The candidates should have good scores in the medical admission test mentioned below with minimum scores -",
             data: [
                 "Medical College Admission Test (MCAT)- 485 (taken no earlier than 2018).",
                 "University Clinical Aptitude Test (UCAT)- 575 (taken no earlier than 2018).",
@@ -493,7 +503,7 @@ export const poznanuniversityofmedicalscience = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: "<b>Carry Out the MBBS course admission process mentioned below in a stepwise manner:</b>",
+            info: "Carry Out the MBBS course admission process mentioned below in a stepwise manner:",
             data: [
                 "<b>Step 1:</b> All documents must be in English or with a certified translation to English.",
                 "<b>Step 2:</b> Applicants must complete the <a>application form</a> on the official website of the university.",
@@ -507,7 +517,7 @@ export const poznanuniversityofmedicalscience = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: "<b>Mentioned below are the important documents required for every candidate to submit:</b>",
+            info: "Mentioned below are the important documents required for every candidate to submit:",
             data: [
                 "The candidate must submit the completed online application form.",
                 "The candidate must submit a valid passport copy.",
@@ -537,7 +547,7 @@ export const poznanuniversityofmedicalscience = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>TOEFL Exam</b>",
+            "info": "TOEFL Exam",
             "col": [
                 "Test",
                 "Minimum Scores"
@@ -568,8 +578,8 @@ export const poznanuniversityofmedicalscience = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2022",
-            "info": "<b>Every candidate should check the important dates before taking MBBS admission at Poznan medical university:</b>",
+            "title": "Important Dates - Intake 2023",
+            "info": "Every candidate should check the important dates before taking MBBS admission at Poznan medical university:",
             "col": [
                 "Events",
                 "Dates"
@@ -610,6 +620,11 @@ export const poznanuniversityofmedicalscience = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Poznan Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Poznan Medical University - Reviews" },
@@ -629,9 +644,14 @@ export const poznanuniversityofmedicalscience = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Poznan Medical University - Placement"
+
+        },
+        {
             type: 'text',
-            title: '',
-            info: "<p>Doctor of Medicine (M.D.) qualification awarded by PUMS is recognized worldwide and can be used to apply for a local medical licence in most countries in the world. In order to do so a medical graduate has to fulfil the destination country's national or state medical board requirements, usually involving an examination or a series of examinations and an internship period.</p>",
+            title: 'Poznan Medical University Placement',
+            data: "<p>Doctor of Medicine (M.D.) qualification awarded by PUMS is recognized worldwide and can be used to apply for a local medical licence in most countries in the world. In order to do so a medical graduate has to fulfil the destination country's national or state medical board requirements, usually involving an examination or a series of examinations and an internship period.</p>",
         },
         {
             type: "meta",
@@ -653,6 +673,50 @@ export const poznanuniversityofmedicalscience = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Poznan Medical University - Gallery"
+
+        },
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-group-discussion.jpg",
+                    "alt": "poznan university of medical science group discussion"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-medical-practice.jpg",
+                    "alt": "poznan university of medical science medical practice"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-practicals.jpg",
+                    "alt": "poznan university of medical science practicals"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-practical-sessions.jpg",
+                    "alt": "poznan university of medical science practical sessions"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-practice-in-group.jpg",
+                    "alt": "poznan university of medical science practice in group"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-practicing.jpg",
+                    "alt": "poznan university of medical science practicing"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/poznan-university-of-medical-science-preperation.jpg",
+                    "alt": "poznan university of medical science preperation"
+                }
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Poznan Medical University - Gallery" },
@@ -671,6 +735,11 @@ export const poznanuniversityofmedicalscience = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Poznan Medical University - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -691,6 +760,11 @@ export const poznanuniversityofmedicalscience = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Poznan Medical University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Poznan Medical University - Faculty" },
@@ -709,6 +783,11 @@ export const poznanuniversityofmedicalscience = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Poznan Medical University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -729,9 +808,14 @@ export const poznanuniversityofmedicalscience = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Poznan Medical University - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accomodation',
-            info: "<b>Poznan Medical University designated convenient and spacious housing facility for students:</b>",
+            info: "Poznan Medical University designated convenient and spacious housing facility for students:",
             data: [
                 "The dormitories are at some walkable distance from University hospital, sports facilities, library.",
                 "It is supported by English language resident advisor team which is made up of student volunteers.",
@@ -751,7 +835,7 @@ export const poznanuniversityofmedicalscience = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>There are 4 dormitories for the comfortable living of students -</b>",
+            "info": "There are 4 dormitories for the comfortable living of students -",
             "col": [
 
 
@@ -764,7 +848,7 @@ export const poznanuniversityofmedicalscience = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>The monthly rental fees for a double room -</b>",
+            "info": "The monthly rental fees for a double room -",
             "col": [
 
 
@@ -779,7 +863,7 @@ export const poznanuniversityofmedicalscience = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Double room with single occupancy -</b>",
+            "info": "Double room with single occupancy -",
             "col": [
 
 
@@ -794,7 +878,7 @@ export const poznanuniversityofmedicalscience = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Single room charges -</b>",
+            "info": "Single room charges -",
             "col": [
             ],
             "row": [
@@ -822,9 +906,14 @@ export const poznanuniversityofmedicalscience = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Poznan Medical University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Poznan Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Can the candidates get back home during the vacation period at Poznan Medical University?",

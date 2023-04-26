@@ -1,15 +1,16 @@
 export const mbbsinbulgaria = {
-    "Title": "mbbs in bulgaria",
-    "shortTitle": "mbbs in bulgaria",
-    "location": "bulgaria",
+    "Title": "MBBS in Bulgaria",
+    "shortTitle": "MBBS in Bulgaria",
+    "location": "Bulgaria",
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '6 Years',
     "url": "mbbs-in-bulgaria",
     "info": [
         {
             type: 'title',
-            title: 'mbbs in bulgaria'
+            title: 'MBBS in Bulgaria'
         },
         {
             "type": "text",
@@ -19,7 +20,7 @@ export const mbbsinbulgaria = {
         {
             "type": "table-title",
             "title": "MBBS in Bulgaria: Quick Highlights 2022",
-            "info": "<b>Here is a brief overview of features of studying medicine at Bulgaria:</b>",
+            "info": "Here is a brief overview of features of studying medicine at Bulgaria:",
             "col": [],
             "row": [
                 ["<b>Eligibility Criteria</b>", "50% in PCB"],
@@ -35,7 +36,7 @@ export const mbbsinbulgaria = {
         {
             "type": "list-bollet",
             "title": "Benefits of Studying MBBS in Bulgaria for Indian Students",
-            "info": "<b>Here is a brief overview of features of studying medicine at Bulgaria:</b>",
+            "info": "Here is a brief overview of features of studying medicine at Bulgaria:",
             "data": [
                 "Bulgaria is popular for it’s excellent quality education, research & development especially in the field of medical science.",
                 "There 120 universities offering medical education out of which only 7 universities have approval of NMC (National Medical Commission).",
@@ -58,7 +59,7 @@ export const mbbsinbulgaria = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria For MBBS Course in Bulgaria",
-            "info": "<b>Following is the qualification standard considered for the acceptance of the admission of international students:</b>",
+            "info": "Following is the qualification standard considered for the acceptance of the admission of international students:",
             "data": [
                 "Candidates should be 17 years of old at the admission time & the maximum age limitation is 25 years.",
                 "Students must have opted PCB (Physics, Chemistry, & Biology), maths & English subjects in XIIth science.",
@@ -87,7 +88,7 @@ export const mbbsinbulgaria = {
             "type": "list-bollet",
             "title": "Documents Required for Students to Study in Bulgaria",
             "img": "",
-            "info": "<b>A complete list of documents necessary for MBBS admission is here:</b>",
+            "info": "A complete list of documents necessary for MBBS admission is here:",
             "data": [
                 "Marksheet of 10th & 12th grade",
                 "Certification of birth",
@@ -106,7 +107,7 @@ export const mbbsinbulgaria = {
         {
             "type": "list-bollet",
             "title": "System of Medical Education in Bulgaria",
-            "info": "<b>Learn details about the education system of MBBS course in Bulgaria:</b>",
+            "info": "Learn details about the education system of MBBS course in Bulgaria:",
             "data": [
                 "Medical Universities in Bulgaria offers a six years duration for MBBS program which is known as M.D (Doctor of Medicine) in Bulgaria.",
                 "<b>These six years of M.D curriculum are divided into two sections:</b>"
@@ -139,7 +140,7 @@ export const mbbsinbulgaria = {
         {
             "type": "list-bollet",
             "title": "Recognition of Medical Universities in Bulgaria",
-            "info": "<b>MBBS colleges in Bulgaria have accreditation from following councils:</b>",
+            "info": "MBBS colleges in Bulgaria have accreditation from following councils:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -154,13 +155,13 @@ export const mbbsinbulgaria = {
         {
             "type": "text",
             "title": "Scholarship Opportunities For Studying in Bulgaria",
-            "info": "<b>Here you can access details about the scholarships in Bulgaria:</b>",
+            "info": "Here you can access details about the scholarships in Bulgaria:",
             "data": "<p>All the leading medical universities offer scholarships for international students if they have good marks & fit into the following applicability criteria.</p><p><b>Criteria for scholarships in Bulgaria:</b></p>"
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Criteria for scholarships in Bulgaria:</b>",
+            "info": "Criteria for scholarships in Bulgaria:",
             "data": [
                 "There is an entrance test where the candidate must score 80%.",
                 "Chemistry & Biology are the main subjects of the exam.",
@@ -172,7 +173,7 @@ export const mbbsinbulgaria = {
         {
             "type": "list-bollet",
             "title": "Process of VISA Acquisition & Required Documents",
-            "info": "<b>See the procedure Indian students need to follow to acquire VISA along with the list of required documents:</b>",
+            "info": "See the procedure Indian students need to follow to acquire VISA along with the list of required documents:",
             "data": [
                 "The process of VISA starts only after the confirmation of admission.",
                 "A complete medical checkup is required before applying for VISA.",
@@ -182,7 +183,7 @@ export const mbbsinbulgaria = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Documents required:</b>",
+            "info": "Documents required:",
             "data": [
                 "Original passport with at least 3 months validity (3 blank pages)",
                 "Two passport size colored photocopies taken recently",
@@ -208,13 +209,13 @@ export const mbbsinbulgaria = {
         {
             "type": "text",
             "title": "Safety Index of Bulgaria",
-            "info": "<b>Bulgaria is one of the safest European country also for tourism:</b>",
+            "info": "Bulgaria is one of the safest European country also for tourism:",
             "data": "<p>Reports published by the Ministry of Interior (MOI) shows the fall of 9.8% in the registered cases of crime in 2018 against the reports of previous year (2017). It indicates that 46% of the crime cases have been resolved in comparison to 43.7% cases in 2017.</p><p><b>The country is safe from following frauds, scams, violence:</b></p>"
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The country is safe from following frauds, scams, violence:</b>",
+            "info": "The country is safe from following frauds, scams, violence:",
             "data": [
                 "ATM skimming",
                 "Credit card fraud",
@@ -225,7 +226,7 @@ export const mbbsinbulgaria = {
         {
             "type": "tabel",
             "title": "Cost of Living in Bulgaria for Indian Students",
-            "info": "<b>We have given average monthly expenses required while studying in Bulgaria:</b>",
+            "info": "We have given average monthly expenses required while studying in Bulgaria:",
             "col": [
                 "Particulars",
                 "Amount (USD)",
@@ -268,7 +269,7 @@ export const mbbsinbulgaria = {
         {
             "type": "list-bollet",
             "title": "About Bulgaria",
-            "info": "<b>Read some more information about the country:</b>",
+            "info": "Read some more information about the country:",
             "data": [
                 "The Republic of Bulgaria is part of the Balkans, a region in south eastern europe. It has a 20 years long history for being one of the oldest European states.",
                 "The economy of the nation has shown an applaudable growth since the past two decades.",
@@ -310,10 +311,16 @@ export const mbbsinbulgaria = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bulgaria 2023 - Top Colleges in Bulagaria'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Bulgaria Fees Structure 2023",
-            "info": "<b>You can check out aggregate fee structure of popular universities in Bulgaria in the table given below:</b>",
+            "info": "You can check out aggregate fee structure of popular universities in Bulgaria in the table given below:",
             "col": [
                 "Name of the Universities",
                 "Tuition Fees/ Year",
@@ -351,7 +358,7 @@ export const mbbsinbulgaria = {
         {
             "type": "table",
             "title": "Ranking of Top Medical Colleges in Bulgaria",
-            "info": "<b>You can see the ranking of NMC approved medical colleges in Bulgaria:</b>",
+            "info": "You can see the ranking of NMC approved medical colleges in Bulgaria:",
             "col": [
                 "Name of University",
                 "Country Ranking",
@@ -404,10 +411,16 @@ export const mbbsinbulgaria = {
         }
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bulgaria 2023 - Syllabus'
+        },
+
         {
             "type": "list-bollet",
             "title": "Medical Courses Offered in Bulgaria",
-            "info": "<b>These are the courses on medicine available studies in Bulgaria:</b>",
+            "info": "These are the courses on medicine available studies in Bulgaria:",
             "data": [
                 "Anaesthesiology",
                 "Internal Medicine",
@@ -422,7 +435,7 @@ export const mbbsinbulgaria = {
         {
             "type": "table",
             "title": "A Detailed Course Syllabus of MBBS in Bulgaria",
-            "info": "<b>Here you can refer a syllabus of medicine in Bulgaria as per each semester:<br>1st Year</b>",
+            "info": "Here you can refer a syllabus of medicine in Bulgaria as per each semester:<br>1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester",
@@ -436,7 +449,7 @@ export const mbbsinbulgaria = {
         },
         {
             "type": "table",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester",
@@ -462,7 +475,7 @@ export const mbbsinbulgaria = {
         },
         {
             "type": "table",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester",
@@ -517,10 +530,16 @@ export const mbbsinbulgaria = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bulgaria 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Future Career Opportunity After MBBS in Bulgaria',
-            info: '<b>Have a look at the opportunities students get after graduation in Bulgaria:</b>',
+            info: 'Have a look at the opportunities students get after graduation in Bulgaria:',
             data: [
                 "Students get preparation for USMLE & other license exams.",
                 "Graduates in Bulgaria can practice anywhere in the world.",
@@ -547,10 +566,16 @@ export const mbbsinbulgaria = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Bulgaria 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Bulgaria: Important FAQs",
-            "info": "<b>The most frequently asked questions on popular education forum sites like Quora & Careers 360 are answered below:</b>",
+            "info": "The most frequently asked questions on popular education forum sites like Quora & Careers 360 are answered below:",
             "data": [
                 {
                     "ques": "Q. What is the duration for completing an MBBS course in Bulgaria?",

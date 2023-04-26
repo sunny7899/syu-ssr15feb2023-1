@@ -5,6 +5,7 @@ export const mbbsinromania = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 + 1 Year for internship",
     "url": "mbbs-in-romania",
     "info": [
         {
@@ -20,7 +21,7 @@ export const mbbsinromania = {
         {
             "type": "table-title",
             "title": "MBBS in Romania: Quick Overview 2022",
-            "info": "<b>Some of the prominent highlights of MBBS course in Romania are given below:</b>",
+            "info": "Some of the prominent highlights of MBBS course in Romania are given below:",
             "row": [
                 ["<b>Course Name</b>", "M.D (Doctor of Medicine)"],
                 ["<b>MBBS Duration</b>", "5 + 1 Year for internship"],
@@ -37,7 +38,7 @@ export const mbbsinromania = {
         {
             type: 'list-bollet',
             title: 'Advantages of Studying MBBS Course in Romania for Indian Students',
-            info: '<b>Mentioned below are the benefits that students avail while learning medicine at Romania:</b>',
+            info: 'Mentioned below are the benefits that students avail while learning medicine at Romania:',
             data: [
                 "Language barrier is not a matter of concern while studying MBBS in Romania as the course is conducted through English language.",
                 "Staff members employed in medical faculties of Romanian universities have decades of teaching experience and expertise in their field.",
@@ -54,7 +55,7 @@ export const mbbsinromania = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>Candidates must be compatible with the requirement set by the Medical universities in Romania:</b>',
+            info: 'Candidates must be compatible with the requirement set by the Medical universities in Romania:',
             data: [
                 "Students must have completed 17 years of age before 31st dec of admission year.",
                 "International students need to have a valid passport & student's VISA.",
@@ -66,7 +67,7 @@ export const mbbsinromania = {
         {
             "type": "step-list",
             "title": "Step-by-Step Admission Process of Medicine at Romania",
-            "info": "<b>Following is the general stages involved in the process of admission for medical course:</b>",
+            "info": "Following is the general stages involved in the process of admission for medical course:",
             "data": [
                 "<p><b>Step 1:</b> Fill up the admission form on the website of the university.",
                 "<p><b>Step 2:</b> Attach all the documents with application as per the instructions.",
@@ -78,7 +79,7 @@ export const mbbsinromania = {
         {
             type: 'list-bollet',
             title: 'List of All Important Documents Required for the Admission',
-            info: '<b>Refer the list of documents provided below to carry throughout the admission:</b>',
+            info: 'Refer the list of documents provided below to carry throughout the admission:',
             data: [
                 "Application form filled with accurate data",
                 "NEET score card with adequate percentile",
@@ -97,13 +98,13 @@ export const mbbsinromania = {
         {
             "type": "text",
             "title": "Medical Education System in Romania",
-            "info": "<b>See how the structure of medicine course in the universities of Romania works:</b>",
+            "info": "See how the structure of medicine course in the universities of Romania works:",
             "data": "<p><b>See how the structure of medicine course in the universities of Romania works:</b></p><p>Egalitarian system of education is followed in Romania that supports the idea of a national union of education in a singular system. Egalitarianism being associated with the Govt, free primary education and distribution of books are made possible.</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Formal education system is mixed with informal educational training to enhance the practical understanding of the students:</b>',
+            info: 'Formal education system is mixed with informal educational training to enhance the practical understanding of the students:',
             data: [
                 "MBBS course in Romania is divided into five years with an addition of an extra year for internship period.",
                 "A focus of training is bestowed upon developing individual and unique perspectives on different subjects through the implementations of dynamic tutoring methods.",
@@ -113,7 +114,7 @@ export const mbbsinromania = {
         {
             type: 'list-bollet',
             title: 'International Recognition of Romanian Universities',
-            info: '<b>See the names of medical committees who have recognized the medical degrees in Romania:</b>',
+            info: 'See the names of medical committees who have recognized the medical degrees in Romania:',
             data: [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
@@ -125,7 +126,7 @@ export const mbbsinromania = {
         {
             type: 'list-bollet',
             title: 'Benefits of Scholarship for Indian Students',
-            info: '<b>Students have advantages of scholarships for taking education in Romania:</b>',
+            info: 'Students have advantages of scholarships for taking education in Romania:',
             data: [
                 "Students have to fulfill certain criteria to avail the benefits of the scholarship.",
                 "The criteria mostly includes the academic track and performance in extra activities.",
@@ -135,13 +136,13 @@ export const mbbsinromania = {
         {
             "type": "text",
             "title": "Hostel and Accommodation Services Provided at Romania",
-            "info": "<b>Here are the details about the hostel services of the universities in Romania:</b>",
+            "info": "Here are the details about the hostel services of the universities in Romania:",
             "data": "<p><b>Here are the details about the hostel services of the universities in Romania:</b></p><p>Tuition fees do not include the cost of hostel fees. Students are required to pay the hostel fees separately which is quite affordable.</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Attributes of hostel services in Romania:</b>',
+            info: 'Attributes of hostel services in Romania:',
             data: [
                 "Separate hostel rooms for male and female.",
                 "Choices of single, double, & triple hostel.",
@@ -157,7 +158,7 @@ export const mbbsinromania = {
         {
             type: 'list-bollet',
             title: 'Required Documents for Student’s VISA of Romania',
-            info: '<b>The complete list of the documents involved in the admission process is here:</b>',
+            info: 'The complete list of the documents involved in the admission process is here:',
             data: [
                 "Passport with two blank pages (Original).",
                 "Two recent passport size colored photographs.",
@@ -172,7 +173,7 @@ export const mbbsinromania = {
         {
             "type": "table",
             "title": 'Safety Index of Romania',
-            "info": '<b>As per the ranking of world’s safest country determined by the gfmag, Romania stands at number 33 position in the list:</b>',
+            "info": 'As per the ranking of world’s safest country determined by the gfmag, Romania stands at number 33 position in the list:',
             "col": [
                 "Rank",
                 "Nation",
@@ -209,7 +210,7 @@ export const mbbsinromania = {
         {
             "type": "table",
             title: 'Cost of Living in Romania',
-            info: '<b>Full details about the living expenses in the Romania:</b>',
+            info: 'Full details about the living expenses in the Romania:',
             "col": [
                 "Particulars",
                 "Amount (USD)",
@@ -253,7 +254,7 @@ export const mbbsinromania = {
             type: 'list-bollet',
             title: 'Information About Romania',
             //img: 'about-romania.jpg',
-            info: '<b>See the important aspects about living in Romania:</b>',
+            info: 'See the important aspects about living in Romania:',
             data: [
                 "Romania is renowned as a peaceful country in the asian and american continental.",
                 "This European country has a profound quality of education and other cultural and social values.",
@@ -299,10 +300,16 @@ export const mbbsinromania = {
 
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Romania 2023 - Top Colleges in Romania'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Romanian Fees Structure 2022",
-            "info": "<b>A complete list of medical colleges in Romania along with their annual fee structure:</b>",
+            "info": "A complete list of medical colleges in Romania along with their annual fee structure:",
             "col": [
                 "Name of the Universities",
                 "Tuition Fees (USD)",
@@ -346,7 +353,7 @@ export const mbbsinromania = {
         {
             "type": "table",
             "title": "MBBS in Romanian Fees Structure 2022",
-            "info": "<b>A complete list of medical colleges in Romania along with their annual fee structure:</b>",
+            "info": "A complete list of medical colleges in Romania along with their annual fee structure:",
             "col": [
                 "Name of the Universities",
                 "Country Ranking",
@@ -409,10 +416,17 @@ export const mbbsinromania = {
 
     ],
     "syllabus": [
+
+
+        {
+            type: 'title',
+            title: 'MBBS in Romania 2023 - Syllabus'
+        },
+
         {
             type: 'list-bollet',
             title: 'Medical Courses Offered in Romania',
-            info: '<b>Following courses related to Medicine offered at the universities of Romania:</b>',
+            info: 'Following courses related to Medicine offered at the universities of Romania:',
             data: [
                 "General Medicine",
                 "Paediatrics",
@@ -426,7 +440,7 @@ export const mbbsinromania = {
         {
             type: 'list-bollet',
             title: 'Total Duration of MBBS Course in Romania',
-            info: '<b>The duration of Medicine in Romania is for 5 years:</b>',
+            info: 'The duration of Medicine in Romania is for 5 years:',
             data: [
                 "The course of MBBS in Romania is for <b>5 years</b> followed by an year of internship.",
                 "MBBS degrees acquired from the universities of Romania are valid in India.",
@@ -438,7 +452,7 @@ export const mbbsinromania = {
         {
             "type": "table-title",
             "title": "Syllabus for MBBS Course in the Romanian Universities",
-            "info": "<b>The subjects available for medical studies in each year is presented below:</b>",
+            "info": "The subjects available for medical studies in each year is presented below:",
             "colTitle": "Year - I",
             "row": [
                 ["Anatomy and Embryology", "Medical Sociology & Medical Psychology"],
@@ -547,10 +561,16 @@ export const mbbsinromania = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Romania 2023 - Career Options'
+        },
+
         {
             type: 'list-bollet',
             title: 'Career Scope After Completing MBBS Degree from Romania',
-            info: '<b>Students have bright future ahead once they graduate from the universities of Romania:</b>',
+            info: 'Students have bright future ahead once they graduate from the universities of Romania:',
             data: [
                 "Graduates have job opportunities in private or govt medical hospitals.",
                 "You can also return back to India to start their career as a doctor.",
@@ -578,10 +598,16 @@ export const mbbsinromania = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Romania 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Romania: Important FAQs",
-            "info": "<b>Following are the most frequently asked questions on Quora and Careers360 are answered below:</b>",
+            "info": "Following are the most frequently asked questions on Quora and Careers360 are answered below:",
             "data": [
                 {
                     "ques": "Q. What is the age requirement to take admission for an MBBS course in Romania?",

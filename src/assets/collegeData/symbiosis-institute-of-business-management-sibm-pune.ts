@@ -169,6 +169,10 @@ export const symbiosisinstituteofbusinessmanagementsibmpune = {
     ],
     "coursesandfees": [
         {
+            type: "title",
+            title: "Symbiosis Institute of Business Management - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Symbiosis Institute of Business Management - Fee Structure 2022",
             "info": "",
@@ -195,7 +199,7 @@ export const symbiosisinstituteofbusinessmanagementsibmpune = {
                 },
 
             ],
-            heading: '<p><b>Note:</b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b>Note:</b> 1$ = 70 Rs.</p>'
         },
         {
             "type": "list-bollet",
@@ -237,6 +241,10 @@ export const symbiosisinstituteofbusinessmanagementsibmpune = {
         }
     ],
     "admission": [
+        {
+            type: "title",
+            title: "Symbiosis Institute of Business Management - Admission 2023"
+        },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria for Studying MBA at SIBM",
@@ -311,35 +319,34 @@ export const symbiosisinstituteofbusinessmanagementsibmpune = {
             ]
         }
     ],
-    "Scholarship": [
+    "review": [
         {
-            "type": "list-bollet",
-            "title": "SIBM Pune Scholarships",
-            "info": "<b>The scholarships offered by the institute are:</b>",
-            "data": [
-                "Students whose total family income is not more than INR 2 lacs per year, will be qualified for Government of India – New scholarship scheme of Top Class Education for ST students.",
-                "For ST / SC / Physically Defied students doing Full Time MBA course with specialization in Finance /HR from SIBM “NTPC Scholarship Scheme” is applicable as a part of its Corporate Social Responsibility (CSR).",
-            ]
+            type: "title",
+            title: "Symbiosis Institute of Business Management - Reviews"
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Symbiosis Institute of Business Management - Scholarship" },
-                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
+                { name: "title", content: "Symbiosis Institute of Business Management - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
             type: "meta-title",
-            title: "Symbiosis Institute of Business Management - Scholarship"
+            title: "Symbiosis Institute of Business Management - Reviews"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-business-management-sibm-pune/scholarship" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-business-management-sibm-pune/reviews" }
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            type: "title",
+            title: "Symbiosis Institute of Business Management - Placement"
+        },
         {
             type: 'text',
             title: 'Job Opportunities after Completing MBA at SIBM (Placements)',
@@ -349,7 +356,7 @@ export const symbiosisinstituteofbusinessmanagementsibmpune = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Symbiosis Pune Placement Statistics :</b>",
+            "info": "Symbiosis Pune Placement Statistics :",
             "col": [],
             "row": [
                 ["<b>Average CTC (in lakhs)	</b>", "Rs.15.02 Lakhs"],
@@ -377,26 +384,11 @@ export const symbiosisinstituteofbusinessmanagementsibmpune = {
             ]
         }
     ],
-    "Reviews": [
+    "gallery": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Symbiosis Institute of Business Management - Reviews" },
-                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
-            ],
+            type: "title",
+            title: "Symbiosis Institute of Business Management - Gallery"
         },
-        {
-            type: "meta-title",
-            title: "Symbiosis Institute of Business Management - Reviews"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-business-management-sibm-pune/reviews" }
-            ]
-        }
-    ],
-    "Gallery": [
         {
             type: "meta",
             meta: [
@@ -415,45 +407,43 @@ export const symbiosisinstituteofbusinessmanagementsibmpune = {
             ]
         }
     ],
-    "News": [
+    "scholarship": [
+        {
+            type: "title",
+            title: "Symbiosis Institute of Business Management - Scholarship"
+        },
+        {
+            "type": "list-bollet",
+            "title": "SIBM Pune Scholarships",
+            "info": "The scholarships offered by the institute are:",
+            "data": [
+                "Students whose total family income is not more than INR 2 lacs per year, will be qualified for Government of India – New scholarship scheme of Top Class Education for ST students.",
+                "For ST / SC / Physically Defied students doing Full Time MBA course with specialization in Finance /HR from SIBM “NTPC Scholarship Scheme” is applicable as a part of its Corporate Social Responsibility (CSR).",
+            ]
+        },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Symbiosis Institute of Business Management - News & Articles" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+                { name: "title", content: "Symbiosis Institute of Business Management - Scholarship" },
+                { name: "description", content: "college has some excellent Scholarships Opportunities to the desreving students, . Check scholarship and bursary" },
             ],
         },
         {
             type: "meta-title",
-            title: "Symbiosis Institute of Business Management - News & Articles"
+            title: "Symbiosis Institute of Business Management - Scholarship"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-business-management-sibm-pune/news-and-articles" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-business-management-sibm-pune/scholarship" }
             ]
         }
     ],
-    "Hostel": [
+    "faculty": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Symbiosis Institute of Business Management - Hostel" },
-                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
-            ],
+            type: "title",
+            title: "Symbiosis Institute of Business Management - Faculty"
         },
-        {
-            type: "meta-title",
-            title: "Symbiosis Institute of Business Management - Hostel"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-business-management-sibm-pune/hostel" }
-            ]
-        }
-    ],
-    "Faculty": [
         {
             "type": "table",
             "title": "Faculty",
@@ -499,7 +489,57 @@ export const symbiosisinstituteofbusinessmanagementsibmpune = {
             ]
         }
     ],
+    "news": [
+        {
+            type: "title",
+            title: "Symbiosis Institute of Business Management - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Symbiosis Institute of Business Management - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Symbiosis Institute of Business Management - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-business-management-sibm-pune/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: "title",
+            title: "Symbiosis Institute of Business Management - Hostel"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Symbiosis Institute of Business Management - Hostel" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Symbiosis Institute of Business Management - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/symbiosis-institute-of-business-management-sibm-pune/hostel" }
+            ]
+        }
+    ],
     "faq": [
+        {
+            type: "title",
+            title: "Symbiosis Institute of Business Management - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

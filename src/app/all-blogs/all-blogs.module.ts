@@ -8,7 +8,7 @@ import { ChatModule } from '../chat/chat.module';
 import { HeaderInnerModule } from '../header-inner/header-inner.module';
 import { AllBlogsComponent } from './all-blogs.component';
 import { OwlModule } from 'ngx-owl-carousel';
-
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [AllBlogsComponent],
@@ -19,7 +19,8 @@ import { OwlModule } from 'ngx-owl-carousel';
     ChatModule,
     AccordionModule,
     HeaderInnerModule,
-    OwlModule
+    OwlModule,
+    FormsModule, ReactiveFormsModule
   ]
 })
 export class AllBlogsModule { }

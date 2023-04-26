@@ -22,7 +22,7 @@ export const henleybusinessschool = {
         {
             "type": "table-title",
             "title": "Henley Business School - Quick Overview",
-            "info": "<b>If you are applying here, then this is some useful information that helps you to do proper research about Henley Business School:</b>",
+            "info": "If you are applying here, then this is some useful information that helps you to do proper research about Henley Business School:",
             "col": [
             ],
             "row": [
@@ -42,7 +42,7 @@ export const henleybusinessschool = {
         {
             "type": "list-bollet",
             "title": "Why Study at Henley Business School?",
-            "info": "<b>There are numerous reasons why you should study at Henley Business School to get a quality education in UK:</b>",
+            "info": "There are numerous reasons why you should study at Henley Business School to get a quality education in UK:",
             "data": [
                 "Henley Business School has globally recognised business courses for the students.",
                 "The School is part of a global network across 14 countries with our main campuses situated in Reading and Henley-on-Thames.",
@@ -58,7 +58,7 @@ export const henleybusinessschool = {
         {
             "type": "table",
             "title": "Henley Business School Ranking 2022",
-            "info": "<b>The candidates must go through the rankings of the Henley Business School:</b>",
+            "info": "The candidates must go through the rankings of the Henley Business School:",
             "col": [
                 "Country Rank",
                 "World Rank",
@@ -74,7 +74,7 @@ export const henleybusinessschool = {
         {
             "type": "list-bollet",
             "title": "Facilities provided",
-            "info": "<b>Henley Business School has a huge campus including all modern facilities offered to the students:</b>",
+            "info": "Henley Business School has a huge campus including all modern facilities offered to the students:",
             "data": [
                 "Classrooms",
                 "Security",
@@ -87,7 +87,7 @@ export const henleybusinessschool = {
         {
             "type": "list-bollet",
             "title": "Accreditation",
-            "info": "<b>The university is accredited by many organisations, Here is the list of all accreditations:</b>",
+            "info": "The university is accredited by many organisations, Here is the list of all accreditations:",
             "data": [
                 "Association of MBAs (AMBA)",
                 "Association to Advance Collegiate Schools of Business (AACSB)",
@@ -99,7 +99,7 @@ export const henleybusinessschool = {
         {
             "type": "table",
             "title": "Living Cost in Greenland",
-            "info": "<b>The students must know the Greenland living cost for doing education in the UK:</b>",
+            "info": "The students must know the Greenland living cost for doing education in the UK:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -139,6 +139,11 @@ export const henleybusinessschool = {
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: "Henley Business School, UK - courses & Fees"
+
+        },
         {
             "type": "table",
             "title": "Henley Business School - Fee Structure & Course Duration",
@@ -353,9 +358,14 @@ export const henleybusinessschool = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Henley Business School, UK - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Entry Requirements",
-            "info": "<b>All students must complete the admission eligibility criteria for studying all courses:</b>",
+            "info": "All students must complete the admission eligibility criteria for studying all courses:",
             "data": [
                 "Valid Passport",
                 "Higher Secondary Education",
@@ -366,7 +376,7 @@ export const henleybusinessschool = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>The admission process is quite simple to take admission in Henley Business School, Let’s move step by step:</b>",
+            "info": "The admission process is quite simple to take admission in Henley Business School, Let’s move step by step:",
             "data": [
                 "<b>Step 1:</b> 2 different application processes - apply online and apply by post, and the students can apply for up to 5 programmes.",
                 "<b>Step 2:</b> Apply through the University of Reading’s online application service",
@@ -382,7 +392,7 @@ export const henleybusinessschool = {
         {
             "type": "list-bollet",
             "title": "Important Documents",
-            "info": "<b>The students need to submit the required documents to initiate the MBA admission process immediately:</b>",
+            "info": "The students need to submit the required documents to initiate the MBA admission process immediately:",
             "data": [
                 "Application form",
                 "10 th mark sheet",
@@ -424,6 +434,11 @@ export const henleybusinessschool = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Henley Business School, UK - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Henley Business School, UK - Reviews" },
@@ -442,6 +457,11 @@ export const henleybusinessschool = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Henley Business School, UK - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "Placement",
@@ -506,6 +526,11 @@ export const henleybusinessschool = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Henley Business School, UK - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Henley Business School, UK - Gallery" },
@@ -525,9 +550,14 @@ export const henleybusinessschool = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Henley Business School, UK - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>A wide spectrum of scholarships are available for the students while studying:</b>",
+            "info": "A wide spectrum of scholarships are available for the students while studying:",
             "textBelowInfo": "Masters in Management Scholarships",
             "data": [
                 "£2,000 to £8,000.",
@@ -606,6 +636,11 @@ export const henleybusinessschool = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Henley Business School, UK - Faculty"
+
+        },
+        {
             "type": "table",
             "title": "Faculty",
             "info": "",
@@ -660,6 +695,11 @@ export const henleybusinessschool = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Henley Business School, UK - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Henley Business School, UK - News & Articles" },
@@ -679,9 +719,14 @@ export const henleybusinessschool = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Henley Business School, UK - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation",
-            "info": "<b>Enjoy a spacious home away from home on both of the campuses at Henley Business School:</b>",
+            "info": "Enjoy a spacious home away from home on both of the campuses at Henley Business School:",
             "textBelowInfo": "Whiteknights Campus Accommodation",
             "data": [
                 "The University of Reading provides residential facilities for students coming to study, the majority of undergraduates and postgraduates live courses and they can stay in halls of residence.",
@@ -721,6 +766,11 @@ export const henleybusinessschool = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: "Henley Business School, UK - FAQ"
+
+        },
         {
             "type": "question-list",
             "title": "London School of Economics & Political Science: Important FAQs",
@@ -765,9 +815,4 @@ export const henleybusinessschool = {
             ]
         }
     ]
-
-
-
-
-
 }

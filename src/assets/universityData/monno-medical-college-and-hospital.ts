@@ -19,7 +19,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "table-title",
       "title": "Monno Medical College & Hospital - Quick Overview 2022",
-      "info": "<b>The students willing to pursue MBBS must go through some important points of Monno Medical College:</b>",
+      "info": "The students willing to pursue MBBS must go through some important points of Monno Medical College:",
       "col": [],
       "row": [
         ["<b>NEET Exam</b>", "Yes, required"],
@@ -33,7 +33,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": 'list-bollet',
       "title": 'Why Study MBBS at Monno Medical College & Hospital?',
-      "info": '<b>Every year lots of students register for the MBBS program, There are many beneficial reasons to choose Monno Medical College as the destination to study medicine:</b>',
+      "info": 'Every year lots of students register for the MBBS program, There are many beneficial reasons to choose Monno Medical College as the destination to study medicine:',
       "data": [
         "MMC provides quality education and research at world standards during medical education.",
         "Monno Medical College & Hospital will give the entire medical education at a low-cost.",
@@ -50,13 +50,13 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "text",
       "title": "Medium of Teaching",
-      "info": "",
-      "data": "<p><b>Monno Medical College offers English teaching for medicine program education:</b></p><p>The students striving to pursue MBBS to build a bright career at Monno Medical College will acquire medical course knowledge in 100% English language.</p>"
+      "info": "Monno Medical College offers English teaching for medicine program education:",
+      "data": "<p>The students striving to pursue MBBS to build a bright career at Monno Medical College will acquire medical course knowledge in 100% English language.</p>"
     },
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>Take a deep dive into the important dates regarding admissions in the MBBS course:</b>",
+      "info": "Take a deep dive into the important dates regarding admissions in the MBBS course:",
       "col": [
         "Events",
         "Dates",
@@ -83,7 +83,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": 'list-bollet',
       "title": 'Facilities offered at Monno Medical College & Hospital',
-      "info": '<b>Monno Medical College is always in the spur of developing academic facilities to make the students choose this place to pursue medicine:</b>',
+      "info": 'Monno Medical College is always in the spur of developing academic facilities to make the students choose this place to pursue medicine:',
       "data": [
         "Library",
         "hostel",
@@ -97,7 +97,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "table",
       "title": "Monno Medical College - FMGE Performance 2021",
-      "info": "<b>The details about FMGE performance for Monno Medical College of year 2021 with passing percent is as follows:</b>",
+      "info": "The details about FMGE performance for Monno Medical College of year 2021 with passing percent is as follows:",
       "col": [
         "Name of University",
         "Appeared ",
@@ -116,7 +116,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": 'list-bollet',
       "title": 'Accreditation, Affiliation & Recognition',
-      "info": '<b>Monno Medical College is officially recognized by several medical bodies given below:</b>',
+      "info": 'Monno Medical College is officially recognized by several medical bodies given below:',
       "data": [
         "Bangladesh Medical and Dental Council (BMDC)",
         "The University of Dhaka",
@@ -127,7 +127,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "table",
       "title": "Living Expense of Dhaka, Bangladesh",
-      "info": "<b>Dhaka is quite affordable for students who study MBBS in Monno Medical College, check out the monthly based expenses mentioned in the table below:</b>",
+      "info": "Dhaka is quite affordable for students who study MBBS in Monno Medical College, check out the monthly based expenses mentioned in the table below:",
       "col": [
         "Particulars",
         "Amount in USD",
@@ -167,10 +167,15 @@ export const monnomedicalcollegeandhospital = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Monno Medical College & Hospital, Bangladesh - courses & Fees"
+
+    },
+    {
       "type": "table",
       "title": "Monno Medical College - MBBS Fee Structure 2022",
-      "info": "<b>Monno Medical College offers a very low fee structure, affordable for international students willing to pursue MBBS career:</b>",
-      "data": "<p><b>1 International Students</b></p>",
+      "info": "Monno Medical College offers a very low fee structure, affordable for international students willing to pursue MBBS career:",
+      "data": "1 International Students",
       "col": [
         "Students",
         "Fee in USD",
@@ -193,7 +198,7 @@ export const monnomedicalcollegeandhospital = {
       "type": "table",
       "title": "",
       "info": "",
-      "data": "<p><b>2 Local Students</b></p>",
+      "data": "2 Local Students",
       "col": [
         "Particular",
         "Fee in Taka",
@@ -219,7 +224,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "table-title",
       "title": "Courses Offered at Monno Medical College",
-      "info": "<b>The Monno Medical College provides varieties of the medical faculties mentioned below:</b>",
+      "info": "The Monno Medical College provides varieties of the medical faculties mentioned below:",
       "col": [],
       "row": [
         ["Internal Medicine", "Surgery", "Gynecology and Obstetrics"],
@@ -232,7 +237,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "Monno Medical College - MBBS Duration",
-      "info": "<b>The college offers 5 years of medicine course with compulsory one-year internship training:</b>",
+      "info": "The college offers 5 years of medicine course with compulsory one-year internship training:",
       "data": [
         "Monno Medical College will offer 5 years of MBBS degree to the students striving to study medical education.",
         "The student will gain not only theoretical but also practical knowledge from highly qualified and renowned professors.",
@@ -243,7 +248,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "table",
       "title": "Monno Medical College - MBBS Syllabus",
-      "info": "<b>Monno Medical College is implementing a well-designed curriculum for the MBBS course:</b>",
+      "info": "Monno Medical College is implementing a well-designed curriculum for the MBBS course:",
       "col": [
         "Duration",
         "Subjects",
@@ -296,9 +301,14 @@ export const monnomedicalcollegeandhospital = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Monno Medical College & Hospital, Bangladesh - Admission 2023 "
+
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The students must fit into the eligibility criteria for MBBS admission at Monno Medical College:</b>",
+      "info": "The students must fit into the eligibility criteria for MBBS admission at Monno Medical College:",
       "data": [
         "The candidates must pass secondary school certificate (SSC) and higher secondary school certificate (HSC) with Physics, Chemistry, and Biology from any recognized Board/University of Bangladesh with a grade of 8.",
         "The candidate willing to pursue a medicine course must complete the age of 17 years old as of 31st December of the admission year.",
@@ -309,7 +319,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Ineligibility for Admission -</b>",
+      "info": "Ineligibility for Admission -",
       "data": [
         "If the students willing to take admission in MBBS are declared unfit by the Medical Board.",
         "If the candidates are having a previous history of unethical, immoral, or any activity subversive of the state of discipline. convicted by any court of law."
@@ -318,7 +328,7 @@ export const monnomedicalcollegeandhospital = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>The students who seek to get MBBS at Monno Medical College must follow the mentioned below steps: </b>',
+      info: 'The students seek to get MBBS at Monno Medical College must follow the mentioned below steps: </b>',
       data: [
         "Step 1: The application form must be filled by the candidates with the relevant documents.",
         "Step 2: The candidates must send scanned copies of the higher secondary education certificates and other documents.",
@@ -331,7 +341,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The students should carry essential documents for the MBBS course at Monno Medical College:</b>",
+      "info": "The students should carry essential documents for the MBBS course at Monno Medical College:",
       "data": [
         " SSC & HSC/ equivalent exam certificates",
         " Passport size photographs",
@@ -373,6 +383,11 @@ export const monnomedicalcollegeandhospital = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Monno Medical College & Hospital, Bangladesh - Reviews"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Monno Medical College & Hospital, Bangladesh - Reviews" },
@@ -391,6 +406,11 @@ export const monnomedicalcollegeandhospital = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Monno Medical College & Hospital, Bangladesh - Placement"
+
+    },
     {
       type: "meta",
       meta: [
@@ -411,6 +431,11 @@ export const monnomedicalcollegeandhospital = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Monno Medical College & Hospital, Bangladesh - Gallery"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Monno Medical College & Hospital, Bangladesh - Gallery" },
@@ -429,6 +454,11 @@ export const monnomedicalcollegeandhospital = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Monno Medical College & Hospital, Bangladesh - Scholarship"
+
+    },
     {
       type: "meta",
       meta: [
@@ -449,6 +479,11 @@ export const monnomedicalcollegeandhospital = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Monno Medical College & Hospital, Bangladesh - Faculty"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Monno Medical College & Hospital, Bangladesh - Faculty" },
@@ -467,6 +502,11 @@ export const monnomedicalcollegeandhospital = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Monno Medical College & Hospital, Bangladesh - News & Articles"
+
+    },
     {
       type: "meta",
       meta: [
@@ -487,9 +527,14 @@ export const monnomedicalcollegeandhospital = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Monno Medical College & Hospital, Bangladesh - Hostel"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>Monno Medical College provides adequate hostel facilities for all the students:</b>",
+      "info": "Monno Medical College provides adequate hostel facilities for all the students:",
       "data": [
         "Monno Medical College offers spacious and safe dormitories at the university campus.",
         "Monno Medical College has 10 storied buildings along with 3 lifts having a total floor space of 1, 22,000 sq ft."
@@ -498,7 +543,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "table-title",
       "title": "",
-      "info": "<b>The accommodation place comprises of -</b>",
+      "info": "The accommodation place comprises of -",
       "col": [],
       "row": [
         ["2 separate four-storied teacher’s quarter", "4 storied Professor’s quarter"],
@@ -522,7 +567,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The hostel premises comprises of modern amenities -</b>",
+      "info": "The hostel premises comprises of modern amenities -",
       "data": [
         "Bed",
         "Blanket",
@@ -548,7 +593,7 @@ export const monnomedicalcollegeandhospital = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>The hostel system fulfills all basic requirements at the comfort zone of students -</b>",
+      "info": "The hostel system fulfills all basic requirements at the comfort zone of students -",
       "data": [
         "AC",
         "TV",
@@ -577,9 +622,14 @@ export const monnomedicalcollegeandhospital = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Monno Medical College & Hospital, Bangladesh - FAQ"
+
+      },
+      {
         "type": "question-list",
         "title": "Monno Medical College - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. Is there any language barrier at Monno Medical College?",

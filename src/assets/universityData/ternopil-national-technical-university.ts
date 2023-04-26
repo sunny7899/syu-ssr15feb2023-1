@@ -19,7 +19,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Ternopil National Technical University: Quick Overview",
-            "info": "<b>The applicants must go through the major highlights of the Ternopil State Technical University:</b>",
+            "info": "The applicants must go through the major highlights of the Ternopil State Technical University:",
             "col": [],
             "row": [
                 ["<b>Acronym</b>", "TNTU"],
@@ -32,7 +32,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study at Ternopil National Technical University?",
-            "info": "<b>Candidates willing to study at Ternopil National Technical University must check out the various benefits:</b>",
+            "info": "Candidates willing to study at Ternopil National Technical University must check out the various benefits:",
             "data": [
                 "The Ternopil National Technical University has highly skilled and ethical professionals professors providing top-quality knowledge.",
                 "TNTU implements modern higher school development tendencies in its activities to the fullest extent for the students.",
@@ -50,7 +50,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "table",
             "title": "Ternopil National Technical University: Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Ternopil National Technical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Ternopil National Technical University:",
             "col": [
                 "Country",
                 "World"
@@ -70,7 +70,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Ternopil National Technical University: Intake 2022",
-            "info": "<b>The students willing to study Engineering at Ternopil State Technical University should check out the important admission dates:</b>",
+            "info": "The students willing to study Engineering at Ternopil State Technical University should check out the important admission dates:",
             "col": [
                 "Events",
                 "Dates"
@@ -97,7 +97,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Ternopil National Technical University",
-            "info": "<b>The institute is taking every effort to fulfill the basic requirements of the students by providing them with modern facilities at their convenient zone:</b>",
+            "info": "The institute is taking every effort to fulfill the basic requirements of the students by providing them with modern facilities at their convenient zone:",
             "data": [
                 "Ternopil State Technical University provides air-conditioned and large classrooms with good seating capacity and modern teaching technologies.",
                 "The Ternopil State Technical University has huge cafeteria space providing the students with high quality of delicious and nutritious food at convenient rates.",
@@ -142,7 +142,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "table",
             "title": "Living Expense of Ternopil, Ukraine",
-            "info": "<b>Ternopil is a city of Ukraine having a low Living cost, Go through the table to know the monthly expenses of an Individual:</b>",
+            "info": "Ternopil is a city of Ukraine having a low Living cost, Go through the table to know the monthly expenses of an Individual:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -182,9 +182,13 @@ export const ternopilnationaltechnicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Ternopil National Technical University: Fee Structure",
-            "info": "<b>According to the students’ affordability, the fee structure of Ternopil State Technical University is quite reasonable:</b>",
+            "info": "According to the students’ affordability, the fee structure of Ternopil State Technical University is quite reasonable:",
             "col": [
                 "Branch",
                 "Amount in UAH",
@@ -249,8 +253,8 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Departments at TNTU",
-            "info": "<p><b>Ternopil National Technical University has different departments mentioned below:</b></p>",
-            "textBelowInfo": "<b>1 Mechanical Engineering, Structures and Technologies (FMT)</b>",
+            "info": "<p>Ternopil National Technical University has different departments mentioned below:</p>",
+            "textBelowInfo": "1 Mechanical Engineering, Structures and Technologies (FMT)",
             "data": [
                 "Department of Automobiles (AM)",
                 "Department of Structural Mechanics (BM)",
@@ -266,7 +270,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>2 Information Technologies and Electrical Engineering (FFT)</b>",
+            "info": "2 Information Technologies and Electrical Engineering (FFT)",
             "data": [
                 "Department of Automation of Technological Processes and Productions (AB)",
                 "Department of Biotechnical Systems (BT)",
@@ -281,7 +285,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>3 Computer Information Systems and Software Engineering (FIS)</b>",
+            "info": "3 Computer Information Systems and Software Engineering (FIS)",
             "data": [
                 "Department of Informatics and Mathematical Modeling (MM)",
                 "Department of Cyber ​​Security (KB)",
@@ -297,7 +301,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Ternopil National Technical University: Course Duration",
-            "info": "<b>Ternopil National Technical University offers 3 years of Engineering program:</b>",
+            "info": "Ternopil National Technical University offers 3 years of Engineering program:",
             "data": [
                 "Engineering studies in the Ternopil National Technical University last for 3 years in the English medium of instruction. The students will acquire theoretical as well as the practical aspect of knowledge during the Engineering course."
             ]
@@ -322,9 +326,13 @@ export const ternopilnationaltechnicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students will be eligible for Engineering admission if they are fulfilling the basic criteria:</b>",
+            "info": "The students will be eligible for Engineering admission if they are fulfilling the basic criteria:",
             "data": [
                 "The students must have a minimum age of 17 years or before 31st December of the admission year.",
                 "The candidates applying for the program must clear the higher secondary education with 50% of marks in PCB Subjects.",
@@ -334,7 +342,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Follow the detailed admission process mentioned below to enroll at Ternopil National Technical University:</b>",
+            "info": "Follow the detailed admission process mentioned below to enroll at Ternopil National Technical University:",
             "data": [
                 "<b>Step 1:</b> The candidates should fill the online application form with the correct information available on the official website.",
                 "<b>Step 2:</b> The students should upload scanned copies of essential documents.",
@@ -347,7 +355,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Important documents to present in person by the students to the selection committee at the time of the Engineering admission process at Ternopil National Technical University:</b>",
+            "info": "Important documents to present in person by the students to the selection committee at the time of the Engineering admission process at Ternopil National Technical University:",
             "data": [
                 "Application form",
                 "Birth certificate",
@@ -373,7 +381,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "table",
             "title": "Ternopil National Technical University: Intake 2022",
-            "info": "<b>The students willing to study Engineering at Ternopil State Technical University should check out the important admission dates:</b>",
+            "info": "The students willing to study Engineering at Ternopil State Technical University should check out the important admission dates:",
             "col": [
                 "Events",
                 "Dates",
@@ -418,6 +426,10 @@ export const ternopilnationaltechnicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ternopil National Technical University, Ukraine - Reviews" },
@@ -436,6 +448,10 @@ export const ternopilnationaltechnicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -456,6 +472,10 @@ export const ternopilnationaltechnicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ternopil National Technical University, Ukraine - Gallery" },
@@ -474,6 +494,10 @@ export const ternopilnationaltechnicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -494,6 +518,10 @@ export const ternopilnationaltechnicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Ternopil National Technical University, Ukraine - Faculty" },
@@ -512,6 +540,10 @@ export const ternopilnationaltechnicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -532,9 +564,13 @@ export const ternopilnationaltechnicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Ternopil State Technical University offers very comfortable student hostels at very nominal prices for comfortable living:</b>",
+            "info": "Ternopil State Technical University offers very comfortable student hostels at very nominal prices for comfortable living:",
             "data": [
                 "Ternopil National Technical University provides a comfortable space for better living in hostels situated near educational buildings.",
                 "The worldwide students are accommodated in modern hostels with all necessary facilities.",
@@ -545,7 +581,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Modern amenities are provided by the university's hostel system -</b>",
+            "info": "Modern amenities are provided by the university's hostel system -",
             "data": [
                 "Beds",
                 "Blankets",
@@ -576,7 +612,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Near the hostel’s premises, the students will find everything to make leisure and studies interesting -</b>",
+            "info": "Near the hostel’s premises, the students will find everything to make leisure and studies interesting -",
             "data": [
                 "Sports clubs",
                 "Cafes",
@@ -589,7 +625,7 @@ export const ternopilnationaltechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The worldwide students are accommodated in modern hostels with all essential facilities -</b>",
+            "info": "The worldwide students are accommodated in modern hostels with all essential facilities -",
             "data": [
 
             ]
@@ -626,9 +662,13 @@ export const ternopilnationaltechnicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Ternopil National Technical University, Ukraine - FAQ'
+        },
+        {
             type: 'question-list',
             title: 'Ternopil State Technical University - Important FAQs',
-            info: '<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>',
+            info: 'Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:',
             data: [
                 {
                     "ques": "Q. Is the Ternopil National Technical University a worthy place to pursue Engineering education?",

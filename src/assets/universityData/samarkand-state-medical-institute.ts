@@ -19,7 +19,7 @@ export const samarkandstatemedicalinstitute = {
         {
             "type": "table",
             "title": "Samarkand State Medical Institute - Quick Highlights 2022",
-            "info": "<b>Go through the major highlights of Samarkand State Medical Institute for doing medical education:</b>",
+            "info": "Go through the major highlights of Samarkand State Medical Institute for doing medical education:",
             "col": [],
             "row": [
                 ["<b>MBBS Intake</b>", "September"],
@@ -34,7 +34,7 @@ export const samarkandstatemedicalinstitute = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Samarkand State Medical Institute?",
-            "info": "<b>Checkout some favourable reasons why global medical aspirants urge to select Samarkand State Medical Institute for MBBS:</b>",
+            "info": "Checkout some favourable reasons why global medical aspirants urge to select Samarkand State Medical Institute for MBBS:",
             "data": [
                 "Samarkand State Medical Institute has well-equipped clinical laboratories.",
                 "The university provides multimedia lecture halls and classrooms for medical aspirants.",
@@ -53,7 +53,7 @@ export const samarkandstatemedicalinstitute = {
         {
             "type": "table",
             "title": "Samarkand State Medical Institute - Ranking 2022",
-            "info": "<b>According to Uni Rank following given below is the ranking of Samarkand State Medical Institute:</b>",
+            "info": "According to Uni Rank following given below is the ranking of Samarkand State Medical Institute:",
             "col": [
                 "Country",
                 "World"
@@ -68,7 +68,7 @@ export const samarkandstatemedicalinstitute = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Samarkand State Medical Institute is officially accredited or recognized by several medical bodies mentioned below:</b>",
+            "info": "Samarkand State Medical Institute is officially accredited or recognized by several medical bodies mentioned below:",
             "data": [
                 "Ministry of higher and secondary specialized Education, Uzbekistan",
                 "National Medical Commission (NMC)",
@@ -78,7 +78,7 @@ export const samarkandstatemedicalinstitute = {
         {
             "type": "table",
             "title": "Living Cost of Samarkand",
-            "info": "<b>The institute is located in Samarkand city, has cheaper expenses varying as per individual's basic requirements, check out the table given below on monthly basis expenses:</b>",
+            "info": "The institute is located in Samarkand city, has cheaper expenses varying as per individual's basic requirements, check out the table given below on monthly basis expenses:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -101,12 +101,12 @@ export const samarkandstatemedicalinstitute = {
                     "Approx Range in RS": "378 Rs"
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1$ = 70 Rs.</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1$ = 70 Rs.</p>'
         },
         {
             "type": "list-bollet",
             "title": "About City",
-            "info": "<b>Here is the information regarding Samarkand city:</b>",
+            "info": "Here is the information regarding Samarkand city:",
             "data": [
                 "Samarkand city is located in the south-eastern part of Uzbekistan.",
                 "It's oldest inhabited cities in central Asia and situated in the valley of river Zarafshan in the centre of the country.",
@@ -117,7 +117,7 @@ export const samarkandstatemedicalinstitute = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>Topmost explorable places in Samarkand city are mentioned below:</b>",
+            "info": "Topmost explorable places in Samarkand city are mentioned below:",
             "col": [],
             "row": [
                 ["Registan", "Gur-e-Amir", "Bibi-Khanym Mosque"],
@@ -146,9 +146,13 @@ export const samarkandstatemedicalinstitute = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Samarkand State Medical Institute - MBBS Fee Structure 2022",
-            "info": "<b>The affordable fee structure of Samarkand State Medical Institute is mentioned below in the table:</b>",
+            "info": "The affordable fee structure of Samarkand State Medical Institute is mentioned below in the table:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -196,12 +200,12 @@ export const samarkandstatemedicalinstitute = {
                     "Year 6": "Rs. 2,98,200"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1 USD = Rs. 71 (It may Vary)</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1 USD = Rs. 71 (It may Vary)</p>'
         },
         {
             type: 'list-bollet',
             title: "Courses Offered at Samarkand State Medical Institute",
-            info: "<b>Samarkand State Medical Institute offers the following faculties mentioned below:</b>",
+            info: "Samarkand State Medical Institute offers the following faculties mentioned below:",
             data: [
                 "Dentistry",
                 "Medicine",
@@ -214,7 +218,7 @@ export const samarkandstatemedicalinstitute = {
         {
             type: 'list-bollet',
             title: "Samarkand State Medical Institute - MBBS Course Duration",
-            info: "<b>Mentioned below is the MBBS duration offered by Samarkand State Medical Institute:</b>",
+            info: "Mentioned below is the MBBS duration offered by Samarkand State Medical Institute:",
             data: [
                 "Samarkand State Medical Institute provides 5 years of the medical program.",
                 "In the first 5 years, the medical aspirants will acquire basic knowledge of medicine by highly educated professors and teachers in English medium of instruction.",
@@ -224,7 +228,7 @@ export const samarkandstatemedicalinstitute = {
         {
             "type": "table",
             "title": "Samarkand State Medical Institute - MBBS Syllabus",
-            "info": "<b>The syllabus of MBBS course at Samarkand State Medical Institute is given below in the table:</b>",
+            "info": "The syllabus of MBBS course at Samarkand State Medical Institute is given below in the table:",
             "col": [
                 "First Year",
                 "Second Year"
@@ -374,9 +378,13 @@ export const samarkandstatemedicalinstitute = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students must fit in eligibility criteria to get admission in Samarkand State Medical Institute:</b>",
+            "info": "The students must fit in eligibility criteria to get admission in Samarkand State Medical Institute:",
             "data": [
                 "The student must complete the age of 17 years at least or before the 31st December of the admission year for MBBS.",
                 "The student must clear 10+12 with physics, chemistry, biology and English subjects.",
@@ -389,7 +397,7 @@ export const samarkandstatemedicalinstitute = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Here are the steps to take MBBS admission in Samarkand State Medical Institute:</b>',
+            info: 'Here are the steps to take MBBS admission in Samarkand State Medical Institute:',
             data: [
                 "Step 1: First, the candidates need to fill the online application form available on the official website with correct details before the deadline dates hit.",
                 "Step 2: The candidate should upload all scanned copies of education documents.",
@@ -403,7 +411,7 @@ export const samarkandstatemedicalinstitute = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Medical aspirants must submit essential documents required during MBBS admission:</b>",
+            "info": "Medical aspirants must submit essential documents required during MBBS admission:",
             "data": [
                 "Application forms must be submitted to the university office.",
                 "Academic mark sheet (original and copy).",
@@ -436,6 +444,10 @@ export const samarkandstatemedicalinstitute = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Samarkand State Medical Institute - Reviews" },
@@ -454,6 +466,10 @@ export const samarkandstatemedicalinstitute = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -474,6 +490,10 @@ export const samarkandstatemedicalinstitute = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Samarkand State Medical Institute - Gallery" },
@@ -489,9 +509,13 @@ export const samarkandstatemedicalinstitute = {
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/samarkand-state-medical-institute/gallery" }
             ]
-        }   
+        }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -512,6 +536,10 @@ export const samarkandstatemedicalinstitute = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Samarkand State Medical Institute - Faculty" },
@@ -530,6 +558,10 @@ export const samarkandstatemedicalinstitute = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -550,9 +582,13 @@ export const samarkandstatemedicalinstitute = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The Samarkand State Medical Institute provides spacious and safe dormitories to Worldwide students:</b>",
+            "info": "The Samarkand State Medical Institute provides spacious and safe dormitories to Worldwide students:",
             "data": [
                 "The Institute offers hostel rooms which are fully furnished, safe and comfortable.",
                 "Hostel provides all basic facilities including the hot and cold water and centralised heating system.",
@@ -584,12 +620,15 @@ export const samarkandstatemedicalinstitute = {
             ]
         }
     ],
-    "faq":
-    [
+    "faq": [
+        {
+            type: 'title',
+            title: 'Samarkand State Medical Institute - FAQ'
+        },
         {
             "type": "question-list",
             "title": "Samarkand State Medical Institute - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Is there any other expenses than medicine fee while doing MBBS in Samarkand State Medical Institute?",

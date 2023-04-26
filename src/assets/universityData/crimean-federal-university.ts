@@ -19,8 +19,8 @@ export const crimeanfederaluniversity = {
 
         {
             "type": "table-title",
-            "title": "Crimea Federal University - Quick Highlights 2022",
-            "info": "<b>If you are looking to study MBBS in Russia, then have a quick overview on some important points of Crimean Federal University:</b>",
+            "title": "Crimea Federal University - Quick Highlights 202",
+            "info": "If you are looking to study MBBS in Russia, then have a quick overview on some important points of Crimean Federal University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Type of University</b>", "Government"],
@@ -31,7 +31,7 @@ export const crimeanfederaluniversity = {
                 ["<b>Processing Time for MBBS Admission</b>", "25-30 working days"],
                 ["<b>Duration of MBBS Course</b>", "6 years (including Internship)"],
                 ["<b>Medium of Teaching</b>", "English language"],
-                ["<b>University Ranking</b>", "Country Rank - 18<br>World Rank - 3748"],
+                ["<b>University Ranking</b>", "Country Rank - 17<br>World Rank - 3933"],
                 ["<b>International Students</b>", "3000+"],
                 ["<b>Accreditation</b>", "Russian Government & Ministry of Health and Education, NMC, MSHE, WDOMS, ECFMG"]
             ]
@@ -39,7 +39,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Why Study MBBS at Crimean Federal University?',
-            "info": '<b>Following are the reasons that will make you realize how your decision of studying at Crimea Federal University is correct:</b>',
+            "info": 'Following are the reasons that will make you realize how your decision of studying at Crimea Federal University is correct:',
             "data": [
                 "The University has well-organized student exchange programs and has a partnership with reputed clinical universities in Europe and different parts of the world.",
                 "Indian students who're studying MBBS at Crimea Federal University get sufficient medical exposure from the authorities hospitals positioned withinside the city of Simferopol.",
@@ -63,7 +63,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Accreditation & Recognitions',
-            "info": '<b>Crimean Federal University has the following accreditation and recognition:</b>',
+            "info": 'Crimean Federal University has the following accreditation and recognition:',
             "data": [
                 "Russian Government & Ministry of Health and Education",
                 "NMC",
@@ -74,16 +74,16 @@ export const crimeanfederaluniversity = {
         },
         {
             "type": "table",
-            "title": "Crimean Federal University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Crimean Federal University:</b>",
+            "title": "Crimean Federal University - Ranking 2023",
+            "info": "According to 4icu.org, following is the country and world ranking for Crimean Federal University:",
             "col": [
                 "Country",
                 "World",
             ],
             "row": [
                 {
-                    "Country": "18",
-                    "World": "3748",
+                    "Country": "17",
+                    "World": "3933",
                 },
 
             ]
@@ -104,7 +104,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Crimea Federal University - International Members',
-            "info": '<b>The Crimean Federal University has the following international member of the organizations:</b>',
+            "info": 'The Crimean Federal University has the following international member of the organizations:',
             "data": [
                 "United Nations Organizations (UNO)",
                 "International Association of Universities (IAU)",
@@ -118,7 +118,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Students Life',
-            "info": '<b>As Crimean Federal University provides all the students with the necessary facilities, students live an excellent life here::</b>',
+            "info": 'As Crimean Federal University provides all the students with the necessary facilities, students live an excellent life here::',
             "data": [
                 "Crimean Federal University offers all the facilities for students and lectures to realize their ambitions.",
                 "As part of its commitment to the internationalization of its activities and programs, the International center was created by the University.",
@@ -135,7 +135,7 @@ export const crimeanfederaluniversity = {
         {
             "type": "table",
             "title": 'Crimean Federal University - FMGE Performance 2021',
-            "info": '<b>The details about FMGE performance for Crimean Federal University of year 2021 with passing percent is as follows:</b>',
+            "info": 'The details about FMGE performance for Crimean Federal University of year 2021 with passing percent is as follows:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -154,7 +154,7 @@ export const crimeanfederaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Simferopol",
-            "info": "<b>The cost of living at Simferopol city is as follows:</b>",
+            "info": "The cost of living at Simferopol city is as follows:",
             "col": [
                 "Particulars",
                 "In Rupees (approx. range)"
@@ -206,9 +206,13 @@ export const crimeanfederaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Crimean Federal University, Russia - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Crimea Federal University Fee Structure 2022-23",
-            "info": "<b>Crimean Federal University has an affordable MBBS fee structure for Indian students, the average annual cost for MBBS is 2.50 lacs, for detailed fee structure have a look below:</b>",
+            "info": "Crimean Federal University has an affordable MBBS fee structure for Indian students, the average annual cost for MBBS is 2.50 lacs, for detailed fee structure have a look below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -265,7 +269,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Courses offered at Crimean Federal University',
-            "info": '<b>At Crimean Federal university, below mentioned different courses in medicine are offered:</b>',
+            "info": 'At Crimean Federal university, below mentioned different courses in medicine are offered:',
             "data": [
                 "General Medicine",
                 "Pharmacy",
@@ -276,12 +280,12 @@ export const crimeanfederaluniversity = {
         {
             "type": 'text',
             "title": 'Crimean Federal University - MBBS Duration',
-            "info": "<b>Total duration of MBBS in Crimean Federal University is 6 years with 1 year of internship included, for detailed information have a look below:</b><p>The length of the MBBS course withinside the Crimean Federal University is 6 years Out of which 5 years have classroom education and 1 year that's obligatory for the internship for the clinical exposure and realistic knowledge.< /p>",
+            "info": "Total duration of MBBS in Crimean Federal University is 6 years with 1 year of internship included, for detailed information have a look below:</b><p>The length of the MBBS course withinside the Crimean Federal University is 6 years Out of which 5 years have classroom education and 1 year that's obligatory for the internship for the clinical exposure and realistic knowledge.",
         },
         {
             "type": "text",
             "title": "Crimea Federal University - MBBS Syllabus (Semester wise)",
-            "info": '<p><b>The complete syllabus for studying MBBS at Crimean Federal University is as follows:</b></p>'
+            "info": 'The complete syllabus for studying MBBS at Crimean Federal University is as follo'
         },
         {
             "type": "table",
@@ -396,9 +400,13 @@ export const crimeanfederaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Crimean Federal University, Russia - Admission 2023"
+        },
+        {
             "type": 'list-bollet',
             "title": 'What are the Eligibility Criteria for MBBS at Crimea Federal University?',
-            "info": '<b>Below given is the entry requirements which students need to fulfill for studying MBBS at Crimean Federal Medical University:</b>',
+            "info": 'Below given is the entry requirements which students need to fulfill for studying MBBS at Crimean Federal Medical University:',
             "data": [
                 "Students must have cleared <strong>10+2 with 50%</strong> marks (for the open category) and 40% marks (for reserved category) from the Science stream (Physics, Chemistry, and Biology) from any Board of Examination.",
                 "Students must be of age minimum <strong>17 years</strong> on or before 31st December of the admission year.",
@@ -409,7 +417,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'How to Take Admission in Crimean Federal University?',
-            "info": '<b>Students need to follow these steps to take admission at Crimean Federal University for MBBS course:</b><p><b>Step 1: HOW TO APPLY</b></p>',
+            "info": 'Students need to follow these steps to take admission at Crimean Federal University for MBBS course:<p><b>Step 1: HOW TO APPLY</b></p>',
             "textBelowInfo": "<p>Students can apply online. After studying the complete information on the website about tuition fee and courses first you need to pick the course. After selecting the course you must send us the subsequent files through email:</p>",
             "data": [
                 "Filled Application Form",
@@ -421,7 +429,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>Step 2: HOW TO GET INVITATION LETTER</b>',
+            "info": 'Step 2: HOW TO GET INVITATION LETTER',
             "textBelowInfo": "<p>To get an invitation letter from Siberian State University, we require the subsequent files:</p>",
             "data": [
                 "Filled Application Form",
@@ -433,7 +441,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>Step 3: VISA</b>',
+            "info": 'Step 3: VISA',
             "textBelowInfo": "<p>After getting an invitation letter from Crimean Federal University, students need to contact the nearest Russian Embassy or Consulate (depending on the country of university) in his/her country.</p><b>Visa Requirements are as follows:</b>",
             "data": [
                 "Filled Application form (you could fill online at http://visa.kdmid.ru)",
@@ -448,13 +456,13 @@ export const crimeanfederaluniversity = {
         {
             "type": 'text',
             "title": '',
-            "info": '<b>Step 4: ARRIVAL</b>',
+            "info": 'Step 4: ARRIVAL',
             "textBelowInfo": "<p>After getting visa from Embassy or Consulate, college students need to inform us about his/her flight info with date and arrival time.One of our consultant will receive the student on the airport.In case student will not tell us about his/her arrival, he/she could be deported back to homeland through the Immigration Authorities of Russia</p>"
         },
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>Step 5: ADMISSION AND START OF CLASSES</b>',
+            "info": 'Step 5: ADMISSION AND START OF CLASSES',
             "data": [
                 "Every Student needs to carry with him/her original complete files and with Full First year Expenses or Payment Receipt of whole first year fees paid.",
                 "It is obligatory for each student to be registered at University in 3 working days after arrival in Russian Federation territory.",
@@ -466,7 +474,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'What Documents are Required to Study MBBS in Crimean Federal University?',
-            "info": '<b>following documents essential in order to complete your admission process for the MBBS course at Crimean Federal University:</b>',
+            "info": 'following documents essential in order to complete your admission process for the MBBS course at Crimean Federal University:',
             "data": [
                 "10th Marksheet",
                 "12th Marksheet",
@@ -486,7 +494,7 @@ export const crimeanfederaluniversity = {
         {
             "type": "table",
             "title": "Crimea Federal University - Admission Dates 2022-23",
-            "info": "<b>Students should take their admissions to Crimean Federal University before the dates mentioned below. Check out the Important dates regarding admission:</b>",
+            "info": "Students should take their admissions to Crimean Federal University before the dates mentioned below. Check out the Important dates regarding admission:",
             "col": [
                 "Events",
                 "Dates"
@@ -531,6 +539,10 @@ export const crimeanfederaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Crimean Federal University, Russia - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Crimean Federal University, Russia - Reviews" },
@@ -549,6 +561,10 @@ export const crimeanfederaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Crimean Federal University, Russia - Placement"
+        },
         {
             "type": 'list-bollet',
             "title": 'Placement',
@@ -579,6 +595,10 @@ export const crimeanfederaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Crimean Federal University, Russia - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Crimean Federal University, Russia - Gallery" },
@@ -598,6 +618,10 @@ export const crimeanfederaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Crimean Federal University, Russia - Scholarship"
+        },
+        {
             "type": 'list-bollet',
             "title": 'Scholarship',
             "info": '<b>Hani Zeini Scholarship</b>',
@@ -610,7 +634,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>Other scholarships must also be sought for externally. Some examples are:</b>',
+            "info": 'Other scholarships must also be sought for externally. Some examples are:',
             "data": [
                 "Inlaks Scholarships",
                 "Jared J. Davis Grant",
@@ -636,6 +660,10 @@ export const crimeanfederaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Crimean Federal University, Russia - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Crimean Federal University, Russia - Faculty" },
@@ -654,6 +682,10 @@ export const crimeanfederaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Crimean Federal University, Russia - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -674,14 +706,18 @@ export const crimeanfederaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Crimean Federal University, Russia - Hostel"
+        },
+        {
             "type": 'text',
             "title": 'Hostel and Accommodation',
-            "info": '<b>The university provides excellent hostel facilities for all students:</b><p>Crimean Federal University has owned the Government hostels for the accommodation of international students. Around 6 hostels are driven under the supervision of the university. The security team is provided to ensure the safety of international students at a hostel.</p>',
+            "info": 'The university provides excellent hostel facilities for all students:<p>Crimean Federal University has owned the Government hostels for the accommodation of international students. Around 6 hostels are driven under the supervision of the university. The security team is provided to ensure the safety of international students at a hostel.</p>',
         },
         {
             "type": 'list-bollet',
             "title": '',
-            "info": '<b>Facilities at the hostel are:</b>',
+            "info": 'Facilities at the hostel are:',
             "data": [
                 "Reading hall",
                 "Cafeteria",
@@ -715,9 +751,13 @@ export const crimeanfederaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Crimean Federal University, Russia - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Crimean Federal University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many Indian students are studying at Crimean Federal University?",

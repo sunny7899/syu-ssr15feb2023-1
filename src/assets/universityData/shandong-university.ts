@@ -19,7 +19,7 @@ export const shandonguniversity = {
         {
             "type": "table-title",
             "title": "Shandong University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Shandong Medical University:</b>",
+            "info": "Given below is the table for quick facts about Shandong Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September 2020"],
@@ -37,7 +37,7 @@ export const shandonguniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS Course at Shandong University?",
-            "info": "<b>Below are some of the advantages of studying MBBS at Shandong Medical University:</b>",
+            "info": "Below are some of the advantages of studying MBBS at Shandong Medical University:",
             "data": [
                 "Shandong Medical University provides many facilities to its students including not only amazing and educational buildings on the campus and dormitories but also dining rooms, gyms, playgrounds, internet cafes, a wonderful library, a museum and different kinds of shops.",
                 "It is the most famous and major educational institution.",
@@ -52,7 +52,7 @@ export const shandonguniversity = {
         {
             "type": "table",
             "title": "Shandong University - Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Shandong Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Shandong Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -72,7 +72,7 @@ export const shandonguniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>China’s Shandong Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "China’s Shandong Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "The People’s Republic of China’s Ministry of Education",
                 "Medical Council of India (MCI)",
@@ -82,7 +82,7 @@ export const shandonguniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Student's at Shandong University",
-            "info": "<b>Students live an excellent life at Shandong medical university as it provides many facilities to its students:</b>",
+            "info": "Students live an excellent life at Shandong medical university as it provides many facilities to its students:",
             "data": [
                 "Shandong Medical University School of Medicine provides various extracurricular activities and alternative learning activities.",
                 "Out of these, some of the activities are enjoyed by most of the foreign students and domestic students as well as they like learning calligraphy, football, tai-chi, and other games and taking choir classes.",
@@ -98,7 +98,7 @@ export const shandonguniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Jinan City",
-            "info": "<b>The cost of living at Jinan city is as follows:</b>",
+            "info": "The cost of living at Jinan city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -130,7 +130,7 @@ export const shandonguniversity = {
         {
             "type": "list-bollet",
             "title": "About Jinan City",
-            "info": "<b>Below are some of the key points about the Jinan city:</b>",
+            "info": "Below are some of the key points about the Jinan city:",
             "data": [
                 "Jinan city is the capital city of Shandong Province and it is located in the midwest of Shandong and acts as a traffic junction to many worthwhile attractions in the province.",
                 "It has a population of 8 million people within an area of 8,177 square kilometers.",
@@ -160,9 +160,13 @@ export const shandonguniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Shandong University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Shandong University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Shandong University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Shandong University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "1st Year",
@@ -278,7 +282,7 @@ export const shandonguniversity = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Shandong University",
-            "info": "<b>Mentioned below is the duration of MBBS course:</b>",
+            "info": "Mentioned below is the duration of MBBS course:",
             "data": [
                 "The duration of MBBS course at Shandong Medical University is 6 years which includes 1 year of internship."
             ]
@@ -286,7 +290,7 @@ export const shandonguniversity = {
         {
             "type": "text",
             "title": "MBBS Syllabus - Shandong University",
-            "info": '<p><b>The complete syllabus for studying MBBS at Shandong Medical University is as follows:</b></p>'
+            "info": '<p>The complete syllabus for studying MBBS at Shandong Medical University is as follows:</p>'
         },
 
         {
@@ -404,7 +408,7 @@ export const shandonguniversity = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Shandong University',
-            info: '<b>Below are the various faculties and departments present at Shandong Medical University:</b>',
+            info: 'Below are the various faculties and departments present at Shandong Medical University:',
             data: [
                 "General Medicine",
                 "Dentistry",
@@ -438,9 +442,13 @@ export const shandonguniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Shandong University - Admission 2023'
+        },
+        {
             "type": "table",
             "title": "Important Dates -  Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Shandong Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Shandong Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -468,7 +476,7 @@ export const shandonguniversity = {
         {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>The eligibility criteria to study MBBS at Shandong Medical University is as follows:</b>',
+            info: 'The eligibility criteria to study MBBS at Shandong Medical University is as follows:',
             data: [
                 "Candidate’s age should be over 18 years and under 25 years.",
                 "Candidate’s mental and physical health should be good.",
@@ -484,7 +492,7 @@ export const shandonguniversity = {
         {
             type: 'step-list',
             title: 'How to Apply for MBBS Admission at Shandong University?',
-            info: '<b>Following is the admission procedure for applying to MBBS course at Shandong University:</b>',
+            info: 'Following is the admission procedure for applying to MBBS course at Shandong University:',
             data: [
                 "<b>Step 1:</b> Students who fit in the required eligibility criteria for Shandong Medical University must fill the application form of the university.",
                 "<b>Step 2:</b> Students must upload the required application documents.",
@@ -499,7 +507,7 @@ export const shandonguniversity = {
         {
             type: 'list-bollet',
             title: 'Required Documents',
-            info: '<b>Following documents are required at the time of admission to Shandong Medical University:</b>',
+            info: 'Following documents are required at the time of admission to Shandong Medical University:',
             data: [
                 "Health certificate",
                 "Identification document",
@@ -534,6 +542,10 @@ export const shandonguniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Shandong University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Shandong University - Reviews" },
@@ -552,6 +564,10 @@ export const shandonguniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Shandong University - Placement'
+        },
         {
             type: 'list-bollet',
             title: 'Placement',
@@ -584,6 +600,10 @@ export const shandonguniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Shandong University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Shandong University - Gallery" },
@@ -603,9 +623,13 @@ export const shandonguniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Shandong University - Scholarship'
+        },
+        {
             type: 'list-bollet',
             title: 'Scholarships',
-            info: '<b>Following scholarships are offered at Shandong Medical University:</b>',
+            info: 'Following scholarships are offered at Shandong Medical University:',
             data: [
                 "To succeed in accomplishing student’s study, SHANDONG UNIVERSITY provides numerous.",
                 "scholarships to both under-graduate & postgraduate admission seeking students in the university.All of these scholarships are systemized by the Chinese Government, Chinese Companies, Jinan Government, & SHANDONG UNIVERSITY as well.",
@@ -633,9 +657,13 @@ export const shandonguniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Shandong University - Faculty'
+        },
+        {
             "type": "table",
             "title": "faculty",
-            "info": "<b>Check out the Important dates regarding admission at Shandong Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Shandong Medical University:",
             "col": [
                 "Name",
                 "Title"
@@ -705,6 +733,10 @@ export const shandonguniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Shandong University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Shandong University - News & Articles" },
@@ -724,9 +756,13 @@ export const shandonguniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Shandong University - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel & Accommodation',
-            info: '<b>Following are the hostel facilities at Shandong Medical University:</b><p>SHANDONG UNIVERSITY allocates hostel amenities for all the students who are willing to secure admission in the college.</p><b>Conveniences provided by SHANDONG UNIVERSITY to all the nationalities of students are:</b>',
+            info: 'Following are the hostel facilities at Shandong Medical University:<p>SHANDONG UNIVERSITY allocates hostel amenities for all the students who are willing to secure admission in the college.</p><b>Conveniences provided by SHANDONG UNIVERSITY to all the nationalities of students are:</b>',
             data: [
                 "Reading rooms & Fitness center.",
                 "For both boys & girls, there are Discrete hostile provisions.",
@@ -760,9 +796,13 @@ export const shandonguniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Shandong University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. What documents are required for Chinese Government Scholarship?",

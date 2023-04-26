@@ -16,10 +16,9 @@ export const universityofperpetualhelpsystemdalta = {
       "title": "",
       "data": "<p>Inspired and committed for better life and national development Dr./BGen. Antonio Laperal Tamayo and Dr. Daisy Moran Tamayo founded the <b>University of Perpetual Help</b> on February 5, 1975. The University of Perpetual Help is located in Las Pinas city, Philippines.</p><p>The University of Perpetual Help is a preferred and apt choice for international aspirants to pursue MBBS in the Philippines.</p><p>Also known as the University of Perpetual Help System DALTA (UPHSD), the university is a pioneer in medical education in the Philippines. The campuses of UPHS - Perpetual Las Piñas,Perpetual Molina and Perpetual Calamba are fledged with a great infrastructure. curricular activities and faculty members.</p><p>The University of Perpetual Help System DALTA aims at achieving its goals of maintaining and sustaining education.</p>"
     },
-
     {
       "type": "table-title",
-      "title": "University of Perpetual Help - Quick Highlights 2022",
+      "title": "University of Perpetual Help - Quick Highlights 2023",
       "info": "Go through the Overview of University of Perpetual Help:",
       "row": [
         ["Intake for MBBS Course", "July"],
@@ -27,7 +26,7 @@ export const universityofperpetualhelpsystemdalta = {
         ["Total Tuition Fees (approx)", "INR 23,25,000"],
         ["Duration of MBBS Course", "6 years"],
         ["Medium of Teaching", "English languager"],
-        ["University Ranking", "Country Rank - 51<br>World Rank - 8594"],
+        ["University Ranking", "Country Rank - 59<br>World Rank - 7561"],
         ["University Recognition", "NMC & WHO"]
       ]
     },
@@ -66,7 +65,7 @@ export const universityofperpetualhelpsystemdalta = {
     },
     {
       "type": "table",
-      "title": "University of Perpetual Help - Ranking 2022",
+      "title": "University of Perpetual Help - Ranking 2023",
       "info": "According to Uni Rank, the country and world ranking of the University of Perpetual Help is mentioned below:",
       "col": [
         "Country",
@@ -74,8 +73,8 @@ export const universityofperpetualhelpsystemdalta = {
       ],
       "row": [
         {
-          "Country": "51",
-          "World": "8597",
+          "Country": "59",
+          "World": "7561",
         },
 
       ]
@@ -93,15 +92,15 @@ export const universityofperpetualhelpsystemdalta = {
         "World Health Organization (WHO)"
       ]
     },
-    {
-      type: 'list-bollet',
-      title: '',
-      info: '',
-      data: [
-        "bureau-veritas",
-        "quality-education"
-      ]
-    },
+    // {
+    //   type: 'list-bollet',
+    //   title: '',
+    //   info: '',
+    //   data: [
+    //     "bureau-veritas",
+    //     "quality-education"
+    //   ]
+    // },
 
     {
       "type": "table",
@@ -142,34 +141,34 @@ export const universityofperpetualhelpsystemdalta = {
         {
           "Particulars": "Hostel Charges",
           "Approx Range in USD": "178.57 USD",
-          "Approx Range in RS": "12,500 Rs"
+          "Approx Range in RS": "14,285.6 Rs"
         },
         {
           "Particulars": "Food Cost",
           "Approx Range in USD": "120.6 USD",
-          "Approx Range in RS": "8,442 Rs"
+          "Approx Range in RS": "9,648 Rs"
         },
         {
           "Particulars": "Transport Cost",
           "Approx Range in USD": "6 USD",
-          "Approx Range in RS": "420 Rs"
+          "Approx Range in RS": "480 Rs"
         },
-      ]
+      ],
+      "heading": '<p><strong><u>Note</u>:</strong> 1$ = 80 Rs. (for calculation purpose)</p>'
     },
-
+    
     {
-      type: 'text',
-      title: '',
-      info: '',
-      data: '<p><b><u>Note:</u></b> 1$ = 70 Rs. (for calculation purpose)</p>',
-    },
-    {
-      type: 'text',
+      type: 'list-bollet',
       title: 'About Las Pinas City',
-      img: 'university-of-perpetual-help-city.jpg',
       info: '',
-      data: '<p>Las Pinas is an urbanized city located in Metropolitan Manila, Philippines.</p><p>Las Pinas has a population of about 14,000.</p><p>The Las Pinas city is famous for its bamboo organ, salt beds, and jeepney factories across the globe.</p><p>Las Pinas is known as one of Metro Manilas fastest-growing communities.</p><p>It is the only city only in 1997, Las Piñas was one of the first settlements in Manila.</p>'
-    },
+      data: [
+    "Las Pinas is an urbanized city located in Metropolitan Manila, Philippines.",
+    "Las Pinas has a population of about 14,000.",
+    "The Las Pinas city is famous for its bamboo organ, salt beds, and jeepney factories across the globe.",
+    "Las Pinas is known as one of Metro Manilas fastest-growing communities.",
+    "It is the only city only in 1997, Las Piñas was one of the first settlements in Manila."
+      ]
+  },
     {
       "type": "table-title",
       "title": "",
@@ -203,6 +202,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "coursesandfees": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Courses & Fees'
+    },
     {
       "type": "table",
       "title": "University of Perpetual Help - MBBS Fee Structure 2023",
@@ -271,7 +274,7 @@ export const universityofperpetualhelpsystemdalta = {
       "type": "table",
       "title": "University of Perpetual Help - MBBS Syllabus",
       "info": "Here is the syllabus of medicine program at the University of Perpetual Help, the students must refer to the table mentioned below:",
-      "colTitle": "Syllabus For Pre-medical",
+      "textBelowInfo": "<b>Syllabus For Pre-medical</b>",
       "col": [
         "First Term",
         "Second Term",
@@ -339,7 +342,7 @@ export const universityofperpetualhelpsystemdalta = {
       "type": "table",
       "title": "",
       "info": "",
-      "colTitle": "MBBS (MD) Syllabus",
+      "textBelowInfo": "<b>MBBS (MD) Syllabus</b>",
       "col": [
         "First Term",
         "Second Term",
@@ -420,18 +423,17 @@ export const universityofperpetualhelpsystemdalta = {
           "Fourth Term": "-"
         }
       ],
-      "heading": "<p><b>Source:</b> More details on Curriculum</p>"
     },
     {
       type: "meta",
       meta: [
-        { name: "title", content: "University of Perpetual Help, Philippines - courses & Fees" },
+        { name: "title", content: "University of Perpetual Help, Philippines - Courses & Fees 2023" },
         { name: "description", content: "University of Perpetual Help offers a range of courses across a variety of disciplines, including business, arts, humanities, and more. Check available courses and fees" },
       ],
     },
     {
       type: "meta-title",
-      title: "University of Perpetual Help, Philippines - courses & Fees"
+      title: "University of Perpetual Help, Philippines - Courses & Fees 2023"
     },
     {
       type: "meta-links",
@@ -441,6 +443,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "admission": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Admission 2023'
+    },
     {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
@@ -459,12 +465,12 @@ export const universityofperpetualhelpsystemdalta = {
       "title": "Admission Process",
       "info": "The medical aspirants must carry essential documents during MBBS course admission time at University of Perpetual Help:",
       "data": [
-        "Step 1: The candidates must fill the correct details asked in the application form available on the official website of the University of Perpetual Help",
-        "Step 2: The candidates must upload the scan copies of academic documents.",
-        "Step 3: Take the print out of the application form and submit it with a recent passport size photograph.",
-        "Step 4: The candidates should attend interviews scheduled by the University of Perpetual Help.",
-        "step 5: Start the visa processing step to get a valid visa.",
-        "step 6: The candidates will get a valid passport to make their dreams come true.",
+        "<b>Step 1:</b> The candidates must fill the correct details asked in the application form available on the official website of the University of Perpetual Help",
+        "<b>Step 2:</b> The candidates must upload the scan copies of academic documents.",
+        "<b>Step 3:</b> Take the print out of the application form and submit it with a recent passport size photograph.",
+        "<b>Step 4:</b> The candidates should attend interviews scheduled by the University of Perpetual Help.",
+        "<b>Step 5:</b> Start the visa processing step to get a valid visa.",
+        "<b>Step 6:</b> The candidates will get a valid passport to make their dreams come true.",
       ]
     },
     {
@@ -534,7 +540,22 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "review": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Reviews'
+    },
 
+    {
+      "type": "list-bollet",
+      "title": "Reviews on University of Perpetual Help",
+      "info": "Here are some of the reviews by students studying at the university at the moment:",
+      "data": [
+          "<b>Pritam Shah</b><p>I really enjoyed my time at University of Perpetual Help. The instructors were beneficial and instructive.</p>",
+          "<b>Virat Deshpande</b><p>Everyone looking for a top-notch medical education should give the University of Perpetual Help some serious thought.</p>",
+          "<b>Parth Shah</b><p>The University of Perpetual Help provides excellent amenities and a welcoming staff. Throughout my entire stay, I received wonderful care.</p>",
+      ]
+  },
+  
     {
       type: "meta",
       meta: [
@@ -554,6 +575,20 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Placement'
+    },
+
+    {
+      "type": "list-bollet",
+      "title": "University of Perpetual Help Placements",
+      "info": "",
+      "data": [
+          "Graduates might return to India and seek work after completing their various degrees.",
+          "Internships and jobs in and around the Philippines are encouraged for students at the University of Perpetual Help.",
+      ]
+  },
 
     {
       type: "meta",
@@ -574,6 +609,49 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "gallery": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Gallery'
+    },
+
+    {
+      "image": [
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/university-of-perpetual-help-system-dalta-building.jpg",
+              "alt": "University of Perpetual Help System Dalta Building"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/university-of-perpetual-help-system-dalta-campus-area.jpg",
+              "alt": "University of Perpetual Help System Dalta Campus Area"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/university-of-perpetual-help-system-dalta-graduate-students.jpg",
+              "alt": "University of Perpetual Help System Dalta Graduate Students"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/university-of-perpetual-help-system-dalta-sports-activities.jpg",
+              "alt": "University of Perpetual Help System Dalta Sports Activities"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/university-of-perpetual-help-system-dalta-students.jpg",
+              "alt": "University of Perpetual Help System Dalta Students"
+          }
+      ],
+      "video": [
+          // {
+          //     "type": "video",
+          //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+          //     "alt": "Image 1"
+          // },
+          
+      ]
+  },
+
 
     {
       type: "meta",
@@ -595,8 +673,12 @@ export const universityofperpetualhelpsystemdalta = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Scholarship'
+    },
+    {
       "type": "list-bollet",
-      "title": "",
+      "title": "University of Perpetual Help Scholarship",
       "info": "",
       "data": [
         "Grade school scholarship",
@@ -623,6 +705,46 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Faculty'
+    },
+
+    {
+      "type": "table",
+      "title": "University of Perpetual Help Faculty",
+      "info": "",
+      "col": [
+          "Name",
+          "Designation"
+      ],
+      "row": [
+          {
+              "Name": "Aishwaryaa Purushothaman",
+              "Designation": "Medical Student"
+          },
+          {
+              "Name": "Pastor Arguelles",
+              "Designation": "DEAN, College of Computer Studies"
+          },
+          {
+            "Name": "Jairah kynn tiengo",
+            "Designation": "Accounts Payable Associate"
+        },
+        {
+            "Name": "Ivy Velasco",
+            "Designation": "Law School Instructor"
+        },
+        {
+          "Name": "Renato Manreza",
+          "Designation": "Dean/IT Head"
+      },
+      {
+          "Name": "Alcuin Papa",
+          "Designation": "Executive Assistant to the CEO for Media Relations and Marketing"
+      }
+      ]
+  },
 
     {
       type: "meta",
@@ -643,8 +765,10 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "news": [
-
-
+    {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - News & Articles'
+    },
     {
       type: "meta",
       meta: [
@@ -665,6 +789,10 @@ export const universityofperpetualhelpsystemdalta = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
       "info": "The University of Perpetual Help offers fully furnished and comfortable accommodation facilities for international students with all basic amenities:",
@@ -684,32 +812,21 @@ export const universityofperpetualhelpsystemdalta = {
       ]
     },
     {
-      "type": "list-bollet",
+      "type": "table-title",
       "title": "",
       "info": "Everything is available nearby hostel premises -",
-      "data": [
-        "Grocery",
-        "Stationery",
-        "Cafe",
-        "Restaurants",
-        "Hospital",
-        "Medical Centre",
-        "Sports Complex"
+      "row": [
+        ["Grocery", "Stationery", "Cafe","Restaurants"],
+        ["Hospital", "Medical Centre","Sports Complex","-"]
       ]
     },
     {
-      "type": "list-bollet",
+      "type": "table-title",
       "title": "",
-      "info": "<p>Hostels are enabled with trained, educated & full-time security guards and security wardens.</p><p>Availability of gymnasium and laundry.</p><p>All modern amenities are available to the students in hostel premises -</p>",
-      "data": [
-        "Pillow",
-        "Blanket",
-        "Bedsheet",
-        "Bed",
-        "Table",
-        "Chair",
-        "Fan",
-        "Bathroom"
+      "info": "<p>Hostels are enabled with trained, educated & full-time security guards and security wardens. Availability of gymnasium and laundry. All modern amenities are available to the students in hostel premises -</p>",
+      "row": [
+        ["Pillow", "Blanket","Bedsheet","Bed"],
+        ["Table","Chair", "Fan","Bathroom"]
       ]
     },
     {
@@ -732,6 +849,10 @@ export const universityofperpetualhelpsystemdalta = {
   ],
   "faq": [
     {
+      type: 'title',
+      title: 'University of Perpetual Help, Philippines - FAQ'
+    },
+    {
       "type": "question-list",
       "title": "University of Perpetual Help - Important FAQs",
       "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
@@ -747,10 +868,6 @@ export const universityofperpetualhelpsystemdalta = {
         {
           "ques": "Q. Is the University of Perpetual Help recognised?",
           "ans": "Yes, University of Perpetual Help is officially recognised by NMC and WHO."
-        },
-        {
-          "ques": "Q. After What is the last date of filling application forms at the University of Perpetual Help?",
-          "ans": "The last date of the application form at the University of Perpetual Help is 15 July to get admission in MBBS course."
         },
         {
           "ques": "Q. Is the medical degree valid in other countries after completing MBBS education from the University of Perpetual Help?",

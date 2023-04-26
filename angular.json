@@ -32,20 +32,20 @@
               "node_modules/ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default.min.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [       "./node_modules/jspdf/dist/jspdf.es.min.js"]
           },
           "configurations": {
             "production": {
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "9mb",
-                  "maximumError": "8mb"
+                  "maximumWarning": "18mb",
+                  "maximumError": "16mb"
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "9mb",
-                  "maximumError": "8mb"
+                  "maximumWarning": "18mb",
+                  "maximumError": "16mb"
                 }
               ],
               "fileReplacements": [
@@ -100,7 +100,7 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [       "./node_modules/jspdf/dist/jspdf.es.min.js"]
           }
         },
         "server": {

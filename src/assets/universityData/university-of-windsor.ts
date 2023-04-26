@@ -7,7 +7,6 @@ export const universityofwindsor = {
     "shareLink": "www.google.com",
     "url": "university-of-windsor",
     "info": [
-
         {
             type: 'title',
             title: 'University of Windsor, Canada'
@@ -18,13 +17,11 @@ export const universityofwindsor = {
             // img: 'https://www.selectyouruniversity.com/images/canada/university-of-windsor.jpg',
             data: '<p><b>The University of Windsor</b> is a public research institute established in 1857 in Windsor, Canada. It is the fourth most diverse city in Canada welcoming most of the international students from past years.</p><p>It is a reputed university enrolling over 16,000 students by providing a wide range of undergraduate and graduate programs. In the previous six years, more than 120,000 graduates have been admitted to the University of Windsor.</p><p>University has two campuses namely Main campus and Downtown campus in the heart of Windsor’s core. The first phase was ushered in 2015 with a new opening that retains the historic façade.</p>'
         },
-
         {
             "type": "table-title",
             "title": "University of Windsor - Quick Highlights",
-            "info": "<b>Those who choose to study at Uwindsor should familiarize themselves with the following information:</b>",
-            "col": [
-            ],
+            "info": "Those who choose to study at Uwindsor should familiarize themselves with the following information:",
+            "col": [],
             "row": [
                 ["<b>Type</b>", "Public"],
                 ["<b>Students</b>", "16,321"],
@@ -44,7 +41,7 @@ export const universityofwindsor = {
         {
             "type": "list-bollet",
             "title": "Why Choose University of Windsor for Higher Studies?",
-            "info": "<b>Students are captivated to study at Uwindsor due to the following reasons:</b>",
+            "info": "Students are captivated to study at Uwindsor due to the following reasons:",
             "img": '',
             "data": [
                 "The University of Windsor is located in a place where it actively enables the students to the world of education.",
@@ -64,7 +61,7 @@ export const universityofwindsor = {
         {
             "type": "table",
             "title": "What is the Ranking of University of Windsor?",
-            "info": "<b>Students must check out the world and country ranking of the University of Windsor below:</b>",
+            "info": "Students must check out the world and country ranking of the University of Windsor below:",
             "col": [
                 "World	",
                 "Country",
@@ -82,7 +79,7 @@ export const universityofwindsor = {
         {
             "type": "list-bollet",
             "title": "Affiliations of Uwindsor",
-            "info": "<b>Uwindsor is affiliated with some of the organizations which are mentioned below:</b>",
+            "info": "windsor is affiliated with some of the organizations which are mentioned below:",
             "img": '',
             "data": [
                 "Universities Canada (UC)",
@@ -98,7 +95,7 @@ export const universityofwindsor = {
         {
             "type": "table",
             "title": "What is the Cost of Living in Windsor?",
-            "info": "<b>Applicants should consider their monthly expenses to determine the cost of living at the university:</b>",
+            "info": "Applicants should consider their monthly expenses to determine the cost of living at the university:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -151,9 +148,13 @@ export const universityofwindsor = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Windsor, Canada - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Windsor - Program & Course Duration",
-            "info": "<b>Undergraduate</b>",
+            "info": "Undergraduate",
             "textBelowInfo": "Arts",
             "col": [
                 "Courses",
@@ -684,9 +685,13 @@ export const universityofwindsor = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Windsor, Canada - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Undergraduate</b>",
+            "info": "Undergraduate",
             "data": [
                 "Required scorecards of grades 10, 11 and 12.",
                 "Minimum overall GPA should be 3.0 or better in Grade 12.",
@@ -697,7 +702,7 @@ export const universityofwindsor = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Post graduate</b>",
+            "info": "Post graduate",
             "data": [
                 "Required three or four-year bachelor’s degree in the relevant course",
                 "Should possess an overall average of 70-77%",
@@ -707,7 +712,7 @@ export const universityofwindsor = {
         {
             "type": "step-list",
             "title": "How to Apply in Uwindsor?",
-            "info": "<b>Students are required to follow these steps accordingly to proceed further till the admission process:</b>",
+            "info": "Students are required to follow these steps accordingly to proceed further till the admission process:",
             "data": [
                 "<b>Step 1:</b> <b>Complete online application</b><br>Visit the graduation application page on the University of Windsor official site<br>Register your account on the site<br>Read the instructions carefully before starting the application<br>Pay the application fee after completing the form.<br>After successful submission, you will be received the acknowledgment email<br>You have to wait for at least 24hrs to update the information in the electronic Graduate Application System (eGAS)",
                 "<b>Step 2:</b> <b>Activate UWin ID</b><br>To activate UWin ID, enter the student name and access code that was received in the email.<br>Your account will get activated and login credentials will be sent to email.",
@@ -720,7 +725,7 @@ export const universityofwindsor = {
         {
             "type": "list-bollet",
             "title": "Documents Required at the Time of Admission",
-            "info": "<b>Applicants are required to submit the documents in your application according to your preferred course:</b>",
+            "info": "Applicants are required to submit the documents in your application according to your preferred course:",
             "data": [
                 "Resume",
                 "Transcript",
@@ -789,6 +794,10 @@ export const universityofwindsor = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Windsor, Canada - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Windsor, Canada - Reviews" },
@@ -808,15 +817,16 @@ export const universityofwindsor = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'University of Windsor, Canada - Placement'
+        },
+        {
             "type": "table",
             "title": "Placement",
-            "info": "<b>Below is the placement report of the University Of Windsor:</b>",
+            "info": "Below is the placement report of the University Of Windsor:",
             "col": [
                 "Particulars",
-                "Statistics",
-
-
-
+                "Statistics"
             ],
             "row": [
                 {
@@ -828,7 +838,7 @@ export const universityofwindsor = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Top Recruiter</b>",
+            "info": "Top Recruiter",
             "data": [
                 "KPMG",
                 "RBC Financial Group",
@@ -861,6 +871,10 @@ export const universityofwindsor = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Windsor, Canada - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Windsor, Canada - Gallery" },
@@ -879,6 +893,10 @@ export const universityofwindsor = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'University of Windsor, Canada - Scholarship'
+        },
         {
             "type": "table",
             "title": "Scholarships provided to International Students",
@@ -914,7 +932,7 @@ export const universityofwindsor = {
         {
             "type": "list-bollet",
             "title": "Admission Scholarships:",
-            "info": "<b>These scholarships are available to students at the time of admission.</b>",
+            "info": "These scholarships are available to students at the time of admission.",
             "data": [
                 "International Student Entrance Awards",
                 "Outstanding scholarship awards",
@@ -944,9 +962,13 @@ export const universityofwindsor = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'University of Windsor, Canada - Faculty'
+        },
+        {
             "type": "table-title",
             "title": "Faculties offered at Uwindsor",
-            "info": "<b>The University of Windsor offers a variety of academic fields as well as highly skilled faculty:</b>",
+            "info": "The University of Windsor offers a variety of academic fields as well as highly skilled faculty:",
             "col": [
             ],
 
@@ -980,6 +1002,10 @@ export const universityofwindsor = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Windsor, Canada - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Windsor, Canada - News & Articles" },
@@ -999,9 +1025,13 @@ export const universityofwindsor = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Windsor, Canada - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The University of Windsor is offering both on-campus housing as well as off-campus housing options to the student’s convenience:</b>",
+            "info": "The University of Windsor is offering both on-campus housing as well as off-campus housing options to the student’s convenience:",
             "data": [
                 "The University of Windsor is located in the center of the Windsor-Detroit metropolitan region, with a magnificent outlook and boundless possibilities to learn and grow.",
                 "Hostels are accommodated with 4 residence halls namely Alumni hall, Cartier hall, Laurier hall and Residence hall west.",
@@ -1014,9 +1044,7 @@ export const universityofwindsor = {
                 "There are so many options to choose your meal plans along with the UwinCARD facility.",
                 "Guest Sign Ins - guests are not allowed without signing at the front desk.",
                 "Restricted alcohol consumption",
-                "Fire safety",
-
-
+                "Fire safety"
             ],
 
         },
@@ -1039,6 +1067,10 @@ export const universityofwindsor = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'University of Windsor, Canada - FAQ'
+        },
         {
             "type": "question-list",
             "title": "FAQs for University of Windsor",

@@ -19,7 +19,7 @@ export const universityofexeter = {
         {
             "type": "table-title",
             "title": "Quick Highlights of University of Exeter",
-            "info": "<b>If you are dreaming to study in the UK, The University of Exeter is the right choice, here is the key information about college:</b>",
+            "info": "If you are dreaming to study in the UK, The University of Exeter is the right choice, here is the key information about college:",
             "col": [],
             "row": [
                 ["<b>University Status</b>", "Public"],
@@ -37,7 +37,7 @@ export const universityofexeter = {
         {
             "type": "list-bollet",
             "title": "Why Study at the University of Exeter?",
-            "info": "<b>Let’s deep dive into the reasons to know why the University of Exeter is right for you:</b>",
+            "info": "Let’s deep dive into the reasons to know why the University of Exeter is right for you:",
             "data": [
                 "The university has strong linkages with the top-most Indian Institutes, and especially the Indian Institute of Science (IISc), the Indian Institute of Management (IIM-B) and the National Institute of Advanced Studies (NIAS) all in the Bangalore location.",
                 "The college also offers bars, pubs, clubs, theatres and music venues, the 3 campuses provide many things to keep students entertained.",
@@ -49,7 +49,7 @@ export const universityofexeter = {
         {
             "type": "table",
             "title": "University of Exeter Ranking 2022",
-            "info": "<b>The world and country ranking of the University of Exeter are mentioned below:</b>",
+            "info": "The world and country ranking of the University of Exeter are mentioned below:",
             "col": [
                 "World",
                 "Country"
@@ -64,7 +64,7 @@ export const universityofexeter = {
         {
             "type": "list-bollet",
             "title": "Affiliations",
-            "info": "<b>The institute has official resignation and thus all after graduate the student will get the recognised degree:</b>",
+            "info": "The institute has official resignation and thus all after graduate the student will get the recognised degree:",
             "data": [
                 "Russell Group",
                 "Universities UK",
@@ -78,7 +78,7 @@ export const universityofexeter = {
         {
             "type": "table",
             "title": "Cost of Living in Exeter",
-            "info": "<b>Everyone who is looking to study at the University of Exeter, Find out the monthly living cost of Exeter city:</b>",
+            "info": "Everyone who is looking to study at the University of Exeter, Find out the monthly living cost of Exeter city:",
             "col": [
                 "Particulars",
                 "Amount in USD",
@@ -137,6 +137,10 @@ export const universityofexeter = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University of Exeter, UK - courses & Fees'
+        },
         {
             "type": "text",
             "title": "University of Exeter - Program & Course Duration",
@@ -509,7 +513,7 @@ export const universityofexeter = {
         {
             "type": "list-bollet",
             "title": "Research Institutes",
-            "info": "<b>Go through the mentioned below list showing the various Research institutes at college:</b>",
+            "info": "Go through the mentioned below list showing the various Research institutes at college:",
             "data": [
                 "Institute for Data Science and Artificial Intelligence (IDSAI)",
                 "The International Institute for Cultural Enquiry (IICE)",
@@ -538,9 +542,13 @@ export const universityofexeter = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Exeter, UK - Admission 2023 '
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria for UG & PG Courses",
-            "info": "<b>Undergraduate</b>",
+            "info": "Undergraduate",
             "data": [
                 "The students who already completed A levels/ International baccalaureate diploma are eligible for direct entry if they meet chosen course admission criteria."
             ]
@@ -548,7 +556,7 @@ export const universityofexeter = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The University of Exeter also accepts the Indian qualifications mentioned below -</b>",
+            "info": "The University of Exeter also accepts the Indian qualifications mentioned below -",
             "data": [
                 "12 th class from ICSE/CBSE boards",
                 "West Bengal Board Standard XII",
@@ -557,12 +565,12 @@ export const universityofexeter = {
                 "National Institute of Open Schooling",
                 "For these qualifications, minimum scores of 80% or 70% are required for the West Bengal Board 12th class, Other regional board 12th class examinations are considered on an individual basis, but the college requires a minimum score of at least 85%."
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b>  Accept 12th class grades with equivalent grades for up to 7 years to provide evidence for English language proficiency for admission.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b>  Accept 12th class grades with equivalent grades for up to 7 years to provide evidence for English language proficiency for admission.</p>'
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Postgraduate</b>",
+            "info": "Postgraduate",
             "data": [
                 "The students must hold a bachelor's degree with a grade equivalent to a UK Second-class honours (2:1 or 2:2).",
                 "Applicants who are interested in studying Finance Masters courses or Management Masters courses but don’t meet basic criteria may be able to enroll by first obtaining a Graduate Diploma via INTO."
@@ -571,7 +579,7 @@ export const universityofexeter = {
         {
             type: 'step-list',
             title: 'University of Exeter - Admission Process for 2022',
-            info: '<b>Undergraduate</b>',
+            info: 'Undergraduate',
             data: [
                 "Step 1: The students can apply through UCAS for admission at the University of Exeter.",
                 "Step 2: Check out the basic eligibility criteria information and updated dates of a particular course.",
@@ -586,7 +594,7 @@ export const universityofexeter = {
         {
             type: 'step-list',
             title: '',
-            info: '<b>Postgraduate</b>',
+            info: 'Postgraduate',
             data: [
                 "Step 1: Register as a new student using an active email ID.",
                 "Step 2: Check details and press the ‘Apply’ button. Start filling in the details",
@@ -648,7 +656,7 @@ export const universityofexeter = {
         {
             "type": "table",
             "title": "University of Exeter - Admission Dates 2022",
-            "info": "<b>The application opens once in the year, thus the students must hurry and apply before the deadline:</b>",
+            "info": "The application opens once in the year, thus the students must hurry and apply before the deadline:",
             "col": [
                 "Courses",
                 "Early Applications",
@@ -666,7 +674,7 @@ export const universityofexeter = {
                     "Closing Deadline Time": "May-June"
                 },
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b>  Late applications are rejected but in some rare cases, where the applicants receive an invitation letter, chances are that financial matters and visa procedure can be affected. International students must prepare finances or apply for an education loan in advance.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b>  Late applications are rejected but in some rare cases, where the applicants receive an invitation letter, chances are that financial matters and visa procedure can be affected. International students must prepare finances or apply for an education loan in advance.</p>'
         },
         {
             type: "meta",
@@ -688,6 +696,10 @@ export const universityofexeter = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Exeter, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Exeter, UK - Reviews" },
@@ -706,6 +718,10 @@ export const universityofexeter = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Exeter, UK - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -788,6 +804,10 @@ export const universityofexeter = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Exeter, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Exeter, UK - Gallery" },
@@ -807,9 +827,13 @@ export const universityofexeter = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Exeter, UK - Scholarship'
+        },
+        {
             "type": "table",
             "title": "International Scholarships",
-            "info": "<b>The University of Exeter provides various international scholarships to assist students during studies:</b>",
+            "info": "The University of Exeter provides various international scholarships to assist students during studies:",
             "col": [
                 "Scholarships",
                 "Information"
@@ -856,6 +880,10 @@ export const universityofexeter = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Exeter, UK - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -913,6 +941,10 @@ export const universityofexeter = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Exeter, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Exeter, UK - News & Articles" },
@@ -932,9 +964,13 @@ export const universityofexeter = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Exeter, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation",
-            "info": "<b>During studies all the students are provided with comfortable living places in student accommodation near to educational buildings:</b>",
+            "info": "During studies all the students are provided with comfortable living places in student accommodation near to educational buildings:",
             "data": [
                 "The university offers exciting places to stay away from home.",
                 "Here the international students will make new friends straight away.",
@@ -961,12 +997,15 @@ export const universityofexeter = {
             ]
         }
     ],
-    "faq":
-    [
+    "faq": [
+        {
+            type: 'title',
+            title: 'University of Exeter, UK - FAQ'
+        },
         {
             "type": "question-list",
             "title": "FAQs for University of Exeter",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What courses are available for international students at the University of Exeter?",

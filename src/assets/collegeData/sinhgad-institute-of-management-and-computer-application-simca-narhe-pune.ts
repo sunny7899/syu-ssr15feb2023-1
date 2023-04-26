@@ -1,4 +1,3 @@
-
 export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = {
     "Title": "Sinhgad Institute of Management & Computer Application",
     "shortTitle": " Sinhgad Institute of Management & Computer Application",
@@ -12,7 +11,6 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
             type: "title",
             title: "Sinhgad Institute of Management & Computer Application"
         },
-
         {
             type: 'text',
             title: '',
@@ -82,6 +80,10 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
     ],
     "coursesandfees": [
         {
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Sinhgad Institute of Management & Computer Application - MCA Fee Structure 2022",
             "info": "",
@@ -98,8 +100,7 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
                 {
                     "Particulars": "<b>Fees in Indian Rupees (approx)</b>",
                     "Course Fee": "Rs.2,84,000 (3 year)",
-                },
-
+                }
             ]
         },
         {
@@ -223,6 +224,10 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
     ],
     "admission": [
         {
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - Admission 2023"
+        },
+        {
             type: 'step-list',
             title: 'Admission Criteria for MCA Course at SIMCA',
             info: '',
@@ -252,7 +257,11 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -271,7 +280,11 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
             ]
         }
     ],
-    "Placement": [
+    "placement": [
+        {
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - Placement"
+        },
         {
             type: 'text',
             title: 'Placements at SIMCA - For MCA Course',
@@ -316,7 +329,11 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
             ]
         }
     ],
-    "Gallery": [
+    "gallery": [
+        {
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -335,11 +352,15 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b></b>Following are the scholarships offered by the Sinhgad Institute of Business Administration and Research  -",
+            "info": "Following are the scholarships offered by the Sinhgad Institute of Business Administration and Research  -",
             "data": [
                 "Scholarships for minors",
                 "Merit scholarship",
@@ -364,26 +385,11 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
             ]
         }
     ],
-    "News": [
+    "faculty": [
         {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Sinhgad Institute of Management & Computer Application, Pune - News & Articles" },
-                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
-            ],
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - Faculty"
         },
-        {
-            type: "meta-title",
-            title: "Sinhgad Institute of Management & Computer Application, Pune - News & Articles"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/news-and-articles" }
-            ]
-        }
-    ],
-    "Faculty": [
         {
             "type": "table",
             "title": "Faculty",
@@ -429,7 +435,34 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
             ]
         }
     ],
-    "Hostel": [
+    "news": [
+        {
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - News & Articles"
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Sinhgad Institute of Management & Computer Application, Pune - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/sinhgad-institute-of-management-and-computer-application-simca-narhe-pune/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - Hostel"
+        },
         {
             type: "meta",
             meta: [
@@ -449,6 +482,10 @@ export const sinhgadinstituteofmanagementandcomputerapplicationsimcanarhepune = 
         }
     ],
     "faq": [
+        {
+            type: "title",
+            title: "Sinhgad Institute of Management & Computer Application, Pune - FAQ"
+        },
         {
             "type": "question-list",
             "title": "",

@@ -5,6 +5,7 @@ export const mbbsinlatvia = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5 Years",
     "url": "mbbs-in-latvia",
     "info": [
         {
@@ -20,7 +21,7 @@ export const mbbsinlatvia = {
         {
             "type": "table-title",
             "title": "MBBS in Latvia: Quick Highlights",
-            "info": "<b>Keep the following facts in mind for deciding to do MBBS in Latvia:</b>",
+            "info": "Keep the following facts in mind for deciding to do MBBS in Latvia:",
             "col": [],
             "row": [
                 ["<b>Degree Awarded</b>", "MD/MBBS"],
@@ -34,7 +35,7 @@ export const mbbsinlatvia = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS in Latvia?",
-            "info": "<b>Following are the top benefits of studying MBBS in Latvia:</b>",
+            "info": "Following are the top benefits of studying MBBS in Latvia:",
             //"img": '',
             "data": [
                 "Studying MBBS in Latvia is affordable education with a low cost of study.",
@@ -48,7 +49,7 @@ export const mbbsinlatvia = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria: Applying for MBBS in Latvia",
-            "info": "<b>Below are the admission prerequisites of studying MBBS in Latvia:</b>",
+            "info": "Below are the admission prerequisites of studying MBBS in Latvia:",
             //"img": '',
             "data": [
                 "Applicants must have a minimum of 50% in Physics, Chemistry and Biology.",
@@ -66,7 +67,7 @@ export const mbbsinlatvia = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Documents checklists for applying MBBS in Latvia is given below:</b>",
+            "info": "Documents checklists for applying MBBS in Latvia is given below:",
             //"img": '',
             "data": [
                 "Police clearance certificate",
@@ -84,7 +85,7 @@ export const mbbsinlatvia = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Following is the cost of living in Latvia:</b>",
+            "info": "Following is the cost of living in Latvia:",
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -137,10 +138,17 @@ export const mbbsinlatvia = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Latvia 2023 - Top Colleges in Latvia'
+        },
+
+
         {
             "type": "table",
             "title": "Top Medical Universities in Latvia: Fees Structure(2022-23)",
-            "info": "<b>The MBBS fee structure of medical universities in Latvia is given below:</b>",
+            "info": "The MBBS fee structure of medical universities in Latvia is given below:",
             "col": [
                 "Name of the universities",
                 "Fees in INR",
@@ -179,10 +187,16 @@ export const mbbsinlatvia = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Latvia 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Latvia: Course Syllabus",
-            "info": "<b>Following is the MBBS syllabus of medical universities in Latvia:</b>",
+            "info": "Following is the MBBS syllabus of medical universities in Latvia:",
             "col": [
                 "First Year",
                 "Second Year"
@@ -303,7 +317,7 @@ export const mbbsinlatvia = {
         {
             "type": "list-bollet",
             "title": "Course Duration of MBBS in Latvia",
-            "info": "<b>The MBBS course duration in Latvia is 6 years. The details about the MBBS course durations are discussed below:</b>",
+            "info": "The MBBS course duration in Latvia is 6 years. The details about the MBBS course durations are discussed below:",
             "data": [
                 "MBBS in Latvia lasts for a duration of 6 years.",
                 "The courses taught in the English language.",
@@ -331,9 +345,14 @@ export const mbbsinlatvia = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'MBBS in Latvia 2023 - Career Options'
+        },
+
+        {
             "type": "list-bollet",
             "title": "Career Opportunities after MBBS in Latvia",
-            "info": "<b>MBBS in Latvia is a great study destination for each medical student. Following is the career guidelines after completion of MBBS in Latvia:</b>",
+            "info": "MBBS in Latvia is a great study destination for each medical student. Following is the career guidelines after completion of MBBS in Latvia:",
             "data": [
                 "After the successful completion of your graduate degree, you will receive the MD/MBBS degree from the university.",
                 "The degree entitles you as a medical doctor with a certified medical professional & trainer.",
@@ -361,10 +380,18 @@ export const mbbsinlatvia = {
 
     ],
     "faq": [
+
+
+        {
+            type: 'title',
+            title: 'MBBS in Latvia 2023 - FAQs'
+        },
+
+
         {
             "type": "question-list",
             "title": "MBBS in Latvia: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How can I apply for a Latvian visa?",

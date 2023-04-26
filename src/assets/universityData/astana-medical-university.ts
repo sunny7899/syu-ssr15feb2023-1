@@ -19,7 +19,7 @@ export const astanamedicaluniversity = {
         {
             "type": "table-title",
             "title": "Astana Medical University - Quick Highlights",
-            "info": "<b>Check out the important facts of the Astana Medical University:</b>",
+            "info": "Check out the important facts of the Astana Medical University:",
             "row": [
                 ["<b>Year of Establishment</b>", "26th October 1964"],
                 ["<b>Intake for MBBS Course</b>", "OctoberB"],
@@ -34,7 +34,7 @@ export const astanamedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Join ASTANA MEDICAL UNIVERSITY and earn lots of knowledge with thousands of students',
-            info: '<b>Now will go through some major reasons, why worldwide Students urge to study MBBS in Astana Medical University:</b>',
+            info: 'Now will go through some major reasons, why worldwide Students urge to study MBBS in Astana Medical University:</b>',
             data: [
                 "Reasonable fee structure which is affordable to global medical aspirants.",
                 "Top-notch medical education is provided in the University.",
@@ -70,7 +70,7 @@ export const astanamedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditations and Recognitions',
-            info: '<b>Lets have a look at the accreditations and recognitions of the Astana Medical University:</b>',
+            info: 'Lets have a look at the accreditations and recognitions of the Astana Medical University:',
             data: [
                 "National Medical Commission (NMC)",
                 "World health organization (WHO)",
@@ -80,7 +80,7 @@ export const astanamedicaluniversity = {
         {
             "type": "table",
             "title": "Astana Medical University - Ranking 2022",
-            "info": "<b>Astana Medical University holds a high position in the education of medicine program all over the world, consider Uni Rank to check out the ranking:</b>",
+            "info": "Astana Medical University holds a high position in the education of medicine program all over the world, consider Uni Rank to check out the ranking:",
             "col": [
                 "Country",
                 "World",
@@ -95,7 +95,7 @@ export const astanamedicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost at Astana",
-            "info": "<b>Living cost of Astana is generally cheaper than others:</b>",
+            "info": "Living cost of Astana is generally cheaper than others:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -142,7 +142,7 @@ export const astanamedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Here are some of the major hotspots of the Astana city that one should not miss while exploring Kazakhstan:</b>",
+            "info": "Here are some of the major hotspots of the Astana city that one should not miss while exploring Kazakhstan:",
             "row": [
                 ["Museum of the First President of the Republic of Kazakhstan", "Atameken"],
                 ["Palace of Peace and Reconciliation", "Nur-Astana Mosque"],
@@ -172,9 +172,13 @@ export const astanamedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Astana Medical University, Kazakhstan - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Astana Medical University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure of Astana Medical University is affordable for worldwide medical aspirants:</b>",
+            "info": "The fee structure of Astana Medical University is affordable for worldwide medical aspirants:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -225,7 +229,7 @@ export const astanamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Astana Medical University",
-            "info": "<b>There are 6 faculties in Astana Medical University:</b>",
+            "info": "There are 6 faculties in Astana Medical University:",
             "data": [
                 "Internal Medicine",
                 "Public Health",
@@ -238,7 +242,7 @@ export const astanamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Wondering what is the Subjects that Astana Medical University Students study?",
-            "info": "<b>20 MBBS SUBJECTS that students are trained on:</b>",
+            "info": "20 MBBS SUBJECTS that students are trained on:",
             "data": [
                 "<b>First Year:</b> Anatomy, Physiology, Biochemistry",
                 "<b>Second Year:</b> Microbiology, Pathology, Forensic Medicine, Pharmacology",
@@ -267,9 +271,13 @@ export const astanamedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Astana Medical University, Kazakhstan- Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Minimum requirement for Admission",
-            "info": "<b>To get into Astana Medical University students must fit into the eligibility criteria given below:</b>",
+            "info": "To get into Astana Medical University students must fit into the eligibility criteria given below:",
             "data": [
                 "Applicant must have qualified 12th",
                 "Minimum marks scored in Biology, Physics, Chemistry, English is 50 % PERCENTAGE",
@@ -279,7 +287,7 @@ export const astanamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Minimum qualification for:</b>",
+            "info": "Minimum qualification for:",
             "data": [
                 "Reserved-45%",
                 "Unreserved-50%",
@@ -290,7 +298,7 @@ export const astanamedicaluniversity = {
         {
             type: 'step-list',
             title: 'How can I get admission in Astana Medical University?',
-            info: '<b>Here are some steps of the admission process the medical aspirants need to follow:</b>',
+            info: 'Here are some steps of the admission process the medical aspirants need to follow:',
             data: [
                 "Step 1: Present your application form with authentic ID and proofs.",
                 "Step 2: Scan and send original documents with passport copy on mail: Higher secondary mark sheet",
@@ -303,7 +311,7 @@ export const astanamedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required For Astana Medical University Admission',
-            info: '<b>Important documents must be submitted at the time of the MBBS admission process:</b>',
+            info: 'Important documents must be submitted at the time of the MBBS admission process:',
             data: [
                 "Certificate of completed intermediate education must be submitted at admission time.",
                 "Application form should be submitted during admission.",
@@ -323,7 +331,7 @@ export const astanamedicaluniversity = {
         },
         {
             type: "meta-title",
-            title: "Astana Medical University, Kazakhstan- Admission 2023 "
+            title: "Astana Medical University, Kazakhstan- Admission 2023"
         },
         {
             type: "meta-links",
@@ -333,6 +341,10 @@ export const astanamedicaluniversity = {
         }
     ],
     "review": [
+        {
+            type: 'title',
+            title: "Astana Medical University, Kazakhstan- Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -353,6 +365,10 @@ export const astanamedicaluniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: "Astana Medical University, Kazakhstan- Placement"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Astana Medical University, Kazakhstan- Placement" },
@@ -372,6 +388,10 @@ export const astanamedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Astana Medical University, Kazakhstan- Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Astana Medical University, Kazakhstan- Gallery" },
@@ -390,6 +410,10 @@ export const astanamedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Astana Medical University, Kazakhstan- Scholarship"
+        },
         {
             type: 'list-bollet',
             title: 'Scholarship',
@@ -422,6 +446,10 @@ export const astanamedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Astana Medical University, Kazakhstan- Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Astana Medical University, Kazakhstan- Faculty" },
@@ -441,9 +469,13 @@ export const astanamedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Astana Medical University, Kazakhstan- Hostel"
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel, Accommodation and other Benefits',
-            info: '<b>Highly Infrastructured facilities offered in the campus by Astana Medical University, Kazakhstan:</b>',
+            info: 'Highly Infrastructured facilities offered in the campus by Astana Medical University, Kazakhstan:',
             data: [
                 "A no.1 university all over Kazakhstan",
                 "Course duration - Five-year MBBS",
@@ -480,6 +512,10 @@ export const astanamedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Astana Medical University, Kazakhstan- News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Astana Medical University, Kazakhstan- News & Articles" },
@@ -500,9 +536,13 @@ export const astanamedicaluniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Astana Medical University, Kazakhstan- FAQ"
+            },
+            {
                 "type": "question-list",
                 "title": "Astana Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. Is an MBBS degree from the Astana Medical University valid in India?",

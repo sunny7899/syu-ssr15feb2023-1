@@ -19,10 +19,8 @@ export const universityofedinburgh = {
         {
             "type": "table-title",
             "title": "The University of Edinburgh - Quick Highlights",
-            "info": "<b>Know the fact files of this college from the table below:</b>",
-            "col": [
-
-            ],
+            "info": "Know the fact files of this college from the table below:",
+            "col": [],
             "row": [
                 ["<b>Programs offered</b>", "Graduate, Postgraduate"],
                 ["<b>Entrance Examination</b>", "Pre-Selection interview"],
@@ -37,7 +35,7 @@ export const universityofedinburgh = {
         {
             "type": "list-bollet",
             "title": "Why Choose the University of Edinburgh?",
-            "info": "<b>Have a look at the benefits offered by the university:</b>",
+            "info": "Have a look at the benefits offered by the university:",
             "data": [
                 "The best place to study at, an excellent university in a beautiful city.",
                 "Carries out best teaching and research activities.",
@@ -56,7 +54,7 @@ export const universityofedinburgh = {
         {
             "type": "table",
             "title": "The University of Edinburgh - Ranking 2022",
-            "info": "<b>Have a look below and know the amazing ranking of the university:</b>",
+            "info": "Have a look below and know the amazing ranking of the university:",
             "col": [
                 "World",
                 "Country"
@@ -71,7 +69,7 @@ export const universityofedinburgh = {
         {
             "type": "list-bollet",
             "title": "Affiliations",
-            "info": "<b>The university is the following affiliations:</b>",
+            "info": "The university is the following affiliations:",
             "data": [
                 "Universitas 21",
                 "League of European Research Universities",
@@ -89,7 +87,7 @@ export const universityofedinburgh = {
         {
             "type": "table",
             "title": "Living Expenses in Scotland, UK",
-            "info": "<b>Know the basic expenditures of living in Scotland. The cost may vary depending upon the basic needs of an individual:</b>",
+            "info": "Know the basic expenditures of living in Scotland. The cost may vary depending upon the basic needs of an individual:",
             "col": [
                 "Particulars",
                 "Approx in USD",
@@ -129,17 +127,19 @@ export const universityofedinburgh = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Edinburgh - Program & Course Duration",
             "info": "Undergraduate",
-            "textBelowInfo": "<b>Engineering</b>",
+            "textBelowInfo": "Engineering",
             "col": [
                 "Courses",
                 "Course Duration",
                 "Fees/Year",
                 "Award",
-
-
             ],
             "row": [
 
@@ -245,18 +245,14 @@ export const universityofedinburgh = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Business</b>",
+            "textBelowInfo": "Business",
             "col": [
                 "Courses",
                 "Course Duration",
                 "Fees/Year",
-                "Award",
-
-
+                "Award"
             ],
             "row": [
-
-
                 {
                     "Courses": "<b>Business and Geography</b>",
                     "Course Duration": "4 years - Full-Time",
@@ -365,18 +361,14 @@ export const universityofedinburgh = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Arts</b>",
+            "textBelowInfo": "Arts",
             "col": [
                 "Courses",
                 "Course Duration",
                 "Fees/Year",
                 "Award",
-
-
             ],
             "row": [
-
-
                 {
                     "Courses": "<b>Art</b>",
                     "Course Duration": "4 years - Full-Time",
@@ -419,18 +411,14 @@ export const universityofedinburgh = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Computer Science</b>",
+            "textBelowInfo": "Computer Science",
             "col": [
                 "Courses",
                 "Course Duration",
                 "Fees/Year",
                 "Award",
-
-
             ],
             "row": [
-
-
                 {
                     "Courses": "<b>Cognitive Science (Humanities)</b>",
                     "Course Duration": "4 years - Full-Time",
@@ -509,14 +497,12 @@ export const universityofedinburgh = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Law</b>",
+            "textBelowInfo": "Law",
             "col": [
                 "Courses",
                 "Course Duration",
                 "Fees/Year",
                 "Award",
-
-
             ],
             "row": [
                 {
@@ -579,15 +565,13 @@ export const universityofedinburgh = {
             "type": "table",
             "title": "",
             "info": "Postgraduate",
-            "textBelowInfo": "<b>Engineering</b>",
+            "textBelowInfo": "Engineering",
             "col": [
                 "Courses",
                 "Program Type",
                 "Course Duration",
                 "Fees/Year",
                 "Award",
-
-
             ],
             "row": [
                 {
@@ -736,15 +720,13 @@ export const universityofedinburgh = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Business</b>",
+            "textBelowInfo": "Business",
             "col": [
                 "Courses",
                 "Program Type",
                 "Course Duration",
                 "Fees/Year",
                 "Award",
-
-
             ],
             "row": [
                 {
@@ -886,15 +868,13 @@ export const universityofedinburgh = {
             "type": "table",
             "title": "",
             "info": "",
-            "textBelowInfo": "<b>Law</b>",
+            "textBelowInfo": "Law",
             "col": [
                 "Courses",
                 "Program Type",
                 "Course Duration",
                 "Fees/Year",
                 "Award",
-
-
             ],
             "row": [
                 {
@@ -948,8 +928,6 @@ export const universityofedinburgh = {
                 },
             ]
         },
-
-
         {
             type: "meta",
             meta: [
@@ -970,9 +948,13 @@ export const universityofedinburgh = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The university has basic eligibility criteria for the study courses, check below:</b>",
+            "info": "The university has basic eligibility criteria for the study courses, check below:",
             "data": [
                 "Must have proof of English language proficiency (IELTS/TOEFL)",
                 "GMAT and GRE score required for PG",
@@ -987,7 +969,7 @@ export const universityofedinburgh = {
         {
             "type": "step-list",
             "title": "How to Apply at the University of Edinburgh?",
-            "info": "<b>Know the admission process carried out by the university:</b>",
+            "info": "Know the admission process carried out by the university:",
             "data": [
                 "<b>Step 1:</b> Apply via UCAS. All the applications are recommended via UCAS.",
                 "<b>Step 2:</b> Get registered on this application portal and get started with the application process as per the given instructions.",
@@ -998,7 +980,7 @@ export const universityofedinburgh = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The points below will help you learn about mandatory documents required to submit:</b>",
+            "info": "The points below will help you learn about mandatory documents required to submit:",
             "data": [
                 "Transcript of records and Grade Point Average.",
                 "Proof of English language.",
@@ -1031,7 +1013,7 @@ export const universityofedinburgh = {
         {
             "type": "table",
             "title": "The University of Edinburgh - Academic Calendar 2022",
-            "info": "<b>Know the semester & term dates of the university:</b>",
+            "info": "Know the semester & term dates of the university:",
             "col": [
                 "Events",
                 "Date",
@@ -1071,6 +1053,10 @@ export const universityofedinburgh = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "The University of Edinburgh, UK - Reviews" },
@@ -1089,6 +1075,10 @@ export const universityofedinburgh = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -1109,6 +1099,10 @@ export const universityofedinburgh = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "The University of Edinburgh, UK - Gallery" },
@@ -1128,9 +1122,13 @@ export const universityofedinburgh = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>The university offers scholarships to deserving students on the merit basis:</b>",
+            "info": "The university offers scholarships to deserving students on the merit basis:",
             "textBelowInfo": "Ph.D. Scholarships",
             "data": [
                 "Edinburgh Global Research Scholarship",
@@ -1141,7 +1139,7 @@ export const universityofedinburgh = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Master’s Scholarship</b>",
+            "info": "Master’s Scholarship",
             "data": [
                 "MSc Education (Early Childhood Practice and Froebel)",
                 "Scotland’s Saltire Scholarship",
@@ -1169,6 +1167,10 @@ export const universityofedinburgh = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - Faculty'
+        },
+        {
             "type": "table",
             "title": "Faculty ",
             "col": [
@@ -1194,8 +1196,6 @@ export const universityofedinburgh = {
                 },
             ]
         },
-
-
         {
             type: "meta",
             meta: [
@@ -1216,6 +1216,10 @@ export const universityofedinburgh = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "The University of Edinburgh, UK - News & Articles" },
@@ -1235,9 +1239,13 @@ export const universityofedinburgh = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The university renders exclusive accommodation facilities to the onboard students:</b>",
+            "info": "The university renders exclusive accommodation facilities to the onboard students:",
             "data": [
                 "The university provides students with on-campus standard accommodation facilities.",
                 "These accommodations are available at a reasonable price.",
@@ -1269,6 +1277,10 @@ export const universityofedinburgh = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'The University of Edinburgh, UK - FAQ'
+        },
         {
             type: 'question-list',
             title: 'University of Edinburgh - Important FAQs',

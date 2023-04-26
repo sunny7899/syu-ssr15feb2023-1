@@ -1,4 +1,3 @@
-
 export const usbanglamedicalcollege = {
   "Title": "US-Bangla Medical College, Bangladesh",
   "shortTitle": "US-Bangla Medical College",
@@ -20,7 +19,7 @@ export const usbanglamedicalcollege = {
     {
       "type": "table-title",
       "title": "US-Bangla Medical College - Quick Overview",
-      "info": "<b>Deep dive into the important highlights about US-Bangla Medical College & Hospital:</b>",
+      "info": "Deep dive into the important highlights about US-Bangla Medical College & Hospital:",
       "col": [],
       "row": [
         ["<b>Institute type</b>", "Private"],
@@ -35,7 +34,7 @@ export const usbanglamedicalcollege = {
     {
       type: 'list-bollet',
       title: 'Why Study MBBS at US-Bangla Medical College?',
-      info: "<b>Let's get to know why many students urge to pursue MBBS at US-Bangla Medical College:</b>",
+      info: "Let's get to know why many students urge to pursue MBBS at US-Bangla Medical College:",
       data: [
         "The institute has a quality educational system that is based on the latest principles to provide a better education.",
         "The medium of teaching is the English language.",
@@ -51,7 +50,7 @@ export const usbanglamedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Facilities Offered at US-Bangla Medical College",
-      "info": "<b>The campus is enabled with all facilities that expect to experience a hassle-free education:</b>",
+      "info": "The campus is enabled with all facilities that expect to experience a hassle-free education:",
       "data": [
         "Laboratories",
         "Library",
@@ -72,7 +71,7 @@ export const usbanglamedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>US-Bangla Medical College has the following accreditation and recognition:</b>",
+      "info": "US-Bangla Medical College has the following accreditation and recognition:",
       "data": [
         "World Health Organization (WHO)",
         "Bangladesh Medical & Dental Council (BMDC)",
@@ -83,7 +82,7 @@ export const usbanglamedicalcollege = {
     {
       "type": "table",
       "title": "Living Expenses of Dhaka",
-      "info": "<b>Dhaka, Bangladesh is affordable for the students while MBBS education at US-Bangla Medical College & Hospital, The table shows the average and approx cost of living for a month which may vary person to person:</b>",
+      "info": "Dhaka, Bangladesh is affordable for the students while MBBS education at US-Bangla Medical College & Hospital, The table shows the average and approx cost of living for a month which may vary person to person:",
       "col": [
         "Particular",
         "Amount in USD",
@@ -123,9 +122,13 @@ export const usbanglamedicalcollege = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "US-Bangla Medical College & Hospital  - courses & Fees"
+    },
+    {
       "type": "table",
       "title": "US-Bangla Medical College - MBBS Fee structure 2022",
-      "info": "<b>Check out the fee of US-Bangla Medical College to study MBBS in Bangladesh:</b>",
+      "info": "Check out the fee of US-Bangla Medical College to study MBBS in Bangladesh:",
       "col": [
         "Particular",
         "Amount in USD",
@@ -163,12 +166,12 @@ export const usbanglamedicalcollege = {
           "Amount in Rs": "<b>24,50,000 Rs</b>",
         },
       ],
-      heading: '<p><b style=color: red><u>Note</u>:</b> 1 USD = 70 Rs (approx.)</p>'
+      "heading": '<p><b style=color: red><u>Note</u>:</b> 1 USD = 70 Rs (approx.)</p>'
     },
     {
       "type": "list-bollet",
       "title": "US-Bangla Medical College - MBBS Duration",
-      "info": "<b>The course duration is of 5 years with 1 year of internship:</b>",
+      "info": "The course duration is of 5 years with 1 year of internship:",
       "data": [
         "US-Bangla Medical College offers 5 years of the medical program in English medium.",
         "The students will not only gain theoretical knowledge but also the practical aspect of medicine.",
@@ -179,7 +182,7 @@ export const usbanglamedicalcollege = {
     {
       "type": "table",
       "title": "US-Bangla Medical College - MBBS Syllabus",
-      "info": "<b>Refer to the organized syllabus of the MBBS program at US-Bangla Medical College:</b>",
+      "info": "Refer to the organized syllabus of the MBBS program at US-Bangla Medical College:",
       "col": [
         "Phase",
         "Duration",
@@ -233,9 +236,13 @@ export const usbanglamedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'US-Bangla Medical College & Hospital  - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>To admit at US-Bangla Medical College, First of all, the students must fulfill all criteria:</b>",
+      "info": "To admit at US-Bangla Medical College, First of all, the students must fulfill all criteria:",
       "data": [
         "The willing candidates should complete 17 years old or before 31st December of the admission year to get eligible for MBBS admission.",
         "The candidates of the national merit list published by the director-general of health services, Dhaka are eligible to get admission.",
@@ -246,7 +253,7 @@ export const usbanglamedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>If you decided to take admission to USBMC, then undertake the following admission steps:</b>',
+      info: 'If you decided to take admission to USBMC, then undertake the following admission steps:',
       data: [
          "Step 1: The application form is available at the University office, the students fill up the necessary information to apply for MBBS admission.",
          "Step 2: After completing the application form, submit the relevant documents to the office within the announced date and time.",
@@ -258,7 +265,7 @@ export const usbanglamedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>Eligible candidates should collect the essential documents and submit them with the application form:</b>",
+      "info": "Eligible candidates should collect the essential documents and submit them with the application form:",
       "data": [
         "Certificate of SSC & HSC Examination or its equivalent",
         "Correct filled application form",
@@ -279,12 +286,12 @@ export const usbanglamedicalcollege = {
         "NEET scores",
         "Caste certificate"
       ],
-      heading: '<p>The students must take original copies of all documents during admission time.</p>'
+      "heading": '<p>The students must take original copies of all documents during admission time.</p>'
     },
     {
       "type": "table",
       "title": "US-Bangla Medical College - Important Dates 2022",
-      "info": "<b>Always keep an eye on the important dates regarding medicine admissions at US-Bangla Medical College & Hospital:</b>",
+      "info": "Always keep an eye on the important dates regarding medicine admissions at US-Bangla Medical College & Hospital:",
       "col": [
         "Events",
         "Dates",
@@ -329,6 +336,10 @@ export const usbanglamedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'US-Bangla Medical College & Hospital  - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "US-Bangla Medical College & Hospital  - Reviews" },
@@ -347,6 +358,10 @@ export const usbanglamedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'US-Bangla Medical College & Hospital  - Placement'
+    },
     {
       type: "meta",
       meta: [
@@ -367,6 +382,10 @@ export const usbanglamedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'US-Bangla Medical College & Hospital  - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "US-Bangla Medical College & Hospital  - Gallery" },
@@ -385,6 +404,10 @@ export const usbanglamedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: 'US-Bangla Medical College & Hospital  - Scholarship'
+    },
     {
       type: "meta",
       meta: [
@@ -405,6 +428,10 @@ export const usbanglamedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'US-Bangla Medical College & Hospital  - Faculty'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "US-Bangla Medical College & Hospital  - Faculty" },
@@ -423,6 +450,10 @@ export const usbanglamedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: 'US-Bangla Medical College & Hospital  - News & Articles'
+    },
     {
       type: "meta",
       meta: [
@@ -443,9 +474,13 @@ export const usbanglamedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'US-Bangla Medical College & Hospital  - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>US-Bangla Medical College has modernized and well-equipped hostel lodging for worldwide students:</b>",
+      "info": "US-Bangla Medical College has modernized and well-equipped hostel lodging for worldwide students:",
       "data": [
         "The US-Bangla Medical College provides fully furnished and comfortable hostel rooms.",
         "The hostel rooms are on a sharing basis.",
@@ -456,7 +491,7 @@ export const usbanglamedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Availability of important modern amenities -</b>",
+      "info": "Availability of important modern amenities -",
       "data": [
       "Pillows",
       "Blankets",
@@ -500,9 +535,13 @@ export const usbanglamedicalcollege = {
 
   "faq": [
     {
+      type: 'title',
+      title: 'US-Bangla Medical College & Hospital  - FAQ'
+    },
+    {
       "type": "question-list",
       "title": "US-Bangla Medical College - Important FAQs",
-      "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+      "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
       "data": [
         {
           "ques": "Q. What are the hostel facilities provided by the US-Bangla Medical College?",

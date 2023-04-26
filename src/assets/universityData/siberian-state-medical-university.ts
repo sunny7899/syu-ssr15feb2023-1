@@ -33,10 +33,6 @@ export const siberianstatemedicaluniversity = {
                 ["Recognition", "WHO & NMC approved"]
             ]
         },
-
-
-
-
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Siberian State Medical University?",
@@ -74,12 +70,8 @@ export const siberianstatemedicaluniversity = {
                     "Particular": "Total Fee",
                     "Annual Fee": "Rs. 2,96,190"
                 }
-            ]
-        },
-        {
-            "type": "text",
-            "title": "",
-            "data": '<p><strong style="color: red;">Note: </strong>$1 = Rs. 70 (It may vary)</p>'
+            ],
+            "heading:": '<p><strong style="color: red;">Note: </strong>$1 = Rs. 70 (It may vary)</p>'
         },
         {
             "type": "list-bollet",
@@ -380,12 +372,8 @@ export const siberianstatemedicaluniversity = {
                     "Approx Range in USD": "8-14",
                     "Approx Range in RS": "600-1000"
                 }
-            ]
-        },
-        {
-            "type": "text",
-            "title": "",
-            "data": '<p><strong style="color: red;">Note: </strong>$1 = Rs. 70 Rs.</p>'
+            ],
+            "heading:": '<p><strong style="color: red;">Note: </strong>$1 = Rs. 70 Rs.</p>'
         },
         {
             "type": "text",
@@ -427,6 +415,10 @@ export const siberianstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Siberian State Medical University - courses & Fees'
+        },
+        {
             "type": "text",
             "title": "Siberian State Medical University: MBBS Course Syllabus",
             "data": "<b>The syllabus for MBBS in Siberian State Medical University is shown in the table below:</b>",
@@ -435,7 +427,7 @@ export const siberianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>1st Year</b>",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -451,7 +443,7 @@ export const siberianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -487,7 +479,7 @@ export const siberianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -515,7 +507,7 @@ export const siberianstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "4th Year",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["Oncology", "Internal Medicine"],
@@ -530,7 +522,7 @@ export const siberianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Siberian State Medical University",
-            "info": "<b>The medical faculties offered by Siberian State Medical University are mentioned below:</b>",
+            "info": "The medical faculties offered by Siberian State Medical University are mentioned below:",
             "data": [
                 "Pediatrics",
                 "Pharmacy",
@@ -542,7 +534,7 @@ export const siberianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Siberian State Medical University: MBBS Fee Structure 2022",
-            "info": "<b>Siberian State Medical University: MBBS Fee Structure 2022</b>",
+            "info": "Siberian State Medical University: MBBS Fee Structure 2022",
             "col": [
                 "Particular",
                 "Annual Fee"
@@ -594,9 +586,13 @@ export const siberianstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Siberian State Medical University - Admission 2023 '
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following is admission criteria for MBBS course at Siberian State Medical University:</b>",
+            "info": "Following is admission criteria for MBBS course at Siberian State Medical University:",
             "data": [
                 "Candidate needs to clear a higher secondary examination like 10+2 or equivalent from the recognized board or university.",
                 "Age of the candidate should be minimum of 17 years & the maximum should be 25 years.",
@@ -609,7 +605,7 @@ export const siberianstatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Following are the steps for MBBS admission to Siberian State Medical University:</b>",
+            "info": "Following are the steps for MBBS admission to Siberian State Medical University:",
             "data": [
                 "Step 1: Download and print the application form.",
                 "Step 2: Send the scanned copies of documents, application form, educational details to the mail",
@@ -625,7 +621,7 @@ export const siberianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following is checklists of documents required for appying MBBS course at Siberian State Medical University:</b>",
+            "info": "Following is checklists of documents required for appying MBBS course at Siberian State Medical University:",
             "data": [
                 "Copy of Orignal Passport",
                 "Copy of Mark Sheets",
@@ -643,7 +639,7 @@ export const siberianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Siberian State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Siberian State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Siberian State Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -683,121 +679,34 @@ export const siberianstatemedicaluniversity = {
         }
 
     ],
-    "gallery": {},
-    "News & Articles": {},
-    "hostel": [
+    "review": [
         {
-            "type": "text",
-            "title": "Hostel and Accommodation",
-            "info": "<b>The Siberian State Medical University offers 6 dormitories for international students. Procedure for applying the university’s dormitories is as follows:</b>"
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "<b>First Preference:</b>",
-            "data": [
-                "The students who are orphans and left without parental care.",
-                "Students with disabilities since childhood.",
-                "Students with other categories entitled to the extraordinary provision of housing in the hostel."
-
-
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "<b>Second Preference:</b>",
-            "data": [
-                "Non-resident students studying under the agreement of university."
-
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "<b>Third Preference:</b>",
-            "data": [
-                "Students with high scores in the entrance examinations"
-
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "<b>Note:</b>",
-            "data": [
-                "Foreign students can stay in the dormitories on a common basis if there are vacant places available otherwise they have to stay at off-campus accommodation.",
-                "Students below age 18 are not allowed to stay in the hostels."
-
-            ]
+            type: 'title',
+            title: 'Siberian State Medical University - Reviews'
         },
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Siberian State Medical University - Hostel" },
-                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+                { name: "title", content: "Siberian State Medical University - Reviews" },
+                { name: "description", content: "Find out what makes this college so special by reading student reviews. Click here to see reviews" },
             ],
         },
         {
             type: "meta-title",
-            title: "Siberian State Medical University - Hostel"
+            title: "Siberian State Medical University - Reviews"
         },
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/siberian-state-medical-university/hostel" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/siberian-state-medical-university/reviews" }
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Siberian State Medical University: Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. How much of the MBBS course fees at Siberian State Medical University?",
-                        "ans": "At Siberian State Medical University, tuition fees for the MBBS course are around Rs. 2.96 lakhs per year. It may vary from year to year."
-                    },
-                    {
-                        "ques": "Q. What I do if I have the sponsors for my education?                        ",
-                        "ans": "If your education is sponsored by a third party like an embassy, government or your relative then you have to produce evidence of respective sponsors by email to international.ssmu@gmail.com."
-                    },
-                    {
-                        "ques": "Q. Are there any scholarships offered to foreign students?",
-                        "ans": "No. there are no such scholarships are offered to foreign students."
-                    },
-                    {
-                        "ques": "Q. What is the application deadline for MBBS course at Siberian State Medical University?",
-                        "ans": "Applicant needs to submit their applications before September 20, 2022."
-                    },
-                    {
-                        "ques": "Q. Are there any entrance exams for the admission to MBBS programs?",
-                        "ans": "Yes, the exams will be for Chemistry, Biology & English subjects."
-                    }
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Siberian State Medical University - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Siberian State Medical University - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/siberian-state-medical-university/faq" }
-                ]
-            }
-
-        ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Siberian State Medical University - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -827,7 +736,34 @@ export const siberianstatemedicaluniversity = {
             ]
         }
     ],
+    "gallery": [
+        {
+            type: 'title',
+            title: 'Siberian State Medical University - Gallery'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Siberian State Medical University - Gallery" },
+                { name: "description", content: "See what life is like as a student at one of the best institutes. Check gallery here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Siberian State Medical University - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/siberian-state-medical-university/gallery" }
+            ]
+        }
+    ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Siberian State Medical University - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -838,8 +774,6 @@ export const siberianstatemedicaluniversity = {
                 "Novus Biologicals Scholarship",
                 "The Brian Joseph Lombardi Scholarship",
                 "Marcus Joseph Debaise Scholarship"
-
-
             ]
         },
         {
@@ -861,6 +795,10 @@ export const siberianstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Siberian State Medical University - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -910,6 +848,148 @@ export const siberianstatemedicaluniversity = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/siberian-state-medical-university/faculty" }
             ]
         }
-    ]
+    ],
+    "news": [
+        {
+            type: 'title',
+            title: 'Siberian State Medical University - News & Articles'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Siberian State Medical University - News & Articles" },
+                { name: "description", content: "Read latest News, Articles about Cutoffs, Placements, courses, Fees. Check all the news and articles here" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Siberian State Medical University - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/siberian-state-medical-university/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: 'title',
+            title: 'Siberian State Medical University - Hostel'
+        },
+        {
+            "type": "text",
+            "title": "Hostel and Accommodation",
+            "info": "The Siberian State Medical University offers 6 dormitories for international students. Procedure for applying the university’s dormitories is as follows:"
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "First Preference:",
+            "data": [
+                "The students who are orphans and left without parental care.",
+                "Students with disabilities since childhood.",
+                "Students with other categories entitled to the extraordinary provision of housing in the hostel."
 
+
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Second Preference:",
+            "data": [
+                "Non-resident students studying under the agreement of university."
+
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Third Preference:",
+            "data": [
+                "Students with high scores in the entrance examinations"
+
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Note:",
+            "data": [
+                "Foreign students can stay in the dormitories on a common basis if there are vacant places available otherwise they have to stay at off-campus accommodation.",
+                "Students below age 18 are not allowed to stay in the hostels."
+
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Siberian State Medical University - Hostel" },
+                { name: "description", content: "accomodation inquiry Grab this opportunity to make a bright future· Click Here to know about accomodation" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Siberian State Medical University - Hostel"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/siberian-state-medical-university/hostel" }
+            ]
+        }
+    ],
+    "faq": [
+        {
+            type: 'title',
+            title: 'Siberian State Medical University - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Siberian State Medical University: Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+            "data": [
+                {
+                    "ques": "Q. How much of the MBBS course fees at Siberian State Medical University?",
+                    "ans": "At Siberian State Medical University, tuition fees for the MBBS course are around Rs. 2.96 lakhs per year. It may vary from year to year."
+                },
+                {
+                    "ques": "Q. What I do if I have the sponsors for my education?                        ",
+                    "ans": "If your education is sponsored by a third party like an embassy, government or your relative then you have to produce evidence of respective sponsors by email to international.ssmu@gmail.com."
+                },
+                {
+                    "ques": "Q. Are there any scholarships offered to foreign students?",
+                    "ans": "No. there are no such scholarships are offered to foreign students."
+                },
+                {
+                    "ques": "Q. What is the application deadline for MBBS course at Siberian State Medical University?",
+                    "ans": "Applicant needs to submit their applications before September 20, 2022."
+                },
+                {
+                    "ques": "Q. Are there any entrance exams for the admission to MBBS programs?",
+                    "ans": "Yes, the exams will be for Chemistry, Biology & English subjects."
+                }
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Siberian State Medical University - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Siberian State Medical University - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/siberian-state-medical-university/faq" }
+            ]
+        }
+
+    ],
+   
 }

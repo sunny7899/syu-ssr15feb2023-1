@@ -19,7 +19,7 @@ export const universityofbedfordshire = {
         {
             "type": "table-title",
             "title": "University of Bedfordshire - Quick Highlights",
-            "info": "<b>The students must know basic things about college before taking admission:</b>",
+            "info": "The students must know basic things about college before taking admission:",
             "col": [],
             "row": [
                 ["<b>Institute Type</b>", "Public"],
@@ -35,7 +35,7 @@ export const universityofbedfordshire = {
         {
             "type": "list-bollet",
             "title": "Why Study at University of Bedfordshire?",
-            "info": "<b>Here are some reasons to choose the University of Bedfordshire for pursuing higher studies in the Uk:</b>",
+            "info": "Here are some reasons to choose the University of Bedfordshire for pursuing higher studies in the Uk:",
             "data": [
                 "Great facilities at the campus",
                 "excellent learning resources",
@@ -49,7 +49,7 @@ export const universityofbedfordshire = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Check out the medium of literature provided at the University of Bedfordshire for teaching various courses:</b>",
+            "info": "Check out the medium of literature provided at the University of Bedfordshire for teaching various courses:",
             "data": [
                 "The University of Bedfordshire will offer undergraduate and graduate education in 100% English language."
             ]
@@ -57,7 +57,7 @@ export const universityofbedfordshire = {
         {
             "type": "table",
             "title": "University of Bedfordshire - Ranking 2022",
-            "info": "<b>Here is the latest world and country ranking of the University of Bedfordshire:</b>",
+            "info": "Here is the latest world and country ranking of the University of Bedfordshire:",
             "col": [
                 "Country",
                 "World"
@@ -72,7 +72,7 @@ export const universityofbedfordshire = {
         {
             "type": "table",
             "title": "Living Cost of Luton, England",
-            "info": "<b>The candidates must check out the monthly living cost of staying in Luton, England:</b>",
+            "info": "The candidates must check out the monthly living cost of staying in Luton, England:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -90,7 +90,7 @@ export const universityofbedfordshire = {
                     "Approx Range in RS": "8,680 Rs"
                 }
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> 1 USD = Rs. 70 ( For Calculation )</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> 1 USD = Rs. 70 ( For Calculation )</p>'
         },
         {
             type: "meta",
@@ -112,9 +112,13 @@ export const universityofbedfordshire = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University of Bedfordshire - Tuition Fee 2022",
-            "info": "<b>Check out the fee structure if you want to study postgraduate and undergraduate courses:</b>",
+            "info": "Check out the fee structure if you want to study postgraduate and undergraduate courses:",
             "col": [
                 "Course level",
                 "Tuition Fees"
@@ -154,7 +158,7 @@ export const universityofbedfordshire = {
         {
             "type": "table",
             "title": "Undergraduate Programs <br> Programs, Duration and Exam Details (Undergraduate Programs)",
-            "info": "<b>Here is the list of all undergraduate courses, exam details and course duration for assisting you with admission:</b>",
+            "info": "Here is the list of all undergraduate courses, exam details and course duration for assisting you with admission:",
             "col": [
                 "Program",
                 "Course Duration",
@@ -292,7 +296,7 @@ export const universityofbedfordshire = {
         {
             "type": "table",
             "title": "Master Courses <br> Programmes, Duration & Exam Details (Master Courses)",
-            "info": "<b>Let’s dive into a wide variety of masters courses along with exam and duration details offered for students to make a better choice:</b>",
+            "info": "Let’s dive into a wide variety of masters courses along with exam and duration details offered for students to make a better choice:",
             "col": [
                 "Programs",
                 "Campus",
@@ -500,7 +504,7 @@ export const universityofbedfordshire = {
         {
             "type": "list-bollet",
             "title": "Faculties at University of Bedfordshire",
-            "info": "<b>The University of Bedfordshire has 4 faculties for the students:</b>",
+            "info": "The University of Bedfordshire has 4 faculties for the students:",
             "data": [
                 "University of Bedfordshire Business School",
                 "Faculty of Creative Arts, Technologies and Science",
@@ -528,9 +532,13 @@ export const universityofbedfordshire = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - Admission 2023'
+        },
+        {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>In this step-to-step guide about the University of Bedfordshire, you will learn about the following things:</b>",
+            "info": "In this step-to-step guide about the University of Bedfordshire, you will learn about the following things:",
             "data": [
                 "Step 1: The candidates must apply online to fill the direct application form of the University.",
                 "Step 2: Submit the important documents along with the application form by mail.",
@@ -543,7 +551,7 @@ export const universityofbedfordshire = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>All Supporting documents must be provided by the students along with the application form:</b>",
+            "info": "All Supporting documents must be provided by the students along with the application form:",
             "data": [
                 "A completed application form signed by applicant or an electronic signature",
                 "Copies of your official academic qualifications and certificates",
@@ -552,13 +560,13 @@ export const universityofbedfordshire = {
                 "Current valid passport details - Copy",
                 "Please submit copies of any UK Visa that you have held and any documentation relating to previous visa refusals from any country "
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> While submitting an application form the students should remember to include photocopies of documents, and colleges don’t need to have original qualifications and certificates.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> While submitting an application form the students should remember to include photocopies of documents, and colleges don’t need to have original qualifications and certificates.</p>'
 
         },
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria (Undergraduate Programs)",
-            "info": "<b>The eligibility criteria for a place on an undergraduate course the requirements are as follows:</b>",
+            "info": "The eligibility criteria for a place on an undergraduate course the requirements are as follows:",
             "data": [
                 "Completed your high school education (12 years) and have a pass equivalent to two UK A level passes",
                 "Required English language qualification : IELTS overall score of 6.0 with minimum 5.5 in each element"
@@ -567,7 +575,7 @@ export const universityofbedfordshire = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022 (Undergraduate Programs)",
-            "info": "<b>The candidates must check out the important dates to study at the University of Bedfordshire.</b>",
+            "info": "The candidates must check out the important dates to study at the University of Bedfordshire.",
             "col": [
                 "Events",
                 "Dates"
@@ -594,7 +602,7 @@ export const universityofbedfordshire = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria (Master Courses)",
-            "info": "<b>Check all eligibility criteria mentioned below to study masters courses in the Uk at the University of Bedfordshire:</b>",
+            "info": "Check all eligibility criteria mentioned below to study masters courses in the Uk at the University of Bedfordshire:",
             "data": [
                 "The students must have a valid passport copy for doing their masters in the UK.",
                 "All candidates must have completed high secondary education to enroll in a masters program.",
@@ -603,12 +611,12 @@ export const universityofbedfordshire = {
                 "The students need to have excellent English language knowledge with good scores.",
                 "IELTS overall score of 6.0 with a minimum of 5.5 in each element"
             ],
-            heading: '<p><b style=color: red;><u>Note:</u></b> Some programs may require a high level of English proficiency, so the exact criteria are specified in the course descriptions.</p>'
+            "heading": '<p><b style=color: red;><u>Note:</u></b> Some programs may require a high level of English proficiency, so the exact criteria are specified in the course descriptions.</p>'
         },
         {
             "type": "table",
             "title": "Important Dates - Intake 2022 (Master Courses)",
-            "info": "<b>Let’s know about the main dates which will assist you for masters courses admission at the University of Bedfordshire.</b>",
+            "info": "Let’s know about the main dates which will assist you for masters courses admission at the University of Bedfordshire.",
             "col": [
                 "Events",
                 "Dates"
@@ -652,6 +660,10 @@ export const universityofbedfordshire = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Bedfordshire, UK - Reviews" },
@@ -670,6 +682,10 @@ export const universityofbedfordshire = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -690,6 +706,10 @@ export const universityofbedfordshire = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Bedfordshire, UK - Gallery" },
@@ -709,9 +729,13 @@ export const universityofbedfordshire = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarship",
-            "info": "<b>Following are the scholarships offered by the University of Bedfordshire for making full use of it have a look -</b>",
+            "info": "Following are the scholarships offered by the University of Bedfordshire for making full use of it have a look -",
             "data": [
                 "Undergraduate Scholarships",
                 "Postgraduate Taught (excluding MBA) Scholarships",
@@ -739,6 +763,10 @@ export const universityofbedfordshire = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -790,6 +818,10 @@ export const universityofbedfordshire = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Bedfordshire, UK - News & Articles" },
@@ -809,9 +841,13 @@ export const universityofbedfordshire = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Enjoy excellent accommodation facilities at comfort zone during education:</b>",
+            "info": "Enjoy excellent accommodation facilities at comfort zone during education:",
             "data": [
                 "The university will offer accommodation and a place to live, study and learn with many students.",
                 "Luton has residence halls for postgraduate and mature students offering quiet living and studying atmosthphere with the option of single-sex flats.",
@@ -842,7 +878,7 @@ export const universityofbedfordshire = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Accommodation places-</b>",
+            "info": "Accommodation places-",
             "data": [
                 "Luton Student Village",
                 "Bedford Polhill Park"
@@ -868,9 +904,13 @@ export const universityofbedfordshire = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Bedfordshire, UK - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University of Bedfordshire - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Is the University of Bedfordshire the right destination for pursuing education?",

@@ -5,6 +5,7 @@ export const engineeringinpoland = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '4 Years',
     "url": "engineering-in-poland",
     "info": [
         {
@@ -21,7 +22,7 @@ export const engineeringinpoland = {
         {
             "type": "table-title",
             "title": "Engineering in Poland: Quick Overview",
-            "info": "<b>Following is the quick overview for study engineering in Poland:</b>",
+            "info": "Following is the quick overview for study engineering in Poland:",
             "col": [
             ],
             "row": [
@@ -38,7 +39,7 @@ export const engineeringinpoland = {
         {
             "type": "list-bollet",
             "title": "Why Study Engineering in Poland?",
-            "info": "<b>Poland is the land that has the number of prestigious colleges and universities that offers excellent technical education to international students:</b>",
+            "info": "Poland is the land that has the number of prestigious colleges and universities that offers excellent technical education to international students:",
             "img": '',
             "data": [
                 "Poland has the best academic institutions that provide international standards in the field of Engineering.",
@@ -57,7 +58,7 @@ export const engineeringinpoland = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following is the eligibility criteria required to pursue engineering program in Poland:</b>",
+            "info": "Following is the eligibility criteria required to pursue engineering program in Poland:",
             "img": '',
             "data": [
                 "The student must have cleared 10+2 examination.",
@@ -72,7 +73,7 @@ export const engineeringinpoland = {
         {
             type: 'step-list',
             title: 'Admission Procedure: For Engineering in Poland',
-            info: '<b>Below are the simple admission procedure for Engineering studies in Poland is as follows:</b>',
+            info: 'Below are the simple admission procedure for Engineering studies in Poland is as follows:',
             data: [
                 "<b>Step 1:</b>Find your program ",
                 "<b>Step 2:</b>The first step is to select the right choice for your engineering course. There are huge number of programs are available under the engineering field.",
@@ -143,9 +144,13 @@ export const engineeringinpoland = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'Engineering in Poland 2023 - Syllabus'
+        },
+        {
             "type": 'number-list',
             "title": 'Courses Offered: For Engineering in Poland',
-            "info": "<b>Following are the courses offered in the field of Engineering by Polish Universities:</b>",
+            "info": "Following are the courses offered in the field of Engineering by Polish Universities:",
             "data": [
                 "<strong>Aerospace Engineering</strong>The field is equivalent to the study of rocket science with the development of aircraft and spacecraft. Courses include in the field are heat transfer, fluid mechanics, material science, thermodynamics etc.",
                 "<strong>Agricultural Engineering</strong>The engineers are responsible for monitoring and planning irrigation, drainage, flood water control system, performing environmental aspects and effluent systems.",
@@ -185,9 +190,13 @@ export const engineeringinpoland = {
 
     "topcolleges": [
         {
+            type: 'title',
+            title: 'Engineering in Poland 2023 - Top Colleges in Poland'
+        },
+        {
             "type": "table",
             "title": "Top Engineering Universities in Poland: Fee Structure",
-            "info": "<b>Following is the list of top engineering universities with an approximate fee structure:</b>",
+            "info": "Following is the list of top engineering universities with an approximate fee structure:",
             "col": [
                 "Name of the Universities",
                 "Annual Tuition Fees (approx)"
@@ -248,9 +257,13 @@ export const engineeringinpoland = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'Engineering in Poland 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Scopes after Completing Engineering from Poland",
-            "info": "<b>Following are the career opportunities after engineering in Poland:</b>",
+            "info": "Following are the career opportunities after engineering in Poland:",
             "data": [
                 "The organizations dealing with tools and techniques employ engineers from Poland.",
                 "Students will get paid with a higher package with great work profiles.",
@@ -283,12 +296,16 @@ export const engineeringinpoland = {
         }
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Engineering in Poland 2023 - FAQ'
+        },
 
 
         {
             "type": "question-list",
             "title": "Engineering in Poland: Important FAQ's",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. What is the period of engineering courses in Poland?",

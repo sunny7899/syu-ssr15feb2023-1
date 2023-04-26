@@ -121,6 +121,10 @@ export const fmgeexam = {
     ],
     "examdate": [
         {
+            type: 'title',
+            title: 'FMGE/NEXT Exam 2023 - Exam Date'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "FMGE/NEXT Exam 2023 - Exam Date" },
@@ -140,6 +144,10 @@ export const fmgeexam = {
 
     ],
     "syllabus": [
+        {
+            type: 'title',
+            title: 'FMGE/NEXT Exam 2023 - Syllabus'
+        },
         {
             "type": "list-bollet",
             "title": "Syllabus and Exam Preparation",
@@ -172,6 +180,10 @@ export const fmgeexam = {
     ],
     "cutoff": [
         {
+            type: 'title',
+            title: 'FMGE/NEXT Exam 2023 - Cut Off'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "FMGE/NEXT Exam 2023 - Cut Off" },
@@ -192,6 +204,10 @@ export const fmgeexam = {
 
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'FMGE/NEXT Exam 2023 - FAQ'
+        },
         {
             type: "meta",
             meta: [

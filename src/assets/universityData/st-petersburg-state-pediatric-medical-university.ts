@@ -19,7 +19,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "table",
       "title": "ST. Petersburg State Pediatric Medical University: Quick Highlights",
-      "info": "<b>Take a deep dive into the important points if you are willing to admit in the MBBS program at ST. Petersburg State Pediatric Medical University:</b>",
+      "info": "Take a deep dive into the important points if you are willing to admit in the MBBS program at ST. Petersburg State Pediatric Medical University:",
       "col": [],
       "row": [
         ["<b>Intake for MBBS Course</b>", "September"],
@@ -34,7 +34,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "list-bollet",
       "title": "Why Study MBBS at ST. Petersburg State Pediatric Medical University?",
-      "info": "<b>Have a look at some advantages of studying medicine program at ST. Petersburg State Pediatric Medical University:</b>",
+      "info": "Have a look at some advantages of studying medicine program at ST. Petersburg State Pediatric Medical University:",
       "data": [
         "The University is bound by partnership and cooperation agreements with leading foreign medical institutions.",
         "ST. Petersburg Pediatric University has the highest minimum USE scores among all medical universities in Russia.",
@@ -57,7 +57,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "list-bollet",
       "title": "Medium of Teaching",
-      "info": "<b>The medium of instruction at the ST. Petersburg State Pediatric Medical University is the English language:</b>",
+      "info": "The medium of instruction at the ST. Petersburg State Pediatric Medical University is the English language:",
       "data": [
         "The <b>English</b> language is opted by ST. Petersburg State Pediatric Medical University for teaching MBBS program."
       ]
@@ -65,7 +65,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "table",
       "title": "ST. Petersburg State Pediatric Medical University: Ranking 2022",
-      "info": "<b>According to Uni Rank mentioned below are the country & world ranking of ST. Petersburg State Pediatric Medical University:</b>",
+      "info": "According to Uni Rank mentioned below are the country & world ranking of ST. Petersburg State Pediatric Medical University:",
       "col": [
         "Country",
         "World"
@@ -80,7 +80,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "list-bollet",
       "title": "Facilities Provided at ST. Petersburg State Pediatric Medical University",
-      "info": "<b>World-class facilities are offered by the ST. Petersburg State Pediatric Medical University to make a bright career in MBBS:</b>",
+      "info": "World-class facilities are offered by the ST. Petersburg State Pediatric Medical University to make a bright career in MBBS:",
       "data": [
         "Classroom",
         "Laboratory",
@@ -95,7 +95,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>ST. Petersburg State Pediatric Medical University has been recognized by following medical bodies mentioned below:</b>",
+      "info": "ST. Petersburg State Pediatric Medical University has been recognized by following medical bodies mentioned below:",
       "data": [
         "ST. Petersburg State Pediatric Medical University has the approval of the World health organization (WHO)",
         "The institute is officially recognised by the National Medical Commission (NMC)"
@@ -104,7 +104,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "table",
       "title": "Living Cost of ST. Petersburg, Russia",
-      "info": "<b>ST. Petersburg has a low living expense affordable for worldwide medical aspirants pursuing MBBS at ST. Petersburg State Pediatric Medical University, go through the table mentioned below to know the monthly basis living expenses which may vary according to the individual needs:</b>",
+      "info": "ST. Petersburg has a low living expense affordable for worldwide medical aspirants pursuing MBBS at ST. Petersburg State Pediatric Medical University, go through the table mentioned below to know the monthly basis living expenses which may vary according to the individual needs:",
       "col": [
         "Particulars",
         "Amount in USD",
@@ -122,12 +122,12 @@ export const stpetersburgstatepediatricmedicaluniversity = {
           "Amount in RS": "1330 Rs"
         }
       ],
-      heading: '<p><b style="color: red;"><u>Note:</u></b> 1$ = Rs. 70</p>'
+      "heading": '<p><b style="color: red;"><u>Note:</u></b> 1$ = Rs. 70</p>'
     },
     {
       "type": "list-bollet",
       "title": "About City",
-      "info": "<b>ST. Petersburg State Pediatric Medical University is located in ST. Petersburg, The students must know about the city:</b>",
+      "info": "ST. Petersburg State Pediatric Medical University is located in ST. Petersburg, The students must know about the city:",
       "data": [
         "ST. Petersburg is situated on the Russian port city on the Baltic Sea.",
         "ST. Petersburg was founded by the Tsar Peter the Great on 27 May 1703.",
@@ -143,7 +143,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "table",
       "title": "",
-      "info": "<b>Here are some of the major tourist attractions of the city -</b>",
+      "info": "Here are some of the major tourist attractions of the city -",
       "col": [],
       "row": [
         ["State Hermitage Museum", "Winter Palace"],
@@ -173,9 +173,13 @@ export const stpetersburgstatepediatricmedicaluniversity = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - courses & Fees'
+    },
+    {
       "type": "table",
       "title": "ST. Petersburg State Pediatric Medical University: MBBS Fee Structure",
-      "info": "<b>The fee structure of MBBS program at ST. Petersburg State Pediatric Medical University is quite low:</b>",
+      "info": "The fee structure of MBBS program at ST. Petersburg State Pediatric Medical University is quite low:",
       "col": [
         "Particular",
         "Year 1",
@@ -223,12 +227,12 @@ export const stpetersburgstatepediatricmedicaluniversity = {
           "Year 6": "5,94,500 RUB"
         },
       ],
-      heading: '<p><b style="color: red;"><u>Note:</u></b> 1 RUB = Rs. 1.45 (approx)</p>',
+      "heading": '<p><b style="color: red;"><u>Note:</u></b> 1 RUB = Rs. 1.45 (approx)</p>',
     },
     {
       "type": "list-bollet",
       "title": "Courses offered at ST. Petersburg State Pediatric Medical University",
-      "info": "<b>The current medical faculties offered to the students at ST. Petersburg State Pediatric Medical University are given below:</b>",
+      "info": "The current medical faculties offered to the students at ST. Petersburg State Pediatric Medical University are given below:",
       "data": [
         "Medicine",
         "Dentistry",
@@ -239,7 +243,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "list-bollet",
       "title": "ST. Petersburg State Pediatric Medical University: MBBS Duration",
-      "info": "<b>The MBBS duration offered by ST. Petersburg State Pediatric Medical University is of 6 years:</b>",
+      "info": "The MBBS duration offered by ST. Petersburg State Pediatric Medical University is of 6 years:",
       "data": [
         "ST. Petersburg State Pediatric Medical University offers 6 years of general medical education.",
         "During 5 years the students will learn both theoretical and practical knowledge of the medicine with the guidance of top-class professors.",
@@ -250,7 +254,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "table",
       "title": "ST. Petersburg State Pediatric Medical University: MBBS Syllabus",
-      "info": "<b>The students must go through the organised curriculum of medical studies:</b><br>1st Year",
+      "info": "The students must go through the organised curriculum of medical studies:<br>1st Year",
       "col": [
         "1st Semester",
         "2nd Semester"
@@ -359,9 +363,13 @@ export const stpetersburgstatepediatricmedicaluniversity = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - Admission 2023 '
+    },
+    {
       type: 'list-bollet',
       title: 'Eligibility Criteria',
-      info: '<b>Candidates should be eligible for MBBS admission at ST. Petersburg State Pediatric Medical University:</b>',
+      info: 'Candidates should be eligible for MBBS admission at ST. Petersburg State Pediatric Medical University:',
       data: [
         "The age of the applicants must be 17 years on or before 31st December of the year of the admission procedure, the maximum age limit is 25 as on 31st December of the admission.",
         "The worldwide candidates must secure an aggregate of 50% in 10+12 or equivalent exams in the subjects of physics, biology, English and chemistry.",
@@ -373,7 +381,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>The students must follow the steps carefully to get admission ST. Petersburg State Pediatric Medical University:</b>',
+      info: 'The students must follow the steps carefully to get admission ST. Petersburg State Pediatric Medical University:',
       data: [
         "Step 1: The candidates looking for MBBS admission should first fill-up the proper online application form available on the official website ST. Petersburg State Pediatric Medical University, and also check out the details before submitting the form.",
         "Step 2: The candidates should submit the scanned copies of the necessary documents required for the MBBS admission at ST. Petersburg State Pediatric Medical University.",
@@ -386,7 +394,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       type: 'list-bollet',
       title: 'Documents Required',
-      info: '<b>The students must submit all the essential document at the of MBBS admission at ST. Petersburg State Pediatric Medical University:</b>',
+      info: 'The students must submit all the essential document at the of MBBS admission at ST. Petersburg State Pediatric Medical University:',
       data: [
         "The candidate willing to study MBBS at ST. Petersburg State Pediatric Medical University must carry the properly filled up application form copy during the admission process.",
         "Every candidate should submit the 10 th and 12 th mark sheets for admission.",
@@ -404,7 +412,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       "type": "table",
       "title": "Important Dates: Intake 2022",
-      "info": "<b>The students willing to pursue MBBS from ST. Petersburg State Pediatric Medical University must keep an eye on the important admission dates:</b>",
+      "info": "The students willing to pursue MBBS from ST. Petersburg State Pediatric Medical University must keep an eye on the important admission dates:",
       "col": [
         "Events",
         "Dates"
@@ -444,9 +452,13 @@ export const stpetersburgstatepediatricmedicaluniversity = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - Hostel'
+    },
+    {
       type: 'list-bollet',
       title: 'Hostel & Accommodation',
-      info: '<b>ST. Petersburg State Pediatric Medical University offers a well-equipped and safe hostel system for the students in the campus area:</b>',
+      info: 'ST. Petersburg State Pediatric Medical University offers a well-equipped and safe hostel system for the students in the campus area:',
       data: [
         "International students are given the option to stay in the hostels studying MBBS at Belgorod State National Research University that consists of all modern facilities.",
         "ST. Petersburg State Pediatric Medical University offers different rooms for boys and girls in their comfort zone.",
@@ -460,7 +472,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>The student must provide the following documents while settling in a hostel -</b>',
+      info: 'The student must provide the following documents while settling in a hostel -',
       data: [
         "Passport and a copy of the passport",
         "Referral to check-in at the hostel",
@@ -470,7 +482,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>The hostel is equipped with all facilities for the student’s convenience -</b>',
+      info: 'The hostel is equipped with all facilities for the student’s convenience -',
       data: [
         "Reading Hall",
         "Laundry",
@@ -498,7 +510,7 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     {
       type: 'list-bollet',
       title: '',
-      info: '<b>Every student will enjoy the modern amenities provided in the hostel rooms -</b>',
+      info: 'Every student will enjoy the modern amenities provided in the hostel rooms -',
       data: [
         "Pillow",
         "Blanket",
@@ -528,6 +540,10 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     }
   ],
   "faq": [
+    {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - FAQ'
+    },
     {
       "type": "question-list",
       "title": "ST. Petersburg State Pediatric Medical University: Important FAQs",
@@ -579,6 +595,10 @@ export const stpetersburgstatepediatricmedicaluniversity = {
   ],
   "placement": [
     {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - Placement'
+    },
+    {
       type: 'list-bollet',
       title: 'Placement',
       info: '',
@@ -608,9 +628,13 @@ export const stpetersburgstatepediatricmedicaluniversity = {
   ],
   "scholarship": [
     {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - Scholarship'
+    },
+    {
       type: 'list-bollet',
       title: 'Scholarship',
-      info: '<b>The various scholarships that are provided at St. Petersburg State Pediatric Medical University are as follows:</b>',
+      info: 'The various scholarships that are provided at St. Petersburg State Pediatric Medical University are as follows:',
       data: [
         "QS Undergraduate Scholarship",
         "CouponXoo Scholarship 2022-2023",
@@ -639,6 +663,10 @@ export const stpetersburgstatepediatricmedicaluniversity = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "ST. Petersburg State Pediatric Medical University, Russia - Reviews" },
@@ -657,6 +685,10 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     }
   ],
   "gallery": [
+    {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - Gallery'
+    },
     {
       type: "meta",
       meta: [
@@ -677,6 +709,10 @@ export const stpetersburgstatepediatricmedicaluniversity = {
   ],
   "news": [
     {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - News & Articles'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "ST. Petersburg State Pediatric Medical University, Russia - News & Articles" },
@@ -695,6 +731,10 @@ export const stpetersburgstatepediatricmedicaluniversity = {
     }
   ],
   "faculty": [
+    {
+      type: 'title',
+      title: 'ST. Petersburg State Pediatric Medical University, Russia - Faculty'
+    },
     {
       "type": "table",
       "title": "faculty",

@@ -22,7 +22,7 @@ export const ogarevmordoviastateuniversity = {
         {
             "type": "table-title",
             "title": "Ogarev Mordovia State University: Quick Highlights",
-            "info": "<b>Refer the table below for quick highlights about National Research Ogarev Mordovia State University:</b>",
+            "info": "Refer the table below for quick highlights about National Research Ogarev Mordovia State University:",
             "col": [
             ],
             "row": [
@@ -42,13 +42,13 @@ export const ogarevmordoviastateuniversity = {
         {
             type: 'text',
             title: 'Why Study MBBS at Ogarev Mordovia State University?',
-            info: '<b>Following are the benefits of studying MBBS at Ogarev Mordovia State University:</b>',
+            info: 'Following are the benefits of studying MBBS at Ogarev Mordovia State University:',
             data: '<b>Excellent education standard</b><p>The university has an international system of education that follows the standard of European and Asian countries to provide quality education to foreign students.</p><b>Low tuition fees</b><p>Cost of medical education at National Research Ogarev Mordovia State University is relatively low as compared to other universities.</p><b>Exposure to a new culture</b><p>Russia has a vibrant culture. Indian students in Russia are embraced Russian culture with great enthusiasm.</p><b>Chance to learn a local dialectical language</b><p>Learning a new language is a thing in which the person ideally interacts with the proven problems of the respective society. At the university, you will get familiar with the local Russian language course that lasts for a period of 1 year.</p><b>Exciting Student Life</b><p>A lot of opportunities are provided to students through the referral programs conducted by the universities.</p>'
         },
         {
             "type": "table",
             "title": "Ogarev Mordovia State University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Ogarev Mordovia State University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Ogarev Mordovia State University:",
             "col": [
                 "World	",
                 "Country",
@@ -67,7 +67,7 @@ export const ogarevmordoviastateuniversity = {
         {
             "type": "table",
             "title": "Cost of Living in Saransk",
-            "info": "<b>The table below shows the average and approx cost of living in Saransk for a month:</b>",
+            "info": "The table below shows the average and approx cost of living in Saransk for a month:",
             "col": [
                 "Food Cost",
                 "Rent Per Month",
@@ -114,9 +114,14 @@ export const ogarevmordoviastateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Ogarev Mordovia State University - MBBS Fee Structure",
-            "info": "<b>Ogarev Mordovia State University has an affordable fee structure:</b>",
+            "info": "Ogarev Mordovia State University has an affordable fee structure:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -174,7 +179,7 @@ export const ogarevmordoviastateuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Ogarev Mordovia State University",
-            "info": "<b>The medical faculties offered by Ogarev Mordovia State University are mentioned below:</b>",
+            "info": "The medical faculties offered by Ogarev Mordovia State University are mentioned below:",
             "data": [
                 "General Medicine",
                 "Paediatrics",
@@ -304,9 +309,14 @@ export const ogarevmordoviastateuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Chuvash State University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Chuvash State University is as follows:",
             "data": [
                 "Applicant must clear 10+2 examination.",
                 "Applicant’s age must be in between 17 to 25 years.",
@@ -317,7 +327,7 @@ export const ogarevmordoviastateuniversity = {
         {
             "type": "step-list",
             "title": "Admissions Process (2022-23)",
-            "info": "<b>Students need to follow these steps to take admission to MBBS in Russia:</b>",
+            "info": "Students need to follow these steps to take admission to MBBS in Russia:",
             "data": [
                 "<b>Step 1:</b> Fill the application form available on the website & apply online.",
                 "<b>Step 2:</b> Pay the registration charges & apply for the MBBS course.",
@@ -330,7 +340,7 @@ export const ogarevmordoviastateuniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Following documents are required at the time of admission to Chuvash State University:</b>",
+            "info": "Following documents are required at the time of admission to Chuvash State University:",
             "data": [
                 "Copy of international passports.",
                 "Secondary school certificate (HSC)",
@@ -344,7 +354,7 @@ export const ogarevmordoviastateuniversity = {
         {
             "type": "table",
             "title": "Ogarev Mordovia State University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Ogarev Mordovia State University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Ogarev Mordovia State University:",
             "col": [
                 "Events",
                 "Dates",
@@ -384,6 +394,11 @@ export const ogarevmordoviastateuniversity = {
         }
     ],
     "review": [
+        {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - Reviews"
+
+        },
 
         {
             type: "meta",
@@ -404,6 +419,11 @@ export const ogarevmordoviastateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -433,6 +453,11 @@ export const ogarevmordoviastateuniversity = {
         }
     ],
     "gallery": [
+        {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - Gallery"
+
+        },
 
         {
             type: "meta",
@@ -454,9 +479,14 @@ export const ogarevmordoviastateuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships that are provided at Ogarev Mordovia State University are as follows:</b>",
+            "info": "The scholarships that are provided at Ogarev Mordovia State University are as follows:",
             "data": [
                 "Erasmus Mundus Joint Masters scholarships",
                 "Inlaks Scholarships",
@@ -484,6 +514,11 @@ export const ogarevmordoviastateuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - Faculty"
+
+        },
 
         {
             type: "meta",
@@ -504,6 +539,11 @@ export const ogarevmordoviastateuniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - News & Articles"
+
+        },
 
         {
             type: "meta",
@@ -525,9 +565,14 @@ export const ogarevmordoviastateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation at Ogarev Mordovia State University",
-            "info": "<b>The Ogarev Mordovia State University offers 6 dormitories for international students. Procedure for applying the university’s dormitories is as follows:</b>",
+            "info": "The Ogarev Mordovia State University offers 6 dormitories for international students. Procedure for applying the university’s dormitories is as follows:",
             "data": [
                 "The university offers accommodation to local and non-local students on remote campuses located at the university.",
                 "Around 13 hostels are provided to foreign students with a capacity of 4500 students.",
@@ -537,7 +582,7 @@ export const ogarevmordoviastateuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following are the amenities provided by the university’s hostel which are:</b>",
+            "info": "Following are the amenities provided by the university’s hostel which are:",
             "data": [
                 "Well-equipped rooms",
                 "Laundry facility",
@@ -569,9 +614,14 @@ export const ogarevmordoviastateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Ogarev Mordovia State University, Russia - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Ogarev Mordovia State University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How long does it take to study MBBS at Ogarev Mordovia State University?",

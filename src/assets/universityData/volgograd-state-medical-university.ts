@@ -20,7 +20,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Volgograd State Medical University: Quick Overview 2022",
-            "info": "<b>If you are looking to study MBBS in Russia, then have a quick overview on some important points of Volgograd State Medical University:</b>",
+            "info": "If you are looking to study MBBS in Russia, then have a quick overview on some important points of Volgograd State Medical University:",
             "row": [
                 ["<b>Degree Awarded</b>", "Medical Doctor (MD)"],
                 ["<b>University Type</b>", "Government"],
@@ -40,7 +40,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Why Study MBBS at Volgograd State Medical University?',
-            "info": '<b>When choosing the university to study for a medical degree in Russia, you need to find a trustworthy top one among hundreds of universities in Russia. Here are the advantages offered by Volgograd State Medical University to students to get admission to MBBS courses:</b>',
+            "info": 'When choosing the university to study for a medical degree in Russia, you need to find a trustworthy top one among hundreds of universities in Russia. Here are the advantages offered by Volgograd State Medical University to students to get admission to MBBS courses:',
             "data": [
                 "It is the most trusted university that admits a large number of Indian students every year for the MBBS course.",
                 "The university has affiliated multiple specialty hospitals that offer training to medical students.",
@@ -56,13 +56,13 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": 'text',
             "title": 'Medium of Teaching',
-            "info": '<b>Following is the medium of teaching at Volgograd State Medical University:</b>',
+            "info": 'Following is the medium of teaching at Volgograd State Medical University:',
             "data": "<p>At this university, all the different medicine courses are taught in the English language./p>"
         },
         {
             "type": "table",
             "title": "Volgograd State Medical University - Ranking 2022",
-            "info": "<b>According to Uni rank, the country & world ranking of Volgograd State Medical University ranking:</b>",
+            "info": "According to Uni rank, the country & world ranking of Volgograd State Medical University ranking:",
             "col": [
                 "Country",
                 "World",
@@ -78,7 +78,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Accreditation and Recognition',
-            "info": '<b>The Volgograd State Medical University has international recognition and accreditation. It is recognized by:</b>',
+            "info": 'The Volgograd State Medical University has international recognition and accreditation. It is recognized by:',
             "data": [
                 "The National Medical Commission, India (NMC)",
                 "The World Health Organisation (WHO)",
@@ -89,7 +89,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Life of Students at Volgograd State Medical University',
-            "info": '<b>Students live an excellent life at Volgograd State Medical University as the university provides all the necessary facilities to its students:</b>',
+            "info": 'Students live an excellent life at Volgograd State Medical University as the university provides all the necessary facilities to its students:',
             "data": [
                 "The Volgograd university provides a physical training department to its students which includes a gym, a sports ground, and an indoor mini stadium.",
                 "Students must attend physical training at the university.",
@@ -103,7 +103,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "table",
             "title": 'Volgograd State Medical University - FMGE Performance 2021',
-            "info": '<b>The details about FMGE performance for Volgograd State Medical University of year 2021 with passing percent is as follows:</b>',
+            "info": 'The details about FMGE performance for Volgograd State Medical University of year 2021 with passing percent is as follows:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -124,7 +124,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The average cost of the student for a month while studying at Volgograd State Medical University is shown in table below.</b>",
+            "info": "The average cost of the student for a month while studying at Volgograd State Medical University is shown in table below.",
             "data": "<p>The living cost is approximate to have an idea about the expenses. It may vary person to person as per the living style of the student.</p>",
             "col": [
                 "Particulars",
@@ -149,7 +149,7 @@ export const volgogradstatemedicaluniversity = {
             "type": 'text',
             "title": 'About Volgograd City',
             "img": 'volgograd-State-medical-university-city.jpg',
-            "info": '<b>Volgograd is the one of the lavish and bigger cities of Russia:</b>',
+            "info": 'Volgograd is the one of the lavish and bigger cities of Russia:',
             "data": "<p><b>Volgograd is the one of the lavish and bigger cities of Russia:</b></p><p>Volgograd is the industrial city in Russia that lies on the western banks of the Volga river. The city was founded to protect newly acquired Russian territory along the Volga in the year of 1589. </p><p>It was totally developed after the war with the extension of new apartment buildings and factories for more than 65km along the Volga river. The population of Volgograd is around 10 lakhs having an area of 859 sq.km. </p><p>Volgograd city has a humid continental climate with hot summers and cold winter with the proximity of the middle east and central Asia.</p>"
         },
 
@@ -174,9 +174,13 @@ export const volgogradstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Volgograd State Medical University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Volgograd State Medical University - MBBS Fee Structure",
-            "info": "<b>The approximate fee structure for the MBBS course at Volgograd State Medical University is given in the table below:</b>",
+            "info": "The approximate fee structure for the MBBS course at Volgograd State Medical University is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -233,7 +237,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Volgograd State Medical University",
-            "info": "<b>The Volgograd State Medical University provides following courses and faculties:</b>",
+            "info": "The Volgograd State Medical University provides following courses and faculties:",
             "data": [
                 "General Medicine",
                 "Paediatrics",
@@ -247,7 +251,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'Duration of MBBS at Volgograd State Medical University',
-            "info": '<b>The course duration for MBBS at Volgograd State Medical University is 6 years:</b>',
+            "info": 'The course duration for MBBS at Volgograd State Medical University is 6 years:',
             "data": [
                 "The total duration for MBBS course at Volgograd State Medical University includes the 5 years of theory and lab education.",
                 "There is 1 year of compulsory internship other than these 5 years.",
@@ -256,13 +260,13 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "text",
             "title": "Volgograd State Medical University - MBBS Syllabus (Semester Wise)",
-            "info": "<b>Following subjects are covered in the 6 years MBBS course at Volgograd State Medical University:</b>",
+            "info": "Following subjects are covered in the 6 years MBBS course at Volgograd State Medical University:",
 
         },
         {
             "type": "table",
             "title": "",
-            "info": "<b>1st Year</b>",
+            "info": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -278,7 +282,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>2nd Year</b>",
+            "info": "2nd Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -317,7 +321,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>3rd Year</b>",
+            "info": "3rd Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -341,7 +345,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>4th - 6th Year</b>",
+            "info": "4th - 6th Year",
             "colTitle": "7th-12th Semester",
             "row": [
                 ["Oncology", "Internal medicine"],
@@ -374,9 +378,13 @@ export const volgogradstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Volgograd State Medical University - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "What are the Eligibility Criteria for MBBS at Volgograd State Medical University?",
-            "info": "<b>To be eligible for the MBBS course at Volgograd State Medical University, the applicant has to satisfy the following eligibility criteria:</b>",
+            "info": "To be eligible for the MBBS course at Volgograd State Medical University, the applicant has to satisfy the following eligibility criteria:",
             "data": [
                 "Age should be in between 17 to 25 years on or before the 31st December of the year of the admission process.",
                 "The applicant must complete a 10+2 examination with subjects of Physics, Chemistry and Biology.",
@@ -386,7 +394,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "step-list",
             "title": "How can I Get Admission in Volgograd State Medical University?",
-            "info": "<b>The admission process which is followed at Volgograd State Medical University which students need to follow is given below:</b>",
+            "info": "The admission process which is followed at Volgograd State Medical University which students need to follow is given below:",
             "data": [
                 "<b>Step 1:</b>Students should fill the application form available on the website of Volgograd State Medical University.",
                 "<b>Step 2:</b>Then, they must fill the required fields available on the form and make the registrations for MBBS Course.",
@@ -399,7 +407,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required - For Applying MBBS Course",
-            "info": "<b>Keep all the documents mentioned below ready before starting the admission procedure for the MBBS course at Volgograd State Medical University:</b>",
+            "info": "Keep all the documents mentioned below ready before starting the admission procedure for the MBBS course at Volgograd State Medical University:",
             "data": [
                 "Academic certificates, 10th and 12th",
                 "Academic Mark Sheets, 10th and 12th",
@@ -419,7 +427,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Volgograd State Medical University - Academic Intake 2022",
-            "info": "<b>Students should take their admissions to Volgograd State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Volgograd State Medical University:</b>",
+            "info": "Students should take their admissions to Volgograd State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Volgograd State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -464,6 +472,10 @@ export const volgogradstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Volgograd State Medical University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Volgograd State Medical University - Reviews" },
@@ -482,6 +494,10 @@ export const volgogradstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Volgograd State Medical University - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "",
@@ -512,6 +528,10 @@ export const volgogradstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Volgograd State Medical University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Volgograd State Medical University - Gallery" },
@@ -529,7 +549,10 @@ export const volgogradstatemedicaluniversity = {
             ]
         }
     ],
-    "scholarship": [
+    "scholarship": [ {
+        type: 'title',
+        title: 'Volgograd State Medical University - Scholarship'
+    },
         {
             "type": "list-bollet",
             "title": "",
@@ -561,6 +584,10 @@ export const volgogradstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Volgograd State Medical University - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Volgograd State Medical University - Faculty" },
@@ -579,6 +606,10 @@ export const volgogradstatemedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Volgograd State Medical University - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -599,9 +630,13 @@ export const volgogradstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Volgograd State Medical University - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>At Volgograd State Medical University following accommodation facilities are provided:</b>",
+            "info": "At Volgograd State Medical University following accommodation facilities are provided:",
             "data": [
                 "The university offers 3 hostels for the sake of international students that are fully furnished with all the necessary facilities.",
                 "The university provides off-campus accommodation for international students at affordable prices.",
@@ -613,7 +648,7 @@ export const volgogradstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Amenities at the hostels are -</b>",
+            "info": "Amenities at the hostels are -",
             "data": [
                 "Sport Complex",
                 "Gymnasium",
@@ -644,9 +679,13 @@ export const volgogradstatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Volgograd State Medical University - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Volgograd State Medical University: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Does the university have international tie ups?",

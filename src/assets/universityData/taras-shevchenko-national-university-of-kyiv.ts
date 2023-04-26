@@ -16,11 +16,10 @@ export const tarasshevchenkonationaluniversityofkyiv = {
             "title": "",
             "data": "<p>Established in 1834, <strong>Taras Shevchenko National University of Kyiv </strong> (known as KNU in Ukraine) is one of the best options for students worldwide admiring to pursue MBBS abroad. It is the third oldest university in Ukraine and has a rich history of culture and education. There are over 26,000 students already studying including Indian students.</p><p>The Taras Shevchenko National University of Kyiv has its motto as <strong>‘Honour is Glory’</strong> and is known for its progressive thinking and advanced learning. There is no language problem for foreign students as teaching takes place in the English language. It is ranked #601 - 650 in <b>QS Global World Rankings 2021</b>.</p><p>Taras Shevchenko National University of Kyiv is approved by NMC and WHO. Students can get relief from their study pressure by health spa and sports club provided by the university at the bank of river Dnieper.</p>"
         },
-
         {
             "type": "table-title",
             "title": "Taras Shevchenko National University of Kyiv - Quick Facts",
-            "info": "<b>Students need to take a look at some of the highlights of Taras Shevchenko National University of Kyiv for taking admission to MBBS in this university:</b>",
+            "info": "Students need to take a look at some of the highlights of Taras Shevchenko National University of Kyiv for taking admission to MBBS in this university:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "Twice in a year: February and September"],
                 ["<b>Basic Eligibility</b>", "50% in PCB"],
@@ -36,7 +35,7 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Taras Shevchenko National University of Kyiv?',
-            info: '<b>The advantages given below are some of the good things that suggest students to choose Taras Shevchenko National University of Kyiv for their MBBS course:</b>',
+            info: 'The advantages given below are some of the good things that suggest students to choose Taras Shevchenko National University of Kyiv for their MBBS course:',
             data: [
                 "Ukraine has an excellent quality of education and Taras Shevchenko National University of Kyiv is the best university in Ukraine.",
                 "Affordable fee structure.",
@@ -49,7 +48,7 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>Taras Shevchenko National Universityc of Kyiv offers freedom of choosing medium of teaching for foreign students from the options they have:</b>',
+            info: 'Taras Shevchenko National Universityc of Kyiv offers freedom of choosing medium of teaching for foreign students from the options they have:',
             data: [
                 "The Taras Shevchenko National University of Kyiv teaches the MBBS course in English and Ukrainian, and Russian languages.",
                 "For Indian students the course is particularly designed in English language for the better understanding of the students."
@@ -58,7 +57,7 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         {
             "type": "table",
             "title": "Taras Shevchenko National University of Kyiv - Ranking 2022",
-            "info": "<b>As per UniRank (4icu), the country & world ranking of Taras Shevchenko National University of Kyiv is:</b>",
+            "info": "As per UniRank (4icu), the country & world ranking of Taras Shevchenko National University of Kyiv is:",
             "col": [
                 "Country",
                 "World",
@@ -71,11 +70,10 @@ export const tarasshevchenkonationaluniversityofkyiv = {
 
             ]
         },
-
         {
             type: 'list-bollet',
             title: 'Student’s life',
-            info: '<b>Student’s life at Taras Shevchenko National Medical University of Kyiv is just amazing. The personal lifestyle of students is also improved on the campus:</b>',
+            info: 'Student’s life at Taras Shevchenko National Medical University of Kyiv is just amazing. The personal lifestyle of students is also improved on the campus:',
             data: [
                 "The campus is provided with all the facilities for the students. Health clubs, library, canteen, sports clubs all these facilities helps students to improve their personal lifestyle along the the studies.",
                 "There are thousands of foreign students studying in the campus of Taras Shevchenko National Medical University of Kyiv. Every student get to learn about the culture and tradition of other countries.",
@@ -100,17 +98,16 @@ export const tarasshevchenkonationaluniversityofkyiv = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/taras-shevchenko-national-university-of-kyiv" }
             ]
         }
-
-
-
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Taras Shevchenko National University of Kyiv - MBBS Fee Structure 2022",
-            "info": "<b>The detailed fee structure for the MBBS course in Taras Shevchenko National University of Kyiv is mentioned below. It is suggested to students from India to pay the hostel fee along with the first year tuition fee:</b>",
+            "info": "The detailed fee structure for the MBBS course in Taras Shevchenko National University of Kyiv is mentioned below. It is suggested to students from India to pay the hostel fee along with the first year tuition fee:",
             "col": [
                 "Particular",
                 "Year - 1",
@@ -166,7 +163,7 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Taras Shevchenko National University of Kyiv',
-            info: '<b>The university offer the following courses in their educational system of medicine:</b>',
+            info: 'The university offer the following courses in their educational system of medicine:',
             data: [
                 "General Medicine",
                 "Pharmacy",
@@ -177,7 +174,7 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         {
             type: 'list-bollet',
             title: 'Taras Shevchenko National University of Kyiv - MBBS Duration',
-            info: '<b>Taras Shevchenko National University of Kyiv offers students a 5.8 years MBBS course:</b>',
+            info: 'Taras Shevchenko National University of Kyiv offers students a 5.8 years MBBS course:',
             data: [
                 "The first 3 years of the course is dedicated for the pre-clinical course.",
                 "The remaining duration covers the other studies and practicals along with the 1 year of compulsory internship.",
@@ -188,7 +185,7 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         {
             "type": "table",
             "title": "Taras Shevchenko National University of Kyiv - MBBS Syllabus",
-            "info": "<b>Students need to take a look at the medical subjects and syllabus mentioned below. This is the total syllabus which is covered in Taras Shevchenko National University of Kyiv for MBBS degree:</b>",
+            "info": "Students need to take a look at the medical subjects and syllabus mentioned below. This is the total syllabus which is covered in Taras Shevchenko National University of Kyiv for MBBS degree:",
             "textBelowInfo": "1st-Year Course",
             "col": [
                 "Semester 1",
@@ -445,9 +442,13 @@ export const tarasshevchenkonationaluniversityofkyiv = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>A very easy eligibility criteria can take you to the MBBS course at Taras Shevchenko National University of Kyiv:</b>',
+            info: 'A very easy eligibility criteria can take you to the MBBS course at Taras Shevchenko National University of Kyiv:',
             data: [
                 "The good thing about studying MBBS in Ukraine is that students need not appear or qualify for any entrance exam like TOEFL or IELTS.",
                 "The student should be 17 years old or above on or before 31st of October of the respective year of admission.",
@@ -459,7 +460,7 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         {
             type: 'list-bollet',
             title: 'Admission Process',
-            info: '<b>It has become very easy and simple to take admission to MBBS in Ukraine. The procedure of taking admission to study MBBS in Taras Shevchenko National University of Kyivfollows the following steps:</b>',
+            info: 'It has become very easy and simple to take admission to MBBS in Ukraine. The procedure of taking admission to study MBBS in Taras Shevchenko National University of Kyivfollows the following steps:',
             data: [
                 "<b>Step 1:</b> Filling the application form.",
                 "<b>Step 2:</b> Send your scanned documents to the University by the online portal.",
@@ -472,7 +473,7 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: '<b>Make sure you have all the documents mentioned below ready to proceed for the admission. You can contact our counsellors for the documentary related issues to find a solution:</b>',
+            info: 'Make sure you have all the documents mentioned below ready to proceed for the admission. You can contact our counsellors for the documentary related issues to find a solution:',
             data: [
                 "Marksheets of 10th and 12th",
                 "Birth certificate translated in English and notarised",
@@ -481,15 +482,13 @@ export const tarasshevchenkonationaluniversityofkyiv = {
                 "Valid Passport",
                 "NMC eligibility certificate",
                 "HIV medical report.An affidavit from the guardian/ parent",
-                "First-year fee receipt",
-
-
+                "First-year fee receipt"
             ]
         },
         {
             "type": "table",
             "title": "Ryerson University - Admission Dates & Intake 2021",
-            "info": "<b>Students can check the important deadlines of the admission from the following table:</b>",
+            "info": "Students can check the important deadlines of the admission from the following table:",
             "col": [
                 "Events",
                 "Date",
@@ -510,10 +509,7 @@ export const tarasshevchenkonationaluniversityofkyiv = {
                 {
                     "Events": "Last Date of Admission",
                     "Date": "November"
-                },
-
-
-
+                }
             ]
         },
         {
@@ -536,6 +532,10 @@ export const tarasshevchenkonationaluniversityofkyiv = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Taras Shevchenko National University of Kyiv - Reviews" },
@@ -554,6 +554,10 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -574,6 +578,10 @@ export const tarasshevchenkonationaluniversityofkyiv = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Taras Shevchenko National University of Kyiv - Gallery" },
@@ -592,6 +600,10 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - Scholarship'
+        },
         {
             type: "meta",
             meta: [
@@ -612,6 +624,10 @@ export const tarasshevchenkonationaluniversityofkyiv = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Taras Shevchenko National University of Kyiv - Faculty" },
@@ -630,6 +646,10 @@ export const tarasshevchenkonationaluniversityofkyiv = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -650,9 +670,13 @@ export const tarasshevchenkonationaluniversityofkyiv = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel and Accommodation Facility',
-            info: '<b>The accommodation facilities and mess facilities are provided by the university for the foreign students as well. The university takes care of the basic needs of the students in the hostel and food facilities:</b>',
+            info: 'The accommodation facilities and mess facilities are provided by the university for the foreign students as well. The university takes care of the basic needs of the students in the hostel and food facilities:',
             data: [
                 "In Taras Shevchenko National University of Kyiv students get luxurious stay with 2 beds’ and 3 beds rooms attached washroom, in-house laundry service, refrigerator, and common Kitchen.",
                 "They are provided with stud rooms separately and neat and clean mess which also offers delicious Indian food.",
@@ -681,9 +705,13 @@ export const tarasshevchenkonationaluniversityofkyiv = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Taras Shevchenko National University of Kyiv - FAQ'
+        },
+        {
             type: 'question-list',
             title: 'Taras Shevchenko National University of Kyiv - Important FAQs',
-            info: "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            info: "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             data: [
                 {
                     "ques": "Q. Are Medical tests and HIV tests compulsory?",

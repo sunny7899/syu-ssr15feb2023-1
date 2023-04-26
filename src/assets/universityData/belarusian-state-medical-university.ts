@@ -19,7 +19,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Belarusian State Medical University - Quick Highlights 2022",
-            "info": "<b>Refer to the table below for quick highlights about Belarusian State Medical University:</b>",
+            "info": "Refer to the table below for quick highlights about Belarusian State Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -41,7 +41,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Belarusian State Medical University?",
-            "info": "<b>Following are the benefits to study MBBS at Belarusian State Medical University:</b>",
+            "info": "Following are the benefits to study MBBS at Belarusian State Medical University:",
             "data": [
                 "Quality education",
                 "BSMU has adopted practice oriented approach for education that is more focus on practicals in labs or tutorials than theoretical study.",
@@ -56,7 +56,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>The medical degree from Belarusian State Medical University is fully recognized:</b>",
+            "info": "The medical degree from Belarusian State Medical University is fully recognized:",
             "data": [
                 "World health organization (WHO)",
                 "National Medical Commission (NMC)"
@@ -65,7 +65,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Belarusian State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Belarusian State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Belarusian State Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -80,7 +80,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Belarusian State Medical University: FMGE Performance 2021",
-            "info": "<b>Find the passing percent and appeared students in year 2021 for Belarusian State Medical University is here in the table below:</b>",
+            "info": "Find the passing percent and appeared students in year 2021 for Belarusian State Medical University is here in the table below:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -99,7 +99,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost of Minsk",
-            "info": "<b>The living expenses of Minsk is quite affordable, the students must go through the table mentioned below to know about the monthly expenses varying according to individual needs:</b>",
+            "info": "The living expenses of Minsk is quite affordable, the students must go through the table mentioned below to know about the monthly expenses varying according to individual needs:",
             "col": [
                 "Particulars",
                 "Amount in USD",
@@ -143,7 +143,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Top attractions of Minsk city -</b>",
+            "info": "Top attractions of Minsk city -",
             "col": [],
             "row": [
                 ["Victory square", "Museum Strana Mini"],
@@ -171,9 +171,13 @@ export const belarusianstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: "title",
+            title: "Belarusian State Medical University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Belarusian State Medical University - MBBS Fee Structure",
-            "info": "<b>Following are the advantages of studying MBBS at Belarusian State Medical University:</b>",
+            "info": "Following are the advantages of studying MBBS at Belarusian State Medical University:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -226,7 +230,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Belarusian State Medical University",
-            "info": "<b>These are the faculties of medicine taught in Belarusian State Medical University:</b>",
+            "info": "These are the faculties of medicine taught in Belarusian State Medical University:",
             "data": [
                 "Medicine",
                 "Dentistry",
@@ -245,7 +249,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Belarusian State Medical University - MBBS Syllabus",
-            "info": "<b>The syllabus for the MBBS course at Belarusian State Medical University is shown in the table below:</b>",
+            "info": "The syllabus for the MBBS course at Belarusian State Medical University is shown in the table below:",
             "data": "<p>1st Year</p>",
             "col": [
                 "1st Semester",
@@ -345,9 +349,13 @@ export const belarusianstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: "title",
+            title: "Belarusian State Medical University - Admission 2023 "
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students should fit into the eligibility criteria:</b>",
+            "info": "The students should fit into the eligibility criteria:",
             "data": [
                 "Applicants must be 17 years of age or before the 31st of December of the admission year.",
                 "Pass Out from 12th grade.",
@@ -359,7 +367,7 @@ export const belarusianstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Follow these steps to take admission at Belarusian State Medical University for the MBBS course:</b>',
+            info: 'Follow these steps to take admission at Belarusian State Medical University for the MBBS course:',
             data: [
                 "Step 1: Fill in the application form available online.",
                 "Step 2: Send the completed application with copies of the essential documents, necessary for the acquisition of the student’s status.",
@@ -371,7 +379,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<b>Students need to have the following documents for the admission process:</b>",
+            "info": "Students need to have the following documents for the admission process:",
             "data": [
                 "Application form",
                 "SSC mark sheet",
@@ -393,7 +401,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Academic Calendar - Intake 2022",
-            "info": "<b>The students must check out some important admission dates for taking admission at Belarusian State Medical University :</b>",
+            "info": "The students must check out some important admission dates for taking admission at Belarusian State Medical University :",
             "col": [
                 "Events",
                 "Dates"
@@ -433,6 +441,10 @@ export const belarusianstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: "title",
+            title: "Belarusian State Medical University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Belarusian State Medical University - Reviews" },
@@ -451,6 +463,10 @@ export const belarusianstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: "title",
+            title: "Belarusian State Medical University - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -471,6 +487,10 @@ export const belarusianstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: "title",
+            title: "Belarusian State Medical University - Gallery "
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Belarusian State Medical University - Gallery " },
@@ -489,6 +509,10 @@ export const belarusianstatemedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: "title",
+            title: "Belarusian State Medical University - Scholarship"
+        },
         {
             "type": "list-bollet",
             "title": "Scholarship ",
@@ -521,9 +545,13 @@ export const belarusianstatemedicaluniversity = {
     ],
     "faculty": [
         {
+            type: "title",
+            title: "Belarusian State Medical University - Faculty"
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Head of the Department</b>",
+            "info": "Head of the Department",
             "data": [
                 "Letkovskaya Tatiana Anatolievna",
                 "MD, PhD, Associate Professor"
@@ -532,7 +560,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Deputy Head for educational and methodological work</b>",
+            "info": "Deputy Head for educational and methodological work",
             "data": [
                 "Savosh Viktoria Viktorovna",
                 "MD, PhD"
@@ -541,7 +569,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Deputy Head for scientific work</b>",
+            "info": "Deputy Head for scientific work",
             "data": [
                 "Bich Tatiana Alexandrovna",
                 "MD, PhD"
@@ -550,7 +578,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Deputy Head for medical work</b>",
+            "info": "Deputy Head for medical work",
             "data": [
                 "Nerovnya Alexander Mikhailovich",
                 "MD, PhD"
@@ -559,7 +587,7 @@ export const belarusianstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Deputy Head for ideological and educational Work</b>",
+            "info": "Deputy Head for ideological and educational Work",
             "data": [
                 "Anfinogenova Elena Alfredovna",
                 "MD, PhD"
@@ -585,6 +613,10 @@ export const belarusianstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: "title",
+            title: "Belarusian State Medical University - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Belarusian State Medical University - News & Articles" },
@@ -604,9 +636,13 @@ export const belarusianstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: "title",
+            title: "Belarusian State Medical University - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>The Belarusian State Medical University provides comfortable hostels, giving a homely feeling to all the medical aspirants:</b>",
+            "info": "The Belarusian State Medical University provides comfortable hostels, giving a homely feeling to all the medical aspirants:",
             "data": [
                 "Affordable hostel system with fully furnished rooms.",
                 "All essential amenities including TV and telephone.",
@@ -654,9 +690,13 @@ export const belarusianstatemedicaluniversity = {
     "faq":
         [
             {
+                type: "title",
+                title: "Belarusian State Medical University - FAQ"
+            },
+            {
                 "type": "question-list",
                 "title": "Belarusian State Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. Is there any language barrier at Belarusian State Medical University?",

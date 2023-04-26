@@ -19,7 +19,7 @@ export const capitalmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Capital Medical University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Capital Medical University:</b>",
+            "info": "Given below is the table for quick facts about Capital Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September 2020"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -36,7 +36,7 @@ export const capitalmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS Course at Capital Medical University?',
-            info: '<b>Below are some of the advantages of studying MBBS at Capital Medical University:</b>',
+            info: 'Below are some of the advantages of studying MBBS at Capital Medical University:',
             data: [
                 "The course curriculum and the education followed in the MBBS course are of global level and of excellent quality.",
                 "English is the medium of instruction and thus language is not a barrier for non-chinese language speaking Indian students.",
@@ -51,7 +51,7 @@ export const capitalmedicaluniversity = {
         {
             "type": "table",
             "title": "Capital Medical University - Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Capital Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Capital Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -73,7 +73,7 @@ export const capitalmedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>China’s Capital Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>',
+            info: 'China’s Capital Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:',
             data: [
                 "World Health Organization (WHO)",
                 "General Medical Council (GMC)",
@@ -83,7 +83,7 @@ export const capitalmedicaluniversity = {
         {
             type: "table",
             title: 'Capital medical university - FMGE Performance 2021',
-            info: '<b>The details about FMGE performance for Capital medical university of year 2021 with passing percent is as follows:</b>',
+            info: 'The details about FMGE performance for Capital medical university of year 2021 with passing percent is as follows:',
             col: [
                 "Name of University",
                 "Appeared",
@@ -102,7 +102,7 @@ export const capitalmedicaluniversity = {
         {
             type: "table",
             title: 'Cost of Living at Beijing City',
-            info: '<b>The cost of living at Beijing city is as follows:</b>',
+            info: 'The cost of living at Beijing city is as follows:',
             col: [
                 "Activity",
                 "Cost"
@@ -134,7 +134,7 @@ export const capitalmedicaluniversity = {
             type: 'list-bollet',
             title: 'About Beijing City',
             img: 'beijing-city.jpg',
-            info: '<b>Below are some of the key points about the Beijing city:</b>',
+            info: 'Below are some of the key points about the Beijing city:',
             data: [
                 "Beijing is China's national capital and is situated at the north edge of the North China Plain.",
                 "To the city’s northwest is the vast Inner Mongolian Plateau and a hundred kilometers to the east is the Bohai Sea.",
@@ -163,9 +163,13 @@ export const capitalmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Capital Medical University - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Capital Medical University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Capital Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Capital Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year  1",
@@ -281,7 +285,7 @@ export const capitalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Capital Medical University",
-            "info": "<b>Mentioned below is the duration of MBBS course:</b>",
+            "info": "Mentioned below is the duration of MBBS course:",
             "data": [
                 "The duration of MBBS course at Capital University is 6 years which includes 1 year of internship."
             ]
@@ -289,7 +293,7 @@ export const capitalmedicaluniversity = {
         {
             "type": "table",
             "title": "MBBS Syllabus - Capital Medical University",
-            "info": "<b>The complete syllabus for studying MBBS at Capital Medical University is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Capital Medical University is as follows:",
             "Data": "1st Year",
             "col": [
                 "1st Semester",
@@ -398,7 +402,7 @@ export const capitalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Capital Medical University",
-            "info": "<b>Below are the faculties at Capital Medical University:</b>",
+            "info": "Below are the faculties at Capital Medical University:",
             "data": [
                 "School of Basic Medical Sciences",
                 "School of Traditional Chinese Medicine",
@@ -433,9 +437,13 @@ export const capitalmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Capital Medical University - Admission 2023 "
+        },
+        {
             "type": "table",
             "title": "Important Dates - Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Capital Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Capital Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -462,7 +470,7 @@ export const capitalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Capital Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Capital Medical University is as follows:",
             "data": [
                 "Candidate’s age should be over 18 years and under 25 years.",
                 "Candidate’s mental and physical health should be good.",
@@ -476,7 +484,7 @@ export const capitalmedicaluniversity = {
         {
             type: 'step-list',
             title: 'How to Apply for MBBS Admission at Capital Medical University?',
-            info: '<b>Following is the admission procedure for applying to MBBS course at Capital Medical University:</b>',
+            info: 'Following is the admission procedure for applying to MBBS course at Capital Medical University:',
             data: [
                 "Step 1: Students who fit in the required eligibility criteria for Capital Medical University must fill the application form of the university.",
                 "Step 2: Students must upload the required application documents.",
@@ -490,7 +498,7 @@ export const capitalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required at the time of admission to Capital Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Capital Medical University:",
             "data": [
                 "Completely filled Application Form",
                 "Notarized copies for Highest Diploma Certificates and transcripts",
@@ -524,6 +532,10 @@ export const capitalmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Capital Medical University - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Capital Medical University - Reviews" },
@@ -542,6 +554,10 @@ export const capitalmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Capital Medical University - Placement"
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -573,6 +589,10 @@ export const capitalmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Capital Medical University - Gallery "
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Capital Medical University - Gallery" },
@@ -591,6 +611,10 @@ export const capitalmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Capital Medical University - Scholarship"
+        },
         {
             "type": "text",
             "title": "Scholarships",
@@ -627,6 +651,10 @@ export const capitalmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Capital Medical University - Faculty"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Capital Medical University - Faculty" },
@@ -645,6 +673,10 @@ export const capitalmedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Capital Medical University - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -665,9 +697,13 @@ export const capitalmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Capital Medical University - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Capital Medical University:</b>",
+            "info": "Following are the hostel facilities at Capital Medical University:",
             "data": [
                 "In-campus hostel facilities are provided to the international students at Capital Medical University and for this the hostel executes Hotel Style Management.",
                 "On campus living is provided to all the students.",
@@ -680,7 +716,7 @@ export const capitalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Normally two students share a room is and each room is equipped with -</b>",
+            "info": "Normally two students share a room is and each room is equipped with -",
             "data": [
                 "Bathroom",
                 "Internet",
@@ -693,7 +729,7 @@ export const capitalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Students at Capital University",
-            "info": "<b>Students live an excellent life at Capital medical university as it provides many facilities to its students:</b>",
+            "info": "Students live an excellent life at Capital medical university as it provides many facilities to its students:",
             "data": [
                 "The Capital university has some of the brightest minds in the country as their staff.",
                 "The faculty of this university is highly experienced and offers education in English medium.",
@@ -729,9 +765,13 @@ export const capitalmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Capital Medical University - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Capital Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Which are the documents required for applying for the Beijing Municipal Government Scholarship?",

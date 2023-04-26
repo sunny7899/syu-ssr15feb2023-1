@@ -19,7 +19,7 @@ export const mainamotimedicalcollege = {
     {
       "type": "table-title",
       "title": "Mainamoti Medical College - Quick Highlights",
-      "info": "<b>The worldwide students must check out some major facts of Mainamoti Medical College:</b>",
+      "info": "The worldwide students must check out some major facts of Mainamoti Medical College:",
       "col": [],
       "row": [
         ["<b>Intake for MBBS Course</b>", "September"],
@@ -33,7 +33,7 @@ export const mainamotimedicalcollege = {
     {
       "type": 'list-bollet',
       "title": 'Why Study MBBS at Mainamoti Medical College?',
-      "info": '<b>The candidates will enjoy following advantages of studying medicine program at­­­­­­­­­­­­­­­­­­­­­ Mainamoti Medical College and Hospital:</b>',
+      "info": 'The candidates will enjoy following advantages of studying medicine program at­­­­­­­­­­­­­­­­­­­­­ Mainamoti Medical College and Hospital:',
       "data": [
         "Mainamoti Medical College provides a quality education system with an organised curriculum for medical education.",
         "The institute has an easy documentation process for MBBS enrollment.",
@@ -51,13 +51,13 @@ export const mainamotimedicalcollege = {
     {
       "type": "text",
       "title": "Medium of Teaching",
-      "info": "",
-      "data": "<p><b>Mainamoti Medical College and Hospital provides English teaching for MBBS course:</b></p><p>The medium of instruction for all students who are striving to pursue a medicine program at Mainamoti Medical College and Hospital in the English language.</p>"
+      "info": "Mainamoti Medical College and Hospital provides English teaching for MBBS course:",
+      "data": "<p>The medium of instruction for all students who are striving to pursue a medicine program at Mainamoti Medical College and Hospital in the English language.</p>"
     },
     {
       "type": "list-bollet",
       "title": "Facilities Provided at Mainamoti Medical College",
-      "info": "<b>The infrastructure of Mainamoti Medical College and Hospital fulfills all basic requirements by providing modern facilities:</b>",
+      "info": "The infrastructure of Mainamoti Medical College and Hospital fulfills all basic requirements by providing modern facilities:",
       "data": [
         " Mainamoti Medical College has a library with an excellent collection of the latest books, monographs, journals, magazines, newspapers, internet and computers.",
         " Mainamoti Medical College and Hospital offers separate common rooms for both male & female students with television for the entertainment of the students during medical education.",
@@ -72,7 +72,7 @@ export const mainamotimedicalcollege = {
     {
       "type": "table",
       "title": "Academic Calendar - Intake Dates 2022",
-      "info": "<b>The candidates must take care of the important dates regarding medicine admission at Mainamoti Medical College:</b>",
+      "info": "The candidates must take care of the important dates regarding medicine admission at Mainamoti Medical College:",
       "col": [
         "Events",
         "Dates",
@@ -96,7 +96,7 @@ export const mainamotimedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation and Recognition",
-      "info": "<b>Mainamoti Medical College and Hospital is officially accredited and recognized by:</b>",
+      "info": "Mainamoti Medical College and Hospital is officially accredited and recognized by:",
       "data": [
         "World health organization (WHO)",
         "National Medical Commission (NMC)"
@@ -105,7 +105,7 @@ export const mainamotimedicalcollege = {
     {
       "type": "table",
       "title": "Mainamoti Medical College - FMGE Performance 2021",
-      "info": "<b>The details about FMGE performance for Mainamoti Medical College of year 2021 with passing percent is as follows:</b>",
+      "info": "The details about FMGE performance for Mainamoti Medical College of year 2021 with passing percent is as follows:",
       "col": [
         "Name of University",
         "Appeared ",
@@ -124,7 +124,7 @@ export const mainamotimedicalcollege = {
     {
       "type": "table",
       "title": "Living Cost of Bangladesh",
-      "info": "<b>Bangladesh provides affordable living expenses which may vary according to individual requirements, The table given below shows monthly basis living cost:</b>",
+      "info": "Bangladesh provides affordable living expenses which may vary according to individual requirements, The table given below shows monthly basis living cost:",
       "col": [
         "Particulars",
         "Approx Range in USD",
@@ -149,13 +149,13 @@ export const mainamotimedicalcollege = {
       "type": "text",
       "title": "About Comilla City",
       "img": "images/bangladesh/comilla-city.jpg",
-      "info": "",
-      "data": "<p><b>Now let's know about the Comilla city:</b></p><p>Comilla city is officially known as Cumilla.</p><p>The city is located along the Dhaka-Chittagong Highway in the Chittagong division of Bangladesh. </p><p>It is the administrative centre of the Comilla District, part of the Chittagong Division. </p><p>Population: 2.96 lakhs (2011)</p><p>Literacy percentage total: 57%</p><p>Weather: 32 °C, Wind NW at 6 km/h, 62% Humidity</p>"
+      "info": "Now let's know about the Comilla city:",
+      "data": "<p>Comilla city is officially known as Cumilla.</p><p>The city is located along the Dhaka-Chittagong Highway in the Chittagong division of Bangladesh. </p><p>It is the administrative centre of the Comilla District, part of the Chittagong Division. </p><p>Population: 2.96 lakhs (2011)</p><p>Literacy percentage total: 57%</p><p>Weather: 32 °C, Wind NW at 6 km/h, 62% Humidity</p>"
     },
     {
       "type": "table-title",
       "title": "",
-      "info": "<b>Here are some top sights of the comilla city one must visit:</b>",
+      "info": "Here are some top sights of the comilla city one must visit:",
       "col": [],
       "row": [
         ["Shalban Vihara", "Magic Paradise Park"],
@@ -183,11 +183,16 @@ export const mainamotimedicalcollege = {
     }
   ],
   "coursesandfees": [
+
+    {
+      type: 'title',
+      title: 'Mainamoti Medical College, Bangladesh - courses & Fees'
+    },
     {
       "type": "table",
       "title": "Mainamoti Medical College - MBBS Fee Structure 2022",
-      "info": "<b>Mainamoti Medical College and Hospital offers quite an affordable fee structure mentioned below in the table:</b>",
-      "data": "<p><b>Foreign Student -</b></p>",
+      "info": "Mainamoti Medical College and Hospital offers quite an affordable fee structure mentioned below in the table:",
+      "data": "Foreign Student -",
       "col": [
         "Particular",
         "Fees per Year"
@@ -207,7 +212,7 @@ export const mainamotimedicalcollege = {
       "type": "table",
       "title": "",
       "info": "",
-      "data": "<p><b>Other Expenses -</b></p>",
+      "data": "Other Expenses -",
       "col": [
         "Particular",
         "Fees"
@@ -247,7 +252,7 @@ export const mainamotimedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Courses offered at Mainamoti Medical College",
-      "info": "<b>Mainamoti Medical College is a top-leading university offering training in many specialities:</b>",
+      "info": "Mainamoti Medical College is a top-leading university offering training in many specialities:",
       "data": [
         "Medicine",
         "Biochemistry",
@@ -265,7 +270,7 @@ export const mainamotimedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Mainamoti Medical College - MBBS Duration",
-      "info": "<b>MBBS course comprises of five years followed by Rotatory Internship for one year:</b>",
+      "info": "MBBS course comprises of five years followed by Rotatory Internship for one year:",
       "data": [
         "Mainamoti Medical College offers 5 years of MBBS course duration.",
         "Individual students will get theoretical as well as practical knowledge.",
@@ -276,7 +281,7 @@ export const mainamotimedicalcollege = {
     {
       "type": "table",
       "title": "Mainamoti Medical College - MBBS Syllabus",
-      "info": "<b>The syllabus pattern for doing MBBS course at Mainamoti Medical College and Hospital is mentioned below in the table:</b>",
+      "info": "The syllabus pattern for doing MBBS course at Mainamoti Medical College and Hospital is mentioned below in the table:",
       "col": [
         "Phase",
         "Duration",
@@ -331,9 +336,13 @@ export const mainamotimedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: 'Mainamoti Medical College, Bangladesh - Admission 2023'
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The worldwide students must fit into the criteria mentioned below to enroll in institute:</b>",
+      "info": "The worldwide students must fit into the criteria mentioned below to enroll in institute:",
       "data": [
         "Students who have passed SSC should have a total GPA of 9.00. (minimum 3.50 GPA in SSC or HSC).",
         "All tribal students and residents of Hilly District should have a total GPA of 8.00. ( minimum 3.00 GPA in SSC or HSC).",
@@ -348,7 +357,7 @@ export const mainamotimedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>The candidates should follow the admission steps precisely for MBBS enrollment in Mainamoti Medical College and Hospital: </b>',
+      info: 'The candidates should follow the admission steps precisely for MBBS enrollment in Mainamoti Medical College and Hospital: ',
       data: [
         "Step 1: The candidates should fill the online application form available on the official website with correct details before the deadline dates hit.",
         "Step 2: Candidates should upload all scanned copies of important documents.",
@@ -361,7 +370,7 @@ export const mainamotimedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>Essential Documents to be submitted by the candidate for 1st-year MBBS admission at Mainamoti Medical College and Hospital:</b>",
+      "info": "Essential Documents to be submitted by the candidate for 1st-year MBBS admission at Mainamoti Medical College and Hospital:",
       "data": [
         "The candidates must submit the fully- filled Application form addressed to the university office.",
         "The candidates must submit the attested photocopy of S.S.C & H.S.C / Equivalent mark sheets/academic transcript.",
@@ -400,6 +409,10 @@ export const mainamotimedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: 'Mainamoti Medical College, Bangladesh - Reviews'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Mainamoti Medical College, Bangladesh - Reviews" },
@@ -418,6 +431,10 @@ export const mainamotimedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: 'Mainamoti Medical College, Bangladesh - Placement'
+    },
     {
       type: "meta",
       meta: [
@@ -438,6 +455,10 @@ export const mainamotimedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: 'Mainamoti Medical College, Bangladesh - Gallery'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Mainamoti Medical College, Bangladesh - Gallery" },
@@ -456,6 +477,10 @@ export const mainamotimedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: 'Mainamoti Medical College, Bangladesh - Scholarship'
+    },
     {
       type: "meta",
       meta: [
@@ -476,6 +501,10 @@ export const mainamotimedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: 'Mainamoti Medical College, Bangladesh - Faculty'
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Mainamoti Medical College, Bangladesh - Faculty" },
@@ -494,6 +523,10 @@ export const mainamotimedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: 'Mainamoti Medical College, Bangladesh - News & Articles'
+    },
     {
       type: "meta",
       meta: [
@@ -514,9 +547,13 @@ export const mainamotimedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: 'Mainamoti Medical College, Bangladesh - Hostel'
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>The Mainamoti Medical College provides convenient dormitories to International students:</b>",
+      "info": "The Mainamoti Medical College provides convenient dormitories to International students:",
       "data": [
         "Mainamoti Medical College provides hostel rooms for students on a sharing basis.",
         "The hostel rooms are separate for boys and girls present on different floors.",
@@ -569,9 +606,13 @@ export const mainamotimedicalcollege = {
   "faq":
     [
       {
+        type: 'title',
+        title: 'Mainamoti Medical College, Bangladesh - FAQ'
+      },
+      {
         "type": "question-list",
         "title": "Mainamoti Medical College - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. What are the other expenses during MBBS education at Mainamoti Medical College?",

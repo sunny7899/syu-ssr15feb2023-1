@@ -21,23 +21,23 @@ export const kubanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Kuban State Medical University - Quick Highlights 2022",
-            "info": "<b>Refer the table below for quick facts about Kuban State Medical University:</b>",
+            "info": "Refer the table below for quick facts about Kuban State Medical University:",
             "col": [],
             "row": [
-                ["<b>Intake for MBBS Course	</b>", "September"],
-                ["<b>NEET Exam	</b>", "Yes, with qualified numbers"],
-                ["<b>Annual Tuition Fees	</b>", "2900 USD (approx)"],
-                ["<b>Duration of MBBS Course	</b>", "6 years (with internship)"],
-                ["<b>Medium of Teaching	</b>", "English & Russian"],
-                ["<b>Students Enrollment	</b>", "15,000 Plus"],
+                ["<b>Intake for MBBS Course</b>", "September"],
+                ["<b>NEET Exam</b>", "Yes, with qualified numbers"],
+                ["<b>Annual Tuition Fees</b>", "2900 USD (approx)"],
+                ["<b>Duration of MBBS Course</b>", "6 years (with internship)"],
+                ["<b>Medium of Teaching</b>", "English & Russian"],
+                ["<b>Students Enrollment</b>", "15,000 Plus"],
                 ["<b>Ranking</b>", "Country Rank - 222<br>  World Rank - 6058"],
-                ["<b>Recognition	</b>", "NMC & WHO approved"],
+                ["<b>Recognition</b>", "NMC & WHO approved"],
             ]
         },
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Kuban State Medical University?",
-            "info": "<b>Following are the advantages of studying MBBS in Kuban State Medical University:</b>",
+            "info": "Following are the advantages of studying MBBS in Kuban State Medical University:",
             "data": [
                 "Kuban State Medical University is one of the top-ranked government universities.",
                 "It offers a low-cost fee structure which makes it very much affordable for Indian students.",
@@ -49,13 +49,13 @@ export const kubanstatemedicaluniversity = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '',
-            data: '<p><b>Following is the medium of teaching at Kuban State Medical University:</b></p><p>At Kuban State Medical university, the medicine courses are taught in Russian and English language.</p> '
+            info: 'Following is the medium of teaching at Kuban State Medical University:',
+            data: '<p>At Kuban State Medical university, the medicine courses are taught in Russian and English language.</p> '
         },
         {
             "type": "table",
             "title": "Kuban State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Kuban State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Kuban State Medical University:",
             "col": [
                 "World",
                 "Country",
@@ -71,7 +71,7 @@ export const kubanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Kuban State Medical University has the following accreditation and recognition:</b>",
+            "info": "Kuban State Medical University has the following accreditation and recognition:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)"
@@ -80,7 +80,7 @@ export const kubanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Students",
-            "info": "<b>Students live an excellent life at Kuban State Medical University. The university takes the best care of physical and mental health of students:</b>",
+            "info": "Students live an excellent life at Kuban State Medical University. The university takes the best care of physical and mental health of students:",
             "data": [
                 "Students of Kuban State Medical University annually take an active part in the music talk show Choose Life in the seminar Active Healthy Lifestyle and many more such programs.",
                 "There is a law on the prohibition of smoking at the university. The problems of smoking, alcoholism, drug addiction, etc. are considered within the framework of student scientific conferences.",
@@ -93,7 +93,7 @@ export const kubanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>The expenses of living in Russia are not much different than living in India:</b><br>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the students.",
+            "info": "The expenses of living in Russia are not much different than living in India:</b><br>The table below shows the average and approx cost of living in Russia for a month. This may vary from person to person and according to the living style of the stude",
             "col": [
                 "Particulars",
                 "Approx Range in PY6",
@@ -131,7 +131,7 @@ export const kubanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Krasnodar Krai",
-            "info": "<b>Below given are some of the interesting facts about Krasnodar Krai city:</b>",
+            "info": "Below given are some of the interesting facts about Krasnodar Krai city:",
             "img": 'https://www.selectyouruniversity.com/images/russia-universities/kuban-State-medical-university-about.jpg',
             "data": [
                 "In the North Caucasus region in Southern Russia, Krasnodar Krai is located and it is administratively a part of the Southern Federal District.",
@@ -164,9 +164,14 @@ export const kubanstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Kuban State Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Kuban State Medical University - MBBS Fee Structure 2022",
-            "info": "<b>Kuban State Medical University has an affordable fee structure:</b>",
+            "info": "Kuban State Medical University has an affordable fee structure:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -219,7 +224,7 @@ export const kubanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered by Kuban State Medical University",
-            "info": "<b>Apart from the MBBS course, there are following courses taught in this university:</b>",
+            "info": "Apart from the MBBS course, there are following courses taught in this university:",
             "data": [
                 "General Medicine (MBBS)",
                 "Pediatrics",
@@ -233,13 +238,14 @@ export const kubanstatemedicaluniversity = {
         {
             type: 'text',
             title: 'Kuban State Medical University - MBBS Course Duration',
-            data: '<p><b>The course duration of MBBS in Kuban State Medical University is 6 years:</b></p><p>MBBS degree’s duration in Russia is <b>6 years</b>, this includes 5 years’ course and 1 year of internship.</p>'
+            info: "The course duration of MBBS in Kuban State Medical University is 6 years:",
+            data: "<p>MBBS degree’s duration in Russia is <b>6 years</b>, this includes 5 years’ course and 1 year of internship.</p>"
         },
         {
             "type": "table",
             "title": "Kuban State Medical University - MBBS Course Syllabus",
-            "info": "<b>The syllabus for MBBS in Russia is shown in the table below:</b>",
-            "data": "<p>1st Year</p>",
+            "info": "The syllabus for MBBS in Russia is shown in the table below:",
+            "data": "1st Year",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -351,9 +357,14 @@ export const kubanstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Kuban State Medical University - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS:",
             "data": [
                 "You are at least 17 and maximum 25 years old on or before 31st December of the admission year.",
                 "You have passed class 12th with PCB and English subjects from a board recognized by the authorities in India.",
@@ -364,7 +375,7 @@ export const kubanstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Following steps are involved in the process of admission to study MBBS in Kuban State Medical Universi</b>',
+            info: 'Following steps are involved in the process of admission to study MBBS in Kuban State Medical Universi',
             data: [
                 "Step 1: The student should submit his/her admission form along with a scan copy of 10th & 12th standard certificate and mark sheet to their official website.",
                 "Step 2: Within two weeks the university will issue an admission letter confirming the reservation of the seat.",
@@ -376,7 +387,7 @@ export const kubanstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following are the important documents which must be submitted during the admission procedure:</b>",
+            "info": "Following are the important documents which must be submitted during the admission procedure:",
             "data": [
                 "Scanned copy of the filled Application Form",
                 "Scanned copy of passing certificate and mark sheet of 12th",
@@ -397,7 +408,7 @@ export const kubanstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Students should take their admissions to Kuban State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Kuban State Medical University:</b>",
+            "info": "Students should take their admissions to Kuban State Medical University before the dates mentioned below. Check out the Important dates regarding admission at Kuban State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -441,6 +452,11 @@ export const kubanstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Kuban State Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kuban State Medical University - Reviews" },
@@ -459,6 +475,11 @@ export const kubanstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Kuban State Medical University - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -488,9 +509,14 @@ export const kubanstatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Kuban State Medical University - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>The scholarships provided at Kuban State Medical University are as follows:</b>",
+            "info": "The scholarships provided at Kuban State Medical University are as follows:",
             "data": [
                 "The Annual Music Authority Scholarship",
                 "Arash Hadipour Niktarash Grant",
@@ -520,6 +546,11 @@ export const kubanstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Kuban State Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kuban State Medical University - Gallery" },
@@ -538,6 +569,11 @@ export const kubanstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Kuban State Medical University - Faculty"
+
+        },
         {
             type: "meta",
             meta: [
@@ -558,6 +594,11 @@ export const kubanstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Kuban State Medical University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kuban State Medical University - News & Articles" },
@@ -577,9 +618,14 @@ export const kubanstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Kuban State Medical University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Food",
-            "info": "<b>Kuban State Medical University provides the facilities of accommodation and mess for students:</b>",
+            "info": "Kuban State Medical University provides the facilities of accommodation and mess for students:",
             "data": [
                 "Students at Kuban State Medical University are provided with hostels on sharing basis rooms.",
                 "Rooms are provided with 2 and 3 beds sharing.",
@@ -611,9 +657,13 @@ export const kubanstatemedicaluniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Kuban State Medical University - FAQ"
+            },
+            {
                 "type": "question-list",
                 "title": "Kuban State Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. Is the Kuban State Medical University NMC Approved?",

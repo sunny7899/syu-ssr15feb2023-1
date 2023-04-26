@@ -20,7 +20,7 @@ export const sofiamedicaluniversity = {
         {
             "type": "table-title",
             "title": "Sofia Medical University: Quick Highlights 2022",
-            "info": "<b>Go through the highlights to get assistance during MBBS enrollment into Sofia Medical University:</b>",
+            "info": "Go through the highlights to get assistance during MBBS enrollment into Sofia Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course	</b>", "December"],
@@ -35,7 +35,7 @@ export const sofiamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Sofia Medical University?",
-            "info": "<b>Checkout some favourable reasons why global medical aspirants urge to choose Sofia Medical University for doing MBBS education:</b>",
+            "info": "Checkout some favourable reasons why global medical aspirants urge to choose Sofia Medical University for doing MBBS education:",
             "data": [
                 "Sofia Medical University has English medium as well as Bulgarian medium of instruction for teaching MBBS to the students coming from parts of the world.",
                 "The University has official acknowledgement of various medical organisation National Medical Commission (NMC) and the World Health Organization (WHO).",
@@ -50,7 +50,7 @@ export const sofiamedicaluniversity = {
         {
             "type": "table",
             "title": "Sofia Medical University: Ranking 2022",
-            "info": "<b>Refer Uni Rank to find out the country & world ranking of Sofia Medical University:</b>",
+            "info": "Refer Uni Rank to find out the country & world ranking of Sofia Medical University:",
             "col": [
                 "World",
                 "Country",
@@ -72,7 +72,7 @@ export const sofiamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Sofia Medical University was included in the list of acknowledged medical organisations:</b>",
+            "info": "Sofia Medical University was included in the list of acknowledged medical organisations:",
             "data": [
                 "National Medical Commission (NMC).",
                 "World health organization (WHO)."
@@ -81,7 +81,7 @@ export const sofiamedicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost of Sofia",
-            "info": "<b>The institute is located in Sofia, Bulgaria and has lower expenses varying as per individual's basic requirements, check out the table given below on monthly basis expenses:</b>",
+            "info": "The institute is located in Sofia, Bulgaria and has lower expenses varying as per individual's basic requirements, check out the table given below on monthly basis expenses:",
             "col": [
                 "Particular",
                 "Annual Amount in USD",
@@ -99,12 +99,12 @@ export const sofiamedicaluniversity = {
                     "Annual Amount in Rs": "2030 Rs",
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1$ = 70 Rs.</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1$ = 70 Rs.</p>'
         },
         {
             "type": "list-bollet",
             "title": "About Sofia City",
-            "info": "<b>Sofia Medical University is located in Sofia city of Bulgaria, Read the information regarding the city:</b>",
+            "info": "Sofia Medical University is located in Sofia city of Bulgaria, Read the information regarding the city:",
             "img": 'https://www.selectyouruniversity.com/images/bulgaria-universities/sofia-city.jpg',
             "data": [
                 "Sofia city is the capital of the Balkan nation of Bulgaria.",
@@ -115,7 +115,7 @@ export const sofiamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>One must explore the topmost attractable places of Sofia city -</b>",
+            "info": "One must explore the topmost attractable places of Sofia city -",
             "data": [
                 "Cathedral Saint Aleksandar Nevski",
                 "Boyana Church Museum",
@@ -150,9 +150,13 @@ export const sofiamedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Sofia Medical University, Bulgaria - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Sofia Medical University: MBBS Fee Structure 2022",
-            "info": "<b>The institute offers medical course fee by keeping the affordability in mind for enrollment:</b>",
+            "info": "The institute offers medical course fee by keeping the affordability in mind for enrollment:",
             "col": [
                 "Tuition Fees per Year",
                 "Bulgaria Language",
@@ -175,12 +179,12 @@ export const sofiamedicaluniversity = {
                     "English Language": "6,64,650 Rs"
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1 USD - INR 70</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1 USD - INR 70</p>'
         },
         {
             type: 'list-bollet',
             title: 'Courses offered at Sofia Medical University',
-            info: '<b>Sofia Medical University offers a wide range of medicine faculties to the medical aspirants:</b>',
+            info: 'Sofia Medical University offers a wide range of medicine faculties to the medical aspirants:',
             data: [
                 "Medicine",
                 "Dental Medicine",
@@ -191,15 +195,15 @@ export const sofiamedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Sofia Medical University: MBBS Duration',
-            info: '<b>Complete 6 years of medicine course offered for the candidates coming from different parts of the world:</b>',
+            info: 'Complete 6 years of medicine course offered for the candidates coming from different parts of the world:',
             data: [
-                "The entire course of the MBBS program lasts for <b>six years</b> at Sofia Medical University."
+                "The entire course of the MBBS program lasts for six years at Sofia Medical University."
             ]
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>The medical program is organised in three stages -</b>',
+            info: 'The medical program is organised in three stages -',
             data: [
                 "<b>Preclinical training</b> offers fundamental biological and medical knowledge to the students.",
                 "<b>Clinical training</b> aims at the acquisition of knowledge and skills in diagnostics and treatment after the third year which is organized in a modular system.",
@@ -218,7 +222,7 @@ export const sofiamedicaluniversity = {
         {
             "type": "table",
             "title": "Sofia Medical University: MBBS Syllabus",
-            "info": "<b>Candidates strive to pursue MBBS at Sofia Medical University should go through the organised curriculum of medical course:</b>",
+            "info": "Candidates strive to pursue MBBS at Sofia Medical University should go through the organised curriculum of medical course:",
             "Data": "1st Year",
             "col": [
                 "1st Semester",
@@ -332,9 +336,13 @@ export const sofiamedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Sofia Medical University, Bulgaria - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students must fit in eligibility criteria to get admission in Sofia Medical University:</b>",
+            "info": "The students must fit in eligibility criteria to get admission in Sofia Medical University:",
             "data": [
                 "Every candidate looking for MBBS admission should complete the age of 17 years at least or before the 31st December of the admission year.",
                 "The student must clear 10+12 with physics, chemistry, biology and English subjects.",
@@ -346,7 +354,7 @@ export const sofiamedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Here are the steps to take MBBS admission in Sofia Medical University:</b>',
+            info: 'Here are the steps to take MBBS admission in Sofia Medical University:',
             data: [
                 "Step 1: The candidates must fill the online application form available on the official website with correct details.",
                 "Step 2: The students should upload the scanned copies of essential documents with photographs and submit the application form.",
@@ -359,7 +367,7 @@ export const sofiamedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Medical aspirants must submit essential documents required during MBBS admission:</b>",
+            "info": "Medical aspirants must submit essential documents required during MBBS admission:",
             "data": [
                 "The students must carry complete application form in English and in Bulgarian language (it can be downloaded from the MU-Sofia webpage both in Bulgarian and in the English language).",
                 "Submit the legalized copy of the secondary education diploma with a certified translation into the Bulgarian language.",
@@ -380,7 +388,7 @@ export const sofiamedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates: Intake 2022",
-            "info": "<b>The students must be aware of the important dates to enroll in MBBS course at the Sofia Medical University:</b>",
+            "info": "The students must be aware of the important dates to enroll in MBBS course at the Sofia Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -422,6 +430,10 @@ export const sofiamedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Sofia Medical University, Bulgaria - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sofia Medical University, Bulgaria - Reviews" },
@@ -442,6 +454,10 @@ export const sofiamedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Sofia Medical University, Bulgaria - Placement'
+        },
         {
             type: "meta",
             meta: [
@@ -464,6 +480,10 @@ export const sofiamedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Sofia Medical University, Bulgaria - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sofia Medical University, Bulgaria - Gallery" },
@@ -484,6 +504,10 @@ export const sofiamedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Sofia Medical University, Bulgaria - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -517,6 +541,10 @@ export const sofiamedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Sofia Medical University, Bulgaria - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Sofia Medical University, Bulgaria - Faculty" },
@@ -537,6 +565,10 @@ export const sofiamedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: 'Sofia Medical University, Bulgaria - News & Articles'
+        },
         {
             type: "meta",
             meta: [
@@ -559,9 +591,13 @@ export const sofiamedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Sofia Medical University, Bulgaria - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>The Sofia Medical University provides a spacious and comfortable stay at hostel rooms enjoying all required facilities at doorstep:</b>",
+            "info": "The Sofia Medical University provides a spacious and comfortable stay at hostel rooms enjoying all required facilities at doorstep:",
             "data": [
                 "Sofia Medical University offers complete furnished, safe and comfortable hostel rooms.",
                 "The hostel offers hot and cold water and a centralised heating system for the students.",
@@ -597,9 +633,13 @@ export const sofiamedicaluniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: 'Sofia Medical University, Bulgaria - FAQ'
+            },
+            {
                 "type": "question-list",
                 "title": "Southern Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360",
                 "data": [
                     {
                         "ques": "Q. What are the other expenses apart from the medical program fee at Sofia Medical University?",

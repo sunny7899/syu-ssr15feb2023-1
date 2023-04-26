@@ -19,7 +19,7 @@ export const parkviewmedicalcollege = {
     {
       "type": "table-title",
       "title": "Parkview Medical College - Quick Overview 2022",
-      "info": "<b>Go through the Highlights, if you want to take MBBS Admission in Parkview Medical College:</b>",
+      "info": "Go through the Highlights, if you want to take MBBS Admission in Parkview Medical College:",
       "col": [],
       "row": [
         ["<b>Class commencement</b>", "January every year"],
@@ -35,7 +35,7 @@ export const parkviewmedicalcollege = {
     {
       "type": 'list-bollet',
       "title": 'Why Study MBBS at Parkview Medical College?',
-      "info": '<b>Here are various reasons that make Parkview Medical College & Hospital the Ideal choice when it comes to MBBS education:</b>',
+      "info": 'Here are various reasons that make Parkview Medical College & Hospital the Ideal choice when it comes to MBBS education:',
       "data": [
         "The faculty members are dedicated, well trained, qualified, and have decades of experience, work hard to teach the students.",
         "Parkview Medical College has a beautiful and well-arranged modern campus with well-equipped infrastructural facilities.",
@@ -53,13 +53,13 @@ export const parkviewmedicalcollege = {
     {
       "type": "text",
       "title": "Medium of Teaching",
-      "info": "",
-      "data": "<p><b>The medium of instruction at the Parkview Medical College in English:</b></p><p><b>English</b> is used as the medium of instruction opted by Parkview Medical College to provide Medical Education to all international students especially Indian students.</p>"
+      "info": "The medium of instruction at the Parkview Medical College in English:",
+      "data": "<p><b>English</b> is used as the medium of instruction opted by Parkview Medical College to provide Medical Education to all international students especially Indian students.</p>"
     },
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>The students must keep their eyes on the admission dates to enroll in medicine course on time:</b>",
+      "info": "The students must keep their eyes on the admission dates to enroll in medicine course on time:",
       "col": [
         "Events",
         "Dates",
@@ -87,7 +87,7 @@ export const parkviewmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Facilities offered at Parkview Medical College",
-      "info": "<b>Top-class facilities are furnished at the comfort zone of students at Parkview Medical College:</b>",
+      "info": "Top-class facilities are furnished at the comfort zone of students at Parkview Medical College:",
       "data": [
         "Library",
         "hostel",
@@ -102,7 +102,7 @@ export const parkviewmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Accreditation, Affiliation & Recognition",
-      "info": "<b>Parkview Medical College & Hospital is officially recognized by several organizations:</b>",
+      "info": "Parkview Medical College & Hospital is officially recognized by several organizations:",
       "data": [
         "World health organization (WHO)",
         "The University of Dhaka",
@@ -130,9 +130,14 @@ export const parkviewmedicalcollege = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "Park View Medical College - courses & Fees"
+
+    },
+    {
       "type": "table",
       "title": "Parkview Medical College - MBBS Fee Structure 2022",
-      "info": "<b>For doing medical education fee the students are provided with an affordable fee structure at Parkview Medical College:</b>",
+      "info": "For doing medical education fee the students are provided with an affordable fee structure at Parkview Medical College:",
       "col": [
         "Indian and Nepal students fee",
         "Amount"
@@ -152,7 +157,7 @@ export const parkviewmedicalcollege = {
     {
       "type": "table-title",
       "title": "Courses Offered at Parkview Medical College",
-      "info": "<b>The Parkview Medical College offers a wide range of department:</b>",
+      "info": "The Parkview Medical College offers a wide range of department:",
       "col": [],
       "row": [
         ["Basic Science", "Anatomy", "Physiology"],
@@ -173,7 +178,7 @@ export const parkviewmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Parkview Medical College - MBBS Duration",
-      "info": "<b>Parkview Medical College offers a 5 year of MBBS course:</b>",
+      "info": "Parkview Medical College offers a 5 year of MBBS course:",
       "data": [
         "Parkview Medical College offers 5 years of medical education in English literature.",
         "After the completion of the MBBS program, a 1-year internship is mandatory for every student.",
@@ -184,7 +189,7 @@ export const parkviewmedicalcollege = {
     {
       "type": "table",
       "title": "Parkview Medical College - MBBS Syllabus",
-      "info": "<b>The candidates must check out the syllabus for doing the MBBS program in Parkview Medical College:</b>",
+      "info": "The candidates must check out the syllabus for doing the MBBS program in Parkview Medical College:",
       "col": [
         "Duration",
         "Subjects",
@@ -237,9 +242,14 @@ export const parkviewmedicalcollege = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "Park View Medical College - Admission 2023 "
+
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
-      "info": "<b>The candidate needs to provide all essential documents to seek MBBS admission in the Parkview Medical College & Hospital:</b>",
+      "info": "The candidate needs to provide all essential documents to seek MBBS admission in the Parkview Medical College & Hospital:",
       "data": [
         "The student must complete at least 17 years before admission in MBBS course education.",
         "The students must have to secure at least 50% marks in physics, chemistry, and biology subjects.",
@@ -251,7 +261,7 @@ export const parkviewmedicalcollege = {
     {
       type: 'step-list',
       title: 'Admission Process',
-      info: '<b>Follow the steps needed for taking admission in MBBS course at Parkview Medical College:</b>',
+      info: 'Follow the s needed for taking admission in MBBS course at Parkview Medical College:</b>',
       data: [
         "Step 1: The students must fill the application form with the correct details.",
         "Step 2: The applicants should upload the scanned copies of essential academic and other required documents.",
@@ -264,7 +274,7 @@ export const parkviewmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "Documents Required",
-      "info": "<b>The documentation process is quite simple, the students are advised to submit important documents for MBBS admission:</b>",
+      "info": "The documentation process is quite simple, the students are advised to submit important documents for MBBS admission:",
       "data": [
         " Application form",
         " SSC mark sheet",
@@ -288,7 +298,7 @@ export const parkviewmedicalcollege = {
     {
       "type": "table",
       "title": "Important Dates - Intake 2022",
-      "info": "<b>The students must keep their eyes on the admission dates to enroll in medicine course on time:</b>",
+      "info": "The students must keep their eyes on the admission dates to enroll in medicine course on time:",
       "col": [
         "Events",
         "Dates",
@@ -333,6 +343,11 @@ export const parkviewmedicalcollege = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "Park View Medical College - Reviews"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Park View Medical College - Reviews" },
@@ -351,6 +366,11 @@ export const parkviewmedicalcollege = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "Park View Medical College - Placement"
+
+    },
     {
       type: "meta",
       meta: [
@@ -371,6 +391,11 @@ export const parkviewmedicalcollege = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "Park View Medical College - Gallery"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Park View Medical College - Gallery" },
@@ -389,6 +414,11 @@ export const parkviewmedicalcollege = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "Park View Medical College - Scholarship"
+
+    },
     {
       type: "meta",
       meta: [
@@ -409,6 +439,11 @@ export const parkviewmedicalcollege = {
   ],
   "faculty": [
     {
+      type: 'title',
+      title: "Park View Medical College - Faculty"
+
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Park View Medical College - Faculty" },
@@ -427,6 +462,11 @@ export const parkviewmedicalcollege = {
     }
   ],
   "news": [
+    {
+      type: 'title',
+      title: "Park View Medical College - News & Articles"
+
+    },
     {
       type: "meta",
       meta: [
@@ -447,9 +487,14 @@ export const parkviewmedicalcollege = {
   ],
   "hostel": [
     {
+      type: 'title',
+      title: "Park View Medical College - Hostel"
+
+    },
+    {
       "type": "list-bollet",
       "title": "Hostel & Accommodation",
-      "info": "<b>The institute hostel has every necessary facility which allows the student to live comfortably:</b>",
+      "info": "The institute hostel has every necessary facility which allows the student to live comfortably:",
       "data": [
         " Parkview Medical College offers safe and well-developed hostel rooms.",
         " The college offers separate spaces for boys and girls.",
@@ -462,7 +507,7 @@ export const parkviewmedicalcollege = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Modern amenities are provided in the hostel -</b>",
+      "info": "Modern amenities are provided in the hostel -",
       "data": [
         "Bed",
         "Blanket",
@@ -495,9 +540,14 @@ export const parkviewmedicalcollege = {
   "faq":
     [
       {
+        type: 'title',
+        title: "Park View Medical College - FAQ"
+
+      },
+      {
         "type": "question-list",
         "title": "Parkview Medical College - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. Is there Indian food available at Park View Medical College?",

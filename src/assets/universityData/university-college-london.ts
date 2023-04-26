@@ -19,7 +19,7 @@ export const universitycollegelondon = {
         {
             "type": "table-title",
             "title": "University College London: Quick Overview",
-            "info": "<b>Following are the quick highlights of studying MBA in University College London:</b>",
+            "info": "Following are the quick highlights of studying MBA in University College London:",
             "col": [],
             "row": [
                 ["<b>Degree Awarded</b>", "MBA Degree"],
@@ -36,7 +36,7 @@ export const universitycollegelondon = {
         {
             "type": "list-bollet",
             "title": "Why Pursue MBA in University College London?",
-            "info": "<b>Below are the Important benefits of studying MBA in University College London:</b>",
+            "info": "Below are the Important benefits of studying MBA in University College London:",
             "data": [
                 "The university offers cross cultural management and provides exposure to global context through its education in business and management.",
                 "Every year, students can opt for a business research project at the university that culminates in a business plan of a maximum 60 credits.",
@@ -49,7 +49,7 @@ export const universitycollegelondon = {
         {
             "type": "table",
             "title": "University College London: Ranking (2021-22)",
-            "info": "<b>Below is the ranking of the University College London as per the uniRank standard ranking system:</b>",
+            "info": "Below is the ranking of the University College London as per the uniRank standard ranking system:",
             "col": [
                 "Country Rank",
                 "World Rank"
@@ -64,7 +64,7 @@ export const universitycollegelondon = {
         {
             "type": "list-bollet",
             "title": "How to Apply?",
-            "info": "<b>Select Your Preference</b>",
+            "info": "Select Your Preference",
             "data": [
                 "Select catered or self catered halls",
                 "Select single or double rooms",
@@ -101,15 +101,16 @@ export const universitycollegelondon = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/university-college-london" }
             ]
         }
-
-
-
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'University College London - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "University College London: Ranking (2021-22)",
-            "info": "<b>Below is the ranking of the University College London as per the uniRank standard ranking system:</b>",
+            "info": "Below is the ranking of the University College London as per the uniRank standard ranking system:",
             "col": [
                 "Particulars",
                 "Fees in Rupees",
@@ -139,7 +140,7 @@ export const universitycollegelondon = {
         {
             "type": "table",
             "title": "Types of MBA Program Offered at University College London",
-            "info": "<b>Following are the different MBA programs offered at University College London:</b>",
+            "info": "Following are the different MBA programs offered at University College London:",
             "col": [
                 "Program Type",
                 "Degree Awarded",
@@ -166,7 +167,7 @@ export const universitycollegelondon = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MBA Specializations Offered at University College London:</b>",
+            "info": "MBA Specializations Offered at University College London:",
             "data": [
                 "Accounting",
                 "Finance",
@@ -197,9 +198,13 @@ export const universitycollegelondon = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University College London - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Follow the below admission criteria for applying MBA in University College London:</b>",
+            "info": "Follow the below admission criteria for applying MBA in University College London:",
             "data": [
                 "Applicants must have a bachelor's degree with a minimum second class in their academics.",
                 "The professional candidate must have more than 3 years of working experience in their respective field.",
@@ -210,7 +215,7 @@ export const universitycollegelondon = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>There are a lot of competitions at the university for admissions. Students are requested to apply as early as possible for MBA at University College London:</b>",
+            "info": "There are a lot of competitions at the university for admissions. Students are requested to apply as early as possible for MBA at University College London:",
             "data": [
                 "<b>Step 1 :</b> For applying MBA at University College London, students need to apply on <a>www.ucl.ac.uk/prospective-students/graduate/taught/application.</a>",
                 "<b>Step 2 :</b> Select your program from the given list of programs.",
@@ -225,7 +230,7 @@ export const universitycollegelondon = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Refer the below document checklists required for applying MBA course in University College London:</b>",
+            "info": "Refer the below document checklists required for applying MBA course in University College London:",
             "data": [
                 "Transcripts & Copy of Mark Sheets (10th, 12th & Bachelor)",
                 "Copy of Passport",
@@ -259,6 +264,10 @@ export const universitycollegelondon = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University College London - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University College London - Reviews" },
@@ -277,6 +286,10 @@ export const universitycollegelondon = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'University College London - Placement'
+        },
         {
             "type": "table-title",
             "title": "Career Opportunity at University College London",
@@ -308,6 +321,10 @@ export const universitycollegelondon = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University College London - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University College London - Gallery" },
@@ -327,17 +344,19 @@ export const universitycollegelondon = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University College London - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships",
-            "info": "<b>Following are the scholarships offered by the University College London  -</b>",
+            "info": "Following are the scholarships offered by the University College London  -",
             "data": [
                 "EMBA Excellence Scholarship",
                 "GBSH MBA Award for Excellence",
                 "MBA Health Future Impact Leaders Scholarships",
                 "Global Healthcare Leaders Scholarship",
                 "Women Healthcare Leaders Scholarship",
-
-
             ]
         },
         {
@@ -359,6 +378,10 @@ export const universitycollegelondon = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University College London - Faculty'
+        },
         {
             "type": "table",
             "title": "Faculty ",
@@ -406,6 +429,10 @@ export const universitycollegelondon = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University College London - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University College London - News & Articles" },
@@ -425,9 +452,13 @@ export const universitycollegelondon = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University College London - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation at University College London",
-            "info": "<b>University College London offers the accommodation facility for UG & PG students:</b>",
+            "info": "University College London offers the accommodation facility for UG & PG students:",
             "data": [
                 "Wifi",
                 "Water Supply",
@@ -459,9 +490,13 @@ export const universitycollegelondon = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University College London - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "University College London: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What should I do if I cannot complete my assessment due to the COVID pandemic?",

@@ -19,7 +19,7 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Bauman Moscow State Technical University - Quick Highlights",
-            "info": "<b>Here is all you need to know about Bauman Moscow State Technical University:</b>",
+            "info": "Here is all you need to know about Bauman Moscow State Technical University:",
             "col": [
             ],
             "row": [
@@ -38,7 +38,7 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Choose Bauman Moscow State Technical University?",
-            "info": "<b>Know why students should pursue higher education from Bauman Moscow State Technical University:</b>",
+            "info": "Know why students should pursue higher education from Bauman Moscow State Technical University:",
             "data": [
                 "Bauman University is ranked among the top Russian universities.",
                 "It consists of a scientific library and is one of the oldest libraries in Russia.",
@@ -54,7 +54,7 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "table",
             "title": "Bauman Moscow State Technical University - Ranking 2022",
-            "info": "<b>According to the UniRank database the country & world ranking of Bauman Moscow State Technical University is given below:</b>",
+            "info": "According to the UniRank database the country & world ranking of Bauman Moscow State Technical University is given below:",
             "col": [
                 "Country",
                 "World"
@@ -69,13 +69,13 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "text",
             "title": "Medium of Teaching",
-            "info": "<b>Bauman Moscow State Technical University offers education in the following medium:</b>",
+            "info": "Bauman Moscow State Technical University offers education in the following medium:",
             "data": "<p><b>Bauman Moscow State Technical University offers education in the following medium:</b></p><p>Bauman Moscow State Technical University uses English and Russian languages as the medium of teaching.</p>"
         },
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Bauman Moscow State Technical University is situated in Moscow and the average cost of living is 411$ - 878$ per month:</b>",
+            "info": "Bauman Moscow State Technical University is situated in Moscow and the average cost of living is 411$ - 878$ per month:",
             "col": [
                 "Particular",
                 "Expenses (In USD)",
@@ -136,6 +136,10 @@ export const baumanmoscowstatetechnicaluniversity = {
 
     "coursesandfees": [
         {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Bauman Moscow State Technical University - Fee Structure",
             "info": "Bachelor Degree",
@@ -170,7 +174,7 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "table",
             "title": "Bauman Moscow State Technical University - Course Duration",
-            "info": "<b>Applicants can find the details of the course duration of Bauman Moscow State Technical University below:</b>",
+            "info": "Applicants can find the details of the course duration of Bauman Moscow State Technical University below:",
             "col": [
                 "Course",
                 "Duration",
@@ -195,7 +199,7 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "table-title",
             "title": "Departments at BMSTU",
-            "info": "<b>Find the details of courses/department of Bauman Moscow State Technical University is given below:</b>",
+            "info": "Find the details of courses/department of Bauman Moscow State Technical University is given below:",
             "col": [
 
             ],
@@ -212,7 +216,7 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "table",
             "title": "Bauman Moscow State Technical University - Course Duration",
-            "info": "<b>Applicants can find the details of the course duration of Bauman Moscow State Technical University below:</b>",
+            "info": "Applicants can find the details of the course duration of Bauman Moscow State Technical University below:",
             "col": [
                 "Course",
                 "Duration",
@@ -255,9 +259,13 @@ export const baumanmoscowstatetechnicaluniversity = {
     ],
     "admission": [
         {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Bachelor Degree</b>",
+            "info": "Bachelor Degree",
             "data": [
                 "Unified Entrance Exam",
                 "Higher Secondary",
@@ -267,7 +275,7 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Masters Degree</b>",
+            "info": "Masters Degree",
             "data": [
                 "Unified Entrance Exam",
                 "Bachelor Degree/Diploma",
@@ -277,7 +285,7 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Applicants can go through these admission steps to take admission to Bauman Moscow State Technical University:</b>",
+            "info": "Applicants can go through these admission steps to take admission to Bauman Moscow State Technical University:",
             "data": [
                 "<b>Step 1:</b> Applicants will have to take the Unified Entrance Exam or the university entrance exam.",
                 "<b>Step 2:</b> After getting the result, submit an application to Bauman Moscow State Technical University.",
@@ -293,7 +301,7 @@ export const baumanmoscowstatetechnicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>To get enrolled at Bauman Moscow State Technical University students will have to submit the following documents:</b>",
+            "info": "To get enrolled at Bauman Moscow State Technical University students will have to submit the following documents:",
             "data": [
                 "Passport",
                 "Result of Unified Entrance Examination",
@@ -336,6 +344,10 @@ export const baumanmoscowstatetechnicaluniversity = {
     ],
     "review": [
         {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - Reviews"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bauman Moscow State Technical University, Russia - Reviews" },
@@ -354,6 +366,10 @@ export const baumanmoscowstatetechnicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - Placement"
+        },
         {
             type: "meta",
             meta: [
@@ -374,6 +390,10 @@ export const baumanmoscowstatetechnicaluniversity = {
     ],
     "gallery": [
         {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - Gallery"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bauman Moscow State Technical University, Russia - Gallery" },
@@ -392,6 +412,10 @@ export const baumanmoscowstatetechnicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -412,9 +436,13 @@ export const baumanmoscowstatetechnicaluniversity = {
     ],
     "faculty": [
         {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - Faculty"
+        },
+        {
             "type": "list-bollet",
             "title": "Faculties offered at BMSTU",
-            "info": "<b>Bauman Moscow State Technical University comprises of the following Faculty:</b>",
+            "info": "Bauman Moscow State Technical University comprises of the following Faculty:",
             "data": [
                 'Informatics and Control Systems',
                 'Engineering Business and Management',
@@ -455,6 +483,10 @@ export const baumanmoscowstatetechnicaluniversity = {
     ],
     "news": [
         {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - News & Articles"
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bauman Moscow State Technical University, Russia - News & Articles" },
@@ -474,9 +506,13 @@ export const baumanmoscowstatetechnicaluniversity = {
     ],
     "hostel": [
         {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - Hostel"
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Bauman Moscow State Technical University provides accommodation to foreign students on a competitive basis:</b>",
+            "info": "Bauman Moscow State Technical University provides accommodation to foreign students on a competitive basis:",
             "data": [
                 "The university tries to provide hostels to students who really need it.",
                 "The facility is provided on the competitive basis.",
@@ -505,9 +541,13 @@ export const baumanmoscowstatetechnicaluniversity = {
     ],
     "faq": [
         {
+            type: "title",
+            title: "Bauman Moscow State Technical University, Russia - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Bauman Moscow State Technical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the entrance exam for Bauman Moscow State Technical University?",

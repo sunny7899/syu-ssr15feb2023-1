@@ -19,7 +19,7 @@ export const tverstatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Tver State Medical University - Quick Overview 2022",
-            "info": "<b>Given below is the table for quick highlights about Tver State Medical University have a look at the details carefully and know more about the university:</b>",
+            "info": "Given below is the table for quick highlights about Tver State Medical University have a look at the details carefully and know more about the university:",
             "row": [
                 ["<b>Abbreviation</b>", "TverSMU"],
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -41,7 +41,7 @@ export const tverstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Tver State Medical University?',
-            info: '<b>The advantages to studying at Tver State Medical University give you some decent reasons to choose your MBBS degree from this institute in Russia:</b>',
+            info: 'The advantages to studying at Tver State Medical University give you some decent reasons to choose your MBBS degree from this institute in Russia:',
             data: [
                 "The university follows a strict pattern of imparting medical education to students.",
                 "The university organizes partnership and student exchange programs with the reputed medical universities located in Europe and other parts of the world.",
@@ -59,7 +59,7 @@ export const tverstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>Following is the medium of teaching at Tver State Medical University:</b>',
+            info: 'Following is the medium of teaching at Tver State Medical University:',
             data: [
                 "MBBS course at Tver State Medical University is bilingual.",
                 "The Medical University uses English and Russian as medium of instruction",
@@ -69,7 +69,7 @@ export const tverstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Tver State Medical University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Tver State Medical University:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Tver State Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -85,7 +85,7 @@ export const tverstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>The Tver State Medical University has international recognition and accreditation. It is recognized by:</b>',
+            info: 'The Tver State Medical University has international recognition and accreditation. It is recognized by:',
             data: [
                 "Ministry of Public Health of the Russian Federation",
                 "NMC",
@@ -96,7 +96,7 @@ export const tverstatemedicaluniversity = {
         {
             "type": "table",
             title: 'Tver State Medical University - FMGE Performance 2021',
-            info: '<b>The details about FMGE performance for Tver State Medical University of year 2021 with passing percent is as follows:</b>',
+            info: 'The details about FMGE performance for Tver State Medical University of year 2021 with passing percent is as follows:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -115,7 +115,7 @@ export const tverstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Students life at Tver State Medical University',
-            info: '<b>This section describes the life of students at Tver State Medical University, read the section carefully as there are some key benefits for students</b>',
+            info: 'This section describes the life of students at Tver State Medical University, read the section carefully as there are some key benefits for students',
             data: [
                 "Tver State Medical University has 4 main hostels committed to more than eighteen hundred college students, which are absolutely geared up with centrally heated air-conditioner, toilet, kitchen, wifi facilities. It's rather a fulfilling experience for any international student to have an accommodation really well worth such inexpensive rate, that suffices the each day necessities of a student.",
                 "The cafeteria serves distinctive cuisines which includes Indian along with their local preference. Hygiene is of utmost importance In the university, this is strictly accompanied in and around campus. Cultural life of college students is pretty thrilling because the Indian student association celebrates Indian fairs like Diwali, Holi, Baisakhi, etc. Tver State Medical University, additionally organizes tournaments which include Tennis, cricket, football, basketball, badminton etc. To inspire the students to construct a holistic method to residing and developing as an assured individual."
@@ -124,7 +124,7 @@ export const tverstatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Tver State Medical University has many units for providing college students with possibilities to demonstrate and enhance their talents, which include:</b>',
+            info: 'Tver State Medical University has many units for providing college students with possibilities to demonstrate and enhance their talents, which include:',
             data: [
                 "The Tver State Medical University General purpose cultural center",
                 "Office of Pedagogical work",
@@ -160,9 +160,13 @@ export const tverstatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Tver State Medical University - MBBS Fee Structure 2022",
-            "info": "<b>Tver State Medical University is quite a cheap option for Indian students, as they offer MBBS at an average sum per year be Rs 2 lacs for detailed info have a look below:</b>",
+            "info": "Tver State Medical University is quite a cheap option for Indian students, as they offer MBBS at an average sum per year be Rs 2 lacs for detailed info have a look below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -210,12 +214,12 @@ export const tverstatemedicaluniversity = {
                     "Year  6": "Rs. 2,32,500"
                 }
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> $1 = Rs.75</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> $1 = Rs.75</p>'
         },
         {
             type: 'list-bollet',
             title: 'What are the Courses Offered at Tver State Medical University?',
-            info: '<b>Following are the different faculties at the university:</b>',
+            info: 'Following are the different faculties at the university:',
             data: [
                 "General Medicine",
                 "Dental Medicine",
@@ -228,7 +232,7 @@ export const tverstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Tver State Medical University - MBBS Syllabus",
-            "info": "<b>The complete Year wise syllabus for studying MBBS at Tver State Medical University have look carefully and prepare well:</b>",
+            "info": "The complete Year wise syllabus for studying MBBS at Tver State Medical University have look carefully and prepare well:",
             "data": "",
             "col": [
                 "1st Year",
@@ -437,9 +441,13 @@ export const tverstatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - Admission 2023'
+        },
+        {
             "type": "list-bollet",
-            "title": "What are the Eligibility Criteria for MBBS at Tver State Medical University?",
-            "info": "<b>If any student desires to study MBBS in Tver State Medical University then they must have to satisfy the following admission requirements:</b>",
+            "title": "Tver State Medical University, Russia - Admission 2023 ",
+            "info": "If any student desires to study MBBS in Tver State Medical University then they must have to satisfy the following admission requirements:",
             "data": [
                 "Students need to secure a minimum combination of 50% in Physics, Chemistry, and Biology to study MBBS at Tver State Medical University.",
                 "The college admission requirement no longer needs the NEET examination. ",
@@ -451,7 +459,7 @@ export const tverstatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'How to Apply for MBBS Admission at Tver State Medical University?',
-            info: '<b>There will be a round of counseling and academic progress, the Admission process for Tver State Medical University is based. Students are advised to read the below mentioned points to avoid any kind of confusion:</b>',
+            info: 'There will be a round of counseling and academic progress, the Admission process for Tver State Medical University is based. Students are advised to read the below mentioned points to avoid any kind of confusion:',
             data: [
                 "Step 1: Fill withinside the application form available on Tver State Medical University legitimate website.",
                 "Step 2: Submit the specified documents, alongside the scanned copy of the passport. Students need to submit authentic Identity proofs as required through the authorities.",
@@ -463,7 +471,7 @@ export const tverstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required - For Applying MBBS Course",
-            "info": "<b>Before taking admission to Tver State Medical University keep in mind to hold all of the documents with you, all the details are mentioned below:</b>",
+            "info": "Before taking admission to Tver State Medical University keep in mind to hold all of the documents with you, all the details are mentioned below:",
             "data": [
                 "Certificate of education and its complement with grades",
                 "Translation of the certificates of education with complement, verified through the notary (a copy of the document and the translation must be sewn and notarized)",
@@ -477,7 +485,7 @@ export const tverstatemedicaluniversity = {
         {
             "type": "table",
             "title": "Tver State Medical University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Tver State Medical University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Tver State Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -517,6 +525,10 @@ export const tverstatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tver State Medical University, Russia - Reviews" },
@@ -535,6 +547,10 @@ export const tverstatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -565,6 +581,14 @@ export const tverstatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - Gallery'
+        },
+        {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tver State Medical University, Russia - Gallery" },
@@ -583,6 +607,10 @@ export const tverstatemedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - Scholarship'
+        },
         {
             "type": "list-bollet",
             "title": "scholarship",
@@ -613,6 +641,10 @@ export const tverstatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -664,6 +696,10 @@ export const tverstatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tver State Medical University, Russia - News & Articles" },
@@ -683,9 +719,13 @@ export const tverstatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>At Tver State Medical University there luxurious rooms with all the needed amenities so here is all you need to know about hostel and accommodation:</b>",
+            "info": "At Tver State Medical University there luxurious rooms with all the needed amenities so here is all you need to know about hostel and accommodation:",
             "data": [
                 "The college has 4 hostels (dormitories) with 1,544 seats.",
                 "As a matter of priority, the University provides residential accommodation in hostels to overseas college students who enter the territory of the Russian Federation from countries with a visa regime and because of the invitation of the University.",
@@ -697,7 +737,7 @@ export const tverstatemedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>All the rooms in hostels are provided with the amenities like:</b>",
+            "info": "All the rooms in hostels are provided with the amenities like:",
             "data": [
                 "Study table",
                 "Chairs",
@@ -727,59 +767,62 @@ export const tverstatemedicaluniversity = {
             ]
         }
     ],
-    "faq":
-        [
-            {
-                "type": "question-list",
-                "title": "Tver State Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
-                "data": [
-                    {
-                        "ques": "Q. When does the academic year start in Tver State Medical University?",
-                        "ans": "It normally starts from September to May or June and is split into academic semesters with examinations held every semester."
-                    },
-                    {
-                        "ques": "Q. Does the student need to be physically present for the interview at the Russian Embassy?",
-                        "ans": "As a part of student services, the passport of the student could be submitted through the admission committee to the visa section of the diplomatic mission of the Russian Federation in India."
-                    },
-                    {
-                        "ques": "Q. Can I practice medicine in my country?",
-                        "ans": "Yes, after completion of your course, you can practice in your country. You need to clear the NEXT exam for practicing medicine in your country."
-                    },
-                    {
-                        "ques": "Q. Is the climate of Tver city equivalent to the climate of cities of India?",
-                        "ans": "The Tver city has a temperate continental climate with an average temperature in February of -7.6°C & in July it will be 18°C."
-                    },
-                    {
-                        "ques": "Q. Are there any scholarships awarded to Indian students?",
-                        "ans": "Merit-based & Need-based scholarships are awarded to students of Tver State Medical University."
-                    },
-                    {
-                        "ques": "Q. What are the books that we need to bring with us?",
-                        "ans": "Almost all the books you will get from the university’s library. If you wish, you can carry additional books for your reference."
-                    },
-                    {
-                        "ques": "Q. How many Indian students are studying at Tver State Medical University?",
-                        "ans": "Around 500 Indian students are studying at Tver State Medical University."
-                    },
-                ]
-            },
-            {
-                type: "meta",
-                meta: [
-                    { name: "title", content: "Tver State Medical University, Russia - FAQ" },
-                    { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
-                ],
-            },
-            {
-                type: "meta-title",
-                title: "Tver State Medical University, Russia - FAQ"
-            },
-            {
-                type: "meta-links",
-                link: [
-                    { rel: "canonical", href: "https://www.selectyouruniversity.com/university/tver-state-medical-university/faq" }
-                ]
-            }
-        ]
+    "faq": [
+        {
+            type: 'title',
+            title: 'Tver State Medical University, Russia - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Tver State Medical University - Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
+            "data": [
+                {
+                    "ques": "Q. When does the academic year start in Tver State Medical University?",
+                    "ans": "It normally starts from September to May or June and is split into academic semesters with examinations held every semester."
+                },
+                {
+                    "ques": "Q. Does the student need to be physically present for the interview at the Russian Embassy?",
+                    "ans": "As a part of student services, the passport of the student could be submitted through the admission committee to the visa section of the diplomatic mission of the Russian Federation in India."
+                },
+                {
+                    "ques": "Q. Can I practice medicine in my country?",
+                    "ans": "Yes, after completion of your course, you can practice in your country. You need to clear the NEXT exam for practicing medicine in your country."
+                },
+                {
+                    "ques": "Q. Is the climate of Tver city equivalent to the climate of cities of India?",
+                    "ans": "The Tver city has a temperate continental climate with an average temperature in February of -7.6°C & in July it will be 18°C."
+                },
+                {
+                    "ques": "Q. Are there any scholarships awarded to Indian students?",
+                    "ans": "Merit-based & Need-based scholarships are awarded to students of Tver State Medical University."
+                },
+                {
+                    "ques": "Q. What are the books that we need to bring with us?",
+                    "ans": "Almost all the books you will get from the university’s library. If you wish, you can carry additional books for your reference."
+                },
+                {
+                    "ques": "Q. How many Indian students are studying at Tver State Medical University?",
+                    "ans": "Around 500 Indian students are studying at Tver State Medical University."
+                },
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Tver State Medical University, Russia - FAQ" },
+                { name: "description", content: "the college is present among top university present in the country. Click here to see FAQs" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Tver State Medical University, Russia - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/tver-state-medical-university/faq" }
+            ]
+        }
+    ]
 }

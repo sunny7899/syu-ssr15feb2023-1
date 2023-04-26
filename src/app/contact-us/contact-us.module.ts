@@ -6,7 +6,7 @@ import { ContactUsComponent } from './contact-us.component';
 import { FooterModule } from '../footer/footer.module';
 import { ChatModule } from '../chat/chat.module';
 import { HeaderModule } from '../header/header.module';
-import {ReactiveFormsModule} from '@angular/forms'
+import {FormsModule,ReactiveFormsModule} from '@angular/forms'
 
 @NgModule({
   declarations: [ContactUsComponent],
@@ -16,7 +16,8 @@ import {ReactiveFormsModule} from '@angular/forms'
     ReactiveFormsModule,
     FooterModule,
     HeaderModule,
-    ChatModule
+    ChatModule,
+    FormsModule
   ]
 })
 export class ContactUsModule { }

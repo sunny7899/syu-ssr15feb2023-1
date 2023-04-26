@@ -5,6 +5,7 @@ export const engineeringinukraine = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '4 Years',
     "url": "engineering-in-ukraine",
     "info": [
         {
@@ -59,7 +60,7 @@ export const engineeringinukraine = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria - For Engineering Course",
-            "info": "<b>Prerequisites of studying engineering in Ukraine are:</b>",
+            "info": "Prerequisites of studying engineering in Ukraine are:",
             //"img": '',
             "data": [
                 "Students should be 10+2 passed from a recognized university.",
@@ -143,6 +144,11 @@ export const engineeringinukraine = {
         }
     ],
     "topcolleges": [
+        
+        {
+            type: 'title',
+            title: 'Engineering in Ukraine 2023 - Top Colleges in Ukraine'
+        },
         {
             "type": "table",
             "title": "List of Best Engineering Universities in Ukraine",
@@ -254,6 +260,10 @@ export const engineeringinukraine = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'Engineering in Ukraine 2023 - Syllabus'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Engineering in Ukraine 2023 - Syllabus" },
@@ -274,6 +284,10 @@ export const engineeringinukraine = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'Engineering in Ukraine 2023 -Career Options'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Engineering in Ukraine 2023 -Career Options" },
@@ -293,6 +307,10 @@ export const engineeringinukraine = {
 
     ],
     "faq": [
+        {
+            type: 'title',
+            title: 'Engineering in Ukraine 2023 - FAQ'
+        },
         {
             type: "meta",
             meta: [

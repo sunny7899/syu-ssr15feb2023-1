@@ -1,5 +1,3 @@
-
-
 export const krishnainstituteofmedicalscienceskimskarad = {
     "Title": "Krishna Institute of Medical Sciences, India",
     "shortTitle": "Krishna Institute of Medical Sciences",
@@ -23,7 +21,7 @@ export const krishnainstituteofmedicalscienceskimskarad = {
         {
             "type": "table",
             "title": "Krishna Institute of Medical Sciences - Quick Facts",
-            "info": "<b>If you want to pursue MBBS career then you must check out the major highlights of Krishna Institute of Medical Sciences:</b>",
+            "info": "If you want to pursue MBBS career then you must check out the major highlights of Krishna Institute of Medical Sciences:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March"],
@@ -38,7 +36,7 @@ export const krishnainstituteofmedicalscienceskimskarad = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Krishna Institute of Medical Sciences?",
-            "info": "<b>Worldwide students seeking to pursue MBBS education at Krishna Institute of Medical Sciences due to these favourable reasons:</b>",
+            "info": "Worldwide students seeking to pursue MBBS education at Krishna Institute of Medical Sciences due to these favourable reasons:",
             "data": [
                 "Krishna Institute of Medical Sciences has an English medium of teaching for MBBS education.",
                 "The Krishna Institute of Medical Sciences officially recognized by the National Medical Commission (NMC) and listed in the directory of world health organization (WHO).",
@@ -56,7 +54,7 @@ export const krishnainstituteofmedicalscienceskimskarad = {
         {
             "type": "list-bollet",
             "title": "Recognitions of Krishna Institute of Medical Sciences",
-            "info": "<b>The institute offering undergraduate and postgraduate courses are recognized by:</b>",
+            "info": "The institute offering undergraduate and postgraduate courses are recognized by:",
             "data": [
                 "National Medical Commission, New Delhi.",
                 "Medical council of Malaysia listed in WHO's world directory of Medical school.",
@@ -68,7 +66,7 @@ export const krishnainstituteofmedicalscienceskimskarad = {
         {
             "type": "table",
             "title": "Living Cost of Karad",
-            "info": "<b>The cost of living in Karad is very less as compared to other cities, which is affordable for the students to pursue MBBS. The table is given below according to month basis expenses:</b>",
+            "info": "The cost of living in Karad is very less as compared to other cities, which is affordable for the students to pursue MBBS. The table is given below according to month basis expenses:",
             "col": [
                 "Particular",
                 "Approx Range in USD",
@@ -88,7 +86,7 @@ export const krishnainstituteofmedicalscienceskimskarad = {
 
                 },
             ],
-            heading: '<p><b>Note:</b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b>Note:</b> 1$ = 70 Rs.</p>'
         },
         {
             type: "meta",
@@ -110,9 +108,13 @@ export const krishnainstituteofmedicalscienceskimskarad = {
     ],
     "coursesandfees": [
         {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - courses & Fees"
+        },
+        {
             "type": "table",
             "title": "Krishna Institute of Medical Sciences - MBBS Fee Structure 2022",
-            "info": "<b>The Krishna Institute of Medical Sciences fee structure is affordable for medical aspirants for doing MBBS program:</b>",
+            "info": "The Krishna Institute of Medical Sciences fee structure is affordable for medical aspirants for doing MBBS program:",
             "col": [
                 "Particular",
                 "Course Fee",
@@ -139,12 +141,12 @@ export const krishnainstituteofmedicalscienceskimskarad = {
 
                 },
             ],
-            heading: '<p><b>Note:</b> 1$ = 70 Rs.</p>'
+            "heading": '<p><b>Note:</b> 1$ = 70 Rs.</p>'
         },
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Krishna Institute of Medical Sciences",
-            "info": "<b>Krishna Institute of Medical Sciences offers 4 and half years of Medical course:</b>",
+            "info": "Krishna Institute of Medical Sciences offers 4 and half years of Medical course:",
             "data": [
                 "The students must undergo a 4 and ½ year MBBS course at Krishna Institute of Medical Sciences and the medium of teaching will be the English language.",
                 "Krishna Institute of Medical Sciences provides world-class professors with decades of experience. The students will acquire not only theoretical knowledge but also practical knowledge of basic general medicine during the MBBS course.",
@@ -154,7 +156,7 @@ export const krishnainstituteofmedicalscienceskimskarad = {
         {
             "type": "list-bollet",
             "title": "MBBS Faculties of Krishna Institute of Medical Sciences",
-            "info": "<b>Krishna Institute of Medical Sciences provides different MBBS faculties:</b>",
+            "info": "Krishna Institute of Medical Sciences provides different MBBS faculties:",
             "data": [
                 "Medical Sciences",
                 "Dental Sciences",
@@ -168,7 +170,7 @@ export const krishnainstituteofmedicalscienceskimskarad = {
         {
             "type": "table",
             "title": "MBBS Syllabus",
-            "info": "<b>The students must go through the study pattern of MBBS course at Krishna Institute of Medical Sciences is mentioned below in the table:</b>",
+            "info": "The students must go through the study pattern of MBBS course at Krishna Institute of Medical Sciences is mentioned below in the table:",
             "col": [
                 "Phase",
                 "Subject",
@@ -238,9 +240,13 @@ export const krishnainstituteofmedicalscienceskimskarad = {
     ],
     "admission": [
         {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - Admission 2023"
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The worldwide medical aspirants should fit the criteria mentioned below to take entry in MBBS course at Krishna Institute of Medical Sciences:</b>",
+            "info": "The worldwide medical aspirants should fit the criteria mentioned below to take entry in MBBS course at Krishna Institute of Medical Sciences:",
             "data": [
                 "The candidates should be at least 17 years old at the time of admission or should complete that age on or before 31st December of the year of his/her admission to the 1st year MBBS course.",
                 "The candidates should 10+12 pass out with respective boards.",
@@ -251,7 +257,7 @@ export const krishnainstituteofmedicalscienceskimskarad = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The students who seek to get MBBS admission to need to follow the mentioned below steps:</b>',
+            info: 'The students who seek to get MBBS admission to need to follow the mentioned below steps:',
             data: [
                 "Step 1 : Candidates must apply for NEET-UG examination.",
                 "Step 2 : Admission will be based on the NEET scores.",
@@ -265,7 +271,7 @@ export const krishnainstituteofmedicalscienceskimskarad = {
         {
             "type": "list-bollet",
             "title": "Documentation Required",
-            "info": "<b>All the students must bring the original documents during MBBS admission process:</b>",
+            "info": "All the students must bring the original documents during MBBS admission process:",
             "data": [
                 "The candidates must submit the online filled application form",
                 "The candidates must have NEET-UG exam results and admit card",
@@ -303,7 +309,11 @@ export const krishnainstituteofmedicalscienceskimskarad = {
             ]
         }
     ],
-    "Reviews": [
+    "review": [
+        {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - Reviews"
+        },
         {
             type: "meta",
             meta: [
@@ -322,7 +332,62 @@ export const krishnainstituteofmedicalscienceskimskarad = {
             ]
         }
     ],
-    "Gallery": [
+    "placement": [
+        {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - Placement"
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "Young graduates may pursue jobs as doctors in India after obtaining their degree.",
+                "Krishna Institute of Medical Sciences graduates may work at their own hospital. Consequently, those with completed degrees are entitled to work at Krishna Institute of Medical Sciences.",
+                "By offering further education choices, Krishna Institute of Medical Sciences encourages graduates to continue their studies.",
+                "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE)."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "The institute or organizations in which the students got placed are listed below:",
+            "data": [
+                "Serum Institute of India, Pune,",
+                "Cipla Ltd, Unit No. II Verna Industrial Estate, Goa,",
+                "Lupin Ltd, Tarapur Boisar (W),",
+                "SAF Yeast Co. Pvt. Ltd. Lote Parshuram MIDC, Chiplun,",
+                "US Vitamins Ltd Lote Parshuram, Chiplun,",
+                "Bharat serum vaccines Ltd. Thane,",
+                "Biocon Ltd., Bangalore,",
+                "TATA Institute of Fundamental Research’s Homi Bhabha Center for Science",
+                "Education, Mumbai,",
+                "Y. C. Institute of Science, Satara ( Autonomous Institute)"
+            ]
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Krishna Institute of Medical Sciences - Placement" },
+                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Krishna Institute of Medical Sciences - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/krishna-institute-of-medical-sciences-kims-karad/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - Gallery"
+        },
         {
             type: "meta",
             meta: [
@@ -341,7 +406,11 @@ export const krishnainstituteofmedicalscienceskimskarad = {
             ]
         }
     ],
-    "Scholarship": [
+    "scholarship": [
+        {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - Scholarship"
+        },
         {
             type: "meta",
             meta: [
@@ -360,7 +429,40 @@ export const krishnainstituteofmedicalscienceskimskarad = {
             ]
         }
     ],
-    "News": [
+    "faculty": [
+        {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - Faculty"
+        },
+        {
+            type: 'text',
+            title: '',
+            info: '',
+            data: '<p>Dr. R. K. Ayachit- Director</p><p>Dr. S. C. Kale. - Dean - Faculty Of Allied Sciences</p><p>Dr. Shashikiran N.D. - Dean - Faculty Of Dental Sciences</p><p>Dr. Shivaji Tatoba Mohite - Dean - Faculty of Medical Sciences</p><p>Dr. M. I. Parkar - Professor</p><p>Dr. Prashant Punde - Lecturer</p>'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Krishna Institute of Medical Sciences - Faculty" },
+                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Krishna Institute of Medical Sciences - Faculty"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/krishna-institute-of-medical-sciences-kims-karad/faculty" }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - News & Articles"
+        },
         {
             type: "meta",
             meta: [
@@ -379,11 +481,15 @@ export const krishnainstituteofmedicalscienceskimskarad = {
             ]
         }
     ],
-    "Hostel": [
+    "hostel": [
+        {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - Hostel"
+        },
         {
             "type": "list-bollet",
             "title": "Accommodation & Hostel",
-            "info": "<b>World-class hostel facilities with basic requirements of students are provided by Krishna Institute of Medical Sciences at university campus:</b>",
+            "info": "World-class hostel facilities with basic requirements of students are provided by Krishna Institute of Medical Sciences at university campus:",
             "data": [
                 "Fully furnished, comfortable and safe hostel rooms.",
                 "Separate hostel rooms for both boys and girls are available.",
@@ -417,9 +523,13 @@ export const krishnainstituteofmedicalscienceskimskarad = {
     ],
     "faq": [
         {
+            "type": "title",
+            "title": "Krishna Institute of Medical Sciences - FAQ"
+        },
+        {
             "type": "question-list",
             "title": "Krishna Institute of Medical Sciences - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "What are the intake seats for MBBS at Krishna Institute of Medical sciences?",
@@ -466,78 +576,6 @@ export const krishnainstituteofmedicalscienceskimskarad = {
             type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/college/krishna-institute-of-medical-sciences-kims-karad/faq" }
-            ]
-        }
-    ],
-    "Placement": [
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "Young graduates may pursue jobs as doctors in India after obtaining their degree.",
-                "Krishna Institute of Medical Sciences graduates may work at their own hospital. Consequently, those with completed degrees are entitled to work at Krishna Institute of Medical Sciences.",
-                "By offering further education choices, Krishna Institute of Medical Sciences encourages graduates to continue their studies.",
-                "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE)."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "<b>The institute or organizations in which the students got placed are listed below:</b>",
-            "data": [
-                "Serum Institute of India, Pune,",
-                "Cipla Ltd, Unit No. II Verna Industrial Estate, Goa,",
-                "Lupin Ltd, Tarapur Boisar (W),",
-                "SAF Yeast Co. Pvt. Ltd. Lote Parshuram MIDC, Chiplun,",
-                "US Vitamins Ltd Lote Parshuram, Chiplun,",
-                "Bharat serum vaccines Ltd. Thane,",
-                "Biocon Ltd., Bangalore,",
-                "TATA Institute of Fundamental Research’s Homi Bhabha Center for Science",
-                "Education, Mumbai,",
-                "Y. C. Institute of Science, Satara ( Autonomous Institute)"
-            ]
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Krishna Institute of Medical Sciences - Placement" },
-                { name: "description", content: "With Around 70-75% of the students got placed this college has a great placement data. check top recruiters and placement drive" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Krishna Institute of Medical Sciences - Placement"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/krishna-institute-of-medical-sciences-kims-karad/placement" }
-            ]
-        }
-    ],
-    "Faculty": [
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p>Dr. R. K. Ayachit- Director</p><p>Dr. S. C. Kale. - Dean - Faculty Of Allied Sciences</p><p>Dr. Shashikiran N.D. - Dean - Faculty Of Dental Sciences</p><p>Dr. Shivaji Tatoba Mohite - Dean - Faculty of Medical Sciences</p><p>Dr. M. I. Parkar - Professor</p><p>Dr. Prashant Punde - Lecturer</p>'
-        },
-        {
-            type: "meta",
-            meta: [
-                { name: "title", content: "Krishna Institute of Medical Sciences - Faculty" },
-                { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
-            ],
-        },
-        {
-            type: "meta-title",
-            title: "Krishna Institute of Medical Sciences - Faculty"
-        },
-        {
-            type: "meta-links",
-            link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/college/krishna-institute-of-medical-sciences-kims-karad/faculty" }
             ]
         }
     ]

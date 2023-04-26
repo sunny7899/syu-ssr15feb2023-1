@@ -285,114 +285,120 @@ export const neetpgexam = {
                 {
                     "Subjects": "Microbiology",
                     "Author's Name": "Rachana Chaurasia & Anshul Jain",
-                    "Book Name":"Self-Assessment & Review Microbiology & Immunology"
+                    "Book Name": "Self-Assessment & Review Microbiology & Immunology"
 
                 },
                 {
                     "Subjects": "Pathology",
                     "Author's Name": "Robbins & Vinay Kumar",
-                    "Book Name":"Pathologic Basis of Disease"
+                    "Book Name": "Pathologic Basis of Disease"
 
                 },
                 {
                     "Subjects": "Pharmacology",
                     "Author's Name": "Gobind Rai Garg & Sparsh Gupta",
-                    "Book Name":"Review of Pharmacology"
+                    "Book Name": "Review of Pharmacology"
 
                 },
                 {
                     "Subjects": "Forensic Medicine",
                     "Author's Name": "Arvind Arora",
-                    "Book Name":"Self-Assessment & Review of Basic Subjects (Anatomy & Forensic Medicine)"
+                    "Book Name": "Self-Assessment & Review of Basic Subjects (Anatomy & Forensic Medicine)"
 
                 },
                 {
                     "Subjects": "Pediatrics",
                     "Author's Name": "O P Ghai",
-                    "Book Name":"Essential Pediatrics"
+                    "Book Name": "Essential Pediatrics"
 
                 },
                 {
                     "Subjects": "Anatomy",
                     "Author's Name": "Rachana Chaurasiya",
-                    "Book Name":"Self-Assessment and Review of Microbiology and Immunology"
+                    "Book Name": "Self-Assessment and Review of Microbiology and Immunology"
 
                 },
                 {
                     "Subjects": "Social and Preventive medicine",
                     "Author's Name": "Vivek Jain",
-                    "Book Name":"Review of Preventive & Social Medicine (Including Biostatistics)"
+                    "Book Name": "Review of Preventive & Social Medicine (Including Biostatistics)"
 
                 },
                 {
                     "Subjects": "Medicine Dermatology And Venereology",
                     "Author's Name": "Saumya Shukla, Anurag Shukla.",
-                    "Book Name":"Across: A Complete Review of Short Subjects Volume – 1, Dermatology (Skin and Venereal Diseases), Anesthesia, Radiotherapy, Nuclear Medicine, Radiodiagnosis, Psychiatry, Ophthalmology, Orthopedics"
+                    "Book Name": "Across: A Complete Review of Short Subjects Volume – 1, Dermatology (Skin and Venereal Diseases), Anesthesia, Radiotherapy, Nuclear Medicine, Radiodiagnosis, Psychiatry, Ophthalmology, Orthopedics"
 
                 },
                 {
                     "Subjects": "Surgery, ENT, Orthopedics, Anesthesia",
                     "Author's Name": "Shibbu George",
-                    "Book Name":"Smart Study Series: ENT and Head & Neck Surgery"
+                    "Book Name": "Smart Study Series: ENT and Head & Neck Surgery"
 
                 },
                 {
                     "Subjects": "Radiodiagnosis and Radiotherapy",
                     "Author's Name": "Narender Rohilla",
-                    "Book Name":"Smart Study Series Radiology"
+                    "Book Name": "Smart Study Series Radiology"
 
                 },
                 {
                     "Subjects": "Ophthalmology",
                     "Author's Name": "Across",
-                    "Book Name":"Across: A Complete Review of Short Sub (Skin, Anae.Radi.Nuclear Med.Psych, Opthal, Ortho)"
+                    "Book Name": "Across: A Complete Review of Short Sub (Skin, Anae.Radi.Nuclear Med.Psych, Opthal, Ortho)"
 
                 },
                 {
                     "Subjects": "Obstetrics And Gynecology",
                     "Author's Name": "Amit Tripathi/ Ashish Gupta/ Arvind Arora.",
-                    "Book Name":"Review of Post Graduate Medical Entrance Examinations (Medicine, Gynae & Obs. Pediatrics, Ophthalmology, Psychiatry, Radiology) Vol 3"
+                    "Book Name": "Review of Post Graduate Medical Entrance Examinations (Medicine, Gynae & Obs. Pediatrics, Ophthalmology, Psychiatry, Radiology) Vol 3"
 
                 },
                 {
                     "Subjects": "Psychiatry",
                     "Author's Name": "Mohan Sunil Kumar",
-                    "Book Name":"Smart Study Series: Psychiatry"
+                    "Book Name": "Smart Study Series: Psychiatry"
 
                 },
                 {
                     "Subjects": "Physiology",
                     "Author's Name": "Vivek Nalgirkar",
-                    "Book Name":"Smart Study Series: Physiology"
+                    "Book Name": "Smart Study Series: Physiology"
 
                 },
                 {
                     "Subjects": "Biochemistry",
                     "Author's Name": "Rebecca James Perumcheril",
-                    "Book Name":"Self-Assessment and Review of Biochemistry"
+                    "Book Name": "Self-Assessment and Review of Biochemistry"
 
                 }
             ]
         },
         {
-            type:"meta",
+            type: "meta",
             meta: [
-              { name: "title", content: "NEET PG Exam 2023: Cutoff, Result, Counselling, Syllabus" },
-              { name: "description", content: "What after MBBS? Wish to go for MD/MS? NEET PG is the entrance exam you need to clear to get admission to your dream medical pg courses. Click here for more." },
+                { name: "title", content: "NEET PG Exam 2023: Cutoff, Result, Counselling, Syllabus" },
+                { name: "description", content: "What after MBBS? Wish to go for MD/MS? NEET PG is the entrance exam you need to clear to get admission to your dream medical pg courses. Click here for more." },
             ],
-            },
-            {
-            type:"meta-title",
-            title: "NEET PG Exam 2023: Cutoff, Result, Counselling, Syllabus"},
-            {
-            type:"meta-links",
+        },
+        {
+            type: "meta-title",
+            title: "NEET PG Exam 2023: Cutoff, Result, Counselling, Syllabus"
+        },
+        {
+            type: "meta-links",
             link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam" }
-            ]}
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam" }
+            ]
+        }
 
     ],
-    "examdate":[
-        
+    "examdate": [
+        {
+            type: 'title',
+            title: 'NEET PG Exam 2023 - Exam Date'
+        },
+
         {
             "type": "table",
             "title": "NEET PG 2022 Exam Dates",
@@ -442,23 +448,29 @@ export const neetpgexam = {
         },
 
         {
-          type:"meta",
-          meta: [
-            { name: "title", content: "NEET PG Exam 2023 - Exam Date" },
-            { name: "description", content: "Get latest updates on the NEET PG Exam date. Get all the details including registration, eligibility, syllabus and more on our website." },
-          ],
-          },
-          {
-          type:"meta-title",
-          title: "NEET PG Exam 2023 - Exam Date"},
-          {
-          type:"meta-links",
-          link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam/exam-date" }
-          ]}
-          ],
-    "syllabus":[
-        
+            type: "meta",
+            meta: [
+                { name: "title", content: "NEET PG Exam 2023 - Exam Date" },
+                { name: "description", content: "Get latest updates on the NEET PG Exam date. Get all the details including registration, eligibility, syllabus and more on our website." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "NEET PG Exam 2023 - Exam Date"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam/exam-date" }
+            ]
+        }
+    ],
+    "syllabus": [
+        {
+            type: 'title',
+            title: 'NEET PG Exam 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "NEET PG Exam Syllabus",
@@ -482,25 +494,31 @@ export const neetpgexam = {
                 }
             ]
         },
-      
-    {
-      type:"meta",
-      meta: [
-        { name: "title", content: "NEET PG Exam 2023 - Syllabus" },
-        { name: "description", content: "Prepare for the NEET PG Exam with the complete and updated syllabus. Find the detailed subject-wise syllabus, exam pattern and more on our website." },
-      ],
-      },
-      {
-      type:"meta-title",
-      title: "NEET PG Exam 2023 - Syllabus"},
-      {
-      type:"meta-links",
-      link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam/syllabus" }
-      ]}
-      ],
-      "cutoff":[
-        
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "NEET PG Exam 2023 - Syllabus" },
+                { name: "description", content: "Prepare for the NEET PG Exam with the complete and updated syllabus. Find the detailed subject-wise syllabus, exam pattern and more on our website." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "NEET PG Exam 2023 - Syllabus"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam/syllabus" }
+            ]
+        }
+    ],
+    "cutoff": [
+        {
+            type: 'title',
+            title: 'NEET PG Exam 2023 - Cut Off'
+        },
+
         {
             "type": "table",
             "title": "NEET PG 2021 Cut off (Revised)",
@@ -514,88 +532,97 @@ export const neetpgexam = {
                 {
                     "Category": "<b>Unreserved (UR)</b>",
                     "NEET PG Qualifying Percentile": "35th percentile",
-                    "NEET PG Cut off Scores (Out of 800)":"247"
+                    "NEET PG Cut off Scores (Out of 800)": "247"
                 },
                 {
                     "Category": "<b>SC/ST/OBC</b>",
                     "NEET PG Qualifying Percentile": "25th percentile",
-                    "NEET PG Cut off Scores (Out of 800)":"247"
+                    "NEET PG Cut off Scores (Out of 800)": "247"
                 },
                 {
                     "Category": "<b>Unreserved - PH (UR-PH)</b>",
                     "NEET PG Qualifying Percentile": "30th percentile",
-                    "NEET PG Cut off Scores (Out of 800)":"247"
+                    "NEET PG Cut off Scores (Out of 800)": "247"
                 },
                 {
                     "Category": "<b>SC/ST/OBC - PH</b>",
                     "NEET PG Qualifying Percentile": "25th percentile",
-                    "NEET PG Cut off Scores (Out of 800)":"247"
+                    "NEET PG Cut off Scores (Out of 800)": "247"
                 }
             ]
         },
-      
-    {
-      type:"meta",
-      meta: [
-        { name: "title", content: "NEET PG Exam 2023 - Cut Off" },
-        { name: "description", content: "Get latest NEET PG Exam cut off marks for top medical colleges. Find the cut off for previous years, expected cut off and more on our website." },
-      ],
-      },
-      {
-      type:"meta-title",
-      title: "NEET PG Exam 2023 - Cut Off"},
-      {
-      type:"meta-links",
-      link: [
-        { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam/cut-off" }
-      ]}
-      ],
-      
-        "faq": [
-            {
-                "type": "question-list",
-                "title": "Important FAQs for NEET PG Exam",
-                "info": "",
-                "data": [
-                    {
-                      "ques": "Q. When will NBE conduct the NEET PG 2022 examination?",
-                      "ans": "NBE will conduct NEET PG 2022 examination on May 21. The examination could be held in computer-based mode at specified centers throughout the country."
-                    },
-                    { "ques": "Q. When will NBE begin registration for NEET PG 2022?",
-                      "ans": "NBE began registration for NEET PG 2022 on January 15. The deadline to put up the NEET PG 2022 application form turned into March 25. Candidates needed to do registration at the respectable website."
-                    },
-                    {
-                        "ques": "Q. How much do I need to pay to apply for NEET PG 2022?",
-                        "ans": "Candidates from general class needed to pay INR 5,015 (which include GST) as application fee for NEET PG 2022. For SC/ST and PwD candidates, the fee is INR 3,835 (which includes GST)."
-                    },
-                    {
-                        "ques": "Q. Will NEET PG 2022 be carried out two times a year?",
-                        "ans": "As of this date, the examination could be carried out only once a year. If there may be any change in the layout or frequency of the examination, it will likely be updated here"
-                    },
-                    {
-                        "ques": "Q. How many times are we able to appear for NEET PG?",
-                        "ans": "There is no cap on the wide variety of tries for NEET PG."
-                    }
-                ]
-            },
-        
-      {
-        type:"meta",
-        meta: [
-          { name: "title", content: "NEET PG Exam 2023 - FAQ" },
-          { name: "description", content: "Find answers to all your NEET PG Exam queries like information on registration, eligibility, exam pattern, syllabus & many more." },
-        ],
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "NEET PG Exam 2023 - Cut Off" },
+                { name: "description", content: "Get latest NEET PG Exam cut off marks for top medical colleges. Find the cut off for previous years, expected cut off and more on our website." },
+            ],
         },
         {
-        type:"meta-title",
-        title: "NEET PG Exam 2023 - FAQ"},
+            type: "meta-title",
+            title: "NEET PG Exam 2023 - Cut Off"
+        },
         {
-        type:"meta-links",
-        link: [
-          { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam/faq" }
-        ]}
-        ],
-    
-    
-    
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam/cut-off" }
+            ]
+        }
+    ],
+
+    "faq": [
+        {
+            type: 'title',
+            title: 'NEET PG Exam 2023 - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Important FAQs for NEET PG Exam",
+            "info": "",
+            "data": [
+                {
+                    "ques": "Q. When will NBE conduct the NEET PG 2022 examination?",
+                    "ans": "NBE will conduct NEET PG 2022 examination on May 21. The examination could be held in computer-based mode at specified centers throughout the country."
+                },
+                {
+                    "ques": "Q. When will NBE begin registration for NEET PG 2022?",
+                    "ans": "NBE began registration for NEET PG 2022 on January 15. The deadline to put up the NEET PG 2022 application form turned into March 25. Candidates needed to do registration at the respectable website."
+                },
+                {
+                    "ques": "Q. How much do I need to pay to apply for NEET PG 2022?",
+                    "ans": "Candidates from general class needed to pay INR 5,015 (which include GST) as application fee for NEET PG 2022. For SC/ST and PwD candidates, the fee is INR 3,835 (which includes GST)."
+                },
+                {
+                    "ques": "Q. Will NEET PG 2022 be carried out two times a year?",
+                    "ans": "As of this date, the examination could be carried out only once a year. If there may be any change in the layout or frequency of the examination, it will likely be updated here"
+                },
+                {
+                    "ques": "Q. How many times are we able to appear for NEET PG?",
+                    "ans": "There is no cap on the wide variety of tries for NEET PG."
+                }
+            ]
+        },
+
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "NEET PG Exam 2023 - FAQ" },
+                { name: "description", content: "Find answers to all your NEET PG Exam queries like information on registration, eligibility, exam pattern, syllabus & many more." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "NEET PG Exam 2023 - FAQ"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/exams/neet-pg-exam/faq" }
+            ]
+        }
+    ],
+
+
+
 }

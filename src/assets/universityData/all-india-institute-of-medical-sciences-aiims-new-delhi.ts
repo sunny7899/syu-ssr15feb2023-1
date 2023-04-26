@@ -74,6 +74,10 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
   ],
   "coursesandfees": [
     {
+      type: 'title',
+      title: "All India Institute of Medical Sciences, New Delhi - courses & Fees"
+    },
+    {
       "type": "table",
       "title": "All India Institute of Medical Science College (AIIMS) - Fee Structure 2022",
       "info": "",
@@ -196,6 +200,10 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
   ],
   "admission": [
     {
+      type: 'title',
+      title: "AIIMS, New Delhi - Admission, Eligibility Criteria 2023"
+    },
+    {
       "type": "list-bollet",
       "title": "Eligibility Criteria",
       "data": [
@@ -252,6 +260,10 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
   ],
   "review": [
     {
+      type: 'title',
+      title: "AIIMS New Delhi - Reviews"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "AIIMS New Delhi - Reviews" },
@@ -270,6 +282,10 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
     }
   ],
   "placement": [
+    {
+      type: 'title',
+      title: "All India Institute of Medical Sciences, New Delhi - Placements, Top Companies"
+    },
     {
       "type": "list-bollet",
       "title": "",
@@ -374,6 +390,56 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
   ],
   "gallery": [
     {
+      type: 'title',
+      title: "AIIMS New Delhi - Gallery"
+    },
+    {
+      "image": [
+        {
+          "type": "image",
+          "data": "../../assets/img/BG.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "type": "image",
+          "data": "../../assets/img/BG.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "type": "image",
+          "data": "../../assets/img/BG.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "type": "image",
+          "data": "../../assets/img/BG.jpg",
+          "alt": "Image 1"
+        },
+      ],
+      "video": [
+        {
+          "type": "video",
+          "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+          "alt": "Image 1"
+        },
+        {
+          "type": "video",
+          "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+          "alt": "Image 1"
+        },
+        {
+          "type": "video",
+          "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+          "alt": "Image 1"
+        },
+        {
+          "type": "video",
+          "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+          "alt": "Image 1"
+        },
+      ]
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "AIIMS New Delhi - Gallery" },
@@ -392,6 +458,10 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
     }
   ],
   "scholarship": [
+    {
+      type: 'title',
+      title: "AIIMS New Delhi - Schlorship"
+    },
     {
       type: "meta",
       meta: [
@@ -412,6 +482,10 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
   ],
 
   "faculty": [
+    {
+      type: 'title',
+      title: "All India Institute of Medical Sciences, New Delhi - Faculty & Departments"
+    },
     {
       "type": "table",
       "title": "",
@@ -474,6 +548,10 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
 
   "news": [
     {
+      type: 'title',
+      title: "AIIMS New Delhi - News & Articles"
+    },
+    {
       type: "meta",
       meta: [
         { name: "title", content: "AIIMS New Delhi - News & Articles" },
@@ -492,6 +570,10 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
     }
   ],
   "hostel": [
+    {
+      type: 'title',
+      title: "AIIMS New Delhi - Hostel & Accommodation"
+    },
     {
       "type": "list-bollet",
       "title": "Hostel and Accommodation",
@@ -528,9 +610,13 @@ export const allindiainstituteofmedicalsciencesaiimsnewdelhi = {
   "faq":
     [
       {
+        type: 'title',
+        title: "AIIMS New Delhi - Important FAQs"
+      },
+      {
         "type": "question-list",
         "title": "All India Institute of Medical Science, Delhi (AIIMS) - Important FAQs",
-        "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+        "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
         "data": [
           {
             "ques": "Q. What medium of teaching for medicine course at All India Institute of Medical Science, New Delhi?",

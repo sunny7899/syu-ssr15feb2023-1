@@ -20,7 +20,7 @@ export const tbilisistatemedicaluniversity = {
         {
             "type": "table-title",
             "title": "Tbilisi State Medical University - Important Highlights 2022",
-            "info": "<b>The worldwide students must check out some major overview of Tbilisi State Medical University:</b>",
+            "info": "The worldwide students must check out some major overview of Tbilisi State Medical University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "March and September"],
                 ["<b>Nearest Airport</b>", "Shota Rustaveli Tbilisi International Airport"],
@@ -36,7 +36,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBBS at Tbilisi State Medical University?',
-            info: '<b>When choosing the university to study in Georgia, you need to find a trustworthy university for MBBS. Here are the advantages offered by Tbilisi State Medical University to students to get admission to MBBS courses:</b>',
+            info: 'When choosing the university to study in Georgia, you need to find a trustworthy university for MBBS. Here are the advantages offered by Tbilisi State Medical University to students to get admission to MBBS courses:',
             data: [
                 "Tbilisi State Medical University collaborates with more than 40 Universities and centers; worldwide scientific cooperation instigated to launch several joint projects of International or National significance.",
                 "The cost of training for studying at Tbilisi State Medical University is a lot more affordable as compared to that of Indian Private Universities.",
@@ -52,7 +52,7 @@ export const tbilisistatemedicaluniversity = {
         {
             "type": "table",
             "title": "Tbilisi State Medical University Ranking 2022",
-            "info": "<b>As per the uniRank system, the country and world ranking of Tbilisi State Medical University is:</b>",
+            "info": "As per the uniRank system, the country and world ranking of Tbilisi State Medical University is:",
             "col": [
                 "Country",
                 "World",
@@ -68,7 +68,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Medium of Teaching',
-            info: '<b>There is no language barrier for the students who want to pursue medicine at Tbilisi State Medical University:</b>',
+            info: 'There is no language barrier for the students who want to pursue medicine at Tbilisi State Medical University:',
             data: [
                 "The medium of education for the MBBS Course at TSMU is English.",
                 "Professors additionally teach the Georgian language at the college so that students can talk with the nearby patients at the time of their Internship."
@@ -77,7 +77,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation and Recognition',
-            info: '<b>Tbilisi State Medical University is accredited & recognized by:</b>',
+            info: 'Tbilisi State Medical University is accredited & recognized by:',
             data: [
                 "World Health Organization (WHO)",
                 "United Nations Organization (UNO)",
@@ -133,7 +133,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>The main goals of the scientific skills center are as follows:</b>',
+            info: 'The main goals of the scientific skills center are as follows:',
             data: [
                 "To enable the student to apply to the methods and knowledge of biomedicine in medical practice and research, to the scientific principles, on the basis of which the student can adequately assess the capabilities of group members.",
                 "Also, the skills of obtaining information from various sources, processing it, its critical evaluation, continuous updating of knowledge.",
@@ -143,7 +143,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'International Cooperation',
-            info: '<b>Tbilisi State Medical University is a full member of the following international organizations and associations such as:</b>',
+            info: 'Tbilisi State Medical University is a full member of the following international organizations and associations such as:',
             data: [
                 "European University Association EUA",
                 "International Federation of Medical Students Associations IFMSA",
@@ -157,7 +157,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Tbilisi State Medical University has its work closely associated with the following organizations:</b>',
+            info: 'Tbilisi State Medical University has its work closely associated with the following organizations:',
             data: [
                 "World Health Organization - WHO",
                 "German Academic Exchange Service - DAAD",
@@ -173,7 +173,7 @@ export const tbilisistatemedicaluniversity = {
         {
             "type": "table",
             title: 'Tbilisi Stаtе Mеdісаl Unіvеrsіtу - FMGE Performance 2021',
-            info: '<b>Tbilisi Stаtе Mеdісаl Unіvеrsіtу gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>',
+            info: 'Tbilisi Stаtе Mеdісаl Unіvеrsіtу gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:',
             "col": [
                 "Name of University",
                 "Appeared",
@@ -192,7 +192,7 @@ export const tbilisistatemedicaluniversity = {
         {
             "type": "table",
             title: 'What is the Cost of Living in Tbilisi, Georgia?',
-            info: '<b>Below is the living cost of Tbilisi, Georgia:</b>',
+            info: 'Below is the living cost of Tbilisi, Georgia:',
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -252,9 +252,14 @@ export const tbilisistatemedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Tbilisi State Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Tbilisi State Medical University Fee Structure 2022-23",
-            "info": "<b>Tbilisi State Medical University offers quite an affordable fee structure to the students for MBBS education:</b>",
+            "info": "Tbilisi State Medical University offers quite an affordable fee structure to the students for MBBS education:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -307,7 +312,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Which Courses are Offered at Tbilisi State Medical University?',
-            info: '<b>Below are the faculties offered at Tbilisi State Medical University:</b>',
+            info: 'Below are the faculties offered at Tbilisi State Medical University:',
             data: [
                 "Medicine",
                 "Dentistry",
@@ -321,7 +326,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'What is the Duration of MBBS Course in Tbilisi State Medical University?',
-            info: '<b>The course duration required for studying medicine at Tbilisi State Medical University has been given below:</b>',
+            info: 'The course duration required for studying medicine at Tbilisi State Medical University has been given below:',
             data: [
                 "MBBS at Tbilisi State Medical University lasts for a period of 6 years including a 1-year internship.",
                 "The first 2 years are dedicated to academic and theoretical medical education & the last 3 years consist of clinical courses with internship practice."
@@ -330,7 +335,7 @@ export const tbilisistatemedicaluniversity = {
         {
             "type": "table",
             "title": "What is the Syllabus for MBBS at Tbilisi State Medical University?",
-            "info": "<b>Refer the syllabus of Tbilisi State Medical University for a given MBBS course:</b>",
+            "info": "Refer the syllabus of Tbilisi State Medical University for a given MBBS course:",
             "col": [
                 "1st Year",
                 "2nd Year"
@@ -557,9 +562,14 @@ export const tbilisistatemedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Tbilisi State Medical University - Admission 2023 "
+
+        },
+        {
             type: 'list-bollet',
             title: 'What are the Eligibility Criteria for MBBS at Tbilisi State Medical University?',
-            info: '<b>The admission prerequisites required for applying MBBS at Tbilisi State Medical University:</b>',
+            info: 'The admission prerequisites required for applying MBBS at Tbilisi State Medical University:',
             data: [
                 "Applicant's age should be a maximum of up to 25 years.",
                 "The applicant must be 10+2 passed from a recognized degree.",
@@ -571,7 +581,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'step-list',
             title: 'How can I Get Admission in Tbilisi State Medical University?',
-            info: '<b>Students who wish to take admission to Tbilisi State Medical University need to follow the simple admission procedure:</b>',
+            info: 'Students who wish to take admission to Tbilisi State Medical University need to follow the simple admission procedure:',
             data: [
                 "Step 1: Start a new application & fill the online application form.",
                 "Step 2: After submission of the application, the university will issue the offer letter to the respective candidate.",
@@ -585,7 +595,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'What Documents are Required to Study MBBS in Tbilisi State Medical University?',
-            info: '<b>Below is document checklists for MBBS course at Tbilisi State Medical University:</b>',
+            info: 'Below is document checklists for MBBS course at Tbilisi State Medical University:',
             data: [
                 "Application payment receipt",
                 "Copy of passport",
@@ -599,7 +609,7 @@ export const tbilisistatemedicaluniversity = {
         {
             "type": "table",
             "title": "Tbilisi State Medical University - Academic Calendar 2022-23",
-            "info": "<b>Program intake for the MBBS course at Tbilisi State Medical University may start in the month of September/February:</b>",
+            "info": "Program intake for the MBBS course at Tbilisi State Medical University may start in the month of September/February:",
             "col": [
                 "Events",
                 "Dates"
@@ -626,7 +636,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Exchange Programs',
-            info: '<b>The Tbilisi State Medical University organizes the exchange programs implemented & funded by the European Government within the framework of Erasmus+ activity KA 107:</b><br><b>Erasmus+ program performed within:</b>',
+            info: 'The Tbilisi State Medical University organizes the exchange programs implemented & funded by the European Government within the framework of Erasmus+ activity KA 107:</b><br><b>Erasmus+ program performed within:',
             data: [
                 "At all levels of education: UG, PG and Doctoral Levels",
                 "Mobility of Administrative Staff"
@@ -640,7 +650,7 @@ export const tbilisistatemedicaluniversity = {
         {
             type: 'list-bollet',
             title: 'Visa & Immigration Process',
-            info: '<b>After getting an invitation letter from Tbilisi State Medical University, students can apply for the visa:</b>',
+            info: 'After getting an invitation letter from Tbilisi State Medical University, students can apply for the visa:',
             data: [
                 "In September 2014, Georgia launched the new visa policy.",
                 "As per the policy the stateless persons have the rights to enter in Georgia without any visa for the short-term visits.",
@@ -667,6 +677,11 @@ export const tbilisistatemedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Tbilisi State Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi State Medical University - Reviews" },
@@ -685,6 +700,11 @@ export const tbilisistatemedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Tbilisi State Medical University - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -705,6 +725,11 @@ export const tbilisistatemedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Tbilisi State Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi State Medical University - Gallery" },
@@ -724,6 +749,11 @@ export const tbilisistatemedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Tbilisi State Medical University - Scholarship"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi State Medical University - Scholarship" },
@@ -742,6 +772,11 @@ export const tbilisistatemedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Tbilisi State Medical University - Faculty"
+
+        },
         {
             type: 'list-bollet',
             title: 'Faculty',
@@ -772,6 +807,11 @@ export const tbilisistatemedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Tbilisi State Medical University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Tbilisi State Medical University - News & Articles" },
@@ -791,22 +831,27 @@ export const tbilisistatemedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Tbilisi State Medical University - Hostel"
+
+        },
+        {
             type: 'list-bollet',
             title: 'Hostel and Accommodation',
-            info: '<b>No hostel facilities are available at the Tbilisi State Medical University:</b>',
+            info: 'No hostel facilities are available at the Tbilisi State Medical University:',
             data: [
-              "The Tbilisi State Medical University does not offer any on-campus accommodation to international students.",
-              "Students need to opt for off-campus accommodation that costs around 300-500 USD per month."
+                "The Tbilisi State Medical University does not offer any on-campus accommodation to international students.",
+                "Students need to opt for off-campus accommodation that costs around 300-500 USD per month."
             ]
         },
         {
             type: 'list-bollet',
             title: "Student's Life",
-            info: '<b>Students life at Tbilisi State Medical University is the wonderful experience with a rewarding growth opportunities:</b>',
+            info: 'Students life at Tbilisi State Medical University is the wonderful experience with a rewarding growth opportunities:',
             data: [
-              "At Tbilisi State Medical University, the university encourages the students to participate in extracurricular activities and enhance the career exposure and accomplish the lifelong personality.",
-              "The university has many organizations, clubs, sports centers that offer the student exchange programs and international projects.",
-              "The university relishes the experience of students while pursuing the course of medicine at Georgia. Students will get a rewarding experience to earn and gain the excellent potential for life."
+                "At Tbilisi State Medical University, the university encourages the students to participate in extracurricular activities and enhance the career exposure and accomplish the lifelong personality.",
+                "The university has many organizations, clubs, sports centers that offer the student exchange programs and international projects.",
+                "The university relishes the experience of students while pursuing the course of medicine at Georgia. Students will get a rewarding experience to earn and gain the excellent potential for life."
             ]
         },
         {
@@ -829,9 +874,14 @@ export const tbilisistatemedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Tbilisi State Medical University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Tbilisi State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What types of scholarships are provided at Tbilisi State Medical University?",

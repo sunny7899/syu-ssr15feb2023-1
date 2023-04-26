@@ -20,7 +20,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "table-title",
             "title": "Jalalabad State Medical University - Important Highlights",
-            "info": "<b>Find out some quick facts before going into detailed information about Jalalabad State Medical University:</b>",
+            "info": "Find out some quick facts before going into detailed information about Jalalabad State Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "May"],
@@ -36,7 +36,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS in Jalalabad State Medical University?",
-            "info": "<b>Take a deep dive into the beneficial reasons behind studying MBBS at Jalalabad State Medical University:</b>",
+            "info": "Take a deep dive into the beneficial reasons behind studying MBBS at Jalalabad State Medical University:",
             "data": [
                 "The students always have the opportunity to study under the guidance of experienced and knowledgeable faculty.",
                 "Regular applications of innovative teaching methodologies and practical training curriculum in the classes.",
@@ -54,7 +54,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "table",
             "title": "Jalalabad State Medical University - Ranking 2022",
-            "info": "<b>Refer Uni Rank to know about the world & country ranking of Jalalabad State Medical University:</b>",
+            "info": "Refer Uni Rank to know about the world & country ranking of Jalalabad State Medical University:",
             "col": [
                 "Country",
                 "World"
@@ -70,7 +70,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Jalalabad State Medical University offers medical education in the English language:</b>",
+            "info": "Jalalabad State Medical University offers medical education in the English language:",
             "data": [
                 "Top-quality of medical knowledge in the <br>English</br> language provided by experts at Jalalabad State Medical University."
             ]
@@ -78,7 +78,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditations and Recognitions",
-            "info": "<b>Let's have a look at the accreditations and recognitions of the Jalalabad State Medical University:</b>",
+            "info": "Let's have a look at the accreditations and recognitions of the Jalalabad State Medical University:",
             "data": [
                 "National Medical Commission (NMC).",
                 "World health organization (WHO).",
@@ -93,7 +93,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "table",
             "title": "Jalalabad State Medical University - FMGE Performance 2021",
-            "info": "<b>Jalalabad State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:</b>",
+            "info": "Jalalabad State Medical University gives one of the best FMGE results in passing percentage. Here is the FMGE 2021 passing percent for the same:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -128,7 +128,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "table",
             "title": "Living Cost of Jalal-Abad",
-            "info": "<br>Jalal-Abad is an affordable city as compared to other cities, monthly expenses of the individual are mentioned below in the table:</b>",
+            "info": "Jalal-Abad is an affordable city as compared to other cities, monthly expenses of the individual are mentioned below in the table:",
             "col": [
                 "Particulars",
                 "Approx Range in USD",
@@ -158,7 +158,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "list-bollet",
             "title": "About Jalalabad City",
-            "info": "<b>Here is detailed information about the Jalal- Abad city where the university is situated:</b>",
+            "info": "Here is detailed information about the Jalal- Abad city where the university is situated:",
             "img": "",
             "data": [
                 "Jalal-Abad city located in the south part of the Kugart valley at the foothills of the Babash Ata Mountains to the North.",
@@ -190,9 +190,14 @@ export const jalalabadstateuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Jalalabad State Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Jalalabad State University - MBBS Fee Structure 2022",
-            "info": "<b>Jalalabad State Medical University is a top medical institute providing transparent MBBS fee mentioned below in the table:</b>",
+            "info": "Jalalabad State Medical University is a top medical institute providing transparent MBBS fee mentioned below in the table:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -249,7 +254,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Duration of MBBS at Jalalabad State Medical University",
-            "info": "<b>Here, at Jalalabad State Medical University the students should complete 6 years of medicine course:</b>",
+            "info": "Here, at Jalalabad State Medical University the students should complete 6 years of medicine course:",
             "data": [
                 "Jalalabad State Medical University offers a full-time professional MBBS programme for the students coming from across the globe.",
                 "The medium of instruction for the Doctor of Medicine (MD) course for the students in the English language.",
@@ -261,7 +266,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Jalalabad State Medical University",
-            "info": "<strong>There are two medical faculties studied by the students at Jalalabad State Medical University:</strong>",
+            "info": "There are two medical faculties studied by the students at Jalalabad State Medical University:",
             "data": [
                 "Medicine",
                 "Nursing"
@@ -288,9 +293,14 @@ export const jalalabadstateuniversity = {
 
     "admission": [
         {
+            type: 'title',
+            title: "Jalalabad State Medical University - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The applicants must fit into the eligibility criteria to study MBBS course at Jalalabad State Medical University:</b>",
+            "info": "The applicants must fit into the eligibility criteria to study MBBS course at Jalalabad State Medical University:",
             "data": [
                 "The candidates should have a minimum age of 17 years or before 31st December of the admission year.",
                 "Every applicant must pass a 10+2 standard with at least 50% aggregate in biology, physics, chemistry from a recognised board.",
@@ -303,20 +313,20 @@ export const jalalabadstateuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>Here are some steps to consider for MBBS admission process at Jalalabad State Medical University</b>',
+            info: 'Here are some steps to consider for MBBS admission process at Jalalabad State Medical University',
             data: [
-              "Step 1: The applicants must fill the application form with the right information.",
-              "Step 2: After that, Scan and send important original documents with passport size photographs on mail.",
-              "Step 3: After Document verification the university will send an offer letter for admission confirmation.",
-              "Step 4: The candidates must pay the first year tuition fee for the MBBS course.",
-              "Step 5: Apply for the visa process quickly, it will take 15-20 days to provide a valid passport.",
-              "Step 6: After applying for a visa, the students will get a valid passport."
+                "Step 1: The applicants must fill the application form with the right information.",
+                "Step 2: After that, Scan and send important original documents with passport size photographs on mail.",
+                "Step 3: After Document verification the university will send an offer letter for admission confirmation.",
+                "Step 4: The candidates must pay the first year tuition fee for the MBBS course.",
+                "Step 5: Apply for the visa process quickly, it will take 15-20 days to provide a valid passport.",
+                "Step 6: After applying for a visa, the students will get a valid passport."
             ]
         },
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents must be submitted at the time of the MBBS admission process at Jalalabad State Medical University:</b>",
+            "info": "Following documents must be submitted at the time of the MBBS admission process at Jalalabad State Medical University:",
             "data": [
                 "Applicants must submit a properly filled & signed application form with correct details.",
                 "Undertaking form provided by the university.",
@@ -336,7 +346,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Every candidate should check the important dates before taking MBBS admission at Jalalabad State Medical University:</b>",
+            "info": "Every candidate should check the important dates before taking MBBS admission at Jalalabad State Medical University:",
             "col": [
                 "Events",
                 "Dates"
@@ -382,6 +392,11 @@ export const jalalabadstateuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Jalalabad State Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jalalabad State Medical University - Reviews" },
@@ -400,6 +415,11 @@ export const jalalabadstateuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Jalalabad State Medical University - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -420,6 +440,11 @@ export const jalalabadstateuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Jalalabad State Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jalalabad State Medical University - Gallery" },
@@ -438,6 +463,11 @@ export const jalalabadstateuniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Jalalabad State Medical University - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -458,6 +488,11 @@ export const jalalabadstateuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Jalalabad State Medical University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jalalabad State Medical University - News & Articles" },
@@ -477,9 +512,14 @@ export const jalalabadstateuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Jalalabad State Medical University - Faculty"
+
+        },
+        {
             "type": "list-bollet",
             "title": "faculty",
-            "info": "<b>Following is the name of the teaching faculty present at the University -</b> ",
+            "info": "Following is the name of the teaching faculty present at the University -<",
             "data": [
                 "Tashieva Gulbara Samidinovna, Dean"
 
@@ -506,9 +546,14 @@ export const jalalabadstateuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Jalalabad State Medical University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel and Accommodation",
-            "info": "<b>Well designed and proper Infrastructured hostel facilities with basic amenities offered on a university campus:</b>",
+            "info": "Well designed and proper Infrastructured hostel facilities with basic amenities offered on a university campus:",
             "data": [
                 "The University offers on-campus hostel facilities for students.",
                 "The hostel rooms are shared by 2-3 persons.",
@@ -520,7 +565,7 @@ export const jalalabadstateuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel rooms are well furnished and equipped with all basic facilities -</b>",
+            "info": "The hostel rooms are well furnished and equipped with all basic facilities -",
             "data": [
                 "Fan",
                 "Bed",
@@ -568,9 +613,14 @@ export const jalalabadstateuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Jalalabad State Medical University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Jalalabad State Medical University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. How many Indians are studying medicine at JSMU?",

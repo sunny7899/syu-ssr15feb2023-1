@@ -4,6 +4,7 @@ export const mbainmalta = {
     "location": " ",
     "type": "bb",
     "rating": "vv",
+    "Duration": '2 to 2.5 Years',
     "shareLink": "www.google.com",
     "url": "mba-in-malta",
     "info": [
@@ -20,7 +21,7 @@ export const mbainmalta = {
         {
             "type": "table-title",
             "title": "MBA in Malta 2023: Course Highlights",
-            "info": "<b>Following are the quick Overview of MBA in Malta:</b>",
+            "info": "Following are the quick Overview of MBA in Malta:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course</b>", "August"],
@@ -34,7 +35,7 @@ export const mbainmalta = {
         {
             "type": "list-bollet",
             "title": "Why Study MBA in Malta?",
-            "info": "<b>Following are the top benefits of studying MBA in Malta:</b>",
+            "info": "Following are the top benefits of studying MBA in Malta:",
             //"img": '',
             "data": [
                 "MBA degree from Malta is globally accepted.",
@@ -48,7 +49,7 @@ export const mbainmalta = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Follow the below eligibility criteria required applying for MBA in Malta:</b>",
+            "info": "Follow the below eligibility criteria required applying for MBA in Malta:",
             "data": [
                 "Applicants need to have a bachelor’s degree with good grades.",
                 "Applicant should clear English language proficiency test with the following grades<br>  IELTS-6.5 <Br>TOEFL-79 <br>PTE-55 <br>iTEP-4.0",
@@ -58,7 +59,7 @@ export const mbainmalta = {
         {
             type: 'step-list',
             title: 'Admission Procedure(2022-23): Applying for MBA in Malta',
-            info: '<b>Below are the easy admission steps required for applying MBA in Malta:</b>',
+            info: 'Below are the easy admission steps required for applying MBA in Malta:',
             data: [
                 "<b>Step 1:</b> Fill the online application form. Submit the original copies of documents with valid details.",
                 "<b>Step 2:</b> Wait for the application review process. Usually, it takes a couple of weeks for approval.",
@@ -71,7 +72,7 @@ export const mbainmalta = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following are the documents required applying for MBA in Malta:</b>",
+            "info": "Following are the documents required applying for MBA in Malta:",
             "data": [
                 "Matriculation Certificate",
                 "Copy of relevant mark sheets (10th,12th, bachelors)",
@@ -87,7 +88,7 @@ export const mbainmalta = {
         {
             "type": "table",
             "title": "Cost of Living in Malta",
-            "info": "<b>Following is the cost of living in Malta:</b>",
+            "info": "Following is the cost of living in Malta:",
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -151,9 +152,14 @@ export const mbainmalta = {
     ],
     "topcolleges": [
         {
+            type: 'title',
+            title: 'MBA in Malta 2023 - Top Colleges in Malta'
+        },
+        
+        {
             "type": "table",
             "title": "Top MBA Universities in Malta: Fee Structure (2022-23)",
-            "info": "<b>Refer to the below fee structure of top MBA Universities in Malta:</b>",
+            "info": "Refer to the below fee structure of top MBA Universities in Malta:",
             "col": [
                 "Name of the Universities",
                 "Annual Fees in INR (approx)",
@@ -208,9 +214,13 @@ export const mbainmalta = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'MBA in Malta 2023 - Syllabus'
+        },
+        {
             "type": "list-bollet",
             "title": "MBA in Malta: Course Duration",
-            "info": "<b>Following is the course duration for MBA in Malta:</b>",
+            "info": "Following is the course duration for MBA in Malta:",
             "data": [
                 "The MBA universities in Malta take 1 year to complete the MBA program.",
                 "Some universities taught MBA programs for a period of 2 to 2.5 years.",
@@ -220,7 +230,7 @@ export const mbainmalta = {
         {
             "type": "list-bollet",
             "title": "MBA Specializations Offered for Studying MBA in Malta",
-            "info": "<b>Following are the specializations offered for studying MBA in Malta:</b>",
+            "info": "Following are the specializations offered for studying MBA in Malta:",
             "data": [
                 "Accounting",
                 "Marketing",
@@ -254,9 +264,13 @@ export const mbainmalta = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'MBA in Malta 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Career Opportunities after MBA in Malta",
-            "info": "<b>Management is the degree that encompasses the various areas of fields and has a high range of career options. The career sectors after MBA in Malta are as follows:</b>",
+            "info": "Management is the degree that encompasses the various areas of fields and has a high range of career options. The career sectors after MBA in Malta are as follows:",
             "data": [
                 "Accountancy",
                 "Advertising",
@@ -288,9 +302,13 @@ export const mbainmalta = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'MBA in Malta 2023 - FAQs'
+        },
+        {
             "type": "question-list",
             "title": "MBA in Malta: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the cost of studying an MBA in Malta?",

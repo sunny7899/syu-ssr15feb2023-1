@@ -5,6 +5,7 @@ export const mbaingermany = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '1 or 2 Years',
     "url": "mba-in-germany",
     "info": [
         {
@@ -42,7 +43,7 @@ export const mbaingermany = {
         {
             "type": "list-bollet",
             "title": "Why Study MBA in Germany?",
-            "info": "<b>Following are the top benefits of studying MBA in Germany:</b>",
+            "info": "Following are the top benefits of studying MBA in Germany:",
             //"img": 'https://www.selectyouruniversity.com/images/benefits-of-mbbs-in-germany.jpg',
             "data": [
                 "There are over 100 MBA programs available to choose from. The course is taught in English medium teaching.",
@@ -62,7 +63,7 @@ export const mbaingermany = {
         {
             "type": "list-bollet",
             "title": "Why Study MBA in Germany?",
-            "info": "<b>Following are the top benefits of studying MBA in Germany:</b>",
+            "info": "Following are the top benefits of studying MBA in Germany:",
             "img": '',
             "data": [
                 "There are over 100 MBA programs available to choose from. The course is taught in English medium teaching.",
@@ -82,7 +83,7 @@ export const mbaingermany = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<p>There is a different requirement of the work experience for different programs of MBA. But apart from this there are lots of points which are commonly required to take admission to any of the MBA programs in German universities.</p>",
+            "info": "There is a different requirement of the work experience for different programs of MBA. But apart from this there are lots of points which are commonly required to take admission to any of the MBA programs in German universities.",
             //"img": 'https://www.selectyouruniversity.com/images/eligibility-criteria-to-study-mbbs-in-germany.jpg',
             "data": [
                 "The applicant must have completed the bachelor’s degree of 4 years to take admission to MBA course in Germany.",
@@ -95,7 +96,7 @@ export const mbaingermany = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Entrance Exams:</b>",
+            "info": "Entrance Exams:",
             //"img": '',
             "data": [
                 "TOEFL with 90 score or",
@@ -109,7 +110,7 @@ export const mbaingermany = {
         {
             "type": "list-bollet",
             "title": "Required Documents",
-            "info": "<p>In addition to the above criteria, candidates need to submit the following requirements for admission to MBA in Germany and for student visa.</p>",
+            "info": "In addition to the above criteria, candidates need to submit the following requirements for admission to MBA in Germany and for student visa.",
             //"img": 'https://www.selectyouruniversity.com/images/document-required-for-mbbs-admission-in-germany.jpg',
             "data": [
                 "At least 2 Letters of recommendation",
@@ -192,6 +193,13 @@ export const mbaingermany = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Germany 2023 - Syllabus'
+        },
+        
+        
         {
             type: "meta",
             meta: [
@@ -211,10 +219,16 @@ export const mbaingermany = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Germany 2023 - Top Colleges in Germany'
+        },
+
         {
             "type": "table",
             "title": "Top MBA Colleges, Schools, and Universities in Germany",
-            "info": "<b>Here are the top accredited business schools/institutes in Germany that offer MBA programs in the English medium language:</b>",
+            "info": "Here are the top accredited business schools/institutes in Germany that offer MBA programs in the English medium language:",
             "col": [
                 "Institute name",
                 "Programs offered",
@@ -309,10 +323,16 @@ export const mbaingermany = {
     ],
 
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Germany 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "What after Completing an MBA from German Universities?",
-            "info": "<p>The candidates who have successfully completed the course of MBA from Germany can get the jobs of various posts which can averagely give the packages of about 1,40,000 USD per year to 2,20,000 USD per year approximately.</p><b>The posts that can be offered to MBA graduates are:</b>",
+            "info": "The candidates who have successfully completed the course of MBA from Germany can get the jobs of various posts which can averagely give the packages of about 1,40,000 USD per year to 2,20,000 USD per year approximately.The posts that can be offered to MBA graduates are:",
             "data": [
                 "Product manager",
                 "Strategist",
@@ -325,7 +345,7 @@ export const mbaingermany = {
         {
             "type": "table",
             "title": "",
-            "info": "<b>There are plenty of job offers for MBA graduates that pays bulky packages to them.</b>",
+            "info": "There are plenty of job offers for MBA graduates that pays bulky packages to them.",
             "col": [
                 "Particular",
                 "MBA in Germany",
@@ -376,11 +396,14 @@ export const mbaingermany = {
     ],
     "faq": [
 
-
+        {
+            type: 'title',
+            title: 'MBA in Germany - FAQ'
+        },
         {
             "type": "question-list",
             "title": "MBA in Germany - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
             "data": [
                 {
                     "ques": "Q. Can I work part-time while studying MBA in Germany?",

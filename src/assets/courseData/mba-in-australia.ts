@@ -5,12 +5,14 @@ export const mbainaustralia = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '1 or 2 Years',
     "url": "mba-in-australia",
     "info": [
         {
             type: 'title',
-            title: 'Mba in australia'
+            title: 'MBA in australia' 
         },
+
         {
             "type": "text",
             "title": "",
@@ -19,7 +21,7 @@ export const mbainaustralia = {
         {
             "type": "table-title",
             "title": "MBA in Australia 2022: Quick Facts",
-            "info": "<b>Follow the quick highlights for MBA in Australia:</b>",
+            "info": "Follow the quick highlights for MBA in Australia:",
             "col": [],
             "row": [
                 ["<b>Degree Awarded</b>", "MBA"],
@@ -34,7 +36,7 @@ export const mbainaustralia = {
         {
             "type": "list-bollet",
             "title": "Why Study MBA in Australia?",
-            "info": "<b>Following are the top benefits of studying MBA in Australia for Indian students:</b>",
+            "info": "Following are the top benefits of studying MBA in Australia for Indian students:",
             "data": [
                 "The business schools in Australia have been ranked among the top 100 business schools in the world as per the QS Global ranking standard.",
                 "MBA universities in Australia offer an internationally recognized degree that enhances the earning potential of MBA students.",
@@ -46,7 +48,7 @@ export const mbainaustralia = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Following is the admission criteria required for applying MBA in Australia:</b>",
+            "info": "Following is the admission criteria required for applying MBA in Australia:",
             "data": [
                 "Applicants must have a bachelor’s degree lasting for a period of 3 years.",
                 "Applicants must have an aggregate of 60% and above in their respective subjects.",
@@ -56,14 +58,9 @@ export const mbainaustralia = {
             ]
         },
         {
-            "type": "text",
-            "title": "Step-by-Step Admission Process for MBA Course",
-            "data": '<p><b>Following is the admission process required for applying MBA in Australia:</b></p>'
-        },
-        {
             "type": "step-list",
-            "title": "",
-            "info": "MBA admissions in Australia are completely based on the grades and merit-based system. Follow the below admission steps for applying MBA in Australia:",
+            "title": "Step-by-Step Admission Process for MBA Course",
+            "info": '<p>Following is the admission process required for applying MBA in Australia:</p><p>MBA admissions in Australia are completely based on the grades and merit-based system. Follow the below admission steps for applying MBA in Australia:</p>',
             "data": [
                 "<b>Step 1:</b> Register on the university website and submit the required details.",
 
@@ -72,10 +69,11 @@ export const mbainaustralia = {
                 "<b>Step 3:</b> Non-native English speakers should apply for English proficiency tests."
             ]
         },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Step 4:</b> Wait for the:",
+            "info": "Step 4: Wait for the:",
             "data": [
                 "Application Review",
                 "Approval of Documents",
@@ -95,7 +93,7 @@ export const mbainaustralia = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Follow the below documents checklists for applying MBA in Australia:</b>",
+            "info": "Follow the below documents checklists for applying MBA in Australia:",
             "data": [
                 "Letter of Recommendation (legalized by the previous university)",
                 "Copy of Bachelor Degree Certificates",
@@ -172,7 +170,7 @@ export const mbainaustralia = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Following is the cost of living for studying MBA in Australia:</b>",
+            "info": "Following is the cost of living for studying MBA in Australia:",
             "col": [
                 "Particulars",
                 "Cost in INR",
@@ -232,10 +230,16 @@ export const mbainaustralia = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBA in Australia 2023 - Top Colleges in Australia' 
+        },
+        
         {
             "type": "table",
             "title": "MBA in Australia Fee Structure 2022",
-            "info": "<b>Following is the fee structure of top MBA Universities in Australia:</b>",
+            "info": "Following is the fee structure of top MBA Universities in Australia:",
             "col": [
                 "Name of the Institute/University",
                 "Duration",
@@ -310,10 +314,16 @@ export const mbainaustralia = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBA in Australia 2023 - Syllabus' 
+        },
+
         {
             "type": "list-bollet",
             "title": "Course Duration of MBA in Australia",
-            "info": "<b>The MBA course duration in Australia is of 1 or 2 years. The details about the MBA course durations are discussed below:</b>",
+            "info": "The MBA course duration in Australia is of 1 or 2 years. The details about the MBA course durations are discussed below:",
             "data": [
                 "MBA in Australia lasts for a duration of 1-2 years.",
                 "The courses taught in the English language.",
@@ -345,7 +355,7 @@ export const mbainaustralia = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Following are the specializations offered while studying MBA in Australia:</b>',
+            info: 'Following are the specializations offered while studying MBA in Australia:',
             data: [
                 "HR Management",
                 "Marketing Management",
@@ -375,6 +385,12 @@ export const mbainaustralia = {
 
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBA in Australia 2023 - Career Options' 
+        },
+
         {
             type: 'text',
             title: 'Career Opportunity after Studying MBA in Australia',
@@ -384,7 +400,7 @@ export const mbainaustralia = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Following are the industries that recruit MBA Graduates:</b>',
+            info: 'Following are the industries that recruit MBA Graduates:',
             data: [
                 "IT Services",
                 "Computer Services",
@@ -396,7 +412,7 @@ export const mbainaustralia = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Following are the job positions offered for MBA Graduates:</b>',
+            info: 'Following are the job positions offered for MBA Graduates:',
             data: [
                 "Business Consultant",
                 "Finance Manager",
@@ -428,10 +444,16 @@ export const mbainaustralia = {
 
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBA in Australia 2023 - FAQs' 
+        },
+
         {
             "type": "question-list",
             "title": "MBA in Australia: Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. What is the cost of studying an MBA in Australia?",

@@ -5,6 +5,7 @@ export const mbbsinukraine = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration":"5+1 Year Internship",
     "url": "mbbs-in-ukraine",
     "info": [
         {
@@ -22,7 +23,7 @@ export const mbbsinukraine = {
         {
             "type": "table-title",
             "title": "MBBS in Ukraine 2022 - Quick Highlights",
-            "info": "<b>This table below shows the important highlights of the MBBS course in Ukraine:</b>",
+            "info": "This table below shows the important highlights of the MBBS course in Ukraine:",
             "col": [
             ],
             "row": [
@@ -44,7 +45,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "Most Important Benefits of Studying MBBS in Ukraine",
-            "info": "<b>The advantages of studying MBBS in Ukraine are explained below:</b>",
+            "info": "The advantages of studying MBBS in Ukraine are explained below:",
             //"img": 'https://www.selectyouruniversity.com/images/ukraine/benefits-of-mbbs-in-ukraine.jpg',
             "data": [
                 "<b>Any donation and capitation fees</b> are not required at the time of admission process.",
@@ -68,7 +69,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "MBBS in Ukraine Eligibility for Indian Students",
-            "info": "<b>All the Indian students have to fulfill these criteria to take admission for MBBS degree in medical universities of Ukraine:</b>",
+            "info": "All the Indian students have to fulfill these criteria to take admission for MBBS degree in medical universities of Ukraine:",
             //"img": 'https://www.selectyouruniversity.com/images/ukraine/eligibility-of-mbbs-in-ukraine.jpg',
             "data": [
                 "The age of the students should be <b>18 years</b> on or before 31st December, of the year of admission to MBBS course.",
@@ -82,7 +83,7 @@ export const mbbsinukraine = {
         {
             type: 'step-list',
             title: 'How to Get MBBS Admission in Ukraine?',
-            info: '<b>All the students who fit into the eligibility criteria and have all the documents ready, should follow the step by step admission process as mentioned below:</b>',
+            info: 'All the students who fit into the eligibility criteria and have all the documents ready, should follow the step by step admission process as mentioned below:',
             //img: 'https://www.selectyouruniversity.com/images/ukraine/admission-process-to-study-mbbs-in-ukraine.jpg',
             data: [
                 "<p><b>Step 1:</b>Fill up the registration/Application form.</p>",
@@ -95,7 +96,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Details required while filing application form for the MBBS Course:</b>",
+            "info": "Details required while filing application form for the MBBS Course:",
             //"img": '',
             "data": [
                 "Citizenship",
@@ -114,7 +115,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "Documents Required to Study in Ukraine",
-            "info": "<b>Students need to keep the following documents ready to apply for MBBS course in Ukrain’s medical universities:</b>",
+            "info": "Students need to keep the following documents ready to apply for MBBS course in Ukrain’s medical universities:",
             //"img": 'https://www.selectyouruniversity.com/images/ukraine/document-required-mbbs-admission-in-ukraine.jpg',
             "data": [
                 "Academic certificates (SSC & HSC)",
@@ -134,7 +135,7 @@ export const mbbsinukraine = {
         {
             "type": "table",
             "title": "Academic Calendar -  Intake 2022",
-            "info": "<b>Important dates to remember for admission to MBBS in Ukraine:</b>",
+            "info": "Important dates to remember for admission to MBBS in Ukraine:",
             "col": [
                 "Events",
                 "Dates"
@@ -162,7 +163,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "Is MBBS in Ukraine Valid in India?",
-            "info": "<b>This is the most important and common concern among all the students and parents:</b>",
+            "info": "This is the most important and common concern among all the students and parents:",
             "data": [
                 "Yes, the MBBS degree completed from an NMC approved medical university of Ukraine is valid in India.",
                 "Students should know the details about the medical university they are studying if it is approved by the National Medical Commission."
@@ -171,7 +172,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching in Ukraine",
-            "info": "<b>In Ukraine, the medical universities follow 2 mediums for teaching:</b>",
+            "info": "In Ukraine, the medical universities follow 2 mediums for teaching:",
             "data": [
                 "The medium of teaching in Ukraine (MBBS course) is English and Ukrainian language.",
                 "Foreign students can complete their course in English medium."
@@ -180,7 +181,7 @@ export const mbbsinukraine = {
         {
             "type": "table",
             "title": "MBBS Internship in Ukraine",
-            "info": "<b>This is the timetable for internship in Ukraine:</b>",
+            "info": "This is the timetable for internship in Ukraine:",
             "col": [
                 "Course Specialization",
                 "Duration"
@@ -228,7 +229,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "Hostel & Accomodation Facilities During MBBS in Ukraine",
-            "info": "<b>During the MBBS course in the medical universities of Ukraine, students get wonderful accommodation facilities:</b>",
+            "info": "During the MBBS course in the medical universities of Ukraine, students get wonderful accommodation facilities:",
             "data": [
                 "There are hostels for foreign students in every university.",
                 "The hostels are provided with all the important facilities and amenities. There are sharing rooms.",
@@ -241,7 +242,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "MBBS in Ukraine - Age Limit",
-            "info": "<b>Indian students need to fulfill age limit criteria for doing MBBS in Ukraine:</b>",
+            "info": "Indian students need to fulfill age limit criteria for doing MBBS in Ukraine:",
             "data": [
                 "Students need to be at least 17 years old on or before 31st December of the year of admission.",
                 "The age of students willing to take admission to the MBBS course in Ukraine should not exceed 25 years."
@@ -250,7 +251,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "How Safe is Ukraine for Indian Students?",
-            "info": "<b>Ukraine is one of the safest countries for Indian students:</b>",
+            "info": "Ukraine is one of the safest countries for Indian students:",
             "data": [
                 "According to the <b>UL safety index</b>, Ukraine holds 106th rank in safety index.",
                 "It is a safe country for Indian students.",
@@ -262,7 +263,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "The Education System in Ukraine",
-            "info": "<b>The education system for MBBS course in Ukraine follows the credit pattern:</b>",
+            "info": "The education system for MBBS course in Ukraine follows the credit pattern:",
             "data": [
                 "The course years of an MBBS degree are divided into semester patterns.",
                 "There are 2 semesters every year.",
@@ -319,10 +320,16 @@ export const mbbsinukraine = {
 
     ],
     "syllabus": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ukraine 2023 - Syllabus'
+        },
+
         {
             "type": "table",
             "title": "Complete Syllabus of MBBS in Ukraine (Year Wise)",
-            "info": "<b>Following are the subjects that are covered in MBBS course syllabus in Ukraine:</b>",
+            "info": "Following are the subjects that are covered in MBBS course syllabus in Ukraine:",
             "colTitle": "1st Year - MBBS Syllabus (Semester 1 & 2)",
             "col": [
                 "Subjects",
@@ -744,14 +751,14 @@ export const mbbsinukraine = {
         {
             "type": "text",
             "title": "Total Duration of MBBS Program in Ukraine",
-            "info": "<b>The duration of studying MBBS in Ukraine is of 6 years:</b>",
+            "info": "The duration of studying MBBS in Ukraine is of 6 years:",
             "data": "<p>The course duration in Ukraine for MBBS includes 5 years of course and 1 year of an internship program.</p>"
 
         },
         {
             "type": "list-bollet",
             "title": "Courses Offered by the Ukrainian Medical Universities",
-            "info": "<b>Many Indian students prefered Ukraine as a destination for their medical degrees as Ukraine offers quality education in various medical degrees. These are the medical degrees offered in Ukraine’s medical universities:</b>",
+            "info": "Many Indian students prefered Ukraine as a destination for their medical degrees as Ukraine offers quality education in various medical degrees. These are the medical degrees offered in Ukraine’s medical universities:",
             "data": [
                 "General Medicine",
                 "Pharmacy",
@@ -782,10 +789,16 @@ export const mbbsinukraine = {
         }
     ],
     "topcolleges": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ukraine 2023 - Top Colleges in Ukraine'
+        },
+
         {
             "type": "table",
             "title": "MBBS in Ukraine Fees Structure 2022",
-            "info": "<b>The fee structure for MBBS course in Ukraine is very much affordable These are the top NMC approved medical universities of Ukraine. More than 10,000 Indian students have successfully taken admission to these universities:</b>",
+            "info": "The fee structure for MBBS course in Ukraine is very much affordable These are the top NMC approved medical universities of Ukraine. More than 10,000 Indian students have successfully taken admission to these universities:",
             "col": [
                 "Name of the University",
                 "Tuition Fees/Year",
@@ -894,7 +907,7 @@ export const mbbsinukraine = {
         {
             "type": "table",
             "title": "Ranking of Best Ukrainian Medical Universities",
-            "info": "<b>The top NMC approved medical universities and their rankings are as below:</b>",
+            "info": "The top NMC approved medical universities and their rankings are as below:",
             "col": [
                 "Name of the University",
                 "World Ranking",
@@ -969,10 +982,16 @@ export const mbbsinukraine = {
         }
     ],
     "careeroptions": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ukraine 2023 - Career Options'
+        },
+
         {
             "type": "list-bollet",
             "title": "Career Options: After Completing MBBS Degree From Ukraine",
-            "info": "<b>After completing the MBBS course in Ukraine, students can choose from the following options as a career:</b>",
+            "info": "After completing the MBBS course in Ukraine, students can choose from the following options as a career:",
             "data": [
                 "Once the students completing the <b>medical degree from Ukraine</b>, the Indian students can sit for NMC screening test which is known as FMGE exam.",
                 "Also, he/she can go with a post graduation course from the USA, UK, Canada & any other European countries.",
@@ -984,7 +1003,7 @@ export const mbbsinukraine = {
         {
             "type": "list-bollet",
             "title": "PG Options after MBBS in Ukraine",
-            "info": "<b>Students can choose from several PG options after completing MBBS from Ukrainian universities:</b>",
+            "info": "Students can choose from several PG options after completing MBBS from Ukrainian universities:",
             "data": [
                 "Since the MBBS degree from recognized universities from Ukraine has worldwide recognition, students can opt from options like doing PG or starting a career right away as a surgeon or anything else.",
                 "Doing PG after MBBS from Ukraine is one of the options that students can choose. Students can choose to do PG anywhere just like they choose to do MBBS abroad.",
@@ -1011,10 +1030,16 @@ export const mbbsinukraine = {
         }
     ],
     "faq": [
+
+        {
+            type: 'title',
+            title: 'MBBS in Ukraine 2023 - FAQs'
+        },
+
         {
             "type": "question-list",
             "title": "MBBS in Ukraine - Important FAQs",
-            "info": "<b>Following are the most frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Following are the most frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Which are the top medical universities to study MBBS in Ukraine?",

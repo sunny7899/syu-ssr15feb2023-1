@@ -23,7 +23,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Odessa National Medical University - At a Glance",
-            "info": "<b>Check out the important highlights of Odessa National Medical University:</b>",
+            "info": "Check out the important highlights of Odessa National Medical University:",
             "col": [
             ],
             "row": [
@@ -41,7 +41,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Odessa National Medical University?",
-            "info": "<b>The students who look forward to studying MBBS at Odessa National Medical University should check out these points given below:</b>",
+            "info": "The students who look forward to studying MBBS at Odessa National Medical University should check out these points given below:",
             "img": '',
             "data": [
                 "Affordable admission and accommodation fees.",
@@ -58,7 +58,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Odessa National Medical University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Odessa National Medical University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Odessa National Medical University of year 2021 with passing percent is as follows:",
             "col": [
                 "World",
                 "Country",
@@ -75,7 +75,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Odessa National Medical University - Recognition & Accreditation",
-            "info": "<b>Odessa National Medical University offering MBBS program with full recognition of different medical bodies:</b>",
+            "info": "Odessa National Medical University offering MBBS program with full recognition of different medical bodies:",
             "img": '',
             "data": [
                 "International Association of Universities",
@@ -88,7 +88,7 @@ export const odessanationalmedicaluniversity = {
         {
             type: 'text',
             title: 'Medium of Teaching',
-            info: '<b>The medium of instruction for medical course is in English language:</b>',
+            info: 'The medium of instruction for medical course is in English language:',
             data: '<p>Odessa National Medical University offers the courses of general medicine in English language.</p> '
         },
 
@@ -97,7 +97,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Odessa National Medical University - FMGE Performance 2021",
-            "info": "<b>The details about FMGE performance for Odessa National Medical University of year 2021 with passing percent is as follows:</b>",
+            "info": "The details about FMGE performance for Odessa National Medical University of year 2021 with passing percent is as follows:",
             "col": [
                 "Name of University",
                 "Appeared",
@@ -119,7 +119,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities at Odessa National Medical University",
-            "info": "<b>At Odessa National Medical University, students are provided with extra curricular facilities as well, just to maintain their health, physic, mentality and knowledge:</b><p><b>1 Museum</b></p>",
+            "info": "At Odessa National Medical University, students are provided with extra curricular facilities as well, just to maintain their health, physic, mentality and knowledge:</b><p><b>1 Museum</b>",
             // "img": 'https://www.selectyouruniversity.com/images/ukraine-universities/museum-odessa-national-medical-university.jpg',
             "data": [
                 "Students from all over the world take their medical education at Odessa National Medical University and the university does not fail to feed them the knowledge with every possible way.",
@@ -132,7 +132,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>2 Sports Complex</b>",
+            "info": "2 Sports Complex",
             // "img": 'https://www.selectyouruniversity.com/images/ukraine-universities/sports-complex-odessa-national-medical-university.jpg',
             "data": [
                 "University has a huge sports complex situated in the territory of the campus area.",
@@ -144,7 +144,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>3 Library</b>",
+            "info": "3 Library",
             // "img": 'https://www.selectyouruniversity.com/images/ukraine-universities/library-odessa-national-medical-university.jpg',
             "data": [
                 "ONMU has a huge library with a collection of medical & scientific periodicals which is one of the biggest collection in Ukraine.",
@@ -176,9 +176,14 @@ export const odessanationalmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Odessa National Medical University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Odessa National Medical University - MBBS Fee Structure 2022",
-            "info": "<b>The Odessa National Medical University offers you a low price fee for doing MBBS program:</b>",
+            "info": "The Odessa National Medical University offers you a low price fee for doing MBBS program:",
             "col": [
                 "Fee Structure",
                 "Year - 1",
@@ -227,7 +232,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Odessa National Medical University",
-            "info": "<b>The medicine faculties of Odessa National Medical University and Research is given below:</b>",
+            "info": "The medicine faculties of Odessa National Medical University and Research is given below:",
             "data": [
                 "General Medicine",
                 "Pediatrics",
@@ -242,7 +247,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Duration of MBBS Course - Odessa National Medical University",
-            "info": "<b>Mentioned below is the MBBS duration offered by Odessa National Medical University:</b>",
+            "info": "Mentioned below is the MBBS duration offered by Odessa National Medical University:",
             "data": [
                 "The students willing to study the medicine program at Odessa National Medical University must undergo 5 years of medical studies by highly educated faculty members providing theoretical as well as practical knowledge.",
                 "After completing MBBS course the students must complete 1 year of compulsory Internship.",
@@ -251,7 +256,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "table",
             "title": "MBBS Syllabus at Odessa National Medical University",
-            "info": "<b>Refer the syllabus of general medical course given below:</b>",
+            "info": "Refer the syllabus of general medical course given below:",
             "textBelowInfo": "1st Year",
             "col": [
                 "Semester-I",
@@ -542,9 +547,14 @@ export const odessanationalmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Odessa National Medical University - Admission 2023"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For MBBS Course",
-            "info": "<b>For MBBS admission in Odessa National Medical University students should meet the criteria mentioned below:</b>",
+            "info": "For MBBS admission in Odessa National Medical University students should meet the criteria mentioned below:",
             "data": [
                 "Candidate must have <b>completed higher secondary examination</b> from a recognized board/university.",
                 "Candidate should have an <b>aggregate of 50%</b> in Physics, Chemistry & Biology subjects.",
@@ -555,7 +565,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process at ONMU",
-            "info": "<b>The candidates must follow the mentioned steps given below to take MBBS admission in Odessa National Medical University:</b>",
+            "info": "The candidates must follow the mentioned steps given below to take MBBS admission in Odessa National Medical University:",
             "data": [
                 "<b>Step 1:</b> Application forms are available at representatives of ONMU in the respective country.",
                 "<b>Step 2:</b> Admissions at ONMU based on <b>first come first serve</b> basis from 1st July to 1st October.",
@@ -567,7 +577,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>List of Important documents required for MBBS admission at Odessa National Medical University:</b>",
+            "info": "List of Important documents required for MBBS admission at Odessa National Medical University:",
             "data": [
                 "Original copy of birth certificate",
                 "Original mark sheet of 10+2 certificate or equivalent",
@@ -580,7 +590,7 @@ export const odessanationalmedicaluniversity = {
         {
             "type": "table",
             "title": "Odessa National Medical University - Academic Calendar 2022",
-            "info": "<b>Check out the Important dates regarding admission at Odessa National Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Odessa National Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -625,6 +635,11 @@ export const odessanationalmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Odessa National Medical University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Odessa National Medical University - Reviews" },
@@ -643,6 +658,11 @@ export const odessanationalmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Odessa National Medical University - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -663,6 +683,11 @@ export const odessanationalmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Odessa National Medical University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Odessa National Medical University - Gallery" },
@@ -681,6 +706,11 @@ export const odessanationalmedicaluniversity = {
         }
     ],
     "scholarship": [
+        {
+            type: 'title',
+            title: "Odessa National Medical University - Scholarship"
+
+        },
         {
             type: "meta",
             meta: [
@@ -701,6 +731,11 @@ export const odessanationalmedicaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Odessa National Medical University - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Odessa National Medical University - Faculty" },
@@ -719,6 +754,11 @@ export const odessanationalmedicaluniversity = {
         }
     ],
     "news": [
+        {
+            type: 'title',
+            title: "Odessa National Medical University - News & Articles"
+
+        },
         {
             type: "meta",
             meta: [
@@ -739,9 +779,14 @@ export const odessanationalmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Odessa National Medical University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Accommodation & Hostel Facilities",
-            "info": "<b>Odessa National Medical University offers top-notch accommodation facility on the college campus for international students:</b>",
+            "info": "Odessa National Medical University offers top-notch accommodation facility on the college campus for international students:",
             "data": [
                 "Fully furnished and comfortable hostel rooms.",
                 "Separate wings for both boys and girls.",
@@ -777,9 +822,14 @@ export const odessanationalmedicaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Odessa National Medical University - FAQ"
+
+        },
+        {
             type: 'question-list',
             title: 'Odessa National Medical University: Important FAQs',
-            info: '<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>',
+            info: 'Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:',
             data: [
                 {
                     "ques": "Q. Can I work in India as a doctor after studying at ONMU?",

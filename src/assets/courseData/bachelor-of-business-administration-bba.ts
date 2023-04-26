@@ -6,6 +6,7 @@ export const bachelorofbusinessadministrationbba = {
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '3 Years',
     url: "bachelor-of-business-administration-bba",
     info: [
         {
@@ -17,7 +18,7 @@ export const bachelorofbusinessadministrationbba = {
             type: 'text',
             title: '',
             //img: 'https://www.selectyouruniversity.com/images/bba-in-india.jpg',
-            data: '<p><b>BBA (Bachelor of Business Administration)</b>, BMS (Bachelor of Management Studies) are the courses taught at undergraduate level.</p><br><p>These courses will provide a student with conceptual, theoretical and practical knowledge in various aspects of business like finance, economics, operations, marketing, basic accounting etc. and these are all the forms of Management at the undergraduate level.</p><br><p>In the training, the Students in this field get the practical exposure.</p><br><p>This course includes complete <b>knowledge of leadership and management.</b> For those who are interested in management studies, BBA is the 3 year bachelor degree programme. </p><br><p>Students can find many multinational companies in India and abroad, which are offering jobs to various business graduates. Many universities/colleges in India offer a BBA degree programme for students. A student having any subject in its 12th standard can get admission in the BBA Course.</p>            '
+            data: '<p><b>BBA (Bachelor of Business Administration)</b>, BMS (Bachelor of Management Studies) are the courses taught at undergraduate level.</p><p>These courses will provide a student with conceptual, theoretical and practical knowledge in various aspects of business like finance, economics, operations, marketing, basic accounting etc. and these are all the forms of Management at the undergraduate level.</p><p>In the training, the Students in this field get the practical exposure.</p><p>This course includes complete <b>knowledge of leadership and management.</b> For those who are interested in management studies, BBA is the 3 year bachelor degree programme. </p><p>Students can find many multinational companies in India and abroad, which are offering jobs to various business graduates. Many universities/colleges in India offer a BBA degree programme for students. A student having any subject in its 12th standard can get admission in the BBA Course.</p>            '
         },
 
 
@@ -107,7 +108,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "Salary of BBA Graduates in India",
-            "info": "<b></b>",
+            "info": "",
             "img": '',
             "data": [
                 "Students can get a flying start to their professional career by a BBA degree.",
@@ -137,6 +138,10 @@ export const bachelorofbusinessadministrationbba = {
         }
     ],
     "topcolleges": [
+        {
+            type: 'title',
+            title: 'BBA in India 2023 - Top Colleges in India'
+        },
         {
             "type": "table",
             "title": "Top BBA Universities/Colleges in India (with Fee Structure)            ",
@@ -195,7 +200,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Dr.D.Y. Patil University, Navi Mumbai</b>",
+            "info": "Dr.D.Y. Patil University, Navi Mumbai",
             "img": '',
             "data": [
                 "With a vision to provide quality education in all spheres of high learning and health services in India, D.Y. Patil University was established in 2002.",
@@ -208,7 +213,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Shivaji University, Kolhapur</b>",
+            "info": "Shivaji University, Kolhapur",
             "img": '',
             "data": [
                 "In Kolhapur, Maharashtra, India, in the year 1962, Shivaji University was established.",
@@ -222,7 +227,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Symbiosis International University, Pune</b>",
+            "info": "Symbiosis International University, Pune",
             "img": '',
             "data": [
                 "It is a deemed to be university located in Pune, India. Spread over ten locations in Bangalore, Hyderabad, Nashik, Noida, and Pune, the university has 28 academic institutions.",
@@ -233,7 +238,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>FLAME University, Pune</b>",
+            "info": "FLAME University, Pune",
             "img": '',
             "data": [
                 "It is a coeducational and private, fully residential liberal education university located in Pune, India.",
@@ -244,7 +249,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MIT World Peace University, Pune</b>",
+            "info": "MIT World Peace University, Pune",
             "img": '',
             "data": [
                 "In the year 1983, MIT Pune, now known as MIT World Peace University (MIT WPU) was established.",
@@ -256,7 +261,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Mithibai College, Mumbai</b>",
+            "info": "Mithibai College, Mumbai",
             "img": '',
             "data": [
                 "Affiliated to the University of Mumbai, is a Mithibai College of Arts, Chauhan Institute of Science & Amrutben Jivanlal College of Commerce and Economics.",
@@ -267,7 +272,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>St. Xavier's College, Mumbai</b>",
+            "info": "St. Xavier's College, Mumbai",
             "img": '',
             "data": [
                 "Founded by the Jesuits in 2006, Xavier Institute of Management & Research (XIMR) is the management school of St. Xavier's College, Mumbai.",
@@ -278,7 +283,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Deen Dayal Upadhyaya College, Delhi</b>",
+            "info": "Deen Dayal Upadhyaya College, Delhi",
             "img": '',
             "data": [
                 "It is a constituent college of the University of Delhi.",
@@ -290,7 +295,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Christ University, Bangalore</b>",
+            "info": "Christ University, Bangalore",
             "img": '',
             "data": [
                 "In 1969 it was established as Christ College, it undertook path-breaking initiatives in Indian higher education with the introduction of innovative and modern curricula, with the support of creative and dedicated staff.",
@@ -318,6 +323,10 @@ export const bachelorofbusinessadministrationbba = {
     ],
     "syllabus": [
         {
+            type: 'title',
+            title: 'BBA in India 2023 - Syllabus'
+        },
+        {
             "type": "list-bollet",
             "title": "BBA Course Duration in India",
             "info": "",
@@ -331,7 +340,7 @@ export const bachelorofbusinessadministrationbba = {
         {
             "type": "table-title",
             "title": "All Subjects of a BBA Course in India",
-            "info": "<b>Students need to study below mentioned BBA (Bachelor of Business Administration) subjects when they opt for ‘BBA in India’:</b>",
+            "info": "Students need to study below mentioned BBA (Bachelor of Business Administration) subjects when they opt for ‘BBA in India’:",
             "col": [
             ],
             "row": [
@@ -435,6 +444,10 @@ export const bachelorofbusinessadministrationbba = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'BBA in India 2023 - Career Options'
+        },
+        {
             "type": "list-bollet",
             "title": "Job Positions for BBA Students",
             "info": "Students get the following job positions at reputed companies, after pursuing BBA in India:",
@@ -496,6 +509,10 @@ export const bachelorofbusinessadministrationbba = {
 
     ],
     "faq":[
+        {
+            type: 'title',
+            title: 'BBA in India 2023 - FAQs'
+        },
         {
             type: 'meta',
             meta: [

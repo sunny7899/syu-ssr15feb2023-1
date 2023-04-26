@@ -20,7 +20,7 @@ export const southernmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Southern Medical University - Quick Highlights 2020",
-            "info": "<b>Given below is the table for quick facts about Southern Medical University:</b>",
+            "info": "Given below is the table for quick facts about Southern Medical University:",
             "col": [],
             "row": [
                 ["<b> Intake for MBBS Course	</b>", "September 2020"],
@@ -38,7 +38,7 @@ export const southernmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Southern Medical University?",
-            "info": "<b>Following are the advantages of studying at Southern Medical University:</b>",
+            "info": "Following are the advantages of studying at Southern Medical University:",
             "data": [
                 "Southern Medical University has First class teaching hospitals for premium quality education.",
                 "The university has low tuition fees in China for MBBS studies in Southern Medical University.",
@@ -53,7 +53,7 @@ export const southernmedicaluniversity = {
         {
             "type": "table",
             "title": "Southern Medical University - Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Southern Medical University:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Southern Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -68,7 +68,7 @@ export const southernmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Medium of Teaching",
-            "info": "<b>Following is the medium of teaching at Southern Medical University:</b>",
+            "info": "Following is the medium of teaching at Southern Medical University:",
             "data": [
                 "At Southern Medical University, the medium of teaching is English, and thus language is not a barrier for non-chinese students while studying at this university.",
                 "Students can receive Chinese language training in their first year of education."
@@ -77,7 +77,7 @@ export const southernmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>China’s Southern Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>",
+            "info": "China’s Southern Medical University is recognized and accredited by many important medical bodies in the field of medical education such as:",
             "data": [
                 "Medical Council of India (MCI)",
                 "World Health Organisation (WHO)",
@@ -88,7 +88,7 @@ export const southernmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Life of Student's at Southern Medical University",
-            "info": "<b>Students live an excellent life at Southern Medical University as it provides many facilities, fun and great environment to its students:</b>",
+            "info": "Students live an excellent life at Southern Medical University as it provides many facilities, fun and great environment to its students:",
             "data": [
                 "Student life in the Southern Medical University is an appropriate mixture of fun, studies, as well as enjoyment.",
                 "The students get all the required facilities at the university that are required to make a successful career.",
@@ -104,7 +104,7 @@ export const southernmedicaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Guangzhou City",
-            "info": "<b>The cost of living at Guangzhou city is as follows:</b>",
+            "info": "The cost of living at Guangzhou city is as follows:",
             "col": [
                 "Activity",
                 "Cost",
@@ -135,7 +135,7 @@ export const southernmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Guangzhou City",
-            "info": "<b>Below are some of the key points about the Guangzhou city:</b>",
+            "info": "Below are some of the key points about the Guangzhou city:",
             "data": [
                 "Guangzhou is an economic, cultural center and also the capital and a political center of Guangdong Province.",
                 "The city is located in the southeast of Guangdong Province and in the north of the Pearl River Delta.",
@@ -166,9 +166,13 @@ export const southernmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: 'Southern Medical University - courses & Fees'
+        },
+        {
             "type": "table",
             "title": "Southern Medical University - MBBS Fee Structure 2020",
-            "info": "<b>The fee structure for Southern Medical University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Southern Medical University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -279,20 +283,20 @@ export const southernmedicaluniversity = {
                     "Year 6": "Rs.3.82 Lakhs",
                 },
             ],
-            heading: '<p><strong style="color: red;"><u>Note</u>:</strong> 1 CNY = Rs.10.60</p><p>Application, visa, flight tickets, etc. will cost extra up to Rs.80,000 to Rs.1,00,000/- (or more approximately).</p><p>Food charges will be separate per year.</p><p>The fees mentioned here are approximate and may change as per the change in currency.</p>'
+            "heading": '<p><strong style="color: red;"><u>Note</u>:</strong> 1 CNY = Rs.10.60</p><p>Application, visa, flight tickets, etc. will cost extra up to Rs.80,000 to Rs.1,00,000/- (or more approximately).</p><p>Food charges will be separate per year.</p><p>The fees mentioned here are approximate and may change as per the change in currency.</p>'
         },
         {
             type: 'list-bollet',
             title: 'MBBS Course Duration - Southern Medical University',
-            info: '<b>Mentioned below is the duration of MBBS course:</b>',
+            info: 'Mentioned below is the duration of MBBS course:',
             data: [
-                "The duration of MBBS course at Southern Medical University is <b>6 years</b> which includes 1 year of internship."
+                "The duration of MBBS course at Southern Medical University is 6 years which includes 1 year of internship."
             ]
         },
         {
             "type": "table",
             "title": "MBBS Syllabus - Southern Medical University",
-            "info": "<b>The complete syllabus for studying MBBS at Southern Medical University is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS at Southern Medical University is as follows:",
             "Data": "1st Year",
             "col": [
                 "1st Semester",
@@ -419,9 +423,13 @@ export const southernmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Southern Medical University - Admission 2023 '
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Southern Medical University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Southern Medical University is as follows:",
             "data": [
                 "The age of the applicant must be within 17 years and 30 years.",
                 "Students must have completed their 12th standard or any equivalent education with minimum 70% aggregate marks.",
@@ -434,7 +442,7 @@ export const southernmedicaluniversity = {
         {
             type: 'step-list',
             title: 'How to Apply for MBBS Admission at Southern Medical University?',
-            info: '<b>Following is the admission procedure for applying to MBBS course at Southern Medical University:</b>',
+            info: 'Following is the admission procedure for applying to MBBS course at Southern Medical University:',
             data: [
                 "Step 1: Students must fill the application form for studying medicine in China along with the necessary attested documents as specified.",
                 "Step 2: Then they must pay application fees, admission fees and the processing fees. Students must make advance payment for the application fees and the admission fees but the processing fees can be either sent to China or India whichever is earlier.",
@@ -446,7 +454,7 @@ export const southernmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required at the time of admission to Southern Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Southern Medical University:",
             "data": [
                 "Form of application",
                 "Passport size photo",
@@ -461,7 +469,7 @@ export const southernmedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2020",
-            "info": "<b>Check out the Important dates regarding admission at Southern Medical University:</b>",
+            "info": "Check out the Important dates regarding admission at Southern Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -505,6 +513,10 @@ export const southernmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Southern Medical University - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Southern Medical University - Reviews" },
@@ -523,6 +535,10 @@ export const southernmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Southern Medical University - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -554,6 +570,10 @@ export const southernmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Southern Medical University - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Southern Medical University - Gallery" },
@@ -573,9 +593,13 @@ export const southernmedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Southern Medical University - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Following various scholarships are offered at Southern Medical University for local and international students:</b>",
+            "info": "Following various scholarships are offered at Southern Medical University for local and international students:",
             "data": [
                 "For the Guangdong Government Outstanding International Students Scholarship for the freshmen, and for the Southern Medical University Outstanding International Students Scholarship for the freshmen, the self-funded international students in their first year’s study in China are entitled to apply.",
                 "The Chinese Government Scholarship for Self-supported International Students, Guangdong Government Outstanding International Students Scholarship, the Southern Medical University Scholarship and the Southern Medical University Scholarship for Outstanding International Students are applicable for the self-funded international students who have studied in China for more than one year.",
@@ -601,6 +625,10 @@ export const southernmedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'Southern Medical University - Faculty'
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -652,6 +680,10 @@ export const southernmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Southern Medical University - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Southern Medical University - News & Articles" },
@@ -671,9 +703,13 @@ export const southernmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'Southern Medical University - Hostel'
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Southern Medical University:</b>",
+            "info": "Following are the hostel facilities at Southern Medical University:",
             "data": [
                 "To accommodate the international students, the main campus of Southern Medical University provides a building.",
                 "This dormitory is well equipped and consists of facilities like air conditioners, internet services and hot water supply system.",
@@ -707,9 +743,13 @@ export const southernmedicaluniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: 'Southern Medical University - FAQ'
+            },
+            {
                 "type": "question-list",
                 "title": "Southern Medical University - Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
                 "data": [
                     {
                         "ques": "Q. Does the university provide MCI coaching to students?",

@@ -268,213 +268,223 @@ export const wenzhoumedicaluniversity = {
                 "The average annual temperature is 18.5 °C in Wenzhou city."
             ]
         },
-        { 
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Wenzhou Medical University" },
                 { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee and the legacy of over a century now. Book your admission and click for more information." },
             ],
         },
         {
-            type:"meta-title",
-            title: "Wenzhou Medical University"},
-        { 
-            type:"meta-links",
+            type: "meta-title",
+            title: "Wenzhou Medical University"
+        },
+        {
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university" }
-        ]}
+            ]
+        }
 
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - courses & Fees'
+        },
+        {
+            "type": "table",
+            "title": "Wenzhou Medical University: MBBS Fee Structure 2023",
+            "info": "The fee structure for Wenzhou Medical University for MBBS program is given in the table below:",
+            "col": [
+                "Particular",
+                "1st Year",
+                "2nd Year",
+                "3rd Year",
+                "4th Year",
+                "5th Year",
+                "6th Year"
+            ],
+            "row": [
+                {
+                    "Particular": "<b>Tuition Fee (approx. in CNY)</b>",
+                    "1st Year": "30000",
+                    "2nd Year": "30000",
+                    "3rd Year": "30000",
+                    "4th Year": "30000",
+                    "5th Year": "30000",
+                    "6th Year": "30000"
+                },
+                {
+                    "Particular": "<b>Tuition Fee (approx. in USD)</b>",
+                    "1st Year": "4200",
+                    "2nd Year": "4200",
+                    "3rd Year": "4200",
+                    "4th Year": "4200",
+                    "5th Year": "4200",
+                    "6th Year": "4200"
+                },
+                {
+                    "Particular": "<b>Tuition Fee (approx. in CNY)</b>",
+                    "1st Year": "30000",
+                    "2nd Year": "30000",
+                    "3rd Year": "30000",
+                    "4th Year": "30000",
+                    "5th Year": "30000",
+                    "6th Year": "30000"
+                },
+                {
+                    "Particular": "<b>Hostel (approx. in CNY)</b>",
+                    "1st Year": "4500",
+                    "2nd Year": "4500",
+                    "3rd Year": "4500",
+                    "4th Year": "4500",
+                    "5th Year": "4500",
+                    "6th Year": "4500"
+                },
+                {
+                    "Particular": "<b>Hostel (approx. in USD)</b>",
+                    "1st Year": "630",
+                    "2nd Year": "630",
+                    "3rd Year": "630",
+                    "4th Year": "630",
+                    "5th Year": "630",
+                    "6th Year": "630"
+                },
+                {
+                    "Particular": "<b>Medical + Insurance (approx. in CNY)</b>",
+                    "1st Year": "2500",
+                    "2nd Year": "500",
+                    "3rd Year": "500",
+                    "4th Year": "500",
+                    "5th Year": "500",
+                    "6th Year": "500"
+                },
+                {
+                    "Particular": "<b>Medical + Insurance (approx. in USD)</b>",
+                    "1st Year": "350",
+                    "2nd Year": "70",
+                    "3rd Year": "70",
+                    "4th Year": "70",
+                    "5th Year": "70",
+                    "6th Year": "70"
+                },
+                {
+                    "Particular": "<b>Registration Fee (approx. in CNY)</b>",
+                    "1st Year": "800",
+                    "2nd Year": "-",
+                    "3rd Year": "-",
+                    "4th Year": "-",
+                    "5th Year": "-",
+                    "6th Year": "-"
+                },
+                {
+                    "Particular": "<b>Registration Fee (approx. in USD)</b>",
+                    "1st Year": "112",
+                    "2nd Year": "-",
+                    "3rd Year": "-",
+                    "4th Year": "-",
+                    "5th Year": "-",
+                    "6th Year": "-"
+                },
+                {
+                    "Particular": "<b>Total (approx. in CNY)</b>",
+                    "1st Year": "37800",
+                    "2nd Year": "35000",
+                    "3rd Year": "35000",
+                    "4th Year": "35000",
+                    "5th Year": "35000",
+                    "6th Year": "35000"
+                },
+                {
+                    "Particular": "<b>Total (approx. in USD)</b>",
+                    "1st Year": "5292",
+                    "2nd Year": "4900",
+                    "3rd Year": "4900",
+                    "4th Year": "4900",
+                    "5th Year": "4900",
+                    "6th Year": "4900"
+                },
+                {
+                    "Particular": "<b>Fees in Indian Rupees (approx.)</b>",
+                    "1st Year": "Rs.3.70 Lakhs",
+                    "2nd Year": "Rs.3.43 Lakhs",
+                    "3rd Year": "Rs.3.43 Lakhs",
+                    "4th Year": "Rs.3.43 Lakhs",
+                    "5th Year": "Rs.3.43 Lakhs",
+                    "6th Year": "Rs.3.43 Lakhs"
+                },
+            ],
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Note:",
+            "data": [
+                "1 CNY = Rs.10.60",
+                "Application, visa, flight tickets, etc. will cost extra up to Rs.80,000 to Rs.1,00,000/- (or more approximately).",
+                "Food charges will be separate per year.",
+                "The fees mentioned here are approximate and may change as per the change in currency."
+            ]
+        },
+        {
+            "type": "text",
+            "title": "MBBS Course Duration: Wenzhou Medical University",
+            "info": "Mentioned below is the duration of MBBS course:",
+            "data": "<p>The duration of MBBS course at Wenzhou Medical University is 6 years which includes 1 year of internship.</p>"
+        },
+        {
+            type: 'table-title',
+            title: 'Courses Offered at Wenzhou Medical University',
+            info: 'The various faculties and departments present at Wenzhou Medical University are:',
+            row: [
+                ["General Medicine", "Dentistry", "Pharmacy"]
+            ]
+        },
 
         {
-        "type": "table",
-        "title": "Wenzhou Medical University: MBBS Fee Structure 2023",
-        "info": "The fee structure for Wenzhou Medical University for MBBS program is given in the table below:",
-        "col": [
-            "Particular",
-            "1st Year",
-            "2nd Year",
-            "3rd Year",
-            "4th Year",
-            "5th Year",
-            "6th Year"
-        ],
-        "row": [
-            {
-                "Particular": "<b>Tuition Fee (approx. in CNY)</b>",
-                "1st Year": "30000",
-                "2nd Year": "30000",
-                "3rd Year": "30000",
-                "4th Year": "30000",
-                "5th Year": "30000",
-                "6th Year": "30000"
-            },
-            {
-                "Particular": "<b>Tuition Fee (approx. in USD)</b>",
-                "1st Year": "4200",
-                "2nd Year": "4200",
-                "3rd Year": "4200",
-                "4th Year": "4200",
-                "5th Year": "4200",
-                "6th Year": "4200"
-            },
-            {
-                "Particular": "<b>Tuition Fee (approx. in CNY)</b>",
-                "1st Year": "30000",
-                "2nd Year": "30000",
-                "3rd Year": "30000",
-                "4th Year": "30000",
-                "5th Year": "30000",
-                "6th Year": "30000"
-            },
-            {
-                "Particular": "<b>Hostel (approx. in CNY)</b>",
-                "1st Year": "4500",
-                "2nd Year": "4500",
-                "3rd Year": "4500",
-                "4th Year": "4500",
-                "5th Year": "4500",
-                "6th Year": "4500"
-            },
-            {
-                "Particular": "<b>Hostel (approx. in USD)</b>",
-                "1st Year": "630",
-                "2nd Year": "630",
-                "3rd Year": "630",
-                "4th Year": "630",
-                "5th Year": "630",
-                "6th Year": "630"
-            },
-            {
-                "Particular": "<b>Medical + Insurance (approx. in CNY)</b>",
-                "1st Year": "2500",
-                "2nd Year": "500",
-                "3rd Year": "500",
-                "4th Year": "500",
-                "5th Year": "500",
-                "6th Year": "500"
-            },
-            {
-                "Particular": "<b>Medical + Insurance (approx. in USD)</b>",
-                "1st Year": "350",
-                "2nd Year": "70",
-                "3rd Year": "70",
-                "4th Year": "70",
-                "5th Year": "70",
-                "6th Year": "70"
-            },
-            {
-                "Particular": "<b>Registration Fee (approx. in CNY)</b>",
-                "1st Year": "800",
-                "2nd Year": "-",
-                "3rd Year": "-",
-                "4th Year": "-",
-                "5th Year": "-",
-                "6th Year": "-"
-            },
-            {
-                "Particular": "<b>Registration Fee (approx. in USD)</b>",
-                "1st Year": "112",
-                "2nd Year": "-",
-                "3rd Year": "-",
-                "4th Year": "-",
-                "5th Year": "-",
-                "6th Year": "-"
-            },
-            {
-                "Particular": "<b>Total (approx. in CNY)</b>",
-                "1st Year": "37800",
-                "2nd Year": "35000",
-                "3rd Year": "35000",
-                "4th Year": "35000",
-                "5th Year": "35000",
-                "6th Year": "35000"
-            },
-            {
-                "Particular": "<b>Total (approx. in USD)</b>",
-                "1st Year": "5292",
-                "2nd Year": "4900",
-                "3rd Year": "4900",
-                "4th Year": "4900",
-                "5th Year": "4900",
-                "6th Year": "4900"
-            },
-            {
-                "Particular": "<b>Fees in Indian Rupees (approx.)</b>",
-                "1st Year": "Rs.3.70 Lakhs",
-                "2nd Year": "Rs.3.43 Lakhs",
-                "3rd Year": "Rs.3.43 Lakhs",
-                "4th Year": "Rs.3.43 Lakhs",
-                "5th Year": "Rs.3.43 Lakhs",
-                "6th Year": "Rs.3.43 Lakhs"
-            },
-        ],
-    },
-    {
-        "type": "list-bollet",
-        "title": "",
-        "info" :"Note:",
-        "data": [
-             "1 CNY = Rs.10.60",
-             "Application, visa, flight tickets, etc. will cost extra up to Rs.80,000 to Rs.1,00,000/- (or more approximately).",
-             "Food charges will be separate per year.",
-             "The fees mentioned here are approximate and may change as per the change in currency."
-          ]
-      },
-      {
-        "type": "text",
-        "title": "MBBS Course Duration: Wenzhou Medical University",
-        "info" :"Mentioned below is the duration of MBBS course:",
-        "data": "<p>The duration of MBBS course at Wenzhou Medical University is 6 years which includes 1 year of internship.</p>"
-      },
-      {
-        type: 'table-title',
-        title: 'Courses Offered at Wenzhou Medical University',
-        info: 'The various faculties and departments present at Wenzhou Medical University are:',
-        row: [
-            ["General Medicine","Dentistry","Pharmacy"]
-        ]
-    },
-        
+            type: "meta",
+            meta: [
+                { name: "title", content: "Wenzhou Medical University - courses & Fees" },
+                { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee . check out courses and fees" },
+            ],
+        },
         {
-          type:"meta",
-          meta: [
-              { name: "title", content: "Wenzhou Medical University - courses & Fees" },
-              { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee . check out courses and fees" },
-          ],
-      },
-      {
-          type:"meta-title",
-          title: "Wenzhou Medical University - courses & Fees"},
-      {
-          type:"meta-links",
-          link: [
-              { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/courses-and-fees" }
-      ]}
-        ],
-        "admission":[
-          
-            {
-                "type": "list-bollet",
-                "title": "Eligibility Criteria",
-                "info" :"The eligibility criteria to study MBBS at Wenzhou Medical University is as follows:",
-                "data": [
-                     "Candidate’s age should be over 18 years and under 25 years.",
-                     "Candidate’s mental and physical health should be good.",
-                     "Students must have completed 12th standard of their education or any equivalent education with a minimum of 70% aggregate marks.",
-                     "Students must have studied Physics, Chemistry, and Biology in 12th standard as their main subjects.",
-                     "The applicant must possess a non-China nationality.",
-                     "Students must provide all the certificates at the time of admission and they must have good academic records.",
-                     "Applicants should have fluency in the English language.",
-                     "He/she should be physically and mentally fit."
-                  ]
-              },
-              {
-                "type": "step-list",
-                "title": "How to Apply for MBBS Admission at Wenzhou Medical University?",
-                "info":"Following is the admission procedure for applying to MBBS course at Wenzhou University:",
-                "data": [
+            type: "meta-title",
+            title: "Wenzhou Medical University - courses & Fees"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/courses-and-fees" }
+            ]
+        }
+    ],
+    "admission": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - Admission 2023'
+        },
+        {
+            "type": "list-bollet",
+            "title": "Eligibility Criteria",
+            "info": "The eligibility criteria to study MBBS at Wenzhou Medical University is as follows:",
+            "data": [
+                "Candidate’s age should be over 18 years and under 25 years.",
+                "Candidate’s mental and physical health should be good.",
+                "Students must have completed 12th standard of their education or any equivalent education with a minimum of 70% aggregate marks.",
+                "Students must have studied Physics, Chemistry, and Biology in 12th standard as their main subjects.",
+                "The applicant must possess a non-China nationality.",
+                "Students must provide all the certificates at the time of admission and they must have good academic records.",
+                "Applicants should have fluency in the English language.",
+                "He/she should be physically and mentally fit."
+            ]
+        },
+        {
+            "type": "step-list",
+            "title": "How to Apply for MBBS Admission at Wenzhou Medical University?",
+            "info": "Following is the admission procedure for applying to MBBS course at Wenzhou University:",
+            "data": [
                 "Step 1: Students who fit in the required eligibility criteria for Wenzhou Medical University must fill the application form of the university.",
                 "Step 2: Students must upload the required application documents.",
                 "Step 3: Students must be prepared with the photocopies or the scanned copies of the documents.",
@@ -482,295 +492,329 @@ export const wenzhoumedicaluniversity = {
                 "Step 5: The completed form along with the copies of the necessary documents should be submitted to the University by the candidate.",
                 "Step 6: Applicants must pay the necessary application fees.",
                 "Step 7: Once students track the admission status, they should get a proper visa and start their trip to the university."
-              ]
-              },
-              {
-                "type": "list-bollet",
-                "title": "Required Documents",
-                "info":"Following documents are required at the time of admission to Wenzhou Medical University:",
-                "data": [
-                  "10th Marksheet",
-                  "12th Marksheet",
-                  "Passport size photographs",
-                  "Physical Fitness / Medical Certificate",
-                  "Scorecard of NEET Exam",
-                  "Copy of passport (Having minimum 2 years validity)",
-                  "Gap Certificate (in case if a student is having any Gap in academic years)",
-                  "6 months bank statement of parents / guardian (having min balance equivalent to 1st year’s fee)",
-                  "Police Character Certificate"
-                  ]
-              },
-              {
-                "type":"table",
-                "title":"Important Dates: Intake 2023",
-                "info":"Check out the Important dates regarding admission at Wenzhou Medical University:",
-                "col": [
-                    "Events",
-                    "Dates"
-                ],
-                "row":[
-                    {
-                        "Events":"Application Start Date",
-                        "Dates":"May"
-                    },
-                    {
-                        "Events":"Invitation Letter",
-                        "Dates":"Within 1 Month"
-                    },
-                    {
-                        "Events":"Admission Start Date",
-                        "Dates":"September"
-                    },
-                    {
-                        "Events":"Last Date of Application",
-                        "Dates":"July"
-                    }
-                ]
-            },
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Required Documents",
+            "info": "Following documents are required at the time of admission to Wenzhou Medical University:",
+            "data": [
+                "10th Marksheet",
+                "12th Marksheet",
+                "Passport size photographs",
+                "Physical Fitness / Medical Certificate",
+                "Scorecard of NEET Exam",
+                "Copy of passport (Having minimum 2 years validity)",
+                "Gap Certificate (in case if a student is having any Gap in academic years)",
+                "6 months bank statement of parents / guardian (having min balance equivalent to 1st year’s fee)",
+                "Police Character Certificate"
+            ]
+        },
+        {
+            "type": "table",
+            "title": "Important Dates: Intake 2023",
+            "info": "Check out the Important dates regarding admission at Wenzhou Medical University:",
+            "col": [
+                "Events",
+                "Dates"
+            ],
+            "row": [
+                {
+                    "Events": "Application Start Date",
+                    "Dates": "May"
+                },
+                {
+                    "Events": "Invitation Letter",
+                    "Dates": "Within 1 Month"
+                },
+                {
+                    "Events": "Admission Start Date",
+                    "Dates": "September"
+                },
+                {
+                    "Events": "Last Date of Application",
+                    "Dates": "July"
+                }
+            ]
+        },
 
 
-          {
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Wenzhou Medical University - Admission 2023" },
                 { name: "description", content: "MBBS Fee Structure 2023 -Wenzhou Medical University offers China's best medical education with a very affordable fees." },
             ],
         },
         {
-            type:"meta-title",
-            title: "Wenzhou Medical University - Admission 2023"},
+            type: "meta-title",
+            title: "Wenzhou Medical University - Admission 2023"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/admission" }
-        ]}
-        ],
-        "review":[
-          
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Wenzhou Medical University - Reviews" },
-                  { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee. check out reviews" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Wenzhou Medical University - Reviews"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/reviews" }
-              ]
-          }
-      ],
-        "placement":[
+            ]
+        }
+    ],
+    "review": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - Reviews'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Wenzhou Medical University - Reviews" },
+                { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee. check out reviews" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Wenzhou Medical University - Reviews"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/reviews" }
+            ]
+        }
+    ],
+    "placement": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - Placement'
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "",
+            "data": [
+                "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE).",
+                "Young graduates may pursue jobs as doctors in India after obtaining their degree.",
+                "Wenzhou Medical University graduates may work at their own hospitals. Consequently, those with completed degrees are entitled to work at Wenzhou Medical University.",
+                "Wenzhou Medical University encourages graduates to continue their studies by offering further education choices."
+            ]
+        },
 
-            {
-                "type": "list-bollet",
-                "title": "",
-                "info":"",
-                "data": [
-                  "Graduates who pass the United States Medical Licensing Examination are eligible to work in various countries, including the United States (USMLE).",
-                  "Young graduates may pursue jobs as doctors in India after obtaining their degree.",
-                  "Wenzhou Medical University graduates may work at their own hospitals. Consequently, those with completed degrees are entitled to work at Wenzhou Medical University.",
-                  "Wenzhou Medical University encourages graduates to continue their studies by offering further education choices."
-                  ]
-              },
-          
-      {
-        type:"meta",
-        meta: [
-            { name: "title", content: "Wenzhou Medical University - Placement" },
-            { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee  - placement 2023, courses, admission procedure, details" },
-        ],
-    },
-    {
-        type:"meta-title",
-        title: "Wenzhou Medical University - Placement"},
-    {
-        type:"meta-links",
-        link: [
-            { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/placement" }
-    ]}
-        ],
-        "gallery":[
-         
-    
-    
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Wenzhou Medical University - Gallery"},
-                  { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee. click here for gallery informaton" },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Wenzhou Medical University - Gallery"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/gallery" }
-              ]
-          }
-      ],
-        "scholarship": [
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Wenzhou Medical University - Placement" },
+                { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee  - placement 2023, courses, admission procedure, details" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Wenzhou Medical University - Placement"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/placement" }
+            ]
+        }
+    ],
+    "gallery": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - Gallery'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Wenzhou Medical University - Gallery" },
+                { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee. click here for gallery informaton" },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Wenzhou Medical University - Gallery"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/gallery" }
+            ]
+        }
+    ],
+    "scholarship": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - Scholarship'
+        },
+        {
+            "type": "text",
+            "title": "Scholarships",
+            "info": "Following scholarships are offered at Wenzhou Medical University:",
+            "data": "<p>Chinese Government Scholarship can be acquired by the International students studying in China that is being awarded by the Chinese Scholarship Council (CSC).Based on the various criterias undergraduate and graduate students are awarded scholarships for different courses and they are encouraged for doing research as well.</p>"
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Following scholarships are offered by Wenzhou Medical University -",
+            "data": [
+                "Zhejiang Government Scholarship",
+                "Undergraduate Program of Chinese Government Scholarship",
+                "Postgraduate Program of Wenzhou Medical University Scholarship",
+                "Postgraduate Program of Chinese Government Scholarship"
+            ]
+        },
 
-            {
-                "type": "text",
-                "title": "Scholarships",
-                "info":"Following scholarships are offered at Wenzhou Medical University:",
-                "data":"<p>Chinese Government Scholarship can be acquired by the International students studying in China that is being awarded by the Chinese Scholarship Council (CSC).Based on the various criterias undergraduate and graduate students are awarded scholarships for different courses and they are encouraged for doing research as well.</p>"
-              },
-              {
-                "type": "list-bollet",
-                "title": "",
-                "info":"Following scholarships are offered by Wenzhou Medical University -",
-                "data": [
-                  "Zhejiang Government Scholarship",
-                  "Undergraduate Program of Chinese Government Scholarship",
-                  "Postgraduate Program of Wenzhou Medical University Scholarship",
-                  "Postgraduate Program of Chinese Government Scholarship"
-                  ]
-              },
-          
-          {
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Wenzhou Medical University - Scholarship" },
                 { name: "description", content: "Wenzhou Medical University offers China's best medical education with a very affordable fee. click here for gallery informaton.- check scholarship 2023 " },
             ],
         },
         {
-            type:"meta-title",
-            title: "Wenzhou Medical University - Scholarship"},
+            type: "meta-title",
+            title: "Wenzhou Medical University - Scholarship"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/scholarship" }
-        ]}
-        ],
-        "faculty": [
-          
-          {
-            type:"meta",
+            ]
+        }
+    ],
+    "faculty": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - Faculty'
+        },
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Wenzhou Medical University - Faculty" },
                 { name: "description", content: "Browse list of faculties offered from this University to choose from. Click here for departments" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Wenzhou Medical University - Faculty"},
+            type: "meta-title",
+            title: "Wenzhou Medical University - Faculty"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/faculty" }
-        ]}
-        ],
-        "news":[
-         
-    
-          {
-              type: "meta",
-              meta: [
-                  { name: "title", content: "Wenzhou Medical University - News & Articles" },
-                  { name: "description", content: "News and articles 2023 - Wenzhou Medical University offers China's best medical education with a very affordable fee." },
-              ],
-          },
-          {
-              type: "meta-title",
-              title: "Wenzhou Medical University - News & Articles"
-          },
-          {
-              type: "meta-links",
-              link: [
-                  { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/news-and-articles" }
-              ]
-          }
-      ],
-        "hostel": [
+            ]
+        }
+    ],
+    "news": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - News & Articles'
+        },
+        {
+            type: "meta",
+            meta: [
+                { name: "title", content: "Wenzhou Medical University - News & Articles" },
+                { name: "description", content: "News and articles 2023 - Wenzhou Medical University offers China's best medical education with a very affordable fee." },
+            ],
+        },
+        {
+            type: "meta-title",
+            title: "Wenzhou Medical University - News & Articles"
+        },
+        {
+            type: "meta-links",
+            link: [
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/news-and-articles" }
+            ]
+        }
+    ],
+    "hostel": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - Hostel'
+        },
+        {
+            "type": "list-bollet",
+            "title": "Hostel & Accommodation",
+            "info": "Following are the hostel facilities at Wenzhou Medical University:",
+            "data": [
+                "Wenzhou Medical University provides in-campus hostel facility to the international students.",
+                "The university has double rooms. Two persons share a room with an air conditioner, color TV, attached bathroom, telephone, bed with required amenities and furniture, free hot drinking water, water heater, refrigerator, etc.",
+                "Students also get internet access, public laundry and kitchen.",
+                "Students are required to pay for the water, electricity, and internet they use separately.",
+                "At this university, the accommodation fees are 4,000 yuan per year."
+            ]
+        },
 
-            {
-                "type": "list-bollet",
-                "title": "Hostel & Accommodation",
-                "info":"Following are the hostel facilities at Wenzhou Medical University:",
-                "data": [
-                  "Wenzhou Medical University provides in-campus hostel facility to the international students.",
-                  "The university has double rooms. Two persons share a room with an air conditioner, color TV, attached bathroom, telephone, bed with required amenities and furniture, free hot drinking water, water heater, refrigerator, etc.",
-                  "Students also get internet access, public laundry and kitchen.",
-                  "Students are required to pay for the water, electricity, and internet they use separately.",
-                  "At this university, the accommodation fees are 4,000 yuan per year."
-                  ]
-              },
-          
-          {
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Wenzhou Medical University - Hostel" },
                 { name: "description", content: "Wenzhou Medical University offers China's best medical education. click here for hostel information " },
             ],
         },
         {
-            type:"meta-title",
-            title: "Wenzhou Medical University - Hostel"},
+            type: "meta-title",
+            title: "Wenzhou Medical University - Hostel"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/hostel" }
-        ]}
-        ],
-        "faq": [
+            ]
+        }
+    ],
+    "faq": [
+        {
+            type: 'title',
+            title: 'Wenzhou Medical University - FAQ'
+        },
+        {
+            "type": "question-list",
+            "title": "Wenzhou Medical University: Important FAQs",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
+            "data": [
+                {
+                    "ques": "Q. Where can students do their internship?",
+                    "ans": "Students can do their internship in China or in their own countries. If they want to do it in China, it can be done in one of the 19 affiliated hospitals of Wenzhou Medical University."
+                },
+                {
+                    "ques": "Q. Does the university have international collaborations?",
+                    "ans": "Yes, the university has established partnerships with over 80 universities and institutions all across the globe, collaborating in scholar/student exchanges, joint research, joint education programs, etc."
+                },
+                {
+                    "ques": "Q. How is the library of Wenzhou Medical university?",
+                    "ans": "The university library has a collection of 2,250,000 volumes of books. Wenzhou Medical University publishes one academic newspaper and five academic Journals."
+                },
+                {
+                    "ques": "Q. Does the college have a canteen?",
+                    "ans": "Yes, there are 5 canteens in the college; you can choose any one as per your taste."
+                },
+                {
+                    "ques": "Q. How many international students are studying at Wenzhou Medical university?",
+                    "ans": "There are 700 international students studying at the university currently."
+                },
+                {
+                    "ques": "Q. How many different courses does the university have?",
+                    "ans": "Wenzhou Medical University offers medical programs in English to all the students as stated below:<br>- B.Pharmacy<br>- Medicine<br>- Radiology<br>- Plastic surgery<br>- Cardiology<br>- TCM<br>- General surgery<br>- Pathology<br>- Anesthesiology<br>- Orthopedics<br>- BDS<br>- MBBS<br>- Stomatology"
+                },
+            ]
+        },
 
-            {
-                "type": "question-list",
-                "title": "Wenzhou Medical University: Important FAQs",
-                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers360:",
-                "data": [
-                    {
-                      "ques": "Q. Where can students do their internship?",
-                      "ans": "Students can do their internship in China or in their own countries. If they want to do it in China, it can be done in one of the 19 affiliated hospitals of Wenzhou Medical University."
-                    },
-                    { "ques": "Q. Does the university have international collaborations?",
-                      "ans": "Yes, the university has established partnerships with over 80 universities and institutions all across the globe, collaborating in scholar/student exchanges, joint research, joint education programs, etc."
-                    },
-                    {
-                        "ques": "Q. How is the library of Wenzhou Medical university?",
-                        "ans": "The university library has a collection of 2,250,000 volumes of books. Wenzhou Medical University publishes one academic newspaper and five academic Journals."
-                    },
-                    {
-                        "ques": "Q. Does the college have a canteen?",
-                        "ans": "Yes, there are 5 canteens in the college; you can choose any one as per your taste."
-                    },
-                    {
-                        "ques": "Q. How many international students are studying at Wenzhou Medical university?",
-                        "ans": "There are 700 international students studying at the university currently."
-                    },
-                    {
-                        "ques": "Q. How many different courses does the university have?",
-                        "ans": "Wenzhou Medical University offers medical programs in English to all the students as stated below:<br>- B.Pharmacy<br>- Medicine<br>- Radiology<br>- Plastic surgery<br>- Cardiology<br>- TCM<br>- General surgery<br>- Pathology<br>- Anesthesiology<br>- Orthopedics<br>- BDS<br>- MBBS<br>- Stomatology"
-                    },
-                ]
-            },
-         
-          {
-            type:"meta",
+        {
+            type: "meta",
             meta: [
                 { name: "title", content: "Wenzhou Medical University - FAQ" },
                 { name: "description", content: "Wenzhou Medical University offers China's best medical education. check out faq" },
             ],
         },
         {
-            type:"meta-title",
-            title: "Wenzhou Medical University - FAQ"},
+            type: "meta-title",
+            title: "Wenzhou Medical University - FAQ"
+        },
         {
-            type:"meta-links",
+            type: "meta-links",
             link: [
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wenzhou-medical-university/faq" }
-        ]}
-      ],
-    
-      }
+            ]
+        }
+    ],
+
+}

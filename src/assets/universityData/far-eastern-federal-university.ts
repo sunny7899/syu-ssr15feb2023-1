@@ -22,7 +22,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "table-title",
             "title": "Far Eastern Federal University: Quick Highlights",
-            "info": "<b>Listed below are the key highlights of Far Eastern Federal University:</b>",
+            "info": "Listed below are the key highlights of Far Eastern Federal University:",
             "col": [
             ],
             "row": [
@@ -41,7 +41,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Far Eastern Federal University ?",
-            "info": "<b>Following are the advantages of studying MBBS at Far Eastern Federal University:</b>",
+            "info": "Following are the advantages of studying MBBS at Far Eastern Federal University:",
             "img": '',
             "data": [
                 "Far Eastern Federal University is Recognized and Approved by NMC & WHO.",
@@ -64,7 +64,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "table",
             "title": "Far Eastern Federal University - Ranking 2022",
-            "info": "<b>According to 4icu.org, following is the country and world ranking for Far Eastern Federal University:</b>",
+            "info": "According to 4icu.org, following is the country and world ranking for Far Eastern Federal University:",
             "col": [
                 "World	",
                 "Country",
@@ -82,7 +82,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "Accreditation and Recognition",
-            "info": "<b>Medical Degree from Far Eastern Federal University is fully accredited:</b>",
+            "info": "Medical Degree from Far Eastern Federal University is fully accredited:",
             "img": '',
             "data": [
                 "World Health Organization (WHO)",
@@ -95,7 +95,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "table",
             "title": "Cost of Living",
-            "info": "<b>Following table is showing the living cost of Vladivostok, Russia. It may vary according to Individuals personal expense:</b>",
+            "info": "Following table is showing the living cost of Vladivostok, Russia. It may vary according to Individuals personal expense:",
             "col": [
                 "Particular",
                 "Approx range in USD",
@@ -132,7 +132,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "<b>Major Attractions of the city are -</b>",
+            "info": "Major Attractions of the city are -",
             "col": [
             ],
             "row": [
@@ -166,9 +166,14 @@ export const fareasternfederaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Far Eastern Federal University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure is much affordable to all students coming from across the world:</b>",
+            "info": "The fee structure is much affordable to all students coming from across the world:",
             "col": [
                 "Particular",
                 "Year 1",
@@ -226,7 +231,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Far Eastern Federal University",
-            "info": "<b>The medicine program includes a wide range of faculties at Far Eastern Federal University:</b>",
+            "info": "The medicine program includes a wide range of faculties at Far Eastern Federal University:",
             "data": [
                 "Neurophysiology",
                 "Bioinformatics, Complex Systems Modeling",
@@ -245,7 +250,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "text",
             "title": "Far Eastern Federal University - MBBS Syllabus",
-            "info": '<p><b>The syllabus for MBBS in Russia is shown in the table below:</b></p>'
+            "info": 'The syllabus for MBBS in Russia is shown in the table below:'
         },
         {
             "type": "table",
@@ -359,9 +364,14 @@ export const fareasternfederaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - Admission 2023"
+
+        },
+        {
             "type": "table",
             "title": "Far Eastern Federal University - Academic Calendar 2022",
-            "info": "<b>Here are some Important dates to remember if you want to pursue medical career at Far Eastern Federal University:</b>",
+            "info": "Here are some Important dates to remember if you want to pursue medical career at Far Eastern Federal University:",
             "col": [
                 "Events",
                 "Dates"
@@ -386,7 +396,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>Students have to set in the following eligibility criteria to get admission to Russia for MBBS:</b>",
+            "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS:",
             "data": [
                 "Applicant should apply after completing 12th with Biology",
                 "General Category requires a minimum aggregate of 50% in PCB",
@@ -398,7 +408,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "step-list",
             "title": "Admission Process",
-            "info": "<b>Follow the admission procedure given below to pursue MBBS in Russia:</b>",
+            "info": "Follow the admission procedure given below to pursue MBBS in Russia:",
             "data": [
                 "<b>Step 1:</b> Fill up the online admission form",
                 "<b>Step 2:</b> Applicants must submit all-important academic documents.",
@@ -411,7 +421,7 @@ export const fareasternfederaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Students need to have the following documents for the admission process:</b>",
+            "info": "Students need to have the following documents for the admission process:",
             "data": [
                 "Application form",
                 "11th and 12th documents",
@@ -444,6 +454,11 @@ export const fareasternfederaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Far Eastern Federal University (FEFU) - Reviews" },
@@ -462,6 +477,11 @@ export const fareasternfederaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -492,6 +512,11 @@ export const fareasternfederaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Far Eastern Federal University (FEFU) - Gallery" },
@@ -511,9 +536,14 @@ export const fareasternfederaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - Scholarship"
+
+        },
+        {
             "type": "table",
             "title": "scholarship",
-            "info": "<b>Tuition is waived for the duration of the program's study. Monthly payment based on your selected programme and academic success at FEFU:</b>",
+            "info": "Tuition is waived for the duration of the program's study. Monthly payment based on your selected programme and academic success at FEFU:",
             "col": [
                 "Courses",
                 "Amount",
@@ -553,6 +583,11 @@ export const fareasternfederaluniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - Faculty"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Far Eastern Federal University (FEFU) - Faculty" },
@@ -572,6 +607,11 @@ export const fareasternfederaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Far Eastern Federal University (FEFU) - News & Articles" },
@@ -590,11 +630,15 @@ export const fareasternfederaluniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - Hostel"
 
+        },
         {
             "type": "list-bollet",
             "title": "Hostel and Food Facility",
-            "info": "<b>Far Eastern Federal University provides fully furnished hostel facility to students who came across the world:</b>",
+            "info": "Far Eastern Federal University provides fully furnished hostel facility to students who came across the world:",
             "data": [
                 "Fully furnished rooms with separate wings for boys and girls",
                 "Centralized heating facility",
@@ -648,9 +692,14 @@ export const fareasternfederaluniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Far Eastern Federal University (FEFU) - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Far Eastern Federal University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. Are the parents allowed at the campus of Far Eastern Federal University?",

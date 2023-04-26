@@ -21,7 +21,7 @@ export const yangzhouuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Important Highlights</b>",
+            "info": "Important Highlights",
             "data": [
                 "33,000 UG & 9000 PG students",
                 "110 UG programs in 12 discipline",
@@ -71,12 +71,12 @@ export const yangzhouuniversity = {
                 ["<b>World Ranking	</b>", "895"],
                 ["<b>Country Ranking	</b>", "91"]
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> CWUR has been publishing the only academic ranking of global universities that assesses the quality of education, alumni employment, research output, and citations without relying on surveys and university data submissions.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> CWUR has been publishing the only academic ranking of global universities that assesses the quality of education, alumni employment, research output, and citations without relying on surveys and university data submissions.</p>'
         },
         {
             "type": "list-bollet",
             "title": "About Yangzhou City",
-            "info": "<b></b>",
+            "info": "",
             "img": 'https://www.selectyouruniversity.com/images/china/about-yangzhou-city.jpg',
             "data": [
                 "In the middle of Jiangsu Province, Yangzhou is located.",
@@ -109,6 +109,10 @@ export const yangzhouuniversity = {
         }
     ],
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'Yangzhou University, China - courses & Fees'
+        },
         {
             "type": "table",
             "title": "Fee Structure for MBBS Course at Yangzhou University",
@@ -151,7 +155,7 @@ export const yangzhouuniversity = {
                     "Amount (RMB)": "500-1000/month"
                 }
             ],
-            heading: '<p><b style="color: red;"><u>Note:</u></b> Thus, the total cost of MBBS in Yangzhou University for Indian students comes out to be Rs.20-22 lakhs approximately.</p>'
+            "heading": '<p><b style="color: red;"><u>Note:</u></b> Thus, the total cost of MBBS in Yangzhou University for Indian students comes out to be Rs.20-22 lakhs approximately.</p>'
         },
         {
             "type": "text",
@@ -161,7 +165,7 @@ export const yangzhouuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Following is the list of different types of medical courses offered by the university :</b>",
+            "info": "Following is the list of different types of medical courses offered by the university :",
             "data": [
                 "Pharmacy Program",
                 "Nursing Program",
@@ -191,9 +195,13 @@ export const yangzhouuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'Yangzhou University, China - Admission 2023'
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria: For MBBS Course",
-            "info": "<b>Below are the few eligibility criteria one should perfectly fit to study MBBS in Yangzhou University :</b>",
+            "info": "Below are the few eligibility criteria one should perfectly fit to study MBBS in Yangzhou University :",
             "data": [
                 "Applicants must clear higher secondary education with compulsory subjects of Physics, Chemistry & Biology from a recognized university.",
                 "The students must have scored an aggregate of 50% marks as minimum qualifying marks at their 10+2 level.",
@@ -227,7 +235,7 @@ export const yangzhouuniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Below are the documents required for study visa to China :</b>",
+            "info": "Below are the documents required for study visa to China :",
             "data": [
                 "Passport",
                 "Original JW Study Visa Form",
@@ -255,6 +263,10 @@ export const yangzhouuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'Yangzhou University, China - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yangzhou University, China - Reviews" },
@@ -273,6 +285,10 @@ export const yangzhouuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: 'Yangzhou University, China - Placement'
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -304,6 +320,10 @@ export const yangzhouuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'Yangzhou University, China - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yangzhou University, China - Gallery" },
@@ -323,9 +343,13 @@ export const yangzhouuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'Yangzhou University, China - Scholarship'
+        },
+        {
             "type": "list-bollet",
             "title": "Scholarships at Yangzhou University",
-            "info": "<b>At Yangzhou University, scholarships offered to students are :</b>",
+            "info": "At Yangzhou University, scholarships offered to students are :",
             "data": [
                 "Chinese Government Scholarship",
                 "Confucious Institute Scholarship",
@@ -354,6 +378,10 @@ export const yangzhouuniversity = {
     ],
     "faculty": [
         {
+            type: 'title',
+            title: 'Yangzhou University, China - Faculty'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yangzhou University, China - Faculty" },
@@ -373,6 +401,10 @@ export const yangzhouuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'Yangzhou University, China - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Yangzhou University, China - News & Articles" },
@@ -391,6 +423,10 @@ export const yangzhouuniversity = {
         }
     ],
     "hostel": [
+        {
+            type: 'title',
+            title: 'Yangzhou University, China - Hostel'
+        },
         {
             "type": "list-bollet",
             "title": "Accommodation Facilities for International Students",
@@ -424,9 +460,13 @@ export const yangzhouuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'Yangzhou University, China - FAQ'
+        },
+        {
             "type": "question-list",
             "title": "Yangzhou University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many international students are studying at the university currently?",

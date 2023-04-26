@@ -1,10 +1,11 @@
 export const bacheloroftechnologybtech = {
     "Title": "Engineering in India (B.tech)",
-    "shortTitle": " Engineering in India (B.tech)",
+    "shortTitle": "Engineering in India (B.tech)",
     "location": " ",
     "type": "",
     "rating": "",
     "shareLink": "",
+    "Duration": '4 Years',
     "url": "bachelor-of-technology-btech",
     "info": [
         {
@@ -16,13 +17,13 @@ export const bacheloroftechnologybtech = {
             type: 'text',
             title: '',
             //img: 'https://www.selectyouruniversity.com/images/btech-courses-in-india.jpg',
-            data: '<p>B.tech is basically bachelor of technology course affiliated with a technical background. B.tech is the skill-oriented course. Apart from B.Tech, there is another course namely B.E. Perspective of both is the same, only the purpose is different. B.E/B.tech is the four-year undergraduate programme provided for students who want to pursue a career in the technical field.</p><br><p>There are various options are provided for students depending upon the area of interest. The one having an interest in computer and accessories can become a software engineer. Similarly, the fields like Mechanical engineering, Civil engineering, Electronic, and telecommunications provides a platform for students who want to become an engineer.</p><br><p>The basic criteria for students to apply for engineering is that he must be 12th pass. There are various top-ranked government colleges as well as private colleges who offer a degree relevant to the engineering field.</p>'
+            data: '<p>B.tech is basically bachelor of technology course affiliated with a technical background. B.tech is the skill-oriented course. Apart from B.Tech, there is another course namely B.E. Perspective of both is the same, only the purpose is different. B.E/B.tech is the four-year undergraduate programme provided for students who want to pursue a career in the technical field.</p><p>There are various options are provided for students depending upon the area of interest. The one having an interest in computer and accessories can become a software engineer. Similarly, the fields like Mechanical engineering, Civil engineering, Electronic, and telecommunications provides a platform for students who want to become an engineer.</p><p>The basic criteria for students to apply for engineering is that he must be 12th pass. There are various top-ranked government colleges as well as private colleges who offer a degree relevant to the engineering field.</p>'
         },
 
         {
             "type": "table-title",
             "title": "B.tech Course - Overview",
-            "info": "<b> B.E/B.tech is the 4 year undergraduate course. The duration of the course varies as per institutes. Many colleges offer B.tech course in the various discipline. The following table gives a detail view of course:</b>",
+            "info": " B.E/B.tech is the 4 year undergraduate course. The duration of the course varies as per institutes. Many colleges offer B.tech course in the various discipline. The following table gives a detail view of course:",
             "col": [
             ],
             "row": [
@@ -95,7 +96,7 @@ export const bacheloroftechnologybtech = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>MH-CET - Examination Pattern</b>",
+            "info": "MH-CET - Examination Pattern",
             "img": '',
             "data": [
                 "A test will be carried out by Computer-based Test (CBT).",
@@ -114,7 +115,7 @@ export const bacheloroftechnologybtech = {
         {
             "type": "table",
             "title": "Structure of MHT-CET exam",
-            "info": "<b></b>",
+            "info": "",
             "col": [
                 "Subject",
                 "No.of Questions",
@@ -170,50 +171,50 @@ export const bacheloroftechnologybtech = {
             type: 'text',
             title: 'Types of Candidates:',
             info: 'Type A',
-            data: '<p><b>Type A</b></p><p>Candidate having domicile of Maharashtra state. Candidates completing SSC/HSC/Bachelor of Science courses from a recognized institution of Maharashtra state.</p> '
+            data: '<p>Candidate having domicile of Maharashtra state. Candidates completing SSC/HSC/Bachelor of Science courses from a recognized institution of Maharashtra state.</p> '
         },
 
         {
             type: 'text',
             title: '',
             info: 'Type B',
-            data: '<p><b>Type B</b></p><p>A candidate who does not belong to type A but the nominee( Mother/Father) having the domicile of Maharashtra state.</p> '
+            data: '<p>A candidate who does not belong to type A but the nominee( Mother/Father) having the domicile of Maharashtra state.</p> '
         },
         {
             type: 'text',
             title: '',
             info: 'Type C',
-            data: '<p><b>Type C</b></p><p> A candidate who does not belong to type A or type B but whose Father/Mother is an employee of Government of India.</p> '
+            data: '<p> A candidate who does not belong to type A or type B but whose Father/Mother is an employee of Government of India.</p> '
         },
         {
             type: 'text',
             title: '',
             info: ' Type D',
-            data: '<p><b>Type D</b></p><p>A candidate who does not belong to type A, type B & type C but whose Father/Mother is a retired employee of Government of Maharashtra.</p> '
+            data: '<p>A candidate who does not belong to type A, type B & type C but whose Father/Mother is a retired employee of Government of Maharashtra.</p> '
         },
         {
             type: 'text',
             title: '',
             info: 'Type E',
-            data: '<p><b>Type E</b></p><p>A candidate who completed 12th examination from recognizing institution located on Maharashtra Karnataka Border area.</p> '
+            data: '<p>A candidate who completed 12th examination from recognizing institution located on Maharashtra Karnataka Border area.</p> '
         },
         {
             type: 'text',
             title: '',
             info: 'All India Candidate',
-            data: '<p><b>All India Candidate</b></p><p> Candidate having an Indian nationality are applicable under this category.</p> '
+            data: '<p> Candidate having an Indian nationality are applicable under this category.</p> '
         },
         {
             type: 'text',
             title: '',
             info: 'Minority candidate',
-            data: '<p><b>Minority candidate</b></p><p>Candidate belonging to minority cast notify by the government of Maharashtra are eligible for this category.</p> '
+            data: '<p>Candidate belonging to minority cast notify by the government of Maharashtra are eligible for this category.</p> '
         },
         {
             type: 'text',
             title: '',
             info: 'Jammu & Kashmir(J&K) Migrant Candidate',
-            data: '<p><b>Jammu & Kashmir(J&K) Migrant Candidate</b></p><p>The candidates who are displaced from Jammu & Kashmir to any other part of India. The candidates whose Father/Mother are IAS/IPS/IFS officers.</p> '
+            data: '<p>The candidates who are displaced from Jammu & Kashmir to any other part of India. The candidates whose Father/Mother are IAS/IPS/IFS officers.</p> '
         },
         {
             type: 'text',
@@ -224,7 +225,7 @@ export const bacheloroftechnologybtech = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Here ,we have listed the best set of reference books:</b>",
+            "info": "Here ,we have listed the best set of reference books:",
             "img": '',
             "data": [
                 "Digital Integrated Electronics by Taub and Schilling",
@@ -246,7 +247,7 @@ export const bacheloroftechnologybtech = {
         {
             "type": "table",
             "title": "B.tech Course: Complete Syllabus",
-            "info": "<b> Syllabus of MHT-CET includes 80% weightage of class 12th curriculum and 20% weightage of Class 10th curriculum:</b>",
+            "info": " Syllabus of MHT-CET includes 80% weightage of class 12th curriculum and 20% weightage of Class 10th curriculum:",
             "col": [
                 "Subjects",
                 "Chapters",
@@ -286,9 +287,13 @@ export const bacheloroftechnologybtech = {
     ],
     "syllabus":[
         {
+            type: 'title',
+            title: 'B.tech in India 2023 - Syllabus'
+        },
+        {
             "type": "table",
             "title": "B.tech Course: Complete Syllabus",
-            "info": "<b>Syllabus of MHT-CET includes 80% weightage of class 12th curriculum and 20% weightage of Class 10th curriculum:</b>",
+            "info": "Syllabus of MHT-CET includes 80% weightage of class 12th curriculum and 20% weightage of Class 10th curriculum:",
             "col": [
                 "Subjects",
                 "Chapters",
@@ -313,7 +318,7 @@ export const bacheloroftechnologybtech = {
         {
             "type": 'list-bollet',
             "title": 'All About B.tech Course',
-            "info": '<p>Course Description</p><p><b>B.tech is the four-year undergraduate degree awarded to students who want to pursue a career in the technical field. M.E/M.tech are the advanced courses available after completing B.tech. The candidate with 12th pass having minimum 50% aggregate is the basic criteria for B.tech education. The salary offered for candidates after B.tech is about 15,000 to 25,000 per month.</b></p><p>B.tech Course - Syllabus</p>',
+            "info": 'Course Description B.tech is the four-year undergraduate degree awarded to students who want to pursue a career in the technical field. M.E/M.tech are the advanced courses available after completing B.tech. The candidate with 12th pass having minimum 50% aggregate is the basic criteria for B.tech education. The salary offered for candidates after B.tech is about 15,000 to 25,000 per month. B.tech Course - Syllabus',
             "data": [
                 "The syllabus also varies as per institutes and universities.",
                 "There are 2 semesters per year having five subjects per semesters.",
@@ -324,85 +329,85 @@ export const bacheloroftechnologybtech = {
         {
             type: 'text',
             title: 'B.E/B.Tech Course - Specialization',
-            info: '<b>B.E/B.Tech Course - Specialization</b>',
+            info: 'B.E/B.Tech Course - Specialization',
             data: '<p>The B.tech in mechanical engineering is the four-year undergraduate programme deals with the study of mechanical artifacts like a flow of fluid, component design, statistical analysis, stress analysis, and computational dynamics.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Chemical Engineering</b>',
+            info: 'Chemical Engineering',
             data: '<p>The B.tech in chemical engineering is the four-year undergraduate programme deals with a study of chemical processes, maintenance of chemical plants for the production of chemicals and raw material into valuable forms.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Electric Engineering</b>',
+            info: 'Electric Engineering',
             data: '<p>An electric engineering deals with study and application of electricity, electronics, and electromagnetism. The electrical engineer has to design, develop, supervise & moderate electrical equipment components.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Electronic and Telecommunication</b>',
+            info: 'Electronic and Telecommunication',
             data: '<p>An Electronic and Telecommunication engineer should have to develop prototypes of integrated circuit components. An engineer should have to study various aspects related to telecommunication equipment. An Electronic and Telecommunication engineer is responsible for the installation of electronic and telecommunication equipment.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Computer Engineering</b>',
+            info: 'Computer Engineering',
             data: '<p>Computer Engineering focuses the detail infra and structure of computer-aided components. It integrates with the field of computer science and electronics to develop computer software and hardware.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Automobile Engineering</b>',
+            info: 'Automobile Engineering',
             data: '<p>An Automobile engineering is a branch which deals with a study of mechanical mechanism and operations of automobiles like motorcycles, cars, buses, trucks etc.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Aeronautical Engineering</b>',
+            info: 'Aeronautical Engineering',
             data: '<p>Aeronautical engineering is a four-year programme for undergraduate students. The programme is for those students who want to make a career in aircraft, airplanes. space shuttles. The course involved with study, design & manufacture of flight-capable machines, or techniques of operating aircraft. The aerospace engineers responsible for the research, design & production of aircraft, spacecraft, missiles and aerospace equipment. In India, aeronautical engineers are mostly employed by ISRO (Indian space research organization)</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Petroleum Engineering</b>',
+            info: 'Petroleum Engineering',
             data: '<p>Petroleum Engineering is the 4-year undergraduate engineering course related to the production of hydrocarbons, which can be either crude oil or natural gas. Petroleum engineers should have to work with geologists, contractors. Some of the positions offered to petroleum engineers are Reservoir engineer, Technical support engineer for the petroleum segment, petroleum technologist, senior geoscientist etc.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Agriculture Engineering</b>',
+            info: 'Agriculture Engineering',
             data: '<p>B.Tech in agriculture engineering is basically for those students, who have a vast interest in the agriculture field. It is the course which mainly focuses on creation and development of tools of farm machinery in case of an agricultural field. Water resource management, forestry, urban and rural development crop storage, and processing are the basic functional areas for agriculture engineer.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Food Technology</b>',
+            info: 'Food Technology',
             data: '<p>B.Tech in food technology deals with techniques and principles involved a study of processing and preserving the food substances. Food technologists are in demand in sectors such as hotels, quality control, soft drink factories, packaging industries, hospitals etc.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Marine Engineering</b>',
+            info: 'Marine Engineering',
             data: '<p>B.Tech in marine engineering deals with nautical architecture and science. Marine Engineering is basically all about construction and maintenance of ships and sailing vessels. The demand of marine engineers in public and private sector companies has risen sharply, with an increase in international global sea traffic.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Biotechnology</b>',
+            info: 'Biotechnology',
             data: '<p>B.Tech in biotechnology focuses on a study of applications related to biological systems or living organisms. Biotechnologist can be employed in pharmaceutical companies food industries, chemical and agricultural industries.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Textile Engineering</b>',
+            info: 'Textile Engineering',
             data: '<p>B.Tech in Textile Engineering is the study of textile production, manufacturing of various types of fabrics, a principle of engineering with basics of textile equipment. The graduates in this field are employed in various textile plants and companies varying from small to large scale departments.</p> '
         },
         {
             type: 'text',
             title: '',
-            info: '<b>Nanotechnology</b>',
+            info: 'Nanotechnology',
             data: '<p>B.Tech in nanotechnology is the 4-year undergraduate course in nanotechnology. The candidate having a strong interest in molecular, atomic research can prefer nanotechnology course for career perspective. Nanotechnology is the study of manipulating a matter of molecular & atomic structure on a small and large scale.</p> '
         },
         {
@@ -434,6 +439,10 @@ export const bacheloroftechnologybtech = {
             ]}
     ],
     "topcolleges": [
+        {
+            type: 'title',
+            title: 'B.tech in India 2023 - Top Colleges in India'
+        },
         {
             "type": "table",
             "title": "B.tech Course - Fee Structure",
@@ -514,6 +523,10 @@ export const bacheloroftechnologybtech = {
     ],
     "careeroptions": [
         {
+            type: 'title',
+            title: 'B.tech in India 2023 - Career Options'
+        },
+        {
             "type": 'list-bollet',
             "title": 'Career Prospects',
             "info": 'Private as well as public sectors also recruit the engineers. Depending upon skills and knowledge candidate can get a job in the reputed organization:',
@@ -564,6 +577,10 @@ export const bacheloroftechnologybtech = {
             ]}
     ],
     "faq":[
+        {
+            type: 'title',
+            title: 'B.tech in India 2023 - FAQ'
+        },
         {
             type: 'meta',
             meta: [

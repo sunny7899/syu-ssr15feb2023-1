@@ -20,7 +20,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "table-title",
             "title": "Plovdiv Medical University: Quick Highlights 2022",
-            "info": "<b>Here are some quick overview which needed to be checked by students for MBBS admission at The Plovdiv Medical University:</b>",
+            "info": "Here are some quick overview which needed to be checked by students for MBBS admission at The Plovdiv Medical University:",
             "col": [],
             "row": [
                 ["<b>Intake for MBBS Course	</b>", "December"],
@@ -35,7 +35,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Why Study MBBS at Plovdiv Medical University?",
-            "info": "<b>Check out some important benefits behind studying MBBS course from Plovdiv Medical University:</b>",
+            "info": "Check out some important benefits behind studying MBBS course from Plovdiv Medical University:",
             "data": [
                 "The students will experience low living cost while doing MBBS at Plovdiv Medical University.",
                 "The medium of teaching is the English language for medicine course.",
@@ -59,7 +59,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "table",
             "title": "Plovdiv Medical University: Ranking 2022",
-            "info": "<b>When it comes to ranking, The Plovdiv Medical University has the best rankings according to uni rank, the students must check out the table:</b>",
+            "info": "When it comes to ranking, The Plovdiv Medical University has the best rankings according to uni rank, the students must check out the table:",
             "col": [
                 "Country",
                 "World",
@@ -75,7 +75,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Recognition and Accreditations",
-            "info": "<b>The university is affiliated, acknowledged and accredited by many authorities mentioned below:</b>",
+            "info": "The university is affiliated, acknowledged and accredited by many authorities mentioned below:",
             "data": [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)"
@@ -84,7 +84,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Plovdiv Medical University",
-            "info": "<b>The Institute provide well-equipped facilities at the comfort zone of the students coming to learn MBBS:</b>",
+            "info": "The Institute provide well-equipped facilities at the comfort zone of the students coming to learn MBBS:",
             "data": [
                 "Laboratory equipped with modern equipment",
                 "Free Internet connectivity.",
@@ -108,7 +108,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "table",
             "title": "Living Cost of Plovdiv",
-            "info": "<b>The living cost of Plovdiv, Bulgaria is affordable during medical education at Plovdiv Medical University, students should go through the table mentioned below according to monthly expenses:</b>",
+            "info": "The living cost of Plovdiv, Bulgaria is affordable during medical education at Plovdiv Medical University, students should go through the table mentioned below according to monthly expenses:",
             "col": [
                 "Activity",
                 "Amount in USD",
@@ -131,7 +131,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "About Plovdiv City",
-            "info": "<b>Let’s get to know about the Plovdiv city where the institute is located:</b>",
+            "info": "Let’s get to know about the Plovdiv city where the institute is located:",
             "img": 'https://www.selectyouruniversity.com/images/bulgaria-universities/sofia-city.jpg',
             "data": [
                 "Plovdiv is the second-largest city in Bulgaria.",
@@ -142,7 +142,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Check out the top best places in Plovdiv city -</b>",
+            "info": "Check out the top best places in Plovdiv city -",
             "data": [
                 "Ancient Theater of Philippopolis",
                 "Ancient Town Of Plovdiv - Architectural Reserve",
@@ -175,9 +175,14 @@ export const plovdivmedicaluniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Plovdiv Medical University, Bulgaria - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Plovdiv Medical University: MBBS Fee Structure 2022",
-            "info": "<b>The Fee structure of Plovdiv Medical University is quite reasonable as compared to another university to pursue MBBS:</b>",
+            "info": "The Fee structure of Plovdiv Medical University is quite reasonable as compared to another university to pursue MBBS:",
             "col": [
                 "Tuition Fees per Year",
                 "Bulgaria Language",
@@ -205,7 +210,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Courses offered at Plovdiv Medical University",
-            "info": "<b>Candidates must go through into some of the faculties of Plovdiv Medical University:</b>",
+            "info": "Candidates must go through into some of the faculties of Plovdiv Medical University:",
             "data": [
                 "Medicine",
                 "Dental Medicine",
@@ -216,7 +221,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Plovdiv Medical University: MBBS Duration",
-            "info": "<b>Plovdiv Medical University serves 6 years MBBS course duration:</b>",
+            "info": "Plovdiv Medical University serves 6 years MBBS course duration:",
             "data": [
                 "The students should complete 6 years of medicine program which will be taught in English and Bulgarian language through experienced and dedicated faculty members.",
                 "Plovdiv Medical University provides theoretical as well as practical classes for teaching basic medicine programs for 5 years.",
@@ -227,7 +232,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "table",
             "title": "Plovdiv Medical University: MBBS Syllabus",
-            "info": "<b>The medical aspirants must check out the study pattern of medicine program at Plovdiv Medical University:</b>",
+            "info": "The medical aspirants must check out the study pattern of medicine program at Plovdiv Medical University:",
             "Data": "1st Year",
             "col": [
                 "1st Semester",
@@ -339,9 +344,14 @@ export const plovdivmedicaluniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Plovdiv Medical University, Bulgaria - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The students striving to enroll in MBBS at this institute have to be met with the requirements:</b>",
+            "info": "The students striving to enroll in MBBS at this institute have to be met with the requirements:",
             "data": [
                 "The age of the candidate must be 17 years old as on 31st December of the admission year.",
                 "The applicant must obtain at least 50% marks in the higher secondary examination or equivalent examination from the recognised board.",
@@ -353,7 +363,7 @@ export const plovdivmedicaluniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The students who seek to get MBBS at Plovdiv Medical University must follow the mentioned below steps:</b>',
+            info: 'The students who seek to get MBBS at Plovdiv Medical University must follow the mentioned below steps:',
             data: [
                 "Step 1: Candidates must submit the correctly filled application form.",
                 "Step 2: The candidates must submit the educational certificates and other essential documents required for MBBS admission.",
@@ -366,7 +376,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>The students must bring the important documents required during MBBS admission process at Plovdiv Medical University:</b>",
+            "info": "The students must bring the important documents required during MBBS admission process at Plovdiv Medical University:",
             "data": [
                 "The candidate must submit the correct filled application form.",
                 "Students should submit the diploma certificate for completed secondary education (original and copy).",
@@ -386,7 +396,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "table",
             "title": "Important Dates: Intake 2022",
-            "info": "<b>Always stay active to know about the admission dates of Plovdiv Medical University:</b>",
+            "info": "Always stay active to know about the admission dates of Plovdiv Medical University:",
             "col": [
                 "Events",
                 "Dates",
@@ -426,6 +436,11 @@ export const plovdivmedicaluniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Plovdiv Medical University, Bulgaria - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Plovdiv Medical University, Bulgaria - Reviews" },
@@ -444,6 +459,11 @@ export const plovdivmedicaluniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Plovdiv Medical University, Bulgaria - Placement"
+
+        },
         {
             type: "meta",
             meta: [
@@ -464,6 +484,11 @@ export const plovdivmedicaluniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Plovdiv Medical University, Bulgaria - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Plovdiv Medical University, Bulgaria - Gallery" },
@@ -483,9 +508,14 @@ export const plovdivmedicaluniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Plovdiv Medical University, Bulgaria - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Following are the scholarships offered by the Plovdiv Medical University for making full use of it have a look -</b>",
+            "info": "Following are the scholarships offered by the Plovdiv Medical University for making full use of it have a look -",
             "data": [
                 "Rector’s award"
             ]
@@ -509,6 +539,11 @@ export const plovdivmedicaluniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Plovdiv Medical University, Bulgaria - Faculty"
+
+        },
         {
             "type": "table",
             "title": "faculty",
@@ -556,6 +591,11 @@ export const plovdivmedicaluniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Plovdiv Medical University, Bulgaria - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Plovdiv Medical University, Bulgaria - News & Articles" },
@@ -575,9 +615,14 @@ export const plovdivmedicaluniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Plovdiv Medical University, Bulgaria - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Plovdiv Medical University offers its accommodation facilities to the students which is well equipped with all amenities:</b>",
+            "info": "Plovdiv Medical University offers its accommodation facilities to the students which is well equipped with all amenities:",
             "data": [
                 "The hostel rooms are comfortably furnished.",
                 "The dormitories have a total of 1465 beds which is distributed in three blocks.",
@@ -592,7 +637,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>Hostel system has many more things for the convenience of students -</b>",
+            "info": "Hostel system has many more things for the convenience of students -",
             "data": [
                 "2 libraries",
                 "2 reading rooms in the hostel with 120 places for self - preparation",
@@ -607,7 +652,7 @@ export const plovdivmedicaluniversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "<b>The hostel his well equipped with all modern amenities at student comfort zone -</b>",
+            "info": "The hostel his well equipped with all modern amenities at student comfort zone -",
             "data": [
                 "Pillow",
                 "Blanket",
@@ -650,9 +695,14 @@ export const plovdivmedicaluniversity = {
     "faq":
         [
             {
+                type: 'title',
+                title: "Plovdiv Medical University, Bulgaria - FAQ"
+
+            },
+            {
                 "type": "question-list",
                 "title": "Plovdiv Medical University: Important FAQs",
-                "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+                "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
                 "data": [
                     {
                         "ques": "Q. Is Plovdiv Medical University officially recognised?",

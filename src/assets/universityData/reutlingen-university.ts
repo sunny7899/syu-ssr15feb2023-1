@@ -16,11 +16,10 @@ export const reutlingenuniversity = {
             "title": "",
             "data": "<p><b>Reutlingen University</b> is considered to be the most prestigious university in Germany and thousands of students are heading towards this institute to build a bright career in MBA.</p><p>Reutlingen University is a higher education centre founded by Dr Rene Lecach, established a strong base in 1971 and located in the city of Reutlingen, Germany.</p><p>Reutlingen University has aimed to offer assistance to the students in achieving a successful career in life and always doing their best to meet the modern needs of the students by providing great teaching & learning environment, having highly qualified professionals, the latest teaching methodologies and technologies, comfortable residential facilities, globally recognised degree and quality education at affordable price.</p><p>The MBA International Management Full-Time prepares highly qualified young managers without a business degree for the management of global companies.</p><p><b><i>If the students want to get actively involved in college life, then this is the right place!</i></b></p>"
         },
-
         {
             "type": "table-title",
             "title": "Reutlingen University - Quick Overview",
-            "info": "<b>To enroll in Reutlingen University is a crucial step in student life, Let us assist you with key facts students for enrollment:</b>",
+            "info": "To enroll in Reutlingen University is a crucial step in student life, Let us assist you with key facts students for enrollment:",
             "row": [
                 ["<b>Application Time</b>", "MBA: August"],
                 ["<b>Intake Date</b>", "MBA: Full-Time: October<br>Part-Time: March"],
@@ -35,7 +34,7 @@ export const reutlingenuniversity = {
         {
             type: 'list-bollet',
             title: 'Why Study MBA at Reutlingen University?',
-            info: '<b>The students who will earn high-quality MBA education must choose Reutlingen University:</b>',
+            info: 'The students who will earn high-quality MBA education must choose Reutlingen University:',
             data: [
                 "Reutlingen University has highly skilled professors and if the students are doubtful then they can ask lecturers, professors or employees.",
                 "The University has an international environment due to the students coming to study from different corners with different cultural backgrounds.",
@@ -54,7 +53,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": "Reutlingen University - Ranking 2022",
-            "info": "<b>The students willing to study MBA at Reutlingen University must refer to the un irank to know the world and country rankings:</b>",
+            "info": "The students willing to study MBA at Reutlingen University must refer to the un irank to know the world and country rankings:",
             "col": [
                 "Country",
                 "World",
@@ -70,7 +69,7 @@ export const reutlingenuniversity = {
         {
             "type": "list-bollet",
             "title": "Facilities Provided at Reutlingen University",
-            "info": "<b>Reutlingen University offers various modern facilities to the students who are looking to study for an MBA:</b>",
+            "info": "Reutlingen University offers various modern facilities to the students who are looking to study for an MBA:",
             "data": [
                 "Hostel",
                 "Internet",
@@ -127,7 +126,7 @@ export const reutlingenuniversity = {
         {
             type: 'list-bollet',
             title: 'Accreditation & Memberships',
-            info: '<b>The MBA program has official accreditation and memberships mentioned below:</b>',
+            info: 'The MBA program has official accreditation and memberships mentioned below:',
             data: [
                 "The University is accredited by the Association to Advance Collegiate Schools of Business (AACSB)",
                 "Reutlingen University has accreditation by FIBAA."
@@ -136,7 +135,7 @@ export const reutlingenuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Memberships</b>',
+            info: 'Memberships',
             data: [
                 "AACSB International (The Association to Advance Collegiate Schools of Business)",
                 "DFH (German-French University)",
@@ -147,7 +146,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": 'Living Cost of Reutlingen, Germany',
-            "info": "<b>The table given below provides an estimate of monthly living expenses in Reutlingen, it may vary according to the student's personal lifestyle:</b>",
+            "info": "The table given below provides an estimate of monthly living expenses in Reutlingen, it may vary according to the student's personal lifestyle:",
             "col": [
                 "Particulars",
                 "Approx range in USD",
@@ -184,16 +183,16 @@ export const reutlingenuniversity = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/reutlingen-university" }
             ]
         }
-
-
-
     ],
-
     "coursesandfees": [
+        {
+            type: 'title',
+            title: 'University of Latvia, Latvia - courses & Fees'
+        },
         {
             "type": "table",
             "title": 'Reutlingen University - MBA Fee Structure 2021',
-            "info": "<b>Reutlingen University offers a quality education at a restrained budget to the students who wish to come to pursue MBA:</b>",
+            "info": "Reutlingen University offers a quality education at a restrained budget to the students who wish to come to pursue MBA:",
             "col": [
                 "MBA Programs",
                 "Amount in USD (Approx)",
@@ -219,7 +218,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": 'Reutlingen University - MBA Course Duration',
-            "info": "<b>The college is offering full time and part-time MBA programs, The students must find out the course duration:</b>",
+            "info": "The college is offering full time and part-time MBA programs, The students must find out the course duration:",
             "col": [
                 "MBA Programs",
                 "Duration",
@@ -241,7 +240,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": 'Reutlingen University - MBA Course Structure',
-            "info": "<b>The students can find out more detailed information on the specialization modules:</b>",
+            "info": "The students can find out more detailed information on the specialization modules:",
             "textBelowInfo": "1 MBA International Management Full-Time",
             "col": [
                 "Compulsory Modules",
@@ -274,7 +273,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": '',
-            "info": "<b>Elective modules</b>",
+            "info": "Elective modules",
             "col": [
                 "Modules",
                 "Subjects",
@@ -299,7 +298,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": '',
-            "info": "<b>2 MBA International Management Part-Time</b>",
+            "info": "2 MBA International Management Part-Time",
             "col": [
                 "Stages",
                 "Subjects",
@@ -324,7 +323,7 @@ export const reutlingenuniversity = {
         {
             type: 'list-bollet',
             title: 'Faculties at Reutlingen University',
-            info: '<b>The following is the list of faculties offered at Reutlingen University to the students:</b>',
+            info: 'The following is the list of faculties offered at Reutlingen University to the students:',
             data: [
                 "Applied Chemistry",
                 "ESB Business School",
@@ -337,7 +336,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": 'Schools & Degree Programs',
-            "info": "<b>1 School of Applied Chemistry</b>",
+            "info": "1 School of Applied Chemistry",
             "col": [
                 "Graduation Degree",
                 "Academic Degree",
@@ -374,7 +373,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": '',
-            "info": "<b>2 ESB Business School</b>",
+            "info": "2 ESB Business School",
             "col": [
                 "Graduation Degree",
                 "Academic Degree",
@@ -451,7 +450,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": '',
-            "info": "<b>3 School of Information Technology</b>",
+            "info": "3 School of Information Technology",
             "col": [
                 "Graduation Degree",
                 "Academic Degree",
@@ -498,7 +497,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": '',
-            "info": "<b>4 School of Engineering</b>",
+            "info": "4 School of Engineering",
             "col": [
                 "Graduation Degree",
                 "Academic Degree",
@@ -550,7 +549,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": '',
-            "info": "<b>5 School of Textiles & Design</b>",
+            "info": "5 School of Textiles & Design",
             "col": [
                 "Graduation Degree",
                 "Academic Degree",
@@ -598,8 +597,8 @@ export const reutlingenuniversity = {
         {
             type: 'list-bollet',
             title: 'Courses Offered at Reutlingen University',
-            info: '<b>The candidates should check out the course offered in the Bachelor and Masters degrees at this place:</b>',
-            textBelowInfo: "<b>1 Bachelor</b>",
+            info: 'The candidates should check out the course offered in the Bachelor and Masters degrees at this place:',
+            textBelowInfo: "1 Bachelor",
             data: [
                 "Bachelor of Arts",
                 "Bachelor of Engineering",
@@ -609,7 +608,7 @@ export const reutlingenuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>1 Masters</b>',
+            info: '1 Masters',
             data: [
                 "Master of Arts",
                 "Master of Business Administration",
@@ -638,10 +637,14 @@ export const reutlingenuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Admission 2023'
+        },
+        {
             type: 'list-bollet',
             title: 'Eligibility Criteria',
-            info: '<b>The students will be eligible for MBA admission after fitting into the eligibility criteria:</b>',
-            textBelowInfo: '<b>1 MBA International Management Full-Time</b>',
+            info: 'The students will be eligible for MBA admission after fitting into the eligibility criteria:',
+            textBelowInfo: '1 MBA International Management Full-Time',
             data: [
                 "The candidates should complete a university degree with marks for admission.",
                 "The students must have 2 years of professional experience after completing the first degree for MBA.",
@@ -654,7 +657,7 @@ export const reutlingenuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>2 MBA International Management Part-Time</b>',
+            info: '2 MBA International Management Part-Time',
             data: [
                 "The aspirants must have higher education entrance qualification with good scores to be admitted into a part-time MBA course at Reutlingen University.",
                 "The willing students must complete a university degree recognized in Germany (bachelor's degree or equivalent degree, for foreign degrees recognition e.g. by the preparatory college in Konstanz)",
@@ -669,7 +672,7 @@ export const reutlingenuniversity = {
         {
             type: 'step-list',
             title: 'Admission Process',
-            info: '<b>The students who decided to pursue MBA must find the important steps for enrollment in Reutlingen University:</b>',
+            info: 'The students who decided to pursue MBA must find the important steps for enrollment in Reutlingen University:',
             data: [
                 "<b>Step 1:</b> Every candidate must fill the online application form with the correct details.",
                 "<b>Step 2:</b> The students should submit scanned copies of all the important documents.",
@@ -683,7 +686,7 @@ export const reutlingenuniversity = {
         {
             type: 'list-bollet',
             title: 'Documents Required',
-            info: '<b>The candidate must submit important documents at the time of the admission process at Reutlingen University:</b>',
+            info: 'The candidate must submit important documents at the time of the admission process at Reutlingen University:',
             data: [
                 "Complete Application form",
                 "10th certificate",
@@ -710,7 +713,7 @@ export const reutlingenuniversity = {
         {
             "type": "table",
             "title": "Reutlingen University - Important Dates 2021",
-            "info": "<b>Keep yourself updated with the admission dates to enroll into the Reutlingen University:</b>",
+            "info": "Keep yourself updated with the admission dates to enroll into the Reutlingen University:",
             "col": [
                 "Events",
                 "Date",
@@ -750,6 +753,10 @@ export const reutlingenuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Reviews'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Latvia, Latvia - Reviews" },
@@ -769,9 +776,13 @@ export const reutlingenuniversity = {
     ],
     "placement": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Placement'
+        },
+        {
             type: 'list-bollet',
             title: '',
-            info: '<b>Placement</b>',
+            info: 'Placement',
             data: [
                 "Graduates might return to India and seek work after completing their various degrees.",
                 "Internships and jobs in and around Germany are encouraged for students at the Reutlingen University.",
@@ -780,7 +791,7 @@ export const reutlingenuniversity = {
         {
             type: 'list-bollet',
             title: '',
-            info: '<b>Top Recuriter</b>',
+            info: 'Top Recuriter',
             data: [
                 "IBM",
                 "Bosch Ltd",
@@ -814,6 +825,10 @@ export const reutlingenuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Gallery'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Latvia, Latvia - Gallery" },
@@ -833,9 +848,13 @@ export const reutlingenuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Scholarship'
+        },
+        {
             type: 'list-bollet',
             title: '',
-            info: '<b>The scholarships that are provided at the Reutlingen University are as follows:</b>',
+            info: 'The scholarships that are provided at the Reutlingen University are as follows:',
             data: [
                 "DAAD Scholarship",
                 "Narotam Sekhsaria’s Scholarships",
@@ -865,6 +884,10 @@ export const reutlingenuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Faculty'
+        },
         {
             type: 'table',
             title: 'Faculty',
@@ -913,6 +936,10 @@ export const reutlingenuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - News & Articles'
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "University of Latvia, Latvia - News & Articles" },
@@ -932,9 +959,13 @@ export const reutlingenuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - Hostel'
+        },
+        {
             type: 'list-bollet',
             title: 'Accommodation & Hostel',
-            info: '<b>Reutlingen University offers hostels with good furnishing and equipped with all amenities in one place:</b>',
+            info: 'Reutlingen University offers hostels with good furnishing and equipped with all amenities in one place:',
             data: [
                 "Reutlingen University provides comfortable residence on the university campus.",
                 "Student residences offer the opportunity for the students to live near the campus and combine learning and life.",
@@ -964,9 +995,13 @@ export const reutlingenuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: 'University of Latvia, Latvia - FAQ'
+        },
+        {
             type: 'question-list',
             title: 'Reutlingen University - Important FAQs',
-            info: "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            info: "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             data: [
                 {
                     "ques": "Q. Is Reutlingen University worth a place to study for an MBA?",

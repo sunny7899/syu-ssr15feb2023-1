@@ -19,7 +19,7 @@ export const jiangsuuniversity = {
         {
             "type": "table-title",
             "title": "Jiangsu University - Quick Highlights 2022",
-            "info": "<b>Given below is the table for quick facts about Jiangsu University:</b>",
+            "info": "Given below is the table for quick facts about Jiangsu University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
                 ["<b>Processing Time for MBBS Admission</b>", "45-60 days"],
@@ -36,7 +36,7 @@ export const jiangsuuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Why Study MBBS at Jiangsu University?',
-            "info": '<b>Below are some of the advantages of studying MBBS Course at Jiangsu University:</b>',
+            "info": 'Below are some of the advantages of studying MBBS Course at Jiangsu University:',
             "data": [
                 "Jiangsu University is one of the top universities in China and it provides medical education with low tuition fees.",
                 "Jiangsu University is recognized by WHO and NMC.",
@@ -54,7 +54,7 @@ export const jiangsuuniversity = {
         {
             "type": "table",
             "title": "Jiangsu University - Ranking 2020",
-            "info": "<b>According to 4icu.org, following is the country & world ranking for Jiangsu Medical University:</b>",
+            "info": "According to 4icu.org, following is the country & world ranking for Jiangsu Medical University:",
             "col": [
                 "Country",
                 "World",
@@ -69,7 +69,7 @@ export const jiangsuuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Medium of Teaching',
-            "info": '<b>Following is the medium of teaching at Jiangsu University:</b>',
+            "info": 'Following is the medium of teaching at Jiangsu University:',
             "data": [
                 'At Jiangsu Medical University, the medium of teaching is English, and thus language is not a barrier for non-chinese students while studying at this university.'
             ]
@@ -77,7 +77,7 @@ export const jiangsuuniversity = {
         {
             "type": 'list-bollet',
             "title": 'Accreditation and Recognition',
-            "info": '<b>China’s Jiangsu University is recognized and accredited by many important medical bodies in the field of medical education such as:</b>',
+            "info": 'China’s Jiangsu University is recognized and accredited by many important medical bodies in the field of medical education such as:',
             "data": [
                 "World Health Organization (WHO)",
                 "National Medical Commission (NMC)",
@@ -88,7 +88,7 @@ export const jiangsuuniversity = {
         {
             "type": 'list-bollet',
             "title": "Life of Student's at Jiangsu University",
-            "info": '<b>Students live an excellent life at Jiangsu university as it provides many facilities to its students:</b>',
+            "info": 'Students live an excellent life at Jiangsu university as it provides many facilities to its students:',
             "data": [
                 "Jiangsu University organizes foreign students to take part in various activities in and outside university and tries to help foreign students understand Chinese culture and feel the happiness of studying in China.",
                 "The university organizes national or international training programs for internationalized professional teachers or lecturers to take part in.",
@@ -103,7 +103,7 @@ export const jiangsuuniversity = {
         {
             "type": "table",
             "title": "Cost of Living at Zhenjiang City",
-            "info": "<b>The cost of living at Zhenjiang city is as follows:</b>",
+            "info": "The cost of living at Zhenjiang city is as follows:",
             "col": [
                 "Activity",
                 "Cost"
@@ -136,7 +136,7 @@ export const jiangsuuniversity = {
             "type": 'list-bollet',
             "title": 'About Zhenjiang City',
             "img": 'zhenjiang-city.jpg',
-            "info": '<b>Below are some of the key points about the Zhenjiang city:</b>',
+            "info": 'Below are some of the key points about the Zhenjiang city:',
             "data": [
                 "In Jiangsu Province, in the southwest of China, Zhenjiang is located.",
                 "It has a long history, pleasant weather, and beautiful scenery.",
@@ -172,9 +172,14 @@ export const jiangsuuniversity = {
     ],
     "coursesandfees": [
         {
+            type: 'title',
+            title: "Jiangsu University - courses & Fees"
+
+        },
+        {
             "type": "table",
             "title": "Jiangsu University - MBBS Fee Structure 2022",
-            "info": "<b>The fee structure for Jiangsu University for MBBS program is given in the table below:</b>",
+            "info": "The fee structure for Jiangsu University for MBBS program is given in the table below:",
             "col": [
                 "Particular",
                 "Year  1",
@@ -290,7 +295,7 @@ export const jiangsuuniversity = {
         {
             "type": "list-bollet",
             "title": "MBBS Course Duration - Jiangsu University",
-            "info": "<b>Mentioned below is the duration of MBBS course:</b>",
+            "info": "Mentioned below is the duration of MBBS course:",
             "data": [
                 "The duration of MBBS course at Jiangsu University is 6 years which includes 1 year of internship."
             ]
@@ -298,7 +303,7 @@ export const jiangsuuniversity = {
         {
             "type": "table",
             "title": "MBBS Syllabus - Jiangsu University",
-            "info": "<b>The complete syllabus for studying MBBS Course at Jiangsu Medical University is as follows:</b>",
+            "info": "The complete syllabus for studying MBBS Course at Jiangsu Medical University is as follows:",
             "Data": "1st Year",
             "col": [
                 "1st Semester",
@@ -407,7 +412,7 @@ export const jiangsuuniversity = {
         {
             "type": "list-bollet",
             "title": "Courses Offered at Jiangsu University",
-            "info": "<b>The various faculties and departments present at Jiangsu Medical University are:</b>",
+            "info": "The various faculties and departments present at Jiangsu Medical University are:",
             "data": [
                 "General Medicine (MBBS)",
                 "Pharmacy"
@@ -433,9 +438,14 @@ export const jiangsuuniversity = {
     ],
     "admission": [
         {
+            type: 'title',
+            title: "Jiangsu University - Admission 2023 "
+
+        },
+        {
             "type": "list-bollet",
             "title": "Eligibility Criteria",
-            "info": "<b>The eligibility criteria to study MBBS at Jiangsu University is as follows:</b>",
+            "info": "The eligibility criteria to study MBBS at Jiangsu University is as follows:",
             "data": [
                 "Candidate’s age should be over 18 years and under 25 years.",
                 "Candidate’s mental and physical health should be good.",
@@ -450,7 +460,7 @@ export const jiangsuuniversity = {
         {
             type: 'step-list',
             title: 'How to Apply for MBBS Admission at Jiangsu University?',
-            info: '<b>Following is the admission procedure for applying to MBBS course at Jiangsu University:</b>',
+            info: 'Following is the admission procedure for applying to MBBS course at Jiangsu University:',
             data: [
                 "Step 1: Students who fit in the required eligibility criteria for Jiangsu Medical University must fill the application form of the university.",
                 "Step 2: Students must upload the required application documents.",
@@ -464,7 +474,7 @@ export const jiangsuuniversity = {
         {
             "type": "list-bollet",
             "title": "Documents Required",
-            "info": "<b>Following documents are required at the time of admission to Jiangsu Medical University:</b>",
+            "info": "Following documents are required at the time of admission to Jiangsu Medical University:",
             "data": [
                 "10th Marksheet",
                 "12th Marksheet",
@@ -481,7 +491,7 @@ export const jiangsuuniversity = {
         {
             "type": "table",
             "title": "Important Dates - Intake 2022",
-            "info": "<b>Check out the Important dates regarding admission at Jiangsu University:</b>",
+            "info": "Check out the Important dates regarding admission at Jiangsu University:",
             "col": [
                 "Events",
                 "Dates",
@@ -525,6 +535,11 @@ export const jiangsuuniversity = {
     ],
     "review": [
         {
+            type: 'title',
+            title: "Jiangsu University - Reviews"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jiangsu University - Reviews" },
@@ -543,6 +558,11 @@ export const jiangsuuniversity = {
         }
     ],
     "placement": [
+        {
+            type: 'title',
+            title: "Jiangsu University - Placement"
+
+        },
         {
             "type": "list-bollet",
             "title": "placement",
@@ -574,6 +594,11 @@ export const jiangsuuniversity = {
     ],
     "gallery": [
         {
+            type: 'title',
+            title: "Jiangsu University - Gallery"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jiangsu University - Gallery" },
@@ -593,9 +618,14 @@ export const jiangsuuniversity = {
     ],
     "scholarship": [
         {
+            type: 'title',
+            title: "Jiangsu University - Scholarship"
+
+        },
+        {
             "type": "list-bollet",
             "title": "scholarship",
-            "info": "<b>Following scholarships are offered at Jiangsu University:</b>",
+            "info": "Following scholarships are offered at Jiangsu University:",
             "data": [
                 "In order to promote, develop, and enhance higher education quality for international students at the Jiangsu province, the provincial government of Jiangsu has set up Jiangsu Jasmine Scholarship for international students. To recruit meritorious international students and scholars for full-time study, Nanjing Medical University is designated by the Jiangsu Provincial government who will be supported by the government to study under this scholarship program."
             ]
@@ -635,6 +665,11 @@ export const jiangsuuniversity = {
         }
     ],
     "faculty": [
+        {
+            type: 'title',
+            title: "Jiangsu University - Faculty"
+
+        },
         {
             "type": "table",
             "title": "Faculty",
@@ -707,6 +742,11 @@ export const jiangsuuniversity = {
     ],
     "news": [
         {
+            type: 'title',
+            title: "Jiangsu University - News & Articles"
+
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Jiangsu University - News & Articles" },
@@ -726,9 +766,14 @@ export const jiangsuuniversity = {
     ],
     "hostel": [
         {
+            type: 'title',
+            title: "Jiangsu University - Hostel"
+
+        },
+        {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "<b>Following are the hostel facilities at Jiangsu University:</b>",
+            "info": "Following are the hostel facilities at Jiangsu University:",
             "data": [
                 "Jiangsu University provides accommodation to students in a building known as Overseas Exchange building.",
                 "The dormitory executes Hotel Style management. The dormitory supplies international students with double rooms.",
@@ -761,9 +806,14 @@ export const jiangsuuniversity = {
     ],
     "faq": [
         {
+            type: 'title',
+            title: "Jiangsu University - FAQ"
+
+        },
+        {
             "type": "question-list",
             "title": "Jiangsu University - Important FAQs",
-            "info": "<b>Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:</b>",
+            "info": "Apart from the information provided, here are some frequently asked questions on Quora and Careers 360:",
             "data": [
                 {
                     "ques": "Q. How many campuses does the Jiangsu University have?",

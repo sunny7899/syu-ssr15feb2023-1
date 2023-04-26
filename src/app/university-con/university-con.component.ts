@@ -15,6 +15,8 @@ import { DialogModule } from 'primeng/dialog';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
 import { FormBuilder, FormGroup, Validators,FormControl } from '@angular/forms';
 import { HttpClient } from '@angular/common/http';
+import html2canvas from 'html2canvas';
+import { jsPDF } from 'jspdf';
 
 
 @Component({
@@ -23,8 +25,23 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./university-con.component.scss']
 })
 export class UniversityConComponent implements OnInit {
+
+  Course: any = ['MBBS','BTech', 'MTech','MBA','PGDM','BCA','MCA', 'Bsc', 'Msc'];
+  registrationForm = this.fb.group({
+    cCourse: ['', [Validators.required]],
+  });
+  changeCourse(e: any) {
+    this.cCourse?.setValue(e.target.value, {
+      onlySelf: true,
+    });
+  }
+  // Access formcontrols getter
+  get cCourse() {
+    return this.registrationForm.get('cCourse');
+  }
+  
   isShowDivIf = true;  
-    
+  RegistrationForm1: FormGroup;
   toggleDisplayDivIf() {  
     this.isShowDivIf = !this.isShowDivIf;
   }  
@@ -51,12 +68,63 @@ export class UniversityConComponent implements OnInit {
     return this.RegistrationFrom1.controls;
   }
 
+  //second form
+  form5 = true;
+  form6 = false;
+  get m2() {
+    return this.RegistrationForm1.controls;
+  }
+
+  public submitFormS() {
+    if (this.RegistrationForm1.valid) {
+      this.bsModalRef.hide();
+      this.router.navigate(['/thankyou-page/.']);
+      // this.form3 = false
+      // this.form4 = false
+    }
+    let data = this.RegistrationForm1.value;
+    data['refNo'] = 777;
+    data['cAddressLine'] = 'Na';
+    data['cState'] = 'Na';
+    data['cPinCode'] = 'Na';
+    data['cParantNo'] = 'Na';
+    data['cDataFrom'] = 1;
+    data['AllocatedTo'] = 0;
+    data['CurrentStatus'] = 0;
+    //data['cRemarks'] = this.RegistrationFrom1.value.qeducation;
+    //data['cCountry'] = 'Na';
+    data['cWebsite'] = 'http://demo.mentebit.com/#/';
+    data['cCoutryCode'] = 'Na';
+    console.log('rom1', this.RegistrationForm1.value);
+    const {
+      //cCity,
+      //cCourse,
+      cCandidateName,
+      cEmail,
+      cMobile,
+      //qeducation,
+      //cLinkName,
+      cCode
+    } = this.RegistrationForm1.value;
+    this.http
+      .get(
+        `https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cCode=${cCode}&cMobile=${cMobile}&cLinkName=https://www.selectyouruniversity.com/${this.url[1]}/${this.url[2]}/${this.url[3]}&cCity=Na&cCourse=Na&section=insertdetails`
+      )
+      .subscribe((res) => {
+        console.log('res', res);
+        this.nsrNo = res;
+      });
+    console.log('form 1', this.RegistrationForm1.value);
+    console.log('form 2', this.RegistrationFrom2.value);
+    console.log('form 3', this.RegistrationFrom3.value);
+  }
+
   public submitForm1() {
     if (this.RegistrationFrom1.valid) {
-      this.form1 = false;
-      this.form2 = true;
-      this.form3 = false
-      this.form4 = false
+      this.modalRef.hide();
+      this.router.navigate(['/thankyou-page/.']);
+      // this.form3 = false
+      // this.form4 = false
     }
     let data = this.RegistrationFrom1.value
     data['refNo']=777
@@ -67,13 +135,13 @@ export class UniversityConComponent implements OnInit {
     data['cDataFrom']=1
     data['AllocatedTo']=0
     data['CurrentStatus']=0
-    data['cRemarks']=this.RegistrationFrom1.value.qeducation
+   // data['cRemarks']=this.RegistrationFrom1.value.qeducation
     data['cCountry']="Na"
     data['cWebsite']='http://demo.mentebit.com/#/'
     data['cCoutryCode']="Na"
     console.log('rom1', this.RegistrationFrom1.value)
-    const {cCity, cCourse, cCandidateName, cEmail, cMobile, qeducation,cLinkName} = this.RegistrationFrom1.value;
-    this.http.get( `https://www.selectyouruniversity.com/api/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&qeducation=${qeducation}&cLinkName=${this.currentUrl}&section=insertdetails`)
+    const {cCity, cCourse, cCandidateName, cEmail, cMobile, qeducation,cLinkName,cCode} = this.RegistrationFrom1.value;
+    this.http.get( `https://bizcallcrmforms.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cCode=${cCode}&cMobile=${cMobile}&cLinkName=${this.currentUrl}&section=insertdetails`)
     .subscribe((res) => {
       console.log('res', res)
     this.nsrNo= res
@@ -359,9 +427,9 @@ export class UniversityConComponent implements OnInit {
       cCandidateName: ["", Validators.required],
       cEmail: ["",[ Validators.required , Validators.pattern("^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$")]],
       cMobile: ["", [Validators.required, Validators.pattern("^((\\+91-?)|0)?[0-9]{10}$")]],
-      cCity: ["", Validators.required],
+      cCity: [""],
       cCourse: ["", Validators.required],
-      qeducation: ["", Validators.required],
+      //qeducation: ["", Validators.required],
     });
     this.RegistrationFrom2 = this.fb.group({
       qgraduation: ["", Validators.required],
@@ -390,6 +458,13 @@ export class UniversityConComponent implements OnInit {
       fldValue4: ["", Validators.required],
       fldValue5: ["", Validators.required],
     });
+    //for form 2
+    this.RegistrationForm1 = this.fb.group({
+      cCandidateName: ["", Validators.required],
+      cEmail: ["", [Validators.required, Validators.pattern("^[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$")]],
+      cMobile: ["", [Validators.required, Validators.pattern("^((\\+91-?)|0)?[0-9]{10}$")]]
+    });
+
     this.galleryOptions = [
       {
         width: '100%',
@@ -698,6 +773,8 @@ export class UniversityConComponent implements OnInit {
     this.elementPosition = this.navTabs.nativeElement.offsetTop;
     this.elementPosition1 = this.talkExpertDiv.nativeElement.offsetTop;
   }
+
+
   @HostListener('window:scroll')
   handleScroll() {
     const windowScroll = window.pageYOffset;
@@ -715,6 +792,39 @@ export class UniversityConComponent implements OnInit {
     if (windowScroll <= this.elementPosition1) {
       this.stickyDiv = false;
     }
+  }
+
+  generateReport() {
+    html2canvas(document.getElementById('college-html')).then((canvasObj) => {
+      let image = new Image();
+      image.src = canvasObj.toDataURL();
+      const imgData = canvasObj.toDataURL();
+      this.convertHTMLtoPdf(canvasObj, imgData);
+    });
+  }
+
+  convertHTMLtoPdf(canvas, img) {
+    let $actw, $acth, $maxw, $maxh, $count, position;
+    let $w = ($actw = canvas.width);
+    let $h = ($acth = canvas.height);
+    const pdf = new jsPDF('p', 'mm', 'a4');
+    const width = ($maxw = pdf.internal.pageSize.width);
+    const height = ($maxh = pdf.internal.pageSize.height);
+    if (!$maxw) $maxw = width;
+    if (!$maxh) $maxh = height;
+    if ($w > $maxw) {
+      $w = $maxw;
+      $h = Math.round(($acth / $actw) * $maxw);
+    }
+    pdf.addImage(img, 'JPEG', 0, 0, $w, $h);
+    $count = Math.ceil($h) / Math.ceil($maxh);
+    $count = Math.ceil($count);
+    for (let i = 1; i <= $count; i++) {
+      position = -$maxh * i;
+      pdf.addPage();
+      pdf.addImage(img, 'JPEG', 0, position, $w, $h);
+    }
+    pdf.save('brochure.pdf');
   }
 }
 
