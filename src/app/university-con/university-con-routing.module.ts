@@ -93,6 +93,50 @@ const routes: Routes = [
     component: UniversityConComponent
   },
   {
+    path: 'fergana-medical-institute-of-public-health/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'fergana-medical-institute-of-public-health/faq/.',
+    component: UniversityConComponent
+  },
+  {
     path: 'bridgetown-international-university/.',
     component: UniversityConComponent
   },

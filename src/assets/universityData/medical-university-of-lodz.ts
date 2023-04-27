@@ -55,7 +55,7 @@ export const medicaluniversityoflodz = {
                 ],
                 [
                     "<b>University Ranking</b>",
-                    "Country Rank - 51<br>World Rank - 3310"
+                    "Country Rank - 49<br>World Rank - 3150"
                 ],
             ]
         },
@@ -218,49 +218,49 @@ export const medicaluniversityoflodz = {
                 },
                 {
                     "Particular": "<b>Fees in Rs</b>",
-                    "Year 1": "<b>Rs. 11,73,000</b>",
-                    "Year 2": "<b>Rs. 11,73,000</b>",
-                    "Year 3": "<b>Rs. 11,73,000</b>",
-                    "Year 4": "<b>Rs. 11,73,000</b>",
-                    "Year 5": "<b>Rs. 11,73,000</b>",
-                    "Year 6": "<b>Rs. 11,73,000</b>"
+                    "Year 1": "<b>Rs. 12,47,520</b>",
+                    "Year 2": "<b>Rs. 12,47,520</b>",
+                    "Year 3": "<b>Rs. 12,47,520</b>",
+                    "Year 4": "<b>Rs. 12,47,520</b>",
+                    "Year 5": "<b>Rs. 12,47,520</b>",
+                    "Year 6": "<b>Rs. 12,47,520</b>"
 
                 }
             ],
-            "heading": "<p><b>Note :</b>1 EUR = Rs. 85 (approx)</p>"
+            "heading": "<p><b>Note :</b>1 EUR = Rs. 90.40 (approx)</p>"
         },
         {
             "type": "table",
             "title": "Medical University of Lodz - MBBS Syllabus",
             "info": "The students must check out the detailed MBBS syllabus mentioned below in the table:",
             "col": [
-                "First Year",
-                "Second Year"
+                "1st Year",
+                "2nd Year"
             ],
             "row": [
                 {
-                    "First Year": "Human Physiology",
-                    "Second Year": "Pathology"
+                    "1st Year": "Human Physiology",
+                    "2nd Year": "Pathology"
                 },
                 {
-                    "First Year": "Human Anatomy",
-                    "Second Year": "Clinical Medicine"
+                    "1st Year": "Human Anatomy",
+                    "2nd Year": "Clinical Medicine"
                 },
                 {
-                    "First Year": "Histology",
-                    "Second Year": "Microbiology"
+                    "1st Year": "Histology",
+                    "2nd Year": "Microbiology"
                 },
                 {
-                    "First Year": "Biochemistry",
-                    "Second Year": "Immunology"
+                    "1st Year": "Biochemistry",
+                    "2nd Year": "Immunology"
                 },
                 {
-                    "First Year": "Genetics",
-                    "Second Year": "Pharmacology"
+                    "1st Year": "Genetics",
+                    "2nd Year": "Pharmacology"
                 },
                 {
-                    "First Year": "Health and Safety",
-                    "Second Year": "Medical sociology"
+                    "1st Year": "Health and Safety",
+                    "2nd Year": "Medical sociology"
                 }
             ]
         },
@@ -268,45 +268,45 @@ export const medicaluniversityoflodz = {
             "type": "table",
             "title": "",
             "col": [
-                "Third Year",
-                "Fourth Year"
+                "3rd Year",
+                "4th Year"
             ],
             "row": [
                 {
-                    "Third Year": "Pediatrics",
-                    "Fourth Year": "Propedeutics to Dentistry"
+                    "3rd Year": "Pediatrics",
+                    "4th Year": "Propedeutics to Dentistry"
                 },
                 {
-                    "Third Year": "Internal Medicine",
-                    "Fourth Year": "Neurology"
+                    "3rd Year": "Internal Medicine",
+                    "4th Year": "Neurology"
                 },
                 {
-                    "Third Year": "Surgery",
-                    "Fourth Year": "Surgery"
+                    "3rd Year": "Surgery",
+                    "4th Year": "Surgery"
                 },
                 {
-                    "Third Year": "Pharmacology",
-                    "Fourth Year": "Pediatrics"
+                    "3rd Year": "Pharmacology",
+                    "4th Year": "Pediatrics"
                 },
                 {
-                    "Third Year": "Radiology",
-                    "Fourth Year": "gynecology"
+                    "3rd Year": "Radiology",
+                    "4th Year": "gynecology"
                 },
                 {
-                    "Third Year": "Dermatology",
-                    "Fourth Year": "Family Medicine"
+                    "3rd Year": "Dermatology",
+                    "4th Year": "Family Medicine"
                 },
                 {
-                    "Third Year": "Anatomy",
-                    "Fourth Year": "Obstetrics"
+                    "3rd Year": "Anatomy",
+                    "4th Year": "Obstetrics"
                 },
                 {
-                    "Third Year": "Ophthalmology",
-                    "Fourth Year": "Anesthesiology"
+                    "3rd Year": "Ophthalmology",
+                    "4th Year": "Anesthesiology"
                 },
                 {
-                    "Third Year": "Epidemiology",
-                    "Fourth Year": "Clinical genetics "
+                    "3rd Year": "Epidemiology",
+                    "4th Year": "Clinical genetics "
                 },
             ]
         },
@@ -314,41 +314,41 @@ export const medicaluniversityoflodz = {
             "type": "table",
             "title": "",
             "col": [
-                "Fifth Year",
-                "Sixth Year"
+                "5th Year",
+                "6th Year"
             ],
             "row": [
                 {
-                    "Fifth Year": "Internal Medicine",
-                    "Sixth Year": "Pediatrics"
+                    "5th Year": "Internal Medicine",
+                    "6th Year": "Pediatrics"
                 },
                 {
-                    "Fifth Year": "Infectious Diseases",
-                    "Sixth Year": "Surgery"
+                    "5th Year": "Infectious Diseases",
+                    "6th Year": "Surgery"
                 },
                 {
-                    "Fifth Year": "Pediatrics",
-                    "Sixth Year": "Emergency Medicine"
+                    "5th Year": "Pediatrics",
+                    "6th Year": "Emergency Medicine"
                 },
                 {
-                    "Fifth Year": "Psychiatric",
-                    "Sixth Year": "Gynecology"
+                    "5th Year": "Psychiatric",
+                    "6th Year": "Gynecology"
                 },
                 {
-                    "Fifth Year": "Oncology",
-                    "Sixth Year": "Clinical elective"
+                    "5th Year": "Oncology",
+                    "6th Year": "Clinical elective"
                 },
                 {
-                    "Fifth Year": "Obstetrics",
-                    "Sixth Year": "-"
+                    "5th Year": "Obstetrics",
+                    "6th Year": "-"
                 },
                 {
-                    "Fifth Year": "Toxicology",
-                    "Sixth Year": "-"
+                    "5th Year": "Toxicology",
+                    "6th Year": "-"
                 },
                 {
-                    "Fifth Year": "Physiology",
-                    "Sixth Year": "-"
+                    "5th Year": "Physiology",
+                    "6th Year": "-"
                 },
             ]
         },
@@ -399,7 +399,7 @@ export const medicaluniversityoflodz = {
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria - For MBBS Course",
+            "title": "Eligibility Criteria to Study MBBS at Medical University of Lodz",
             "info": "The students must fulfill the basic criteria to enroll in the medicine course at The Medical University of Lodz:",
             "data": [
                 "Candidate should be passed higher secondary education from the recognized university.",
@@ -410,7 +410,7 @@ export const medicaluniversityoflodz = {
         },
         {
             "type": "step-list",
-            "title": "Admission Process (2022-23) - For MBBS/MD Course",
+            "title": "How to take Admission in Medical University of Lodz?",
             "info": "Every student must follow the precise admission process to study MBBS program at The Medical University of Lodz:",
             "data": [
                 "<b>Step 1:</b> Candidate needs to register on the website <a>https://registration.umed.lodz.pl/</a>",
@@ -424,8 +424,8 @@ export const medicaluniversityoflodz = {
         },
         {
             "type": "list-bollet",
-            "title": "Document Required - Enrolling for MBBS Course",
-            "info": "The medical aspirants must carry all essential documents during MBBS admission time at The Medical University of Lodz:",
+            "title": "Document Required at Medical University of Lodz",
+            "info": "The medical aspirants mu- Enrst carry all essential documents during MBBS admission time at The Medical University of Lodz:",
             "data": [
                 "High school certificate",
                 "Application form",
@@ -462,6 +462,16 @@ export const medicaluniversityoflodz = {
 
         },
         {
+            "type": "list-bollet",
+            "title": "Reviews on Medical University of Lodz",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Shanaya Kapoor</b><p>I really enjoyed my time at the Medical University of Lodz. The instructors were beneficial and instructive.</p>",
+              "<b>Priti Singh</b><p>Everyone looking for a top-notch medical education should give the Medical University of Lodz Science some serious thought..</p>",
+              "<b>Nishant Malhotra</b><p>The Medical University of Lodz provides excellent amenities and a welcoming staff. Throughout my entire stay, I received wonderful care.</p>",
+            ]
+          },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Lodz - Reviews" },
@@ -485,6 +495,12 @@ export const medicaluniversityoflodz = {
             title: "Medical University of Lodz - Placement"
 
         },
+        {
+            "type": "text",
+            "title": "Medical University of Lodz Placement",
+            "info": "",
+            "data":"Doctor of Medicine (M.D.) qualification awarded by Medical University of Lodz is recognized worldwide and can be used to apply for a local medical licence in most countries in the world. In order to do so a medical graduate has to fulfil the destination country's national or state medical board requirements, usually involving an examination or a series of examinations and an internship period.",
+          },
         {
             type: "meta",
             meta: [
@@ -588,58 +604,59 @@ export const medicaluniversityoflodz = {
 
         },
         {
-            "type": "table-title",
-            "title": "",
+            "type": "list-bollet",
+            "title": "Medical University of Lodz Scholarship",
             "info": "Following are the scholarships available while applying to Medical University of Lodz - ",
-            "col": [
-
-            ],
-            "row": [
-                ["1 Alexander von Humboldt Foundation:", "<a>http://www.avh.de/en/programme/stip_aus/index.htm</a>"],
-                ["2 British Council Poland: The foundation focuses on the cooperation between Poland and Great Britain", "<a>http://www.britishcouncil.org/pl/poland.htm</a>"],
+            "data": [
+                "Alexander von Humboldt Foundation",
+                "British Council Poland"
             ]
         },
-        {
-            "type": "table-title",
-            "title": "",
-            "info": "",
-            "colTitle": "PROGRAMMES FOR GRADUATES AND POSTGRADUATE STUDENTS:",
-            "col": [
+        // {
+            // "row": [
+            //     ["1 Alexander von Humboldt Foundation:", "<a>http://www.avh.de/en/programme/stip_aus/index.htm</a>"],
+            //     ["2 British Council Poland: The foundation focuses on the cooperation between Poland and Great Britain", "<a>http://www.britishcouncil.org/pl/poland.htm</a>"],
+            // ]
+        //     "type": "table-title",
+        //     "title": "",
+        //     "info": "",
+        //     "colTitle": "PROGRAMMES FOR GRADUATES AND POSTGRADUATE STUDENTS:",
+        //     "col": [
 
-            ],
-            "row": [
-                ["3 Konrad Adenauer Foundation:", "<a>http://www.kas.pl/stypend.php</a>"],
-                ["4 Friedrich Ebert Foundation:", "<a>http://www.feswar.org.pl/</a>"],
-                ["5 Gottlieb-Daimler and Karl Benz Foundation:", "<a>http://www.daimler-benz-stiftung.de/home/en/start.html</a>"],
-                ["6 Hanns Seidel Foundation:", "<a>http://www.hss.de/homepage-e.shtml</a>"],
-                ["7 Karla Scherer Foundation:", "<a>http://comnet.org/kschererf/index.html</a>"],
-                ["8 Kosciuszko Foundation:", "<a>http://www.kosciuszkofoundation.org/</a>"],
-                ["9 Maciej Nowicki Foundation:", "<a>http://www.fundnowickiego.pl/</a>"],
-                ["10 Onassis Foundation:", "<a>http://www.onassis.gr/english/main/index.php</a>"],
-                ["11 Foundation for Polish Science:11 Foundation for Polish Science:", "<a>http://www.fnp.org.pl/</a>"],
-                ["12 Volkswagen Foundation:", "<a>http://www.volkswagen-stiftung.de/english.html</a>"],
-                ["13 GFPS-Polska – Scientific and Cultural Association in Central and Eastern Europe:", "<a>http://www.gfps.pl/oferta/stypendia.html</a>"],
-                ["14 Józef Tischner Junior Visiting Fellowships:", "<a>http://www.kowi.de/en/entry/default.htm</a><br><a>http://www.kowi.de/en/youngscientists/graduates/default.htm</a>"],
-                ["15 KoWi:", "<a>http://www.hss.de/homepage-e.shtml</a>"],
-                ["16 L’Oreal Poland for Women in Science:", "<a>http://www.lorealdlakobietinauki.pl/</a><a>http://www.mpg.de/english/careerOpportunities/jobOffers/extern/index.html</a>"],
-                ["17 Max Planck Society:", "<a>http://www.mpg.de/english/portal/index.html</a><br>"],
-                ["18 German Academic Exchange Service – DAAD:", "<a>http://www.daad.pl/index.php?lang=pl&d=stypendia_pol</a>"],
-            ]
-        },
-        {
-            "type": "table-title",
-            "title": "",
-            "info": "",
-            "colTitle": "PROGRAMMES FOR POSTGRADUATE STUDENTS:",
-            "col": [
+        //     ],
+        //     "row": [
+        //         ["3 Konrad Adenauer Foundation:", "<a>http://www.kas.pl/stypend.php</a>"],
+        //         ["4 Friedrich Ebert Foundation:", "<a>http://www.feswar.org.pl/</a>"],
+        //         ["5 Gottlieb-Daimler and Karl Benz Foundation:", "<a>http://www.daimler-benz-stiftung.de/home/en/start.html</a>"],
+        //         ["6 Hanns Seidel Foundation:", "<a>http://www.hss.de/homepage-e.shtml</a>"],
+        //         ["7 Karla Scherer Foundation:", "<a>http://comnet.org/kschererf/index.html</a>"],
+        //         ["8 Kosciuszko Foundation:", "<a>http://www.kosciuszkofoundation.org/</a>"],
+        //         ["9 Maciej Nowicki Foundation:", "<a>http://www.fundnowickiego.pl/</a>"],
+        //         ["10 Onassis Foundation:", "<a>http://www.onassis.gr/english/main/index.php</a>"],
+        //         ["11 Foundation for Polish Science:11 Foundation for Polish Science:", "<a>http://www.fnp.org.pl/</a>"],
+        //         ["12 Volkswagen Foundation:", "<a>http://www.volkswagen-stiftung.de/english.html</a>"],
+        //         ["13 GFPS-Polska – Scientific and Cultural Association in Central and Eastern Europe:", "<a>http://www.gfps.pl/oferta/stypendia.html</a>"],
+        //         ["14 Józef Tischner Junior Visiting Fellowships:", "<a>http://www.kowi.de/en/entry/default.htm</a><br><a>http://www.kowi.de/en/youngscientists/graduates/default.htm</a>"],
+        //         ["15 KoWi:", "<a>http://www.hss.de/homepage-e.shtml</a>"],
+        //         ["16 L’Oreal Poland for Women in Science:", "<a>http://www.lorealdlakobietinauki.pl/</a><a>http://www.mpg.de/english/careerOpportunities/jobOffers/extern/index.html</a>"],
+        //         ["17 Max Planck Society:", "<a>http://www.mpg.de/english/portal/index.html</a><br>"],
+        //         ["18 German Academic Exchange Service – DAAD:", "<a>http://www.daad.pl/index.php?lang=pl&d=stypendia_pol</a>"],
+        //     ]
+        // },
+        // {
+        //     "type": "table-title",
+        //     "title": "",
+        //     "info": "",
+        //     "colTitle": "PROGRAMMES FOR POSTGRADUATE STUDENTS:",
+        //     "col": [
 
-            ],
-            "row": [
-                ["19 German Research Foundation  (DFG):", "<a>http://www.dfg.de/en/research_funding/coordinated_programmes/research_training_groups/int_gk/index.html</a>"],
-                ["20 Polish – U.S. Fulbright Commission:", "<a>http://www.fulbright.edu.pl/</a>"],
-                ["21 Polish – U.S. Fulbright Commission:", "<a>http://www.fulbright.edu.pl/index.php?strona=39&wiecej=231</a><br><a>http://www.fulbright.edu.pl/index.php?strona=39&wiecej=208</a>"],
-            ]
-        },
+        //     ],
+        //     "row": [
+        //         ["19 German Research Foundation  (DFG):", "<a>http://www.dfg.de/en/research_funding/coordinated_programmes/research_training_groups/int_gk/index.html</a>"],
+        //         ["20 Polish – U.S. Fulbright Commission:", "<a>http://www.fulbright.edu.pl/</a>"],
+        //         ["21 Polish – U.S. Fulbright Commission:", "<a>http://www.fulbright.edu.pl/index.php?strona=39&wiecej=231</a><br><a>http://www.fulbright.edu.pl/index.php?strona=39&wiecej=208</a>"],
+        //     ]
+        // },
         {
             type: "meta",
             meta: [
@@ -663,6 +680,33 @@ export const medicaluniversityoflodz = {
             type: 'title',
             title: "Medical University of Lodz - Faculty"
 
+        },
+        {
+            "type": "table",
+            "title": "Faculty of Medical University of Lodz",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "Dr Andres Reig",
+                    "Designation": "Staff"
+                },
+                {
+                    "Name": "Dr William Abou Shahla",
+                    "Designation": "Staff"
+                },
+                {
+                    "Name": "Dr Mohamad Mahdi Mortadaa",
+                    "Designation": "Staff"
+                },
+                {
+                    "Name": "Dr Vishnu Pradeep",
+                    "Designation": "Staff"
+                }
+            ]
         },
         {
             type: "meta",
@@ -712,29 +756,58 @@ export const medicaluniversityoflodz = {
             title: "Medical University of Lodz - Hostel"
 
         },
+        
         {
-            "type": "number-list",
+            "type": "list-bollet",
             "title": "Hostel & Accommodation Facility",
             "info": "The Medical University of Lodz provides well-furnished hostel facility and fulfilling all basic needs of the student:",
+            "textBelowInfo":"<b>1. 1 st Dormitory “MEDYK”</b>",
             "data": [
-                "<b>1 st Dormitory “MEDYK”</b><br>The 4-story building has 170 well-equipped rooms.<br>The dormitory building has renovated rooms.<br>A cinema room is used for other entertainment purposes.<br>It has a spacious hall equipped with comfortable sofas and Television.<br>Due to the location of the hostel, the students quickly reach the university to attend classes and to the city centre.<br>Availability of clinic, canteen, shopping centre, bicycle station and the AZS sports complex.",
-                '<b>II Dormitory "SYNAPSA"</b><br>II Dormitory "SYNAPSA" fulfils the requirements of a 3-star hotel.<br>The dormitory offers single or double rooms with attached bathrooms/toilets.<br>The dormitory has refrigerators in the kitchen.<br>The dormitory provides unlimited internet access to the student.<br>The accommodation base consists of modern and comfortably furnished 194 student rooms<br>The dormitory also accommodates people with physical disabilities.<br>Due to the location of the hostel, the students quickly reach the university to attend classes and to the city centre.<br>The students can access the nearby clinic, canteen, shopping centre, bicycle station and the AZS sports complex.',
-                "<b>IV Student's House</b><br>The renovation of IV Student's House building was done in 2014.<br>IV Student's House has modern electronic systems, a conference room and a club room where students can organize social meetings.<br>The students can study in 3 quiet study rooms with 24 stations.<br>Wi-Fi is available round the clock.<br>It has 2 rooms with reduced mobility people where standard equipment, a bathroom and a kitchen is provided.<br>An external ramp is provided for disabled students, as well as a lift and elevator.<br>Convenient access by trams no. 9 and 13 and buses no. 74 and 83, direct tram connection to the Łódź Fabryczna station (lines no. 9 and 13) and bus connections to the Łódź Kaliska railway station (line no. 99), a canteen nearby (100 m) the area is known to generations, the Green Market, shops and supermarkets.",
+                "The 4-story building has 170 well-equipped rooms.",
+                "The dormitory building has renovated rooms.",
+                "A cinema room is used for other entertainment purposes.",
+                "It has a spacious hall equipped with comfortable sofas and Television.",
+                "Due to the location of the hostel, the students quickly reach the university to attend classes and to the city centre.",
+                "Availability of clinic, canteen, shopping centre, bicycle station and the AZS sports complex."
             ]
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Accommodation price for students to stay in dormitories of the Medical University of Lodz:",
+            "info": '2. II Dormitory "SYNAPSA"',
             "data": [
-                "Gymnasium",
-                "Guest Room",
-                "Kitchen",
-                "Laundry",
-                "Reception",
-                "Fitness Room",
-                "Multimedia Room",
-                "Security",
+                'II Dormitory "SYNAPSA" fulfils the requirements of a 3-star hotel.',
+                "The dormitory offers single or double rooms with attached bathrooms/toilets.",
+                "The dormitory has refrigerators in the kitchen.",
+                "The dormitory provides unlimited internet access to the student.",
+                "The accommodation base consists of modern and comfortably furnished 194 student rooms",
+                "The dormitory also accommodates people with physical disabilities.",
+                "Due to the location of the hostel, the students quickly reach the university to attend classes and to the city centre.",
+                "The students can access the nearby clinic, canteen, shopping centre, bicycle station and the AZS sports complex."
+            ]
+        },
+        
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "3. IV Student's House",
+            "data": [
+                "The renovation of IV Student's House building was done in 2014.",
+                "IV Student's House has modern electronic systems, a conference room and a club room where students can organize social meetings.",
+                "The students can study in 3 quiet study rooms with 24 stations.",
+                "Wi-Fi is available round the clock.",
+                "It has 2 rooms with reduced mobility people where standard equipment, a bathroom and a kitchen is provided.",
+                "An external ramp is provided for disabled students, as well as a lift and elevator.",
+                "Convenient access by trams no. 9 and 13 and buses no. 74 and 83, direct tram connection to the Łódź Fabryczna station (lines no. 9 and 13) and bus connections to the Łódź Kaliska railway station (line no. 99), a canteen nearby (100 m) the area is known to generations, the Green Market, shops and supermarkets."
+            ]
+        },
+        {
+            "type": "table-title",
+            "title": "",
+            "info": "Accommodation price for students to stay in dormitories of the Medical University of Lodz:",
+            "row": [
+                ["Gymnasium","Guest Room","Kitchen","Laundry"],
+                ["Reception","Fitness Room","Multimedia Room","Security"]
             ]
         },
         {

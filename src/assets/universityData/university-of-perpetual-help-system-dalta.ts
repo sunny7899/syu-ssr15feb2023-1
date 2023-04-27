@@ -14,7 +14,7 @@ export const universityofperpetualhelpsystemdalta = {
     {
       "type": "text",
       "title": "",
-      "data": "<p>Inspired and committed for better life and national development Dr./BGen. Antonio Laperal Tamayo and Dr. Daisy Moran Tamayo founded the <b>University of Perpetual Help</b> on February 5, 1975. The University of Perpetual Help is located in Las Pinas city, Philippines.</p><p>The University of Perpetual Help is a preferred and apt choice for international aspirants to pursue MBBS in the Philippines.</p><p>Also known as the University of Perpetual Help System DALTA (UPHSD), the university is a pioneer in medical education in the Philippines. The campuses of UPHS - Perpetual Las Piñas,Perpetual Molina and Perpetual Calamba are fledged with a great infrastructure. curricular activities and faculty members.</p><p>The University of Perpetual Help System DALTA aims at achieving its goals of maintaining and sustaining education.</p>"
+      "data": "<p><b>University of Perpetual Help System Dalta</b> which is located in Las Pinas city, Philippines was founded on February 5, 1975 by Dr./BGen. Antonio Laperal Tamayo and Dr. Daisy Moran Tamayo.The University is a preferred and apt choice for international aspirants to pursue MBBS in the Philippines.</p><p>Also known as the University of Perpetual Help System DALTA (UPHSD), the university is a pioneer in medical education in the Philippines. The campuses of UPHS - Perpetual Las Piñas,Perpetual Molina and Perpetual Calamba are fledged with a great infrastructure. curricular activities and faculty members.</p><p>The University of Perpetual Help System DALTA aims at achieving its goals of maintaining and sustaining education. Because of the quality they offer around 12,000 students and employ about 1,500 teaching and non-teaching staff.</p><p>MBBS at The University of Perpetual Help is offered at low cost with the average tuition fees of Rs 23 lacs for the whole 6 years of MBBS. In addition the medium of teaching at the university is English which motivates Indian Students to choose MBBS here.</p>"
     },
     {
       "type": "table-title",
@@ -449,7 +449,7 @@ export const universityofperpetualhelpsystemdalta = {
     },
     {
       "type": "list-bollet",
-      "title": "Eligibility Criteria",
+      "title": "Eligibility Criteria to Study MBBS at University of Perpetual Help",
       "info": "The medical aspirants must fit into the basic criteria to grab MBBS seats at University of Perpetual Help:",
       "data": [
         "The candidates must be at least 17 years old while taking admission or complete this age before 31st December of the admission year.",
@@ -462,7 +462,7 @@ export const universityofperpetualhelpsystemdalta = {
     },
     {
       "type": "step-list",
-      "title": "Admission Process",
+      "title": "How can I Get Admission in University of Perpetual Help?",
       "info": "The medical aspirants must carry essential documents during MBBS course admission time at University of Perpetual Help:",
       "data": [
         "<b>Step 1:</b> The candidates must fill the correct details asked in the application form available on the official website of the University of Perpetual Help",
@@ -475,7 +475,7 @@ export const universityofperpetualhelpsystemdalta = {
     },
     {
       "type": "list-bollet",
-      "title": "Documents Required",
+      "title": "Documents Required at University of Perpetual Help",
       "info": "The students willing to take MBBS admission at University of Perpetual help must submit all documents mentioned below:",
       "data": [
         "The candidates must submit the fully- filled application form.",
@@ -500,7 +500,7 @@ export const universityofperpetualhelpsystemdalta = {
     },
     {
       "type": "table",
-      "title": "Important Dates - Intake 2023",
+      "title": "University of Perpetual Help - Important Dates & Intake 2023",
       "info": "The medical aspirants should check out some important admission dates before MBBS admission at the University of Perpetual Help:",
       "col": [
         "Events",
@@ -540,6 +540,7 @@ export const universityofperpetualhelpsystemdalta = {
     }
   ],
   "review": [
+    
     {
       type: 'title',
       title: 'University of Perpetual Help, Philippines - Reviews'

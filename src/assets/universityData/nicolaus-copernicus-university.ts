@@ -29,7 +29,7 @@ export const nicolauscopernicusuniversity = {
                 ["<b>Annnual Tuition Fees</b>", "Rs. 4.07 Lakh/Year"],
                 ["<b>Course Duration</b>", "6 years including internship"],
                 ["<b>Medium of Education</b>", "English & Polish"],
-                ["<b>University Ranking</b>", "Country - 6<br>World - 618"]
+                ["<b>University Ranking</b>", "Country - 6<br>World - 671"]
             ]
         },
         {
@@ -166,19 +166,19 @@ export const nicolauscopernicusuniversity = {
             "row": [
                 {
                     "Particulars": "<b>Fee in USD (Approx)</b>",
-                    "Annual Fee": "13,060"
+                    "Annual Fee": "13,060 USD"
                 },
                 {
                     "Particulars": "<b>Fee in Rs. (Approx)</b>",
-                    "Annual Fee": "9,14,200"
+                    "Annual Fee": "9,14,200 Rs."
                 },
                 {
                     "Particulars": "<b>Admission Fee</b>",
-                    "Annual Fee": "3010"
+                    "Annual Fee": "3010 Rs."
                 },
                 {
                     "Particulars": "<b>Total Fees</b>",
-                    "Annual Fee": "9,17,210"
+                    "Annual Fee": "9,17,210 Rs."
                 },
 
             ]
@@ -195,16 +195,7 @@ export const nicolauscopernicusuniversity = {
                 "The fees mentioned above are approximate and may vary as per the change in currency."
             ]
         },
-        {
-            "type": 'list-bollet',
-            "title": 'Eligibility Criteria',
-            "info": "The students must fit within the eligibility criteria at Nicolaus Copernicus University given below:",
-            "data": [
-                "The student applying for the MBBS course in Nicolaus Copernicus University must have cleared the TOEFL iBT exam with a minimum of 72 points or TOEFL CBT with a minimum of 180 points and/or IELTS exam with a minimum of 5.5 points.",
-                "The candidate must have scored at least 50% in HSC level exam with Physics, Chemistry, Biology, and English as compulsory subjects.",
-                "The age of the candidate must be at least 17 years and maximum 25 years old as on the 31st December of the admission year.",
-            ]
-        },
+        
         {
             "type": 'list-bollet',
             "title": 'Courses Offered at Nicolaus Copernicus University',
@@ -348,7 +339,7 @@ export const nicolauscopernicusuniversity = {
         },
         {
             "type": 'list-bollet',
-            "title": 'Eligibility Criteria',
+            "title": 'Eligibility Criteria to Study MBBS at Nicolaus Copernicus University',
             "info": "The students must fit within the eligibility criteria at Nicolaus Copernicus University given below:",
             "data": [
                 "The student applying for the MBBS course in Nicolaus Copernicus University must have cleared the TOEFL iBT exam with a minimum of 72 points or TOEFL CBT with a minimum of 180 points and/or IELTS exam with a minimum of 5.5 points.",
@@ -358,7 +349,7 @@ export const nicolauscopernicusuniversity = {
         },
         {
             "type": 'step-list',
-            "title": 'Admission Process (2023-24)',
+            "title": 'How can I Get Admission in Nicolaus Copernicus University?',
             "info": "The students must follow the admission steps given below for taking admission in MBBS course at Nicolaus Copernicus University, Poland:",
             "data": [
                 "<b>Step 1:</b> Students have to create an account on the online portal of the university first for applying and choosing the program.",
@@ -371,7 +362,7 @@ export const nicolauscopernicusuniversity = {
         },
         {
             "type": 'list-bollet',
-            "title": 'Document Required',
+            "title": 'Documents Required at Nicolaus Copernicus University',
             "info": "All important documents are needed to be submitted by candidates during admission time and to be translated into either Polish or English language:",
             "data": [
                 "Secondary school certificate",
@@ -385,7 +376,7 @@ export const nicolauscopernicusuniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2023",
+            "title": "Nicolaus Copernicus University - Important Dates & Intake 2023",
             "info": "Check out the academic calendar regarding admission at Nicolaus Copernicus University:",
             "col": [
                 "Events",
@@ -432,6 +423,16 @@ export const nicolauscopernicusuniversity = {
 
         },
         {
+            "type": "list-bollet",
+            "title": "Reviews on Nicolaus Copernicus University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Kedhar Agrawal</b><p>I really enjoyed my time at Nicolaus Copernicus University. The instructors were beneficial and instructive.</p>",
+              "<b>Neha Sharma</b><p>Everyone looking for a top-notch medical education should give Nicolaus Copernicus University some serious thought.</p>",
+              "<b>Esha Gada</b><p>Nicolaus Copernicus University provides excellent amenities and a welcoming staff. Throughout my entire stay, I received wonderful care.</p>",
+            ]
+          },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Nicolaus Copernicus University - Reviews" },
@@ -457,7 +458,7 @@ export const nicolauscopernicusuniversity = {
         },
         {
             "type": 'text',
-            "title": 'Placement',
+            "title": 'Nicolaus Copernicus University Placement',
             "info": "",
             "data": "<p>All NCU Faculty of Earth Sciences courses include practical training as a crucial component of the educational process. The placements are chosen by the graduate profile of a particular field of study, which requires 40 to 160 hours. Most students enrol in institutions that offer surveying & mapping, hydrogeological services, or spatial management (commune and municipal offices, district administration offices). Internships are frequently provided in tourist bureaus or lodging establishments. National parks, landscape parks, forest district agencies, and consulates are selected as intriguing possibilities.</p>"
         },

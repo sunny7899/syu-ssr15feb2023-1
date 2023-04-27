@@ -35,7 +35,7 @@ export const easteuropeanuniversity = {
         },
         {
             type: 'list-bollet',
-            title: 'Advantages of Studying at East European University',
+            title: 'Advantages of Studying MBBS at East European University',
             info: 'Below are the leverages of studying MBBS at East European University:',
             data: [
                 "Studying MBBS in Georgia at East European University, Tbilisi is reasonable for Indian students.",
@@ -118,35 +118,7 @@ export const easteuropeanuniversity = {
                 "All the facilities important for studying and also important for scientific activities are concentrated in the university."
             ]
         },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "info": "",
-        //     "img": "https://www.selectyouruniversity.com/images/georgia-universities/main-building-of-east-european-university.jpg"
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/georgia-universities/computer-lab-of-east-european-university.jpg",
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/georgia-universities/libray-of-east-european-university.jpg"
-        // },
-        // {
-        //     "type": "text",
-        //     "title": "",
-        //     "img": "https://www.selectyouruniversity.com/images/georgia-universities/conference-hall-of-east-european-university.jpg"
-        // },
-
         
-        // {
-        //     type: 'list-bollet',
-        //     title: 'Rectors Message',
-        //     info: '',
-        //     img: "https://www.selectyouruniversity.com/images/georgia-universities/rectors-message-of-east-european-university.jpg"
-        // },
         {
             "type": "table",
             "title": "East European University - FMGE Performance 2021",
@@ -197,7 +169,6 @@ export const easteuropeanuniversity = {
         {
             type: 'list-bollet',
             title: 'About Tbilisi City',
-            // info: 'https://www.selectyouruniversity.com/images/georgia-universities/tblisi-city.jpg',
             data: [
                 "Tbilisi city is the capital of Georgia.",
                 "The city ‘Tbilisi’ has been spread out on both banks of the Mtkvari River and it is surrounded on three sides by mountains.",
@@ -230,8 +201,6 @@ export const easteuropeanuniversity = {
                 { rel: "canonical", href: "https://www.selectyouruniversity.com/university/east-european-university" }
             ]
         }
-
-
 
     ],
     "coursesandfees": [
@@ -321,7 +290,7 @@ export const easteuropeanuniversity = {
         {
             "type": "table",
             "title": "East European University - MBBS Syllabus",
-            "info": "The complete syllabus for studying MBBS course at Tula State University is as follows:<p>First Year</p>",
+            "info": "The complete syllabus for studying MBBS course at Tula State University is as follows:<p>1<sup>st</sup> Year</p>",
             "col": [
                 "1st Semester",
                 "2nd Semester"
@@ -337,7 +306,7 @@ export const easteuropeanuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "Second Year",
+            "info": "2<sup>nd</sup> Year",
             "col": [
                 "3rd Semester",
                 "4th Semester"
@@ -366,7 +335,7 @@ export const easteuropeanuniversity = {
         {
             "type": "table",
             "title": "",
-            "info": "Third Year",
+            "info": "3<sup>rd</sup> Year",
             "col": [
                 "5th Semester",
                 "6th Semester"
@@ -387,7 +356,7 @@ export const easteuropeanuniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "Fourth - Fifth Year",
+            "info": "4<sup>th</sup> - 5<sup>th</sup> Year",
             "colTitle": "6th-10th Semester",
             "row": [
                 ["Internal Medicine, Oncology, Psychology, Neurology, General Surgery, ENT, Emergency Medicine, & Cardiology"]
@@ -431,7 +400,7 @@ export const easteuropeanuniversity = {
         },
         {
             "type": "step-list",
-            "title": "Admission Process of East European University",
+            "title": "How to take Admission in East European University?",
             "info": "The enrollment process for the MBBS course at East European University is cheap & convenient:",
             "data": [
                 "<b>Step 1:</b> The admission process for medical universities in Georgia is very simple.",
@@ -457,7 +426,7 @@ export const easteuropeanuniversity = {
             
         {
             "type": "list-bollet",
-            "title": "Documents Required: For MBBS Course",
+            "title": "Documents Required at East European University",
             "info": "Required documents checklists for applying MBBS course at East European University are:",
             "data": [
                 "Birth Certificate",
@@ -473,7 +442,7 @@ export const easteuropeanuniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2023",
+            "title": "East European University - Important Dates & Intake 2023",
             "info": "Program intake for the MBBS course at East European University may start in the month of September - October:",
             "col": [
                 "Events",
@@ -693,7 +662,7 @@ export const easteuropeanuniversity = {
         },
         {
             "type": "table",
-            "title": "Faculty",
+            "title": "East European University Faculties",
             "info": "",
             "col": [
                 "Name",

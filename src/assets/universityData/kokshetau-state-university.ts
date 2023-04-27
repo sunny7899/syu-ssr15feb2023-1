@@ -230,7 +230,7 @@ export const kokshetaustateuniversity = {
             "title": "",
             "info": "Note:",
             "data": [
-                "$1 = Rs.70",
+                "$1 = Rs.80",
                 "Application, visa, flight tickets, etc. will be extra up to Rs.1,00,000 /- (or more approximately).",
                 "The fees mentioned here are approximate and can vary as per the change in currency."
             ]
@@ -382,7 +382,7 @@ export const kokshetaustateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria",
+            "title": "Eligibility Criteria to Study MBBS at Kokshetau State University",
             "info": "Students must fulfill the below-mentioned eligibility criteria for admission to Kokshetau State University:",
             "data": [
                 "Applicants must have cleared the 12th exam with an aggregate of 50% in Physics, Chemistry, and Biology subjects if they belong to the General category.",
@@ -393,7 +393,7 @@ export const kokshetaustateuniversity = {
         },
         {
             type: 'step-list',
-            title: 'Admission Process (2023-24)',
+            title: 'How to take Admission in Kokshetau State University?',
             info: 'Following are the step by step admission rules for Sh. Ualikhanov Kokshetau State University:',
             data: [
                 "<b>Step 1:</b> Admissions of international students are carried out on a competitive basis, results of the interviews and testing conducted by the department of the admission committee.",
@@ -428,7 +428,7 @@ export const kokshetaustateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Documents Required",
+            "title": "Documents Required at Kokshetau State University",
             "info": "The following are the documents required applying for the MBBS course at Sh. Ualikhanov Kokshetau State University:",
             "data": [
                 "Health Certificate",
@@ -444,7 +444,7 @@ export const kokshetaustateuniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2023",
+            "title": "Kokshetau State University - Important Dates & Intake 2023",
             "info": "Students should take their admissions to Kokshetau State University before the dates mentioned below. Check out the Important dates regarding admission at Kokshetau State University:",
             "col": [
                 "Events",
@@ -633,7 +633,7 @@ export const kokshetaustateuniversity = {
         },
         {
             "type": "text",
-            "title": "Kokshetau State University of Scholarship",
+            "title": "Kokshetau State University Scholarship",
             "info": "",
             "data": "There is an option of funding and scholarship for Indian student to study at Kokshetau State University.You can check the official website of Kokshetau State University or contact the university's international office to inquire about any available scholarships for Indian students."
            
@@ -661,6 +661,22 @@ export const kokshetaustateuniversity = {
             type: 'title',
             title: "Kokshetau State University, Kazakhstan - Faculty"
 
+        },
+
+        {
+            "type": "table",
+            "title": "Faculty of Kokshetau State University",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "Marat Kadiruly Syrlybayev",
+                    "Designation": "Principal"
+                }
+            ]
         },
         {
             type: "meta",

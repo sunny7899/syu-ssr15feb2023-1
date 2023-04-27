@@ -312,15 +312,10 @@ export const mbbsinrussia = {
     },
 
     {
-      type: 'text',
+      type: 'list-bollet',
       title: 'Vacations During MBBS in Russia',
       info: 'There are two long holidays in Russia:',
-      data: '<p><b>There are two long holidays in Russia:</b></p>',
-    },
-    {
-      type: 'list-bollet',
-      title: '',
-      info: 'Russian medical universities follow semester patterns for teaching. So there are two long holidays between semesters in a year.',
+      textBelowInfo: 'Russian medical universities follow semester patterns for teaching. So there are two long holidays between semesters in a year.',
       data: [
         "The first vacation is summer vacation that is for 2 months, July and August. The next semester will start on September 1st.",
         "The second vacation is a winter vacation that lasts for around a month. From 15th January to the first week of February."

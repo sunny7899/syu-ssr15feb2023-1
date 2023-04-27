@@ -15,7 +15,7 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
         {
             type: 'text',
             title: '',
-            data: '<p>The University of <b>West Kazakhstan Marat Ospanov State Medical</b> is a milestone in the development of medical education and science in Kazakhstan. This university has more than 25 thousand students in higher medical education, the aluminis are successfully working in different locations.</p><p>With the enormous growth of the institute, WKSMU is the major educational, scientific and medical institution of Kazakhstan. Being the leading research medical centres of Kazakhstan the best option for the students looking to seek MBBS education.</p><p>Admission forms are updated on the official website, which must be filled before July.</p>'
+            data: '<p><b>West Kazakhstan Marat Ospanov State Medical University</b> is a milestone in the development of medical education and science in Kazakhstan. This university has more than 25 thousand students in higher medical education, the aluminis are successfully working in different locations.</p><p>With the enormous growth of the institute, WKSMU is the major educational, scientific and medical institution of Kazakhstan. Being the leading research medical centres of Kazakhstan the best option for the students looking to seek MBBS education.</p><p>Admission forms are updated on the official website, which must be filled before July.</p>'
         },
 
         {
@@ -47,32 +47,14 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
                 "In the university, the students can take part in programs, conferences, seminars and projects.",
                 "All modern educational equipment is provided by the university during MBBS education.",
                 "The university offers excellent and well equipped libraries for students.",
-                "A multicultural environment is maintained in the university campus."
-            ]
-        },
-
-        {
-            "type": "table-title",
-            "title": "",
-            "info": "The university provides several convenient facilities for students in the university campus which includes:",
-            "col": [],
-            "row": [
-                ["Canteen", "Sports Complex","hostel", "Gym","Cafeteria"]
-            ]
-        },
-        
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "img": '',
-            "data": [
+                "A multicultural environment is maintained in the university campus.",
                 "The tuition and hostel fees are low as compared to other countries.",
                 "This medical institute is approved by WHO and NMC.",
                 "No entrance exam is required, students get admission on the basis of their 10+2 scores.",
                 "For teaching MBBS courses the faculty uses the English language as a medium of the curriculum."
             ]
         },
+
         {
             "type": "list-bollet",
             "title": "Accreditations and Recognitions",
@@ -88,13 +70,13 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
             "title": "West Kazakhstan Marat Ospanov State Medical University - Ranking 2023",
             "info": "According to Uni rank country and world ranking of West Kazakhstan Marat Ospanov State Medical University is :",
             "col": [
-                "World",
                 "Country",
+                "World",
             ],
             "row": [
                 {
-                    "World": "36",
-                    "Country": "7866",
+                    "Country": "36",
+                    "World": "7866",
                 },
 
             ]
@@ -177,7 +159,7 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "West Kazakhstan Marat Ospanov State Medical University - MBBS Fee Structure 2022",
+            "title": "West Kazakhstan Marat Ospanov State Medical University - MBBS Fee Structure 2023",
             "info": "The following table given below is the low-cost fee structure of West Kazakhstan Marat Ospanov State Medical University:",
             "col": [
                 "Particular",
@@ -331,7 +313,7 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
                 ["Oncology", "Internal Medicine"],
                 ["Neurology", "Gynecology"],
                 ["ENT", "Emergency Medicine"],
-                ["Cardiology", ""]
+                ["Cardiology", "-"]
             ]
         },
         {
@@ -357,9 +339,59 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
             type: 'title',
             title: 'West Kazakhstan Marat Ospanov State Medical University - Admission 2023'
         },
+        
+        {
+            type: 'list-bollet',
+            title: 'Eligibility Criteria to Study MBBS at West Kazakhstan Marat Ospanov State Medical University',
+            info: 'To apply for the MBBS course at this university, students must fit in the following criteria:',
+            data: [
+                "The candidates ought to have finished at least the age of 17 years on or before 31st December of admission year while applying for MBBS admission.",
+                "The candidate must have scored 50% in the HSC exam with physics, chemistry and biology subjects.",
+                "Reserved category students require aggregate 45% and unreserved requires 50% in PCB subjects.",
+                "Qualifying scores of NEET examination is important for MBBS admission."
+            ]
+        },
+        {
+            type: 'step-list',
+            title: 'How to take Admission in West Kazakhstan Marat Ospanov State Medical University?',
+            info: 'Follow the steps given below for taking admission in west Kazakh Marat Ospanov State Medical University:',
+            data: [
+                "<b>Step 1:</b> The students must fill the online application form on the official website.",
+                "<b>Step 2:</b> Fill all important academic details on the application form.",
+                "<b>Step 3:</b> Scan all academic documents with passport copy and send it over mail.",
+                "<b>Step 4:</b> An offer letter will be sent from the university within a couple of days.",
+                "<b>Step 5:</b> The students must pay, first year MBBS Course fee.",
+                "<b>Step 6:</b> Apply for the visa process and get a valid visa."
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: 'Documents Required at West Kazakhstan Marat Ospanov State Medical University',
+            info: 'Applicants for the doctoral programme must submit the following documents to the department of masters and doctoral programme for admission:',
+            data: [
+                "Submission of Application form.",
+                "Copy of Adhar card document.",
+                "HSC and SSC board mark sheet (original at submitting the documents to the admissions office).",
+                "The candidates must submit the school leaving certificate.",
+                "Passing certificate.",
+                "NEET UG results and admit card document.",
+                "An international certificate confirming the knowledge of a foreign language in accordance with the common European competencies (standards) of foreign language proficiency.",
+                "Recent 6 passport size photos 3x4 cm must be submitted.",
+                "Birth certificate.",
+                "Medical reports.",
+                "HIV reports.",
+                "COVID-19 screening tests.",
+                "Caste certificate.",
+                "Personal data sheet or other document confirming the work activity, certified by the HR department at the place of work.",
+                "Scientific and methodological works documents.",
+                "Valid passport copy.",
+                "Migration certificate."
+            ],
+            "heading":"<b>Note: </b>Xerox copies and original documents must be brought by the students during the admission time for the verification process and all of the documents should be in a file folder."
+        },
         {
             "type": "table",
-            "title": "Important Dates: Intake 2023",
+            "title": "West Kazakhstan Marat Ospanov State Medical University - Important Dates & Intake 2023",
             "info": "Stay updated with the important dates regarding MBBS admissions at West Kazakhstan Marat Ospanov State Medical University:",
             "col": [
                 "Events",
@@ -388,55 +420,6 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
                 },
             ]
         },
-        {
-            type: 'list-bollet',
-            title: 'Eligibility Criteria',
-            info: 'To apply for the MBBS course at this university, students must fit in the following criteria:',
-            data: [
-                "The candidates ought to have finished at least the age of 17 years on or before 31st December of admission year while applying for MBBS admission.",
-                "The candidate must have scored 50% in the HSC exam with physics, chemistry and biology subjects.",
-                "Reserved category students require aggregate 45% and unreserved requires 50% in PCB subjects.",
-                "Qualifying scores of NEET examination is important for MBBS admission."
-            ]
-        },
-        {
-            type: 'step-list',
-            title: 'Admission Process',
-            info: 'Follow the steps given below for taking admission in west Kazakh Marat Ospanov State Medical University:',
-            data: [
-                "<b>Step 1:</b> The students must fill the online application form on the official website.",
-                "<b>Step 2:</b> Fill all important academic details on the application form.",
-                "<b>Step 3:</b> Scan all academic documents with passport copy and send it over mail.",
-                "<b>Step 4:</b> An offer letter will be sent from the university within a couple of days.",
-                "<b>Step 5:</b> The students must pay, first year MBBS Course fee.",
-                "<b>Step 6:</b> Apply for the visa process and get a valid visa."
-            ]
-        },
-        {
-            type: 'step-list',
-            title: 'Documents Required',
-            info: 'Applicants for the doctoral programme must submit the following documents to the department of masters and doctoral programme for admission:',
-            data: [
-                "Submission of Application form.",
-                "Copy of Adhar card document.",
-                "HSC and SSC board mark sheet (original at submitting the documents to the admissions office).",
-                "The candidates must submit the school leaving certificate.",
-                "Passing certificate.",
-                "NEET UG results and admit card document.",
-                "An international certificate confirming the knowledge of a foreign language in accordance with the common European competencies (standards) of foreign language proficiency.",
-                "Recent 6 passport size photos 3x4 cm must be submitted.",
-                "Birth certificate.",
-                "Medical reports.",
-                "HIV reports.",
-                "COVID-19 screening tests.",
-                "Caste certificate.",
-                "Personal data sheet or other document confirming the work activity, certified by the HR department at the place of work.",
-                "Scientific and methodological works documents.",
-                "Valid passport copy.",
-                "Migration certificate."
-            ],
-            "heading":"<b>Note: </b>Xerox copies and original documents must be brought by the students during the admission time for the verification process and all of the documents should be in a file folder."
-        },
         
         {
             type: "meta",
@@ -462,6 +445,16 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
             title: 'West Kazakhstan Marat Ospanov State Medical University - Reviews'
         },
         {
+            "type": "list-bollet",
+            "title": "Reviews on West Kazakhstan Marat Ospanov State Medical University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+                "<b>Simran Singh</b><p>At West Kazakhstan Marat Ospanov State Medical University, I had a great time. The professors were helpful and instructive.</p>",
+                "<b>Tushar Lavle</b><p>West Kazakhstan Marat Ospanov State Medical University should be seriously considered by anyone looking for a top-notch medical education.</p>",
+                "<b>Harshal Ghode</b><p>West Kazakhstan Marat Ospanov State Medical University has top-notch facilities and a friendly staff. I received amazing care the entire time I was there.</p>"
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "West Kazakhstan Marat Ospanov State Medical University - Reviews" },
@@ -483,6 +476,16 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
         {
             type: 'title',
             title: 'West Kazakhstan Marat Ospanov State Medical University - Placement'
+        },
+        {
+            "type": "list-bollet",
+            "title": "West Kazakhstan Marat Ospanov State Medical University Placement",
+            "info": "",
+            "data": [
+                "The West Kazakhstan Marat Ospanov State Medical University provides students with a wide range of career and internship options.",
+                "The students get to put their internship skills to the test at a variety of contemporary hospitals and academic facilities.",
+                "After the completion of their degree at West Kazakhstan Marat Ospanov State Medical University, the students have the opportunity to investigate the responsibilities of several career routes."
+            ]
         },
         {
             type: "meta",
@@ -570,7 +573,7 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
         },
         {
             type: 'list-bollet',
-            title: 'Scholarship',
+            title: 'West Kazakhstan Marat Ospanov State Medical University Scholarship',
             info: '',
             data: [
                 "Education Future International Scholarship - USA & Non-USA 2022",
@@ -602,6 +605,33 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
         {
             type: 'title',
             title: 'West Kazakhstan Marat Ospanov State Medical University - Faculty'
+        },
+        {
+            "type": "table",
+            "title": "Faculty of West Kazakhstan Marat Ospanov State Medical University",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "Abilov Talgar Satybaevich",
+                    "Designation": "Staff"
+                },
+                {
+                    "Name": "Srazh Bekbolyn Bekbolatovich",
+                    "Designation": "Staff"
+                },
+                {
+                    "Name": "Kadyrzhankyzy Bayan",
+                    "Designation": "Staff"
+                },
+                {
+                    "Name": "Kanymkulova Aigerim Maratovna",
+                    "Designation": "Staff"
+                }
+            ]
         },
         {
             type: "meta",
@@ -661,20 +691,6 @@ export const westkazakhstanmaratospanovstatemedicaluniversity = {
                 "The free high-speed internet is provided 24*7.",
                 "The hostel system provides a big common kitchen where the students can cook their own food without any extra charges.",
                 "The hostel rooms have centralised AC."
-            ]
-        },
-        {
-            type: 'list-bollet',
-            title: '',
-            info: 'Hostel has 24 hours of',
-            data: [
-                "Electricity Supply",
-                "Hot & Cold Water",
-                "Phone",
-                "Cleaning Service",
-                "The rooms have a central heater.",
-                "The Hostel rooms are fully furniture-cupboard, study table and beds in one room.",
-                "Hostel rooms are also surrounded by outdoor sports activities."
             ]
         },
         

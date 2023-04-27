@@ -67,14 +67,14 @@ export const pskovstateuniversity = {
             "title": "Pskov State University - Ranking 2023",
             "info": "According to 4icu.org, following is the country and world ranking for Pskov State University:",
             "col": [
-                "World",
                 "Country",
+                "World",
             ],
 
             "row": [
                 {
-                    "World": "155",
-                    "Country": "5006",
+                    "Country": "155",
+                    "World": "5006",
                 },
 
             ]
@@ -106,17 +106,17 @@ export const pskovstateuniversity = {
             "row": [
                 {
                     "Particulars": "<b>Accommodation (other than a hostel)</b>",
-                    "Approx Range in USD)": "214 - 257",
+                    "Approx Range in USD": "214 - 257",
                     "Approx Range in Rupees": "17,120 - 20,560",
                 },
                 {
                     "Particulars": "<b>Food	</b>",
-                    "Approx Range in USD)": "71 - 114",
+                    "Approx Range in USD": "71 - 114",
                     "Approx Range in Rupees": "5,680 - 9,120",
                 },
                 {
                     "Particulars": "<b>Transport</b>",
-                    "Approx Range in USD)": "10 - 14",
+                    "Approx Range in USD": "10 - 14",
                     "Approx Range in Rupees": "800 - 1,120",
                 },
             ],
@@ -337,7 +337,8 @@ export const pskovstateuniversity = {
         {
             "type": "text",
             "title": "Pskov State University - MBBS Duration",
-            "info": "Following is the duration for MBBS Course at the Pskov State University:<p>The duration of the MBBS course at the Pskov State University is 6 years of which 5 years are for classroom training and 1 year is compulsory Internship for students.</p>",
+            "info": "Following is the duration for MBBS Course at the Pskov State University:",
+            "data":"The duration of the MBBS course at the Pskov State University is 6 years of which 5 years are for classroom training and 1 year is compulsory Internship for students."
 
         },
         {
@@ -376,7 +377,7 @@ export const pskovstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria - For Pskov State University",
+            "title": "Eligibility Criteria to Study MBBS at Pskov State University",
             "info": "Students have to set in the following eligibility criteria to get admission to Russia for MBBS:",
             "data": [
                 "The Applicant age should be 17 years as on or before 31st December of the year of the admission process.",
@@ -388,8 +389,8 @@ export const pskovstateuniversity = {
         },
         {
             "type": "step-list",
-            "title": "Admission Process (2023-24)",
-            "info": "<p>Following are the admission steps required for applying for MBBS programs at Pskov State University:</p><p>The admission of foreign students is conducted in order as prescribed by the international treaties of the Russian Federation and in accordance with the Ministry of Education and Science of the Russian Federation.</p><b>Following are the admission steps required for applying for MBBS programs at Pskov State University:</b>",
+            "title": "How to take Admission in Pskov State University?",
+            "info": "<p>Following are the admission steps required for applying for MBBS programs at Pskov State University:</p>",
             "data": [
                 "<b>Step 1:</b> Fill the online application form provided on the Pskov university website.",
                 "<b>Step 2:</b> Take a printout of the form. Sign on it & send a scanned copy of a form along with documents to the university.",
@@ -402,7 +403,7 @@ export const pskovstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Documents Required for MBBS Admission",
+            "title": "Documents Required at Pskov State University",
             "info": "Applicant must produce original copies of below documents:",
             "data": [
                 "Copy of original passport",
@@ -417,7 +418,7 @@ export const pskovstateuniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2023",
+            "title": "Pskov State University - Important Dates & Intake 2023",
             "info": "Students should take their admissions to Pskov State University before the dates mentioned below. Check out the Important dates regarding admission at Pskov State University:",
             "col": [
                 "Events",
@@ -464,6 +465,16 @@ export const pskovstateuniversity = {
         {
             type: 'title',
             title: 'Pskov State University - Reviews'
+        },
+        {
+            "type": "list-bollet",
+            "title": "Reviews on Pskov State University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+                "<b>Yash Damodar</b><p>I really enjoyed my time at Pskov State University. The instructors were beneficial and instructive.</p>",
+                "<b>Mandar Zape</b><p>Pskov State University should be seriously considered by anyone looking for a top-notch medical education.</p>",
+                "<b>Prajwal Ringne</b><p>Pskov State University has top-notch facilities and a friendly staff. I received amazing care the entire time I was there.</p>"
+            ]
         },
         {
             type: "meta",
@@ -520,6 +531,53 @@ export const pskovstateuniversity = {
     "gallery": [ {
         type: 'title',
         title: 'Pskov State University - Gallery'
+    },
+    {
+        "image": [
+            {
+                "type": "image",
+                "data": "../../assets/img/university_gallery/pskov-state-university-building.jpg",
+                "alt": "Pskov State University Building"
+            },
+            {
+                "type": "image",
+                "data": "../../assets/img/university_gallery/pskov-state-university-conference.jpg",
+                "alt": "Pskov State University Conference"
+            },
+            {
+                "type": "image",
+                "data": "../../assets/img/university_gallery/pskov-state-university-hostel.jpg",
+                "alt": "Pskov State University Hostel"
+            },
+            {
+                "type": "image",
+                "data": "../../assets/img/university_gallery/pskov-state-university-library.jpg",
+                "alt": "Pskov State University Library"
+            },
+            {
+                "type": "image",
+                "data": "../../assets/img/university_gallery/pskov-state-university-sports-activities.jpg",
+                "alt": "Pskov State University Sport Activities"
+            },
+            {
+                "type": "image",
+                "data": "../../assets/img/university_gallery/pskov-state-university-students.jpg",
+                "alt": "Pskov State University Students Students"
+            },
+            {
+                "type": "image",
+                "data": "../../assets/img/university_gallery/pskov-state-university-swimming-pool.jpg",
+                "alt": "Pskov State University Students Swimming Pool"
+            }
+        ],
+        "video": [
+            // {
+            //     "type": "video",
+            //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+            //     "alt": "Image 1"
+            // },
+            
+        ]
     },
         {
             type: "meta",
@@ -583,7 +641,7 @@ export const pskovstateuniversity = {
         },
         {
             "type": "table",
-            "title": "faculty",
+            "title": "Pskov State University Faculty",
             "info": "",
             "col": [
                 "Name",
@@ -649,7 +707,8 @@ export const pskovstateuniversity = {
         {
             "type": "list-bollet",
             "title": "Hostel & Accommodation",
-            "info": "Pskov State University provides the facilities of accommodation and mess for students:<p>12 dormitories are provided for the students with an accommodation of 544 beds. Out of which 10 dormitories are located in the city of Pskov and 2 are located in the Velikiye Luki. Hostels are provided with the facilities for living, studying and relaxing.</p>",
+            "info": "Pskov State University provides the facilities of accommodation and mess for students:",
+            "textBelowInfo":"<p>12 dormitories are provided for the students with an accommodation of 544 beds. Out of which 10 dormitories are located in the city of Pskov and 2 are located in the Velikiye Luki. Hostels are provided with the facilities for living, studying and relaxing.</p>",
             "data": [
                 "Reading Hall",
                 "Lounges",

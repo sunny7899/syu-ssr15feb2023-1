@@ -76,14 +76,14 @@ export const bashkirstatemedicaluniversity = {
             "title": "Bashkir State Medical University - Ranking 2023",
             "info": "According to 4icu.org, following is the country and world ranking for Bashkir State Medical University:",
             "col": [
-                "World",
                 "Country",
+                "World",
             ],
 
             "row": [
                 {
-                    "World": "171",
-                    "Country": "5240",
+                    "Country": "171",
+                    "World": "5240",
                 },
 
             ]
@@ -266,38 +266,38 @@ export const bashkirstatemedicaluniversity = {
                 "Preventive Medicine",
             ]
         },
-        {
-            "type": "table",
-            "title": "Undergraduate Courses and Course Duration",
-            "info": "Bashkir State Medical University offers medical courses with the duration of 4 years to 6 years. Here are the undergraduate courses offered by the university with their durations:",
-            "col": [
-                "Course",
-                "Duration",
-            ],
+        // {
+        //     "type": "table",
+        //     "title": "Undergraduate Courses and Course Duration",
+        //     "info": "Bashkir State Medical University offers medical courses with the duration of 4 years to 6 years. Here are the undergraduate courses offered by the university with their durations:",
+        //     "col": [
+        //         "Course",
+        //         "Duration",
+        //     ],
 
-            "row": [
-                {
-                    "Course": "<b>Pediatrics</b>",
-                    "Duration": "6 years"
-                },
-                {
-                    "Course": "<b>Pharmacy</b>",
-                    "Duration": "6 years"
-                },
-                {
-                    "Course": "<b>Dentistry</b>",
-                    "Duration": "6 years"
-                },
-                {
-                    "Course": "<b>Preventive Medicine</b>",
-                    "Duration": "6 years"
-                },
-                {
-                    "Course": "<b>Biology</b>",
-                    "Duration": "6 years"
-                },
-            ]
-        },
+        //     "row": [
+        //         {
+        //             "Course": "<b>Pediatrics</b>",
+        //             "Duration": "6 years"
+        //         },
+        //         {
+        //             "Course": "<b>Pharmacy</b>",
+        //             "Duration": "6 years"
+        //         },
+        //         {
+        //             "Course": "<b>Dentistry</b>",
+        //             "Duration": "6 years"
+        //         },
+        //         {
+        //             "Course": "<b>Preventive Medicine</b>",
+        //             "Duration": "6 years"
+        //         },
+        //         {
+        //             "Course": "<b>Biology</b>",
+        //             "Duration": "6 years"
+        //         },
+        //     ]
+        // },
         {
             "type": "list-bollet",
             "title": "Bashkir State Medical University - MBBS Duration",
@@ -442,7 +442,7 @@ export const bashkirstatemedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria",
+            "title": "Eligibility Criteria to Study MBBS at Bashkir State Medical University",
             "info": "The eligibility criteria to study MBBS at Bashkir State Medical University is as follows:",
             "data": [
                 "Students must have cleared NEET exam.",
@@ -453,7 +453,7 @@ export const bashkirstatemedicaluniversity = {
         },
         {
             "type": "step-list",
-            "title": "Admission Process",
+            "title": "How to take Admission in Bashkir State Medical University?",
             "info": "Complete the following steps to take admission to Bashkir State Medical University. There is an entrance test to crack to take admission to this university:",
             "data": [
                 "<b>Step 1:</b> Choose your program and fill the application form.",
@@ -468,7 +468,7 @@ export const bashkirstatemedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Required Documents",
+            "title": "Documents Required at Bashkir State Medical University",
             "info": "Students need to submit the different documents at different steps of the admission process and student visa process:",
             "data": [
                 "Application form and Visa invitation form",
@@ -544,6 +544,16 @@ export const bashkirstatemedicaluniversity = {
             title: "Bashkir State Medical University - Reviews"
         },
         {
+            "type": "list-bollet",
+            "title": "Reviews on Bashkir State Medical University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+                "<b>Karan Patil</b><p>At Bashkir State Medical University, I had a great time. The professors were helpful and instructive.</p>",
+                "<b>Sayali Yeole</b><p>Bashkir State Medical University should be seriously considered by anyone looking for a top-notch medical education.</p>",
+                "<b>Vallabh Nare</b><p>Bashkir State Medical University has top-notch facilities and a friendly staff. I received amazing care the entire time I was there.</p>"
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Bashkir State Medical University - Reviews" },
@@ -598,6 +608,43 @@ export const bashkirstatemedicaluniversity = {
         {
             type: 'title',
             title: "Bashkir State Medical University - Gallery"
+        },
+        {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/bashkir-state-medical-university-building.jpg",
+                    "alt": "Bashkir State Medical University Building"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/bashkir-state-medical-university-classroom.jpg",
+                    "alt": "Bashkir State Medical University Classroom"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/bashkir-state-medical-university-campus.jpg",
+                    "alt": "Bashkir State Medical University Hostel"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/bashkir-state-medical-university-students-sitting-in-classroom.jpg",
+                    "alt": "Bashkir State Medical University Main Gate"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/bashkir-state-medical-university-students.jpg",
+                    "alt": "Bashkir State Medical University Student"
+                }
+            ],
+            "video": [
+                // {
+                //     "type": "video",
+                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                //     "alt": "Image 1"
+                // },
+                
+            ]
         },
         {
             type: "meta",

@@ -36,7 +36,7 @@ export const georgianamericanuniversity
         },
         {
             "type": "list-bollet",
-            "title": "Benefits of Studying at Georgian American University",
+            "title": "Benefits of Studying MBBS at Georgian American University",
             "info": "Medical education at Georgian American University is highly effective and internationally recognized. The benefits of pursuing an MD/MBBS education at University are:",
             "data": [
                 "Georgian American University is listed in WHO, FAIMER, and NMC and it is recognized globally.",
@@ -251,7 +251,7 @@ export const georgianamericanuniversity
             "type": "table",
             "title": "Georgian American University - MBBS Course Syllabus",
             "data": "Georgian American University has an internationally recognized curriculum for the MBBS course. Below is the year-wise syllabus of the university for the reference:",
-            "info": "First Year",
+            "info": "1<sup>st</sup> Year",
             "col": [
                 "1st Semester",
                 "2nd Semester",
@@ -266,7 +266,7 @@ export const georgianamericanuniversity
         {
             "type": "table",
             "title": "",
-            "info": "Second Year",
+            "info": "2<sup>nd</sup> Year",
             "col": [
                 "3rd Semester",
                 "4th Semester",
@@ -286,14 +286,14 @@ export const georgianamericanuniversity
                 },
                 {
                     "3rd Semester": "Biochemistry",
-                    "4th Semester": ""
+                    "4th Semester": "-"
                 },
             ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "Third Year",
+            "info": "3<sup>rd</sup> Year",
             "colTitle": "5th Semester",
             "col": [
 
@@ -306,7 +306,7 @@ export const georgianamericanuniversity
         {
             "type": "table-title",
             "title": "",
-            "info": "Fourth & Fifth Year",
+            "info": "4<sup>th</sup> - 5<sup>th</sup> Year",
             "colTitle": "6th-10th Semester",
             "col": [
             ],
@@ -340,7 +340,7 @@ export const georgianamericanuniversity
         },
         {
             "type": "step-list",
-            "title": "Admission Process in Georgian American University",
+            "title": "How to take Admission in Georgian American University?",
             "info": "To secure admission in one of the top medical universities in Georgia, like ‘Georgian American University’, students must follow the instructions given below:",
             "data": [
                 "<b>Step 1:</b> Students must fill the online application form along with all the required documents.",
@@ -365,7 +365,7 @@ export const georgianamericanuniversity
         },
         {
             "type": "list-bollet",
-            "title": "Documents Required",
+            "title": "Documents Required at Georgian American University",
             "info": "Refer the documents checklists for applying MBBS study at Georgian American University:",
             "data": [
                 "Date Of Birth Certificate (In English)",
@@ -381,7 +381,7 @@ export const georgianamericanuniversity
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2023",
+            "title": "Georgian American University - Important Dates & Intake 2023",
             "info": "Medical aspirants can join either fall semester having the batches in September or they can join spring academic semester having the batches in the month of February & March:",
             "col": [
                 "Events",
@@ -503,7 +503,6 @@ export const georgianamericanuniversity
             title: "Georgian American University - Gallery"
 
         },
-
         {
             "image": [
                 {

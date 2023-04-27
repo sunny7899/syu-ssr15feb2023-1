@@ -407,6 +407,7 @@ import * as loughboroughuniversity from '../../assets/universityData/loughboroug
 import * as poloniauniversity from '../../assets/universityData/polonia-university'
 import * as universityofsuffolk from '../../assets/universityData/university-of-suffolk'
 import * as universityoftrento from '../../assets/universityData/university-of-trento'
+import * as ferganamedicalinstituteofpublichealth from '../../assets/universityData/fergana-medical-institute-of-public-health'
 import * as ismuniversityofmanagementandeconomics from '../../assets/universityData/ism-university-of-management-and-economics'
 import * as allindiainstituteofmedicalsciencesaiimsnewdelhi from '../../assets/universityData/all-india-institute-of-medical-sciences-aiims-new-delhi'
 
@@ -414,6 +415,7 @@ export {
     
     //amityglobalbusinessschool,
     //amityinstituteofinformationtechnologymumbai,
+    ferganamedicalinstituteofpublichealth,
     bridgetowninternationaluniversity,
     avicennatajikstatemedicaluniversity,
     alteuniversitygeorgia,

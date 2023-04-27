@@ -380,11 +380,11 @@ export const internationalhigherschoolofmedicine = {
     "admission": [
         {
             type: 'title',
-            title: "International Higher School of Medicine, Kyrgyzstan - Admission 2023 "
+            title: "International Higher School of Medicine, Kyrgyzstan - Admission 2023"
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria",
+            "title": "Eligibility Criteria to Study at International Higher School of Medicine",
             "info": "To secure MBBS admission at the International Higher School of Medicine, one must fit into the criteria mentioned below:",
             "data": [
                 "The applicant should be at least 17 years old as on 31st December of the year in which the admission is being taken.",
@@ -396,7 +396,7 @@ export const internationalhigherschoolofmedicine = {
         },
         {
             type: 'step-list',
-            title: 'Admission Process',
+            title: 'How to take Admission in International Higher School of Medicine?',
             info: 'To study theS course at the International Higher School of Medicine the students must follow the following admission process:',
             data: [
                 "<b>Step 1:</b> Fill the application form with the required information available on the official website.",
@@ -429,7 +429,7 @@ export const internationalhigherschoolofmedicine = {
         },
         {
             "type": "list-bollet",
-            "title": "Documents Required",
+            "title": "Documents Required at International Higher School of Medicine",
             "info": "Important documents need to be submitted during MBBS Education at IHSM:",
             "data": [
                 "The students must carry their 10th & 12th certificate for MBBS admission.",
@@ -448,7 +448,7 @@ export const internationalhigherschoolofmedicine = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2023",
+            "title": "International Higher School of Medicine - Important Dates & Intake 2023",
             "info": "Students interested in MBBS course are advised to note the important dates:",
             "col": [
                 "Events",

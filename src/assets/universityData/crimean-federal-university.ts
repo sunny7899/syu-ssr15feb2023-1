@@ -19,7 +19,7 @@ export const crimeanfederaluniversity = {
 
         {
             "type": "table-title",
-            "title": "Crimea Federal University - Quick Highlights 202",
+            "title": "Crimea Federal University - Quick Highlights 2023",
             "info": "If you are looking to study MBBS in Russia, then have a quick overview on some important points of Crimean Federal University:",
             "row": [
                 ["<b>Intake for MBBS Course</b>", "September"],
@@ -57,7 +57,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'text',
             "title": 'Medium of Teaching',
-            "info": '<b>Following is the medium of teaching at Crimean Federal University:</b>',
+            "info": 'Following is the medium of teaching at Crimean Federal University:',
             "data": "<p>At this university, the medicine courses are taught in the <b>English</b> language</p>"
         },
         {
@@ -173,7 +173,7 @@ export const crimeanfederaluniversity = {
                     "In Rupees (approx. range)": "Rs.70-800"
                 }
             ],
-            "heading": "<p><b><u>Note: </u></b>1$ = 70 Rs.</p>"
+            // "heading": "<p><b><u>Note: </u></b>1$ = 70 Rs.</p>"
         },
         {
             "type": 'text',
@@ -207,11 +207,11 @@ export const crimeanfederaluniversity = {
     "coursesandfees": [
         {
             type: 'title',
-            title: "Crimean Federal University, Russia - courses & Fees"
+            title: "Crimean Federal University, Russia - Courses & Fees"
         },
         {
             "type": "table",
-            "title": "Crimea Federal University Fee Structure 2022-23",
+            "title": "Crimea Federal University Fee Structure 2023-24",
             "info": "Crimean Federal University has an affordable MBBS fee structure for Indian students, the average annual cost for MBBS is 2.50 lacs, for detailed fee structure have a look below:",
             "col": [
                 "Particular",
@@ -255,16 +255,16 @@ export const crimeanfederaluniversity = {
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year 1": "<b>4,03,709 INR</b>",
-                    "Year 2": "<b>4,03,709 INR</b>",
-                    "Year 3": "<b>4,03,709 INR</b>",
-                    "Year 4": "<b>4,03,709 INR</b>",
-                    "Year 5": "<b>4,03,709 INR</b>",
-                    "Year 6": "<b>4,03,709 INR</b>"
+                    "Year 1": "<b>2,81,204 INR</b>",
+                    "Year 2": "<b>2,81,204 INR</b>",
+                    "Year 3": "<b>2,81,204 INR</b>",
+                    "Year 4": "<b>2,81,204 INR</b>",
+                    "Year 5": "<b>2,81,204 INR</b>",
+                    "Year 6": "<b>2,81,204 INR</b>"
 
                 }
             ],
-            "heading": "<p><b>Note: </b>1 RUB = Rs. 1.45 (approx)</p>",
+            "heading": "<p><b>Note: </b>1 RUB = Rs. 1.01 (approx)</p>",
         },
         {
             "type": 'list-bollet',
@@ -383,13 +383,13 @@ export const crimeanfederaluniversity = {
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Crimean Federal University, Russia - courses & Fees" },
+                { name: "title", content: "Crimean Federal University, Russia - Courses & Fees" },
                 { name: "description", content: "Crimean Federal University was established in 1918  ; Tuition Fee with Hostel. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "Crimean Federal University, Russia - courses & Fees"
+            title: "Crimean Federal University, Russia - Courses & Fees"
         },
         {
             type: "meta-links",
@@ -417,7 +417,7 @@ export const crimeanfederaluniversity = {
         {
             "type": 'list-bollet',
             "title": 'How to Take Admission in Crimean Federal University?',
-            "info": 'Students need to follow these steps to take admission at Crimean Federal University for MBBS course:<p><b>Step 1: HOW TO APPLY</b></p>',
+            "info": 'Students need to follow these steps to take admission at Crimean Federal University for MBBS course:<p>Step 1: HOW TO APPLY</p>',
             "textBelowInfo": "<p>Students can apply online. After studying the complete information on the website about tuition fee and courses first you need to pick the course. After selecting the course you must send us the subsequent files through email:</p>",
             "data": [
                 "Filled Application Form",
@@ -493,7 +493,7 @@ export const crimeanfederaluniversity = {
         },
         {
             "type": "table",
-            "title": "Crimea Federal University - Admission Dates 2022-23",
+            "title": "Crimea Federal University - Admission Dates 2023-24",
             "info": "Students should take their admissions to Crimean Federal University before the dates mentioned below. Check out the Important dates regarding admission:",
             "col": [
                 "Events",
@@ -543,6 +543,16 @@ export const crimeanfederaluniversity = {
             title: "Crimean Federal University, Russia - Reviews"
         },
         {
+            "type": "list-bollet",
+            "title": "Reviews on Crimean Federal University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Aniket Patil</b><p>The Crimean Federal University deserves considerable consideration from anyone looking for a top-notch medical education.</p>",
+              "<b>Parth Singh</b><p>In Crimean Federal University, I had a great time. The professors were instructive and helpful.In Orel State University, I had a great time. The professors were instructive and helpful.</p>",
+              "<b>Chirag Zanwar</b><p>The Crimean Federal University has welcoming staff and first-rate facilities. I had great treatment the whole time I was there.</p>",
+            ]
+          },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Crimean Federal University, Russia - Reviews" },
@@ -567,7 +577,7 @@ export const crimeanfederaluniversity = {
         },
         {
             "type": 'list-bollet',
-            "title": 'Placement',
+            "title": 'Crimean Federal University, Russia Placement',
             "info": '',
             "data": [
                 "Fresh graduates might seek work as doctors in India after finishing their training.",
@@ -598,6 +608,44 @@ export const crimeanfederaluniversity = {
             type: 'title',
             title: "Crimean Federal University, Russia - Gallery"
         },
+
+        // {
+    //   "image": [
+    //       {
+    //           "type": "image",
+    //           "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-building.jpg",
+    //           "alt": "International Higher School of Medicine Building"
+    //       },
+    //       {
+    //           "type": "image",
+    //           "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-classroom.jpg",
+    //           "alt": "International Higher School of Medicine Classroom"
+    //       },
+    //       {
+    //           "type": "image",
+    //           "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-graduate-students.jpg",
+    //           "alt": "International Higher School of Medicine Graduated Students"
+    //       },
+    //       {
+    //           "type": "image",
+    //           "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-laboratry.jpg",
+    //           "alt": "International Higher School of Medicine Laboratry"
+    //       },
+    //       {
+    //           "type": "image",
+    //           "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-students.jpg",
+    //           "alt": "International Higher School of Medicine Students"
+    //       }
+    //   ],
+    //   "video": [
+          // {
+          //     "type": "video",
+          //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+          //     "alt": "Image 1"
+          // },
+          
+  //     ]
+  // },
         {
             type: "meta",
             meta: [
@@ -623,8 +671,8 @@ export const crimeanfederaluniversity = {
         },
         {
             "type": 'list-bollet',
-            "title": 'Scholarship',
-            "info": '<b>Hani Zeini Scholarship</b>',
+            "title": 'Crimean Federal University, Russia Scholarship',
+            "info": 'Hani Zeini Scholarship',
             "data": [
                 "An international scholarship is given to students pursuing a Bachelor's or Master's degree.",
                 "The maximum amount offered as a tuition fee reduction is $1000 and can only be credited once.",
@@ -663,6 +711,34 @@ export const crimeanfederaluniversity = {
             type: 'title',
             title: "Crimean Federal University, Russia - Faculty"
         },
+        {
+            "type": "table",
+            "title": "Faculty of Crimean Federal University",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "SHEN LIU",
+                    "Designation": "Staff"
+                },
+                {
+                    "Name": "Krish Burnwal",
+                    "Designation": "Staff"
+                },
+                {
+                    "Name": "Pratyush Pratik",
+                    "Designation": "Staff"
+                },
+                {
+                    "Name": "Anirudha Doiphode",
+                    "Designation": "Staff"
+                }
+            ]
+        },
+
         {
             type: "meta",
             meta: [
@@ -712,7 +788,8 @@ export const crimeanfederaluniversity = {
         {
             "type": 'text',
             "title": 'Hostel and Accommodation',
-            "info": 'The university provides excellent hostel facilities for all students:<p>Crimean Federal University has owned the Government hostels for the accommodation of international students. Around 6 hostels are driven under the supervision of the university. The security team is provided to ensure the safety of international students at a hostel.</p>',
+            "info": 'The university provides excellent hostel facilities for all students:',
+            "data":"<p>Crimean Federal University has owned the Government hostels for the accommodation of international students. Around 6 hostels are driven under the supervision of the university. The security team is provided to ensure the safety of international students at a hostel.</p>"
         },
         {
             "type": 'list-bollet',
@@ -768,7 +845,7 @@ export const crimeanfederaluniversity = {
                     "ans": "MBBS in Crimean Federal University costs around INR 18-20 lacs for the full-time course."
                 },
                 {
-                    "ques": "Q. MBBS in Crimean Federal University costs around INR 18-20 lacs for the full-time course.",
+                    "ques": "Q. How do I get admission for an MBBS course at Crimean Federal University?",
                     "ans": "For admission query, you need to contact the administrative representative of the university for international students or you can drop a mail to us on info@selectyouruniversity.com."
                 },
                 {
@@ -789,7 +866,7 @@ export const crimeanfederaluniversity = {
                 },
                 {
                     "ques": "Q. What is the application deadline for Crimea Federal University, Russia?",
-                    "ans": "October 25th, 2022 is the application deadline for Crimea Federal University."
+                    "ans": "September month is the application deadline for Crimea Federal University."
                 },
                 {
                     "ques": "Q. Is there any entrance exam for Crimea Federal Medical University?",
