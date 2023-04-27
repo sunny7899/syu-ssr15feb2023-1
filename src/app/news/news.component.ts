@@ -28,19 +28,23 @@ export class NewsComponent implements OnInit {
     responsiveClass: true,
     responsive: {
       0: {
+        dotsEach: 5,
         items: 1,
         nav: true
       },
       600: {
-        items: 2,
+        dotsEach: 3,
+        items: 1,
         nav: true
       },
       1000: {
+        dotsEach: 2,
         items: 4,
         nav: true,
         loop: false
       },
       1500: {
+        dotsEach: 1,
         items: 4,
         nav: true,
         loop: false

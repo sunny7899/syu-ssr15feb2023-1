@@ -1,5 +1,4 @@
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
-
 .sticky {
     padding-left: 0px;
 }
@@ -258,8 +257,6 @@ input.form-control:focus {
 
 .success {
     color: rgb(241, 241, 241);
-    margin-left: 30%;
-    margin-top: -25px;
 }
 
 .study-div .border {
@@ -295,7 +292,6 @@ input.form-control:focus {
 //         margin-top: 8px;
 //     }
 // }
-
 @media screen and (min-width: 1431px) and (max-width: 2000px) {
     .subscribe-row {
         padding-bottom: 1%;
@@ -306,11 +302,9 @@ input.form-control:focus {
     .pt-4 {
         padding-top: 5.5rem !important;
     }
-
     .pt-3 {
         padding-top: 4rem !important;
     }
-
     // .signbtn {
     //     width: 200%;
     // }
@@ -320,9 +314,7 @@ input.form-control:focus {
     .subscribe-text {
         margin-top: -45px
     }
-
     .newsletter-icon {
-
         margin-left: -25px;
         margin-top: -45px;
         margin-right: 20px;
@@ -333,9 +325,7 @@ input.form-control:focus {
     .subscribe-text {
         margin-top: -45px
     }
-
     .newsletter-icon {
-
         margin-left: -25px;
         margin-top: -45px;
         margin-right: 20px;
@@ -386,15 +376,12 @@ input.form-control:focus {
     .banner h1 {
         font-size: 26px !important;
     }
-
     .para1 {
         font-size: 10pt;
     }
-
     .banner {
         padding-top: 40px !important;
     }
-
     .subscribe-row {
         padding-bottom: 1%;
     }
@@ -404,7 +391,6 @@ input.form-control:focus {
     .subscribe-text {
         font-size: 39px;
     }
-
     .subscribe-row {
         padding-bottom: 5%;
     }
@@ -414,11 +400,9 @@ input.form-control:focus {
     .banner h1 {
         font-size: 34px !important;
     }
-
     .para1 {
         font-size: 12pt;
     }
-
     .banner {
         padding-top: 130px !important;
     }
@@ -461,17 +445,14 @@ marquee a {
     .title {
         width: 20%;
     }
-
     .title img {
         width: 125%;
         margin-left: -25px;
         margin-right: 0 !important;
     }
-
     .new h3 {
         font-size: 100%;
     }
-
     .marquee {
         margin-top: 0.1%;
     }
@@ -488,26 +469,25 @@ marquee a {
     .pt-4 {
         padding-top: 3.5rem !important;
     }
-
     .new {
         height: 40px;
         margin-top: -30px;
     }
-
     .title {
         margin-left: 50px;
     }
-
     .new h3 {
         margin-top: -18px;
     }
-
     .marquee {
         line-height: 2.5;
     }
-
     .signbtn {
         margin-bottom: 0;
+    }
+    .success {
+        margin-left: 58%;
+        margin-top: -30px;
     }
 }
 
