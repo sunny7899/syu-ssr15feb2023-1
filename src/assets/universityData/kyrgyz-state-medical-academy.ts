@@ -291,7 +291,7 @@ export const kyrgyzstatemedicalacademy = {
     {
       "type": "table",
       "title": "Kyrgyz State Medical Academy - MBBS Syllabus (Semester wise)",
-      "info": "Following is the semester wise syllabus for MBBS in Kyrgyz State Medical Academy, have a look:<p><b>1st Year</b></p>",
+      "info": "Following is the semester wise syllabus for MBBS in Kyrgyz State Medical Academy, have a look:<p>1st Year</p>",
       "col": [
         "1st Semester",
         "2nd Semester"
@@ -487,7 +487,7 @@ export const kyrgyzstatemedicalacademy = {
     {
       "type": "list-bollet",
       "title": "",
-      "info": "<b>Documents Required for applying Visa:</b>",
+      "info": "Documents Required for applying Visa:",
       "data": [
         "Invitation letter",
         "Application letter",
@@ -592,7 +592,7 @@ export const kyrgyzstatemedicalacademy = {
     },
     {
       "type": "text",
-      "title": "Placement on Kyrgyz State Medical Academy",
+      "title": "Placement at Kyrgyz State Medical Academy",
       "info": "",
       "data":"Kyrgyz State Medical Academy provides students with various options for the job fair. The students get opportunities of Internships as well as the job fair offers them residency practice positions after respective entrance exams."
     },

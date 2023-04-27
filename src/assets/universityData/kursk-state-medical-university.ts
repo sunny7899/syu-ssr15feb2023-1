@@ -13,12 +13,12 @@ export const kurskstatemedicaluniversity = {
         },
         {
             "type": "text",
-            "title": "About Kursk State Medical University, Russia",
+            "title": "",
             "data": "<p><strong>Kursk State Medical University (KSMU)</strong> was established in 1935 in Kursk, Russia. It is one of the top choices for studying MBBS in Russia. With over 7000 students studying currently, the university provides top-quality education to 2600 international students. This includes 800+ Indian students.</p><p>There are 8 faculties in the university including medical faculty, and over 65 academic departments. The university has awarded many graduated students so far including  17650 physicians at the Medical faculty.</p><p>The university is more than 75 years old now. With this much experience, it has now expanded its roots. The university was previously established as Kursk Medical Institute in 1935. It got its University status in 1994.</p><p>In 2021, the Kursk State Medical University established its International Medical Institute. It is a new division of KSMU. After successfully completing the medical course from KSMU, students get awarded with the degree of M.D. (Doctor of Medicine) which is similar to MBBS in India.</p><p>The university is affiliated with 16 hospitals. These are the hospitals where students can do their internships and practices. With this many hospitals students can get a vast experience of studying and treating various patients.</p>"
         },
         {
             "type": "table-title",
-            "title": "Kursk State Medical University - Quick Overview 2022",
+            "title": "Kursk State Medical University - Quick Overview 2023",
             "info": "Have a look at the following quick facts and details about MBBS at Kursk State Medical University:",
             "col": [],
             "row": [
@@ -28,7 +28,7 @@ export const kurskstatemedicaluniversity = {
                 ["<b>Annual Tuition Fees</b>", "5580 USD (approx)"],
                 ["<b>Duration of MBBS Course</b>", "5+1 year of Internship"],
                 ["<b>Medium of Teaching</b>", "English Language"],
-                ["<b>University Ranking</b>", "Country - 180<br>World - 4670"],
+                ["<b>University Ranking</b>", "Country - 204<br>World - 5804"],
                 ["<b>University Recognition</b>", "NMC, WHO, GMC, JPA & other international medical boards"]
             ]
         },
@@ -53,16 +53,16 @@ export const kurskstatemedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Kursk State Medical University Ranking 2022",
+            "title": "Kursk State Medical University Ranking 2023",
             "info": "There are around 1182 universities in Russia, know where Kursk State Medical University stands among them. It comes under the top 15% of universities in Russia:",
             "col": [
-                "<b>Country</b>",
-                "<b>World</b>",
+                "Country",
+                "World",
             ],
             "row": [
                 {
-                    "Country": "180",
-                    "World": "4670"
+                    "Country": "204",
+                    "World": "5804"
                 }
             ]
         },
@@ -83,10 +83,32 @@ export const kurskstatemedicaluniversity = {
             "type": "list-bollet",
             "title": "Students Life",
             "info": "The students studying at Kursk State Medical University has a great lifestyle and amenities here. They get to access all the necessary facilities of the university:",
+            "textBelowInfo":"<b>1. Sports</b>",
             "data": [
-                "<b>Sports</b><br>Students get to participate and play many sports. There is a free sport program for students at KSMU.<br>The campus life has everything to offer to students for a healthy lifestyle including sports campuses.",
-                "<b>Library</b><br>Kursk State Medical University has a huge library for students and a huge subscriber base. It was established in 1935.<br>There are over 20,000 users of the library including students, professors, working doctors, interns and other users.<br>Around 6,00,000 publications are given out for the readers.<br>Around 6,00,000 publications are given out for the readers.<br>There are over 3,00,000 visitors per year to the KSMU library.<br>There is a facility of electronic library too.",
-                "<b>Museum</b><br>The museum of Kursk State Medical University was established in 1975. It is known as the Root of Military and Labor Glory.<br>It represents the connecting thread of the past and the history of the university to the present. Students get to know many things about the history of the university and its history of over 75 years."
+                "Students get to participate and play many sports. There is a free sport program for students at KSMU.",
+               "The campus life has everything to offer to students for a healthy lifestyle including sports campuses."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "2. Library",
+            "data": [
+                "Kursk State Medical University has a huge library for students and a huge subscriber base. It was established in 1935.",
+                "There are over 20,000 users of the library including students, professors, working doctors, interns and other users.",
+                "Around 6,00,000 publications are given out for the readers.",
+                "Around 6,00,000 publications are given out for the readers.",
+                "There are over 3,00,000 visitors per year to the KSMU library.",
+                "There is a facility of electronic library too."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "3. Museum",
+            "data": [
+                "The museum of Kursk State Medical University was established in 1975. It is known as the Root of Military and Labor Glory.",
+                "It represents the connecting thread of the past and the history of the university to the present. Students get to know many things about the history of the university and its history of over 75 years."
             ]
         },
         {
@@ -123,20 +145,20 @@ export const kurskstatemedicaluniversity = {
                 {
                     "Particulars": "<b>Hostel (yearly)</b>",
                     "Approx Range in USD": "1000 USD",
-                    "Approx Range in RS": "70,000 Rs"
+                    "Approx Range in RS": "80,000 Rs"
                 },
                 {
                     "Particulars": "<b>Food</b>",
                     "Approx Range in USD": "6.05 USD",
-                    "Approx Range in RS": "445.98 Rs"
+                    "Approx Range in RS": "484 Rs"
                 },
                 {
                     "Particulars": "<b>Transportation</b>",
                     "Approx Range in USD": "0.29 USD",
-                    "Approx Range in RS": "21.38 Rs"
+                    "Approx Range in RS": "23.2 Rs"
                 }
             ],
-            "heading": "<p><strong>Note: </strong>$1 = Rs. 70 Rs (for calculation purpose)</p>"
+            "heading": "<p><strong>Note: </strong>$1 = Rs. 80 Rs (for calculation purpose)</p>"
 
         },
         {
@@ -178,12 +200,12 @@ export const kurskstatemedicaluniversity = {
     "coursesandfees": [
         {
             type: 'title',
-            title: "Kursk State Medical University - courses & Fees"
+            title: "Kursk State Medical University - Courses & Fees"
 
         },
         {
             "type": "table",
-            "title": "Fee Structure of Kursk State Medical University",
+            "title": "Kursk State Medical University Fee Structure 2023",
             "info": "The Indian students can take admission to Kursk State Medical University based on the total package of fees for the MBBS course which is very much affordable. See the following table:",
             "col": [
                 "Particular",
@@ -224,15 +246,15 @@ export const kurskstatemedicaluniversity = {
                 },
                 {
                     "Particular": "<b>Total Fees in Rs</b>",
-                    "Year 1": "<b>Rs. 4,45,880</b>",
-                    "Year 2": "<b>Rs. 4,45,880</b>",
-                    "Year 3": "<b>Rs. 4,45,880</b>",
-                    "Year 4": "<b>Rs. 4,45,880</b>",
-                    "Year 5": "<b>Rs. 4,45,880</b>",
-                    "Year 6": "<b>Rs. 4,45,880</b>"
+                    "Year 1": "<b>Rs. 5,02,400</b>",
+                    "Year 2": "<b>Rs. 5,02,400</b>",
+                    "Year 3": "<b>Rs. 5,02,400</b>",
+                    "Year 4": "<b>Rs. 5,02,400</b>",
+                    "Year 5": "<b>Rs. 5,02,400</b>",
+                    "Year 6": "<b>Rs. 5,02,400</b>"
                 }
             ],
-            "heading": "<p><strong>Note: </strong>$1 = Rs. 70 Rs (approx)</p>"
+            "heading": "<p><strong>Note: </strong>$1 = Rs. 80 Rs (approx)</p>"
 
         },
         {
@@ -318,7 +340,7 @@ export const kurskstatemedicaluniversity = {
         },
         {
             "type": "text",
-            "title": "Kursk State Medical University - MBBS Syllabus",
+            "title": "Kursk State Medical University - MBBS Syllabus (Semester-Wise)",
             "info": "The semester-wise total syllabus of the MBBS course that is taught in the whole course duration is given below:"
         },
         {
@@ -406,20 +428,20 @@ export const kurskstatemedicaluniversity = {
                 ["Pediatrics", "Neurology and Psychiatry"],
                 ["Psychiatry", "Psychology"],
                 ["ENT", "Emergency Medicine"],
-                ["Cardiology", ""]
+                ["Cardiology", "-"]
             ]
         },
 
         {
             type: "meta",
             meta: [
-                { name: "title", content: "Kursk State Medical University - courses & Fees" },
+                { name: "title", content: "Kursk State Medical University - Courses & Fees" },
                 { name: "description", content: "know about Kursk State Medical University, Eligibility, Required documents, courses Duration. Check available courses and fees" },
             ],
         },
         {
             type: "meta-title",
-            title: "Kursk State Medical University - courses & Fees"
+            title: "Kursk State Medical University - Courses & Fees"
         },
         {
             type: "meta-links",
@@ -437,7 +459,7 @@ export const kurskstatemedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Admission Criteria",
+            "title": "Eligibility Criteria to Study MBBS at Kursk State Medical University",
             "info": "There are simple eligibility criteria for MBBS at Kursk State Medical University:",
             "data": [
                 "The Candidates must be 17 years above or take admission before 31st December to do MBBS in Russia.",
@@ -447,7 +469,7 @@ export const kurskstatemedicaluniversity = {
         },
         {
             "type": "step-list",
-            "title": "How can I get Admission in Kursk State Medical University?",
+            "title": "How to take Admission in Kursk State Medical University?",
             "info": "Know what process one needs to follow to take admission for the Medicinal course at Kursk State Medical University:",
             "data": [
                 "<b>Step 1:</b> Fill up the online admission forms of Kursk state medical university.",
@@ -459,7 +481,7 @@ export const kurskstatemedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Documents Required",
+            "title": "Documents Required at Kursk State Medical University",
             "info": "Students should keep the following list of the documents that are required to take admission to Kursk State Medical University, Russia",
             "data": [
                 "SSC mark sheet",
@@ -476,7 +498,7 @@ export const kurskstatemedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Kursk State Medical University - Academic Calendar 2022",
+            "title": "Kursk State Medical University - Academic Calendar 2023",
             "info": "Kursk State Medical University offers admission twice a year. The full timetable of the admission dates and deadlines is given below:",
             "col": [
                 "Particulars",
@@ -532,6 +554,16 @@ export const kurskstatemedicaluniversity = {
 
         },
         {
+            "type": "list-bollet",
+            "title": "Reviews on Kursk State Medical University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+                "<b>Vaishnavi Deshpande</b><p>I had a lovely experience at the Kursk State Medical University. The teachers were instructive and helpful.</p>",
+                "<b>Aditi Dube</b><p>Anybody looking for a top-notch medical education should give the Kursk State Medical University significant consideration.</p>",
+                "<b>Bhavesh Singh</b><p>The facilities at Kursk State Medical University are excellent, and the staff is welcoming. The entire time I was there, I got fantastic care.</p>"
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kursk State Medical University - Reviews" },
@@ -558,7 +590,7 @@ export const kurskstatemedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "placement",
+            "title": "Kursk State Medical University Placement",
             "info": "",
             "data": [
                 "Kursk State Medical University also encourages graduates to further their studies by providing the option.",
@@ -591,6 +623,48 @@ export const kurskstatemedicaluniversity = {
 
         },
         {
+            "image": [
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kursk-state-medical-university-building.jpg",
+                    "alt": "Kursk State Medical University Building"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kursk-state-medical-university-campus.jpg",
+                    "alt": "Kursk State Medical University Campus"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kursk-state-medical-university-computer-lab.jpg",
+                    "alt": "Kursk State Medical University Computer Lab"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kursk-state-medical-university-graduate-students.jpg",
+                    "alt": "Kursk State Medical University Graduate Students"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kursk-state-medical-university-hostel.jpg",
+                    "alt": "Kursk State Medical University Hostel"
+                },
+                {
+                    "type": "image",
+                    "data": "../../assets/img/university_gallery/kursk-state-medical-university-students-in-classroom.jpg",
+                    "alt": "Kursk State Medical University Students in CLassroom"
+                }
+            ],
+            "video": [
+                // {
+                //     "type": "video",
+                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                //     "alt": "Image 1"
+                // },
+                
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Kursk State Medical University - Gallery" },
@@ -616,9 +690,9 @@ export const kurskstatemedicaluniversity = {
 
         },
         {
-            "type": "list-bollet",
-            "title": "scholarship",
-            "info": "<p>The goal of Kursk University is to highlight the talented medical professionals in the country, and to support this goal, the academic community offers such students a variety of funding opportunities. There is a predetermined percentage of students from the economically less advantaged group, and for that reason, that specific percentage cannot afford the university to take the initiative.</p><p>Grants for the fees are given out each year to the students who perform the best in the coursework.</p>",
+            "type": "text",
+            "title": "Kursk State Medical University Scholarship",
+            "data": "<p>The goal of Kursk University is to highlight the talented medical professionals in the country, and to support this goal, the academic community offers such students a variety of funding opportunities. There is a predetermined percentage of students from the economically less advantaged group, and for that reason, that specific percentage cannot afford the university to take the initiative.</p><p>Grants for the fees are given out each year to the students who perform the best in the coursework.</p>",
         },
         {
             type: "meta",
@@ -645,22 +719,33 @@ export const kurskstatemedicaluniversity = {
             title: "Kursk State Medical University - Faculty"
 
         },
-        // {
-        //     "type": "text",
-        //     "title": "What are the Faculties offered in KSMU?",
-        //     "info": "Kursk State Medical University has around 6 faculties. Namely as follows:",
-        //     "img": "",
-        //     "data": [
-        //         "Medicine",
-        //         "Pediatrics",
-        //         "Preventive Medicine",
-        //         "Stomatology/Dentistry",
-        //         "Pharmacy",
-        //         "",
-        //         "Nursing",
-        //     ]
-        // },
-
+        {
+            "type": "table",
+            "title": "Faculty of Kursk State Medical University",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "V.V.  Harchenko",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "Professor Drozdova Irina Leonidovna",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "Professor Vasilenko Tatyana Dimitrevna",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "Professor BROVKINA Inna Leonidovna",
+                    "Designation": "Professor"
+                }
+            ]
+        },
 
         {
             type: "meta",

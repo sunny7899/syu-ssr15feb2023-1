@@ -14,13 +14,13 @@ export const uvgullascollegeofmedicine = {
         {
             "type": 'text',
             "title": '',
-            "data": '<p><b>UV Gullas College of Medicine</b> was established in the year 1977. The Visayan institute was founded in the year 1919 by the late Don Vicente Gullas. Later in the year 1948, this  became the University of the Visayas in 1948. With the approval of the Ministry of Education, Culture, and Sports, it was then established in 1977 with the name UV Gullas College of Medicine.</p><p>The environment of the college is comfortable and most conducive to engage in learning The college campus is located in Cebu. The college is at the central location and thus it is accessible by all means of land transportation.</p><p>The UV Gullas College of Medicine has an excellent atmosphere for learning and medical practice.</p>'
+            "data": "<p><b>UV Gullas College of Medicine</b> was established in Cebu, Philippines in the year 1977. The Visayan institute was founded in 1919 by the late Don Vicente Gullas. Later in the year 1948, this became the University of the Visayas in 1948. With the approval of the Ministry of Education, Culture, and Sports, later it was established in 1977 with the name UV Gullas College of Medicine.</p><p>The environment of the college is comfortable and most conducive to engage in learning. The college campus is located in Cebu. The college is at the central location and thus it is accessible by all means of land transportation. Currently 1400+ Indian students are studying MBBS at UV Gullas College of Medicine.</p><p>The UV Gullas College of Medicine is a highly ranked institute with a low cost MBBS education with the average tuition fees of Rs. 2.70 Lacs per year. With English being the medium of teaching at the college, the college becomes the top choice for Indian students looking to study MBBS in the Philippines.</p>"
         },
 
 
         {
             "type": "table-title",
-            "title": "UV Gullas College of Medicine - Quick Highlights",
+            "title": "UV Gullas College of Medicine - Quick Highlights 2023",
             "info": "Given below is the table for quick overview about Gullas College of Medicine:",
             "col": [
             ],
@@ -32,7 +32,7 @@ export const uvgullascollegeofmedicine = {
                 ["<b>NEET Exam</b>", "Yes, it is compulsory"],
                 ["<b>Course Duration</b>", "5.5 years"],
                 ["<b>Medium of Education</b>", "English Language"],
-                ["<b>University Ranking</b>", "Country - 66<br> World - 8121"],
+                ["<b>University Ranking</b>", "Country - 124<br> World - 10113"],
                 ["<b>University Recognition</b>", "NMC, WHO, listed in WDOMS"],
             ]
         },
@@ -43,13 +43,13 @@ export const uvgullascollegeofmedicine = {
             "data": [
                 "At UV Gullas college of Medicine, American Standard is achievable and affordable too.",
                 "The UV Gullas college of Medicine creates a well-established platform for USMLE.",
-                "UV Gullas college of medicine provides one to one care for all international students.",
+                "The university provides one to one care for all international students.",
                 "Indian food is available, so students feel like home at the college.",
                 "The college has an affordable tuition fee and installment mode is available for students.",
                 "For special care of international students, the international students office is available for special assistance & dedicated service.",
                 "Students do not face any language problems, since English is the medium of instruction & 99% of the population of Cebu speaks English.",
                 "The college has a friendly and healthy environment for students.",
-                "At the campus of Gullas college, there are 1400 plus Indian students studying medicine.",
+                "At the campus of UV Gullas college, there are 1400 plus Indian students studying medicine.",
                 "The college provides regular interaction between Students & Parents on a daily basis.",
                 "The college provides hostels with comfortable facilities and safe living.",
                 "The syllabus of the college is US based and the time duration is optimal, only 5.5 years."
@@ -59,7 +59,7 @@ export const uvgullascollegeofmedicine = {
 
         {
             "type": "table",
-            "title": "UV Gullas College of Medicine Ranking 2022",
+            "title": "UV Gullas College of Medicine Ranking 2023",
             "info": "According to 4icu.org, following is the country and world ranking for Gullas College of Medicine is as follows:",
             "col": [
                 "Country",
@@ -67,8 +67,8 @@ export const uvgullascollegeofmedicine = {
             ],
             "row": [
                 {
-                    "Country": "66",
-                    "world": "8121",
+                    "Country": "124",
+                    "world": "10113",
                 },
 
 
@@ -138,8 +138,8 @@ export const uvgullascollegeofmedicine = {
         },
         {
             "type": "table",
-            "title": "UV Gullas College - Admission Dates 2022-23",
-            "info": "Here are some Important dates to remember if you want to pursue medical career at Devdaha Medical College:",
+            "title": "UV Gullas College of Medicine Fee Structure 2023-24",
+            "info": "The fee structure for UV Gullas College of Medicine for MBBS program is:",
             "col": [
                 "Year",
                 "16-months",
@@ -192,7 +192,7 @@ export const uvgullascollegeofmedicine = {
 
 
             ],
-            "heading": "<b><u>Note:</u> One time expenses (Registration charges), food charges, etc. can be extra up to Rs.70,000/- (or more approximately).The fees mentioned here are approximate, and may vary as per the change in currency.</b>"
+            "heading": "<b><u>Note:</u></b> One time expenses (Registration charges), food charges, etc. can be extra up to Rs.70,000/- (or more approximately).The fees mentioned here are approximate, and may vary as per the change in currency."
 
         },
         {
@@ -212,8 +212,8 @@ export const uvgullascollegeofmedicine = {
         },
         {
             "type": "table",
-            "title": "UV Gullas College of Medicine - Admission Dates 2022-23",
-            "info": "Here are some Important dates to remember if you want to pursue medical career at Devdaha Medical College:",
+            "title": "UV Gullas College of Medicine - MBBS Syllabus",
+            "info": "The syllabus for studying MBBS in Philippines at UV Gullas College of Medicine is as follows:",
             "col": [
                 "First Year",
                 "Second  Year",
@@ -293,11 +293,11 @@ export const uvgullascollegeofmedicine = {
     "admission": [
         {
             type: 'title',
-            title: 'UV Gullas College of Medicine, Philippines  - Admission 2023'
+            title: 'UV Gullas College of Medicine, Philippines  - Admission 2024'
         },
         {
             "type": "list-bollet",
-            "title": "What are the Eligibility Criteria to get Admission in UV Gullas College of Medicine?",
+            "title": "Eligibility Criteria to Study MBBS at UV Gullas College of Medicine",
             "info": "Below given is the eligibility criteria for studying MBBS at UV Gullas College of Medicine:",
             "data": [
                 "Students should have more than 50% marks in chemistry, biology, or botany and zoology and physics for the 12th grade.",
@@ -320,7 +320,7 @@ export const uvgullascollegeofmedicine = {
 
         {
             "type": "list-bollet",
-            "title": "Required Documents",
+            "title": "Documents Required at UV Gullas College of Medicine",
             "info": "Following documents are required for MBBS admission into UV Gullas College of Medicine:",
             "data": [
                 "10th and 12th Marksheets",
@@ -341,7 +341,7 @@ export const uvgullascollegeofmedicine = {
         },
         {
             "type": "table",
-            "title": "UV Gullas College of Medicine - Admission Dates 2022-23",
+            "title": "UV Gullas College of Medicine - Admission Dates 2023-24",
             "info": "Students should consider the following important dates to follow the timetable of admission dates:",
             "col": [
                 "Events",
@@ -387,6 +387,18 @@ export const uvgullascollegeofmedicine = {
             type: 'title',
             title: 'UV Gullas College of Medicine, Philippines  - Reviews'
         },
+
+        {
+            "type": "list-bollet",
+            "title": "Reviews on UV Gullas College of Medicine",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Kunal Shah</b><p>I really enjoyed my time at UV Gullas College of Medicine. The instructors were beneficial and instructive.</p>",
+              "<b>Maruti Deshpande</b><p>Everyone looking for a top-notch medical education should give the UV Gullas College of Medicine some serious thought.</p>",
+              "<b>Aditi Patel</b><p>The UV Gullas College of Medicine provides excellent amenities and a welcoming staff. Throughout my entire stay, I received wonderful care.</p>",
+            ]
+          },
+
         {
             type: "meta",
             meta: [
@@ -411,12 +423,12 @@ export const uvgullascollegeofmedicine = {
             title: 'UV Gullas College of Medicine, Philippines  - Placement'
         },
         {
-            "type": "number-list",
-            "title": "",
+            "type": "list-bollet",
+            "title": "UV Gullas College of Medicine Placement",
             "info": "",
             "data": [
                 "Offers internship in private and government hospitals",
-                "Provides placements at top hospitals in philippines, like - <br>Vicente Sotto Memorial Medical Center<br>Chong Hua Medical Center<br>Perpetual Succor Hospital<br>CDU Hospital"
+                "Provides placements at top hospitals in philippines, like - Vicente Sotto Memorial Medical Center, Chong Hua Medical Center, Perpetual Succor Hospital, CDU Hospital"
 
             ]
         },
@@ -443,6 +455,43 @@ export const uvgullascollegeofmedicine = {
             type: 'title',
             title: 'UV Gullas College of Medicine, Philippines  - Gallery'
         },
+        // {
+        //     "image": [
+        //         {
+        //             "type": "image",
+        //             "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-building.jpg",
+        //             "alt": "International Higher School of Medicine Building"
+        //         },
+        //         {
+        //             "type": "image",
+        //             "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-classroom.jpg",
+        //             "alt": "International Higher School of Medicine Classroom"
+        //         },
+        //         {
+        //             "type": "image",
+        //             "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-graduate-students.jpg",
+        //             "alt": "International Higher School of Medicine Graduated Students"
+        //         },
+        //         {
+        //             "type": "image",
+        //             "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-laboratry.jpg",
+        //             "alt": "International Higher School of Medicine Laboratry"
+        //         },
+        //         {
+        //             "type": "image",
+        //             "data": "../../assets/img/university_gallery/international-higher-school-of-medicine-students.jpg",
+        //             "alt": "International Higher School of Medicine Students"
+        //         }
+        //     ],
+        //     "video": [
+                // {
+                //     "type": "video",
+                //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+                //     "alt": "Image 1"
+                // },
+                
+        //     ]
+        // },
         {
             type: "meta",
             meta: [
@@ -468,7 +517,7 @@ export const uvgullascollegeofmedicine = {
         },
         {
             "type": "list-bollet",
-            "title": "",
+            "title": "UV Gullas College of Medicine, Philippines Scholarship",
             "info": "<p>UV Gullas College of Medicine offer for the UV Gullas Fees Structure which is already very affordable, this could be golden opportunity for Indian students have a look -</p>",
             "data": [
                 "<b>UV Gullas college of medicine scholarship - </b>UV Gullas College of Medicine Scholarships are Provided to students who are passionate to study MBBS and work for humanity!"
@@ -521,6 +570,33 @@ export const uvgullascollegeofmedicine = {
             title: 'UV Gullas College of Medicine, Philippines  - Faculty'
         },
         {
+            "type": "table",
+            "title": "Faculty of UV Gullas College of Medicine",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "Albim Cabatingan",
+                    "Designation": "Director, HRMD"
+                },
+                {
+                    "Name": "NIRAJ VIRADIYA",
+                    "Designation": "Doctor"
+                },
+                {
+                    "Name": "Jannine Colina",
+                    "Designation": "Preceptor"
+                },
+                {
+                    "Name": "Wailea Faye Salva",
+                    "Designation": "Junior Faculty - Medical Education Unit"
+                }
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: " UV Gullas College of Medicine, Philippines  - Faculty" },
@@ -560,18 +636,7 @@ export const uvgullascollegeofmedicine = {
                 "At the hostels, there is a separate study area for boys and girls well maintained for students to prepare for their exams and assignments."
             ]
         },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "hostel",
-                "Security",
-                "Wifi",
-                "Accommodation",
-
-            ]
-        },
+        
         {
             type: "meta",
             meta: [

@@ -15,7 +15,7 @@ export const davaomedicalschoolfoundation = {
         {
             "type": 'text',
             "title": '',
-            "data": '<p><b>Davao Medical School Foundation</b> was the first medical college located in the city of Mindanao and was established in the year of 1976. Davao Medical School Foundation is the best choice for MBBS as the medical aspirants in this university receive clinical training at the southern Philippines medical center, the Brokenshire Memorial hospital, and San Pedro hospital with 4000 beds.</p><p>The admission process of the Davao Medical School Foundation has started accepting the applications for admission.</p>'
+            "data": "<p><b>Davao Medical School Foundation (DMSF)</b> is a private medical institution located in Davao City, Philippines. It was founded in 1976 and is recognized by the Commission on Higher Education (CHED) and the World Health Organization (WHO).</p><p>DMSF offers undergraduate and graduate medical programs, as well as other health-related courses such as nursing, physical therapy, and medical technology.</p><p>The most popular course offered by DMSF is its Doctor of Medicine (MD) program, which is a 6 year course that includes a one-year clinical internship. The MD program is recognized by the Medical Council of India (MCI) and the General Medical Council (GMC) of the United Kingdom. </p><p>In addition, the university offers a Bachelor of Science in Nursing (BSN) program, a Bachelor of Science in Medical Technology (BSMT) program, and a Bachelor of Science in Physical Therapy (BSPT) program.</p><p>For admission to the MD program, applicants are required to have completed a Bachelor's degree in any field with a minimum of 50% marks in the pre-medical subjects. They must also pass the National Medical Admission Test (NMAT) and undergo an interview. The average tuition fee for the MD program at DMSF is approximately PHP 200,000 per year.</p>"
         },
 
         {
@@ -32,7 +32,7 @@ export const davaomedicalschoolfoundation = {
                 ["<b>Admission Fees	</b>", "2900 USD"],
                 ["<b>Duration Of MBBS Course</b>", "6 Years"],
                 ["<b>Medium Of Teaching</b>", "English"],
-                ["<b>University Ranking</b>", "Country Rank - 87<>br> World Rank - 9016"],
+                ["<b>University Ranking</b>", "Country Rank - 87<br> World Rank - 9016"],
                 ["<b>University Recognition</b>", "NMC & WHO"],
             ]
         },
@@ -53,6 +53,54 @@ export const davaomedicalschoolfoundation = {
 
             ]
         },
+        
+
+
+
+        {
+            "type": "table",
+            "title": "Davao Medical School Foundation - Ranking 2023",
+            "info": "As per ranking web of universities the country and world ranking are given below:",
+            "col": [
+                "Country",
+                "World",
+            ],
+            "row": [
+                {
+                    "Country": "87",
+                    "World": "9016",
+                },
+            ]
+        },
+
+        {
+            "type": "table",
+            "title": "Cost of Living in Mindanao",
+            "info": "The expenses of living in Mindanao are given below: ",
+            "col": [
+                "Particulars",
+                "Approx Range in Peso",
+                "Approx Range in INR",
+            ],
+            "row": [
+                {
+                    "Particulars": "<b>Accommodation (other than a hostel)</b>",
+                    "Approx Range in Peso": "12,825.00 ₱",
+                    "Approx Range in INR": "Rs. 17,500",
+                },
+                {
+                    "Particulars": "<b>Food</b>",
+                    "Approx Range in Peso": "147.50 ₱",
+                    "Approx Range in INR": "Rs. 140",
+                },
+                {
+                    "Particulars": "<b>Transport</b>",
+                    "Approx Range in Peso": "8.00 ₱",
+                    "Approx Range in INR": "Rs. 11.2",
+                },
+            ],
+            "heading": "<p><b>Note:</b>Philippino peso = inr 1.41</p>"
+        },
         {
             "type": "table",
             "title": "Davao Medical School Foundation - FMGE Performance 2021",
@@ -71,53 +119,6 @@ export const davaomedicalschoolfoundation = {
                     "Pass %": "39.98%",
                 },
             ]
-        },
-
-
-
-        {
-            "type": "table",
-            "title": "Davao Medical School Foundation - Ranking 2023",
-            "info": "As per ranking web of universities the country and world ranking are given below:",
-            "col": [
-                "Country",
-                "World",
-            ],
-            "row": [
-                {
-                    "Country": "87",
-                    " World": "9016",
-                },
-            ]
-        },
-
-        {
-            "type": "table",
-            "title": "Cost of Living in Mindanao",
-            "info": "The expenses of living in Mindanao are given below: ",
-            "col": [
-                "Particulars",
-                "Approx Range in Peso",
-                "Approx Range in INR",
-            ],
-            "row": [
-                {
-                    "Particulars": "<b>Accommodation (other than a hostel)</b>",
-                    "Approx Range in Peso": "12,825.00 ₱",
-                    "Approx Range in INR": "rs 17,500",
-                },
-                {
-                    "Particulars": "<b>Food</b>",
-                    "Approx Range in Peso": "147.50 ₱",
-                    "Approx Range in INR": "rs 140",
-                },
-                {
-                    "Particulars": "<b>Transport</b>",
-                    "Approx Range in Peso": "8.00 ₱",
-                    "Approx Range in INR": "rs 11.2",
-                },
-            ],
-            "heading": "<p><b>Note:</b>Philippino peso = inr 1.41</p>"
         },
         {
             type: 'text',
@@ -167,7 +168,7 @@ export const davaomedicalschoolfoundation = {
         },
         {
             "type": "table",
-            "title": "Davao Medical School Foundation - MBBS Fee Structure",
+            "title": "Davao Medical School Foundation - MBBS Fee Structure 2023",
             "info": "Following table shows the fee structure of studying MBBS at Davao Medical School Foundation, Philippines: ",
             "col": [
                 "Particulars",
@@ -222,7 +223,7 @@ export const davaomedicalschoolfoundation = {
                 "The tuition fee should be paid only in US dollars.",
                 "usd to peso and inr to usd will be calculated as per bank actual rate real-time",
                 "indian students can also apply for premium hostel facilities",
-                "1 USD = 70 INR (approx)",
+                "1 USD = 80 INR (approx)",
             ]
         },
         
@@ -240,70 +241,67 @@ export const davaomedicalschoolfoundation = {
         {
             "type": "text",
             "title": "Davao Medical School Foundation - MBBS Duration",
-            "info": "<p><b>MBBS course duration is of 6 years :</b><br>Davao Medical School Foundation is providing all international and local students of the Philippines with 6 years. The duration of a medical degree in the Philippines is 6 years which includes 5 years of mbbs course and 1 year of internship.</p>"
-        },
-        {
-            "type": "text",
-            "title": "Davao Medical School Foundation - MBBS Syllabus",
-            "info": "Syllabus of md program at Davao Medical School Foundation is given below:",
+            "info": "MBBS course duration is of 6 years:",
+            "data":"Davao Medical School Foundation is providing all international and local students of the Philippines with 6 years. The duration of a medical degree in the Philippines is 6 years which includes 5 years of mbbs course and 1 year of internship."
         },
         {
             "type": "table",
-            "title": "",
-            "info": "Syllabus For Pre-Medical",
+            "title": "Davao Medical School Foundation - MBBS Syllabus",
+            "info": "Syllabus of md program at Davao Medical School Foundation is given below:",
+            "textBelowInfo": "<b>Syllabus For Pre-Medical</b>",
             "col": [
                 "First Term",
-                "Second  Term",
-                "Third  Term",
-                "Fourth  Term",
+                "Second Term",
+                "Third Term",
+                "Fourth Term",
             ],
             "row": [
                 {
                     "First Term": "Calculus & Analytical",
-                    "Second  Term": "Plant Physiology",
-                    "Third  Term": "Ecology",
-                    "Fourth  Term": "Rizal's Life, Works, And Writings"
+                    "Second Term": "Plant Physiology",
+                    "Third Term": "Ecology",
+                    "Fourth Term": "Rizal's Life, Works, And Writings"
                 },
                 {
                     "First Term": "Geometry",
-                    "Second  Term": "Fundamentals Of Genetics",
-                    "Third  Term": "Education For Sustainable",
-                    "Fourth  Term": "Econ. / Taxation & Agrarian Reform"
+                    "Second Term": "Fundamentals Of Genetics",
+                    "Third Term": "Education For Sustainable",
+                    "Fourth Term": "Econ. / Taxation & Agrarian Reform"
                 },
                 {
                     "First Term": "Biochemistry",
-                    "Second  Term": "Animal Physiology",
-                    "Third  Term": "Development",
-                    "Fourth  Term": "Econ. / Taxation & Agrarian Reform"
+                    "Second Term": "Animal Physiology",
+                    "Third Term": "Development",
+                    "Fourth Term": "Econ. / Taxation & Agrarian Reform"
                 },
                 {
                     "First Term": "Plant Morpho-anatomy",
-                    "Second  Term": "Entomology",
-                    "Third  Term": "Research Methodology",
-                    "Fourth  Term": "Human Genetic"
+                    "Second Term": "Entomology",
+                    "Third Term": "Research Methodology",
+                    "Fourth Term": "Human Genetic"
                 },
                 {
                     "First Term": "Comparative Vertebrate Anatomy",
-                    "Second  Term": "Freshwater Biology",
-                    "Third  Term": "Systematic Biology",
-                    "Fourth  Term": "Radiation Biology"
+                    "Second Term": "Freshwater Biology",
+                    "Third Term": "Systematic Biology",
+                    "Fourth Term": "Radiation Biology"
                 },
                 {
                     "First Term": "General Psychology",
-                    "Second  Term": "General Microbiology",
-                    "Third  Term": "Cell And Molecular Biology",
-                    "Fourth  Term": "Histology & Micro-technique"
+                    "Second Term": "General Microbiology",
+                    "Third Term": "Cell And Molecular Biology",
+                    "Fourth Term": "Histology & Micro-technique"
                 },
                 {
                     "First Term": "Parasitology",
-                    "Second  Term": "Philosophy Of Man",
-                    "Third  Term": "Comparative Religion",
-                    "Fourth  Term": "Research In Bio. Sc. (Thesis Writing) Immunology"
+                    "Second Term": "Philosophy Of Man",
+                    "Third Term": "Comparative Religion",
+                    "Fourth Term": "Research In Bio. Sc. (Thesis Writing) Immunology"
                 },
                 {
                     "First Term": "Plant Morpho-anatomy",
-                    "Second  Term": "Developmental Biology",
-                    "Third  Term": "Politics And Governance",
+                    "Second Term": "Developmental Biology",
+                    "Third Term": "Politics And Governance",
                 },
             ]
         },
@@ -389,7 +387,7 @@ export const davaomedicalschoolfoundation = {
                     "1st semester": "-",
                     "2nd semester": "-",
                     "3rd semester": "Obstetrics and Gynecology",
-                    "Fourth  Term": "-"
+                    "4th semester": "-"
                 },
             ]
         },
@@ -421,7 +419,7 @@ export const davaomedicalschoolfoundation = {
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria",
+            "title": "Eligibility Criteria to Study MBBS at Davao Medical School Foundation",
             "info": "Students have to set in the following eligibility criteria to get admission in Davao Medical School Foundation for MBBS:",
             "data": [
                 "The age of students must be 18 years.",
@@ -436,7 +434,7 @@ export const davaomedicalschoolfoundation = {
         },
         {
             "type": "step-list",
-            "title": "Admission Process",
+            "title": "How can I Get Admission in Davao Medical School Foundation?",
             "info": "follow these steps to take admission in Philippines for MBBS:",
             "data": [
                 "<b>Step 1:</b>The student should submit the application to the chairman of the committee with the above documents to the secretary.",
@@ -447,7 +445,7 @@ export const davaomedicalschoolfoundation = {
         },
         {
             "type": "list-bollet",
-            "title": "Documents Required",
+            "title": "Documents Required at Davao Medical School Foundation",
             "info": "Students need to have the following documents for the admission process:",
             "data": [
                 "Academic documents of 11th and 12th",
@@ -458,7 +456,18 @@ export const davaomedicalschoolfoundation = {
                 "Visa fee payment receipt",
                 "1st-year tuition fee payment receipt",
                 "Document of medical fitness",
-                "<b>Documents needed for the initial evaluation -</b><br>Completed Application Form and Personal History Statement<br>Transcript of Records - (Photocopy )<br>National Medical Admission Test (NMAT) result (Photocopy)<br>Letter of Reference from two (2) former professors<br>Application Fee (non-refundable)"
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Documents needed for the initial evaluation:",
+            "data": [
+                "Completed Application Form and Personal History Statement",
+                "Transcript of Records - (Photocopy)",
+                "National Medical Admission Test (NMAT) result (Photocopy)",
+                "Letter of Reference from two (2) former professors",
+                "Application Fee (non-refundable)"
             ]
         },
         {
@@ -480,6 +489,7 @@ export const davaomedicalschoolfoundation = {
         }
     ],
     "review": [
+        
         {
             type: 'title',
             title: "Davao Medical School Foundation, Philippines - Reviews"
@@ -639,7 +649,7 @@ export const davaomedicalschoolfoundation = {
         },
         {
             "type": "list-bollet",
-            "title": "scholarship",
+            "title": "Davao Medical School Foundation Scholarship",
             "info": "",
             "data": [
                 "Nellie Kellog Van Schaick Scholarship Program",
@@ -671,7 +681,7 @@ export const davaomedicalschoolfoundation = {
         },
         {
             "type": "number-list",
-            "title": "Faculty ",
+            "title": "Davao Medical School Foundation Faculty",
             "info": "Department of Physiology",
             "data": [
                 "Hontiveros Erwin Rommel Dr Lab Instructor/Lecturer",
@@ -743,18 +753,7 @@ export const davaomedicalschoolfoundation = {
 
             ]
         },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "Wifi",
-                "Security",
-                "Kitchen",
-                "hostel",
-
-            ]
-        },
+       
         {
             type: "meta",
             meta: [
@@ -799,7 +798,7 @@ export const davaomedicalschoolfoundation = {
                 },
                 {
                     "ques": "Q. How many Indian students are studying at Davao Medical School Foundation?",
-                    "ans": "Around 800 foreign students are studying at Davao Medical School Foundation."
+                    "ans": "Around 800 indian students are studying at Davao Medical School Foundation."
                 },
 
                 {

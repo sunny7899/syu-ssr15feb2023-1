@@ -14,7 +14,7 @@ export const brokenshirecollegeschoolofmedicine = {
         {
             "type": 'text',
             "title": '',
-            "data": '<p><strong>Brokenshire College School of Medicine</strong> is a top ranking private university placed in Davao City, Philippines. The college was founded in 1954 as a part of the education ministry of the United Church of Christ. They offer graduate packages for Masters degrees in Nursing and Theology, and a School of Medicine. Courses provided at the college are undergraduate applications in Business, Arts and Sciences, and Health Sciences.</p><p>Brokenshire College is registered as a non-stock, non-profit instructional Corporation associated with the United Church of Christ withinside the Philippines (UCCP). The scholarships are devoted to offer value-oriented medical training through continuous development and general involvement.</p><p>Brokenshire College ranking is performed through putting major efforts to acquire its goals of preserving and maintaining first-class MBBS schooling. Brokenshire College School of Medicine tuition fee is low which costs at an average of 3.2 lacs annually. Indian students choose Brokenshire College to pursue their goals of becoming a doctor as the medium of instruction is English, in 5.5 years of MBBS in Philippines.</p>'
+            "data": "<p><b>Brokenshire College School of Medicine</b> is a prestigious private university located in Davao City, Philippines. As a component of the United Church of Christ's education ministry, the college was established in 1954. They have a School of Medicine, as well as graduate programmes offering master's degrees in nursing and theology. Undergraduate business, arts and sciences, and health sciences courses are offered at the college.</p><p>As a non-stock, non-profit educational corporation connected to the United Church of Christ inside the Philippines (UCCP), Brokenshire College is officially registered. Through ongoing improvement and community involvement, the scholarships are committed to providing medical training that is value-oriented.</p><p>In order to achieve its objectives of conserving and maintaining top-notch MBBS education, Brokenshire College makes significant efforts to rank highly. The average annual tuition fees for MBBS at Brokenshire College School of Medicine is about 3.2 lacs, with English being the primary language of instruction during the 5.5-year MBBS in Philippines, Indian students often select Brokenshire College to further their medical careers.</p>"
         },
         {
             "type": "table-title",
@@ -388,7 +388,7 @@ export const brokenshirecollegeschoolofmedicine = {
     "admission": [
         {
             type: 'title',
-            title: "Brokenshire College School of Medicine, Philippines - Admission 2023 "
+            title: "Brokenshire College School of Medicine, Philippines - Admission 2023"
         },
         {
             "type": "list-bollet",
@@ -469,6 +469,7 @@ export const brokenshirecollegeschoolofmedicine = {
 
     ],
     "review": [
+
         {
             type: 'title',
             title: "Brokenshire College School of Medicine, Philippines - Reviews"
@@ -615,7 +616,7 @@ export const brokenshirecollegeschoolofmedicine = {
             "title": "Brokenshire College School of Medicine Scholarship",
             "info": "",
             "data": [
-                "GOVERNMENT SPONSORED SCHOLARSHIP",
+                "Government Sponsored Scholarship",
                 "Congressional Scholarship",
                 "DOH (Department of Health)",
                 "EBSU (Educational Benefit Scholarship Unit)",
@@ -649,7 +650,7 @@ export const brokenshirecollegeschoolofmedicine = {
 
         {
             "type": "number-list",
-            "title": " ",
+            "title": "Brokenshire College School of Medicine, Philippines Faculty",
             "info": "Michael Itnati",
             "data": [
                 "Professor Emeritus, Medical School",

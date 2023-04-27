@@ -78,18 +78,12 @@ export const wroclawmedicaluniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table-title",
             "title": "Facilities Provided at Wroclaw Medical University",
             "info": '<p>Wroclaw Medical University provides all basic facilities at the convenience of students:</p>',
-            "data": [
-                "Sports Complex",
-                "Security",
-                "hostel",
-                "Internet",
-                "Classroom",
-                "Canteen",
-                "Library",
-                "Auditorium",
+            "row": [
+                ["Sports Complex","Security","hostel","Internet"],
+                ["Classroom", "Canteen","Library","Auditorium"]
             ]
         },
 
@@ -131,7 +125,7 @@ export const wroclawmedicaluniversity = {
         {
             "type": "table-title",
             "title": "",
-            "info": "Top attractions of Wroclaw -",
+            "info": "Top attractions of Wroclaw:",
             "col": [],
             "row": [
                 ["Market Square", "Wrocław Town Hall"],
@@ -391,7 +385,7 @@ export const wroclawmedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria - For MBBS Course at WMU",
+            "title": "Eligibility Criteria to Study MBBS at Wroclaw Medical University",
             "info": "If the students strive to get admission in medicine program at Wroclaw Medical University, then the following requirements have to be met:",
             "data": [
                 "The applicants wishing to pursue an MBBS course should be at least 17 years old as on 31st December of the admission year.",
@@ -403,7 +397,7 @@ export const wroclawmedicaluniversity = {
         },
         {
             "type": "step-list",
-            "title": "Admission Process (2022-23)",
+            "title": "How can I Get Admission in Wroclaw Medical University?",
             "info": "The students who seek to get MBBS at Wroclaw Medical University must follow the mentioned below steps:",
             "data": [
                 "<b>Step 1:</b> Fill the application form will correct details available on the official website of Wroclaw Medical University.",
@@ -416,7 +410,7 @@ export const wroclawmedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Document Required - For MBBS Admission at WMU",
+            "title": "Documents Required at Wroclaw Medical University",
             "info": "The students must bring the important documents required during MBBS admission process at Wroclaw Medical University:",
             "data": [
                 "Every candidate must submit the correct filled application form.",
@@ -437,7 +431,7 @@ export const wroclawmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Wroclaw Medical University - Intake 2023",
+            "title": "Wroclaw Medical University - Important Dates & Intake 2023",
             "info": "The applicants must always keep an eye on the important dates regarding the MBBS course at Wroclaw Medical University:",
             "col": [
                 "Events",
@@ -482,6 +476,16 @@ export const wroclawmedicaluniversity = {
             title: 'Wroclaw Medical University, Poland - Reviews'
         },
         {
+            "type": "list-bollet",
+            "title": "Reviews on Wroclaw Medical University",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Parth Nimodiya</b><p>I really enjoyed my time at Wroclaw Medical University. The instructors were beneficial and instructive.</p>",
+              "<b>Kriti Ugale</b><p>Everyone looking for a top-notch medical education should give the Wroclaw Medical University some serious thought.</p>",
+              "<b>Saurabh Yadgire</b><p>The Wroclaw Medical University provides excellent amenities and a welcoming staff. Throughout my entire stay, I received wonderful care.</p>",
+            ]
+          },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wroclaw Medical University, Poland - Reviews" },
@@ -504,6 +508,12 @@ export const wroclawmedicaluniversity = {
             type: 'title',
             title: 'Wroclaw Medical University, Poland - Placement'
         },
+        {
+            "type": "text",
+            "title": "Wroclaw Medical University Placement",
+            "info": "",
+            "data":"Doctor of Medicine (M.D.) qualification awarded by Wroclaw Medical University is recognized worldwide and can be used to apply for a local medical licence in most countries in the world. In order to do so a medical graduate has to fulfil the destination country's national or state medical board requirements, usually involving an examination or a series of examinations and an internship period."
+          },
         {
             type: "meta",
             meta: [
@@ -633,6 +643,33 @@ export const wroclawmedicaluniversity = {
             title: 'Wroclaw Medical University, Poland - Faculty'
         },
         {
+            "type": "table",
+            "title": "Faculty of Wroclaw Medical University",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "Marcin Mikulewicz",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "dr hab. Andrzej Hendrich",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "dr hab. Marcin Mączyński",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "dr Anna Kołcz",
+                    "Designation": "Professor"
+                }
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Wroclaw Medical University, Poland - Faculty" },
@@ -646,7 +683,7 @@ export const wroclawmedicaluniversity = {
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wroclaw-university-of-technology/faculty" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wroclaw-medical-university/faculty" }
             ]
         }
     ],
@@ -769,7 +806,7 @@ export const wroclawmedicaluniversity = {
         {
             type: "meta-links",
             link: [
-                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wroclaw-university-of-technology/hostel" }
+                { rel: "canonical", href: "https://www.selectyouruniversity.com/university/wroclaw-medical-university/hostel" }
             ]
         }
     ],

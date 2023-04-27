@@ -229,36 +229,36 @@ export const andijanstatemedicalinstitute = {
             ],
             "row": [
                 {
-                    "First Year": "Medical Chemistry",
-                    "Second Year": "Histology",
+                    "1st Year": "Medical Chemistry",
+                    "2nd Year": "Histology",
                 },
                 {
-                    "First Year": "Fundamentals of Psychology",
-                    "Second Year": "Physiology",
+                    "1st Year": "Fundamentals of Psychology",
+                    "2nd Year": "Physiology",
                 },
                 {
-                    "First Year": "Histology",
-                    "Second Year": "Human Anatomy",
+                    "1st Year": "Histology",
+                    "2nd Year": "Human Anatomy",
                 },
                 {
-                    "First Year": "Bioorganic Chemistry",
-                    "Second Year": "Biochemistry",
+                    "1st Year": "Bioorganic Chemistry",
+                    "2nd Year": "Biochemistry",
                 },
                 {
-                    "First Year": "Cytology",
-                    "Second Year": "Microbiology",
+                    "1st Year": "Cytology",
+                    "2nd Year": "Microbiology",
                 },
                 {
-                    "First Year": "Embryology",
-                    "Second Year": "Emergency Medicine",
+                    "1st Year": "Embryology",
+                    "2nd Year": "Emergency Medicine",
                 },
                 {
-                    "First Year": "Human Anatomy",
-                    "Second Year": "Patient Care",
+                    "1st Year": "Human Anatomy",
+                    "2nd Year": "Patient Care",
                 },
                 {
-                    "First Year": "Elective Courses",
-                    "Second Year": "Embryology",
+                    "1st Year": "Elective Courses",
+                    "2nd Year": "Embryology",
                 },
             ]
         },
@@ -272,44 +272,44 @@ export const andijanstatemedicalinstitute = {
             ],
             "row": [
                 {
-                    "Third Year": "Pharmacology",
-                    "Fourth Year": "Tuberculosis",
+                    "3rd Year": "Pharmacology",
+                    "4th Year": "Tuberculosis",
                 },
                 {
-                    "Third Year": "Pathomorphology",
-                    "Fourth Year": "Surgery",
+                    "3rd Year": "Pathomorphology",
+                    "4th Year": "Surgery",
                 },
                 {
-                    "Third Year": "Pediatrics",
-                    "Fourth Year": "Obstetrics and Gynecology",
+                    "3rd Year": "Pediatrics",
+                    "4th Year": "Obstetrics and Gynecology",
                 },
                 {
-                    "Third Year": "Internal Medicine",
-                    "Fourth Year": "Urology",
+                    "3rd Year": "Internal Medicine",
+                    "4th Year": "Urology",
                 },
                 {
-                    "Third Year": "General Surgery",
-                    "Fourth Year": "Neurology",
+                    "3rd Year": "General Surgery",
+                    "4th Year": "Neurology",
                 },
                 {
-                    "Third Year": "Ecology",
-                    "Fourth Year": "Ophthalmology",
+                    "3rd Year": "Ecology",
+                    "4th Year": "Ophthalmology",
                 },
                 {
-                    "Third Year": "Radiology",
-                    "Fourth Year": "Narcology",
+                    "3rd Year": "Radiology",
+                    "4th Year": "Narcology",
                 },
                 {
-                    "Third Year": "Elective Courses",
-                    "Fourth Year": "Medical Psychology",
+                    "3rd Year": "Elective Courses",
+                    "4th Year": "Medical Psychology",
                 },
                 {
-                    "Third Year": "Biostatistics",
-                    "Fourth Year": "Forensic Medicine",
+                    "3rd Year": "Biostatistics",
+                    "4th Year": "Forensic Medicine",
                 },
                 {
-                    "Third Year": "-",
-                    "Fourth Year": "Social Medicine",
+                    "3rd Year": "-",
+                    "4th Year": "Social Medicine",
                 },
             ]
         },
@@ -323,40 +323,40 @@ export const andijanstatemedicalinstitute = {
             ],
             "row": [
                 {
-                    "Fifth Year": "Infectious Diseases",
-                    "Sixth Year": "General Practice",
+                    "5th Year": "Infectious Diseases",
+                    "6th Year": "General Practice",
                 },
                 {
-                    "Fifth Year": "Oncology",
-                    "Sixth Year": "Elective courses",
+                    "5th Year": "Oncology",
+                    "6th Year": "Elective courses",
                 },
                 {
-                    "Fifth Year": "Epidemiology",
-                    "Sixth Year": "-",
+                    "5th Year": "Epidemiology",
+                    "6th Year": "-",
                 },
                 {
-                    "Fifth Year": "Gynecology",
-                    "Sixth Year": "-",
+                    "5th Year": "Gynecology",
+                    "6th Year": "-",
                 },
                 {
-                    "Fifth Year": "Traumatology",
-                    "Sixth Year": "-",
+                    "5th Year": "Traumatology",
+                    "6th Year": "-",
                 },
                 {
-                    "Fifth Year": "Medical Genetics",
-                    "Sixth Year": "-",
+                    "5th Year": "Medical Genetics",
+                    "6th Year": "-",
                 },
                 {
-                    "Fifth Year": "Social Medicine",
-                    "Sixth Year": "-",
+                    "5th Year": "Social Medicine",
+                    "6th Year": "-",
                 },
                 {
-                    "Fifth Year": "Obstetrics",
-                    "Sixth Year": "-",
+                    "5th Year": "Obstetrics",
+                    "6th Year": "-",
                 },
                 {
-                    "Fifth Year": "Clinical Immunology",
-                    "Sixth Year": "-",
+                    "5th Year": "Clinical Immunology",
+                    "6th Year": "-",
                 },
 
             ]
@@ -386,7 +386,7 @@ export const andijanstatemedicalinstitute = {
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria",
+            "title": "Eligibility Criteria to Study MBBS at Andijan State Medical Institute",
             "info": "The eligibility criteria to study MBBS at Andijan State Medical Institute is as follows:",
             "data": [
                 "Students must have cleared NEET exam.",
@@ -398,7 +398,7 @@ export const andijanstatemedicalinstitute = {
         },
         {
             "type": "step-list",
-            "title": "Admission Process",
+            "title": "How to take Admission in Andijan State Medical Institute?",
             "info": "Following is the admission process for applying to MBBS course at Andijan State Medical Institute:",
             "data": [
                 "<b>Step 1:</b> At the beginning, a student needs to scan all the documents.",
@@ -411,7 +411,7 @@ export const andijanstatemedicalinstitute = {
         },
         {
             "type": "list-bollet",
-            "title": "Required Documents",
+            "title": "Documents Required at Andijan State Medical Institute",
             "info": "Following documents are required at the time of admission to Andijan State Medical Institute:",
             "data": [
                 "Birth certificate",
@@ -579,7 +579,7 @@ export const andijanstatemedicalinstitute = {
     "scholarship": [
         {
             type: 'title',
-            title: "Andijan State Medical Institute - Scholarships Details"
+            title: "Andijan State Medical Institute - Scholarships"
         },
         {
             "type": "list-bollet",

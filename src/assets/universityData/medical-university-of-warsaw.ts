@@ -29,7 +29,7 @@ export const medicaluniversityofwarsaw = {
                 ["Annual Tuition Fees (approx.)", "52000 PLN"],
                 ["Course Duration", "6 years including internship"],
                 ["Medium of Education", "English"],
-                ["University Ranking", "Country Rank - 25<br>World Rank - 1991"]
+                ["University Ranking", "Country Rank - 34<br>World Rank - 2454"]
             ]
         },
         {
@@ -78,56 +78,15 @@ export const medicaluniversityofwarsaw = {
             ]
         },
         {
-            type: 'list-bollet',
+            type: 'table-title',
             title: 'Facilities Provided at Medical University of Warsaw',
             info: 'Top-class of facilities are provided at the comfort zone of the students who are studying at Medical University of Warsaw:',
-            data: [
-                "Dormitories",
-                "Internet",
-                "Laboratories",
-                "Sport",
-                "Classroom",
-                "Canteen",
+            row: [
+                ["Dormitories","Internet", "Laboratories"],
+                ["Sport", "Classroom","Canteen"]
             ]
         },
-        //     img: "Dormitories.png",
-        //     data: "<p class=text-center>Dormitories</p>"
-        // },
-        // {
-        //     type: 'text',
-        //     title: '',
-        //     info: '',
-        //     img: "Internet.png",
-        //     data: "<p class=text-center>Internet</p>"
-        // },
-        // {
-        //     type: 'text',
-        //     title: '',
-        //     info: '',
-        //     img: "Laboratories.png",
-        //     data: "<p class=text-center>Laboratories</p>"
-        // },
-        // {
-        //     type: 'text',
-        //     title: '',
-        //     info: '',
-        //     img: "Sport.png",
-        //     data: "<p class=text-center>Sport</p>"
-        // },
-        // {
-        //     type: 'text',
-        //     title: '',
-        //     info: '',
-        //     img: "Classroom.png",
-        //     data: "<p class=text-center>Classroom</p>"
-        // },
-        // {
-        //     type: 'text',
-        //     title: '',
-        //     info: '',
-        //     img: "Canteen.png",
-        //     data: "<p class=text-center>Canteen</p>"
-        // },
+       
         {
             "type": "table",
             title: 'Medical University of Warsaw - FMGE Performance 2019',
@@ -170,12 +129,7 @@ export const medicaluniversityofwarsaw = {
             ],
             "heading": "<p><b><u>Note:</u></b> 1$ = 80 Rs. (for calculation purpose)</p>"
         },
-        // {
-        //     type: 'text',
-        //     title: 'Rectors Message',
-        //     info: '',
-        //     img: 'rectors-message-of-medical-university-of-warsaw.jpg',
-        // },
+        
         {
             type: 'list-bollet',
             title: 'About Warsaw City',
@@ -287,19 +241,13 @@ export const medicaluniversityofwarsaw = {
             "heading": "<p><b>Note: </b>1 EUR = Rs. 85 (It may Vary)</p>"
         },
         {
-            type: 'list-bollet',
+            type: 'table-title',
             title: 'Courses offered at Medical University of Warsaw',
             info: 'The Medical University of Warsaw has a broad spectrum, of course, the students must go through the medical faculties given below:',
-            data: [
+            row: [
 
-                "Medicine",
-                "Dentistry",
-                "Pharmacy",
-                "Health Sciences",
-                "Postgraduate Education Center",
-                "Doctoral School",
-                "University Doctoral Studies",
-                "International Environmental Doctoral Studies",
+               [ "Medicine","Dentistry", "Pharmacy", "Health Sciences"],
+                ["Postgraduate Education Center", "Doctoral School","University Doctoral Studies","International Environmental Doctoral Studies"]
             ]
         },
         {
@@ -318,33 +266,33 @@ export const medicaluniversityofwarsaw = {
             title: 'Medical University of Warsaw - MBBS Syllabus',
             info: "For understanding the detailed syllabus of the Medical University of Warsaw, one must consider the table mentioned below:",
             "col": [
-                "First Year",
-                "Second Year",
+                "1st Year",
+                "2nd Year",
             ],
             "row": [
                 {
-                    "First Year": "Human Physiology",
-                    "Second Year": "Pathology"
+                    "1st Year": "Human Physiology",
+                    "2nd Year": "Pathology"
                 },
                 {
-                    "First Year": "Human Anatomy",
-                    "Second Year": "Clinical Medicine"
+                    "1st Year": "Human Anatomy",
+                    "2nd Year": "Clinical Medicine"
                 },
                 {
-                    "First Year": "Histology",
-                    "Second Year": "Microbiology"
+                    "1st Year": "Histology",
+                    "2nd Year": "Microbiology"
                 },
                 {
-                    "First Year": "Biochemistry",
-                    "Second Year": "Immunology"
+                    "1st Year": "Biochemistry",
+                    "2nd Year": "Immunology"
                 },
                 {
-                    "First Year": "Genetics",
-                    "Second Year": "Pharmacology"
+                    "1st Year": "Genetics",
+                    "2nd Year": "Pharmacology"
                 },
                 {
-                    "First Year": "Health and Safety",
-                    "Second Year": "Medical sociology"
+                    "1st Year": "Health and Safety",
+                    "2nd Year": "Medical sociology"
                 },
             ]
         },
@@ -352,45 +300,45 @@ export const medicaluniversityofwarsaw = {
             "type": "table",
             title: '',
             "col": [
-                "Third Year",
-                "Fourth Year",
+                "3rd Year",
+                "4th Year",
             ],
             "row": [
                 {
-                    "Third Year": "Pediatrics",
-                    "Fourth Year": "Propedeutics to Dentistry"
+                    "3rd Year": "Pediatrics",
+                    "4th Year": "Propedeutics to Dentistry"
                 },
                 {
-                    "Third Year": "Internal Medicine",
-                    "Fourth Year": "Neurology"
+                    "3rd Year": "Internal Medicine",
+                    "4th Year": "Neurology"
                 },
                 {
-                    "Third Year": "Surgery",
-                    "Fourth Year": "Surgery"
+                    "3rd Year": "Surgery",
+                    "4th Year": "Surgery"
                 },
                 {
-                    "Third Year": "Pharmacology",
-                    "Fourth Year": "Pediatrics"
+                    "3rd Year": "Pharmacology",
+                    "4th Year": "Pediatrics"
                 },
                 {
-                    "Third Year": "Radiology",
-                    "Fourth Year": "gynecology"
+                    "3rd Year": "Radiology",
+                    "4th Year": "gynecology"
                 },
                 {
-                    "Third Year": "Dermatology",
-                    "Fourth Year": "Family Medicine"
+                    "3rd Year": "Dermatology",
+                    "4th Year": "Family Medicine"
                 },
                 {
-                    "Third Year": "Anatomy",
-                    "Fourth Year": "Obstetrics"
+                    "3rd Year": "Anatomy",
+                    "4th Year": "Obstetrics"
                 },
                 {
-                    "Third Year": "Ophthalmology",
-                    "Fourth Year": "Anesthesiology"
+                    "3rd Year": "Ophthalmology",
+                    "4th Year": "Anesthesiology"
                 },
                 {
-                    "Third Year": "Epidemiology",
-                    "Fourth Year": "Clinical genetics"
+                    "3rd Year": "Epidemiology",
+                    "4th Year": "Clinical genetics"
                 },
             ]
         },
@@ -398,41 +346,41 @@ export const medicaluniversityofwarsaw = {
             "type": "table",
             title: '',
             "col": [
-                "Fifth Year",
-                "Sixth Year",
+                "5th Year",
+                "6th Year",
             ],
             "row": [
                 {
-                    "Fifth Year": "Internal Medicine",
-                    "Sixth Year": "Pediatrics"
+                    "5th Year": "Internal Medicine",
+                    "6th Year": "Pediatrics"
                 },
                 {
-                    "Fifth Year": "Infectious Diseases",
-                    "Sixth Year": "Surgery"
+                    "5th Year": "Infectious Diseases",
+                    "6th Year": "Surgery"
                 },
                 {
-                    "Fifth Year": "Pediatrics",
-                    "Sixth Year": "Emergency Medicine"
+                    "5th Year": "Pediatrics",
+                    "6th Year": "Emergency Medicine"
                 },
                 {
-                    "Fifth Year": "Psychiatric",
-                    "Sixth Year": "Gynecology"
+                    "5th Year": "Psychiatric",
+                    "6th Year": "Gynecology"
                 },
                 {
-                    "Fifth Year": "Oncology",
-                    "Sixth Year": "Clinical elective"
+                    "5th Year": "Oncology",
+                    "6th Year": "Clinical elective"
                 },
                 {
-                    "Fifth Year": "Obstetrics",
-                    "Sixth Year": "-"
+                    "5th Year": "Obstetrics",
+                    "6th Year": "-"
                 },
                 {
-                    "Fifth Year": "Toxicology",
-                    "Sixth Year": "-"
+                    "5th Year": "Toxicology",
+                    "6th Year": "-"
                 },
                 {
-                    "Fifth Year": "Physiology",
-                    "Sixth Year": "-"
+                    "5th Year": "Physiology",
+                    "6th Year": "-"
                 },
             ]
         },
@@ -461,7 +409,7 @@ export const medicaluniversityofwarsaw = {
         },
         {
             type: 'list-bollet',
-            title: 'Eligibility Criteria',
+            title: 'Eligibility Criteria to Study MBBS at Medical University of Warsaw',
             info: 'To enroll in the medical program every candidate coming across the globe should fit into all these criteria given below:',
             data: [
                 "The students should have completed the minimum age of 17 at the time of admission or complete that age on or before 31st December of the year of admission to MBBS course.",
@@ -492,7 +440,7 @@ export const medicaluniversityofwarsaw = {
         },
         {
             type: 'step-list',
-            title: 'Admission Process (2022-23) - For MBBS Course',
+            title: 'How can I Get Admission in Medical University of Warsaw?',
             info: 'Let’s know about the admission steps to follow for enrolling into the MBBS course:',
             data: [
                 "<b>Step 1:</b> The candidates must Register in the online application form",
@@ -518,7 +466,7 @@ export const medicaluniversityofwarsaw = {
         },
         {
             type: 'list-bollet',
-            title: 'Document Required - For Enrolling MD/MBBS Course',
+            title: 'Documents Required at Medical University of Warsaw',
             info: 'Quickly grab your MBBS seats by submitting all crucial documents on time and transform yourself into Doctor:',
             data: [
                 "Every candidate looking for medical admission must carry a correctly filled application form.",
@@ -571,6 +519,16 @@ export const medicaluniversityofwarsaw = {
             title: "Medical University of Warsaw - Reviews"
         },
         {
+            "type": "list-bollet",
+            "title": "Reviews on Medical University of Warsaw",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Janhvi Laddha</b><p>I really enjoyed my time at Medical University of Warsaw. The instructors were beneficial and instructive.</p>",
+              "<b>Chirag Sejpal</b><p>Everyone looking for a top-notch medical education should give the Medical University of Warsaw some serious thought.</p>",
+              "<b>Bhavesh Gangwani</b><p>The Medical University of Warsaw provides excellent amenities and a welcoming staff. Throughout my entire stay, I received wonderful care.</p>",
+            ]
+          },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Warsaw - Reviews" },
@@ -593,6 +551,12 @@ export const medicaluniversityofwarsaw = {
             type: 'title',
             title: "Medical University of Warsaw - Placement"
         },
+        {
+            "type": "text",
+            "title": "Medical University of Warsaw Placement",
+            "info": "",
+            "data":"Doctor of Medicine (M.D.) qualification awarded by Medical University of Warsaw is recognized worldwide and can be used to apply for a local medical licence in most countries in the world. In order to do so a medical graduate has to fulfil the destination country's national or state medical board requirements, usually involving an examination or a series of examinations and an internship period."
+          },
         {
             type: "meta",
             meta: [
@@ -717,6 +681,33 @@ export const medicaluniversityofwarsaw = {
             title: "Medical University of Warsaw - Faculty"
         },
         {
+            "type": "table",
+            "title": "Faculty of Medical University of Warsaw",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "Leszek Czupryniak",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "Wiesław W. Jędrzejczak",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "Piotr Pruszczyk",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "Marcin Grabowski",
+                    "Designation": "Professor"
+                }
+            ]
+        },
+        {
             type: "meta",
             meta: [
                 { name: "title", content: "Medical University of Warsaw - Faculty" },
@@ -764,7 +755,7 @@ export const medicaluniversityofwarsaw = {
         },
         {
             type: 'list-bollet',
-            title: '',
+            title: 'Medical University of Warsaw Hostel',
             info: 'The applicants coming from a Scandinavian country with a high school diploma should have the following marks given below in English proficiency on their high school-leaving examination certificate',
             data: [
                 "The Institute offers a well-furnished and hygienic hostel room with well-developed infrastructure.",
@@ -778,34 +769,22 @@ export const medicaluniversityofwarsaw = {
             ]
         },
         {
-            type: 'list-bollet',
+            type: 'table-title',
             title: '',
             info: 'The hostel provides all basic facilities for a convenient stay like -',
-            data: [
+            row: [
 
-                "Chair",
-                "Bed",
-                "Pillow",
-                "Blanket",
-                "Fan",
-                "Cupboard",
-                "Table",
-                "Washing Basin",
-                "Bedsheet",
-                "Towel",]
+                ["Chair","Bed","Pillow","Blanket","Fan"],
+                ["Cupboard", "Table", "Washing Basin", "Bedsheet","Towel"]
+            ]
         },
         {
-            type: 'list-bollet',
+            type: 'table-title',
             title: '',
             info: 'The worldwide students pursuing MBBS course can enjoy every basic amenities including -',
-            data: [
-                "Heating System",
-                "AC",
-                "Furniture",
-                "TV",
-                "Gymnasium",
-                "Hot & Cold Water",
-                "Guest Rooms",
+            row: [
+                ["Heating System", "AC","Furniture","TV"],
+                ["Gymnasium","Hot & Cold Water", "Guest Rooms","-"]
             ],
             "heading": "<p>The hostel rooms are equipped with 24 hours of high-class security for the safety purpose of the students.<br>The students living in a hostel can cook their food in the common kitchen.<br>24 hours of free Internet connectivity is available in hostel rooms.</p>"
         },

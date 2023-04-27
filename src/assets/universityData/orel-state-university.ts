@@ -116,7 +116,7 @@ export const orelstateuniversity = {
     {
       type: 'text',
       title: 'About Oryol City',
-      data: "<p>Orel is the city located on the sides of Oka River in the European part of Russia and about 364 km south-west of Moscow. The city is the capital of the Oryol region which is the educational and cultural center of central Russia. The city was founded in 1566 in accordance with the southern borders of the state.</p><p>The Oryol city has a moderate continental climate. Winters are moderately cold and summers have extremely hot and cold weather. The average temperature in the mid of January is -6.7°C and the mid-temperature in July is 20.5°C.</p><>The city has a large number of parks and botanical gardens. Governor House, Fomichev’s House and the Rodina movie theatre are the centers of attractions of the city.</p>"
+      data: "<p>Orel is the city located on the sides of Oka River in the European part of Russia and about 364 km south-west of Moscow. The city is the capital of the Oryol region which is the educational and cultural center of central Russia. The city was founded in 1566 in accordance with the southern borders of the state.</p><p>The Oryol city has a moderate continental climate. Winters are moderately cold and summers have extremely hot and cold weather. The average temperature in the mid of January is -6.7°C and the mid-temperature in July is 20.5°C.</p>The city has a large number of parks and botanical gardens. Governor House, Fomichev’s House and the Rodina movie theatre are the centers of attractions of the city.</p>"
     },
     {
       type: "meta",
@@ -218,7 +218,7 @@ export const orelstateuniversity = {
       "type": "table",
       "title": "Orel State University - MBBS Syllabus",
       "info": "The syllabus for MBBS course at Orel State University is shown in the table below:",
-      "textBelowInfo": "1st Year",
+      "textBelowInfo": "<b>1st Year</b>",
       "col": [
         "Semester I",
         "Semester II"
@@ -299,7 +299,7 @@ export const orelstateuniversity = {
     {
       "type": "table-title",
       "title": "",
-      "info": "4th -6th Year",
+      "info": "4th - 6th Year",
       "coltitle": "7th-12th Semester",
       "row": [
         ["Oncology", "Internal Medicine"],
@@ -337,7 +337,7 @@ export const orelstateuniversity = {
     },
     {
       "type": "list-bollet",
-      "title": "Eligibility Criteria",
+      "title": "What are the Eligibility Criteria for MBBS at Orel State University?",
       "info": "Students have to set in the following eligibility criteria to get admission to Russia for Medicine course:",
       "data": [
         "Minimum age should be 17 years and maximum age should be up to 25 years.",
@@ -348,7 +348,7 @@ export const orelstateuniversity = {
     },
     {
       "type": "step-list",
-      "title": "Admission Process (2022-23)",
+      "title": "How to take Admission in Orel State University?",
       "info": "Following are the simple admission steps for MBBS course at Orel State University:",
       "data": [
         "<b>Step 1:</b> Apply online on the official portal of the university.",
@@ -360,7 +360,7 @@ export const orelstateuniversity = {
     },
     {
       "type": "list-bollet",
-      "title": "Documents Required: At the Time of Admission",
+      "title": "What Documents are Required to Study MBBS in Orel State University?",
       "info": "Students need to have the following documents for the MBBS admission process:",
       "data": [
         "Copy of Passport",
@@ -420,7 +420,16 @@ export const orelstateuniversity = {
       title: "Orel State University, Russia - Reviews"
 
     },
-
+    {
+      "type": "list-bollet",
+      "title": "Reviews on Orel State University",
+      "info": "Here are some of the reviews by students studying at the university at the moment:",
+      "data": [
+        "<b>Shruti Sonkusre</b><p>The Orel State University deserves considerable consideration from anyone looking for a top-notch medical education.</p>",
+        "<b>Savita Patil</b><p>In Orel State University, I had a great time. The professors were instructive and helpful.In Orel State University, I had a great time. The professors were instructive and helpful.</p>",
+        "<b>Mala Jain</b><p>The Orel State University has welcoming staff and first-rate facilities. I had great treatment the whole time I was there.</p>",
+      ]
+    },
     {
       type: "meta",
       meta: [
@@ -480,7 +489,48 @@ export const orelstateuniversity = {
       title: "Orel State University, Russia - Gallery"
 
     },
-
+    {
+      "image": [
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/orel-state-university-building.jpg",
+              "alt": "Orel State University Building"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/orel-state-university-main-gate.jpg",
+              "alt": "Orel State University Main Gate"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/orel-state-university-students.jpg",
+              "alt": "Orel State University Students"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/orel-state-university-students-dancing.jpg",
+              "alt": "Orel State University Students Dancing"
+          },
+          {
+              "type": "image",
+              "data": "../../assets/img/university_gallery/orel-state-university-students-discussing.jpg",
+              "alt": "Orel State University Students Discussing"
+          },
+          {
+            "type": "image",
+            "data": "../../assets/img/university_gallery/orel-state-university-students-in-classrom.jpg",
+            "alt": "Orel State University Students in Classroom"
+        }
+      ],
+      "video": [
+          // {
+          //     "type": "video",
+          //     "data": "../../assets/img/University of Debrecen _ Campus Tour _ Study in Top University of Hungary.mp4",
+          //     "alt": "Image 1"
+          // },
+          
+      ]
+  },
     {
       type: "meta",
       meta: [
@@ -551,6 +601,34 @@ export const orelstateuniversity = {
     },
 
     {
+      "type": "table",
+      "title": "Faculty of Orel State University",
+      "info": "",
+      "col": [
+          "Name",
+          "Designation"
+      ],
+      "row": [
+          {
+              "Name": "Pilipenko Olga Vasilyevna",
+              "Designation": "Rector"
+          },
+          {
+              "Name": "Fedotov Alexander Anatolievich",
+              "Designation": "First Vice-Rector"
+          },
+          {
+              "Name": "Alekseeva Elena Nikolaevna",
+              "Designation": "Vice-Rector for Educational Activities"
+          },
+          {
+              "Name": "Borisoglebskaya Larisa Nikolaevna",
+              "Designation": "Vice-Rector for Scientific and Project-Innovation Activities"
+          }
+      ]
+  },
+
+    {
       type: "meta",
       meta: [
         { name: "title", content: "Orel State University, Russia - Faculty" },
@@ -615,7 +693,7 @@ export const orelstateuniversity = {
       "type": "table-title",
       "title": "",
       "info": "Following are the amenities provided by the university:",
-      "data": [
+      "row": [
         ["Reading hall","Cleaning & Washing rooms","Dining halls","Cafeteria","Internet facility"],
        [ "Mess","Laundry", "Central heating","Water supply","-"]
         

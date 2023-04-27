@@ -14,9 +14,8 @@ export const gdanskmedicaluniversity = {
 
         {
             "type": 'text',
-            "title": 'About Gdańsk Medical University, Poland',
-            "img": 'https://www.selectyouruniversity.com/images/gdansk-medical-university.jpg',
-            "data": '<p><b>Gdańsk Medical University</b> was founded on <b>October 8, 1945</b>. The university has an old tradition for practicing medicine, teaching in medical and natural science monitored by eminent experts of respective subjects.</p><p>As per Perspektywy ranking, it is the <b>best medical school</b> in a country & ranked among top 10 Polish state universities.</p><p>The Gdańsk Medical University <b>educates 6000 students</b> out of them some of Ph.D. students, postgraduate students and undergraduate students. The university is a part of <b>International Research Agenda</b> program provided by foundation of Polish science.</p><p>University has a Medical Simulation Center, modern sports center and student’s club association to organize the activities like student exchange programs, press, conferences, etc.</p>'
+            "title": '',
+            "data": '<p><b>Gdańsk Medical University</b> was founded on <b>October 8, 1945</b>. The university has an old tradition for practicing medicine, teaching in medical and natural science monitored by eminent experts of respective subjects.</p><The>As per Perspektywy ranking, it is the <b>best medical school</b> in a country & ranked among top 10 Polish state universities. The Gdańsk Medical University <b>educates 6000 students</b> out of them some of Ph.D. students, postgraduate students and undergraduate students. The university is a part of <b>International Research Agenda</b> program provided by foundation of Polish science.</p><p>University has a Medical Simulation Center, modern sports center and student’s club association to organize the activities like student exchange programs, press, conferences, etc.</p>'
         },
 
         {
@@ -32,7 +31,7 @@ export const gdanskmedicaluniversity = {
                 ["<b>Annual Tuition Fee</b>", "	44000 PLN"],
                 ["<b>MBBS Duration</b>", "6 years including internship"],
                 ["<b>Medium of Education</b>", "English language"],
-                ["<b>University Ranking</b>", "Country Rank - 33 <br> World Rank - 2513"],
+                ["<b>University Ranking</b>", "Country Rank - 39 <br> World Rank - 2764"],
                 ["<b>University Recognition</b>", "NMC, WHO, TMC, NCFMEA, WFME and ARWU"]
             ]
         },
@@ -74,14 +73,16 @@ export const gdanskmedicaluniversity = {
             "title": "Gdańsk Medical University - Ranking 2023",
             "info": "The students should check out the country & world ranking of Gdańsk Medical University at Unirank:",
             "col": [
-                "World",
                 "Country",
+                "World",
+                
             ],
 
             "row": [
                 {
-                    "World": "39",
-                    "Country": "2764",
+                    "Country": "39",
+                    "World": "2764",
+                    
                 },
             ]
         },
@@ -128,12 +129,7 @@ export const gdanskmedicaluniversity = {
             ],
             heading: "<p><strong style='color: red;'><u>Note:</u></strong> $1 = Rs.80</p>"
         },
-        // {
-        //     "type": 'text',
-        //     "title": 'Rectors Message',
-        //     "img": 'https://www.selectyouruniversity.com/images/poland/rectors-message-of-gdansk-medical-university.jpg',
-        //     "data": ''
-        // },
+        
 
         {
             "type": "list-bollet",
@@ -184,7 +180,7 @@ export const gdanskmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Gdańsk Medical University - MBBS Fee Structure",
+            "title": "Gdańsk Medical University - MBBS Fee Structure 2023",
             "info": "Gdańsk Medical University offers affordable fee price to the worldwide medical aspirants for MBBS course:",
             "col": [
                 "Particular",
@@ -262,33 +258,33 @@ export const gdanskmedicaluniversity = {
             "title": "Gdańsk Medical University - MBBS Syllabus",
             "info": "Every candidate must refer to the study pattern to pursue MBBS education at Gdańsk Medical University:",
             "col": [
-                "First Year",
-                "Second Year"
+                "1st Year",
+                "2nd Year"
             ],
             "row": [
                 {
-                    "First Year": "Human Physiology",
-                    "Second Year": "Pathology"
+                    "1st Year": "Human Physiology",
+                    "2nd Year": "Pathology"
                 },
                 {
-                    "First Year": "Human Anatomy",
-                    "Second Year": "Clinical Medicine"
+                    "1st Year": "Human Anatomy",
+                    "2nd Year": "Clinical Medicine"
                 },
                 {
-                    "First Year": "Histology",
-                    "Second Year": "Microbiology"
+                    "1st Year": "Histology",
+                    "2nd Year": "Microbiology"
                 },
                 {
-                    "First Year": "Biochemistry",
-                    "Second Year": "Immunology"
+                    "1st Year": "Biochemistry",
+                    "2nd Year": "Immunology"
                 },
                 {
-                    "First Year": "Genetics",
-                    "Second Year": "Pharmacology"
+                    "1st Year": "Genetics",
+                    "2nd Year": "Pharmacology"
                 },
                 {
-                    "First Year": "Health and Safety",
-                    "Second Year": "Medical sociology"
+                    "1st Year": "Health and Safety",
+                    "2nd Year": "Medical sociology"
                 },
             ]
         },
@@ -297,45 +293,45 @@ export const gdanskmedicaluniversity = {
             "title": "",
             "info": "",
             "col": [
-                "Third Year",
-                "Fourth Year"
+                "3rd Year",
+                "4th Year"
             ],
             "row": [
                 {
-                    "Third Year": "Pediatrics",
-                    "Fourth Year": "Propedeutics to Dentistry"
+                    "3rd Year": "Pediatrics",
+                    "4th Year": "Propedeutics to Dentistry"
                 },
                 {
-                    "Third Year": "Internal Medicine",
-                    "Fourth Year": "Neurology"
+                    "3rd Year": "Internal Medicine",
+                    "4th Year": "Neurology"
                 },
                 {
-                    "Third Year": "Surgery",
-                    "Fourth Year": "Surgery"
+                    "3rd Year": "Surgery",
+                    "4th Year": "Surgery"
                 },
                 {
-                    "Third Year": "Pharmacology",
-                    "Fourth Year": "Pediatrics"
+                    "3rd Year": "Pharmacology",
+                    "4th Year": "Pediatrics"
                 },
                 {
-                    "Third Year": "Radiology",
-                    "Fourth Year": "gynecology"
+                    "3rd Year": "Radiology",
+                    "4th Year": "gynecology"
                 },
                 {
-                    "Third Year": "Dermatology",
-                    "Fourth Year": "Family Medicine"
+                    "3rd Year": "Dermatology",
+                    "4th Year": "Family Medicine"
                 },
                 {
-                    "Third Year": "Anatomy",
-                    "Fourth Year": "Obstetrics"
+                    "3rd Year": "Anatomy",
+                    "4th Year": "Obstetrics"
                 },
                 {
-                    "Third Year": "Ophthalmology",
-                    "Fourth Year": "Anesthesiology"
+                    "3rd Year": "Ophthalmology",
+                    "4th Year": "Anesthesiology"
                 },
                 {
-                    "Third Year": "Epidemiology",
-                    "Fourth Year": "Clinical genetics"
+                    "3rd Year": "Epidemiology",
+                    "4th Year": "Clinical genetics"
                 },
             ]
         },
@@ -344,41 +340,41 @@ export const gdanskmedicaluniversity = {
             "title": "",
             "info": "",
             "col": [
-                "Fifth Year",
-                "Sixth Year"
+                "5th Year",
+                "6th Year"
             ],
             "row": [
                 {
-                    "Fifth Year": "Internal Medicine",
-                    "Sixth Year": "Pediatrics"
+                    "5th Year": "Internal Medicine",
+                    "6th Year": "Pediatrics"
                 },
                 {
-                    "Fifth Year": "Infectious Diseases",
-                    "Sixth Year": "Surgery"
+                    "5th Year": "Infectious Diseases",
+                    "6th Year": "Surgery"
                 },
                 {
-                    "Fifth Year": "Pediatrics",
-                    "Sixth Year": "Emergency Medicine"
+                    "5th Year": "Pediatrics",
+                    "6th Year": "Emergency Medicine"
                 },
                 {
-                    "Fifth Year": "Psychiatric",
-                    "Sixth Year": "Gynecology"
+                    "5th Year": "Psychiatric",
+                    "6th Year": "Gynecology"
                 },
                 {
-                    "Fifth Year": "Oncology",
-                    "Sixth Year": "Clinical elective"
+                    "5th Year": "Oncology",
+                    "6th Year": "Clinical elective"
                 },
                 {
-                    "Fifth Year": "Obstetrics",
-                    "Sixth Year": ""
+                    "5th Year": "Obstetrics",
+                    "6th Year": "-"
                 },
                 {
-                    "Fifth Year": "Toxicology",
-                    "Sixth Year": ""
+                    "5th Year": "Toxicology",
+                    "6th Year": "-"
                 },
                 {
-                    "Fifth Year": "Physiology",
-                    "Sixth Year": ""
+                    "5th Year": "Physiology",
+                    "6th Year": "-"
                 },
             ]
         },
@@ -408,7 +404,7 @@ export const gdanskmedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria",
+            "title": "Eligibility Criteria to Study MBBS at Gdańsk Medical University",
             "info": "The eligibility criteria should always be kept in mind to apply for the medicine course at Gdańsk Medical University:",
             "data": [
                 "Candidates must hold a high school diploma or a secondary school leaving certificate or equal as GCE A-level certificates or IB and EB diplomas to get admission in MBBS course.",
@@ -456,7 +452,7 @@ export const gdanskmedicaluniversity = {
         },
         {
             type: 'step-list',
-            title: 'Admission Pro',
+            title: 'How can I Get Admission in Gdańsk Medical University?',
             info: 'The candidates are requested to ho through the mentioned admission steps to get admission in MBBS course at Gdańsk Medical University:</b>',
             data: [
                 "<b>Step 1:</b> The students wishing to apply to the MBBS program must fill the application form available on the official website of Gdańsk Medical University.",
@@ -469,7 +465,7 @@ export const gdanskmedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Documents Required",
+            "title": "Documents Required at Gdańsk Medical University",
             "info": "Students looking to pursue MBBS at Gdańsk Medical University should report with the essential documents:",
             "data": [
                 "The candidates must submit a signed application form (printed from the electronic candidate database available at admission2020.mug.edu.pl",
@@ -560,6 +556,16 @@ export const gdanskmedicaluniversity = {
             title: "Gdańsk Medical University - Reviews"
 
         },
+        {
+            "type": "list-bollet",
+            "title": "Reviews on Medical University of Gdansk",
+            "info": "Here are some of the reviews by students studying at the university at the moment:",
+            "data": [
+              "<b>Shubham Dange</b><p>I really enjoyed my time at Medical University of Gdansk. The instructors were beneficial and instructive.</p>",
+              "<b>Swapnil Borse</b><p>Everyone looking for a top-notch medical education should give the Medical University of Gdansk some serious thought.</p>",
+              "<b>Sameer Wahgode</b><p>The Medical University of Gdansk provides excellent amenities and a welcoming staff. Throughout my entire stay, I received wonderful care.</p>",
+            ]
+          },
         {
             type: "meta",
             meta: [

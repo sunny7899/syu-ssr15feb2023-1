@@ -14,7 +14,7 @@ export default [{
             type: 'text',
             title: '',
             info: '',
-            data: '<p>Do you know a country located in the heart of central Asia and is in demand for MBBS? No wonder it’s Uzbekistan. How much do you know about Uzbekistan? The country which is double the size of the United Kingdom is well known for their MBBS education. But wondering which college? as there may be many colleges, so in this blog we introduce you to Top 5 medical universities in Uzbekistan.</p><p>From the past years, there was a large inclination of college students to study MBBS abroad. <a href="https://www.selectyouruniversity.com/mbbs-in-uzbekistan.php" target="_blank">MBBS in Uzbekistan</a> is one of the worthy choices for Indian students to study medicine abroad. Studying in medical universities of Uzbekistan offers a better quality of education, treating territorial pathology, mastering diagnostics, dealing with the patients, exercise in healthcare and plenty of more.</p><p>Every year a large number of Indian college students come to Uzbekistan for MBBS study. Between the period of 1992 and 2018, the Government in Uzbekistan has spent lots of effort in offering exceptional education to medical college students.</p><p>Now, as you know how much Uzbekistan is in demand among not only international students but also among Indian students. But there are always several reason for a thing to be in demand, as Uzbekistan is in demand for medical education this is because they have offered many benefits to students who study there and if  you are too planning to make Uzbekistan your next home then we will introduce you to the country.</p>'
+            data: '<p>Do you know a country located in the heart of central Asia and is in demand for MBBS? No wonder it’s Uzbekistan. How much do you know about Uzbekistan? The country which is double the size of the United Kingdom is well known for their MBBS education. But wondering which college? as there may be many colleges, so in this blog we introduce you to Top 5 medical universities in Uzbekistan.</p><p>From the past years, there was a large inclination of college students to study MBBS abroad. <a href="https://www.selectyouruniversity.com/course/mbbs-in-uzbekistan/" target="_blank">MBBS in Uzbekistan</a> is one of the worthy choices for Indian students to study medicine abroad. Studying in medical universities of Uzbekistan offers a better quality of education, treating territorial pathology, mastering diagnostics, dealing with the patients, exercise in healthcare and plenty of more.</p><p>Every year a large number of Indian college students come to Uzbekistan for MBBS study. Between the period of 1992 and 2018, the Government in Uzbekistan has spent lots of effort in offering exceptional education to medical college students.</p><p>Now, as you know how much Uzbekistan is in demand among not only international students but also among Indian students. But there are always several reason for a thing to be in demand, as Uzbekistan is in demand for medical education this is because they have offered many benefits to students who study there and if  you are too planning to make Uzbekistan your next home then we will introduce you to the country.</p>'
         },
         {
             "type": "table-title",
@@ -41,46 +41,23 @@ export default [{
             data: '<p>Now here are some points which may clear all your doubts for why anyone should choose Uzbekistan as their next MBBS destination.</p>'
         },
         {
-            type: 'text',
-            title: 'Benefits of Studying MBBS from Uzbekistan',
-            info: '',
-            data: '<p><strong>1. Expense Factor</strong></p><p>Uzbekistan is the exceptional preference for all people who are searching for a reasonably-priced MBBS abroad solution.</p>'
+            "type": "number-list",
+            "title": "Benefits of Studying MBBS from Uzbekistan",
+            "info": "",
+            "data": [
+                "<strong>Expense Factor</strong><p>Uzbekistan is the exceptional preference for all people who are searching for a reasonably-priced MBBS abroad solution.</p>",
+                "<b>English Medium Education</b><p>The medical colleges of Uzbekistan follow an entire English curriculum, so the students might now no longer need to fear learning a brand new language for the MBBS.</p>",
+                "<b>Technically-enhanced learning</b><p>It provides a number of the most superior coaching technologies. This permits college students to keep their education updated and relevant.</p>",
+                "<b>Globally Renowned Degrees</b><p>All the colleges of Uzbekistan are authorized through WDOMS, FAIMER, ECFMG, and the Medical Council of leading nations inclusive of the U.S., U.K., Middle East, Australia, India, Canada, etc.</p>",
+                "<b>Extremely Affordable Education</b><p>Uzbekistan has numerous medical faculties identified through main bodies like WDOMS and MCI (NMC). The overall value of studying MBBS in Uzbekistan is extremely affordable.</p>",
+                "<b>Best Educational Practices</b><p>The educational practices in Uzbekistan are of the top-order and follow advanced practices. This consists of having an ideal number of college students withinside the lecture room to cater to their respective educational needs.</p><p>These were qualities which medical universities of Uzbekistan produce, these qualities are like shining diamonds and these diamonds keep Uzbekistan at the top. Now as we know the qualities of the universities let’s see the universities who produce these qualities.</p>"
+            ]
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>2. English Medium Education</strong></p><p>The medical colleges of Uzbekistan follow an entire English curriculum, so the students might now no longer need to fear learning a brand new language for the MBBS.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>3. Technically-enhanced learning</strong></p><p>It provides a number of the most superior coaching technologies. This permits college students to keep their education updated and relevant.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>4. Globally Renowned Degrees</strong></p><p>All the colleges of Uzbekistan are authorized through WDOMS, FAIMER, ECFMG, and the Medical Council of leading nations inclusive of the U.S., U.K., Middle East, Australia, India, Canada, etc.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>5. Extremely Affordable Education</strong></p><p>Uzbekistan has numerous medical faculties identified through main bodies like WDOMS and MCI (NMC). The overall value of studying MBBS in Uzbekistan is extremely affordable.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>6. Best Educational Practices</strong></p><p>The educational practices in Uzbekistan are of the top-order and follow advanced practices. This consists of having an ideal number of college students withinside the lecture room to cater to their respective educational needs.These were qualities which medical universities of Uzbekistan produce, these qualities are like shining diamonds and these diamonds keep Uzbekistan at the top. Now as we know the qualities of the universities let’s see the universities who produce these qualities.</p>'
-        },
-
+        
         {
             type: 'table-title',
             title: 'List of Top 5 Medical Universities/Colleges in Uzbekistan(NMC Approved)',
-            info: 'Andijan State Medical Institute',
+            info: '<h3>1. <a href=https://www.selectyouruniversity.com/university/andijan-state-medical-institute/ target=_blank>Andijan State Medical Institute</a></h3>',
             col: [],
             row: [
                 ["Foundation Year", "1955"],
@@ -92,13 +69,22 @@ export default [{
                 ["World Rank", "5044"],
                 ["Annual Tuition Fees", "3400 USD"],
                 ["Annual Hostel Fees", "500 USD"],
-                ["Major Accreditation", "- WHO (World Health Organization) - NMC (National Medical Commission) - The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+                ["Major Accreditation", "- WHO (World Health Organization) <br>- NMC (National Medical Commission) <br>- The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/andijan-state-medical-institute/courses-and-fees/ target=_blank>Andijan State Medical Institute - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/andijan-state-medical-institute/admission/ target=_blank>Andijan State Medical Institute - Admission</a>"
             ]
         },
         {
             type: 'table-title',
             title: '',
-            info: 'Bukhara State Medical Institute',
+            info: '<h3>2. <a href=https://www.selectyouruniversity.com/university/bukhara-state-medical-institute/ target=_blank>Bukhara State Medical Institute</a></h3>',
             col: [],
             row: [
                 ["Foundation Year", "1990"],
@@ -110,13 +96,22 @@ export default [{
                 ["World Rank", "10410"],
                 ["Annual Tuition Fees", "3500 USD"],
                 ["Annual Hostel Fees", "437 USD"],
-                ["Major Accreditation", "- WHO (World Health Organization) - NMC (National Medical Commission)- The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+                ["Major Accreditation", "- WHO (World Health Organization) <br>- NMC (National Medical Commission)<br>- The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/bukhara-state-medical-institute/courses-and-fees/ target=_blank>Bukhara State Medical Institute - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/bukhara-state-medical-institute/admission/ target=_blank>Bukhara State Medical Institute - Admission</a>"
             ]
         },
         {
             type: 'table-title',
             title: '',
-            info: 'Tashkent State Dental Institute',
+            info: '<h3>3. <a href=https://www.selectyouruniversity.com/university/tashkent-state-dental-institute/ target=_blank>Tashkent State Dental Institute</a></h3>',
             col: [],
             row: [
                 ["Foundation Year", "2014"],
@@ -128,13 +123,22 @@ export default [{
                 ["World Rank", "9800"],
                 ["Annual Tuition Fees", "4200 USD"],
                 ["Annual Hostel Fees", "300 USD"],
-                ["Major Accreditation", "- WHO (World Health Organization) - NMC (National Medical Commission) - The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+                ["Major Accreditation", "- WHO (World Health Organization) <br>- NMC (National Medical Commission) <br>- The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/tashkent-state-dental-institute/courses-and-fees/ target=_blank>Tashkent State Dental Institute - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/tashkent-state-dental-institute/admission/ target=_blank>Tashkent State Dental Institute - Admission</a>"
             ]
         },
         {
             type: 'table-title',
             title: '',
-            info: 'Samarkand State Medical Institute',
+            info: '<h3>4. <a href=https://www.selectyouruniversity.com/university/samarkand-state-medical-institute/ target=_blank>Samarkand State Medical Institute</a></h3>',
             col: [],
             row: [
                 ["Foundation Year", "1930"],
@@ -146,13 +150,22 @@ export default [{
                 ["World Rank", "7954"],
                 ["Annual Tuition Fees", "3800 USD"],
                 ["Annual Hostel Fees", "300 USD"],
-                ["Major Accreditation", "- WHO (World Health Organization) - NMC (National Medical Commission) - The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+                ["Major Accreditation", "- WHO (World Health Organization) <br>- NMC (National Medical Commission) <br>- The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/samarkand-state-medical-institute/courses-and-fees/ target=_blank>Samarkand State Medical Institute - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/samarkand-state-medical-institute/admission/ target=_blank>Samarkand State Medical Institute - Admission</a>"
             ]
         },
         {
             type: 'table-title',
             title: '',
-            info: 'Tashkent Medical Academy',
+            info: '<h3>5. <a href=https://www.selectyouruniversity.com/university/tashkent-medical-academy/ target=_blank>Tashkent Medical Academy</a></h3>',
             col: [],
             row: [
                 ["Foundation Year", "2005"],
@@ -164,7 +177,16 @@ export default [{
                 ["World Rank", "6342"],
                 ["Annual Tuition Fees", "5700 USD"],
                 ["Annual Hostel Fees", "500 USD"],
-                ["Major Accreditation", "- WHO (World Health Organization) - NMC (National Medical Commission) - The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+                ["Major Accreditation", "- WHO (World Health Organization) <br>- NMC (National Medical Commission) <br>- The Ministry of Higher and Secondary Specialized Education, Uzbekistan"]
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/tashkent-medical-academy/courses-and-fees/ target=_blank>Tashkent Medical Academy - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/tashkent-medical-academy/admission/ target=_blank>Tashkent Medical Academy - Admission</a>"
             ]
         },
         {
@@ -914,8 +936,8 @@ export default [{
             title: '',
             info: "Read More:",
             "data": [
-                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/courses-and-fees/ target=_blank>Tyumen State Medical University - Courses & Fees</a>",
-                "<a href=https://www.selectyouruniversity.com/university/samara-state-medical-university/admission/ target=_blank>Tyumen State Medical University - Admission</a>"
+                "<a href=https://www.selectyouruniversity.com/university/tyumen-state-medical-university/courses-and-fees/ target=_blank>Tyumen State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/tyumen-state-medical-university/admission/ target=_blank>Tyumen State Medical University - Admission</a>"
             ],
         },
         
@@ -1348,6 +1370,16 @@ export default [{
             ]
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/university-of-georgia-tbilisi/courses-and-fees/ target=_blank>The University of Georgia - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/university-of-georgia-tbilisi/admission/ target=_blank>The University of Georgia - Admission</a>"
+            ],
+        },
+        
+        {
             type: 'table-title',
             title: '',
             info: "<h3>2. <a href=https://www.selectyouruniversity.com/university/ivane-javakhishvili-tbilisi-state-university/ target=_blank>Ivane Javakhishvili Tbilisi State University</a></h3>",
@@ -1363,6 +1395,15 @@ export default [{
                 ["University Accreditation", "NMC, WHO, WFME & many more"]
             ]
 
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/ivane-javakhishvili-tbilisi-state-university/courses-and-fees/ target=_blank>Ivane Javakhishvili Tbilisi State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/ivane-javakhishvili-tbilisi-state-university/admission/ target=_blank>Ivane Javakhishvili Tbilisi State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
@@ -1382,6 +1423,15 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/batumi-shota-rustaveli-state-university/courses-and-fees/ target=_blank>Batumi Shota Rustaveli State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/batumi-shota-rustaveli-state-university/admission/ target=_blank>Batumi Shota Rustaveli State University - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
             info: "<h3>4. <a href=https://www.selectyouruniversity.com/university/tbilisi-state-medical-university/ target=_blank>Tbilisi State Medical University</a></h3>",
@@ -1397,6 +1447,15 @@ export default [{
                 ["University Accreditation", "NMC, WHO, UNESCO & many more"]
             ]
 
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/tbilisi-state-medical-university/courses-and-fees/ target=_blank>Tbilisi State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/tbilisi-state-medical-university/admission/ target=_blank>Tbilisi State Medical University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
@@ -1416,6 +1475,15 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/ilia-state-university/courses-and-fees/ target=_blank>Ilia State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/ilia-state-university/admission/ target=_blank>Ilia State University - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
             info: "<h3>6. <a href=https://www.selectyouruniversity.com/university/akaki-tsereteli-state-university/ target=_blank>Akaki Tsereteli State University</a></h3>",
@@ -1431,6 +1499,15 @@ export default [{
                 ["University Accreditation", "NMC, WHO, UNESCO & many more"]
             ]
 
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/akaki-tsereteli-state-university/courses-and-fees/ target=_blank>Akaki Tsereteli State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/akaki-tsereteli-state-university/admission/ target=_blank>Akaki Tsereteli State University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
@@ -1450,6 +1527,15 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/new-vision-university/courses-and-fees/ target=_blank>New Vision University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/new-vision-university/admission/ target=_blank>New Vision University - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
             info: "<h3>8. <a href=https://www.selectyouruniversity.com/university/caucasus-international-university/ target=_blank>Caucasus International University</a></h3>",
@@ -1467,9 +1553,18 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/caucasus-international-university/courses-and-fees/ target=_blank>Caucasus International University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/caucasus-international-university/admission/ target=_blank>Caucasus International University - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
-            info: "<h3>8. <a href=https://www.selectyouruniversity.com/university/georgian-american-university/ target=_blank>Georgian American University</a></h3>",
+            info: "<h3>9. <a href=https://www.selectyouruniversity.com/university/georgian-american-university/ target=_blank>Georgian American University</a></h3>",
             "col": [],
             "row": [
                 ["Foundation Year", "2001"],
@@ -1482,6 +1577,15 @@ export default [{
                 ["University Accreditation", "NMC, WHO & many more"]
             ]
 
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/georgian-american-university/courses-and-fees/ target=_blank>Georgian American University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/georgian-american-university/admission/ target=_blank>Georgian American University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
@@ -1501,6 +1605,15 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/georgian-national-university-seu/courses-and-fees/ target=_blank>Georgian National University SEU - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/georgian-national-university-seu/admission/ target=_blank>Georgian National University SEU - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
             info: "<h3>11. <a href=https://www.selectyouruniversity.com/university/petre-shotadze-tbilisi-medical-academy/ target=_blank>Petre Shotadze Tbilisi Medical Academy</a></h3>",
@@ -1516,6 +1629,15 @@ export default [{
                 ["University Accreditation", "NMC, WHO & many more"]
             ]
 
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/petre-shotadze-tbilisi-medical-academy/courses-and-fees/ target=_blank>Petre Shotadze Tbilisi Medical Academy - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/petre-shotadze-tbilisi-medical-academy/admission/ target=_blank>Petre Shotadze Tbilisi Medical Academy - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
@@ -1535,6 +1657,15 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/european-university-georgia/courses-and-fees/ target=_blank>European University Georgia - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/european-university-georgia/admission/ target=_blank>European University Georgia - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
             info: "<h3>13. <a href=https://www.selectyouruniversity.com/university/bau-international-university-batumi/ target=_blank>BAU International University Batumi</a></h3>",
@@ -1550,6 +1681,15 @@ export default [{
                 ["University Accreditation", "NMC, WHO & many more"]
             ]
 
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/bau-international-university-batumi/courses-and-fees/ target=_blank>BAU International University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/bau-international-university-batumi/admission/ target=_blank>BAU International University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
@@ -1569,6 +1709,15 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/east-european-university/courses-and-fees/ target=_blank>East European University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/east-european-university/admission/ target=_blank>East European University - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
             info: "<h3>15. <a href=https://www.selectyouruniversity.com/university/david-agmashenebeli-university-of-georgia/ target=_blank>David Agmashenebeli University of Georgia</a></h3>",
@@ -1586,21 +1735,39 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/david-agmashenebeli-university-of-georgia/courses-and-fees/ target=_blank>David Agmashenebeli University of Georgia - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/david-agmashenebeli-university-of-georgia/admission/ target=_blank>David Agmashenebeli University of Georgia - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
-            info: "<h4>16. <a href=https://www.selectyouruniversity.com/university/tbilisi-open-teaching-university/ target=_blank>Tbilisi Open Teaching University</a></h4>",
+            info: "<h4>16. <a href=https://www.selectyouruniversity.com/university/alte-university-georgia/ target=_blank>Alte University</a></h4>",
             "col": [],
             "row": [
                 ["Foundation Year", "2002"],
-                ["Type of University", "Public, Non-Profit"],
-                ["Location of University", "	n2 University St, Tbilisi, Georgia"],
+                ["Type of University", "Private"],
+                ["Location of University", "n2 University St, Tbilisi, Georgia"],
                 ["Number of Indian Students", "250"],
-                ["National Rank", "41"],
-                ["World Rank", "12036"],
-                ["Annual Tuition Fees", "4500 USD"],
+                ["National Rank", "2"],
+                ["World Rank", "260"],
+                ["Annual Tuition Fees", "5000 USD"],
                 ["University Accreditation", "NMC, WHO & many more"]
             ]
 
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/alte-university-georgia/courses-and-fees/ target=_blank>Alte University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/alte-university-georgia/admission/ target=_blank>Alte University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
@@ -1620,6 +1787,15 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/geomedi-state-university/courses-and-fees/ target=_blank>Geomedi Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/geomedi-state-university/admission/ target=_blank>Geomedi Medical University - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
             info: "<h3>18. <a href=https://www.selectyouruniversity.com/university/grigol-robakidze-university/ target=_blank>Grigol Robakidze University</a></h3>",
@@ -1635,6 +1811,15 @@ export default [{
                 ["University Accreditation", "NMC, WHO & many more"]
             ]
 
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/grigol-robakidze-university/courses-and-fees/ target=_blank>Grigol Robakidze University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/grigol-robakidze-university/admission/ target=_blank>Grigol Robakidze University - Admission</a>"
+            ],
         },
         {
             type: 'table-title',
@@ -1654,6 +1839,15 @@ export default [{
 
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/tbilisi-medical-university-hippocrates/courses-and-fees/ target=_blank>Tbilisi Medical University ‘Hippocrates’ - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/tbilisi-medical-university-hippocrates/admission/ target=_blank>Tbilisi Medical University ‘Hippocrates’ - Admission</a>"
+            ],
+        },
+        {
             type: 'table-title',
             title: '',
             info: "<h3>20. <a href=https://www.selectyouruniversity.com/university/david-tvildiani-medical-university/ target=_blank>David Tvildiani Medical University</a></h3>",
@@ -1669,6 +1863,15 @@ export default [{
                 ["University Accreditation", "NMC, WHO & many more"]
             ]
 
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/david-tvildiani-medical-university/courses-and-fees/ target=_blank>David Tvildiani Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/david-tvildiani-medical-university/admission/ target=_blank>David Tvildiani Medical University - Admission</a>"
+            ],
         },
 
         {
@@ -9087,7 +9290,7 @@ export default [{
             data: '<p>Do you want to <strong>study MBBS in Poland</strong>?</p> <p>It is a dream of many students in India and abroad to study MBBS in European countries.</p> <p>Compared to other European countries, Poland is a country where education cost, cost of living, etc. is lower and hence, it can be a great option for Indian students who wish to study MBBS in Europe and thus students prefer studying MBBS in Poland.</p><p>After studying MBBS in Poland, you can <strong>work anywhere</strong> in the European countries, as Poland has joined the EU.</p><p>Since 2013, medical education in Poland has become more popular, as <strong>many numbers of MBBS colleges</strong> have been <strong>approved by the Ministry of Education of Poland</strong>.</p><p>There are also medical schools in Poland which teach in English medium. </p><p>A comprehensive study environment, advanced and modern equipment, highly qualified and experienced staff, and excellent infrastructure, etc. makes MBBS in Poland very much preferred.</p><p>The <strong>World Health Organization (WHO) and National Medical Commission (NMC)</strong> has approved the <strong>Poland Medical degree</strong>.</p>'
         },
         {
-            "type": "table",
+            "type": "table-title",
             "title": "MBBS in Poland - Quick Highlights",
             "info": "",
             "col": [],
@@ -9107,11 +9310,11 @@ export default [{
             title: 'Eligibility Criteria: For Studying MBBS Course in Poland',
             info: 'The following eligibility criteria apply to students from all the countries, including India. You need to carefully follow the following eligibility criteria:',
             data: [
-                " The minimum and maximum age of the student to study medicine in Poland is 17 years and 25 years respectively.",
-                " You must have obtained minimum 60% marks with science as the background in the higher secondary examination.",
-                " You must have proper school education in 10+2 pattern.",
-                " You must have studied Chemistry, Physics, Biology or Botany and Zoology in the higher secondary.",
-                " For Indian students to enroll in MBBS in abroad, NEET exam qualification is mandatory."
+                "The minimum and maximum age of the student to study medicine in Poland is 17 years and 25 years respectively.",
+                "You must have obtained minimum 60% marks with science as the background in the higher secondary examination.",
+                "You must have proper school education in 10+2 pattern.",
+                "You must have studied Chemistry, Physics, Biology or Botany and Zoology in the higher secondary.",
+                "For Indian students to enroll in MBBS in abroad, NEET exam qualification is mandatory."
             ]
         },
         {
@@ -9119,15 +9322,15 @@ export default [{
             title: 'Why Study MBBS in Poland?',
             info: 'Following are the different advantages of studying MBBS in Poland, have a look at them so that you will understand why studying MBBS in Poland can be beneficial:',
             data: [
-                " All medical universities in Poland are approved by NMC (National Medical Commission).",
-                " The cost of studying MBBS in Poland is affordable and low.",
-                " MBBS in Poland is taught in the English language of instruction.",
-                " As a part of the medical curriculum, students are not required to study any other language.",
-                " To become qualified to study MBBS in Poland, you are not required to give any kind of entrance exams like IELTS or TOEFL.",
-                " Quality of MBBS education in Poland is on par with international standards.",
-                " You can either practice medicine or work in the UK, US, and Germany, after completing your MBBS education from Poland.",
-                "  You can even practice medicine in Poland, or in any European country or in any other country in the world.",
-                "  Climatic conditions of Russia and Poland are similar which is easily manageable and comforting throughout the year without any burning summer or freezing winter."
+                "All medical universities in Poland are approved by NMC (National Medical Commission).",
+                "The cost of studying MBBS in Poland is affordable and low.",
+                "MBBS in Poland is taught in the English language of instruction.",
+                "As a part of the medical curriculum, students are not required to study any other language.",
+                "To become qualified to study MBBS in Poland, you are not required to give any kind of entrance exams like IELTS or TOEFL.",
+                "Quality of MBBS education in Poland is on par with international standards.",
+                "You can either practice medicine or work in the UK, US, and Germany, after completing your MBBS education from Poland.",
+                "You can even practice medicine in Poland, or in any European country or in any other country in the world.",
+                "Climatic conditions of Russia and Poland are similar which is easily manageable and comforting throughout the year without any burning summer or freezing winter."
             ]
         },
         {
@@ -9144,14 +9347,10 @@ export default [{
                 "You would need to send the application seeking admission along with all necessary credentials - certificates of educational qualification, and a copy of a valid passport to the University of your choice.",
                 "The medical universities process international applicants quickly. All students who applied are likely to receive the confirmation (if qualified, or rejection if disqualified) in a week’s time.",
                 "You can send the documents along with passport for Visa to the embassy for student’s visa, once you receive confirmation. It is a very easy process."
-            ]
+            ],
+            "heading":"<p>Subsequently, you get admission and confirmation letter from the respective university.</p>"
         },
-        {
-            "type": "text",
-            "title": "",
-            "info": "",
-            "data": "<p>Subsequently, you get admission and confirmation letter from the respective university.</p>"
-        },
+        
         {
             type: 'list-bollet',
             title: 'Required Documents for MBBS Admission in Poland',
@@ -9175,7 +9374,7 @@ export default [{
         {
             type: 'list-bollet',
             title: '',
-            info: '<a href="https://www.selectyouruniversity.com/poland/jagiellonian-university-medical-college.php" target="_blank">Jagiellonian University Medical College</a>',
+            info: '1. <a href="https://www.selectyouruniversity.com/university/jagiellonian-university-medical-college/" target="_blank">Jagiellonian University Medical College</a>',
             data: [
                 " This is the second oldest university in Central Europe.",
                 "King Kazimierz Wielki (Casimir the Great) of Poland founded this prestigious University in Krakow city in 1364.",
@@ -9189,7 +9388,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of Jagiellonian University Medical College",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9243,18 +9442,22 @@ export default [{
                     "5th year": "₹.11.55 lacs",
                     "6th year": "₹.11.55 lacs"
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
+            ],
+            "heading":'<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<a href="https://www.selectyouruniversity.com/poland/medical-university-of-warsaw.php" target="_blank">University of Warsaw</a>',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/jagiellonian-university-medical-college/courses-and-fees/ target=_blank>Jagiellonian University Medical College - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/jagiellonian-university-medical-college/admission/ target=_blank>Jagiellonian University Medical College - Admission</a>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '2. <a href="https://www.selectyouruniversity.com/university/medical-university-of-warsaw/" target="_blank">University of Warsaw</a>',
             data: [
                 " The University of Warsaw was established in 1816.",
                 "Warsaw is an international university, with thousands of foreign students, academics, and researchers.",
@@ -9270,7 +9473,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of the University of Warsaw",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9298,7 +9501,7 @@ export default [{
                     "6th year": "$3000"
                 },
                 {
-                    "Fee Structure": "Food (Approx) ",
+                    "Fee Structure": "Food (Approx)",
                     "1st year": "$2000",
                     "2nd year": "$2000",
                     "3rd year": "$2000",
@@ -9307,7 +9510,7 @@ export default [{
                     "6th year": "$2000"
                 },
                 {
-                    "Fee Structure": "Total (US $) ",
+                    "Fee Structure": "Total (US $)",
                     "1st year": "$19,144",
                     "2nd year": "$17,362",
                     "3rd year": "$17,362",
@@ -9316,7 +9519,7 @@ export default [{
                     "6th year": "$17,362"
                 },
                 {
-                    "Fee Structure": "Total (Rs) ",
+                    "Fee Structure": "Total (Rs)",
                     "1st year": "₹.13,40,080",
                     "2nd year": "₹.12,15,340 ",
                     "3rd year": "₹.12,15,340 ",
@@ -9324,22 +9527,26 @@ export default [{
                     "5th year": "₹.12,15,340 ",
                     "6th year": "₹.12,15,340 "
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
+            ],
+            "heading":"<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<a href="https://www.selectyouruniversity.com/poland/medical-university-of-lublin.php" target="_blank">Medical University of Lublin</a>',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/medical-university-of-warsaw/courses-and-fees/ target=_blank>Medical University of Warsaw - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/medical-university-of-warsaw/admission/ target=_blank>Medical University of Warsaw - Admission</a>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '3. <a href="https://www.selectyouruniversity.com/university/medical-university-of-lublin/" target="_blank">Medical University of Lublin</a>',
             data: [
-                " In 1950, the medical university of Lublin was established. It is a non-profit public higher education institution.",
-                "  Based on entrance examinations and students' past academic record and grades, the university has a selective admission policy. International candidates are also eligible to apply for enrollment.",
-                "  The department of dentistry was added in the total departments at the university in 1973."
+                "In 1950, the medical university of Lublin was established. It is a non-profit public higher education institution.",
+                "Based on entrance examinations and students' past academic record and grades, the university has a selective admission policy. International candidates are also eligible to apply for enrollment.",
+                "The department of dentistry was added in the total departments at the university in 1973."
             ]
         },
         {
@@ -9347,7 +9554,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of the Medical University of Lublin",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9401,22 +9608,26 @@ export default [{
                     "5th year": "₹.11,18,040",
                     "6th year": "₹.11,18,040"
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
+            ],
+            "heading":"<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<a href="https://www.selectyouruniversity.com/poland/medical-university-of-lodz.php" target="_blank">University of Lodz</a>',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/medical-university-of-lublin/courses-and-fees/ target=_blank>Medical University of Lublin - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/medical-university-of-lublin/admission/ target=_blank>Medical University of Lublin - Admission</a>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '4. <a href="https://www.selectyouruniversity.com/university/medical-university-of-lodz/" target="_blank">University of Lodz</a>',
             data: [
                 "On 24th May 1945, the University of Lodz was established which was the period just after the end of the second world war in Europe.",
-                " This is the most regarded university in Poland today.",
-                " There are overall 12 faculties at the University.",
+                "This is the most regarded university in Poland today.",
+                "There are overall 12 faculties at the University.",
                 "With a collection of around three million books, the University of Lodz is the home to one of the largest academic libraries in Central Europe.",
                 "The university has a large number of dormitories to accommodate a large number of students. It also provides modern sports facilities to students and an array of entertainment options.",
                 "Over 770 foreign students from various countries attend medical and dental programs taught entirely in English presently at this university.",
@@ -9428,7 +9639,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of the University of Lodz",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9482,18 +9693,22 @@ export default [{
                     "5th year": "₹.10,79,190 ",
                     "6th year": "₹.10,79,190 "
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
+            ],
+            "heading":"<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<a href="https://www.selectyouruniversity.com/poland/medical-university-of-silesia.php" target="_blank">The University of Silesia in Katowice</a>',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/medical-university-of-lodz/courses-and-fees/ target=_blank>Medical University of Lodz - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/medical-university-of-lodz/admission/ target=_blank>Medical University of Lodz - Admission</a>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '5. <a href="https://www.selectyouruniversity.com/university/medical-university-of-silesia/" target="_blank">The University of Silesia in Katowice</a>',
             data: [
                 "The University of Silesia in Katowice founded in 1968 is one of the largest public universities in Poland.",
                 "This University offers students a variety of programs and specialized fields of study, to best meet the needs of rapidly changing labor markets.",
@@ -9507,7 +9722,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of the University of Silesia in Katowice",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9561,26 +9776,30 @@ export default [{
                     "5th year": "₹.8,38,670",
                     "6th year": "₹.8,38,670"
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
+            ],
+            "heading":"<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<a href="https://www.selectyouruniversity.com/poland/wroclaw-medical-university.php" target="_blank">University of Wroclaw</a>',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/medical-university-of-silesia/courses-and-fees/ target=_blank>Medical University of Silesia - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/medical-university-of-silesia/admission/ target=_blank>Medical University of Silesia - Admission</a>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '6. <a href="https://www.selectyouruniversity.com/university/wroclaw-medical-university/" target="_blank">University of Wroclaw</a>',
             data: [
-                " The university has a rich history of more than three centuries as this university was established in the year 1702.",
-                " At the beginning of the 19th century, the university had five Faculties: Catholic theology, evangelical theology, philosophy, law, and medicine. Later it was expanded by laboratories, numerous sections, and a natural museum, which exists until today.",
+                "The university has a rich history of more than three centuries as this university was established in the year 1702.",
+                "At the beginning of the 19th century, the university had five Faculties: Catholic theology, evangelical theology, philosophy, law, and medicine. Later it was expanded by laboratories, numerous sections, and a natural museum, which exists until today.",
                 "Wroclaw Medical University was established in the year 1946 and it is one of the most renowned public medical schools in Poland.",
                 "The University of Wroclaw participates in numerous international exchange programs such as ISEP, Erasmus, CEEPUS, Fullbright, and others and it also has different exchange agreements with many higher education institutions all over the world.",
-                " The Wroclaw Medical University consists of 5 faculties: Medicine, Dentistry, Public Health, Pharmacy, and Postgraduate Education, out of which Dentistry and medical as the main faculties.",
-                " With other universities abroad, Wroclaw Medical University has signed 200 international agreements of cooperation.",
-                " About 6,000 students study at the Medical University of Wroclaw and 1093 academic professors and teachers work at the Medical University."
+                "The Wroclaw Medical University consists of 5 faculties: Medicine, Dentistry, Public Health, Pharmacy, and Postgraduate Education, out of which Dentistry and medical as the main faculties.",
+                "With other universities abroad, Wroclaw Medical University has signed 200 international agreements of cooperation.",
+                "About 6,000 students study at the Medical University of Wroclaw and 1093 academic professors and teachers work at the Medical University."
             ]
         },
         {
@@ -9588,7 +9807,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of Jagiellonian University Medical College",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9642,18 +9861,22 @@ export default [{
                     "5th year": "₹.11,50,100",
                     "6th year": "₹.11,50,100"
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
+            ],
+            "heading":"<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<a href="https://www.selectyouruniversity.com/poland/nicolaus-copernicus-university.php" target="_blank">Nicolaus Copernicus Medical University</a>',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/wroclaw-medical-university/courses-and-fees/ target=_blank>Wroclaw Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/wroclaw-medical-university/admission/ target=_blank>Wroclaw Medical University - Admission</a>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '7. <a href="https://www.selectyouruniversity.com/university/nicolaus-copernicus-university/" target="_blank">Nicolaus Copernicus Medical University</a>',
             data: [
                 "The university currently consists of 17 faculties and it is one of the largest universities in Poland.",
                 " The University provides students with individually focused teaching methods.",
@@ -9666,7 +9889,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of the Nicolaus Copernicus Medical University",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9720,18 +9943,22 @@ export default [{
                     "5th year": "₹.10,65,540 ",
                     "6th year": "₹.10,65,540 "
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
+            ],
+            "heading":"<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<a href="https://www.selectyouruniversity.com/poland/poznan-university-of-medical-science.php" target="_blank">Poznan Medical University</a>',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/nicolaus-copernicus-university/courses-and-fees/ target=_blank>Nicolaus Copernicus University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/nicolaus-copernicus-university/admission/ target=_blank>Nicolaus Copernicus University - Admission</a>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '8. <a href="https://www.selectyouruniversity.com/university/poznan-university-of-medical-science/" target="_blank">Poznan Medical University</a>',
             data: [
                 "The Poznan University of Medical Sciences is one of the best and largest medical universities in Poland, with great growth potential and it was established in 1919.",
                 " The six-year M.D. Program at the Poznan Medical University is based on the Polish curriculum and designed for international candidates who have graduated from high school, and who have obtained good grades in: Biology, Physics, Chemistry, and English. The Medical Board of California recognizes this course fully.",
@@ -9745,7 +9972,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of the Poznan Medical University",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9799,18 +10026,22 @@ export default [{
                     "5th year": "₹.10,65,400",
                     "6th year": "₹.10,65,400"
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
+            ],
+            "heading":"<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: '<a href="https://www.selectyouruniversity.com/poland/gdansk-medical-university.php" target="_blank">Gdańsk Medical University</a>',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/poznan-university-of-medical-science/courses-and-fees/ target=_blank>Poznan Medical University  - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/poznan-university-of-medical-science/admission/ target=_blank>Poznan Medical University  - Admission</a>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '9. <a href="https://www.selectyouruniversity.com/university/gdansk-medical-university/" target="_blank">Gdańsk Medical University</a>',
             data: [
                 "The Medical University of Gdańsk (MUG) is located in one of the most beautiful cities in Europe with an old town and beautiful sandy beaches and it is the largest medical university in northern Poland.",
                 " The Medical University of Gdańsk (MUG) offers English-taught programs including Polish and English Language Courses, a Premedical Course, Medicine Doctor Programme, Pharmacy Programme, Bachelor of Nursing Programme and Ph.D. Programmes.",
@@ -9824,7 +10055,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of the Gdańsk Medical University",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9878,18 +10109,22 @@ export default [{
                     "5th year": "₹.10,41,600",
                     "6th year": "₹.10,41,600"
                 }
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
+            ],
+            "heading":"<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>"
         },
         {
             type: 'list-bollet',
             title: '',
-            info: 'Pomeranian Medical University in Szczecin',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/gdansk-medical-university/courses-and-fees/ target=_blank>Gdańsk Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/gdansk-medical-university/admission/ target=_blank>Gdańsk Medical University - Admission</a>"
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: '10. Pomeranian Medical University in Szczecin',
             data: [
                 "Pomeranian Medical University in Szczecin is a public university with an intramural full-time system of study.",
                 "There are two faculties at the university which offer studies in English medium of instruction and they are Faculty of Medicine and Faculty of Medicine & Dentistry.",
@@ -9905,7 +10140,7 @@ export default [{
             "title": "",
             "info": "Fee Structure of the Pomeranian Medical University in Szczecin",
             "col": [
-                "Fee Structure ",
+                "Fee Structure",
                 "1st year",
                 "2nd year",
                 "3rd year",
@@ -9959,14 +10194,10 @@ export default [{
                     "5th year": "₹.11,20,000",
                     "6th year": "₹.11,20,000"
                 }
-            ]
+            ],
+            "heading":"<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>"
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong> Note: </strong>1$= Rs.80 (approx.)</p>'
-        },
+        
         {
             type: 'text',
             title: '',
@@ -14589,60 +14820,22 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'number-list',
             title: 'Benefits to Study MBBS in Kazakhstan for Indian Students',
-            info: '<h3>1. Weather condition is most suitable to the Indian Students</h3>',
-            data: '<p>Weather is a prime relief for international students because the average condition of the atmosphere is 30° in summer & it reduces down to 20° during the wintertime. This weather is still fine compared to other countries & Indian students can easily cope with this environment</p>'
+            info: "",
+            "data": [
+                "<b>Weather condition is most suitable to the Indian Students</b><p>Weather is a prime relief for international students because the average condition of the atmosphere is 30° in summer & it reduces down to 20° during the wintertime. This weather is still fine compared to other countries & Indian students can easily cope with this environment.</p>",
+                "<b>Minimum years of course duration</b><p>The entire duration of the MBBS curriculum in Kazakhstan takes five years to complete, which is probably the best part of studying in this country. The majority of the international universities in the world provide six years of training programs on medicine; therefore, Aspirants can save a full year by studying in MBBS in Kazakhstan.</p>",
+                "<b>Course is taught in English language</b><p>Another consolation for Indian students is the obstacle of learning the extra or native language of Kazakhstan. The entire curriculum of medicine is carried out in English as an official language for instruction medium.</p>",
+                "<b>Qualified professors in faculty who corporate their students</b><p>Professors appointed in the universities of Kazakhstan are well qualified who have years of teaching experience in their respective subject. They coordinate with each & every student even after the class schedule to resolve their doubts & issues. These faculty members bring a practical perspective on medical education throughout the degree program.</p>",
+                "<b>Universities applaudable class management</b><p>The intake capacity of the MBBS seats in Kazakhstan is much larger than in Indian colleges. In India, the student's capacity in a single classroom is 40 - 60 on average while on the other hand, Kazakhstan universities do not allow more than 20 students to attend the lectures in a single classroom.</p>",
+                "<b>Huge Infrastructure & quality of management</b><p>Medical colleges in Kazakhstan contain well-stocked laboratories where students can access any books and use them for personal studies. Students can use them for a year without paying additional charges. Many universities have a global ranking below 1000 & they have NMC approval for the facilitation of Indian graduates.</p>",
+                "<b>Safety measure & strict rules & policies of country/ University</b><p>The country is absolutely safe for international students & they don’t have to suffer from threats by the government or any extra-territorial organizations. Students offer positive feedback in respect of strict rules & policies regulated by their universities. The managerial departments of all colleges are highly concerned about the betterment of foreign students.</p>",
+                "<b>Availability of hostel with Indian food</b><p>Fresh quality of Indian food is available for Indian students in all seasons. Hostel & accommodation facilities are also provided for the students either inside the campus or outside the university infrastructure. The expenses one has to pay for getting these services are under the budget. Students can also opt for separate accommodation or food services as per their convenience.</p>",
+                "<b>Limited cost of education in kazakhstan</b><p>The single most significant characteristic of any university that international students often check to select the medical colleges with good infrastructure, better education, and an affordable range of fees. Most of the universities charge below 20 lakhs of rupees as tuition fees. If you want to combine the cost of hostel & food services, then the overall expense course reaches the range of 25 lakhs.</p>"
+            ]
         },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3>2. Minimum years of course duration</h3>',
-            data: '<p>The entire duration of the MBBS curriculum in Kazakhstan takes five years to complete, which is probably the best part of studying in this country. The majority of the international universities in the world provide six years of training programs on medicine; therefore, Aspirants can save a full year by studying in MBBS in Kazakhstan.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3>3. Course is taught in English language</h3>',
-            data: '<p>Another consolation for Indian students is the obstacle of learning the extra or native language of Kazakhstan. The entire curriculum of medicine is carried out in English as an official language for instruction medium.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3>4. Qualified professors in faculty who corporate their students</h3>',
-            data: '<p>Professors appointed in the universities of Kazakhstan are well qualified who have years of teaching experience in their respective subject. They coordinate with each & every student even after the class schedule to resolve their doubts & issues. These faculty members bring a practical perspective on medical education throughout the degree program.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3>5. Universities applaudable class management</h3>',
-            data: '<p>The intake capacity of the MBBS seats in Kazakhstan is much larger than in Indian colleges. In India, the students capacity in a single classroom is 40 - 60 on average while on the other hand, Kazakhstan universities do not allow more than 20 students to attend the lectures in a single classroom.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3>6. Huge Infrastructure & quality of management</h3>',
-            data: '<p>Medical colleges in Kazakhstan contain well-stocked laboratories where students can access any books and use them for personal studies. Students can use them for a year without paying additional charges. Many universities have a global ranking below 1000 & they have NMC approval for the facilitation of Indian graduates.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3>7. Safety measure & strict rules & policies of country/ University</h3>',
-            data: '<p>The country is absolutely safe for international students & they don’t have to suffer from threats by the government or any extra-territorial organizations. Students offer positive feedback in respect of strict rules & policies regulated by their universities. The managerial departments of all colleges are highly concerned about the betterment of foreign students.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3>8. Availability of hostel with Indian food</h3>',
-            data: '<p>Fresh quality of Indian food is available for Indian students in all seasons. Hostel & accommodation facilities are also provided for the students either inside the campus or outside the university infrastructure. The expenses one has to pay for getting these services are under the budget. Students can also opt for separate accommodation or food services as per their convenience.</p>'
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3>9. Limited cost of education in kazakhstan</h3>',
-            data: '<p>The single most significant characteristic of any university that international students often check to select the medical colleges with good infrastructure, better education, and an affordable range of fees. Most of the universities charge below 20 lakhs of rupees as tuition fees. If you want to combine the cost of hostel & food services, then the overall expense course reaches the range of 25 lakhs.</p>'
-        },
-        
+
         {
             "type": "table-title",
             "title": "List of Top 10 Medical Universities/Colleges For Studying MBBS in Kazakhstan 2023",
@@ -14659,7 +14852,15 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-        
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/al-farabi-kazakh-national-university/courses-and-fees/ target=_blank>Al-Farabi Kazakh National University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/al-farabi-kazakh-national-university/admission/ target=_blank>Al-Farabi Kazakh National University - Admission</a>"
+            ]
+        },
         {
             "type": "table-title",
             "title": "",
@@ -14674,6 +14875,15 @@ export default [{
                 ["World Rank", "3878"],
                 ["Annual Tuition Fees", "3,87,000 INR"],
                 ["University Accreditation", "NMC & WHO Approved"]
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kazakh-national-medical-university/courses-and-fees/ target=_blank>Kazakh National Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kazakh-national-medical-university/admission/ target=_blank>Kazakh National Medical University - Admission</a>"
             ]
         },
         {
@@ -14693,6 +14903,15 @@ export default [{
             ]
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/north-kazakhstan-state-university/courses-and-fees/ target=_blank>North Kazakhstan State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/north-kazakhstan-state-university/admission/ target=_blank>North Kazakhstan State University - Admission</a>"
+            ]
+        },
+        {
             "type": "table-title",
             "title": "",
             info: '<h3>4. <a href=https://www.selectyouruniversity.com/university/karaganda-state-medical-university/ target=_blank>Karaganda State Medical University</a></h3>',
@@ -14706,6 +14925,15 @@ export default [{
                 ["World Rank", "6197"],
                 ["Annual Tuition Fees", "2,85,000 INR"],
                 ["University Accreditation", "NMC & WHO Approved"]
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/karaganda-state-medical-university/courses-and-fees/ target=_blank>Karaganda State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/karaganda-state-medical-university/admission/ target=_blank>Karaganda State Medical University - Admission</a>"
             ]
         },
         {
@@ -14725,6 +14953,15 @@ export default [{
             ]
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kokshetau-state-university/courses-and-fees/ target=_blank>Kokshetau State University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kokshetau-state-university/admission/ target=_blank>Kokshetau State University - Admission</a>"
+            ]
+        },
+        {
             "type": "table-title",
             "title": "",
             info: '<h3>6. <a href=https://www.selectyouruniversity.com/university/astana-medical-university/ target=_blank>Astana Medical University</a></h3>',
@@ -14738,6 +14975,15 @@ export default [{
                 ["World Rank", "4870"],
                 ["Annual Tuition Fees", "2,10,000 INR"],
                 ["University Accreditation", "NMC, WHO, & UNESCO Approved"]
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/astana-medical-university/courses-and-fees/ target=_blank>Astana Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/astana-medical-university/admission/ target=_blank>Astana Medical University - Admission</a>"
             ]
         },
         {
@@ -14757,6 +15003,15 @@ export default [{
             ]
         },
         {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/semey-state-medical-university/courses-and-fees/ target=_blank>Semey State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/semey-state-medical-university/admission/ target=_blank>Semey State Medical University - Admission</a>"
+            ]
+        },
+        {
             "type": "table-title",
             "title": "",
             info: '<h3>8. <a href=https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/ target=_blank>South Kazakhstan State Medical Academy</a></h3>',
@@ -14772,7 +15027,15 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-        
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/courses-and-fees/ target=_blank>South Kazakh State Medical Academy - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/south-kazakhstan-medical-academy/admission/ target=_blank>South Kazakh State Medical Academy - Admission</a>"
+            ]
+        },
         {
             "type": "table-title",
             "title": "",
@@ -14789,7 +15052,15 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-        
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/west-kazakhstan-marat-ospanov-state-medical-university/courses-and-fees/ target=_blank>West Kazakhstan Marat Ospanov State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/west-kazakhstan-marat-ospanov-state-medical-university/admission/ target=_blank>West Kazakhstan Marat Ospanov State Medical University - Admission</a>"
+            ]
+        },
         {
             "type": "table-title",
             "title": "",
@@ -14806,8 +15077,15 @@ export default [{
                 ["University Accreditation", "NMC & WHO Approved"]
             ]
         },
-
-
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kazakh-russian-medical-university/courses-and-fees/ target=_blank>Kazakh Russian Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kazakh-russian-medical-university/admission/ target=_blank>Kazakh Russian Medical University - Admission</a>"
+            ]
+        },
         {
             type: 'text',
             title: 'Now What’s Next for Students?',
@@ -14881,123 +15159,136 @@ export default [{
             info: '',
             data: '<p>Students who want to pursue an MBBS in NMC recognized college need to check the list of top medical universities/colleges in Kyrgyzstan. Kyrgyzstan has plenty of medical universities that offer medical courses in various fields. The medical courses in Kyrgyzstan are approved by renowned authorities like NMC, UNESCO & WHO.</p><p><strong>Here, we at Select Your University enlisting the top NMC recognized medical universities in Kyrgyzstan:</strong></p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '<h3>1. Osh State Medical University</h3>',
-           // img: "blog/img/osh-state-medical-university.jpg",
-            data: '<p>It is the pedagogical institute offering specialty courses in General Medicine & Pediatrics. Osh State Medical University is a Public University that distinguished and prestigious of Kyrgyz Republic and one of the best universities in Central Asia.</p>'
-        },
-        {
+                {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>1. <a href=https://www.selectyouruniversity.com/university/osh-state-university/ target=_blank>Osh State Medical University</a></h3>',
+            textBelowInfo: '<p>It is the pedagogical institute offering specialty courses in General Medicine & Pediatrics. Osh State Medical University is a Public University that distinguished and prestigious of Kyrgyz Republic and one of the best universities in Central Asia.</p>',
             "col": [],
             "row": [
                 ["Establishment", "1992"],
                 ["Recognized by", "NMC, FAIMER, ECFMG(USA), IMED"],
                 ["Tuition Fees Per Year", "Rs.4,68,000/- (approx.)"]
-            ],
-            "heading":"<a href=https://www.selectyouruniversity.com/university/osh-state-university/ target=_blank>Read More</a>"
+            ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3>2. Jalal-Abad State University</h3>',
-            //img: "blog/img/jalal-abad-state-university.jpg",
-            data: '<p>The university is a public higher education institution with an enrollment of more than 4000 students offering professional programs in medicine. The programs last for 6 years with one year of internships.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/osh-state-university/courses-and-fees/ target=_blank>Osh State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/osh-state-university/admission/ target=_blank>Osh State Medical University - Admission</a>"
+            ],
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>2. <a href=https://www.selectyouruniversity.com/university/jalalabad-state-university/ target=_blank>Jalal-Abad State University</a></h3>',
+            textBelowInfo: '<p>The university is a public higher education institution with an enrollment of more than 4000 students offering professional programs in medicine. The programs last for 6 years with one year of internships.</p>',
             "col": [],
             "row": [
                 ["Establishment", "1993"],
                 ["Recognized by", "NMC, FAIMER, ECFMG, IMED"],
                 ["Tuition Fees Per Year", "Rs.5,40,000/- (approx.)"]
-            ],
-            "heading":"<a href=https://www.selectyouruniversity.com/university/jalalabad-state-university/ target=_blank>Read More</a>"
+            ]
         },
-        
+
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3>3. International School of Medicine</h3>',
-            // img: "blog/img/international-school-of-medicine.jpg",
-            data: '<p>International School of Medicine is the modern higher education institution with comprehensive infrastructure and experienced faculty members, specialists offering quality education in different areas of medicine.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/jalalabad-state-university/courses-and-fees/ target=_blank>Jalalabad State Medical University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/jalalabad-state-university/admission/ target=_blank>Jalalabad State Medical University - Admission</a>"
+            ],
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>3. <a href=https://www.selectyouruniversity.com/university/international-higher-school-of-medicine/ target=_blank>International School of Medicine</a></h3>',
+            textBelowInfo: '<p>International School of Medicine is the modern higher education institution with comprehensive infrastructure and experienced faculty members, specialists offering quality education in different areas of medicine.</p>',
             "col": [],
             "row": [
                 ["Listed in", "WDOMS"],
                 ["Certified by", "Ministry of Education and Science of Kyrgyz Republic"],
                 ["Recognized by", "IIME, ORPHEUS, NMC, IMED"],
                 ["Tuition Fees Per Year", "Rs.4,50,000/- (approx.)"]
-            ],
-            "heading":"<a href=https://www.selectyouruniversity.com/university/international-higher-school-of-medicine/ target=_blank>Read More</a>"
+            ]
         },
-       
+
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3>4. Kyrgyz Russian Slavic University</h3>',
-            // img: "blog/img/kyrgyz-russian-slavic-university.jpg",
-            data: '<p>Kyrgyz Russian Slavic University was founded in accordance with mutual assistance and cooperation between the Kyrgyz Republic and the Russian Federation.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/international-higher-school-of-medicine/courses-and-fees/ target=_blank>International Higher School of Medicine - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/international-higher-school-of-medicine/admission/ target=_blank>International Higher School of Medicine - Admission</a>"
+            ],
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>4. <a href=https://www.selectyouruniversity.com/university/kyrgyz-russian-slavic-university/ target=_blank>Kyrgyz Russian Slavic University</a></h3>',
+            textBelowInfo: '<p>Kyrgyz Russian Slavic University was founded in accordance with mutual assistance and cooperation between the Kyrgyz Republic and the Russian Federation.</p>',
             "col": [],
             "row": [
                 ["Establishment", "1993"],
                 ["Recognized by", "NMC, FAIMER, ECFMG"],
                 ["Tuition Fees Per Year", "Rs.4,64,000/- (approx.)"]
-            ],
-            "heading":"<a href=https://www.selectyouruniversity.com/university/kyrgyz-russian-slavic-university/ target=_blank>Read More</a>"
+            ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3>5. Kyrgyz State Medical Academy</h3>',
-            // img: "blog/img/kyrgyz-state-medical-academy.jpg",
-            data: '<p>Kyrgyz State Medical Academy was laid by the experienced professors and teachers offering 6 years MD program for UG students. This year, around 250 doctors were graduated from the institute.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kyrgyz-russian-slavic-university/courses-and-fees/ target=_blank>Kyrgyz Russian Slavic University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kyrgyz-russian-slavic-university/admission/ target=_blank>Kyrgyz Russian Slavic University - Admission</a>"
+            ],
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>5. <a href=https://www.selectyouruniversity.com/university/kyrgyz-state-medical-academy/ target=_blank>Kyrgyz State Medical Academy</a></h3>',
+            textBelowInfo: '<p>Kyrgyz State Medical Academy was laid by the experienced professors and teachers offering 6 years MD program for UG students. This year, around 250 doctors were graduated from the institute.</p>',
             "col": [],
             "row": [
                 ["Establishment", "April 16, 1939"],
                 ["Recognized by", "NMC, FAIMER, ECFMG, IMED"],
                 ["Tuition Fees Per Year", "Rs.4,80,000/- (approx.)"]
-            ],
-            "heading":"<a href=https://www.selectyouruniversity.com/university/kyrgyz-state-medical-academy/ target=_blank>Read More</a>"
+            ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3>6. Asian Medical Institute</h3>',
-            // img: "blog/img/asian-medical-institute.jpg",
-            data: '<p>Asian Medical Institute was founded in the year of 2004 registered with the Ministry of Kyrgyz Republic recognized by NMC. More than 2000 Indian students studying medicine at the university.</p>'
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/kyrgyz-state-medical-academy/courses-and-fees/ target=_blank>Kyrgyz State Medical Academy - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/kyrgyz-state-medical-academy/admission/ target=_blank>Kyrgyz State Medical Academy - Admission</a>"
+            ],
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>6. <a href=https://www.selectyouruniversity.com/university/asian-medical-institute/ target=_blank>Asian Medical Institute</a></h3>',
+            textBelowInfo: '<p>Asian Medical Institute was founded in the year of 2004 registered with the Ministry of Kyrgyz Republic recognized by NMC. More than 2000 Indian students studying medicine at the university.</p>',
             "col": [],
             "row": [
                 ["Establishment", "2004"],
                 ["Recognized by", "NMC and WHO"],
                 ["Tuition Fees Per Year", "Rs.4,20,000/- (approx.)"]
-            ],
-            "heading":"<a href=https://www.selectyouruniversity.com/university/asian-medical-institute/ target=_blank>Read More</a>"
+            ]
         },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/asian-medical-institute/courses-and-fees/ target=_blank>Asian Medical Institute - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/asian-medical-institute/admission/ target=_blank>Asian Medical Institute - Admission</a>"
+            ]
+        },
+
         {
             type: 'text',
             title: 'Conclusion',
@@ -15041,7 +15332,7 @@ export default [{
             type: 'text',
             title: '',
             info: '',
-            data: '<p>Here we have included <strong>the names of top 15 medical universities in the Philippines</strong> to levitate your career as a doctor of medicine.</p><p>All the medical colleges mentioned below have an official recognition from the National Medical Commission (NMC) and their tuition fees are quite inexpensive.</p><p>Most of the <a href="https://www.selectyouruniversity.com/mbbs-in-philippines.php" target="_blank">Indians studying in the Philippines</a> are mainly scattered across these universities due to their practically standard training of MBBS.</p><p>Let’s check out the brief overview of these universities so you can choose the best decision for your career in medicine.</p>'
+            data: '<All>Here we have included <strong>the names of top 15 medical universities in the Philippines</strong> to levitate your career as a doctor of medicine. All the medical colleges mentioned below have an official recognition from the National Medical Commission (NMC) and their tuition fees are quite inexpensive.</p><Let’s>Most of the <a href="https://www.selectyouruniversity.com/course/mbbs-in-philippines/" target="_blank">Indians studying in the Philippines</a> are mainly scattered across these universities due to their practically standard training of MBBS. Let’s check out the brief overview of these universities so you can choose the best decision for your career in medicine.</p>'
         },
         {
             "type": "table-title",
@@ -15054,7 +15345,7 @@ export default [{
                 ["Duration of M.D Program", "4 Years Course"],
                 ["Population of the country", "10,67,00,000"],
                 ["Official Language", "Filipino & English"],
-                ["Currency - Rate of Exchange ", "1 Phi = 1.61 INR"],
+                ["Currency - Rate of Exchange ", "1 Phi = 1.48 INR"],
                 ["Language Used for Instruction", "English Medium"],
                 ["Required PCB Score ", "50% (Gen.) & 40% (Res.)"],
                 ["Age Criteria", "17 (Min) & 25 (Max)"],
@@ -15069,10 +15360,20 @@ export default [{
             data: '<h3><strong>Bachelor of Science - BS (18 months)</strong></h3><p>There is no direct admission for M.D course in the universities of the philippines. First you get an entry for a B.S course which goes for 1.5/2 years and then you are eligible for NMAT to step into the course of M.D.</p><h3><strong>NMAT - National Medical Admission Test</strong></h3><p><a href="https://wiki2.org/en/Commission_on_Higher_Education_(Philippines)" target="_blank">CHED</a> (Commission on Higher Education, Philippines) is a national medical authority that organizes NMAT after qualifying the students eligible to study medicine in the Philippines. CHED offered freedom to all the colleges to determine the minimum score criteria to grant admission.</p><h3><strong>Doctor of Medicine - MD (4 years)</strong></h3><p>M.D is an equivalent name to the MBBS course in the Philippines. After a successive clearance of NMAT, the students get the admission in the respective medical colleges.</p>'
         },
         {
+            type: 'number-list',
+            title: '3 Stages of Becoming a Doctor in the Philippines',
+            info: 'A journey of acquiring an MBBS degree in the universities of the Philippines splits in the following different roads:',
+            data: [
+                "<b>Bachelor of Science - BS (18 months)</b><p>There is no direct admission for M.D course in the universities of the philippines. First you get an entry for a B.S course which goes for 1.5/2 years and then you are eligible for NMAT to step into the course of M.D.</p>",
+                "<b>NMAT - National Medical Admission Test</b><p><a href=https://wiki2.org/en/Commission_on_Higher_Education_(Philippines) target=_blank>CHED</a>(Commission on Higher Education, Philippines) is a national medical authority that organizes NMAT after qualifying the students eligible to study medicine in the Philippines. CHED offered freedom to all the colleges to determine the minimum score criteria to grant admission.</p>",
+                "<b>Doctor of Medicine - MD (4 years)</b><p>M.D is an equivalent name to the MBBS course in the Philippines. After a successive clearance of NMAT, the students get the admission in the respective medical colleges.</p>"
+            ]
+        },
+        {
             type: 'list-bollet',
             title: 'Reason Why you Should Study Medicine in the Philippines',
             info: 'See the benefits Indian students avail while learning in the Philippines:',
-            img: "blog/img/benefits-of-studying-mbbs-in-philippines.jpg",
+            // img: "blog/img/benefits-of-studying-mbbs-in-philippines.jpg",
             data: [
                 "Philippines has 37 NMC approved medical universities and their tuition fees ranges between 20 -25 lakhs for complete courses.",
                 "English is a widely spoken language in the country and the instruction of MBBS programs are in English medium.",
@@ -15084,23 +15385,10 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            "type": "table-title",
             title: 'Top Medical Universities for Studying in the Philippines (Updated List)',
             info: 'Top 15 medical colleges in the Philippines where Indian students can establish the foundation of career in medicine:',
-            data: ''
-        },
-
-        {
-            type: 'text',
-            title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/brokenshire-college-school-of-medicine.php" target="_blank">Brokenshire College School of Medicine</a></strong></h3>',
-            img: "blog/img/brokenshire-college-school-of-medicine.jpg",
-            data: ''
-        },
-        {
-            "type": "table-title",
-            "title": "",
-            "info": "",
+            textBelowInfo: '<h3>1. <strong><a href="selectyouruniversity.com/university/brokenshire-college-school-of-medicine/" target="_blank">Brokenshire College School of Medicine</a></strong></h3>',
             "col": [],
             "row": [
 
@@ -15114,16 +15402,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/uv-gullas-college-of-medicine.php" target="_blank">UV Gullas College of Medicine</a></strong></h3>',
-            img: "img/uv-gullas-college-of-medicine.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/brokenshire-college-school-of-medicine/courses-and-fees/ target=_blank>Brokenshire College School of Medicine - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/brokenshire-college-school-of-medicine/admission/ target=_blank>Brokenshire College School of Medicine - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>2. <strong><a href="https://www.selectyouruniversity.com/university/uv-gullas-college-of-medicine/" target="_blank">UV Gullas College of Medicine</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1977"],
@@ -15136,16 +15426,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/liceo-college-of-medicine.php" target="_blank">Liceo College of Medicine</a></strong></h3>',
-            img: "img/liceo-college-of-medicine.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/uv-gullas-college-of-medicine/courses-and-fees/ target=_blank>UV Gullas College of Medicine - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/uv-gullas-college-of-medicine/admission/ target=_blank>UV Gullas College of Medicine - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>3. <strong><a href="https://www.selectyouruniversity.com/university/liceo-college-of-medicine/" target="_blank">Liceo College of Medicine</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1955"],
@@ -15158,16 +15450,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/davao-medical-school-foundation.php" target="_blank">Davao Medical School Foundation</a></strong></h3>',
-            img: "img/davao-medical-school-foundation.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/liceo-college-of-medicine/courses-and-fees/ target=_blank>Liceo College of Medicine - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/liceo-college-of-medicine/admission/ target=_blank>Liceo College of Medicine - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+             info: '<h3>4. <strong><a href="https://www.selectyouruniversity.com/university/davao-medical-school-foundation/" target="_blank">Davao Medical School Foundation</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1976"],
@@ -15180,16 +15474,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/our-lady-of-fatima-university.php" target="_blank">Our Lady of Fatima University</a></strong></h3>',
-            img: "img/our-lady-of-fatima-university.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/davao-medical-school-foundation/courses-and-fees/ target=_blank>Davao Medical School Foundation - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/davao-medical-school-foundation/admission/ target=_blank>Davao Medical School Foundation - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>5. <strong><a href="https://www.selectyouruniversity.com/university/our-lady-of-fatima-university/" target="_blank">Our Lady of Fatima University</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1973"],
@@ -15202,16 +15498,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/cebu-institute-of-medicine.php" target="_blank">Cebu Institute of Medicine</a></strong></h3>',
-            img: "img/cebu-institute-of-medicine.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/our-lady-of-fatima-university/courses-and-fees/ target=_blank>Our Lady Of Fatima University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/our-lady-of-fatima-university/admission/ target=_blank>Our Lady Of Fatima University - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>6. <strong><a href="https://www.selectyouruniversity.com/philippines/cebu-institute-of-medicine.php" target="_blank">Cebu Institute of Medicine</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1957"],
@@ -15224,16 +15522,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/university-of-santo-tomas.php" target="_blank">University of Santo Tomas</a></strong></h3>',
-            img: "img/university-of-santo-tomas.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/cebu-institute-of-medicine/courses-and-fees/ target=_blank>Cebu Institute of Medicine - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/cebu-institute-of-medicine/admission/ target=_blank>Cebu Institute of Medicine - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>7. <strong><a href="https://www.selectyouruniversity.com/university/university-of-santo-tomas/" target="_blank">University of Santo Tomas</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1661"],
@@ -15246,16 +15546,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/central-philippine-university.php" target="_blank">Central Philippine University</a></strong></h3>',
-            img: "img/central-philippine-university.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/university-of-santo-tomas/courses-and-fees/ target=_blank>University of Santo Tomas - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/university-of-santo-tomas/admission/ target=_blank>University of Santo Tomas - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>8. <strong><a href="https://www.selectyouruniversity.com/university/central-philippine-university/" target="_blank">Central Philippine University</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1905"],
@@ -15268,16 +15570,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/angeles-university-foundation.php" target="_blank">Angeles University Foundation</a></strong></h3>',
-            img: "img/angeles-university-foundation.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/central-philippine-university/courses-and-fees/ target=_blank>Central Philippine University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/central-philippine-university/admission/ target=_blank>Central Philippine University - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3> 9.<strong><a href="https://www.selectyouruniversity.com/university/angeles-university-foundation/" target="_blank">Angeles University Foundation</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "May 25, 1962"],
@@ -15290,16 +15594,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/manila-central-university.php" target="_blank">Manila Central University</a></strong></h3>',
-            img: "img/manila-central-university.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/angeles-university-foundation/courses-and-fees/ target=_blank>Angeles University Foundation - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/angeles-university-foundation/admission/ target=_blank>Angeles University Foundation - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>10. <strong><a href="https://www.selectyouruniversity.com/university/manila-central-university/" target="_blank">Manila Central University</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "6 December, 1904"],
@@ -15312,16 +15618,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/emilio-aguinaldo-college-manila.php" target="_blank">Emilio Aguinaldo College</a></strong></h3>',
-            img: "img/emilio-aguinaldo-college-manila.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/manila-central-university/courses-and-fees/ target=_blank>Manila Central University - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/manila-central-university/admission/ target=_blank>Manila Central University - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>11. <strong><a href="https://www.selectyouruniversity.com/university/emilio-aguinaldo-college-manila/" target="_blank">Emilio Aguinaldo College</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1957"],
@@ -15334,16 +15642,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/university-of-perpetual-help.php" target="_blank">University of Perpetual Help</a></strong></h3>',
-            img: "img/university-of-perpetual-help.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/emilio-aguinaldo-college-manila/courses-and-fees/ target=_blank>Emilio Aguinaldo College - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/emilio-aguinaldo-college-manila/admission/ target=_blank>Emilio Aguinaldo College - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>12. <strong><a href="https://www.selectyouruniversity.com/university/university-of-perpetual-help-system-dalta/" target="_blank">University of Perpetual Help</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "5 February, 1975"],
@@ -15356,16 +15666,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/southwestern-university-phinma.php" target="_blank">Southwestern University Phinma</a></strong></h3>',
-            img: "img/southwestern-university-phinma.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/university-of-perpetual-help-system-dalta/courses-and-fees/ target=_blank>University of Perpetual Help - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/university-of-perpetual-help-system-dalta/admission/ target=_blank>University of Perpetual Help - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>13. <strong><a href="https://www.selectyouruniversity.com/university/southwestern-university-phinma/" target="_blank">Southwestern University Phinma</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1946"],
@@ -15378,16 +15690,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/amec-bicol-christian-college-of-medicine.php" target="_blank">Amec Bicol Chrsitian College Of Medicine</a></strong></h3>',
-            img: "img/amec-bicol-christian-college-of-medicine.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/southwestern-university-phinma/courses-and-fees/ target=_blank>Southwestern University PHINMA - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/southwestern-university-phinma/admission/ target=_blank>Southwestern University PHINMA - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>14. <strong><a href="https://www.selectyouruniversity.com/university/amec-bicol-christian-college-of-medicine/" target="_blank">Amec Bicol Chrsitian College Of Medicine</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1975"],
@@ -15400,16 +15714,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/st-paul-university-philippines.php" target="_blank">St. Paul University Philippines</a></strong></h3>',
-            img: "img/st-paul-university-philippines.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/amec-bicol-christian-college-of-medicine/courses-and-fees/ target=_blank>AMEC Bicol Christian College of Medicine - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/amec-bicol-christian-college-of-medicine/admission/ target=_blank>AMEC Bicol Christian College of Medicine - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>15. <strong><a href="https://www.selectyouruniversity.com/university/st-paul-university-philippines/" target="_blank">St. Paul University Philippines</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1976"],
@@ -15422,16 +15738,18 @@ export default [{
             ]
         },
         {
-            type: 'text',
+            type: 'list-bollet',
             title: '',
-            info: '<h3><strong><a href="https://www.selectyouruniversity.com/philippines/university-of-northern-philippines.php" target="_blank">University of Northern Philippines</a></strong></h3>',
-            img: "img/university-of-northern-philippines.jpg",
-            data: ''
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/st-paul-university-philippines/courses-and-fees/ target=_blank>St. Paul University Philippines - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/st-paul-university-philippines/admission/ target=_blank>St. Paul University Philippines - Admission</a>"
+            ]
         },
         {
             "type": "table-title",
             "title": "",
-            "info": "",
+            info: '<h3>16. <strong><a href="https://www.selectyouruniversity.com/university/university-of-northern-philippines/" target="_blank">University of Northern Philippines</a></strong></h3>',
             "col": [],
             "row": [
                 ["Foundation Year", "1965"],
@@ -15441,6 +15759,15 @@ export default [{
                 ["National Rank", "124"],
                 ["World Rank", "109045"],
                 ["Annual Tuition Fees", "4000 USD"],
+            ]
+        },
+        {
+            type: 'list-bollet',
+            title: '',
+            info: "Read More:",
+            "data": [
+                "<a href=https://www.selectyouruniversity.com/university/university-of-northern-philippines/courses-and-fees/ target=_blank>University of Northern Philippines - Courses & Fees</a>",
+                "<a href=https://www.selectyouruniversity.com/university/university-of-northern-philippines/admission/ target=_blank>University of Northern Philippines - Admission</a>"
             ]
         },
         {
@@ -15491,7 +15818,7 @@ export default [{
             type: 'text',
             title: 'Why Study MBBS in Ukraine specially for Indian Students?',
             info: '',
-            data: '<p>One of the best study options in the world is <a href=https://www.selectyouruniversity.com/mbbs-in-ukraine.php target=blank> MBBS in Ukraine.</a></p><p>Among international students who want to pursue their MBBS from abroad, Ukraine has become the most popular destination. Many world class Government medical universities which offer MBBS, MD or other degrees in medicine and that too at a <strong>very affordable price are in Ukraine</strong>.</p><p>Students can apply for a job in any part of the world, who complete their medical degree from Ukraine.</p><p>To get admission in a medical university in Ukraine, students are not required to pass any entrance exam. <strong>MBBS program in Ukraine is</strong> of the duration of <strong>5.8 years</strong>.</p><p>Thus, for the students living the dream of becoming a doctor, MBBS study in Ukraine is really worthy.</p>'
+            data: '<p>One of the best study options in the world is <a href=https://www.selectyouruniversity.com/course/mbbs-in-ukraine/ target=_blank> MBBS in Ukraine.</a></p><p>Among international students who want to pursue their MBBS from abroad, Ukraine has become the most popular destination. Many world class Government medical universities which offer MBBS, MD or other degrees in medicine and that too at a <strong>very affordable price are in Ukraine</strong>.</p><p>Students can apply for a job in any part of the world, who complete their medical degree from Ukraine.</p><p>To get admission in a medical university in Ukraine, students are not required to pass any entrance exam. <strong>MBBS program in Ukraine is</strong> of the duration of <strong>5.8 years</strong>.</p><p>Thus, for the students living the dream of becoming a doctor, MBBS study in Ukraine is really worthy.</p>'
         },
         {
             "type": "list-bollet",
@@ -15505,14 +15832,10 @@ export default [{
                 " Various seminars and international conferences are arranged by the medical universities for students to take part in.",
                 " Medical councils of many countries, WHO, UNESCO, NMC etc. are the bodies to authorize medical universities of Ukraine and many medical universities have been recognized by them.",
                 " In terms of quality, infrastructure, and cost the medical universities of Ukraine are the best and offer the best value for medical education for students."
-            ]
+            ],
+            "heading":'<p>Still, do you have any confusion about your decision of studying in Ukraine?</p><p>Then you can refer our blog <a href=https://www.selectyouruniversity.com/blog/is-studying-mbbs-in-ukraine-a-good-decision/ target=_blank>Is Studying MBBS in Ukraine a Good Decision?</a>’ so that you can get a better idea about how MBBS education in Ukraine is best for Indian students.</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p>Still, do you have any confusion about your decision of studying in Ukraine?</p><p>Then you can refer our blog <a href=https://www.selectyouruniversity.com/blog/is-studying-mbbs-in-ukraine-a-good-decision.php target=_blank>Is Studying MBBS in Ukraine a Good Decision?</a>’ so that you can get a better idea about how MBBS education in Ukraine is best for Indian students.</p>'
-        },
+        
         {
             type: 'text',
             title: 'Simple Admission Process for MBBS Admission (Ukraine)',
@@ -15524,22 +15847,17 @@ export default [{
             "title": "",
             "info": "Below mentioned is the eligibility criteria which students must fulfill in order to be able to take admission to medical universities in Ukraine:",
             "data": [
-                " At the year of admission to the MBBS course, student’s age must be above the age of 17 years on or before 31st December of the same year.",
-                " The student must have cleared the 10+2 exam with Physics, Chemistry, and Biology.",
-                " In the 12th standard exam, the student must have scored minimum 50% marks."
+                "At the year of admission to the MBBS course, student’s age must be above the age of 17 years on or before 31st December of the same year.",
+                "The student must have cleared the 10+2 exam with Physics, Chemistry, and Biology.",
+                "In the 12th standard exam, the student must have scored minimum 50% marks."
             ]
         },
         {
-            type: 'text',
-            title: 'Top MBBS Colleges/Universities for MBBS study in Ukraine',
-            info: '',
-            data: '<p>The most important and interesting part for you is which are the top universities for MBBS study in Ukraine. Let us try to get the detailed information of each University one by one. </p>'
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Bogomolets National Medical University",
-            "img": "blog/img/bogomolets-national-medical-university.jpg",
+            "title": "Top MBBS Colleges/Universities for MBBS study in Ukraine",
+            "info": "<p>The most important and interesting part for you is which are the top universities for MBBS study in Ukraine. Let us try to get the detailed information of each University one by one. </p>",
+            "textBelowInfo":"<h3>1. <a href=https://www.selectyouruniversity.com/university/bogomolets-national-medical-university/ target=_blank>Bogomolets National Medical University</a></h3>",
+            // "img": "blog/img/bogomolets-national-medical-university.jpg",
             "data": [
                 " This is one of the premier medical institutions and it is known for its excellence.",
                 "The university was founded in 1841.",
@@ -15576,22 +15894,18 @@ export default [{
                     "Annual Fee ": "Rs. 3,85,000",
                 },
 
-            ]
+            ],
+            "heading":"<p><strong>Please Note:</strong> 1$ = Rs. 70</p>"
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/bogomolets-national-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+       
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Bukovinian State Medical University",
-            "img": "img/bukovinian-state-medical-university.jpg",
+            "info": "<h3>2. <a href=https://www.selectyouruniversity.com/university/bukovinian-state-medical-university/ target=_blank>Bukovinian State Medical University</a></h3>",
+            // "img": "img/bukovinian-state-medical-university.jpg",
             "data": [
-                " The university was founded in 1944.",
-                " Bukovinian State Medical University has 7 faculties of which there are four medical faculties, stomatological, pharmaceutical, and the faculty of post-graduate training. The university consists of 47 Departments.",
+                "The university was founded in 1944.",
+                "Bukovinian State Medical University has 7 faculties of which there are four medical faculties, stomatological, pharmaceutical, and the faculty of post-graduate training. The university consists of 47 Departments.",
                 " It is Chernivtsi’s oldest and largest university.",
                 " This university is modern and it is recognized by WHO and NMC.",
                 " Bologna process believes in delivering quality education and BSMU is associated with it.",
@@ -15624,26 +15938,22 @@ export default [{
                     "Annual Fee ": "Rs. 3,08,000",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/bukovinian-state-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Danylo Halytsky Lviv State Medical University ",
-            "img": "img/lviv-national-medical-university.jpg",
+            "info": "<h3>3. <a href=https://www.selectyouruniversity.com/university/danylo-halytsky-lviv-state-medical-university/ target=_blank>Danylo Halytsky Lviv State Medical University</a></h3> ",
+            // "img": "img/lviv-national-medical-university.jpg",
             "data": [
-                " This University has got the 4th level of accreditation.",
+                "This University has got the 4th level of accreditation.",
                 "It has been founded on 16th November 1784. University celebrated its 225th anniversary in 2009.",
                 "It is one of the biggest and oldest educational institutions in Ukraine.",
                 "There are 22 scientific schools actively working and functioning in the university like Pharmacy, Obstetrics and Gynecology, Ophthalmology, Oncology, Chemistry, Pharmacy, Surgery etc.",
                 "The university has 78 departments.",
-                " Admission is provided to foreign students at the university to the undergraduate education at Faculty of Pharmacy, Faculty of Dentistry and Faculty of Medicine.",
+                "Admission is provided to foreign students at the university to the undergraduate education at Faculty of Pharmacy, Faculty of Dentistry and Faculty of Medicine.",
                 "At the University, there are a total 134 Doctor of Sciences, 113 professors, 369 associate professors, 50 senior tutors, 17 researchers etc."
             ]
         },
@@ -15673,19 +15983,15 @@ export default [{
                     "Annual Fee ": "Rs. 4,13,000",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/danylo-halytsky-lviv-state-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Dnipropetrovsk State Medical Academy",
-            "img": "blog/img/dnipropetrovsk-state-medical-academy.jpg",
+            "info": "<h3>4. <a href=https://www.selectyouruniversity.com/university/dnipropetrovsk-state-medical-academy/ target=_blank>Dnipropetrovsk State Medical Academy</a></h3>",
+            // "img": "blog/img/dnipropetrovsk-state-medical-academy.jpg",
             "data": [
                 " On the basis of Ekaterinoslavskiy higher female courses, this institute was founded on September 15, 1916.",
                 " In 1920, this institute acquired the status of state academy.",
@@ -15721,19 +16027,15 @@ export default [{
                     "Annual Fee ": "Rs. 3,36,770",
                 },
 
-            ]
+            ],
+            "heading":"<p><strong>Please Note:</strong> 1$ = Rs. 70</p>"
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/dnipropetrovsk-state-medical-academy.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Ivano Frankivsk National Medical University",
-            "img": "img/ivano-frankivsk-national-medical-university.jpg",
+            "info": "<h3>5. <a href=https://www.selectyouruniversity.com/university/ivano-frankivsk-national-medical-university/ target=_blank>Ivano Frankivsk National Medical University</a></h3>",
+            // "img": "img/ivano-frankivsk-national-medical-university.jpg",
             "data": [
                 " Ivano is an important cultural and scientific center and it is the beautiful city of Ukraine.",
                 "Ivano Frankivsk National Medical University was established in the year 1945.",
@@ -15769,29 +16071,24 @@ export default [{
                     "Particulars ": "Total Fees",
                     "Annual Fee ": "Rs. 3,50,000",
                 },
-
-            ]
+            ],
+            "heading":"<p><strong>Please Note:</strong> 1$ = Rs. 70</p>"
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/ivano-frankivsk-national-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Kharkiv National Medical University ",
-            "img": "blog/img/kharkiv-national-medical-university.jpg",
+            "info": "<h3>6. <a href=https://www.selectyouruniversity.com/university/kharkiv-national-medical-university/ target=_blank>Kharkiv National Medical University</a></h3> ",
+            // "img": "blog/img/kharkiv-national-medical-university.jpg",
             "data": [
-                "  It was founded in 1805 and thus it is one of the oldest higher educational establishments of Ukraine.",
-                "  Previously, it was known as Medical Faculty of the Kharkiv University and later it was named as ‘Kharkiv National Medical University’.",
-                " To study medicine in Ukraine, this is the best medical university for international students.",
-                "  This university is recognized by NMC, WHO and UNESCO.",
-                "  The MBBS degree of Kharkiv National Medical University is renowned and it is prestigious throughout the world.",
-                "  This university has the provision of studying MBBS in either English, Russian or Ukrainian medium for students.",
-                "  Since 1951, more than 7500 international students graduated from KNMU.",
-                "  The university has 700 teachers of which 102 are Doctors of Sciences, 387 candidates of medical sciences, 17 honored scientists, 32 members of academies."
+                "It was founded in 1805 and thus it is one of the oldest higher educational establishments of Ukraine.",
+                "Previously, it was known as Medical Faculty of the Kharkiv University and later it was named as ‘Kharkiv National Medical University’.",
+                "To study medicine in Ukraine, this is the best medical university for international students.",
+                "This university is recognized by NMC, WHO and UNESCO.",
+                "The MBBS degree of Kharkiv National Medical University is renowned and it is prestigious throughout the world.",
+                "This university has the provision of studying MBBS in either English, Russian or Ukrainian medium for students.",
+                "Since 1951, more than 7500 international students graduated from KNMU.",
+                "The university has 700 teachers of which 102 are Doctors of Sciences, 387 candidates of medical sciences, 17 honored scientists, 32 members of academies."
             ]
         },
         {
@@ -15819,20 +16116,15 @@ export default [{
                     "Particulars ": "Total Fees",
                     "Annual Fee ": "Rs. 4,06,000",
                 },
-
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/kharkiv-national-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+       
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Kyiv Medical University of uafm Kiev",
-            "img": "blog/img/kyiv-medical-university.jpg",
+            "info": "<h3>7. <a href=https://www.selectyouruniversity.com/university/kyiv-medical-university-of-uafm-kiev/ target=_blank>Kyiv Medical University of uafm Kiev</a></h3>",
+            // "img": "blog/img/kyiv-medical-university.jpg",
             "data": [
                 "The ‘Kyiv medical university of uafm’ was established in 1992 by Dr. Pokanevich Valeriy.",
                 " It is the best medical university of Ukraine.",
@@ -15869,19 +16161,15 @@ export default [{
                     "Annual Fee ": "Rs. 3,15,000",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/kyiv-medical-university-of-uafm-kiev.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+       
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Lugansk State Medical University",
-            "img": "img/lugansk-state-medical-university.jpg",
+            "info": "<h3>8. <a href=https://www.selectyouruniversity.com/university/lugansk-state-medical-university/ target=_blank>Lugansk State Medical University</a></h3>",
+            // "img": "img/lugansk-state-medical-university.jpg",
             "data": [
                 " According to the USSR Council of Ministers Directive dated 6 May, 1956, the university was founded in 1956.",
                 " It was previously known as ‘Voroshilovgrad state medical university’.",
@@ -15918,19 +16206,15 @@ export default [{
                     "Annual Fee ": "Rs. 3,36,000",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/lugansk-state-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Ternopil National Medical University",
-            "img": "blog/img/ternopil-state-medical-university.jpg",
+            "info": "<h3>9. <a href=https://www.selectyouruniversity.com/university/ternopil-national-medical-university/ target=-blank>Ternopil National Medical University</a></h3>",
+            // "img": "blog/img/ternopil-state-medical-university.jpg",
             "data": [
                 "On 1st September, 1957, the Ternopil National Medical University was established.",
                 " In 1992, the university was named after I.Ya. Horbachevsky by the decision of the cabinet ministers of the institute in 1992.",
@@ -15965,19 +16249,15 @@ export default [{
                     "Annual Fee ": "Rs. 3,22,000",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/ternopil-national-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+       
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Uzhhorod National Medical University",
-            "img": "blog/img/uzhhorod-national-medical-university.jpg",
+            "info": "<h3>10. <a href=https://www.selectyouruniversity.com/university/uzhhorod-national-medical-university/ target=_blank>Uzhhorod National Medical University</a></h3>",
+            // "img": "blog/img/uzhhorod-national-medical-university.jpg",
             "data": [
                 "It is one of the classic universities of Ukraine. It holds 4th level of accreditation which is the highest level of accreditation.",
                 "In Western Ukraine, on the slopes of the Carpathian Mountains and in the city of Uzhhorod this university is located.",
@@ -16012,19 +16292,15 @@ export default [{
                     "Annual Fee ": "Rs. 3,25,500",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/uzhhorod-national-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+       
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Zaporozhye State Medical University",
-            "img": "blog/img/zaporozhye-state-medical-university.jpg",
+            "info": "<h3>11. <a href=https://www.selectyouruniversity.com/university/zaporozhye-state-medical-university/ target=_blank>Zaporozhye State Medical University</a></h3>",
+            // "img": "blog/img/zaporozhye-state-medical-university.jpg",
             "data": [
                 " At Zaporozhye Pharmaceutical Institute, the medical faculty was opened in 1964 and in 1968 this Pharmaceutical Institute was renamed to Zaporozhye Medical Institute.",
                 "Zaporozhye Medical Institute got a status of the first category in 1975.",
@@ -16061,19 +16337,15 @@ export default [{
                     "Annual Fee ": "Rs. 3,78,500",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/zaporozhye-state-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Vinnitsa National Medical University ",
-            "img": "blog/img/vinnytsia-national-medical-university.jpg",
+            "info": "<h3>12. <a href=https://www.selectyouruniversity.com/university/vinnitsa-national-medical-university/ target=_blank>Vinnitsa National Medical University</a></h3> ",
+            // "img": "blog/img/vinnytsia-national-medical-university.jpg",
             "data": [
                 " This university is accredited by National Medical Commission (NMC), World Health Organization (WHO) and Ministry of Health of Ukraine.",
                 " Thus, after completing degree from Vinnitsa National Medical University, students can sit for FMGE or NMC screening test.",
@@ -16109,18 +16381,14 @@ export default [{
                     "Annual Fee ": "Rs. 4,20,000",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/vinnitsa-national-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Petro Mohyla Black Sea National University",
+            "info": "<h3>13. <a href=https://www.selectyouruniversity.com/university/petro-mohyla-black-sea-national-university/ target=_blank>Petro Mohyla Black Sea National University</a></h3>",
             "img": "blog/img/petro-mohyla-black-sea-national-university.jpg",
             "data": [
                 "The foundation of the university dates back to the year 1996 with par excellence in it’s infrastructure quality of education.",
@@ -16158,19 +16426,15 @@ export default [{
                     "Annual Fee ": "Rs. 3,29,000",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/petro-mohyla-black-sea-national-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Sumy State University",
-            "img": "img/sumy-state-university.jpg",
+            "info": "<h3>14. <a href=https://www.selectyouruniversity.com/university/sumy-state-university/ target=_blank>Sumy State University</a></h3>",
+            // "img": "img/sumy-state-university.jpg",
             "data": [
                 " Located at the Sumy Oblast, Sumy State University came into emergence in the year 1948 with an objective to revolutionize medical education.",
                 " As of now, more than 15,000 students pursue numerous courses at the university under highly experienced phd professors & doctors.",
@@ -16207,19 +16471,15 @@ export default [{
                     "Annual Fee ": "Rs. 3,85,000",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/sumy-state-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
+       
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Poltava State Medical & Dental University",
-            "img": "blog/img/poltava-state-medical-and-dental-university.jpg",
+            "info": "<h3>15. <a href=https://www.selectyouruniversity.com/university/poltava-state-medical-and-dental-university/ target=_blank>Poltava State Medical & Dental University</a></h3>",
+            // "img": "blog/img/poltava-state-medical-and-dental-university.jpg",
             "data": [
                 " The university came into existence in 1921 & since then it has been helping the students to fulfill their ambition.",
                 " Started as a faculty of Kharkiv Medical Academy, it has earned an accreditation of Ukrainian Medical Dental Academy in 1994.",
@@ -16262,27 +16522,29 @@ export default [{
             type: 'text',
             title: '',
             info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/poltava-state-medical-and-dental-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
+            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
+        
         {
             "type": "list-bollet",
             "title": "",
-            "info": "V.N.Karazin Kharkiv National University ",
-            "img": "blog/img/v-n-karazin-kharkiv-national-university.jpg",
+            "info": "<h3>16. <a href=https://www.selectyouruniversity.com/university/v-n-karazin-kharkiv-national-university/ target=_blank>V.N.Karazin Kharkiv National University</a></h3> ",
+            // "img": "blog/img/v-n-karazin-kharkiv-national-university.jpg",
             "data": [
                 "The establishment period of V.N.Karazin Kharkiv National University dates back to Nov 1804 with the association of Tsar Alexander I.",
-                " The university has been an excellent hub for education in Ukraine over almost two centuries.",
-                " V.N. Karazin University has an historic track record of aluminis who are diligently popular in their field that also includes nobel prize winners.",
-                " There are 1,30,000 students graduated from V.N.Karazin Kharkiv National University till the date & the number continues to go on.",
-                " The university received the status of National University in October 1999 & it was named after its founder V.N Karazin.",
-                " Hostel & accommodation services is provided for the foreign students with a maximum capacity of 2000 students.",
+                "The university has been an excellent hub for education in Ukraine over almost two centuries.",
+                "V.N. Karazin University has an historic track record of aluminis who are diligently popular in their field that also includes nobel prize winners.",
+                "There are 1,30,000 students graduated from V.N.Karazin Kharkiv National University till the date & the number continues to go on.",
+                "The university received the status of National University in October 1999 & it was named after its founder V.N Karazin.",
+                "Hostel & accommodation services is provided for the foreign students with a maximum capacity of 2000 students.",
                 "The cost of medical education in the university is affordable compared to other international universities."
             ]
         },
+
         {
             "type": "table",
             "title": "",
-            "info": "Fee Structure of V.N.Karazin Kharkiv National University ",
+            "info": "Fee Structure of V.N.Karazin Kharkiv National University",
             "col": [
                 "Particulars ",
                 "Annual Fee ",
@@ -16305,19 +16567,14 @@ export default [{
                     "Annual Fee ": "Rs. 3,99,000",
                 },
 
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/v-n-karazin-kharkiv-national-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Taras Shevchenko National University of Kyiv",
-            "img": "blog/img/taras-shevchenko-national-university-of-kyiv.jpg",
+            "info": "<h3>17. <a href=https://www.selectyouruniversity.com/university/taras-shevchenko-national-university-of-kyiv/ target=_blank>Taras Shevchenko National University of Kyiv</a></h3>",
+            // "img": "blog/img/taras-shevchenko-national-university-of-kyiv.jpg",
             "data": [
                 " Welcome to the most prominent university of Ukraine that occupies second rank in the country which is a highly popular destination among international crowds of students.",
                 " The university was founded in 1834 & it has established itself as the trustworthy center of top class education.",
@@ -16353,19 +16610,14 @@ export default [{
                     "Annual Fee ": "Rs. 3,85,000",
                 },
 
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/taras-shevchenko-national-university-of-kyiv.php target=_blank><button class="btn btn-md">Read More</button></a>'
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Kharkiv International Medical University (KhIMU)",
-            "img": "blog/img/kharkiv-international-medical-university.jpg",
+            "info": "<h3>18. <a href=https://www.selectyouruniversity.com/university/kharkiv-international-medical-university/ target=_blank>Kharkiv International Medical University (KhIMU)</a></h3>",
+            // "img": "blog/img/kharkiv-international-medical-university.jpg",
             "data": [
                 " Kharkiv International Medical University was established in 2018.",
                 "It has secured its place in the top-10 Private Universities of Ukraine.",
@@ -16403,15 +16655,10 @@ export default [{
                     "Annual Fee ": "Rs. Rs. 3,50,000",
                 },
 
-            ]
+            ],
+            "heading":'<p><strong>Please Note:</strong> 1$ = Rs. 70</p>'
         },
-        {
-            type: 'text',
-            title: '',
-            info: '',
-            data: '<p><strong>Please Note:</strong> 1$ = Rs. 70</p><a href=https://www.selectyouruniversity.com/ukraine/kharkiv-international-medical-university.php target=_blank><button class="btn btn-md">Read More</button></a>'
-        },
-
+        
         {
             type: 'text',
             title: 'Conclusion',

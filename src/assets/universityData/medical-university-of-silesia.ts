@@ -142,7 +142,7 @@ export const medicaluniversityofsilesia = {
       ]
     }
   ],
-  "addmission": [
+  "admission": [
     {
       type: 'title',
       title: "Medical University of Silesia - Admission 2023"

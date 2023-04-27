@@ -27,7 +27,7 @@ export const georgiannationaluniversityseu = {
         ["Annual Tuition Fees (approx)", "5500 USD"],
         ["Course Duration", "6 years"],
         ["Medium of Instruction", "English and Georgian language"],
-        ["Ranking of University", "Country Rank - 20<br>World Rank - 9441"],
+        ["Ranking of University", "Country Rank - 12<br>World Rank - 8551"],
         ["University Recognition", "NMC & WHO Approved"]
       ]
     },
@@ -70,8 +70,8 @@ export const georgiannationaluniversityseu = {
       ],
       "row": [
         {
-          "Country": "20",
-          "World": "9441",
+          "Country": "12",
+          "World": "8551",
         },
 
       ]
@@ -312,7 +312,7 @@ export const georgiannationaluniversityseu = {
           "Semester V": "Path Physiology",
           "Semester VI": "-"
         }
-      ],
+     ],
     },
     {
       "type": "table-title",
@@ -353,7 +353,7 @@ export const georgiannationaluniversityseu = {
     },
     {
       "type": "list-bollet",
-      "title": "Eligibility Criteria",
+      "title": "Georgian National University SEU - Eligibility Criteria",
       "info": "The students must fit the criteria given below for taking medical education at Georgian National University SEU:",
       "data": [
         "The candidate's age should be 17 years old or as 31st December of the admission year.",
@@ -364,7 +364,7 @@ export const georgiannationaluniversityseu = {
     },
     {
       "type": "step-list",
-      "title": "Admission Process",
+      "title": "How to take Admission in Georgian National University SEU?",
       "info": "The students who seek to get MBBS admission to need to follow the mentioned below steps:",
       "data": [
         "<b>Step 1:</b> Candidates must submit a well-filled application form.",
@@ -378,7 +378,7 @@ export const georgiannationaluniversityseu = {
     },
     {
       "type": "list-bollet",
-      "title": "Documents Required",
+      "title": "Georgian National University SEU Documents Required",
       "info": "Students must bring the original documents during MBBS admission process:",
       "data": [
         "Candidate must submit the application form.",
@@ -463,7 +463,7 @@ export const georgiannationaluniversityseu = {
     },
     {
       "type": "list-bollet",
-      "title": "Placement on Georgian National University SEU",
+      "title": "Placement at Georgian National University SEU",
       "info": "",
       "data": [
         "By offering further education choices, Georgian National University SEU encourages graduates to continue their studies.",
@@ -530,11 +530,6 @@ export const georgiannationaluniversityseu = {
               "data": "../../assets/img/university_gallery/georgian-national-university-seu-reception.jpg",
               "alt": "Georgian National University SEU Reception"
           },
-          {
-            "type": "image",
-            "data": "../../assets/img/university_gallery/georgian-national-university-seu-students.jpg",
-            "alt": "Georgian National University SEU Students"
-        },
         {
           "type": "image",
           "data": "../../assets/img/university_gallery/georgian-national-university-seu-swimming-area.jpg",
@@ -609,7 +604,7 @@ export const georgiannationaluniversityseu = {
     },
     {
       "type": "table",
-      "title": "Georgian National University SEU Faculty",
+      "title": "Georgian National University SEU Faculties",
       "info": "",
       "col": [
         "Name",

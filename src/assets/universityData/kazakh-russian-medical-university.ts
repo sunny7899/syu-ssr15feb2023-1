@@ -100,7 +100,7 @@ export const kazakhrussianmedicaluniversity = {
             data: [
                 "National Medical Commission (NMC)",
                 "World Health Organization (WHO)",
-                "Republic of Kazakhstan’s Ministry of education and Science and",
+                "Republic of Kazakhstan’s Ministry of education and Science ",
                 "World Federation for Medical Education (WFME)"
             ]
         },
@@ -401,7 +401,7 @@ export const kazakhrussianmedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Eligibility Criteria",
+            "title": "What are the Eligibility Criteria for MBBS at Kazakh Russian Medical University?",
             "info": "Students need to fulfill the below-given eligibility criteria to study MBBS at Kazakh Russian Medical University:",
             "data": [
                 "The age of a student or applicant must be more than 17 years and less than 25 years.",
@@ -412,7 +412,7 @@ export const kazakhrussianmedicaluniversity = {
         },
         {
             type: 'step-list',
-            title: 'Admission Process',
+            title: 'How to take Admission in Kazakh Russian Medical University?',
             info: 'Following is the admission process for applying to the MBBS course at Kazakh Russian Medical University which students need to follow:',
             data: [
                 "<b>Step 1:</b> Students who want to secure admission at Kazakh Russian Medical University must fill the online application form along with all the required documents.",
@@ -424,7 +424,7 @@ export const kazakhrussianmedicaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Documents Required",
+            "title": "What Documents are Required to Study MBBS in Kazakh Russian Medical University?",
             "info": "The following documents are required at the time of admission to Kazakh Russian Medical University from the students:",
             "data": [
                 "10th and 12th mark sheets",
@@ -446,7 +446,7 @@ export const kazakhrussianmedicaluniversity = {
         },
         {
             "type": "table",
-            "title": "Important Dates - Intake 2023",
+            "title": "Kazakh Russian Medical University - Important Dates & Intake 2023",
             "info": "Students should take their admissions to Kazakh Russian Medical University before the dates mentioned below. Check out the Important dates regarding admission at Kazakh Russian Medical University:",
             "col": [
                 "Events",
@@ -530,6 +530,16 @@ export const kazakhrussianmedicaluniversity = {
             type: 'title',
             title: "Kazakh Russian Medical University, Kazakhstan - Placement"
 
+        },
+        {
+            "type": "list-bollet",
+            "title": "Placement of Kazakh Russian Medical University",
+            "info": "",
+            "data": [
+                "Kazakh Russian Medical University offers students vast opportunities for careers and internships.",
+                "The students get to practice their internship at various modern hospitals and university hospitals.",
+                "The students get to explore the roles of different career paths after completing their degree from Kazakh Russian Medical University."
+            ]
         },
         {
             type: "meta",
@@ -654,47 +664,40 @@ export const kazakhrussianmedicaluniversity = {
         }
     ],
     "faculty": [
+        
         {
             type: 'title',
             title: "Kazakh Russian Medical University, Kazakhstan - Faculty"
 
         },
 
-        // {
-        //     "type": "table",
-        //     "title": "Faculty of Kazakh Russian Medical University",
-        //     "info": "",
-        //     "col": [
-        //         "Name",
-        //         "Designation"
-        //     ],
-        //     "row": [
-        //         {
-        //             "Name": "Tagaev Tugolbai Zhumabekovich",
-        //             "Designation": "Dean"
-        //         },
-        //         {
-        //             "Name": "Tamara Abaeva",
-        //             "Designation": "Professor"
-        //         },
-        //         {
-        //             "Name": "Mambet kyzy Gulina",
-        //             "Designation": "Deputy Dean for junior courses"
-        //         },
-        //         {
-        //             "Name": "Nurzada Kasymdayirova Marsovna",
-        //             "Designation": "Secretary"
-        //         },
-        //         {
-        //             "Name": "Salayut Munira Erkintaevna",
-        //             "Designation": "Methodist"
-        //         },
-        //         {
-        //             "Name": "Shopokova Aijan Edilovna",
-        //             "Designation": "Secretary"
-        //         },
-        //     ]
-        // },
+        {
+            "type": "table",
+            "title": "Faculty of Kazakh Russian Medical University",
+            "info": "",
+            "col": [
+                "Name",
+                "Designation"
+            ],
+            "row": [
+                {
+                    "Name": "Dzaynakbayev Nurlan Temirbekova",
+                    "Designation": "Professor"
+                },
+                {
+                    "Name": "Sovostyanova Tatiana Anatolievna",
+                    "Designation": "Vice rector"
+                },
+                {
+                    "Name": "Seidalin Arystan Oskarovich",
+                    "Designation": "Vice rector"
+                },
+                {
+                    "Name": "Arman Kussainova Sailavbekovna",
+                    "Designation": "Vice rector"
+                }
+            ]
+        },
 
         
         {
