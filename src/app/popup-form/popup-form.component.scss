@@ -343,7 +343,7 @@ input.form-control:focus {
   border-top: 1px solid #8c8d91 !important;
   border-bottom: 1px solid #8c8d91 !important;
   border-radius: 0% !important;
-  height: 30px;
+  height: 32px;
 }
 .score-input {
   border: 1px solid #8c8d91 !important;
@@ -455,6 +455,10 @@ input.form-control:focus {
   }
 #phone{
     margin-bottom: 15px;
+  }
+
+  #phone1{
+    margin-top: -4%;
   }
 
 

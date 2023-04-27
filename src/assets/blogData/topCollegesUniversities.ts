@@ -218,7 +218,7 @@ export default [{
     title: "Top 30 Best Medical Universities in Russia",
     date: '10-07-2020',
     postedBy: "Bhavesh Nimodiya",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/best-medical-universities-in-russia.jpg',
     url: 'best-medical-universities-in-russia/.',
     data: [
@@ -1317,7 +1317,7 @@ export default [{
     title: "List of Top 20 Universities/Colleges for MBBS in Georgia (2023)",
     date: '10-07-2020',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-georgia.jpg',
     url: 'top-medical-universities-in-georgia/.',
     data: [
@@ -1903,7 +1903,7 @@ export default [{
     title: "Top 15 MBBS Colleges in Maharashtra (Government & Private)",
     date: '10-07-2020',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-mbbs-colleges-in-maharashtra.jpg',
     url: 'top-mbbs-colleges-in-maharashtra/.',
     data: [
@@ -2414,7 +2414,7 @@ export default [{
     title: "Top 20 Medical Colleges in Madhya Pradesh",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-colleges-in-madhya-pradesh.jpg',
     url: 'top-medical-colleges-in-madhya-pradesh/.',
     data: [
@@ -2939,7 +2939,7 @@ export default [{
     title: "List of State Universities in India",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-state-universities-in-india.jpg',
     url: 'list-of-state-universities-in-india/.',
     data: [
@@ -5599,7 +5599,7 @@ export default [{
     title: "List of Private Universities in India",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-private-universities-in-india.jpg',
     url: 'list-of-private-universities-in-india/.',
     data: [
@@ -6225,7 +6225,7 @@ export default [{
     title: "List of Autonomous Higher Education Institutes in India",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/autonomous-higher-education-institutes-in-india.jpg',
     url: 'autonomous-higher-education-institutes-in-india/.',
     data: [
@@ -6557,7 +6557,7 @@ export default [{
     title: "List of Deemed Universities in India by UGC",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-deemed-universities-in-india.jpg',
     url: 'list-of-deemed-universities-in-india/.',
     data: [
@@ -6845,7 +6845,7 @@ export default [{
     title: " List of Central Universities in India (State-Wise)",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-central-universities-in-india.jpg',
     url: 'list-of-central-universities-in-india/.',
     data: [
@@ -7055,7 +7055,7 @@ export default [{
     title: "Types of Universities in India - Deemed, State, Central, Private",
     date: '10-07-2020',
     postedBy: "Alisha patil",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/types-of-universities-in-india.jpg',
     url: 'types-of-universities-in-india/.',
     data: [
@@ -7246,7 +7246,7 @@ export default [{
     title: "Top Law Colleges in Mumbai",
     date: '10-07-2020',
     postedBy: "Vivek Wagh",
-    Categories: 'Top Colleges Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-law-colleges-in-mumbai.jpg',
     url: 'top-law-colleges-in-mumbai/.',
     data: [
@@ -7694,7 +7694,7 @@ export default [{
     title: "Best BBA Colleges in India",
     date: '3 rd Jan, 2022',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/best-bba-colleges.jpg',
     url: "best-bba-colleges/.",
     data: [
@@ -7948,7 +7948,7 @@ export default [{
     title: "List of Top NMC Approved Universities for MBBS in Belarus ",
     date: '31st January, 2020',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-mci-recognized-medical-universities.jpg',
     url: "list-of-top-mci-approved-universities-for-mbbs-in-belarus/.",
     data: [
@@ -8142,7 +8142,7 @@ export default [{
     title: "List of Top NMC Recognized Medical Universities/Colleges (Country Wise) ",
     date: '13th Jan, 2022',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-mci-recognized-medical-universities.jpg',
     url: "list-of-top-mci-recognized-medical-universities/.",
     data: [
@@ -9275,7 +9275,7 @@ export default [{
     title: "Top 10 Low-Cost Medical Universities in Poland for Indian Students",
     date: '26th May, 2019',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/low-cost-medical-universities-in-poland.jpg',
     url: "low-cost-medical-universities-in-poland/.",
     data: [
@@ -10228,7 +10228,7 @@ export default [{
     title: "Top B.Tech Colleges in Pune",
     date: '19th Feb, 2022',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-btech-colleges-in-pune.jpg',
     url: "top-btech-colleges-in-pune",
     data: [
@@ -10517,7 +10517,7 @@ export default [{
     title: "List of top 10 best universities for Engineering in India",
     date: '30th August, 2019',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-india.jpg',
     url: "top-engineering-universities-in-india/.",
     data: [
@@ -10968,7 +10968,7 @@ export default [{
     title: "List of Top-Ranked 8 Engineering Universities in Poland (2022) ",
     date: '12th Jan, 2022',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-poland.jpg',
     url: "top-engineering-universities-in-poland/.",
     data: [
@@ -11668,7 +11668,7 @@ export default [{
     title: "Top 10 Engineering Universities in Russia (2022) ",
     date: '13th Jan, 2022',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-engineering-universities-in-russia.jpg',
     url: "top-engineering-universities-in-russia/.",
     data: [
@@ -12509,7 +12509,7 @@ export default [{
     title: "Top 20 MBA Colleges in Pune 2022",
     date: '4th Feb, 2022',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-mba-colleges-in-pune.jpg',
     url: "top-mba-colleges-in-pune/.",
     data: [
@@ -13157,7 +13157,7 @@ export default [{
     title: "Top MCA Universities in India 2022",
     date: '1 st Jan, 2022',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-mca-universities-in-india.jpg',
     url: "top-mca-universities-in-india/.",
     data: [
@@ -13914,7 +13914,7 @@ export default [{
     title: "Top 100 Medical Colleges in the World ",
     date: '10th Feb, 2022',
     postedBy: "Sapna Rangare",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-colleges-in-the-world.jpg',
     url: "top-medical-colleges-in-the-world/.",
     data: [
@@ -14117,7 +14117,7 @@ export default [{
     title: " List of Top Medical Colleges/Universities in China to Study MBBS",
     date: '26th December, 2018',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-china.jpg',
     url: "top-medical-universities-in-china/.",
     data: [
@@ -14787,7 +14787,7 @@ export default [{
     title: "List of Top 10 Medical Universities in Kazakhstan (NMC Approved) ",
     date: '7 th Jan, 2022',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-kazakhstan.jpg',
     url: "top-medical-universities-in-kazakhstan/.",
     data: [
@@ -15117,7 +15117,7 @@ export default [{
     title: "List of Top 6 NMC Recognized Medical Universities in Kyrgyzstan ",
     date: '7 th Jan, 2022',
     postedBy: "Akash Yendhe",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-kyrgyzstan.jpg',
     url: "top-medical-universities-in-kyrgyzstan/.",
     data: [
@@ -15320,7 +15320,7 @@ export default [{
     title: "Top 15 Ranked Medical Colleges in Philippines (NMC Recognized) ",
     date: '9th October, 2021',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-philippines.jpg',
     url: "top-medical-universities-in-philippines/.",
     data: [
@@ -15800,7 +15800,7 @@ export default [{
     title: "Top Medical Universities in Ukraine to Study MBBS (NMC Recognized)",
     date: '14th June, 2021',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-medical-universities-in-ukraine.jpg',
     url: "top-medical-universities-in-ukraine/.",
     data: [
@@ -16688,7 +16688,7 @@ export default [{
     title: " Top Private & Government MBA Universities in India",
     date: '20th May, 2019',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-private-and-government-mba-universities-in-india.jpg',
     url: 'top-private-and-government-mba-universities-in-india/.',
     data: [
@@ -17030,7 +17030,7 @@ export default [{
     title: "List of Top 10 Universities/Colleges for MBBS in Nepal (2022)",
     date: '06-01-2022',
     postedBy: "Smita Medhekar",
-    Categories: 'career',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/top-universities-for-mbbs-in-nepal.jpg',
     url: 'top-universities-for-mbbs-in-nepal/.',
     data: [
@@ -17355,7 +17355,7 @@ export default [{
     title: "Top Engineering Universities in Ukraine",
     date: '17 th October, 2020',
     postedBy: "Saurabh Kale",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/ukraine-top-engineering-universities.jpg',
     url: "ukraine-top-engineering-universities/.",
     data: [
@@ -18132,7 +18132,7 @@ export default [{
     title: "Top Medical Universities in Abroad - Country & World Ranking",
     date: '20th January, 2020',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/world-ranking-of-medical-colleges-abroad.jpg',
     url: "world-ranking-of-medical-colleges-abroad/.",
     data: [
@@ -19225,7 +19225,7 @@ export default [{
     title: "List of Top 10 Medical Universities in Bangladesh ",
     date: '27th December, 2019',
     postedBy: "Smita Medhekar",
-    Categories: 'Top Colleges & Universities',
+    Categories: 'top-colleges-and-universities',
     blogimg: '../../assets/blog-news-images/Blog-images/list-of-top-10-medical-universities-in-bangladesh.jpg',
     url: 'list-of-top-10-medical-universities-in-bangladesh/.',
     data: [

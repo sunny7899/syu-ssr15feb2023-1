@@ -34,10 +34,10 @@ export class FaqComponent implements OnInit {
 
   public submitFormS() {
     if (this.RegistrationForm1.valid) {
-      this.form5 = false;
-      this.form6 = true;
-      this.form3 = false;
-      this.form4 = false;
+      this.bsModalRef.hide();
+      this.router.navigate(['/thankyou-page/.']);
+      // this.form3 = false
+      // this.form4 = false
     }
     let data = this.RegistrationForm1.value;
     data['refNo'] = 777;
@@ -61,10 +61,11 @@ export class FaqComponent implements OnInit {
       cMobile,
       //qeducation,
       //cLinkName,
+      cCode
     } = this.RegistrationForm1.value;
     this.http
       .get(
-        `https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cCity=Na&cCourse=Na&cLinkName=https://www.selectyouruniversity.com/faq&section=insertdetails`
+        `https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cCode=${cCode}&cMobile=${cMobile}&cCity=Na&cCourse=Na&cLinkName=https://www.selectyouruniversity.com/faq&section=insertdetails`
       )
       .subscribe((res) => {
         console.log('res', res);

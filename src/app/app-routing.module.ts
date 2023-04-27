@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { ErrorPComponent } from './error-p/error-p.component';
+import { ThankyouPageComponent } from './thankyou-page/thankyou-page.component';
 // import ErrorPageComponent from '../'
 
 
@@ -164,6 +165,10 @@ const routes: Routes = [
   {
     path: 'university',
     loadChildren:()=> import( './university-con/university-con.module').then(x=>x.UniversityConModule)
+  },
+  {
+    path: 'thankyou-page/.',
+    loadChildren:()=> import( './thankyou-page/thankyou-page.module').then(x=>x.ThankyouPageModule)
   },
   {
     path: '**',

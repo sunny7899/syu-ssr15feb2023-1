@@ -47,8 +47,8 @@ export class BlogContentComponent implements OnInit {
 
   public submitForm1() {
     if (this.RegistrationFrom1.valid) {
-      this.form1 = false;
-      this.form2 = true;
+      this.bsModalRef.hide();
+      this.router.navigate(['/thankyou-page/.']);
       // this.form3 = false
       // this.form4 = false
     }
@@ -66,8 +66,8 @@ export class BlogContentComponent implements OnInit {
     data['cWebsite'] = 'http://demo.mentebit.com/#/'
     data['cCoutryCode'] = "Na"
     console.log('rom1', this.RegistrationFrom1.value)
-    const { cCandidateName, cEmail, cMobile } = this.RegistrationFrom1.value;
-    this.http.get(`https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cCity=Na&cCourse=Na&cLinkName=https://www.selectyouruniversity.com/blog/${this.currentUrl}&section=insertdetails`)
+    const { cCandidateName, cEmail, cMobile,cCode } = this.RegistrationFrom1.value;
+    this.http.get(`https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cCode=${cCode}&cMobile=${cMobile}&cCity=Na&cCourse=Na&cLinkName=https://www.selectyouruniversity.com/blog/${this.currentUrl}&section=insertdetails`)
       .subscribe((res) => {
         console.log('res', res)
         this.nsrNo = res

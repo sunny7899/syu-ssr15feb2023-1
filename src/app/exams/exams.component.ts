@@ -4,7 +4,7 @@ import { Component, Inject, OnInit, TemplateRef } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { DomSanitizer, Meta, Title } from '@angular/platform-browser';
 import { BsModalRef, BsModalService } from 'ngx-bootstrap/modal';
-
+import { Router } from "@angular/router";
 @Component({
   selector: 'app-exams',
   templateUrl: './exams.component.html',
@@ -59,12 +59,12 @@ export class ExamsComponent implements OnInit {
  }
 
  public submitFormS() {
-   if (this.RegistrationForm1.valid) {
-     this.form5 = false;
-     this.form6 = true;
-     this.form3 = false;
-     this.form4 = false;
-   }
+  if (this.RegistrationForm1.valid) {
+    this.bsModalRef.hide();
+    this.router.navigate(['/thankyou-page/.']);
+    // this.form3 = false
+    // this.form4 = false
+  }
    let data = this.RegistrationForm1.value;
    data['refNo'] = 777;
    data['cAddressLine'] = 'Na';
@@ -87,10 +87,11 @@ export class ExamsComponent implements OnInit {
      cMobile,
      //qeducation,
      //cLinkName,
+     cCode
    } = this.RegistrationForm1.value;
    this.http
      .get(
-       `https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cLinkName=https://www.selectyouruniversity.com/exams&cCity=Na&cCourse=Na&section=insertdetails`
+       `https://bizcallcrmforms.com/response.php?cCandidateName=${cCandidateName}&cEmail=${cEmail}&cCode=${cCode}&cMobile=${cMobile}&cLinkName=https://www.selectyouruniversity.com/exams&cCity=Na&cCourse=Na&section=insertdetails`
      )
      .subscribe((res) => {
        console.log('res', res);
@@ -102,12 +103,12 @@ export class ExamsComponent implements OnInit {
  }
 
  public submitForm1() {
-   if (this.RegistrationFrom1.valid) {
-     this.form1 = false;
-     this.form2 = true;
-     this.form3 = false;
-     this.form4 = false;
-   }
+  if (this.RegistrationFrom1.valid) {
+    this.modalRef.hide();
+    this.router.navigate(['/thankyou-page/.']);
+    // this.form3 = false
+    // this.form4 = false
+  }
    let data = this.RegistrationFrom1.value;
    data['refNo'] = 777;
    data['cAddressLine'] = 'Na';
@@ -130,10 +131,11 @@ export class ExamsComponent implements OnInit {
      cMobile,
      //qeducation,
      cLinkName,
+     cCode
    } = this.RegistrationFrom1.value;
    this.http
      .get(
-       `https://bizcallcrmforms.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cMobile=${cMobile}&cLinkName=${this.currentUrl}&section=insertdetails`
+       `https://bizcallcrmforms.com/response.php?cCity=${cCity}&cCourse=${cCourse}&cCandidateName=${cCandidateName}&cEmail=${cEmail}&cCode=${cCode}&cMobile=${cMobile}&cLinkName=${this.currentUrl}&section=insertdetails`
      )
      .subscribe((res) => {
        console.log('res', res);
@@ -252,7 +254,7 @@ export class ExamsComponent implements OnInit {
     public bsModalRef: BsModalRef,
     public modalService: BsModalService,
     private fb: FormBuilder,
-    private http: HttpClient,
+    private http: HttpClient,private router: Router,
     @Inject(DOCUMENT) private dom
   ) {
     let links = [

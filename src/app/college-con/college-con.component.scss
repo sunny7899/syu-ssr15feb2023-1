@@ -16,10 +16,10 @@
     margin-left: 5%;
 }
 
-#course{
+#course {
     padding-left: 2%;
     cursor: pointer;
-  }
+}
 
 .college-content {
     background-color: #d7d4d4;
@@ -331,43 +331,34 @@ svg {
     .nav-tabs-ul {
         display: block;
     }
-
     .stickyNav {
         top: 8.4% !important;
     }
-
     .tabcontent {
         margin-right: 0px !important;
     }
-
     .custom-padding-row {
         --bs-gutter-x: 0 !important;
         --bs-gutter-y: 0 !important;
     }
-
     .custom-padding-right {
         padding-right: 0px !important
     }
-
     .custom-padding-left {
         padding-left: 0px !important;
     }
-
     .btns,
     .add-info {
         margin-top: 3%;
     }
-
     .flex-holder2 {
         margin-bottom: 0px !important;
     }
-
     .flex-holder3 {
         margin: 2% 0%;
         // padding-left: 3%
         padding: 0 15px;
     }
-
     // .dl-btn,
     // .btn-blue {
     //     display: inline;
@@ -377,21 +368,18 @@ svg {
     .flex-holder3 img.review-img {
         height: 60%;
     }
-
     // .dl-btn {
     //     margin: 0% 3%;
     // }
     .other-courses .card-header h5 {
         margin-bottom: 0px;
     }
-
     .flex-holder3 p {
         margin-right: 0%;
         font-size: 11px;
         margin-bottom: 0px;
         line-height: normal;
     }
-
     // .info-div {
     //     margin-left: 3%;
     // }
@@ -399,116 +387,99 @@ svg {
         display: block;
         text-align: center;
     }
-
     .banner-jee-img img {
         width: 20%;
         margin-bottom: 20px;
     }
-
     .exam-content-banner {
         height: 50vh;
     }
-
     .exam-content-div {
         margin-right: 5px;
         margin-left: 5px;
     }
-
     #exam-content-tab {
         margin-right: 0px;
     }
-
     .read-more-btn {
         width: 40%;
     }
-
     #college-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px;
     }
-
     .talk-to-expert .card-body img {
         width: 50% !important
     }
-
     #college-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px
     }
-
     .flex-holder3 .img-div img {
         width: 100%
     }
-
     .college-content-banner {
         margin-right: 0px;
         margin-left: 0px;
         padding-bottom: 20px;
     }
-
     .img img {
         width: 100%;
     }
-
     .btn-blue img,
     .dl-btn img {
         // width: 25%;
         padding: 8px;
     }
-
     .dl-btn {
         font-size: 10px;
         padding: 0px 20px;
         margin-left: 15px;
     }
-
     .btn-blue {
         font-size: 10px;
         padding: 0px 20px;
     }
-
     .custom-spacing {
         margin-left: 0% !important;
         padding-right: 1rem !important;
         padding-left: 1rem !important;
     }
-
     .iit-header,
     .iit-subheader {
         text-align: left !important;
         margin-left: 5%
     }
-
     .college-content-div {
         margin-right: 0px;
         margin-left: 0px;
         padding: 0;
     }
-
     .custom-spacing {
         width: 100% !important
     }
-
     .table {
         width: 100%
     }
-
     .iit-subheader {
         font-size: 18px !important;
         margin-bottom: 0px;
     }
-
     .cust-padding {
         padding: 5%;
     }
-
     .tab-text p {
         font-size: 14px;
     }
-
     .flex-holder1 p {
         margin-bottom: 5px;
     }
     #slider-div {
         display: none;
+    }
+    .college-name .img {
+        padding-right: 0;
+    }
+    .iit-subheader {
+        padding-left: 0;
     }
 }
 
@@ -531,7 +502,6 @@ svg {
 //     padding-left: 17px;
 //     padding-right: 17px;
 // }
-
 .shade {
     height: 10vh;
     width: 100%;
@@ -556,85 +526,66 @@ svg {
     .tabcontent {
         margin-right: 0px !important;
     }
-
     .custom-padding-right {
         padding-right: 12px !important
     }
-
     .custom-padding-left {
         padding-left: 12px !important;
     }
-
     .iit-header,
     .iit-subheader {
         text-align: left;
         margin-left: 5%
     }
-
     .iit-subheader {
         font-size: 20px;
     }
-
     .cust-padding {
         padding: 3%;
     }
-
     .img img {
         width: 80%
     }
-
     .flex-holder1 {
         margin-top: 2%;
     }
-
     .btn-blue img,
     .dl-btn img {
         padding: 3px;
     }
-
     .btn-blue {
         padding: 0px 30px
     }
-
     .flex-holder3 {
         padding-left: 8%
     }
-
     .flex-holder3 img.rating-img {
         height: 50%;
     }
-
     .dl-btn {
         padding: 0px 0px;
     }
-
     .dl-btn span {
         padding: 5px;
     }
-
     .info-div {
         margin-left: 12%;
         margin-top: 0px !important;
     }
-
     .flex-holder3 .img-div img {
         width: 70%
     }
-
     .college-content-div {
         margin-left: 0px !important;
         margin-right: 0px;
     }
-
     .college-content-banner {
         margin-left: 0px
     }
-
     #college-content-tab {
         margin-right: 0px;
         padding: 0px
     }
-
     .flex-holder4 img {
         width: 60%;
     }
@@ -653,6 +604,7 @@ svg {
     font-size: 1rem;
     line-height: 1.6;
 }
+
 .table {
     width: 100%;
     font-size: 16px !important;
@@ -738,7 +690,6 @@ svg {
     .btn-orange {
         padding: 5px 10px !important;
     }
-
     .other-courses .card-header {
         padding: 5px;
     }
@@ -867,6 +818,7 @@ svg {
     padding-top: 2px;
 }
 
+
 /* start=> */
 
 nav ul li {
@@ -907,6 +859,7 @@ nav ul li {
     padding-bottom: 10px;
 }
 
+
 /* .faq-page-header{
       padding-top: 5%;
  } */
@@ -945,6 +898,7 @@ nav ul li {
     font-size: 16px;
     padding-top: 15%;
 }
+
 
 /* .faq-page-breadcrumb a.service-link{
  width:15%; 
@@ -1001,11 +955,9 @@ nav ul li {
     .faq-page-breadcrumb {
         margin-left: 0% !important;
     }
-
     .faq-page-breadcrumb a {
         float: none
     }
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 10%;
@@ -1017,22 +969,18 @@ nav ul li {
         padding-top: 30px !important;
         font-size: 22px !important;
     }
-
     .need-assi-img {
         width: 70%;
         display: block;
         margin: 0px auto
     }
-
     .faq-page-breadcrumb a {
         float: none;
     }
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 8%;
     }
-
     .faq-page-breadcrumb {
         margin-left: 0px !important
     }
@@ -1155,6 +1103,7 @@ nav ul li {
     display: block !important;
 }
 
+
 /* <=end */
 
 .container-box {
@@ -1221,7 +1170,6 @@ svg {
     .faq-page-breadcrumb a.home[_ngcontent-kol-c2] {
         width: 3%;
     }
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 4%;
@@ -1229,7 +1177,6 @@ svg {
 }
 
 @media only screen and (min-width:450px) and (max-width:600px) {
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 6%;
@@ -1246,35 +1193,31 @@ svg {
         width: 100%;
         margin-left: 0;
     }
-
     .talk-to-expert {
         margin: 0 15px;
     }
-
     .other-courses {
         margin: 0 0 15px;
     }
-
     .college-name {
         justify-content: center;
         align-items: center;
     }
-
     .info-div {
         flex-direction: column;
     }
-
     .add-info {
         justify-content: center;
         white-space: nowrap;
     }
-
     #college-content-tab {
         margin-right: -15px;
     }
 }
 
+
 /*popup form css*/
+
 .form {
     background-color: #d7d4d4;
     padding-bottom: 10px;
@@ -1408,7 +1351,7 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-    .container #thankyouform{
+    .container #thankyouform {
         align-items: center;
         margin-left: 0%;
     }
@@ -1665,7 +1608,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {
@@ -1753,13 +1696,14 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-
     .modal-header {
         flex-direction: column;
     }
-
     .modal-title {
         padding-left: 40px;
+    }
+    #phone1 {
+        margin-top: -4%;
     }
 }
 
@@ -1767,7 +1711,6 @@ input.form-control:focus {
     .submit {
         font-size: 10px;
     }
-
     .form {
         width: 93%;
         margin-left: 4%;
@@ -1918,7 +1861,6 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-
     .form {
         width: 95%;
         margin-left: 3%;
@@ -2175,7 +2117,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {
@@ -2263,15 +2205,12 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-
     .modal-header {
         flex-direction: column;
     }
-
     .modal-title {
         padding-left: 40px;
     }
-
     .container {
         display: -webkit-box;
         display: -moz-box;
@@ -2290,11 +2229,9 @@ input.form-control:focus {
         -webkit-align-items: flex-start;
         align-items: center;
     }
-
     .container #hide {
         display: none;
     }
-
     .container .col-lg-8 {
         -webkit-box-ordinal-group: 1;
         -moz-box-ordinal-group: 1;
@@ -2302,24 +2239,18 @@ input.form-control:focus {
         -webkit-order: 1;
         order: 1;
     }
-
     #phone {
         margin-bottom: 15px;
     }
-
-
     .modal-title {
         display: none;
     }
-
     .sub-title {
         font-size: 10px;
     }
-
-    .form{
+    .form {
         margin-top: 25%;
     }
-
 }
 
 @media all and (min-width: 700px) and (max-width: 992px) {
@@ -2332,35 +2263,27 @@ input.form-control:focus {
     0% {
         left: 0%;
     }
-
     20% {
         left: 0%;
     }
-
     25% {
         left: -100%;
     }
-
     45% {
         left: -100%;
     }
-
     50% {
         left: -200%;
     }
-
     70% {
         left: -200%;
     }
-
     75% {
         left: -300%;
     }
-
     95% {
         left: -300%;
     }
-
     100% {
         left: -400%;
     }
@@ -2403,213 +2326,189 @@ input[type=number] {
 .form2 {
     background-color: #d7d4d4;
     padding-bottom: 10px;
-  }
-  .center {
+}
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-  }
-  .form-input2 {
+}
+
+.form-input2 {
     font-size: 12px;
-  }
-  
-  #thankyouform2 {
+}
+
+#thankyouform2 {
     margin-left: 0%;
     margin-right: -55%;
     padding: 50px;
     margin-top: 1.5%;
     --border-size: 3px;
     --border-angle: 0turn;
-  
-    background-image: conic-gradient(from var(--border-angle),
-        rgb(238, 233, 243),
-        rgb(232, 232, 240) 50%,
-        rgb(243, 241, 245)),
-      conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
-    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
-      cover;
+    background-image: conic-gradient(from var(--border-angle), rgb(238, 233, 243), rgb(232, 232, 240) 50%, rgb(243, 241, 245)), conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)), cover;
     background-position: center center;
     background-repeat: no-repeat;
-  
     animation: bg-spin 3s linear infinite;
-  
     @keyframes bg-spin {
-      to {
-        --border-angle: 1turn;
-      }
+        to {
+            --border-angle: 1turn;
+        }
     }
-  
     &:hover {
-      animation-play-state: paused;
+        animation-play-state: paused;
     }
-  }
-  
-  @property --border-angle {
+}
+
+@property --border-angle {
     syntax: "<angle>";
     inherits: true;
     initial-value: 0turn;
-  
-  }
-  
-  svg {
+}
+
+svg {
     color: green;
-  }
-  
-  .form-card2 {
+}
+
+.form-card2 {
     padding: 27px;
     line-height: 97%;
     margin-left: -4%;
     margin-right: -4%;
-
     background-color: white;
     padding: 20px;
     line-height: 97%;
     margin-top: 1.5%;
     --border-size: 3px;
     --border-angle: 0turn;
-  
-    background-image: conic-gradient(from var(--border-angle),
-        rgb(238, 233, 243),
-        rgb(232, 232, 240) 50%,
-        rgb(243, 241, 245)),
-      conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
-    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
-      cover;
+    background-image: conic-gradient(from var(--border-angle), rgb(238, 233, 243), rgb(232, 232, 240) 50%, rgb(243, 241, 245)), conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)), cover;
     background-position: center center;
     background-repeat: no-repeat;
-  
     animation: bg-spin 3s linear infinite;
-  
     @keyframes bg-spin {
-      to {
-        --border-angle: 1turn;
-      }
+        to {
+            --border-angle: 1turn;
+        }
     }
-  
     &:hover {
-      animation-play-state: paused;
+        animation-play-state: paused;
     }
-  }
-  
-  @property --border-angle {
+}
+
+@property --border-angle {
     syntax: "<angle>";
     inherits: true;
     initial-value: 0turn;
-  }
-  
-  .form-head2 {
+}
+
+.form-head2 {
     color: #0b4292;
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
     font-weight: 700;
-  }
-  
-  .sub-title2 {
+}
+
+.sub-title2 {
     font-weight: 400;
-  }
-  
-  .form-div2 {
+}
+
+.form-div2 {
     margin-top: 15px;
-  }
-  
-  .form-input2 {
+}
+
+.form-input2 {
     border-left: none !important;
     border-right: 1px solid #8c8d91 !important;
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-  }
-  
-  input.form-control:focus {
+}
+
+input.form-control:focus {
     box-shadow: inset 0 -1px 0 #ddd;
-  }
-  
-  .icon2 {
+}
+
+.icon2 {
     border-right: none !important;
     border-top: 1px solid #8c8d91 !important;
     border-left: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-  }
-  
-  .terms2 {
+}
+
+.terms2 {
     font-size: 10px;
     margin-top: 10px;
     font-family: "Montserrat", sans-serif;
-  }
-  
-  .submit2 {
+}
+
+.submit2 {
     //margin-top: 40px;
     background: #ffae47;
     color: white;
     font-weight: bold;
     font-family: "Montserrat", sans-serif;
-  }
-  
-  .submit2:hover {
+}
+
+.submit2:hover {
     //margin-top: -5px;
     background: #ffae47;
     color: white;
     font-weight: bold;
-  }
-  .img-size {
+}
+
+.img-size {
     height: 50px;
     width: 45px;
-  }
- 
-  
-  .validation2 {
+}
+
+.validation2 {
     color: red;
     font-size: 10px;
-  }
-  
-  @media all and (max-width: 600px) {
+}
+
+@media all and (max-width: 600px) {
     .submit2 {
-      margin-top: 9px;
+        margin-top: 9px;
     }
-  
     #thankyouform2 {
         align-items: center;
         margin-left: 0%;
-      }
-    
-      .form2 {
-        margin-top: 0%;
-      }
-    
-    
-    
-    
-  
-  }
-  
-  @media all and (min-width: 700px) and (max-width: 992px) {
-    .submit2 {
-      font-size: 10px;
     }
-  }
-  
-  .form2 {
+    .form2 {
+        margin-top: 0%;
+    }
+}
+
+@media all and (min-width: 700px) and (max-width: 992px) {
+    .submit2 {
+        font-size: 10px;
+    }
+}
+
+.form2 {
     background-color: #d7d4d4;
     padding-bottom: 10px;
-  }
+}
 
-  .form-input {
+.form-input {
     font-size: 12px;
-  }
-  
-  .center {
+}
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-  }
-  
-  .flip2 {
+}
+
+.flip2 {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
-  }
+}
+
 //   .form-card {
 //     background-color: white;
 //     padding: 20px;
@@ -2621,85 +2520,77 @@ input[type=number] {
 //     // margin-left: -56px;
 //     // margin-right: -109px;
 //   }
-  
-  .form-head2 {
+.form-head2 {
     color: #0b4292;
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
     font-weight: 700;
-  }
-  
-  
-  
-  .form-div2 {
+}
+
+.form-div2 {
     margin-top: 8px;
-  }
-  
-  
-  input.form-control:focus {
+}
+
+input.form-control:focus {
     box-shadow: inset 0 -1px 0 #ddd;
-  }
-  
-  .icon2 {
+}
+
+.icon2 {
     border-right: none !important;
     border-top: 1px solid 8c8d91 !important;
     border-left: 1px solid 8c8d91 !important;
     border-bottom: 1px solid 8c8d91 !important;
     border-radius: 0% !important;
-  }
-  
- 
-  
-  .submit2 {
+}
+
+.submit2 {
     //margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
     font-family: "Montserrat", sans-serif;
-  }
-  
-  .submit2:hover {
+}
+
+.submit2:hover {
     //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
-  }
-  
-  
-  @media all and (max-width: 600px) {
+}
+
+@media all and (max-width: 600px) {
     .submit2 {
-      margin-top: 9px;
+        margin-top: 9px;
     }
-    .form-card2{
+    .form-card2 {
         margin-left: 0%;
         margin-right: 0%;
     }
-  }
-  
-  @media all and (min-width: 700px) and (max-width: 992px) {
+}
+
+@media all and (min-width: 700px) and (max-width: 992px) {
     .submit2 {
-      font-size: 10px;
+        font-size: 10px;
     }
-  }
-  
-  .form2 {
+}
+
+.form2 {
     background-color: #d7d4d4;
     padding-bottom: 10px;
-  }
-  
-  .center {
+}
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-  }
-  
-  .flip2 {
+}
+
+.flip2 {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
-  }
-  
-  
+}
+
 //   .form-card {
 //     background-color: white;
 //     padding: 20px;
@@ -2711,126 +2602,112 @@ input[type=number] {
 //     // margin-left: -56px;
 //     // margin-right: -109px;
 //   }
-  
-  .form-head2 {
+.form-head2 {
     color: #0b4292;
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
     font-weight: 700;
-  }
-  
-  
-  
-  .form-div2 {
+}
+
+.form-div2 {
     margin-top: 15px;
-  }
-  
- 
-  .form-input2 {
+}
+
+.form-input2 {
     border-left: none !important;
     border-right: 1px solid #8c8d91 !important;
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
-  }
-  
-  input.form-control:focus {
+    height: 32px;
+}
+
+input.form-control:focus {
     box-shadow: inset 0 -1px 0 #ddd;
-  }
-  
-  .icon2 {
+}
+
+.icon2 {
     border-right: none !important;
     border-top: 1px solid #8c8d91 !important;
     border-left: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-  }
-  
- 
-  
-  .submit2 {
+}
+
+.submit2 {
     //margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
     font-family: "Montserrat", sans-serif;
-  }
-  
-  
-  
-  .submit2:hover {
+}
+
+.submit2:hover {
     //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
-  }
-  
-  
-  .validation2 {
+}
+
+.validation2 {
     color: red;
     font-size: 10px;
-  }
-  
-  @media all and (max-width: 600px) {
+}
+
+@media all and (max-width: 600px) {
     .submit2 {
-      margin-top: 9px;
+        margin-top: 9px;
     }
-  
-    .col-lg-8{
-      margin-left: 0%;
+    .col-lg-8 {
+        margin-left: 0%;
     }
-    
-  
-//    #row{
-//     margin-left: 10px;
-//     margin-right: 10px;
-//    }
-  
+    //    #row{
+    //     margin-left: 10px;
+    //     margin-right: 10px;
+    //    }
     #phone {
-      margin-bottom: 15px;
+        margin-bottom: 15px;
     }
-  
-  
     .modal-title {
-      display: none;
+        display: none;
     }
-  
     .sub-title {
-      font-size: 10px;
+        font-size: 10px;
     }
-  
-  }
-  @media all and (max-width: 768px) {
-    .col-lg-8{
-      margin-left: 0%;
+}
+
+@media all and (max-width: 768px) {
+    .col-lg-8 {
+        margin-left: 0%;
     }
-  }
-  
-  @media all and (min-width: 700px) and (max-width: 992px) {
+}
+
+@media all and (min-width: 700px) and (max-width: 992px) {
     .submit2 {
-      font-size: 10px;
+        font-size: 10px;
     }
-  }
-  
-  input[type=number]::-webkit-outer-spin-button,
-  input[type=number]::-webkit-inner-spin-button {
+}
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
-  }
-  
-  input[type=number] {
-    -moz-appearance: textfield;
-  }
-  #form-div2{
-    margin-left: 5%;
-  }
+}
 
-  #checkrev a,p{
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+#form-div2 {
+    margin-left: 5%;
+}
+
+#checkrev a,
+p {
     text-decoration: none;
     color: black;
-  }
-  a{
+}
+
+a {
     text-decoration: none;
-  }
-  
+}

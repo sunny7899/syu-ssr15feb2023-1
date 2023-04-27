@@ -1,10 +1,10 @@
-
 .course-content-banner {
-    height: 45vh;
+    height: 40vh;
     box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
     background-size: 100% 100%;
     background-image: url('../../assets/img/Course_Content_Icons/2.MBA_Project_Management/course_content_banner.png');
     background-repeat: no-repeat;
+    margin-bottom: 10px;
 }
 
 .course-content {
@@ -15,7 +15,6 @@
 }
 
 #talk {
-
     margin-top: 3%;
 }
 
@@ -24,10 +23,10 @@
     margin-left: 4%;
 }
 
-#course{
+#course {
     padding-left: 2%;
     cursor: pointer;
-  }
+}
 
 #titles {
     padding-top: 0vh;
@@ -46,8 +45,6 @@ svg {
 // #title{
 //     padding-top: 10vh;
 // }
-
-
 .course-content-page-header {
     padding-top: 8vh;
 }
@@ -71,11 +68,11 @@ svg {
     border-radius: 20px;
     padding: 5px 16px;
     margin-top: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
-    font-size: 100%;
+    display: flex;
+    font-size: 14px;
 }
-#duration{
+
+#duration {
     margin-left: 20px;
     margin-right: 17px;
 }
@@ -87,7 +84,9 @@ svg {
     border-radius: 20px;
     padding: 4px 24px;
     margin-top: 21px;
-    margin-right: 9px;
+    display: flex;
+    font-size: 14px;
+    margin-left: 15px;
 }
 
 .btn-orange-nav img,
@@ -109,8 +108,7 @@ svg {
     margin-bottom: 10px;
     // margin-left: 15px;
     border-radius: 10px;
-    padding: 0px;
-    padding-bottom: 0px;
+    //padding: 15px;
 }
 
 .table-of-content {
@@ -175,86 +173,68 @@ svg {
     .sectionMobHide {
         display: none;
     }
-
     .cust-padding {
         padding: 20px;
     }
-
     #faq {
         width: 90%;
         margin-left: 5%;
     }
-
     .college-content {
         background-color: #d7d4d4;
         padding-bottom: 10px;
         padding-top: 3.8%;
     }
-
     .width-500 {
         width: 500px !important;
     }
-
     #number {
         margin-left: 0%;
     }
-
     .overflow-x-auto {
         overflow-x: auto;
     }
-
     #course-content-tab[_ngcontent-mja-c1] {
         margin-right: 0px;
         padding-left: 0px;
         padding-right: 0px;
     }
-
-    .course-content-div {
-        margin-right: 5px;
-        margin-left: 5px;
-    }
-
+    // .course-content-div {
+    //     margin-right: 5px;
+    //     margin-left: 5px;
+    // }
     .flex-holder {
         display: block;
         text-align: center;
     }
-
     .banner-jee-img img {
         width: 20%;
         margin-bottom: 20px;
     }
-
     .exam-content-banner {
         height: 50vh;
     }
-
     .exam-content-div {
         margin-right: 5px;
         margin-left: 5px;
     }
-
     #exam-content-tab {
         margin-right: 0px;
     }
-
     .read-more-btn {
         width: 40%;
     }
-
     #course-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px;
     }
-
     .table-of-content {
         margin-left: 0px;
         margin-right: 0px;
         padding: 3% 8%;
     }
-
     .talk-to-expert .card-body img {
         width: 50% !important
     }
-
     #course-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px
     }
@@ -265,14 +245,10 @@ svg {
         height: auto;
         padding-bottom: 5%;
     }
-
-    
-
     .table-of-content {
         margin-left: 0px;
         margin-right: 0px;
     }
-
     #course-content-tab {
         padding: 0px !important
     }
@@ -562,19 +538,19 @@ svg {
 
 .talk-to-expert {
     margin-bottom: 10px;
-    margin-left: 15px;
-    margin-right: 15px;
+    //margin-left: 15px;
+    //margin-right: 15px;
     border-radius: 10px;
     padding: 1%;
     margin-top: 10px;
 }
 
-.course-content-div {
-    //margin-top: 10px;
+.college-content-div {
+    margin-top: 10px;
     // margin-left: 15px;
     // margin-right: 15px; 
     border-radius: 10px;
-    padding:0%;
+    padding: 0%;
     padding-bottom: 0px;
     margin-right: 0;
     margin-left: 0;
@@ -675,53 +651,48 @@ svg {
     width: 14% !important;
 }
 
+.nav-tabs-ul {
+    text-align: left;
+}
+
 @media only screen and (max-width:767px) {
     .nav-tabs-ul {
         display: block;
     }
-
     .stickyDiv {
         position: relative !important;
         z-index: 1 !important;
         top: 0 !important;
+        width: auto !important;
     }
-
     .stickyNav {
         top: 8.4% !important;
     }
-
     .tabcontent {
         margin-right: 0px !important;
     }
-
     .custom-padding-row {
         --bs-gutter-x: 0 !important;
         --bs-gutter-y: 0 !important;
     }
-
     .custom-padding-right {
         padding-right: 0px !important
     }
-
     .custom-padding-left {
         padding-left: 0px !important;
     }
-
     .btns,
     .add-info {
         margin-top: 3%;
     }
-
     .flex-holder2 {
         margin-bottom: 0px !important;
     }
-
     .flex-holder3 {
         margin: 2% 0%;
         // padding-left: 3%
         padding: 0 15px;
     }
-
     // .dl-btn,
     // .btn-blue {
     //     display: inline;
@@ -731,21 +702,18 @@ svg {
     .flex-holder3 img.review-img {
         height: 60%;
     }
-
     // .dl-btn {
     //     margin: 0% 3%;
     // }
     .other-courses .card-header h5 {
         margin-bottom: 0px;
     }
-
     .flex-holder3 p {
         margin-right: 0%;
         font-size: 11px;
         margin-bottom: 0px;
         line-height: normal;
     }
-
     // .info-div {
     //     margin-left: 3%;
     // }
@@ -753,116 +721,92 @@ svg {
         width: 5%;
         height: 60%;
     }
-
     .flex-holder {
         display: block;
         text-align: center;
     }
-
     .banner-jee-img img {
         width: 20%;
         margin-bottom: 20px;
     }
-
     .exam-content-banner {
         height: 50vh;
     }
-
     .exam-content-div {
         margin-right: 5px;
         margin-left: 5px;
     }
-
     #exam-content-tab {
         margin-right: 0px;
     }
-
     .read-more-btn {
         width: 40%;
     }
-
     #college-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px;
     }
-
     .talk-to-expert .card-body img {
         width: 50% !important
     }
-
     #college-content-tab .ui-tabview .ui-tabview-panel {
         margin-right: 0px
     }
-
     .flex-holder3 .img-div img {
         width: 100%
     }
-
     .college-content-banner {
         margin-right: 0px;
         margin-left: 0px;
         padding-bottom: 20px;
     }
-
     .img img {
         width: 100%;
     }
-
     .btn-blue img,
     .dl-btn img {
         // width: 25%;
         padding: 8px;
     }
-
     .dl-btn {
         font-size: 10px;
         padding: 0px 20px;
         margin-left: 15px;
     }
-
     .btn-blue {
         font-size: 10px;
         padding: 0px 20px;
     }
-
     .custom-spacing {
         margin-left: 0% !important;
         padding-right: 1rem !important;
         padding-left: 1rem !important;
     }
-
     .iit-header,
     .iit-subheader {
         text-align: left !important;
         margin-left: 5%
     }
-
     .course-content-div {
         margin-right: 0px;
         margin-left: 0px;
         padding: 0;
     }
-
     .custom-spacing {
         width: 100% !important
     }
-
     .table {
         width: 100%
     }
-
     .iit-subheader {
         font-size: 18px !important;
         margin-bottom: 0px;
     }
-
     .cust-padding {
         padding: 5%;
     }
-
     .tab-text p {
         font-size: 14px;
     }
-
     .flex-holder1 p {
         margin-bottom: 5px;
     }
@@ -907,93 +851,72 @@ svg {
         z-index: 1 !important;
         top: 0 !important;
     }
-
     .tabcontent {
         margin-right: 0px !important;
     }
-
     .custom-padding-right {
         padding-right: 12px !important
     }
-
     .custom-padding-left {
         padding-left: 12px !important;
     }
-
     .iit-header,
     .iit-subheader {
         text-align: left;
         margin-left: 5%
     }
-
     .iit-subheader {
         font-size: 20px;
     }
-
     .cust-padding {
         padding: 3%;
     }
-
     .img img {
         width: 80%
     }
-
     .flex-holder1 img {
         height: 75%;
     }
-
     .flex-holder1 {
         margin-top: 2%;
     }
-
     .btn-blue img,
     .dl-btn img {
         padding: 3px;
     }
-
     .btn-blue {
         padding: 0px 30px
     }
-
     .flex-holder3 {
         padding-left: 8%
     }
-
     .flex-holder3 img.rating-img {
         height: 50%;
     }
-
     .dl-btn {
         padding: 0px 0px;
     }
-
     .dl-btn span {
         padding: 5px;
     }
-
     .info-div {
         margin-left: 12%;
         margin-top: 0px !important;
     }
-
     .flex-holder3 .img-div img {
         width: 70%
     }
-
-    .course-content-div {
+    .college-content-div {
         margin-left: 0px !important;
         margin-right: 0px;
     }
-
     .college-content-banner {
         margin-left: 0px
     }
-
     #college-content-tab {
         margin-right: 0px;
         padding: 0px
     }
-
     .flex-holder4 img {
         width: 60%;
     }
@@ -1070,10 +993,10 @@ svg {
 #college-content-tab h2 {
     margin-top: 20px;
     margin-bottom: 10px;
-   // font-size: 24px !important;
+    // font-size: 24px !important;
     line-height: 1.3;
     color: rgb(54, 54, 54);
-  //  font-weight: 600;
+    //  font-weight: 600;
 }
 
 @media only screen and (min-width:450px) and (max-width:600px) {
@@ -1085,8 +1008,7 @@ svg {
         color: rgb(54, 54, 54);
         font-weight: 600;
     }
-    }
-
+}
 
 #college-content-tab p,
 #college-content-tab ul>li {
@@ -1110,11 +1032,9 @@ svg {
     .btn-orange {
         padding: 5px 10px !important;
     }
-
     .other-courses .card-header {
         padding: 5px;
     }
-    
 }
 
 .custom-padding-right {
@@ -1151,7 +1071,6 @@ svg {
     height: auto;
     width: 100%;
 }
-
 
 .full-width-tabs {
     padding-top: 4px;
@@ -1259,6 +1178,7 @@ svg {
     padding-top: 2px;
 }
 
+
 /* start=> */
 
 nav ul li {
@@ -1299,6 +1219,7 @@ nav ul li {
     padding-bottom: 10px;
 }
 
+
 /* .faq-page-header{
       padding-top: 5%;
  } */
@@ -1337,6 +1258,8 @@ nav ul li {
     font-size: 16px;
     padding-top: 15%;
 }
+
+
 /* .faq-page-breadcrumb a.service-link{
  width:15%; 
 }  */
@@ -1392,35 +1315,31 @@ nav ul li {
     .faq-page-breadcrumb {
         margin-left: 0% !important;
     }
-
     .faq-page-breadcrumb a {
         float: none
     }
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 10%;
     }
-
-    #titles{
+    #titles {
         padding-top: 4px;
         margin-bottom: -4%;
     }
-    #title{
+    #title {
         font-size: 220%;
     }
-
-    .course-content-div{
+    .course-content-div {
         margin-right: 0;
         margin-left: 0;
         padding-top: 10px;
     }
 }
 
-@media only screen and (max-width:350px){
-     #talk{
+@media only screen and (max-width:350px) {
+    #talk {
         width: 110%;
-     }
+    }
 }
 
 @media only screen and (max-width:1024px) and (min-width:768px) {
@@ -1428,27 +1347,33 @@ nav ul li {
         padding-top: 30px !important;
         font-size: 22px !important;
     }
-
     .need-assi-img {
         width: 70%;
         display: block;
         margin: 0px auto
     }
-
     .faq-page-breadcrumb a {
         float: none;
     }
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 8%;
     }
-
     .faq-page-breadcrumb {
         margin-left: 0px !important
     }
 }
 
+@media only screen and (min-width:992px) {
+    .btn-orange-nav {
+        margin-right: 20px;
+        display: block;
+    }
+    .btn-white-nav {
+        margin: 0 9px 0 0;
+        display: block;
+    }
+}
 
 .limitTextHeight {
     height: auto;
@@ -1569,6 +1494,7 @@ nav ul li {
     display: block !important;
 }
 
+
 /* <=end */
 
 .container-box {
@@ -1635,7 +1561,6 @@ svg {
     .faq-page-breadcrumb a.home[_ngcontent-kol-c2] {
         width: 3%;
     }
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 4%;
@@ -1643,24 +1568,26 @@ svg {
 }
 
 @media only screen and (min-width:450px) and (max-width:600px) {
-
     .faq-page-breadcrumb a.home,
     .faq-page-breadcrumb a.arrow {
         width: 6%;
     }
 }
-@media only screen and (min-width:351px) and (max-width:455px){
-    #talk{
+
+@media only screen and (min-width:351px) and (max-width:455px) {
+    #talk {
         width: 108%;
     }
 }
-@media only screen and (min-width:456px) and (max-width:600px){
-    #talk{
+
+@media only screen and (min-width:456px) and (max-width:600px) {
+    #talk {
         width: 106%;
     }
 }
-@media only screen and (min-width:456px) and (max-width:991px){
-    #talk{
+
+@media only screen and (min-width:456px) and (max-width:991px) {
+    #talk {
         width: 104%;
     }
 }
@@ -1675,29 +1602,23 @@ svg {
         width: 100%;
         margin-left: 0;
     }
-
     .talk-to-expert {
         margin: 0 15px 15px;
     }
-
     .other-courses {
         margin: 0 0 15px;
     }
-
     .college-name {
         justify-content: center;
         align-items: center;
     }
-
     .info-div {
         flex-direction: column;
     }
-
     .add-info {
         justify-content: center;
         white-space: nowrap;
     }
-
     #college-content-tab {
         margin-right: -15px;
     }
@@ -1705,6 +1626,7 @@ svg {
 
 
 /*popup form css*/
+
 .form {
     background-color: #d7d4d4;
     padding-bottom: 10px;
@@ -2091,7 +2013,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {
@@ -2179,13 +2101,14 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-
     .modal-header {
         flex-direction: column;
     }
-
     .modal-title {
         padding-left: 40px;
+    }
+    #phone1 {
+        margin-top: -4%;
     }
 }
 
@@ -2193,7 +2116,6 @@ input.form-control:focus {
     .submit {
         font-size: 10px;
     }
-
     .form {
         width: 93%;
         margin-left: 4%;
@@ -2344,7 +2266,6 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-
     .form {
         width: 95%;
         margin-left: 3%;
@@ -2521,7 +2442,7 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-    .container #thankyouform{
+    .container #thankyouform {
         align-items: center;
         margin-left: 0%;
     }
@@ -2605,7 +2526,7 @@ input.form-control:focus {
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
+    height: 32px;
 }
 
 .score-input {
@@ -2693,15 +2614,12 @@ input.form-control:focus {
     .submit {
         margin-top: 9px;
     }
-
     .modal-header {
         flex-direction: column;
     }
-
     .modal-title {
         padding-left: 40px;
     }
-
     .container {
         display: -webkit-box;
         display: -moz-box;
@@ -2720,11 +2638,9 @@ input.form-control:focus {
         -webkit-align-items: flex-start;
         align-items: center;
     }
-
     .container #hide {
         display: none;
     }
-
     .container .col-lg-8 {
         -webkit-box-ordinal-group: 1;
         -moz-box-ordinal-group: 1;
@@ -2732,23 +2648,18 @@ input.form-control:focus {
         -webkit-order: 1;
         order: 1;
     }
-
     #phone {
         margin-bottom: 15px;
     }
-
-
     .modal-title {
         display: none;
     }
-
     .sub-title {
         font-size: 10px;
     }
-    .form{
+    .form {
         margin-top: 25%;
     }
-
 }
 
 @media all and (min-width: 700px) and (max-width: 992px) {
@@ -2757,8 +2668,7 @@ input.form-control:focus {
     }
 }
 
-
- h3 {
+h3 {
     margin-top: 20px !important;
     margin-bottom: 10px !important;
     font-size: 18px !important;
@@ -2768,7 +2678,7 @@ input.form-control:focus {
 }
 
 @media only screen and (min-width:450px) and (max-width:600px) {
-     h3 {
+    h3 {
         margin-top: 20px;
         margin-bottom: 10px;
         font-size: 18px !important;
@@ -2776,13 +2686,12 @@ input.form-control:focus {
         color: rgb(54, 54, 54);
         font-weight: 700;
     }
-    }
+}
 
-    // h3 {
-    //     font-size: 20px;
-    //     font-weight: 600;
-    // }
-
+// h3 {
+//     font-size: 20px;
+//     font-weight: 600;
+// }
 input[type=number]::-webkit-outer-spin-button,
 input[type=number]::-webkit-inner-spin-button {
     -webkit-appearance: none;
@@ -2797,215 +2706,189 @@ input[type=number] {
 .form2 {
     background-color: #d7d4d4;
     padding-bottom: 10px;
-  }
-  .center {
+}
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-  }
+}
 
-  .form-input2 {
+.form-input2 {
     font-size: 12px;
-  }
-  
-  
-  #thankyouform2 {
+}
+
+#thankyouform2 {
     margin-left: 0%;
     margin-right: -55%;
     padding: 50px;
     margin-top: 1.5%;
     --border-size: 3px;
     --border-angle: 0turn;
-  
-    background-image: conic-gradient(from var(--border-angle),
-        rgb(238, 233, 243),
-        rgb(232, 232, 240) 50%,
-        rgb(243, 241, 245)),
-      conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
-    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
-      cover;
+    background-image: conic-gradient(from var(--border-angle), rgb(238, 233, 243), rgb(232, 232, 240) 50%, rgb(243, 241, 245)), conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)), cover;
     background-position: center center;
     background-repeat: no-repeat;
-  
     animation: bg-spin 3s linear infinite;
-  
     @keyframes bg-spin {
-      to {
-        --border-angle: 1turn;
-      }
+        to {
+            --border-angle: 1turn;
+        }
     }
-  
     &:hover {
-      animation-play-state: paused;
+        animation-play-state: paused;
     }
-  }
-  
-  @property --border-angle {
+}
+
+@property --border-angle {
     syntax: "<angle>";
     inherits: true;
     initial-value: 0turn;
-  
-  }
-  
-  svg {
+}
+
+svg {
     color: green;
-  }
-  
-  .form-card2 {
+}
+
+.form-card2 {
     padding: 27px;
     line-height: 97%;
     margin-left: -5%;
     margin-right: -5%;
-
     background-color: white;
     padding: 20px;
     line-height: 97%;
     margin-top: 1.5%;
     --border-size: 3px;
     --border-angle: 0turn;
-  
-    background-image: conic-gradient(from var(--border-angle),
-        rgb(238, 233, 243),
-        rgb(232, 232, 240) 50%,
-        rgb(243, 241, 245)),
-      conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
-    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)),
-      cover;
+    background-image: conic-gradient(from var(--border-angle), rgb(238, 233, 243), rgb(232, 232, 240) 50%, rgb(243, 241, 245)), conic-gradient(from var(--border-angle), transparent 20%, #08f, #f03);
+    background-size: calc(100% - (var(--border-size) * 2)) calc(100% - (var(--border-size) * 2)), cover;
     background-position: center center;
     background-repeat: no-repeat;
-  
     animation: bg-spin 3s linear infinite;
-  
     @keyframes bg-spin {
-      to {
-        --border-angle: 1turn;
-      }
+        to {
+            --border-angle: 1turn;
+        }
     }
-  
     &:hover {
-      animation-play-state: paused;
+        animation-play-state: paused;
     }
-  }
-  
-  @property --border-angle {
+}
+
+@property --border-angle {
     syntax: "<angle>";
     inherits: true;
     initial-value: 0turn;
-  }
-  
-  .form-head2 {
+}
+
+.form-head2 {
     color: #0b4292;
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
     font-weight: 700;
-  }
-  
-  .sub-title2 {
+}
+
+.sub-title2 {
     font-weight: 400;
-  }
-  
-  .form-div2 {
+}
+
+.form-div2 {
     margin-top: 15px;
-  }
-  
-  .form-input2 {
+}
+
+.form-input2 {
     border-left: none !important;
     border-right: 1px solid #8c8d91 !important;
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-  }
-  
-  input.form-control:focus {
+}
+
+input.form-control:focus {
     box-shadow: inset 0 -1px 0 #ddd;
-  }
-  
-  .icon2 {
+}
+
+.icon2 {
     border-right: none !important;
     border-top: 1px solid #8c8d91 !important;
     border-left: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-  }
-  
-  .terms2 {
+}
+
+.terms2 {
     font-size: 10px;
     margin-top: 10px;
     font-family: "Montserrat", sans-serif;
-  }
-  
-  .submit2 {
+}
+
+.submit2 {
     //margin-top: 40px;
     background: #ffae47;
     color: white;
     font-weight: bold;
     font-family: "Montserrat", sans-serif;
-  }
-  
-  .submit2:hover {
+}
+
+.submit2:hover {
     //margin-top: -5px;
     background: #ffae47;
     color: white;
     font-weight: bold;
-  }
-  .img-size {
+}
+
+.img-size {
     height: 50px;
     width: 45px;
-  }
- 
-  
-  .validation2 {
+}
+
+.validation2 {
     color: red;
     font-size: 10px;
-  }
-  
-  @media all and (max-width: 600px) {
+}
+
+@media all and (max-width: 600px) {
     .submit2 {
-      margin-top: 9px;
+        margin-top: 9px;
     }
-  
     #thankyouform2 {
         align-items: center;
         margin-left: 0%;
-      }
-    
-      .form2 {
-        margin-top: 0%;
-      }
-    
-    
-    
-    
-  
-  }
-  
-  @media all and (min-width: 700px) and (max-width: 992px) {
-    .submit2 {
-      font-size: 10px;
     }
-  }
-  
-  .form2 {
+    .form2 {
+        margin-top: 0%;
+    }
+}
+
+@media all and (min-width: 700px) and (max-width: 992px) {
+    .submit2 {
+        font-size: 10px;
+    }
+}
+
+.form2 {
     background-color: #d7d4d4;
     padding-bottom: 10px;
-  }
+}
 
-  .form-input {
+.form-input {
     font-size: 12px;
-  }
-  
-  .center {
+}
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-  }
-  
-  .flip2 {
+}
+
+.flip2 {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
-  }
+}
+
 //   .form-card {
 //     background-color: white;
 //     padding: 20px;
@@ -3017,85 +2900,77 @@ input[type=number] {
 //     // margin-left: -56px;
 //     // margin-right: -109px;
 //   }
-  
-  .form-head2 {
+.form-head2 {
     color: #0b4292;
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
     font-weight: 700;
-  }
-  
-  
-  
-  .form-div2 {
+}
+
+.form-div2 {
     margin-top: 8px;
-  }
-  
-  
-  input.form-control:focus {
+}
+
+input.form-control:focus {
     box-shadow: inset 0 -1px 0 #ddd;
-  }
-  
-  .icon2 {
+}
+
+.icon2 {
     border-right: none !important;
     border-top: 1px solid 8c8d91 !important;
     border-left: 1px solid 8c8d91 !important;
     border-bottom: 1px solid 8c8d91 !important;
     border-radius: 0% !important;
-  }
-  
- 
-  
-  .submit2 {
-   // margin-top: 40px;
+}
+
+.submit2 {
+    // margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
     font-family: "Montserrat", sans-serif;
-  }
-  
-  .submit2:hover {
+}
+
+.submit2:hover {
     //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
-  }
-  
-  
-  @media all and (max-width: 600px) {
+}
+
+@media all and (max-width: 600px) {
     .submit2 {
-      margin-top: 9px;
+        margin-top: 9px;
     }
-    .form-card2{
+    .form-card2 {
         margin-left: 0%;
         margin-right: 0%;
     }
-  }
-  
-  @media all and (min-width: 700px) and (max-width: 992px) {
+}
+
+@media all and (min-width: 700px) and (max-width: 992px) {
     .submit2 {
-      font-size: 10px;
+        font-size: 10px;
     }
-  }
-  
-  .form2 {
+}
+
+.form2 {
     background-color: #d7d4d4;
     padding-bottom: 10px;
-  }
-  
-  .center {
+}
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
-  }
-  
-  .flip2 {
+}
+
+.flip2 {
     -webkit-transform: scaleX(-1);
     transform: scaleX(-1);
-  }
-  
-  
+}
+
 //   .form-card {
 //     background-color: white;
 //     padding: 20px;
@@ -3107,119 +2982,102 @@ input[type=number] {
 //     // margin-left: -56px;
 //     // margin-right: -109px;
 //   }
-  
-  .form-head2 {
+.form-head2 {
     color: #0b4292;
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
     font-weight: 700;
-  }
-  
-  
-  
-  .form-div2 {
+}
+
+.form-div2 {
     margin-top: 15px;
-  }
-  
- 
-  .form-input2 {
+}
+
+.form-input2 {
     border-left: none !important;
     border-right: 1px solid #8c8d91 !important;
     border-top: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-    height: 30px;
-  }
-  
-  input.form-control:focus {
+    height: 32px;
+}
+
+input.form-control:focus {
     box-shadow: inset 0 -1px 0 #ddd;
-  }
-  
-  .icon2 {
+}
+
+.icon2 {
     border-right: none !important;
     border-top: 1px solid #8c8d91 !important;
     border-left: 1px solid #8c8d91 !important;
     border-bottom: 1px solid #8c8d91 !important;
     border-radius: 0% !important;
-  }
-  
- 
-  
-  .submit2 {
+}
+
+.submit2 {
     //margin-top: 40px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
     font-family: "Montserrat", sans-serif;
-  }
-  
-  
-  
-  .submit2:hover {
+}
+
+.submit2:hover {
     //margin-top: -5px;
     background: #ffae47;
     color: white;
     // font-weight: bold;
-  }
-  
-  
-  .validation2 {
+}
+
+.validation2 {
     color: red;
     font-size: 10px;
-  }
-  
-  @media all and (max-width: 600px) {
+}
+
+@media all and (max-width: 600px) {
     .submit2 {
-      margin-top: 9px;
+        margin-top: 9px;
     }
-  
-    .col-lg-8{
-      margin-left: 0%;
+    .col-lg-8 {
+        margin-left: 0%;
     }
-    
-  
-//    #row{
-//     margin-left: 10px;
-//     margin-right: 10px;
-//    }
-  
+    //    #row{
+    //     margin-left: 10px;
+    //     margin-right: 10px;
+    //    }
     #phone {
-      margin-bottom: 15px;
+        margin-bottom: 15px;
     }
-  
-  
     .modal-title {
-      display: none;
+        display: none;
     }
-  
     .sub-title {
-      font-size: 10px;
+        font-size: 10px;
     }
-  
-  }
-  @media all and (max-width: 768px) {
-    .col-lg-8{
-      margin-left: 0%;
+}
+
+@media all and (max-width: 768px) {
+    .col-lg-8 {
+        margin-left: 0%;
     }
-  }
-  
-  @media all and (min-width: 700px) and (max-width: 992px) {
+}
+
+@media all and (min-width: 700px) and (max-width: 992px) {
     .submit2 {
-      font-size: 10px;
+        font-size: 10px;
     }
-  }
-  
-  input[type=number]::-webkit-outer-spin-button,
-  input[type=number]::-webkit-inner-spin-button {
+}
+
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0;
-  }
-  
-  input[type=number] {
-    -moz-appearance: textfield;
-  }
+}
 
-  #form-div2{
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+#form-div2 {
     margin-left: 5%;
-  }
-  
+}
