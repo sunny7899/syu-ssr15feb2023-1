@@ -1,7 +1,7 @@
 .blog-banner{
     height:40vh ;
-   box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
-   background-size:100% 100%;
+    box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+    background-size:100% 100%;
     background-image:  url('../../assets/img/Blog_Main_Icons/Image/banner.png') ; 
     background-repeat: no-repeat;
 }
@@ -71,10 +71,8 @@
     background-color: #fff;
     margin-top:10px;
     margin-bottom:10px;
-    margin-left: 15px;
-    margin-right: -27px;
     border-radius: 10px;
-    padding: 3% 2%;
+    padding: 5% 0;
 }
 .blog-first-img {
     width: 80%;
@@ -131,19 +129,19 @@
     cursor: pointer;
 }
 .blog-img{
-    width: 302px;
-    height: 154px;
-     background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding: 10px;
+    //width: 302px;
+    // height: 154px;
+    //  background-position: center;
+    // background-size: cover;
+    // background-repeat: no-repeat;
+    // padding: 10px;
     margin-bottom: 10px;
-    cursor: pointer;
+    //cursor: pointer;
 }
 .blog-card{
-     margin-right: 10%;
+    // margin-right: 10%;
      border:none;
-     width: 292px
+     //width: 292px
 }
 .flex-holder{
     display: flex;
@@ -208,19 +206,21 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
-.container-box div img{
-    width: 100%;
-}
+// .container-box div img{
+//     width: 100%;
+// }
 .faq{
     background-color: #d7d4d4;
     padding-bottom: 10px;
 }
 .faq-banner{
     padding:5%;
-   box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
-   background-size:100% 100%;
+    box-shadow: inset 0 0 0 2000px rgb(88 147 235 / 6%);
+    background-size:100% 100%;
     background-image: linear-gradient(to right, rgba(40, 185, 229, 0.8), #33539d); 
     background-repeat: no-repeat;
 }
